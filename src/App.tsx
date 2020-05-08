@@ -1,11 +1,18 @@
 import React from 'react';
+import Container from 'react-bootstrap/Container';
+import Topnav from './components/Topnav';
+import Table from './components/Table';
+
 import './App.css';
 
-function App() {
+function App () {
   return (
-    <div className="App">
-      <h1>Einakter</h1>
-    </div>
+    <>
+      <Topnav/>
+      <Container fluid>
+        <Table/>
+      </Container>
+    </>
   );
 }
 
