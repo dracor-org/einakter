@@ -1,131 +1,56 @@
 ---
-slug: heyne-die-beiden-billets
+slug: anonym-die-gebesserten
 author:
-  name: Heyne, Christian Leberecht
-  pseudonym: Anton-Wall
-  wikidata: Q23710566
-title: Die beiden Billets
-subtitle: Ein Lustspiel in einem Akt
-numberOfScenes: 11
-printed: 1782
-editions:
-  - title: "Zweyte Ausgabe. Leipzig: Dyk 1790"
-    url: https://books.google.com/books?id=tg-7CIIVMccC&printsec=frontcover
-  - title: "Wien: Wallishausser 1802"
-    url: https://books.google.com/books?id=WHYyAQAAMAAJ&printsec=frontcover
-  - title: "Wien: Wallishausser 1802"
-    url: https://books.google.com/books?id=zYWkPpJUej0C&printsec=frontcover
+  pseudonym: Anonym
+title: Die Gebesserten, oder Ein Abend in Spaa
+subtitle: Lustspiel in 1 Akt
+premiered: 1818-04-16
 comment: >
-  Nach dem französischen Einakter "Les Deux Billets" von Jean-Pierre Claris de
-  Florian.
-ids:
-  dracor: ger000482
-  wikidata: Q79349104
-cast:
-  - name: Gürge
-    gender: M
-  - name: Schnapps
-    gender: M
-  - name: Rösgen
-    gender: M
+  Erstaufführung in Mannheim (vgl. Tagebuch der deutschen Bühnen, Jahrgang 1819,
+  No. I. Januar.
+  [S. 6](https://books.google.com/books?id=D6RA0kXmcasC&pg=PA6)). –
+  Handschriftliches Manuskript in der Wissenschaftlichen Stadtbibliothek
+  Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters.
+  Göppingen: Kümmerle 1973. S. 325).
 ---
-slug: kotzebue-der-freimaurer
+slug: beer-der-paria
 author:
-  name: Kotzebue, August von
-  wikidata: Q57242
-title: Der Freimaurer
-subtitle: Lustspiel in Einem Act
-numberOfScenes: 10
-printed: 1818
-premiered: 1817
+  name: Beer, Michael
+  wikidata: Q107287
+title: Der Paria
+subtitle: Trauerspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1826
+premiered: 1823-12-22
 editions:
-  - title: "Leipzig: Kummer 1818"
-    url: https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11044930.html?pageNo=55
-comment: Vgl. "Kotzebues Dramen. Ein Lexikon", S. 76f.
-keywords:
-  - Freimaurer
-ids:
-  dracor: ger000487
-  wikidata: Q89212706
-cast:
-  - name: Karoline
-    gender: F
-  - name: Graf von Hecht
-    gender: M
-  - name: Hans
-    gender: M
-  - name: Baron
-    gender: M
----
-slug: goethe-der-buergergeneral
-author:
-  name: Goethe, Johann Wolfgang von
-  wikidata: Q5879
-title: Der Bürgergeneral
-subtitle: Ein Lustspiel in einem Aufzuge
-numberOfScenes: 14
-created: 1793
-printed: 1793
-premiered: 1793-05-02
-editions:
-  - title: "Berlin: Unger 1793"
-    url: https://books.google.com/books?id=x33X7w9ZrFAC&printsec=frontcover
-comment: >
-  Zweite Fortsetzung von ["Die beiden Billets"](heyne-die-beiden-billets).
-ids:
-  dracor: ger000106
-  wikidata: Q1192735
-cast:
-  - name: Görge
-    gender: M
-  - name: Röse
-    gender: F
-  - name: Edelmann
-    gender: M
-  - name: Märten
-    gender: M
-  - name: Schnaps
-    gender: M
-  - name: Richter
-    gender: M
-  - name: Ein Bauer
-    gender: M
----
-slug: lessing-die-juden
-author:
-  name: Lessing, Gotthold Ephraim
-  wikidata: Q34628
-title: Die Juden
-subtitle: Ein Lustspiel in einem Aufzuge
-numberOfScenes: 23
-created: 1749
-printed: 1754
-premiered: 1749
-editions:
-  - title: "Schriften. Vierter Theil. Berlin: Voß 1754"
-    url: https://books.google.com/books?id=rLg6AAAAcAAJ&pg=PA225
-  - title: "Carlsruhe: Schmieder 1777"
-    url: https://books.google.com/books?id=SzBgAAAAcAAJ&pg=PA157
+  - title: "Stuttgart und Tübingen: Cotta 1829"
+    url: https://books.google.com/books?id=2owuAAAAYAAJ&printsec=frontcover
 keywords:
   - Judentum
 ids:
-  dracor: ger000222
-  wikidata: Q1213679
+  dracor: ger000455
+  wikidata: Q52791146
 cast:
-  - name: Martin Krumm
-    gender: M
-  - name: Michel Stich
-    gender: M
-  - name: Der Reisende
-    gender: M
-  - name: Christoph
-    gender: M
-  - name: Das Fräulein
+  - name: Maja
     gender: F
-  - name: Der Baron
+  - name: Gadhi
     gender: M
-  - name: Lisette
-    gender: F
+  - name: Stimmen von außen (1)
+    gender: U
+  - name: Erster Indianer
+    gender: M
+  - name: Zweiter Indianer
+    gender: M
+  - name: Die Indianer
+    gender: U
+  - name: Benascar
+    gender: M
+  - name: Stimmen von außen (5)
+    gender: M
+  - name: Das Kind
+    gender: M
+  - name: Bramine
+    gender: M
 ---
 slug: bueschel-die-neue-messaline
 author:
@@ -204,90 +129,146 @@ cast:
   - name: Moses
     gender: M
 ---
-slug: platen-berengar
+slug: goethe-der-buergergeneral
 author:
-  name: Platen, August von
-  wikidata: Q62432
-title: Berengar
-subtitle: Comödie in einem Akt
-numberOfScenes:
-created: 1824
-printed: 1824
+  name: Goethe, Johann Wolfgang von
+  wikidata: Q5879
+title: Der Bürgergeneral
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 14
+created: 1793
+printed: 1793
+premiered: 1793-05-02
 editions:
-  - title: "Schauspiele. Erstes Bändchen. Erlangen: Heyder 1824"
-    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10116352_00183.html
-  - title: >
-      Gesammelte Werke in fünf Bänden. Dritter Band. Stuttgart und Tübingen:
-      Cotta 1847
-    url: https://books.google.com/books?id=HowyAQAAMAAJ&pg=PA111
-ids:
-  wikidata: Q93269748
-cast:
-  - name: Loredano
-    gender: M
-  - name: Flordelis
-    gender: F
-  - name: Dorine
-    gender: F
-  - name: Pandolf
-    gender: M
-  - name: Birbante
-    gender: M
-  - name: Guido
-    gender: M
----
-slug: beer-der-paria
-author:
-  name: Beer, Michael
-  wikidata: Q107287
-title: Der Paria
-subtitle: Trauerspiel in einem Aufzuge
-numberOfScenes: 13
-printed: 1826
-premiered: 1823-12-22
-editions:
-  - title: "Stuttgart und Tübingen: Cotta 1829"
-    url: https://books.google.com/books?id=2owuAAAAYAAJ&printsec=frontcover
-keywords:
-  - Judentum
-ids:
-  dracor: ger000455
-  wikidata: Q52791146
-cast:
-  - name: Maja
-    gender: F
-  - name: Gadhi
-    gender: M
-  - name: Stimmen von außen (1)
-    gender: U
-  - name: Erster Indianer
-    gender: M
-  - name: Zweiter Indianer
-    gender: M
-  - name: Die Indianer
-    gender: U
-  - name: Benascar
-    gender: M
-  - name: Stimmen von außen (5)
-    gender: M
-  - name: Das Kind
-    gender: M
-  - name: Bramine
-    gender: M
----
-slug: anonym-die-gebesserten
-author:
-  pseudonym: Anonym
-title: Die Gebesserten, oder Ein Abend in Spaa
-subtitle: Lustspiel in 1 Akt
-premiered: 1818-04-16
+  - title: "Berlin: Unger 1793"
+    url: https://books.google.com/books?id=x33X7w9ZrFAC&printsec=frontcover
 comment: >
-  Erstaufführung in Mannheim (vgl. Tagebuch der deutschen Bühnen, Jahrgang 1819,
-  No. I. Januar.
-  [S. 6](https://books.google.com/books?id=D6RA0kXmcasC&pg=PA6)). –
-  Handschriftliches Manuskript in der Wissenschaftlichen Stadtbibliothek
-  Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters.
-  Göppingen: Kümmerle 1973. S. 325).
+  Zweite Fortsetzung von ["Die beiden Billets"](heyne-die-beiden-billets).
+ids:
+  dracor: ger000106
+  wikidata: Q1192735
+cast:
+  - name: Görge
+    gender: M
+  - name: Röse
+    gender: F
+  - name: Edelmann
+    gender: M
+  - name: Märten
+    gender: M
+  - name: Schnaps
+    gender: M
+  - name: Richter
+    gender: M
+  - name: Ein Bauer
+    gender: M
+setting: >
+  Der Schauplatz ist vor Märtens Hause, wie in den vorigen Stücken.
+---
+slug: gottsched-der-witzling
+author:
+  name: Gottsched, Luise Adelgunde Victorie
+  wikidata: Q65863
+title: Der Witzling
+subtitle: Ein deutsches Nachspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1745
+editions:
+  - title: "Die Deutsche Schaubühne. Bd. 6. Leipzig: Breitkopf 1745, S. 509–551"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11089914_00529.html
+  - title: "Berlin: De Gruyter 1962, S. 7–38"
+    url: https://doi.org/10.1515/9783110828252-002
+  - title: "Stuttgart: Reclam 1986, S. 5–40"
+    url: https://books.google.com/books?id=U24aAAAAYAAJ&printsec=frontcover
+comment: >
+  "Herr Witzling" in der Erstausgabe, in der Ausgabe von 1750 dann "Der Witzling". Einziger Einakter der Autorin.
+keywords:
+  - Gelehrtensatire
+  - Moralsatire
+  - Literatursatire
+  - Literarische Szene in Leipzig
+ids:
+  dracor: ger000395
+  wikidata: Q55102908
+cast:
+  - name: Herr Reinhart
+    gender: M
+  - name: Jungfer Lottchen
+    gender: F
+  - name: Der junge Reinhart
+    gender: M
+  - name: Herr Vielwitz
+    gender: M
+  - name: Paul
+    gender: M
+  - name: Herr Sinnreich
+    gender: M
+  - name: Herr Jambus
+    gender: M
+setting: >
+  Der Schauplatz ist auf Jungfer Lottchens Zimmer. Die Handlung fängt gleich nach der Mittagsmahlzeit an, und endiget sich gegen 5 Uhr.
+---
+slug: heyne-die-beiden-billets
+author:
+  name: Heyne, Christian Leberecht
+  pseudonym: Anton-Wall
+  wikidata: Q23710566
+title: Die beiden Billets
+subtitle: Ein Lustspiel in einem Akt
+numberOfScenes: 11
+printed: 1782
+editions:
+  - title: "Zweyte Ausgabe. Leipzig: Dyk 1790"
+    url: https://books.google.com/books?id=tg-7CIIVMccC&printsec=frontcover
+  - title: "Wien: Wallishausser 1802"
+    url: https://books.google.com/books?id=WHYyAQAAMAAJ&printsec=frontcover
+  - title: "Wien: Wallishausser 1802"
+    url: https://books.google.com/books?id=zYWkPpJUej0C&printsec=frontcover
+comment: >
+  Nach dem französischen Einakter "Les Deux Billets" von Jean-Pierre Claris de
+  Florian.
+ids:
+  dracor: ger000482
+  wikidata: Q79349104
+cast:
+  - name: Gürge
+    gender: M
+  - name: Schnapps
+    gender: M
+  - name: Rösgen
+    gender: F
+setting: >
+  Die Szene ist auf einem freyen Plaze vor Rösgens Hause.
+---
+slug: kotzebue-der-freimaurer
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Freimaurer
+subtitle: Lustspiel in Einem Act
+numberOfScenes: 10
+printed: 1818
+premiered: 1817
+editions:
+  - title: "Leipzig: Kummer 1818"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11044930.html?pageNo=55
+comment: Vgl. "Kotzebues Dramen. Ein Lexikon", S. 76f.
+keywords:
+  - Freimaurer
+ids:
+  dracor: ger000487
+  wikidata: Q89212706
+cast:
+  - name: Karoline
+    gender: F
+  - name: Graf von Hecht
+    gender: M
+  - name: Hans
+    gender: M
+  - name: Baron
+    gender: M
+setting: >
+  Der Schauplatz ein Zimmer.
 ---
 slug: kotzebue-maedchenfreundschaft
 author:
@@ -321,3 +302,112 @@ cast:
     gender: M
   - name: Hopsa
     gender: M
+setting: >
+  Der Schauplatz ist ein Saal mit mehreren Thüren, im Hintergrunde ein Catheder, Stühle und Bänke für die Pensionaire.
+---
+slug: lessing-die-juden
+author:
+  name: Lessing, Gotthold Ephraim
+  wikidata: Q34628
+title: Die Juden
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 23
+created: 1749
+printed: 1754
+premiered: 1749
+editions:
+  - title: "Schriften. Vierter Theil. Berlin: Voß 1754"
+    url: https://books.google.com/books?id=rLg6AAAAcAAJ&pg=PA225
+  - title: "Carlsruhe: Schmieder 1777"
+    url: https://books.google.com/books?id=SzBgAAAAcAAJ&pg=PA157
+keywords:
+  - Judentum
+ids:
+  dracor: ger000222
+  wikidata: Q1213679
+cast:
+  - name: Martin Krumm
+    gender: M
+  - name: Michel Stich
+    gender: M
+  - name: Der Reisende
+    gender: M
+  - name: Christoph
+    gender: M
+  - name: Das Fräulein
+    gender: F
+  - name: Der Baron
+    gender: M
+  - name: Lisette
+    gender: F
+---
+slug: platen-berengar
+author:
+  name: Platen, August von
+  wikidata: Q62432
+title: Berengar
+subtitle: Comödie in einem Akt
+numberOfScenes:
+created: 1824
+printed: 1824
+editions:
+  - title: "Schauspiele. Erstes Bändchen. Erlangen: Heyder 1824"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10116352_00183.html
+  - title: >
+      Gesammelte Werke in fünf Bänden. Dritter Band. Stuttgart und Tübingen:
+      Cotta 1847
+    url: https://books.google.com/books?id=HowyAQAAMAAJ&pg=PA111
+ids:
+  wikidata: Q93269748
+cast:
+  - name: Loredano
+    gender: M
+  - name: Flordelis
+    gender: F
+  - name: Dorine
+    gender: F
+  - name: Pandolf
+    gender: M
+  - name: Birbante
+    gender: M
+  - name: Guido
+    gender: M
+---
+slug: schlegel-die-stumme-schoenheit
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Die stumme Schönheit
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 25
+printed: 1747
+editions:
+  - title: "Copenhagen: Rothe 1748"
+    url: http://purl.uni-rostock.de/rosdok/ppn864823010/phys_0033
+comment: "Im [13. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb013.html) der »Hamburgischen Dramaturgie«: »unstreitig unser bestes komisches Original, das in Versen geschrieben ist«. – Titel sollte ursprünglich »Die Bildsäule« lauten."
+keywords:
+  - Rolle der Frau
+  - Generationenkonflikt
+  - Stadt vs. Land
+  - Eheanbahnung
+ids:
+  wikidata: Q55998571
+  dracor: ger000328
+cast:
+  - name: Jacob
+    gender: M
+  - name: Cathrine
+    gender: F
+  - name: Richard
+    gender: M
+  - name: Jungwitz
+    gender: M
+  - name: Charlotte
+    gender: F
+  - name: Frau Praatgern
+    gender: F
+  - name: Leonore
+    gender: F
+  - name: Laconius
+    gender: M
+setting: "Der Schauplatz ist in der Frau Praatgern Hause."
