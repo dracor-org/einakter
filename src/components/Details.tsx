@@ -47,6 +47,14 @@ export default  function Details () {
       
       <Table>
         <tbody>
+          {comment && (
+            <tr>
+              <th>Comment</th>
+              <td>
+                <ReactMarkdown>{comment}</ReactMarkdown>
+              </td>
+            </tr>
+          )}
           <tr className="dates">
             <th>Dates</th>
             <td>
@@ -94,14 +102,6 @@ export default  function Details () {
                     </li>
                   ))}
                 </ul>
-              </td>
-            </tr>
-          )}
-          {comment && (
-            <tr>
-              <th>Comment</th>
-              <td>
-                <ReactMarkdown>{comment}</ReactMarkdown>
               </td>
             </tr>
           )}
