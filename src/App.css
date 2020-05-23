@@ -2,6 +2,27 @@
   text-align: center;
 }
 
+.details hgroup {
+  margin: 1em 0;
+}
+
+.details hgroup h1 {
+  margin-bottom: .3rem;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.1em;
+}
+
+h3 {
+  font-size: 1.1em;
+  font-weight: normal;
+}
+
 tr.dates > td > span {
   display: inline-block;
   padding-right: 1em;

@@ -35,22 +35,23 @@ export default  function Details () {
   } = play;
 
   return (
-    <div>
-      <h2>
-        {author.name}
-        {author.pseudonym && (<i> ({author.pseudonym})</i>)}
-        {author.wikidata && (
-          <small>
-            {' '}
-            <a href={`https://www.wikidata.org/wiki/${author.wikidata}`}>
-              {author.wikidata}
-            </a>
-          </small>
-        )}
-      </h2>
-      <h1>{title}</h1>
-      {subtitle && <h3>{subtitle}</h3>}
-      
+    <div className="details">
+      <hgroup>
+        <h2>
+          {author.name}
+          {author.pseudonym && (<i> ({author.pseudonym})</i>)}
+          {author.wikidata && (
+            <small>
+              {' '}
+              <a href={`https://www.wikidata.org/wiki/${author.wikidata}`}>
+                {author.wikidata}
+              </a>
+            </small>
+          )}
+        </h2>
+        <h1>{title}</h1>
+        {subtitle && <h3>{subtitle}</h3>}
+      </hgroup>
       <Table>
         <tbody>
           {comment && (
