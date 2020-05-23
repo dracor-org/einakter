@@ -21,6 +21,7 @@ export default  function Details () {
     comment,
     created,
     editions,
+    ids,
     keywords,
     numberOfScenes,
     premiered,
@@ -56,6 +57,17 @@ export default  function Details () {
             <th>Number of Scenes</th>
             <td>{numberOfScenes}</td>
           </tr>
+          {ids && (
+            <tr>
+              <th>Links</th>
+              <td>
+                <ul>
+                  {ids.dracor && <li>DraCor: <a href={`https://dracor.org/id/${ids.dracor}`}>{ids.dracor}</a></li>}
+                  {ids.wikidata && <li>Wikidata: <a href={`https://www.wikidata.org/wiki/${ids.wikidata}`}>{ids.wikidata}</a></li>}
+                </ul>
+              </td>
+            </tr>
+          )}
           {cast && (
             <tr>
               <th>Cast</th>
