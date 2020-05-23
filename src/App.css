@@ -7,6 +7,6 @@ tr.dates > td > span {
   padding-right: 1em;
 }
 
-td ul:last-child {
+td ul:last-child, td p:last-child {
   margin-bottom: 0;
 }
