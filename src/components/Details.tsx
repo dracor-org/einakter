@@ -1,5 +1,5 @@
-import React from 'react';
-import {useParams} from "react-router-dom";
+import React, {useEffect} from 'react';
+import {useLocation, useParams} from "react-router-dom";
 import {Table} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
 import Years from './Years';
@@ -7,7 +7,13 @@ import data from '../data.json';
 
 export default  function Details () {
   const { id } = useParams();
+  const { pathname } = useLocation();
+
   const play = data.find((p: any) => p.slug === id);
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
 
   if (!play) {
     return <strong>No such play</strong>;
