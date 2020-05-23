@@ -1,20 +1,8 @@
 import React from 'react';
 import BootstrapTable from 'react-bootstrap-table-next';
+import {Link} from 'react-router-dom';
+import {Play} from '../types';
 import data from '../data.json';
-
-interface Play {
-  title: string
-  subtitle?: string
-  author: {
-    name: string
-    pseudonym?: string
-    wikidata?: string
-  }
-  ids?: {
-    dracor?: string
-    wikidata?: string
-  }
-}
 
 function formatAuthor (_: string, play: Play) {
   const {name, pseudonym, wikidata: id} = play.author || {};
@@ -36,10 +24,10 @@ function formatAuthor (_: string, play: Play) {
 }
 
 function formatTitle (_: string, play: Play) {
-  const {title, subtitle, ids = {}} = play;
+  const {title, subtitle, slug = {}} = play;
   return (
     <span>
-      <strong>{title}</strong>
+      <Link to={`/${slug}`}>{title}</Link>
       {subtitle && <small><br/>{subtitle}</small>}
     </span>
   );
