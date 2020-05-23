@@ -46,7 +46,7 @@ export default  function Details () {
       
       <Table>
         <tbody>
-          <tr>
+          <tr className="dates">
             <th>Dates</th>
             <td>
               <Years written={created} premiere={premiered} print={printed}/>
