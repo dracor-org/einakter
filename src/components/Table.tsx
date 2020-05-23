@@ -6,7 +6,6 @@ import data from '../data.json';
 
 function formatAuthor (_: string, play: Play) {
   const {name, pseudonym, wikidata: id} = play.author || {};
-  console.log(_, play);
   return (
     <span>
       {name}
