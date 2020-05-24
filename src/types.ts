@@ -11,4 +11,9 @@ export interface Play {
     dracor?: string
     wikidata?: string
   }
+  cast?: {
+    name: string
+    gender: string
+  }[]
+  keywords: string[]
 }
