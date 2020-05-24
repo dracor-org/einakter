@@ -15,5 +15,6 @@ export interface Play {
     name: string
     gender: string
   }[]
-  keywords: string[]
+  setting?: string
+  keywords?: string[]
 }

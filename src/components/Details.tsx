@@ -32,6 +32,7 @@ export default  function Details () {
     numberOfScenes,
     premiered,
     printed,
+    setting,
   } = play;
 
   return (
@@ -54,6 +55,12 @@ export default  function Details () {
       </hgroup>
       <Table>
         <tbody>
+          {setting && (
+            <tr>
+              <th>Setting</th>
+              <td>{setting}</td>
+            </tr>
+          )}
           {comment && (
             <tr>
               <th>Comment</th>
