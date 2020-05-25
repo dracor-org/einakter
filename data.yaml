@@ -292,6 +292,42 @@ cast:
 setting: >
   Die Szene ist auf einem freyen Plaze vor Rösgens Hause.
 ---
+slug: iffland-der-magnetismus
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Der Magnetismus
+subtitle: Nachspiel in einem Aufzug
+numberOfScenes: 13
+printed: 1787
+editions:
+  - title: "Mannheim: Schwan und Götz 1787"
+    url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11090349-6
+  - title: "A. W. Ifflands dramatische Werke. Neunter Band. Leipzig: Göschen 1799"
+    url: https://books.google.com/books?id=f8pIAAAAcAAJ&hl=de&pg=RA2-PA1
+  - title: "Wien: Wallishausser 1800"
+    url: https://books.google.com/books?id=1T8Ou87DTtcC&printsec=frontcover
+keywords:
+  - Magnetismus
+  - Eheanbahnung
+ids:
+  wikidata: Q95500234
+cast:
+  - name: Hofrath Rosenstein
+    gender: M
+  - name: Lieutenant Linden
+    gender: M
+  - name: Konsistorial-Registrator Rendius
+    gender: M
+  - name: Kantor Sandbach
+    gender: M
+  - name: Karoline, dessen Tochter
+    gender: F
+  - name: Grundmann, ein reducierter Soldat, Lindens Aufwärter
+    gender: M
+  - name: Franz, Rosensteins Bedienter
+    gender: M
+---
 slug: kleist-der-zerbrochene-krug
 author:
   name: Kleist, Heinrich von
@@ -627,7 +663,7 @@ cast:
     gender: M
   - name: Wagemann
     gender: M
-  - name: Bäckerknecht 
+  - name: Bäckerknecht
     gender: M
 setting: >
   Die Scene ist in Berlin.
