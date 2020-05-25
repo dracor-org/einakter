@@ -13,6 +13,50 @@ comment: >
   Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters.
   Göppingen: Kümmerle 1973. S. 325).
 ---
+slug: anonym-verlobung-bei-kaiserslautern
+author:
+  pseudonym: Anonym
+title: Verlobung bei Kaiserslautern
+subtitle: Nachspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1795
+editions:
+  - title: "Weissenfels und Leipzig: Severin 1795"
+    url: https://books.google.com/books?id=LkJbAAAAcAAJ&printsec=frontcover
+comment: >
+  Bei Eke gefunden.
+cast:
+  - name: François du Bercheau
+    gender: M
+  - name: Toinon
+    gender: F
+  - name: Charlotte
+    gender: F
+  - name: Walter von Kronau
+    gender: M
+  - name: von Linkheim
+    gender: M
+  - name: la Soliere
+    gender: M
+  - name: Ein Kommissarius des Nationalkonvents
+    gender: M
+  - name: Zween Nationalgarden
+    gender: M
+  - name: Ein französischer Unterofficier
+    gender: M
+  - name: Eine Ordonnanz
+    gender: M
+  - name: Ein Soldat
+    gender: M
+  - name: Französische Soldaten
+    gender: M
+  - name: Preussische Husaren
+    gender: M
+  - name: Volk
+    gender: U
+setting: >
+  Der Schauplatz ist in einem französischen Grenzstädtchen ohnweit Kaiserslautern.
+---
 slug: beer-der-paria
 author:
   name: Beer, Michael
@@ -23,8 +67,12 @@ numberOfScenes: 13
 printed: 1826
 premiered: 1823-12-22
 editions:
+  - title: "Urania. Taschenbuch auf das Jahr 1826. Leipzig: Brockhaus 1826, S. 140–192"
+    url: https://books.google.com/books?id=1GY7AAAAcAAJ&pg=PA141
   - title: "Stuttgart und Tübingen: Cotta 1829"
     url: https://books.google.com/books?id=2owuAAAAYAAJ&printsec=frontcover
+  - title: "Sämmtliche Werke von Michael Beer. Leipzig: Brockhaus 1835, S. 233–284"
+    url: https://books.google.com/books?id=nFU6AAAAcAAJ&pg=PA233
 keywords:
   - Judentum
 ids:
@@ -51,6 +99,8 @@ cast:
     gender: M
   - name: Bramine
     gender: M
+setting: >
+  Hütte des Paria.
 ---
 slug: bueschel-die-neue-messaline
 author:
@@ -72,7 +122,7 @@ comment: >
 keywords:
   - Pornographie
 ids:
-  dracor: Q87986345
+  dracor: ger000483
   wikidata: Q87986345
 cast:
   - name: Bella
@@ -109,7 +159,7 @@ printed: 1819
 editions:
   - title: "Der Freimüthige für Deutschland. Berlin 1819"
     url: https://books.google.com/books?id=c1lEAAAAcAAJ&pg=PA519
-  - title: "Frische Judenkirschen. Meißen: Goedsche, Kaschau: Wigand 1827"
+  - title: "Frische Judenkirschen. Meißen: Goedsche; Kaschau: Wigand 1827, S. 67–98"
     url: https://books.google.com/books?id=h43Sm5gULfYC&pg=PA67
 comment: >
   Tendenziöse Judensatire eines "mediokren Schriftstellers" (Gunnar Och), der
@@ -178,7 +228,7 @@ editions:
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11089914_00529.html
   - title: "Berlin: De Gruyter 1962, S. 7–38"
     url: https://doi.org/10.1515/9783110828252-002
-  - title: "Stuttgart: Reclam 1986, S. 5–40"
+  - title: "Lustspiele der Aufklärung in einem Akt. Stuttgart: Reclam 1986, S. 5–40"
     url: https://books.google.com/books?id=U24aAAAAYAAJ&printsec=frontcover
 comment: >
   "Herr Witzling" in der Erstausgabe, in der Ausgabe von 1750 dann "Der
@@ -242,6 +292,94 @@ cast:
 setting: >
   Die Szene ist auf einem freyen Plaze vor Rösgens Hause.
 ---
+slug: kleist-der-zerbrochene-krug
+author:
+  name: Kleist, Heinrich von
+  wikidata: Q28494
+title: Der zerbrochne Krug
+subtitle: Ein Lustspiel
+numberOfScenes: 13
+created: 1806
+printed: 1811
+premiered: 1808-03-02
+editions:
+  - title: "Berlin: Realschulbuchhandlung 1811"
+    url: http://www.deutschestextarchiv.de/kleist_krug_1811
+comment: >
+  Von Goethe zum Mehrakter umgearbeitet. Zahlreiche Opernbearbeitungen und Verfilmungen.
+ids:
+  dracor: ger000363
+  wikidata: Q486602
+cast:
+  - name: Licht
+    gender: M
+  - name: Adam
+    gender: M
+  - name: Der Bediente
+    gender: M
+  - name: Erste Magd
+    gender: F
+  - name: Zweite Magd
+    gender: F
+  - name: Walter
+    gender: M
+  - name: Der Büttel
+    gender: M
+  - name: Frau Marthe
+    gender: F
+  - name: Veit
+    gender: M
+  - name: Ruprecht
+    gender: M
+  - name: Eve
+    gender: F
+  - name: Frau Brigitte
+    gender: F
+  - name: Mehrere
+    gender: U
+setting: >
+  Die Handlung spielt in einem niederländischen Dorfe bei Utrecht. – Scene: Die Gerichtsstube.
+---
+slug: kotzebue-der-alte-leibkutscher-peter-des-dritten
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der alte Leibkutscher Peter des Dritten
+subtitle: Eine wahre Anekdote
+numberOfScenes: 12
+printed: 1799
+premiered: 1797-02-10
+editions:
+  - title: "Leipzig: Kummer 1799"
+    url: https://books.google.com/books?id=RGZAAQAAMAAJ&printsec=frontcover
+  - title: "Grätz 1799"
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN810784416
+  - title: "Wien: Wallishausser 1799"
+    url: https://books.google.com/books?id=WgFsqMDq3IgC&printsec=frontcover
+  - title: "Wien: Mausberger 1830"
+    url: https://books.google.com/books?id=xlhZAAAAcAAJ&pg=PA31
+comment: Vgl. "Kotzebues Dramen. Ein Lexikon", S. 6–7
+keywords:
+  - Russland
+  - Paul I.
+  - Eheanbahnung
+  - Anekdote
+ids:
+  wikidata: Q95469560
+cast:
+  - name: Meister Leberecht, ein Tischler
+    gender: M
+  - name: Annchen, seine Tochter
+    gender: F
+  - name: Peter, sein Geselle
+    gender: M
+  - name: Hanns Dietrich, der alte Leibkutscher
+    gender: M
+  - name: Iwannschko, ein Shitmschick
+    gender: M
+setting: >
+  Der Schauplatz ist in Petersburg, in dem Stadttheil Wasili Ostrow, jenseits der Newa, vor dem Hause des Tischlers. Eine Bank unter einem Baum, und ein fester Tisch davor.
+---
 slug: kotzebue-der-freimaurer
 author:
   name: Kotzebue, August von
@@ -271,6 +409,39 @@ cast:
     gender: M
 setting: >
   Der Schauplatz ein Zimmer.
+---
+slug: kotzebue-die-abendstunde
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Abendstunde
+subtitle: Drama in einem Act
+numberOfScenes: 13
+printed: 1809
+premiered: 1812-06-11
+editions:
+  - title: "Riga: Hartmann 1809"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044921_00281.html
+  - title: "Wien: Klang; Leipzig: Kummer 1841"
+    url: https://books.google.com/books?id=zi164FxwCsAC&pg=PA127
+comment: Vgl. "Kotzebues Dramen. Ein Lexikon", S. 1f.
+keywords:
+  - Soldatenstück
+  - Krieg
+  - Vergewaltigung
+ids:
+  wikidata: Q95468391
+cast:
+  - name: Paster Bieder, ein Dorfprediger
+    gender: M
+  - name: Lottchen, seine Tochter
+    gender: F
+  - name: Clermont
+    gender: M
+  - name: Rouel, Befehlshaber der Maréchaussée
+    gender: M
+setting: >
+  Das Stück spielt zehn Jahre nach irgend einem verderblichen Kriege, etwa nach dem dreißigjährigen. Der Schauplatz ist ein deutsches Dorf an der Grenze. Linker Hand im Vorgrunde das Haus des Predigers. Rechter Hand, mehr im Hintergrunde, ein Todtengewölbe.
 ---
 slug: kotzebue-maedchenfreundschaft
 author:
@@ -319,9 +490,9 @@ created: 1749
 printed: 1754
 premiered: 1749
 editions:
-  - title: "Schriften. Vierter Theil. Berlin: Voß 1754"
+  - title: "Schriften. Vierter Theil. Berlin: Voß 1754, S. 225–312"
     url: https://books.google.com/books?id=rLg6AAAAcAAJ&pg=PA225
-  - title: "Carlsruhe: Schmieder 1777"
+  - title: "Carlsruhe: Schmieder 1777, S. 157–219"
     url: https://books.google.com/books?id=SzBgAAAAcAAJ&pg=PA157
 keywords:
   - Judentum
@@ -417,4 +588,46 @@ cast:
     gender: F
   - name: Laconius
     gender: M
-setting: "Der Schauplatz ist in der Frau Praatgern Hause."
+setting: >
+  Der Schauplatz ist in der Frau Praatgern Hause.
+---
+slug: tieck-die-theegesellschaft
+author:
+  name: Tieck, Ludwig
+  wikidata: Q57239
+title: Die Theegesellschaft
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 18
+printed: 1796
+editions:
+  - title: "Ludwig Tieck's Schriften. Zwölfter Band. Berlin: Reimer 1829, S. 355–420"
+    url: https://books.google.com/books?id=T6YyAAAAMAAJ&pg=PA355
+keywords:
+  - Hellseherei
+  - Literatur
+ids:
+  wikidata: Q94393683
+  dracor: ger000496
+cast:
+  - name: Werner/Wahrsagerin
+    gender: M
+  - name: Ehlert
+    gender: M
+  - name: Rothmann
+    gender: M
+  - name: Ahlfeld
+    gender: M
+  - name: Walther
+    gender: M
+  - name: Julie
+    gender: F
+  - name: Dornberg
+    gender: M
+  - name: Berger
+    gender: M
+  - name: Wagemann
+    gender: M
+  - name: Bäckerknecht 
+    gender: M
+setting: >
+  Die Scene ist in Berlin.
