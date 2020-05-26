@@ -627,6 +627,45 @@ cast:
 setting: >
   Der Schauplatz ist in der Frau Praatgern Hause.
 ---
+slug: speckner-darius
+author:
+  name: Speckner, Joseph Valentin Edler von
+  wikidata: Q95005281
+title: Darius
+subtitle: Ein Trauerspiel in einem Aufzuge
+numberOfScenes: 4
+printed: 1775
+premiered: 1774-09-19
+editions:
+  - title: "München: Thuille 1775"
+    url: https://books.google.com/books?id=JCRVAAAAcAAJ&printsec=frontcover
+  - title: "Augsburg: Stage 1777"
+    url: https://books.google.com/books?id=VodIAAAAcAAJ&printsec=frontcover
+comment: >
+  Lit.: [Dramenlexikon des 18. Jahrhunderts](https://de.wikipedia.org/wiki/Dramenlexikon_des_18._Jahrhunderts) (2001), S. 290.
+keywords:
+  - Darius III.
+  - Blankvers
+ids:
+  wikidata: Q95569070
+cast:
+  - name: Darius, König der Perser
+    gender: M
+  - name: Alexander, König der Macedonier
+    gender: M
+  - name: Sysigambis, Mutter des Darius
+    gender: F
+  - name: Ochus, des Darius Söhnchen
+    gender: M
+  - name: Polystrat, ein Macedonier
+    gender: M
+  - name: Mithracen, Perser
+    gender: M
+  - name: Orsill, Perser
+    gender: M
+  - name: Soldaten von dem Heere Alexanders
+    gender: M
+---
 slug: tieck-die-theegesellschaft
 author:
   name: Tieck, Ludwig
