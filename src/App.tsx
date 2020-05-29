@@ -4,6 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Topnav from './components/Topnav';
 import Table from './components/Table';
 import Details from './components/Details';
+import About from './components/About';
 import './icons';
 
 import './App.css';
@@ -18,7 +19,7 @@ function App () {
             <Table/>
           </Route>
           <Route path="/about">
-            <h1>About</h1>
+            <About/>
           </Route>
           <Route path="/:id">
             <Details/>

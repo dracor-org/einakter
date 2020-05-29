@@ -5,7 +5,7 @@ import ReactMarkdown from 'react-markdown';
 import Years from './Years';
 import data from '../data.json';
 
-export default  function Details () {
+export default function Details () {
   const { id } = useParams();
   const { pathname } = useLocation();
 
