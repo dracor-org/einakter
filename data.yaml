@@ -179,6 +179,36 @@ cast:
   - name: Moses
     gender: M
 ---
+slug: gleim-philotas
+author:
+  name: Gleim, Johann Wilhelm Ludwig
+  wikidata: Q64364
+title: Philotas
+subtitle: Ein Trauerspiel. Von dem Verfasser der preussischen Kriegeslieder vercificirt
+numberOfScenes: 8
+printed: 1760
+editions:
+  - title: "Sämtliche Schriften. Neue vermehrte Ausgabe. Dritter Theil. Amsterdam 1767, S. 103–136"
+    url: https://books.google.com/books?id=ld2EfxF812YC&pg=RA1-PA103
+comment: >
+  Versifizierung von Lessings ["Philotas"](lessing-philotas).
+keywords:
+  - Heroische Tragödie
+  - Blankvers
+ids:
+  wikidata: Q95720389
+cast:
+  - name: Aridäus, König
+    gender: M
+  - name: Strato, Feldherr des Aridäus
+    gender: M
+  - name: Philotas, gefangen
+    gender: M
+  - name: Parmenio, Soldat
+    gender: M
+setting: >
+  Die Scene, ein Zelt im Lager des Aridäus.
+---
 slug: goethe-der-buergergeneral
 author:
   name: Goethe, Johann Wolfgang von
@@ -550,6 +580,35 @@ cast:
     gender: M
   - name: Lisette
     gender: F
+---
+slug: lessing-philotas
+author:
+  name: Lessing, Gotthold Ephraim
+  wikidata: Q34628
+title: Philotas
+subtitle: Ein Trauerspiel
+numberOfScenes: 8
+printed: 1759
+premiered: 1774
+editions:
+  - title: "Gotthold Ephraim Lessing's sämmtliche Schriften. Auf's Neue durchgesehen und vermehrt. Zweiter Band. Leipzig: Göschen 1853, S. 225–312"
+    url: https://books.google.com/books?id=XUQ4AQAAIAAJ&pg=PA85
+keywords:
+  - Heroische Tragödie
+ids:
+  dracor: ger000194
+  wikidata: Q57173794
+cast:
+  - name: Aridäus, König
+    gender: M
+  - name: Strato, Feldherr des Aridäus
+    gender: M
+  - name: Philotas, gefangen
+    gender: M
+  - name: Parmenio, Soldat
+    gender: M
+setting: >
+  Die Szene ist ein Zelt in dem Lager des Aridäus.
 ---
 slug: platen-berengar
 author:
