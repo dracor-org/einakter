@@ -27,33 +27,37 @@ comment: >
   Bei Eke gefunden.
 cast:
   - name: François du Bercheau
-    gender: M
+    gender: m
   - name: Toinon
-    gender: F
+    gender: f
   - name: Charlotte
-    gender: F
+    gender: f
   - name: Walter von Kronau
-    gender: M
+    gender: m
   - name: von Linkheim
-    gender: M
+    gender: m
   - name: la Soliere
-    gender: M
+    gender: m
   - name: Ein Kommissarius des Nationalkonvents
-    gender: M
+    gender: m
   - name: Zween Nationalgarden
-    gender: M
+    isGroup: true
+    gender: m
   - name: Ein französischer Unterofficier
-    gender: M
+    gender: m
   - name: Eine Ordonnanz
-    gender: M
+    gender: m
   - name: Ein Soldat
-    gender: M
+    gender: m
   - name: Französische Soldaten
-    gender: M
+    isGroup: true
+    gender: m
   - name: Preussische Husaren
-    gender: M
+    isGroup: true
+    gender: m
   - name: Volk
-    gender: U
+    isGroup: true
+    gender: u
 setting: >
   Der Schauplatz ist in einem französischen Grenzstädtchen ohnweit Kaiserslautern.
 ---
@@ -80,25 +84,28 @@ ids:
   wikidata: Q52791146
 cast:
   - name: Maja
-    gender: F
+    gender: f
   - name: Gadhi
-    gender: M
+    gender: m
   - name: Stimmen von außen (1)
-    gender: U
+    isGroup: true
+    gender: u
   - name: Erster Indianer
-    gender: M
+    gender: m
   - name: Zweiter Indianer
-    gender: M
+    gender: m
   - name: Die Indianer
-    gender: U
+    isGroup: true
+    gender: u
   - name: Benascar
-    gender: M
+    gender: m
   - name: Stimmen von außen (5)
-    gender: M
+    isGroup: true
+    gender: u
   - name: Das Kind
-    gender: M
+    gender: m
   - name: Bramine
-    gender: M
+    gender: m
 setting: >
   Hütte des Paria.
 ---
@@ -126,27 +133,27 @@ ids:
   wikidata: Q87986345
 cast:
   - name: Bella
-    gender: F
+    gender: f
   - name: Messaline
-    gender: F
+    gender: f
   - name: Biribinker
-    gender: M
+    gender: m
   - name: Der Soldat (Vierte Scene)
-    gender: M
+    gender: m
   - name: Fitzaldo
-    gender: M
+    gender: m
   - name: Hyacinth
-    gender: M
+    gender: m
   - name: Baham
-    gender: M
+    gender: m
   - name: Der Soldat (Siebente Scene)
-    gender: M
+    gender: m
   - name: Cantareth
-    gender: M
+    gender: m
   - name: Erster Soldat
-    gender: M
+    gender: m
   - name: Zweyter Soldat
-    gender: M
+    gender: m
 ---
 slug: delpons-der-ahnherr
 author:
@@ -171,13 +178,13 @@ ids:
   wikidata: Q89888632
 cast:
   - name: Pfiff
-    gender: M
+    gender: m
   - name: Karl
-    gender: M
+    gender: m
   - name: Wilhelm
-    gender: M
+    gender: m
   - name: Moses
-    gender: M
+    gender: m
 ---
 slug: gleim-philotas
 author:
@@ -199,13 +206,13 @@ ids:
   wikidata: Q95720389
 cast:
   - name: Aridäus, König
-    gender: M
+    gender: m
   - name: Strato, Feldherr des Aridäus
-    gender: M
+    gender: m
   - name: Philotas, gefangen
-    gender: M
+    gender: m
   - name: Parmenio, Soldat
-    gender: M
+    gender: m
 setting: >
   Die Scene, ein Zelt im Lager des Aridäus.
 ---
@@ -229,19 +236,19 @@ ids:
   wikidata: Q1192735
 cast:
   - name: Görge
-    gender: M
+    gender: m
   - name: Röse
-    gender: F
+    gender: f
   - name: Edelmann
-    gender: M
+    gender: m
   - name: Märten
-    gender: M
+    gender: m
   - name: Schnaps
-    gender: M
+    gender: m
   - name: Richter
-    gender: M
+    gender: m
   - name: Ein Bauer
-    gender: M
+    gender: m
 setting: >
   Der Schauplatz ist vor Märtens Hause, wie in den vorigen Stücken.
 ---
@@ -273,19 +280,19 @@ ids:
   wikidata: Q55102908
 cast:
   - name: Herr Reinhart
-    gender: M
+    gender: m
   - name: Jungfer Lottchen
-    gender: F
+    gender: f
   - name: Der junge Reinhart
-    gender: M
+    gender: m
   - name: Herr Vielwitz
-    gender: M
+    gender: m
   - name: Paul
-    gender: M
+    gender: m
   - name: Herr Sinnreich
-    gender: M
+    gender: m
   - name: Herr Jambus
-    gender: M
+    gender: m
 setting: >
   Der Schauplatz ist auf Jungfer Lottchens Zimmer. Die Handlung fängt gleich
   nach der Mittagsmahlzeit an, und endiget sich gegen 5 Uhr.
@@ -314,11 +321,11 @@ ids:
   wikidata: Q79349104
 cast:
   - name: Gürge
-    gender: M
+    gender: m
   - name: Schnapps
-    gender: M
+    gender: m
   - name: Rösgen
-    gender: F
+    gender: f
 setting: >
   Die Szene ist auf einem freyen Plaze vor Rösgens Hause.
 ---
@@ -344,19 +351,19 @@ ids:
   wikidata: Q95500234
 cast:
   - name: Hofrath Rosenstein
-    gender: M
+    gender: m
   - name: Lieutenant Linden
-    gender: M
+    gender: m
   - name: Konsistorial-Registrator Rendius
-    gender: M
+    gender: m
   - name: Kantor Sandbach
-    gender: M
+    gender: m
   - name: Karoline, dessen Tochter
-    gender: F
+    gender: f
   - name: Grundmann, ein reducierter Soldat, Lindens Aufwärter
-    gender: M
+    gender: m
   - name: Franz, Rosensteins Bedienter
-    gender: M
+    gender: m
 ---
 slug: kleist-der-zerbrochene-krug
 author:
@@ -378,31 +385,32 @@ ids:
   wikidata: Q486602
 cast:
   - name: Licht
-    gender: M
+    gender: m
   - name: Adam
-    gender: M
+    gender: m
   - name: Der Bediente
-    gender: M
+    gender: m
   - name: Erste Magd
-    gender: F
+    gender: f
   - name: Zweite Magd
-    gender: F
+    gender: f
   - name: Walter
-    gender: M
+    gender: m
   - name: Der Büttel
-    gender: M
+    gender: m
   - name: Frau Marthe
-    gender: F
+    gender: f
   - name: Veit
-    gender: M
+    gender: m
   - name: Ruprecht
-    gender: M
+    gender: m
   - name: Eve
-    gender: F
+    gender: f
   - name: Frau Brigitte
-    gender: F
+    gender: f
   - name: Mehrere
-    gender: U
+    isGroup: true
+    gender: u
 setting: >
   Die Handlung spielt in einem niederländischen Dorfe bei Utrecht. – Scene: Die Gerichtsstube.
 ---
@@ -434,15 +442,15 @@ ids:
   wikidata: Q95469560
 cast:
   - name: Meister Leberecht, ein Tischler
-    gender: M
+    gender: m
   - name: Annchen, seine Tochter
-    gender: F
+    gender: f
   - name: Peter, sein Geselle
-    gender: M
+    gender: m
   - name: Hanns Dietrich, der alte Leibkutscher
-    gender: M
+    gender: m
   - name: Iwannschko, ein Shitmschick
-    gender: M
+    gender: m
 setting: >
   Der Schauplatz ist in Petersburg, in dem Stadttheil Wasili Ostrow, jenseits der Newa, vor dem Hause des Tischlers. Eine Bank unter einem Baum, und ein fester Tisch davor.
 ---
@@ -466,13 +474,13 @@ ids:
   wikidata: Q89212706
 cast:
   - name: Karoline
-    gender: F
+    gender: f
   - name: Graf von Hecht
-    gender: M
+    gender: m
   - name: Hans
-    gender: M
+    gender: m
   - name: Baron
-    gender: M
+    gender: m
 setting: >
   Der Schauplatz ein Zimmer.
 ---
@@ -499,13 +507,13 @@ ids:
   wikidata: Q95468391
 cast:
   - name: Paster Bieder, ein Dorfprediger
-    gender: M
+    gender: m
   - name: Lottchen, seine Tochter
-    gender: F
+    gender: f
   - name: Clermont
-    gender: M
+    gender: m
   - name: Rouel, Befehlshaber der Maréchaussée
-    gender: M
+    gender: m
 setting: >
   Das Stück spielt zehn Jahre nach irgend einem verderblichen Kriege, etwa nach dem dreißigjährigen. Der Schauplatz ist ein deutsches Dorf an der Grenze. Linker Hand im Vorgrunde das Haus des Predigers. Rechter Hand, mehr im Hintergrunde, ein Todtengewölbe.
 ---
@@ -526,21 +534,22 @@ ids:
   wikidata: Q88636794
 cast:
   - name: Madam Braun
-    gender: F
+    gender: f
   - name: Lenore
-    gender: F
+    gender: f
   - name: Natalie
-    gender: F
+    gender: f
   - name: Wilhelmine
-    gender: F
+    gender: f
   - name: Alle Pensionairs
-    gender: F
+    isGroup: true
+    gender: f
   - name: Maulwurf
-    gender: M
+    gender: m
   - name: Rose
-    gender: M
+    gender: m
   - name: Hopsa
-    gender: M
+    gender: m
 setting: >
   Der Schauplatz ist ein Saal mit mehreren Thüren, im Hintergrunde ein Catheder,
   Stühle und Bänke für die Pensionaire.
@@ -567,19 +576,19 @@ ids:
   wikidata: Q1213679
 cast:
   - name: Martin Krumm
-    gender: M
+    gender: m
   - name: Michel Stich
-    gender: M
+    gender: m
   - name: Der Reisende
-    gender: M
+    gender: m
   - name: Christoph
-    gender: M
+    gender: m
   - name: Das Fräulein
-    gender: F
+    gender: f
   - name: Der Baron
-    gender: M
+    gender: m
   - name: Lisette
-    gender: F
+    gender: f
 ---
 slug: lessing-philotas
 author:
@@ -600,13 +609,46 @@ ids:
   wikidata: Q57173794
 cast:
   - name: Aridäus, König
-    gender: M
+    gender: m
   - name: Strato, Feldherr des Aridäus
-    gender: M
+    gender: m
   - name: Philotas, gefangen
-    gender: M
+    gender: m
   - name: Parmenio, Soldat
-    gender: M
+    gender: m
+setting: >
+  Die Szene ist ein Zelt in dem Lager des Aridäus.
+---
+slug: moeser-die-tugend-auf-der-schaubuehne
+author:
+  name: Möser, Justus
+  wikidata: Q65087
+title: Die Tugend auf der Schaubühne oder Harlekins Heirath
+subtitle: Ein Nachspiel in Einem Aufzuge
+numberOfScenes: 17
+created: 1763
+printed: 1798
+editions:
+  - title: "Berlin und Stettin: Nicolai 1798"
+    url: https://books.google.com/books?id=qLli80k3sTsC&printsec=frontcover
+ids:
+  dracor: ger000481
+  wikidata: Q84606039
+cast:
+  - name: Harlekin
+    gender: m
+  - name: Barthold
+    gender: m
+  - name: Kolombine
+    gender: f
+  - name: Scapin
+    gender: m
+  - name: Peter
+    gender: m
+  - name: Isabelle
+    gender: f
+  - name: Valer 
+    gender: m
 setting: >
   Die Szene ist ein Zelt in dem Lager des Aridäus.
 ---
@@ -616,7 +658,7 @@ author:
   wikidata: Q62432
 title: Berengar
 subtitle: Comödie in einem Akt
-numberOfScenes:
+numberOfScenes: 3
 created: 1824
 printed: 1824
 editions:
@@ -624,23 +666,30 @@ editions:
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10116352_00183.html
   - title: >
       Gesammelte Werke in fünf Bänden. Dritter Band. Stuttgart und Tübingen:
-      Cotta 1847
+      Cotta 1843, S. 125–154
+    url: https://books.google.com/books?id=ofE6AAAAcAAJ&pg=PA125
+  - title: >
+      Gesammelte Werke in fünf Bänden. Dritter Band. Stuttgart und Tübingen:
+      Cotta 1847, S. 111–137
     url: https://books.google.com/books?id=HowyAQAAMAAJ&pg=PA111
+comment: >
+  Drei Schauplatzwechsel: 1. Loredano's Schloß. – 2. Einsames Gehölz. – 3. Loredano's Schloß.
 ids:
+  dracor: ger000500
   wikidata: Q93269748
 cast:
   - name: Loredano
-    gender: M
+    gender: m
   - name: Flordelis
-    gender: F
+    gender: f
   - name: Dorine
-    gender: F
+    gender: f
   - name: Pandolf
-    gender: M
+    gender: m
   - name: Birbante
-    gender: M
+    gender: m
   - name: Guido
-    gender: M
+    gender: m
 ---
 slug: schlegel-die-stumme-schoenheit
 author:
@@ -668,21 +717,21 @@ ids:
   dracor: ger000328
 cast:
   - name: Jacob
-    gender: M
+    gender: m
   - name: Cathrine
-    gender: F
+    gender: f
   - name: Richard
-    gender: M
+    gender: m
   - name: Jungwitz
-    gender: M
+    gender: m
   - name: Charlotte
-    gender: F
+    gender: f
   - name: Frau Praatgern
-    gender: F
+    gender: f
   - name: Leonore
-    gender: F
+    gender: f
   - name: Laconius
-    gender: M
+    gender: m
 setting: >
   Der Schauplatz ist in der Frau Praatgern Hause.
 ---
@@ -709,21 +758,22 @@ ids:
   wikidata: Q95569070
 cast:
   - name: Darius, König der Perser
-    gender: M
+    gender: m
   - name: Alexander, König der Macedonier
-    gender: M
+    gender: m
   - name: Sysigambis, Mutter des Darius
-    gender: F
+    gender: f
   - name: Ochus, des Darius Söhnchen
-    gender: M
+    gender: m
   - name: Polystrat, ein Macedonier
-    gender: M
+    gender: m
   - name: Mithracen, Perser
-    gender: M
+    gender: m
   - name: Orsill, Perser
-    gender: M
+    gender: m
   - name: Soldaten von dem Heere Alexanders
-    gender: M
+    isGroup: true
+    gender: m
 ---
 slug: tieck-die-theegesellschaft
 author:
@@ -744,24 +794,24 @@ ids:
   dracor: ger000496
 cast:
   - name: Werner/Wahrsagerin
-    gender: M
+    gender: m
   - name: Ehlert
-    gender: M
+    gender: m
   - name: Rothmann
-    gender: M
+    gender: m
   - name: Ahlfeld
-    gender: M
+    gender: m
   - name: Walther
-    gender: M
+    gender: m
   - name: Julie
-    gender: F
+    gender: f
   - name: Dornberg
-    gender: M
+    gender: m
   - name: Berger
-    gender: M
+    gender: m
   - name: Wagemann
-    gender: M
+    gender: m
   - name: Bäckerknecht
-    gender: M
+    gender: m
 setting: >
   Die Scene ist in Berlin.
