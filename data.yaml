@@ -329,6 +329,48 @@ cast:
 setting: >
   Die Szene ist auf einem freyen Plaze vor Rösgens Hause.
 ---
+slug: droste-huelshoff-perdu
+author:
+  name: Droste-Hülshoff, Annette von
+  wikidata: Q57307
+title: "Perdu, oder: Dichter, Verleger und Blaustrümpfe"
+subtitle: Lustspiel in einem Act
+numberOfScenes: 14
+created: 1840
+printed: 1886
+premiered: 1939-11-05
+editions:
+  - title: "Gesammelte Werke. 4. Band (Die prosaischen Schriften und Jugendwerke). Münster und Paderborn: Schöningh 1886, S. 165–252"
+    url: https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/5241310
+  - title: "Sämtliche Werke in zwei Bänden. Band 1. München: Winkler 1973, S. 509–568"
+    url: http://www.zeno.org/nid/20004709950
+comment: >
+  In der Erstausgabe 1886 nur 13 Szenen?
+ids:
+  dracor: ger000077
+  wikidata: Q52893824
+cast:
+  - name: Speth
+    gender: m
+  - name: Frau Speth
+    gender: f
+  - name: Willibald
+    gender: m
+  - name: Ein Diener
+    gender: m
+  - name: Ida
+    gender: f
+  - name: Claudine Briesen
+    gender: f
+  - name: Frau von Austen
+    gender: f
+  - name: Sonderrath
+    gender: m
+  - name: Seybold
+    gender: m
+  - name: Frau von Thielen
+    gender: f
+---
 slug: iffland-der-magnetismus
 author:
   name: Iffland, August Wilhelm
@@ -647,7 +689,7 @@ cast:
     gender: m
   - name: Isabelle
     gender: f
-  - name: Valer 
+  - name: Valer
     gender: m
 setting: >
   Die Szene ist ein Zelt in dem Lager des Aridäus.
