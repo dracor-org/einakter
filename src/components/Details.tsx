@@ -2,9 +2,12 @@ import React, {useEffect} from 'react';
 import {useLocation, useParams} from "react-router-dom";
 import {Table} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Years from './Years';
 import {CastMember, Play} from '../types';
 import data from '../data.json';
+
+const groupIcon = <FontAwesomeIcon icon="users" size="sm" title="Group"/>;
 
 export default function Details () {
   const { id } = useParams();
@@ -100,6 +103,8 @@ export default function Details () {
                     <li key={c.name}>
                       {c.name}
                       {c.gender && <span> ({c.gender})</span>}
+                      {' '}
+                      {c.isGroup && groupIcon}
                     </li>
                   ))}
                 </ul>
