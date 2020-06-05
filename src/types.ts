@@ -1,20 +1,35 @@
-export interface Play {
+export interface CastMember {
+  name: string
+  gender: string
+  isGroup?: boolean
+}
+
+export interface Edition {
   title: string
-  subtitle?: string
-  slug: string
+  url?: string
+}
+
+export interface Play {
   author: {
-    name: string
+    name?: string
     pseudonym?: string
     wikidata?: string
   }
+  slug: string
+  title: string
+
+  cast?: CastMember[]
+  comment?: string
+  created?: number
+  editions?: Edition[]
   ids?: {
     dracor?: string
     wikidata?: string
   }
-  cast?: {
-    name: string
-    gender: string
-  }[]
-  setting?: string
   keywords?: string[]
+  numberOfScenes?: number
+  premiered?: string | number
+  printed?: number
+  setting?: string
+  subtitle?: string
 }

@@ -3,13 +3,14 @@ import {useLocation, useParams} from "react-router-dom";
 import {Table} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
 import Years from './Years';
+import {CastMember, Play} from '../types';
 import data from '../data.json';
 
 export default function Details () {
   const { id } = useParams();
   const { pathname } = useLocation();
 
-  const play = data.find((p: any) => p.slug === id);
+  const play: Play | undefined = data.find((p: Play) => p.slug === id);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -95,7 +96,7 @@ export default function Details () {
               <th>Cast</th>
               <td>
                 <ul>
-                  {cast.map(c => (
+                  {cast.map((c: CastMember) => (
                     <li key={c.name}>
                       {c.name}
                       {c.gender && <span> ({c.gender})</span>}
