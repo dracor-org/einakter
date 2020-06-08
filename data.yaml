@@ -23,8 +23,6 @@ printed: 1795
 editions:
   - title: "Weissenfels und Leipzig: Severin 1795"
     url: https://books.google.com/books?id=LkJbAAAAcAAJ&printsec=frontcover
-comment: >
-  Bei Eke gefunden.
 cast:
   - name: François du Bercheau
     gender: m
@@ -407,6 +405,31 @@ cast:
   - name: Franz, Rosensteins Bedienter
     gender: m
 ---
+slug: kl-der-kuss
+author:
+  name: Kl., F.
+title: Der Kuß
+subtitle: Ein Schäfer-Spiel in einem Aufzuge
+numberOfScenes: 6
+printed: 1753
+editions:
+  - title: "Jena: Marggraf 1753"
+    url: https://books.google.com/books?id=gZJTAAAAcAAJ&pg=PA5
+comment: >
+  Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 16 (1752–1753). Tübingen: Niemeyer 2002, S. 392–393.
+keywords:
+  - Schäferspiel
+  - Alexandriner
+cast:
+  - name: Damaren
+    gender: m
+  - name: Myrtill
+    gender: f
+  - name: Galathee
+    gender: f
+  - name: Daphne
+    gender: f
+---
 slug: kleist-der-zerbrochene-krug
 author:
   name: Kleist, Heinrich von
@@ -692,7 +715,7 @@ cast:
   - name: Valer
     gender: m
 setting: >
-  Die Szene ist ein Zelt in dem Lager des Aridäus.
+  Der Schauplatz ist auf dem Schauplatze.
 ---
 slug: platen-berengar
 author:
@@ -744,6 +767,8 @@ printed: 1747
 editions:
   - title: "Copenhagen: Rothe 1748"
     url: http://purl.uni-rostock.de/rosdok/ppn864823010/phys_0033
+  - title: "Berlin: De Gruyter 1962, S. 39–70"
+    url: https://doi.org/10.1515/9783110828252-003
 comment: >
   Im [13. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb013.html)
   der »Hamburgischen Dramaturgie«: »unstreitig unser bestes komisches Original,
