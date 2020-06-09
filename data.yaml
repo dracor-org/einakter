@@ -1,4 +1,30 @@
 ---
+slug: anonym-der-duell
+author:
+  name: V.
+  pseudonym: Anonym
+title: Der Duell
+subtitle: Ein Schauspiel von einem Aufzuge
+numberOfScenes: 14
+printed: 1754
+editions:
+  - title: "[Rostock]: [Koppe] 1754"
+comment: >
+  Verlag ermittelt über [Buchmessekatalog Michaelis 1754](https://books.google.com/books?id=vCtfAAAAcAAJ&pg=PA529). – Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 17 (1754–1755). Tübingen: Niemeyer 2002, S. 47.
+keywords:
+  - Prosa
+cast:
+  - name: Der Graf
+    gender: m
+  - name: Die Gräfin
+    gender: f
+  - name: Wilhelm Diener
+    gender: m
+  - name: Carl, des Grafen Sohn
+    gender: m
+  - name: Alcest, dessen Hofmeister
+    gender: m
+---
 slug: anonym-der-erste-may
 author:
   pseudonym: Anonym
@@ -35,6 +61,32 @@ cast:
     gender: f
 setting: >
   Der Schauplaz ist eine waldichte Gegend nahe an dem Guthe der Frau Agathe.
+---
+slug: anonym-der-kuss
+author:
+  name: Kl., F.
+  pseudonym: Anonym
+title: Der Kuß
+subtitle: Ein Schäfer-Spiel in einem Aufzuge
+numberOfScenes: 6
+printed: 1753
+editions:
+  - title: "Jena: Marggraf 1753"
+    url: https://books.google.com/books?id=gZJTAAAAcAAJ&pg=PA5
+comment: >
+  Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 16 (1752–1753). Tübingen: Niemeyer 2002, S. 392–393.
+keywords:
+  - Schäferspiel
+  - Alexandriner
+cast:
+  - name: Damaren
+    gender: m
+  - name: Myrtill
+    gender: f
+  - name: Galathee
+    gender: f
+  - name: Daphne
+    gender: f
 ---
 slug: anonym-die-einigen-zaenker
 author:
@@ -245,6 +297,32 @@ cast:
   - name: Wilhelm
     gender: m
   - name: Moses
+    gender: m
+---
+slug: eckardt-der-kaufmann-und-der-bettler
+author:
+  name: Eckardt, Friedrich von
+  pseudonym: Anonym
+  wikidata: Q21660249
+title: Der Kaufmann und der Bettler
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1776
+editions:
+  - title: "Berlin: Mylius 1776"
+    url: https://books.google.com/books?id=F29VAAAAcAAJ&printsec=frontcover
+comment: >
+  Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 26 (1775–1777). Tübingen: Niemeyer 2007, S. 277–278.
+cast:
+  - name: Horst, ein Kaufmann
+    gender: m
+  - name: Jettchen, seine Kinder
+    gender: f
+  - name: Karl, seine Kinder
+    gender: m
+  - name: Frau Willig, seine Muhme
+    gender: f
+  - name: Giesser, ein alter Bettler
     gender: m
 ---
 slug: gleim-philotas
@@ -468,31 +546,6 @@ cast:
   - name: Franz, Rosensteins Bedienter
     gender: m
 ---
-slug: kl-der-kuss
-author:
-  name: Kl., F.
-title: Der Kuß
-subtitle: Ein Schäfer-Spiel in einem Aufzuge
-numberOfScenes: 6
-printed: 1753
-editions:
-  - title: "Jena: Marggraf 1753"
-    url: https://books.google.com/books?id=gZJTAAAAcAAJ&pg=PA5
-comment: >
-  Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 16 (1752–1753). Tübingen: Niemeyer 2002, S. 392–393.
-keywords:
-  - Schäferspiel
-  - Alexandriner
-cast:
-  - name: Damaren
-    gender: m
-  - name: Myrtill
-    gender: f
-  - name: Galathee
-    gender: f
-  - name: Daphne
-    gender: f
----
 slug: kleist-der-zerbrochene-krug
 author:
   name: Kleist, Heinrich von
@@ -695,8 +748,12 @@ premiered: 1749
 editions:
   - title: "Schriften. Vierter Theil. Berlin: Voß 1754, S. 225–312"
     url: https://books.google.com/books?id=rLg6AAAAcAAJ&pg=PA225
+  - title: "Lustspiele. Erster Theil. Zweyte Auflage. Berlin: Voß 1770, S. 187–260"
+    url: https://books.google.com/books?id=XG8HAAAAQAAJ&pg=PA187
   - title: "Carlsruhe: Schmieder 1777, S. 157–219"
     url: https://books.google.com/books?id=SzBgAAAAcAAJ&pg=PA157
+comment: >
+  Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 17 (1754–1755). Tübingen: Niemeyer 2002, S. 225–230.
 keywords:
   - Judentum
 ids:
