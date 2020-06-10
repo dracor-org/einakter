@@ -7,12 +7,14 @@ title: Der Duell
 subtitle: Ein Schauspiel von einem Aufzuge
 numberOfScenes: 14
 printed: 1754
+formalia:
+  - Prosa
 editions:
   - title: "[Rostock]: [Koppe] 1754"
-comment: >
-  Verlag ermittelt über [Buchmessekatalog Michaelis 1754](https://books.google.com/books?id=vCtfAAAAcAAJ&pg=PA529). – Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 17 (1754–1755). Tübingen: Niemeyer 2002, S. 47.
-keywords:
-  - Prosa
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 17, S. 47
+comment:
+  - Verlag ermittelt über [Buchmessekatalog Michaelis 1754](https://books.google.com/books?id=vCtfAAAAcAAJ&pg=PA529).
 cast:
   - name: Der Graf
     gender: m
@@ -32,13 +34,13 @@ title: Der Erste May, oder Der bestrafte Aberglaube
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 21
 printed: 1778
+formalia:
+  - Prosa
 editions:
   - title: "[Ohne Ort] 1778"
     url: https://books.google.com/books?id=6PBYAAAAcAAJ&printsec=frontcover
-comment: >
-  Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 27 (1778–1780). Tübingen: Niemeyer 2002, S. 34.
-keywords:
-  - Prosa
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 27, S. 34
 cast:
   - name: Frau Agathe, Witbe des verstorbenen Amtmanns
     gender: f
@@ -70,14 +72,15 @@ title: Der Kuß
 subtitle: Ein Schäfer-Spiel in einem Aufzuge
 numberOfScenes: 6
 printed: 1753
+formalia:
+  - Alexandriner
 editions:
   - title: "Jena: Marggraf 1753"
     url: https://books.google.com/books?id=gZJTAAAAcAAJ&pg=PA5
-comment: >
-  Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 16 (1752–1753). Tübingen: Niemeyer 2002, S. 392–393.
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 16, S. 392–393
 keywords:
   - Schäferspiel
-  - Alexandriner
 cast:
   - name: Damaren
     gender: m
@@ -95,13 +98,15 @@ title: Die einigen Zänker
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 12
 printed: 1748
+formalia:
+  - Alexandriner
 editions:
   - title: "Ermunterungen zum Vergnügen des Gemüths. Achtes Stück. Hamburg: Martini 1748, S. 563–601"
     url: https://books.google.com/books?id=DI1QAAAAcAAJ&pg=PA563
-comment: >
-  Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 14 (1748–1750). Tübingen: Niemeyer 2000, S. 119. – Erich Schmidt [in der ADB](https://www.deutsche-biographie.de/pnd136016456.html#adbcontent) vermutet Heinrich August Ossenfelder (1725–1801) als Autor.
-keywords:
-  - Alexandriner
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 14, S. 119
+comment:
+  - Erich Schmidt [in der ADB](https://www.deutsche-biographie.de/pnd136016456.html#adbcontent) vermutet Heinrich August Ossenfelder (1725–1801) als Autor.
 cast:
   - name: Herr Fuhrmann
     gender: m
@@ -120,13 +125,8 @@ author:
 title: Die Gebesserten, oder Ein Abend in Spaa
 subtitle: Lustspiel in 1 Akt
 premiered: 1818-04-16
-comment: >
-  Erstaufführung in Mannheim (vgl. Tagebuch der deutschen Bühnen, Jahrgang 1819,
-  No. I. Januar.
-  [S. 6](https://books.google.com/books?id=D6RA0kXmcasC&pg=PA6)). –
-  Handschriftliches Manuskript in der Wissenschaftlichen Stadtbibliothek
-  Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters.
-  Göppingen: Kümmerle 1973. S. 325).
+comment:
+  - "Erstaufführung in Mannheim (vgl. Tagebuch der deutschen Bühnen, Jahrgang 1819, No. I. Januar. [S. 6](https://books.google.com/books?id=D6RA0kXmcasC&pg=PA6)). – Handschriftliches Manuskript in der Wissenschaftlichen Stadtbibliothek Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters. Göppingen: Kümmerle 1973. S. 325)."
 ---
 slug: anonym-verlobung-bei-kaiserslautern
 author:
@@ -231,14 +231,10 @@ title: Die neue Messaline
 subtitle: Trauerspiel in einem Akt
 numberOfScenes: 14
 printed: 1788
+basedOn: Übersetzung der französischen Vorlage ["La nouvelle Messaline"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PIRON_NOUVELLEMESSALINE.xml) (1773, in Alexandrinern).
 editions:
   - title: "Kanthariden. Rom bei Giovanni Tassoni (= Berlin: Himburg) 1788"
     url: https://books.google.com/books?id=ygZOAAAAcAAJ&pg=RA3-PA125-IA8
-comment: >
-  Übersetzung der französischen Vorlage
-  ["La nouvelle
-  Messaline"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PIRON_NOUVELLEMESSALINE.xml)
-  (1773, in Alexandrinern).
 keywords:
   - Pornographie
 ids:
@@ -311,15 +307,17 @@ printed: 1776
 editions:
   - title: "Berlin: Mylius 1776"
     url: https://books.google.com/books?id=F29VAAAAcAAJ&printsec=frontcover
-comment: >
-  Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 26 (1775–1777). Tübingen: Niemeyer 2007, S. 277–278.
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 26, S. 277–278
 cast:
   - name: Horst, ein Kaufmann
     gender: m
-  - name: Jettchen, seine Kinder
-    gender: f
-  - name: Karl, seine Kinder
-    gender: m
+  - castGroup:
+    - name: Jettchen
+      gender: f
+    - name: Karl
+      gender: m
+      role: seine Kinder
   - name: Frau Willig, seine Muhme
     gender: f
   - name: Giesser, ein alter Bettler
@@ -333,6 +331,8 @@ title: Philotas
 subtitle: Ein Trauerspiel. Von dem Verfasser der preussischen Kriegeslieder vercificirt
 numberOfScenes: 8
 printed: 1760
+formalia:
+  - Blankvers
 editions:
   - title: "Sämtliche Schriften. Neue vermehrte Ausgabe. Dritter Theil. Amsterdam 1767, S. 103–136"
     url: https://books.google.com/books?id=ld2EfxF812YC&pg=RA1-PA103
@@ -340,7 +340,6 @@ comment: >
   Versifizierung von Lessings ["Philotas"](lessing-philotas).
 keywords:
   - Heroische Tragödie
-  - Blankvers
 ids:
   wikidata: Q95720389
 cast:
@@ -365,9 +364,14 @@ numberOfScenes: 14
 created: 1793
 printed: 1793
 premiered: 1793-05-02
+formalia:
+  - Prosa
 editions:
   - title: "Berlin: Unger 1793"
     url: https://books.google.com/books?id=x33X7w9ZrFAC&printsec=frontcover
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 32, S. 365–366
+  - dramenlexikon: S. 76–77
 comment: >
   Zweite Fortsetzung von ["Die beiden Billets"](heyne-die-beiden-billets).
 ids:
@@ -391,11 +395,11 @@ cast:
 setting: >
   Der Schauplatz ist vor Märtens Hause, wie in den vorigen Stücken.
 ---
-slug: gottsched-der-witzling
+slug: gottsched-herr-witzling
 author:
   name: Gottsched, Luise Adelgunde Victorie
   wikidata: Q65863
-title: Der Witzling
+title: Herr Witzling
 subtitle: Ein deutsches Nachspiel in einem Aufzuge
 numberOfScenes: 9
 printed: 1745
@@ -406,9 +410,9 @@ editions:
     url: https://doi.org/10.1515/9783110828252-002
   - title: "Lustspiele der Aufklärung in einem Akt. Stuttgart: Reclam 1986, S. 5–40"
     url: https://books.google.com/books?id=U24aAAAAYAAJ&printsec=frontcover
-comment: >
-  "Herr Witzling" in der Erstausgabe, in der Ausgabe von 1750 dann "Der
-  Witzling". Einziger Einakter der Autorin.
+comment:
+  - Titel in der Ausgabe von 1750 geändert in "Der Witzling".
+  - Einziger Einakter der Autorin.
 keywords:
   - Gelehrtensatire
   - Moralsatire
@@ -442,19 +446,22 @@ author:
   pseudonym: Anton-Wall
   wikidata: Q23710566
 title: Die beiden Billets
-subtitle: Ein Lustspiel in einem Akt
+subtitle: Nachspiel in Einem Akt
 numberOfScenes: 11
-printed: 1782
+printed: 1783
+premiered: 1783-07-09
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 28, S. 490–491
+basedOn: "Jean-Pierre Claris de Florian: Les deux billets. Comédie en 1 acte et en prose (Paris 1780)."
 editions:
+  - title: "Komisches Theater der Franzosen. Für die Deutschen. Leipzig: Dyk 1783, 217–268"
+    url: https://books.google.com/books?id=VdtfAAAAcAAJ&pg=PA217
   - title: "Zweyte Ausgabe. Leipzig: Dyk 1790"
     url: https://books.google.com/books?id=tg-7CIIVMccC&printsec=frontcover
   - title: "Wien: Wallishausser 1802"
     url: https://books.google.com/books?id=WHYyAQAAMAAJ&printsec=frontcover
   - title: "Wien: Wallishausser 1802"
     url: https://books.google.com/books?id=zYWkPpJUej0C&printsec=frontcover
-comment: >
-  Nach dem französischen Einakter "Les Deux Billets" von Jean-Pierre Claris de
-  Florian.
 ids:
   dracor: ger000482
   wikidata: Q79349104
@@ -613,7 +620,8 @@ editions:
     url: https://books.google.com/books?id=WgFsqMDq3IgC&printsec=frontcover
   - title: "Wien: Mausberger 1830"
     url: https://books.google.com/books?id=xlhZAAAAcAAJ&pg=PA31
-comment: Vgl. "Kotzebues Dramen. Ein Lexikon", S. 6–7
+dictionaries:
+  - kotzebue: S. 6–7
 keywords:
   - Russland
   - Paul I.
@@ -647,7 +655,8 @@ premiered: 1817
 editions:
   - title: "Leipzig: Kummer 1818"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11044930.html?pageNo=55
-comment: Vgl. "Kotzebues Dramen. Ein Lexikon", S. 76f.
+dictionaries:
+  - kotzebue: S. 76–77
 keywords:
   - Freimaurer
 ids:
@@ -679,7 +688,8 @@ editions:
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044921_00281.html
   - title: "Wien: Klang; Leipzig: Kummer 1841"
     url: https://books.google.com/books?id=zi164FxwCsAC&pg=PA127
-comment: Vgl. "Kotzebues Dramen. Ein Lexikon", S. 1f.
+dictionaries:
+  - kotzebue: S. 1–2
 keywords:
   - Soldatenstück
   - Krieg
@@ -710,6 +720,8 @@ premiered: 1805-06-18
 editions:
   - title: "Wien: Wallishausser 1805"
     url: https://books.google.com/books?id=FV2P2ebZ-KQC&printsec=frontcover
+dictionaries:
+  - kotzebue: S. 142–143
 ids:
   dracor: ger000486
   wikidata: Q88636794
@@ -931,16 +943,17 @@ subtitle: Ein Trauerspiel in einem Aufzuge
 numberOfScenes: 4
 printed: 1775
 premiered: 1774-09-19
+formalia:
+  - Blankvers
 editions:
   - title: "München: Thuille 1775"
     url: https://books.google.com/books?id=JCRVAAAAcAAJ&printsec=frontcover
   - title: "Augsburg: Stage 1777"
     url: https://books.google.com/books?id=VodIAAAAcAAJ&printsec=frontcover
-comment: >
-  Lit.: [Dramenlexikon des 18. Jahrhunderts](https://de.wikipedia.org/wiki/Dramenlexikon_des_18._Jahrhunderts) (2001), S. 290.
+dictionaries:
+  - dramenlexikon: S. 290
 keywords:
   - Darius III.
-  - Blankvers
 ids:
   wikidata: Q95569070
 cast:
