@@ -231,7 +231,8 @@ title: Die neue Messaline
 subtitle: Trauerspiel in einem Akt
 numberOfScenes: 14
 printed: 1788
-basedOn: Übersetzung der französischen Vorlage ["La nouvelle Messaline"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PIRON_NOUVELLEMESSALINE.xml) (1773, in Alexandrinern).
+basedOn:
+  - Übersetzung der französischen Vorlage ["La nouvelle Messaline"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PIRON_NOUVELLEMESSALINE.xml) (1773, in Alexandrinern).
 editions:
   - title: "Kanthariden. Rom bei Giovanni Tassoni (= Berlin: Himburg) 1788"
     url: https://books.google.com/books?id=ygZOAAAAcAAJ&pg=RA3-PA125-IA8
@@ -450,7 +451,8 @@ subtitle: Nachspiel in Einem Akt
 numberOfScenes: 11
 printed: 1783
 premiered: 1783-07-09
-basedOn: "Jean-Pierre Claris de Florian: Les deux billets. Comédie en 1 acte et en prose (Paris 1780)."
+basedOn:
+  - "Jean-Pierre Claris de Florian: Les deux billets. Comédie en 1 acte et en prose (Paris 1780)."
 dictionaries:
   - bibliographia: 2. Abteilung, Band 28, S. 490–491
 editions:
@@ -1015,3 +1017,56 @@ cast:
     gender: m
 setting: >
   Die Scene ist in Berlin.
+---
+slug: uhlich-das-abendstaendchen
+author:
+  name: Uhlich, Adam Gottfried
+  wikidata: Q349537
+title: Das Abendständchen, oder der lächerliche Liebhaber
+subtitle: Ein Lustspiel von einem Aufzug aus dem Holländischen übersetzt
+numberOfScenes: 25
+printed: 1746
+formalia:
+  - Alexandriner
+basedOn:
+  - "F. Rijk: De belachelyke ergenaam"
+  - "Scarron: L'Heritier ridicule"
+  - "A. de Castillo Solorzano: El mayorazgo figura"
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 13, S. 316–317
+editions:
+  - title: "Erste Sammlung neuer Lustspiele. Danzig und Leipzig: Rüdiger 1746, S. 345–384"
+    url: https://books.google.com/books?id=BUg7AAAAcAAJ&pg=PA345
+comments:
+  - Erscheint auch ohne den Titelzusatz "in einem Aufzuge" (1746).
+  - Laut [Vorwort](https://books.google.com/books?id=BUg7AAAAcAAJ&pg=PA345) das erste holländische Lustspiel, das gedruckt in deutscher Sprache erscheint.
+cast:
+  - name: Ludewig,
+    role: ein alter Bürger.
+    gender: m
+  - name: Isabelle,
+    role: seine Tochter.
+    gender: f
+  - name: Cathrine,
+    role: Isabellens Mädchen.
+    gender: f
+  - name: Jost,
+    role: Ludewigs Hausknecht.
+    gender: m
+  - name: Constant,
+    role: ein alter Bürger.
+    gender: m
+  - name: Leander,
+    role: sein Sohn.
+    gender: m
+  - name: Philipin,
+    role: Leanders Diener.
+    gender: m
+  - name: Arnold,
+    role: Constants Bruder, der lächerliche Liebhaber.
+    gender: m
+  - name: Jeckel,
+    role: ein kleiner Junge.
+    gender: m
+setting: >
+  Der Schauplatz ist eine Strasse, wo besonders Ludewigs Haus mit einem Erker oder Balkon zu sehen. Die Handlung geschiehet des Abends, und dauert keine längere Zeit, als in der das Stück kan aufgeführet werden.
