@@ -9,10 +9,10 @@ numberOfScenes: 14
 printed: 1754
 formalia:
   - Prosa
-editions:
-  - title: "[Rostock]: [Koppe] 1754"
 dictionaries:
   - bibliographia: 2. Abteilung, Band 17, S. 47
+editions:
+  - title: "[Rostock]: [Koppe] 1754"
 comment:
   - Verlag ermittelt über [Buchmessekatalog Michaelis 1754](https://books.google.com/books?id=vCtfAAAAcAAJ&pg=PA529).
 cast:
@@ -36,11 +36,11 @@ numberOfScenes: 21
 printed: 1778
 formalia:
   - Prosa
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 27, S. 34
 editions:
   - title: "[Ohne Ort] 1778"
     url: https://books.google.com/books?id=6PBYAAAAcAAJ&printsec=frontcover
-dictionaries:
-  - bibliographia: 2. Abteilung, Band 27, S. 34
 cast:
   - name: Frau Agathe, Witbe des verstorbenen Amtmanns
     gender: f
@@ -74,11 +74,11 @@ numberOfScenes: 6
 printed: 1753
 formalia:
   - Alexandriner
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 16, S. 392–393
 editions:
   - title: "Jena: Marggraf 1753"
     url: https://books.google.com/books?id=gZJTAAAAcAAJ&pg=PA5
-dictionaries:
-  - bibliographia: 2. Abteilung, Band 16, S. 392–393
 keywords:
   - Schäferspiel
 cast:
@@ -100,11 +100,11 @@ numberOfScenes: 12
 printed: 1748
 formalia:
   - Alexandriner
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 14, S. 119
 editions:
   - title: "Ermunterungen zum Vergnügen des Gemüths. Achtes Stück. Hamburg: Martini 1748, S. 563–601"
     url: https://books.google.com/books?id=DI1QAAAAcAAJ&pg=PA563
-dictionaries:
-  - bibliographia: 2. Abteilung, Band 14, S. 119
 comment:
   - Erich Schmidt [in der ADB](https://www.deutsche-biographie.de/pnd136016456.html#adbcontent) vermutet Heinrich August Ossenfelder (1725–1801) als Autor.
 cast:
@@ -304,11 +304,11 @@ title: Der Kaufmann und der Bettler
 subtitle: Ein Schauspiel in einem Aufzuge
 numberOfScenes: 7
 printed: 1776
+dictionaries:
+  - bibliographia: 2. Abteilung, Band 26, S. 277–278
 editions:
   - title: "Berlin: Mylius 1776"
     url: https://books.google.com/books?id=F29VAAAAcAAJ&printsec=frontcover
-dictionaries:
-  - bibliographia: 2. Abteilung, Band 26, S. 277–278
 cast:
   - name: Horst, ein Kaufmann
     gender: m
@@ -366,12 +366,12 @@ printed: 1793
 premiered: 1793-05-02
 formalia:
   - Prosa
-editions:
-  - title: "Berlin: Unger 1793"
-    url: https://books.google.com/books?id=x33X7w9ZrFAC&printsec=frontcover
 dictionaries:
   - bibliographia: 2. Abteilung, Band 32, S. 365–366
   - dramenlexikon: S. 76–77
+editions:
+  - title: "Berlin: Unger 1793"
+    url: https://books.google.com/books?id=x33X7w9ZrFAC&printsec=frontcover
 comment: >
   Zweite Fortsetzung von ["Die beiden Billets"](heyne-die-beiden-billets).
 ids:
@@ -450,9 +450,9 @@ subtitle: Nachspiel in Einem Akt
 numberOfScenes: 11
 printed: 1783
 premiered: 1783-07-09
+basedOn: "Jean-Pierre Claris de Florian: Les deux billets. Comédie en 1 acte et en prose (Paris 1780)."
 dictionaries:
   - bibliographia: 2. Abteilung, Band 28, S. 490–491
-basedOn: "Jean-Pierre Claris de Florian: Les deux billets. Comédie en 1 acte et en prose (Paris 1780)."
 editions:
   - title: "Komisches Theater der Franzosen. Für die Deutschen. Leipzig: Dyk 1783, 217–268"
     url: https://books.google.com/books?id=VdtfAAAAcAAJ&pg=PA217
@@ -611,6 +611,8 @@ subtitle: Eine wahre Anekdote
 numberOfScenes: 12
 printed: 1799
 premiered: 1797-02-10
+dictionaries:
+  - kotzebue: S. 6–7
 editions:
   - title: "Leipzig: Kummer 1799"
     url: https://books.google.com/books?id=RGZAAQAAMAAJ&printsec=frontcover
@@ -620,8 +622,6 @@ editions:
     url: https://books.google.com/books?id=WgFsqMDq3IgC&printsec=frontcover
   - title: "Wien: Mausberger 1830"
     url: https://books.google.com/books?id=xlhZAAAAcAAJ&pg=PA31
-dictionaries:
-  - kotzebue: S. 6–7
 keywords:
   - Russland
   - Paul I.
@@ -652,11 +652,11 @@ subtitle: Lustspiel in Einem Act
 numberOfScenes: 10
 printed: 1818
 premiered: 1817
+dictionaries:
+  - kotzebue: S. 76–77
 editions:
   - title: "Leipzig: Kummer 1818"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11044930.html?pageNo=55
-dictionaries:
-  - kotzebue: S. 76–77
 keywords:
   - Freimaurer
 ids:
@@ -683,13 +683,13 @@ subtitle: Drama in einem Act
 numberOfScenes: 13
 printed: 1809
 premiered: 1812-06-11
+dictionaries:
+  - kotzebue: S. 1–2
 editions:
   - title: "Riga: Hartmann 1809"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044921_00281.html
   - title: "Wien: Klang; Leipzig: Kummer 1841"
     url: https://books.google.com/books?id=zi164FxwCsAC&pg=PA127
-dictionaries:
-  - kotzebue: S. 1–2
 keywords:
   - Soldatenstück
   - Krieg
@@ -717,11 +717,11 @@ subtitle: Ein Lustspiel in einem Akt
 numberOfScenes: 14
 printed: 1805
 premiered: 1805-06-18
+dictionaries:
+  - kotzebue: S. 142–143
 editions:
   - title: "Wien: Wallishausser 1805"
     url: https://books.google.com/books?id=FV2P2ebZ-KQC&printsec=frontcover
-dictionaries:
-  - kotzebue: S. 142–143
 ids:
   dracor: ger000486
   wikidata: Q88636794
@@ -945,13 +945,13 @@ printed: 1775
 premiered: 1774-09-19
 formalia:
   - Blankvers
+dictionaries:
+  - dramenlexikon: S. 290
 editions:
   - title: "München: Thuille 1775"
     url: https://books.google.com/books?id=JCRVAAAAcAAJ&printsec=frontcover
   - title: "Augsburg: Stage 1777"
     url: https://books.google.com/books?id=VodIAAAAcAAJ&printsec=frontcover
-dictionaries:
-  - dramenlexikon: S. 290
 keywords:
   - Darius III.
 ids:
