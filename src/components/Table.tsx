@@ -33,6 +33,17 @@ function formatTitle (_: string, play: Play) {
   );
 }
 
+function formatKeywords (_: string, play: Play) {
+  const {keywords} = play;
+  return keywords ? (
+    <ul>
+      {keywords.map(text => (
+        <li><small>{text}</small></li>
+      ))}
+    </ul>
+  ) : <span/>;
+}
+
 function formatWikidata (id: any | undefined) {
   return id ? (
     <small>
@@ -75,6 +86,11 @@ function Table () {
     dataField: 'ids.wikidata',
     text: 'Wikidata',
     formatter: formatWikidata,
+    sort: false
+  }, {
+    dataField: 'keywords',
+    text: 'Keywords',
+    formatter: formatKeywords,
     sort: false
   }]
   
