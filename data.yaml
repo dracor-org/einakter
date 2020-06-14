@@ -10,10 +10,10 @@ printed: 1754
 formalia:
   - Prosa
 dictionaries:
-  - bibliographia: 2. Abteilung, Band 17, S. 47
+  bibliographia: 2. Abteilung, Band 17, S. 47
 editions:
   - title: "[Rostock]: [Koppe] 1754"
-comment:
+comments:
   - Verlag ermittelt über [Buchmessekatalog Michaelis 1754](https://books.google.com/books?id=vCtfAAAAcAAJ&pg=PA529).
 cast:
   - name: Der Graf
@@ -37,7 +37,7 @@ printed: 1778
 formalia:
   - Prosa
 dictionaries:
-  - bibliographia: 2. Abteilung, Band 27, S. 34
+  bibliographia: 2. Abteilung, Band 27, S. 34
 editions:
   - title: "[Ohne Ort] 1778"
     url: https://books.google.com/books?id=6PBYAAAAcAAJ&printsec=frontcover
@@ -75,7 +75,7 @@ printed: 1753
 formalia:
   - Alexandriner
 dictionaries:
-  - bibliographia: 2. Abteilung, Band 16, S. 392–393
+  bibliographia: 2. Abteilung, Band 16, S. 392–393
 editions:
   - title: "Jena: Marggraf 1753"
     url: https://books.google.com/books?id=gZJTAAAAcAAJ&pg=PA5
@@ -101,11 +101,11 @@ printed: 1748
 formalia:
   - Alexandriner
 dictionaries:
-  - bibliographia: 2. Abteilung, Band 14, S. 119
+  bibliographia: 2. Abteilung, Band 14, S. 119
 editions:
   - title: "Ermunterungen zum Vergnügen des Gemüths. Achtes Stück. Hamburg: Martini 1748, S. 563–601"
     url: https://books.google.com/books?id=DI1QAAAAcAAJ&pg=PA563
-comment:
+comments:
   - Erich Schmidt [in der ADB](https://www.deutsche-biographie.de/pnd136016456.html#adbcontent) vermutet Heinrich August Ossenfelder (1725–1801) als Autor.
 cast:
   - name: Herr Fuhrmann
@@ -125,8 +125,14 @@ author:
 title: Die Gebesserten, oder Ein Abend in Spaa
 subtitle: Lustspiel in 1 Akt
 premiered: 1818-04-16
-comment:
-  - "Erstaufführung in Mannheim (vgl. Tagebuch der deutschen Bühnen, Jahrgang 1819, No. I. Januar. [S. 6](https://books.google.com/books?id=D6RA0kXmcasC&pg=PA6)). – Handschriftliches Manuskript in der Wissenschaftlichen Stadtbibliothek Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters. Göppingen: Kümmerle 1973. S. 325)."
+comments:
+  - >
+    Erstaufführung in Mannheim (vgl. Tagebuch der deutschen Bühnen, Jahrgang
+    1819, No. I. Januar.
+    [S. 6](https://books.google.com/books?id=D6RA0kXmcasC&pg=PA6)). –
+    Handschriftliches Manuskript in der Wissenschaftlichen Stadtbibliothek
+    Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters.
+    Göppingen: Kümmerle 1973. S. 325).
 ---
 slug: anonym-verlobung-bei-kaiserslautern
 author:
@@ -278,9 +284,10 @@ editions:
     url: https://books.google.com/books?id=c1lEAAAAcAAJ&pg=PA519
   - title: "Frische Judenkirschen. Meißen: Goedsche; Kaschau: Wigand 1827, S. 67–98"
     url: https://books.google.com/books?id=h43Sm5gULfYC&pg=PA67
-comment: >
-  Tendenziöse Judensatire eines "mediokren Schriftstellers" (Gunnar Och), der
-  zum Umfeld E. T. A. Hoffmanns gehörte.
+comments:
+  - >
+    Tendenziöse Judensatire eines "mediokren Schriftstellers" (Gunnar Och), der
+    zum Umfeld E. T. A. Hoffmanns gehörte.
 keywords:
   - Judentum
 ids:
@@ -306,22 +313,25 @@ subtitle: Ein Schauspiel in einem Aufzuge
 numberOfScenes: 7
 printed: 1776
 dictionaries:
-  - bibliographia: 2. Abteilung, Band 26, S. 277–278
+  bibliographia: 2. Abteilung, Band 26, S. 277–278
 editions:
   - title: "Berlin: Mylius 1776"
     url: https://books.google.com/books?id=F29VAAAAcAAJ&printsec=frontcover
 cast:
-  - name: Horst, ein Kaufmann
+  - name: Horst,
+    role: ein Kaufmann
     gender: m
-  - castGroup:
-    - name: Jettchen
-      gender: f
-    - name: Karl
-      gender: m
-      role: seine Kinder
-  - name: Frau Willig, seine Muhme
+  - group:
+      - name: Jettchen
+        gender: f
+      - name: Karl
+        gender: m
+    role: seine Kinder
+  - name: Frau Willig,
+    role: seine Muhme
     gender: f
-  - name: Giesser, ein alter Bettler
+  - name: Giesser,
+    role: ein alter Bettler
     gender: m
 ---
 slug: gleim-philotas
@@ -337,8 +347,8 @@ formalia:
 editions:
   - title: "Sämtliche Schriften. Neue vermehrte Ausgabe. Dritter Theil. Amsterdam 1767, S. 103–136"
     url: https://books.google.com/books?id=ld2EfxF812YC&pg=RA1-PA103
-comment: >
-  Versifizierung von Lessings ["Philotas"](lessing-philotas).
+comments:
+  - Versifizierung von Lessings ["Philotas"](lessing-philotas).
 keywords:
   - Heroische Tragödie
 ids:
@@ -368,13 +378,13 @@ premiered: 1793-05-02
 formalia:
   - Prosa
 dictionaries:
-  - bibliographia: 2. Abteilung, Band 32, S. 365–366
-  - dramenlexikon: S. 76–77
+  bibliographia: 2. Abteilung, Band 32, S. 365–366
+  dramenlexikon: S. 76–77
 editions:
   - title: "Berlin: Unger 1793"
     url: https://books.google.com/books?id=x33X7w9ZrFAC&printsec=frontcover
-comment: >
-  Zweite Fortsetzung von ["Die beiden Billets"](heyne-die-beiden-billets).
+comments:
+  - Zweite Fortsetzung von ["Die beiden Billets"](heyne-die-beiden-billets).
 ids:
   dracor: ger000106
   wikidata: Q1192735
@@ -411,7 +421,7 @@ editions:
     url: https://doi.org/10.1515/9783110828252-002
   - title: "Lustspiele der Aufklärung in einem Akt. Stuttgart: Reclam 1986, S. 5–40"
     url: https://books.google.com/books?id=U24aAAAAYAAJ&printsec=frontcover
-comment:
+comments:
   - Titel in der Ausgabe von 1750 geändert in "Der Witzling".
   - Einziger Einakter der Autorin.
 keywords:
@@ -454,7 +464,7 @@ premiered: 1783-07-09
 basedOn:
   - "Jean-Pierre Claris de Florian: Les deux billets. Comédie en 1 acte et en prose (Paris 1780)."
 dictionaries:
-  - bibliographia: 2. Abteilung, Band 28, S. 490–491
+  bibliographia: 2. Abteilung, Band 28, S. 490–491
 editions:
   - title: "Komisches Theater der Franzosen. Für die Deutschen. Leipzig: Dyk 1783, 217–268"
     url: https://books.google.com/books?id=VdtfAAAAcAAJ&pg=PA217
@@ -492,8 +502,8 @@ editions:
     url: https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/5241310
   - title: "Sämtliche Werke in zwei Bänden. Band 1. München: Winkler 1973, S. 509–568"
     url: http://www.zeno.org/nid/20004709950
-comment: >
-  In der Erstausgabe 1886 nur 13 Szenen?
+comments:
+  - In der Erstausgabe 1886 nur 13 Szenen?
 ids:
   dracor: ger000077
   wikidata: Q52893824
@@ -568,8 +578,8 @@ premiered: 1808-03-02
 editions:
   - title: "Berlin: Realschulbuchhandlung 1811"
     url: http://www.deutschestextarchiv.de/kleist_krug_1811
-comment: >
-  Von Goethe zum Mehrakter umgearbeitet. Zahlreiche Opernbearbeitungen und Verfilmungen.
+comments:
+  - Von Goethe zum Mehrakter umgearbeitet. Zahlreiche Opernbearbeitungen und Verfilmungen.
 ids:
   dracor: ger000363
   wikidata: Q486602
@@ -614,7 +624,7 @@ numberOfScenes: 12
 printed: 1799
 premiered: 1797-02-10
 dictionaries:
-  - kotzebue: S. 6–7
+  kotzebue: S. 6–7
 editions:
   - title: "Leipzig: Kummer 1799"
     url: https://books.google.com/books?id=RGZAAQAAMAAJ&printsec=frontcover
@@ -655,7 +665,7 @@ numberOfScenes: 10
 printed: 1818
 premiered: 1817
 dictionaries:
-  - kotzebue: S. 76–77
+  kotzebue: S. 76–77
 editions:
   - title: "Leipzig: Kummer 1818"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11044930.html?pageNo=55
@@ -686,7 +696,7 @@ numberOfScenes: 13
 printed: 1809
 premiered: 1812-06-11
 dictionaries:
-  - kotzebue: S. 1–2
+  kotzebue: S. 1–2
 editions:
   - title: "Riga: Hartmann 1809"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044921_00281.html
@@ -720,7 +730,7 @@ numberOfScenes: 14
 printed: 1805
 premiered: 1805-06-18
 dictionaries:
-  - kotzebue: S. 142–143
+  kotzebue: S. 142–143
 editions:
   - title: "Wien: Wallishausser 1805"
     url: https://books.google.com/books?id=FV2P2ebZ-KQC&printsec=frontcover
@@ -766,8 +776,10 @@ editions:
     url: https://books.google.com/books?id=XG8HAAAAQAAJ&pg=PA187
   - title: "Carlsruhe: Schmieder 1777, S. 157–219"
     url: https://books.google.com/books?id=SzBgAAAAcAAJ&pg=PA157
-comment: >
-  Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 17 (1754–1755). Tübingen: Niemeyer 2002, S. 225–230.
+comments:
+  - >
+    Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 17
+    (1754–1755). Tübingen: Niemeyer 2002, S. 225–230.
 keywords:
   - Judentum
 ids:
@@ -871,8 +883,10 @@ editions:
       Gesammelte Werke in fünf Bänden. Dritter Band. Stuttgart und Tübingen:
       Cotta 1847, S. 111–137
     url: https://books.google.com/books?id=HowyAQAAMAAJ&pg=PA111
-comment: >
-  Drei Schauplatzwechsel: 1. Loredano's Schloß. – 2. Einsames Gehölz. – 3. Loredano's Schloß.
+comments:
+  - >
+    Drei Schauplatzwechsel: 1. Loredano's Schloß. – 2. Einsames Gehölz. – 3.
+    Loredano's Schloß.
 ids:
   dracor: ger000500
   wikidata: Q93269748
@@ -903,11 +917,12 @@ editions:
     url: http://purl.uni-rostock.de/rosdok/ppn864823010/phys_0033
   - title: "Berlin: De Gruyter 1962, S. 39–70"
     url: https://doi.org/10.1515/9783110828252-003
-comment: >
-  Im [13. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb013.html)
-  der »Hamburgischen Dramaturgie«: »unstreitig unser bestes komisches Original,
-  das in Versen geschrieben ist«. – Titel sollte ursprünglich »Die Bildsäule«
-  lauten.
+comments:
+  - >
+    Im [13. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb013.html)
+    der »Hamburgischen Dramaturgie«: »unstreitig unser bestes komisches
+    Original, das in Versen geschrieben ist«. – Titel sollte ursprünglich »Die
+    Bildsäule« lauten.
 keywords:
   - Rolle der Frau
   - Generationenkonflikt
@@ -948,7 +963,7 @@ premiered: 1774-09-19
 formalia:
   - Blankvers
 dictionaries:
-  - dramenlexikon: S. 290
+  dramenlexikon: S. 290
 editions:
   - title: "München: Thuille 1775"
     url: https://books.google.com/books?id=JCRVAAAAcAAJ&printsec=frontcover
@@ -1033,7 +1048,7 @@ basedOn:
   - "Scarron: L'Heritier ridicule"
   - "A. de Castillo Solorzano: El mayorazgo figura"
 dictionaries:
-  - bibliographia: 2. Abteilung, Band 13, S. 316–317
+  bibliographia: 2. Abteilung, Band 13, S. 316–317
 editions:
   - title: "Erste Sammlung neuer Lustspiele. Danzig und Leipzig: Rüdiger 1746, S. 345–384"
     url: https://books.google.com/books?id=BUg7AAAAcAAJ&pg=PA345
@@ -1069,4 +1084,6 @@ cast:
     role: ein kleiner Junge.
     gender: m
 setting: >
-  Der Schauplatz ist eine Strasse, wo besonders Ludewigs Haus mit einem Erker oder Balkon zu sehen. Die Handlung geschiehet des Abends, und dauert keine längere Zeit, als in der das Stück kan aufgeführet werden.
+  Der Schauplatz ist eine Strasse, wo besonders Ludewigs Haus mit einem Erker
+  oder Balkon zu sehen. Die Handlung geschiehet des Abends, und dauert keine
+  längere Zeit, als in der das Stück kan aufgeführet werden.

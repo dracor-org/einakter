@@ -28,9 +28,11 @@ export default function Details () {
     subtitle,
     author,
     cast,
-    comment,
+    comments,
     created,
+    dictionaries,
     editions,
+    formalia,
     ids,
     keywords,
     numberOfScenes,
@@ -59,17 +61,17 @@ export default function Details () {
       </hgroup>
       <Table>
         <tbody>
-          {setting && (
+          {comments && (
             <tr>
-              <th>Setting</th>
-              <td>{setting}</td>
-            </tr>
-          )}
-          {comment && (
-            <tr>
-              <th>Comment</th>
+              <th>Comments</th>
               <td>
-                <ReactMarkdown>{comment}</ReactMarkdown>
+                <ul>
+                  {comments.map((c, i) => (
+                    <li key={`comment-${i}`}>
+                      <ReactMarkdown>{c}</ReactMarkdown>
+                    </li>
+                  ))}
+                </ul>
               </td>
             </tr>
           )}
@@ -79,10 +81,12 @@ export default function Details () {
               <Years written={created} premiere={premiered} print={printed}/>
             </td>
           </tr>
-          <tr>
-            <th>Number of Scenes</th>
-            <td>{numberOfScenes}</td>
-          </tr>
+          {numberOfScenes && (
+            <tr>
+              <th>Number of Scenes</th>
+              <td>{numberOfScenes}</td>
+            </tr>
+          )}
           {ids && (
             <tr>
               <th>Links</th>
@@ -90,23 +94,6 @@ export default function Details () {
                 <ul>
                   {ids.dracor && <li>DraCor: <a href={`https://dracor.org/id/${ids.dracor}`}>{ids.dracor}</a></li>}
                   {ids.wikidata && <li>Wikidata: <a href={`https://www.wikidata.org/wiki/${ids.wikidata}`}>{ids.wikidata}</a></li>}
-                </ul>
-              </td>
-            </tr>
-          )}
-          {cast && (
-            <tr>
-              <th>Cast</th>
-              <td>
-                <ul>
-                  {cast.map((c: CastMember) => (
-                    <li key={c.name}>
-                      {c.name}
-                      {c.gender && <span> ({c.gender})</span>}
-                      {' '}
-                      {c.isGroup && groupIcon}
-                    </li>
-                  ))}
                 </ul>
               </td>
             </tr>
@@ -120,6 +107,90 @@ export default function Details () {
                     <li key={e.url}>
                       <a href={e.url}>{e.title}</a>
                     </li>
+                  ))}
+                </ul>
+              </td>
+            </tr>
+          )}
+          {cast && (
+            <tr>
+              <th>Cast</th>
+              <td>
+                <ul>
+                  {cast.map((c: CastMember) => c.group ? (
+                    <li key={c.role}>
+                      <em>{c.role}</em>
+                      <ul>
+                      {c.group && c.group.map(member => (
+                        <li key={member.name}>
+                          {member.name}
+                          {member.gender && ` (${member.gender})`}
+                        </li>
+                      ))}
+                      </ul>
+                    </li>
+                  ) : (
+                    <li key={c.name}>
+                      {c.name}
+                      {c.role && (<i> {c.role}</i> )}
+                      {c.gender && <span> ({c.gender})</span>}
+                      {' '}
+                      {c.isGroup && groupIcon}
+                    </li>
+                  ))}
+                </ul>
+              </td>
+            </tr>
+          )}
+          {setting && (
+            <tr>
+              <th>Setting</th>
+              <td>{setting}</td>
+            </tr>
+          )}
+          {dictionaries && (
+            <tr>
+              <th>Dictionaries</th>
+              <td>
+                <ul>
+                  {dictionaries.bibliographia && (
+                    <li>
+                      Bibliographia dramatica et dramaticorum.
+                      {' '}
+                      {dictionaries.bibliographia}
+                    </li>
+                  )}
+                  {dictionaries.dramenlexikon && (
+                    <li>
+                      <a href="https://de.wikipedia.org/wiki/Dramenlexikon_des_18._Jahrhunderts">
+                        Dramenlexikon des 18. Jahrhunderts
+                      </a>
+                      (2001).
+                      {' '}
+                      {dictionaries.dramenlexikon}
+                    </li>
+                  )}
+                  {dictionaries.kotzebue && (
+                    <li>
+                      <a href="https://de.wikipedia.org/wiki/Kotzebues_Dramen_–_Ein_Lexikon">
+                        Kotzebues Dramen – Ein Lexikon
+                      </a>
+                      (2011).
+                      {' '}
+                      {dictionaries.kotzebue}
+                    </li>
+                  )}
+                </ul>
+              </td>
+            </tr>
+          )}
+          {formalia && (
+            <tr>
+              <th>Formalia</th>
+              <td>
+                <ul>
+                  {formalia.map(text => (
+                    <li key={text}>{text}</li>
                   ))}
                 </ul>
               </td>
