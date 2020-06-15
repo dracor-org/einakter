@@ -52,16 +52,6 @@ function formatWikidata (id: any | undefined) {
   ) : <i/>; // we need to return an element to avoid a typescript error
 }
 
-function formatNumCharacters (_: any, play: Play) {
-  const {cast} = play;
-  if (!cast) return '';
-  const numOfCharacters = cast.reduce((num, item) => {
-    const n = item.group ? item.group.length : 1;
-    return num + n;
-  }, 0)
-  return numOfCharacters;
-}
-
 function Table () {
   const columns = [{
     dataField: 'author.name',
@@ -85,9 +75,8 @@ function Table () {
     },
     sort: true
   }, {
-    dataField: 'cast',
+    dataField: 'numberOfCharacters',
     text: 'Characters',
-    formatter: formatNumCharacters,
     sort: true
   }, {
     dataField: 'numberOfScenes',

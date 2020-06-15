@@ -41,6 +41,8 @@ export interface Play {
     wikidata?: string
   }
   keywords?: string[]
+  normalizedYear?: number
+  numberOfCharacters?: number
   numberOfScenes?: number
   premiered?: string | number
   printed?: number

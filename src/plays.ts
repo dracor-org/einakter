@@ -18,9 +18,19 @@ function normalizeYear (play: Play) {
   return year;
 }
 
+function countCharacters(play: Play) {
+  const {cast} = play;
+  if (!cast) return undefined;
+  return cast.reduce((num, item) => {
+    const n = item.group ? item.group.length : 1;
+    return num + n;
+  }, 0)
+}
+
 const plays = data.map((p: Play) => {
   const normalizedYear = normalizeYear(p);
-  return {...p, normalizedYear}
+  const numberOfCharacters = countCharacters(p);
+  return {...p, normalizedYear, numberOfCharacters}
 });
 
 export default plays;
