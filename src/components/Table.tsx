@@ -3,7 +3,7 @@ import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import {Link} from 'react-router-dom';
 import {Play} from '../types';
-import data from '../data.json';
+import data from '../plays';
 
 function formatAuthor (_: string, play: Play) {
   const {name, pseudonym, wikidata: id} = play.author || {};
@@ -94,8 +94,8 @@ function Table () {
     text: 'Scenes',
     sort: true
   }, {
-    dataField: 'printed',
-    text: 'printed',
+    dataField: 'normalizedYear',
+    text: 'Year (normalized)',
     sort: true
   }, {
     dataField: 'ids.wikidata',

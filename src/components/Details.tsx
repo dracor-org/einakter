@@ -5,7 +5,7 @@ import ReactMarkdown from 'react-markdown';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Years from './Years';
 import {CastMember, Play} from '../types';
-import data from '../data.json';
+import data from '../plays';
 
 const groupIcon = <FontAwesomeIcon icon="users" size="sm" title="Group"/>;
 
