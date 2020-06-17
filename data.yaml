@@ -64,6 +64,44 @@ cast:
 setting: >
   Der Schauplaz ist eine waldichte Gegend nahe an dem Guthe der Frau Agathe.
 ---
+slug: anonym-der-gefuerstete-schuster
+author:
+  pseudonym: Anonym
+title: Der Gefürstete Schuster
+subtitle: Ein Lustspiel, in einem Aufzuge
+numberOfScenes: 11
+printed: 1754
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 104
+editions:
+  - title: "[O. Impressum] 1754"
+cast:
+  - name: Meister Jacob.
+    role: ein Schuster.
+    gender: m
+  - name: Sabine.
+    role: seine Frau.
+    gender: f
+  - name: Peter.
+    role: sein Sohn.
+    gender: m
+  - group:
+      - name: Melcher.
+        gender: m
+      - name: Casper.
+        gender: m
+    role: seine Gesellen.
+  - group:
+      - name: Schraubgern.
+        gender: m
+      - name: Spaßmann.
+        gender: m
+    role: reißende Studenten.
+setting: >
+  Der Schauplatz präsentirt eine Schuster-Werckstadt.
+---
 slug: anonym-der-kuss
 author:
   name: Kl., F.
@@ -90,6 +128,85 @@ cast:
     gender: f
   - name: Daphne
     gender: f
+---
+slug: anonym-der-liebhaber-ein-schriftsteller-und-ein-lackey
+author:
+  pseudonym: Anonym
+title: Der Liebhaber, ein Schriftsteller und ein Lackey
+subtitle: Ein Lustspiel, von einer Handlung
+numberOfScenes: 18
+printed: 1755
+premiered: 1752
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre Cérou: [L'Amant auteur et valet](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/CEROU_AMANTAUTEUR.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 408
+editions:
+  - title: "Wien 1778"
+    url: https://books.google.com/books?id=KN63ibLRsdAC&printsec=frontcover
+comments:
+  - Auch unter den Titeln "Der Liebhaber, als Autor und Diener. Ein Lustspiel […] in einem Aufzuge" (1759), "Der Liebhaber, als ein Schriftsteller und Bedienter. Eine Comödie […] in einem Ackte" (1767) und "Der Liebhaber, als ein Schriftsteller und Bedienter. Lustspiel, von einer Handlung" (1778).
+keywords:
+  - Verkleidungsspiel
+  - Eheanbahnung
+cast:
+  - name: Erast,
+    role: Manngolds Vetter, unter dem Namen Valentin.
+    gender: m
+  - name: Manngold,
+    role: ein reicher Kaufmann, in die Lucinde verliebt.
+    gender: m
+  - name: Lucinde,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Frontin,
+    role: Erasts Lackey.
+    gender: m
+  - name: Lisette,
+    role: Lucindens Kammer-Mädchen.
+    gender: f
+setting: >
+  Der Schauplatz ist zu Paris, in der Lucinde Hause.
+---
+slug: anonym-der-schoene-geist
+author:
+  pseudonym: Anonym
+title: Der schöne Geist
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 21
+printed: 1755
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 375
+editions:
+  - title: "Neue Erweiterungen der Erkenntnis und des Vergnügens. 5. Band. Frankfurt und Leipzig: Erben 1755, S. 31–67"
+    url: http://digital.slub-dresden.de/id323869696-17550025/37
+cast:
+  - name: Herr von Wildberg,
+    role: ein Landedelmann.
+    gender: m
+  - name: Frau von Wildberg.
+    gender: f
+  - name: Junker Philipp,
+    role: deren Sohn.
+    gender: m
+  - name: Fräulein Charlotte,
+    role: Tochter derselben.
+    gender: f
+  - group:
+      - name: Herr von Feindorf
+        gender: m
+      - name: Herr von Reinhold
+        gender: m
+    role: Liebhaber der Charlotte.
+  - name: Christoph,
+    role: Bedienter des letztern.
+    gender: m
+setting: >
+  Der Schauplatz ist auf des Herrn von Wildbergs Landgute.
 ---
 slug: anonym-die-einigen-zaenker
 author:
@@ -134,6 +251,109 @@ comments:
     Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters.
     Göppingen: Kümmerle 1973. S. 325).
 ---
+slug: anonym-sganarells-reise-in-das-land-der-philosophen
+author:
+  pseudonym: Anonym
+title: Sganarells Reise in das Land der Philosophen
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 17
+printed: 1755
+formalia:
+  - Prosa
+basedOn:
+  - "Ludvig Holberg: Sganarels Reise til det philosophiske Land"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 439
+editions:
+  - title: "Die Dänische Schaubühne. 5. Band. Kopenhagen: Rothe 1755, S. 431–466"
+    url: https://books.google.com/books?id=EvLRNhYwVxYC&pg=PA431
+  - title: "Die Dänische Schaubühne. 5. Band. Kopenhagen: Rothe 1762, S. 393–426"
+    url: https://books.google.com/books?id=D3i5p_WDOv8C&pg=PA393
+cast:
+  - name: Sganarell.
+    gender: m
+  - name: Leander.
+    gender: m
+  - name: Eine große Anzahl Philosophen, davon einer nach dem andern zum Vorschein kommt.
+    isGroup: true
+    gender: m
+  - name: Ingleichen 3 Weiber der Philosophen, die als die 3 Gratien gekleidet sind.
+    isGroup: true
+    gender: f
+---
+slug: anonym-tabardillo-oder-der-grossprecher
+author:
+  pseudonym: Anonym
+title: Tabardillo oder der Grossprecher
+subtitle: Ein Lustspiel in einem Aufzuge
+printed: 1754
+formalia:
+  - Prosa
+basedOn:
+  - "Ludvig Holberg: Jacob von Tyboe, eller den stortalende soldat"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 110–111
+editions:
+  - title: "[O. Druckort]: 1754"
+cast:
+  - name: Tabardillo,
+    role: Gerichts Schultze der Schildbürger.
+    gender: m
+  - name: Schnacksch,
+    role: an der Ecke wo man Rindfleisch haspelt.
+    gender: m
+  - name: Graf Sandkorn.
+    gender: m
+  - name: Nix-fix,
+    role: mit der Zucker Paruque.
+    gender: m
+  - name: Jungfer Groß und Klein,
+    role: Hr. Nix-fixs Tochter.
+    gender: f
+  - name: Jungfer Hübsch und Stoltz.
+    gender: f
+setting: >
+  Der Schau-Platz ist in einem Saal.
+---
+slug: anonym-erichthon-oder-der-sternseher
+author:
+  pseudonym: Anonym
+title: Erichthon, Oder Der Sternseher
+subtitle: Ein Lustspiel, in einem Aufzuge
+numberOfScenes: 19
+printed: 1754
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 50–51
+editions:
+  - title: "Vier Schauspiele. Leipzig: Koppe 1756, S. 247–294"
+    url: https://books.google.com/books?id=yzc7AAAAcAAJ&pg=PA247
+cast:
+  - name: Erichthon,
+    role: ein alter Bürger.
+    gender: m
+  - name: Finetchen,
+    role: seine Tochter.
+    gender: f
+  - name: Suschen,
+    role: sein Mägdchen.
+    gender: f
+  - name: Päon,
+    role: ein alter Schulmonarch, Liebhaber der Finette, und lächerlicher Poet.
+    gender: m
+  - name: Freund,
+    role: ein Rechtsgelehrter, Liebhaber der Finette.
+    gender: m
+  - name: Dollmann,
+    role: sein Diener, ein verunglückter Student.
+    gender: m
+  - name: Fleurette, oder Blumen,
+    role: eine alte Predigerwittwe, mit Päon versprochen.
+    gender: f
+setting: >
+  Die Handlung ist in des Herrn Erichthons Hause.
+---
 slug: anonym-verlobung-bei-kaiserslautern
 author:
   pseudonym: Anonym
@@ -141,40 +361,50 @@ title: Verlobung bei Kaiserslautern
 subtitle: Nachspiel in einem Aufzuge
 numberOfScenes: 15
 printed: 1795
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 33, S. 320
 editions:
   - title: "Weissenfels und Leipzig: Severin 1795"
     url: https://books.google.com/books?id=LkJbAAAAcAAJ&printsec=frontcover
 cast:
-  - name: François du Bercheau
+  - name: François du Bercheau,
+    role: ehemals Banquieur in Lion, jezt Nationalgarden-Officier und Kommandeur eines kleinen Korps.
     gender: m
-  - name: Toinon
-    gender: f
-  - name: Charlotte
-    gender: f
-  - name: Walter von Kronau
+  - group:
+      - name: Toinon, Wittwe,
+        gender: f
+      - name: Charlotte,
+        gender: f
+    role: seine Töchter.
+  - name: Walter von Kronau,
+    role: ein gefangener preussischer Officier und Liebhaber der Charlotte.
     gender: m
-  - name: von Linkheim
+  - name: von Linkheim,
+    role: ein preussischer Husarenofficier.
     gender: m
-  - name: la Soliere
+  - name: la Soliere,
+    role: ein französischer Bürger.
     gender: m
-  - name: Ein Kommissarius des Nationalkonvents
+  - name: Ein Kommissarius des Nationalkonvents.
     gender: m
-  - name: Zween Nationalgarden
+  - name: Zween Nationalgarden.
     isGroup: true
     gender: m
-  - name: Ein französischer Unterofficier
+  - name: Ein französischer Unterofficier.
     gender: m
-  - name: Eine Ordonnanz
+  - name: Eine Ordonnanz.
     gender: m
-  - name: Ein Soldat
+  - name: Ein Soldat.
     gender: m
-  - name: Französische Soldaten
+  - name: Französische Soldaten.
     isGroup: true
     gender: m
-  - name: Preussische Husaren
+  - name: Preussische Husaren.
     isGroup: true
     gender: m
-  - name: Volk
+  - name: Volk.
     isGroup: true
     gender: u
 setting: >
@@ -237,8 +467,12 @@ title: Die neue Messaline
 subtitle: Trauerspiel in einem Akt
 numberOfScenes: 14
 printed: 1788
+formalia:
+  - Prosa
 basedOn:
   - Übersetzung der französischen Vorlage ["La nouvelle Messaline"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PIRON_NOUVELLEMESSALINE.xml) (1773, in Alexandrinern).
+dictionaries:
+  bibliographia: 2. Abteilung, Band 30, S. 222
 editions:
   - title: "Kanthariden. Rom bei Giovanni Tassoni (= Berlin: Himburg) 1788"
     url: https://books.google.com/books?id=ygZOAAAAcAAJ&pg=RA3-PA125-IA8
@@ -248,27 +482,26 @@ ids:
   dracor: ger000483
   wikidata: Q87986345
 cast:
-  - name: Bella
+  - name: Cantareth,
+    role: Vater der
+    gender: m
+  - name: Messaline.
     gender: f
-  - name: Messaline
+  - group:
+      - name: Biribinker,
+        gender: m
+      - name: Fitzaldo,
+        gender: m
+      - name: Baham,
+        gender: m
+      - name: Hyacinth,
+        gender: m
+    role: Prinzen, Messalinens Liebhaber.
+  - name: Bella,
+    role: Messalinens Kammermädchen.
     gender: f
-  - name: Biribinker
-    gender: m
-  - name: Der Soldat (Vierte Scene)
-    gender: m
-  - name: Fitzaldo
-    gender: m
-  - name: Hyacinth
-    gender: m
-  - name: Baham
-    gender: m
-  - name: Der Soldat (Siebente Scene)
-    gender: m
-  - name: Cantareth
-    gender: m
-  - name: Erster Soldat
-    gender: m
-  - name: Zweyter Soldat
+  - name: Soldaten von der Leibwache.
+    isGroup: true
     gender: m
 ---
 slug: delpons-der-ahnherr
@@ -294,13 +527,18 @@ ids:
   dracor: ger000489
   wikidata: Q89888632
 cast:
-  - name: Pfiff
+  - name: Karl von Eschendorf.
     gender: m
-  - name: Karl
+  - name: Wilhelm von Eschendorf,
+    role: sein Vetter.
     gender: m
-  - name: Wilhelm
+  - name: Pfiff,
+    role: Diener.
     gender: m
-  - name: Moses
+  - name: Moses,
+    role: ein reicher Jude.
+    gender: m
+  - name: Der Ahnherr.
     gender: m
 ---
 slug: eckardt-der-kaufmann-und-der-bettler
@@ -461,6 +699,8 @@ subtitle: Nachspiel in Einem Akt
 numberOfScenes: 11
 printed: 1783
 premiered: 1783-07-09
+formalia:
+  - Prosa
 basedOn:
   - "Jean-Pierre Claris de Florian: Les deux billets. Comédie en 1 acte et en prose (Paris 1780)."
 dictionaries:
@@ -478,12 +718,13 @@ ids:
   dracor: ger000482
   wikidata: Q79349104
 cast:
-  - name: Gürge
+  - name: Gürge.
     gender: m
-  - name: Schnapps
-    gender: m
-  - name: Rösgen
+  - name: Rösgen.
     gender: f
+  - name: Schnapps,
+    role: ein Dorfbalbier.
+    gender: m
 setting: >
   Die Szene ist auf einem freyen Plaze vor Rösgens Hause.
 ---
@@ -810,6 +1051,10 @@ subtitle: Ein Trauerspiel
 numberOfScenes: 8
 printed: 1759
 premiered: 1774
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 260–261
 editions:
   - title: "Gotthold Ephraim Lessing's sämmtliche Schriften. Auf's Neue durchgesehen und vermehrt. Zweiter Band. Leipzig: Göschen 1853, S. 225–312"
     url: https://books.google.com/books?id=XUQ4AQAAIAAJ&pg=PA85
@@ -819,16 +1064,64 @@ ids:
   dracor: ger000194
   wikidata: Q57173794
 cast:
-  - name: Aridäus, König
+  - name: Aridäus,
+    role: König.
     gender: m
-  - name: Strato, Feldherr des Aridäus
+  - name: Strato,
+    role: Feldherr des Aridäus.
     gender: m
-  - name: Philotas, gefangen
+  - name: Philotas,
+    role: gefangen.
     gender: m
-  - name: Parmenio, Soldat
+  - name: Parmenio,
+    role: Soldat.
     gender: m
 setting: >
-  Die Szene ist ein Zelt in dem Lager des Aridäus.
+  Die Scene, ein Zelt in dem Lager des Aridäus.
+---
+slug: martini-die-prachtsuechtige
+author:
+  name: Martini, Christian Leberecht
+  wikidata: Q94830647
+title: Die Prachtsüchtige
+subtitle: Ein Lustspiel in einem Aufzuge
+printed: 1754
+premiered: 1753-10-09
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 253
+editions:
+  - title: "Schönemann: Neue Sammlung. 1. Bd. 1754"
+    url: https://books.google.com/books?id=XetGPb7njFoC&printsec=frontcover
+cast:
+  - name: Die Gräfin Lumineuse.
+    gender: f
+  - name: Finette.
+    role: ihre Kammerjungfer.
+    gender: f
+  - name: Der Marquis von Sansesprit.
+    gender: m
+  - name: Der Graf von Haufengeld.
+    gender: m
+  - name: Der Ritter.
+    gender: m
+  - name: Der Baron.
+    gender: m
+  - name: Del'air,
+    role: Kammerdiener des Grafen.
+    gender: m
+  - name: Pierre,
+    role: Kammerdiener des Ritters.
+    gender: m
+  - name: Gorgias,
+    role: Kammerdiener der Gräfin.
+    gender: m
+  - name: Jacob,
+    role: der Gräfin Jäger.
+    gender: m
+setting: >
+  Der Schauplatz ist in dem Hause der Gräfin.
 ---
 slug: moeser-die-tugend-auf-der-schaubuehne
 author:
