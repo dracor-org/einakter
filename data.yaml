@@ -1,4 +1,107 @@
 ---
+slug: anonym-amalie-und-charlotte-baronessen-von-habenichts
+author:
+  pseudonym: Anonym
+title: "Amalie und Charlotte Baronessen von Habenichts: oder die ungleichen Schwestern"
+subtitle: Ein deutsches Lustspiel von einer Handlung
+numberOfScenes: 21
+printed: 1754
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 23–24
+editions:
+  - title: "Neue Erweiterungen der Erkenntnis und des Vergnügens. Dritter Band. Frankfurt und Leipzig: Friedrich Lankischens Erben 1754, S. 263–307"
+    url: https://haab-digital.klassik-stiftung.de/viewer/resolver?urn=urn:nbn:de:gbv:32-1-10003508625
+cast:
+  - group:
+      - name: Amalie
+        gender: f
+      - name: Charlotte
+        gender: f
+    role: Baronessen von Habenichts.
+  - name: Herr von Weinreich,
+    role: Liebhaber der Amalie.
+    gender: m
+  - name: Wartimer,
+    role: sein Bruder, in die Charlotte verliebt.
+    gender: m
+  - name: Herr von Wertheim,
+    role: Liebhaber der Charlotte.
+    gender: m
+  - name: Herr Stock,
+    role: ein Schulmann, ehemaliger Informator der Baronessen von Habenichts, in die Amalie verliebt.
+    gender: m
+  - name: Dorimene,
+    role: Kammermädgen der Amalie.
+    gender: f
+  - name: Philippine,
+    role: Kammermädgen der Charlotte.
+    gender: f
+  - name: Gottlieb,
+    role: Bedienter des Hrn von Wertheim.
+    gender: m
+  - name: Christoph,
+    role: Bedienter Hrn von Weinreichs.
+    gender: m
+  - name: Herr Nulle,
+    role: ein Weinschenke.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem alten Schlosse.
+---
+slug: anonym-colin-maillard-die-blinde-kuh
+author:
+  pseudonym: Anonym
+title: Colin Maillard. Die Blinde Kuh
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 25
+printed: 1755
+formalia:
+  - Prosa
+basedOn:
+  - "Florent Carton dit Dancourt: [Colin-Maillard. Comédie](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DANCOURT_COLIN-MAILLARD.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 349–350
+editions:
+  - title: "Danzig 1755. Ms."
+  - title: "[Ohne Ort] 1778."
+    url: https://books.google.com/books?id=GxlYAAAAcAAJ&printsec=frontcover
+comments:
+  - 1760 auch von Konrad Ekhof übersetzt.
+keywords:
+  - Eheanbahnung
+  - Geld
+cast:
+  - name: H. Robinot,
+    role: der Angelique Vormund.
+    gender: m
+  - name: Fr. Brillard,
+    role: Robinots Muhme.
+    gender: f
+  - name: Angelique.
+    gender: f
+  - name: Claudine.
+    role: Mathurins Braut.
+    gender: f
+  - name: Mathurin.
+    role: Robinots Gärtner.
+    gender: m
+  - name: Eraste.
+    role: Der Angelique Liebhaber.
+    gender: m
+  - name: Lepine.
+    role: Erastens Diener.
+    gender: m
+  - name: Der Amtmann.
+    role: Robinots Vetter.
+    gender: m
+  - name: Einige Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplaz ist zu Andresy.
+---
 slug: anonym-der-duell
 author:
   name: V.
@@ -16,15 +119,17 @@ editions:
 comments:
   - Verlag ermittelt über [Buchmessekatalog Michaelis 1754](https://books.google.com/books?id=vCtfAAAAcAAJ&pg=PA529).
 cast:
-  - name: Der Graf
+  - name: Der Graf.
     gender: m
-  - name: Die Gräfin
+  - name: Die Gräfin.
     gender: f
-  - name: Wilhelm Diener
+  - name: Wilhelm Diener.
     gender: m
-  - name: Carl, des Grafen Sohn
+  - name: Carl,
+    role: des Grafen Sohn.
     gender: m
-  - name: Alcest, dessen Hofmeister
+  - name: Alcest,
+    role: dessen Hofmeister.
     gender: m
 ---
 slug: anonym-der-erste-may
@@ -42,24 +147,31 @@ editions:
   - title: "[Ohne Ort] 1778"
     url: https://books.google.com/books?id=6PBYAAAAcAAJ&printsec=frontcover
 cast:
-  - name: Frau Agathe, Witbe des verstorbenen Amtmanns
+  - name: Frau Agathe,
+    role: Witbe des verstorbenen Amtmanns.
     gender: f
-  - name: Amalia, ihre Tochter
+  - name: Amalia,
+    role: ihre Tochter.
     gender: f
-  - name: Damon, der neue Amtmann, und Liebster der Amalia
+  - name: Damon,
+    role: der neue Amtmann, und Liebster der Amalia.
     gender: m
-  - name: Araminte, eine Freundinn der Agathe
+  - name: Araminte,
+    role: eine Freundinn der Agathe.
     gender: f
-  - name: Simon Dieterich
+  - name: Simon Dieterich.
     gender: m
-  - name: Lisette, Kammermädchen der Amalia
+  - name: Lisette,
+    role: Kammermädchen der Amalia.
     gender: f
-  - name: Merlin, Bedienter Damons
+  - name: Merlin,
+    role: Bedienter Damons.
     gender: m
-  - name: Eine Gesellschaft von Zauberern und Zauberinnen
+  - name: Eine Gesellschaft von Zauberern und Zauberinnen.
     isGroup: true
     gender: u
-  - name: Anna, eine Magd
+  - name: Anna,
+    role: eine Magd.
     gender: f
 setting: >
   Der Schauplaz ist eine waldichte Gegend nahe an dem Guthe der Frau Agathe.
@@ -101,6 +213,47 @@ cast:
     role: reißende Studenten.
 setting: >
   Der Schauplatz präsentirt eine Schuster-Werckstadt.
+---
+slug: anonym-der-junge-herr
+author:
+  pseudonym: Anonym
+title: Der Junge Herr
+subtitle: Ein Lustspiel, in deutschen Versen, von einem Aufzuge
+numberOfScenes: 12
+printed: 1754
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 65
+editions:
+  - title: "Sammlung dramatischer Gedichte. 1754, S. 295–326"
+  - title: "Vier Schauspiele. Leipzig: Koppe 1756, S. 295–326"
+    url: https://books.google.com/books?id=yzc7AAAAcAAJ&pg=PA295
+cast:
+  - name: Hans Rübe,
+    role: ein Bauervoigt.
+    gender: m
+  - name: Ursula Rübe,
+    role: seine Frau.
+    gender: f
+  - name: Jürgen Rübe,
+    role: sein Sohn, auch Georg von Rübenthal, oder Baron von Wurzelburg genannt.
+    gender: m
+  - name: Sausewind,
+    role: des jungen Herrn Diener.
+    gender: m
+  - name: Jungfer Eigendünkel.
+    gender: f
+  - name: Jungfer Immergut.
+    gender: f
+  - name: Herr Redlich,
+    role: ein vernünftiger Student.
+    gender: m
+  - name: Herr Schlachtschwert,
+    role: ein Renommist, und Pferdevermiether.
+    gender: m
+setting: >
+  Die Handlung ist in Hans Rübens Garten, und dauret von Morgens 10, bis um 1 Uhr Nachmittags.
 ---
 slug: anonym-der-kuss
 author:
@@ -182,7 +335,7 @@ formalia:
 dictionaries:
   bibliographia: 2. Abteilung, Band 17, S. 375
 editions:
-  - title: "Neue Erweiterungen der Erkenntnis und des Vergnügens. 5. Band. Frankfurt und Leipzig: Erben 1755, S. 31–67"
+  - title: "Neue Erweiterungen der Erkenntnis und des Vergnügens. 5. Band. Frankfurt und Leipzig: Friedrich Lankischens Erben 1755, S. 31–67"
     url: http://digital.slub-dresden.de/id323869696-17550025/37
 cast:
   - name: Herr von Wildberg,
@@ -236,6 +389,39 @@ cast:
   - name: Leander
     gender: m
 ---
+slug: anonym-die-weiber-list
+author:
+  pseudonym: Anonym
+title: Die Weiber-List
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 16
+printed: 1753
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 54–55
+editions:
+  - title: "Neueste Auflage. Frankfurt und Leipzig 1753"
+    url: https://books.google.com/books?id=eDFJAAAAcAAJ&printsec=frontcover
+comments:
+  - Auch unter dem Titel "Die Frauenlist, ein Lustspiel. Von einer Handlung in Versen" (ohne Ort 1754).
+cast:
+  - name: Herr Steffen.
+    gender: m
+  - name: Herr Gismund,
+    role: Liebegerns Nebenbuhler.
+    gender: m
+  - name: Frau Steffen.
+    gender: f
+  - name: Hr. Liebegern,
+    role: ein Buhler der Frau Steffen.
+    gender: m
+  - name: Cathrine
+    role: der Frau Steffen Mägdgen.
+    gender: f
+setting: >
+  Der Schauplatz ist in Herr Steffens Hause, welches mit etlichen Stühlen, einem Ruhe-Bette und einer Leinen-Kiste ausgezieret.
+---
 slug: anonym-die-gebesserten
 author:
   pseudonym: Anonym
@@ -250,6 +436,82 @@ comments:
     Handschriftliches Manuskript in der Wissenschaftlichen Stadtbibliothek
     Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters.
     Göppingen: Kümmerle 1973. S. 325).
+---
+slug: anonym-die-verwandlung-des-braeutigams
+author:
+  pseudonym: Anonym
+title: Die Verwandlung des Bräutigams
+subtitle: Ein Lustspiel in einer Handlung ohne Mannspersonen
+numberOfScenes: 12
+printed: 1755
+formalia:
+  - Prosa
+basedOn:
+  - "Ludvig Holberg: Den forvandlede Brudgom"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 464–465
+editions:
+  - title: "Die Dänische Schaubühne. 5. Band. Kopenhagen: Rothe 1755, S. 197–231"
+    url: https://books.google.com/books?id=EvLRNhYwVxYC&pg=PA197
+  - title: "Die Dänische Schaubühne. 5. Band. Kopenhagen: Rothe 1762, S. 169–202"
+    url: https://books.google.com/books?id=D3i5p_WDOv8C&pg=PA169
+cast:
+  - name: Die Madame Terentia.
+    gender: f
+  - name: Katharina,
+    role: ihr Mädgen.
+    gender: f
+  - group:
+      - name: Leonora,
+        gender: f
+      - name: Laurentia,
+        gender: f
+    role: die Töchter derselben.
+  - name: Barbara,
+    role: eine alte Kuplerinn.
+    gender: f
+  - name: Elisabeth,
+    role: als Hauptmann verkleidet.
+    gender: f
+---
+slug: anonym-erichthon-oder-der-sternseher
+author:
+  pseudonym: Anonym
+title: Erichthon, Oder Der Sternseher
+subtitle: Ein Lustspiel, in einem Aufzuge
+numberOfScenes: 19
+printed: 1754
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 50–51
+editions:
+  - title: "Vier Schauspiele. Leipzig: Koppe 1756, S. 247–294"
+    url: https://books.google.com/books?id=yzc7AAAAcAAJ&pg=PA247
+cast:
+  - name: Erichthon,
+    role: ein alter Bürger.
+    gender: m
+  - name: Finetchen,
+    role: seine Tochter.
+    gender: f
+  - name: Suschen,
+    role: sein Mägdchen.
+    gender: f
+  - name: Päon,
+    role: ein alter Schulmonarch, Liebhaber der Finette, und lächerlicher Poet.
+    gender: m
+  - name: Freund,
+    role: ein Rechtsgelehrter, Liebhaber der Finette.
+    gender: m
+  - name: Dollmann,
+    role: sein Diener, ein verunglückter Student.
+    gender: m
+  - name: Fleurette, oder Blumen,
+    role: eine alte Predigerwittwe, mit Päon versprochen.
+    gender: f
+setting: >
+  Die Handlung ist in des Herrn Erichthons Hause.
 ---
 slug: anonym-sganarells-reise-in-das-land-der-philosophen
 author:
@@ -314,45 +576,6 @@ cast:
     gender: f
 setting: >
   Der Schau-Platz ist in einem Saal.
----
-slug: anonym-erichthon-oder-der-sternseher
-author:
-  pseudonym: Anonym
-title: Erichthon, Oder Der Sternseher
-subtitle: Ein Lustspiel, in einem Aufzuge
-numberOfScenes: 19
-printed: 1754
-formalia:
-  - Prosa
-dictionaries:
-  bibliographia: 2. Abteilung, Band 17, S. 50–51
-editions:
-  - title: "Vier Schauspiele. Leipzig: Koppe 1756, S. 247–294"
-    url: https://books.google.com/books?id=yzc7AAAAcAAJ&pg=PA247
-cast:
-  - name: Erichthon,
-    role: ein alter Bürger.
-    gender: m
-  - name: Finetchen,
-    role: seine Tochter.
-    gender: f
-  - name: Suschen,
-    role: sein Mägdchen.
-    gender: f
-  - name: Päon,
-    role: ein alter Schulmonarch, Liebhaber der Finette, und lächerlicher Poet.
-    gender: m
-  - name: Freund,
-    role: ein Rechtsgelehrter, Liebhaber der Finette.
-    gender: m
-  - name: Dollmann,
-    role: sein Diener, ein verunglückter Student.
-    gender: m
-  - name: Fleurette, oder Blumen,
-    role: eine alte Predigerwittwe, mit Päon versprochen.
-    gender: f
-setting: >
-  Die Handlung ist in des Herrn Erichthons Hause.
 ---
 slug: anonym-verlobung-bei-kaiserslautern
 author:
@@ -1097,7 +1320,7 @@ editions:
 cast:
   - name: Die Gräfin Lumineuse.
     gender: f
-  - name: Finette.
+  - name: Finette,
     role: ihre Kammerjungfer.
     gender: f
   - name: Der Marquis von Sansesprit.
