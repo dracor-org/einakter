@@ -214,6 +214,39 @@ cast:
 setting: >
   Der Schauplatz präsentirt eine Schuster-Werckstadt.
 ---
+slug: anonym-der-glueckliche-betrug
+author:
+  pseudonym: Anonym
+title: Der glückliche Betrug
+subtitle: Singspiel in einem Aufzuge
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 218
+comments:
+  - "Es ist bisher nur eine Zusammenfassung der Handlung des einaktigen Singspiels bekannt ([ohne Ort: ohne Jahr](https://books.google.com/books?id=lfR2voH8W4EC&pg=PP5))."
+  - Datierung ungewiss, wahrscheinlich letztes Jahrzehnt des 18. Jahrhunderts.
+keywords:
+  - untreue Ehefrau
+cast:
+  - name: Isabella,
+    role: Herzogin von Benevent, Gemahlin.
+    gender: f
+  - name: Bertrand,
+    role: Herzog von Benevent.
+    gender: m
+  - name: Ormond,
+    role: ein Höfling.
+    gender: m
+  - name: Baton,
+    role: Vertrauter Ormonds.
+    gender: m
+  - name: Tarabotto.
+    gender: m
+  - name: Demetrius.
+    gender: m
+  - name: Nisa,
+    role: Nichte Tarabottos.
+    gender: f
+---
 slug: anonym-der-junge-herr
 author:
   pseudonym: Anonym
@@ -273,13 +306,13 @@ editions:
 keywords:
   - Schäferspiel
 cast:
-  - name: Damaren
+  - name: Damaren.
     gender: m
-  - name: Myrtill
+  - name: Myrtill.
+    gender: m
+  - name: Galathee.
     gender: f
-  - name: Galathee
-    gender: f
-  - name: Daphne
+  - name: Daphne.
     gender: f
 ---
 slug: anonym-der-liebhaber-ein-schriftsteller-und-ein-lackey
@@ -322,6 +355,54 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist zu Paris, in der Lucinde Hause.
+---
+slug: anonym-der-neidische-oder-critic-ueber-den-verheyratheten-philosophen
+author:
+  pseudonym: Anonym
+title: Der Neidische, oder Critik über den verheyratheten Philosophen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1756
+formalia:
+  - Prosa
+basedOn:
+  - "Destouches: L'Envieux, ou La Critique du Philosophe marié"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 263–264
+editions:
+  - title: "Des Herrn Nericault Destouches sämtliche theatralische Werke aus dem Französischen übersetzt. Dritter Theil. Leipzig und Göttingen: Luzac der jüngere 1756, S. 323–364"
+    url: https://books.google.com/books?id=7UlZAAAAcAAJ&pg=PA321
+cast:
+  - name: Araminte.
+    gender: f
+  - name: Belise,
+    role: Aramintens Nichte.
+    gender: f
+  - name: Angelike,
+    role: Aramintens Nichte.
+    gender: f
+  - name: Nerine,
+    role: Aramintens Kammermädchen.
+    gender: f
+  - name: Der Marquis,
+    role: Angelikens Liebhaber.
+    gender: m
+  - name: Likander,
+    role: ein witziger Kopf, Belisens Liebhaber.
+    gender: m
+  - group:
+      - name: Polidor
+        gender: m
+      - name: Dorant
+        gender: m
+    role: Schriftsteller, Likanders Freunde.
+  - name: Oliv,
+    role: Likanders Bedienter.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+setting: >
+  Der Schauplatz ist in Aramintens Hause.
 ---
 slug: anonym-der-officier
 author:
@@ -1068,6 +1149,94 @@ cast:
   - name: Frau von Thielen
     gender: f
 ---
+slug: ekhof-konrad-die-muetterschule
+author:
+  name: Ekhof, Konrad
+  wikidata: Q215783
+title: Die Mütterschule
+subtitle: Ein Lustspiel von einer Handlung in Prosa
+numberOfScenes: 11
+printed: 1754
+premiered: 1752
+formalia:
+  - Prosa
+basedOn:
+  - "Marivaux: [\"L'Ecole des meres\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ECOLEDESMERES.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 16, S. 372–374
+editions:
+  - title: "Schönemann: Neue Sammlung. 1. Band (1754)"
+  - title: "Wien: Krauß 1764"
+    url: https://books.google.com/books?id=MhR9aYeFhTsC&pg=PT6
+cast:
+  - name: Frau Argante.
+    gender: f
+  - name: Angelique,
+    role: Tochter der Frau Argante.
+    gender: f
+  - name: Lisette,
+    role: Angeliquens Mädchen.
+    gender: f
+  - name: Eraste,
+    role: Liebhaber der Angelique, unter dem Namen la Ramée.
+    gender: m
+  - name: Damis,
+    role: Erastens Vater, und anderer Liebhaber der Angelique.
+    gender: m
+  - name: Frontin,
+    role: der Frau Argante Bedienter.
+    gender: m
+  - name: Champagne,
+    role: des Hm. Damis Bedienter.
+    gender: m
+setting: >
+  Die Bühne ist in dem Zimmer der Madam Argante.
+---
+slug: heydenreich-der-verliebte-werber
+author:
+  name: Heydenreich, […]
+title: Der verliebte Werber
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 19
+printed: 1778
+premiered: 1753
+formalia:
+  - Prosa
+basedOn:
+  - "Alain-René Le Sage und d'Orneval: [\"Les Amours de Nanterre\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DORNEVALLESAGE_AMOURSDENANTERRE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 16, S. 387–388
+editions:
+  - title: "Komisches Theater der Franzosen. Für die Deutschen. Dritter Theil. Leipzig: Dyk 1778, S. 337–396"
+    url: https://books.google.com/books?id=ytpfAAAAcAAJ&pg=PA337
+comments:
+  - Aufführungen der Koch'schen Truppe in Leipzig (1753) und Lübeck (1759) und der Seyler'schen Truppe in Hannover (1770).
+cast:
+  - name: Frau Thomsen,
+    role: Pachterswittwe.
+    gender: f
+  - name: Lieschen,
+    role: ihre Tochter.
+    gender: f
+  - name: Dorchen,
+    role: eine Muhme.
+    gender: f
+  - name: Rescher,
+    role: Einnehmer im Dorfe.
+    gender: m
+  - name: Karl Rescher,
+    role: ein dessen Sohn, ein Lieutenant.
+    gender: m
+  - name: Lukas,
+    role: der Thomsen Knecht.
+    gender: m
+  - name: Schulmeister.
+    gender: m
+  - name: Tambour.
+    gender: m
+setting: >
+  Der Schauplatz vor der Thomsen Hause, eine ländliche, mit Bäumen besetzte Gegend.
+---
 slug: iffland-der-magnetismus
 author:
   name: Iffland, August Wilhelm
@@ -1437,7 +1606,7 @@ formalia:
 dictionaries:
   bibliographia: 2. Abteilung, Band 17, S. 253
 editions:
-  - title: "Schönemann: Neue Sammlung. 1. Bd. 1754"
+  - title: "Schönemann: Neue Sammlung. 1. Band (1754)"
     url: https://books.google.com/books?id=XetGPb7njFoC&printsec=frontcover
 cast:
   - name: Die Gräfin Lumineuse.
@@ -1500,6 +1669,35 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist auf dem Schauplatze.
+---
+slug: pantke-die-jugend
+author:
+  name: Pantke, Adam Bernhard
+  wikidata: Q96384492
+title: Die Jugend
+subtitle: In einer dramatischen Vorstellung von einem Aufzuge
+numberOfScenes: 5
+printed: 1756
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 165
+editions:
+  - title: "Sammlung einiger Ausgesuchten Stücke, der Gesellschaft der freyen Künste zu Leipzig. Dritter Theil. Leipzig: Breitkopf 1756, S. 91–110"
+    url: https://books.google.com/books?id=LSpeAAAAcAAJ&pg=PA91
+keywords:
+  - allegorische Figuren
+cast:
+  - name: Jugend
+    gender: u
+  - name: Kindheit
+    gender: u
+  - name: Verstand
+    gender: u
+  - name: Tugend
+    gender: u
+  - name: Redlichkeit
+    gender: u
 ---
 slug: platen-berengar
 author:
