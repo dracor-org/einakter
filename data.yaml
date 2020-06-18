@@ -295,12 +295,12 @@ formalia:
 basedOn:
   - "Pierre Cérou: [L'Amant auteur et valet](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/CEROU_AMANTAUTEUR.xml)"
 dictionaries:
-  bibliographia: 2. Abteilung, Band 17, S. 408
+  bibliographia: 2. Abteilung, Band 17, S. 408 und Band 18, S. 152–154
 editions:
   - title: "Wien 1778"
     url: https://books.google.com/books?id=KN63ibLRsdAC&printsec=frontcover
 comments:
-  - Auch unter den Titeln "Der Liebhaber, als Autor und Diener. Ein Lustspiel […] in einem Aufzuge" (1759), "Der Liebhaber, als ein Schriftsteller und Bedienter. Eine Comödie […] in einem Ackte" (1767) und "Der Liebhaber, als ein Schriftsteller und Bedienter. Lustspiel, von einer Handlung" (1778).
+  - Auch unter den Titeln "Der Liebhaber als ein Schriftsteller und Bedienter. Ein Lustspiel von einer Handlung" (1755), "Der Liebhaber, als Autor und Diener. Ein Lustspiel […] in einem Aufzuge" (1759) und "Der Liebhaber, als ein Schriftsteller und Bedienter. Eine Comödie […] in einem Ackte" (1767).
 keywords:
   - Verkleidungsspiel
   - Eheanbahnung
@@ -322,6 +322,45 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist zu Paris, in der Lucinde Hause.
+---
+slug: anonym-der-officier
+author:
+  pseudonym: Anonym
+title: Der Officier
+subtitle: Ein Nachspiel, von einer Handlung
+numberOfScenes: 16
+printed: 1755
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 422
+editions:
+  - title: "Neue Erweiterungen der Erkenntnis und des Vergnügens. 6. Band. Leipzig: Lankischens Buchhandlung 1755, S. 441–473"
+    url: http://digital.slub-dresden.de/id323869696-17550035/63
+cast:
+  - name: Lisidor,
+    role: ein versuchter Officier.
+    gender: m
+  - name: Mangold,
+    role: ein reicher Mann.
+    gender: m
+  - name: Barbara,
+    role: seine alte Hausfrau.
+    gender: f
+  - name: Lisette,
+    role: seine Tochter.
+    gender: f
+  - name: Lucinde,
+    role: ihre arme Anverwandte.
+    gender: f
+  - name: Frontin,
+    role: Lisidors Bediente.
+    gender: m
+  - name: Pernille,
+    role: Hrn Mangolds Haushälterinn.
+    gender: f
+setting: >
+  Der Schauplatz ist in Mangolds Vorzimmern.
 ---
 slug: anonym-der-schoene-geist
 author:
@@ -680,6 +719,42 @@ cast:
     gender: m
 setting: >
   Hütte des Paria.
+---
+slug: buerger-die-antike-statue-aus-florenz
+author:
+  name: Bürger, Elise
+  wikidata: Q1330617
+title: Die antike Statue aus Florenz
+subtitle: "[Scherzspiel]"
+numberOfScenes: 6
+created: 1814
+printed: 1929
+premiered: 1815-01
+formalia:
+  - Alexandriner
+editions:
+  - title: "Frankfurt/M.: Hauserpresse (Haus Schaefer) 1929"
+  - title: Goethe Yearbook. Vol. 8 (1996), S. 223–237
+    url: https://doi.org/10.1353/gyr.2011.0084
+comments:
+  - Kein Hinweis auf Einaktigkeit im Titel in der Forschung wiederholt "Einakter" genannt.
+keywords:
+  - Verkleidungsspiel
+  - Ehe
+cast:
+  - name: Ludwig
+    gender: m
+  - name: Laura,
+    role: dessen Gattin
+    gender: f
+  - name: Rosaura,
+    role: ihre Schwester
+    gender: f
+  - name: Ferdinand,
+    role: Ludwigs Diener
+    gender: m
+setting: >
+  Die Dekoration bildet ein Zimmer mit einer Seitenthüre in der vierten Coulisse rechts und einer andern in der ersten Coulisse links, neben dieser ist in der zweiten Coulisse ein Fenster. Der Hintergrund ist ohne Thüren und in der Mitte, etwa sechs Schritte vom Hintergrund ab steht ein Fuß-hohes Piedestal, so daß ein Ofen, aber auch eine Statue darauf stehen können. Rechts vorn steht ein Arbeitstischchen mit einigen Stühlen, worauf die Frauenzimmer sitzen, wenn der Vorhang aufrollt.
 ---
 slug: bueschel-die-neue-messaline
 author:
@@ -1078,6 +1153,37 @@ cast:
 setting: >
   Die Handlung spielt in einem niederländischen Dorfe bei Utrecht. – Scene: Die Gerichtsstube.
 ---
+slug: klemm-die-rekreation
+author:
+  name: Klemm, Christian Gottlob
+  wikidata: Q21156171
+title: Die Rekreation
+subtitle: Ein Nachspiel von einem Aufzuge
+numberOfScenes: 4
+printed: 1766
+premiered: 1766-06-28
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 67–68
+editions:
+  - title: "[Wien:] Kraus 1766"
+    url: https://books.google.com/books?id=oe4q1pt07ZoC&printsec=frontcover
+comments:
+  - "Im Nebentext: \"Das Nachspiel wird mit einem kleinen Ballet beschlossen.\""
+keywords:
+  - Laienschauspiel
+  - Theaterbetrieb
+cast:
+  - name: Luise.
+    gender: f
+  - name: Emilie.
+    gender: f
+  - name: Cecilie.
+    gender: f
+  - name: Eleonora.
+    gender: f
+---
 slug: kotzebue-der-alte-leibkutscher-peter-des-dritten
 author:
   name: Kotzebue, August von
@@ -1106,15 +1212,20 @@ keywords:
 ids:
   wikidata: Q95469560
 cast:
-  - name: Meister Leberecht, ein Tischler
+  - name: Meister Leberecht,
+    role: ein Tischler.
     gender: m
-  - name: Annchen, seine Tochter
+  - name: Annchen,
+    role: seine Tochter.
     gender: f
-  - name: Peter, sein Geselle
+  - name: Peter,
+    role: sein Geselle.
     gender: m
-  - name: Hanns Dietrich, der alte Leibkutscher
+  - name: Hanns Dietrich,
+    role: der alte Leibkutscher.
     gender: m
-  - name: Iwannschko, ein Shitmschick
+  - name: Iwannschko,
+    role: ein Shitmschick.
     gender: m
 setting: >
   Der Schauplatz ist in Petersburg, in dem Stadttheil Wasili Ostrow, jenseits der Newa, vor dem Hause des Tischlers. Eine Bank unter einem Baum, und ein fester Tisch davor.
@@ -1139,13 +1250,15 @@ ids:
   dracor: ger000487
   wikidata: Q89212706
 cast:
-  - name: Karoline
+  - name: Der Graf von Hecht.
+    gender: m
+  - name: Karoline,
+    role: seine Nichte.
     gender: f
-  - name: Graf von Hecht
+  - name: Der Baron.
     gender: m
-  - name: Hans
-    gender: m
-  - name: Baron
+  - name: Hans,
+    role: des Grafen Bedienter.
     gender: m
 setting: >
   Der Schauplatz ein Zimmer.
@@ -1173,13 +1286,16 @@ keywords:
 ids:
   wikidata: Q95468391
 cast:
-  - name: Paster Bieder, ein Dorfprediger
+  - name: Paster Bieder,
+    role: ein Dorfprediger.
     gender: m
-  - name: Lottchen, seine Tochter
+  - name: Lottchen,
+    role: seine Tochter.
     gender: f
-  - name: Clermont
+  - name: Clermont.
     gender: m
-  - name: Rouel, Befehlshaber der Maréchaussée
+  - name: Rouel,
+    role: Befehlshaber der Maréchaussée.
     gender: m
 setting: >
   Das Stück spielt zehn Jahre nach irgend einem verderblichen Kriege, etwa nach dem dreißigjährigen. Der Schauplatz ist ein deutsches Dorf an der Grenze. Linker Hand im Vorgrunde das Haus des Predigers. Rechter Hand, mehr im Hintergrunde, ein Todtengewölbe.
@@ -1202,23 +1318,29 @@ ids:
   dracor: ger000486
   wikidata: Q88636794
 cast:
-  - name: Madam Braun
+  - name: Madam Braun,
+    role: Vorsteherin einer Pensionsanstalt für junge Mädchen.
     gender: f
-  - name: Lenore
-    gender: f
-  - name: Natalie
-    gender: f
-  - name: Wilhelmine
-    gender: f
-  - name: Alle Pensionairs
+  - group:
+      - name: Lenore
+        gender: f
+      - name: Natalie
+        gender: f
+      - name: Wilhelmine
+        gender: f
+    role: in Pension bey Madam Braun.
+  - name: Hopsa,
+    role: ein Tanzmeister.
+    gender: m
+  - name: Rose,
+    role: Lenorens Bräutigam.
+    gender: m
+  - name: Maulwurf,
+    role: ein Gärtner.
+    gender: m
+  - name: Kleine Mädchen als Pensionairinnen, so viel man will.
     isGroup: true
     gender: f
-  - name: Maulwurf
-    gender: m
-  - name: Rose
-    gender: m
-  - name: Hopsa
-    gender: m
 setting: >
   Der Schauplatz ist ein Saal mit mehreren Thüren, im Hintergrunde ein Catheder,
   Stühle und Bänke für die Pensionaire.
@@ -1407,18 +1529,24 @@ ids:
   dracor: ger000500
   wikidata: Q93269748
 cast:
-  - name: Loredano
+  - name: Loredano,
+    role: ein lombardischer Ritter.
     gender: m
-  - name: Flordelis
+  - name: Pandolf,
+    role: ein Wucherer.
+    gender: m
+  - name: Birbante,
+    role: dessen Sohn.
+    gender: m
+  - name: Guido,
+    role: Edelknabe im Hause Loredano's.
+    gender: m
+  - name: Flordelis,
+    role: Loredano's Tochter.
     gender: f
-  - name: Dorine
+  - name: Dorine,
+    role: ihre Zofe.
     gender: f
-  - name: Pandolf
-    gender: m
-  - name: Birbante
-    gender: m
-  - name: Guido
-    gender: m
 ---
 slug: schlegel-die-stumme-schoenheit
 author:
@@ -1515,8 +1643,14 @@ author:
 title: Die Theegesellschaft
 subtitle: Lustspiel in Einem Aufzuge
 numberOfScenes: 18
-printed: 1796
+created: 1796
+printed: 1797
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 34, S. 471
 editions:
+  - title: "Straußenfedern. 7. Band. Berlin und Stettin 1797, S. 141–206"
   - title: "Ludwig Tieck's Schriften. Zwölfter Band. Berlin: Reimer 1829, S. 355–420"
     url: https://books.google.com/books?id=T6YyAAAAMAAJ&pg=PA355
 keywords:
@@ -1526,25 +1660,29 @@ ids:
   wikidata: Q94393683
   dracor: ger000496
 cast:
-  - name: Werner/Wahrsagerin
+  - name: Ahlfeld.
     gender: m
-  - name: Ehlert
-    gender: m
-  - name: Rothmann
-    gender: m
-  - name: Ahlfeld
-    gender: m
-  - name: Walther
-    gender: m
-  - name: Julie
+  - name: Julie,
+    role: seine Nichte.
     gender: f
-  - name: Dornberg
+  - name: Baron von Dornberg.
     gender: m
-  - name: Berger
+  - name: Geheime Rath Wagemann.
     gender: m
-  - name: Wagemann
+  - name: Referendarius Berger.
     gender: m
-  - name: Bäckerknecht
+  - name: Werner.
+    gender: m
+  - name: Justitzkommissarius Ehlert.
+    gender: m
+  - name: Rothmann.
+    gender: m
+  - name: Eine alte Frau.
+    gender: f
+  - name: Wilhelm,
+    role: Ahlfelds Bedienter.
+    gender: m
+  - name: Ein Beckerknecht.
     gender: m
 setting: >
   Die Scene ist in Berlin.
