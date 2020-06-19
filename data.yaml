@@ -102,6 +102,38 @@ cast:
 setting: >
   Der Schauplaz ist zu Andresy.
 ---
+slug: anonym-das-urtheil-des-paris
+author:
+  pseudonym: Anonym
+title: Das Urtheil des Paris
+subtitle: Ein Musicalisches Schäfer-Spiel in einer Handlung
+numberOfScenes: 5
+printed: 1752
+basedOn:
+  - "Leopoldo de Villati: Giudicio di Paride"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 15, S. 467
+editions:
+  - title: "Berlin: Haude und Spener [1752]"
+    url: https://www.loc.gov/item/2010666037/
+cast:
+  - name: Venus.
+    gender: f
+  - name: Juno.
+    gender: f
+  - name: Pallas.
+    gender: m
+  - name: Mercurius.
+    gender: m
+  - name: Paris,
+    role: ein vermeynter Schäfer, aber ein Sohn des Priamus, Königs von Troja.
+    gender: m
+  - name: Agelaus,
+    role: Pflege-Vater des Paris.
+    gender: m
+setting: >
+  Der Schauplatz stellt das Gefilde in dem Gebürge in der Nachbarschaft von Troja vor.
+---
 slug: anonym-der-duell
 author:
   name: V.
@@ -356,6 +388,63 @@ cast:
 setting: >
   Der Schauplatz ist zu Paris, in der Lucinde Hause.
 ---
+slug: anonym-der-menschenfreund-oder-der-freund-der-ganzen-welt
+author:
+  pseudonym: Anonym
+title: "Der Menschenfreund, Oder der Freund der ganzen Welt"
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 20
+printed: 1751
+premiered: 1750
+formalia:
+  - Prosa
+basedOn:
+  - "Marc-Antoine LeGrand: Le Philanthrope, ou L'Ami de tout le monde. Comedie"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 15, S. 184–185
+editions:
+  - title: "[Ohne Ort: ohne Verlag] [1751]"
+    url: https://books.google.com/books?id=UEFeNhLu3Y0C&printsec=frontcover
+cast:
+  - name: Philander,
+    role: der Menschenfreund.
+    gender: m
+  - name: Duraminte,
+    role: seine Frau.
+    gender: f
+  - name: Hortense,
+    role: beyder Tochter.
+    gender: f
+  - name: Lisimon,
+    role: Hortensens Liebhaber und Geliebter.
+    gender: m
+  - name: Clarine,
+    role: der Duraminte Mädchen.
+    gender: f
+  - name: l'Etrille,
+    role: Philanders Kutscher.
+    gender: m
+  - name: Fastidas,
+    role: ein Verschwender.
+    gender: m
+  - name: Formicin,
+    role: ein Geiziger.
+    gender: m
+  - name: Rondin,
+    role: ein zur Unzeit offenherziger Mann.
+    gender: m
+  - name: Douillet,
+    role: ein Müßiggänger.
+    gender: m
+  - name: Jasmin,
+    role: Philanders Bedienter.
+    gender: m
+  - name: Verschiedene Bediente des Fastidas.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist zu Paris in Philanders Hause.
+---
 slug: anonym-der-neidische-oder-critic-ueber-den-verheyratheten-philosophen
 author:
   pseudonym: Anonym
@@ -556,6 +645,49 @@ comments:
     Handschriftliches Manuskript in der Wissenschaftlichen Stadtbibliothek
     Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters.
     Göppingen: Kümmerle 1973. S. 325).
+---
+slug: anonym-die-hahnrey-probe
+author:
+  pseudonym: Anonym
+title: Die Hahnrey-Probe
+subtitle: Ein Lustspiel Von einem Aufzuge
+numberOfScenes: 19
+printed: 1752
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 15, S. 399
+editions:
+  - title: "Frankfurt: Hechtel 1752"
+    url: https://books.google.com/books?id=8kiKjinSbqoC&printsec=frontcover
+cast:
+  - name: Anselmo,
+    role: ein Land Edelmann.
+    gender: m
+  - name: Lelio,
+    role: dessen Sohn.
+    gender: m
+  - name: Josselin,
+    role: des Lelio Hofmeister.
+    gender: m
+  - name: Bertrand,
+    role: des Anselmo Verwalter.
+    gender: m
+  - group:
+      - name: Griffon
+        gender: m
+      - name: Tobias
+        gender: m
+    role: 2 Nachbarn.
+  - name: Lucinde,
+    role: des Tobias Tochter.
+    gender: f
+  - name: Gotthard,
+    role: des Tobias Pachter.
+    gender: m
+  - name: Perette,
+    role: Gotthards Frau.
+    gender: f
 ---
 slug: anonym-die-verwandlung-des-braeutigams
 author:
@@ -775,31 +907,145 @@ ids:
   dracor: ger000455
   wikidata: Q52791146
 cast:
-  - name: Maja
+  - name: Gadhi,
+    role: ein Paria.
+    gender: m
+  - name: Maja,
+    role: sein Weib.
     gender: f
-  - name: Gadhi
+  - name: Ihr Kind.
     gender: m
-  - name: Stimmen von außen (1)
+  - name: Benascar.
+    gender: m
+  - name: Ein Bramine.
+    gender: m
+  - name: Indianer.
     isGroup: true
     gender: u
-  - name: Erster Indianer
-    gender: m
-  - name: Zweiter Indianer
-    gender: m
-  - name: Die Indianer
-    isGroup: true
-    gender: u
-  - name: Benascar
-    gender: m
-  - name: Stimmen von außen (5)
-    isGroup: true
-    gender: u
-  - name: Das Kind
-    gender: m
-  - name: Bramine
-    gender: m
 setting: >
   Hütte des Paria.
+---
+slug: bierling-der-sicilier-oder-die-liebe-ein-maler
+author:
+  name: Bierling, Friedrich Immanuel
+  pseudonym: Anonym
+  wikidata: Q96439747
+title: Der Sicilier, oder die Liebe ein Maler
+subtitle: Ein Lustspiel mit Tänzen; in einer Handlung
+numberOfScenes: 18
+printed: 1752
+premiered: 1753
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [\"Le Sicilien, ou l'Amour peintre\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_SICILIEN.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 16, S. 58–59
+editions:
+  - title: "Des Herrn Moliere sämmtliche Lustspiele. Dritter Theil. Hamburg: Herold 1752, S. 5–36"
+    url: https://books.google.com/books?id=ZES-sTjaAL8C&pg=PA5
+comments:
+  - Hinweis auf Einaktigkeit im Untertitel in der Ausgabe 1752 nur [im Inhaltsverzeichnis](https://books.google.com/books?id=ZES-sTjaAL8C&pg=PA1).
+  - Weitere Übersetzung 1759 „le sicilien, ou l'amour peintre comedie-ballet. Der Sicilianer, oder Amor, ein Mahler Ein Lustspiel des Hrn. v. Moliere in einem Aufzuge, mit Singen und Tanzen untermenget“, allerdings ist nicht klar, ob diese Übersetzung auch von Bierling stammt
+  - Bei Meyer ist von Friedrich Samuel Bierling die Rede, wahrscheinlich identisch mit Friedrich Immanuel Bierling, vgl. [Leipziger Literaturzeitung 1831](https://books.google.com/books?id=enbtu3MUrkgC&pg=PA2187).
+keywords:
+  - Verstellspiel
+  - Verkleidungsspiel
+  - Ehebanbahnung
+cast:
+  - name: Dom Pedro,
+    role: ein sicilischer Edelmann.
+    gender: m
+  - name: Adrast,
+    role: ein französischer Edelmann und Liebhaber der Isidore.
+    gender: m
+  - name: Isidore,
+    role: eine Griechinn und Sklavinn des Dom Pedro.
+    gender: f
+  - name: Zaide,
+    role: eine junge Sklavinn.
+    gender: f
+  - name: Ein Rathsherr.
+    gender: m
+  - name: Hali,
+    role: ein Türke und Sklave des Adrast.
+    gender: m
+  - name: Zween Lackeyen.
+    isGroup: true
+    gender: m
+  - name: Etliche Musikanten.
+    isGroup: true
+    gender: u
+  - name: Drey Sänger.
+    isGroup: true
+    gender: m
+  - name: Ein singender Sclave.
+    gender: m
+  - name: Etliche tanzende Sclaven.
+    isGroup: true
+    gender: m
+  - name: Etliche Mohren und Mohrinnen.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist zu Meßina.
+---
+slug: bierling-die-erzwungene-heirath
+author:
+  name: Bierling, Friedrich Immanuel
+  pseudonym: Anonym
+  wikidata: Q96439747
+title: Die erzwungene Heirath
+subtitle: Ein Lustspiel
+numberOfScenes: 13
+printed: 1752
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [\"Le Mariage forcé\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_MARIAGEFORCE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 16, S. 45–46
+editions:
+  - title: "Des Herrn Moliere sämmtliche Lustspiele. Zweyter Theil. Hamburg: Herold 1752, S. 193–228"
+    url: https://books.google.com/books?id=_yVt17c2OPkC&pg=PA192-IA1
+  - title: "Moliere's Lustspiele übersetzt von Wolf Grafen Baudissin. Zweiter Band. Leipzig: Hirzel 1866, S. 305–350"
+    url: https://de.wikisource.org/wiki/Die_erzwungene_Heirath
+comments:
+  - "Einakterhinweis im Untertitel erst  1771: \"Die enwungene Heyrath. Eine Comödie des Moliere in einem Akte\", allerdings ist nicht klar, ob es sich dabei um die Übersetzung von Bierling handelt."
+  - Auch unter dem Titel "Die Zwangsheirat".
+  - Bei Meyer ist von Friedrich Samuel Bierling die Rede, wahrscheinlich identisch mit Friedrich Immanuel Bierling, vgl. [Leipziger Literaturzeitung 1831](https://books.google.com/books?id=enbtu3MUrkgC&pg=PA2187).
+cast:
+  - name: Skanarell,
+    role: der erzwungene Ehemann.
+    gender: m
+  - name: Hieronymus,
+    role: dessen guter Freund.
+    gender: m
+  - name: Dorimene,
+    role: versprochene Braut des Skanarell.
+    gender: f
+  - name: Alcantor,
+    role: Vater der Dorimene.
+    gender: m
+  - name: Alcidas,
+    role: Bruder der Dorimene.
+    gender: m
+  - name: Licast,
+    role: Liebhaber der Dorimene.
+    gender: m
+  - name: Pancratius,
+    role: ein aristotelischer Philosoph.
+    gender: m
+  - name: Marphurius,
+    role: ein pyrrhonischer Philosoph.
+    gender: m
+  - name: Zwo Ziegeunerinnen.
+    isGroup: true
+    gender: f
+  - name: Ein Lackey der Dorimene.
+    gender: m
+setting: >
+  Der Schauplatz ist auf der Straße.
 ---
 slug: buerger-die-antike-statue-aus-florenz
 author:
@@ -1149,7 +1395,59 @@ cast:
   - name: Frau von Thielen
     gender: f
 ---
-slug: ekhof-konrad-die-muetterschule
+slug: ekhof-der-wucherer-ein-edelmann
+author:
+  name: Ekhof, Konrad
+  pseudonym: Anonym
+  wikidata: Q215783
+title: Der Wucherer, ein Edelmann
+subtitle: Eine Comödie […] in einem Akte
+numberOfScenes: 23
+premiered: 1752
+formalia:
+  - Prosa
+basedOn:
+  - "Le Grand: [\"L'Usurier gentilhomme\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/LEGRAND_USURIERGENTILHOMME.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 16, S. 92–93
+cast:
+  - name: Fontaubin,
+    role: ein Edelmann.
+    gender: m
+  - name: Henriette,
+    role: seine Tochter.
+    gender: f
+  - name: Licast,
+    role: Liebhaber der Henriette.
+    gender: m
+  - name: Herr von Stadtdörfer,
+    role: ein Wucherer.
+    gender: m
+  - name: Frau von Stadtdörfer.
+    gender: f
+  - name: Baron von Kleyenfeld,
+    role: ihr Sohn.
+    gender: m
+  - name: Clas,
+    role: Bruder des Herrn von Stadtdörfer.
+    gender: m
+  - name: Lisette,
+    role: Kammermägdchen der Henriette.
+    gender: f
+  - name: Pasquin,
+    role: Diener des Licast.
+    gender: m
+  - name: Peter,
+    role: Kammerdiener des Herrn von Stadtdörfer.
+    gender: m
+  - name: Lakeyen.
+    isGroup: true
+    gender: m
+  - name: Sänger und Tänzer, als Bauern gekleidet.
+    isGroup: true
+    gender: u
+---
+slug: ekhof-die-muetterschule
 author:
   name: Ekhof, Konrad
   wikidata: Q215783
@@ -1272,6 +1570,41 @@ cast:
     gender: m
   - name: Franz, Rosensteins Bedienter
     gender: m
+---
+slug: kirchhoff-der-bestrafte-hochmuth
+author:
+  name: Kirchhoff, Johann Heinrich
+  pseudonym: Anonym
+  wikidata: Q60842851
+title: Der bestrafte Hochmuth
+subtitle: Ein Nachspiel von einer Handlung
+numberOfScenes: 11
+printed: 1751
+premiered: 1751
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 15, S. 163
+editions:
+  - title: "[Ohne Ort: ohne Drucker] 1751"
+    url: https://books.google.com/books?id=TqKBuzuDAm8C&printsec=frontcover
+comments:
+  - Autor ermittelt via "Lexikon der vom Jahr 1750 bis 1800 verstorbenen teutschen Schriftsteller", [7. Bd. (1808), S. 28](https://books.google.com/books?id=-c5ZAAAAcAAJ&pg=PA28).
+cast:
+  - name: Herr Anselmo,
+    role: ein wohlhabender Kaufmann.
+    gender: m
+  - name: Jungfer Charlotte,
+    role: dessen Tochter.
+    gender: f
+  - name: Herr Leander,
+    role: ein junger reicher Kaufmann, und Liebhaber der Charlotte.
+    gender: m
+  - name: Johann Scherenschleiffer,
+    role: ein loser Vogel.
+    gender: m
+setting: >
+  Der Schauplatz ist in einer Alee vor dem Hause des Anselmo.
 ---
 slug: kleist-der-zerbrochene-krug
 author:
@@ -1514,6 +1847,44 @@ setting: >
   Der Schauplatz ist ein Saal mit mehreren Thüren, im Hintergrunde ein Catheder,
   Stühle und Bänke für die Pensionaire.
 ---
+slug: krueger-herzog-michel
+author:
+  name: Krüger, Johann Christian
+  wikidata: Q109643
+title: Herzog Michel
+subtitle: Ein Lustspiel von einer Handlung, in Versen
+numberOfScenes: 6
+printed: 1751
+premiered: 1750-01-19
+formalia:
+  - Alexandriner
+basedOn:
+  - "Lafontaine: La laitière et le pot au lait"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 15, S. 272–277
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1757"
+    url: https://books.google.com/books?id=AVZZAAAAcAAJ&printsec=frontcover
+  - title: "[Ohne Ort: ohne Verlag] 1763"
+    url: https://books.google.com/books?id=9EffLkh4-nkC&printsec=frontcover
+comments:
+  - "Auch unter den Titeln \"Hertzog Michel, Oder: Das ausgerechnete Glück eines Bauern\" (1757) und \"Herzog Michel. Eine Comödie in Versen von Herrn J. C. Krüger einem Akt\" (1764)."
+keywords:
+  - Standeskonflikt
+  - Geld
+cast:
+  - name: Andreas,
+    role: Hannchens Vater.
+    gender: m
+  - name: Michel,
+    role: sein Knecht.
+    gender: m
+  - name: Hannchen,
+    role: Michels Liebhaberinn.
+    gender: f
+setting: >
+  Der Schauplatz ist im Dorfe.
+---
 slug: lessing-die-juden
 author:
   name: Lessing, Gotthold Ephraim
@@ -1524,6 +1895,8 @@ numberOfScenes: 23
 created: 1749
 printed: 1754
 premiered: 1749
+dictionaries:
+  bibliographia: 2. Abteilung, Band 17, S. 225–230
 editions:
   - title: "Schriften. Vierter Theil. Berlin: Voß 1754, S. 225–312"
     url: https://books.google.com/books?id=rLg6AAAAcAAJ&pg=PA225
@@ -1531,29 +1904,27 @@ editions:
     url: https://books.google.com/books?id=XG8HAAAAQAAJ&pg=PA187
   - title: "Carlsruhe: Schmieder 1777, S. 157–219"
     url: https://books.google.com/books?id=SzBgAAAAcAAJ&pg=PA157
-comments:
-  - >
-    Vgl. Bibliographia Dramatica et Dramaticorum. 2. Abteilung, Band 17
-    (1754–1755). Tübingen: Niemeyer 2002, S. 225–230.
 keywords:
   - Judentum
 ids:
   dracor: ger000222
   wikidata: Q1213679
 cast:
-  - name: Martin Krumm
+  - name: Michel Stich.
     gender: m
-  - name: Michel Stich
+  - name: Martin Krumm.
     gender: m
-  - name: Der Reisende
+  - name: Der Reisende.
     gender: m
-  - name: Christoph
+  - name: Christoph,
+    role: dessen Bedienter.
     gender: m
-  - name: Das Fräulein
+  - name: Der Baron.
+    gender: m
+  - name: Ein junges Fräulein,
+    role: dessen Tochter.
     gender: f
-  - name: Der Baron
-    gender: m
-  - name: Lisette
+  - name: Lisette.
     gender: f
 ---
 slug: lessing-philotas
