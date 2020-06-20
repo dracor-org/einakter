@@ -1765,6 +1765,45 @@ cast:
 setting: >
   Der Schauplatz ein Zimmer.
 ---
+slug: kotzebue-der-hyperboreeische-esel
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der hyperboreeische Esel oder Die heutige Bildung
+subtitle: Ein drastisches Drama, und philosophisches Lustspiel für Jünglinge, in Einem Akt
+numberOfScenes: 12
+printed: 1799
+premiered: 1799
+dictionaries:
+  kotzebue: S. 114–116
+editions:
+  - title: "Leipzig: Kummer 1799"
+    url: https://books.google.com/books?id=_EFRAAAAcAAJ&printsec=frontcover
+  - title: "Theater von Kotzebue. Zwölfter Theil. Wien: Doll 1810, S. 391–450"
+    url: https://books.google.com/books?id=4bY4AQAAMAAJ&pg=PA391
+ids:
+  dracor: ger000188
+  wikidata: Q56448380
+cast:
+  - name: Baron Kreutz.
+    gender: m
+  - name: Malchen,
+    role: seine Tochter.
+    gender: f
+  - name: Frau von Berg,
+    role: seine Schwester, eine arme Wittwe.
+    gender: f
+  - group:
+      - name: Karl,
+        gender: m
+      - name: Hans,
+        gender: m
+    role: ihre Söhne.
+  - name: Der Fürst von **
+    gender: m
+setting: >
+  Die Scene ist auf dem Landgute des Baron Kreutz.
+---
 slug: kotzebue-die-abendstunde
 author:
   name: Kotzebue, August von
