@@ -38,7 +38,7 @@ function formatKeywords (_: string, play: Play) {
   return keywords ? (
     <ul>
       {keywords.map(text => (
-        <li><small>{text}</small></li>
+        <li key={text}><small>{text}</small></li>
       ))}
     </ul>
   ) : <span/>;
