@@ -178,6 +178,7 @@ export default function Details () {
                       <a href="https://de.wikipedia.org/wiki/Dramenlexikon_des_18._Jahrhunderts">
                         Dramenlexikon des 18. Jahrhunderts
                       </a>
+                      {' '}
                       (2001).
                       {' '}
                       {dictionaries.dramenlexikon}
@@ -188,6 +189,7 @@ export default function Details () {
                       <a href="https://de.wikipedia.org/wiki/Kotzebues_Dramen_–_Ein_Lexikon">
                         Kotzebues Dramen – Ein Lexikon
                       </a>
+                      {' '}
                       (2011).
                       {' '}
                       {dictionaries.kotzebue}
