@@ -39,6 +39,7 @@ export default function Details () {
     premiered,
     printed,
     setting,
+    basedOn,
   } = play;
 
   return (
@@ -146,6 +147,18 @@ export default function Details () {
             <tr>
               <th>Setting</th>
               <td>{setting}</td>
+            </tr>
+          )}
+          {basedOn && (
+            <tr>
+              <th>Based on</th>
+              <td>
+                <ul>
+                  {basedOn.map(text => (
+                    <li key={text}>{text}</li>
+                  ))}
+                </ul>
+              </td>
             </tr>
           )}
           {dictionaries && (
