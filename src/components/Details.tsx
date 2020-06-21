@@ -105,7 +105,7 @@ export default function Details () {
               <td>
                 <ul>
                   {editions.map(e => (
-                    <li key={e.url}>
+                    <li key={e.url || e.title}>
                       <a href={e.url}>{e.title}</a>
                     </li>
                   ))}
