@@ -155,7 +155,9 @@ export default function Details () {
               <td>
                 <ul>
                   {basedOn.map(text => (
-                    <li key={text}>{text}</li>
+                    <li key={text}>
+                      <ReactMarkdown>{text}</ReactMarkdown>
+                    </li>
                   ))}
                 </ul>
               </td>
