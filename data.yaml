@@ -134,6 +134,49 @@ cast:
 setting: >
   Der Schauplatz stellt das Gefilde in dem Gebürge in der Nachbarschaft von Troja vor.
 ---
+slug: anonym-der-betrogene-kadi
+author:
+  name: T.
+  pseudonym: Anonym
+title: Der betrogene Kadi
+subtitle: Ein Nachspiel von einer Handlung
+numberOfScenes: 25
+printed: 1749
+premiered: 1747
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 371–372
+editions:
+  - title: "Schauspiele, welche auf der Schönemannschen Schaubühne aufgeführt worden. Vierter Theil. Braunschweig und Leipzig 1749"
+comments:
+  - Reinhart Meyer bringt Johann Tompson (1693–1768) als Verfasser ins Spiel.
+cast:
+  - name: Der Kadi.
+    gender: m
+  - name: Rahel,
+    role: dessen einzige Tochter, an Mulei versprochen.
+    gender: f
+  - name: Nerine,
+    role: ihre Sklavin und Vertraute.
+    gender: f
+  - name: Mulei,
+    role: ein alter reicher Seeräuber, Bräutigam der Rahel.
+    gender: m
+  - name: Samsam,
+    role: ein junger Persianer, in Rahel verliebt.
+    gender: m
+  - name: Lolo,
+    role: dessen Sklav.
+    gender: m
+  - name: Ein Gerichtsdiener.
+    gender: m
+  - name: Die übrigen Gerichtsdiener.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplatz ist zu Constantinopel vor des Kadi Behausung. Die Begebenheit ist in der Demmerung, und dauret so lange als das Nachspiel.
+---
 slug: anonym-der-duell
 author:
   name: V.
@@ -570,6 +613,41 @@ cast:
 setting: >
   Der Schauplatz ist auf des Herrn von Wildbergs Landgute.
 ---
+slug: anonym-der-von-der-liebe-betrogene-philosoph
+author:
+  pseudonym: Anonym
+title: Der von der Liebe betrogene Philosoph
+subtitle: Ein Lustspiel von einem Aufzuge aus dem Französischen des Herrn Saintfoix übersezt
+numberOfScenes: 21
+printed: 1750
+formalia:
+  - Prosa
+basedOn:
+  - "Saintfoix: \"Le philosophe dupe de l'amour. Comédie en un acte\""
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 470–471
+editions:
+  - title: "Frankfurt/Leipzig: Monath 1750"
+    url: https://books.google.com/books?id=EBtaAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Der Doctor Pantalogus.
+    gender: m
+  - name: Mirto,
+    role: Pantalogus Frau.
+    gender: f
+  - name: Urgantia,
+    role: eine Sternseherin.
+    gender: f
+  - name: Lucinde,
+    role: des Doctors Zieh-Tochter.
+    gender: f
+  - name: Celio,
+    role: des Doctors Schüler.
+    gender: m
+  - name: Pasquin,
+    role: des Celio Diener.
+    gender: m
+---
 slug: anonym-die-einigen-zaenker
 author:
   pseudonym: Anonym
@@ -597,6 +675,41 @@ cast:
     gender: f
   - name: Leander
     gender: m
+---
+slug: anonym-die-nonnen
+author:
+  name: J. T.
+  pseudonym: Anonym
+title: Die Nonnen
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 14
+printed: 1749
+premiered: 1747
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre-René Lemonnier: \"Le Cadi dupé\""
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 372
+editions:
+  - title: "Schauspiele, welche auf der Schönemannschen Schaubühne aufgeführt worden. Dritter Theil. 1749"
+cast:
+  - name: Die Abtissin.
+    gender: f
+  - name: Frau Agnese,
+    role: Priorin.
+    gender: f
+  - group:
+      - name: Schwester Veronika,
+        gender: f
+      - name: Schwester Clare,
+        gender: f
+    role: Nonnen.
+  - name: Clidamor,
+    role: ein junger Officier.
+    gender: m
+setting: >
+  Die Bühne ist der Eßsaal. Auf dem Schauplatze steht ein Tisch mit zweyen Lichtern. Das übrige ist dunkel.
 ---
 slug: anonym-die-weiber-list
 author:
@@ -764,6 +877,51 @@ cast:
     gender: f
 setting: >
   Die Handlung ist in des Herrn Erichthons Hause.
+---
+slug: anonym-le-francois-a-londres-der-franzos-zu-london
+author:
+  pseudonym: Anonym
+title: Le François â Londres. Der Franzos zu London
+subtitle: Ein Lustspiel von einer Handlung Aus dem Französischen des Herrn du Boissy, übersetzt
+numberOfScenes: 24
+printed: 1748
+premiered: 1747-05-26
+formalia:
+  - Prosa
+basedOn:
+  - "Louis de Boissy: [\"Le François à Londres\"](https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/BOISSY_FRANCAISALONDRES.xml)."
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 50–51
+editions:
+  - title: "Schauspiele, welche auf der Schönemannschen Schaubühne aufgeführt worden. Zweyter Theil. Braunschweig und Lüneburg 1748"
+  - title: "Frankckfurt und Leipzig: Fuchs 1753"
+    url: https://books.google.com/books?id=k2Y7AAAAcAAJ&printsec=frontcover
+comments:
+  - "Auch unter dem Titel \"Der Franzose zu Londen. Ein Lustspiel In Einem Aufzuge\" (Frankfurt und Leipzig: Fuchs 1753)."
+cast:
+  - group:
+      - name: Baron von Polenville,
+        gender: m
+      - name: Marquis von Polenville,
+        gender: m
+    role: Vetter.
+  - name: Madame Eliante,
+    role: eine Wittwe von 19 Jahren.
+    gender: f
+  - name: Finette,
+    role: ihre Kammerjungfer.
+    gender: f
+  - name: Mylord Houssey,
+    role: der Eliante Bruder.
+    gender: m
+  - name: Mylord Kraft,
+    role: der Eliante und des Houssey Vater.
+    gender: m
+  - name: Jacob Rosbyf,
+    role: ein englischer Kaufmann, Elianten versprochen.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem vornehmen Gasthofe in London.
 ---
 slug: anonym-sganarells-reise-in-das-land-der-philosophen
 author:
@@ -1272,6 +1430,7 @@ setting: >
 slug: gottsched-herr-witzling
 author:
   name: Gottsched, Luise Adelgunde Victorie
+  pseudonym: Anonym
   wikidata: Q65863
 title: Herr Witzling
 subtitle: Ein deutsches Nachspiel in einem Aufzuge
@@ -1285,7 +1444,8 @@ editions:
   - title: "Lustspiele der Aufklärung in einem Akt. Stuttgart: Reclam 1986, S. 5–40"
     url: https://books.google.com/books?id=U24aAAAAYAAJ&printsec=frontcover
 comments:
-  - Titel in der Ausgabe von 1750 geändert in "Der Witzling".
+  - Der Erstdruck 1745 erfolgte anonym. Das Stück ist nie aufgeführt worden.
+  - Der Titel wurde in der Ausgabe von 1750 geändert in "Der Witzling".
   - Einziger Einakter der Autorin.
 keywords:
   - Gelehrtensatire
@@ -1924,6 +2084,41 @@ cast:
 setting: >
   Der Schauplatz ist im Dorfe.
 ---
+slug: krueger-la-reunion-des-amours-die-wiedervereinigung-der-liebesgoetter
+author:
+  name: Krüger, Johann Christian
+  wikidata: Q109643
+title: La réunion des Amours. Die Wiedervereinigung der Liebesgötter
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 14
+printed: 1749
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre Carlet de Marivaux: [\"Le Reunion des amours\"](https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_REUNIONDESAMOURS.xml)."
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 334–335
+editions:
+  - title: "[Ohne Ort: ohne Jahr]"
+    url: http://data.onb.ac.at/rep/10275ADC
+cast:
+  - name: Minerva.
+    gender: f
+  - group:
+      - name: Amor,
+        gender: m
+      - name: Cupido,
+        gender: m
+    role: die zwey Götter der Liebe.
+  - name: Plutus.
+    gender: m
+  - name: Merkur.
+    gender: m
+  - name: Die Wahrheit.
+    gender: u
+  - name: Die Tugend.
+    gender: u
+---
 slug: lessing-die-juden
 author:
   name: Lessing, Gotthold Ephraim
@@ -1933,7 +2128,7 @@ subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 23
 created: 1749
 printed: 1754
-premiered: 1749
+premiered: 1766
 dictionaries:
   bibliographia: 2. Abteilung, Band 17, S. 225–230
 editions:
@@ -2155,6 +2350,48 @@ cast:
   - name: Dorine,
     role: ihre Zofe.
     gender: f
+---
+slug: ploetz-dumm-und-gelehrt
+author:
+  name: Plötz, Johann von
+  wikidata: Q94874028
+title: Dumm und gelehrt
+subtitle: Dramatischer Scherz in einem Aufzuge
+numberOfScenes: 1
+printed: 1847
+premiered: 1842-01-21
+formalia:
+  - Prosa
+editions:
+  - title: "Beiträge zur deutschen Bühne. Dritter Band. München: Franz 1847, S. 101–152"
+    url: https://books.google.com/books?id=QjxJAAAAcAAJ&pg=PA101
+comments:
+  - Im Inhaltsverzeichnis wird das Werk "Lustspiel in 1 Aufzuge" genannt, auf der Titelseite dann "dramatischer Scherz in einem Aufzuge".
+  - "Quelle für das Datum der Erstaufführung: [Allgemeine Theaterzeitung, 28. Jänner 1842](https://books.google.com/books?id=CJV_304uEScC&pg=PA111&dq=%22dumm+und+gelehrt%22)."
+keywords:
+  - Eheanbahnung
+  - Geld
+  - Erbe
+  - Verkleidungsspiel
+cast:
+  - name: Hofrath Böcking,
+    role: Advokat.
+    gender: m
+  - name: Sophie,
+    role: seine Tochter.
+    gender: f
+  - name: Assessor Berg.
+    gender: m
+  - name: Herrmann Buchhof,
+    role: Professor.
+    gender: m
+  - name: Isidor Buchhof,
+    role: Landwirth.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Die Handlung spielt im Hause des Hofraths.
 ---
 slug: schlegel-die-stumme-schoenheit
 author:
