@@ -676,6 +676,55 @@ cast:
   - name: Leander
     gender: m
 ---
+slug: anonym-die-familie
+author:
+  pseudonym: Anonym
+title: Die Familie
+subtitle: Ein Lustspiel in einer Handlung, aus dem Französischen übersetzt
+numberOfScenes: 17
+printed: 1749
+premiered: 1747
+formalia:
+  - Prosa
+basedOn:
+  - "Thomas L'Affichard: \"La Famille. Comédie en un acte\""
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 250
+editions:
+  - title: "Schauspiele, welche auf der Schönemannschen Schaubühne aufgeführt worden. Vierter Theil. Braunschweig und Leipzig 1749"
+comments:
+  - "Auch unter dem Titel \"Die Familie. Ein Lustspiel in einem Aufzuge. Aus dem Französischen übersetzt\" (von Joseph Berhandtsky von Adlersberg, Frankfurt und Leipzig: Joh. Jos. Mayers Erben 1777)."
+keywords:
+  - Eheanbahnung
+  - Standesproblematik
+  - Heimkehr-Motiv
+cast:
+  - name: Der Marquis,
+    role: Vater des Grafen.
+    gender: m
+  - name: Der Graf,
+    role: unter dem Namen Lisander, Sohn des Marquis und Vater des Lycast.
+    gender: m
+  - name: Die Marquisinn,
+    role: Mutter der Melite.
+    gender: f
+  - name: Melite,
+    role: Tochter der Marquisinn, Liebhaberinn des Lycast.
+    gender: f
+  - name: Lycast,
+    role: Sohn des Grafen, Liebhaber der Melite.
+    gender: m
+  - name: Rosette,
+    role: Kammermädgen der Melite.
+    gender: f
+  - name: Arlequin,
+    role: Diener des Lycast.
+    gender: m
+  - name: Ein Lakay des Marquis.
+    gender: m
+setting: >
+  Der Schauplatz ist auf einem Landgute des Marquis.
+---
 slug: anonym-die-nonnen
 author:
   name: J. T.
@@ -2119,6 +2168,47 @@ cast:
   - name: Die Tugend.
     gender: u
 ---
+slug: krueger-le-denouement-imprevu-der-unvermuthete-ausgang
+author:
+  name: Krüger, Johann Christian
+  wikidata: Q109643
+title: Le Denouement imprévu. Der unvermuthete Ausgang
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 12
+printed: 1749
+premiered: 1747
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre Carlet de Marivaux: [\"Le Dénouement imprévu\"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DENOUEMENTIMPREVU.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 332
+editions:
+  - title: "Marivaux: Sammlung einiger Lustspiele. 2. Theil. 1749, S. 463–510"
+cast:
+  - name: Herr Argante.
+    gender: m
+  - name: Jungfer Argante,
+    role: des Herrn Argante Tochter.
+    gender: f
+  - group:
+      - name: Dorant,
+        gender: m
+      - name: Erast,
+        gender: m
+    role: der Jungfer Argante Liebhaber.
+  - name: Peter,
+    role: des Herrn Argante Verwalter.
+    gender: m
+  - name: Lisette,
+    role: der Jungfer Argante Mädgen.
+    gender: f
+  - name: Crispin,
+    role: Diener des Ergast.
+    gender: m
+  - name: Ein Bedienter des Herrn Argante.
+    gender: m
+---
 slug: lessing-die-juden
 author:
   name: Lessing, Gotthold Ephraim
@@ -2251,6 +2341,8 @@ subtitle: Ein Nachspiel in Einem Aufzuge
 numberOfScenes: 17
 created: 1763
 printed: 1798
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 459–460
 editions:
   - title: "Berlin und Stettin: Nicolai 1798"
     url: https://books.google.com/books?id=qLli80k3sTsC&printsec=frontcover
@@ -2303,6 +2395,47 @@ cast:
     gender: u
   - name: Redlichkeit
     gender: u
+---
+slug: pfeffel-serena
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q27586233
+title: Serena
+subtitle: Ein Bürgerliches Trauerspiel in Prose von einem Aufzuge. Nebst einem Vorspiel. Aus dem Französischen übersetzt
+numberOfScenes: 9
+printed: 1764
+formalia:
+  - Prosa
+basedOn:
+  - "Paul Landois: [\"Silvie. Tragédie, en Prose, en un Acte\"](https://books.google.com/books?id=9E86AAAAcAAJ&printsec=frontcover)"
+  - Vorlage von Paul Landois sind zwei Erzählungen von Robert Challe aus dem Roman "Les illustres Françoises. Histoire véritable".
+dictionaries:
+  bibliographia: 2. Abteilung, Band 21, S. 159–161
+editions:
+  - title: "Frankfurt und Leipzig: Garbe 1764"
+    url: https://books.google.com/books?id=BUEwAAAAYAAJ&printsec=frontcover
+  - title: "Theatralische Belustigungen. Nach französischen Mustern. Erste Sammlung. Frankfurt und Leipzig: Garbe 1765, S. 1–64"
+    url: https://books.google.com/books?id=1ThdAAAAcAAJ&pg=RA5-PR3
+comments:
+  - Landois' "Silvia" (1741/2) gilt als das erste bürgerliche Trauerspiel.
+  - Das Vorspiel besteht aus 3 Auftritten.
+keywords:
+  - Eifersucht
+  - Vergewaltigung
+cast:
+  - name: Serena.
+    gender: f
+  - name: Philint.
+    gender: m
+  - name: Arist.
+    gender: m
+  - name: Adrast.
+    gender: m
+  - name: Einige Bediente.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz stellet das innwendige eines Zimmers vor, darinnen man nichts erblicket, als die blosen Mauern; einen Tisch auf welchem ein Licht, ein Wassergefäse, und ein Brod, nebst einem Mannskleide und einem schlechten Frauenzimmer-Rocke sich befinden.
 ---
 slug: platen-berengar
 author:
