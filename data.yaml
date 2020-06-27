@@ -1218,9 +1218,9 @@ editions:
   - title: "Moliere's Lustspiele übersetzt von Wolf Grafen Baudissin. Zweiter Band. Leipzig: Hirzel 1866, S. 305–350"
     url: https://de.wikisource.org/wiki/Die_erzwungene_Heirath
 comments:
-  - "Einakterhinweis im Untertitel erst  1771: \"Die enwungene Heyrath. Eine Comödie des Moliere in einem Akte\", allerdings ist nicht klar, ob es sich dabei um die Übersetzung von Bierling handelt."
+  - "Einakterhinweis im Untertitel erst  1771: \"Die erzwungene Heyrath. Eine Comödie des Moliere in einem Akte\", allerdings ist nicht klar, ob es sich dabei um die Übersetzung von Bierling handelt."
   - Auch unter dem Titel "Die Zwangsheirat".
-  - Bei Meyer ist von Friedrich Samuel Bierling die Rede, wahrscheinlich identisch mit Friedrich Immanuel Bierling, vgl. [Leipziger Literaturzeitung 1831](https://books.google.com/books?id=enbtu3MUrkgC&pg=PA2187).
+  - Bei Meyer ist von Friedrich *Samuel* Bierling die Rede, wahrscheinlich identisch mit Friedrich Immanuel Bierling, vgl. [Leipziger Literaturzeitung 1831](https://books.google.com/books?id=enbtu3MUrkgC&pg=PA2187).
 cast:
   - name: Skanarell,
     role: der erzwungene Ehemann.
@@ -2613,6 +2613,72 @@ cast:
   - name: Soldaten von dem Heere Alexanders
     isGroup: true
     gender: m
+---
+slug: thielmann-der-junge-feldherr-oder-die-franzosen-in-aegypten
+author:
+  name: Thielmann, Philipp Jakob
+title: "Der junge Feldherr, oder: die Franzosen in Aegypten"
+subtitle: Historische Skizze damaliger Zeit in einem Akt. Als Liederspiel bearbeitet
+numberOfScenes: 9
+printed: 1831
+formalia:
+  - Prosa
+  - Lieder
+editions:
+  - title: "Stuttgart: Hoffmann 1831"
+    url: https://books.google.com/books?id=Mq6wyMR66CAC&printsec=frontcover
+cast:
+  - name: Bonaparte,
+    role: Obergeneral.
+    gender: m
+  - name: Ein General.
+    gender: m
+  - group:
+      - name: Erster
+        gender: m
+      - name: Zweiter
+        gender: m
+    role: Adjutant.
+  - group:
+      - name: Erster
+        gender: m
+      - name: Zweiter
+        gender: m
+    role: Grenadier.
+  - name: Ein Dragoner.
+    gender: m
+  - name: Ein Husar.
+    gender: m
+  - name: Ein Sapeur.
+    gender: m
+  - name: Ein Tambour.
+    gender: m
+  - group:
+      - name: Erster
+        gender: m
+      - name: Zweiter
+        gender: m
+    role: Musketier.
+  - name: Jeanette,
+    role: ein Marketenderin.
+    gender: f
+  - name: Abdalla-Omar.
+    gender: m
+  - name: Ali,
+    role: sein Sohn.
+    gender: m
+  - name: Rustan,
+    role: ein Mameluck.
+    gender: m
+  - name: Suite,
+    role: des Obergenerals.
+    isGroup: true
+    gender: u
+  - name: Mehre Adjutanten, Wundärzte, Gefangene, Mamelucken, Soldaten, Weiber, Marketenderinnen.
+    isGroup: true
+    gender: u
+setting: >
+  "Scene: Eine Ebene. Entfernt sieht man die Pyramiden. […]"
 ---
 slug: tieck-die-theegesellschaft
 author:
