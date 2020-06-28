@@ -927,6 +927,45 @@ cast:
 setting: >
   Die Handlung ist in des Herrn Erichthons Hause.
 ---
+slug: anonym-la-chercheuse-d-esprit-die-verstandsucherinn
+author:
+  pseudonym: Anonym
+title: La chercheuse d'esprit. Die Verstandsucherinn
+subtitle: Ein Lustspiel in einem Aufzuge aus dem Französischen des Herrn Favart übersetzt
+numberOfScenes: 20
+printed: 1749
+premiered: 1747
+formalia:
+  - Prosa
+basedOn:
+  - "Charles-Simon Favart: \"La Chercheuse d'esprit. Opera-comique\""
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 299–300
+editions:
+  - title: "Schauspiele, welche auf der Schönemannschen Schaubühne aufgeführt worden. Vierter Theil. Braunschweig und Leipzig 1749"
+cast:
+  - name: Frau Barbara,
+    role: eine reiche Pachterinn.
+    gender: f
+  - name: Agnese,
+    role: ihre Tochter.
+    gender: f
+  - name: Herr Schlaukopf,
+    role: ein Notarius.
+    gender: m
+  - name: Valentin,
+    role: sein Sohn.
+    gender: m
+  - name: Schulwitz,
+    role: ein Weltweiser.
+    gender: m
+  - name: Frölichmann,
+    gender: m
+  - name: Cathrine.
+    gender: f
+setting: >
+  Der Schauplatz ist in einem Dorfe, ohnweit Paris.
+---
 slug: anonym-le-francois-a-londres-der-franzos-zu-london
 author:
   pseudonym: Anonym
@@ -1091,6 +1130,40 @@ cast:
     gender: u
 setting: >
   Der Schauplatz ist in einem französischen Grenzstädtchen ohnweit Kaiserslautern.
+---
+slug: anonym-zeneide
+author:
+  pseudonym: Anonym
+title: Zeneide
+subtitle: Ein Lustspiel in einer Handlung aus dem Französischen des Herrn von Cahusac
+numberOfScenes: 11
+printed: 1748
+premiered: 1747
+formalia:
+  - Prosa
+basedOn:
+  - "Louis de Cahusac: \"Zeneide\""
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 120
+editions:
+  - title: "Schönemannsche Schaubühne, Band 1. Sechs Schauspiele aus dem Französischen übersetzt. Braunschweig und Hamburg 1748"
+    url: https://books.google.com/books?id=ah86AAAAcAAJ&pg=PA159
+comments:
+  - Auch unter dem Titel ["Zeneide, ein Lustspiel von einem Aufzuge. Nach dem Französischen des Herrn von Cahüsac" (1760, von Johan Jakob Salomon)](salomon-zeneide).
+keywords:
+  - Liebesprobe
+cast:
+  - name: Die Fee.
+    gender: f
+  - name: Zeneide,
+    role: Olindens Geliebte.
+    gender: f
+  - name: Gnidie,
+    role: in Olinden verliebt.
+    gender: f
+  - name: Olinde,
+    role: Zeneidens Geliebter.
+    gender: m
 ---
 slug: beer-der-paria
 author:
@@ -1336,7 +1409,7 @@ cast:
     isGroup: true
     gender: m
 ---
-slug: delpons-der-ahnherr
+slug: d-elpons-der-ahnherr
 author:
   name: d’Elpons, Friedrich Wilhelm
   wikidata: Q88660800
@@ -1604,6 +1677,33 @@ cast:
   - name: Frau von Thielen
     gender: f
 ---
+slug: dusch-die-unschuldigen-diebe
+author:
+  name: Dusch, Johann Jakob
+  wikidata: Q106895
+title: Die unschuldigen Diebe
+subtitle: Ein Schäferspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1749
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 320
+editions:
+  - title: "Hannover: Seel. Nicolai Försters und Sohns Erben Buchhandlung 1749"
+    url: https://books.google.com/books?id=0i9XMF7U40AC&printsec=frontcover
+cast:
+  - name: Daphne.
+    gender: f
+  - name: Cloris.
+    gender: f
+  - name: Corylas.
+    gender: m
+  - name: Damoet.
+    gender: m
+  - name: Tityr.
+    gender: m
+---
 slug: ekhof-der-wucherer-ein-edelmann
 author:
   name: Ekhof, Konrad
@@ -1698,6 +1798,47 @@ cast:
     gender: m
 setting: >
   Die Bühne ist in dem Zimmer der Madam Argante.
+---
+slug: goentgen-anna-bell
+author:
+  name: Göntgen, Johann Gottlieb
+title: Anna Bell
+subtitle: Ein Trauerspiel in einem Akt
+numberOfScenes: 6
+printed: 1775
+formalia:
+  - Prosa
+basedOn:
+  - "François-Thomas-Marie de Baculard d'Arnaud: \"Anne Bell\""
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 106–107
+editions:
+  - title: "Offenbach und Frankfurt: Weiß 1775"
+    url: https://books.google.com/books?id=42xVAAAAcAAJ&printsec=frontcover
+keywords:
+  - Armut
+  - Selbstmord
+  - Vater-Tochter-Konflikt
+cast:
+  - name: Lord Daramby.
+    gender: m
+  - name: Anna Bell,
+    role: seine Tochter.
+    gender: f
+  - name: Eduard,
+    role: Sohn der Bell, ein Kind von ohngefähr 4 Jahren.
+    gender: m
+  - name: Simpson,
+    role: ein alter Geistlicher.
+    gender: m
+  - name: Sara,
+    role: eine arma[!] Frau.
+    gender: f
+  - name: Karolina,
+    role: ihre Tochter.
+    gender: f
+setting: >
+  Der Schauplatz ist in einer elenden Hütte, der Wohnung der Sara. Die Handlung fängt mit anbrechendem Tage an.
 ---
 slug: heydenreich-der-verliebte-werber
 author:
@@ -2575,6 +2716,35 @@ cast:
     gender: m
 setting: >
   Die Handlung spielt im Hause des Hofraths.
+---
+slug: salomon-zeneide
+author:
+  name: Salomon, Johann Jakob
+title: Zeneide
+subtitle: Ein Lustspiel von einem Aufzuge. Nach dem Französischen des Herrn von Cahüsac
+numberOfScenes: 11
+created: 1759
+printed: 1760
+formalia:
+  - Prosa
+basedOn:
+  - "Louis de Cahusac: \"Zeneide\""
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 482–483
+editions:
+  - title: "Leipzig: Lankische Buchhandlung 1760"
+    url: https://books.google.com/books?id=djRJAAAAcAAJ&printsec=frontcover
+comments:
+  - Auch [anonym übersetzt (1747/48)](anonym-zeneide).
+cast:
+  - name: Die Fee.
+    gender: f
+  - name: Zeneide.
+    gender: f
+  - name: Gnidie.
+    gender: f
+  - name: Olinde.
+    gender: m
 ---
 slug: schlegel-die-stumme-schoenheit
 author:
