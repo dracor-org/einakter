@@ -725,6 +725,46 @@ cast:
 setting: >
   Der Schauplatz ist auf einem Landgute des Marquis.
 ---
+slug: anonym-die-heyrath-durch-wechselbriefe
+author:
+  pseudonym: Anonym
+title: Die Heyrath durch Wechselbriefe
+subtitle: Ein Lustspiel in Versen in einem Aufzuge mit einer Lustbarkeit aus Den[!] Französischen des Herrn Poisson übersetzt
+numberOfScenes: 11
+printed: 1749
+premiered: 1747
+formalia:
+  - Alexandriner
+basedOn:
+  - "Philippe Poisson: \"Le Mariage fait par lettre de change. Comédie en vers et en un acte, avec un Divertissement\""
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 262 und Band 19, S. 178–179
+editions:
+  - title: "Schauspiele, welche auf der Schönemannschen Schaubühne aufgeführt worden. Dritter Theil. 1749"
+comments:
+  - Auch unter dem Titel "Le Mariage par Lettres de change, Die Heyrath durch Wechselbriefe Ein Lustspiel des Hrn. Poisson in einem Aufzuge" (1759)
+cast:
+  - name: Cleon,
+    role: ein reicher Negociant.
+    gender: m
+  - name: Philint,
+    role: Cleons Freund.
+    gender: m
+  - name: Olimpe,
+    role: Tante des Philint.
+    gender: f
+  - name: Hortensia,
+    role: Cleons Versprochene.
+    gender: f
+  - name: Eine Unbekante.
+    gender: f
+  - name: Frontin,
+    role: Cleons Diener.
+    gender: m
+  - name: Einwohner der Insel.
+    isGroup: true
+    gender: u
+---
 slug: anonym-die-nonnen
 author:
   name: J. T.
@@ -2793,6 +2833,34 @@ cast:
 setting: >
   Der Schauplatz ist in der Frau Praatgern Hause.
 ---
+slug: scholze-das-strumpfband
+author:
+  name: Scholze, Johann Sigismund
+  pseudonym: Sperontes
+  wikidata: Q104593
+title: Das Strumpfband
+subtitle: Ein Schäferspiel, in einem Aufzuge
+numberOfScenes: 6
+printed: 1748
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 185
+editions:
+  - title: "Leipzig: Stopffel 1748"
+    url: https://books.google.com/books?id=_RhVAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Bellinde.
+    gender: f
+  - name: Dorilis.
+    gender: m
+  - name: Ismene.
+    gender: f
+  - name: Fidelio.
+    gender: m
+setting: >
+  Der Schauplatz ist eine grüne Gegend am Gebirge.
+---
 slug: speckner-darius
 author:
   name: Speckner, Joseph Valentin Edler von
@@ -3005,3 +3073,39 @@ setting: >
   Der Schauplatz ist eine Strasse, wo besonders Ludewigs Haus mit einem Erker
   oder Balkon zu sehen. Die Handlung geschiehet des Abends, und dauert keine
   längere Zeit, als in der das Stück kan aufgeführet werden.
+---
+slug: weisse-die-matrone-von-ephesus
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Die Matrone von Ephesus
+subtitle: Ein Lustspiel in 1 Aufzug
+numberOfScenes: 9
+created: 1744
+printed: 1764
+premiered: 1748
+formalia:
+  - Alexandriner
+basedOn:
+  - antike Erzählung vond der Witwe aus Ephesus
+dictionaries:
+  bibliographia: 2. Abteilung, Band 14, S. 218–219 und Band 21, S. 214–215
+editions:
+  - title: "Leipzig: Dyck 1767"
+    url: https://nbn-resolving.de/urn:nbn:de:gbv:3:1-333861
+  - title: "Wien: Trattner 1770"
+    url: https://books.google.com/books?id=32tUAAAAcAAJ&printsec=frontcover
+comments:
+  - "Die Wiener Bearbeitung \"Die Matrone von Ephesus oder Sind alles Wittwen so? Ein Lustspiel in Versen in einem Aufzuge\" (1770) stammt wahrscheinlich von Stephanie d. J."
+cast:
+  - name: Antiphila.
+    role: Eine Wittwe.
+    gender: f
+  - name: Dorias.
+    role: Ihre Bediente.
+    gender: f
+  - name: Carion.
+    role: Ein Soldat.
+    gender: m
+setting: >
+  Der Schauplatz stellt ein Grabmal vor.
