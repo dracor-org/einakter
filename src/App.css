@@ -35,3 +35,8 @@ tr.dates > td > span {
 td ul:last-child, td p:last-child {
   margin-bottom: 0;
 }
+
+.counter {
+  float: right;
+  font-size: 90%;
+}

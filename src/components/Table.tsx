@@ -112,6 +112,9 @@ function Table () {
           <div>
             <br/>
             <SearchBar { ...props.searchProps } />
+            <span className="counter">
+              Database currently containing {data.length} one-act plays
+            </span>
             <br/>
             <BootstrapTable
               { ...props.baseProps }
