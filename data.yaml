@@ -363,6 +363,48 @@ cast:
 setting: >
   Die Handlung ist in Hans Rübens Garten, und dauret von Morgens 10, bis um 1 Uhr Nachmittags.
 ---
+slug: anonym-der-jungfernstieg
+author:
+  pseudonym: Anonym
+title: Der Jungfernstieg
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 13
+printed: 1746
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 214
+editions:
+  - title: Hamburg 1746
+    url: http://digitale.bibliothek.uni-halle.de/id/1655619
+cast:
+  - name: Herr Fahrauf,
+    role: ein Rentenirer.
+    gender: m
+  - name: Amalie,
+    role: seine Tochter.
+    gender: f
+  - name: Krückenfeld,
+    role: ein vorgegebener Officier.
+    gender: m
+  - name: Edelherz,
+    role: Amaliens Geliebter.
+    gender: m
+  - name: Hagestolz,
+    role: ein Freund von Fahrauf.
+    gender: m
+  - name: Gurgeltief,
+    role: ein Schmarotzer.
+    gender: m
+  - name: Trinchen,
+    role: Amaliens Mädchen.
+    gender: f
+  - name: Wilhelm,
+    role: Edelherz Diener.
+    gender: m
+setting: >
+  Der Schauplatz ist ein Zimmer in Herrn Fahraufs Hause.
+---
 slug: anonym-der-kuss
 author:
   name: Kl., F.
@@ -408,7 +450,7 @@ editions:
   - title: "Wien 1778"
     url: https://books.google.com/books?id=KN63ibLRsdAC&printsec=frontcover
 comments:
-  - Auch unter den Titeln "Der Liebhaber als ein Schriftsteller und Bedienter. Ein Lustspiel von einer Handlung" (1755), "Der Liebhaber, als Autor und Diener. Ein Lustspiel […] in einem Aufzuge" (1759) und "Der Liebhaber, als ein Schriftsteller und Bedienter. Eine Comödie […] in einem Ackte" (1767).
+  - Auch unter den Titeln »Der Liebhaber als ein Schriftsteller und Bedienter. Ein Lustspiel von einer Handlung« (1755), »Der Liebhaber, als Autor und Diener. Ein Lustspiel […] in einem Aufzuge« (1759) und »Der Liebhaber, als ein Schriftsteller und Bedienter. Eine Comödie […] in einem Ackte« (1767).
 keywords:
   - Verkleidungsspiel
   - Eheanbahnung
@@ -1756,7 +1798,7 @@ premiered: 1752
 formalia:
   - Prosa
 basedOn:
-  - "Le Grand: [\"L'Usurier gentilhomme\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/LEGRAND_USURIERGENTILHOMME.xml)"
+  - "Marc-Antoine LeGrand: [\"L'Usurier gentilhomme\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/LEGRAND_USURIERGENTILHOMME.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 16, S. 92–93
 cast:
@@ -1838,6 +1880,57 @@ cast:
     gender: m
 setting: >
   Die Bühne ist in dem Zimmer der Madam Argante.
+---
+slug: gellert-die-kranke-frau
+author:
+  name: Gellert, Christian Fürchtegott
+  wikidata: Q60584
+title: Die kranke Frau
+subtitle: Ein Nachspiel
+numberOfScenes: 24
+printed: 1747
+premiered: 1747
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 416–425
+editions:
+  - title: "C. F. Gellerts Lustspiele. Zweyte Auflage. Leipzig: Wendler 1750, S. 321–359"
+    url: https://books.google.com/books?id=F4M6AAAAcAAJ&pg=PA321
+  - title: "C. F. Gellerts Lustspiele. Dritte Auflage. Leipzig: Wendler 1755, S. 291–324"
+    url: https://books.google.com/books?id=Cm0Q0R8GjH0C&pg=PA291
+  - title: "C. F. Gellerts Lustspiele. Leipzig: Wendler 1763, S. 291–324"
+    url: https://books.google.com/books?id=IIM6AAAAcAAJ&pg=PA291
+  - title: "Sammlung der sämmtlichen Schriften, von Hrn. C. F. Gellert. Dritter Theil. Wien: Trattner 1765, S. 481–536"
+    url: https://books.google.com/books?id=UPcpsTul_h0C&pg=PA481
+  - title: "C. F. Gellerts Lustspiele. Frankfurt, Leipzig 1770, S. 316–352"
+    url: https://books.google.com/books?id=P2ELAAAAQAAJ&pg=PA316
+  - title: "C. F. Gellerts sämmtliche Lustspiele. Frankfurt und Leipzig 1773, S. 368–408"
+    url: https://books.google.com/books?id=k3o5AQAAMAAJ&pg=PA368
+  - title: "C. F. Gellerts sämmtliche Schriften. Dritter Theil. Neue verbesserte Auflage. Leipzig: Weidmanns Erben, Reich, Fritsch 1784, S. 383–430"
+    url: https://books.google.com/books?id=mjqCDFsRhQYC&pg=PA383
+  - title: "Christian Fürchtegott Gellert: Gesammelte Schriften. Band III. Berlin, New York: De Gruyter 1988, S. 263–294"
+    url: https://doi.org/10.1515/9783110884951.263
+comments:
+  - Titelzusatz »in einem Aufzuge« erst ab 1769.
+  - Vgl. [22. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb022.html)
+    der »Hamburgischen Dramaturgie«.
+cast:
+  - name: Frau Stephan.
+    gender: f
+  - name: Herr Stephan.
+    gender: m
+  - name: Jungfer Philippine,
+    role: Stephans Muhme.
+    gender: f
+  - name: Jungfer Henriette,
+    role: der Frau Stephan Stiefschwester.
+    gender: f
+  - name: Herr Wahrmund,
+    role: ein Chiromantist.
+    gender: m
+  - name: Herr Richard.
+    gender: m
 ---
 slug: goentgen-anna-bell
 author:
@@ -2440,6 +2533,51 @@ cast:
   - name: Ein Bedienter des Herrn Argante.
     gender: m
 ---
+slug: krueger-l-heretier-de-village-der-bauer-mit-der-erbschaft
+author:
+  name: Krüger, Johann Christian
+  wikidata: Q109643
+title: L'Heretier de Village. Der Bauer mit der Erbschaft
+subtitle: Ein Lustspiel von einer Handlung
+numberOfScenes: 15
+printed: 1747
+premiered: 1747
+formalia:
+  - Prosa
+basedOn:
+  - "Marivaux: [\"L'heritier de village. Comédie en un acte\"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 477–478
+editions:
+  - title: "Marivaux: Sammlung einiger Lustspiele. 1. Theil. 1747, S. 361–408"
+cast:
+  - name: Frau Damis.
+    gender: f
+  - name: Der Baron.
+    gender: m
+  - name: Jürge,
+    role: ein Bauer.
+    gender: m
+  - name: Lise,
+    role: Jürgens Frau.
+    gender: f
+  - name: Hans,
+    role: Jürgens Sohn.
+    gender: m
+  - name: Grete,
+    role: Jürgens Tochter.
+    gender: f
+  - name: Arlequin,
+    role: Jürgens Diener.
+    gender: m
+  - name: Der Amtschreiber.
+    gender: m
+  - name: Johann,
+    role: des Procurators Schreiber.
+    gender: m
+setting: >
+  Der Schauplatz ist auf einem Dorfe.
+---
 slug: lessing-die-juden
 author:
   name: Lessing, Gotthold Ephraim
@@ -2518,6 +2656,54 @@ cast:
     gender: m
 setting: >
   Die Scene, ein Zelt in dem Lager des Aridäus.
+---
+slug: leyding-emirene
+author:
+  name: Leyding, Johann Dieterich
+  pseudonym: Anonym
+  wikidata: Q29441765
+title: Emirene
+subtitle: Ein prosaisches Trauerspiel in einer Handlung
+numberOfScenes: 24
+printed: 1753
+formalia:
+  - Prosa
+basedOn:
+  - "Pietro Metastasio: [»Adriano in Siria«](https://dracor.org/ita/metastasio-adriano-in-siria)."
+dictionaries:
+  bibliographia: 2. Abteilung, Band 16, S. 421–422
+editions:
+  - title: "Hamburgische Beyträge zu den Werken des Witzes und der Sittenlehre. Drittes Stück. Hamburg: Brandt 1753, S. 671–736"
+    url: https://books.google.com/books?id=dzQrAAAAYAAJ&pg=RA1-PA671
+comments:
+  - "Laut [Vorbericht](https://books.google.com/books?id=dzQrAAAAYAAJ&pg=RA1-PA673) inspiriert von Saint-Foix' »Zeloide«, die allerdings »zu nichts, als zu dem Gedanken Anlaß gegeben, ein prosaisches Trauerspiel von einer Handlung auszuarbeiten«."
+cast:
+  - name: Emirene.
+    role: Gefangene des Hadrianus, und Geliebte des Farnaspes.
+    gender: f
+  - name: Sabina.
+    role: Enkelinn des Trajanus, und Versprochene des Hadrianus.
+    gender: f
+  - name: Hadrianus.
+    role: Römischer Kayser, und Liebhaber der Emirene.
+    gender: m
+  - name: Osroas.
+    role: König der Parther, und Vater der Emirene.
+    gender: m
+  - name: Farnaspes.
+    role: Ein Parthischer Fürst, Freund und Vasall des Osroas, Liebhaber und Versprochener der Emirene.
+    gender: m
+  - name: Aquilius.
+    role: Vertrauter des Hadrianus, und heimlicher Liebhaber der Sabina.
+    gender: m
+  - name: Tullia.
+    role: Vertraute der Sabina.
+    gender: f
+  - name: Metellus.
+    role: Hauptmann der Trabanten.
+    gender: m
+setting: >
+  Der Schauplatz ist zu Antiochien, im kayserlichen Pallaste.
 ---
 slug: martini-die-prachtsuechtige
 author:
@@ -2786,6 +2972,98 @@ cast:
   - name: Olinde.
     gender: m
 ---
+slug: schlegel-anne-dore-oder-die-einquartierung
+author:
+  name: Schlegel, Johann Adolf
+  pseudonym: Nisus
+  wikidata: Q70415
+title: Anne Dore, oder Die Einquartierung
+subtitle: Ein Schäferspiel in einem Aufzuge von denen Kohlgärtnern
+numberOfScenes: 17
+printed: 1746
+premiered: 1746
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 184–185
+editions:
+  - title: "Vom Natürlichen in Schäfergedichten, wider die Verfasser der Bremischen neuen Beyträge verfertigt. Zweyte Auflage. Zürich: Heidegger 1746, S. 107–133"
+    url: https://books.google.com/books?id=hZdhAAAAcAAJ&pg=PA107
+  - title: "[Ohne Ort] 1746"
+    url: https://books.google.com/books?id=rPC_xQEACAAJ&printsec=frontcover
+cast:
+  - name: Anne Dore.
+    role: Eine junge unempfindliche Schäferin.
+    gender: f
+  - name: Hanns Görge.
+    role: Ein spaßhafter Schäfer, der Wirth im Dorfe.
+    gender: m
+  - name: Grete.
+    role: Eine satirische Schäferin, Veltens Schwester.
+    gender: f
+  - name: Michel.
+    role: Ein prahlerischer Schäfer, Hanns Görgens Bruder.
+    gender: m
+  - name: Velten.
+    role: Ein zärtlicher Schäfer.
+    gender: m
+  - name: Rosine.
+    role: Die Mutter der Anne Dore.
+    gender: f
+  - name: Der Furier,
+    role: von der Compagnie, die da im Quartier liegt.
+    gender: m
+  - name: Zwene Soldaten von eben dieser Compagnie.
+    isGroup: true
+    gender: m
+  - name: Magd.
+    role: In der Schenke.
+    gender: f
+setting: >
+  Der Schauplatz ist in der Schenke in den Kohlgärten.
+---
+slug: schlegel-der-sieg-der-vergangenen-zeit
+author:
+  name: Schlegel, Johann Elias
+  pseudonym: Anonym
+  wikidata: Q55998571
+title: Der Sieg der vergangenen Zeit
+subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen übersetzt
+numberOfScenes: 9
+printed: 1746
+premiered: 1747
+formalia:
+  - Prosa
+basedOn:
+  - "Marc-Antoine LeGrand: »Le triomphe du temps«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 308 und Band 16, S. 335–336
+editions:
+  - title: "[Das Buch ohne Titel.] [Hamburg] 1746."
+comments:
+  - Auch unter dem Titel »Der Triumph der vergangenen Zeit. Lustspiel in einem Aufzug und in Prosa. Aus dem Französischen des Le Grand« (1753).
+cast:
+  - name: Cleon,
+    role: Leanders Vater, ein alter Liebhaber der Frau Roquentin.
+    gender: m
+  - name: Frau Roquentin,
+    role: Cleons alte Liebste.
+    gender: f
+  - name: Leander,
+    role: Cleons Sohn, Isabellens bestimmter Bräutigam.
+    gender: m
+  - name: Isabelle,
+    role: Tochter der Frau Roquentin, Leanders bestimmte Braut.
+    gender: f
+  - name: Drillot,
+    role: Cleons Diener.
+    gender: m
+  - name: Dorinette,
+    role: Mädgen der Frau Roquentin.
+    gender: f
+setting: >
+  Der Schauplatz ist zu Paris in dem Hause der Frau Roquentin.
+---
 slug: schlegel-die-stumme-schoenheit
 author:
   name: Schlegel, Johann Elias
@@ -2833,6 +3111,35 @@ cast:
 setting: >
   Der Schauplatz ist in der Frau Praatgern Hause.
 ---
+slug: scholze-johann-sigismund-das-kätzgen
+author:
+  name: Scholze, Johann Sigismund
+  pseudonym: Sperontes
+  wikidata: Q104593
+title: Das Kätzgen
+subtitle: Ein Schäferspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1746
+premiered: 1755
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 309
+editions:
+  - title: "Leipzig: Stopffel 1746"
+    url: https://books.google.com/books?id=08pIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Amarillis.
+    gender: f
+  - name: Margaris.
+    gender: f
+  - name: Sylvio.
+    gender: m
+  - name: Titirus.
+    gender: m
+setting: >
+  Der Schauplatz ist im freyen Felde.
+---
 slug: scholze-das-strumpfband
 author:
   name: Scholze, Johann Sigismund
@@ -2860,6 +3167,36 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist eine grüne Gegend am Gebirge.
+---
+slug: scholze-die-kirms
+author:
+  name: Scholze, Johann Sigismund
+  pseudonym: Sperontes
+  wikidata: Q104593
+title: Die Kirms
+subtitle: Ein Schäferspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1746
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 309
+editions:
+  - title: "Leipzig: Stopffel 1746"
+    url: https://books.google.com/books?id=1spIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Damon.
+    gender: m
+  - name: Thyrsis.
+    gender: m
+  - name: Lelio.
+    gender: m
+  - name: Cloris.
+    gender: f
+  - name: Celinde.
+    gender: f
+setting: >
+  Der Schauplatz ist in Damons Hause.
 ---
 slug: speckner-darius
 author:
@@ -3030,9 +3367,9 @@ printed: 1746
 formalia:
   - Alexandriner
 basedOn:
-  - "F. Rijk: De belachelyke ergenaam"
-  - "Scarron: L'Heritier ridicule"
-  - "A. de Castillo Solorzano: El mayorazgo figura"
+  - "Frans Rijk: \"De belachelyke erfgenaam\""
+  - "Scarron: [\"L'Héritier ridicule ou la Dame intéressée\"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_HERITIERRIDICULE.xml)"
+  - "Alonso de Castillo Solórzano: \"El mayorazgo figura\""
 dictionaries:
   bibliographia: 2. Abteilung, Band 13, S. 316–317
 editions:
@@ -3073,6 +3410,210 @@ setting: >
   Der Schauplatz ist eine Strasse, wo besonders Ludewigs Haus mit einem Erker
   oder Balkon zu sehen. Die Handlung geschiehet des Abends, und dauert keine
   längere Zeit, als in der das Stück kan aufgeführet werden.
+---
+slug: uhlich-der-faule-bauer
+author:
+  name: Uhlich, Adam Gottfried
+  wikidata: Q349537
+title: Der faule Bauer
+subtitle: Ein Nachspiel
+numberOfScenes: 5
+printed: 1745
+premiered: 1747
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 169–170
+editions:
+  - title: "Zweyte Sammlung neuer Lustspiele. Danzig und Leipzig: Rüdiger 1747, S. 331–368"
+    url: https://books.google.com/books?id=JJJTAAAAcAAJ&pg=PA331
+  - title: "Frankfurt und Leipzig: Trausold 1753"
+    url: https://books.google.com/books?id=jJJTAAAAcAAJ&printsec=frontcover
+comments:
+  - "Alternative Untertitel: \"Ein Lustspiel von einem Aufzuge\" (1747), \"Ein Lustspiel, in Versen\" (1752?). Später auch Ausgaben mit 6 und 7 Auftritten statt 5. Namen der Protagonisten ab der Ausgabe von 1747 geändert."
+cast:
+  - name: Nickel Clas,
+    role: der faule Bauer.
+    gender: m
+  - name: Hänsgen,
+    role: dessen jüngster Bruder.
+    gender: m
+  - name: Stephen,
+    role: in Trinen verliebt.
+    gender: m
+  - name: Trine,
+    role: in Nickel Clas verliebt.
+    gender: f
+  - name: Lise,
+    role: eine junge Bäuerinn.
+    gender: f
+---
+slug: uhlich-der-mohr
+author:
+  name: Uhlich, Adam Gottfried
+  wikidata: Q349537
+title: Der Mohr
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 13
+printed: 1746
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 319
+editions:
+  - title: "Erste Sammlung neuer Lustspiele. Danzig und Leipzig: Rüdiger 1746, S. 299–344"
+    url: https://books.google.com/books?id=BUg7AAAAcAAJ&pg=PA299
+  - title: "Theater der Deutschen. Achter Theil. Berlin, Königsberg und Leipzig: Kanter 1769, S. 387–426"
+    url: https://books.google.com/books?id=Q8JXAAAAcAAJ&pg=PA387
+keywords:
+  - Verkleidungsspiel
+  - Vater-Tochter-Beziehung
+  - Eheanbahnung
+cast:
+  - name: Herr von Reichenhard,
+    role: ein alter Hofbedienter.
+    gender: m
+  - name: Fräulein Dorinde,
+    role: dessen Tochter.
+    gender: f
+  - name: Herr von Treufeld,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Der Verwalter auf des Herrn von Reichenhards Schlosse.
+    gender: m
+  - name: Melcher,
+    role: des Herrn von Reichenhards Mohr.
+    gender: m
+---
+slug: uhlich-der-plauderhafte-schaefer
+author:
+  name: Uhlich, Adam Gottfried
+  wikidata: Q349537
+title: Der plauderhafte Schäfer
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 11
+printed: 1746
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 319
+editions:
+  - title: "Erste Sammlung neuer Lustspiele. Danzig und Leipzig: Rüdiger 1746, S. 257–298"
+    url: https://books.google.com/books?id=BUg7AAAAcAAJ&pg=PA257
+cast:
+  - name: Amint,
+    role: der plauderhafte Schäfer.
+    gender: m
+  - name: Ttirus,
+    role: ein prahlerischer Schäfer.
+    gender: m
+  - group:
+      - name: Lalage,
+        gender: f
+      - name: Lesbie,
+        gender: f
+    role: Schäferinnen.
+---
+slug: uhlich-der-schiffbruch-oder-crispins-leichen-begaengniss
+author:
+  name: Uhlich, Adam Gottfried
+  wikidata: Q349537
+title: Der Schiffbruch Oder Crispins Leichen-Begängniß
+subtitle: Ein Lustspiel von einem Aufzuge aus dem Französischen übersetzt
+numberOfScenes: 13
+printed: 1747
+premiered: 1747
+formalia:
+  - Alexandriner
+basedOn:
+  - "Joseph de La Font: [\"Le Naufrage ou la pompe funèbre de Crispin\"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/LAFONT_NAUFRAGE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 534
+editions:
+  - title: "Zweyte Sammlung neuer Lustspiele. Danzig und Leipzig: Rüdiger 1747, S. 259–294"
+    url: https://books.google.com/books?id=JJJTAAAAcAAJ&pg=PA259
+comments:
+  - Auch aufgeführt als "Lust-Spiel In drey Aufzügen mit Arien und Tänzen" (1770).
+cast:
+  - name: Der Gouverneur, über die Wilden.
+    gender: m
+  - name: Der Oberpriester der Insel.
+    gender: m
+  - name: Die Oberpriesterin.
+    gender: f
+  - name: Licander,
+    role: ein Europäer.
+    gender: m
+  - name: Eliante,
+    role: seine Braut.
+    gender: f
+  - name: Marine,
+    role: ihr Mädgen.
+    gender: f
+  - name: Piracmon,
+    role: ein Insulaner, Marinens Mann.
+    gender: m
+  - name: Crispin,
+    role: Licanders Diener.
+    gender: m
+  - name: Ein redender Insulaner, und noch viele andere Einwohner der Insul.
+    isGroup: true
+    gender: u
+---
+slug: uhlich-die-irthuemer
+author:
+  name: Uhlich, Adam Gottfried
+  wikidata: Q349537
+title: Die Irthümer
+subtitle: Ein Lustspiel von einem Aufzuge aus dem Französischen des Herrn Brueys übersetzt
+numberOfScenes: 23
+printed: 1747
+formalia:
+  - Prosa
+basedOn:
+  - "David-Auguste de Brueys: [\"Les Quiproquo\"](https://books.google.com/books?id=5aVdsmfDfZoC&pg=PA217)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 532–533
+editions:
+  - title: "Zweyte Sammlung neuer Lustspiele. Danzig und Leipzig: Rüdiger 1747, S. 295–330"
+    url: https://books.google.com/books?id=JJJTAAAAcAAJ&pg=PA295
+cast:
+  - name: Die Präsidentin von Baumenau.
+    gender: f
+  - name: Nerine,
+    role: ihr Kammermädgen.
+    gender: f
+  - name: Festesitz,
+    role: Marianens Vater und Herr von dem Gasthause zum Großtürken genannt.
+    gender: m
+  - name: Mariane,
+    role: Festesitz Tochter.
+    gender: f
+  - name: Liebmann,
+    role: Marianens Geliebter.
+    gender: m
+  - name: Der Baron von Reichenthal,
+    role: Erbherr auf Armenheim.
+    gender: m
+  - name: Cathrine,
+    role: ein Dienstmädchen im Gasthause.
+    gender: f
+  - name: Erhard,
+    role: Liebmanns Diener.
+    gender: m
+  - name: Jacob,
+    role: ein Aufwärter im Gasthause.
+    gender: m
+  - name: Männer in rothen und Männer in grauen Mänteln.
+    isGroup: true
+    gender: u
+  - name: Ein Commissarius.
+    gender: m
+  - name: Thorwächter.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist auf einem Saale in dem Wirthshause zum Großtürken.
 ---
 slug: weisse-die-matrone-von-ephesus
 author:
