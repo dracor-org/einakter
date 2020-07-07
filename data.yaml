@@ -846,34 +846,35 @@ slug: anonym-die-weiber-list
 author:
   pseudonym: Anonym
 title: Die Weiber-List
-subtitle: Ein Lustspiel in einer Handlung
+subtitle: Ein Schauspiel Oder Lustspiel von einer Handlung
 numberOfScenes: 16
-printed: 1753
+printed: 1743
 formalia:
   - Alexandriner
 dictionaries:
-  bibliographia: 2. Abteilung, Band 17, S. 54–55
+  bibliographia: 2. Abteilung, Band 12, S. 224–225 und Band 17, S. 54–55
 editions:
+  - title: "Hamburg: Nottebohm 1743"
   - title: "Neueste Auflage. Frankfurt und Leipzig 1753"
     url: https://books.google.com/books?id=eDFJAAAAcAAJ&printsec=frontcover
 comments:
-  - Auch unter dem Titel "Die Frauenlist, ein Lustspiel. Von einer Handlung in Versen" (ohne Ort 1754).
+  - Auch unter dem Titel »Die Frauenlist, ein Lustspiel. Von einer Handlung in Versen« (ohne Ort 1754).
 cast:
   - name: Herr Steffen.
+    gender: m
+  - name: Frau Steffen.
+    gender: f
+  - name: Herr Liebegern,
+    role: ein Buhler von der Frau Steffen.
     gender: m
   - name: Herr Gismund,
     role: Liebegerns Nebenbuhler.
     gender: m
-  - name: Frau Steffen.
-    gender: f
-  - name: Hr. Liebegern,
-    role: ein Buhler der Frau Steffen.
-    gender: m
-  - name: Cathrine
-    role: der Frau Steffen Mägdgen.
+  - name: Cathrine,
+    role: der Frau Steffen Mädgen.
     gender: f
 setting: >
-  Der Schauplatz ist in Herr Steffens Hause, welches mit etlichen Stühlen, einem Ruhe-Bette und einer Leinen-Kiste ausgezieret.
+  Der Schauplatz ist in Herr Steffens Hause, welches mit etlichen Stühlen, ein Ruhebett und einer leinen Kiste ausgezieret.
 ---
 slug: anonym-die-gebesserten
 author:
@@ -1932,6 +1933,42 @@ cast:
   - name: Herr Richard.
     gender: m
 ---
+slug: gellert-sylvia
+author:
+  name: Gellert, Christian Fürchtegott
+  wikidata: Q60584
+title: Sylvia
+subtitle: Ein Schäferspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1745
+premiered: 1746
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 97–106
+editions:
+  - title: "Belustigungen des Verstandes und des Witzes. Leipzig: Breitkopf 1745, S. 291–324"
+    url: https://books.google.com/books?id=x-VIAAAAcAAJ&pg=PA291
+  - title: "Sammlung der sämmtlichen Schriften, von Hrn. C. F. Gellert. Dritter Theil. Neue Auflage. [Ohne Ort] 1763, S. 285–316"
+    url: https://books.google.com/books?id=41FZAAAAcAAJ&pg=PA285
+  - title: "Sammlung der sämmtlichen Schriften, von Hrn. C. F. Gellert. Dritter Theil. Wien: Trattner 1765, S. 434–480"
+    url: https://books.google.com/books?id=UPcpsTul_h0C&pg=PA434
+  - title: "C. F. Gellerts sämmtliche Lustspiele. Frankfurt und Leipzig 1773, S. 333–367"
+    url: https://books.google.com/books?id=k3o5AQAAMAAJ&pg=PA333
+keywords:
+  - Liebeskomödie
+cast:
+  - name: Sylvia.
+    gender: f
+  - name: Damoet.
+    gender: m
+  - name: Galathe.
+    gender: f
+  - name: Myrtill.
+    gender: m
+  - name: Montan.
+    gender: m
+---
 slug: goentgen-anna-bell
 author:
   name: Göntgen, Johann Gottlieb
@@ -2578,6 +2615,55 @@ cast:
 setting: >
   Der Schauplatz ist auf einem Dorfe.
 ---
+slug: laub-die-weyhnachtstube
+author:
+  name: Laub, Johann Georg
+title: Die Weyhnachtstube
+subtitle: Ein Lustspiel in einer Abhandlung
+numberOfScenes: 16
+printed: 1744
+formalia:
+  - Prosa
+basedOn:
+  - "Ludvig Holberg: »Julestuen«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 12, S. 395–396
+editions:
+  - title: "Zum dritten und letzten male Sechs Lust-Spiele. Coppenhagen und Leipzig: Rothe 1744, S. 1–38"
+    url: https://books.google.com/books?id=lCwJYDoN5loC&pg=PA1
+comments:
+  - Auch unter dem Titel »Die Weihnachtstube. Ein Lustspiel in einer Handlung« (1761).
+cast:
+  - name: Jeronimus,
+    role: ein alter Bürger und Handwerksmann.
+    gender: m
+  - name: Leonora,
+    role: dessen junges liederliches Eheweib.
+    gender: f
+  - name: Pernille,
+    role: ihre Magd.
+    gender: f
+  - name: Leander,
+    role: der Leonoren Liebhaber.
+    gender: m
+  - name: Magdalena,
+    role: des Jeronimi Schwester.
+    gender: f
+  - name: Hans,
+    role: des Jeronimi Knecht.
+    gender: m
+  - name: Ein Schulmeister.
+    gender: m
+  - name: Sechs Kinder.
+    isGroup: true
+    gender: u
+  - name: Einige Nachbaren von Jeronimus.
+    isGroup: true
+    gender: u
+  - name: Einige Wächter.
+    isGroup: true
+    gender: u
+---
 slug: lessing-die-juden
 author:
   name: Lessing, Gotthold Ephraim
@@ -2943,6 +3029,39 @@ cast:
 setting: >
   Die Handlung spielt im Hause des Hofraths.
 ---
+slug: rost-die-gelernte-liebe
+author:
+  name: Rost, Johann Christoph
+  wikidata: Q1693059
+title: Die gelernte Liebe
+subtitle: Ein Schäferspiel Von Einer Handlung
+numberOfScenes: 7
+printed: 1742
+premiered: 1741
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 12, S. 156–159
+editions:
+  - title: "Versuch von Schäfer-Gedichten und andern poëtischen Ausarbeitungen. [Ohne Ort: ohne Verlag] 1748, S. 155–197"
+    url: https://books.google.com/books?id=USg7AAAAcAAJ&pg=PA155
+comments:
+  - Auch unter dem Titel »Die Gelernte Liebe, ein Schäferspiel, von einem Aufzuge« (o. J.).
+  - Auch unter dem Titel »Der versteckte Hammel, oder die gelernte Liebe« (1743).
+cast:
+  - group:
+      - name: Damöt,
+        gender: m
+      - name: Tiren,
+        gender: m
+    role: Schäfer.
+  - group:
+      - name: Amarillis,
+        gender: f
+      - name: Silvie,
+        gender: f
+    role: Schäferinnen.
+---
 slug: salomon-zeneide
 author:
   name: Salomon, Johann Jakob
@@ -3210,6 +3329,7 @@ premiered: 1774-09-19
 formalia:
   - Blankvers
 dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 172–173
   dramenlexikon: S. 290
 editions:
   - title: "München: Thuille 1775"
@@ -3221,21 +3341,28 @@ keywords:
 ids:
   wikidata: Q95569070
 cast:
-  - name: Darius, König der Perser
+  - name: Darius
+    role: König der Perser.
     gender: m
-  - name: Alexander, König der Macedonier
+  - name: Alexander
+    role: König der Macedonier.
     gender: m
-  - name: Sysigambis, Mutter des Darius
+  - name: Sysigambis
+    role: Mutter des Darius.
     gender: f
-  - name: Ochus, des Darius Söhnchen
+  - name: Ochus
+    role: des Darius Söhnchen.
     gender: m
-  - name: Polystrat, ein Macedonier
+  - name: Polystrat
+    role: ein Macedonier.
     gender: m
-  - name: Mithracen, Perser
-    gender: m
-  - name: Orsill, Perser
-    gender: m
-  - name: Soldaten von dem Heere Alexanders
+  - group:
+      - name: Mithracen
+        gender: m
+      - name: Orsill
+        gender: m
+    role: Perser.
+  - name: Soldaten von dem Heere Alexanders.
     isGroup: true
     gender: m
 ---
@@ -3410,6 +3537,48 @@ setting: >
   Der Schauplatz ist eine Strasse, wo besonders Ludewigs Haus mit einem Erker
   oder Balkon zu sehen. Die Handlung geschiehet des Abends, und dauert keine
   längere Zeit, als in der das Stück kan aufgeführet werden.
+---
+slug: uhlich-das-fest
+author:
+  name: Uhlich, Adam Gottfried
+  wikidata: Q349537
+title: Das Fest
+subtitle: Ein Schäferspiel von einem Aufzuge
+numberOfScenes: 8
+printed: 1743
+premiered: 1742
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 12, S. 279–281 und Band 13, S. 354
+editions:
+  - title: "[Ohne Ort: ohne Drucker 1743]"
+comments:
+  - Auch unter dem Titel »Das Fest der danckbahren Schäffer« (1743).
+cast:
+  - group:
+      - name: Seladon.
+        gender: m
+      - name: Thyrsis.
+        gender: m
+      - name: Licidas.
+        gender: m
+      - name: Silvius.
+        gender: m
+    role: "Vier Schäfer, als:"
+  - group:
+      - name: Cloe.
+        gender: f
+      - name: Phillis.
+        gender: f
+      - name: Doris.
+        gender: f
+    role: "Drei Schäferinnen, als:"
+  - name: Margaris.
+    role: "Eine junge und unschuldige Schäferinn, als:"
+    gender: f
+setting: >
+  Der Schauplatz stellet eine lustige Gegend vor, mit grünen Bäumen und Säulen ausgezieret.
 ---
 slug: uhlich-der-faule-bauer
 author:
