@@ -110,7 +110,7 @@ subtitle: Ein Musicalisches Schäfer-Spiel in einer Handlung
 numberOfScenes: 5
 printed: 1752
 basedOn:
-  - "Leopoldo de Villati: Giudicio di Paride"
+  - "Leopoldo de Villati: »Giudicio di Paride«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 15, S. 467
 editions:
@@ -133,6 +133,54 @@ cast:
     gender: m
 setting: >
   Der Schauplatz stellt das Gefilde in dem Gebürge in der Nachbarschaft von Troja vor.
+---
+slug: anonym-der-ball
+author:
+  pseudonym: Anonym
+title: Der Ball
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 18
+printed: 1757
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-François Regnard: [»Le Bal ou Le Bourgeois de Falaise«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_BAL.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 396
+editions:
+  - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757. S. 39–70"
+    url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=PA39
+cast:
+  - name: Leonore.
+    gender: f
+  - name: Valer.
+    role: Leonorens Liebhaber.
+    gender: m
+  - name: Lisette.
+    gender: f
+  - name: Merlin.
+    gender: m
+  - name: Geront,
+    role: Leonorens Vater.
+    gender: m
+  - name: Herr von Sotenkur.
+    gender: m
+  - name: Fijack.
+    gender: m
+  - name: Mathias Dietrich,
+    role: Vetter des Sotenkur.
+    gender: m
+  - name: Löffel,
+    role: ein Koch.
+    gender: m
+  - name: Berg,
+    role: ein Weinhändler.
+    gender: m
+  - name: Cathrine.
+    gender: f
+  - name: Ein Haufen Masken
+    isGroup: true
+    gender: u
 ---
 slug: anonym-der-betrogene-kadi
 author:
@@ -540,7 +588,7 @@ printed: 1756
 formalia:
   - Prosa
 basedOn:
-  - "Destouches: L'Envieux, ou La Critique du Philosophe marié"
+  - "Destouches: »L'Envieux, ou La Critique du Philosophe marié«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 18, S. 263–264
 editions:
@@ -665,7 +713,7 @@ printed: 1750
 formalia:
   - Prosa
 basedOn:
-  - "Saintfoix: \"Le philosophe dupe de l'amour. Comédie en un acte\""
+  - "Saintfoix: »Le philosophe dupe de l'amour. Comédie en un acte«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 14, S. 470–471
 editions:
@@ -729,13 +777,13 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Thomas L'Affichard: \"La Famille. Comédie en un acte\""
+  - "Thomas L'Affichard: »La Famille. Comédie en un acte«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 14, S. 250
 editions:
   - title: "Schauspiele, welche auf der Schönemannschen Schaubühne aufgeführt worden. Vierter Theil. Braunschweig und Leipzig 1749"
 comments:
-  - "Auch unter dem Titel \"Die Familie. Ein Lustspiel in einem Aufzuge. Aus dem Französischen übersetzt\" (von Joseph Berhandtsky von Adlersberg, Frankfurt und Leipzig: Joh. Jos. Mayers Erben 1777)."
+  - "Auch unter dem Titel »Die Familie. Ein Lustspiel in einem Aufzuge. Aus dem Französischen übersetzt« (von Joseph Berhandtsky von Adlersberg, Frankfurt und Leipzig: Joh. Jos. Mayers Erben 1777)."
 keywords:
   - Eheanbahnung
   - Standesproblematik
@@ -778,7 +826,7 @@ premiered: 1747
 formalia:
   - Alexandriner
 basedOn:
-  - "Philippe Poisson: \"Le Mariage fait par lettre de change. Comédie en vers et en un acte, avec un Divertissement\""
+  - "Philippe Poisson: »Le Mariage fait par lettre de change. Comédie en vers et en un acte, avec un Divertissement«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 14, S. 262 und Band 19, S. 178–179
 editions:
@@ -819,7 +867,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Pierre-René Lemonnier: \"Le Cadi dupé\""
+  - "Pierre-René Lemonnier: »Le Cadi dupé«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 14, S. 372
 editions:
@@ -841,6 +889,50 @@ cast:
     gender: m
 setting: >
   Die Bühne ist der Eßsaal. Auf dem Schauplatze steht ein Tisch mit zweyen Lichtern. Das übrige ist dunkel.
+---
+slug: anonym-die-schoene-stolze-oder-das-verwoehnte-kind
+author:
+  pseudonym: Anonym
+title: Die Schöne Stolze oder Das verwöhnte Kind
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1756
+formalia:
+  - Prosa
+basedOn:
+  - "Destouches: »La belle Orgueilleuse ou l'enfant gâté«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 281–282
+editions:
+  - title: "Des Herrn Nericault Destouches sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Leipzig und Göttingen: Luzac der jüngere 1756, S. 477–518"
+    url: https://books.google.com/books?id=KaVmAAAAcAAJ&pg=PA477
+cast:
+  - name: Frau Argante.
+    gender: f
+  - group:
+      - name: Pulcherie
+        gender: f
+      - name: Sophie
+        gender: f
+    role: ihre Töchter.
+  - name: Herr von Gutmannsdorf.
+    role: Der Frau Argante Bruder.
+    gender: m
+  - group:
+      - name: Der Marquis
+        gender: m
+      - name: Der Graf
+        gender: m
+      - name: Dorant
+        gender: m
+      - name: Herr von Neuhaus
+        gender: m
+    role: Pulcheriens Liebhaber.
+  - name: Lisette
+    role: Kammerjungfer der Frau Argante.
+    gender: f
+setting: >
+  Der Schauplatz ist in der Frau Argante Hause.
 ---
 slug: anonym-die-weiber-list
 author:
@@ -944,7 +1036,7 @@ printed: 1755
 formalia:
   - Prosa
 basedOn:
-  - "Ludvig Holberg: Den forvandlede Brudgom"
+  - "Ludvig Holberg: »Den forvandlede Brudgom«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 17, S. 464–465
 editions:
@@ -1021,7 +1113,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Charles-Simon Favart: \"La Chercheuse d'esprit. Opera-comique\""
+  - "Charles-Simon Favart: »La Chercheuse d'esprit. Opera-comique«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 14, S. 299–300
 editions:
@@ -1060,7 +1152,7 @@ premiered: 1747-05-26
 formalia:
   - Prosa
 basedOn:
-  - "Louis de Boissy: [\"Le François à Londres\"](https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/BOISSY_FRANCAISALONDRES.xml)."
+  - "Louis de Boissy: [»Le François à Londres«](https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/BOISSY_FRANCAISALONDRES.xml)."
 dictionaries:
   bibliographia: 2. Abteilung, Band 14, S. 50–51
 editions:
@@ -1068,7 +1160,7 @@ editions:
   - title: "Frankckfurt und Leipzig: Fuchs 1753"
     url: https://books.google.com/books?id=k2Y7AAAAcAAJ&printsec=frontcover
 comments:
-  - "Auch unter dem Titel \"Der Franzose zu Londen. Ein Lustspiel In Einem Aufzuge\" (Frankfurt und Leipzig: Fuchs 1753)."
+  - "Auch unter dem Titel »Der Franzose zu Londen. Ein Lustspiel In Einem Aufzuge« (Frankfurt und Leipzig: Fuchs 1753)."
 cast:
   - group:
       - name: Baron von Polenville,
@@ -1225,7 +1317,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Louis de Cahusac: \"Zeneide\""
+  - "Louis de Cahusac: »Zeneide«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 14, S. 120
 editions:
@@ -1301,7 +1393,7 @@ premiered: 1753
 formalia:
   - Prosa
 basedOn:
-  - "Molière: [\"Le Sicilien, ou l'Amour peintre\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_SICILIEN.xml)"
+  - "Molière: [»Le Sicilien, ou l'Amour peintre«](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_SICILIEN.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 16, S. 58–59
 editions:
@@ -1365,7 +1457,7 @@ printed: 1752
 formalia:
   - Prosa
 basedOn:
-  - "Molière: [\"Le Mariage forcé\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_MARIAGEFORCE.xml)"
+  - "Molière: [»Le Mariage forcé«](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_MARIAGEFORCE.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 16, S. 45–46
 editions:
@@ -1374,7 +1466,7 @@ editions:
   - title: "Moliere's Lustspiele übersetzt von Wolf Grafen Baudissin. Zweiter Band. Leipzig: Hirzel 1866, S. 305–350"
     url: https://de.wikisource.org/wiki/Die_erzwungene_Heirath
 comments:
-  - "Einakterhinweis im Untertitel erst  1771: \"Die erzwungene Heyrath. Eine Comödie des Moliere in einem Akte\", allerdings ist nicht klar, ob es sich dabei um die Übersetzung von Bierling handelt."
+  - "Einakterhinweis im Untertitel erst 1771: »Die erzwungene Heyrath. Eine Comödie des Moliere in einem Akte«, allerdings ist nicht klar, ob es sich dabei um die Übersetzung von Bierling handelt."
   - Auch unter dem Titel "Die Zwangsheirat".
   - Bei Meyer ist von Friedrich *Samuel* Bierling die Rede, wahrscheinlich identisch mit Friedrich Immanuel Bierling, vgl. [Leipziger Literaturzeitung 1831](https://books.google.com/books?id=enbtu3MUrkgC&pg=PA2187).
 cast:
@@ -1427,7 +1519,7 @@ editions:
   - title: Goethe Yearbook. Vol. 8 (1996), S. 223–237
     url: https://doi.org/10.1353/gyr.2011.0084
 comments:
-  - Kein Hinweis auf Einaktigkeit im Titel in der Forschung wiederholt "Einakter" genannt.
+  - Kein Hinweis auf Einaktigkeit im Titel, in der Forschung wiederholt »Einakter« genannt.
 keywords:
   - Verkleidungsspiel
   - Ehe
@@ -1799,7 +1891,7 @@ premiered: 1752
 formalia:
   - Prosa
 basedOn:
-  - "Marc-Antoine LeGrand: [\"L'Usurier gentilhomme\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/LEGRAND_USURIERGENTILHOMME.xml)"
+  - "Marc-Antoine LeGrand: [»L'Usurier gentilhomme«](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/LEGRAND_USURIERGENTILHOMME.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 16, S. 92–93
 cast:
@@ -1851,7 +1943,7 @@ premiered: 1752
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [\"L'Ecole des meres\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ECOLEDESMERES.xml)"
+  - "Marivaux: [»L'Ecole des meres«](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ECOLEDESMERES.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 16, S. 372–374
 editions:
@@ -1979,7 +2071,7 @@ printed: 1775
 formalia:
   - Prosa
 basedOn:
-  - "François-Thomas-Marie de Baculard d'Arnaud: \"Anne Bell\""
+  - "François-Thomas-Marie de Baculard d'Arnaud: »Anne Bell«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 26, S. 106–107
 editions:
@@ -2010,6 +2102,55 @@ cast:
 setting: >
   Der Schauplatz ist in einer elenden Hütte, der Wohnung der Sara. Die Handlung fängt mit anbrechendem Tage an.
 ---
+slug: hensler-der-geschwaetzige-barbier
+author:
+  name: Hensler, Karl Friedrich
+  wikidata: Q1731074
+title: Der geschwätzige Barbier
+subtitle: Eine Posse in einem Aufzug, nach Holberg
+numberOfScenes: 21
+printed: 1798
+formalia:
+  - Prosa
+basedOn:
+  - "Ludvig Holberg: »Mester Gert Westphaler Eller Den meget talende Barbeer«"
+editions:
+  - title: "Wien: Schmidt 1798"
+    url: https://books.google.com/books?id=jK9IAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Sigmund Plauderbach,
+    role: ein Barbier.
+    gender: m
+  - name: Frau Wenzel,
+    role: seine Stiefmutter.
+    gender: f
+  - name: Herr Stöffel,
+    role: Apotheker.
+    gender: m
+  - name: Eleonore,
+    role: seine Tochter.
+    gender: f
+  - name: Rosine,
+    role: des Apothekers Nichte.
+    gender: f
+  - name: Fridau,
+    role: der Sohn eines Materialisten.
+    gender: m
+  - name: Anton,
+    role: Fridaus Gewölbdiener.
+    gender: m
+  - name: Rips,
+    role: Babrierjunge.
+    gender: m
+  - name: Sollicitator Wellmann.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+  - name: Ein Trager von der Hauptmauth.
+    gender: m
+setting: >
+  Die Handlung geht in Wien vor.
+---
 slug: heydenreich-der-verliebte-werber
 author:
   name: Heydenreich, […]
@@ -2021,7 +2162,7 @@ premiered: 1753
 formalia:
   - Prosa
 basedOn:
-  - "Alain-René Le Sage und d'Orneval: [\"Les Amours de Nanterre\"](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DORNEVALLESAGE_AMOURSDENANTERRE.xml)"
+  - "Alain-René Le Sage und d'Orneval: [»Les Amours de Nanterre«](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DORNEVALLESAGE_AMOURSDENANTERRE.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 16, S. 387–388
 editions:
@@ -2192,7 +2333,7 @@ editions:
   - title: "[Wien:] Kraus 1766"
     url: https://books.google.com/books?id=oe4q1pt07ZoC&printsec=frontcover
 comments:
-  - "Im Nebentext: \"Das Nachspiel wird mit einem kleinen Ballet beschlossen.\""
+  - "Im Nebentext: »Das Nachspiel wird mit einem kleinen Ballet beschlossen.«"
 keywords:
   - Laienschauspiel
   - Theaterbetrieb
@@ -2323,6 +2464,49 @@ cast:
     gender: m
 setting: >
   Die Scene ist auf dem Landgute des Baron Kreutz.
+---
+slug: anonym-die-abendmusik-oder-das-staendchen
+author:
+  pseudonym: Anonym
+title: Die Abendmusik, oder das Ständchen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1757
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-François Regnard: [»La Sérénade«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_SERENADE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 390–391
+editions:
+  - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757. S. 1–38"
+    url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=PA1
+cast:
+  - name: Herr Greif.
+    role: Valerens Vater.
+    gender: m
+  - name: Valer.
+    role: Leonorens Liebhaber.
+    gender: m
+  - name: Frau Argante.
+    role: Leonorens Mutter.
+    gender: f
+  - name: Leonore.
+    gender: f
+  - name: Herr Mathias.
+    gender: m
+  - name: Scapin.
+    role: Valerens Bedienter.
+    gender: m
+  - name: Mariechen,
+    role: der Frau Argante Bediente.
+    gender: m
+  - name: Michel,
+    role: des Herrn Mathias Bedienter.
+    gender: m
+  - name: Musikanten und Tänzer.
+    isGroup: true
+    gender: u
 ---
 slug: kotzebue-die-abendstunde
 author:
@@ -2477,7 +2661,7 @@ editions:
   - title: "[Ohne Ort: ohne Verlag] 1763"
     url: https://books.google.com/books?id=9EffLkh4-nkC&printsec=frontcover
 comments:
-  - "Auch unter den Titeln \"Hertzog Michel, Oder: Das ausgerechnete Glück eines Bauern\" (1757) und \"Herzog Michel. Eine Comödie in Versen von Herrn J. C. Krüger einem Akt\" (1764)."
+  - "Auch unter den Titeln »Hertzog Michel, Oder: Das ausgerechnete Glück eines Bauern« (1757) und »Herzog Michel. Eine Comödie in Versen von Herrn J. C. Krüger einem Akt« (1764)."
 keywords:
   - Standeskonflikt
   - Geld
@@ -2505,7 +2689,7 @@ printed: 1749
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [\"Le Reunion des amours\"](https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_REUNIONDESAMOURS.xml)."
+  - "Pierre Carlet de Marivaux: [»Le Reunion des amours«](https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_REUNIONDESAMOURS.xml)."
 dictionaries:
   bibliographia: 2. Abteilung, Band 14, S. 334–335
 editions:
@@ -2541,7 +2725,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [\"Le Dénouement imprévu\"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DENOUEMENTIMPREVU.xml)"
+  - "Pierre Carlet de Marivaux: [»Le Dénouement imprévu«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DENOUEMENTIMPREVU.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 14, S. 332
 editions:
@@ -2582,7 +2766,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [\"L'heritier de village. Comédie en un acte\"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
+  - "Marivaux: [»L'heritier de village. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 13, S. 477–478
 editions:
@@ -2614,6 +2798,164 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist auf einem Dorfe.
+---
+slug: laub-das-arabische-pulver
+author:
+  name: Laub, Johann Georg
+title: Das Arabische Pulver
+subtitle: Ein Lustspiel in einer Abhandlung
+numberOfScenes: 28
+printed: 1743
+formalia:
+  - Prosa
+basedOn:
+  - "Ludvig Holberg: »Det Arabiske Pulver«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 12, S. 252–254
+editions:
+  - title: "Sechs Lust-Spiele. Anfänglich in Dänischer Sprache geschrieben von Herrn Ludwig Holberg. Hamburg und Leipzig 1743, S. 1–46"
+    url: https://books.google.com/books?id=7hBgAAAAcAAJ&pg=PA1
+  - title: "Die Dänische Schaubühne. 1. Band. Copenhagen und Leipzig: Rothens sel. Wittwe 1752, S. 1–46"
+    url: https://books.google.com/books?id=bC5PAAAAcAAJ&pg=PA1
+cast:
+  - name: Herr Gernereich.
+    gender: m
+  - name: Frau Gernereichin.
+    gender: f
+  - name: Heinrich,
+    role: des Herrn Gernereichs Laquai.
+    gender: m
+  - name: Catherine,
+    role: der Frau Gernereichin Cammermägdchen.
+    gender: f
+  - group:
+      - name: Tapsmann,
+        gender: m
+      - name: Packburg,
+        gender: m
+    role: zwey Spitzbuben.
+  - name: Herr Schmeichlendorff,
+    role: ein Nachbar des Herrn Gernereichs.
+    gender: m
+  - name: Ein Jude.
+    gender: m
+  - name: Frau Schmeichlendorffin.
+    gender: f
+  - name: Drey Cavaliers.
+    isGroup: true
+    gender: m
+  - name: Drey Dames.
+    isGroup: true
+    gender: f
+  - name: Zwey Poeten.
+    isGroup: true
+    gender: m
+  - name: Ein Wirth.
+    gender: m
+---
+slug: laub-der-geschwaetzige-barbierer
+author:
+  name: Laub, Johann Georg
+title: Der Geschwätzige Barbierer
+subtitle: Ein Lustspiel in einer Abhandlung
+numberOfScenes: 28
+printed: 1744
+formalia:
+  - Prosa
+basedOn:
+  - "Ludvig Holberg: »Mester Gert Westphaler Eller Den meget talende Barbeer«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 12, S. 377–379
+editions:
+  - title: "Zum zweyten male Sechs Lust-Spiele. Coppenhagen und Leipzig: Rothe 1744, S. 351–406"
+    url: https://books.google.com/books?id=iGsAAAAAcAAJ&pg=PA351
+comments:
+  - "Weitere Übersetzung von Karl Friedrich Hensler: [»Der geschwätzige Barbier. Eine Posse in einem Aufzuge nach Holberg«](hensler-der-geschwaetzige-barbier) (1798)."
+cast:
+  - name: Gert Westphaler,
+    role: ein Barbierer.
+    gender: m
+  - name: Gunild,
+    role: dessen Mutter.
+    gender: f
+  - name: Gilbert,
+    role: ein Apothecker.
+    gender: m
+  - name: Gotthard,
+    role: sein Bruder.
+    gender: m
+  - name: Leonora,
+    role: des Gilberts Tochter, Liebste des Gert Westphalers.
+    gender: f
+  - name: Leonard,
+    role: ein Distillirer in Leonoren verliebt.
+    gender: m
+  - name: Pernille,
+    role: des Gilberts Magd.
+    gender: f
+  - name: Heinrich,
+    role: Diener des Leonards.
+    gender: m
+  - name: Ein Procurator.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+  - name: Ein Apotheckergesell.
+    gender: m
+  - name: Ein Apotheckerjung.
+    gender: m
+---
+slug: laub-diederich-menschenschroeck
+author:
+  name: Laub, Johann Georg
+title: Diederich Menschenschröck
+subtitle: Ein Lustspiel in einer Abhandlung
+numberOfScenes: 22
+printed: 1744
+formalia:
+  - Prosa
+basedOn:
+  - "Ludvig Holberg: »Diderich Menschen-Skræk«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 12, S. 381–383
+editions:
+  - title: "Zum zweyten male Sechs Lust-Spiele. Coppenhagen und Leipzig: Rothe 1744, S. 155–204"
+    url: https://books.google.com/books?id=iGsAAAAAcAAJ&pg=PA155
+  - title: "Sechs Lustspiele. Zweyte Auflage. Coppenhagen und Leipzig 1746, S. 155–204"
+    url: https://books.google.com/books?id=vGAzAQAAMAAJ&pg=RA1-PA155
+  - title: "De Dänische Schaubühne. Zweyter Band. Kopenhagen: Rothe 1761, S. 139–182"
+    url: https://books.google.com/books?id=HWsAAAAAcAAJ&pg=PA139
+comments:
+  - Auch unter dem Titel »Diederich Menschenschröck. Ein Lustspiel in einer Handlung« (1752)
+cast:
+  - name: Diederich Menschenschröck,
+    role: ein Officier.
+    gender: m
+  - name: Dessen Ehefrau.
+    gender: f
+  - name: Jeronimus,
+    role: ein reicher Bürger.
+    gender: m
+  - name: Elvire,
+    role: dessen Schwester, eine Wittwe.
+    gender: f
+  - name: Hyacinthe,
+    role: ihre verlorne Tochter.
+    gender: f
+  - name: Leander,
+    role: des Jeronimi Sohn, in Hyacinthe verliebt.
+    gender: m
+  - name: Heinrich,
+    role: dessen Diener.
+    gender: m
+  - name: Ephraim,
+    role: ein Jude.
+    gender: m
+  - name: Christoph Maurbrecher,
+    role: des Diederich Menschenschröcks Laquai und Soldat.
+    gender: m
+  - name: Ein Corporal.
+    gender: m
 ---
 slug: laub-die-weyhnachtstube
 author:
@@ -2849,23 +3191,32 @@ dictionaries:
 editions:
   - title: "Berlin und Stettin: Nicolai 1798"
     url: https://books.google.com/books?id=qLli80k3sTsC&printsec=frontcover
+keywords:
+  - Theaterbetrieb
+  - Liebesprobe
+  - Eheanbahnung
 ids:
   dracor: ger000481
   wikidata: Q84606039
 cast:
-  - name: Harlekin
+  - name: Herr Barthold,
+    role: Principal der Bühne,
     gender: m
-  - name: Barthold
-    gender: m
-  - name: Kolombine
+  - name: Kolombine,
+    role: seine Tochter.
     gender: f
-  - name: Scapin
-    gender: m
-  - name: Peter
-    gender: m
-  - name: Isabelle
-    gender: f
-  - name: Valer
+  - group:
+      - name: Harlekin,
+        gender: m
+      - name: Scapin,
+        gender: m
+      - name: Isabelle,
+        gender: f
+      - name: Valer,
+        gender: m
+    role: Schauspieler.
+  - name: Peter,
+    role: Lichtputzer.
     gender: m
 setting: >
   Der Schauplatz ist auf dem Schauplatze.
@@ -2910,7 +3261,7 @@ printed: 1764
 formalia:
   - Prosa
 basedOn:
-  - "Paul Landois: [\"Silvie. Tragédie, en Prose, en un Acte\"](https://books.google.com/books?id=9E86AAAAcAAJ&printsec=frontcover)"
+  - "Paul Landois: [»Silvie. Tragédie, en Prose, en un Acte«](https://books.google.com/books?id=9E86AAAAcAAJ&printsec=frontcover)"
   - Vorlage von Paul Landois sind zwei Erzählungen von Robert Challe aus dem Roman "Les illustres Françoises. Histoire véritable".
 dictionaries:
   bibliographia: 2. Abteilung, Band 21, S. 159–161
@@ -3073,7 +3424,7 @@ printed: 1760
 formalia:
   - Prosa
 basedOn:
-  - "Louis de Cahusac: \"Zeneide\""
+  - "Louis de Cahusac: »Zeneide«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 19, S. 482–483
 editions:
@@ -3494,9 +3845,9 @@ printed: 1746
 formalia:
   - Alexandriner
 basedOn:
-  - "Frans Rijk: \"De belachelyke erfgenaam\""
-  - "Scarron: [\"L'Héritier ridicule ou la Dame intéressée\"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_HERITIERRIDICULE.xml)"
-  - "Alonso de Castillo Solórzano: \"El mayorazgo figura\""
+  - "Frans Rijk: »De belachelyke erfgenaam«"
+  - "Scarron: [»L'Héritier ridicule ou la Dame intéressée«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_HERITIERRIDICULE.xml)"
+  - "Alonso de Castillo Solórzano: »El mayorazgo figura«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 13, S. 316–317
 editions:
@@ -3599,7 +3950,7 @@ editions:
   - title: "Frankfurt und Leipzig: Trausold 1753"
     url: https://books.google.com/books?id=jJJTAAAAcAAJ&printsec=frontcover
 comments:
-  - "Alternative Untertitel: \"Ein Lustspiel von einem Aufzuge\" (1747), \"Ein Lustspiel, in Versen\" (1752?). Später auch Ausgaben mit 6 und 7 Auftritten statt 5. Namen der Protagonisten ab der Ausgabe von 1747 geändert."
+  - "Alternative Untertitel: »Ein Lustspiel von einem Aufzuge« (1747), »Ein Lustspiel, in Versen« (1752?). Später auch Ausgaben mit 6 und 7 Auftritten statt 5. Namen der Protagonisten ab der Ausgabe von 1747 geändert."
 cast:
   - name: Nickel Clas,
     role: der faule Bauer.
@@ -3695,7 +4046,7 @@ premiered: 1747
 formalia:
   - Alexandriner
 basedOn:
-  - "Joseph de La Font: [\"Le Naufrage ou la pompe funèbre de Crispin\"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/LAFONT_NAUFRAGE.xml)"
+  - "Joseph de La Font: [»Le Naufrage ou la pompe funèbre de Crispin«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/LAFONT_NAUFRAGE.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 13, S. 534
 editions:
@@ -3740,7 +4091,7 @@ printed: 1747
 formalia:
   - Prosa
 basedOn:
-  - "David-Auguste de Brueys: [\"Les Quiproquo\"](https://books.google.com/books?id=5aVdsmfDfZoC&pg=PA217)"
+  - "David-Auguste de Brueys: [»Les Quiproquo«](https://books.google.com/books?id=5aVdsmfDfZoC&pg=PA217)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 13, S. 532–533
 editions:
@@ -3806,7 +4157,7 @@ editions:
   - title: "Wien: Trattner 1770"
     url: https://books.google.com/books?id=32tUAAAAcAAJ&printsec=frontcover
 comments:
-  - "Die Wiener Bearbeitung \"Die Matrone von Ephesus oder Sind alles Wittwen so? Ein Lustspiel in Versen in einem Aufzuge\" (1770) stammt wahrscheinlich von Stephanie d. J."
+  - "Die Wiener Bearbeitung »Die Matrone von Ephesus oder Sind alles Wittwen so? Ein Lustspiel in Versen in einem Aufzuge« (1770) stammt wahrscheinlich von Stephanie d. J."
 cast:
   - name: Antiphila.
     role: Eine Wittwe.
