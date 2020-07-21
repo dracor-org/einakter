@@ -102,6 +102,26 @@ cast:
 setting: >
   Der Schauplaz ist zu Andresy.
 ---
+slug: anonym-das-bild-glueckseliger-zeiten
+author:
+  pseudonym: Anonym
+title: "Das Bild glückseliger Zeiten Oder: Das Opffer der Schauspiel-Kunst"
+subtitle: Ein Vorspiel von einem Aufzuge
+premiered: 1756-09-23
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 219
+cast:
+  - name: Mæcenas.
+    gender: m
+  - name: Mercurius.
+    gender: m
+  - name: Die Schauspiel-Kunst.
+    gender: u
+  - name: Melpomene.
+    gender: f
+  - name: Thalia
+    gender: f
+---
 slug: anonym-das-urtheil-des-paris
 author:
   pseudonym: Anonym
@@ -148,7 +168,7 @@ basedOn:
 dictionaries:
   bibliographia: 2. Abteilung, Band 18, S. 396
 editions:
-  - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757. S. 39–70"
+  - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757, S. 39–70"
     url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=PA39
 cast:
   - name: Leonore.
@@ -855,6 +875,44 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: anonym-die-klatschen
+author:
+  pseudonym: Anonym
+title: Die Klatschen
+subtitle: Ein Nachspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1757
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 418–419
+editions:
+  - title: "Die Menechmes, Oder die Zwillings-Brüder, Ein Schauspiel, Aus dem Franz. des Herrn Regnard. Breßlau und Leipzig: Pietsch 1757, S. 155–175"
+cast:
+  - name: Frau Leichtglaubinn,
+    role: eine Wittwe.
+    gender: f
+  - name: Papchen,
+    role: ihre Tochter.
+    gender: f
+  - name: Frau Klappermäulinn,
+    role: ein altes Weib.
+    gender: f
+  - name: Cathrinchen,
+    role: Papchens Bedientinn.
+    gender: f
+  - name: Herr Treulieb,
+    role: Papchens versprochener Liebster.
+    gender: m
+  - name: Windwend,
+    role: Papchens Liebhaber.
+    gender: m
+  - name: Hanns Simplex,
+    role: Treuliebs Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist das Haus der Frau Leichtglaubinn.
+---
 slug: anonym-die-nonnen
 author:
   name: J. T.
@@ -981,7 +1039,7 @@ comments:
     [S. 6](https://books.google.com/books?id=D6RA0kXmcasC&pg=PA6)). –
     Handschriftliches Manuskript in der Wissenschaftlichen Stadtbibliothek
     Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters.
-    Göppingen: Kümmerle 1973. S. 325).
+    Göppingen: Kümmerle 1973, S. 325).
 ---
 slug: anonym-die-hahnrey-probe
 author:
@@ -1025,6 +1083,50 @@ cast:
   - name: Perette,
     role: Gotthards Frau.
     gender: f
+---
+slug: anonym-die-unvermuthete-wiederkunft
+author:
+  pseudonym: Anonym
+title: Die unvermuthete Wiederkunft
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1757
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-François Regnard: [»Le Retour imprévu. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_RETOURIMPREVU.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 460
+editions:
+  - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757, S. 239–274"
+    url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=RA1-PA239
+cast:
+  - name: Clitander,
+    role: Lucilens Liebhaber.
+    gender: m
+  - name: Lucile.
+    gender: f
+  - name: Cydalise.
+    gender: f
+  - name: Der Marquis.
+    gender: m
+  - name: Lisette.
+    gender: f
+  - name: Frau von Bertram,
+    role: Lucilens Tante.
+    gender: f
+  - name: Herr Geront,
+    role: Clitanders Vater.
+    gender: m
+  - name: Merlin,
+    role: Clitanders Bedienter.
+    gender: m
+  - name: Jacob,
+    role: Geronts Bedienter.
+    gender: m
+  - name: Andreas,
+    role: ein Wuchrer.
+    gender: m
 ---
 slug: anonym-die-verwandlung-des-braeutigams
 author:
@@ -1101,6 +1203,42 @@ cast:
     gender: f
 setting: >
   Die Handlung ist in des Herrn Erichthons Hause.
+---
+slug: anonym-kritik-ueber-den-universalerben
+author:
+  pseudonym: Anonym
+title: Kritik über den Universalerben
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1757
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-François Regnard: [»La Critique du Légataire«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_LEGATAIRECRITIQUE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 419–420
+editions:
+  - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Zweyter Theil. Berlin: Nicolai 1757, S. 341–360"
+    url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=RA2-PA341
+cast:
+  - name: Der Komödiant.
+    gender: m
+  - name: Der Ritter.
+    gender: m
+  - name: Der Marquis.
+    gender: m
+  - name: Die Gräfinn.
+    gender: f
+  - name: Clistier,
+    role: ein Apotheker.
+    gender: m
+  - name: Clistier,
+    role: ein Komödiant.
+    gender: m
+  - name: Herr Bonifacius.
+    gender: m
+  - name: Frau Bredouille.
+    gender: f
 ---
 slug: anonym-la-chercheuse-d-esprit-die-verstandsucherinn
 author:
@@ -1305,6 +1443,42 @@ cast:
     gender: u
 setting: >
   Der Schauplatz ist in einem französischen Grenzstädtchen ohnweit Kaiserslautern.
+---
+slug: anonym-warte-ein-bisschen-du-kannst-lange-warten
+author:
+  pseudonym: Anonym
+title: Warte ein bißchen, du kannst lange warten
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1757
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-François Regnard: [»Attendez-moi sous l'orme. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_ATTENDEZSOUSLORME.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 459
+editions:
+  - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757, S. 275–308"
+    url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=RA1-PA275
+cast:
+  - name: Dorant,
+    role: ein abgedankter Officier, in Agathen verliebt.
+    gender: m
+  - name: Agathe,
+    role: eines Pächters Tochter, in Doranten verliebt.
+    gender: f
+  - name: Pasquin,
+    role: Dorants Bedienter.
+    gender: m
+  - name: Lisette,
+    role: Agathens Freundinn.
+    gender: m
+  - name: Kolin,
+    role: ein junger Pächter mit Agathen versprochen.
+    gender: m
+  - name: Verschiedene Schäfer und Schäferinnen, die auf Agathens und Kolins Hochzeit gebeten waren.
+    isGroup: true
+    gender: u
 ---
 slug: anonym-zeneide
 author:
@@ -1877,6 +2051,49 @@ cast:
   - name: Damoet.
     gender: m
   - name: Tityr.
+    gender: m
+---
+slug: ekhof-der-liebhaber-seiner-frau-oder-die-neben-buhlerin-von-sich-selbst
+author:
+  name: Ekhof, Konrad
+  wikidata: Q215783
+title: Der Liebhaber seiner Frau oder Die Neben-Buhlerin von sich selbst
+subtitle: Ein Lust-Spiel von einer Handlung
+numberOfScenes: 21
+premiered: 1753
+formalia:
+  - Prosa
+basedOn:
+  - "Louis de Boissy: »L'amant de sa femme, ou La rivale d'elle-mème«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 52
+comments:
+  - "Manuskript im ›Nachlass Conrad Ekhof‹ der Forschungsbibliothek Gotha, Signatur: [Chart. B 1618](http://kalliope-verbund.info/DE-611-HS-3410372)."
+  - "Undatiert, von Meyer ins Jahr 1755 einsortiert. Das ermittelte Jahr 1753 als (Erst-?)Aufführungsjahr entstammt dem [Zusatz unter einem Brief Ekhofs](https://books.google.com/books?id=-LcTAQAAMAAJ&q=%22Mitbuhlerinn%22), dort ist der Titel des übersetzten Einakters angegeben als: »Der Liebhaber seiner Frau oder die Mitbuhlerinn von sich selbst«."
+cast:
+  - name: Philinte.
+    gender: m
+  - name: Dorante.
+    gender: m
+  - name: Leandre.
+    role: Liebhaber der Angelique.
+    gender: m
+  - name: Alidor.
+    role: Ein alter Rentmeister.
+    gender: m
+  - name: Dorimene.
+    role: Philintens Frau.
+    gender: f
+  - name: Angelique.
+    role: Philintens Schwester.
+    gender: f
+  - name: Lisette.
+    role: Bedientin der Dorimene.
+    gender: f
+  - name: La Fleur.
+    role: Philintens Bedienter.
+    gender: m
+  - name: Ein Notarius.
     gender: m
 ---
 slug: ekhof-der-wucherer-ein-edelmann
@@ -2479,7 +2696,7 @@ basedOn:
 dictionaries:
   bibliographia: 2. Abteilung, Band 18, S. 390–391
 editions:
-  - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757. S. 1–38"
+  - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757, S. 1–38"
     url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=PA1
 cast:
   - name: Herr Greif.
@@ -2766,7 +2983,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»L'heritier de village. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
+  - "Pierre Carlet de Marivaux: [»L'heritier de village. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 13, S. 477–478
 editions:
@@ -3132,6 +3349,100 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist zu Antiochien, im kayserlichen Pallaste.
+---
+slug: lieberkuehn-die-insel-der-pucklichten
+author:
+  name: Lieberkühn, Christian Gottlieb
+  wikidata: Q1079959
+title: Die Insel der Pucklichten
+subtitle: Ein Lustspiel von einer Handlung
+numberOfScenes: 18
+printed: 1758
+premiered: 1757
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre Carlet de Marivaux: [»L'Île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
+  - "Pierre Carlet de Marivaux: [»L'Île de la raison«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDELARAISON.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 112–113
+editions:
+  - title: "Breslau: Meyer 1758, S. 71–127"
+    url: https://books.google.com/books?id=nAPs9IZVrM4C&pg=PA71
+  - title: "Theater der Deutschen. Vierter Theil. Berlin und Leipzig: Rüdiger 1767, S. 381–412"
+    url: https://books.google.com/books?id=0HMFlTtLX7AC&pg=PA381
+cast:
+  - name: Chabrias,
+    role: ein junger Athenienser.
+    gender: m
+  - name: Eurot,
+    role: sein Bedienter.
+    gender: m
+  - group:
+      - name: Phanantes,
+        role: Einwohner der Insel.
+        gender: m
+      - name: Glauca,
+        role: seine Frau.
+        gender: f
+      - name: Lichas,
+        role: Sohn derselben.
+        gender: m
+      - name: Ophrys,
+        role: eine Wayse, die sich bey dem Phanantes aufhält.
+        gender: f
+      - name: Hormine,
+        role: ihr Mägdchen.
+        gender: f
+    role: Pucklichte.
+---
+slug: lieberkuehn-die-lissabonner
+author:
+  name: Lieberkühn, Christian Gottlieb
+  wikidata: Q1079959
+title: Die Lissabonner
+subtitle: Ein bürgerliches Trauerspiel, in einem Aufzuge
+numberOfScenes: 19
+printed: 1758
+premiered: 1757-01-29
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 112
+editions:
+  - title: "Breslau: Meyer 1758, S. 7–70"
+    url: https://books.google.com/books?id=cJ82p95Y9i0C&pg=PA7
+  - title: "Hannover-Laatzen: Wehrhahn 2005"
+keywords:
+  - Mord
+  - Selbstmord
+  - Vater-Tochter-Konflikt
+  - Mutter-Tochter-Konflikt
+cast:
+  - name: Don Diego.
+    gender: m
+  - name: Elvire,
+    role: seine Gemahlin.
+    gender: f
+  - name: Isabelle,
+    role: Tochter desselben.
+    gender: f
+  - name: Don Pedro,
+    role: ein junger Portugiese.
+    gender: m
+  - name: Sir Carl,
+    role: ein schottländischer Edelmann.
+    gender: m
+  - name: Osmyde,
+    role: Bediente der Isabelle.
+    gender: f
+  - name: Goncallo,
+    role: Bedienter des Don Pedro.
+    gender: m
+  - name: Ein fremder Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist auf einem Lusthause des Don Diego vor Lissabon.
 ---
 slug: martini-die-prachtsuechtige
 author:
@@ -3833,6 +4144,40 @@ cast:
     gender: m
 setting: >
   Die Scene ist in Berlin.
+---
+slug: toepfer-cyprian-und-barbara
+author:
+  name: Töpfer, Carl
+  wikidata: Q16650514
+title: Cyprian und Barbara
+subtitle: Ein Lustspiel in Versen in Einem Aufzuge
+numberOfScenes: 12
+printed: 1823
+premiered: 1821
+formalia:
+  - Alexandriner
+editions:
+  - title: "Spenden für Thaliens Tempel. Leipzig: Leo 1823, S. 147–196"
+    url: https://books.google.com/books?id=YoUuAAAAYAAJ&pg=PA147
+  - title: "Deutsche Schaubühne seit Lessing und Schröder bis auf die neueste Zeit. Dreyßigstes Bändchen. Wien: Schade 1826, S. 91–126"
+    url: https://books.google.com/books?id=HnlVAAAAcAAJ&pg=PA91
+cast:
+  - name: Cyprian,
+    role: ein alter Hagestolz.
+    gender: m
+  - name: Barbara,
+    role: seine Schwester.
+    gender: f
+  - name: Nina,
+    role: seine Mündel.
+    gender: f
+  - name: Fritz.
+    gender: m
+  - name: Zwei Bediente.
+    isGroup: true
+    gender: u
+setting: >
+  Ein Garten mit einem Gitter hinten, durch das man ein Haus erblickt, welches der Sekretair bewohnt. Cyprians und Barbara's Haus befindet sich rechts im Garten, links Lauben, Gebüsch etc.
 ---
 slug: uhlich-das-abendstaendchen
 author:
