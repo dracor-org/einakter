@@ -500,6 +500,50 @@ cast:
   - name: Daphne.
     gender: f
 ---
+slug: anonym-der-kutscher
+author:
+  pseudonym: Anonym
+title: Der Kutscher
+subtitle: Lustspiel in einem Aufzuge, aus dem Französischen übersetzt
+premiered: 1741-11-01
+formalia:
+  - Prosa
+basedOn:
+  - "Noël Lebreton de Hauteroche: [»Le Cocher supposé«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/HAUTEROCHE_COCHERSUPPOSE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 11, S. 356 und Band 19, S. 189
+comments:
+  - "Auch unter dem Titel: »Le Cocher supposé Der Kutscher. Ein Neues Lustspiel des Herrn Hauteroche in einem Aufzuge« (1759)."
+  - Es ist nicht bekannt, ob eine deutsche Übersetzung gedruckt wurde.
+cast:
+  - name: Hilaire,
+    role: Vetter der Dorothee.
+    gender: m
+  - name: Eutrope,
+    role: versprochen mit Dorotheen.
+    gender: m
+  - name: Lisidor,
+    role: Liebhaber der Dorothee.
+    gender: m
+  - name: Dorothee,
+    role: Liebhaberinn des Lisidor, und Versprochene des Eutrope.
+    gender: f
+  - name: Julie,
+    role: Liebhaberinn des Lisidor.
+    gender: f
+  - name: Rosette,
+    role: Juliens Mädchen.
+    gender: f
+  - name: Roline,
+    role: Dorotheens Mädchen.
+    gender: f
+  - name: Morille,
+    role: Lisidors Bedienter, und Kutscher des Hilaire.
+    gender: m
+  - name: Adrian,
+    role: Bruder der Rosette.
+    gender: m
+---
 slug: anonym-der-liebhaber-ein-schriftsteller-und-ein-lackey
 author:
   pseudonym: Anonym
@@ -646,6 +690,48 @@ cast:
 setting: >
   Der Schauplatz ist in Aramintens Hause.
 ---
+slug: anonym-der-neugierige-ehemann
+author:
+  pseudonym: Anonym
+title: Der Neugierige Ehemann
+subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen des Herrn von ALLAINVAL übersetzet
+numberOfScenes: 22
+printed: 1744
+formalia:
+  - Prosa
+basedOn:
+  - "Léonor Soulas d'Allainval: »Le mari curieux. Comédie en un acte«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 12, S. 300–301
+editions:
+  - title: "Sorau: Herold 1744"
+comments:
+  - Auch unter dem Titel »Der neugierige Ehemann. Ein Lust-Spiel Von Einem Aufzuge Aus dem Französischen des Herrn d'Allainval übersetzt« (1750).
+cast:
+  - name: Lisidor,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Madame Lisidor,
+    role: seine Frau.
+    gender: f
+  - name: Henriette,
+    role: ihre Tochter.
+    gender: f
+  - name: Damon,
+    role: Liebhaber der Henriette.
+    gender: m
+  - name: Der Ritter,
+    role: ein Gasconier.
+    gender: m
+  - name: Mathurin,
+    role: Gärtner des Lisidor.
+    gender: m
+  - name: Ein Haufen Zigeuner.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplaz ist dem Landhause des Lisidors gegenüber.
+---
 slug: anonym-der-officier
 author:
   pseudonym: Anonym
@@ -757,6 +843,94 @@ cast:
   - name: Pasquin,
     role: des Celio Diener.
     gender: m
+---
+slug: anonym-die-abendmusik-oder-das-staendchen
+author:
+  pseudonym: Anonym
+title: Die Abendmusik, oder das Ständchen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1757
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-François Regnard: [»La Sérénade«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_SERENADE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 390–391
+editions:
+  - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757, S. 1–38"
+    url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=PA1
+cast:
+  - name: Herr Greif.
+    role: Valerens Vater.
+    gender: m
+  - name: Valer.
+    role: Leonorens Liebhaber.
+    gender: m
+  - name: Frau Argante.
+    role: Leonorens Mutter.
+    gender: f
+  - name: Leonore.
+    gender: f
+  - name: Herr Mathias.
+    gender: m
+  - name: Scapin.
+    role: Valerens Bedienter.
+    gender: m
+  - name: Mariechen,
+    role: der Frau Argante Bediente.
+    gender: m
+  - name: Michel,
+    role: des Herrn Mathias Bedienter.
+    gender: m
+  - name: Musikanten und Tänzer.
+    isGroup: true
+    gender: u
+---
+slug: anonym-die-comoedie-aus-dem-stegreif
+author:
+  pseudonym: Anonym
+title: Die Comödie aus dem Stegreif
+subtitle: Ein Lustspiel des Herrn Poisson, in einem Aufzuge
+numberOfScenes: 13
+premiered: 1759-05-30
+formalia:
+  - Prosa
+basedOn:
+  - "Philippe Poisson: »L'impromptu de campagne. Comédie en vers et en un acte«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 156–157
+editions:
+  - title: "Münster: Perrenon 1769"
+    url: https://books.google.com/books?id=ATY7AAAAcAAJ&printsec=frontcover
+comments:
+  - "Auch unter dem Titel »L'Impromptu de Campagne oder Die Komedie aus dem Stegreife. Ein Lustspiel von einem Aufzuge aus dem Französischen des Herrn Poisson übersezt.« (undat. Ms.)."
+  - "Weitere Übersetzung von [Johann Friedrich Jünger: »Die Komödie aus dem Stegreife. Ein Lustspiel in einem Aufzuge«](juenger-die-komoedie-aus-dem-stegreife) (1794)."
+cast:
+  - name: Der Graf.
+    gender: m
+  - name: Die Gräfin,
+    role: seine Gemalinn.
+    gender: f
+  - name: Isabelle,
+    role: ihre Tochter.
+    gender: f
+  - name: Damis,
+    role: des Grafen Freund.
+    gender: m
+  - name: Erast,
+    role: Isabellens Liebhaber.
+    gender: m
+  - name: Lisette,
+    role: Isabellens Mägdchen.
+    gender: f
+  - name: Lucas,
+    role: der Gärtner.
+    gender: m
+  - name: Ein anderer Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist auf dem Land / in des Grafen Schloß. [Ausgabe 1769]
 ---
 slug: anonym-die-einigen-zaenker
 author:
@@ -1279,6 +1453,93 @@ cast:
 setting: >
   Der Schauplatz ist in einem Dorfe, ohnweit Paris.
 ---
+slug: anonym-la-famille-extravagante-die-ausschweifende-familie
+author:
+  pseudonym: Anonym
+title: LA FAMILLE EXTRAVAGANTE Die ausschweifende Familie
+subtitle: Ein Lustspiel des Hrn. le Grand in einem Aufzuge
+numberOfScenes: 28
+premiered: 1759-01-12
+formalia:
+  - Prosa
+basedOn:
+  - "Marc-Antoine Legrand: [»La famille extravagante. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/LEGRAND_FAMILLEEXTRAVAGANTE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 170–171 und Band 26, S. 376–377 und Band 27, S. 24
+editions:
+  - title: "Jena: Melchior 1778"
+    url: https://books.google.com/books?id=RBpYAAAAcAAJ&printsec=frontcover
+comments:
+  - "Auch übersetzt von Heinrich August Ottokar Reichard (1776 am Schlosstheater Gotha unter dem Titel »Die ausschweifende Familie. Ein Lustspiel in Einem Aufzuge nach dem französischen des le Grand« aufgeführt). Forschungsbibliothek Gotha: Signatur [Chart. B 1658](http://kalliope-verbund.info/DE-611-HS-3410565)."
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Frau Rissole,
+    role: Petermins Mutter, in Cleon verliebt.
+    gender: f
+  - name: Petermin,
+    role: ein Advocat; Vormund und Liebhaber der Lucinde.
+    gender: m
+  - name: Araminte,
+    role: Petermins Schwester, in Cleon verliebt.
+    gender: f
+  - name: Julie,
+    role: Petermins Tochter, in Cleon verliebt.
+    gender: f
+  - name: Cleon,
+    role: Lucindens Liebhaber.
+    gender: m
+  - name: Lucinde,
+    role: Cleons Geliebte.
+    gender: f
+  - name: Bazoche,
+    role: Petermins Schreiber.
+    gender: m
+  - name: Lisette,
+    role: Petermins Bediente.
+    gender: f
+  - name: Frontin,
+    role: Cleons Diener.
+    gender: m
+---
+slug: anonym-la-pupille-die-muendel
+author:
+  pseudonym: Anonym
+title: LA PUPILLE. Die Mündel
+subtitle: Ein Lustspiel des Herrn Fagan in einem Aufzuge
+numberOfScenes: 21
+premiered: 1759-02-26
+formalia:
+  - Prosa
+basedOn:
+  - "Barthélemy-Christophe Fagan: »La Pupille. Comédie en un acte et en prose«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 198 und Band 22, S. 128–129
+editions:
+  - title: "Wien: Krauß 1767"
+    url: https://books.google.com/books?id=H9ZUAAAAcAAJ&printsec=frontcover
+  - title: "Gesammelte Schriften zum Vergnügen und Unterricht. Zweytes Stück. Wien: Trattner 1769, S. 3–55"
+    url: https://books.google.com/books?id=SlxlAAAAcAAJ&pg=PA3
+comments:
+  - Eine Übersetzung ist bereits 1746 erschienen unter dem Titel [»Das Mündel. Ein Nachspiel aus dem Französischen des Herrn Fagan«](https://books.google.com/books?id=ESNeAAAAcAAJ&pg=PA187).
+  - Weitere Übersetzung 1766 von Karl Franz Romanus unter dem Titel »Das Mündel, Ein Lustspiel aus dem Französischen des Herr Fagan«.
+cast:
+  - name: Arist.
+    gender: m
+  - name: Charlotte.
+    gender: f
+  - name: Orgon,
+    role: Arists Freund.
+    gender: m
+  - name: Der Marquis,
+    role: Orgons Neffe.
+    gender: m
+  - name: Lisette,
+    role: Charlottens Kammermädchen.
+    gender: f
+setting: >
+  Der Schauplatz ist in Arists Stube.
+---
 slug: anonym-le-francois-a-londres-der-franzos-zu-london
 author:
   pseudonym: Anonym
@@ -1323,6 +1584,95 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in einem vornehmen Gasthofe in London.
+---
+slug: anonym-le-babillard-der-schwaetzer
+author:
+  pseudonym: Anonym
+title: LE BABILLARD, Der Schwätzer
+subtitle: Ein ganz neues Lustspiel des Herrn du Boissy in einem Aufzuge
+numberOfScenes: 16
+premiered: 1759-06-01
+formalia:
+  - Prosa
+basedOn:
+  - "Louis de Boissy: [»Le Babillar«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/BOISSY_BABILLARD.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 214 und Band 27, S. 206–207
+editions:
+  - title: "Berlin: Wever 1779"
+    url: https://books.google.com/books?id=mvFATeBbu0cC&printsec=frontcover
+comments:
+  - "Auch unter dem Titel: »Der Schwätzer. Eine Comödie in einem Aufzuge, nach dem Französischen des Boissy« (1779) und »Der Schwätzer. Ein Lustspiel in einem Acte. Nach dem Französischen des Boissy« (Aufführung in Mannheim 1779)."
+  - Nicht identisch mit Paul Weidemanns fünfaktigen Lustspiel »Der Schwätzer«.
+cast:
+  - name: Leander,
+    role: Claricens Liebhaber.
+    gender: m
+  - name: Valer,
+    role: sein Anverwandter und Nebenbuhler.
+    gender: m
+  - name: Clarice,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Cephise,
+    role: ihre Tante.
+    gender: f
+  - group:
+      - name: Daphne,
+        gender: f
+      - name: Hortense,
+        gender: f
+    role: Schwestern, Clarines Nachbarinnen.
+  - name: Ismene,
+    role: Cephise Freundinn.
+    gender: f
+  - group:
+      - name: Melite,
+        gender: f
+      - name: Doris,
+        gender: f
+    role: zwo Schwätzerinnen.
+  - name: Nerine,
+    role: Der Clarice Bediente.
+    gender: f
+  - name: La Fleur,
+    role: ein Diener.
+    gender: m
+setting: >
+  Die Scene ist ein Saal, mit Thüren auf beyden Seiten, und im Hintergrunde.
+---
+slug: anonym-les-filles-medecins-die-weiblichen-aerzte
+author:
+  pseudonym: Anonym
+title: LES FILLES MEDECINS Die weiblichen Aerzte
+subtitle: Lustspiel, in einem Aufzuge
+premiered: 1759-02-20
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 146–147
+comments:
+  - »Lustspiel von einem Ungenannten, das ›niemals gedruckt worden‹« ([Asmus 1862, S. 31](https://books.google.com/books?id=4fPq7q5TIEkC&pg=PA31))
+cast:
+  - name: Hr. Droguinet,
+    role: ein Doctor der Arzney-Kunst.
+    gender: m
+  - name: Angelique,
+    role: Herr Droguinets Tochter.
+    gender: f
+  - name: Lisette,
+    role: ihr Mägdgen.
+    gender: f
+  - name: Guimauve,
+    role: Herr Droguinets Bedienter.
+    gender: m
+  - name: Clitander,
+    role: ein Officier, Angeliquens Liebhaber.
+    gender: m
+  - name: Pasquin,
+    role: Clitanders Bedienter.
+    gender: m
+  - name: Cidalise,
+    role: Clitanders Liebste.
+    gender: f
 ---
 slug: anonym-sganarells-reise-in-das-land-der-philosophen
 author:
@@ -1795,195 +2145,6 @@ cast:
   - name: Der Ahnherr.
     gender: m
 ---
-slug: eckardt-der-kaufmann-und-der-bettler
-author:
-  name: Eckardt, Friedrich von
-  pseudonym: Anonym
-  wikidata: Q21660249
-title: Der Kaufmann und der Bettler
-subtitle: Ein Schauspiel in einem Aufzuge
-numberOfScenes: 7
-printed: 1776
-dictionaries:
-  bibliographia: 2. Abteilung, Band 26, S. 277–278
-editions:
-  - title: "Berlin: Mylius 1776"
-    url: https://books.google.com/books?id=F29VAAAAcAAJ&printsec=frontcover
-cast:
-  - name: Horst,
-    role: ein Kaufmann
-    gender: m
-  - group:
-      - name: Jettchen
-        gender: f
-      - name: Karl
-        gender: m
-    role: seine Kinder
-  - name: Frau Willig,
-    role: seine Muhme
-    gender: f
-  - name: Giesser,
-    role: ein alter Bettler
-    gender: m
----
-slug: gleim-philotas
-author:
-  name: Gleim, Johann Wilhelm Ludwig
-  wikidata: Q64364
-title: Philotas
-subtitle: Ein Trauerspiel. Von dem Verfasser der preussischen Kriegeslieder vercificirt
-numberOfScenes: 8
-printed: 1760
-formalia:
-  - Blankvers
-editions:
-  - title: "Sämtliche Schriften. Neue vermehrte Ausgabe. Dritter Theil. Amsterdam 1767, S. 103–136"
-    url: https://books.google.com/books?id=ld2EfxF812YC&pg=RA1-PA103
-comments:
-  - Versifizierung von Lessings ["Philotas"](lessing-philotas).
-keywords:
-  - Heroische Tragödie
-ids:
-  wikidata: Q95720389
-cast:
-  - name: Aridäus, König
-    gender: m
-  - name: Strato, Feldherr des Aridäus
-    gender: m
-  - name: Philotas, gefangen
-    gender: m
-  - name: Parmenio, Soldat
-    gender: m
-setting: >
-  Die Scene, ein Zelt im Lager des Aridäus.
----
-slug: goethe-der-buergergeneral
-author:
-  name: Goethe, Johann Wolfgang von
-  wikidata: Q5879
-title: Der Bürgergeneral
-subtitle: Ein Lustspiel in einem Aufzuge
-numberOfScenes: 14
-created: 1793
-printed: 1793
-premiered: 1793-05-02
-formalia:
-  - Prosa
-dictionaries:
-  bibliographia: 2. Abteilung, Band 32, S. 365–366
-  dramenlexikon: S. 76–77
-editions:
-  - title: "Berlin: Unger 1793"
-    url: https://books.google.com/books?id=x33X7w9ZrFAC&printsec=frontcover
-comments:
-  - Zweite Fortsetzung von ["Die beiden Billets"](heyne-die-beiden-billets).
-ids:
-  dracor: ger000106
-  wikidata: Q1192735
-cast:
-  - name: Görge
-    gender: m
-  - name: Röse
-    gender: f
-  - name: Edelmann
-    gender: m
-  - name: Märten
-    gender: m
-  - name: Schnaps
-    gender: m
-  - name: Richter
-    gender: m
-  - name: Ein Bauer
-    gender: m
-setting: >
-  Der Schauplatz ist vor Märtens Hause, wie in den vorigen Stücken.
----
-slug: gottsched-herr-witzling
-author:
-  name: Gottsched, Luise Adelgunde Victorie
-  pseudonym: Anonym
-  wikidata: Q65863
-title: Herr Witzling
-subtitle: Ein deutsches Nachspiel in einem Aufzuge
-numberOfScenes: 9
-printed: 1745
-editions:
-  - title: "Die Deutsche Schaubühne. Bd. 6. Leipzig: Breitkopf 1745, S. 509–551"
-    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11089914_00529.html
-  - title: "Berlin: De Gruyter 1962, S. 7–38"
-    url: https://doi.org/10.1515/9783110828252-002
-  - title: "Lustspiele der Aufklärung in einem Akt. Stuttgart: Reclam 1986, S. 5–40"
-    url: https://books.google.com/books?id=U24aAAAAYAAJ&printsec=frontcover
-comments:
-  - Der Erstdruck 1745 erfolgte anonym. Das Stück ist nie aufgeführt worden.
-  - Der Titel wurde in der Ausgabe von 1750 geändert in "Der Witzling".
-  - Einziger Einakter der Autorin.
-keywords:
-  - Gelehrtensatire
-  - Moralsatire
-  - Literatursatire
-  - Literarische Szene in Leipzig
-ids:
-  dracor: ger000395
-  wikidata: Q55102908
-cast:
-  - name: Herr Reinhart
-    gender: m
-  - name: Jungfer Lottchen
-    gender: f
-  - name: Der junge Reinhart
-    gender: m
-  - name: Herr Vielwitz
-    gender: m
-  - name: Paul
-    gender: m
-  - name: Herr Sinnreich
-    gender: m
-  - name: Herr Jambus
-    gender: m
-setting: >
-  Der Schauplatz ist auf Jungfer Lottchens Zimmer. Die Handlung fängt gleich
-  nach der Mittagsmahlzeit an, und endiget sich gegen 5 Uhr.
----
-slug: heyne-die-beiden-billets
-author:
-  name: Heyne, Christian Leberecht
-  pseudonym: Anton-Wall
-  wikidata: Q23710566
-title: Die beiden Billets
-subtitle: Nachspiel in Einem Akt
-numberOfScenes: 11
-printed: 1783
-premiered: 1783-07-09
-formalia:
-  - Prosa
-basedOn:
-  - "Jean-Pierre Claris de Florian: Les deux billets. Comédie en 1 acte et en prose (Paris 1780)."
-dictionaries:
-  bibliographia: 2. Abteilung, Band 28, S. 490–491
-editions:
-  - title: "Komisches Theater der Franzosen. Für die Deutschen. Leipzig: Dyk 1783, 217–268"
-    url: https://books.google.com/books?id=VdtfAAAAcAAJ&pg=PA217
-  - title: "Zweyte Ausgabe. Leipzig: Dyk 1790"
-    url: https://books.google.com/books?id=tg-7CIIVMccC&printsec=frontcover
-  - title: "Wien: Wallishausser 1802"
-    url: https://books.google.com/books?id=WHYyAQAAMAAJ&printsec=frontcover
-  - title: "Wien: Wallishausser 1802"
-    url: https://books.google.com/books?id=zYWkPpJUej0C&printsec=frontcover
-ids:
-  dracor: ger000482
-  wikidata: Q79349104
-cast:
-  - name: Gürge.
-    gender: m
-  - name: Rösgen.
-    gender: f
-  - name: Schnapps,
-    role: ein Dorfbalbier.
-    gender: m
-setting: >
-  Die Szene ist auf einem freyen Plaze vor Rösgens Hause.
----
 slug: droste-huelshoff-perdu
 author:
   name: Droste-Hülshoff, Annette von
@@ -2051,6 +2212,37 @@ cast:
   - name: Damoet.
     gender: m
   - name: Tityr.
+    gender: m
+---
+slug: eckardt-der-kaufmann-und-der-bettler
+author:
+  name: Eckardt, Friedrich von
+  pseudonym: Anonym
+  wikidata: Q21660249
+title: Der Kaufmann und der Bettler
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1776
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 277–278
+editions:
+  - title: "Berlin: Mylius 1776"
+    url: https://books.google.com/books?id=F29VAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Horst,
+    role: ein Kaufmann
+    gender: m
+  - group:
+      - name: Jettchen
+        gender: f
+      - name: Karl
+        gender: m
+    role: seine Kinder
+  - name: Frau Willig,
+    role: seine Muhme
+    gender: f
+  - name: Giesser,
+    role: ein alter Bettler
     gender: m
 ---
 slug: ekhof-der-liebhaber-seiner-frau-oder-die-neben-buhlerin-von-sich-selbst
@@ -2191,6 +2383,40 @@ cast:
 setting: >
   Die Bühne ist in dem Zimmer der Madam Argante.
 ---
+slug: gellert-das-band
+author:
+  name: Gellert, Christian Fürchtegott
+  wikidata: Q60584
+title: Das Band
+subtitle: Ein Schäferspiel, In einem Aufzuge
+numberOfScenes: 9
+printed: 1744
+premiered: 1744
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 12, S. 357–364
+editions:
+  - title: "Belustigungen des Verstandes und des Witzes. Leipzig: Breitkopf 1744, S. 191–218"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10610870_00199.html
+  - title: "C. F. Gellerts sämmtliche Schriften. Neue rechtmäßige Ausgabe. Dritter Theil. Leipzig: Weidmann; Hahn 1839, S. 381–408"
+    url: https://books.google.com/books?id=L-5DAQAAIAAJ&pg=PA381
+comments:
+  - Auch unter dem Titel »Das Band. Ein Schauspiel in einem Aufzuge« (1769).
+cast:
+  - name: Galathee.
+    gender: f
+  - name: Daphne,
+    role: der Galathee Mutter.
+    gender: f
+  - name: Montan,
+    role: der Liebhaber der Galathee.
+    gender: m
+  - name: Doris.
+    gender: f
+  - name: Myrtill.
+    gender: m
+---
 slug: gellert-die-kranke-frau
 author:
   name: Gellert, Christian Fürchtegott
@@ -2278,6 +2504,37 @@ cast:
   - name: Montan.
     gender: m
 ---
+slug: gleim-philotas
+author:
+  name: Gleim, Johann Wilhelm Ludwig
+  wikidata: Q64364
+title: Philotas
+subtitle: Ein Trauerspiel. Von dem Verfasser der preussischen Kriegeslieder vercificirt
+numberOfScenes: 8
+printed: 1760
+formalia:
+  - Blankvers
+editions:
+  - title: "Sämtliche Schriften. Neue vermehrte Ausgabe. Dritter Theil. Amsterdam 1767, S. 103–136"
+    url: https://books.google.com/books?id=ld2EfxF812YC&pg=RA1-PA103
+comments:
+  - Versifizierung von Lessings ["Philotas"](lessing-philotas).
+keywords:
+  - Heroische Tragödie
+ids:
+  wikidata: Q95720389
+cast:
+  - name: Aridäus, König
+    gender: m
+  - name: Strato, Feldherr des Aridäus
+    gender: m
+  - name: Philotas, gefangen
+    gender: m
+  - name: Parmenio, Soldat
+    gender: m
+setting: >
+  Die Scene, ein Zelt im Lager des Aridäus.
+---
 slug: goentgen-anna-bell
 author:
   name: Göntgen, Johann Gottlieb
@@ -2318,6 +2575,94 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist in einer elenden Hütte, der Wohnung der Sara. Die Handlung fängt mit anbrechendem Tage an.
+---
+slug: goethe-der-buergergeneral
+author:
+  name: Goethe, Johann Wolfgang von
+  wikidata: Q5879
+title: Der Bürgergeneral
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 14
+created: 1793
+printed: 1793
+premiered: 1793-05-02
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 32, S. 365–366
+  dramenlexikon: S. 76–77
+editions:
+  - title: "Berlin: Unger 1793"
+    url: https://books.google.com/books?id=x33X7w9ZrFAC&printsec=frontcover
+comments:
+  - Zweite Fortsetzung von ["Die beiden Billets"](heyne-die-beiden-billets).
+ids:
+  dracor: ger000106
+  wikidata: Q1192735
+cast:
+  - name: Görge
+    gender: m
+  - name: Röse
+    gender: f
+  - name: Edelmann
+    gender: m
+  - name: Märten
+    gender: m
+  - name: Schnaps
+    gender: m
+  - name: Richter
+    gender: m
+  - name: Ein Bauer
+    gender: m
+setting: >
+  Der Schauplatz ist vor Märtens Hause, wie in den vorigen Stücken.
+---
+slug: gottsched-herr-witzling
+author:
+  name: Gottsched, Luise Adelgunde Victorie
+  pseudonym: Anonym
+  wikidata: Q65863
+title: Herr Witzling
+subtitle: Ein deutsches Nachspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1745
+editions:
+  - title: "Die Deutsche Schaubühne. Bd. 6. Leipzig: Breitkopf 1745, S. 509–551"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11089914_00529.html
+  - title: "Berlin: De Gruyter 1962, S. 7–38"
+    url: https://doi.org/10.1515/9783110828252-002
+  - title: "Lustspiele der Aufklärung in einem Akt. Stuttgart: Reclam 1986, S. 5–40"
+    url: https://books.google.com/books?id=U24aAAAAYAAJ&printsec=frontcover
+comments:
+  - Der Erstdruck 1745 erfolgte anonym. Das Stück ist nie aufgeführt worden.
+  - Der Titel wurde in der Ausgabe von 1750 geändert in "Der Witzling".
+  - Einziger Einakter der Autorin.
+keywords:
+  - Gelehrtensatire
+  - Moralsatire
+  - Literatursatire
+  - Literarische Szene in Leipzig
+ids:
+  dracor: ger000395
+  wikidata: Q55102908
+cast:
+  - name: Herr Reinhart
+    gender: m
+  - name: Jungfer Lottchen
+    gender: f
+  - name: Der junge Reinhart
+    gender: m
+  - name: Herr Vielwitz
+    gender: m
+  - name: Paul
+    gender: m
+  - name: Herr Sinnreich
+    gender: m
+  - name: Herr Jambus
+    gender: m
+setting: >
+  Der Schauplatz ist auf Jungfer Lottchens Zimmer. Die Handlung fängt gleich
+  nach der Mittagsmahlzeit an, und endiget sich gegen 5 Uhr.
 ---
 slug: hensler-der-geschwaetzige-barbier
 author:
@@ -2413,6 +2758,45 @@ cast:
 setting: >
   Der Schauplatz vor der Thomsen Hause, eine ländliche, mit Bäumen besetzte Gegend.
 ---
+slug: heyne-die-beiden-billets
+author:
+  name: Heyne, Christian Leberecht
+  pseudonym: Anton-Wall
+  wikidata: Q23710566
+title: Die beiden Billets
+subtitle: Nachspiel in Einem Akt
+numberOfScenes: 11
+printed: 1783
+premiered: 1783-07-09
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Pierre Claris de Florian: Les deux billets. Comédie en 1 acte et en prose (Paris 1780)."
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 490–491
+editions:
+  - title: "Komisches Theater der Franzosen. Für die Deutschen. Leipzig: Dyk 1783, 217–268"
+    url: https://books.google.com/books?id=VdtfAAAAcAAJ&pg=PA217
+  - title: "Zweyte Ausgabe. Leipzig: Dyk 1790"
+    url: https://books.google.com/books?id=tg-7CIIVMccC&printsec=frontcover
+  - title: "Wien: Wallishausser 1802"
+    url: https://books.google.com/books?id=WHYyAQAAMAAJ&printsec=frontcover
+  - title: "Wien: Wallishausser 1802"
+    url: https://books.google.com/books?id=zYWkPpJUej0C&printsec=frontcover
+ids:
+  dracor: ger000482
+  wikidata: Q79349104
+cast:
+  - name: Gürge.
+    gender: m
+  - name: Rösgen.
+    gender: f
+  - name: Schnapps,
+    role: ein Dorfbalbier.
+    gender: m
+setting: >
+  Die Szene ist auf einem freyen Plaze vor Rösgens Hause.
+---
 slug: iffland-der-magnetismus
 author:
   name: Iffland, August Wilhelm
@@ -2448,6 +2832,56 @@ cast:
     gender: m
   - name: Franz, Rosensteins Bedienter
     gender: m
+---
+slug: juenger-die-komoedie-aus-dem-stegreife
+author:
+  name: Jünger, Johann Friedrich
+  wikidata: Q1693594
+title: Die Komödie aus dem Stegreife
+subtitle: Ein Lustspiel in einem Aufzuge. Frey nach Poissons Idee
+numberOfScenes: 10
+printed: 1794
+premiered: 1801-09-26
+formalia:
+  - Prosa
+basedOn:
+  - "Philippe Poisson: »L'impromptu de campagne. Comédie en vers et en un acte«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 33, S. 169–170
+editions:
+  - title: "Wien: Wallishausser 1794"
+    url: https://books.google.com/books?id=3KtSAAAAcAAJ&printsec=frontcover
+  - title: "Comisches Theater von J. F. Jünger. Dritter Band. Leipzig: Göschen 1795, S. 337–399"
+    url: https://books.google.com/books?id=Xu5VAAAAcAAJ&pg=RA1-PA337
+  - title: "Wien: Wallishausser 1807"
+    url: https://books.google.com/books?id=FI_XiA8--xgC&printsec=frontcover
+comments:
+  - 1759 bereits [anonym übersetzt](anonym-die-comoedie-aus-dem-stegreif).
+cast:
+  - name: Graf Braunstädt.
+    gender: m
+  - name: Die Gräfinn,
+    role: dessen Gemahlinn.
+    gender: f
+  - name: Louise,
+    role: deren Tochter.
+    gender: f
+  - name: Baron Reinthal.
+    gender: m
+  - name: Baron Reinthal der Jüngere,
+    role: dessen Neffe.
+    gender: m
+  - name: Johann,
+    role: dessen Bedienter.
+    gender: m
+  - name: Hannchen,
+    role: Louisens Mädchen.
+    gender: f
+  - name: Martin,
+    role: ein alter Bedienter des Grafen.
+    gender: m
+setting: >
+  Die Scene ist ein offener Gartensaal beym Grafen Braunstädt.
 ---
 slug: kirchhoff-der-bestrafte-hochmuth
 author:
@@ -2681,49 +3115,6 @@ cast:
     gender: m
 setting: >
   Die Scene ist auf dem Landgute des Baron Kreutz.
----
-slug: anonym-die-abendmusik-oder-das-staendchen
-author:
-  pseudonym: Anonym
-title: Die Abendmusik, oder das Ständchen
-subtitle: Ein Lustspiel in einem Aufzuge
-numberOfScenes: 19
-printed: 1757
-formalia:
-  - Prosa
-basedOn:
-  - "Jean-François Regnard: [»La Sérénade«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_SERENADE.xml)"
-dictionaries:
-  bibliographia: 2. Abteilung, Band 18, S. 390–391
-editions:
-  - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757, S. 1–38"
-    url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=PA1
-cast:
-  - name: Herr Greif.
-    role: Valerens Vater.
-    gender: m
-  - name: Valer.
-    role: Leonorens Liebhaber.
-    gender: m
-  - name: Frau Argante.
-    role: Leonorens Mutter.
-    gender: f
-  - name: Leonore.
-    gender: f
-  - name: Herr Mathias.
-    gender: m
-  - name: Scapin.
-    role: Valerens Bedienter.
-    gender: m
-  - name: Mariechen,
-    role: der Frau Argante Bediente.
-    gender: m
-  - name: Michel,
-    role: des Herrn Mathias Bedienter.
-    gender: m
-  - name: Musikanten und Tänzer.
-    isGroup: true
-    gender: u
 ---
 slug: kotzebue-die-abendstunde
 author:
@@ -3487,6 +3878,53 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in dem Hause der Gräfin.
+---
+slug: martini-die-umgekehrte-comoedie-oder-der-rueckwaerts-gespielte-roman
+author:
+  name: Martini, Christian Lebrecht
+  wikidata: Q94830647
+title: Die umgekehrte Comödie, oder Der rückwärts gespielte Roman
+numberOfScenes: 18
+printed: 1762
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 284–285
+editions:
+  - title: Berlin und Hamburg 1762
+    url: https://digitale.bibliothek.uni-halle.de/vd18/content/titleinfo/1180692
+  - title: "Deutsche Schauspiele von M. Dreßden und Leipzig: Gerlach 1765, S. 169–216"
+    url: https://books.google.com/books?id=b9dUAAAAcAAJ&pg=PA168-IA1
+  - title: "Theater der Deutschen. Vierter Theil. Berlin und Leipzig: Rüdiger 1767, S. 413–416"
+    url: https://books.google.com/books?id=0HMFlTtLX7AC&pg=PA413
+comments:
+  - Erstdruck ohne Untertitel.
+  - Einakterhinweis »Ein Lustspiel in Einem Aufzuge« im Untertitel erst in der Ausgabe 1765.
+keywords:
+  - Vergewaltigung
+cast:
+  - name: Damon,
+    role: ein Licentiat der Rechtsgelahrtheit.
+    gender: m
+  - name: Lysimon,
+    role: ein junger Dokter der Arzneywissenschaft, Damons Universitäts-Freund.
+    gender: m
+  - name: Orgon.
+    gender: m
+  - name: Caroline.
+    gender: f
+  - name: Lisette.
+    gender: f
+  - name: Johann,
+    role: Damons Diener.
+    gender: m
+  - name: Carl,
+    role: ein Lakey.
+    gender: m
+  - name: Ein Kind von fünfviertel Jahren.
+    gender: u
+setting: >
+  Der Schauplatz ist in Hamburg, in Damons Hause, auf der Diehle.
 ---
 slug: moeser-die-tugend-auf-der-schaubuehne
 author:
