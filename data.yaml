@@ -960,6 +960,42 @@ cast:
   - name: Leander
     gender: m
 ---
+slug: anonym-die-erzwungene-einwilligung
+author:
+  pseudonym: Anonym
+title: Die erzwungene Einwilligung
+subtitle: Lustspiel in 1 Aufzug, aus dem Französischen des Guyot de Merville übersetzt
+numberOfScenes: 21
+printed: 1742
+formalia:
+  - Prosa
+basedOn:
+  - "Michel Guyot de Merville: [»Le consentement forcé. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/GUYOTDEMERVILLE_CONSENTEMENTFORCE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 12, S. 31 und Band 20, S. 183–184
+editions:
+  - title: "Gesammlete Lustspiele. Breßlau: Korn 1762, S. 183–230"
+    url: https://books.google.com/books?id=PBhaAAAAcAAJ&pg=PA183
+comments:
+  - 1762 unter dem Titel »Die erzwungene Einwilligung, ein Lustspiel aus dem Französischen des Herrn Guyot de Merville«.
+cast:
+  - name: Orgon.
+    gender: m
+  - name: Cleant,
+    role: Orgons Sohn.
+    gender: m
+  - name: Clarisse,
+    role: Cleantens Frau.
+    gender: f
+  - name: Lisimon,
+    role: Orgons und Cleantens Freund.
+    gender: m
+  - name: Toinette,
+    role: der Clarisse Mädchen.
+    gender: f
+setting: >
+  Die Schaubühne ist zu Autevil.
+---
 slug: anonym-die-familie
 author:
   pseudonym: Anonym
@@ -1165,6 +1201,42 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist in der Frau Argante Hause.
+---
+slug: anonym-die-trauer-oder-der-betrogene-pachter
+author:
+  pseudonym: Anonym
+title: "Die Trauer, oder: Der betrogene Pachter"
+subtitle: Ein Lustspiel des Herrn Hauteroche in einem Aufzuge
+premiered: 1759-07-15
+basedOn:
+  - "Noël Lebreton de Hauteroche: »Le deuil. Comédie, en un acte et en vers«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 220–221
+comments:
+  - Offenbar nicht gedruckt.
+  - Laut [Hamburger Theaterzettel](https://www.stadttheater.uni-hamburg.de/) gibt es eine Übersetzung (Neubearbeitung?) von Friedrich Ludwig Schröder.
+  - Unklar, ob es sich bei dem Stück [»Die Trauer, ein Lustspiel in einem Aufzuge«](franke-die-trauer) (undat.) von Christian Wilhelm Franke um eine Bearbeitung handelt.
+cast:
+  - name: Pirante,
+    role: Timantens Vater.
+    gender: m
+  - name: Timante.
+    gender: m
+  - name: Jaquemin,
+    role: der Pachter auf Pirantens Gute.
+    gender: m
+  - name: Babet,
+    role: dessen Tochter.
+    gender: f
+  - name: Perette,
+    role: Jaquemins Magd.
+    gender: f
+  - name: Frontin,
+    role: Timantens Bedienter.
+    gender: m
+  - name: Michel,
+    role: Jaquemins Knecht.
+    gender: m
 ---
 slug: anonym-die-weiber-list
 author:
@@ -1925,7 +1997,7 @@ editions:
     url: https://books.google.com/books?id=ZES-sTjaAL8C&pg=PA5
 comments:
   - Hinweis auf Einaktigkeit im Untertitel in der Ausgabe 1752 nur [im Inhaltsverzeichnis](https://books.google.com/books?id=ZES-sTjaAL8C&pg=PA1).
-  - Weitere Übersetzung 1759 „le sicilien, ou l'amour peintre comedie-ballet. Der Sicilianer, oder Amor, ein Mahler Ein Lustspiel des Hrn. v. Moliere in einem Aufzuge, mit Singen und Tanzen untermenget“, allerdings ist nicht klar, ob diese Übersetzung auch von Bierling stammt
+  - "Weitere Version laut Lübecker Theaterzettel von 1759: »LE SICILIEN, OU L'AMOUR PEINTRE COMEDIE-BALLET. Der Sicilianer, oder Amor, ein Mahler Ein Lustspiel des Hrn. v. Moliere in einem Aufzuge, mit Singen und Tanzen untermenget«, allerdings ist nicht klar, ob diese Übersetzung auch von Bierling stammt."
   - Bei Meyer ist von Friedrich Samuel Bierling die Rede, wahrscheinlich identisch mit Friedrich Immanuel Bierling, vgl. [Leipziger Literaturzeitung 1831](https://books.google.com/books?id=enbtu3MUrkgC&pg=PA2187).
 keywords:
   - Verstellspiel
@@ -2062,6 +2134,62 @@ cast:
 setting: >
   Die Dekoration bildet ein Zimmer mit einer Seitenthüre in der vierten Coulisse rechts und einer andern in der ersten Coulisse links, neben dieser ist in der zweiten Coulisse ein Fenster. Der Hintergrund ist ohne Thüren und in der Mitte, etwa sechs Schritte vom Hintergrund ab steht ein Fuß-hohes Piedestal, so daß ein Ofen, aber auch eine Statue darauf stehen können. Rechts vorn steht ein Arbeitstischchen mit einigen Stühlen, worauf die Frauenzimmer sitzen, wenn der Vorhang aufrollt.
 ---
+slug: bueschel-die-keusche-susanna
+author:
+  name: Büschel, Johann Gabriel Bernhard
+  pseudonym: Anonym
+  wikidata: Q23531388
+title: Die keusche Susanna
+subtitle: Ein rührendes Drama in Versen und einem Aufzug
+numberOfScenes: 14
+printed: 1783
+formalia:
+  - gereimte jambische Verse
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 354
+editions:
+  - title: Jerusalem 1783
+    url: http://resolver.staatsbibliothek-berlin.de/SBB000032E500000005
+comments:
+  - Parodie der biblischen Erzählung »Susanna im Bade«, in der Daniel kein Prophet, sondern Susannas heimlicher Geliebter ist.
+  - Verfasserschaft nicht abschließend geklärt. Auch Karl Riesbeck wird als Autor ins Spiel gebracht.
+  - Bei Meyer fälschlich unter dem Titel »Die keusche Johanna«.
+  - "Besprechung in: [Journal aller Romane und Schauspiele. Erstes Stück. Leipzig: Schneider 1784, S. 92–93](https://books.google.com/books?id=2zi5EmbSDjwC&pg=PT92)."
+keywords:
+  - Pornographie
+  - Vergewaltigung
+  - Bibelparodie
+cast:
+  - name: Susanna.
+    gender: f
+  - name: Daniel.
+    gender: m
+  - group:
+      - name: Rehum
+        gender: m
+      - name: Abiel
+        gender: m
+    role: Aelteste.
+  - group:
+      - name: Lea
+        gender: f
+      - name: Rachel
+        gender: f
+    role: Mädchen der Susanna.
+  - name: Volk beyderley Geschlechts.
+    isGroup: true
+    gender: u
+  - group:
+    - name: Hilkia,
+      gender: m
+    - name: seine Frau,
+      gender: f
+    - name: Jojakim,
+      gender: m
+    role: welche die klügsten Rollen im Stücke haben.
+setting: >
+  Der Schauplatz ist von Anfang bis zu Ende in Jojakims Garten. Die Handlung geht kurz vor dem Mittagessen an, und hört mit Schlafengehn auf.
+---
 slug: bueschel-die-neue-messaline
 author:
   name: Büschel, Johann Gabriel Bernhard
@@ -2110,7 +2238,7 @@ cast:
 ---
 slug: d-elpons-der-ahnherr
 author:
-  name: d’Elpons, Friedrich Wilhelm
+  name: d'Elpons, Friedrich Wilhelm
   wikidata: Q88660800
 title: Der Ahnherr
 subtitle: Schwank in Einem Aufzuge
@@ -2383,6 +2511,45 @@ cast:
 setting: >
   Die Bühne ist in dem Zimmer der Madam Argante.
 ---
+slug: franke-die-trauer
+author:
+  name: Franke, Christian Wilhelm
+  wikidata: Q94927948
+title: Die Trauer
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 15
+created: 1785
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 29, S. 228–229
+comments:
+  - Datierung ungewiss (Meyer sortiert das Stück ins Jahr 1785).
+cast:
+  - name: von Silter,
+    role: Guthsbesitzer.
+    gender: m
+  - name: Carl von Silter,
+    role: dessen Sohn.
+    gender: m
+  - name: Reinhard,
+    role: Pastor des Guts.
+    gender: m
+  - name: Julchen,
+    role: Reinhards Tochter.
+    gender: f
+  - name: Johann,
+    role: des Sekretairs Bedienter.
+    gender: m
+  - group:
+      - name: Trina.
+        gender: m
+      - name: Clas.
+        gender: m
+    role: in Reinhards Diensten.
+setting: >
+  Die Handlung ist auf von Siltens Landgute.
+---
 slug: gellert-das-band
 author:
   name: Gellert, Christian Fürchtegott
@@ -2581,7 +2748,7 @@ author:
   name: Goethe, Johann Wolfgang von
   wikidata: Q5879
 title: Der Bürgergeneral
-subtitle: Ein Lustspiel in einem Aufzuge
+subtitle: Ein Lustspiel in einem Aufzuge. Zweyte Fortsetzung der beyden Billets
 numberOfScenes: 14
 created: 1793
 printed: 1793
@@ -2595,27 +2762,79 @@ editions:
   - title: "Berlin: Unger 1793"
     url: https://books.google.com/books?id=x33X7w9ZrFAC&printsec=frontcover
 comments:
-  - Zweite Fortsetzung von ["Die beiden Billets"](heyne-die-beiden-billets).
+  - Zweite Fortsetzung von [»Die beiden Billets«](heyne-die-beiden-billets).
 ids:
   dracor: ger000106
   wikidata: Q1192735
 cast:
-  - name: Görge
-    gender: m
-  - name: Röse
+  - name: Röse.
     gender: f
-  - name: Edelmann
+  - name: Görge.
     gender: m
-  - name: Märten
+  - name: Märten.
     gender: m
-  - name: Schnaps
+  - name: Der Edelmann.
     gender: m
-  - name: Richter
+  - name: Schnaps.
     gender: m
-  - name: Ein Bauer
+  - name: Der Richter.
+    gender: m
+  - name: Bauern.
+    isGroup: true
     gender: m
 setting: >
-  Der Schauplatz ist vor Märtens Hause, wie in den vorigen Stücken.
+  Der Schauplatz ist in Märtens Hause, wie in den vorigen Stücken.
+---
+slug: gottsched-die-widersprecherinn
+author:
+  name: Gottsched, Luise Adelgunde Victorie
+  wikidata: Q65863
+title: Die Widersprecherinn
+subtitle: Ein Lustspiel in einem Aufzuge. Aus dem dü Freny übersetzet
+numberOfScenes: 25
+printed: 1742
+premiered: 1747
+formalia:
+  - Prosa
+basedOn:
+  - "Charles Dufresny: [»L'esprit de contradiction. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DUFRESNY_ESPRITDECONTRADICTION.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 12, S. 121
+editions:
+  - title: "Die Deutsche Schaubühne. Erster Theil. Leipzig: Breitkopf 1742, S. 495–536"
+    url: https://books.google.com/books?id=VxJ8y6ZVJk0C&pg=RA1-PA495
+  - title: "Die Deutsche Schaubühne. Erster Theil. Neue verbesserte Auflage. Leipzig: Breitkopf 1746, S. 497–536"
+    url: https://books.google.com/books?id=VxJ8y6ZVJk0C&pg=RA1-PA495
+  - title: "Wien 1770"
+    url: https://books.google.com/books?id=yCNVAAAAcAAJ&printsec=frontcover
+comments:
+  - Erster Einakter in Gottscheds Sammlung.
+  - 1746 unter dem Titel »Die Widerwillige«.
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Herr von Gutleben.
+    gender: m
+  - name: Frau von Gutleben.
+    gender: f
+  - name: Fräulein Amalia,
+    role: ihre Tochter.
+    gender: f
+  - name: Herr von Eginhardt,
+    role: Liebhaber der Amalia.
+    gender: m
+  - name: Herr von Steinreich,
+    role: Liebhaber der Amalia.
+    gender: m
+  - name: Michel,
+    role: ein Gärtner.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+  - name: Ein Diener.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem Gartenhause bey dem Schlosse des Herrn von Gutleben.
 ---
 slug: gottsched-herr-witzling
 author:
@@ -2635,8 +2854,7 @@ editions:
     url: https://books.google.com/books?id=U24aAAAAYAAJ&printsec=frontcover
 comments:
   - Der Erstdruck 1745 erfolgte anonym. Das Stück ist nie aufgeführt worden.
-  - Der Titel wurde in der Ausgabe von 1750 geändert in "Der Witzling".
-  - Einziger Einakter der Autorin.
+  - Der Titel wurde in der Ausgabe von 1750 geändert in »Der Witzling«.
 keywords:
   - Gelehrtensatire
   - Moralsatire
@@ -3998,6 +4216,49 @@ cast:
     gender: u
   - name: Redlichkeit
     gender: u
+---
+slug: pauersbach-die-indianische-wittwe
+author:
+  name: Pauersbach, Karl Michael von
+  wikidata: Q30541298
+title: Die Indianische Wittwe
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 12
+printed: 1772
+premiered: 1772
+formalia:
+  - Prosa
+basedOn:
+  - "Nicolas-Étienne Framery: »L'Indienne. Comédie en un acte«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 142–143
+editions:
+  - title: "Wien 1772"
+    url: https://books.google.com/books?id=SSNVAAAAcAAJ&printsec=frontcover
+  - title: "Neue Schauspiele. Zweyter Band. Preßburg: Löwe 1772"
+    url: https://books.google.com/books?id=2Jr9P3ivl2MC&pg=RA3-PA1
+comments:
+  - Auch unter dem Titel »Die indianische Wittwe, oder der Scheiterhaufen«.
+keywords:
+  - Indien
+  - Religion
+  - Sklaverei
+cast:
+  - name: Kaleb.
+    role: Der oberst Bramine.
+    gender: m
+  - name: Atzora.
+    gender: f
+  - name: Der Nachfolger Kalebs.
+    gender: m
+  - name: Mendes.
+    role: Ein persischer Sclave des Kaleb.
+    gender: m
+  - name: Gefolge von Braminen, und Sclaven.
+    isGroup: true
+    gender: u
+setting: >
+  Die Bühne stellt einen Vorsaal in des obersten Bramine Wohnung vor. In der Tiefe sind Kalebs Sclaven verschieden beschäftiget. Einige bringen Fackeln, Kohlpfannen, Weihrauchtöpfe; Andere Opfergeschirre, Festkleider, Holzbündeln, und dergleichen.
 ---
 slug: pfeffel-serena
 author:
