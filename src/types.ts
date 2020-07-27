@@ -1,6 +1,7 @@
 export interface CastGroupMember {
   name: string
   gender?: string
+  role?: string
 }
 
 export interface CastMember {

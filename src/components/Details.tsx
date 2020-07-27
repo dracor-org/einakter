@@ -125,6 +125,7 @@ export default function Details () {
                       {c.group && c.group.map(member => (
                         <li key={member.name}>
                           {member.name}
+                          {member.role && (<i> {member.role}</i> )}
                           {member.gender && ` (${member.gender})`}
                         </li>
                       ))}
