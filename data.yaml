@@ -511,10 +511,10 @@ formalia:
 basedOn:
   - "Noël Lebreton de Hauteroche: [»Le Cocher supposé«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/HAUTEROCHE_COCHERSUPPOSE.xml)"
 dictionaries:
-  bibliographia: 2. Abteilung, Band 11, S. 356 und Band 19, S. 189
+  bibliographia: 2. Abteilung, Band 11, S. 356 und Band 19, S. 189 und Band 20, S. 199–200
 comments:
   - "Auch unter dem Titel: »Le Cocher supposé Der Kutscher. Ein Neues Lustspiel des Herrn Hauteroche in einem Aufzuge« (1759)."
-  - Es ist nicht bekannt, ob eine deutsche Übersetzung gedruckt wurde.
+  - "Eine deutsche Übersetzung wurde 1762 gedruckt: »Der Kutscher, ein Lustspiel in einer Handlung aus dem Französischen des Herrn von Hauteroche«."
 cast:
   - name: Hilaire,
     role: Vetter der Dorothee.
@@ -1272,6 +1272,64 @@ cast:
 setting: >
   Der Schauplatz ist in Herr Steffens Hause, welches mit etlichen Stühlen, ein Ruhebett und einer leinen Kiste ausgezieret.
 ---
+slug: anonym-die-weinlese
+author:
+  pseudonym: Anonym
+title: Die Weinlese
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem Französischen des Hrn. Dancourt
+numberOfScenes: 16
+printed: 1760
+premiered: 1759-02-06
+formalia:
+  - Prosa
+basedOn:
+  - "Florent Carton dit Dancourt: [»Les vendanges«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DANCOURT_VENDANGES.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 225–226 und S. 240
+editions:
+  - title: "Des Herrn Dancourt sämmtliche Lustspiele. Erster Band. Breslau [ca. 1760],S. 179–222"
+    url: https://nbn-resolving.de/urn:nbn:de:gbv:3:1-658094-p0185-1
+  - title: "Des Herrn Dancourt sämmtliche Lustspiele. Breßlau und Leipzig: Pietsch 1761, S. 179–219"
+    url: https://books.google.com/books?id=dLvxC1OYJRIC&pg=PA179
+comments:
+  - "Eine handschriftliche Übersetzung (mit 24 Auftritten) von Konrad Ekhof liegt in der Forschungsbibliothek Gotha (Signatur: [Chart. B 1670](http://kalliope-verbund.info/DE-611-HS-3410555)). *(Edit.: Eigenen Eintrag anlegen? Bei Meyer ebd. S. 240.)*"
+keywords:
+  - Eheanbahnung
+  - Verkleidungsspiel
+cast:
+  - name: Herr Thomasin.
+    gender: m
+  - name: Mariane,
+    role: seine Tochter.
+    gender: f
+  - name: Tulms,
+    role: Gärtner bey Herr Thomasin.
+    gender: m
+  - name: Clitander,
+    role: Liebhaber der Mariane.
+    gender: m
+  - name: Mad. Mattine,
+    role: Muhme des Clitanders und der Angelique.
+    gender: f
+  - name: Angelique,
+    role: Schwester des Clitanders.
+    gender: f
+  - name: Mad. Frosine,
+    role: Schwägerin des Tulms.
+    gender: f
+  - name: Herr Sebastian,
+    role: ein Land-Junker.
+    gender: m
+  - name: Der kleine Sebastian,
+    role: sein Vetter.
+    gender: m
+  - name: Florian,
+    role: ein guter Freund der Mad. Frosine.
+    gender: m
+  - name: Winzer und Winzerinn.
+    isGroup: true
+    gender: u
+---
 slug: anonym-die-gebesserten
 author:
   pseudonym: Anonym
@@ -1373,6 +1431,49 @@ cast:
   - name: Andreas,
     role: ein Wuchrer.
     gender: m
+---
+slug: anonym-die-verschreibung
+author:
+  pseudonym: Anonym
+title: Die Verschreibung
+subtitle: Ein neues Lustspiel des Herrn du Fresny in einem Aufzuge
+numberOfScenes: 12
+printed: 1769
+premiered: 1759-04-20
+formalia:
+  - Prosa
+basedOn:
+  - "Charles Dufresny: [»Le dédit. Comédie en vers et en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DUFRESNY_DEDIT.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 223 und Band 23, S. 253
+editions:
+  - title: Berlin und Leipzig 1769
+    url: https://books.google.com/books?id=CwYxUVgK57MC&printsec=frontcover
+comments:
+  - Erschienener Druck 1769 unter dem Titel »Die Verschreibung. Ein Lustspiel von einem Aufzuge, aus dem Französischen übersetzt«.
+cast:
+  - name: Geronte,
+    role: Vater der Isabelle.
+    gender: m
+  - name: Isabelle,
+    role: Valerens Geliebte.
+    gender: f
+  - group:
+      - name: Belise,
+        gender: f
+      - name: Araminte,
+        gender: f
+    role: Schwestern.
+  - name: Valere,
+    role: Vetter der Belise und Araminte, und Liebhaber der Isabellen.
+    gender: m
+  - name: Frontin,
+    role: Valerens Bedienter.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist in Belisens und Aramintens Hause.
 ---
 slug: anonym-die-verwandlung-des-braeutigams
 author:
@@ -2210,6 +2311,8 @@ editions:
     url: https://books.google.com/books?id=ygZOAAAAcAAJ&pg=RA3-PA125-IA8
 keywords:
   - Pornographie
+comments:
+  - Die historische Figur [Valeria Messalina](https://de.wikipedia.org/wiki/Valeria_Messalina) war die dritte Frau des römische Kaisers Claudius und wird in den Quellen als Nymphomanin beschrieben.
 ids:
   dracor: ger000483
   wikidata: Q87986345
@@ -2251,7 +2354,7 @@ editions:
     url: https://books.google.com/books?id=h43Sm5gULfYC&pg=PA67
 comments:
   - >
-    Tendenziöse Judensatire eines "mediokren Schriftstellers" (Gunnar Och), der
+    Tendenziöse Judensatire eines »mediokren Schriftstellers« (Gunnar Och), der
     zum Umfeld E. T. A. Hoffmanns gehörte.
 keywords:
   - Judentum
@@ -3925,12 +4028,13 @@ formalia:
 basedOn:
   - "Pietro Metastasio: [»Adriano in Siria«](https://dracor.org/ita/metastasio-adriano-in-siria)."
 dictionaries:
-  bibliographia: 2. Abteilung, Band 16, S. 421–422
+  bibliographia: 2. Abteilung, Band 16, S. 421–422 und Band 22, S. 182–183
 editions:
   - title: "Hamburgische Beyträge zu den Werken des Witzes und der Sittenlehre. Drittes Stück. Hamburg: Brandt 1753, S. 671–736"
     url: https://books.google.com/books?id=dzQrAAAAYAAJ&pg=RA1-PA671
 comments:
   - "Laut [Vorbericht](https://books.google.com/books?id=dzQrAAAAYAAJ&pg=RA1-PA673) inspiriert von Saint-Foix' »Zeloide«, die allerdings »zu nichts, als zu dem Gedanken Anlaß gegeben, ein prosaisches Trauerspiel von einer Handlung auszuarbeiten«."
+  - 1767 unter demselben Titel auch ohne Angabe des Autors in den »Gesammelten Schriften zum Vergnügen und Unterricht« (II,4) erschienen.
 cast:
   - name: Emirene.
     role: Gefangene des Hadrianus, und Geliebte des Farnaspes.
@@ -4390,6 +4494,49 @@ cast:
 setting: >
   Die Handlung spielt im Hause des Hofraths.
 ---
+slug: romanus-die-schwiegermuetter
+author:
+  name: Romanus, Karl Franz
+  wikidata: Q84561647
+title: Die Schwiegermütter
+subtitle: Ein Lustspiel in einem Aufzuge
+created: 1756
+premiered: 1759-02-27
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre Carlet de Marivaux: [»L'école des mères. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ECOLEDESMERES.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 273
+comments:
+  - Soll bereit 1755/56 für die Koch'sche Truppe geschrieben worden sein. Kein Druck bekannt. 1764 zum Dreiakter ausgedehnt.
+cast:
+  - name: Herr du Bois.
+    gender: m
+  - name: Mariane,
+    role: seine Frau.
+    gender: f
+  - name: Angelique,
+    role: des Herrn du Bois Tochter ersterer Ehe.
+    gender: f
+  - name: Frau du Bois,
+    role: des Herrn du Bois Mutter.
+    gender: f
+  - name: Frau Pernelle,
+    role: Marianens Mutter.
+    gender: f
+  - name: Frau Argante.
+    gender: f
+  - name: Eraste,
+    role: in Angeliquen verliebt.
+    gender: m
+  - name: Frontin,
+    role: sein Bedienter.
+    gender: m
+  - name: Nerine,
+    role: Angeliquens Mägdgen.
+    gender: f
+---
 slug: rost-die-gelernte-liebe
 author:
   name: Rost, Johann Christoph
@@ -4451,6 +4598,48 @@ cast:
     gender: f
   - name: Olinde.
     gender: m
+---
+slug: scheibe-der-eifersuechtige-schaefer-oder-der-fehler-der-liebe
+author:
+  name: Scheibe, Johann Adolph
+  wikidata: Q27588164
+title: Der eifersüchtige Schäfer, oder der Fehler der Liebe
+subtitle: Ein Schäferspiel, in einem Aufzuge
+numberOfScenes: 25
+printed: 1759
+formalia:
+  - Prosa
+basedOn:
+  - "Anna Catharina von Passow: »Elskovs- eller Hierligheds-Feyl«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 277–278
+editions:
+  - title: "Der Frau von Passow, geb. Materne, sämmtliche Lustspiele. Aus dem Dänischen übersetzt. Frankfurth und Leipzig 1759, S. 255–318"
+    url: https://books.google.com/books?id=YJxAAAAAcAAJ&pg=PA255
+comments:
+  - Im [Vorbericht](https://books.google.com/books?id=YJxAAAAAcAAJ&pg=PA3) heißt es, Passows Dramen seien »die besten Stücke, die bisher in Kopenhagen herausgekommen sind«.
+  - Im Original in Versen.
+cast:
+  - name: Damint,
+    role: ein Schäfer, Chloens Liebhaber.
+    gender: m
+  - name: Myrtill,
+    role: sein vermeinter Nebenbuhler.
+    gender: m
+  - name: Coridon,
+    role: ein Schäfer, Bruder der Phillis.
+    gender: m
+  - name: Chloe,
+    role: eine Schäferinn, Damints Geliebte.
+    gender: f
+  - name: Phillis,
+    role: verliebt in Myrtillen.
+    gender: f
+  - name: Galathe,
+    role: Coridons Geliebte.
+    gender: f
+setting: >
+  Die Schaubühne stellet eine angenehme Landgegend vor, und an der einen Seite stehen einige Bäume.
 ---
 slug: schlegel-anne-dore-oder-die-einquartierung
 author:
@@ -4677,6 +4866,29 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist in Damons Hause.
+---
+slug: sebastiani-die-matrone-von-ephesus-oder-der-von-den-weibern-leicht-vergessene-tod-der-maenner
+author:
+  name: Sebastiani, Franz Joseph
+  wikidata: Q95219098
+title: Die Matrone von Ephesus. Oder Der von den Weibern leicht vergessene Tod der Männer
+subtitle: Ein Nachspiel, in einem Aufzuge
+numberOfScenes: 9
+printed: 1764
+formalia:
+  - Verse
+dictionaries:
+  bibliographia: 2. Abteilung, Band 21, S. 194
+editions:
+  - title: "Sammlung neuer Schauspiele so wie sie auf dem Sebastianischen Schauplatz aufgeführet worden. Erster Band. Augusburg: Klett 1764, S. 1–16"
+    url: https://books.google.com/books?id=Nu1YAAAAcAAJ&pg=PA1
+cast:
+  - name: Eunomia.
+    gender: f
+  - name: Haliska.
+    gender: f
+  - name: Hector.
+    gender: m
 ---
 slug: speckner-darius
 author:
@@ -5192,14 +5404,18 @@ premiered: 1748
 formalia:
   - Alexandriner
 basedOn:
-  - antike Erzählung vond der Witwe aus Ephesus
+  - antike Erzählung von der Witwe aus Ephesus
 dictionaries:
-  bibliographia: 2. Abteilung, Band 14, S. 218–219 und Band 21, S. 214–215
+  bibliographia: 2. Abteilung, Band 14, S. 218–219, Band 21, S. 194 und S. 214–215, Band 24, S. 198
 editions:
   - title: "Leipzig: Dyck 1767"
     url: https://nbn-resolving.de/urn:nbn:de:gbv:3:1-333861
   - title: "Wien: Trattner 1770"
     url: https://books.google.com/books?id=32tUAAAAcAAJ&printsec=frontcover
+  - title: "Lustspiele von C. F. Weiße. Erster Theil. Carlsruhe: Schmieder 1778, S. 209–260"
+    url: https://books.google.com/books?id=_hAzAQAAMAAJ&pg=PA209
+  - title: "Lustspiele von C. F. Weiße. Erster Theil. Reuttlingen: Fleischhauer 1782, S. 209–260"
+    url: https://books.google.com/books?id=Ns1CAQAAMAAJ&pg=PA209
 comments:
   - "Die Wiener Bearbeitung »Die Matrone von Ephesus oder Sind alles Wittwen so? Ein Lustspiel in Versen in einem Aufzuge« (1770) stammt wahrscheinlich von Stephanie d. J."
 cast:
