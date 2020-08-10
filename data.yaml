@@ -122,6 +122,64 @@ cast:
   - name: Thalia
     gender: f
 ---
+slug: anonym-das-orakel-1745
+author:
+  pseudonym: Anonym
+title: Das Orakel
+subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen ins Deutsche übersetzt
+numberOfScenes: 8
+printed: 1745
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»L'Oracle. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAINT-FOIX_ORACLE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 57
+editions:
+  - title: "Hamburg: Nottebohm 1745"
+comments:
+  - Weitere Übersetzungen [1750](schlegel-das-orakel) (Schlegel) und [1752](anonym-das-orakel-1752) (anonym).
+cast:
+  - name: Die Oberzauberin.
+    gender: f
+  - name: Alcidor,
+    role: ein Sohn der Oberzauberin.
+    gender: m
+  - name: Lucinde,
+    role: eine junge Prinzeßin, verliebt in Alcidor.
+    gender: f
+setting: >
+  Die Begebenheit ist in dem Schlosse der Oberzauberin.
+---
+slug: anonym-das-orakel-1752
+author:
+  pseudonym: Anonym
+title: Das Orakel
+subtitle: Ein Lustspiel in einem Aufzuge, aus dem Französischen übersetzt
+printed: 1752
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»L'Oracle. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAINT-FOIX_ORACLE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 15, S. 431
+editions:
+  - title: "Schönemann: Schaubühne. 5. Theil. Braunschweig und Leipzig 1752 (?)"
+comments:
+  - Weitere Übersetzungen [1745](anonym-das-orakel-1745) (anonym) und [1750](schlegel-das-orakel) (Schlegel).
+cast:
+  - name: Souveraine,
+    role: eine Zauberin.
+    gender: f
+  - name: Alcidor,
+    role: ihr Sohn.
+    gender: m
+  - name: Lucinde,
+    role: eine fremde Prinzeßin.
+    gender: f
+setting: >
+  Der Schauplatz ist in einem Saal des Pallastes der Zauberin.
+---
 slug: anonym-das-urtheil-des-paris
 author:
   pseudonym: Anonym
@@ -809,6 +867,48 @@ cast:
 setting: >
   Der Schauplatz ist auf des Herrn von Wildbergs Landgute.
 ---
+slug: anonym-der-unerwartete-ausgang
+author:
+  pseudonym: Anonym
+title: Der unerwartete Ausgang
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+created: 1760
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre Carlet de Marivaux: [»Le Dénouement imprévu«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DENOUEMENTIMPREVU.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 313
+comments:
+  - 1749 auch von Johann Christian Krüger unter dem Titel [»Le Denouement imprévu. Der unvermuthete Ausgang. Ein Lustspiel in einer Handlung«](krueger-le-denouement-imprevu-der-unvermuthete-ausgang) übersetzt.
+  - Datierung ungewiß, von Meyer ins Jahr 1760 einsortiert.
+cast:
+  - name: Reichenau,
+    role: ein Gutsbesitzer.
+    gender: m
+  - name: Emilie,
+    role: seine Nichte.
+    gender: f
+  - name: Carl von Birten.
+    gender: m
+  - name: Doctor Fellner.
+    gender: m
+  - name: Schlebusch,
+    role: Verwalter.
+    gender: m
+  - group:
+      - name: Maria,
+        gender: f
+      - name: Jacob,
+        gender: m
+    role: in Reichenau's Diensten.
+  - name: Stint,
+    role: von Birtens Bedienter.
+    gender: m
+setting: >
+  Die Handlung ist auf Reichenaus Landgute.
+---
 slug: anonym-der-von-der-liebe-betrogene-philosoph
 author:
   pseudonym: Anonym
@@ -819,7 +919,7 @@ printed: 1750
 formalia:
   - Prosa
 basedOn:
-  - "Saintfoix: »Le philosophe dupe de l'amour. Comédie en un acte«"
+  - "Germain François Poullain de Saint-Foix: »Le philosophe dupe de l'amour. Comédie en un acte«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 14, S. 470–471
 editions:
@@ -1430,6 +1530,36 @@ cast:
     gender: m
   - name: Andreas,
     role: ein Wuchrer.
+    gender: m
+---
+slug: anonym-die-verhandelte-braut
+author:
+  pseudonym: Anonym
+title: Die verhandelte Braut
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1760
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 317
+editions:
+  - title: "Berlin, Stettin und Leipzig: Rüdiger 1760"
+    url: https://books.google.com/books?id=ezRJAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Geront,
+    gender: m
+  - name: Murgon,
+    gender: m
+  - name: Dorinde,
+    gender: f
+  - name: Leander,
+    gender: m
+  - name: Lisette,
+    gender: f
+  - name: Ilse Agnes,
+    gender: f
+  - name: Notarius.
     gender: m
 ---
 slug: anonym-die-verschreibung
@@ -2077,6 +2207,48 @@ cast:
 setting: >
   Hütte des Paria.
 ---
+slug: bertram-der-mondsuechtige-oder-er-verliehrt-seine-braut-im-schlaf
+author:
+  name: Bertram, Christian August von
+  wikidata: Q55673473
+title: Der Mondsüchtige oder Er verliehrt seine Braut im Schlaf
+subtitle: Ein Lustspiel in einem Aufzug, aus dem Französischen übersetzt von C. A. B.
+numberOfScenes: 18
+printed: 1775
+formalia:
+  - Prosa
+basedOn:
+  - "Antoine de Ferriol de Pont-de-Veyle: [»Le somnambule. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DUPONTDEVEYLE_SOMNANBULE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 66–67
+editions:
+  - title: "Dreßden: Gerlachische Buchhandlung 1775"
+    url: https://books.google.com/books?id=VmxVAAAAcAAJ&printsec=frontcover
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Der Baron.
+    gender: m
+  - name: Die Gräfin.
+    gender: f
+  - name: Karoline,
+    role: deren Tochter.
+    gender: f
+  - name: Valer,
+    role: des Barons Neffe, Karolinens Liebhaber.
+    gender: m
+  - name: Reichheim,
+    role: Karolinens Bräutigam.
+    gender: m
+  - name: Niklas Blumentopf,
+    role: des Barons Gärtner.
+    gender: m
+  - name: Johann,
+    role: Reichheims Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem Landhause des Barons.
+---
 slug: bierling-der-sicilier-oder-die-liebe-ein-maler
 author:
   name: Bierling, Friedrich Immanuel
@@ -2518,6 +2690,24 @@ cast:
     gender: m
   - name: Ein Notarius.
     gender: m
+---
+slug: ekhof-der-verliebte-werber
+author:
+  name: Ekhof, Konrad
+  wikidata: Q215783
+title: Der Verliebte Werber
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 18
+premiered: 1777
+formalia:
+  - Prosa
+basedOn:
+  - "Alain-René Le Sage und d'Orneval: [»Les Amours de Nanterre«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DORNEVALLESAGE_AMOURSDENANTERRE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 421
+comments:
+  - "Handschriftliche Übersetzung von Konrad Ekhof in der Forschungsbibliothek Gotha (Signatur: [Chart. B 1624](http://kalliope-verbund.info/DE-611-HS-3410362))."
+  - Laut Meyer schwierig zuzuordnen. Ältere Teile gehen evtl. auf die [ältere Übersetzung von Heydenreich](heydenreich-der-verliebte-werber) zurück.
 ---
 slug: ekhof-der-wucherer-ein-edelmann
 author:
@@ -4641,6 +4831,67 @@ cast:
 setting: >
   Die Schaubühne stellet eine angenehme Landgegend vor, und an der einen Seite stehen einige Bäume.
 ---
+slug: scheibe-die-unerwartete-verliebung-oder-cupido-ein-philosoph
+author:
+  name: Scheibe, Johann Adolph
+  wikidata: Q27588164
+title: Die unerwartete Verliebung, oder Cupido, ein Philosoph
+subtitle: Ein Lustspiel, in einem Aufzuge
+numberOfScenes: 14
+printed: 1759
+formalia:
+  - Prosa
+  - Gesänge in Versen
+basedOn:
+  - "Anna Catharina von Passow: »Den uventede Forlibelse, eller Cupido Philosoph«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 278
+editions:
+  - title: "Der Frau von Passow, geb. Materne, sämmtliche Lustspiele. Aus dem Dänischen übersetzt. Frankfurth und Leipzig 1759, S. 197–254"
+    url: https://books.google.com/books?id=YJxAAAAAcAAJ&pg=PA197
+comments:
+  - Im [Vorbericht](https://books.google.com/books?id=YJxAAAAAcAAJ&pg=PA3) heißt es, Passows Dramen seien »die besten Stücke, die bisher in Kopenhagen herausgekommen sind«.
+  - Im Original in Versen.
+cast:
+  - name: Cupido,
+    role: als ein Philosoph, mit einem Mantel und einem breiten Hute.
+    gender: m
+  - name: Freya,
+    role: Göttinn der Schönheit; beweinet die Abwesenheit ihres Mannes mit göldenen Thränen.
+    gender: f
+  - name: Fulla,
+    role: Vertraute der Freya; sie hat die Aufsicht auf den Schmuck der Göttinn.
+    gender: f
+  - name: Frigga,
+    role: Gemahlinn des Odins, die nordische Venus; Göttinn aller Ergetzlichkeiten, des Reichthums und Ueberflusses.
+    gender: f
+  - name: Snotra,
+    role: Göttinn der Weisheit.
+    gender: f
+  - name: Vara,
+    role: die Göttinn, die die Gelübde und Eidschwüre der Verliebten und der Eheleute annimmt, und diejenigen, die sie brechen, bestraft.
+    gender: f
+  - name: Odin,
+    role: oder Allvater, der oberste der Götter, und der Gott und Vater der andern Götter.
+    gender: m
+  - name: Thor,
+    role: Odins ältester Sohn, Schutzgott der Kriegsleute; er träget einen Streithammer, der, so oft er ihn von sich wirft, wieder zurück in seine Hände fällt, eiserne Handschuhe, und einen Gürtel, der seine Kräfte erneuert.
+    gender: m
+  - name: Brage,
+    role: Gott der Dichtkunst. Er ist auch wegen seiner Weisheit, Beredsamkeit und seines majestätischen Wesens berühmt.
+    gender: m
+  - name: Heimdal,
+    role: der Pförtner der Götter; wenn er bläset, so kann seine Trompete durch die ganze Welt gehöret werden.
+    gender: m
+  - name: Venus,
+    role: Göttinn der Schönheit bey den Griechen und Römern.
+    gender: f
+  - name: Zweene Schäfer.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplatz ist ein Wald in Norwegen.
+---
 slug: schlegel-anne-dore-oder-die-einquartierung
 author:
   name: Schlegel, Johann Adolf
@@ -4690,6 +4941,39 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist in der Schenke in den Kohlgärten.
+---
+slug: schlegel-das-orakel
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Das Orakel
+subtitle: Ein Lustspiel, in einem Aufzuge, das am 22 März 1740 auf dem französischen Theater zum erstenmale vorgestellt worden
+numberOfScenes: 8
+printed: 1750
+premiered: 1752-07-18
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»L'Oracle. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAINT-FOIX_ORACLE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 15, S. 84
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke, Aus dem Französischen übersetzt. Erster Theil. Leipzig: Wendler 1750, S. 1–24"
+    url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA1
+comments:
+  - Weitere Übersetzungen [1745](anonym-das-orakel-1745) und [1752](anonym-das-orakel-1752) (beide anonym).
+cast:
+  - name: Die Feye,
+    role: Souveraine.
+    gender: f
+  - name: Alcindor,
+    role: der Feye Sohn.
+    gender: m
+  - name: Lucinde,
+    role: eine junge Prinzeßin, welche Alcindor liebt.
+    gender: f
+setting: >
+  Der Schauplatz ist in dem Palaste der Feye.
 ---
 slug: schlegel-der-sieg-der-vergangenen-zeit
 author:
@@ -4938,6 +5222,49 @@ cast:
   - name: Soldaten von dem Heere Alexanders.
     isGroup: true
     gender: m
+---
+slug: straube-pigmalion-und-themire
+author:
+  name: Straube, Gottlob Benjamin
+title: Pigmalion und Themire
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1759
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 284–285
+editions:
+  - title: "Komisches Theater von S***. Erster Theil. Breßlau: Meyer 1759, S. 171–222"
+    url: https://books.google.com/books?id=60A7AAAAcAAJ&pg=PA171
+cast:
+  - name: Antiochus,
+    role: Priester der Venus.
+    gender: m
+  - name: Thrason,
+    role: Priester der Venus.
+    gender: m
+  - name: Idomen,
+    role: Sohn des Antiochus.
+    gender: m
+  - name: Themire,
+    role: Tochter des Thrason.
+    gender: f
+  - name: Oriane,
+    role: ein Paphisches Mädchen, in einen Baum verwandelt.
+    gender: f
+  - name: Pigmalion,
+    role: ein Paphischer Jüngling, in einen Baum verwandelt.
+    gender: m
+  - name: Der Schatten des Oberpriesters Pigmalions, Stifters des Tempels.
+    gender: m
+  - name: Venus.
+    gender: f
+  - name: Gefolge der Venus
+    isGroup: true
+    gender: u
+setting: >
+  Die Scene ist in Paphos, nahe an dem Tempel der Liebe.
 ---
 slug: thielmann-der-junge-feldherr-oder-die-franzosen-in-aegypten
 author:
