@@ -1681,6 +1681,35 @@ cast:
 setting: >
   Die Handlung ist in des Herrn Erichthons Hause.
 ---
+slug: anonym-krispin-der-geplagte-lehenbediente
+author:
+  pseudonym: Anonym
+title: Krispin der geplagte Lehenbediente
+subtitle: Nachspiel von einem Aufzuge
+numberOfScenes: 9
+printed: 1760
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 359
+editions:
+  - title: "Wien: Gerold [1760]."
+    url: https://books.google.com/books?id=BHdkxCk1EKsC&pg=RA1-PA1
+comments:
+  - Abgedruckt als Nachspiel zu »Konradon ein Schüler des Cupido und der magischen Künsten. Ein Lustspiel von drey Aufzügen«.
+cast:
+  - name: Baron Scharffhau.
+    gender: m
+  - name: Baron Hanenkamp.
+    gender: m
+  - name: Krispin,
+    role: der geplagte Lehenbediente.
+    gender: m
+  - name: Ein Kellner.
+    gender: m
+setting: >
+  Das Theater stellet einen Wirthshaussaal vor, worinnen auf beyden Seiten zwey Nebenzimmer sind.
+---
 slug: anonym-kritik-ueber-den-universalerben
 author:
   pseudonym: Anonym
@@ -2371,6 +2400,45 @@ cast:
 setting: >
   Der Schauplatz ist auf der Straße.
 ---
+slug: bischoff-der-judenfeind
+author:
+  name: Bischoff, L. C. H.
+title: Der Judenfeind
+subtitle: Ein Trauerspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1780
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 383–384
+editions:
+  - title: "Stendal: Franzen und Grosse 1780"
+    url: https://books.google.com/books?id=exFaAAAAcAAJ&printsec=frontcover
+keywords:
+  - Judentum
+  - Antisemitismus
+  - Geld
+  - Mord
+cast:
+  - name: Ein Räuber.
+    gender: m
+  - name: Salomo,
+    role: ein Jude.
+    gender: m
+  - name: Eine Jüdin.
+    gender: f
+  - name: Rahel,
+    role: ihre Tochter.
+    gender: f
+  - name: Der Herr von F.
+    gender: m
+  - name: Ein Kutscher und Jäger.
+    gender: m
+  - name: Ein Bettler.
+    gender: m
+setting: >
+  Salomos Hausflur.
+---
 slug: buerger-die-antike-statue-aus-florenz
 author:
   name: Bürger, Elise
@@ -2964,6 +3032,38 @@ cast:
   - name: Montan.
     gender: m
 ---
+slug: geyer-die-neue-delila
+author:
+  name: Geyer, Ludwig
+  wikidata: Q214063
+title: Die neue Delila
+subtitle: Ein Anfangs lustiges, aber gegen das Ende höchst trauriges Schäfer- und Ritterspiel in einem Act
+numberOfScenes: 5
+printed: 1823
+formalia:
+  - Alexandriner
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. 21. Jahrgang. Leipzig: Kummer 1823, S. 233–278"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044935_00247.html
+comments:
+  - Delila ist eine Figur aus dem Alten Testament. In diesem Einakter wird die biblische Geschichte über ihren Mann, Samson, dessen übermenschliche Kraft in seinen Haaren steckt, parodiert.
+keywords:
+  - Ritterstück
+  - Parodie
+  - Schäferspiel
+cast:
+  - name: Lalage.
+    gender: f
+  - name: Damoet.
+    gender: m
+  - name: Philemon.
+    gender: m
+  - name: Sigurd Rottenbrecher,
+    role: ein nordischer Ritter.
+    gender: m
+setting: >
+  Freie Gegend.
+---
 slug: gleim-philotas
 author:
   name: Gleim, Johann Wilhelm Ludwig
@@ -3307,6 +3407,44 @@ cast:
     gender: m
 setting: >
   Die Szene ist auf einem freyen Plaze vor Rösgens Hause.
+---
+slug: houwald-die-heimkehr
+author:
+  name: Houwald, Ernst von
+  wikidata: Q73607
+title: Die Heimkehr
+subtitle: Trauerspiel in Einem Akte
+numberOfScenes: 14
+created: 1818
+printed: 1821
+premiered: 1818-08-26
+formalia:
+  - Blankvers
+editions:
+  - title: "Der Leuchtthurm. Die Heimkehr. Zwei Trauerspiele von Ernst von Houwald. Leipzig. Göschen 1821, S. 117–202"
+    url: https://books.google.com/books?id=My0WAAAAYAAJ&pg=PA117
+comments:
+  - Eine einaktige Parodie zu dem Trauerspiel schrieb Stephan Schütze 1824 unter dem Titel [»Die Heimkehr. Lustspiel in einem Act«](schuetze-die-heimkehr).
+keywords:
+  - Heimkehr-Motiv
+  - Selbstmord
+cast:
+  - name: Wolfram,
+    role: Förster.
+    gender: m
+  - name: Johanna,
+    role: seine Frau.
+    gender: f
+  - name: Heinrich,
+    role: sein Sohn, 8 Jahr.
+    gender: m
+  - name: Maria,
+    role: sein [!] Stieftochter, 17 Jahr.
+    gender: f
+  - name: Heinrich Dorner.
+    gender: m
+setting: >
+  Zimmer beim Förster Wolfram. Im Hintergrunde ein altes Gemählde, das einen Mann in militairischer Kleidung vorstellt. Ein Großvaterstuhl. Eine Wanduhr. Maria sitzt an einem Tische, auf welchem Blumen liegen, und windet einen Kranz. Heinrich hüpft hinein.
 ---
 slug: iffland-der-magnetismus
 author:
@@ -4125,6 +4263,48 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: lebrun-die-fledermaeuse-oder-klug-soll-leben
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Die Fledermäuse oder »Klug soll leben!«
+subtitle: Schwank in einem Aufzuge
+numberOfScenes: 18
+printed: 1825
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Vierter Jahrgang. Berlin: Vereinsbuchhandlung 1825, S. 1–72"
+    url: https://books.google.com/books?id=C3wHAAAAQAAJ&pg=PA1
+keywords:
+  - Verkleidungsspiel
+  - Eheanbahnung
+cast:
+  - name: Gutsbesitzer Wunder.
+    gender: m
+  - name: Johanna,
+    role: seine Tochter.
+    gender: f
+  - name: Der junge Klug,
+    role: Doctor der Philosophie.
+    gender: m
+  - name: Berg,
+    role: Geheim-Secretär des Prinzen.
+    gender: m
+  - name: Lieutnant Moser.
+    gender: m
+  - name: Musje Schickedanz,
+    role: Bruder des Gastwirths zum »blauen Himmel.«
+    gender: m
+  - name: Löbel Meseritz,
+    role: Geld- und Pfänderverleiher.
+    gender: m
+  - name: Masken, Kellner u.s.w.
+    isGroup: true
+    gender: u
+setting: >
+  Das Stück spielt in einer Provinzialstadt, im Gasthofe »zum blauen Himmel.«
+---
 slug: lessing-die-juden
 author:
   name: Lessing, Gotthold Ephraim
@@ -4684,6 +4864,36 @@ cast:
 setting: >
   Die Handlung spielt im Hause des Hofraths.
 ---
+slug: reuling-das-orackel
+author:
+  name: Reuling, Carl Ludwig
+  wikidata: Q58829654
+title: Das Orackel
+subtitle: Ein Lustspiel in Versen und von einem Aufzuge nach dem Inhalte eines Französischen Lustspiels Des Herrn St. Foix und der Operette Des Herrn C. F. Gellerts
+printed: 1759
+premiered: 1759-07-27
+formalia:
+  - Alexandriner
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»L'Oracle. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAINT-FOIX_ORACLE.xml)"
+  - "Christian Fürchtegott Gellert: »Das Orakel«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 272
+comments:
+  - Saint-Foix' Einakter wurde bereits [1745](anonym-das-orakel-1745) und [1752](anonym-das-orakel-1752) (beide anonym) sowie [1750](schlegel-das-orakel) (von Schlegel) übersetzt.
+  - Nicht identisch mit »Das Orakel. Festspiel in einem Aufzuge, und in Versen; zur Feyer der Geburt Sr. Königlichen Hoheit des Erbprinzen« (1816).
+cast:
+  - name: Die Ober-Zauberin.
+    gender: f
+  - name: Alcindor,
+    role: ihr Sohn.
+    gender: m
+  - name: Lucinde,
+    role: eine junge Prinzeßin.
+    gender: f
+setting: >
+  Der Schauplatz ist in dem Schlosse der Ober-Zauberin.
+---
 slug: romanus-die-schwiegermuetter
 author:
   name: Romanus, Karl Franz
@@ -5151,6 +5361,51 @@ cast:
 setting: >
   Der Schauplatz ist in Damons Hause.
 ---
+slug: schuetze-die-heimkehr
+author:
+  name: Schütze, Stephan
+  wikidata: Q2343847
+title: Die Heimkehr
+subtitle: Lustspiel in einem Act
+numberOfScenes: 21
+printed: 1824
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. 22. Jahrgang. Leipzig: Kummer 1824, S. 251–308"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044936_00269.html
+comments:
+  - Parodie auf Ernst von Houwalds Einakter [»Die Heimkehr. Trauerspiel in Einem Akte«](houwald-die-heimkehr).
+keywords:
+  - Parodie
+  - Soldat
+  - Heimkehr-Motiv
+cast:
+  - name: Wolf,
+    role: Hausirer, gewesener Feldwebel.
+    gender: m
+  - name: Johanna,
+    role: seine Frau.
+    gender: f
+  - group:
+      - name: Marie,
+        role: 13 Jahr alt, aus der ersten Ehe
+        gender: f
+      - name: Heinrich,
+        role: 9 Jahr, aus der zweiten Ehe
+        gender: m
+    role: ihre Kinder.
+  - name: Flink,
+    role: Dorfschneider.
+    gender: m
+  - name: Löwe,
+    role: Korporal.
+    gender: m
+  - name: Eine Marketenderin.
+    gender: f
+setting: >
+  Die Scene: Platz vor einer ländlichen Wohnung; seitwärts Tisch und Bank.
+---
 slug: sebastiani-die-matrone-von-ephesus-oder-der-von-den-weibern-leicht-vergessene-tod-der-maenner
 author:
   name: Sebastiani, Franz Joseph
@@ -5173,6 +5428,68 @@ cast:
     gender: f
   - name: Hector.
     gender: m
+---
+slug: sessa-unser-verkehr
+author:
+  name: Sessa, Karl Borromäus Alexander
+  pseudonym: Samson Eidechs
+  wikidata: Q21089479
+title: Unser Verkehr
+subtitle: Eine Posse in einem Akt
+numberOfScenes: 23
+created: 1813
+printed: 1815
+premiered: 1813
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Haas [um 1815]"
+    url: https://books.google.com/books?id=h2BVAAAAcAAJ&printsec=frontcover
+comments:
+  - 1813 unter dem Titel »Die Judenschule« (unter dem Pseudonym Samson Eidechs) uraufgeführt.
+  - "Es wurden mehrere Gegenstücke geschrieben: Julius von Voß: [»Euer Verkehr: Posse in einem Aufzuge. Gegenstück zur Judenschule oder Unserm Verkehr, von Herrn Dr. Sessa«](voss-euer-verkehr) (1817); Simon Höchheimer: [»Der Spiegel für Israeliten. Ein Gegenstück zu der Posse: ›Unser Verkehr‹«](http://resolver.staatsbibliothek-berlin.de/SBB00003C5B00000000) (1817); [»Aaron in der Klemme oder der Bräutigam als Braut. Ein Schauspiel mit Ernst und Scherz in drei Aufzügen«](https://books.google.com/books?id=JBXoCYDsOEUC&printsec=frontcover) (1818); Carl Friedrich Solbrig: [»Die Judenschaft in der Klemme. Eine Posse in einem Akt. Seitenstück zu: Unser Verkehr«](https://books.google.com/books?id=q1PDO0ko1mcC&printsec=frontcover) (1819); J. Treuherz jun.: »Die Verlobung, oder: Der Bräutigam im Felleisen. Fastnachts-Posse in einem Aufzuge. Ein Seitenstück zu ›Unser Verkehr‹« (1833)."
+keywords:
+  - Judentum
+  - Antisemitismus
+  - Lotto
+cast:
+  - name: Herr Polckwitzer,
+    role: ein reicher Jude.
+    gender: m
+  - name: Lydie,
+    role: seine Tochter.
+    gender: f
+  - name: Abraham Hirsch,
+    role: ein Trödeljude.
+    gender: m
+  - name: Rachel,
+    role: seine Frau.
+    gender: f
+  - name: Jakob,
+    role:  sein Sohn.
+    gender: m
+  - name: Isidorus Morgenländer.
+    gender: m
+  - name: Löbel Groschenmacher,
+    role: Lotterie-Einnehmer.
+    gender: m
+  - name: Rebecca,
+    role: seine Frau.
+    gender: f
+  - name: Ein Kapellmeister.
+    gender: m
+  - name: Ein Kirchendiener.
+    gender: m
+  - name: Ein Postilion.
+    gender: m
+  - name: Groschenmachers Kinder.
+    isGroup: true
+    gender: u
+  - name: Mehrere Juden und Jüdinnen.
+    isGroup: true
+    gender: u
+setting: >
+  Strasse.
 ---
 slug: speckner-darius
 author:
@@ -5718,6 +6035,59 @@ cast:
 setting: >
   Der Schauplatz ist auf einem Saale in dem Wirthshause zum Großtürken.
 ---
+slug: voss-euer-verkehr
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Euer Verkehr
+subtitle: Eine Posse in einem Aufzuge. Gegenstück zur Judenschule oder Unserm Verkehr, von Herrn Dr. Sessa
+numberOfScenes: 1
+printed: 1817
+formalia:
+  - Prosa
+editions:
+  - title: "Neueste deutsche Schaubühne. Fünfter Band. Augsburg und Leipzig: Jenisch und Stage 1817, S. 247–289"
+    url: https://books.google.com/books?id=3d87AQAAMAAJ&pg=PA247
+comments:
+  - "Gegenstück zu Karl Borromäus Alexander Sessa: [»Unser Verkehr. Eine Posse in einem Akte«](sessa-unser-verkehr)."
+keywords:
+  - Judentum
+  - Antisemitismus
+  - Theaterbetrieb
+  - Spiel-im-Spiel
+cast:
+  - name: Graf Weithufen,
+    role: bankrotter Güterbesitzer.
+    gender: m
+  - name: Baron Mimau,
+    role: Directeur des spectacles bey einem kleinen Großherzog.
+    gender: m
+  - name: Herr Sturm,
+    role: erster Heldenspieler.
+    gender: m
+  - name: Mamsell Drangsal,
+    role: erste tragische Künstlerin.
+    gender: f
+  - name: Herr Dolch,
+    role: Bösewichtspieler.
+    gender: m
+  - name: Herr Spielfuß,
+    role: Theaterdichter.
+    gender: m
+  - name: Herr Schaber,
+    role: Kupferstecher.
+    gender: m
+  - name: Herr Blech,
+    role: Der Cassirer.
+    gender: m
+  - name: Der Theatermeister.
+    gender: m
+  - name: Herr Levin,
+    role: ein reicher jüdischer Bankier.
+    gender: m
+setting: >
+  Der Schauplatz ist ein Theater, von rückwärts zu sehen, die Seitenwande umgedreht, der Vorhang nach hinten. Das Stück spielt am Abend, nach Endigung des Trauerspiels Emilia Galotti.
+---
 slug: weisse-die-matrone-von-ephesus
 author:
   name: Weiße, Christian Felix
@@ -5757,3 +6127,48 @@ cast:
     gender: m
 setting: >
   Der Schauplatz stellt ein Grabmal vor.
+---
+slug: wolfram-der-wiedergefundene-ehemann
+author:
+  name: Wolfram, Georg Friedrich
+title: Le Mari retrouvé Der wiedergefundene Ehemann, oder der ersäufte Müller
+subtitle: Ein Lustspiel von einem Aufzuge aus dem französisch des Hn d'Ancourt übersezt von friedrich Wolfram in Lucern
+numberOfScenes: 22
+created: 1759
+formalia:
+  - Prosa
+basedOn:
+  - "Florent Carton dit Dancourt: [»Le mari retrouvé«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DANCOURT_MARIRETROUVE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 500
+comments:
+  - Undatiert, von Meyer ins Jahr 1760 einsortiert.
+  - Informationen zum Übersetzer bei der [SUB Hamburg](https://allegro.sub.uni-hamburg.de/hans-cgi/hans.pl?x=u&t_show=x&wertreg=PER&wert=wolfram%2C+georg+friedrich+%5Bschauspieler%5D&reccheck=150543), dort auch Datierungshinweis auf das Jahr 1759.
+  - "Anonyme Übersetzung 1761, aber ohne Hinweis auf Einaktigkeit: [Des Herrn Dancourt sämmtliche Lustspiele. Breßlau und Leipzig: Pietsch 1761, S. 59–116](https://books.google.com/books?id=dLvxC1OYJRIC&pg=PA59). (cf. Meyer, 2. Abteilung, Band 20, S. 43–44) (Eigenen Beitrag anlegen?)"
+cast:
+  - name: H Julian
+    role: ein Müller.
+    gender: m
+  - name: Fr Juliane
+    role: deßen Frau.
+    gender: f
+  - name: "Susgen [gestrichen: Colette]"
+    role: ihre Nichte.
+    gender: f
+  - name: "Sternheim [gestrichen: Clitander]"
+    role: Liebhaber der Colette.
+    gender: m
+  - name: "Johan [gestrichen: Lepin]"
+    role: ein Diener.
+    gender: m
+  - name: Fr. Agathe
+    role: "in [gestrichen: den Charlot] Peter verliebt."
+    gender: m
+  - name: "Peter [gestrichen: Charlot]"
+    role: "in Susgen [gestrichen: Colette] verliebt."
+    gender: m
+  - name: Der Amtmann.
+    gender: m
+  - name: "[Mathurin, gestrichen, stattdessen:] Hani (?)"
+    role: ein Mühlpursch.
+    gender: m
