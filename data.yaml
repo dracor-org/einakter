@@ -1,4 +1,54 @@
 ---
+slug: albrecht-die-privattheaterprobe
+author:
+  name: Heidemann, Theophil Albrecht
+  pseudonym: Albrecht, Carl
+  wikidata: Q94909730
+title: Die Privattheaterprobe
+subtitle: Lustspiel in einem Aufzuge. Nach einer Erzählung aus den Fündlingen
+numberOfScenes: 8
+printed: 1800
+premiered: 1798-11-18
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 1. Abteilung, Band 1, S. 5
+editions:
+  - title: Grätz 1800
+    url: https://books.google.com/books?id=osZHAAAAcAAJ&printsec=frontcover
+keywords:
+  - Eheanbahnung
+  - Spiel-im-Spiel
+cast:
+  - name: Der alte Wittekind,
+    role: Kaufmann.
+    gender: m
+  - name: Ruppert Wittekind,
+    role: Candidat der Rechte, sein Sohn.
+    gender: m
+  - name: Helene,
+    role: seine Tochter.
+    gender: f
+  - name: Wilhelmine,
+    role: seine Nichte.
+    gender: f
+  - name: Freising,
+    role: Secretär.
+    gender: m
+  - name: Ein Doctor juris,
+    role: Ruppert's Universitätsfreund.
+    gender: m
+  - group:
+      - name: Simon,
+        gender: m
+      - name: Bernhard,
+        gender: m
+    role: Buchhalter beym alten Wittekind.
+  - name: Ein Bedienter in Wittelkindschen Hause.
+    gender: m
+setting: >
+  Saal im Wittekindschen Hause. Im Vordergrunde Seitenthüren, aber keine Fenster. Im Hintergrunde desselben erblickt man ein aufgebautes Theater, eine Stube darstellend, auf der Mitte desselben einen Tisch und vier Stühle, und dicht vor der Hintergardine zu jeder Seite ein großes Spinde.
+---
 slug: anonym-amalie-und-charlotte-baronessen-von-habenichts
 author:
   pseudonym: Anonym
@@ -121,6 +171,57 @@ cast:
     gender: f
   - name: Thalia
     gender: f
+---
+slug: anonym-das-cassino
+author:
+  name: H.**, J.**
+  pseudonym: Anonym
+title: Das Cassino
+subtitle: Ein Sittengemählde in einem Act
+numberOfScenes: 12
+printed: 1799
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 1. Abteilung, Band 1, S. 5
+editions:
+  - title: "Berlin: Schöne 1799"
+    url: https://books.google.com/books?id=mo5H99To8x8C&printsec=frontcover
+  - title: "Neue Sammlung Deutscher Schauspiele. Vierten Jahrgangs Zwölfter Band. Grätz 1799"
+    url: https://books.google.com/books?id=9ZwoaTU261MC&pg=PT110
+comments:
+  - Rezension des Stücks in der Allgemeinen Literatur-Zeitung, [Nr. 373, Sp. 751–752 (31. Dezember 1800)](https://books.google.com/books?id=fzQCAAAAYAAJ&pg=PA751).
+keywords:
+  - Judentum
+cast:
+  - name: Kaufmann Schmidt.
+    gender: m
+  - name: Julchen,
+    role: seine Tochter.
+    gender: f
+  - name: Senator Bornwald,
+    role: Julchens Liebhaber.
+    gender: m
+  - name: Baruch,
+    role: ein jüdischer Banquieur.
+    gender: m
+  - name: Frau Moses,
+    role: dessen Schwester.
+    gender: f
+  - group:
+      - name: Ephraim,
+        gender: m
+      - name: Sarchen,
+        gender: f
+    role: ihre Kinder.
+  - name: Davidsohn,
+    role: ein junger Jude.
+    gender: m
+  - name: Louise,
+    role: Hausmädchen bei Baruch.
+    gender: f
+setting: >
+  Die Scene ist in einer Provinzial-Stadt.
 ---
 slug: anonym-das-orakel-1745
 author:
@@ -1302,6 +1403,92 @@ cast:
 setting: >
   Der Schauplatz ist in der Frau Argante Hause.
 ---
+slug: anonym-die-sitten-der-zeit-1762
+author:
+  name: S***
+  pseudonym: Anonym
+title: Die Sitten der Zeit
+subtitle: Ein Lustspiel von einem Akte. Aus dem Französischen übersetzt von S***
+numberOfScenes: 20
+printed: 1762
+formalia:
+  - Prosa
+basedOn:
+  - "Bernard-Joseph Saurin: [»Les mœurs du temps. Comédie en acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAURIN_MOEURSDUTEMPS.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 309
+editions:
+  - title: "Hamburg: Steinmann 1762"
+comments:
+  - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
+  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit) und [1769 (anonym)](anonym-die-sitten-der-zeit-1769).
+cast:
+  - name: Geronte,
+    role: ein reicher Pachter, Vater der Julie.
+    gender: m
+  - name: Die Gräfinn,
+    role: Schwester des Herrn Geronte.
+    gender: f
+  - name: Julie.
+    gender: f
+  - name: Cidalise.
+    gender: f
+  - name: Der Marquis.
+    gender: m
+  - name: Dorante.
+    gender: m
+  - name: Dumont,
+    role: Haus-Hofmeister des Marquis.
+    gender: m
+  - name: Finette,
+    role: Kammermägdchen der Gräfinn.
+    gender: f
+---
+slug: anonym-die-sitten-der-zeit-1769
+author:
+  pseudonym: Anonym
+title: Die Sitten der Zeit
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem Französischen
+numberOfScenes: 21
+printed: 1769
+formalia:
+  - Prosa
+basedOn:
+  - "Bernard-Joseph Saurin: [»Les mœurs du temps. Comédie en acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAURIN_MOEURSDUTEMPS.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 248
+editions:
+  - title: "Brünn: Swoboda 1769"
+    url: https://books.google.com/books?id=3A9aAAAAcAAJ&printsec=frontcover
+comments:
+  - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
+  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit) und [1762 (anonym)](anonym-die-sitten-der-zeit-1762).
+cast:
+  - name: Geronte,
+    role: ein reicher Pachter.
+    gender: m
+  - name: Die Gräfin,
+    role: des Geronte Schwester.
+    gender: f
+  - name: Eleonore,
+    role: Tochter des Geronte.
+    gender: f
+  - name: Cidalise.
+    gender: f
+  - name: Der Marquis.
+    gender: m
+  - name: Dorant,
+    role: Vetter des Marquis.
+    gender: m
+  - name: Dümont,
+    role: Haushofmeister des Marquis.
+    gender: m
+  - name: Finette,
+    role: der Gräfin Kammermägdchen.
+    gender: f
+setting: >
+  Der Schauplatz ist auf dem Landgute des Herrn Geronte.
+---
 slug: anonym-die-trauer-oder-der-betrogene-pachter
 author:
   pseudonym: Anonym
@@ -2438,6 +2625,21 @@ cast:
     gender: m
 setting: >
   Salomos Hausflur.
+---
+slug: brandes-die-entfuehrung
+author:
+  name: Brandes, Johann Christian
+  wikidata: Q112511
+title: Die Entführung
+subtitle: Lustspiel in 1 Aufzug
+printed: 1761
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 98
+comments:
+  - Nicht mehr auffindbar.
+  - "Identisch mit »Der lächerliche Irrtum oder die Entführung. Lustspiel 1 Akt. Breslau 1761«?"
 ---
 slug: buerger-die-antike-statue-aus-florenz
 author:
@@ -4263,6 +4465,50 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: laudes-die-sitten-der-zeit
+author:
+  name: Laudes, Joseph Gottwill von
+title: Die Sitten der Zeit
+subtitle: Ein Lustspiel von einem Aufzug, aus dem Französischen
+numberOfScenes: 19
+printed: 1761
+premiered: 1766-05-01
+formalia:
+  - Prosa
+basedOn:
+  - "Bernard-Joseph Saurin: [»Les mœurs du temps. Comédie en acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAURIN_MOEURSDUTEMPS.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 116–117
+editions:
+  - title: "Carlsruher Beyträge zu den schönen Wissenschaften. Zweyten Bandes V. Stück. Frankfurt und Leipzig: Macklot 1761, S. 385–426"
+    url: https://digital.blb-karlsruhe.de/blbihd/periodical/structure/4385857
+comments:
+  - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
+  - Weitere Übersetzungen [1762 (anonym)](anonym-die-sitten-der-zeit-1762) und [1769 (anonym)](anonym-die-sitten-der-zeit-1762).
+cast:
+  - name: Geronte,
+    role: ein reicher Finanzherr, und Vater der Julie.
+    gender: m
+  - name: Die Gräfinn,
+    role: eine Schwester des Geronte.
+    gender: f
+  - name: Julie.
+    gender: f
+  - name: Cidalise.
+    gender: f
+  - name: Der Marquis.
+    gender: m
+  - name: Dorante.
+    gender: m
+  - name: Dumont,
+    role: Verwalter des Marquis.
+    gender: m
+  - name: Finette,
+    role: der Gräfinn Kammerjungfer.
+    gender: f
+setting: >
+  Die Scene ist in dem Landgute des Herrn Geronte.
+---
 slug: lebrun-die-fledermaeuse-oder-klug-soll-leben
 author:
   name: Lebrun, Karl August
@@ -4734,6 +4980,46 @@ cast:
 setting: >
   Die Bühne stellt einen Vorsaal in des obersten Bramine Wohnung vor. In der Tiefe sind Kalebs Sclaven verschieden beschäftiget. Einige bringen Fackeln, Kohlpfannen, Weihrauchtöpfe; Andere Opfergeschirre, Festkleider, Holzbündeln, und dergleichen.
 ---
+slug: petrasch-von-hannswurst
+author:
+  name: Petrasch, Joseph Freiherr von
+  wikidata: Q89583249
+title: Hannswurst
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 23
+printed: 1761
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 131
+editions:
+  - title: "Preßburg: Landerer 1761"
+    url: https://books.google.com/books?id=mG1VAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr von Hammelwitz.
+    gender: m
+  - name: Dorimene,
+    role: dessen Gemahlinn.
+    gender: f
+  - name: Bellamire,
+    role: ihre Tochter.
+    gender: f
+  - name: Eraste,
+    role: Bellamirens Liebhaber.
+    gender: m
+  - name: Herr von Klugendorf.
+    gender: m
+  - name: Leander,
+    role: dessen Stiefsohn.
+    gender: m
+  - name: Herr von Einfaltshausen.
+    gender: m
+  - name: Heinrich,
+    role: Leanders Kammerdiener.
+    gender: m
+setting: >
+  Die Handlung geht vor in dem Schlosse des Herrn v. Hammelwitz.
+---
 slug: pfeffel-serena
 author:
   name: Pfeffel, Gottlieb Konrad
@@ -4893,6 +5179,107 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist in dem Schlosse der Ober-Zauberin.
+---
+slug: romanus-das-tarocspiel
+author:
+  name: Romanus, Karl Franz
+  wikidata: Q84561647
+title: Das Tarocspiel
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1761
+premiered: 1755
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 142
+editions:
+  - title: "Comödien. Dreßden und Warschau: Gröll 1761, S. 315–352"
+    url: https://books.google.com/books?id=BaBQAAAAcAAJ&pg=PA315
+cast:
+  - name: Lucinde.
+    gender: f
+  - name: Leander,
+    role: in Lucinden verliebt.
+    gender: m
+  - name: Damis,
+    role: Lucindens Vetter.
+    gender: m
+  - name: Frau Simone.
+    gender: f
+  - name: Lisette,
+    role: Lucindens Bediente.
+    gender: f
+  - name: Merlin,
+    role: Leanders Diener.
+    gender: m
+setting: >
+  Die Handlung geschieht in Lucindens Behausung.
+---
+slug: romanus-der-vormund
+author:
+  name: Romanus, Karl Franz
+  wikidata: Q84561647
+title: Der Vormund
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1761
+premiered: 1755
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 142–143
+editions:
+  - title: "Comödien. Dreßden und Warschau: Gröll 1761, S. 353–384"
+    url: https://books.google.com/books?id=BaBQAAAAcAAJ&pg=PA353
+cast:
+  - name: Herr Fickfack,
+    role: der Amtmann.
+    gender: m
+  - name: Floridor,
+    role: sein Vetter.
+    gender: m
+  - name: Lisette,
+    role: eine Wayse, und Mündel des Herrn Amtmanns.
+    gender: f
+setting: >
+  Die Handlung geschieht in des Herrn Amtmanns Behausung.
+---
+slug: romanus-der-wechselschuldner
+author:
+  name: Romanus, Karl Franz
+  wikidata: Q84561647
+title: Der Wechselschuldner
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1761
+premiered: 1759-06-13
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 143
+editions:
+  - title: "Comödien. Dreßden und Warschau: Gröll 1761, 263–314"
+    url: https://books.google.com/books?id=BaBQAAAAcAAJ&pg=PA263
+cast:
+  - name: Richard.
+    gender: m
+  - name: Lucinde,
+    role: Richards Tochter.
+    gender: f
+  - name: Arist.
+    gender: m
+  - name: Frontin,
+    role: sein Bedienter.
+    gender: m
+  - name: Julie,
+    role: Aristens versprochene Braut.
+    gender: f
+  - name: Herr Simon,
+    role: ein Advocat, Richards Vetter.
+    gender: m
+setting: >
+  Die Handlung geschieht in Richards Hause.
 ---
 slug: romanus-die-schwiegermuetter
 author:
@@ -5466,7 +5853,7 @@ cast:
     role: seine Frau.
     gender: f
   - name: Jakob,
-    role:  sein Sohn.
+    role: sein Sohn.
     gender: m
   - name: Isidorus Morgenländer.
     gender: m
