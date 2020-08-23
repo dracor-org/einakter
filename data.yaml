@@ -5426,6 +5426,84 @@ cast:
 setting: >
   Die Handlung geht vor in dem Schlosse des Herrn v. Hammelwitz.
 ---
+slug: pfeffel-der-einsiedler
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q27586233
+title: Der Einsiedler
+subtitle: Ein Trauerspiel in Versen von einem Aufzuge
+numberOfScenes: 10
+printed: 1761
+premiered: 1762
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 131–132
+  dramenlexikon: S. 237–238
+editions:
+  - title: "Carlsruher Beyträge zu den schönen Wissenschaften. Zweyter Band. Frankfurt und Leipzig: Macklot 1761, S. 481–511"
+    url: https://books.google.com/books?id=jGk6AAAAcAAJ&pg=PA481
+  - title: "Dritte verbeßerte Auflage. Carlsruhe: Machlot 1771"
+    url: https://books.google.com/books?id=katIAAAAcAAJ&printsec=frontcover
+  - title: "Theater der Deutschen. Dreyzehender Theil. Königsberg und Leipzig: Kanter 1773, S. 1–30"
+    url: https://books.google.com/books?id=S0ZXAAAAcAAJ&pg=PA1
+comments:
+  - "Frühestes Aufführungsdatum via [Nachricht von der im Jahre 1758. von Herrn Felix Berner errichteten jungen Schauspieler-Gesellschaft. Wien: Jahn 1786, S. 4–5](http://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/1938922)."
+cast:
+  - name: Theodor,
+    role: ein Einsiedler.
+    gender: m
+  - name: Seraphina,
+    role: dessen Tochter.
+    gender: f
+  - name: Der junge Graf von Adelskron.
+    gender: m
+  - name: Fromhold,
+    role: ein alter Bedienter des Einsiedlers.
+    gender: m
+setting: >
+  Der Schauplatz ist ein einsamer Hügel. Auf der einen Seite sieht man eine kleine Zelle, auf der andern einige Cypressenbäume, darunter sich ein mit Gras und Blumen bewachsenes Grab erhebet.
+---
+slug: pfeffel-der-schatz
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q27586233
+title: Der Schatz
+subtitle: Ein Schäferspiel von einem Aufzuge
+numberOfScenes: 7
+printed: 1761
+premiered: 1767-05-12
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 132–133
+  dramenlexikon: S. 238
+editions:
+  - title: "Franckfurt am Mayn: Garbe 1761"
+    url: https://books.google.com/books?id=I4pXfT2aYMAC&printsec=frontcover
+keywords:
+  - Geld
+  - Selbstmord
+  - Erbe
+cast:
+  - name: Chrysant,
+    role: ein vornehmer Bürger aus der Stadt.
+    gender: m
+  - name: Hylas,
+    role: ein junger Schäfer.
+    gender: m
+  - name: Palämon,
+    role: sein Vater.
+    gender: m
+  - name: Margaris,
+    role: eine junge Schäferin.
+    gender: f
+  - name: Myrtha,
+    role: ihre Mutter.
+    gender: f
+setting: >
+  Der Schauplatz ist in einem Walde.
+---
 slug: pfeffel-serena
 author:
   name: Pfeffel, Gottlieb Konrad
@@ -5621,6 +5699,42 @@ cast:
   - name: Packan,
     role: ein Hund.
     gender: u
+---
+slug: riedel-alexis
+author:
+  name: Riedel, Franz Xaver
+  wikidata: Q19059878
+title: Alexis
+subtitle: Ein Schäferspiel in einem Aufzuge, übersetzet von F. X. R.
+numberOfScenes: 11
+printed: 1762
+formalia:
+  - Prosa
+basedOn:
+  - "Andreas Friz: »Alexis«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 304
+editions:
+  - title: "Andreas Friz der Gesellschaft JEsu Priesters Trauerspiele, von einigen bemeldter Gesellschaft aus dem Lateinischen übersetzet. Wien: Bernardi 1762, S. 375–400"
+    url: https://books.google.com/books?id=zDJdAAAAcAAJ&pg=PA375
+cast:
+  - name: Agathokles,
+    role: Fürst der Hirten.
+    gender: m
+  - name: Alexis,
+    role: sein Sohn.
+    gender: m
+  - group:
+    - name: Lycidas,
+      gender: m
+    - name: Menalkas,
+      gender: m
+    role: Hirten.
+  - name: Hierokles,
+    role: Priester.
+    gender: m
+setting: >
+  Die Handlung ist nahe bey einem, dem Pan geweihten Hayne.
 ---
 slug: romanus-das-tarocspiel
 author:
@@ -6014,11 +6128,47 @@ cast:
 setting: >
   Der Schauplatz ist in dem Palaste der Feye.
 ---
+slug: schlegel-der-gute-rath
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Der gute Rath
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 6
+printed: 1745
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 314
+editions:
+  - title: "Der Fremde. Erster Theil. Copenhagen: Rothe 1745, S. 241–251"
+    url: https://books.google.com/books?id=IhNGAAAAcAAJ&pg=PA241
+  - title: "Joh. Elias Schlegels Werke. Zweyter Theil. Herausgegeben von Johann Heinrich Schlegeln. Kopenhagen und Leipzig: Mummische Buchhandlung 1762, S. 449–468"
+    url: https://books.google.com/books?id=m5TUtgEACAAJ&pg=PA449
+  - title: "Theater der Deutschen. Zehnter Theil. Königsberg und Leipzig: Kanter 1771, S. 335–350"
+    url: https://books.google.com/books?id=MriUkC7PF2QC&pg=PA335
+cast:
+  - name: Raadfast,
+    role: ein Kaufmann.
+    gender: m
+  - name: Voxhoved,
+    role: ein Kaufmann.
+    gender: m
+  - name: Leonore,
+    role: Voxhoveds Braut und Raadfastes Schwester.
+    gender: f
+  - name: Madame Husvild,
+    role: die Frau eines kleinen Handelsmannes.
+    gender: f
+  - name: Pernille,
+    role: Raadfastes Mägdchen.
+    gender: f
+---
 slug: schlegel-der-sieg-der-vergangenen-zeit
 author:
   name: Schlegel, Johann Elias
   pseudonym: Anonym
-  wikidata: Q55998571
+  wikidata: Q67322
 title: Der Sieg der vergangenen Zeit
 subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen übersetzt
 numberOfScenes: 9
