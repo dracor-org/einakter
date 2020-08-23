@@ -478,6 +478,41 @@ cast:
 setting: >
   Der Schauplaz ist eine waldichte Gegend nahe an dem Guthe der Frau Agathe.
 ---
+slug: anonym-der-finanzpachter
+author:
+  pseudonym: Anonym
+title: Der Finanzpachter
+subtitle: Ein Lustspiel in einem Aufzuge, von den französischen Comödianten zu Paris im Jahr 1761 zu verschiedenenmalen aufgeführt, und aus dem Französischen ins Deutsche übersetzt
+numberOfScenes: 14
+printed: 1762
+premiered: 1763-06-14
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: »Le financier. Comédie en un acte«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 187
+editions:
+  - title: "Leipzig: Lankische Buchhandlung 1762"
+    url: https://books.google.com/books?id=6uR2O4YcRfwC&printsec=frontcover
+comments:
+  - Weitere Übersetzungen 1766 (»Die Wirkung der Rechtschaffenheit«, Friedrich Wilhelm Weisker), 1768 (»Der Finanzpacht«, Christian August Wichmann) und [1778](meissner-der-finanzpachter) (August Gottlieb Meißner).
+cast:
+  - name: Alcimon.
+    gender: m
+  - name: Der Marquis.
+    gender: m
+  - name: Der Chevalier.
+    gender: m
+  - name: Geronte.
+    gender: m
+  - name: Henriette.
+    gender: f
+  - name: Frontin.
+    gender: m
+setting: >
+  Die Vorstellung geschieht auf Alcimons Landguthe.
+---
 slug: anonym-der-gefuerstete-schuster
 author:
   pseudonym: Anonym
@@ -1133,6 +1168,49 @@ cast:
 setting: >
   Der Schauplatz ist auf dem Land / in des Grafen Schloß. [Ausgabe 1769]
 ---
+slug: anonym-die-eigensinnigen
+author:
+  pseudonym: Anonym
+title: Die Eigensinnigen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1762
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 183
+editions:
+  - title: "Des Herrn von Marivaux komischer Roman. Zweite Auflage. Leipzig: Hartknoch 1772, S. 106–135"
+    url: https://books.google.com/books?id=i6sFZn70lUEC&pg=PA106
+comments:
+  - Fingierte Marivaux-Übersetzung mit 1762, 1772 und 1773 erschienenen Ausgaben, »aller Wahrscheinlichkeit nach ein deutsches Produkt« ([Roswitha Kramer 1976, S. 75](https://books.google.com/books?id=vLlcAAAAMAAJ&printsec=frontcover)).
+cast:
+  - name: Oront,
+    role: Juliens Vater.
+    gender: m
+  - name: Frau Oront,
+    role: Juliens Mutter.
+    gender: f
+  - name: Julie.
+    gender: f
+  - name: Toinon,
+    role: Juliens Mädchen.
+    gender: f
+  - name: Valer,
+    role: Juliens Liebhaber.
+    gender: m
+  - name: Damon,
+    role: ein falscher Marquis, für Julien bestimmt.
+    gender: m
+  - name: Herr Dimanche,
+    role: Julien versprochen.
+    gender: m
+  - name: Crispin,
+    role: Valers Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist in Paris.
+---
 slug: anonym-die-einigen-zaenker
 author:
   pseudonym: Anonym
@@ -1421,7 +1499,7 @@ editions:
   - title: "Hamburg: Steinmann 1762"
 comments:
   - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
-  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit) und [1769 (anonym)](anonym-die-sitten-der-zeit-1769).
+  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit), [1762 (»Die Sitten nach der Mode«, anonym)](anonym-die-sitten-nach-der-mode) und [1769 (anonym)](anonym-die-sitten-der-zeit-1769).
 cast:
   - name: Geronte,
     role: ein reicher Pachter, Vater der Julie.
@@ -1462,7 +1540,7 @@ editions:
     url: https://books.google.com/books?id=3A9aAAAAcAAJ&printsec=frontcover
 comments:
   - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
-  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit) und [1762 (anonym)](anonym-die-sitten-der-zeit-1762).
+  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit), [1762 (anonym)](anonym-die-sitten-der-zeit-1762) und  [1762 (»Die Sitten nach der Mode«, anonym)](anonym-die-sitten-nach-der-mode).
 cast:
   - name: Geronte,
     role: ein reicher Pachter.
@@ -1488,6 +1566,49 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist auf dem Landgute des Herrn Geronte.
+---
+slug: anonym-die-sitten-nach-der-mode
+author:
+  pseudonym: Anonym
+title: Die Sitten nach der Mode
+subtitle: Ein Lustspiel in einem Aufzuge, von den französischen Comödianten zu Paris im Jahr 1761 zu verschiedenenmalen aufgeführt, und aus dem Französischen ins Deutsche übersetzt
+numberOfScenes: 20
+printed: 1762
+formalia:
+  - Prosa
+basedOn:
+  - "Bernard-Joseph Saurin: [»Les mœurs du temps. Comédie en acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAURIN_MOEURSDUTEMPS.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 223–224
+editions:
+  - title: "Leipzig: Lankische Buchhandlung 1762"
+    url: https://books.google.com/books?id=vDpUpBX8rJUC&printsec=frontcover
+comments:
+  - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
+  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit), [1762 (anonym)](anonym-die-sitten-der-zeit-1762) und [1769 (anonym)](anonym-die-sitten-der-zeit-1769).
+cast:
+  - name: Geronte,
+    role: ein reicher Finanzpachter, Vater der Julie.
+    gender: m
+  - name: Die Gräfinn,
+    role: Schwester des Geronte.
+    gender: f
+  - name: Julie.
+    gender: f
+  - name: Cidalise.
+    gender: f
+  - name: Der Marquis.
+    gender: m
+  - name: Dorante.
+    gender: m
+  - name: Dümont,
+    role: Haushofmeister des Marquis.
+    gender: m
+  - name: Finette,
+    role: Kammermädchen der Gräfinn.
+    gender: f
+setting: >
+  Die Vorstellung ist auf dem Landguthe des Herrn Geronte.
 ---
 slug: anonym-die-trauer-oder-der-betrogene-pachter
 author:
@@ -2323,12 +2444,14 @@ printed: 1757
 formalia:
   - Prosa
 basedOn:
-  - "Jean-François Regnard: [»Attendez-moi sous l'orme. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_ATTENDEZSOUSLORME.xml)"
+  - "Jean-François Regnard und Charles Dufresny: [»Attendez-moi sous l'orme. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_ATTENDEZSOUSLORME.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 18, S. 459
 editions:
   - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757, S. 275–308"
     url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=RA1-PA275
+comments:
+  - Weitere Übersetzung [1762 (Kretschmann)](kretschmann-warte-unter-der-ulme-auf-mich).
 cast:
   - name: Dorant,
     role: ein abgedankter Officier, in Agathen verliebt.
@@ -2781,6 +2904,41 @@ cast:
     isGroup: true
     gender: m
 ---
+slug: bursay-die-wueste-insel
+author:
+  name: Bursay
+title: Die wüste Insel
+subtitle: Ein Schauspiel von einem Aufzuge in ungebundener Rede, aus dem Französischen übersetzt
+numberOfScenes: 16
+printed: 1770
+premiered: 1770-11-18
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Baptiste Collet: »L'isle déserte. Comédie en un acte et en vers«"
+  - "Pietro Metastasio: »L'isola disabitata«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 35
+editions:
+  - title: "Wien: Trattner 1770"
+    url: https://books.google.com/books?id=Rm5D1jrjNrcC&printsec=frontcover
+comments:
+  - Weitere Übersetzung [1762 (Ekhof)](ekhof-l-isle-deserte-die-wueste-insel).
+cast:
+  - name: Ferdinand.
+    gender: m
+  - name: Timant.
+    gender: m
+  - name: Constantia.
+    gender: f
+  - name: Silvie.
+    gender: f
+  - name: Eine Anzahl Bootsleute.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplatz ist ein wilder Ort an dem Ufer des Meers.
+---
 slug: d-elpons-der-ahnherr
 author:
   name: d'Elpons, Friedrich Wilhelm
@@ -3074,6 +3232,44 @@ cast:
 setting: >
   Die Bühne ist in dem Zimmer der Madam Argante.
 ---
+slug: ekhof-l-isle-deserte-die-wueste-insel
+author:
+  name: Ekhof, Konrad
+  wikidata: Q215783
+title: L'ISLE DESERTE. Die wüste Insel
+subtitle: Eine Comödie in einem Ackt. Aus dem Französischen des Herrn C*** übersetzt von C. Ekhof
+numberOfScenes: 19
+printed: 1762
+premiered: 1762-01-25
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Baptiste Collet: »L'isle déserte. Comédie en un acte et en vers«"
+  - "Pietro Metastasio: »L'isola disabitata«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 256–257
+editions:
+  - title: "[Hamburg]: Spieringk 1762"
+    url: https://books.google.com/books?id=xkK2p0z3MSIC&printsec=frontcover
+comments:
+  - Weitere Übersetzung [1770 (Bursay)](bursay-die-wueste-insel).
+cast:
+  - name: Ferdinand.
+    gender: m
+  - name: Timante.
+    gender: m
+  - name: Ein Matros.
+    gender: m
+  - name: Constance.
+    gender: f
+  - name: Silvia.
+    gender: f
+  - name: Ein Haufen Matrosen.
+    isGroup: true
+    gender: m
+setting: >
+  Das Theater stellet eine wilde Gegend vor, am Ufer des Meers.
+---
 slug: franke-die-trauer
 author:
   name: Franke, Christian Wilhelm
@@ -3233,6 +3429,50 @@ cast:
     gender: m
   - name: Montan.
     gender: m
+---
+slug: gessner-erast
+author:
+  name: Geßner, Salomon
+  wikidata: Q123765
+title: Erast
+subtitle: In Einem Aufzug
+numberOfScenes: 10
+printed: 1762
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 258
+editions:
+  - title: "Gedichte von S. Geßner. Zürich: Orell Geßner und Comp. 1762, S. 93–152"
+    url: https://books.google.com/books?id=CRVhAAAAcAAJ&pg=PA93
+  - title: "Theater der Deutschen. Vierter Theil. Berlin und Leipzig: Rüdiger 1767, S. 189–218"
+    url: https://books.google.com/books?id=0HMFlTtLX7AC&pg=PA189
+  - title: "Frankfurt und Leipzig 1775"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11090460_00001.html
+  - title: "Salomon Geßners sämmtliche Schriften. Zweyter Band. Reuttlingen: Fleischhauer 1775, S. 213–262"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10108770_00217.html
+comments:
+  - Häufig aufgeführt mit dem Untertitel »Der ehrliche Straßenräuber«.
+  - Auch unter dem Titel »Erast. Ein Schauspiel in einem Aufzuge« (1767).
+cast:
+  - name: Erast.
+    gender: m
+  - name: Dessen Sohn.
+    gender: m
+  - name: Lucinde,
+    role: Erasts Frau.
+    gender: f
+  - name: Cleon,
+    role: Erasts Vater.
+    gender: m
+  - name: Simon,
+    role: ein guter Freund des Erasts.
+    gender: m
+  - name: Dessen zween Söhne.
+    isGroup: true
+    gender: m
+setting: >
+  Die Scene ist ein einsamer, mit Bäumen und Gesträuch umgebener Plaz, vor Erasts Hütte.
 ---
 slug: geyer-die-neue-delila
 author:
@@ -4049,6 +4289,57 @@ setting: >
   Der Schauplatz ist ein Saal mit mehreren Thüren, im Hintergrunde ein Catheder,
   Stühle und Bänke für die Pensionaire.
 ---
+slug: kretschmann-warte-unter-der-ulme-auf-mich
+author:
+  name: Kretschmann, Karl Friedrich
+  wikidata: Q90925
+title: Warte unter der Ulme auf mich
+subtitle: Ein Lustspiel in einem Aufzuge, aus dem französischen des Herrn Düfreny
+printed: 1762
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-François Regnard und Charles Dufresny: [»Attendez-moi sous l'orme. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_ATTENDEZSOUSLORME.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 279–280
+editions:
+  - title: "Fünf ausgesuchte deutsche Lustspiele. Berlin: Pauli 1762, S. 313–344"
+    url: https://books.google.com/books?id=lcIiyAEACAAJ&printsec=frontcover
+comments:
+  - Weitere Übersetzung [1757 (anonym)](anonym-warte-ein-bisschen-du-kannst-lange-warten).
+cast:
+  - name: Der Pachter,
+    role: Vater der
+    gender: m
+  - name: Jakobine.
+    gender: f
+  - name: Pierot,
+    role: ihr Bräutigam.
+    gender: m
+  - name: Colombine,
+    role: eine Bäuerin.
+    gender: f
+  - name: Octav,
+    role: ein Schäfer.
+    gender: m
+  - name: Eine Schäferin.
+    gender: f
+  - name: Eine Amme.
+    gender: f
+  - name: Harlekin,
+    role: Aufseher über den Ulmbaum der Lukrezia.
+    gender: m
+  - name: Scaramusch,
+    role: Schulmeister.
+    gender: m
+  - name: Scapin,
+    role: sein Sohn, ein Chorschüler.
+    gender: m
+  - name: Eine Alte.
+    gender: f
+setting: >
+  Die Bühne ist in einem Dorfe.
+---
 slug: krueger-der-teufel-ein-baerenhaeuter
 author:
   name: Krüger, Johann Christian
@@ -4484,7 +4775,7 @@ editions:
     url: https://digital.blb-karlsruhe.de/blbihd/periodical/structure/4385857
 comments:
   - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
-  - Weitere Übersetzungen [1762 (anonym)](anonym-die-sitten-der-zeit-1762) und [1769 (anonym)](anonym-die-sitten-der-zeit-1762).
+  - Weitere Übersetzungen [1762 (anonym)](anonym-die-sitten-der-zeit-1762), [1762 (»Die Sitten nach der Mode«, anonym)](anonym-die-sitten-nach-der-mode) und [1769 (anonym)](anonym-die-sitten-der-zeit-1769).
 cast:
   - name: Geronte,
     role: ein reicher Finanzherr, und Vater der Julie.
@@ -4642,7 +4933,7 @@ printed: 1753
 formalia:
   - Prosa
 basedOn:
-  - "Pietro Metastasio: [»Adriano in Siria«](https://dracor.org/ita/metastasio-adriano-in-siria)."
+  - "Pietro Metastasio: [»Adriano in Siria«](https://dracor.org/ita/metastasio-adriano-in-siria)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 16, S. 421–422 und Band 22, S. 182–183
 editions:
@@ -4864,6 +5155,44 @@ cast:
 setting: >
   Der Schauplatz ist in Hamburg, in Damons Hause, auf der Diehle.
 ---
+slug: meissner-der-finanzpachter
+author:
+  name: Meißner, August Gottlieb
+  wikidata: Q214593
+title: Der Finanzpachter
+subtitle: Ein Lustspiel in Einem Akte. Nach Saintfoix
+numberOfScenes: 14
+printed: 1778
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: »Le financier. Comédie en un acte«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 122
+editions:
+  - title: "Komisches Theater der Franzosen. Für die Deutschen. Herausgegeben von J. G. Dyk. Zweyter Theil. Leipzig: Dyk 1778, S. 385–428"
+    url: https://books.google.com/books?id=uNpfAAAAcAAJ&pg=PA385
+  - title: "A. G. Meißners sämmtliche Werke. Zweyter Band. Zweyter Theil. Wien: Doll 1813, S. 53–80"
+    url: https://books.google.com/books?id=2wo-AQAAMAAJ&pg=PA53
+comments:
+  - Weitere Übersetzungen [1762](anonym-der-finanzpachter) (anonym), 1766 (»Die Wirkung der Rechtschaffenheit«, Friedrich Wilhelm Weisker) und 1768 (»Der Finanzpacht«, Christian August Wichmann).
+  - Im [Vorbericht (1813)](https://books.google.com/books?id=2wo-AQAAMAAJ&pg=PA3) werden aus dem Französischen übersetzte Dramen besprochen; Mylius habe Meißner zu seinen Übersetzungen ermuntert.
+cast:
+  - name: Alcimon.
+    gender: m
+  - name: Der Marquis von **
+    gender: m
+  - name: Der Chevalier von **
+    gender: m
+  - name: Geront.
+    gender: m
+  - name: Henriette.
+    gender: f
+  - name: Frontin.
+    gender: m
+setting: >
+  Die Scene ist auf einem Landhause des Alcimons.
+---
 slug: moeser-die-tugend-auf-der-schaubuehne
 author:
   name: Möser, Justus
@@ -4908,7 +5237,7 @@ cast:
 setting: >
   Der Schauplatz ist auf dem Schauplatze.
 ---
-slug: muellner-der-neun-und-zwnazigste-februar
+slug: muellner-der-neun-und-zwanzigste-februar
 author:
   name: Müllner, Adolf
   wikidata: Q73359
@@ -5014,6 +5343,48 @@ cast:
     gender: u
 setting: >
   Die Bühne stellt einen Vorsaal in des obersten Bramine Wohnung vor. In der Tiefe sind Kalebs Sclaven verschieden beschäftiget. Einige bringen Fackeln, Kohlpfannen, Weihrauchtöpfe; Andere Opfergeschirre, Festkleider, Holzbündeln, und dergleichen.
+---
+slug: perinet-isaak
+author:
+  name: Perinet, Joachim
+  wikidata: Q1250334
+title: Isaak
+subtitle: Ein historisches Melodrama mit Arien und Chören in einem Aufzuge, nach Metastasios Oratorium
+numberOfScenes: 17
+printed: 1812
+formalia:
+  - Prosa
+  - Verse
+  - Lieder
+basedOn:
+  - "Pietro Metastasio: »Isacco figura del redentore«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 286
+editions:
+  - title: "Wien: Tendler 1812"
+    url: https://books.google.com/books?id=3oxX3rc-ifkC&printsec=frontcover
+comments:
+  - »Die Musik ist von Herrn Johann Fuß, Kompositeur in Wien.« (Titelblatt)
+cast:
+  - name: Abraham.
+    gender: m
+  - name: Sara.
+    gender: f
+  - name: Isaak.
+    gender: m
+  - name: Gamari,
+    role: des Isaaks Gespann.
+    gender: m
+  - name: Zeba,
+    role: Isaaks Gespielinn.
+    gender: f
+  - name: Ein Genius.
+    gender: m
+  - name: Mehrere Genien. Hirten und Hirtinnen.
+    isGroup: true
+    gender: u
+setting: >
+  Ländliche Gegend vor Abrahams Hütte. Die Hirten und Hirtinnen tanzen einen munteren Reihen. Ein Theil, der nicht tanzt, und sich mit seiner Arbeit beschäftiget, singt folgenden Chor. Nach Endigung desselben tanzt dieser Theil, und der andere beginnt zu singen. Zeba tanzt in der Mitte. Abraham sitzt auf einer Steinbank vor seinem Hause, und sieht nebst Isaak zu.
 ---
 slug: petrasch-von-hannswurst
 author:
@@ -5214,6 +5585,42 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist in dem Schlosse der Ober-Zauberin.
+---
+slug: richter-der-eliastag
+author:
+  name: Richter, Anton
+  pseudonym: Stahlpanzer, Ludwig
+title: Der Eliastag
+subtitle: In Einem Aufzug
+numberOfScenes: 6
+printed: 1819
+formalia:
+  - gereimte trochäische Verse
+editions:
+  - title: "Eumenides Düster. Trauerspiel nach Adolph Müllners Weise von Ludwig Stahlpanzer. Leipzig: Lauffer 1819, S. 15–56"
+    url: https://haab-digital.klassik-stiftung.de/viewer/resolver?urn=urn:nbn:de:gbv:32-1-10018715456
+  - title: "Eumenides Düster. Trauerspiel nach Adolph Müllner's Weise von Ludwig Stahlpanzer. Braunschweig: Vieweg 1828, S. 21–63"
+    url: https://books.google.com/books?id=UuRHAAAAMAAJ&pg=RA2-PA21
+comments:
+  - "Parodie auf Müllners Schicksalstragödie [»Der neun und zwanzigste Februar«](muellner-der-neun-und-zwanzigste-februar). Der Einakter gehört zum Trauerspiel »Eumenides Düster«, ihm geht das Vorspiel [»Ullo's Tod oder das Verbrechen«](https://books.google.com/books?id=UuRHAAAAMAAJ&pg=RA2-PA9) voraus."
+keywords:
+  - Parodie
+cast:
+  - name: Eumenides Düster,
+    role: Dichter.
+    gender: m
+  - name: Manona,
+    role: dessen Weib.
+    gender: f
+  - name: Hold,
+    role: ihr Kind, eilf Jahr.
+    gender: m
+  - name: Thorwald,
+    role: Mann aus der Ferne.
+    gender: m
+  - name: Packan,
+    role: ein Hund.
+    gender: u
 ---
 slug: romanus-das-tarocspiel
 author:
