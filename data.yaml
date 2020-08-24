@@ -361,6 +361,48 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: anonym-der-betrogene-alte-oder-der-soldat-von-einer-vierthelstunde
+author:
+  pseudonym: Anonym
+title: Der betrogene Alte oder der Soldat von einer Vierthelstunde
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 10
+printed: 1763
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 342–343
+editions:
+  - title: "Magdeburg, Frankfurth und Leipzig: Hechtel 1763"
+    url: https://books.google.com/books?id=oxM6AAAAcAAJ&pg=PA1
+cast:
+  - name: Anton,
+    role: ein alter Pachter, in Leonoren verliebt.
+    gender: m
+  - name: Leonore,
+    role: seine Mündel.
+    gender: f
+  - name: Jacob,
+    role: Antons Sohn.
+    gender: m
+  - name: Valer,
+    role: Liebhaber von Leonoren.
+    gender: m
+  - name: Sprung,
+    role: des Valers Bedienter.
+    gender: m
+  - group:
+      - name: Pralmann,
+        gender: m
+      - name: Lange,
+        gender: m
+    role: zween Soldaten.
+  - name: Fertig,
+    role: der Cantor des Dorfes.
+    gender: m
+setting: >
+  Der Schauplatz stellet einen Ort des Dorfes, mit etlichen Bäumen umgeben, vor, wo die Soldaten ihr Quartier haben.
+---
 slug: anonym-der-betrogene-kadi
 author:
   name: T.
@@ -2764,6 +2806,38 @@ comments:
   - Nicht mehr auffindbar.
   - "Identisch mit »Der lächerliche Irrtum oder die Entführung. Lustspiel 1 Akt. Breslau 1761«?"
 ---
+slug: braunschweig-lueneburg-oels-gluecklicherweise
+author:
+  name: Braunschweig-Lüneburg-Oels, Friedrich August von
+  wikidata: Q89340
+title: Glücklicherweise
+subtitle: Ein Lustspiel in einem Aufzuge, von dem Herrn Rochon de Chabanne. Aus dem Französischen übersetzt
+numberOfScenes: 10
+printed: 1763
+premiered: 1763-08-17
+formalia:
+  - Prosa
+basedOn:
+  - "Marc-Antoine-Jacques Rochon de Chabannes: [»Heureusement«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/ROCHON_HEUREUSEMENT.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 413
+editions:
+  - title: "Braunschweig: Verlag der Fürstlichen Waysenhausbuchhandlung 1763"
+    url: https://books.google.com/books?id=ua_RAcCHnKUC&printsec=frontcover
+cast:
+  - name: Herr Lisban.
+    gender: m
+  - name: Frau Lisban.
+    gender: f
+  - name: Lindor.
+    gender: m
+  - name: Christine.
+    gender: f
+  - name: Michel.
+    gender: m
+setting: >
+  Der Schauplatz ist in dem Zimmer der Frau Lisban.
+---
 slug: buerger-die-antike-statue-aus-florenz
 author:
   name: Bürger, Elise
@@ -3716,6 +3790,91 @@ cast:
 setting: >
   Der Schauplatz ist auf Jungfer Lottchens Zimmer. Die Handlung fängt gleich
   nach der Mittagsmahlzeit an, und endiget sich gegen 5 Uhr.
+---
+slug: hafner-die-dramatische-unterhaltung-unter-guten-freunden
+author:
+  name: Hafner, Philipp
+  wikidata: Q88138
+title: Die dramatische Unterhaltung unter guten Freunden
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 10
+printed: 1763
+premiered: 1763
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 443
+editions:
+  - title: "Wienn: Kurzböck 1763"
+    url: https://books.google.com/books?id=BtZUAAAAcAAJ&printsec=frontcover
+  - title: "Wien: Kurzbeck [1774]"
+    url: https://books.google.com/books?id=k6lzuwEACAAJ&printsec=frontcover
+keywords:
+  - Theaterbetrieb
+  - Privattheater
+  - Gesellschaftstheater
+cast:
+  - name: Herr von Gutsmuth,
+    role: ein lediger von seinen Mitteln lebender junger Herr.
+    gender: m
+  - group:
+      - name: Fräulein Caroline,
+        gender: f
+      - name: Fräulein Cathrine,
+        gender: f
+      - name: Herr von Willig,
+        gender: m
+      - name: Herr von Zuckerthal,
+        gender: m
+      - name: Herr von Schwierig,
+        gender: m
+    role: Gute Bekante des von Gutsmuth.
+  - name: Martin,
+    role: Diener des von Gutsmuth.
+    gender: m
+setting: >
+  Die Handlung spielt in des Gutsmuth Zimmer zur Abendzeit.
+---
+slug: hafner-die-reisenden-komoedianten-oder-der-gescheide-und-daemische-impressario
+author:
+  name: Hafner, Philipp
+  wikidata: Q88138
+title: Die reisenden Komödianten, oder der gescheide und dämische Impressario
+subtitle: Ein Lustspiel von einer Abhandlung
+numberOfScenes: 3
+premiered: 1762
+formalia:
+  - Verse und Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 274–275
+editions:
+  - title: "Zweyte Auflage. Wien: Kurtzbök [o. J.]"
+    url: https://books.google.com/books?id=7uNpkU84cK4C&printsec=frontcover
+  - title: "Philipp Hafner's gesammelte Schriften. Erster Band. Wien: Wallishausser 1812, S. 97–132"
+    url: https://books.google.com/books?id=AgEUAAAAYAAJ&pg=PA97
+comments:
+  - Am Ende des Textes [»Vorspiel«](https://books.google.com/books?id=7uNpkU84cK4C&pg=PP46) genannt.
+keywords:
+  - Theaterbetrieb
+cast:
+  - name: Der Bürgermeister der Stadt Merlü.
+    gender: m
+  - name: Der Impressario.
+    gender: m
+  - group:
+    - name: Sultel
+      gender: m
+    - name: Stixel
+      gender: m
+    - name: Fidel
+      gender: m
+    - name: Melack
+      gender: m
+    - name: Melambus
+      gender: m
+    role: Des Impressario Komödianten.
+setting: >
+  Die Handlung spielt zu Merlü gleich nach Mittage.
 ---
 slug: hensler-der-geschwaetzige-barbier
 author:
@@ -5429,7 +5588,7 @@ setting: >
 slug: pfeffel-der-einsiedler
 author:
   name: Pfeffel, Gottlieb Konrad
-  wikidata: Q27586233
+  wikidata: Q77742
 title: Der Einsiedler
 subtitle: Ein Trauerspiel in Versen von einem Aufzuge
 numberOfScenes: 10
@@ -5467,7 +5626,7 @@ setting: >
 slug: pfeffel-der-schatz
 author:
   name: Pfeffel, Gottlieb Konrad
-  wikidata: Q27586233
+  wikidata: Q77742
 title: Der Schatz
 subtitle: Ein Schäferspiel von einem Aufzuge
 numberOfScenes: 7
@@ -5504,10 +5663,53 @@ cast:
 setting: >
   Der Schauplatz ist in einem Walde.
 ---
+slug: pfeffel-philemon-und-baucis
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q77742
+title: Philmon und Baucis
+subtitle: Ein Schauspiel in Versen von einem Aufzuge
+numberOfScenes: 15
+printed: 1763
+premiered: 1771-11-08
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 20, S. 472
+editions:
+  - title: "Straßburg: Bauer 1763"
+    url: https://books.google.com/books?id=zts6AAAAcAAJ&printsec=frontcover
+comments:
+  - Libretto für Joseph Haydns Singspiel (1773).
+cast:
+  - group:
+      - name: Jupiter und
+        gender: m
+      - name: Merkur,
+        gender: m
+    role: als Wanderer.
+  - group:
+      - name: Philemon und
+        gender: m
+      - name: Baucis,
+        gender: f
+    role: ein altes armes Ehepaar.
+  - name: Aret,
+    role: ihr Sohn.
+    gender: m
+  - name: Narcissa,
+    role: seine Braut.
+    gender: f
+  - name: Chor der Nachbarn und Nachbarinnen.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist in der Hütte des Philemons. Auf der einen Seite des Eingangs siehet man seine Hausgötter von schlechtem Holze geschnitzt, und auf einem alten Tische stehet ein thönerner mit Blumen bekränzter Aschenkrug.
+---
 slug: pfeffel-serena
 author:
   name: Pfeffel, Gottlieb Konrad
-  wikidata: Q27586233
+  wikidata: Q77742
 title: Serena
 subtitle: Ein Bürgerliches Trauerspiel in Prose von einem Aufzuge. Nebst einem Vorspiel. Aus dem Französischen übersetzt
 numberOfScenes: 9
