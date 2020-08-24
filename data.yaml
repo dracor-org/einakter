@@ -1572,6 +1572,46 @@ cast:
 setting: >
   Der Schauplatz ist das Haus der Frau Leichtglaubinn.
 ---
+slug: anonym-die-kleinen-schauspieler
+author:
+  pseudonym: Anonym
+title: Die kleinen Schauspieler
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 14
+printed: 1764
+premiered: 1764-02-11
+formalia:
+  - Prosa
+basedOn:
+  - "Charles-François Panard und Barthélemy-Christophe Fagan: »Les petits comédiens. Opéra-comique en un acte«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 21, S. 82
+editions:
+  - title: "Wien: Krauß [1764]"
+    url: https://books.google.com/books?id=ThvkoxDx83MC&printsec=frontcover
+keywords:
+  - Kindertheater
+cast:
+  - name: Argante,
+    role: Lisettens Muhme.
+    gender: f
+  - name: Lisette,
+    role: Clitanders Geliebte.
+    gender: f
+  - name: Oront,
+    role: Argantens Bruder.
+    gender: m
+  - name: Clitander,
+    role: Lisettens Liebhaber.
+    gender: f
+  - name: Crispin,
+    role: Clitanders Diener.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+setting: >
+  Der Schauplatz ist in dem Hause der Frau Argante.
+---
 slug: anonym-die-nonnen
 author:
   name: J. T.
@@ -2371,6 +2411,44 @@ cast:
   - name: Frau Bredouille.
     gender: f
 ---
+slug: anonym-la-bergere-des-alpes-die-hirtinn-der-alpen
+author:
+  pseudonym: Anonym
+title: LA BERGÉRE DES ALPES. Die Hirtinn der Alpen
+subtitle: Eine neue Comödie des Herrn Desfontaines in einem Ackte; (Nach der Erzählung des Herrn Marmontel) Aus dem Französischen hier in Hamburg übersetzt
+numberOfScenes: 10
+premiered: 1766-07-09
+formalia:
+  - Prosa
+basedOn:
+  - "Desfontaines-Lavallée: »La bergère des Alpes. Comédie en un acte et en vers libres«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 21, S. 497–498
+comments:
+  - Bibliographische bisher nicht nachgewiesen.
+cast:
+  - name: Die Wittwe des Grafen Orestan; unter dem Namen Adelaide.
+    gender: f
+  - name: Der Marquis Fonrose; unter dem Namen Colin.
+    gender: m
+  - name: Die Marquisinn Fonrose,
+    role: seine Mutter.
+    gender: f
+  - name: Germain,
+    role: ein alter Hirte.
+    gender: m
+  - name: Justine,
+    role: seine Frau.
+    gender: f
+  - name: Pasquin,
+    role: Bedienter des Fonrose.
+    gender: m
+  - name: Bediente der Marquisinn
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist in einem Thale, am Fuße der Alpen.
+---
 slug: anonym-la-chercheuse-d-esprit-die-verstandsucherinn
 author:
   pseudonym: Anonym
@@ -2931,7 +3009,7 @@ comments:
 keywords:
   - Verstellspiel
   - Verkleidungsspiel
-  - Ehebanbahnung
+  - Eheanbahnung
 cast:
   - name: Dom Pedro,
     role: ein sicilischer Edelmann.
@@ -3802,6 +3880,7 @@ formalia:
   - Alexandriner
 dictionaries:
   bibliographia: 2. Abteilung, Band 13, S. 97–106
+  dramenlexikon: S. 64
 editions:
   - title: "Belustigungen des Verstandes und des Witzes. Leipzig: Breitkopf 1745, S. 291–324"
     url: https://books.google.com/books?id=x-VIAAAAcAAJ&pg=PA291
@@ -4075,8 +4154,13 @@ title: Herr Witzling
 subtitle: Ein deutsches Nachspiel in einem Aufzuge
 numberOfScenes: 9
 printed: 1745
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 123–124
+  dramenlexikon: S. 107–108
 editions:
-  - title: "Die Deutsche Schaubühne. Bd. 6. Leipzig: Breitkopf 1745, S. 509–551"
+  - title: "Die Deutsche Schaubühne. Sechster und letzter Theil. Leipzig: Breitkopf 1745, S. 509–551"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11089914_00529.html
   - title: "Berlin: De Gruyter 1962, S. 7–38"
     url: https://doi.org/10.1515/9783110828252-002
@@ -4094,23 +4178,29 @@ ids:
   dracor: ger000395
   wikidata: Q55102908
 cast:
-  - name: Herr Reinhart
+  - name: Herr Reinhart,
+    role: ein reicher Kaufmann in Leipzig.
     gender: m
-  - name: Jungfer Lottchen
+  - name: Jungfer Lottchen,
+    role: seine Unmündige.
     gender: f
-  - name: Der junge Reinhart
+  - name: Der junge Reinhart,
+    role: sein Sohn, ein junger Advocat.
     gender: m
-  - name: Herr Vielwitz
+  - name: Herr Witzling,
+    role: ein junger Mensch der nur unlängst Studierenswegen nach Leipzig gekommen und bey dem Herrn Reinhart im Hause wohnet.
     gender: m
-  - name: Paul
+  - name: Herr Rhomboides,
+    role: ein junger Gelehrter.
     gender: m
-  - name: Herr Sinnreich
+  - name: Herr Jambus,
+    role: ein junger Dichter.
     gender: m
-  - name: Herr Jambus
+  - name: Paul,
+    role: ein Diener.
     gender: m
 setting: >
-  Der Schauplatz ist auf Jungfer Lottchens Zimmer. Die Handlung fängt gleich
-  nach der Mittagsmahlzeit an, und endiget sich gegen 5 Uhr.
+  Der Schauplatz ist auf Jungfer Lottchens Zimmer. Die Handlung fängt, gleich nach der Mittagsmahlzeit an, und endiget sich gegen 5 Uhr.
 ---
 slug: hafner-die-dramatische-unterhaltung-unter-guten-freunden
 author:
@@ -5968,6 +6058,7 @@ created: 1763
 printed: 1798
 dictionaries:
   bibliographia: 2. Abteilung, Band 20, S. 459–460
+  dramenlexikon: S. 225–226
 editions:
   - title: "Berlin und Stettin: Nicolai 1798"
     url: https://books.google.com/books?id=qLli80k3sTsC&printsec=frontcover
@@ -8085,7 +8176,7 @@ comments:
 ---
 slug: weisse-die-unerwartete-zusammenkunft-oder-der-naturaliensammler
 author:
-  name: Weiße, Christian Felix 
+  name: Weiße, Christian Felix
   wikidata: Q68815
 title: Die unerwartete Zusammenkunft oder der Naturaliensammler
 subtitle: Ein Lustspiel in einem Aufzuge
