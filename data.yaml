@@ -203,7 +203,7 @@ cast:
     gender: u
   - name: Melpomene.
     gender: f
-  - name: Thalia
+  - name: Thalia.
     gender: f
 ---
 slug: anonym-das-cassino
@@ -256,6 +256,57 @@ cast:
     gender: f
 setting: >
   Die Scene ist in einer Provinzial-Stadt.
+---
+slug: anonym-das-kaffee-haus-zu-paris
+author:
+  pseudonym: Anonym
+title: Das Kaffee-Haus zu Paris
+subtitle: Ein Lustspiel in einem Akte
+numberOfScenes: 18
+printed: 1780
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Baptiste Rousseau: [»Le café. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/ROUSSEAUJB_CAFE.xml)"
+editions:
+  - title: "Zwey Lustspiele von einem Akt. Aus dem Französischen des Herrn Johann Baptist Rousseau übersezt. Nordhausen: Groß 1780, S. 51–108"
+    url: https://books.google.com/books?id=ahBaAAAAcAAJ&pg=PA51
+cast:
+  - name: Frau Jerome,
+    role: die Kaffeeschenkin.
+    gender: f
+  - name: Louischen,
+    role: ihre Tochter.
+    gender: f
+  - name: Dorant,
+    role: Liebhaber Louischens.
+    gender: m
+  - name: Herr Jobelin,
+    role: ein Notarius.
+    gender: m
+  - name: La Sourdiere,
+    role: ein Freund Herrn Jobelius.
+    gender: m
+  - group:
+      - name: Ein Ritter.
+        gender: m
+      - name: Coronis,
+        role: ein Gaskonier.
+        gender: m
+      - name: Ein Abt.
+        gender: m
+    role: Freunde Dorants.
+  - name: Carondas,
+    role: ein Poet.
+    gender: m
+  - name: La Flesche,
+    role: Bedienter Dorants.
+    gender: m
+  - name: Zween, die Dame ziehen.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplaz stellet einen Saal des Kaffeehauses, mit verschiedenen Tischen versehen, vor. Man siehet den Poeten auf der einen Seite, neben den beyden Damenspielern in einem tiefen Nachsinnen. Der Abt schläft in einem Armstuhle, am obersten Ende des Schauplazzes. Auf der andern Seite sizzen Coronis und La Sourdiere und streiten mit einander, indem sie ihren Kaffee trinken.
 ---
 slug: anonym-das-orakel-1745
 author:
@@ -1249,6 +1300,49 @@ cast:
   - name: Pasquin,
     role: des Celio Diener.
     gender: m
+---
+slug: anonym-der-zauberguertel
+author:
+  pseudonym: Anonym
+title: Der Zauber-Gürtel
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1780
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Baptiste Rousseau: [»La ceinture magique. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/ROUSSEAUJB_CEINTUREMAGIQUE.xml)"
+editions:
+  - title: "Zwey Lustspiele von einem Akt. Aus dem Französischen des Herrn Johann Baptist Rousseau übersezt. Nordhausen: Groß 1780, S. 1–50"
+    url: https://books.google.com/books?id=ahBaAAAAcAAJ&pg=PA1
+comments:
+  - Weitere Übersetzung [1764 (Pfeffel)](pfeffel-der-zauberguertel).
+cast:
+  - name: Frau Merlüsche.
+    gender: f
+  - group:
+      - name: Luzette.
+        gender: f
+      - name: Baliverne.
+        gender: f
+    role: ihre Nichten.
+  - group:
+      - name: Octav.
+        gender: m
+      - name: Horaz.
+        gender: m
+    role: ihre Liebhaber.
+  - group:
+      - name: Trufaldin.
+        gender: m
+      - name: Ein Capitän.
+        gender: m
+    role: verliebte Vormünder.
+  - name: Franz,
+    role: ein Betrüger.
+    gender: m
+setting: >
+  Der Schauplaz ist auf dem Markte vor den Häusern des Herrn Trufaldin und des Capitäns.
 ---
 slug: anonym-die-abendmusik-oder-das-staendchen
 author:
@@ -4094,6 +4188,38 @@ cast:
 setting: >
   Der Schauplatz ist in Märtens Hause, wie in den vorigen Stücken.
 ---
+slug: goethe-die-laune-der-verliebten
+author:
+  name: Goethe, Johann Wolfgang von
+  wikidata: Q5879
+title: Die Laune der Verliebten
+subtitle: Ein Schäferspiel in Versen und einem Akte
+numberOfScenes: 9
+created: 1768
+printed: 1806
+premiered: 1779-05-20
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 255
+editions:
+  - title: "Goethe's sämmtliche Werke. Erster Band. Paris: Tétot Frères 1836, S. 429–438"
+    url: https://books.google.com/books?id=owTxTAcUhnMC&pg=PA429
+  - title: "Goethes poetische Werke. Vollständige Ausgabe. Dritter Band. Stuttgart: Cotta 1953, S. 9–33"
+    url: https://books.google.com/books?id=Y2jfAAAAMAAJ&pg=PA9
+ids:
+  dracor: ger000224
+  wikidata: Q1214293
+cast:
+  - name: Egle
+    gender: f
+  - name: Amine
+    gender: f
+  - name: Eridon
+    gender: m
+  - name: Lamon
+    gender: m
+---
 slug: gottsched-die-widersprecherinn
 author:
   name: Gottsched, Luise Adelgunde Victorie
@@ -5403,6 +5529,49 @@ cast:
 setting: >
   Der Schauplatz ist auf einem Dorfe.
 ---
+slug: krueger-l-isle-des-esclaves-die-sklaven-insel
+author:
+  name: Krüger, Johann Christian
+  wikidata: Q109643
+title: L'Isle des Esclaves. Die Sklaven-Insel
+subtitle: Ein Lustspiel von einer Handlung
+numberOfScenes: 11
+premiered: 1747
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre Carlet de Marivaux: [»L'Île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 13, S. 479
+editions:
+  - title: "Marivaux: Sammlung einiger Lustspiele. 1. Theil. 1747, S. 311–360"
+    url: https://books.google.com/books?id=I3dHAAAAcAAJ&pg=PA311
+comments:
+  - Weitere Übersetzung [1764 (Pfeffel)](pfeffel-die-sclaven-insel).
+keywords:
+  - Sklaverei
+cast:
+  - name: Iphicrates,
+    role: ein junger Athenienser.
+    gender: m
+  - name: Arlequin,
+    role: dessen Diener.
+    gender: m
+  - name: Euphrosine,
+    role: ein Atheniensisches Frauenzimmer.
+    gender: f
+  - name: Cleanthis,
+    role: ihr Mädchen.
+    gender: f
+  - name: Trivelin,
+    role: Oberaufseher in der Sklaven-Insel.
+    gender: m
+  - name: Einwohner in der Sclaven-Insel.
+    isGroup: true
+    gender: u
+setting: >
+  Die Schaubühne stellet ein Meer an einer Seite vor, auf der andern einige Bäume und Häuser.
+---
 slug: laub-das-arabische-pulver
 author:
   name: Laub, Johann Georg
@@ -5695,6 +5864,44 @@ cast:
     gender: u
 setting: >
   Das Stück spielt in einer Provinzialstadt, im Gasthofe »zum blauen Himmel.«
+---
+slug: lessing-damon-oder-die-wahre-freundschaft
+author:
+  name: Lessing, Gotthold Ephraim
+  wikidata: Q34628
+title: Damon, oder die wahre Freundschaft
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1748
+premiered: 1753-03-08
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 116–117
+editions:
+  - title: "Ermunterungen zum Vergnügen des Gemüths. Siebentes Stück. Hamburg: Martini 1747, S. 515–551"
+    url: https://books.google.com/books?id=DI1QAAAAcAAJ&pg=PA515
+  - title: "Frankfurt und Leipzig: Fleischer 1775, S. 1–52"
+    url: https://books.google.com/books?id=0kxhAAAAcAAJ&pg=PA1
+  - title: "Gotthold Ephraim Lessings sämmtliche Schriften. Neue rechtmäßige Ausgabe. Zweiter Band. Berlin: Voß 1838, S. 363–385"
+    url: https://books.google.com/books?id=nC4mAAAAMAAJ&pg=PA363
+comments:
+  - Die erste Komödie Lessings, die im Druck erscheint.
+  - "Vermutlich als Reaktion auf Gellerts »Die zärtlichen Schwestern« entstanden (vgl. [Lessing-Handbuch, 4. Aufl., Stuttgart: Metzler 2016, S. 69](https://books.google.com/books?id=pfncDAAAQBAJ&pg=PA69))."
+ids:
+  dracor: ger000031
+  wikidata: Q1158714
+cast:
+  - name: Die Wittwe.
+    gender: f
+  - name: Leander.
+    gender: m
+  - name: Damon.
+    gender: m
+  - name: Oronte.
+    gender: m
+  - name: Lisette.
+    gender: f
 ---
 slug: lessing-die-juden
 author:
@@ -6408,6 +6615,189 @@ cast:
 setting: >
   Der Schauplatz ist in einem Walde.
 ---
+slug: pfeffel-der-talismann
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q77742
+title: Der Talismann
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 14
+printed: 1764
+premiered: 1766-04-07
+formalia:
+  - Prosa
+basedOn:
+  - "Antoine Houdar de La Motte: »Le Talisman. Comédie«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 21, S. 161
+editions:
+  - title: "Frankfurt und Leipzig: Garbe 1764"
+    url: https://books.google.com/books?id=qhc6AAAAcAAJ&printsec=frontcover
+  - title: "Theatralische Belustigungen. Nach französischen Mustern. Erste Sammlung. Frankfurt und Leipzig: Garbe 1765, S. 239–284"
+    url: https://books.google.com/books?id=2H68puihiBEC&pg=PA239
+cast:
+  - name: Frau von Armberg,
+    role: eine adeliche Wittwe.
+    gender: f
+  - name: Fräulein Amalia,
+    role: ihre Tochter.
+    gender: f
+  - name: Rosette,
+    role: Kammermädchen der Frau von Armberg.
+    gender: f
+  - name: Der Präsident von Schöppstätt,
+    role: Fräulein Amaliens Bräutigam.
+    gender: m
+  - name: Der Baron von Holdenburg,
+    role: des Fräuleins Liebhaber.
+    gender: m
+  - name: Crispin,
+    role: des Barons Bedienter.
+    gender: m
+  - name: Ein Bedienter der Frau von Armberg.
+    gender: m
+  - name: Ein Bedienter des Herrn von Schöppstätt.
+    gender: m
+setting: >
+  Der Schauplatz ist in dem Hause der Frau von Armberg.
+---
+slug: pfeffel-der-zauberguertel
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q77742
+title: Der Zaubergürtel
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 14
+printed: 1764
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Baptiste Rousseau: [»La ceinture magique. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/ROUSSEAUJB_CEINTUREMAGIQUE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 21, S. 163
+editions:
+  - title: "Frankfurt und Leipzig: Garbe 1764"
+  - title: "Theatralische Belustigungen. Nach französischen Mustern. Erste Sammlung. Frankfurt und Leipzig: Garbe 1765, S. 65–112"
+    url: https://books.google.com/books?id=2H68puihiBEC&pg=PA65
+comments:
+  - Weitere Übersetzung [1780 (anonym)](anonym-der-zauberguertel).
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Frau von Pumpernickel,
+    role: eine alte Wittwe.
+    gender: f
+  - group:
+      - name: Fräulein Fiekchen,
+        gender: f
+      - name: Fräulein Clarchen,
+        gender: f
+    role: ihre Nichten.
+  - group:
+      - name: Herr von Rosenhayn,
+        gender: m
+      - name: Herr von Schönau,
+        gender: m
+    role: deren Liebhaber.
+  - group:
+      - name: Der Hauptmann Roland,
+        gender: m
+      - name: Juncker Genserich,
+        gender: m
+    role: der Fräulein Vormünder.
+  - name: Reinecke,
+    role: ein Betrüger.
+    gender: m
+setting: >
+  Der Schauplatz ist auf einem öffentlichen Markte.
+---
+slug: pfeffel-die-sclaven-insel
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q77742
+title: Die Sclaven-Insel
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 11
+printed: 1764
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre Carlet de Marivaux: [»L'Île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 21, S. 159
+editions:
+  - title: "Frankfurt und Leipzig: Garbe 1764"
+  - title: "Theatralische Belustigungen. Nach französischen Mustern. Erste Sammlung. Frankfurt und Leipzig: Garbe 1765, S. 113–176"
+    url: https://books.google.com/books?id=2H68puihiBEC&pg=PA113
+comments:
+  - Auch unter dem Titel »Die Sklaveninsel. Comödie in einem Aufzuge« (1741, Theaterzettel).
+  - Weitere Übersetzung [1747 (Krüger)](krueger-l-isle-des-esclaves-die-sklaven-insel).
+keywords:
+  - Sklaverei
+  - Gesellschaftssatire
+cast:
+  - name: Mylord Richmont.
+    gender: m
+  - name: Pantalon,
+    role: ein Sclave des Lords.
+    gender: m
+  - name: Lady Belfield,
+    role: eine junge Witwe.
+    gender: f
+  - name: Zilia,
+    role: eine Sclavin der Lady.
+    gender: f
+  - name: Zurack.
+    gender: m
+  - name: Einige Einwohner der Insel.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz zeiget ein Meer, auf der einen Seite siehet man eine Reihe von Felsen, auf der andern einige Bäume und Wohnungen.
+---
+slug: pfeffel-die-wittwe
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q77742
+title: Die Wittwe
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 15
+printed: 1764
+formalia:
+  - Prosa
+basedOn:
+  - "Charles Collé: »La veuve. Comédie en un acte et en prose«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 21, S. 162
+editions:
+  - title: "Frankfurt und Leipzig: Garbe 1764"
+    url: https://books.google.com/books?id=oxc6AAAAcAAJ&printsec=frontcover
+  - title: "Theatralische Belustigungen. Nach französischen Mustern. Erste Sammlung. Frankfurt und Leipzig: Garbe 1765, S. 177–238"
+    url: https://books.google.com/books?id=2H68puihiBEC&pg=PA177
+cast:
+  - name: Frau von Werthheim,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Herr von Lilienkron,
+    role: ein Rittmeister.
+    gender: m
+  - name: Herr Riechard,
+    role: Onkel des Rittmeisters.
+    gender: m
+  - name: Herr von Treuendorff,
+    role: Vetter der Wittwe und Freund des Rittmeisters.
+    gender: m
+  - name: Die Gräfin von Höflingen,
+    role: eine Dame vom höchsten Range.
+    gender: f
+  - name: Jungfer Wilhelmine,
+    role: Kammermädchen der Wittwe.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem Saale der Frau von Werthheim.
+---
 slug: pfeffel-philemon-und-baucis
 author:
   name: Pfeffel, Gottlieb Konrad
@@ -6463,16 +6853,16 @@ formalia:
   - Prosa
 basedOn:
   - "Paul Landois: [»Silvie. Tragédie, en Prose, en un Acte«](https://books.google.com/books?id=9E86AAAAcAAJ&printsec=frontcover)"
-  - Vorlage von Paul Landois sind zwei Erzählungen von Robert Challe aus dem Roman "Les illustres Françoises. Histoire véritable".
+  - Vorlage von Paul Landois sind zwei Erzählungen von Robert Challe aus dem Roman »Les illustres Françoises. Histoire véritable«.
 dictionaries:
   bibliographia: 2. Abteilung, Band 21, S. 159–161
 editions:
   - title: "Frankfurt und Leipzig: Garbe 1764"
     url: https://books.google.com/books?id=BUEwAAAAYAAJ&printsec=frontcover
   - title: "Theatralische Belustigungen. Nach französischen Mustern. Erste Sammlung. Frankfurt und Leipzig: Garbe 1765, S. 1–64"
-    url: https://books.google.com/books?id=1ThdAAAAcAAJ&pg=RA5-PR3
+    url: https://books.google.com/books?id=2H68puihiBEC&pg=PA1
 comments:
-  - Landois' "Silvia" (1741/2) gilt als das erste bürgerliche Trauerspiel.
+  - Landois' »Silvia« (1741/2) gilt als das erste bürgerliche Trauerspiel.
   - Das Vorspiel besteht aus 3 Auftritten.
 keywords:
   - Eifersucht
@@ -7518,6 +7908,36 @@ cast:
     gender: m
 setting: >
   Die Scene ist im elterlichen Hause.
+---
+slug: sonnenfels-das-opfer
+author:
+  name: Sonnenfels, Joseph von
+  wikidata: Q215122
+title: Das Opfer
+subtitle: Ein Schäferspiel, von einem Aufzuge
+numberOfScenes: 6
+created: 1761
+printed: 1765
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 21, S. 418–419
+editions:
+  - title: "J. v. Sonnenfels […] gesammelte Schriten. Erster Band. Wien: Trattner 1765, S. 357–381"
+    url: https://books.google.com/books?id=EmlWAAAAcAAJ&pg=PA357
+  - title: "Sonnenfels gesammelte Schriften. Neunter Band. Wien: Baumeister 1786, S. 141–160"
+    url: https://books.google.com/books?id=Lp4vAAAAMAAJ&pg=PA141
+cast:
+  - name: Der Opferjüngling.
+    gender: m
+  - name: Cinthie.
+    gender: f
+  - name: Daphne.
+    gender: f
+  - name: Alcindor.
+    gender: m
+setting: >
+  Der Schauplatz stellet eine Ebene vor, in deren Mitte ein Tempel steht; und neben dem Tempel eine Hütte, des Opferjünglings Wohnung. Rechts ist ein klein Gebüsch, hinter welchem einige Bäume emporragen. Es ist die Morgendämmerung, und die Handlung endet sich, wann die Sonne ganz aufgegangen.
 ---
 slug: speckner-darius
 author:
