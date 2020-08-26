@@ -4868,6 +4868,46 @@ cast:
   - name: Erast.
     gender: m
 ---
+slug: klemm-die-buergerliche-heurath
+author:
+  name: Klemm, Christian Gottlob
+  wikidata: Q21156171
+title: Die bürgerliche Heurath
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1766
+premiered: 1766-08-02
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 66
+editions:
+  - title: "[Wien]: Kraus [1766]"
+    url: https://books.google.com/books?id=PCNVAAAAcAAJ&printsec=frontcover
+  - title: "Sammlung von Schauspielen, welche auf der Kaiserlich Königlichen privil. deutschen Schaubühne zu Wien aufgeführet werden. Neunter Band. Wien: Kraus 1767"
+    url: https://books.google.com/books?id=cp9wAOKwfgsC&pg=RA3-PA1
+cast:
+  - name: Herr Philipp.
+    gender: m
+  - name: Frau Philipp.
+    gender: f
+  - name: Jungfer Liesel.
+    gender: f
+  - name: Käthel,
+    role: ihr Mädchen.
+    gender: f
+  - group:
+    - name: Simon,
+      gender: m
+    - name: Cleant,
+      gender: m
+    role: Lisels Liebhaber.
+  - name: Christoph,
+    role: Bedienter des Herrn Cleant.
+    gender: m
+setting: >
+  Der Schauplatz ist in Herrn Philipps Hause.
+---
 slug: klemm-die-probe-des-reichthums
 author:
   name: Klemm, Christian Gottlob
@@ -6125,6 +6165,93 @@ cast:
 setting: >
   Der Schauplatz ist auf einem Lusthause des Don Diego vor Lissabon.
 ---
+slug: loewen-das-raethsel-oder-was-dem-frauenzimmer-am-meisten-gefaellt
+author:
+  name: Löwen, Johann Friedrich
+  wikidata: Q103936
+title: Das Räthsel, oder Was dem Frauenzimmer am meisten gefällt
+subtitle: Ein Lustspiel in einem Aufzuge, mit einem Divertissement
+numberOfScenes: 12
+printed: 1766
+premiered: 1767-06-29
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 92
+  dramenlexikon: S. 217–218
+editions:
+  - title: "Johann Friedrich Löwens Schriften. Vierter Theil. Hamburg: Bock 1766, S. 339–367"
+    url: https://books.google.com/books?id=gPEIN0zMk_MC&pg=PA339
+cast:
+  - name: Bertha,
+    role: Wittwe des Königs Dagobert.
+    gender: f
+  - name: Der Ritter Robert.
+    gender: m
+  - name: Die Fee Radiante.
+    gender: f
+  - name: Das Gefolg der Bertha.
+    isGroup: true
+    gender: u
+  - name: Pedrillo,
+    role: Waffenträger des Robert.
+    gender: m
+  - name: Magotine,
+    role: des Pedrillo Frau.
+    gender: f
+  - name: Eine Alte.
+    gender: f
+setting: >
+  Der Schauplatz ist in einem Walde, nahe bey dem Lustschloß der Königinn.
+---
+slug: loewen-der-liebhaber-von-ohngefaehr-oder-die-rueckkehr-zur-tugend
+author:
+  name: Löwen, Johann Friedrich
+  wikidata: Q103936
+title: Der Liebhaber von Ohngefähr, oder, die Rückkehr zur Tugend
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1766
+premiered: 1765-09-05
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 90–91
+editions:
+  - title: "Johann Friedrich Löwens Schriften. Vierter Theil. Hamburg: Bock 1766, S. 283–338"
+    url: https://books.google.com/books?id=gPEIN0zMk_MC&pg=PA283
+keywords:
+  - Verwechslungsspiel
+  - Verstellspiel
+cast:
+  - name: Hieronymus,
+    role: ein alter reicher Kaufmann.
+    gender: m
+  - name: Caroline,
+    role: seine Tochter.
+    gender: f
+  - name: Argant,
+    role: ein Mensch auf gut Glück.
+    gender: m
+  - name: Richard,
+    role: Carolinens Bräutigam.
+    gender: m
+  - name: Ein alter Kaufmann.
+    gender: m
+  - name: Peter,
+    role: Argantens Bedienter.
+    gender: m
+  - name: Philip,
+    role: Richards Bedienter.
+    gender: m
+  - name: Cathrine,
+    role: Carolinens Mädchen.
+    gender: f
+  - name: Ein Gerichtsbedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist in dem Hause des Herrn Hieronymus.
+---
 slug: martini-die-prachtsuechtige
 author:
   name: Martini, Christian Leberecht
@@ -7037,6 +7164,39 @@ cast:
     role: ein Hund.
     gender: u
 ---
+slug: richter-der-verwandelte-rittmeister
+author:
+  name: Richter, Joseph
+  wikidata: Q1707885
+title: Der verwandelte Rittmeister
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 23
+printed: 1802
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Rehms 1802"
+    url: https://books.google.com/books?id=o-fZOrL_5HgC&printsec=frontcover
+comments:
+  - In der [Vorrede](https://books.google.com/books?id=o-fZOrL_5HgC&pg=PA3) nennt der Verfasser als Quelle für den Stoff die französische Operette »Mazet. Comédie en deux actes, en vers, mêlée d'ariettes«. Seinen Einakter nennt der Verfasser ebenda ein »kleines Vorspiel«.
+cast:
+  - name: Madame Soring,
+    role: eines Pächters Wittwe.
+    gender: f
+  - group:
+      - name: Luise.
+        gender: f
+      - name: Fanny.
+        gender: f
+    role: ihre Nichte.
+  - name: Rittmeister Waldenau.
+    gender: m
+  - name: Anton,
+    role: Gärtner bey Soring.
+    gender: m
+setting: >
+  Ein Garten. Im Hintergrunde links des Gärtners Wohnung, die sich an eine niedrige Gartenmauer anschließt, die mit einer kleinen Thür versehen ist, auf welcher ein großer Blumentopf steht. Vorwärts zur Rechten ein ziemlich großes Blumenbett, in welchem Rosen und andere Blumen zu sehen sind.
+---
 slug: riedel-alexis
 author:
   name: Riedel, Franz Xaver
@@ -7278,6 +7438,47 @@ cast:
     gender: f
   - name: Olinde.
     gender: m
+---
+slug: schachtner-geistlichs-schaefergedicht-oder-der-gute-hirt
+author:
+  name: Schachtner, Johann Andreas
+  wikidata: Q55913027
+title: "Geistliches Schäfergedicht, Oder: Der gute Hirt"
+subtitle: Ein Singspiel von einer Abhandlung
+numberOfScenes: 1
+printed: 1756
+formalia:
+  - Verse
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 173 und Band 21, S. 412–413
+editions:
+  - title: "Salzburg: Mayr [1756]"
+    url: https://books.google.com/books?id=Hg-ub8IBW3AC&printsec=frontcover
+  - title: "Johann Andree Schachtners, H. S. H. T. Poetischer Versuch in zerschiedenen Arten von Gedichten. Augsburg und Innsburgg: Wolff 1765, S. 289–306"
+    url: https://books.google.com/books?id=kEYxHBE9ucQC&pg=PA289
+comments:
+  - "Die [Vorrede](https://books.google.com/books?id=kEYxHBE9ucQC&pg=PP13) in der Ausgabe von 1765 stammt von Johann Christoph Gottsched."
+  - "Zur Datierung des Erstdrucks: Meyer schreibt »ca. 1755«. [Peter Ward Jones 1991, S. 6](https://books.google.com/books?id=lv5AAAAAMAAJ&printsec=frontcover), schreibt »1756«."
+keywords:
+  - allegorische Figuren
+cast:
+  - name: Die Gnade GOttes;
+    role: als der gute Hirt.
+    gender: u
+  - group:
+      - name: Der Glaube;
+        gender: u
+      - name: Die Vernunft;
+        gender: u
+    role: als zween ihm untergebene Schäfer.
+  - name: Der Willen,
+    role: als das verlohrne Schaf.
+    gender: u
+  - name: In dem Chor. Die fünf Sinne; als die untergebene Heerde der beeden Schäfer, des Glaubens, und der Vernunft.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist auf freyem Felde, welches einer Seits an eine verwildete Waldung stosset.
 ---
 slug: scheibe-der-eifersuechtige-schaefer-oder-der-fehler-der-liebe
 author:
@@ -7987,6 +8188,51 @@ cast:
   - name: Soldaten von dem Heere Alexanders.
     isGroup: true
     gender: m
+---
+slug: steffens-der-geld-topf
+author:
+  name: Steffens, Johann Heinrich
+  wikidata: Q55126939
+title: Der Geld-Topf
+subtitle: Ein Lustspiel von einem Aufzuge nebst dem lateinischen Text, aus der Aulularia des Plautus zusammen gezogen von J. H. Steffens, Rector der Zellischen Schule
+numberOfScenes: 19
+printed: 1765
+formalia:
+  - Prosa
+basedOn:
+  - "Plautus: [»Aulularia«](https://dracor.org/id/rom000014)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 21, S. 427–428
+editions:
+  - title: "Zelle: Gsellius 1765"
+    url: https://books.google.com/books?id=w2pVAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Euklio,
+    role: ein alter Geizhals.
+    gender: m
+  - name: Staphila,
+    role: des Euklio Haushälterin.
+    gender: f
+  - name: Megador,
+    role: ein reicher bejahrter Bürger.
+    gender: m
+  - name: Eunomia,
+    role: Megadors Schwester.
+    gender: f
+  - name: Lykonides,
+    role: der Eunomia Sohn.
+    gender: m
+  - name: Strobilus,
+    role: des Lykonides Sclave.
+    gender: m
+  - name: Congrio,
+    role: ein Koch.
+    gender: m
+  - name: Etliche Domestiken.
+    isGroup: true
+    gender: u
+setting: >
+  Die Scene ist auf der Straße vor des Euklio Hause.
 ---
 slug: straube-pigmalion-und-themire
 author:
