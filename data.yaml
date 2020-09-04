@@ -1266,6 +1266,41 @@ cast:
 setting: >
   Die Handlung ist auf Reichenaus Landgute.
 ---
+slug: anonym-der-vermeynte-nebenbuhler
+author:
+  pseudonym: Anonym
+title: Der vermeynte Nebenbuhler
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen
+numberOfScenes: 13
+printed: 1768
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: »Le rival supposé. Comédie en 1 acte«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 458
+editions:
+  - title: "Neue Sammlung zum Vergnügen und Unterricht. Sechstes Stück. Wien: Gräffer 1768, S. 3–37"
+    url: https://books.google.com/books?id=C1ITSsTaqpoC&pg=PA3
+comments:
+  - "1768 auch von Christian August Wichmann unter dem Titel »Der vermeynte Nebenbu[h]ler. Ein Lustspiel in einem Aufzuge« übersetzt (noch mal in 1. Abt. nachschauen, I/2, S. 880; außerdem II/23, S. 185)."
+cast:
+  - name: Der König von Arragonien.
+    gender: m
+  - name: Don Friedrich,
+    role: des Königs Liebling.
+    gender: m
+  - name: Don Felix,
+    role: Vater der Donna Leonora.
+    gender: m
+  - name: Donna Leonora.
+    gender: f
+  - name: Florine,
+    role: Kammermädchen der Donna Leonora.
+    gender: f
+setting: >
+  Der Schauplatz ist auf einem Schlosse des Don Felix, fünf Meilen von Saragossa.
+---
 slug: anonym-der-von-der-liebe-betrogene-philosoph
 author:
   pseudonym: Anonym
@@ -1587,6 +1622,36 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist auf einem Landgute des Marquis.
+---
+slug: anonym-die-frau-pfarrerin
+author:
+  pseudonym: Anonym
+title: Die Frau Pfarrerin
+subtitle: Lustspiel in einem Aufzug. Bei Gelegenheit der lutherischen Jubelfeyer
+numberOfScenes: 4
+printed: 1767
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 186–187
+editions:
+  - title: "Hagenau: König [1767]"
+comments:
+  - Ohne Jahr, Datierung ›1767‹ aufgrund des Thesenanschlags 1517.
+  - "Auszug aus dem Stück in: [Neujahrsbüchlein in Elsaßer Mundart. Straßburg: Pfaehler 1818, S. 36–38](https://books.google.com/books?id=67cUAAAAQAAJ&pg=PA36)."
+keywords:
+  - Elsässer Mundart
+cast:
+  - name: Frau Pfarrere.
+    gender: f
+  - name: Klärel,
+    role: Nichte der F. Pfarrere.
+    gender: f
+  - name: Lutherischer Kandidat der Theologie.
+    gender: m
+  - name: Lischen,
+    role: katholische Magd.
+    gender: f
 ---
 slug: anonym-die-heyrath-durch-wechselbriefe
 author:
@@ -2056,6 +2121,43 @@ comments:
     Handschriftliches Manuskript in der Wissenschaftlichen Stadtbibliothek
     Mannheim. 29 gez. Bl. (vgl. Yüksel Pazarkaya: Die Dramaturgie des Einakters.
     Göppingen: Kümmerle 1973, S. 325).
+---
+slug: anonym-die-gedruckten-theater-regeln-oder-welcher-stand-ist-besser
+author:
+  pseudonym: Anonym
+title: "Die gedruckten Theater-Regeln, oder: Welcher Stand ist beßer?"
+subtitle: Ein höchst nöthiger Versuch in einem Aufzuge von ***
+numberOfScenes: 13
+printed: 1779
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 208
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1779"
+    url: https://books.google.com/books?id=hgYRSaGmi1EC&printsec=frontcover
+keywords:
+  - Theaterbetrieb
+cast:
+  - name: Herr Pilster.
+    role: Unterdirektor.
+    gender: m
+  - group:
+      - name: Herr Sternfreund.
+        gender: m
+      - name: Herr Kehlhammer.
+        gender: m
+      - name: Herr Klesch.
+        gender: m
+      - name: Mamsell Steel.
+        gender: f
+      - name: Ein Schatten.
+        gender: u
+    role: Schauspieler, und Schauspielerinnen.
+  - name: Herr von Flieh.
+    gender: m
+setting: >
+  Der Schauplatz ist in des Herrn Pilsters seinem Zimmer. Es ist Samstag 10 Uhr, da sich die Schauspieler gewöhnlich wegen der Gage versammeln.
 ---
 slug: anonym-die-gratien
 author:
@@ -4489,6 +4591,41 @@ cast:
 setting: >
   Die Handlung geht in Wien vor.
 ---
+slug: heufeld-von-kritik-ueber-den-geburtstag
+author:
+  name: Heufeld, Franz von
+  wikidata: Q19959850
+title: Kritik über den Geburtstag
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 5
+printed: 1767
+premiered: 1767
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 62
+editions:
+  - title: "Wien 1767"
+    url: https://books.google.com/books?id=jc9UAAAAcAAJ&printsec=frontcover
+  - title: "Zweyte Auflage. Wien: Tratter 1767"
+    url: https://books.google.com/books?id=GdWYef4SLcYC&printsec=frontcover
+cast:
+  - name: Frau von Redhausen.
+    gender: f
+  - name: Hr. Freymund,
+    role: Bruder derselben.
+    gender: m
+  - name: Baron Sprinzling.
+    gender: m
+  - name: Hr. von Hansenberg.
+    gender: m
+  - name: Frau von Hansenberg.
+    gender: f
+  - name: Hr. Jungwitz.
+    gender: m
+setting: >
+  Der Schauplatz ist bey der Frau von Redhausen.
+---
 slug: heydenreich-der-verliebte-werber
 author:
   name: Heydenreich, […]
@@ -6279,6 +6416,50 @@ cast:
 setting: >
   Der Schauplatz ist in dem Hause des Herrn Hieronymus.
 ---
+slug: marsano-der-phlegmatiker
+author:
+  name: Marsano, Wilhelm von
+  wikidata: Q1664045
+title: Der Phlegmatiker
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 12
+printed: 1829
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. 27. Jahrgang. Hamburg: Hoffmann und Campe 1829, S. 131–178"
+    url: https://books.google.com/books?id=D2ErcmghtZMC&pg=PA131
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Baron Toll,
+    role: ein Land-Edelmann.
+    gender: m
+  - name: Julie,
+    role: seine Nichte.
+    gender: f
+  - name: Baron Wildof,
+    role: sein Gränznachbar.
+    gender: m
+  - group:
+      - name: Wallau
+        gender: m
+      - name: Sterneck
+        gender: m
+      - name: Hohlfeld
+        gender: m
+      - name: Burgau
+        gender: m
+      - name: Brisdorf
+        gender: m
+    role: Wildofs Freunde.
+  - name: Der Wirth zur Meerkatze.
+    gender: m
+  - name: Ein Lohnbedienter.
+    gender: m
+setting: >
+  Das Stück spielt in einem Saale des Gasthauses zur Meerkatze.
+---
 slug: martini-die-prachtsuechtige
 author:
   name: Martini, Christian Leberecht
@@ -7036,6 +7217,45 @@ cast:
 setting: >
   Der Schauplatz stellet das innwendige eines Zimmers vor, darinnen man nichts erblicket, als die blosen Mauern; einen Tisch auf welchem ein Licht, ein Wassergefäse, und ein Brod, nebst einem Mannskleide und einem schlechten Frauenzimmer-Rocke sich befinden.
 ---
+slug: pfeffel-die-verliebte-unschuld
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q77742
+title: Die Verliebte Unschuld
+subtitle: Ein Lustspiel von einem Aufzuge. Aus dem Französischen des Herrn Marin übersetzt
+numberOfScenes: 19
+printed: 1766
+premiered: 1763-05-11
+formalia:
+  - Prosa
+basedOn:
+  - "François-Louis Claude Marin: »L'amante ingénue. Comédie en un acte et en prose«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 122–123
+editions:
+  - title: "Frankfurt und Leipzig: Garbe 1766"
+    url: https://books.google.com/books?id=Q-1YAAAAcAAJ&printsec=frontcover
+  - title: "Theatralische Belustigungen. Nach Französischen Mustern. Zwote Sammlung. Frankfurt und Leipzig: Garbe 1766, S. 135–202"
+    url: https://books.google.com/books?id=ekbR2ZqA0K0C&pg=PA135
+cast:
+  - name: Juliette.
+    gender: f
+  - name: Das Fräulein von Schönleben,
+    role: Juliettens Tante.
+    gender: f
+  - name: Frau von Schmetterlingen,
+    role: Juliettens Mutter.
+    gender: f
+  - name: Der junge Graf von Lilienkron, unter dem Namen Lindor,
+    role: Juliettens Liebhaber.
+    gender: m
+  - name: Der Graf von Biedersdorf.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+ Der Schauplatz ist auf dem Landhause des Fräuleins von Schönleben. Die Bühne stellt einen Garten vor, worein man aus dem Saale des Schlosses kommen kann, der sich in der Vertiefung oder in einem von den Winkeln des Theaters zeiget.
+---
 slug: platen-berengar
 author:
   name: Platen, August von
@@ -7098,7 +7318,7 @@ editions:
   - title: "Beiträge zur deutschen Bühne. Dritter Band. München: Franz 1847, S. 101–152"
     url: https://books.google.com/books?id=QjxJAAAAcAAJ&pg=PA101
 comments:
-  - Im Inhaltsverzeichnis wird das Werk "Lustspiel in 1 Aufzuge" genannt, auf der Titelseite dann "dramatischer Scherz in einem Aufzuge".
+  - Im Inhaltsverzeichnis wird das Werk »Lustspiel in 1 Aufzuge« genannt, auf der Titelseite dann »dramatischer Scherz in einem Aufzuge«.
   - "Quelle für das Datum der Erstaufführung: [Allgemeine Theaterzeitung, 28. Jänner 1842](https://books.google.com/books?id=CJV_304uEScC&pg=PA111&dq=%22dumm+und+gelehrt%22)."
 keywords:
   - Eheanbahnung
@@ -7885,6 +8105,84 @@ cast:
 setting: >
   Der Schauplatz ist in der Frau Praatgern Hause.
 ---
+slug: schlosser-das-missverstaendnis
+author:
+  name: Schlosser, Johann Ludwig
+  wikidata: Q1695368
+title: Das Mißverständnis
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1767
+premiered: 1769-09-11
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 202 und S. 379
+editions:
+  - title: "Neue Lustspiele. Bremen: Cramer 1767, S. 235–268"
+    url: https://books.google.com/books?id=MLIxT1wk4v4C&pg=PA235
+cast:
+  - name: Arist.
+    gender: m
+  - name: Orgon.
+    gender: m
+  - name: Valer.
+    gender: m
+  - name: Karoline.
+    gender: f
+  - name: Henriette.
+    gender: f
+---
+slug: schlosser-die-maskerade
+author:
+  name: Schlosser, Johann Ludwig
+  wikidata: Q1695368
+title: Die Maskerade
+subtitle: Ein Lustspiel in einem Akt
+numberOfScenes: 14
+printed: 1767
+premiered: 1785-04-28
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 378–379
+editions:
+  - title: "Neue Lustspiele. Bremen: Cramer 1767, S. 269–317"
+    url: https://books.google.com/books?id=MLIxT1wk4v4C&pg=PA269
+  - title: "Theater der Deutschen. Zehnter Theil. Königsberg und Leipzig: Kanter 1771, S. 373–410"
+    url: https://books.google.com/books?id=7zLIpOl_vZEC&pg=PA373
+comments:
+  - Der Abdruck im »Theater der Deutschen« wird fälschlicherweise Schlegel zugeschrieben (»Die Maskerade. Ein Lustspiel in einem Aufzuge von Herrn Schlegel«)".
+keywords:
+  - Verstellspiel
+cast:
+  - name: Geront.
+    gender: m
+  - name: Lucinde,
+    role: seine Tochter.
+    gender: f
+  - name: Valer,
+    role: ihr Versprochener.
+    gender: m
+  - name: Leander.
+    gender: m
+  - name: Orgon.
+    gender: m
+  - name: Lisette,
+    role: Lucindens Mägdchen.
+    gender: f
+  - name: Viele Masken von beyderley Geschlecht.
+    isGroup: true
+    gender: u
+  - name: Musikanten.
+    isGroup: true
+    gender: u
+  - name: Lakeyen.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplatz ist bald ein Saal, bald ein an denselben gränzendes Kabinett.
+---
 slug: scholze-johann-sigismund-das-kaetzgen
 author:
   name: Scholze, Johann Sigismund
@@ -8058,7 +8356,7 @@ editions:
     url: https://books.google.com/books?id=h2BVAAAAcAAJ&printsec=frontcover
 comments:
   - 1813 unter dem Titel »Die Judenschule« (unter dem Pseudonym Samson Eidechs) uraufgeführt.
-  - "Es wurden mehrere Gegenstücke geschrieben: Julius von Voß: [»Euer Verkehr: Posse in einem Aufzuge. Gegenstück zur Judenschule oder Unserm Verkehr, von Herrn Dr. Sessa«](voss-euer-verkehr) (1817); Simon Höchheimer: [»Der Spiegel für Israeliten. Ein Gegenstück zu der Posse: ›Unser Verkehr‹«](http://resolver.staatsbibliothek-berlin.de/SBB00003C5B00000000) (1817); [»Aaron in der Klemme oder der Bräutigam als Braut. Ein Schauspiel mit Ernst und Scherz in drei Aufzügen«](https://books.google.com/books?id=JBXoCYDsOEUC&printsec=frontcover) (1818); Carl Friedrich Solbrig: [»Die Judenschaft in der Klemme. Eine Posse in einem Akt. Seitenstück zu: Unser Verkehr«](https://books.google.com/books?id=q1PDO0ko1mcC&printsec=frontcover) (1819); J. Treuherz jun. (Hrsg.): [»Die Verlobung oder Der Bräutigam im Felleisen. Fastnachts-Posse in jüdischer Mundart in einem Aufzuge. Ein Seitenstück zu Unser Verkehr«](anonym-die-verlobung-oder-der-braeutigam-im-felleisen) (1833)."
+  - "Es wurden mehrere Gegenstücke geschrieben: Julius von Voß: [»Euer Verkehr: Posse in einem Aufzuge. Gegenstück zur Judenschule oder Unserm Verkehr, von Herrn Dr. Sessa«](voss-euer-verkehr) (1817); Simon Höchheimer: [»Der Spiegel für Israeliten. Ein Gegenstück zu der Posse: ›Unser Verkehr‹«](http://resolver.staatsbibliothek-berlin.de/SBB00003C5B00000000) (1817); [»Aaron in der Klemme oder der Bräutigam als Braut. Ein Schauspiel mit Ernst und Scherz in drei Aufzügen«](https://books.google.com/books?id=JBXoCYDsOEUC&printsec=frontcover) (1818); Carl Friedrich Solbrig: [»Die Judenschaft in der Klemme. Eine Posse in einem Akt. Seitenstück zu: Unser Verkehr«](solbrig-die-judenschaft-in-der-klemme) (1819); J. Treuherz jun. (Hrsg.): [»Die Verlobung oder Der Bräutigam im Felleisen. Fastnachts-Posse in jüdischer Mundart in einem Aufzuge. Ein Seitenstück zu Unser Verkehr«](anonym-die-verlobung-oder-der-braeutigam-im-felleisen) (1833)."
 keywords:
   - Judentum
   - Antisemitismus
@@ -8136,6 +8434,101 @@ cast:
     gender: m
 setting: >
   Die Scene ist im elterlichen Hause.
+---
+slug: solbrig-die-dorfschule
+author:
+  name: Solbrig, Carl Friedrich
+  wikidata: Q19277106
+title: Die Dorfschule
+subtitle: Eine charakteristische Posse in einem Akte nach Erhard
+numberOfScenes: 2
+printed: 1819
+premiered: 1812-03-08
+formalia:
+  - Prosa
+editions:
+  - title: "Zwei dramatische Possen von C. F. Solbrig. Magdeburg: Schütz 1819, S. 51–80"
+    url: https://books.google.com/books?id=q1PDO0ko1mcC&pg=PA51
+cast:
+  - name: Der Dorfschulmeister.
+    gender: m
+  - group:
+      - name: Gottlieb,
+        gender: m
+      - name: Traugott,
+        gender: m
+      - name: Hanstöffel,
+        gender: m
+      - name: Fritze,
+        gender: m
+      - name: Christlieb,
+        gender: m
+      - name: Benjamin,
+        gender: m
+      - name: Leberecht,
+        gender: m
+      - name: Gottfried,
+        gender: m
+    role: Bauerjungen.
+setting: >
+  Das Stück spielt, wenn es von Einer Person executirt wird, hinter der Scene; bei einer wirklichen Aufführung, ist die Scene eine Bauerstube, mit langen Tischen und Bänken.
+---
+slug: solbrig-die-judenschaft-in-der-klemme
+author:
+  name: Solbrig, Carl Friedrich
+  wikidata: Q19277106
+title: Die Judenschaft in der Klemme
+subtitle: "Eine Posse in einem Akt. Seitenstück zu: Unser Verkehr. Nach einer wahren Anekdote aus dem siebenjährigen Kriege"
+numberOfScenes: 15
+printed: 1819
+premiered: 1811-12-25
+formalia:
+  - Prosa
+editions:
+  - title: "Zwei dramatische Possen von C. F. Solbrig. Magdeburg: Schütz 1819, S. 1–50"
+    url: https://books.google.com/books?id=q1PDO0ko1mcC&pg=PA1
+comments:
+  - "Seitenstück zu Karl Borromäus Alexander Sessa: [»Unser Verkehr. Eine Posse in einem Akte«](sessa-unser-verkehr)."
+  - "Die auf der Titelseite angegebene erste Deklamation des Stücks am 25.12.1811 steht eventuell im Widerspruch zum Erscheinungsdatum des Vorlagenstücks »Unser Verkehr« (Erstdruck 1813); vielleicht war Solbrig der Inhalt anderweitig bekannt oder die Datumsangabe ist fehlerhaft."
+keywords:
+  - Judentum
+  - Geld
+cast:
+  - name: Husaren-Lieutenant Graf.
+    gender: m
+  - name: Strauch,
+    role: Unteroffizier.
+    gender: m
+  - name: Fix,
+    role: Bedienter des Lieutenant.
+    gender: m
+  - name: Packan,
+    role: Profos.
+    gender: m
+  - name: Elias Sportelmann,
+    role: Bürgermeister.
+    gender: m
+  - name: Schmuel,
+    role: ein Jude.
+    gender: m
+  - group:
+      - name: Borach,
+        gender: m
+      - name: Hirsch,
+        gender: m
+      - name: Moses,
+        gender: m
+      - name: Saul,
+        gender: m
+      - name: Wolf,
+        gender: m
+      - name: Levi,
+        gender: m
+    role: Juden.
+  - name: Ein Postbote.
+    gender: m
+setting: >
+  Die Handlung geht in einer kleinen Stadt vor.
 ---
 slug: sonnenfels-das-opfer
 author:
