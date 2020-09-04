@@ -2,8 +2,12 @@ import React from 'react';
 import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import {Link} from 'react-router-dom';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {Play} from '../types';
 import data from '../plays';
+
+const dataURI = 'data:text/json;base64,' +
+  btoa(unescape(encodeURIComponent(JSON.stringify(data))));
 
 function formatAuthor (_: string, play: Play) {
   const {name, pseudonym, wikidata: id} = play.author || {};
@@ -114,6 +118,10 @@ function Table () {
             <SearchBar { ...props.searchProps } />
             <span className="counter">
               Database currently containing {data.length} one-act plays
+              {' '}
+              <a href={dataURI} className="download" download="einakter.json" >
+                <FontAwesomeIcon icon="download" title="Download JSON"/>
+              </a>
             </span>
             <br/>
             <BootstrapTable

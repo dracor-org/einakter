@@ -3,6 +3,7 @@ import {
   faBook,
   faCaretDown,
   faCaretUp,
+  faDownload,
   faUsers,
   faPenFancy,
   faTheaterMasks
@@ -12,6 +13,7 @@ library.add(
   faBook,
   faCaretDown,
   faCaretUp,
+  faDownload,
   faUsers,
   faPenFancy,
   faTheaterMasks
