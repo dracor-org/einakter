@@ -49,6 +49,41 @@ cast:
 setting: >
   Saal im Wittekindschen Hause. Im Vordergrunde Seitenthüren, aber keine Fenster. Im Hintergrunde desselben erblickt man ein aufgebautes Theater, eine Stube darstellend, auf der Mitte desselben einen Tisch und vier Stühle, und dicht vor der Hintergardine zu jeder Seite ein großes Spinde.
 ---
+slug: andre-der-alte-freyer
+author:
+  name: André, Johann
+  wikidata: Q69258
+title: Der alte Freyer
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1767
+premiered: 1770-04-19
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 235
+editions:
+  - title: "Komische Versuche von J** A**. Hanau: Schultz 1767, S. 75–110"
+  - title: "Lustspiele. Frankfurt 1771, S. 137–188"
+comments:
+  - "Für die Ausgabe 1771 überarbeitet: »Besonders ist die Rolle Damis ganz neu bearbeitet, und mehr Wärme, und Handlung hinein gelegt worden.« ([Realzeitung der Wissenschaften, Künste, und der Kommerzien. 30. Stück. Wien: Schulz 1774, S. 481](https://books.google.com/books?id=MQ1fAAAAcAAJ&pg=RA1-PA481)) Ebenda auch der Hinweis auf die Erstaufführung am 19. April 1770."
+  - "1775 zur Oper umgearbeitet: [»Der alte Freyer. Eine komische Oper in einem Aufzuge«](https://books.google.com/books?id=0ykWvgAACAAJ&printsec=frontcover)."
+cast:
+  - name: Richard.
+    gender: m
+  - name: Wilhelmine,
+    role: seine Tochter.
+    gender: f
+  - name: Lisette,
+    role: seine Magd.
+    gender: f
+  - name: Geronte.
+    gender: m
+  - name: Damis.
+    gender: m
+setting: >
+  Die Scene ist in Richards Wohnzimmer.
+---
 slug: andre-der-comoedienfeind
 author:
   name: André, Johann
@@ -82,6 +117,65 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist Oronts Zimmer.
+---
+slug: andre-der-unschuldige-plauderer
+author:
+  name: André, Johann
+  wikidata: Q69258
+title: Der unschuldige Plauderer
+subtitle: Ein Schäferspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1767
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 236
+editions:
+  - title: "Komische Versuche von J** A**. Hanau: Schultz 1767, S. 3–28"
+  - title: "[Ohne Ort: ohne Jahr]"
+    url: https://books.google.com/books?id=9WLttz4DuZUC&printsec=frontcover
+cast:
+  - name: Mirtill.
+    gender: m
+  - name: Doris.
+    gender: f
+  - name: Phyllis.
+    gender: f
+  - name: Damon.
+    gender: m
+  - name: Amynt.
+    gender: m
+setting: >
+  Die Scene ist vor Phyllis Hütte.
+---
+slug: andre-fritz-der-student
+author:
+  name: André, Johann
+  wikidata: Q69258
+title: Fritz, der Student
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1767
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 235–236
+editions:
+  - title: "Komische Versuche von J** A**. Hanau: Schultz 1767, S. 29–74"
+cast:
+  - name: Michel,
+    role: ein Bauer.
+    gender: m
+  - name: Fritz,
+    role: sein Sohn, der Student.
+    gender: m
+  - name: Der Schulmeister.
+    gender: m
+  - name: Lips,
+    role: Michels Knecht.
+    gender: m
+setting: >
+  Der Schauplatz ist in Michels Hause.
 ---
 slug: anonym-amalie-und-charlotte-baronessen-von-habenichts
 author:
@@ -1379,6 +1473,43 @@ cast:
 setting: >
   Der Schauplaz ist auf dem Markte vor den Häusern des Herrn Trufaldin und des Capitäns.
 ---
+slug: anonym-der-zwist-oder-kritik-ueber-die-listige-betruegerinn
+author:
+  pseudonym: Anonym
+title: Der Zwist, oder Kritik über die listige Betrügerinn
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1767
+formalia:
+  - Prosa
+basedOn:
+  - "Charlotta Dorothea Biehl: »Tvistigheden, eller Critiqve over den listige Optraekkerske«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 234
+editions:
+  - title: "Lustspiele der Jungfer Charlotte Dorothea Biehl. Zweeter Theil. Aus dem Dänischen übersetzt. Kopenhagen und Leipzig: Mummische Buchhandlung 1767, S. 207–252"
+    url: https://books.google.com/books?id=UJ5mAAAAcAAJ&pg=PA207
+cast:
+  - name: Araminte.
+    gender: f
+  - name: Angelike,
+    role: ihre Schwestertochter.
+    gender: f
+  - name: Isabelle,
+    role: eine andere junge Fräulein.
+    gender: f
+  - name: Arist.
+    gender: m
+  - name: Erast,
+    role: dessen Brudersohn.
+    gender: m
+  - name: Orgon.
+    gender: m
+  - name: Clitander.
+    gender: m
+setting: >
+  Die Scene ist Aramintens Haus.
+---
 slug: anonym-die-abendmusik-oder-das-staendchen
 author:
   pseudonym: Anonym
@@ -1693,6 +1824,78 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: anonym-die-junge-indianerin
+author:
+  pseudonym: Anonym
+title: Die junge Indianerin
+subtitle: Ein Lustspiel in einem Aufzuge
+premiered: 1779-11-30
+formalia:
+  - Prosa
+basedOn:
+  - "Sébastien-Roch Nicolas de Chamfort: [»La jeune indienne. Comédie en un acte et en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CHAMFORT_LAJEUNEINDIENNE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 196
+comments:
+  - Manuskript zu einer Mannheimer Aufführung.
+  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1766 (Walz)](walz-die-junge-indianerin) und [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn).
+keywords:
+  - Sklaverei
+cast:
+  - name: Betti.
+    gender: f
+  - name: Belton.
+    gender: m
+  - name: Mowbrai.
+    gender: m
+  - name: Milford.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+  - name: Johann,
+    role: Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist in Charlestown, einer englischen Kolonie in West-Indien.
+---
+slug: anonym-die-junge-indianerinn
+author:
+  pseudonym: Anonym
+title: Die junge Indianerinn
+subtitle: Ein Lustspiel in einem Aufzuge aus dem französischen des Herrn Chamforts, übersetzt
+numberOfScenes: 10
+created: 1768
+formalia:
+  - Prosa
+basedOn:
+  - "Sébastien-Roch Nicolas de Chamfort: [»La jeune indienne. Comédie en un acte et en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CHAMFORT_LAJEUNEINDIENNE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 441
+comments:
+  - Nur als Manuskript.
+  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1766 (Walz)](walz-die-junge-indianerin) und [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin).
+keywords:
+  - Sklaverei
+cast:
+  - name: Mowbray,
+    role: ein Quaker.
+    gender: m
+  - name: Mylford,
+    role: dessen Verwandter.
+    gender: m
+  - name: Belton.
+    gender: m
+  - name: Betty,
+    role: eine Indianerin.
+    gender: f
+  - name: Ein Notarius.
+    gender: m
+  - name: John,
+    role: Mowbray's Diener.
+    gender: m
+setting: >
+  Die Handlung ist in einem Gasthofe, in Charlestown, in Amerika.
+---
 slug: anonym-die-klatschen
 author:
   pseudonym: Anonym
@@ -1909,7 +2112,7 @@ editions:
     url: https://books.google.com/books?id=3A9aAAAAcAAJ&printsec=frontcover
 comments:
   - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
-  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit), [1762 (anonym)](anonym-die-sitten-der-zeit-1762) und  [1762 (»Die Sitten nach der Mode«, anonym)](anonym-die-sitten-nach-der-mode).
+  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit), [1762 (anonym)](anonym-die-sitten-der-zeit-1762) und [1762 (»Die Sitten nach der Mode«, anonym)](anonym-die-sitten-nach-der-mode).
 cast:
   - name: Geronte,
     role: ein reicher Pachter.
@@ -4510,7 +4713,8 @@ subtitle: Ein Lustspiel von einer Abhandlung
 numberOfScenes: 3
 premiered: 1762
 formalia:
-  - Verse und Prosa
+  - Verse
+  - Prosa
 dictionaries:
   bibliographia: 2. Abteilung, Band 20, S. 274–275
 editions:
@@ -6127,7 +6331,7 @@ editions:
     url: https://books.google.com/books?id=j6yXKuup7kQC&pg=PA433
 comments:
   - "Bearbeitung von Plautus: [»Trinummus«](https://dracor.org/id/rom000010)."
-  - "Weitere Quellen versammelt in: [Paul Albrecht: Leszing’s Plagiate. Dritter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 1098–1267](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081377&seite=148)."
+  - "Weitere Quellen aufgezählt in: [Paul Albrecht: Leszing’s Plagiate. Dritter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 1098–1267](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081377&seite=148)."
 ids:
   dracor: ger000249
   wikidata: Q56255327
@@ -6175,7 +6379,7 @@ editions:
   - title: "Carlsruhe: Schmieder 1777, S. 157–219"
     url: https://books.google.com/books?id=SzBgAAAAcAAJ&pg=PA157
 comments:
-  - "Lessings Quellen sind versammelt in: [Paul Albrecht: Leszing’s Plagiate. Zweiter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 864–933](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081376&seite=394)."
+  - "Lessings Quellen aufgezählt in: [Paul Albrecht: Leszing’s Plagiate. Zweiter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 864–933](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081376&seite=394)."
 keywords:
   - Judentum
 ids:
@@ -7096,6 +7300,48 @@ cast:
 setting: >
   Der Schauplatz ist auf einem öffentlichen Markte.
 ---
+slug: pfeffel-die-junge-indianerin
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q77742
+title: Die Junge Indianerin
+subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen des Herrn von Chamfort übersetzt
+numberOfScenes: 10
+printed: 1766
+formalia:
+  - Prosa
+basedOn:
+  - "Sébastien-Roch Nicolas de Chamfort: [»La jeune indienne. Comédie en un acte et en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CHAMFORT_LAJEUNEINDIENNE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 119–120
+editions:
+  - title: "Theatralische Belustigungen. Nach Französischen Mustern. Zwote Sammlung. Frankfurt und Leipzig: Garbe 1766, S. 95–134"
+    url: https://books.google.com/books?id=ekbR2ZqA0K0C&pg=PA95
+comments:
+  - Weitere Übersetzungen [1766 (Walz)](walz-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn) und [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin).
+keywords:
+  - Sklaverei
+cast:
+  - name: Betty,
+    role: eine junge Wilde.
+    gender: f
+  - name: Belton,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Mowbrai,
+    role: ein Quäker.
+    gender: m
+  - name: Mylford,
+    role: Beltons Freund.
+    gender: m
+  - name: Ein Notar.
+    gender: m
+  - name: John.
+    role: ein Bedienter.
+    gender: m
+setting: >
+  Die Scene ist in Mowbrais Hause, zu Charlestowe, einer englischen Pflanzstadt im nördlichen Amerika.
+---
 slug: pfeffel-die-sclaven-insel
 author:
   name: Pfeffel, Gottlieb Konrad
@@ -7944,6 +8190,55 @@ cast:
   - name: Die Fey Brillantine, mit ihrem Gefolge.
     gender: f
 ---
+slug: schiebeler-die-schule-der-juenglinge
+author:
+  name: Schiebeler, Daniel
+  wikidata: Q1162542
+title: Die Schule der Jünglinge
+subtitle: Eine Comoedie in einem Act
+numberOfScenes: 20
+printed: 1767
+premiered: 1767-03-03
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 217 und 376–377
+editions:
+  - title: "Unterhaltungen. Dritten Bandes Erstes Stück. Hamburg: Bock 1767, S. 279–314"
+    url: https://books.google.com/books?id=25FWmn4KTEMC&pg=PA279
+  - title: "Theater der Deutschen. Sechster Theil. Berlin und Leipzig: Rüdiger 1768, S. 449–483"
+    url: https://books.google.com/books?id=OcVXAAAAcAAJ&pg=PA449
+comments:
+  - 1767 und 1768 ohne Autorangabe gedruckt.
+  - Auch unter den Titeln »Die Schule der Jünglinge. Ein Lustspiel in einem Aufzuge« (»Theater der Deutschen«, 1768) und »Die Schule der Jünglinge. Eine neue Comödie in einem Ackte« (Hamburger Aufführung 1768).
+cast:
+  - name: Damis.
+    role: Ein ausschweifender junger Mensch.
+    gender: m
+  - name: Cleon.
+    gender: m
+  - name: Leander.
+    gender: m
+  - name: Philint.
+    role: Oheim des Damis.
+    gender: m
+  - name: Orgon.
+    role: Ein Mahler.
+    gender: m
+  - name: Alcest.
+    role: Ein Buchhändler.
+    gender: m
+  - name: Sgr. Alessandro Caratta.
+    role: Ein italienischer Sprachmeister.
+    gender: m
+  - name: Heinrich.
+    role: Bedienter des Damis.
+    gender: m
+  - name: Ein andrer Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist im Zimmer des Damis.
+---
 slug: schlegel-anne-dore-oder-die-einquartierung
 author:
   name: Schlegel, Johann Adolf
@@ -8410,7 +8705,7 @@ subtitle: Ein Nachspiel, in einem Aufzuge
 numberOfScenes: 9
 printed: 1764
 formalia:
-  - Verse
+  - Alexandriner
 dictionaries:
   bibliographia: 2. Abteilung, Band 21, S. 194
 editions:
@@ -9287,6 +9582,44 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist ein Theater, von rückwärts zu sehen, die Seitenwande umgedreht, der Vorhang nach hinten. Das Stück spielt am Abend, nach Endigung des Trauerspiels Emilia Galotti.
+---
+slug: walz-die-junge-indianerin
+author:
+  name: Walz, Gottlieb
+title: Die junge Indianerin
+subtitle: Ein Lustspiel in einem Aufzuge. Vom Herrn de Chamfort
+numberOfScenes: 10
+printed: 1766
+premiered: 1767-12-01
+formalia:
+  - Prosa
+basedOn:
+  - "Sébastien-Roch Nicolas de Chamfort: [»La jeune indienne. Comédie en un acte et en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CHAMFORT_LAJEUNEINDIENNE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 145–146
+editions:
+  - title: "Sammlung einiger französischer Lustspiele für das deutsche Theater. Bremen: Cramer 1766"
+    url: https://books.google.com/books?id=itZUAAAAcAAJ&pg=PA1
+comments:
+  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn) und [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin).
+keywords:
+  - Sklaverei
+cast:
+  - name: Betti.
+    gender: f
+  - name: Belton.
+    gender: m
+  - name: Mowbrai.
+    gender: m
+  - name: Mylford.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+  - name: John,
+    role: der Bediente.
+    gender: m
+setting: >
+  Der Schauplatz ist zu Charlestown, einer englischen Colonie in Nordamerica.
 ---
 slug: weiskern-die-wirkung-der-rechtschaffenheit
 author:
