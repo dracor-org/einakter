@@ -6107,6 +6107,54 @@ cast:
   - name: Lisette.
     gender: f
 ---
+slug: lessing-der-schatz
+author:
+  name: Lessing, Gotthold Ephraim
+  wikidata: Q34628
+title: Der Schatz
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 10
+created: 1750
+printed: 1755
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 18, S. 138–144
+editions:
+  - title: "G. E. Leßings Schrifften. Fünfter Theil. Berlin: Voß 1755, S. 189–296"
+    url: https://books.google.com/books?id=oXYHAAAAQAAJ&pg=PA189
+  - title: "Theater der Deutschen. Dritter Theil. Berlin und Leipzig: Rüdiger 1766, S. 433–493"
+    url: https://books.google.com/books?id=j6yXKuup7kQC&pg=PA433
+comments:
+  - "Bearbeitung von Plautus: [»Trinummus«](https://dracor.org/id/rom000010)."
+  - "Weitere Quellen versammelt in: [Paul Albrecht: Leszing’s Plagiate. Dritter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 1098–1267](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081377&seite=148)."
+ids:
+  dracor: ger000249
+  wikidata: Q56255327
+cast:
+  - name: Leander.
+    gender: m
+  - name: Staleno.
+    role: Leanders Vormund.
+    gender: m
+  - name: Philto.
+    role: Ein Alter.
+    gender: m
+  - name: Anselmus.
+    gender: m
+  - name: Lelio.
+    role: Des Anselmus Sohn.
+    gender: m
+  - name: Mascarill.
+    role: Des Lelio Bedienter.
+    gender: m
+  - name: Raps.
+    gender: m
+  - name: Ein Träger.
+    gender: m
+setting: >
+  Die Scene ist auf der Straße.
+---
 slug: lessing-die-juden
 author:
   name: Lessing, Gotthold Ephraim
@@ -6126,6 +6174,8 @@ editions:
     url: https://books.google.com/books?id=XG8HAAAAQAAJ&pg=PA187
   - title: "Carlsruhe: Schmieder 1777, S. 157–219"
     url: https://books.google.com/books?id=SzBgAAAAcAAJ&pg=PA157
+comments:
+  - "Lessings Quellen sind versammelt in: [Paul Albrecht: Leszing’s Plagiate. Zweiter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 864–933](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081376&seite=394)."
 keywords:
   - Judentum
 ids:
@@ -7726,6 +7776,42 @@ cast:
     gender: u
 setting: >
   Der Schauplatz ist auf freyem Felde, welches einer Seits an eine verwildete Waldung stosset.
+---
+slug: schall-trau-schau-wem
+author:
+  name: Schall, Carl
+  wikidata: Q1732794
+title: Trau, schau, wem!
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1817
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 268
+editions:
+  - title: "Breslau: Holäufer 1817"
+    url: https://books.google.com/books?id=BAiQHt-Ad0kC&printsec=frontcover
+  - title: "Deutsche Schaubühne seit Lessing und Schröder bis auf die neueste Zeit. Zwanzigstes Bändchen. Wien: Schade 1826, S. 129–172"
+    url: https://books.google.com/books?id=2Ng8gL3aPwQC&pg=PA129
+comments:
+  - "1826 unter dem Titel »Trau, schau, wem! oder: Wie man sich täuscht. Lustspiel in einem Aufzuge«."
+cast:
+  - name: Die Gräfin.
+    gender: f
+  - name: Der Graf.
+    gender: m
+  - name: Die Baronin.
+    gender: f
+  - name: Der Rittmeister.
+    gender: m
+  - name: Dorchen,
+    role: Kammermädchen der Baronin.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Garten, hinten eine Mauer, vorn in der Mitte ein Apfelbaum, seitwärts eine Rasenbank. Der Rittmeister im Ueberrock, runden Hut und bunten Halstuch, in Pantalons und Schuhen, klettert von außen an der Mauer hinauf, und sieht sich im Garten nach allen Seiten um.
 ---
 slug: scheibe-der-eifersuechtige-schaefer-oder-der-fehler-der-liebe
 author:
