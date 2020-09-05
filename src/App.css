@@ -40,3 +40,9 @@ td ul:last-child, td p:last-child {
   float: right;
   font-size: 90%;
 }
+
+.download {
+  display: inline-block;
+  margin-left: 1.5em;
+  color: black;
+}
