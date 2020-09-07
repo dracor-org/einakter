@@ -2362,6 +2362,39 @@ cast:
 setting: >
   Der Schauplatz ist in des Herrn Pilsters seinem Zimmer. Es ist Samstag 10 Uhr, da sich die Schauspieler gewöhnlich wegen der Gage versammeln.
 ---
+slug: anonym-die-gespenster
+author:
+  pseudonym: Anonym
+title: Die Gespenster
+subtitle: Lustspiel in 1 Akt aus dem Französischen des Moissy
+numberOfScenes: 9
+printed: 1770
+formalia:
+  - Prosa
+basedOn:
+  - "Alexandre-Guillaume de Moissy: [»Les revenants«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOISSY_REVENANTS.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 413–414
+editions:
+  - title: "Des Herrn von Moissy dramatische Werke. Erster Theil. Berlin: Himburg 1775, S. 187–204"
+    url: https://books.google.com/books?id=Ob1CAQAAMAAJ&pg=PA187
+comments:
+  - "Untertitel »Lustspiel in 1 Akt aus dem Französischen des Moissy« in nicht mehr auffindbarer alternativer Ausgabe Berlin: Himburg 1775 (vgl. Meyer)."
+cast:
+  - name: Herr Delmas,
+    role: Vater.
+    gender: m
+  - group:
+      - name: Der ältere Delmas,
+        gender: m
+      - name: Der jüngere Delmas,
+        gender: m
+    role: Brüder, acht oder neun Jahr alt, und nur zwey Jahr von einander unterschieden.
+  - name: Eine Hofmeisterin.
+    gender: f
+setting: >
+  Die Scene ist in dem Gesellschafts-Saal, welcher an eine verschlossene Schlafkammer stößt. Die Handlung fällt um acht Uhr des Abends vor.
+---
 slug: anonym-die-gratien
 author:
   pseudonym: Anonym
@@ -2440,6 +2473,47 @@ cast:
   - name: Perette,
     role: Gotthards Frau.
     gender: f
+---
+slug: anonym-die-unbesonnenheit
+author:
+  pseudonym: Anonym
+title: Die Unbesonnenheit
+subtitle: Ein Lustspiel von einem Aufzuge. Nach dem Französischen des Herrn Fagan
+numberOfScenes: 23
+printed: 1767
+formalia:
+  - Prosa
+basedOn:
+  - "Barthélemy-Christophe Fagan: »L'étourderie. Comédie en un acte et en prose«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 228
+editions:
+  - title: "Gesammelte Schriften zum Vergnügen und Unterricht. Zweyter Jahrgang. Drittes Stück. Wien: Trattner 1767, S. 3–57"
+    url: https://books.google.com/books?id=XBZkAAAAcAAJ&pg=PA3
+cast:
+  - name: Herr von Rosenheim.
+    gender: m
+  - name: Frau von Rosenheim.
+    gender: f
+  - name: Fräulein von Rosenheim,
+    role: Schwester des Herrn von Rosenheim.
+    gender: f
+  - name: Herr von Liebenfeld.
+    gender: m
+  - name: Herr von Actenburg,
+    role: ein Advokat, Liebhaber der Fräulein von Rosenheim.
+    gender: m
+  - name: Herr Vincent,
+    role: Oheim des Herrn von Liebenfeld.
+    gender: m
+  - name: Johann,
+    role: Bedienter des Herrn von Liebenfeld.
+    gender: m
+  - name: Zwey Bediente.
+    isGroup: true
+    gender: m
+setting: >
+  Die Handlung geht in des Herrn von Rosenheim Garten vor. In der Entfernung sieht man ein Lusthaus.
 ---
 slug: anonym-die-unvermuthete-wiederkunft
 author:
@@ -3340,6 +3414,46 @@ cast:
 setting: >
   Hütte des Paria.
 ---
+slug: bergobzoomer-der-officier
+author:
+  name: Bergopzoomer, Johann Baptist
+  wikidata: Q13604014
+title: Der Officier
+subtitle: Ein Nachspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1768
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 26
+editions:
+  - title: "Frankfurt und Leipzig: Metternich 1768"
+    url: https://books.google.com/books?id=SF4x9b-z-wUC&printsec=frontcover
+cast:
+  - name: Lisidor,
+    role: ein versuchter Officier.
+    gender: m
+  - name: Mangold,
+    role: ein reicher Mann.
+    gender: m
+  - name: Barbara,
+    role: seine alte Hausfrau.
+    gender: f
+  - name: Lisette,
+    role: seine Tochter.
+    gender: f
+  - name: Lucinde,
+    role: ihre arme Anverwandte.
+    gender: f
+  - name: Frontin,
+    role: Lisidors Bedienter.
+    gender: m
+  - name: Pernille,
+    role: Mangolds Haushälterin.
+    gender: f
+setting: >
+  Der Schauplatz ist in Mangolds Vorzimmer.
+---
 slug: bertram-der-mondsuechtige-oder-er-verliehrt-seine-braut-im-schlaf
 author:
   name: Bertram, Christian August von
@@ -3381,6 +3495,53 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in einem Landhause des Barons.
+---
+slug: bielfeld-der-ehestand
+author:
+  name: Bielfeld, Jakob Friedrich von
+  wikidata: Q1380341
+title: Der Ehestand
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 18
+printed: 1768
+formalia:
+  - Prosa
+basedOn:
+  - "Jakob Friedrich von Bierling: [»Le mariage. Comédie en un acte, imitée d'une pièce Hollandoise qui porte le même titre«](https://books.google.com/books?id=aCyXcNEb6vkC&pg=PA271)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 30
+editions:
+  - title: "Des Freyherrn von Bielfelds dramatische Belustigungen. Erster Band. Danzig und Leipzig: Wedel 1768, S. 315–382"
+    url: https://books.google.com/books?id=YV_FrwdTCZcC&pg=PA315
+comments:
+  - "Wiederholung des Titels direkt vor Textbeginn im Band 1768: »Ein Lustspiel in einem Aufzuge. Nach dem Holländischen Stücke, das eben den Namen führt.«"
+cast:
+  - name: Hieronymus.
+    gender: m
+  - name: Frau Hieronymus,
+    role: seine Frau.
+    gender: f
+  - name: Isabelle,
+    role: ihre Tochter, Geliebte des Valers.
+    gender: f
+  - name: Leander,
+    role: ihr Sohn, Liebhaber der Julie.
+    gender: m
+  - name: Julie.
+    gender: f
+  - name: Valer.
+    gender: m
+  - name: Olive,
+    role: Bedienter des Valers.
+    gender: m
+  - name: Marthe,
+    role: eine alte Hausmagd bey Hrn. Hieronymus (hinkend).
+    gender: m
+  - name: Ein Mäkler,
+    role: (stotternd).
+    gender: m
+setting: >
+  Die Handlung geht in dem Hause des Herrn Hieronymus vor sich.
 ---
 slug: bierling-der-sicilier-oder-die-liebe-ein-maler
 author:
@@ -4845,6 +5006,52 @@ cast:
 setting: >
   Die Handlung geht in Wien vor.
 ---
+slug: herrl-der-faschingsstreich
+author:
+  name: Herrl, Johann Joseph von
+  wikidata: Q95216741
+title: Der Faschingsstreich
+subtitle: Ein Lustspiel von einem Aufzuge, nebst einem Ballete, nach den Französischen des Herrn v. Allainval
+numberOfScenes: 16
+printed: 1767
+premiered: 1767-02-21
+formalia:
+  - Prosa
+basedOn:
+  - "Léonor Soulas d'Allainval: »Le tour de carnaval. Comédie en un acte et en prose«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 313–314
+editions:
+  - title: "Wien: Kraus 1767"
+    url: https://books.google.com/books?id=T1E7AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Fr v. Richard,
+    role: Wittwe eines Landraths zu Laibach.
+    gender: f
+  - name: Marianne,
+    role: ihre Tochter.
+    gender: f
+  - name: Clitander,
+    role: Hauptmann, Mariannens Liebhaber.
+    gender: m
+  - name: Hr. v. Thorinrath,
+    role: Landrathsbeysitzer zu Laibach.
+    gender: m
+  - name: Hannswurst,
+    role: Fourierschütz, Clitanders Diener.
+    gender: m
+  - name: Lisette,
+    role: Mariannens Dienstmädchen.
+    gender: f
+  - name: Christoph,
+    role: ein Lehnlackey.
+    gender: m
+  - name: Tänzer und Tänzerinnen
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geht in einem Gasthofe zu Wien vor.
+---
 slug: heufeld-von-kritik-ueber-den-geburtstag
 author:
   name: Heufeld, Franz von
@@ -6065,6 +6272,42 @@ cast:
     gender: u
 setting: >
   Die Schaubühne stellet ein Meer an einer Seite vor, auf der andern einige Bäume und Häuser.
+---
+slug: kurz-die-frohlockenden-schaefer
+author:
+  name: Kurz, Joseph Felix von
+  wikidata: Q15441252
+title: Die frohlockenden Schäfer
+subtitle: Ein Musicalisches Vorspiel in einem Aufzuge
+numberOfScenes: 4
+printed: 1768
+premiered: 1768-11-03
+formalia:
+  - Verse
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 84
+editions:
+  - title: "Mannheim: Akademische Buchdruckerey [1768]"
+cast:
+  - name: Der JENIUS von Churpfaltz.
+    gender: m
+  - name: THYRSIS
+    role: ein alter Schäffer.
+    gender: m
+  - group:
+      - name: SELADON
+        gender: m
+      - name: DAMOET
+        gender: m
+      - name: MARGARIS
+        gender: f
+      - name: SILVIA
+        gender: f
+    role: seine Kinder.
+  - name: viele Schäffer.
+    isGroup: true
+    gender: u
 ---
 slug: laub-das-arabische-pulver
 author:
