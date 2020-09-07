@@ -3543,6 +3543,56 @@ cast:
 setting: >
   Salomos Hausflur.
 ---
+slug: brandes-der-hypochonder
+author:
+  name: Brandes, Johann Christian
+  wikidata: Q112511
+title: Der Hypochonder
+subtitle: Ein Lustspiel in einem Aufzuge
+printed: 1767
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 245–246
+editions:
+  - title: "Die geprüfte und belohnte Treue ein moralisches Lustspiel in drey Aufzügen nebst einem lustigen Nachspiele der Hypochonder in einem Aufzuge. Berlin: Birnstiel 1767, S. 165–224"
+    url: https://books.google.com/books?id=7-tKAAAAcAAJ&printsec=frontcover
+comments:
+  - Nachspiel zu »Die geprüfte und belohnte Treue. Ein moralisches Lustspiel in drey Aufzügen« von Brandes.
+cast:
+  - name: Herr Finster.
+    gender: m
+  - name: Mariane,
+    role: dessen Tochter.
+    gender: f
+  - name: Louise,
+    role: ihr Mägdchen.
+    gender: f
+  - name: Herr Freundlich,
+    role: der Mariane Liebhaber.
+    gender: m
+  - name: Christoph,
+    role: des Herrn Finsters Bedienter.
+    gender: m
+  - group:
+      - name: Herr Pille,
+        gender: m
+      - name: Herr Blutstrohm,
+        gender: m
+      - name: Herr Seelvoll,
+        gender: m
+    role: drey Aerzte.
+  - name: Herr Presse,
+    role: ein Buchführer.
+    gender: m
+  - name: Herr Rennfuß,
+    role: ein Zeitungsträger.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+setting: >
+  Die Handlung ist in des Herrn Finsters Hause.
+---
 slug: brandes-die-entfuehrung
 author:
   name: Brandes, Johann Christian
@@ -5235,6 +5285,42 @@ cast:
     gender: m
   - name: Erast.
     gender: m
+---
+slug: klemm-der-triumph-clarissens
+author:
+  name: Klemm, Christian Gottlob
+  wikidata: Q21156171
+title: Der Triumph Clarissens
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1767
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 322
+editions:
+  - title: "Christian Gottlob Klemms Beyträge zum Deutschen Theater. Erster Band. Wien: Trattner 1767, S. 475–494"
+    url: https://books.google.com/books?id=4ttiAAAAcAAJ&pg=PA475
+comments:
+  - "Fußnote zum Titel: »Aus einer kleinen Erzählung der Landbibliothek.«"
+cast:
+  - name: Der Graf Clitander.
+    gender: m
+  - name: Fräulein Clarisse,
+    role: seine Geliebte.
+    gender: f
+  - name: Graf Cleant,
+    role: Clarissens Bruder.
+    gender: m
+  - name: Freyinn Climene,
+    role: Clarissens Tante.
+    gender: f
+  - name: Tarquin,
+    role: Bedienter Clitanders.
+    gender: m
+  - name: Cleone,
+    role: Mädchen Clarissens.
+    gender: f
 ---
 slug: klemm-die-buergerliche-heurath
 author:
@@ -8190,6 +8276,43 @@ cast:
   - name: Die Fey Brillantine, mit ihrem Gefolge.
     gender: f
 ---
+slug: schiebeler-die-muse
+author:
+  name: Schiebeler, Daniel
+  wikidata: Q1162542
+title: Die Muse
+subtitle: Eine Comödie in einem Act
+numberOfScenes: 8
+printed: 1767
+premiered: 1767-10-03
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 376
+editions:
+  - title: "Musikalische Gedichte von S***. Hamburg: Bock 1770, S. 67–84"
+    url: https://books.google.com/books?id=oEllAAAAcAAJ&pg=PA67
+  - title: "Neue Sammlung zum Vergnügen und Unterricht. Eilftes Stück. Wien: Gräffer 1769, S. 3–19"
+    url: "https://gdz.sub.uni-goettingen.de/id/PPN730575225?tify={\"pages\":[173]}"
+cast:
+  - name: Chremes.
+    role: Ein reicher Athenienser.
+    gender: m
+  - name: Phaedria.
+    role: Sein Sohn.
+    gender: m
+  - name: Monime.
+    role: Ein junges Frauenzimmer in Phaedria verliebt.
+    gender: f
+  - name: Euphrosine.
+    role: Sclavin des Chremes.
+    gender: f
+  - name: Syrus.
+    role: Sclav des Chremes.
+    gender: m
+setting: >
+  Der Schauplatz ist in Chremes Hause.
+---
 slug: schiebeler-die-schule-der-juenglinge
 author:
   name: Schiebeler, Daniel
@@ -8238,6 +8361,35 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist im Zimmer des Damis.
+---
+slug: schiebeler-die-wahre-liebe
+author:
+  name: Schiebeler, Daniel
+  wikidata: Q1162542
+title: Die wahre Liebe
+subtitle: Eine Comoedie in einem Akt
+numberOfScenes: 5
+printed: 1767
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 22, S. 375–376
+editions:
+  - title: "Leipzig: Breitkopf 1767"
+cast:
+  - name: Lucinde.
+    gender: f
+  - name: Nerine.
+    role: Ihre Bediente.
+    gender: f
+  - group:
+      - name: Arist.
+        gender: m
+      - name: Valer.
+        gender: m
+    role: Lucindens Liebhaber.
+setting: >
+  Der Schauplatz ist in Lucindens Zimmer.
 ---
 slug: schlegel-anne-dore-oder-die-einquartierung
 author:
