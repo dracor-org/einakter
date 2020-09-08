@@ -351,6 +351,42 @@ cast:
 setting: >
   Die Scene ist in einer Provinzial-Stadt.
 ---
+slug: anonym-das-gedicht-oder-das-fruehstueck-der-academisten
+author:
+  pseudonym: Anonym
+title: Das Gedicht, oder das Frühstück der Academisten
+subtitle: Lustspiel in 1 A. des Moissy
+numberOfScenes: 3
+printed: 1775
+formalia:
+  - Prosa
+basedOn:
+  - "Alexandre-Guillaume de Moissy: [»La pièce de vers ou le déjeuner des académistes«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOISSY_PIECEDEVERS.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 462–463
+editions:
+  - title: "Des Herrn von Moissy dramatische Werke. Erster Theil. Berlin: Himburg 1775, S. 221–234"
+    url: https://books.google.com/books?id=Ob1CAQAAMAAJ&pg=PA221
+comments:
+  - 1770 weitere Übersetzung unter dem Titel »Das Stück in Versen, oder das Frühstück der Akademisten«.
+  - "Untertitel »Lustspiel in 1 A. des Moissy« laut Meyer in der ihm zufolge nicht mehr auffindbaren Einzelausgabe ›Berlin: Himburg 1775‹, offenbar eine Auskopplung aus dem Sammelband vom selben Verlag aus denselbem Jahr."
+cast:
+  - name: Herr Gerngroß.
+    gender: m
+  - group:
+      - name: Herr Kluge,
+        gender: m
+      - name: Herr Fein,
+        gender: m
+    role: Pensionairs auf einer hohen Schule, siebenzehn bis zwanzig Jahr alt.
+  - name: Herr Paulwitz.
+    gender: m
+  - name: Herr Roßschweif,
+    role: Stallmeister, und Maitre dieser hohen Schule.
+    gender: m
+setting: >
+  Die Scene ist in dem Zimmer des Herrn Kluge, wo ein zubereiteter Tisch stehet, an welchem fünf Personen frühstücken sollen. Die Handlung gehet um zehn Uhr des Morgens vor sich.
+---
 slug: anonym-das-kaffee-haus-zu-paris
 author:
   pseudonym: Anonym
@@ -2379,7 +2415,7 @@ editions:
   - title: "Des Herrn von Moissy dramatische Werke. Erster Theil. Berlin: Himburg 1775, S. 187–204"
     url: https://books.google.com/books?id=Ob1CAQAAMAAJ&pg=PA187
 comments:
-  - "Untertitel »Lustspiel in 1 Akt aus dem Französischen des Moissy« in nicht mehr auffindbarer alternativer Ausgabe Berlin: Himburg 1775 (vgl. Meyer)."
+  - "Untertitel »Lustspiel in 1 Akt aus dem Französischen des Moissy« laut Meyer in der ihm zufolge nicht mehr auffindbaren Einzelausgabe ›Berlin: Himburg 1775‹, offenbar eine Auskopplung aus dem Sammelband vom selben Verlag aus denselbem Jahr."
 cast:
   - name: Herr Delmas,
     role: Vater.
@@ -2473,6 +2509,41 @@ cast:
   - name: Perette,
     role: Gotthards Frau.
     gender: f
+---
+slug: anonym-die-glueckliche-ueberschwemmung
+author:
+  pseudonym: Anonym
+title: Die glückliche Überschwemmung
+subtitle: Ein ländliches Schauspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1799
+formalia:
+  - Prosa
+editions:
+  - title: "Leipzig: Kummer 1799"
+    url: https://books.google.com/books?id=ZumtSnlN66YC&printsec=frontcover
+cast:
+  - name: Herr von Kronenburg.
+    gender: m
+  - name: Herr Treublut,
+    role: sein Freund.
+    gender: m
+  - name: Der Oberförster Schwarze.
+    gender: m
+  - name: Martin,
+    role: dessen Sohn, Jägerbursche.
+    gender: m
+  - name: Vater Jürge,
+    role: ein Bauer.
+    gender: m
+  - name: Mutter Barbara,
+    role: dessen Frau.
+    gender: f
+  - name: Suschen,
+    role: dessen Muhme.
+    gender: f
+setting: >
+  Das Theater stellt einen offnen Dorfplatz vor, an der Seite ist Jürgens elende Hütte, im Hintergrunde ein ausgetretener Fluß mit Feldfrüchten bedeckt.
 ---
 slug: anonym-die-unbesonnenheit
 author:
@@ -2726,6 +2797,43 @@ cast:
   - name: Elisabeth,
     role: als Hauptmann verkleidet.
     gender: f
+---
+slug: anonym-die-vorurtheile
+author:
+  pseudonym: Anonym
+title: Die Vorurtheile
+subtitle: Lustspiel in 1 A. aus dem Französischen des Moissy
+numberOfScenes: 3
+printed: 1775
+formalia:
+  - Prosa
+basedOn:
+  - "Alexandre-Guillaume de Moissy: [»Les préjugés«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOISSY_PREJUGES.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 476
+editions:
+  - title: "Des Herrn von Moissy dramatische Werke. Erster Theil. Berlin: Himburg 1775, S. 251–266"
+    url: https://books.google.com/books?id=Ob1CAQAAMAAJ&pg=PA251
+comments:
+  - "Untertitel »Lustspiel in 1 A. aus dem Französischen des Moissy« laut Meyer in der ihm zufolge nicht mehr auffindbaren Einzelausgabe ›Berlin: Himburg 1775‹, offenbar eine Auskopplung aus dem Sammelband vom selben Verlag aus denselbem Jahr."
+cast:
+  - name: Mamsel Lanet,
+    role: eine junge Person von siebenzehn Jahren.
+    gender: f
+  - name: Frau Hutin,
+    role: Aufseherin über die Erziehung der jungen Person.
+    gender: f
+  - name: Der junge Dorm,
+    role: neunzehn Jahr alt.
+    gender: m
+  - name: Herr Dorm,
+    role: Onkel des jungen Menschen.
+    gender: m
+  - name: Herr Dau,
+    role: Halbbruder des jungen Dorm.
+    gender: f
+setting: >
+  Die Scene ist in dem Saale des Herrn Dorm des Onkels, in einem Hause, welches ihm und der Frau Hutin gemeinschaftlich zugehöret. Die Handlung fängt des Morgens um eilf Uhr an.
 ---
 slug: anonym-die-zeitungen
 author:
@@ -6999,6 +7107,38 @@ cast:
 setting: >
   Der Schauplatz ist in dem Hause des Herrn Hieronymus.
 ---
+slug: mathesius-die-herrschaft-der-weiber
+author:
+  name: Mathesius, Siegmund Immanuel
+title: Die Herrschaft der Weiber
+subtitle: Ein Nachspiel in Einem Aufzug
+numberOfScenes: 13
+printed: 1768
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 109–110
+editions:
+  - title: "Frankfurt und Leipzig 1768"
+    url: https://books.google.com/books?id=9OxYAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Geronte.
+    gender: m
+  - name: Melusine,
+    role: dessen Frau.
+    gender: f
+  - name: Lorgen,
+    role: dessen Tochter.
+    gender: f
+  - name: Anton,
+    role: Gerichtssecretair.
+    gender: m
+  - name: Damis.
+    gender: m
+  - name: Heinrich,
+    role: dessen Bedienter.
+    gender: m
+---
 slug: marsano-der-phlegmatiker
 author:
   name: Marsano, Wilhelm von
@@ -10131,6 +10271,47 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist auf des Herrn von Busch Landguthe.
+---
+slug: weisse-grossmuth-fuer-grossmuth
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Großmuth für Großmuth
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+created: 1768
+printed: 1768
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 173–174
+editions:
+  - title: "Leipzig: Dyk 1768"
+    url: https://books.google.com/books?id=h9dUAAAAcAAJ&printsec=frontcover
+  - title: "Lustspiele von C. F. Weiße. Erster Theil. Carlsruhe: Schmieder 1778, S. 261–328"
+    url: https://books.google.com/books?id=7o-oa4DCwVsC&pg=PA261
+  - title: "Lustspiele von C. F. Weiße. Dritter Band. Neu überarbeitet. Leipzig: Dyk 1783, S. 131–192"
+    url: https://books.google.com/books?id=6K5eAAAAcAAJ&pg=PA131
+comments:
+  - 1783 mit dem verkürzten Untertitel »In Einem Aufzuge« (1783).
+cast:
+  - name: Treuwerth,
+    role: ein junger Kaufmann.
+    gender: m
+  - name: Fr. Konstantia Solms,
+    role: eine junge reiche Wittwe.
+    gender: f
+  - name: Karoline Seyton,
+    role: ein junges Frauenzimmer.
+    gender: f
+  - name: Hannchen,
+    role: ihr Mägdchen.
+    gender: f
+  - name: Anton,
+    role: ein alter Bedienter der Frau Solms.
+    gender: m
+setting: >
+  Der Schauplatz ist in der Frau Solms Hause.
 ---
 slug: wichmann-der-dervisch
 author:
