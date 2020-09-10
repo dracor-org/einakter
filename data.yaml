@@ -2927,6 +2927,39 @@ cast:
 setting: >
   Die Handlung ist in des Herrn Erichthons Hause.
 ---
+slug: anonym-fanny
+author:
+  pseudonym: Anonym
+title: Fanny
+subtitle: Ein tragisches Nachspiel in einem Aufzuge, dem Herrn Hofrath Uber gewidmet
+numberOfScenes: 5
+printed: 1772
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 449
+editions:
+  - title: "Breßlau: Gutsch 1772"
+    url: https://books.google.com/books?id=IyNVAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Fanny,
+    role: die Mutter.
+    gender: f
+  - name: Lucia,
+    role: ihre Tochter.
+    gender: f
+  - name: Martha,
+    role: ihre Begleiterin.
+    gender: f
+  - name: Lentley,
+    role: Gemahl der Fanny.
+    gender: m
+  - name: Reevens,
+    role: Freund des Lentley.
+    gender: m
+setting: >
+  Die Handlung ist in einem Walde an einem dicht mit Bäumen besetzten Orte.
+---
 slug: anonym-krispin-der-geplagte-lehenbediente
 author:
   pseudonym: Anonym
@@ -4488,6 +4521,50 @@ cast:
 setting: >
   Die Scene ist in dem Garten des Herrn Philidor, der an sein Haus stößt.
 ---
+slug: falcke-braitwell
+author:
+  name: Falcke, Ernst Friedrich Hektor
+  wikidata: Q1358149
+title: Braitwell
+subtitle: Ein bürgerliches Trauer-Spiel, in einem Aufzuge
+numberOfScenes: 10
+printed: 1769
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 285
+editions:
+  - title: "Frankfurt und Leipzig: Krieger 1769"
+    url: https://books.google.com/books?id=obRgAAAAcAAJ&printsec=frontcover
+keywords:
+  - Tugend
+  - Religion
+  - Sklaverei
+cast:
+  - name: John Braitwell,
+    role: ein Englischer Kaufmann.
+    gender: m
+  - name: Braitwell,
+    role: sein Sohn.
+    gender: m
+  - name: Clary,
+    role: des jungen Braitwells Gemahlin.
+    gender: f
+  - name: Truheart,
+    role: der Clary Bruder, und Freund des Braitwell.
+    gender: m
+  - name: Alquer,
+    role: ein Gouverneur der Insel der Seeräuber.
+    gender: m
+  - name: Selim,
+    role: Aufseher über die Sklaven.
+    gender: m
+  - name: Einige Sklaven.
+    isGroup: true
+    gender: m
+setting: >
+  Das Theater stellt einen Theil vom See Ufer vor. Wo an der einen Seite vorwärts, ein Stein von mittelmäßiger Grösse liegt; hinten hat man die Aussicht auf die See.
+---
 slug: franke-die-trauer
 author:
   name: Franke, Christian Wilhelm
@@ -5065,6 +5142,46 @@ cast:
 setting: >
   Die Handlung spielt zu Merlü gleich nach Mittage.
 ---
+slug: hebenstreit-von-streitenfeld-marie-und-emilie
+author:
+  name: Hebenstreit von Streitenfeld, Karl
+  wikidata: Q94692383
+title: Marie und Emilie
+subtitle: Ein Trauerspiel in einem Aufzuge
+numberOfScenes: 20
+printed: 1778
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 166
+editions:
+  - title: "Prag: Mangoldt 1778"
+    url: https://books.google.com/books?id=T1nVG73eJE8C&printsec=frontcover
+keywords:
+  - Mord
+  - Rache
+  - Eifersucht
+cast:
+  - name: Marie.
+    gender: f
+  - name: Emilie.
+    gender: f
+  - name: Montrose.
+    gender: m
+  - name: Orlando,
+    role: Marchese di Lavora.
+    gender: m
+  - name: Grimaldi.
+    gender: m
+  - name: Betruschio.
+    gender: m
+  - name: Laura.
+    gender: f
+  - name: Bedienter.
+    gender: m
+setting: >
+  Die Scene ist ein Spielhaus.
+---
 slug: hensler-der-geschwaetzige-barbier
 author:
   name: Hensler, Karl Friedrich
@@ -5398,6 +5515,59 @@ cast:
     gender: m
   - name: Franz, Rosensteins Bedienter
     gender: m
+---
+slug: jester-das-duell-oder-das-junge-ehepaar
+author:
+  name: Jester, Friedrich Ernst
+  pseudonym: Anonym
+  wikidata: Q105238
+title: Das Duell, oder das junge Ehepaar
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 17
+printed: 1769
+premiered: 1769-06-13
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 209–210
+editions:
+  - title: "[Wien]: 1769"
+    url: https://books.google.com/books?id=jUN_gaVRdAYC&printsec=frontcover
+  - title: "Zweyte verbesserte Auflage. Frankfurth und Leipzig 1771"
+    url: https://books.google.com/books?id=Oq1brC-O5_IC&printsec=frontcover
+  - title: "Theater der Deutschen. Eilfter Theil. Königsberg und Leipzig: Kanter 1772, S. 93–130"
+    url: https://books.google.com/books?id=5FVoV1VvtC0C&pg=PA93
+comments:
+  - "Autorschaft erschlossen via »Das gelehrte Teutschland«."
+cast:
+  - name: Herr von Whigall,
+    role: ein gewesener Offizier.
+    gender: m
+  - name: Frau von Whigall.
+    gender: f
+  - name: Herr von Brostenthal,
+    role: Vater der Frau von Whigall.
+    gender: m
+  - name: Herr von Brostenthal Sohn,
+    role: Hauptmann.
+    gender: m
+  - name: Herr von Milson,
+    role: Hauptmann unter eben dem Regiment.
+    gender: m
+  - name: Johann,
+    role: Bedienter des Herrn von Whigall.
+    gender: m
+  - name: Lisette,
+    role: Mädchen der Frau von Whigall.
+    gender: f
+  - name: Jakob,
+    role: Bedienter des alten Herrn von Brostenthal.
+    gender: m
+  - name: Ein Bedienter,
+    role: des Hauptmann von Brostenthal.
+    gender: m
+setting: >
+  Das Stück spielt an einem kleinen Orte ohnweit der Grentze. Das Theater stellet ein Zimmer in dem Hause des Herrn von Whigall, neben seinem Schlafzimmer vor. Es ist ein Spiegel im Zimmer, unter selbigem hängen zwey kleine Portraits.
 ---
 slug: juenger-die-komoedie-aus-dem-stegreife
 author:
