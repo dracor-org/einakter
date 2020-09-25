@@ -4163,6 +4163,7 @@ comments:
     zum Umfeld E. T. A. Hoffmanns gehörte.
 keywords:
   - Judentum
+  - Antisemitismus
 ids:
   dracor: ger000489
   wikidata: Q89888632
@@ -9432,14 +9433,19 @@ author:
 title: Unser Verkehr
 subtitle: Eine Posse in einem Akt
 numberOfScenes: 23
-created: 1813
 printed: 1815
-premiered: 1813
+premiered: 1813-02-13
 formalia:
   - Prosa
 editions:
   - title: "Wien: Haas [um 1815]"
     url: https://books.google.com/books?id=h2BVAAAAcAAJ&printsec=frontcover
+  - title: "Leipzig: Dyk 1815"
+    url: https://books.google.com/books?id=kF30d7DBLlUC&printsec=frontcover
+  - title: "Dritte Auflage mit einigen Zusätzen. Leipzig: Dyk 1816"
+    url: https://books.google.com/books?id=qZN-fbthiWgC&printsec=frontcover
+  - title: "Leipzig: Reclam [1869]"
+    url: https://nbn-resolving.de/urn:nbn:de:hbz:6:1-211505
 comments:
   - 1813 unter dem Titel »Die Judenschule« (unter dem Pseudonym Samson Eidechs) uraufgeführt.
   - "Es wurden mehrere Gegenstücke geschrieben: Julius von Voß: [»Euer Verkehr: Posse in einem Aufzuge. Gegenstück zur Judenschule oder Unserm Verkehr, von Herrn Dr. Sessa«](voss-euer-verkehr) (1817); Simon Höchheimer: [»Der Spiegel für Israeliten. Ein Gegenstück zu der Posse: ›Unser Verkehr‹«](http://resolver.staatsbibliothek-berlin.de/SBB00003C5B00000000) (1817); [»Aaron in der Klemme oder der Bräutigam als Braut. Ein Schauspiel mit Ernst und Scherz in drei Aufzügen«](https://books.google.com/books?id=JBXoCYDsOEUC&printsec=frontcover) (1818); Carl Friedrich Solbrig: [»Die Judenschaft in der Klemme. Eine Posse in einem Akt. Seitenstück zu: Unser Verkehr«](solbrig-die-judenschaft-in-der-klemme) (1819); J. Treuherz jun. (Hrsg.): [»Die Verlobung oder Der Bräutigam im Felleisen. Fastnachts-Posse in jüdischer Mundart in einem Aufzuge. Ein Seitenstück zu Unser Verkehr«](anonym-die-verlobung-oder-der-braeutigam-im-felleisen) (1833)."
@@ -9447,6 +9453,9 @@ keywords:
   - Judentum
   - Antisemitismus
   - Lotto
+ids:
+  wikidata: Q99601642
+  dracor: ger000503
 cast:
   - name: Herr Polckwitzer,
     role: ein reicher Jude.
@@ -10482,6 +10491,52 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in der Frau Solms Hause.
+---
+slug: weisse-weibergeklatsche-oder-ein-qui-pro-quo
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Weibergeklatsche oder ein Qui pro Quo
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 18
+printed: 1769
+premiered: 1769-10-12
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 362–363
+editions:
+  - title: "Lustspiele von C. F. Weiße. Zweyter Theil. Carlsruhe: Schmieder 1778, S. 429–490"
+    url: https://books.google.com/books?id=CBEzAQAAMAAJ&pg=PA429
+comments:
+  - "Aufführung 1769 unter dem Titel »Weibergeklatsche, oder ein Qui pro Quo. Eine Comödie des Herrn Weisse in einem Akt«."
+cast:
+  - name: Herr Gutmann,
+    role: ein Kaufmann.
+    gender: m
+  - name: Mamsell Luise,
+    role: dessen Tochter.
+    gender: f
+  - name: Jungfer Aelsterinn,
+    role: eine Verwandtinn von Gutmann.
+    gender: f
+  - name: Jungfer Bachstelzinn,
+    role: eine Putzmacherinn.
+    gender: f
+  - name: Mamsell Dohlinn,
+    role: Tochter eines Finanzraths.
+    gender: f
+  - name: Herr Ferdinand,
+    role: der Luise Bräutigam.
+    gender: m
+  - name: Johann,
+    role: dessen Bedienter.
+    gender: m
+  - name: Hannchen,
+    role: der Luise Mädchen.
+    gender: f
+setting: >
+  Der Schauplatz ist auf einem obern Saale in Herrn Gutmanns Hause.
 ---
 slug: wichmann-der-dervisch
 author:
