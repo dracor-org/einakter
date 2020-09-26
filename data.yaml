@@ -6588,6 +6588,113 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: la-roche-damon-und-pythias
+author:
+  name: La Roche, David
+title: Damon und Pythias
+subtitle: Ein Trauerspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1768
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 86
+editions:
+  - title: "Dramatische und andere Gedichte von ***. Zürich: Füeßlin und Compagnie 1768, S. 1–26"
+    url: https://books.google.com/books?id=1n86AAAAcAAJ&pg=PA1
+comments:
+  - Einakter-Trauerspiel [mit demselben Titel](pfeffel-damon-und-pythias) von Pfeffel (1769).
+keywords:
+  - Freundschaft
+cast:
+  - name: Dionysius,
+    role: Tyrann zu Syrakusa.
+    gender: m
+  - name: Damon.
+    gender: m
+  - name: Pythias.
+    gender: f
+  - name: Philokles,
+    role: einer vom Hofe des Dionysius.
+    gender: m
+  - name: Ein Bothe.
+    gender: m
+  - name: Die Wache.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist zu Syrakusa, in dem Pallaste des Dionysius.
+---
+slug: la-roche-man-fuerchtet-sich-oft-vor-seinem-eigenen-schatten
+author:
+  name: La Roche, David
+title: Man fürchtet sich oft vor seinem eigenen Schatten
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1768
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 86–87
+editions:
+  - title: "Dramatische und andere Gedichte von ***. Zürich: Füeßlin und Compagnie 1768, S. 27–58"
+    url: https://books.google.com/books?id=1n86AAAAcAAJ&pg=PA27
+cast:
+  - name: Frau von Reichlieb,
+    role: eine Wittwe.
+    gender: f
+  - name: Fräulein Euphemia,
+    role: ihre Tochter.
+    gender: f
+  - name: Orgon.
+    gender: m
+  - name: Seebald,
+    role: Euphemiens Liebhaber.
+    gender: m
+  - name: Lisette,
+    role: Kammermägdchen.
+    gender: f
+  - name: Johann,
+    role: Seebalds Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist in dem Hause der Frau von Reichlieb.
+---
+slug: la-roche-nomares
+author:
+  name: La Roche, David
+title: Nomares
+subtitle: Ein Trauerspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1768
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 87
+editions:
+  - title: "Dramatische und andere Gedichte von ***. Zürich: Füeßlin und Compagnie 1768, S. 59–86"
+    url: https://books.google.com/books?id=1n86AAAAcAAJ&pg=PA59
+cast:
+  - name: Nomares,
+    role: Befehlshaber auf einer von Wilden bewohnten Insel.
+    gender: m
+  - name: Zelamor,
+    role: dessen Freund.
+    gender: m
+  - name: Lady Reetley.
+    gender: f
+  - name: Lord Syllmont,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Zween Sklaven.
+    isGroup: true
+    gender: m
+  - name: Die Wache.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist eine mit Bäumen besetzte Gegend. Auf der einen Seite zeigt sich ein Theil der Wohnung des Nomares nebst einem bedeckten Gange. In der hintern Vertiefung erblickt man das Meer.
+---
 slug: laub-das-arabische-pulver
 author:
   name: Laub, Johann Georg
@@ -7277,6 +7384,49 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in dem Hause des Herrn Hieronymus.
+---
+slug: loewen-die-neue-agnese
+author:
+  name: Löwen, Johann Friedrich
+  wikidata: Q103936
+title: Die neue Agnese
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1768
+premiered: 1767-04-28
+formalia:
+  - Prosa
+basedOn:
+  - "Charles-Simon Favart: »Isabelle et Gertrude, ou Les sylphes supposés. Comédie en un acte«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 100–101
+editions:
+  - title: "Hamburgische Unterhaltungen. Sechsten Bandes Fünftes Stück. Hamburg: Bock 1768, S. 363–393"
+    url: http://digital.slub-dresden.de/id373291167-17680600/377
+  - title: "[Wien 1769]"
+    url: https://books.google.com/books?id=hCNVAAAAcAAJ&printsec=frontcover
+comments:
+  - Auch unter den Titeln »Die neue Agnese, ein Nachspiel in einem Akte« und »Die neue Agnese. Eine neue Comödie in einem Aufzuge«.
+keywords:
+  - Rolle der Frau
+  - Eheanbahnung
+cast:
+  - name: Madame Gerdrut,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Jgfr. Agnese,
+    role: ihre Tochter.
+    gender: f
+  - name: Mangold,
+    role: ein reicher Pächter, und Bruder des
+    gender: m
+  - name: Richard,
+    role: Vater des
+    gender: m
+  - name: Valentin.
+    gender: m
+setting: >
+  Der Schauplatz stellt den Eingang in den Garten der Madame Gerdrut vor, und an dessen Seite ein kleines Gartenhaus.
 ---
 slug: mathesius-die-herrschaft-der-weiber
 author:
@@ -8191,6 +8341,52 @@ cast:
     gender: m
 setting: >
  Der Schauplatz ist auf dem Landhause des Fräuleins von Schönleben. Die Bühne stellt einen Garten vor, worein man aus dem Saale des Schlosses kommen kann, der sich in der Vertiefung oder in einem von den Winkeln des Theaters zeiget.
+---
+slug: pfeffel-damon-und-pythias
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q77742
+title: Damon und Pythias
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1769
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 326
+editions:
+  - title: "Dramatische Kinderspiele. Strasburg: Bauer 1769, S. 1–24"
+    url: https://books.google.com/books?id=FhBQAAAAcAAJ&pg=PA1
+  - title: "Theater der Deutschen. Zehnter Theil. Königsberg und Leipzig: Kanter 1771, S. 411–423"
+    url: https://books.google.com/books?id=rdpVAAAAcAAJ&pg=PA411
+comments:
+  - Einakter-Trauerspiel [mit demselben Titel](la-roche-damon-und-pythias) von David La Roche (1768).
+  - Untertitel »Ein Lustspiel in einem Aufzuge« ab 1771.
+keywords:
+  - Freundschaft
+cast:
+  - name: Dionys,
+    role: Tyrann zu Syrakus.
+    gender: m
+  - group:
+      - name: Damon,
+        gender: m
+      - name: Pythias,
+        gender: m
+    role: zween Freunde.
+  - name: Gelon,
+    role: Dionysens Günstling.
+    gender: m
+  - name: Palinur,
+    role: ein Schiffshauptmann.
+    gender: m
+  - name: Argus,
+    role: der Hauptmann der Wache.
+    gender: m
+  - name: Die Wache.
+    gender: u
+setting: >
+  Der Schauplatz ist in Dionysens Pallaste.
 ---
 slug: platen-berengar
 author:
