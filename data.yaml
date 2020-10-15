@@ -228,6 +228,47 @@ cast:
 setting: >
   Der Schauplatz ist in einem alten Schlosse.
 ---
+slug: anonym-apolls-gericht-oder-das-bestrafte-vorurtheil-vindebonens
+author:
+  pseudonym: Anonym
+title: Apolls Gericht, oder das bestrafte Vorurtheil Vindebonens
+subtitle: Ein allegorisches Drama in einem Akte von einem Wiener
+numberOfScenes: 5
+printed: 1769
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 215–216
+editions:
+  - title: "Wien: Kurzböck 1769"
+    url: https://books.google.com/books?id=s2tVAAAAcAAJ&printsec=frontcover
+comments:
+  - Ursprünglich als Vorspiel verfasst.
+keywords:
+  - allegorische Figuren
+  - Theaterbetrieb
+cast:
+  - name: Apollo.
+    gender: m
+  - name: Der Genius Vindebonens.
+    gender: m
+  - name: Das deutsche Schauspiel.
+    gender: u
+  - name: Das Französische Schauspiel.
+    gender: u
+  - name: Der Patriotismus.
+    gender: u
+  - name: Das Vorurtheil Vindebonens,
+    role: als petit maitre gekleidet.
+    gender: u
+  - name: Die Kritik.
+    gender: u
+  - name: Gefolge des Vorurtheils, worunter die Unwissenheit und die Eitelkeit
+    isGroup: true
+    gender: u
+setting: >
+  Die Bühne zeigt während den drey ersten Auftritten eine schöne ländliche Gegend, die am Fusse des Parnaßus supponiret wird: und dann den Parnaßus.
+---
 slug: anonym-colin-maillard-die-blinde-kuh
 author:
   pseudonym: Anonym
@@ -3942,6 +3983,60 @@ cast:
 setting: >
   Der Schauplatz ist in dem Zimmer der Frau Lisban.
 ---
+slug: bretzner-der-schatzgraeber-oder-der-aepfel-dieb
+author:
+  name: Bretzner, Christoph Friedrich
+  wikidata: Q86383
+title: "Der Schatzgräber, oder: Der Äpfel-Dieb"
+subtitle: Ein Lustspiel in einem Akte
+numberOfScenes: 8
+printed: 1769
+premiered: 1769-08-24
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 270–272
+editions:
+  - title: "Unterhaltungen. Siebenden Bandes Erstes Stück. Hamburg: Bock 1769, S. 3–22"
+    url: http://digital.slub-dresden.de/id373291167-17690700/9
+  - title: "Halle: Curt 1771"
+    url: https://books.google.com/books?id=VNXzU9tQwB8C&printsec=frontcover
+  - title: "Wien 1781"
+    url: https://books.google.com/books?id=ZyVxt0M0kjAC&printsec=frontcover
+comments:
+  - "Auch unter den Titeln »Der Aepfeldieb, oder: der Schatzgräber. Ein Lustspiel in einem Acte« (1774), »Der Aepfeldieb, oder Der Schatzgräber. Eine Operette in einem Akte« (1779), »Der Aepfeldieb. Ein Originalsingspiel in einem Aufzuge« (1781), »Der Apfeldieb. Ein Singspiel« (1783), »Der Äpfeldieb« (1791)."
+cast:
+  - name: Hr. v. Althayn.
+    gender: m
+  - name: Fr. v. Althayn.
+    gender: m
+  - name: Juliane,
+    role: ihre Tochter.
+    gender: f
+  - name: Hr. v. Schönfels,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Hr. v. Blendheim,
+    role: Liebhaber der Frau von Althayn.
+    gender: m
+  - name: Hanchen,
+    role: Julianens Mädchen.
+    gender: f
+  - name: Valentin,
+    role: Bedienter des Hrn. v. Schönfels.
+    gender: m
+  - name: Meister Simon,
+    role: der Gärtner.
+    gender: m
+  - name: Martin,
+    role: der Gärtnergeselle.
+    gender: m
+  - name: Fuchs,
+    role: ein Schatzgräber.
+    gender: m
+setting: >
+  Das Theater stellet einen Garten vor. Hier und da stehen einzelne Bäume. Es ist Nacht und um 10 Uhr.
+---
 slug: buerger-die-antike-statue-aus-florenz
 author:
   name: Bürger, Elise
@@ -4433,7 +4528,7 @@ cast:
     role: der Frau Argante Bedienter.
     gender: m
   - name: Champagne,
-    role: des Hm. Damis Bedienter.
+    role: des Hrn. Damis Bedienter.
     gender: m
 setting: >
   Die Bühne ist in dem Zimmer der Madam Argante.
@@ -4837,6 +4932,7 @@ setting: >
 slug: goentgen-anna-bell
 author:
   name: Göntgen, Johann Gottlieb
+  wikidata: Q94941684
 title: Anna Bell
 subtitle: Ein Trauerspiel in einem Akt
 numberOfScenes: 6
@@ -5278,7 +5374,37 @@ cast:
 setting: >
   Die Handlung geht in einem Gasthofe zu Wien vor.
 ---
-slug: heufeld-von-kritik-ueber-den-geburtstag
+slug: heufeld-die-tochter-des-bruders-philipps
+author:
+  name: Heufeld, Franz von
+  wikidata: Q19959850
+title: Die Tochter des Bruder Philipps
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1769
+premiered: 1769-10-29
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 296
+editions:
+  - title: "Wien 1769"
+    url: https://books.google.com/books?id=DTRJAAAAcAAJ&printsec=frontcover
+  - title: "Zweyte verbesserte Auflage. Frankfurt und Leipzig 1771"
+    url: https://books.google.com/books?id=qSNdAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Henriette.
+    gender: f
+  - name: Selimor.
+    gender: m
+  - name: Neare.
+    gender: f
+  - name: Anton.
+    gender: m
+setting: >
+  Die Handlung geht im Garten vor.
+---
+slug: heufeld-kritik-ueber-den-geburtstag
 author:
   name: Heufeld, Franz von
   wikidata: Q19959850
@@ -5569,6 +5695,47 @@ cast:
     gender: m
 setting: >
   Das Stück spielt an einem kleinen Orte ohnweit der Grentze. Das Theater stellet ein Zimmer in dem Hause des Herrn von Whigall, neben seinem Schlafzimmer vor. Es ist ein Spiegel im Zimmer, unter selbigem hängen zwey kleine Portraits.
+---
+slug: jester-die-trauer
+author:
+  name: Jester, Ernst Friedrich
+  wikidata: Q105238
+title: Die Trauer
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1769
+premiered: 1769-03-25
+formalia:
+  - Prosa
+basedOn:
+  - "Noël Lebreton de Hauteroche: »Le deuil. Comédie, en un acte et en vers«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 299
+editions:
+  - title: "Neue Sammlung zum Vergnügen und Unterricht. Zwölftes Stück. Wien: Gräffer 1769, S. 3–19"
+    url: "https://gdz.sub.uni-goettingen.de/id/PPN730575225?tify={%22pages%22:[303],%22view%22:%22toc%22}"
+cast:
+  - name: Anselmo,
+    role: Vater des Leanders.
+    gender: m
+  - name: Leander,
+    role: ein junger Offizier.
+    gender: m
+  - name: Reinhart,
+    role: Pächter des Anselmo.
+    gender: m
+  - name: Nannette,
+    role: Tochter des Reinhart.
+    gender: f
+  - name: Cathrine,
+    role: die Magd des Reinhart.
+    gender: f
+  - name: Johann,
+    role: Bedienter des Leander.
+    gender: m
+  - name: Hiesel
+    role: Oberknecht des Reinhart.
+    gender: m
 ---
 slug: juenger-die-komoedie-aus-dem-stegreife
 author:
@@ -7116,6 +7283,43 @@ cast:
     role: dessen Tochter.
     gender: f
   - name: Lisette.
+    gender: f
+---
+slug: lessing-ohne-harleckin
+author:
+  name: Lessing, Karl Gotthelf
+  wikidata: Q1731277
+title: Ohne Harleckin
+subtitle: Ein Possenspiel in einem Aufzuge
+numberOfScenes: 29
+printed: 1769
+premiered: 1772-11-16
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 306
+editions:
+  - title: "Zwey Schauspiele. Berlin: Winter 1769"
+    url: https://books.google.com/books?id=oJpZAAAAcAAJ&pg=RA1-PA1
+comments:
+  - Später umgearbeitet zu [»Die Physiognomistinn ohne es zu wissen. Ein Lustspiel in drey Aufzügen«](https://books.google.com/books?id=--5YAAAAcAAJ&pg=PA1) (1778).
+cast:
+  - name: Florian.
+    gender: m
+  - name: Mannfeld,
+    role: gewesener Vormund des Freyheim.
+    gender: m
+  - name: Klinias,
+    role: Mannfelds Sohn.
+    gender: m
+  - name: Freyheim.
+    gender: m
+  - name: Lisette.
+    gender: f
+  - name: Fritz,
+    role: Bediente des Freyheim.
+    gender: m
+  - name: Frau Susel.
     gender: f
 ---
 slug: lessing-philotas
@@ -9048,7 +9252,7 @@ editions:
   - title: "Musikalische Gedichte von S***. Hamburg: Bock 1770, S. 67–84"
     url: https://books.google.com/books?id=oEllAAAAcAAJ&pg=PA67
   - title: "Neue Sammlung zum Vergnügen und Unterricht. Eilftes Stück. Wien: Gräffer 1769, S. 3–19"
-    url: "https://gdz.sub.uni-goettingen.de/id/PPN730575225?tify={\"pages\":[173]}"
+    url: "https://gdz.sub.uni-goettingen.de/id/PPN730575225?tify={%22pages%22:[173],%22view%22:%22info%22}"
 cast:
   - name: Chremes.
     role: Ein reicher Athenienser.
@@ -10498,6 +10702,42 @@ cast:
 setting: >
   Der Schauplatz ist ein Theater, von rückwärts zu sehen, die Seitenwande umgedreht, der Vorhang nach hinten. Das Stück spielt am Abend, nach Endigung des Trauerspiels Emilia Galotti.
 ---
+slug: walz-einwilligung-wider-willen
+author:
+  name: Walz, Gottlieb
+title: Die Einwilligung wider Willen
+subtitle: In einem Aufzuge. Von Merville
+numberOfScenes: 21
+printed: 1768
+premiered: 1770-04-24
+formalia:
+  - Prosa
+basedOn:
+  - "Michel Guyot de Merville: [»Le consentement forcé. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/GUYOTDEMERVILLE_CONSENTEMENTFORCE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 168–169
+editions:
+  - title: "Zweyte Sammlung einiger französischer Lustspiele für das deutsche Theater. Bremen: Cramer 1768"
+    url: https://books.google.com/books?id=p63JQEyNQusC&pg=RA5-PA1
+comments:
+  - Auch unter dem Titel »Die Einwilligung wider Willen. Ein Lustspiel in einem Aufzuge« (Hamburg 1788), nur 19 Auftritte, Personen umbenannt (Baron Derbiz, Baron Veltheim, Carl von Veltheim, Clarisse von Baudem, Lieschen).
+  - "1793 anonym auch als Zweiakter unter dem Titel [»Die Einwilligung wider Willen; oder: Verzeihen ist süßer als Strafen. Lustspiel in zwey Akten«](https://books.google.com/books?id=BeBo3n4lCJcC&printsec=frontcover)."
+cast:
+  - name: Orgon.
+    gender: m
+  - name: Cleant,
+    role: Orgons Sohn.
+    gender: m
+  - name: Clarisse,
+    role: Cleantens Gemahlinn.
+    gender: f
+  - name: Lisimon,
+    role: Cleantens und Orgons Freund.
+    gender: m
+  - name: Toinette,
+    role: Clarissens Mädchen.
+    gender: f
+---
 slug: walz-die-junge-indianerin
 author:
   name: Walz, Gottlieb
@@ -10756,6 +10996,66 @@ editions:
   - title: "Des Herrn von Saintfoix Theatralische Werke, Aus dem Französischen übersetzt. Vierter Theil. Leipzig: Fritsch 1768, S. 251–270"
 comments:
   - Weitere Übersetzung [1764 (anonym)](anonym-der-dervisch).
+---
+slug: wichmann-die-cabale
+author:
+  name: Wichmann, Christian August
+  wikidata: Q55675821
+title: Die Cabale
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1768
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»La Cabale. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAINT-FOIX_CABALE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 184
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Dritter Theil. Leipzig: Fritsch 1768, S. 145–186"
+    url: https://books.google.com/books?id=HI1NAAAAcAAJ&pg=PA145
+comments:
+  - Ursprünglich als Dreiakter geplant.
+cast:
+  - name: Die Cabale.
+    gender: f
+  - name: Die Gräfinn von Quinola.
+    gender: f
+  - name: Der Herr von Glanz.
+    gender: m
+  - name: Der Bücherhausirer.
+    gender: m
+  - name: Die Verläumderinn Orphise.
+    gender: f
+  - name: Der junge Präsident Cleon.
+    gender: m
+  - name: Der Lehrmeister in der Kunst sich zu zeigen.
+    gender: m
+  - name: Der Hofmann.
+    gender: m
+  - name: Der Philosoph.
+    gender: m
+  - name: Der Gelehrte.
+    gender: m
+  - name: Der Finanzpachter.
+    gender: m
+  - name: Cidalise.
+    gender: f
+  - name: Chloe.
+    gender: f
+  - name: Der Marquis.
+    gender: m
+  - name: Der Schauspieler.
+    gender: m
+  - name: Die Schauspielerinn.
+    gender: f
+  - name: Harlekin.
+    gender: m
+  - name: Scapin.
+    gender: m
+  - name: Einige andre Personen.
+    isGroup: true
+    gender: u
 ---
 slug: wolfram-der-wiedergefundene-ehemann
 author:
