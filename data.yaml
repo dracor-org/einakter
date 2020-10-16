@@ -2876,6 +2876,50 @@ cast:
 setting: >
   Die Scene ist in dem Saale des Herrn Dorm des Onkels, in einem Hause, welches ihm und der Frau Hutin gemeinschaftlich zugehöret. Die Handlung fängt des Morgens um eilf Uhr an.
 ---
+slug: anonym-die-zaenkerinn
+author:
+  pseudonym: Anonym
+title: Die Zänkerinn
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 20
+printed: 1770
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 478–479
+editions:
+  - title: "Preßburg: Landerer 1770"
+    url: https://books.google.com/books?id=tHepNI5tLNoC&printsec=frontcover
+cast:
+  - name: Frau von Zankenfeld,
+    role: eine Wittib.
+    gender: f
+  - name: Damon,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Treumund,
+    role: ein Rechtsgelehrter.
+    gender: m
+  - name: Treumund,
+    role: sein Sohn, ein Medicus.
+    gender: m
+  - name: Herr von Mohrenfeind,
+    role: ein Hauptmann.
+    gender: m
+  - name: Dacapo,
+    role: ein Singmeister.
+    gender: m
+  - name: Hanns,
+    role: Kammerdiener des Damon.
+    gender: m
+  - name: Colombina,
+    role: Kammermädchen der Frau von Zankenfeld.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Die ganze Handlung gehet in der Frau von Zankenfeld ihren Zimmern vor.
+---
 slug: anonym-die-zeitungen
 author:
   pseudonym: Anonym
@@ -3540,7 +3584,7 @@ editions:
   - title: "Schönemannsche Schaubühne, Band 1. Sechs Schauspiele aus dem Französischen übersetzt. Braunschweig und Hamburg 1748"
     url: https://books.google.com/books?id=ah86AAAAcAAJ&pg=PA159
 comments:
-  - Auch unter dem Titel ["Zeneide, ein Lustspiel von einem Aufzuge. Nach dem Französischen des Herrn von Cahüsac" (1760, von Johan Jakob Salomon)](salomon-zeneide).
+  - Auch unter dem Titel [»Zeneide, ein Lustspiel von einem Aufzuge. Nach dem Französischen des Herrn von Cahüsac« (1760, von Johan Jakob Salomon)](salomon-zeneide).
 keywords:
   - Liebesprobe
 cast:
@@ -3886,6 +3930,49 @@ cast:
 setting: >
   Salomos Hausflur.
 ---
+slug: bock-die-parodie
+author:
+  name: Bock, Johann Christian
+  wikidata: Q94823975
+title: Die Parodie
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 22
+printed: 1770
+formalia:
+  - Prosa
+basedOn:
+  - "Johann Friedrich Freiherr von Cronegk: [»Défauts copies«](https://books.google.com/books?id=MidLAAAAcAAJ&pg=PA365)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 31
+editions:
+  - title: "Für das Deutsche Theater. Erster Theil. Leipzig: Hilscher 1770, S. 209–312"
+    url: https://books.google.com/books?id=42tVAAAAcAAJ&pg=PA209
+comments:
+  - Weitere Version [1769 (Schmid)](schmid-die-parodie).
+  - "Auch unter dem Titel [»Die Parodie, oder So was kann bessern. Ein Lustspiel in zween Aufzügen«](https://books.google.com/books?id=k5kc2EUW9H4C&printsec=frontcover) (Wien 1771)."
+cast:
+  - name: Arist.
+    gender: m
+  - name: Belise,
+    role: seine Frau.
+    gender: f
+  - name: Clitander,
+    role: ihr Sohn.
+    gender: m
+  - name: Argant.
+    gender: m
+  - name: Celinde,
+    role: seine Nichte.
+    gender: f
+  - name: Moron.
+    gender: m
+  - name: Heinrich.
+    gender: m
+  - name: Clarine.
+    gender: f
+setting: >
+  Die Scene ist in Aristens Hause, worinn zugleich Argant mit seiner Nichte wohnt, in einem Saale, worinn man einige Stühle und einen Tisch mit einem Schreibzeuge siehet.
+---
 slug: brandes-der-hypochonder
 author:
   name: Brandes, Johann Christian
@@ -4141,7 +4228,7 @@ printed: 1788
 formalia:
   - Prosa
 basedOn:
-  - Übersetzung der französischen Vorlage ["La nouvelle Messaline"](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PIRON_NOUVELLEMESSALINE.xml) (1773, in Alexandrinern).
+  - Übersetzung der französischen Vorlage [»La nouvelle Messaline«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PIRON_NOUVELLEMESSALINE.xml) (1773, in Alexandrinern).
 dictionaries:
   bibliographia: 2. Abteilung, Band 30, S. 222
 editions:
@@ -4700,6 +4787,47 @@ cast:
 setting: >
   Die Handlung ist auf von Siltens Landgute.
 ---
+slug: gasser-ramirus
+author:
+  name: Gaßer, Franz
+title: Ramirus
+subtitle: In einem Aufzuge
+numberOfScenes: 10
+printed: 1775
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 450–451
+editions:
+  - title: "Franz Gaßers Briefe über die Freygeister nebst einem kleinen poetischen Anhang, zur Bildung edler Herzen. Augsburg: Rieger 1775, S. 101–128"
+    url: https://books.google.com/books?id=rNVNAAAAcAAJ&pg=PA101
+comments:
+  - Von Meyer unter Anonyme 1770 einsortiert.
+cast:
+  - name: Ramirus,
+    role: ein verunglückter von Adel.
+    gender: m
+  - name: Melinde,
+    role: dessen Gemahlinn.
+    gender: f
+  - group:
+      - name: Sohn
+        gender: m
+      - name: Tochter
+        gender: f
+    role: Kinder des Ramirus.
+  - name: Polydor,
+    role: Ramirs Bruder.
+    gender: m
+  - name: Philind,
+    role: Polydors Sohn.
+    gender: m
+  - name: Alcmeon,
+    role: vertrauter des Ramirs.
+    gender: m
+setting: >
+  Der Schauplatz ist eine mit Gebüschen umgebne einsame Gegend, vor der Hütte des Ramirus.
+---
 slug: gellert-das-band
 author:
   name: Gellert, Christian Fürchtegott
@@ -4908,11 +5036,14 @@ numberOfScenes: 8
 printed: 1760
 formalia:
   - Blankvers
+dictionaries:
+  bibliographia: 2. Abteilung, Band 19, S. 427–426
+  dramenlexikon: S. ??–??
 editions:
   - title: "Sämtliche Schriften. Neue vermehrte Ausgabe. Dritter Theil. Amsterdam 1767, S. 103–136"
     url: https://books.google.com/books?id=ld2EfxF812YC&pg=RA1-PA103
 comments:
-  - Versifizierung von Lessings ["Philotas"](lessing-philotas).
+  - Versifizierung von Lessings [»Philotas«](lessing-philotas).
 keywords:
   - Heroische Tragödie
 ids:
@@ -7335,7 +7466,10 @@ formalia:
   - Prosa
 dictionaries:
   bibliographia: 2. Abteilung, Band 19, S. 260–261
+  dramenlexikon: S. ??–??
 editions:
+  - title: "Berlin: Voß 1759"
+    url: https://doi.org/10.3931/e-rara-55793
   - title: "Gotthold Ephraim Lessing's sämmtliche Schriften. Auf's Neue durchgesehen und vermehrt. Zweiter Band. Leipzig: Göschen 1853, S. 225–312"
     url: https://books.google.com/books?id=XUQ4AQAAIAAJ&pg=PA85
 keywords:
@@ -8682,6 +8816,43 @@ cast:
 setting: >
   Die Handlung spielt im Hause des Hofraths.
 ---
+slug: praetzel-der-mohr
+author:
+  name: Prätzel, Karl Gottlieb
+  wikidata: Q18413216
+title: Der Mohr
+subtitle: Lustspiel in einem Act
+numberOfScenes: 17
+printed: 1821
+premiered: 1820-08-06
+formalia:
+  - fünfhebiger gereimter Jambus
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 436–437
+editions:
+  - title: "Launen der Liebe von K. G. Prätzel. Zweiter Theil. Leipzig: Hinrichs 1821, S. 1–50"
+    url: https://books.google.com/books?id=HJVIAQAAMAAJ&pg=RA1-PA1
+comments:
+  - Von Meyer unter Anonyme 1770 einsortiert.
+  - Nicht identisch mit [»Der Mohr. Ein Lustspiel von einem Aufzuge«](uhlich-der-mohr) (Uhlich 1746).
+cast:
+  - name: Der Baron.
+    gender: m
+  - name: Theodor,
+    role: sein Sohn.
+    gender: m
+  - name: Rosalie,
+    role: seine Nichte.
+    gender: f
+  - name: Dorette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Anton,
+    role: vormals Jäger im Dienste des Barons.
+    gender: m
+setting: >
+  Die Handlung ist auf dem Landgute des Barons.
+---
 slug: reuling-das-orackel
 author:
   name: Reuling, Carl Ludwig
@@ -9675,6 +9846,39 @@ cast:
 setting: >
   Der Schauplatz ist bald ein Saal, bald ein an denselben gränzendes Kabinett.
 ---
+slug: schmid-die-parodie
+author:
+  name: Schmid, Christian Heinrich
+  wikidata: Q108665
+title: Die Parodie
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 22
+printed: 1769
+formalia:
+  - Prosa
+basedOn:
+  - "Johann Friedrich Freiherr von Cronegk: [»Défauts copies«](https://books.google.com/books?id=MidLAAAAcAAJ&pg=PA365)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 349–350
+editions:
+  - title: "Frankfurt und Leipzig: Dodsley und Compagnie 1769"
+    url: https://books.google.com/books?id=jBhzwAEACAAJ&printsec=frontcover
+comments:
+  - Weitere Version [1770 (Bock)](bock-die-parodie).
+cast:
+  - name: Arist.
+    gender: m
+  - name: Argant.
+    gender: m
+  - name: Moron.
+    gender: m
+  - name: Clitander.
+    gender: m
+  - name: Belise.
+    gender: f
+  - name: Celinde.
+    gender: f
+---
 slug: scholze-johann-sigismund-das-kaetzgen
 author:
   name: Scholze, Johann Sigismund
@@ -10154,6 +10358,45 @@ cast:
 setting: >
   Die Scene ist auf der Straße vor des Euklio Hause.
 ---
+slug: stephanie-nichts-oder-der-majoratherr-und-der-cadet
+author:
+  name: Stephanie, Johann Gottlieb
+  wikidata: Q78822
+title: Nichts, oder Der Majoratherr, und der Cadet
+subtitle: Ein Original Lustspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1780
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 439–440
+editions:
+  - title: "Regensburg: Breitfeld [ohne Jahr]"
+    url: https://books.google.com/books?id=iVZZAAAAcAAJ&printsec=frontcover
+comments:
+  - "Von Meyer unter Anonyme 1770 einsortiert. Angabe zur Autorschaft und Datierung auf ca. 1780 laut Online-Katalogen. Laut Untertitel aufgeführt auf der Hochfürstlich Thurn und Taxischen Schaubühne."
+cast:
+  - name: Graf Friederich Waffenschall.
+    gender: m
+  - name: Graf Anton Waffenschall.
+    gender: m
+  - name: Die Gräfinn,
+    role: deren Mutter.
+    gender: f
+  - name: Wilhelmine,
+    role: des Grafen Friederich Gemahlinn.
+    gender: f
+  - name: Graf Ferlingshof.
+    gender: m
+  - name: Justine,
+    role: Kammermädchen.
+    gender: f
+  - name: Gustav,
+    role: ein Jäger.
+    gender: m
+setting: >
+  Das Stück spielt zur Mitternachtzeit. Ein grosses Vorzimmer.
+---
 slug: straube-pigmalion-und-themire
 author:
   name: Straube, Gottlob Benjamin
@@ -10347,6 +10590,41 @@ cast:
     gender: u
 setting: >
   Ein Garten mit einem Gitter hinten, durch das man ein Haus erblickt, welches der Sekretair bewohnt. Cyprians und Barbara's Haus befindet sich rechts im Garten, links Lauben, Gebüsch etc.
+---
+slug: topp-still
+author:
+  name: Topp, Johann Friedrich Julius
+  wikidata: Q60845579
+title: Still!
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 14
+printed: 1769
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 357–358
+editions:
+  - title: "Braunschweig: Fürstliche Waisenhausbuchhandlung 1769"
+    url: https://books.google.com/books?id=b9ZUAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr von Thier.
+    gender: m
+  - name: Frau von Thier.
+    gender: f
+  - name: Fräulein Julchen,
+    role: ihre Tochter.
+    gender: f
+  - name: Herr von Altblut.
+    gender: m
+  - name: Frau von Waagen.
+    gender: f
+  - name: Edler von Grieling.
+    gender: m
+  - name: Job;
+    role: ein Jäger.
+    gender: m
+setting: >
+  Der Schauplatz ist auf dem Gute des Herr von Thier.
 ---
 slug: uhlich-das-abendstaendchen
 author:
