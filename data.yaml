@@ -428,6 +428,38 @@ cast:
 setting: >
   Die Scene ist in dem Zimmer des Herrn Kluge, wo ein zubereiteter Tisch stehet, an welchem fünf Personen frühstücken sollen. Die Handlung gehet um zehn Uhr des Morgens vor sich.
 ---
+slug: anonym-das-geraubte-schaaf
+author:
+  name: K.***, J. G. C.
+title: Das geraubte Schaaf
+subtitle: Ein Schäfer-Spiel in einem Acte
+numberOfScenes: 7
+printed: 1770
+formalia:
+  - Verse
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 98–99
+editions:
+  - title: "Sammlung einiger Commedien. Frankfurt und Leipzig 1770, S. 105–125"
+comments:
+  - Verriss der ganzen Komödiensammlung im [Almanach der deutschen Musen auf das Jahr 1771, S. 99](https://books.google.com/books?id=52BeAAAAcAAJ&pg=PA99).
+cast:
+  - name: Sylvia.
+    gender: f
+  - name: Myrtill,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Galathee.
+    gender: f
+  - name: Damöt,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Amynt,
+    role: ein kleiner Knabe.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem kleinen Holze, wo diese Schäfer wohnen.
+---
 slug: anonym-das-kaffee-haus-zu-paris
 author:
   pseudonym: Anonym
@@ -2085,6 +2117,34 @@ cast:
     gender: m
 setting: >
   Die Bühne ist der Eßsaal. Auf dem Schauplatze steht ein Tisch mit zweyen Lichtern. Das übrige ist dunkel.
+---
+slug: anonym-die-reliquie
+author:
+  pseudonym: Anonym
+title: Die Reliquie
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 6
+printed: 1771
+formalia:
+  - Prosa
+basedOn:
+  - "Simon-Nicolas-Henri Linguet: »Intermède de la relique«"
+  - "Gerónimo Malo de Molina: »Entremés de la reliquia«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 270–271
+editions:
+  - title: "Beytrag zum spanischen Theater. Hamburg und Riga 1771"
+comments:
+  - Herausgeber des Bandes »Beytrag zum spanischen Theater« waren offenbar Justus Friedrich Wilhelm Zachariae und Karl Christian Gärtner. Bei den Stücken handelt es sich um Übersetzungen aus Simon-Nicholas Henri Linguets »Théâtre espagnol« (vgl. u. a. [Deutsche Biographie](https://www.deutsche-biographie.de/sfz86386.html)).
+cast:
+  - name: Toffel.
+    gender: m
+  - name: Dore.
+    gender: f
+  - name: Ein Nachbar.
+    gender: m
+  - name: Eine Nachbarinn.
+    gender: f
 ---
 slug: anonym-die-schoene-stolze-oder-das-verwoehnte-kind
 author:
@@ -6143,6 +6203,47 @@ cast:
     role: Oberknecht des Reinhart.
     gender: m
 ---
+slug: jester-vier-narren-in-einer-person
+author:
+  name: Jester, Ernst Friedrich
+  wikidata: Q105238
+title: Vier Narren in einer Person
+subtitle: Ein Vorspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1770
+premiered: 1770-07-04
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 98
+editions:
+  - title: "Wien: Trattner 1770"
+    url: https://books.google.com/books?id=sg9aAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr v. Seltheim.
+    gender: m
+  - name: Karoline,
+    role: seine Tochter.
+    gender: f
+  - name: Baron Reifensee.
+    gender: m
+  - name: Hr. Lindhof,
+    role: ein Schauspieler.
+    gender: m
+  - name: Tiks,
+    role: Schulmeister auf dem Gute.
+    gender: m
+  - name: Lisette,
+    role: Mädchen der Karoline.
+    gender: f
+  - name: Reinbach.
+    gender: m
+  - name: Joh.
+    role: Bedienter des Hrn v. Seltheim.
+    gender: m
+setting: >
+  Der Schauplatz ist auf dem Gute des Herrn von Seltheim.
+---
 slug: juenger-die-komoedie-aus-dem-stegreife
 author:
   name: Jünger, Johann Friedrich
@@ -7911,6 +8012,51 @@ cast:
 setting: >
   Der Schauplatz ist auf einem Lusthause des Don Diego vor Lissabon.
 ---
+slug: lindenmayr-ein-kurzweiliger-hochzeitsvertrag
+author:
+  name: Lindemayr, Maurus
+  wikidata: Q43877
+title: Ein kurzweiliger Hochzeitsvertrag
+subtitle: Sittenbild in einem Aufzuge
+printed: 1770
+premiered: 1770-04-23
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 118–119
+editions:
+  - title: "Steyr: Menhardt [1770]"
+    url: https://books.google.com/books?id=TTPmiTF5ye0C&printsec=frontcover
+  - title: "Linz: Pramsteidel [1770]"
+  - title: "Maurus Lindemayr: Lustspiele und Gedichte in oberoesterreichischer Mundart. Ausgewählt und gänzlich neu bearbeitet von Hans Anschober. Linz: Pressverein 1928, S. 112–129"
+    url: http://d-nb.info/574619496
+comments:
+  - "Die Ausgaben von 1770 jeweils in zwei Abhandlungen (Akten). Untertitel mit Hinweis auf Einaktigkeit erst in der vom Herausgeber bearbeiteten Version 1982. Erstdruck unter dem vollständigen Titel: »Kurzweiliger Hochzeit-Vertrag nach der natürlichen ob der Ennserisch-Bäurischen Mund- und Denkungsart, in gebundener Rede zu Unterhaltung Ihro Königl. Hoheit, der Durchlauchtigsten Frau, Frau Maria Antonia, Erzherzoginn von Oesterreich, Dauphine von Frankreich; Als höchst dieselben den 23. April 1770. in dem Stifte Lambach übernachteten«."
+ids:
+  wikidata: Q1199306
+cast:
+  - name: Jodl.
+    role: Der Bräutigam.
+    gender: m
+  - name: Hanns.
+    role: Dessen Vater.
+    gender: m
+  - name: Treinsch.
+    role: Die Braut.
+    gender: f
+  - name: Margareth.
+    role: Derselben Mutter.
+    gender: f
+  - group:
+      - name: Loipperl.
+        gender: m
+      - name: Grescherl.
+        gender: f
+    role: Enkelkinder der Margareth.
+  - name: Stix.
+    role: Ein Herrschafts Amtmann.
+    gender: m
+---
 slug: loewen-das-raethsel-oder-was-dem-frauenzimmer-am-meisten-gefaellt
 author:
   name: Löwen, Johann Friedrich
@@ -8326,6 +8472,74 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist auf dem Schauplatze.
+---
+slug: mueller-stirbt-der-fuchs-so-gilt-sein-balg
+author:
+  name: Müller, Johann Heinrich Friedrich
+  wikidata: Q1694390
+title: Stirbt der Fuchs so gilt sein Balg
+subtitle: Ein ländliches Gemählde in einem Aufzuge. Zu einem Nachspiele
+numberOfScenes: 8
+printed: 1770
+premiered: 1770-02-06
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 137
+editions:
+  - title: "Wien: Kurtzböck 1770"
+    url: https://books.google.com/books?id=lLDoMudc4xMC&printsec=frontcover
+cast:
+  - name: Barthel,
+    role: ein Bauer.
+    gender: m
+  - name: Jakob,
+    role: sein Sohn.
+    gender: m
+  - name: Lorenz,
+    role: Vater der
+    gender: m
+  - name: Lisel.
+    gender: f
+  - name: Der Baron.
+    gender: m
+  - name: Johann,
+    role: dessen Bedienter.
+    gender: m
+  - group:
+      - name: Anne,
+        gender: f
+      - name: Kattel,
+        gender: f
+      - name: Sannel,
+        gender: f
+    role: Junge Bäuerinnen.
+  - group:
+      - name: Peter,
+        gender: m
+      - name: Gürge,
+        gender: m
+      - name: Conrad,
+        gender: m
+    role: Junge Bauern.
+  - name: Ein Dorfgeiger.
+    gender: m
+  - group:
+      - name: Simon,
+        gender: m
+      - name: Kasper,
+        gender: m
+    role: Bauern.
+  - name: Ein Hausknecht.
+    gender: m
+  - name: Zwey Knaben.
+    isGroup: true
+    gender: f
+  - name: Zwey Mädchen.
+    isGroup: true
+    gender: m
+setting: >
+  Die Handlung geht auf einem von der Poststraße etwas entlegenen Dorfe vor.
 ---
 slug: muellner-der-neun-und-zwanzigste-februar
 author:
@@ -9499,6 +9713,74 @@ cast:
     role: Angeliquens Mägdgen.
     gender: f
 ---
+slug: rost-das-land-haus
+author:
+  name: Rost, Carl Christian Heinrich
+  wikidata: Q21415691
+title: Das Land-Haus
+subtitle: Ein Lustspiel in einem Aufzuge nach dem Englischen
+numberOfScenes: 29
+printed: 1770
+formalia:
+  - Prosa
+basedOn:
+  - "John Vanbrugh: »The Country House. A Farce«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 159–160
+editions:
+  - title: "Leipzig: Hilscher 1770"
+    url: https://books.google.com/books?id=8mlVAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr Bernhard.
+    gender: m
+  - name: Madam,
+    role: Bernhards Frau.
+    gender: f
+  - name: Mariane,
+    role: Bernhards Tochter.
+    gender: f
+  - name: Dorant,
+    role: Bernhards Sohn.
+    gender: m
+  - name: Griffard,
+    role: Bernhards Freund.
+    gender: m
+  - name: Lisette,
+    role: Marianens Kammermägdchen.
+    gender: f
+  - name: Erast,
+    role: Marianens Liebhaber.
+    gender: m
+  - name: Colin,
+    role: Bernhards Bedienter.
+    gender: m
+  - name: Johann,
+    role: Erasts Bedienter.
+    gender: m
+  - name: Ein Marquis.
+    gender: m
+  - name: Baron Mersy,
+    role: Freund des Marquis.
+    gender: m
+  - name: Drey Herren.
+    isGroup: true
+    role: Freunde des Dorants.
+    gender: m
+  - group:
+      - name: Babet,
+        gender: f
+      - name: Heinrich,
+        role: Bruder der Babet,
+        gender: m
+    role: Anverwandte.
+  - name: Carl,
+    role: ein kleiner Knabe.
+    gender: m
+  - name: Ein Koch.
+    gender: m
+  - name: Ein Soldat.
+    gender: m
+---
 slug: rost-die-gelernte-liebe
 author:
   name: Rost, Johann Christoph
@@ -9531,6 +9813,50 @@ cast:
       - name: Silvie,
         gender: f
     role: Schäferinnen.
+---
+slug: sailer-die-schwaebischen-drey-koenige
+author:
+  name: Sailer, Sebastian
+  wikidata: Q69534
+title: Die schwäbischen heiligen drey Könige
+subtitle: In einem Aufzuge
+numberOfScenes: 15
+created: 1771
+printed: 1819
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 168–169
+editions:
+  - title: "Sebastian Sailers Schriften im schwäbischen Dialekte. Gesammelt, und mit einer Vorrede versehen von Sixt Bachmann. Buchau: Kuen 1819, S. 215–245"
+    url: https://books.google.com/books?id=QXhSxpFHFysC&pg=PA215
+  - title: "Sebastian Sailers Schriften im schwäbischen Dialekte. Gesammelt und mit einer Vorrede versehen von Sixt Bachmann. Ulm: Stettin 1826, S. 215–245"
+    url: https://books.google.com/books?id=PTkRAAAAYAAJ&pg=PA215
+  - title: "München: Langen 1913"
+    url: https://www.projekt-gutenberg.org/sailer/3koenige/index.html
+comments:
+  - "Adaption »Die Heiligen drei Kini, in einem Aufzug frei nach Sebastian Sailer von Paul Spies« (1982)."
+cast:
+  - name: Herodes.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Kaspar.
+    gender: m
+  - name: Melchior.
+    gender: m
+  - name: Balthasar.
+    gender: m
+  - group:
+      - name: Deismus.
+        gender: m
+      - name: Freudenkehr.
+        gender: m
+    role: Schriftgelehrte.
+  - name: Knecht des Königs Herodes.
+    gender: m
+  - name: Bedienter der heiligen drey Könige.
+    gender: m
 ---
 slug: salomon-zeneide
 author:
@@ -11573,6 +11899,50 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in der Frau Solms Hause.
+---
+slug: weisse-walder
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Walder
+subtitle: Ein Lustspiel in einem Aufzuge nach der Komischen Oper, Silvain, von Herrn Marmontel
+numberOfScenes: 15
+created: 1769
+printed: 1770
+premiered: 1770-09-25
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-François Marmontel: »Sylvain. Comédie en un acte, mêlée d'ariettes«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 224–225
+editions:
+  - title: "Leipzig: Dyck 1770"
+    url: https://books.google.com/books?id=aONQLCwnBskC&printsec=frontcover
+comments:
+  - "Auch unter den Titeln »Walder. Eine Comödie in einem Akte« (1771) und »Walder. In Einem Aufzuge«."
+cast:
+  - name: Dolmon,
+    role: der Vater.
+    gender: m
+  - name: Dolmon,
+    role: ältester Sohn, unter dem Namen Walder.
+    gender: m
+  - name: Dolmon,
+    role: jüngster Sohn.
+    gender: m
+  - name: Sophie,
+    role: Walders Frau.
+    gender: f
+  - name: Dorchen und Hanchen,
+    isGroup: true
+    role: Walders und Sophiens Töchter.
+    gender: f
+  - name: Christel,
+    role: ein junger Pursch, Sohn eines Pachters.
+    gender: m
+setting: >
+  Die Handlung geht vor einer kleinen Bauernhütte vor: gegen über ist ein Hölzchen.
 ---
 slug: weisse-weibergeklatsche-oder-ein-qui-pro-quo
 author:
