@@ -4955,6 +4955,154 @@ cast:
 setting: >
   Der Schauplatz ist eine mit Gebüschen umgebne einsame Gegend, vor der Hütte des Ramirus.
 ---
+slug: gebler-das-bindband-oder-die-fuenf-theresen
+author:
+  name: Gebler, Tobias Philipp von
+  wikidata: Q2437939
+title: Das Bindband oder die fünf Theresen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1770
+premiered: 1770-02-17
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 60–61
+editions:
+  - title: "Wien: Kurzböck 1770"
+    url: https://books.google.com/books?id=3jU7AAAAcAAJ&printsec=frontcover
+  - title: "Des Freyherrn von Gebler Theatralische Werke. Erster Band. Prag und Dresden: Walther 1772, S. 215–240"
+    url: https://books.google.com/books?id=AjuBGJnBznwC&pg=PA215
+  - title: "Neue veränderte Auflage. Wien 1775"
+    url: https://books.google.com/books?id=ZGhTAAAAcAAJ&printsec=frontcover
+comments:
+  - Auch unter den Titeln »Das Bindband oder die fünf Theresen, ein Lustspiel von einem Aufzuge« (1770) und »Der Namenstag, oder die fünf Theresen. Ein Lustspiel in einem Aufzuge« (1775).
+cast:
+  - name: Frau von Kieselstein,
+    role: eine Wittwe.
+    gender: f
+  - group:
+      - name: Fräulein von Zierfeld.
+        gender: f
+      - name: Fräulein von Jungblut.
+        gender: f
+    role: Ihre Nichten.
+  - name: Herr von Kleinstern.
+    role: Liebhaber des Fräuleins von Zierfeld.
+    gender: m
+  - name: Herr von Rosenblatt.
+    role: Liebhaber des Fräuleins von Jungblut.
+    gender: m
+  - name: Fräulein von Kriegsburg,
+    role: unerkannt, als Kammerjungfer der Frau von Kieselstein.
+    gender: f
+  - name: Herr von Bravheim,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Therese,
+    role: Kammermädgen der beyden Fräulein.
+    gender: f
+  - name: Johann,
+    role: Bedienter des Herrn von Bravheim.
+    gender: m
+setting: >
+  Die Handlung gehet in dem Kieselsteinischen Hause vor.
+---
+slug: gebler-die-kabala-oder-das-lottoglueck
+author:
+  name: Gebler, Tobias Philipp von
+  wikidata: Q2437939
+title: Die Kabala, oder das Lottoglück
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1770
+premiered: 1770-10-17
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 62–63
+editions:
+  - title: "Wien: Trattner 1770"
+    url: https://books.google.com/books?id=pZNMAAAAcAAJ&printsec=frontcover
+  - title: "Des Freyherrn von Gebler Theatralische Werke. Zweyter Band. Prag und Dresden: Walther 1772, S. 87–124"
+    url: https://books.google.com/books?id=VAbxikFxhw4C&pg=PA87
+comments:
+  - "Auch unter dem Titel »Der Terno, oder das Lottoglück. Ein Lustspiel. in einem Aufzuge« (1775)."
+cast:
+  - name: Herr von Gabrink.
+    gender: m
+  - name: Frau von Gabrink.
+    gender: f
+  - name: Henriette,
+    role: Tochter des von Gabrink aus erster Ehe.
+    gender: f
+  - group:
+      - name: Herr von Traudorf,
+        gender: m
+      - name: Herr von Bilz,
+        gender: m
+    role: Henriettens Liebhaber.
+  - name: Herr Langmann,
+    role: ein alter Freund des von Gabrink.
+    gender: m
+  - name: Kathrine,
+    role: Kammerjungfer.
+    gender: f
+  - name: Johann,
+    role: Bedienter.
+    gender: m
+setting: >
+  Die Handlung geht vor in der Wohnung des von Gabrink, und dauert von 4. bis nach 5. Uhr Nachmittags.
+---
+slug: gebler-die-uebereilung
+author:
+  name: Gebler, Tobias Philipp von
+  wikidata: Q2437939
+title: Die Übereilung
+subtitle: Ein Lustspiel in einem Aufzuge von Fagan
+numberOfScenes: 22
+printed: 1770
+premiered: 1770-06-16
+formalia:
+  - Prosa
+basedOn:
+  - "Charles-François Panard und Barthélemy-Christophe Fagan: »L'étourderie. Comédie en un acte et en prose«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 67–68
+editions:
+  - title: "Wien: Trattner 1770"
+    url: https://books.google.com/books?id=cWtVAAAAcAAJ&printsec=frontcover
+  - title: "Des Freyherrn von Gebler Theatralische Werke. Erster Band. Prag und Dresden: Walther 1772. S. 333–376"
+    url: https://books.google.com/books?id=AjuBGJnBznwC&pg=PA333
+comments:
+  - Auch unter dem Titel »Die Uebereilung. Eine freye Uebersetzung der Etourderie des Fagan« (1772).
+  - Nicht identisch mit [»Die Übereilung. Ein Lustspiel in einem Aufzuge nach dem Englischen des Murphy« (1790)](meyer-schroeder-die-uebereilung).
+cast:
+  - name: Herr von Rosenheim.
+    gender: m
+  - name: Frau von Rosenheim.
+    gender: f
+  - name: Fräulein von Rosenheim,
+    role: des Herrn von Rosenheim Schwester.
+    gender: f
+  - name: Herr von Liebenfeld
+    role: der jüngere.
+    gender: m
+  - name: Herr von Liebenfeld
+    role: dessen Oheim.
+    gender: m
+  - name: Herr von Aktenburg,
+    role: ein alter Liebhaber des Fräuleins von Rosenheim.
+    gender: m
+  - name: Johann,
+    role: des jüngern Liebenfeld Diener.
+    gender: m
+  - name: Zween Bedienten, aus dem Rosenheimischen Haus.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung gehet vor in dem Rosenheimischen Garten, nahe beym Gartenhaus.
+---
 slug: gellert-das-band
 author:
   name: Gellert, Christian Fürchtegott
@@ -8098,6 +8246,42 @@ cast:
 setting: >
   Die Scene ist auf einem Landhause des Alcimons.
 ---
+slug: meyer-schroeder-die-uebereilung
+author:
+  name: Meyer, Friedrich Ludwig Wilhelm und Schröder, Friedrich Ludwig
+  wikidata: Q1460909
+title: Die Übereilung
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Englischen des Murphy
+numberOfScenes: 27
+printed: 1790
+premiered: 1788-10-12
+formalia:
+  - Prosa
+basedOn:
+  - "Arthur Murphy: [»The Old Maid. A Comedy in 2 Acts«](https://books.google.com/books?id=s08arvyTqcAC&printsec=frontcover)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 31, S. 172–173
+editions:
+  - title: "Schwerin und Wismar: Bödner 1790"
+    url: https://books.google.com/books?id=pCkSrgj8VBEC&printsec=frontcover
+comments:
+  - Nicht identisch mit Geblers [»Die Uebereilung. Ein Lustspiel in einem Aufzuge von Fagan« (1770)](gebler-die-uebereilung).
+cast:
+  - name: Herr von Homberg.
+    gender: m
+  - name: Frau von Homberg.
+    gender: f
+  - name: Fräulein von Homberg.
+    gender: f
+  - name: Herr von Kleefeld.
+    gender: m
+  - name: Major von Driburg.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Scene: ein Saal im Hause des Herrn von Homberg.
+---
 slug: moeser-die-tugend-auf-der-schaubuehne
 author:
   name: Möser, Justus
@@ -9118,6 +9302,58 @@ cast:
     gender: m
 setting: >
   Die Handlung ist nahe bey einem, dem Pan geweihten Hayne.
+---
+slug: rodde-wohlthaten-gewinnen-die-herzen
+author:
+  name: Rodde, Jacob
+  wikidata: Q100430046
+title: Wohlthaten gewinnen die Herzen
+subtitle: Drama in einem Aufzuge, aus dem Rußischen
+numberOfScenes: 11
+printed: 1771
+formalia:
+  - Prosa
+basedOn:
+  - "Александр Семёнович Шишков: »Благодеянии приобретают сердца. Драма в одном действии«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 385
+editions:
+  - title: "Riga: Hartknoch 1771"
+    url: https://books.google.com/books?id=K2tVAAAAcAAJ&pg=PA1
+comments:
+  - "Grundgerüst übernommen aus Sébastien-Roch Nicolas de Chamforts »Le marchand de Smyrne«, das ebenfalls mehrfach als Einakter übersetzt wurde. (Verlinkungen in unsere Datenbank!)"
+  - "Die Vorlage stammt laut [»Almanach der deutschen Musen auf das Jahr 1772«, S. 154,](https://books.google.com/books?id=8WBeAAAAcAAJ&pg=PA154) vom russischen Schauspieler »Mitrewsky« aus St. Petersburg, wurde aber neben Schischkow auch [Vladimir I. Lukin](http://lib.pushkinskijdom.ru/Default.aspx?tabid=1139) zugeschrieben."
+keywords:
+  - Krieg
+  - Christensklaven
+  - Sklaverei
+  - russisch-türkische Kriege
+  - Religion
+  - Islam
+  - Christentum
+cast:
+  - name: Rustan.
+    gender: m
+  - name: Selima,
+    role: seine Frau.
+    gender: f
+  - name: Osmin,
+    role: Sclave des Rustan.
+    gender: m
+  - name: Maravi,
+    role: armenianischer Sclavenhändler.
+    gender: m
+  - name: Mulei,
+    role: ein Türk, der Sclaven kauft.
+    gender: m
+  - name: Sclaven, darunter einige redende Personen.
+    isGroup: true
+    gender: m
+  - name: Türken, die Sclaven kaufen.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplatz ist in Salonich, der Hauptstadt in Macedonien.
 ---
 slug: romanus-das-tarocspiel
 author:
