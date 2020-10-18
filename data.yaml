@@ -148,6 +148,47 @@ cast:
 setting: >
   Die Scene ist vor Phyllis Hütte.
 ---
+slug: andre-der-wittwer
+author:
+  name: André, Johann
+  wikidata: Q69258
+title: Der Wittwer
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1771
+premiered: 1774-05-21
+formalia:
+  - Prosa
+basedOn:
+  - "Carmontelle: »Le deuil«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 281–282
+editions:
+  - title: "Lustspiele. Frankfurt 1771, S. 189–263"
+  - title: "Wien 1774"
+    url: https://books.google.com/books?id=f1_5uxwMtRYC&printsec=frontcover
+comments:
+  - Auch unter dem Titel »Der Wittwer. Ein Original-Lustspiel in einem Aufzuge« (1791).
+cast:
+  - name: Damon,
+    role: der Wittwer.
+    gender: m
+  - name: Lottchen,
+    role: seine Mündel.
+    gender: f
+  - name: Cleant,
+    role: sein Freund.
+    gender: m
+  - name: Valer,
+    role: Lottchens Liebhaber.
+    gender: m
+  - name: Jungfer Glitschaus.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Die Scene ist in Damons Hause, und stellt einen Saal vor, mit verschiedenen Thüren, in welchem ein Flügel stehet.
+---
 slug: andre-fritz-der-student
 author:
   name: André, Johann
@@ -1662,6 +1703,44 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: anonym-die-armen-teufel
+author:
+  pseudonym: Anonym
+title: Die armen Teufel
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 6
+printed: 1771
+formalia:
+  - Prosa
+basedOn:
+  - "Simon-Nicolas-Henri Linguet: »Intermède de l'écolier magicien«"
+  - "Miguel de Cervantes: »Entremés de La Cueva de Salamanca«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 274–275
+editions:
+  - title: "Beytrag zum spanischen Theater. Hamburg und Riga 1771, S. 87–100"
+    url: http://data.onb.ac.at/rep/1045E298
+comments:
+  - Herausgeber des Bandes »Beytrag zum spanischen Theater« waren offenbar Justus Friedrich Wilhelm Zachariae und Karl Christian Gärtner. Bei den Stücken handelt es sich um Übersetzungen aus Simon-Nicholas Henri Linguets »Théâtre espagnol« (vgl. u. a. [Deutsche Biographie](https://www.deutsche-biographie.de/sfz86386.html)).
+cast:
+  - name: Pankraz.
+    gender: m
+  - name: Leonarde,
+    role: seine Frau.
+    gender: f
+  - name: Lisette,
+    role: ihr Mädchen.
+    gender: f
+  - name: Barokko,
+    role: ein reisender Student.
+    gender: m
+  - name: Protesto,
+    role: der Schösser.
+    gender: m
+  - name: Niklas,
+    role: der Barbier.
+    gender: m
+---
 slug: anonym-die-comoedie-aus-dem-stegreif
 author:
   pseudonym: Anonym
@@ -2133,7 +2212,8 @@ basedOn:
 dictionaries:
   bibliographia: 2. Abteilung, Band 24, S. 270–271
 editions:
-  - title: "Beytrag zum spanischen Theater. Hamburg und Riga 1771"
+  - title: "Beytrag zum spanischen Theater. Hamburg und Riga 1771, S. 113–120"
+    url: http://data.onb.ac.at/rep/1045E298
 comments:
   - Herausgeber des Bandes »Beytrag zum spanischen Theater« waren offenbar Justus Friedrich Wilhelm Zachariae und Karl Christian Gärtner. Bei den Stücken handelt es sich um Übersetzungen aus Simon-Nicholas Henri Linguets »Théâtre espagnol« (vgl. u. a. [Deutsche Biographie](https://www.deutsche-biographie.de/sfz86386.html)).
 cast:
@@ -3733,6 +3813,36 @@ cast:
     role: Zeneidens Geliebter.
     gender: m
 ---
+slug: ast-ein-missverstand-aus-dem-andern
+author:
+  name: Ast, Johann Christian
+  wikidata: Q94803837
+title: Ein Mißverstand aus dem andern
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1771
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 282–283
+editions:
+  - title: "Stralsund 1771"
+cast:
+  - name: Adelbert.
+    gender: m
+  - name: Wilhelmine.
+    gender: f
+  - name: Pasquin.
+    gender: m
+  - name: Finette.
+    gender: f
+  - name: Hr. Cirkel.
+    gender: m
+  - name: Lukas.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem Garten.
+---
 slug: ayrenhoff-die-grosse-batterie
 author:
   name: Ayrenhoff, Cornelius Hermann von
@@ -4116,6 +4226,49 @@ cast:
     gender: m
 setting: >
   Salomos Hausflur.
+---
+slug: bock-der-bettler
+author:
+  name: Bock, Johann Christian
+  wikidata: Q94823975
+title: Der Bettler
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1771
+premiered: 1773-04-17
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 293–294
+editions:
+  - title: "Hilscher 1771"
+  - title: "Wien 1773"
+    url: https://books.google.com/books?id=RLxTAAAAcAAJ&printsec=frontcover
+  - title: "Zweite Auflage. Leipzig: Hilscher 1784"
+    url: https://books.google.com/books?id=rQP0AZX9kXIC&printsec=frontcover
+cast:
+  - name: Sternthal,
+    role: Herr eines Ritterguths.
+    gender: m
+  - name: von Schwanenfels,
+    role: ein junger Landedelmann.
+    gender: m
+  - name: Albert,
+    role: ein Bettler.
+    gender: m
+  - name: Sebald,
+    role: ein Pachter.
+    gender: m
+  - name: Rößchen,
+    role: seine Tochter.
+    gender: f
+  - name: Der Verwalter des Herrn.
+    gender: m
+  - name: Vier Jäger
+    isGroup: true
+    gender: m
+setting: >
+  Das Theater stellt einen dick verwachsenen öden Eichenwald vor.
 ---
 slug: bock-die-parodie
 author:
