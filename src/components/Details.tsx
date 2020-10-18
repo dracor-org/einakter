@@ -171,8 +171,10 @@ export default function Details () {
                 <ul>
                   {dictionaries.bibliographia && (
                     <li>
-                      Bibliographia dramatica et dramaticorum.
-                      {' '}
+                      <a href="https://www.degruyter.com/view/mvw/BDD-B">
+                        Bibliographia dramatica et dramaticorum
+                      </a>
+                      {'. '}
                       {dictionaries.bibliographia}
                     </li>
                   )}
