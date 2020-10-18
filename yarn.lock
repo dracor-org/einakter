@@ -1606,24 +1606,17 @@
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
   integrity sha512-ce5d3q03Ex0sy4R14722Rmt6MT07Ua+k4FwDfdcToYJcMKNtRVQvJ6JCAPdAmAnbRb6CsX6aYb9m96NGod9uTw==
 
-"@types/react-bootstrap-table-next@*":
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/@types/react-bootstrap-table-next/-/react-bootstrap-table-next-4.0.3.tgz#2ee2002d8dbb766109907142dfc31ecd76fa4a16"
-  integrity sha512-g3yG+bGonOLSoiSKq69uFzBG2lGHALyuzCyn1tXYRZXFcirvlb6QqIWT05E5wouQNzr4txLEy9sRghM+ilY3iw==
-  dependencies:
-    "@types/react" "*"
-
-"@types/react-bootstrap-table-next@^4.0.4":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@types/react-bootstrap-table-next/-/react-bootstrap-table-next-4.0.5.tgz#fa893eebc76b4581d61f0699f699242eaef1493f"
-  integrity sha512-bmtV9eQAq9fC6gidjtGUU1nUcRivDEYakTCI4JDIxEQ11bshnto1/hmMVlmOg69SiPAve3mgcVeCq1N+kiukhw==
+"@types/react-bootstrap-table-next@*", "@types/react-bootstrap-table-next@^4.0.4":
+  version "4.0.8"
+  resolved "https://registry.yarnpkg.com/@types/react-bootstrap-table-next/-/react-bootstrap-table-next-4.0.8.tgz#ff6318609ef2638da5d20408c69195628da91a84"
+  integrity sha512-MIGGFnob99LH4UWTLZeJWSJWPFIEVGdAPfo6/JMTGIuImhzxT4OlsdfWfJIlHZ19tF4nOu+X+seejxrwPjNzrw==
   dependencies:
     "@types/react" "*"
 
 "@types/react-bootstrap-table2-toolkit@^2.1.2":
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/@types/react-bootstrap-table2-toolkit/-/react-bootstrap-table2-toolkit-2.1.2.tgz#63c08cddce95b9443f8f4ca66ec5a3b9a8ba2145"
-  integrity sha512-/crNuzs19M5STA3smFFTC6UoPXKB8ycbQATFnPe9cBjnsWefZ9EmWHpIg0nuUUJ55aBFZxPOGgqd57cV2BMMiQ==
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@types/react-bootstrap-table2-toolkit/-/react-bootstrap-table2-toolkit-2.1.4.tgz#8fc352b330552cac8c9f685e8e382b965d1621bb"
+  integrity sha512-6m+eocK1xDXMiUbpzT0fS9hg2qTBFj8e+T7FwtLUqRcii5k9d9Tg6zEiVGRjG/FsaDzAOTdenL9/z1CdSoXMBQ==
   dependencies:
     "@types/react" "*"
     "@types/react-bootstrap-table-next" "*"
@@ -6547,9 +6540,9 @@ js-tokens@^3.0.2:
   integrity sha1-mGbfOVECEw449/mWvOtlRDIJwls=
 
 js-yaml@^3.13.1:
-  version "3.13.1"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.13.1.tgz#aff151b30bfdfa8e49e05da22e7415e9dfa37847"
-  integrity sha512-YfbcO7jXDdyj0DGxYVSlSeQNHbD7XPWvrVWeVUujrQEoZzWJIRrCPoyk6kL6IAjAG2IolMK4T0hNUe0HOUs5Jw==
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.14.0.tgz#a7a34170f26a21bb162424d8adacb4113a69e482"
+  integrity sha512-/4IbIeHcD9VMHFqDR/gQ7EdZdLimOvW2DdcxFjdyyZ9NsbS+ccrXqVWDtab/lRl5AlUqmpBx8EhPaWR+OtY17A==
   dependencies:
     argparse "^1.0.7"
     esprima "^4.0.0"
