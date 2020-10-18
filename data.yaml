@@ -2162,6 +2162,35 @@ cast:
 setting: >
   Der Schauplatz ist in dem Hause der Frau Argante.
 ---
+slug: anonym-die-melonen-oder-die-zaenkerinn
+author:
+  pseudonym: Anonym
+title: Die Melonen, oder die Zänkerinn
+subtitle: Ein Nachspiel in einem Aufzuge
+numberOfScenes: 4
+printed: 1771
+formalia:
+  - Prosa
+basedOn:
+  - "Simon-Nicolas-Henri Linguet: »Intermède des melons et de la femme têtue«"
+  - "»Entremés del melonar y respondona«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 264
+editions:
+  - title: "Beytrag zum spanischen Theater. Hamburg und Riga 1771, S. 77–86"
+    url: http://data.onb.ac.at/rep/1045E298
+comments:
+  - Herausgeber des Bandes »Beytrag zum spanischen Theater« waren offenbar Justus Friedrich Wilhelm Zachariae und Karl Christian Gärtner. Bei den Stücken handelt es sich um Übersetzungen aus Simon-Nicholas Henri Linguets »Théâtre espagnol« (vgl. u. a. [Deutsche Biographie](https://www.deutsche-biographie.de/sfz86386.html)).
+cast:
+  - name: Michel.
+    gender: m
+  - name: Lise.
+    gender: f
+  - name: Ein Nachbar.
+    gender: m
+  - name: Barbe.
+    gender: f
+---
 slug: anonym-die-nonnen
 author:
   name: J. T.
@@ -2196,6 +2225,34 @@ cast:
     gender: m
 setting: >
   Die Bühne ist der Eßsaal. Auf dem Schauplatze steht ein Tisch mit zweyen Lichtern. Das übrige ist dunkel.
+---
+slug: anonym-die-pfannkuchen
+author:
+  pseudonym: Anonym
+title: Die Pfannkuchen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 4
+printed: 1771
+formalia:
+  - Prosa
+basedOn:
+  - "Simon-Nicolas-Henri Linguet: »Intermède des beignets«"
+  - "Anónimo: »Entremés de los buñuelos«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 268–269
+editions:
+  - title: "Beytrag zum spanischen Theater. Hamburg und Riga 1771, S. 101–112"
+    url: http://data.onb.ac.at/rep/1045E298
+comments:
+  - Herausgeber des Bandes »Beytrag zum spanischen Theater« waren offenbar Justus Friedrich Wilhelm Zachariae und Karl Christian Gärtner. Bei den Stücken handelt es sich um Übersetzungen aus Simon-Nicholas Henri Linguets »Théâtre espagnol« (vgl. u. a. [Deutsche Biographie](https://www.deutsche-biographie.de/sfz86386.html)).
+cast:
+  - name: Ein Alter.
+    gender: m
+  - name: Valentin.
+    gender: m
+  - name: Zween Reisende.
+    isGroup: true
+    gender: m
 ---
 slug: anonym-die-reliquie
 author:
@@ -4227,6 +4284,40 @@ cast:
 setting: >
   Salomos Hausflur.
 ---
+slug: bock-der-adel-des-herzens-oder-die-ausgeschlagne-erbschaft
+author:
+  name: Bock, Johann Christian
+  wikidata: Q94823975
+title: Der Adel des Herzens, oder Die ausgeschlagne Erbschaft
+subtitle: Ein Nachspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1770
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre Carlet de Marivaux: [»L'heritier de village. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 29
+editions:
+  - title: "Hamburg und Bremen: Cramer 1770"
+  - title: "Wien: Ghelen 1771"
+    url: https://books.google.com/books?id=NCNVAAAAcAAJ&printsec=frontcover
+comments:
+  - "Auch unter dem Titel »Der Adel des Herzens. Ein Lustspiel in einem Aufzuge« (undat. Ms.)."
+cast:
+  - name: Jürgen,
+    role: ein Bauer.
+    gender: m
+  - name: Hannchen,
+    role: seine Tochter.
+    gender: f
+  - name: Herr von Rosendorf.
+    gender: m
+  - name: Der Prokurator.
+    gender: m
+setting: >
+  Der Schauplatz ist zu Wien im Hause von Jürgens verstorbner Schwester.
+---
 slug: bock-der-bettler
 author:
   name: Bock, Johann Christian
@@ -4270,6 +4361,44 @@ cast:
 setting: >
   Das Theater stellt einen dick verwachsenen öden Eichenwald vor.
 ---
+slug: bock-der-schmetterling
+author:
+  name: Bock, Johann Christian
+  wikidata: Q94823975
+title: Der Schmetterling
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 28
+printed: 1770
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 31–32
+editions:
+  - title: "Leipzig: Hilscher 1770"
+    url: https://books.google.com/books?id=9mbLVbxyrSQC&printsec=frontcover
+  - title: "Für das Deutsche Theater. Erster Theil. Leipzig: Hilscher 1770, S. 145–208"
+    url: https://books.google.com/books?id=B0s8hsztIfEC&pg=PA145
+comments:
+  - Vorlage unklar.
+cast:
+  - name: Damon,
+    role: ein reicher Banquier.
+    gender: m
+  - name: Carl,
+    role: sein Sohn.
+    gender: m
+  - name: Ismene,
+    role: seine Tochter.
+    gender: f
+  - name: Philint,
+    role: Ismenens Liebhaber.
+    gender: m
+  - name: Hannchen,
+    role: ein Mädgen vom Hause.
+    gender: f
+setting: >
+  Der Schauplatz ist in einem Saale in Damons Hause.
+---
 slug: bock-die-parodie
 author:
   name: Bock, Johann Christian
@@ -4312,6 +4441,90 @@ cast:
     gender: f
 setting: >
   Die Scene ist in Aristens Hause, worinn zugleich Argant mit seiner Nichte wohnt, in einem Saale, worinn man einige Stühle und einen Tisch mit einem Schreibzeuge siehet.
+---
+slug: bodmer-die-botschaft-des-lebens
+author:
+  name: Bodmer, Johann Jakob
+  wikidata: Q115588
+title: Die Botschaft des Lebens
+subtitle: In einem Aufzuge
+numberOfScenes: 7
+printed: 1771
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 296–297
+editions:
+  - title: "Zürich: Bürgkli 1771"
+    url: https://doi.org/10.3931/e-rara-14603
+comments:
+  - Auch unter dem Titel »Die Botschaft des Lebens. Schauspiel in einem Aufzug« (Zürich 1773).
+cast:
+  - name: Jacob.
+    gender: m
+  - name: Thamar.
+    gender: f
+  - group:
+      - name: Perez.
+        gender: m
+      - name: Serah.
+        gender: m
+    role: Judas Söhne von Thamar.
+  - name: Juda.
+    gender: m
+  - name: Benjamin.
+    gender: m
+  - name: Simeon.
+    gender: m
+  - name: Ruben.
+    gender: m
+  - name: Suah.
+    gender: m
+setting: >
+  Der Schauplatz ist in dem Eichwalde Mamre, vor Jacobs Gezelte, wo eine cederne Ruhebank ist, und gegen über ein Altar von Marmor.
+---
+slug: brahm-die-stimme-der-natur-oder-die-schoene-luege
+author:
+  name: Brahm, Moritz von
+  wikidata: Q95321063
+title: Die Stimme der Natur, oder die schöne Lüge
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen des Herrn Armand
+numberOfScenes: 14
+printed: 1775
+premiered: 1775-01-28
+formalia:
+  - Prosa
+basedOn:
+  - "François-Armand Huguet, dit Armand: [»Le cri de la nature. Comédie en vers et en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/ARMAND_CRINATURE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 77–78
+editions:
+  - title: "Wien 1775"
+  - title: "München: Fritz 1775"
+    url: https://books.google.com/books?id=g0B3_fASbZEC&printsec=frontcover
+cast:
+  - name: Dorman.
+    gender: m
+  - name: Frau Dorman,
+    role: seine Gattinn.
+    gender: f
+  - name: Herr von Lohnheim,
+    role: ihr Vater.
+    gender: m
+  - name: Gertrud,
+    role: eine Bäurinn.
+    gender: f
+  - name: Hanchen,
+    role: ihre Tochter.
+    gender: f
+  - name: Niklas,
+    role: ein Bauernjunge, Hanchens Liebhaber.
+    gender: m
+  - name: Johann,
+    role: Bedienter des Lohnheim.
+    gender: m
+setting: >
+  Die Handlung geht in einem Dorfe einige Meilen von der Hauptstadt vor.
 ---
 slug: brandes-der-hypochonder
 author:
