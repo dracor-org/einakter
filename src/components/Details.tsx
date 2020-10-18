@@ -3,6 +3,7 @@ import {useLocation, useParams} from "react-router-dom";
 import {Table} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import Authors from './Authors';
 import Years from './Years';
 import {CastMember, Play} from '../types';
 import data from '../plays';
@@ -26,7 +27,7 @@ export default function Details () {
   const {
     title,
     subtitle,
-    author,
+    authors = [],
     cast,
     comments,
     created,
@@ -46,16 +47,7 @@ export default function Details () {
     <div className="details">
       <hgroup>
         <h2>
-          {author.name}
-          {author.pseudonym && (<i> ({author.pseudonym})</i>)}
-          {author.wikidata && (
-            <small>
-              {' '}
-              <a href={`https://www.wikidata.org/wiki/${author.wikidata}`}>
-                {author.wikidata}
-              </a>
-            </small>
-          )}
+          <Authors authors={authors}/>
         </h2>
         <h1>{title}</h1>
         {subtitle && <h3>{subtitle}</h3>}

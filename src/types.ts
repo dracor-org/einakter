@@ -17,12 +17,15 @@ export interface Edition {
   url?: string
 }
 
+export interface Author {
+  name?: string
+  pseudonym?: string
+  wikidata?: string
+}
+
 export interface Play {
-  author: {
-    name?: string
-    pseudonym?: string
-    wikidata?: string
-  }
+  author?: Author
+  authors?: Author[]
   slug: string
   title: string
 

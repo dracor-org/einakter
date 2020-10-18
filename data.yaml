@@ -8759,9 +8759,11 @@ setting: >
   Die Scene ist auf einem Landhause des Alcimons.
 ---
 slug: meyer-schroeder-die-uebereilung
-author:
-  name: Meyer, Friedrich Ludwig Wilhelm und Schröder, Friedrich Ludwig
-  wikidata: Q1460909
+authors:
+  - name: Meyer, Friedrich Ludwig Wilhelm
+    wikidata: Q1460909
+  - name: Schröder, Friedrich Ludwig
+    wikidata: Q213877
 title: Die Übereilung
 subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Englischen des Murphy
 numberOfScenes: 27

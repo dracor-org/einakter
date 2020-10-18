@@ -3,6 +3,7 @@ import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import {Link} from 'react-router-dom';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import Authors from './Authors';
 import {Play} from '../types';
 import data from '../plays';
 
@@ -10,21 +11,7 @@ const dataURI = 'data:text/json;base64,' +
   btoa(unescape(encodeURIComponent(JSON.stringify(data))));
 
 function formatAuthor (_: string, play: Play) {
-  const {name, pseudonym, wikidata: id} = play.author || {};
-  return (
-    <span>
-      {name}
-      {pseudonym && (<i> ({pseudonym})</i>)}
-      <br/>
-      {id && (
-        <small>
-          Wikidata:
-          {' '}
-          <a href={`https://www.wikidata.org/wiki/${id}`}>{id}</a>
-        </small>
-      )}
-    </span>
-  );
+  return <Authors authors={play.authors || []}/>;
 }
 
 function formatTitle (_: string, play: Play) {
@@ -58,13 +45,13 @@ function formatWikidata (id: any | undefined) {
 
 function Table () {
   const columns = [{
-    dataField: 'author.name',
+    dataField: 'authors[0].name',
     text: 'Author',
     formatter: formatAuthor,
     filterValue: (cell: string | undefined, play: Play) => {
       if (cell === undefined) return 'Anonym';
-      const {author: a} = play;
-      return `${a.name} ${a.pseudonym} ${a.wikidata}`;
+      const {authors = []} = play;
+      return authors.map(a => `${a.name || ''} ${a.pseudonym || ''} ${a.wikidata || ''}`).join(' ');
     },
     sort: true
   }, {

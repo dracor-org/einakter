@@ -30,7 +30,8 @@ function countCharacters(play: Play) {
 const plays = data.map((p: Play) => {
   const normalizedYear = normalizeYear(p);
   const numberOfCharacters = countCharacters(p);
-  return {...p, normalizedYear, numberOfCharacters}
+  const authors = p.author ? [p.author] : p.authors || [];
+  return {...p, authors, normalizedYear, numberOfCharacters}
 });
 
 export default plays;
