@@ -10978,6 +10978,80 @@ cast:
   - name: Celinde.
     gender: f
 ---
+slug: schoenfeld-die-zwo-amaryllen
+author:
+  name: Schönfeld, Franz Thomas Edler von
+  pseudonym: Moses Dobruska
+  wikidata: Q328094
+title: Die zwo Amaryllen
+subtitle: Ein Schäferspiel in einem Aufzuge
+numberOfScenes: 6
+printed: 1774
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 595–596
+editions:
+  - title: "Prag: Gerle 1774"
+    url: https://books.google.com/books?id=ZdVdAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Erste Amaryllis,
+    role: Geliebte des Hylas.
+    gender: f
+  - name: Mykon.
+    gender: m
+  - name: Hylas.
+    gender: m
+  - name: Zwote Amaryllis.
+    gender: f
+  - name: Amor mit zween andern Liebesgötterchen.
+    isGroup: true
+    gender: m
+  - name: Venus mit den Grazien.
+    isGroup: true
+    gender: f
+setting: >
+  Die Scene ist auf einer Insel, die durch einen schrecklichen Sturm und Wetter überschwemmt worden ist. Man sieht allerwärts Spuren von Verwüstungen. Nicht weit, wo die Handlung vorgeht, sieht man einen Wald.
+---
+slug: schoenfeld-telimon-und-thryse
+author:
+  name: Schönfeld, Franz Thomas Edler von
+  pseudonym: Moses Dobruska
+  wikidata: Q328094
+title: Telimon und Thryse
+subtitle: Ein Schäferspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1774
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 596
+editions:
+  - title: "Prag: Gerle 1774"
+    url: https://books.google.com/books?id=oX6ggXqKhQQC&printsec=frontcover
+comments:
+  - Nach dem »Eilften Auftritt« folgt noch ein kurzer [»Zweeter Aufzug«](https://books.google.com/books?id=oX6ggXqKhQQC&pg=PA46) mit Gesängen.
+cast:
+  - name: Telimon.
+    gender: m
+  - name: Thryse,
+    role: Telimons Geliebte.
+    gender: f
+  - name: Cephis,
+    role: Telimons Bruder.
+    gender: m
+  - name: Galathee,
+    role: Cephis Geliebte.
+    gender: f
+  - name: Eudämon,
+    role: Telimons und Cephis Vater.
+    gender: m
+  - name: Corydon,
+    role: ein junger Mensch aus Troja.
+    gender: m
+setting: >
+  Die Scene ist im kleinern Phrygien, am Fuß des Ida, worauf Scamander und Simois entspringen. Schäfer und Schäferinnen sieht man in entfernten Gegenden, bey ihren Heerden sitzen und mit ländlichen Arbeiten beschäftiget.
+---
 slug: scholze-johann-sigismund-das-kaetzgen
 author:
   name: Scholze, Johann Sigismund
@@ -11727,6 +11801,41 @@ cast:
 setting: >
   Der Schauplatz ist auf dem Gute des Herr von Thier.
 ---
+slug: uhlich-apollo-unter-den-hirten
+author:
+  name: Uhlich, Gottfried
+  wikidata: Q57418214
+title: Apollo unter den Hirten
+subtitle: Ein musikalisches Schäferspiel in einem Aufzuge
+numberOfScenes: 5
+printed: 1774
+premiered: 1774
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 607–608
+editions:
+  - title: "Wien: Kurzböck 1774"
+    url: https://books.google.com/books?id=GarCHDeEWygC&printsec=frontcover
+cast:
+  - name: Apollo,
+    role: als Seladon.
+    gender: m
+  - name: Daphnis,
+    role: der Hirt, der den Apoll in seine Hütte aufgenommen.
+    gender: m
+  - group:
+      - name: Tityrus,
+        gender: m
+      - name: Myrtill,
+        gender: m
+      - name: Alexis,
+        gender: m
+    role: Daphnis Freunde.
+  - name: Menalkas,
+    role: Daphnis Vater.
+    gender: m
+---
 slug: uhlich-das-abendstaendchen
 author:
   name: Uhlich, Adam Gottfried
@@ -12154,6 +12263,52 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist zu Charlestown, einer englischen Colonie in Nordamerica.
+---
+slug: weidmann-der-podagrist
+author:
+  name: Weidmann, Paul
+  wikidata: Q114260
+title: Der Podagrist
+subtitle: Ein Originallustspiel von einem Aufzug
+numberOfScenes: 13
+printed: 1774
+premiered: 1779-09-09
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 610–611
+editions:
+  - title: "Wien: Krüchten 1774"
+    url: https://books.google.com/books?id=NVUxtVvmp-EC&printsec=frontcover
+comments:
+  - Nicht identisch mit dem [gleichnamigen Zweiakter von Bösenberg aus dem Jahr 1797](https://books.google.com/books?id=n6jBOXIlytwC&printsec=frontcover).
+cast:
+  - name: Herr von Thurmer.
+    gender: m
+  - name: Emilie,
+    role: seine Gattinn.
+    gender: f
+  - name: Erast,
+    role: sein Sohn aus der ersten Ehe.
+    gender: m
+  - name: Sophie,
+    role: seine Gattinn.
+    gender: f
+  - name: Herr von Schweller,
+    role: ein Arzt.
+    gender: m
+  - name: Herr von Rosenthal.
+    gender: m
+  - group:
+      - name: Johann,
+        role: Diener
+        gender: m
+      - name: Anna,
+        role: Dienerinn
+        gender: f
+    role: vom Hause.
+setting: >
+  Die Handlung geht vor im Hause des Thürmer. Die Bühne ist ein niedlich eingerichtetes Zimmer.
 ---
 slug: weidmann-die-raeuber-oder-die-schwere-wahl
 author:
