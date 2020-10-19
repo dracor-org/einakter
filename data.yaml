@@ -9746,6 +9746,48 @@ cast:
 setting: >
   Die Handlung ist auf dem Landgute des Barons.
 ---
+slug: rautenstrauch-die-brunnengraeber
+author:
+  name: Rautenstrauch, Johann
+  wikidata: Q88323
+title: Die Brunnengräber
+subtitle: "Eine dialogirte wahre Geschichte von Wien: in einem Aufzug"
+numberOfScenes: 19
+printed: 1774
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 580
+editions:
+  - title: "Wien: 1774"
+    url: https://books.google.com/books?id=M9dUAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Christoph Frank,
+    role: genannt Vogelfanger, ein alter Taglöhner.
+    gender: m
+  - name: Anton Lehman,
+    role: ein junger Maurer Gesell.
+    gender: m
+  - name: Des Taglöhners Weib.
+    gender: m
+  - name: Lisel,
+    role: ein junges Mädchen.
+    gender: f
+  - name: Arbeiter, welche graben.
+    isGroup: true
+    gender: m
+  - name: Zuschauer.
+    isGroup: true
+    gender: u
+  - name: Aufseher.
+    isGroup: true
+    gender: m
+  - name: Wache.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplaz ist ein Hof von einem Haus in der Josephstadt.
+---
 slug: reuling-das-orackel
 author:
   name: Reuling, Carl Ludwig
@@ -11369,6 +11411,8 @@ cast:
   - name: Soldaten von dem Heere Alexanders.
     isGroup: true
     gender: m
+setting: >
+  Ein finsterer Wald. Man sieht unterschiedliche Gänge, die mit Bäumen dicht bewachsen sind. An der Spitze des Theaters sieht man einen halb zusammen gefallenen Brunnen.
 ---
 slug: steffens-der-geld-topf
 author:
@@ -12110,6 +12154,60 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist zu Charlestown, einer englischen Colonie in Nordamerica.
+---
+slug: weidmann-die-raeuber-oder-die-schwere-wahl
+author:
+  name: Weidmann, Paul
+  wikidata: Q114260
+title: Die Räuber, oder die schwere Wahl
+subtitle: Ein Originaldrama, in einem Aufzuge
+numberOfScenes: 12
+printed: 1773
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 406–407
+editions:
+  - title: "Wien: Trattner 1773"
+    url: https://books.google.com/books?id=0LpTAAAAcAAJ&printsec=frontcover
+cast:
+  - group:
+      - name: Herr von Rechtlieb.
+        gender: m
+      - name: Sophie,
+        role: seine Tocher.
+        gender: f
+      - name: Herr von Schönheim,
+        role: ihr Gatte,
+        gender: m
+      - name: Eduard,
+        role: ihr Bruder,
+        gender: m
+    role: Reisende.
+  - name: Löwenzahn,
+    role: der Räuberhauptmann.
+    gender: m
+  - group:
+      - name: Bärenschütz,
+        gender: m
+      - name: Listreich,
+        gender: m
+      - name: Stierhorn,
+        gender: m
+      - name: Tygerschlau,
+        gender: m
+    role: die ersten der Räuber.
+  - name: Agnes,
+    role: eine Ausspäherinn.
+    gender: f
+  - name: Andere Räuber.
+    isGroup: true
+    gender: m
+  - name: Soldaten.
+    isGroup: true
+    gender: m
+setting: >
+  Die Handlung geht vor in der Räuberhöhle. Die Bühne stellt eine große Höhle vor, welche mit verschiedenen Seitengängen sich erweitert. Der Grund der Bühne ist ein langer Felsengang. Man sieht in der Ferne eine Treppe, und eine Fallthüre, durch welche die Räuber von der Erde in ihre Wohnung herabsteigen. In den Höhlen sind einige Schränke, und alles nöthige Hausgeräth. Es brennt eine große Lampe, welche den ganzen Ort beleuchtet.
 ---
 slug: weiskern-die-wirkung-der-rechtschaffenheit
 author:
