@@ -362,6 +362,44 @@ cast:
 setting: >
   Der Schauplaz ist zu Andresy.
 ---
+slug: anonym-das-armenhaus
+author:
+  pseudonym: Anonym
+title: Das Armenhaus
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1775
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 21
+editions:
+  - title: "Theatralmakulatur. Drey Schauspiele. Preßburg und Leipzig: Löwen 1775, S. 17–38"
+    url: https://books.google.com/books?id=w2tVAAAAcAAJ&pg=PA17
+cast:
+  - group:
+      - name: Julchen,
+        gender: f
+      - name: Florchen,
+        gender: f
+      - name: Lotchen,
+        gender: f
+    role: drey arme Mägdchen.
+  - name: Friedrich.
+    gender: m
+  - name: Karl,
+    role: sein Bruder.
+    gender: m
+  - name: Wohlthätig.
+    role: Gutthäter des Hauses.
+    gender: m
+  - name: Ein fremder Officier.
+    gender: m
+  - name: Ein Greis.
+    gender: m
+setting: >
+  Die Handlung geht in einer großen Stadt vor.
+---
 slug: anonym-das-bild-glueckseliger-zeiten
 author:
   pseudonym: Anonym
@@ -8721,37 +8759,86 @@ cast:
 setting: >
   Der Schauplatz stellt den Eingang in den Garten der Madame Gerdrut vor, und an dessen Seite ein kleines Gartenhaus.
 ---
-slug: mathesius-die-herrschaft-der-weiber
+slug: marinelli-der-anfang-muss-empfehlen
 author:
-  name: Mathesius, Siegmund Immanuel
-title: Die Herrschaft der Weiber
-subtitle: Ein Nachspiel in Einem Aufzug
-numberOfScenes: 13
-printed: 1768
+  name: Marinelli, Karl von
+  wikidata: Q1733642
+title: Der Anfang muß empfehlen
+subtitle: Ein Vorspiel in einem Aufzuge. Eigentlich für Preßburg Verfertiget von dem älteren Marinelli. einem deutschen Schauspieler
+numberOfScenes: 12
+printed: 1774
 formalia:
   - Prosa
 dictionaries:
-  bibliographia: 2. Abteilung, Band 23, S. 109–110
+  bibliographia: 2. Abteilung, Band 26, S. 135–136
 editions:
-  - title: "Frankfurt und Leipzig 1768"
-    url: https://books.google.com/books?id=9OxYAAAAcAAJ&printsec=frontcover
+  - title: "Wien: Schulz [1774]"
+    url: https://books.google.com/books?id=YpBDuwEACAAJ&printsec=frontcover
+comments:
+  - "Dem Stück ist kein eigentliches Personenverzeichnis vorangestellt: »Alle Schauspieler und Schauspielerinnen der Menningerischen Gesellschaft unter ihren eigenen Namen.« – Personenliste hier wiedergegeben in der Reihenfolge ihres Auftretens."
 cast:
-  - name: Geronte.
-    gender: m
-  - name: Melusine,
-    role: dessen Frau.
+  - name: Jungfer Marinelli die ältere.
     gender: f
-  - name: Lorgen,
-    role: dessen Tochter.
+  - name: Madame la Roche.
     gender: f
-  - name: Anton,
-    role: Gerichtssecretair.
+  - name: Madame Menninger.
+    gender: f
+  - name: Die kleine Marinelli.
+    gender: f
+  - name: Der ältere Marinelli.
     gender: m
-  - name: Damis.
+  - name: Herr la Roche.
     gender: m
-  - name: Heinrich,
-    role: dessen Bedienter.
+  - name: Herr Diwald.
     gender: m
+  - name: Zween Diener.
+    isGroup: true
+    gender: m
+  - name: Herr Menninger.
+    gender: m
+  - name: Herr Richter.
+    gender: m
+  - name: Herr Schweigger.
+    gender: m
+  - name: Madame Richter.
+    gender: f
+  - name: Marinelli der jüngere.
+    gender: m
+  - name: Ein Anmelder.
+    gender: m
+  - name: Herr Berger.
+    gender: m
+  - name: Madame Vinck.
+    gender: f
+setting: >
+  Die Bühne selbst ist der Orte der Handlung.
+---
+slug: marinelli-die-ueberschwemmung
+author:
+  name: Marinelli, Karl von
+  wikidata: Q1733642
+title: Die Überschwemmung
+subtitle: Ein rührendes kleines Stück in einem Aufzuge von dem älteren Marinelli einem deutschen Schauspieler
+numberOfScenes: 1
+printed: 1775
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 137
+editions:
+  - title: "Pest: Royer [1775]"
+    url: https://books.google.com/books?id=PyddAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr Billig.
+    gender: m
+  - name: Herr Lüftig.
+    gender: m
+  - name: Herr Gutherz.
+    gender: m
+  - name: Herr Wind.
+    gender: m
+setting: >
+  Die Handlung geht in der Stadt Pest den 17. Hornung 1775. vor. Das Theater stellt einen Theil der Stadt vor, wohin sich die Fluth des Wassers noch nicht ergossen hat. Man hört ein Gewimmel des Weheklagens, und ein lautes Geschrey zur Aufmunterung der Arbeit. Man sieht Geräthschaften, Kinder, u. s. w. von weinenden Personen tragen. Ein allgemeines Weheklagen mäßiget die Luft, so, daß man mehr Jammer, als Winde verspürt. Eine Menge Menschen bemühen sich ihre Habschaften zu retten, und andre zieht die Neugierde herbey, um über das Vorgehende ihr Urtheil zu fehlen.
 ---
 slug: marsano-der-phlegmatiker
 author:
@@ -8887,6 +8974,38 @@ cast:
     gender: u
 setting: >
   Der Schauplatz ist in Hamburg, in Damons Hause, auf der Diehle.
+---
+slug: mathesius-die-herrschaft-der-weiber
+author:
+  name: Mathesius, Siegmund Immanuel
+title: Die Herrschaft der Weiber
+subtitle: Ein Nachspiel in Einem Aufzug
+numberOfScenes: 13
+printed: 1768
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 23, S. 109–110
+editions:
+  - title: "Frankfurt und Leipzig 1768"
+    url: https://books.google.com/books?id=9OxYAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Geronte.
+    gender: m
+  - name: Melusine,
+    role: dessen Frau.
+    gender: f
+  - name: Lorgen,
+    role: dessen Tochter.
+    gender: f
+  - name: Anton,
+    role: Gerichtssecretair.
+    gender: m
+  - name: Damis.
+    gender: m
+  - name: Heinrich,
+    role: dessen Bedienter.
+    gender: m
 ---
 slug: meissner-der-finanzpachter
 author:
@@ -9876,6 +9995,53 @@ cast:
     gender: m
 setting: >
   Die Handlung spielt im Hause des Hofraths.
+---
+slug: pluemicke-der-volontair
+author:
+  name: Plümicke, Karl Martin
+  wikidata: Q1543650
+title: Der Volontair
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1775
+premiered: 1775-01-24
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 148–149
+editions:
+  - title: "Breslau: Löwe 1775"
+    url: https://books.google.com/books?id=xu1KAAAAcAAJ&printsec=frontcover
+  - title: "Theater der Deutschen. Sechszehnter Theil. Königsberg und Leipzig: Kanter 1776, S. 285–316"
+    url: https://books.google.com/books?id=nIBv19WIppMC&pg=PA285
+comments:
+  - Soldatenstück
+cast:
+  - name: Der General Feldmarschall von *.
+    gender: m
+  - name: Der Adjudant.
+    gender: m
+  - name: Herr von Waller,
+    role: als Volontair.
+    gender: m
+  - name: Vier Officiers
+    isGroup: true
+    gender: m
+  - name: Eine Anzahl vornehmer Officiers, als Gäste.
+    isGroup: true
+    gender: m
+  - name: Schulz,
+    role: Cammerdiener des Generals.
+    gender: m
+  - name: Ein Gefreiter.
+    gender: m
+  - name: Ein polnischer Jude.
+    gender: m
+  - name: Eine Anzahl Masken, Sänger und Sängerinnen.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geht in den Winterquartieren in einer kleinen Stadt vor. Es ist des Nachmittags.
 ---
 slug: praetzel-der-mohr
 author:
