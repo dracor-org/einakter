@@ -1468,6 +1468,45 @@ cast:
 setting: >
   Der Schauplatz ist auf des Herrn von Wildbergs Landgute.
 ---
+slug: anonym-der-steckbrief
+author:
+  pseudonym: Anonym
+title: Der Steckbrief
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1775
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 47
+editions:
+  - title: "Theatralmakulatur. Drey Schauspiele. Preßburg und Leipzig: Löwen 1775, S. 39–68"
+    url: https://books.google.com/books?id=w2tVAAAAcAAJ&pg=PA39
+cast:
+  - name: Großmuth,
+    role: ein Kaufmann.
+    gender: m
+  - name: Karoline,
+    role: seine Tochter.
+    gender: f
+  - name: Jacob,
+    role: Richter im Dorfe.
+    gender: m
+  - group:
+      - name: Michel,
+        gender: m
+      - name: Rose,
+        gender: f
+    role: seine Kinder.
+  - name: Hartherzig,
+    role: herrschaftlicher Amtmann.
+    gender: m
+  - name: Kabel,
+    role: sein Amtsknecht.
+    gender: m
+setting: >
+  Die Handlung geht auf einem Dorfe vor, das einige Stunden von der Hauptstadt entlegen ist.
+---
 slug: anonym-der-unerwartete-ausgang
 author:
   pseudonym: Anonym
@@ -4677,6 +4716,46 @@ cast:
 setting: >
   Das Theater stellet einen Garten vor. Hier und da stehen einzelne Bäume. Es ist Nacht und um 10 Uhr.
 ---
+slug: bruehl-die-ankunft-des-herrn
+author:
+  name: Brühl, Alois Friedrich
+  wikidata: Q214283
+title: Die Ankunft des Herrn
+subtitle: Ein Lustspiel in einem Aufzug. von A. F. G. V. B. G. F. Z. M. D. K. P.
+numberOfScenes: 12
+printed: 1775
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 80
+editions:
+  - title: "Warschau: Gröll 1775"
+    url: https://resolver.sub.uni-hamburg.de/kitodo/PPN882690582
+comments:
+  - Rezensionen im [Almanach der deutschen Musen auf das Jahr 1776, S. 51](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10104560_00079.html), und in der [Allgemeinen deutschen Bibliothek, 33. Band (1778), S. 533](https://books.google.com/books?id=rgErPIAoLrsC&pg=PA533).
+cast:
+  - name: Der Graf von Altenhorst.
+    gender: m
+  - name: Der junge Graf von Altenhorst,
+    role: sein Sohn, unter dem Namen Carl.
+    gender: m
+  - name: Der Baron Jülichenstein,
+    role: unter dem Namen des alten Peters.
+    gender: m
+  - name: Christine,
+    role: seine Tochter.
+    gender: f
+  - name: Herr Grüne,
+    role: des Grafen Altenhorsts Amtsverwalter.
+    gender: m
+  - name: Christoph,
+    role: ein alter Bedienter, der den jungen Grafen erzogen hat.
+    gender: m
+  - name: Der Richter.
+    gender: m
+setting: >
+  Die Bühne stellet ein Dorf vor, im hintern Grunde siehet man von weiten das Herrschaftliche Schloß; das vorderste der Bauerhäuser ist des alten Peters seines, vor welchen eine kleine Lauberhütte gebauet ist, wo bey Oefnung des Vorhangs Peter und Christel an einem Tisch sitzen.
+---
 slug: buerger-die-antike-statue-aus-florenz
 author:
   name: Bürger, Elise
@@ -4878,6 +4957,95 @@ cast:
     gender: f
 setting: >
   Die Scene ist 4 Meilen von der Hauptstadt.
+---
+slug: cronegk-der-erste-aprill
+author:
+  name: Cronegk, Johann Friedrich von
+  wikidata: Q87197
+title: Der erste Aprill
+subtitle: Ein Lustspiel, in einem Aufzuge
+numberOfScenes: 22
+created: 1758
+printed: 1775
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 90
+editions:
+  - title: "Blüthen des Geistes des Freyherrn Joh. Fried. von Cronegk. In Zweyen von seinen bisher nie gedruckten Stücken. Straßburg: Stein 1775, S. 47–111"
+    url: https://books.google.com/books?id=qH46AAAAcAAJ&pg=PA47
+comments:
+  - Erstdruck posthum 1775, genaues Entstehungsdatum bisher nicht ermittelt, terminus ante quem ist 1758, Cronegks Todesjahr.
+cast:
+  - name: Frau von Orgon.
+    gender: f
+  - name: Herr von Arist,
+    role: ihr Bruder.
+    gender: m
+  - name: Fräulein Christianchen,
+    role: ihre Nichte.
+    gender: f
+  - name: Cathrinchen,
+    role: Fräulein Christianchens Kammermädchen.
+    gender: f
+  - name: Martin,
+    role: Gärtner bey der Frau von Orgon.
+    gender: m
+  - name: Herr von Melamp,
+    role: ein alter Land-Junker.
+    gender: m
+  - name: Herr von Clitander,
+    role: verliebt in Fräulein Christianchen.
+    gender: m
+  - name: Philipp,
+    role: Bedienter des Herrn von Melamp.
+    gender: m
+  - name: Einige Bauren und Bäuerinnen
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist im Garten, bey dem Landhause der Frau von Orgon.
+---
+slug: cronegk-der-misvergnuegte
+author:
+  name: Cronegk, Johann Friedrich von
+  wikidata: Q87197
+title: Der Misvergnügte
+subtitle: Ein Lustspiel, in einem Aufzuge
+numberOfScenes: 14
+created: 1758
+printed: 1775
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 90–91
+editions:
+  - title: "Blüthen des Geistes des Freyherrn Joh. Fried. von Cronegk. In Zweyen von seinen bisher nie gedruckten Stücken. Straßburg: Stein 1775, S. 1–46"
+    url: https://books.google.com/books?id=qH46AAAAcAAJ&pg=PA1
+comments:
+  - Erstdruck posthum 1775, genaues Entstehungsdatum bisher nicht ermittelt, terminus ante quem ist 1758, Cronegks Todesjahr.
+cast:
+  - name: Alcipp.
+    gender: m
+  - name: Cleanth,
+    role: sein Freund, ein junger Herr.
+    gender: m
+  - name: Zemire,
+    role: Alcipps Geliebte.
+    gender: f
+  - name: Arist,
+    role: eine junge Magistrats-Person.
+    gender: m
+  - name: Philine,
+    role: ein verheyrathetes Frauenzimmer.
+    gender: f
+  - name: Timantes,
+    role: ein witziger Kopf.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist im Garten auf dem Landgute Zemirens.
 ---
 slug: d-elpons-der-ahnherr
 author:
