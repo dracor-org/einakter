@@ -43,6 +43,21 @@ Dîlan's dissertation.
 
 All data is collected in a simple YAML file, which can be downloaded
 <a href="https://raw.githubusercontent.com/dracor-org/einakter/master/data.yaml" download="einakter.yml">here</a>.
+
+We also export a [JSON file](https://einakter.dracor.org/data.json), which is
+always based on the current version of the YAML file, but in contrast to the
+source file it additionally contains some calculated values (currently the
+number of characters per play). The JSON file can be easily accessed from
+different environments to conduct statistics. Some examples in R:
+
+```R
+library(jsonlite)
+einakter <- fromJSON("https://einakter.dracor.org/data.json")
+hist(einakter$normalizedYear)
+plot(einakter$normalizedYear, einakter$numberOfScenes)
+plot(einakter$normalizedYear, einakter$numberOfCharacters)
+```
+
 The data model is described <a href="https://github.com/dracor-org/einakter/wiki">here</a>.
 Versioning provided through our
 [GitHub repository](https://github.com/dracor-org/einakter). The single-page app
