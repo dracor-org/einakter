@@ -5,10 +5,7 @@ import {Link} from 'react-router-dom';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
 import {Play} from '../types';
-import data from '../plays';
-
-const dataURI = 'data:text/json;base64,' +
-  btoa(unescape(encodeURIComponent(JSON.stringify(data))));
+import data from '../data.json';
 
 function formatAuthor (_: string, play: Play) {
   return <Authors authors={play.authors || []}/>;
@@ -106,7 +103,7 @@ function Table () {
             <span className="counter">
               Database currently containing {data.length} one-act plays
               {' '}
-              <a href={dataURI} className="download" download="einakter.json" >
+              <a href="data.json" className="download" download="einakter.json" >
                 <FontAwesomeIcon icon="download" title="Download JSON"/>
               </a>
             </span>

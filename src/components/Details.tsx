@@ -6,7 +6,7 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
 import Years from './Years';
 import {CastMember, Play} from '../types';
-import data from '../plays';
+import data from '../data.json';
 
 const groupIcon = <FontAwesomeIcon icon="users" size="sm" title="Group"/>;
 
