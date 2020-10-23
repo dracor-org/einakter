@@ -33,7 +33,7 @@
     "typescript": "~3.7.2"
   },
   "scripts": {
-    "json": "js-yaml ./data.yaml > ./src/data.json && js-yaml ./data.yaml > ./public/data.json",
+    "json": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2json.ts && cp ./data.json ./src/ && cp ./data.json ./public/",
     "start": "yarn json && react-scripts start",
     "build": "yarn json && react-scripts build",
     "test": "yarn json && react-scripts test",
