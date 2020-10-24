@@ -5636,6 +5636,49 @@ cast:
 setting: >
   Die Handlung ist auf von Siltens Landgute.
 ---
+slug: freytag-der-gelehrte
+author:
+  name: Freytag, Gustav
+  wikidata: Q58811
+title: Der Gelehrte
+subtitle: Trauerspiel in einem Act
+numberOfScenes: 16
+created: 1844
+printed: 1848
+formalia:
+  - Blankvers
+editions:
+  - title: "Leipzig: Hirzel 1858, S. 113–158"
+    url: https://books.google.com/books?id=gREpl62Am2UC&pg=PA113
+comments:
+  - Fragment geblieben, aber so veröffentlicht.
+  - Keine eigentliche Szeneneinteilung; 16 (?) durch Regieanweisung angezeigte Konfigurationswechsel.
+  - Vgl. [Böttcher 2018, S. 170–172](https://books.google.com/books?id=U5NdDwAAQBAJ&pg=PA170).
+cast:
+  - name: Leontine.
+    gender: f
+  - name: Reginald.
+    gender: m
+  - name: Der Minister.
+    gender: m
+  - name: Walter,
+    role: Archivar.
+    gender: m
+  - name: Romberg,
+    role: Journalist.
+    gender: m
+  - name: Klaus,
+    role: Parkwärter.
+    gender: m
+  - name: Diener.
+    isGroup: true
+    gender: u
+  - name: Gäste.
+    isGroup: true
+    gender: u
+setting: >
+  Scene: Park eines Landsitzes in der Nähe der Residenz.
+---
 slug: gasser-ramirus
 author:
   name: Gaßer, Franz
@@ -7054,7 +7097,7 @@ editions:
   - title: "Wien: Wallishausser 1794"
     url: https://books.google.com/books?id=3KtSAAAAcAAJ&printsec=frontcover
   - title: "Comisches Theater von J. F. Jünger. Dritter Band. Leipzig: Göschen 1795, S. 337–399"
-    url: https://books.google.com/books?id=Xu5VAAAAcAAJ&pg=RA1-PA337
+    url: https://books.google.com/books?id=Xu5VAAAAcAAJ&pg=RA1-PA157
   - title: "Wien: Wallishausser 1807"
     url: https://books.google.com/books?id=FI_XiA8--xgC&printsec=frontcover
 comments:
