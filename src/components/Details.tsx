@@ -11,7 +11,7 @@ import data from '../data.json';
 const groupIcon = <FontAwesomeIcon icon="users" size="sm" title="Group"/>;
 
 export default function Details () {
-  const { id } = useParams();
+  const { id } = useParams<{id: string}>();
   const { pathname } = useLocation();
 
   const play: Play | undefined = data.find((p: Play) => p.slug === id);
