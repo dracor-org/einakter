@@ -4451,6 +4451,7 @@ setting: >
 slug: bischoff-der-judenfeind
 author:
   name: Bischoff, L. C. H.
+  wikidata: Q100980057
 title: Der Judenfeind
 subtitle: Ein Trauerspiel in einem Aufzuge
 numberOfScenes: 8
@@ -4486,6 +4487,54 @@ cast:
     gender: m
 setting: >
   Salomos Hausflur.
+---
+slug: bischoff-woehlheim-oder-die-freude-in-der-nacht
+author:
+  name: Bischoff, L. C. H.
+  wikidata: Q100980057
+title: Wölheim oder die Freude in der Nacht
+subtitle: Ein Lustspiel in einem Aufzuge von B....ff
+numberOfScenes: 7
+printed: 1779
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 222–223
+editions:
+  - title: "Stendal: Franzen 1779"
+    url: https://books.google.com/books?id=gxFaAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Baron von Wagenburg,
+    role: Major.
+    gender: m
+  - group:
+    - name: v. Wölheim der ältere,
+      role: Kriegsrath,
+      gender: m
+    - name: v. Wölheim der iüngere,
+      role: Auditeur,
+      gender: m
+    role: Brüder und des Majors Anverwandte.
+  - name: Frau von Selow,
+    role: eine Wittwe.
+    gender: f
+  - name: Emilie,
+    role: deren Tochter.
+    gender: f
+  - name: Christel,
+    role: Kammermädchen.
+    gender: f
+  - name: Heinrich,
+    role: Bedienter des Majors.
+    gender: m
+  - name: Jochen,
+    role: Bedienter des Kriegsraths.
+    gender: m
+  - name: Pietsch,
+    role: der Wirth.
+    gender: m
+setting: >
+  Der Schauplatz ist in einer Preussischen Stadt. Die Handlung gehet um vier Uhr Nachmittags an, und dauert bis in die Nacht.
 ---
 slug: bock-der-adel-des-herzens-oder-die-ausgeschlagne-erbschaft
 author:
@@ -4644,6 +4693,84 @@ cast:
     gender: f
 setting: >
   Die Scene ist in Aristens Hause, worinn zugleich Argant mit seiner Nichte wohnt, in einem Saale, worinn man einige Stühle und einen Tisch mit einem Schreibzeuge siehet.
+---
+slug: bock-es-ist-friede
+author:
+  name: Bock, Johann Christian
+  wikidata: Q94823975
+title: Es ist Friede
+subtitle: Ein ländliches Drama in einem Aufzuge. Zur Feyer des Friedensschlusses zu Teschen
+numberOfScenes: 14
+printed: 1779
+premiered: 1779-06-06
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 224–225
+editions:
+  - title: Leipzig 1779
+    url: https://books.google.com/books?id=ivFYAAAAcAAJ&printsec=frontcover
+comments:
+  - "Auch unter dem Titel »Es ist Friede! (gestrichen: Die Friedensfeyer) Ländliches Schauspiel in einem Aufzuge« (undat. Ms.)."
+cast:
+  - name: Der Oberste von Biederau,
+    role: in sächsischen Diensten.
+    gender: m
+  - name: Gabriele,
+    role: dessen Gemahlinn.
+    gender: f
+  - group:
+      - name: August,
+        gender: m
+      - name: Amalia,
+        gender: f
+    role: deren Kinder.
+  - name: Fräulein Karoline,
+    role: Gabrielens Schwester.
+    gender: f
+  - name: Der Capitain von Langenfeld,
+    role: in kaiserlichen Diensten.
+    gender: m
+  - name: Der Major von Stammer,
+    role: in preußischen Diensten.
+    gender: m
+  - name: Wiese,
+    role: des Obersten Verwalter.
+    gender: m
+  - name: Hinz,
+    role: der Schulze des Dorfs.
+    gender: m
+  - name: Triller,
+    role: der Küster.
+    gender: m
+  - name: Malz,
+    role: der Brauer.
+    gender: m
+  - name: Krause,
+    role: ein alter Bauer.
+    gender: m
+  - name: Anna,
+    role: seine Frau.
+    gender: f
+  - name: Friedrich,
+    role: ihr Sohn, Korporal bey des Obersten Regimente.
+    gender: m
+  - name: Kunz,
+    role: ein Bauer.
+    gender: m
+  - name: Gretchen,
+    role: dessen Tochter.
+    gender: f
+  - name: Strang,
+    role: des Obersten Reitknecht.
+    gender: m
+  - name: Ein Bänkelsänger.
+    gender: m
+  - name: Bauern mit Weibern und Kindern.
+    isGroup: true
+    gender: u
+setting: >
+  Die Scene ist auf des Obersten Rittergute, anfänglich in einer buschichten Spatziergegend des Dorfes, und zuletzt in dem erleuchteten Garten des Obersten.
 ---
 slug: bodmer-die-botschaft-des-lebens
 author:
@@ -12268,6 +12395,47 @@ cast:
 setting: >
   Die Scene: Platz vor einer ländlichen Wohnung; seitwärts Tisch und Bank.
 ---
+slug: schwan-die-aussteuer
+author:
+  name: Schwan, Christian Friedrich
+  wikidata: Q927033
+title: Die Aussteuer
+subtitle: Ein Nachspiel in einem Aufzuge. Nach dem Französischen einer noch ungedruckten Operette
+numberOfScenes: 15
+printed: 1778
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 157–158
+editions:
+  - title: "Mannheim: Schwan 1778"
+    url: https://books.google.com/books?id=9GpUAAAAcAAJ&printsec=frontcover
+comments:
+  - "»Vorlage angebl. von Joseph Fiévée; ev. auch ›Le Dot‹ von Audinot.« (Meyer)"
+cast:
+  - name: Margrethe,
+    role: eine alte Bäurin.
+    gender: f
+  - name: Sußchen,
+    role: ihre Tochter.
+    gender: f
+  - name: Michel,
+    role: Sußchens Bräutigam.
+    gender: f
+  - name: Jacob,
+    role: ein junger Bauernbursche.
+    gender: m
+  - name: Frau Rosine,
+    role: eines reichen Pachters Wittwe.
+    gender: f
+  - name: Der Amtmann.
+    gender: m
+  - name: Martin,
+    role: der Schulz im Dorfe.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem Dorfe. Das Theater stellt einen mit Bäumen besetzten Platz vor. Auf der einen Seite das Haus des Amtmanns, und auf der andern Seite Bauernhäuser.
+---
 slug: sebastiani-die-matrone-von-ephesus-oder-der-von-den-weibern-leicht-vergessene-tod-der-maenner
 author:
   name: Sebastiani, Franz Joseph
@@ -12571,6 +12739,44 @@ cast:
     gender: m
 setting: >
   Ein finsterer Wald. Man sieht unterschiedliche Gänge, die mit Bäumen dicht bewachsen sind. An der Spitze des Theaters sieht man einen halb zusammen gefallenen Brunnen.
+---
+slug: sprickmann-das-missverstaendniss
+author:
+  name: Sprickmann, Anton Matthias
+  wikidata: Q215042
+title: Das Mißverständniß
+subtitle: Ein Drama in einem Aufzuge
+numberOfScenes: 12
+printed: 1778
+premiered: 1778-10-29
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 161
+editions:
+  - title: "Wien 1778"
+    url: https://books.google.com/books?id=xamLVtc-YCIC&printsec=frontcover
+cast:
+  - name: Miß Fanny,
+    role: "unter dem Namen: Lady Berrich."
+    gender: f
+  - name: Sir Fäteston,
+    role: ein Offizier.
+    gender: m
+  - name: Sir Williams,
+    role: Onkel.
+    gender: m
+  - name: Betty,
+    role: Kammermädchen der Miß.
+    gender: f
+  - name: Andrews,
+    role: Bedienter der Miß.
+    gender: m
+  - name: John,
+    role: Bedienter des Sir Fäteston.
+    gender: m
+setting: >
+  Zimmer bey Sir Williams.
 ---
 slug: steffens-der-geld-topf
 author:
@@ -13685,6 +13891,42 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist auf des Herrn von Busch Landguthe.
+---
+slug: weisse-ein-kleiner-familienzwist-oder-gute-kinder-machen-bisweilen-auch-gute-aeltern
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Ein kleiner Familienzwist, oder Gute Kinder machen bisweilen auch gute Aeltern
+subtitle: Ein Schauspiel für Kinder in einem Aufzuge
+numberOfScenes: 10
+printed: 1778
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 174–175
+editions:
+  - title: "Leipzig: Crusius 1778"
+    url: https://books.google.com/books?id=a-xYAAAAcAAJ&printsec=frontcover
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr von Grundmann,
+    role: ein reicher Ritterguthsbesitzer.
+    gender: m
+  - name: Fräulein Adelaide,
+    role: des Vorhergehenden Tochter.
+    gender: f
+  - name: Junker Adolph,
+    role: Sohn des Vorigen.
+    gender: m
+  - name: Thomas,
+    role: kleiner Sohn des Pfarrers.
+    gender: m
+  - name: Dortchen,
+    role: Tochter des Pfarrers.
+    gender: f
+setting: >
+  Der Schauplatz ist in einem Lustgarten am Schlosse des Edelmanns. Auf der Seite des Hintergrunds steht eine Laube.
 ---
 slug: weisse-grossmuth-fuer-grossmuth
 author:
