@@ -1429,6 +1429,52 @@ cast:
 setting: >
   Der Schauplaz ist dem Landhause des Lisidors gegenüber.
 ---
+slug: anonym-der-niedergelegte-schatz
+author:
+  pseudonym: Anonym
+title: Der niedergelegte Schatz
+subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen des Herrn Nericault Destouches übersetzt
+numberOfScenes: 16
+printed: 1772
+formalia:
+  - Prosa
+basedOn:
+  - "Destouches: »Le dépot. Comédie«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 469–470
+editions:
+  - title: "Berlin: Himburg 1772"
+    url: https://books.google.com/books?id=MCIaHGhMZnAC&printsec=frontcover
+cast:
+  - name: Geront,
+    role: ein Mann von Stande, der sich auf sein Landgut bey Paris begeben hat.
+    gender: m
+  - name: Der Baron,
+    role: Geronts Nachbar.
+    gender: m
+  - name: Angelike,
+    role: Geronts Tochter.
+    gender: f
+  - name: Lisette,
+    role: Angelikens Kammermädchen.
+    gender: f
+  - name: Clitander,
+    role: Angelikens Liebhaber.
+    gender: m
+  - name: Der Marquis von Esbignak.
+    gender: m
+  - name: Der Graf,
+    role: ein Neffe des Barons.
+    gender: m
+  - name: Frontin,
+    role: Kammerdiener von dem Sohne des Geront.
+    gender: m
+  - name: Guignak,
+    role: Bedienter des Geront.
+    gender: m
+setting: >
+  Der Schauplatz ist in Geronts Schlosse.
+---
 slug: anonym-der-officier
 author:
   pseudonym: Anonym
@@ -2898,6 +2944,38 @@ cast:
 setting: >
   Das Theater stellt einen offnen Dorfplatz vor, an der Seite ist Jürgens elende Hütte, im Hintergrunde ein ausgetretener Fluß mit Feldfrüchten bedeckt.
 ---
+slug: anonym-die-glueckliche-zusammenkunft
+author:
+  pseudonym: Anonym
+title: Die glückliche Zusammenkunft
+subtitle: Ein Schauspiel in ungebundener Rede und einem Aufzuge aus dem Französischen übersetzt
+numberOfScenes: 24
+printed: 1772
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 480–481
+editions:
+  - title: "Frankfurt am Mayn: Andreä 1772"
+    url: https://books.google.com/books?id=XSNVAAAAcAAJ&printsec=frontcover
+comments:
+  - "»Vorlage: unklar.« (Meyer)"
+cast:
+  - name: Vincent.
+    gender: m
+  - name: Frau Vincent.
+    gender: f
+  - name: Lenchen,
+    role: Vincents Tochter.
+    gender: f
+  - name: Gottfried.
+    gender: m
+  - name: Balthasar,
+    role: ein Soldat, Vincents Sohn.
+    gender: m
+  - name: Ein Feldwebel.
+    gender: m
+---
 slug: anonym-die-unbesonnenheit
 author:
   pseudonym: Anonym
@@ -3391,6 +3469,54 @@ cast:
     gender: m
 setting: >
   Die Handlung ist in einem Walde an einem dicht mit Bäumen besetzten Orte.
+---
+slug: anonym-julchens-heyrath
+author:
+  pseudonym: Anonym
+title: Julchens Heyrath
+subtitle: Ein Schauspiel in ungebundener Rede und einem Aufzuge aus dem Französischen übersetzt
+numberOfScenes: 24
+printed: 1772
+formalia:
+  - Prosa
+basedOn:
+  - "Bernard-Joseph Saurin: [»Le mariage de Julie. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAURIN_MARIAGEDEJULIE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 453–454
+editions:
+  - title: "Frankfurt am Mayn: Andreä 1772"
+    url: https://books.google.com/books?id=sCNVAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr Durval,
+    role: ein reicher königlicher Rhenten Einnehmer.
+    gender: m
+  - name: Frau Durval,
+    role: dessen Frau.
+    gender: f
+  - name: Julchen,
+    role: ihre Tochter.
+    gender: f
+  - name: Herr von Surmon,
+    role: des Herrn Durval Bruder.
+    gender: m
+  - name: Die Gräfinn von Altin,
+    role: Schwester der Frau Durval.
+    gender: f
+  - name: Die Marquisinn von Saintbon.
+    gender: m
+  - name: Der Marquis von Saintbon,
+    role: ihr Sohn.
+    gender: m
+  - name: Ein Doctor Medicinä.
+    gender: m
+  - name: Agathe,
+    role: eine Kammerfrau der Frau Durval.
+    gender: f
+  - name: Dumont,
+    role: Haushofmeister, der Mann der Agathe.
+    gender: m
+setting: >
+  Der Schauplatz ist in dem Saale eines Landhauses des Herrn Durval, welches sehr nahe an Versailles ist.
 ---
 slug: anonym-krispin-der-geplagte-lehenbediente
 author:
@@ -4560,6 +4686,41 @@ cast:
 setting: >
   Der Schauplatz ist in dem Eichwalde Mamre, vor Jacobs Gezelte, wo eine cederne Ruhebank ist, und gegen über ein Altar von Marmor.
 ---
+slug: brahm-der-ungegruendete-verdacht
+author:
+  name: Brahm, Moritz von
+  wikidata: Q95321063
+title: Der ungegründete Verdacht
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 32
+printed: 1771
+premiered: 1771-12-09
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 298–299
+editions:
+  - title: "Wien 1771"
+    url: https://books.google.com/books?id=S9dUAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Mylord Ossery.
+    gender: m
+  - name: Lucinde,
+    role: seine Gemahlinn.
+    gender: f
+  - name: Nancy,
+    role: ihr Töchtergen.
+    gender: f
+  - name: Trufort,
+    role: Lucindens Vater.
+    gender: m
+  - name: Tryhall,
+    role: des Ossery Bruder.
+    gender: m
+  - name: John,
+    role: des Ossery Bedienter.
+    gender: m
+---
 slug: brahm-die-stimme-der-natur-oder-die-schoene-luege
 author:
   name: Brahm, Moritz von
@@ -4742,6 +4903,108 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in dem Zimmer der Frau Lisban.
+---
+slug: bretzner-das-concert
+author:
+  name: Bretzner, Christoph Friedrich
+  wikidata: Q86383
+title: Das Concert
+subtitle: Ein Lustspiel in einem Akte
+numberOfScenes: 22
+printed: 1771
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 299
+editions:
+  - title: "Halle: Curt 1771"
+    url: https://books.google.com/books?id=R21VAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr Alban,
+    role: ein alter reicher Kaufmann.
+    gender: m
+  - name: Celinde,
+    role: eine junge Engländerin.
+    gender: f
+  - name: Sophie,
+    role: ihr Mädgen.
+    gender: f
+  - name: Der Baron von Bogen,
+    role: Celindens Liebhaber, unter der Kleidung eines Armenischen Kaufmanns.
+    gender: m
+  - name: Heinrich,
+    role: sein Bedienter.
+    gender: m
+  - name: Valentin,
+    role: Albans Bedienter.
+    gender: m
+  - name: Ein kleiner Mohr,
+    role: von acht Jahren.
+    gender: m
+  - group:
+    - name: Rosa
+      gender: f
+    - name: Beatrice
+      gender: f
+    role: Zwo verkleidete Sängerinnen.
+  - name: Verschiedene Musici.
+    isGroup: true
+    gender: u
+setting: >
+  Das Theater ist ein Saal in Albans Hause. Seitwärts stehet ein Tisch, auf welchem alles zu einem Concert bereit liegt.
+---
+slug: bretzner-der-hofmeister
+author:
+  name: Bretzner, Christoph Friedrich
+  wikidata: Q86383
+title: Der Hofmeister
+subtitle: Ein Lustspiel in einem Akte
+numberOfScenes: 22
+printed: 1771
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 301
+editions:
+  - title: "Halle: Curt 1771"
+    url: https://nbn-resolving.de/urn:nbn:de:gbv:3:1-829152-p0309-2
+cast:
+  - name: Der Baron.
+    gender: m
+  - group:
+    - name: Der Graf
+      gender: m
+    - name: Herr von Wild
+      gender: m
+    role: Freunde des Barons.
+  - name: Herr Schlimm,
+    role: Hofmeister des Barons.
+    gender: m
+  - name: Herr Gutmann,
+    role: erster Hofmeister des Barons.
+    gender: m
+  - name: Carl,
+    role: Bedienter des Barons.
+    gender: m
+  - name: Lucie,
+    role: eine leichtsinnige Frauensperson.
+    gender: f
+  - name: Clarisse.
+    gender: f
+  - name: Herr Schlange,
+    role: ein Wucherer.
+    gender: m
+  - name: Herr Flink,
+    role: der Wirth.
+    gender: m
+  - name: Herr Willig,
+    role: ein Kaufmann.
+    gender: m
+  - name: Herr Fuchs,
+    role: ein Kuppler.
+    gender: m
+setting: >
+  Das Theater ist ein Saal.
 ---
 slug: bretzner-der-schatzgraeber-oder-der-aepfel-dieb
 author:
@@ -5641,19 +5904,22 @@ author:
   name: Freytag, Gustav
   wikidata: Q58811
 title: Der Gelehrte
-subtitle: Trauerspiel in einem Act
+subtitle: Trauerspiel in 1 Akt
 numberOfScenes: 16
 created: 1844
 printed: 1848
 formalia:
   - Blankvers
 editions:
-  - title: "Leipzig: Hirzel 1858, S. 113–158"
+  - title: "Poetische Bilder aus der Zeit. Ein Taschenbuch herausgegeben von Arnold Ruge. II. Leipzig: Verlagsbureau 1848, S. 3–66"
+  - title: "Dramatische Werke von Gustav Freytag. Leipzig: Hirzel 1858, S. 113–158"
     url: https://books.google.com/books?id=gREpl62Am2UC&pg=PA113
+  - title: "Dramatische Werke von Gustav Freytag. Zweite Auflage. Erster Band. Leipzig: Hirzel 1868, S. 113–158"
+    url: https://books.google.com/books?id=a2_fAAAAMAAJ&pg=PA113
+  - title: "Gesammelte Werke. Band 2. Leipzig: Hirzel 1887, S. 93–132"
 comments:
-  - Fragment geblieben, aber so veröffentlicht.
-  - Keine eigentliche Szeneneinteilung; 16 (?) durch Regieanweisung angezeigte Konfigurationswechsel.
-  - Vgl. [Böttcher 2018, S. 170–172](https://books.google.com/books?id=U5NdDwAAQBAJ&pg=PA170).
+  - Schon im Erstdruck als »Trauerspiel in 1 Akt« bezeichnet, endet dort aber mit den Worten »(Fortsetzung im nächsten Jahrgange.)« – wozu es aber nicht kam, vgl. [Böttcher 2018, S. 340](https://books.google.com/books?id=NK9VDwAAQBAJ&pg=PT296).
+  - Keine eigentliche Szeneneinteilung; 16 durch Regieanweisung angezeigte Konfigurationswechsel.
 cast:
   - name: Leontine.
     gender: f
@@ -5772,6 +6038,45 @@ cast:
     gender: m
 setting: >
   Die Handlung gehet in dem Kieselsteinischen Hause vor.
+---
+slug: gebler-die-abgenoethigte-einwilligung
+author:
+  name: Gebler, Tobias Philipp von
+  wikidata: Q2437939
+title: Die abgenöthigte Einwilligung
+subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen des Guyot von Merville nachgeahmet
+numberOfScenes: 21
+printed: 1771
+premiered: 1771-10-05
+formalia:
+  - Prosa
+basedOn:
+  - "Michel Guyot de Merville: [»Le consentement forcé. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/GUYOTDEMERVILLE_CONSENTEMENTFORCE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 331
+editions:
+  - title: "Wien: Trattner 1771"
+    url: https://books.google.com/books?id=NJ0yAQAAMAAJ&printsec=frontcover
+comments:
+  - Weitere Übersetzungen [1742 (anonym)](anonym-die-erzwungene-einwilligung) und [1768 (Walz)](walz-einwilligung-wider-willen).
+cast:
+  - name: Herr von Lindthal;
+    role: Vater.
+    gender: m
+  - name: Herr von Lindthal;
+    role: Sohn.
+    gender: m
+  - name: Sophie;
+    role: des jungen Lindthals Gemahlinn.
+    gender: f
+  - name: Baron Altberg;
+    role: Beyder Lindthale Freund.
+    gender: m
+  - name: Lisette;
+    role: Sophiens Kammerjungfer.
+    gender: f
+setting: >
+  Die Handlung geht vor in dem Altbergischen Schlosse.
 ---
 slug: gebler-die-kabala-oder-das-lottoglueck
 author:
@@ -6576,6 +6881,52 @@ cast:
     gender: m
 setting: >
   Die Handlung geht in Wien vor.
+---
+slug: hensler-lorenz-konau
+author:
+  name: Hensler, Peter Wilhelm
+  wikidata: Q18957787
+title: Lorenz Konau
+subtitle: Ein Schauspiel in Einer Handlung
+numberOfScenes: 19
+printed: 1776
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 318–319
+editions:
+  - title: "Altona: Iversen 1776"
+    url: https://books.google.com/books?id=X21VAAAAcAAJ&printsec=frontcover
+comments:
+  - "Parodie auf Goethes »Die Leiden des jungen Werthers«."
+cast:
+  - name: Lorenz Konau,
+    role: ein Buchbinder und Bürgerworthalter.
+    gender: m
+  - name: Zielchen,
+    role: dessen Tochter, genannt Lotte.
+    gender: f
+  - name: Lehngen,
+    role: dessen Nichte, genannt Elise.
+    gender: f
+  - name: Versikel,
+    role: ein angehender Theolog, genannt Werther.
+    gender: m
+  - name: Glosse,
+    role: ein angehender Jurist, genannt Alexis.
+    gender: m
+  - name: Niklas,
+    role: Konaus Gesell.
+    gender: m
+  - name: Peter,
+    role: dessen Lehrbursch.
+    gender: m
+  - name: Der Nachbar Claus.
+    gender: m
+  - name: Ein Rathsdiener.
+    gender: m
+  - name: Ein Bettler.
+    gender: m
+setting: >
+  Die Handlung ist in Konaus Hause.
 ---
 slug: herrl-der-faschingsstreich
 author:
@@ -7712,7 +8063,7 @@ setting: >
   Der Schauplatz ist ein Saal mit mehreren Thüren, im Hintergrunde ein Catheder,
   Stühle und Bänke für die Pensionaire.
 ---
-slug: krausenck-die-werbung-fuer-england
+slug: krauseneck-die-werbung-fuer-england
 author:
   name: Krauseneck, Johann Christoph
   wikidata: Q94360286
@@ -7759,6 +8110,49 @@ cast:
     gender: m
 setting: >
   Die Scene ist nicht in Franken, die Werbung im März.
+---
+slug: krausenck-fatime-oder-das-tribut-maedgen
+author:
+  name: Krauseneck, Johann Christoph
+  wikidata: Q94360286
+title: Fatime oder Das Tribut-Mädgen
+subtitle: Ein Lustspiel in Einer Handlung
+numberOfScenes: 12
+printed: 1770
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 103–104
+editions:
+  - title: "Bayreuth: Lübeck 1770"
+    url: https://books.google.com/books?id=ZGxVAAAAcAAJ&printsec=frontcover
+comments:
+  - "Auch unter dem Titel »Fatime, oder das Tributmädchen. Ein Lustspiel, in ungebundener Rede und einem Aufzug« ([Aufführung in Nürnberg 1776](https://books.google.com/books?id=Lameu0UB9NgC&pg=PA10))."
+keywords:
+  - Sklaverei
+  - Kaukasus
+  - Russisch-Osmanische Kriege
+cast:
+  - name: Achmet,
+    role: ein vornehmer Bassa.
+    gender: m
+  - name: Fatime,
+    role: eine junge Cirkaßierin.
+    gender: m
+  - name: Uslof,
+    role: ein rußischer Kriegs-Obrister.
+    gender: m
+  - name: Mustapha,
+    role: ein Janitscharen Officier.
+    gender: m
+  - name: Petrowitz,
+    role: ein türkischer Sklave.
+    gender: m
+  - name: Einige rußische Soldaten.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplatz ist ein Haus in der Festung Choczim.
 ---
 slug: kretschmann-adonis
 author:
