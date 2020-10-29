@@ -432,7 +432,7 @@ formalia:
 dictionaries:
   bibliographia: 2. Abteilung, Band 26, S. 21
 editions:
-  - title: "Theatralmakulatur. Drey Schauspiele. Preßburg und Leipzig: Löwen 1775, S. 17–38"
+  - title: "Theatralmakulatur. Drey Schauspiele. Preßburg und Leipzig: Löwe 1775, S. 17–38"
     url: https://books.google.com/books?id=w2tVAAAAcAAJ&pg=PA17
 cast:
   - group:
@@ -1779,7 +1779,7 @@ formalia:
 dictionaries:
   bibliographia: 2. Abteilung, Band 26, S. 47
 editions:
-  - title: "Theatralmakulatur. Drey Schauspiele. Preßburg und Leipzig: Löwen 1775, S. 39–68"
+  - title: "Theatralmakulatur. Drey Schauspiele. Preßburg und Leipzig: Löwe 1775, S. 39–68"
     url: https://books.google.com/books?id=w2tVAAAAcAAJ&pg=PA39
 cast:
   - name: Großmuth,
@@ -6109,6 +6109,65 @@ cast:
 setting: >
   Das Theater stellet eine wilde Gegend vor, am Ufer des Meers.
 ---
+slug: engel-der-dankbare-sohn
+author:
+  name: Engel, Johann Jakob
+  wikidata: Q71442
+title: Der dankbare Sohn
+subtitle: Ein ländliches Lustspiel in einem Aufzuge
+numberOfScenes: 22
+printed: 1771
+premiered: 1771-01-21
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 311–314
+editions:
+  - title: "Leipzig: Dyck 1771"
+    url: http://digital.slub-dresden.de/id320932095/3
+  - title: "Wien 1771"
+    url: https://books.google.com/books?id=KcvHoM3WByQC&printsec=frontcover
+  - title: "Theater der Deutschen. Eilfter Theil. Königsberg und Leipzig: Kanter 1772, S. 251–292"
+    url: https://books.google.com/books?id=5FVoV1VvtC0C&pg=PA251
+  - title: "Zweyte Auflage. Leipzig: Dyck 1773"
+    url: https://books.google.com/books?id=C3ZSxwEACAAJ&printsec=frontcover
+  - title: "Frankfurt und Leipzig 1775"
+    url: https://books.google.com/books?id=LHkEvwEACAAJ&printsec=frontcover
+  - title: "J. J. Engels Lustspiele. Carlsruhe: Schmieder 1783"
+    url: https://books.google.com/books?id=2zM7AAAAcAAJ&pg=RA2-PA1
+  - title: "Dritte Auflage. Leipzig: Dyk 1786"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11090492_00001.html
+comments:
+  - Unter dem Titel [»Le fils reconnoissant. Comédie en un acte«](https://books.google.com/books?id=CVpXAAAAcAAJ&printsec=frontcover) (1772) ins Französische übersetzt.
+  - Auch unter dem Titel »Der dankbare Sohn. Ein Lustspiel in einem Aufzuge« (Coburg 1771).
+cast:
+  - name: Rode,
+    role: ein alter Bauer.
+    gender: m
+  - name: Rachel,
+    role: seine Frau.
+    gender: f
+  - name: Gretchen,
+    role: seine Tochter.
+    gender: f
+  - name: Michel,
+    role: ihr Bräutigam.
+    gender: m
+  - name: Käthe,
+    role: Michels Mutter.
+    gender: f
+  - name: Der Küster aus dem Dorfe.
+    gender: m
+  - name: Ein Feldwebel von der Infanterie.
+    gender: m
+  - name: Ein Rittmeister.
+    gender: m
+  - name: Soldaten und alte Bauern aus dem Dorfe.
+    isGroup: true
+    gender: m
+setting: >
+  Die Scene ist ein ländlicher mit Bäumen besetzter Platz vor einer Bauerhütte. Im Hintergrunde erblickt man eine kleine Anhöhe.
+---
 slug: faber-die-drey-brueder-als-nebenbuhler
 author:
   name: Faber, Johann Heinrich
@@ -10088,6 +10147,41 @@ cast:
 setting: >
   Die Scene ist auf einem Landhause des Alcimons.
 ---
+slug: meyer-nuht-die-gottheit-von-nehcstät
+author:
+  name: Meyer, Franz Anton von
+  wikidata: Q60836828
+title: Nuht, die Gottheit von Nehestät
+subtitle: Ein Schäferspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1773
+premiered: 1773-07-02
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 324
+editions:
+  - title: "[Wien 1773]"
+    url: https://books.google.com/books?id=pcO1uKlH9gUC&printsec=frontcover
+cast:
+  - name: Dlopoel,
+    role: der Barde.
+    gender: m
+  - name: Friedhold,
+    role: ein Schäfer.
+    gender: m
+  - name: Adelheide,
+    role: eine Schäferinn.
+    gender: f
+  - name: Treuwill,
+    role: ein armer Schafhirt.
+    gender: m
+  - name: Barden, Schäfer, und Schäferinnen
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist der geheiligte Hayn von der Gaue Nehestät.
+---
 slug: meyer-schroeder-die-uebereilung
 authors:
   - name: Meyer, Friedrich Ludwig Wilhelm
@@ -12607,6 +12701,75 @@ cast:
 setting: >
   Die Scene: Platz vor einer ländlichen Wohnung; seitwärts Tisch und Bank.
 ---
+slug: schummel-der-wuerzkraemer-und-sein-sohn
+author:
+  name: Schummel, Johann Gottlieb
+  wikidata: Q1694208
+title: Der Würzkrämer und sein Sohn
+subtitle: Eine Schulkomödie in Einem Aufzuge
+numberOfScenes: 9
+printed: 1773
+premiered: 1777-05-26
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 376–377
+editions:
+  - title: "Lustspiele ohne Heyrathen. von dem Verfasser der Empfindsamen Reisen durch Deutschland. Wittenberg und Zerbst: Zimmermann 1773, S. 159–190"
+    url: https://books.google.com/books?id=jiNVAAAAcAAJ&pg=PA159
+cast:
+  - name: Dumpf,
+    role: ein Würzkrämer.
+    gender: m
+  - name: Fritze,
+    role: sein Sohn, ein Student.
+    gender: m
+  - name: Rehfeld,
+    role: ein Student.
+    gender: m
+  - name: Ein Magister.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem Zimmer, in Dumpfs Hause.
+---
+slug: schummel-die-unschuldige-frau-oder-viel-lermen-um-nichts
+author:
+  name: Schummel, Johann Gottlieb
+  wikidata: Q1694208
+title: Die unschuldige Frau oder viel Lermen um Nichts
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 20
+printed: 1773
+premiered: 1775-05-13
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 375–376
+editions:
+  - title: "Lustspiele ohne Heyrathen. von dem Verfasser der Empfindsamen Reisen durch Deutschland. Wittenberg und Zerbst: Zimmermann 1773, S. 5–64"
+    url: https://books.google.com/books?id=jiNVAAAAcAAJ&pg=PA5
+cast:
+  - name: Der Herr von Taubenhayn,
+    role: ein Landedelmann.
+    gender: m
+  - name: Die Frau von Taubenhayn,
+    role: seine Gemahlin.
+    gender: f
+  - name: Johann
+    role: Bedienter des Herrn von Taubenhayn.
+    gender: m
+  - name: Lottchen,
+    role: Kammermädchen der Frau von Taubenhayn.
+    gender: f
+  - name: Walther,
+    role: ein Gastwirth.
+    gender: m
+  - name: Marthe,
+    role: Walthers Magd.
+    gender: f
+setting: >
+  Der Schauplaz ist in einer kleinen Stadt, einige Meilen von dem Landguthe des Herrn von Taubenhayn, auf einem Saale in Walthers Gasthofe. Zur rechten Hand des Saales ist das Zimmer der Frau von Taubenhayn und gegen über, zur Linken, das Zimmer des Herrn von Taubenhayn. Hinter dem Zimmer des Herrn von Taubenhayn geht eine Treppe herab. Im Hintergrunde steht ein Tisch und einige Stühle und an der Wand ist eine Klingel angebracht. Das Schauspiel geht früh Morgens an.
+---
 slug: schwan-die-aussteuer
 author:
   name: Schwan, Christian Friedrich
@@ -13116,6 +13279,47 @@ cast:
     gender: u
 setting: >
   Die Scene ist in Paphos, nahe an dem Tempel der Liebe.
+---
+slug: teutscher-fanny-oder-die-glueckliche-wiedervereinigung
+author:
+  name: Teutscher, Marie Antonie
+  wikidata: Q57168672
+title: Fanny, oder Die glückliche Wiedervereinigung
+subtitle: Ein Drama in einem Aufzuge
+numberOfScenes: 12
+printed: 1773
+premiered: 1773-11-13
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 395–396
+editions:
+  - title: "Wien 1773"
+    url: https://books.google.com/books?id=5QyhNHSZx0kC&printsec=frontcover
+  - title: "Neue Schauspiele. Aufgeführt in den kais. königl. Theatern zu Wien. Neunter Band. Preßburg, und Leipzig: Löwe 1774, S. 1–32"
+    url: https://books.google.com/books?id=kwqaYU1UjFEC&pg=RA3-PP1
+cast:
+  - name: Fanny.
+    gender: f
+  - name: Thomson.
+    role: Fannys Vater, ein Pachter.
+    gender: m
+  - name: Wilhelm.
+    role: Fannys kleiner Sohn.
+    gender: m
+  - name: Lord Datley.
+    role: Fannys Gemahl.
+    gender: m
+  - name: Lord Windham.
+    role: Datleys Freund.
+    gender: m
+  - name: Lord Thowart.
+    gender: m
+  - name: Bedienten, die nicht reden.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz stellet eine waldige Gegend vor. Rechter Hand sieht man die Thüre, die in Thomsons Hütte führet. Daneben ist eine Rasenbank.
 ---
 slug: thielmann-der-junge-feldherr-oder-die-franzosen-in-aegypten
 author:
