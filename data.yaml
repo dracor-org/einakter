@@ -1187,11 +1187,12 @@ author:
   pseudonym: Anonym
 title: Der glückliche Betrug
 subtitle: Singspiel in einem Aufzuge
+created: 1800
 dictionaries:
   bibliographia: 2. Abteilung, Band 18, S. 218
 comments:
   - "Es ist bisher nur eine Zusammenfassung der Handlung des einaktigen Singspiels bekannt ([ohne Ort: ohne Jahr](https://books.google.com/books?id=lfR2voH8W4EC&pg=PP5))."
-  - Datierung ungewiss, wahrscheinlich letztes Jahrzehnt des 18. Jahrhunderts.
+  - "Datierung ungewiss, wahrscheinlich letztes Jahrzehnt des 18. Jahrhunderts, [das MDZ datiert auf »ca. 1800«](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00054933-4)."
 keywords:
   - untreue Ehefrau
 cast:
@@ -7482,6 +7483,44 @@ cast:
 setting: >
   Der Schauplatz vor der Thomsen Hause, eine ländliche, mit Bäumen besetzte Gegend.
 ---
+slug: heydevogel-das-trentleva
+author:
+  name: Heydevogel, Ernst
+  wikidata: Q55681020
+title: Das Trentleva
+subtitle: Ein Nachspiel
+numberOfScenes: 14
+printed: 1773
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 310
+editions:
+  - title: "Riga: Hartknoch 1773"
+    url: https://books.google.com/books?id=gsRHAAAAcAAJ&printsec=frontcover
+  - title: "Theater der Deutschen. Vierzehender Theil. Königsberg und Leipzig: Kanter 1774, S. 507–541"
+    url: https://books.google.com/books?id=z3-4lFAy98MC&pg=PA507
+comments:
+  - "Auch unter dem Titel »Das Trentleva. Ein Lustspiel in einem Acte« (undat. Ms.)."
+cast:
+  - name: Leander.
+    gender: m
+  - name: Wilhelmine,
+    role: seine Geliebte.
+    gender: f
+  - name: Heinrich,
+    role: sein Kammerdiener.
+    gender: m
+  - name: Magnocaballo,
+    role: ein Aventurier.
+    gender: m
+  - name: Ruhländer,
+    role: ein Kaufmann.
+    gender: m
+  - name: Gumprecht,
+    role: ein Jude.
+    gender: m
+---
 slug: heyne-die-beiden-billets
 author:
   name: Heyne, Christian Leberecht
@@ -13437,6 +13476,35 @@ cast:
     gender: m
 setting: >
   Die Scene ist in Berlin.
+---
+slug: tiessen-le-disenchantement-inespere-die-unverhofte-entzauberung
+author:
+  name: Tiessen, Johann Alexander
+title: LE DESENCHANTEMENT INESPERÉ. Die unverhofte Entzauberung
+subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen des Herrn de la B**
+numberOfScenes: 11
+printed: 1773
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-François de Bastide: »Le désenchantement inespéré. Comédie morale«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 396–397
+editions:
+  - title: "Quedlinburg: Biesterfeld 1773"
+    url: https://books.google.com/books?id=WWxVAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Die Oberzauberin,
+    role: Liebhaberin des Zenantis.
+    gender: f
+  - name: Sineis,
+    role: eine junge unschuldige Prinzeßin.
+    gender: f
+  - name: Zenantis,
+    role: ein junger Prinz, Liebhaber der Sineis.
+    gender: m
+setting: >
+  Die Vorstellung ist in der Oberzauberin Garten.
 ---
 slug: toepfer-cyprian-und-barbara
 author:
