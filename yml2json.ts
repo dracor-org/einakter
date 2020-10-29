@@ -1,11 +1,13 @@
-import {safeLoadAll} from 'js-yaml';
+import {safeLoadAll, CORE_SCHEMA} from 'js-yaml';
 import {readFileSync, writeFileSync} from 'fs';
 import {Play} from './src/types';
 import {normalizeYear, countCharacters} from './src/utils';
 
 let data: Play[] = [];
 try {
-  data = safeLoadAll(readFileSync('./data.yaml', 'utf8'));
+  data = safeLoadAll(readFileSync('./data.yaml', 'utf8'), null, {
+    schema: CORE_SCHEMA
+  });
 } catch (error) {
   console.log(error);
 }
