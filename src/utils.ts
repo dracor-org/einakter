@@ -8,7 +8,7 @@ export function normalizeYear (play: Play) {
     : premiered || printed;
 
   let year;
-  if (created &&  published) {
+  if (created && published) {
     year = (published - created > 10) ? created : published;
   } else {
     year = created || published
