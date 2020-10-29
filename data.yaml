@@ -49,6 +49,64 @@ cast:
 setting: >
   Saal im Wittekindschen Hause. Im Vordergrunde Seitenthüren, aber keine Fenster. Im Hintergrunde desselben erblickt man ein aufgebautes Theater, eine Stube darstellend, auf der Mitte desselben einen Tisch und vier Stühle, und dicht vor der Hintergardine zu jeder Seite ein großes Spinde.
 ---
+slug: alexander-die-verpfaendung
+author:
+  name: Alexander, Karl
+  wikidata: Q100989128
+title: Die Verpfändung
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1779
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 213–214
+editions:
+  - title: "Brünn: Neumann 1779"
+    url: https://books.google.com/books?id=3GxUAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Robert.
+    role: Ein alter pensionirter Hauptmann, geht mit einer Krücke.
+    gender: m
+  - name: Jeny.
+    role: Seine Tochter, eine junge Wittwe.
+    gender: f
+  - name: Ein zweyjähriges Kind,
+    role: ihr Sohn.
+    gender: m
+  - group:
+    - name: Georg.
+      gender: m
+    - name: William.
+      gender: m
+    - name: John.
+      gender: m
+    role: Roberts Söhne, gemeine beym Klintonschen Regiment.
+  - name: General Klinton.
+    gender: m
+  - name: Ein Lieutnant,
+    role: sein Adjutant.
+    gender: m
+  - name: Karl.
+    role: Ein alter Furir bey Klinton, und Roberts Bekannter.
+    gender: m
+  - name: Graf Nollet.
+    role: Präsident von der königl. Lehnbank.
+    gender: m
+  - name: Breiden.
+    role: Ein Hauptmann von einem andern Regiment, Roberts Bekannter.
+    gender: m
+  - name: Kepler.
+    role: Roberts Hauswirth.
+    gender: m
+  - name: Betty.
+    role: Seine Frau.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Die Handlung ist in London. Das Theater stellt Roberts Wohnung vor, ein reinliches Zimmer, mittelmäßig meublirt, Robert sitzt auf einen Lehnstuhl, sein Tochterkind spielt zwischen seinen Füßen, und Jeny arbeitet beym Tische an einer Manschette.
+---
 slug: andre-der-alte-freyer
 author:
   name: André, Johann
@@ -539,6 +597,50 @@ cast:
 setting: >
   Der Schauplatz ist in einem kleinen Holze, wo diese Schäfer wohnen.
 ---
+slug: anonym-das-geschenk
+author:
+  pseudonym: Anonym
+title: Das Geschenk
+subtitle: Ein Schauspiel in einem Aufzuge, für Kinder
+numberOfScenes: 8
+printed: 1778
+premiered: 1777-09-23
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 194–195
+editions:
+  - title: "Neujahrsgeschenk für Kinder, von einem Kinderfreunde, für das Jahr 1779. Frankfurt: Keßler 1778, S. 5–35"
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr Ahlwart.
+    gender: m
+  - name: Frau Ahlwart.
+    gender: f
+  - group:
+    - name: Amalia,
+      role: achtzehn Jahr alt.
+      gender: f
+    - name: Ernst,
+      role: zwölf Jahr alt.
+      gender: m
+    - name: Louischen,
+      role: zehn Jahr alt.
+      gender: f
+    - name: Ferdinand,
+      role: sieben Jahr alt.
+      gender: m
+    role: Ahlwarts Kinder.
+  - name: Johann,
+    role: ein Bedienter.
+    gender: m
+  - name: Hartwig,
+    role: ein durch Brandschaden verarmter Müller.
+    gender: m
+setting: >
+  Die Scene ist im Zimmer in Ahlwarts Hause.
+---
 slug: anonym-das-kaffee-haus-zu-paris
 author:
   pseudonym: Anonym
@@ -679,6 +781,32 @@ cast:
     gender: m
 setting: >
   Der Schauplatz stellt das Gefilde in dem Gebürge in der Nachbarschaft von Troja vor.
+---
+slug: anonym-das-verlorene-laemmchen
+author:
+  pseudonym: Anonym
+title: Das verlorene Lämmchen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1779
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 198–199
+editions:
+  - title: "Frankfurt am Mayn: Andreä 1779"
+    url: https://books.google.com/books?id=huhr2stSqYAC&printsec=frontcover
+cast:
+  - name: Niclas,
+    role: ein alter reicher Pachter.
+    gender: m
+  - name: Hannchen.
+    gender: f
+  - name: Jürgel,
+    role: Hannchens Liebhaber.
+    gender: m
+setting: >
+  Der Schauplatz stellet eine Landschaft vor; auf der einen Seite ist eine Hütte, auf der andern ein klein Gebüsche.
 ---
 slug: anonym-das-vorwerk
 author:
@@ -1086,6 +1214,44 @@ cast:
   - name: Nisa,
     role: Nichte Tarabottos.
     gender: f
+---
+slug: anonym-der-gute-christian
+author:
+  pseudonym: Anonym
+title: Der gute Christian
+subtitle: Ein Spiel für Kinder in einem Aufzuge
+numberOfScenes: 15
+printed: 1779
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 191
+editions:
+  - title: "Hanau: Kämpfe 1779"
+    url: https://books.google.com/books?id=Ooxla6lbnnoC&printsec=frontcover
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr Großmann.
+    gender: m
+  - name: Dessen Frau.
+    gender: f
+  - name: Christian Glückhold,
+    role: eine Waise, ein Pflegesohn des Herrn Großmann.
+    gender: m
+  - group:
+    - name: Wilhelmine.
+      gender: f
+    - name: Philippine.
+      gender: f
+    - name: Rosine.
+      gender: f
+    - name: Hieronymus.
+      gender: m
+    role: Kinder.
+  - name: Herr Redlich.
+    role: Informator bey diesen Kindern.
+    gender: m
 ---
 slug: anonym-der-junge-herr
 author:
@@ -1551,6 +1717,55 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist auf des Herrn von Wildbergs Landgute.
+---
+slug: anonym-der-schwaetzer
+author:
+  pseudonym: Anonym
+title: Der Schwätzer
+subtitle: Eine Comödie in einem Aufzuge, nach dem Französischen des Boissy
+numberOfScenes: 16
+printed: 1779
+premiered: 1779-11-05
+formalia:
+  - Prosa
+basedOn:
+  - "Louis de Boissy: [»Le babillard. Comédie en un acte, en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/BOISSY_BABILLARD.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 206–207
+editions:
+  - title: "Berlin: Wever 1779"
+    url: https://books.google.com/books?id=mvFATeBbu0cC&printsec=frontcover
+comments:
+  - "Weitere Übersetzung [1759 (anonym)](anonym-le-babillard-der-schwaetzer). Auch unter dem Titel »Der Schwätzer. Ein Lustspiel in einem Acte. Nach dem Französischen des Boissy« (Aufführung in Mannheim 1779)."
+  - Nicht identisch mit Paul Weidemanns fünfaktigen Lustspiel »Der Schwätzer«.
+cast:
+  - name: Leander.
+    gender: m
+  - name: Valer,
+    role: sein Vetter.
+    gender: m
+  - name: Clarisse.
+    gender: f
+  - name: Cephise,
+    role: Tante der Clarisse.
+    gender: f
+  - name: Hannchen,
+    role: Clarissens Mädchen.
+    gender: f
+  - name: Leonore.
+    gender: f
+  - name: Agathe.
+    gender: f
+  - name: Hortensia.
+    gender: f
+  - name: Laurette.
+    gender: f
+  - name: Melite.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Die Scene ist ein Saal, mit Thüren auf beyden Seiten, und im Hintergrunde.
 ---
 slug: anonym-der-steckbrief
 author:
@@ -3802,14 +4017,11 @@ premiered: 1759-06-01
 formalia:
   - Prosa
 basedOn:
-  - "Louis de Boissy: [»Le babillar«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/BOISSY_BABILLARD.xml)"
+  - "Louis de Boissy: [»Le babillard. Comédie en un acte, en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/BOISSY_BABILLARD.xml)"
 dictionaries:
-  bibliographia: 2. Abteilung, Band 19, S. 214 und Band 27, S. 206–207
-editions:
-  - title: "Berlin: Wever 1779"
-    url: https://books.google.com/books?id=mvFATeBbu0cC&printsec=frontcover
+  bibliographia: 2. Abteilung, Band 19, S. 214
 comments:
-  - "Auch unter dem Titel: »Der Schwätzer. Eine Comödie in einem Aufzuge, nach dem Französischen des Boissy« (1779) und »Der Schwätzer. Ein Lustspiel in einem Acte. Nach dem Französischen des Boissy« (Aufführung in Mannheim 1779)."
+  - "Weitere Übersetzung [1779 (anonym)](anonym-der-schwaetzer)."
   - Nicht identisch mit Paul Weidemanns fünfaktigen Lustspiel »Der Schwätzer«.
 cast:
   - name: Leander,
@@ -4720,10 +4932,10 @@ cast:
     role: dessen Gemahlinn.
     gender: f
   - group:
-      - name: August,
-        gender: m
-      - name: Amalia,
-        gender: f
+    - name: August,
+      gender: m
+    - name: Amalia,
+      gender: f
     role: deren Kinder.
   - name: Fräulein Karoline,
     role: Gabrielens Schwester.
