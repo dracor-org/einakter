@@ -6319,6 +6319,9 @@ editions:
 comments:
   - Schon im Erstdruck als »Trauerspiel in 1 Akt« bezeichnet, endet dort aber mit den Worten »(Fortsetzung im nächsten Jahrgange.)« – wozu es aber nicht kam, vgl. [Böttcher 2018, S. 340](https://books.google.com/books?id=NK9VDwAAQBAJ&pg=PT296).
   - Keine eigentliche Szeneneinteilung; 16 durch Regieanweisung angezeigte Konfigurationswechsel.
+ids:
+  dracor: ger000508
+  wikidata: Q101018064
 cast:
   - name: Leontine.
     gender: f
@@ -6782,7 +6785,7 @@ formalia:
   - Blankvers
 dictionaries:
   bibliographia: 2. Abteilung, Band 19, S. 427–426
-  dramenlexikon: S. ??–??
+  dramenlexikon: S. 74–75
 editions:
   - title: "Sämtliche Schriften. Neue vermehrte Ausgabe. Dritter Theil. Amsterdam 1767, S. 103–136"
     url: https://books.google.com/books?id=ld2EfxF812YC&pg=RA1-PA103
@@ -7916,6 +7919,55 @@ cast:
 setting: >
   Die Scene ist ein offener Gartensaal beym Grafen Braunstädt.
 ---
+slug: kaffka-der-transport
+author:
+  name: Kaffka, Johann Christian
+  wikidata: Q821373
+title: Der Transport
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1777
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 506
+editions:
+  - title: "Nürnberg 1777"
+    url: https://books.google.com/books?id=rM9UAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Graf Baumberg,
+    role: Obrister und Regimentscommandant.
+    gender: m
+  - name: Frau von Mayenthal,
+    role: eine Wittwe.
+    gender: f
+  - name: Friderich,
+    role: ihr Sohn.
+    gender: m
+  - name: Rittersporn,
+    role: ein Feldwebel.
+    gender: m
+  - name: Pulvernagel,
+    role: ein Corporal.
+    gender: m
+  - name: Trink,
+    role: ein Gastwirth.
+    gender: m
+  - name: Käthe,
+    role: dessen Frau.
+    gender: f
+  - group:
+    - name: Wolff
+      gender: m
+    - name: Püttner
+      gender: m
+    role: zwey Rekruten.
+  - name: List,
+    role: Bedienter der Frau v. Mayenthal.
+    gender: m
+setting: >
+  Die Scene spielt auf einem Dorfe im Wirthshause.
+---
 slug: kirchhoff-der-bestrafte-hochmuth
 author:
   name: Kirchhoff, Johann Heinrich
@@ -8499,6 +8551,50 @@ cast:
 setting: >
   Der Schauplatz ist ein Saal mit mehreren Thüren, im Hintergrunde ein Catheder,
   Stühle und Bänke für die Pensionaire.
+---
+slug: krauseneck-die-fuerstenreise
+author:
+  name: Krauseneck, Johann Christoph
+  wikidata: Q94360286
+title: Die Fürstenreise
+subtitle: Ein ländliches Lustspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1777
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 510
+editions:
+  - title: "Bayreuth: Lübeck 1777"
+    url: https://books.google.com/books?id=L2xVAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Prinz Wilhelm
+    role: von sechzehen und
+    gender: m
+  - name: Prinz Friederich
+    role: von zwölf Jahren.
+    gender: m
+  - name: Herr von Wallbach,
+    role: Oberamtmann.
+    gender: m
+  - name: Siegmund von Wallbach,
+    role: Jagdjunker.
+    gender: m
+  - name: Wendler,
+    role: Hofbedienter.
+    gender: m
+  - name: Franz,
+    role: Gärtner des Oberamtmanns.
+    gender: m
+  - name: Lenchen,
+    role: dessen Tochter.
+    gender: f
+  - name: Eine arme Wittwe.
+    gender: f
+  - name: Bedienter.
+    gender: m
+setting: >
+  Die Scene ist der Vorgrund im Garten des von Wallbach, die Zeit nach Sonnenaufgang im Sommer.
 ---
 slug: krauseneck-die-werbung-fuer-england
 author:
@@ -9555,7 +9651,7 @@ formalia:
   - Prosa
 dictionaries:
   bibliographia: 2. Abteilung, Band 19, S. 260–261
-  dramenlexikon: S. ??–??
+  dramenlexikon: S. 209–211
 editions:
   - title: "Berlin: Voß 1759"
     url: https://doi.org/10.3931/e-rara-55793
@@ -10185,6 +10281,45 @@ cast:
     gender: m
 setting: >
   Die Scene ist auf einem Landhause des Alcimons.
+---
+slug: meissner-die-gegenseitige-probe
+author:
+  name: Meißner, August Gottlieb
+  wikidata: Q214593
+title: Die gegenseitige Probe
+subtitle: Ein Lustspiel in Einem Akte. Nach dem Französischen des Le Grand
+numberOfScenes: 18
+printed: 1777
+formalia:
+  - Prosa
+basedOn:
+  - "Robert Alain: [»L'épreuve réciproque. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/ALAINLEGRAND_EPREUVERECIPROQUE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 519–520
+editions:
+  - title: "Leipzig: Dyk 1777"
+    url: https://books.google.com/books?id=XW5UAAAAcAAJ&printsec=frontcover
+  - title: "Wien 1779"
+    url: https://books.google.com/books?id=GIhHAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Frau von Barneck.
+    gender: f
+  - name: Emilie von Baldern,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Herr von Wilsing.
+    gender: m
+  - name: Sigmund,
+    role: sein Bedienter.
+    gender: m
+  - name: Dortchen,
+    role: ein Kammermädchen.
+    gender: f
+  - name: Georg,
+    role: ein Bube.
+    gender: m
+setting: >
+  Schauplatz in Hamburg. Haus der Frau von Baldern.
 ---
 slug: meyer-nuht-die-gottheit-von-nehcstät
 author:
