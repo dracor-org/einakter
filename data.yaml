@@ -275,6 +275,37 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in Michels Hause.
+--- 
+slug: anonym-alberik
+author:
+  pseudonym: Anonym
+title: Alberik
+subtitle: Ein Trauerspiel in einem Aufzuge aufgeführt von den churfürstl. lateinischen Schulen zu München
+printed: 1775
+premiered: 1775-09-04
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 19
+editions:
+  - title: "München: Vötter [1775]"
+    url: https://books.google.com/books?id=6Q5SAAAAcAAJ&printsec=frontcover
+cast: 
+  - name: Tullus.
+    gender: m
+  - name: Wamba.
+    gender: m
+  - name: Alberik.
+    gender: m
+  - name: Codel.
+    gender: m
+  - name: Copa.
+    gender: m
+  - name: Lamia.
+    gender: m
+  - name: Die Chöre. Der Bürger und Krieger.
+    isGroup: true
+    gender: m
+setting: >
+  Die Schaubühne öffnet sich auf dem Platze der illyrischen Hauptstadt.
 ---
 slug: anonym-amalie-und-charlotte-baronessen-von-habenichts
 author:
@@ -11479,6 +11510,51 @@ cast:
 setting: >
   Der Schauplaz ist ein Hof von einem Haus in der Josephstadt.
 ---
+slug: rautenstrauch-die-vormundschaft-oder-der-strich-druch-die-rechnung
+author:
+  name: Rautenstrauch, Johann 
+  wikidata: Q88323
+title: Die Vormundschaft oder der Strich durch die Rechnung
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1775
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 155
+editions:
+  - title: "Augsburg: Stage 1775"
+    url: https://books.google.com/books?id=rmtVAAAAcAAJ&printsec=frontcover
+keywords:
+  - Geld
+  - Eheanbahnung
+cast:
+  - name: Willibald,
+    role: ein Handelsmann, Vormund der
+    gender: m
+  - name: Caroline.
+    gender: f
+  - name: Willibalds Ehefrau.
+    gender: f
+  - name: Eberhard,
+    role: ein Pachter, Carolinens Vetter.
+    gender: m
+  - name: Grübler,
+    role: ein Rechenmeister.
+    gender: m
+  - name: Albern.
+    gender: m
+  - name: Der Gerichtsverwalter.
+    gender: m
+  - name: Puffer,
+    role: ein Amtsknecht. 
+    gender: m
+  - name: Margreth,
+    role: eine Magd.
+    gender: f
+setting: >
+  Die Handlung ist in einem kleinen Städtgen in Willibalds Hause.
+---
 slug: reuling-das-orackel
 author:
   name: Reuling, Carl Ludwig
@@ -14172,6 +14248,50 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist ein Theater, von rückwärts zu sehen, die Seitenwande umgedreht, der Vorhang nach hinten. Das Stück spielt am Abend, nach Endigung des Trauerspiels Emilia Galotti.
+---
+slug: wagner-die-koeningskroenung
+author:
+  name: Wagner, Heinrich Leopold
+  wikidata: Q62880
+title: Die Königskrönung
+subtitle: Drama in einem Aufzuge. Von einem Advokaten des Parlaments von Bretagne
+numberOfScenes: 4
+printed: 1775
+formalia:
+  - Prosa
+basedOn:
+  - "Louis-Jérôme Gohier: »Le couronnement d'un Roi. Essai allégorique en un acte et en prose, par un avocat au Parlement de Bretagne«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 190–191
+editions:
+  - title: "Der Teutsche Merkur vom Jahr 1775. Zweytes Vierteljahr. Weimar, April 1775, S. 55–69"
+    url: https://books.google.com/books?id=5Z7NAAAAMAAJ&pg=PA55
+comments:
+  - »Vom Originaltext sind 1775 drei verschiedene Übersetzungen erschienen (die beiden anderen ohne Hinweis auf ihre Einaktigkeit), »von denen fraglich ist, ob sie alle von Wagner stammen« (Meyer).
+cast:
+  - name: Der König.
+    gender: m
+  - name: Die Königin.
+    gender: f
+  - name: Heinrich IV.
+    gender: m
+  - name: Prinzen von Geblüt.
+    isGroup: true
+    gender: m
+  - name: Bekannte Minister und Magistratspersonen.
+    isGroup: true
+    gender: m
+  - name: Gefolge der Königin.
+    isGroup: true
+    gender: u
+  - name: Allegorische und pantomimische Figuren.
+    isGroup: true
+    gender: u
+  - name: Volk
+    isGroup: true
+    gender: u
+setting: >
+  Das Theater zeigt einen prächtigen verzierten Saal; auf einer Tafel, die mit einem himmelblau sammtnen mit goldnen Lilien durchwürkten Teppich behangen ist, liegt eine Krone. Rund herum im Saale stehen die allegorischen Figuren mit ihren Attributen. Der König betrachtet nachdenkend die Krone.
 ---
 slug: walz-einwilligung-wider-willen
 author:
