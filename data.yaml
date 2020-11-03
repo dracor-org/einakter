@@ -275,7 +275,7 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in Michels Hause.
---- 
+---
 slug: anonym-alberik
 author:
   pseudonym: Anonym
@@ -288,7 +288,7 @@ dictionaries:
 editions:
   - title: "München: Vötter [1775]"
     url: https://books.google.com/books?id=6Q5SAAAAcAAJ&printsec=frontcover
-cast: 
+cast:
   - name: Tullus.
     gender: m
   - name: Wamba.
@@ -4282,6 +4282,43 @@ cast:
   - name: Verschiedene Schäfer und Schäferinnen, die auf Agathens und Kolins Hochzeit gebeten waren.
     isGroup: true
     gender: u
+---
+slug: anonym-yariko
+author:
+  pseudonym: Anonym
+title: Yariko
+subtitle: Ein Trauerspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1777
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 455
+editions:
+  - title: "Wien: Kurzbeck 1777"
+    url: https://books.google.com/books?id=c8VkWTdOk7gC&printsec=frontcover
+comments:
+  - Nicht identisch mit dem gleichnamigen Stück von [Pelzel 1770](pelzel-yariko).
+keywords:
+  - Sklaverei
+cast:
+  - name: Inkle.
+    gender: m
+  - name: Yariko.
+    gender: f
+  - name: Sorrowgray.
+    gender: m
+  - name: Billings.
+    gender: m
+  - name: Don Estados.
+    gender: m
+  - name: Schiefschreiber.
+    gender: m
+  - name: Bootsknechte
+    isGroup: true
+    gender: m
+setting: >
+  Die Scene ist in Barbados.
 ---
 slug: anonym-zeneide
 author:
@@ -8383,6 +8420,44 @@ cast:
 setting: >
   Der Schauplatz zeiget eine grüne Ebene, woselbst man allerley unbekannte Vögel, fremde Bäume und seltsame Thiere sieht.
 ---
+slug: komareck-johann-nepomuk-inkle-und-yariko
+author:
+  name: Komareck, Johann Nepomuk
+  wikidata: Q55903554
+title: Inkle und Yariko
+subtitle: Ein Trauerspiel in einem Akt
+numberOfScenes: 6
+printed: 1791
+formalia:
+  - Prosa
+basedOn:
+  - "George Colman: [»Inkle and Yarico. An Opera, in Three Acts«](https://archive.org/details/inkleyaricoopera00arno)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 31, S. 377
+editions:
+  - title: "Kleiner Beitrag zur teutschen Bühne von J. N. W. B. Komarek. Pilsen, Klattau und Leipzig: Morgensäuler 1791, S. 99–111"
+    url: https://books.google.com/books?id=tc1dAAAAcAAJ&pg=PA99
+keywords:
+  - Sklaverei
+cast:
+  - group:
+    - name: Inkle
+      gender: m
+    - name: Begley
+      gender: m
+    role: englische Kaufleute.
+  - name: Yariko,
+    role: eine Amerikanerinn.
+    gender: f
+  - name: Dom Estados,
+    role: ein Spanier, Herr einer Zuckerplantage.
+    gender: m
+  - name: Sklaven
+    isGroup: true
+    gender: m
+setting: >
+  Die Szene ist ein Vorhof mit einer Aussicht ins Meer.
+---
 slug: kotzebue-der-alte-leibkutscher-peter-des-dritten
 author:
   name: Kotzebue, August von
@@ -8675,7 +8750,7 @@ cast:
 setting: >
   Die Scene ist nicht in Franken, die Werbung im März.
 ---
-slug: krausenck-fatime-oder-das-tribut-maedgen
+slug: krauseneck-fatime-oder-das-tribut-maedgen
 author:
   name: Krauseneck, Johann Christoph
   wikidata: Q94360286
@@ -8717,6 +8792,48 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist ein Haus in der Festung Choczim.
+---
+slug: krauseneck-zama-oder-die-junge-marokkanerin
+author:
+  name: Krauseneck, Johann Christoph
+  wikidata: Q94360286
+title: Zama oder die junge Marokkanerin
+subtitle: Ein Lustspiel in Einer Handlung
+numberOfScenes: 10
+printed: 1770
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 104, und Band 26, S. 335
+editions:
+  - title: "Bayreuth: Lübeck 1770"
+    url: https://books.google.com/books?id=WlJZAAAAcAAJ&printsec=frontcover
+comments:
+  - "Auch unter dem Titel »Zama, die junge Marokkanerin. Trauerspiel [!] in einem Aufzug« (Aufführung in Gotha 1776)."
+keywords:
+  - Sklaverei
+  - Christensklaven
+cast:
+  - name: Zama,
+    role: eine junge Marokkanerin.
+    gender: f
+  - name: Don Joseph Elviro,
+    role: ein Portugiese.
+    gender: m
+  - name: Don Fernand,
+    role: ein Greis.
+    gender: m
+  - name: Berrim,
+    role: ein englischer Capitain.
+    gender: m
+  - name: Alem-Hamed,
+    role: Befehlshaber über die Sclaven.
+    gender: m
+  - name: Einige Boots-Leute.
+    isGroup: true
+    gender: m
+setting: >
+  Die Scene macht ein Platz zu Marokko, um welchen schlechte Gebäude für Gefangene stehen.
 ---
 slug: kretschmann-adonis
 author:
@@ -9897,6 +10014,47 @@ cast:
     role: Ein Herrschafts Amtmann.
     gender: m
 ---
+slug: loeper-so-gehts-wenn-man-dem-gesinde-die-aufsicht-der-kinder-ueberlaesst
+author:
+  name: Loeper, Christian Philipp Gabriel
+  wikidata: Q94986422
+title: So geht's, wenn man dem Gesinde die Aufsicht der Kinder überläßt
+subtitle: Trauerspiel In einem Aufzuge
+numberOfScenes: 12
+printed: 1772
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 472, und Band 28, S. 99
+editions:
+  - title: "Leipzig: Barth 1772"
+  - title: "Neuer Kinderalmanach für Kinder und Kinderfreunde auf das Jahr 1781. Wien: Gerold [1780], S. 279–344"
+    url: https://books.google.com/books?id=Vxjnzg-Sr8sC&pg=PA279
+comments:
+  - In der Vorrede heißt es, dies sei das erste Trauerspiel, das für Kinder geschrieben wurde, und die Geschichte sei einem Zeitungsartikel entnommen.
+keywords:
+  - Kindertheater
+  - Traumdeutung
+  - Aderlass
+cast:
+  - name: Baron Grauntram,
+    gender: m
+  - name: Die Baronin,
+    role: seine Gemahlin.
+    gender: f
+  - group:
+    - name: Wilhelmine, 10. Jahr alt.
+      gender: f
+    - name: Joseph, 9. Jahr alt.
+      gender: m
+    role: beede ihre Kinder.
+  - name: Kornemann,
+    role: Regimentsfeldscher.
+    gender: m
+  - name: Therese,
+    role: Kammerjungfer der Baronin.
+    gender: f
+---
 slug: loewen-das-raethsel-oder-was-dem-frauenzimmer-am-meisten-gefaellt
 author:
   name: Löwen, Johann Friedrich
@@ -10691,6 +10849,57 @@ cast:
     gender: u
 setting: >
   Die Bühne stellt einen Vorsaal in des obersten Bramine Wohnung vor. In der Tiefe sind Kalebs Sclaven verschieden beschäftiget. Einige bringen Fackeln, Kohlpfannen, Weihrauchtöpfe; Andere Opfergeschirre, Festkleider, Holzbündeln, und dergleichen.
+---
+slug: pelzel-yariko
+author:
+  name: Pelzel, Joseph Bernhard
+  wikidata: Q55858581
+title: Yariko
+subtitle: Ein Trauerspiel in einer Handlung
+numberOfScenes: 14
+printed: 1770
+premiered: 1771-06-01
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 143–144
+  dramenlexikon: S. 234–235
+editions:
+  - title: "Wien: Trattner 1770"
+    url: https://books.google.com/books?id=DCRVAAAAcAAJ&printsec=frontcover
+  - title: "Wien 1776"
+    url: https://books.google.com/books?id=AK1HAAAAcAAJ&printsec=frontcover
+comments:
+  - Auch unter dem Titel »Incle und Yariko. Trauerspiel« (Wien 1773).
+  - Unter dem Titel »Yariko« erschien [1777 (anonym)](anonym-yariko) eine weitere – nicht identische – Bearbeitung des Stoffs.
+  - 1807 von Alois Gleis zu einem Singspiel in einem Aufzug bearbeitet.
+keywords:
+  - Sklaverei
+cast:
+  - name: Yariko,
+    role: eine Amerikanerinn.
+    gender: f
+  - group:
+    - name: Inkle,
+      gender: m
+    - name: Begley,
+      gender: m
+    - name: Sorrowgrey,
+      gender: m
+    role: Englische Kaufleute.
+  - name: Don Estados,
+    role: Herr einer Pflanzstatt im Mexikanischen.
+    gender: m
+  - name: Don Brayelas,
+    role: sein Neffe.
+    gender: m
+  - name: Ein Schiffschreiber.
+    gender: m
+  - name: Zwey Bootsknechte.
+    isGroup: true
+    gender: m
+setting: >
+  Die Scene ist in Barbados, einer den Engeländern zugehörigen amerikanischen Insel. Die Handlung geht in einem dem Haven zu nächst gelegenen Hause vor.
 ---
 slug: perinet-isaak
 author:
@@ -11512,7 +11721,7 @@ setting: >
 ---
 slug: rautenstrauch-die-vormundschaft-oder-der-strich-druch-die-rechnung
 author:
-  name: Rautenstrauch, Johann 
+  name: Rautenstrauch, Johann
   wikidata: Q88323
 title: Die Vormundschaft oder der Strich durch die Rechnung
 subtitle: Ein Lustspiel in einem Aufzuge
@@ -11547,7 +11756,7 @@ cast:
   - name: Der Gerichtsverwalter.
     gender: m
   - name: Puffer,
-    role: ein Amtsknecht. 
+    role: ein Amtsknecht.
     gender: m
   - name: Margreth,
     role: eine Magd.
@@ -11990,6 +12199,47 @@ cast:
     - name: Silvie,
       gender: f
     role: Schäferinnen.
+---
+slug: saal-der-geizige
+author:
+  name: Saal, Justus Hermann
+  wikidata: Q94828854
+title: Der Geizige
+subtitle: Ein Lustspiel. Von einem Aufzuge
+numberOfScenes: 16
+printed: 1770
+premiered: 1770-05-14
+formalia:
+  - Prosa
+basedOn:
+  - "Carlo Goldoni: »L'avaro«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 161–162
+editions:
+  - title: "Des Herrn Carl Goldoni Sämmtliche Lustspiele. Siebenter Theil. Leipzig: Eisfeld 1770, S. 359–411"
+    url: https://books.google.com/books?id=8Q9YAAAAcAAJ&pg=PA358-IA1
+cast:
+  - name: Don Ambrosio,
+    role: ein alter Geizhals.
+    gender: m
+  - name: Donna Eugenia,
+    role: eine Wittwe, des Ambrosio Sohn hinterlassene Frau.
+    gender: f
+  - name: Der Graf Filiberto dell' Isola.
+    gender: m
+  - name: Der Ritter Costanzo degli Alberi.
+    gender: m
+  - name: Don Ferdinando,
+    role: ein junger Mensch aus Mantua.
+    gender: m
+  - name: Cecchino,
+    role: ein Bedienter.
+    gender: m
+  - name: Ein Anwald,
+    role: der nicht redt.
+    gender: m
+setting: >
+  Der Schauplatz ist in Pavia, in einer Gallerie, bey Don Ambrosio.
 ---
 slug: sailer-die-schwaebischen-drey-koenige
 author:
@@ -14195,6 +14445,72 @@ cast:
     gender: u
 setting: >
   Der Schauplatz ist auf einem Saale in dem Wirthshause zum Großtürken.
+---
+slug: unger-die-hochzeit-des-peleus-und-der-thetis
+author:
+  name: Unger, Johann
+title: Die Hochzeit Des Peleus und der Thetis; Oder Das Urtheil des Paris
+subtitle: Ein heroisches Schauspiel von einem Aufzuge
+numberOfScenes: 5
+printed: 1770
+premiered: 1770-04-19
+formalia:
+  - Alexandriner
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 197
+editions:
+  - title: "Prag: Wittib [1770]"
+  - title: "[Ohne Ort] 1785"
+    url: https://books.google.com/books?id=RclUAAAAcAAJ&printsec=frontcover
+comments:
+  - "Autor: »Johann Unger (1729–1787), Schauspieler und Stückeschreiber«."
+  - "Der Druck von 1785 nennt als Verfasser »Franz Peter Sennfelder«: »eine reichlich unverfrorene Aneignung durch den Münchener Schauspieler« (Meyer)."
+cast:
+  - name: Jupiter.
+    gender: m
+  - name: Juno,
+    role: Gemahlinn des Jupiters und dessen Schwester zugleich.
+    gender: m
+  - name: Venus,
+    role: Göttinn der Liebe und der Schönheit.
+    gender: f
+  - name: Pallas,
+    role: Göttinn der freyen Künste und der Wissenschaften.
+    gender: f
+  - name: Peleus,
+    role: König von der Insel Aegina.
+    gender: m
+  - name: Thetis,
+    role: Braut des Peleus.
+    gender: f
+  - name: Merkurius,
+    role: der Götterbothe.
+    gender: m
+  - name: Paris,
+    role: Sohn des König Priamus von Troja.
+    gender: m
+  - name: Mars,
+    role: Gott des Krieges.
+    gender: m
+  - name: Vulkanus,
+    role: der Schmiedegott.
+    gender: m
+  - name: Ganimedes,
+    role: der Götter Mundschenke.
+    gender: m
+  - group:
+    - name: Verschiedene männliche und weibliche Gottheiten.
+      isGroup: true
+      gender: u
+    - name: Das Gefolge der Götter.
+      isGroup: true
+      gender: u
+    - name: Die Aufwärter bey dem Hochzeitmahle.
+      isGroup: true
+      gender: u
+    role: Welche aber stumm sind.
+setting: >
+  Das Theater stellet einen durchaus mit aller Pracht ausgezierten Hochzeitsaal vor, in der Mitte steht eine herrliche bedekte Tafel, an welcher die Götter, Peleus und Thetis sitzen.
 ---
 slug: voss-euer-verkehr
 author:
