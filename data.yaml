@@ -399,6 +399,50 @@ cast:
 setting: >
   Die Bühne zeigt während den drey ersten Auftritten eine schöne ländliche Gegend, die am Fusse des Parnaßus supponiret wird: und dann den Parnaßus.
 ---
+slug: anonym-charlotte-oder-die-besiegte-sproede
+author:
+  name: G**
+  pseudonym: Anonym
+title: Charlotte, oder Die besiegte Spröde
+subtitle: Ein Lustspiel in einem Akt
+numberOfScenes: 10
+printed: 1779
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 190
+editions:
+  - title: "Einige theatralische Kleinigkeiten nebst mehreren Beylagen zur angenehmen Lektüre. Frankfurt am Mayn: Reiffenstein 1779, S. 7–38"
+    url: https://books.google.com/books?id=5RNaAAAAcAAJ&pg=PA7
+comments:
+  - "Im [Vorbericht](https://books.google.com/books?id=5RNaAAAAcAAJ&pg=PA3) wird der Autor »G**« genannt (evtl. Herausgeberfiktion)."
+cast:
+  - name: Arist,
+    role: Oheim der Charlotte.
+    gender: m
+  - name: Charlotte.
+    gender: f
+  - name: Lisidor,
+    role: Arists Freund.
+    gender: m
+  - name: Dorant,
+    role: Lisidors Sohn.
+    gender: m
+  - name: Belinde,
+    role: Dorants Braut.
+    gender: f
+  - name: Damis,
+    role: Lisidors jüngster Sohn.
+    gender: m
+  - name: Jungfer Phyllis,
+    role: eine Coquette.
+    gender: f
+  - name: Hanchen,
+    role: Charlottens Mädchen.
+    gender: f
+setting: >
+  Der Schauplatz ist in Leipzig in Arists Hause.
+---
 slug: anonym-colin-maillard-die-blinde-kuh
 author:
   pseudonym: Anonym
@@ -409,15 +453,13 @@ printed: 1755
 formalia:
   - Prosa
 basedOn:
-  - "Florent Carton dit Dancourt: [Colin-Maillard. Comédie](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DANCOURT_COLIN-MAILLARD.xml)"
+  - "Florent Carton dit Dancourt: [»Colin-Maillard. Comédie«](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DANCOURT_COLIN-MAILLARD.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 17, S. 349–350
 editions:
   - title: "Danzig 1755. Ms."
-  - title: "[Ohne Ort] 1778."
-    url: https://books.google.com/books?id=GxlYAAAAcAAJ&printsec=frontcover
 comments:
-  - 1760 auch von Konrad Ekhof übersetzt.
+  - Weitere Übersetzungen 1760 (Ekhof) und [1778 (Romanus)](romanus-die-blinde-kuh).
 keywords:
   - Eheanbahnung
   - Geld
@@ -4135,7 +4177,7 @@ printed: 1755
 formalia:
   - Prosa
 basedOn:
-  - "Ludvig Holberg: Sganarels Reise til det philosophiske Land"
+  - "Ludvig Holberg: »Sganarels Reise til det philosophiske Land«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 17, S. 439
 editions:
@@ -4164,7 +4206,7 @@ printed: 1754
 formalia:
   - Prosa
 basedOn:
-  - "Ludvig Holberg: Jacob von Tyboe, eller den stortalende soldat"
+  - "Ludvig Holberg: »Jacob von Tyboe, eller den stortalende soldat«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 17, S. 110–111
 editions:
@@ -7605,7 +7647,7 @@ premiered: 1783-07-09
 formalia:
   - Prosa
 basedOn:
-  - "Jean-Pierre Claris de Florian: Les deux billets. Comédie en 1 acte et en prose (Paris 1780)."
+  - "Jean-Pierre Claris de Florian: [»Les deux billets. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/FLORIAN_DEUXBILLETS.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 28, S. 490–491
 editions:
@@ -8993,7 +9035,7 @@ premiered: 1750-01-19
 formalia:
   - Alexandriner
 basedOn:
-  - "Lafontaine: La laitière et le pot au lait"
+  - "Lafontaine: »La laitière et le pot au lait«"
 dictionaries:
   bibliographia: 2. Abteilung, Band 15, S. 272–277
 editions:
@@ -9218,6 +9260,45 @@ cast:
   - name: viele Schäffer.
     isGroup: true
     gender: u
+---
+slug: kurze-die-verwechselten-briefe
+author:
+  name: Kurze, Johann Gottfried
+title: Die verwechselten Briefe
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem Französischen des Herrn von Boißy
+numberOfScenes: 18
+printed: 1779
+formalia:
+  - Prosa
+basedOn:
+  - "Louis de Boissy: »Les billets doux. Comédie«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 274
+editions:
+  - title: "Dresden: Hilscher 1779"
+    url: https://resolver.sub.uni-hamburg.de/kitodo/PPN1043582282
+cast:
+  - name: Clarisse,
+    role: Tante der Julie.
+    gender: f
+  - name: Julie.
+    gender: f
+  - name: Damon,
+    role: Liebhaber der Julie.
+    gender: m
+  - name: Valer,
+    role: Liebhaber der Clarisse.
+    gender: m
+  - name: Advokat Raps.
+    gender: m
+  - name: Christiane,
+    role: Cammermädchen.
+    gender: f
+  - name: Anton,
+    role: Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist in Clarissens Hause.
 ---
 slug: la-roche-damon-und-pythias
 author:
@@ -10807,6 +10888,46 @@ cast:
   - name: Redlichkeit
     gender: u
 ---
+slug: pauersbach-der-herr-gevatter-etwas-fuer-land-und-eheleute
+author:
+  name: Pauersbach, Joseph von
+  wikidata: Q94991162
+title: Der Herr Gevatter. Etwas für Land- und Eheleute
+subtitle: Ein ländliches Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1778
+premiered: 1778-05-24
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 138–139
+editions:
+  - title: "Wien 1778"
+    url: https://books.google.com/books?id=ueRPxwEACAAJ&printsec=frontcover
+comments:
+  - "»Der Hauptgedanke dieser Kleinigkeit ist vom Herrn *Prèvost* entlehnt« ([S. 3](https://books.google.com/books?id=ueRPxwEACAAJ&pg=PA3))."
+cast:
+  - name: Guttmann,
+    role: ein vermöglicher Weinhändler, und Rosens Taufpathe.
+    gender: m
+  - name: Simon Grünzinger,
+    role: ein wohlhabender Weinzierl.
+    gender: m
+  - name: Margareth,
+    role: dessen Eheweib.
+    gender: f
+  - name: Rosel,
+    role: deren Tochter.
+    gender: f
+  - name: Treumund,
+    role: ein Hauerbursche, Rosens Liebhaber.
+    gender: m
+  - name: Lisel,
+    role: dessen Muhme.
+    gender: f
+setting: >
+  Das Stück spielt zu Weinhaus, einem österreichischen Dorfe, in Simons Hause.
+---
 slug: pauersbach-die-indianische-wittwe
 author:
   name: Pauersbach, Karl Michael von
@@ -11764,6 +11885,51 @@ cast:
 setting: >
   Die Handlung ist in einem kleinen Städtgen in Willibalds Hause.
 ---
+slug: reichard-die-freyer-oder-worauf-verfaellt-ein-frauenzimmer-nicht
+author:
+  name: Reichard, Heinrich August Ottokar
+  wikidata: Q3129467
+title: Die Freyer, oder Worauf verfällt ein Frauenzimmer nicht!
+subtitle: Ein Lustspiel in einem Akt
+numberOfScenes: 12
+printed: 1778
+premiered: 1778-05-28
+formalia:
+  - Prosa
+basedOn:
+  - "»La course ou les jockeys. Comédie en un acte et en prose«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 144
+editions:
+  - title: "Berlin: Wever 1778"
+    url: https://books.google.com/books?id=MlJZAAAAcAAJ&printsec=frontcover
+keywords:
+  - Eheanbahnung
+  - Verkleidungsspiel
+cast:
+  - name: Der alte Obriste von Wiesen,
+    role: außer Diensten.
+    gender: m
+  - name: Baronesse von Karlstein,
+    role: seine Nichte.
+    gender: f
+  - name: Graf Reitbahn.
+    gender: m
+  - name: Baron von Lally.
+    gender: m
+  - name: Baron von Danner.
+    gender: m
+  - name: Graf Eschen.
+    gender: m
+  - name: Lisette,
+    role: der Baronesse Kammerfrau.
+    gender: f
+  - name: Jacob,
+    role: ein alter Bedienter des Obristen.
+    gender: m
+setting: >
+  Die Scene geht auf einem Landgute nicht weit von Wien vor. Die Bühne ist ein Saal.
+---
 slug: reuling-das-orackel
 author:
   name: Reuling, Carl Ludwig
@@ -12055,6 +12221,58 @@ cast:
     gender: m
 setting: >
   Die Handlung geschieht in Richards Hause.
+---
+slug: romanus-die-blinde-kuh
+author:
+  name: Romanus, Karl Franz
+  wikidata: Q84561647
+title: Die blinde Kuh
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 23
+printed: 1778
+premiered: 1779-09-26
+formalia:
+  - Prosa
+basedOn:
+  - "Florent Carton dit Dancourt: [»Colin-Maillard. Comédie«](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DANCOURT_COLIN-MAILLARD.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 146
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1778"
+    url: https://books.google.com/books?id=GxlYAAAAcAAJ&printsec=frontcover
+comments:
+  - Weitere Übersetzung [1755 (anonym)](anonym-colin-maillard-die-blinde-kuh).
+keywords:
+  - Eheanbahnung
+  - Geld
+cast:
+  - name: Herr Robinot,
+    role: der Angelique Vormund.
+    gender: m
+  - name: Frau Brillard,
+    role: des Herrn Robinots Tante.
+    gender: f
+  - name: Angelique.
+    gender: f
+  - name: Claudine,
+    role: Mathurins Verlobte.
+    gender: f
+  - name: Mathurin,
+    role: Herrn Robinots Gärtner.
+    gender: m
+  - name: Erast,
+    role: Angeliquens Liebhaber.
+    gender: m
+  - name: Lepine,
+    role: Erastens Bedienter.
+    gender: m
+  - name: Der Amtmann.
+    gender: m
+  - name: Musikanten, Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist zu Andresy.
 ---
 slug: romanus-die-schwiegermuetter
 author:
