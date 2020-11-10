@@ -2356,7 +2356,7 @@ dictionaries:
 editions:
   - title: "Schauspiele, welche auf der Schönemannschen Schaubühne aufgeführt worden. Vierter Theil. Braunschweig und Leipzig 1749"
 comments:
-  - "Auch unter dem Titel »Die Familie. Ein Lustspiel in einem Aufzuge. Aus dem Französischen übersetzt« (von Joseph Berhandtsky von Adlersberg, Frankfurt und Leipzig: Joh. Jos. Mayers Erben 1777)."
+  - Weitere Übersetzung [1777 (Berhandtsky)](berhandtsky-die-familie).
 keywords:
   - Eheanbahnung
   - Standesproblematik
@@ -4635,6 +4635,50 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist in Mangolds Vorzimmer.
+---
+slug: berhandtsky-die-familie
+author:
+  name: Berhandtsky von Adlersberg, Joseph
+  wikidata: Q60844165
+title: Die Familie
+subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen übersetzt
+numberOfScenes: 17
+printed: 1777
+formalia:
+  - Prosa
+basedOn:
+  - "Thomas L'Affichard: »La famille. Comédie en un acte«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 463–464
+editions:
+  - title: "Frankfurt und Leipzig: Erben 1777"
+    url: https://books.google.com/books?id=HhJYAAAAcAAJ&printsec=frontcover
+comments:
+  - Weitere Übersetzung [1747 (anonym)](anonym-die-familie).
+keywords:
+  - Eheanbahnung
+  - Standesproblematik
+  - Heimkehr-Motiv
+cast:
+  - name: Der Marquis,
+    role: Vater des Grafen Lisander.
+    gender: m
+  - name: Die Marquisinn,
+    role: Mutter der Melite.
+    gender: f
+  - name: Lykast,
+    role: ein Sohn des Lisander. Liebhaber der Melite.
+    gender: m
+  - name: Rosette,
+    role: Melites Mädgen.
+    gender: f
+  - name: Johann,
+    role: Diener des Lykast.
+    gender: m
+  - name: Ein Bedienter des Marquis.
+    gender: m
+setting: >
+  Das Stück spielt auf dem Landhause des Marquis.
 ---
 slug: bertram-der-mondsuechtige-oder-er-verliehrt-seine-braut-im-schlaf
 author:
@@ -10759,7 +10803,7 @@ cast:
 setting: >
   Schauplatz in Hamburg. Haus der Frau von Baldern.
 ---
-slug: meyer-nuht-die-gottheit-von-nehcstät
+slug: meyer-nuht-die-gottheit-von-nehestaet
 author:
   name: Meyer, Franz Anton von
   wikidata: Q60836828
@@ -10922,6 +10966,43 @@ cast:
     gender: u
 setting: >
   Die Handlung geht in dem Schlosse des Don Garzias vor, nahe an der Residenzstadt, und dauert von 10. Uhr Abends bis nach Mitternacht.
+---
+slug: mottoni-der-redliche-betrueger
+author:
+  name: Mottoni, B. von
+  wikidata: Q101435287
+title: Der redliche Betrüger
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1777
+premiered: 1777-10-19
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 524
+editions:
+  - title: "Wien: Jahn 1777"
+    url: https://books.google.com/books?id=R5Eh-M1ni8cC&printsec=frontcover
+  - title: "Pilsen: Morgensäuler 1788"
+comments:
+  - Kein Bezug zum gleichnamigen dreiaktigen [Lustspiel von Joseph Pfaler (1771)](https://books.google.com/books?id=ymlVAAAAcAAJ&printsec=frontcover).
+cast:
+  - name: Frau von Leichtsinn,
+    role: Mutter der
+    gender: f
+  - name: Fräuke Nanette.
+    gender: f
+  - name: Charlotte,
+    role: Nanettens Kammerjungfer.
+    gender: f
+  - name: Herr von Dorwal,
+    role: Nanettens Liebhaber.
+    gender: m
+  - name: Johann,
+    role: dessen Diener.
+    gender: m
+setting: >
+  Die Handlung gehet in dem Leichtsinnischen Hause vor.
 ---
 slug: mueller-der-fleissige-schuster
 author:
@@ -14315,6 +14396,48 @@ cast:
 setting: >
   Scene: Eine Ebene. Entfernt sieht man die Pyramiden. Die linken Coulissen stellen Luft vor; vor diesen sind Truppen 2 Mann hoch aufgestellt, Gewehr beim Fuß; in ihrer Mitte eine dreifarbige Fahne; ihr rechter Flügel lehnt sich hinter die vordere Coulisse, die ein Zelt vorstellt. Auf dem linken Flügel steht ein Troß Tambour, vor diesem ein reich galonirter Tambourmâitre. Auf der rechten Seite der Bühne ist die vordere Coulisse ein Palmbaum, die übrigen sind Zelte oder Luft. Die Mitte der Bühne ist mit Soldaten von verschiedenen Waffengattungen, mit Weibern und Marketenderinnen angefüllt. (Diese zusammen bilden das Chor) das Ganze stellt eine grande Garde vor, die dem Feldlazareth zugetheilt ist. Erster Musketier, Jeanette und der Tambour sind im Vordergrunde. Die Uniformen sind nach damaliger Zeit: lange Röcke; Zöpfe; die Infanterie dreieckige Hüte, die Grenadiere tragen Bärenmützen; die Husaren Umschlage-Tschakots; Die Generäle rothe, blaue und weiße Federn auf den Hüten; ditto Schärpen.
 ---
+slug: thilo-die-grossmuethigen-erben
+author:
+  name: Thilo, Friedrich Theophil
+title: Die Großmüthigen Erben
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1776
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 398
+editions:
+  - title: "Frankfurt und Leipzig: Schneider 1776"
+    url: https://books.google.com/books?id=22xVAAAAcAAJ&printsec=frontcover
+keywords:
+  - Geld
+cast:
+  - name: Herr von Londe.
+    gender: m
+  - name: Henriette,
+    role: dessen Gemahlin.
+    gender: f
+  - name: Ehrenfeld,
+    role: ein fremder Kaufmann.
+    gender: m
+  - name: Teilmann,
+    role: ein Buchhalter.
+    gender: m
+  - name: Reichand,
+    role: ein Banquier.
+    gender: m
+  - name: Arnd.
+    gender: m
+  - name: Johann,
+    role: Bedienter des Herrn von Londe.
+    gender: m
+  - name: Christiane,
+    role: der Frau von Londe Cammer-Mägdchen.
+    gender: f
+setting: >
+  Der Schauplatz ist ein Zimmer, in dem von Henriettens verstorbenen Mutter hinterlassenen Hause. Die Handlung währet von früh um 9. Uhr bis gegen Mittag.
+---
 slug: tieck-die-theegesellschaft
 author:
   name: Tieck, Ludwig
@@ -15295,6 +15418,80 @@ cast:
 setting: >
   Der Schauplatz ist in einer angesehenen Stadt.
 ---
+slug: weisse-das-weihnachtsgeschenke
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Das Weihnachtsgeschenke
+subtitle: Ein kleines Lustspiel für Kinder, in einem Aufzuge
+numberOfScenes: 7
+printed: 1776
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 416–417
+editions:
+  - title: "Leipzig: Crusius 1776"
+    url: https://books.google.com/books?id=MmxVAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Madame Filibert.
+    gender: f
+  - name: Dorchen,
+    role: der vorigen Tochter.
+    gender: f
+  - name: Guvernante.
+    gender: f
+  - name: Friedericke.
+    gender: f
+  - name: Emilie.
+    gender: f
+setting: >
+  Die Scene ist in Dorchens Zimmer.
+---
+slug: weisse-der-geburthstag
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Der Geburthstag
+subtitle: Ein kleines Lustspiel für Kinder, in einem Aufzuge
+numberOfScenes: 13
+printed: 1776
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 414–415
+editions:
+  - title: "Leipzig: Crusius 1776"
+    url: https://books.google.com/books?id=a21VAAAAcAAJ&printsec=frontcover
+comments:
+  - Mehrere Übersetzungen ins Französische.
+cast:
+  - name: Herr von Dorval.
+    gender: m
+  - name: Ludwig,
+    role: dessen Sohn.
+    gender: m
+  - name: Friederike,
+    role: dessen Fräulein Tochter.
+    gender: f
+  - name: Reinold,
+    role: der ältere.
+    gender: m
+  - name: Reinold,
+    role: der jüngere.
+    gender: m
+  - name: Blumenau,
+    role: der ältere.
+    gender: m
+  - name: Blumenau,
+    role: der jüngere.
+    gender: m
+  - name: Johann,
+    role: Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist auf einem Saale mit etlichen Thüren.
+---
 slug: weisse-die-matrone-von-ephesus
 author:
   name: Weiße, Christian Felix
@@ -15541,6 +15738,37 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist auf einem obern Saale in Herrn Gutmanns Hause.
+---
+slug: welisch-philint
+author:
+  name: Welisch, Johann
+title: Philint
+subtitle: Ein Trauerspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1776
+formalia:
+  - Verse
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 417
+editions:
+  - title: "Wien: Weingand 1776"
+    url: https://books.google.com/books?id=IGxVAAAAcAAJ&printsec=frontcover
+keywords:
+  - Freundschaft
+cast:
+  - name: Der König.
+    gender: m
+  - name: Philint.
+    gender: m
+  - name: Arist.
+    gender: m
+  - name: Alkander.
+    gender: m
+  - name: Wache.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geht in einem Saale des Hofes vor.
 ---
 slug: wichmann-der-dervisch
 author:
