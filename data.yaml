@@ -1138,7 +1138,43 @@ cast:
     role: dessen Hofmeister.
     gender: m
 ---
-slug: anonym-der-erste-may
+slug: anonym-der-erbe-und-der-braeutigam-auf-der-reise
+author:
+  pseudonym: Anonym
+title: Der Erbe und der Bräutigam auf der Reise
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 9
+printed: 1776
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Gerold 1776"
+    url: https://books.google.com/books?id=19xJAAAAcAAJ&printsec=frontcover
+comments:
+  - "Im selben Jahr erschien unter demselben Titel auch ein Dreiakter (Leipzig: Barth 1776), vgl. Meyer, Band 26, S. 220."
+  - "Identisch mit »Erbe und Bräutigam« (Wien 1779)? (vgl. Meyer, Band 27, S. 193)"
+cast:
+  - name: Herr von Dickhausen.
+    gender: m
+  - name: Frau von Dickhausen.
+    gender: f
+  - name: Herr von Ehrenheim,
+    role: ein Reisender von Amsterdam.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+  - name: Ein Verwalter auf den dickhausischen Gütern.
+    gender: m
+  - name: Lisette,
+    role: Kammerjungfer der von Dickhausen.
+    gender: f
+  - name: Heinrich,
+    role: Ehrenheims Diener.
+    gender: m
+setting: >
+  Die Handlung geht in der Wohnung der von Dickhausen vor.
+---
+slug: anonym-der-erste-may-oder-der-bestrafte-aberglaube
 author:
   pseudonym: Anonym
 title: Der Erste May, oder Der bestrafte Aberglaube
@@ -1152,6 +1188,8 @@ dictionaries:
 editions:
   - title: "[Ohne Ort] 1778"
     url: https://books.google.com/books?id=6PBYAAAAcAAJ&printsec=frontcover
+keywords:
+  - Aberglaube
 cast:
   - name: Frau Agathe,
     role: Witbe des verstorbenen Amtmanns.
@@ -2149,6 +2187,39 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: anonym-die-heyrath-ohne-liebe
+author:
+  pseudonym: Anonym
+title: Die Heyrath ohne Liebe
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1778
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 28
+editions:
+  - title: "[Ohne Ort] 1778"
+    url: https://books.google.com/books?id=A2lTAAAAcAAJ&printsec=frontcover
+keywords:
+  - Eheanbahnung
+  - Geld
+  - Verkleidungsspiel
+cast:
+  - name: Orgon.
+    gender: m
+  - name: Amalia,
+    role: dessen Tochter.
+    gender: f
+  - name: Leander.
+    gender: m
+  - name: Damon.
+    gender: m
+  - name: Lisette.
+    gender: m
+  - name: Merlin.
+    gender: m
+---
 slug: anonym-die-armen-teufel
 author:
   pseudonym: Anonym
@@ -2417,6 +2488,59 @@ cast:
   - name: Lischen,
     role: katholische Magd.
     gender: f
+---
+slug: anonym-die-furcht
+author:
+  pseudonym: Anonym
+title: Die Furcht
+subtitle: Ein Lustspiel, in einem Aufzuge
+numberOfScenes: 16
+printed: 1778
+premiered: 1780-01-07
+formalia:
+  - Prosa
+basedOn:
+  - "Francesco Albergati Capacelli: [»La paura. Commedia di un atto solo«](https://books.google.com/books?id=3FtDAAAAYAAJ&pg=PA235)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 26–27
+editions:
+  - title: "Des Herrn Marquis Franz Albergati Capacelli Neues komisches Theater. Erster Theil. Breslau: Korn 1778, S. 261–299"
+    url: https://books.google.com/books?id=he9YAAAAcAAJ&pg=PA261
+  - title: "Wien 1779"
+    url: https://books.google.com/books?id=NZktSd-NXXcC&printsec=frontcover
+cast:
+  - name: Die Gräfin Ornance,
+    role: eine Witwe.
+    gender: f
+  - name: Orfisa,
+    role: auch eine Witwe, und der Gräfin gute Freundin.
+    gender: f
+  - name: Der Baron von Ergeac,
+    role: der Gräfin Vater.
+    gender: m
+  - name: Der Marquis von Egrancey,
+    role: der Gräfin Liebhaber.
+    gender: m
+  - name: Der Chevalier von Ranville,
+    role: ein süsses Herrgen.
+    gender: m
+  - name: Giocondo,
+    role: ein Spaßmacher.
+    gender: m
+  - name: Picard,
+    role: ein alter Bedienter.
+    gender: m
+  - name: Bewohner des Schlosses.
+    isGroup: true
+    gender: u
+  - name: Bediente.
+    isGroup: true
+    gender: u
+  - name: Bauern.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist in dem Gaten des Schlosses, das die Gräfin gemiethet hat. Das Theater stellet einen Gaten vor; zur Linken siehet man einen Altan, der nach dem Saale zu gehet; noch etwas weiter ist ein Gegitter.
 ---
 slug: anonym-die-heyrath-durch-wechselbriefe
 author:
@@ -3793,6 +3917,50 @@ cast:
 setting: >
   Die Handlung ist in einem Walde an einem dicht mit Bäumen besetzten Orte.
 ---
+slug: anonym-fanny-oder-der-sieg-der-tugend
+author:
+  pseudonym: Anonym
+title: Fanny, oder der Sieg der Tugend
+subtitle: Ein aus den Werken des Hrn. von Arnaud entnommenes Drama in einem Aufzuge
+numberOfScenes: 14
+printed: 1778
+premiered: 1779-07-22
+formalia:
+  - Prosa
+basedOn:
+  - "François-Thomas-Marie de Baculard d'Arnaud: [»Fanni, ou l'heureux repentir. Histoire angloise«](https://books.google.com/books?id=cM85AAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 25
+editions:
+  - title: "Mannheim: Schwan 1778"
+    url: https://books.google.com/books?id=wxtYAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Fanny,
+    role: die Tochter des
+    gender: f
+  - name: James,
+    role: eines alten Verwalters des
+    gender: m
+  - name: Lord Thaley.
+    gender: m
+  - group:
+      - name: Lord Thoward.
+        gender: m
+      - name: Lord Windham.
+        gender: m
+    role: Thaley's Freunde.
+  - name: Bettson,
+    role: der Fanny Kind.
+    gender: m
+  - name: Tom,
+    role: Kammerdiener des Thoward.
+    gender: m
+  - name: Bediente des Windhams und Thowards.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist in England. Das Theater stellet einen Wald vor; rechter Hand eine Bauernhütte, gegen den Grund eine kleine Erhöhung, worauf ein Grabstein mit Rosengebüschen umwachsen.
+---
 slug: anonym-julchens-heyrath
 author:
   pseudonym: Anonym
@@ -4200,6 +4368,36 @@ cast:
   - name: Cidalise,
     role: Clitanders Liebste.
     gender: f
+---
+slug: anonym-lise
+author:
+  pseudonym: Anonym
+title: Lise
+subtitle: Ein kleines Lustspiel von einem Aufzuge
+numberOfScenes: 10
+printed: 1776
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 230
+editions:
+  - title: "Berlin und Leipzig 1776"
+    url: https://books.google.com/books?id=A25VAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Veit,
+    role: ein Bauer.
+    gender: m
+  - name: Lise,
+    role: seine Tochter.
+    gender: f
+  - name: Michel,
+    role: ein junger Bauerkerl.
+    gender: m
+  - name: Lux,
+    role: Veits Bruder.
+    gender: m
+setting: >
+  Die Handlung ist in einem Elsassischen Dorfe.
 ---
 slug: anonym-sganarells-reise-in-das-land-der-philosophen
 author:
@@ -13843,6 +14041,50 @@ cast:
   - name: Hector.
     gender: m
 ---
+slug: seibt-gabriele-montalto
+author:
+  name: Seibt, Karl Heinrich von
+  wikidata: Q1731509
+title: Gabriele Montalto
+subtitle: Ein Trauerspiel, von einem Aufzuge
+numberOfScenes: 10
+printed: 1776
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 393–394
+editions:
+  - title: "Dresden: Walther 1776"
+    url: https://books.google.com/books?id=d21VAAAAcAAJ&printsec=frontcover
+keywords:
+  - Mord
+  - Eifersucht
+  - Ehe
+cast:
+  - name: Graf Montalto.
+    gender: m
+  - name: Gabriele,
+    role: dessen Gemahlinn.
+    gender: f
+  - name: Marchese Sessia,
+    role: ein Reisender.
+    gender: m
+  - group:
+    - name: Haushofmeister
+      gender: m
+    - name: Karl,
+      role: Bedienter
+      gender: m
+    role: des Grafen.
+  - name: Sophie,
+    role: Gabrielens Kammermägdchen.
+    gender: f
+  - name: Dominik,
+    role: ein Bauer.
+    gender: m
+setting: >
+  Das Stück spielt in einem mitten im Walde gelegenen Schloß.
+---
 slug: sessa-unser-verkehr
 author:
   name: Sessa, Karl Borromäus Alexander
@@ -14206,6 +14448,47 @@ cast:
     gender: u
 setting: >
   Die Scene ist auf der Straße vor des Euklio Hause.
+---
+slug: steinsberg-ewald-und-seine-verwandten
+author:
+  name: Steinsberg, Carl Franz Guolfinger Ritter von
+  wikidata: Q94847778
+title: Ewald, und seine Verwandten
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1779
+premiered: 1779-08-06
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 193 und S. 313–314
+editions:
+  - title: "Prag, und Leipzig: Gröbl 1779"
+    url: https://books.google.com/books?id=HKfkPgAACAAJ&printsec=frontcover
+comments:
+  - auch als "Lustspiel in einem Aufzug"
+keywords:
+  - Heimkehr-Motiv
+  - Geld
+cast:
+  - name: Ewald.
+    gender: m
+  - name: Herr von Ewaldsberg,
+    role: Ewalds geadelter Vetter.
+    gender: m
+  - name: Frau von Ewaldsberg.
+    gender: f
+  - name: Frau Witthaim,
+    role: Schwester des Herrn von Ewaldsberg.
+    gender: f
+  - name: Babet,
+    role: ihre Tochter, ohngefähr 10 Jahr alt.
+    gender: f
+  - name: Bedienter,
+    role: des Herrn von Ewaldsberg.
+    gender: m
+setting: >
+  Der Schauplatz ist in einer deutschen Handelsstadt.
 ---
 slug: stephanie-nichts-oder-der-majoratherr-und-der-cadet
 author:
@@ -15279,6 +15562,56 @@ cast:
     role: vom Hause.
 setting: >
   Die Handlung geht vor im Hause des Thürmer. Die Bühne ist ein niedlich eingerichtetes Zimmer.
+---
+slug: weidmann-die-erziehung
+author:
+  name: Weidmann, Paul
+  wikidata: Q114260
+title: Die Erziehung
+subtitle: Ein Originallustspiel von einem Aufzug
+numberOfScenes: 17
+printed: 1775
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 197–198
+editions:
+  - title: "Wien: Krüchten 1775"
+    url: https://books.google.com/books?id=97JIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Graf Biederthal,
+    role: ein General.
+    gender: m
+  - name: Emilie,
+    role: seine Schwester.
+    gender: f
+  - group:
+    - name: Lotchen,
+      gender: f
+    - name: Adam,
+      gender: m
+    - name: Fritz,
+      gender: m
+    - name: Erast,
+      gender: m
+    role: seine Kinder.
+  - group:
+    - name: Schwerthau,
+      gender: m
+    - name: Schönfeld,
+      gender: m
+    role: Hofmeister.
+  - name: Kätchen,
+    role: Kammerjungfer der Emilie.
+    gender: f
+  - name: Philipp,
+    role: der Gärtner.
+    gender: m
+  - name: Diener.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geht vor auf dem Landgut des Grafen, und währt einen Tag. Die Bühne ist ein Saal, dessen Fenster und Mittenpforte die Aussicht in einem Garten eröfnen.
 ---
 slug: weidmann-die-raeuber-oder-die-schwere-wahl
 author:
