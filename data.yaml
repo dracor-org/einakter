@@ -1293,6 +1293,40 @@ cast:
 setting: >
   Der Schauplatz präsentirt eine Schuster-Werckstadt.
 ---
+slug: anonym-der-getreue-verraether
+author:
+  pseudonym: Anonym
+title: Der getreue Verräther
+subtitle: Ein Lustspiel von einem Aufzuge, aus dem Italienischen des Herrn Faggiuoli übersetzt
+numberOfScenes: 16
+printed: 1775
+formalia:
+  - Prosa
+basedOn:
+  - "Giovan Battista Fagiuoli: [»Il traditor fedele. Scherzo scenico«](https://books.google.com/books?id=brVX5B1UXNoC&pg=PA363)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 50–51
+editions:
+  - title: "Leipzig: Schneider 1775"
+    url: https://books.google.com/books?id=S2xVAAAAcAAJ&printsec=frontcover
+comments:
+  - Andere Übersetzung am 15. April 1762 (ungedruckt) zum ersten Mal unter dem Titel »IL TRADITORE FEDELE. Der getreue Verräther. Eine neue Comödie in einem Ackt, aus dem Italiänischen des Hrn. Faggiuoli« aufgeführt (vgl. Meyer, Band 20, S. 236).
+cast:
+  - name: Aspasia,
+    role: Frau des Pancrazio.
+    gender: f
+  - name: Isabelle,
+    role: ihre Tochter, in Orazio verliebt.
+    gender: f
+  - name: Sermolline,
+    role: Kammermädgen der Aspasia.
+    gender: f
+  - name: Orazio,
+    role: Liebhaber der Isabelle.
+    gender: m
+setting: >
+  Der Schauplatz ist eine Gegend von Häusern, wo der Aspasia ihres auch zu sehen ist.
+---
 slug: anonym-der-glueckliche-betrug
 author:
   pseudonym: Anonym
@@ -3421,6 +3455,41 @@ cast:
     role: ein Soldat, Vincents Sohn.
     gender: m
   - name: Ein Feldwebel.
+    gender: m
+---
+slug: anonym-die-ueberraschung
+author:
+  name: S., J.
+  pseudonym: Anonym
+title: Die Überraschung
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 15
+printed: 1777
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 539–540
+editions:
+  - title: "Wien: Jahn 1777"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0000AA1600000000
+cast:
+  - name: Herr von Dolberg.
+    gender: m
+  - name: Suschen,
+    role: seine Tochter.
+    gender: f
+  - name: Herr von Brenlieb.
+    gender: m
+  - name: Herr von Stuzersfeld.
+    gender: m
+  - name: Süffig,
+    role: ein Jurist.
+    gender: m
+  - name: Lisette,
+    role: das Kammermädchen.
+    gender: f
+  - name: Adam,
+    role: ein Bedienter.
     gender: m
 ---
 slug: anonym-die-unbesonnenheit
@@ -6115,6 +6184,41 @@ cast:
     gender: f
 setting: >
   Die Scene ist 4 Meilen von der Hauptstadt.
+---
+slug: crentzin-der-arme
+author:
+  name: Crentzin, Anton Adolph von
+  wikidata: Q95238764
+title: Der Arme
+subtitle: Ein Schauspiel in einer Handlung
+numberOfScenes: 14
+printed: 1777
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 474–475
+editions:
+  - title: "Innsbruck: Trattner [1777]"
+    url: https://books.google.com/books?id=rQgr5X-UoR0C&printsec=frontcover
+cast:
+  - name: Herr Hochner,
+    role: ein Kaufmann.
+    gender: m
+  - name: Lotche,
+    role: seine Tochter.
+    gender: f
+  - name: Dormann.
+    gender: m
+  - name: Liebfels.
+    gender: m
+  - name: Jachim,
+    role: Hochners Buchhalter.
+    gender: m
+  - name: Thom,
+    role: Ladenjung.
+    gender: m
+setting: >
+  Die Scene ist Hochners Wohnung.
 ---
 slug: cronegk-der-erste-aprill
 author:
@@ -14155,6 +14259,56 @@ cast:
 setting: >
   Strasse.
 ---
+slug: seyfried-der-sehende-blinde
+author:
+  name: Seyfried, Karl Heinrich
+  wikidata: Q94901866
+title: Der sehende Blinde
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem Französischen des Le Grand
+numberOfScenes: 30
+printed: 1777
+premiered: 1764-02-22
+formalia:
+  - Prosa
+basedOn:
+  - "Marc-Antoine Legrand: [»L'aveugle clair-voyant. Comédie«](https://books.google.com/books?id=FcgFAAAAQAAJ&pg=PA59)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 560
+editions:
+  - title: "Dresden: Hilscher 1777"
+comments:
+  - Weitere Übersetzung [1752 (Suabe)](suabe-der-sehende-blinde).
+keywords:
+  - Verkleidungsspiel
+  - Liebesprobe
+  - Heimkehr-Motiv
+cast:
+  - name: Thomason,
+    role: ein Schifsofficier. Der sehende Blinde.
+    gender: m
+  - name: Leonore,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Leonore,
+    role: eine alte Tante Leonorens.
+    gender: f
+  - name: Leander,
+    role: Thomasons Neffe.
+    gender: m
+  - name: Doctor Sohn,
+    role: ein Medicus.
+    gender: m
+  - name: Lisette,
+    role: Leonorens Mädchen.
+    gender: f
+  - name: Thering,
+    role: Thomasons Bedienter.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+setting: >
+  Die Scene ist in Thomasons Hause.
+---
 slug: solbrig-die-braunschweiger-wurst-oder-boese-beispiele-verderben-gute-sitten
 author:
   name: Solbrig, Carl Friedrich
@@ -14571,6 +14725,59 @@ cast:
     gender: u
 setting: >
   Die Scene ist in Paphos, nahe an dem Tempel der Liebe.
+---
+slug: suabe-der-sehende-blinde
+author:
+  name: Suabe, Carl August
+title: Der Sehende Blinde
+subtitle: Ein Nachspiel in Versen, nach dem Französischen des Herrn Le Grand
+numberOfScenes: 29
+printed: 1752
+premiered: 1753-05-10
+formalia:
+  - Verse
+basedOn:
+  - "Marc-Antoine Legrand: [»L'aveugle clair-voyant. Comédie«](https://books.google.com/books?id=FcgFAAAAQAAJ&pg=PA59)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 16, S. 163–165
+editions:
+  - title: "Dresden 1752"
+  - title: "[Ohne Ort: ohne Verlag] 1756"
+    url: https://books.google.com/books?id=WEhMAAAAcAAJ&printsec=frontcover
+comments:
+  - Einakterhinweis »Eine Comödie aus dem Franz. in einem Aufzuge« im Untertitel erst ab 1767.
+  - Ab 1764 auch als Zweiakter.
+  - Weitere Übersetzung [1777 (Seyfried)](seyfried-der-sehende-blinde).
+keywords:
+  - Verkleidungsspiel
+  - Liebesprobe
+  - Heimkehr-Motiv
+cast:
+  - name: Leonore,
+    role: eine junge Wittbe.
+    gender: f
+  - name: Leonore,
+    role: ihre Tante.
+    gender: f
+  - name: Damon,
+    role: ein See-Officier.
+    gender: m
+  - name: Leander,
+    role: sein junger Vetter.
+    gender: m
+  - name: Doctor Safft,
+    role: ein junger affectirter Medicus.
+    gender: m
+  - name: Lisette,
+    role: Leonorens Mägdgen.
+    gender: f
+  - name: Caspar,
+    role: Damons Diener.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+setting: >
+  Der Schauplatz ist in Damons Hause.
 ---
 slug: teutscher-fanny-oder-die-glueckliche-wiedervereinigung
 author:
@@ -15780,6 +15987,33 @@ cast:
     gender: f
 setting: >
   Die Scene ist in Dorchens Zimmer.
+---
+slug: weisse-der-gebundene-schaefer
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Der gebundene Schäfer
+subtitle: Ein Schäferspiel für Kinder, in einem Aufzuge
+numberOfScenes: 10
+printed: 1777
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 572–573
+editions:
+  - title: "Leipzig: Crusius 1777"
+    url: https://books.google.com/books?id=PLWpQHbRAwsC&printsec=frontcover
+comments:
+  - Kindertheater
+cast:
+  - name: Montan.
+    gender: m
+  - name: Mirtil.
+    gender: m
+  - name: Damon.
+    gender: m
+setting: >
+  Der Schauplatz ist eine grüne Wiese neben einem kleinen Holze.
 ---
 slug: weisse-der-geburthstag
 author:
