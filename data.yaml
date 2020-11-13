@@ -567,7 +567,7 @@ editions:
   - title: "Berlin: Schöne 1799"
     url: https://books.google.com/books?id=mo5H99To8x8C&printsec=frontcover
   - title: "Neue Sammlung Deutscher Schauspiele. Vierten Jahrgangs Zwölfter Band. Grätz 1799"
-    url: https://books.google.com/books?id=9ZwoaTU261MC&pg=PT110
+    url: https://books.google.com/books?id=9ZwoaTU261MC&pg=RA2-PA1
 comments:
   - Rezension des Stücks in der Allgemeinen Literatur-Zeitung, [Nr. 373, Sp. 751–752 (31. Dezember 1800)](https://books.google.com/books?id=fzQCAAAAYAAJ&pg=PA751).
 keywords:
@@ -2949,7 +2949,7 @@ editions:
   - title: "Hamburg: Steinmann 1762"
 comments:
   - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
-  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit), [1762 (»Die Sitten nach der Mode«, anonym)](anonym-die-sitten-nach-der-mode) und [1769 (anonym)](anonym-die-sitten-der-zeit-1769).
+  - Weitere Übersetzungen [1761 (Joseph Laudes)](laudes-die-sitten-der-zeit), [1762 (»Die Sitten nach der Mode«, anonym)](anonym-die-sitten-nach-der-mode) und [1769 (anonym)](anonym-die-sitten-der-zeit-1769).
 cast:
   - name: Geronte,
     role: ein reicher Pachter, Vater der Julie.
@@ -2990,7 +2990,7 @@ editions:
     url: https://books.google.com/books?id=3A9aAAAAcAAJ&printsec=frontcover
 comments:
   - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
-  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit), [1762 (anonym)](anonym-die-sitten-der-zeit-1762) und [1762 (»Die Sitten nach der Mode«, anonym)](anonym-die-sitten-nach-der-mode).
+  - Weitere Übersetzungen [1761 (Joseph Laudes)](laudes-die-sitten-der-zeit), [1762 (anonym)](anonym-die-sitten-der-zeit-1762) und [1762 (»Die Sitten nach der Mode«, anonym)](anonym-die-sitten-nach-der-mode).
 cast:
   - name: Geronte,
     role: ein reicher Pachter.
@@ -3035,7 +3035,7 @@ editions:
     url: https://books.google.com/books?id=vDpUpBX8rJUC&printsec=frontcover
 comments:
   - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
-  - Weitere Übersetzungen [1761 (Joseph Gottwill Laudes)](laudes-die-sitten-der-zeit), [1762 (anonym)](anonym-die-sitten-der-zeit-1762) und [1769 (anonym)](anonym-die-sitten-der-zeit-1769).
+  - Weitere Übersetzungen [1761 (Joseph Laudes)](laudes-die-sitten-der-zeit), [1762 (anonym)](anonym-die-sitten-der-zeit-1762) und [1769 (anonym)](anonym-die-sitten-der-zeit-1769).
 cast:
   - name: Geronte,
     role: ein reicher Finanzpachter, Vater der Julie.
@@ -4013,10 +4013,10 @@ cast:
   - name: Lord Thaley.
     gender: m
   - group:
-      - name: Lord Thoward.
-        gender: m
-      - name: Lord Windham.
-        gender: m
+    - name: Lord Thoward.
+      gender: m
+    - name: Lord Windham.
+      gender: m
     role: Thaley's Freunde.
   - name: Bettson,
     role: der Fanny Kind.
@@ -5993,7 +5993,7 @@ comments:
   - Parodie der biblischen Erzählung »Susanna im Bade«, in der Daniel kein Prophet, sondern Susannas heimlicher Geliebter ist.
   - Verfasserschaft nicht abschließend geklärt. Auch Karl Riesbeck wird als Autor ins Spiel gebracht.
   - Bei Meyer fälschlich unter dem Titel »Die keusche Johanna«.
-  - "Besprechung in: [Journal aller Romane und Schauspiele. Erstes Stück. Leipzig: Schneider 1784, S. 92–93](https://books.google.com/books?id=2zi5EmbSDjwC&pg=PT92)."
+  - "Besprechung in: [Journal aller Romane und Schauspiele. Erstes Stück. Leipzig: Schneider 1784, S. 92–93](https://books.google.com/books?id=2zi5EmbSDjwC&pg=RA4-PA92)."
 keywords:
   - Pornographie
   - Vergewaltigung
@@ -6358,35 +6358,41 @@ created: 1840
 printed: 1886
 premiered: 1939-11-05
 editions:
-  - title: "Gesammelte Werke. 4. Band (Die prosaischen Schriften und Jugendwerke). Münster und Paderborn: Schöningh 1886, S. 165–252"
-    url: https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/5241310
+  - title: "Gesammelte Werke. Vierter Band: Die prosaischen Schriften und Jugendwerke. Münster und Paderborn: Schöningh 1886, S. 165–252"
+    url: https://books.google.com/books?id=Qm5DAQAAIAAJ&pg=PA165
   - title: "Sämtliche Werke in zwei Bänden. Band 1. München: Winkler 1973, S. 509–568"
     url: http://www.zeno.org/nid/20004709950
 comments:
-  - In der Erstausgabe 1886 nur 13 Szenen?
+  - In der Erstausgabe 1886 nur 13 Szenen.
 ids:
   dracor: ger000077
   wikidata: Q52893824
 cast:
-  - name: Speth
+  - name: Herr Speth,
+    role: Buchhändler in einer Stadt am Rheine.
     gender: m
-  - name: Frau Speth
+  - name: Frau Speth.
     gender: f
-  - name: Willibald
-    gender: m
-  - name: Ein Diener
-    gender: m
-  - name: Ida
+  - name: Ida,
+    role: Speths Tochter.
     gender: f
-  - name: Claudine Briesen
-    gender: f
-  - name: Frau von Austen
-    gender: f
-  - name: Sonderrath
+  - name: Sonderrath,
+    role: poeta laureatus.
     gender: m
-  - name: Seybold
+  - name: Wilibald,
+    role: Dichter minimi moduli und nebenbei Recensent.
     gender: m
-  - name: Frau von Thielen
+  - name: Seybold,
+    role: Recensent und nebenbei Dichter.
+    gender: m
+  - name: Frau von Thielen,
+    role: Blaustrumpf von Stande.
+    gender: f
+  - name: Claudine Briesen,
+    role: naiv-gefühlvoller Blaustrumpf.
+    gender: f
+  - name: Frau von Austen,
+    role: Blausturmpf du bon vieux temps.
     gender: f
 ---
 slug: dusch-die-unschuldigen-diebe
@@ -6671,7 +6677,7 @@ dictionaries:
 editions:
   - title: "Schönemann: Neue Sammlung. 1. Band (1754)"
   - title: "Wien: Krauß 1764"
-    url: https://books.google.com/books?id=MhR9aYeFhTsC&pg=PT6
+    url: https://books.google.com/books?id=MhR9aYeFhTsC&pg=RA4-PA1
 cast:
   - name: Frau Argante.
     gender: f
@@ -10128,9 +10134,59 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: laudes-die-nacht
+author:
+  name: Laudes, Joseph
+  wikidata: Q94619074
+title: Die Nacht
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem italiänischen des Marches Albergati Kapacelli
+numberOfScenes: 12
+printed: 1776
+formalia:
+  - Prosa
+basedOn:
+  - "Francesco Albergati Capacelli: [»La notte. Commedia d'un atto solo«](https://books.google.com/books?id=GjLW7i6ECHcC&pg=PA125)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 338–339
+editions:
+  - title: "Wien: Kurzbeck 1776"
+cast:
+  - name: Marchese Ranghi
+    role: ein Römer.
+    gender: m
+  - name: Clarice
+    role: seine Tochter.
+    gender: f
+  - name: Tofolo
+    role: Diener.
+    gender: m
+  - group:
+    - name: Graf Bruggi
+      gender: m
+    - name: Graf Arcatti
+      role: sein Freund
+      gender: m
+    role: Turiner.
+  - group:
+    - name: Graf Aretusi
+      gender: m
+    - name: Graf Anselmi
+      role: sein Freund.
+      gender: m
+    role: Mayländer.
+  - name: Vespa
+    role: Stubenmagd im Gasthofe.
+    gender: f
+  - name: Diener, die nicht reden.
+    isGroup: true
+    gender: m
+setting: >
+  Die Handlung gehet zu Mayland in einem vornehmen Gasthofe vor.
+---
 slug: laudes-die-sitten-der-zeit
 author:
-  name: Laudes, Joseph Gottwill von
+  name: Laudes, Joseph
+  wikidata: Q94619074
 title: Die Sitten der Zeit
 subtitle: Ein Lustspiel von einem Aufzug, aus dem Französischen
 numberOfScenes: 19
@@ -12520,6 +12576,44 @@ cast:
 setting: >
   Die Scene geht auf einem Landgute nicht weit von Wien vor. Die Bühne ist ein Saal.
 ---
+slug: reichard-die-ungetreuen
+author:
+  name: Reichard, Heinrich August Ottokar
+  wikidata: Q3129467
+title: Die Ungetreuen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1777
+premiered: 1776-03-29
+formalia:
+  - Prosa
+basedOn:
+  - "Nicolas Thomas Barthe: »Les fausses infidélités. Comédie en un acte et en vers«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 532–533
+editions:
+  - title: "Wien 1777"
+    url: https://books.google.com/books?id=o21VAAAAcAAJ&printsec=frontcover
+  - title: "Aufgeführt auf dem churfürstl. Theater zu München 1787"
+    url: https://books.google.com/books?id=bKkuaKHX6CgC&printsec=frontcover
+cast:
+  - name: Dorimene,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Angelique,
+    role: ihre Muhme.
+    gender: f
+  - name: Marquis von Valsain,
+    role: Dorimenens Liebhaber.
+    gender: m
+  - name: Chevalier Dormilli,
+    role: Angeliquens Liebhaber.
+    gender: m
+  - name: Mondor.
+    gender: m
+setting: >
+  Die Scene ist in Paris, in Dorimenens Behausung.
+---
 slug: reuling-das-orackel
 author:
   name: Reuling, Carl Ludwig
@@ -12592,6 +12686,37 @@ cast:
   - name: Packan,
     role: ein Hund.
     gender: u
+---
+slug: richter-der-falke
+author:
+  name: Richter, Joseph
+  wikidata: Q1707885
+title: Der Falke
+subtitle: Ein Lustspiel, in einem Aufzuge. Nach einer Erzehlung von Hagedorn
+numberOfScenes: 9
+printed: 1776
+premiered: 1776-12-05
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 378–379
+editions:
+  - title: "Wien 1776"
+    url: https://books.google.com/books?id=H8JTAAAAcAAJ&printsec=frontcover
+comments:
+  - Stoff von Boccaccio.
+cast:
+  - name: Rosalie,
+    role: eine junge reiche Wittwe von Stande.
+    gender: f
+  - name: Friederich,
+    role: ein verarmter Edelmann.
+    gender: m
+  - name: Treumann,
+    role: Friederichs Diener.
+    gender: m
+setting: >
+  Ein Wald. Im Grunde ein halb eingestürzter Mayerhof, zu dem eine kleine, verwachsene Allee führt. Seitwärts unter einem hohen schattenreichen Baume, ein Tisch mit hölzernen Bänken.
 ---
 slug: richter-der-verwandelte-rittmeister
 author:
@@ -12713,6 +12838,48 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in Salonich, der Hauptstadt in Macedonien.
+---
+slug: roeding-die-kranke-mutter
+author:
+  name: Röding, Johann Heinrich
+  wikidata: Q55126067
+title: Die kranke Mutter
+subtitle: Ein dramatisches Gespräch für Kinder in einem Aufzuge
+numberOfScenes: 8
+printed: 1776
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 381
+editions:
+  - title: "Hamburgisches Wochenblatt für Kinder 2 (1776), S. 169–183"
+keywords:
+  - Kindertheater
+cast:
+  - group:
+    - name: Friederike,
+      role: fünfzehn Jahr alt.
+      gender: f
+    - name: Malchen,
+      role: ungefähr 5 Jahr alt.
+      gender: f
+    - name: Wilhelm,
+      role: zwanzig Jahr alt.
+      gender: m
+    - name: Christian,
+      role: zwölf Jahr alt.
+      gender: m
+    role: Geschwister.
+  - group:
+    - name: Lottchen,
+      gender: f
+    - name: Caroline,
+      gender: f
+    role: dreyzehn Jahr ungefähr beyde alt. Freundinnen Friederikens.
+  - name: Ludwig,
+    role: ein Freund Christians, und mit ihm von gleichem Alter.
+    gender: m
+setting: >
 ---
 slug: romanus-das-tarocspiel
 author:
@@ -13695,6 +13862,95 @@ cast:
 setting: >
   Der Schauplatz ist in der Frau Praatgern Hause.
 ---
+slug: schletter-das-goldstueck-oder-der-kleine-menschenfreund
+author:
+  name: Schletter, Salomo Friedrich
+  wikidata: Q94892046
+title: Das Goldstück, oder der kleine Menschenfreund
+subtitle: Ein Lustspiel in Einem Aufzuge, für Kinder
+numberOfScenes: 28
+printed: 1777
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 547
+editions:
+  - title: "Sammlung neuer Original-Stücke für das Deutsche Theater. Berlin und Leipzig: Decker 1777"
+    url: https://books.google.com/books?id=XO5YAAAAcAAJ&pg=RA2-PA1
+keywords:
+  - Kindertheater
+cast:
+  - name: Junker Carl,
+    role: der kleine Menschenfreund.
+    gender: m
+  - name: Junker Conrad,
+    role: Carls Nachbar.
+    gender: m
+  - name: Junker Hännschen,
+    role: Carls Vetter vom Lande.
+    gender: m
+  - name: Fräulein Henriette,
+    role: Carls Schwester.
+    gender: f
+  - name: Fräulein Malchen,
+    role: Henriettens Gespielin und Verwandte.
+    gender: f
+  - name: Fräulein Gretchen,
+    role: Hännschens Schwester.
+    gender: f
+  - name: Ehrlich,
+    role: ein armer Bürger.
+    gender: m
+  - name: Martin,
+    role: der Gärtner.
+    gender: m
+  - name: Peter,
+    role: ein Gärtnerbursche.
+    gender: m
+setting: >
+  Der Schauplatz ist in dem Garten, der Carlchens und Henriettens Aeltern gehöret, und in der Vorstadt einer Residenz ist, oder wenigstens nahe daran gelegen.
+---
+slug: schletter-gewinnt-der-fuerst-wenn-er-sich-herablaesst
+author:
+  name: Schletter, Salomo Friedrich
+  wikidata: Q94892046
+title: Gewinnt der Fürst, wenn er sich herabläßt?
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 20
+printed: 1777
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 546–457
+editions:
+  - title: "Frankfurt und Leipzig: Fleischer 1777"
+    url: https://books.google.com/books?id=SRdYAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Die Fürstin.
+    gender: f
+  - name: Fräul. von Blum,
+    role: Hoffräulein der Fürstin.
+    gender: f
+  - name: Herr von Brand,
+    role: Major bey der Garde.
+    gender: m
+  - name: Der Page.
+    gender: m
+  - name: Carl,
+    role: des Majors Sohn.
+    gender: m
+  - name: Fritze.
+    gender: m
+  - name: Anne.
+    gender: f
+  - name: Gürge,
+    role: ihr Sohn.
+    gender: m
+  - name: Der Kammerdiener der Fürstin.
+    gender: m
+setting: >
+  Ein Saal im Palais der Fürstin.
+---
 slug: schlosser-das-missverstaendnis
 author:
   name: Schlosser, Johann Ludwig
@@ -13880,6 +14136,43 @@ cast:
 setting: >
   Die Scene ist im kleinern Phrygien, am Fuß des Ida, worauf Scamander und Simois entspringen. Schäfer und Schäferinnen sieht man in entfernten Gegenden, bey ihren Heerden sitzen und mit ländlichen Arbeiten beschäftiget.
 ---
+slug: scholz-die-beiden-faecher
+author:
+  name: Scholz, Maximilian
+  wikidata: Q60821596
+title: Die beiden Fächer
+subtitle: Ein Lustspiel in einem Akte. Nach dem Plan der beiden Hüte
+numberOfScenes: 14
+printed: 1777
+premiered: 1778-04-30
+formalia:
+  - Prosa
+basedOn:
+  - "Carmontelle: [»Les deux chapeaux. Comédie. Dix-neuvième proverbe«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CARMONTELLE_DEUXCHAPEAUX.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 554
+editions:
+  - title: "Prag: Schönfeld 1777"
+    url: https://books.google.com/books?id=LhdYAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Baron Blumenthal.
+    gender: m
+  - name: Die Baroninn,
+    role: seine Frau.
+    gender: f
+  - name: Frau von Dahlbach.
+    gender: f
+  - name: Sophie,
+    role: Kammermädchen der Baroninn.
+    gender: f
+  - name: Anton,
+    role: Bedienter des Barons.
+    gender: m
+  - name: Noch ein Bedienter der Baroninn.
+    gender: m
+setting: >
+  Die Handlung geht im Hause des Barons vor.
+---
 slug: scholze-johann-sigismund-das-kaetzgen
 author:
   name: Scholze, Johann Sigismund
@@ -14043,6 +14336,46 @@ cast:
 setting: >
   Der Schauplatz ist in einem Zimmer, in Dumpfs Hause.
 ---
+slug: schummel-die-probe-der-kindlichen-liebe
+author:
+  name: Schummel, Johann Gottlieb
+  wikidata: Q1694208
+title: Die Probe der kindlichen Liebe
+subtitle: In einem Aufzuge
+numberOfScenes: 14
+printed: 1776
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 391–392
+editions:
+  - title: "Kinderspiele und Gespräche. Erster Theil. Leipzig: Crusius 1776, S. 1–28"
+    url: https://books.google.com/books?id=V3MyAQAAMAAJ&pg=PA1
+  - title: "Kinderspiele und Gespräche. Erster Theil. Leipzig: Crusius 1778, S. 1–28"
+    url: https://books.google.com/books?id=2wdbAAAAcAAJ&pg=PA7
+comments:
+  - Einakterhinweis »In einem Aufzuge« im Untertitel erst 1785.
+  - Auch unter dem Titel »Die Probe der kindlichen Liebe zur Übung« (1784).
+  - Ins Französische unter dem Titel [»L'epreuve de l'amour filial«](https://books.google.com/books?id=yLxH9fQnx58C&pg=PA66) (1778) übersetzt.
+keywords:
+  - Kindertheater
+cast:
+  - name: Dortmund,
+    role: Vater.
+    gender: m
+  - name: Dortmund,
+    role: Onkel.
+    gender: m
+  - name: Carl,
+    role: ältester Sohn.
+    gender: m
+  - name: Willhelm,
+    role: jüngster Sohn.
+    gender: m
+  - name: Stein,
+    role: ein Kaufmann.
+    gender: m
+---
 slug: schummel-die-unschuldige-frau-oder-viel-lermen-um-nichts
 author:
   name: Schummel, Johann Gottlieb
@@ -14080,6 +14413,55 @@ cast:
     gender: f
 setting: >
   Der Schauplaz ist in einer kleinen Stadt, einige Meilen von dem Landguthe des Herrn von Taubenhayn, auf einem Saale in Walthers Gasthofe. Zur rechten Hand des Saales ist das Zimmer der Frau von Taubenhayn und gegen über, zur Linken, das Zimmer des Herrn von Taubenhayn. Hinter dem Zimmer des Herrn von Taubenhayn geht eine Treppe herab. Im Hintergrunde steht ein Tisch und einige Stühle und an der Wand ist eine Klingel angebracht. Das Schauspiel geht früh Morgens an.
+---
+slug: schwan-der-glueckliche-einfall
+author:
+  name: Schwan, Christian Friedrich
+  wikidata: Q927033
+title: Der glückliche Einfall
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 22
+printed: 1777
+formalia:
+  - Prosa
+basedOn:
+  - "Noël Lebreton de Hauteroche: [»Le souper mal apprêté. Comédie«](https://books.google.com/books?id=BOy9SMG9io4C&printsec=frontcover)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 557
+editions:
+  - title: "Mannheim: Schwan 1777"
+    url: https://books.google.com/books?id=uYuDugEACAAJ&printsec=frontcover
+cast:
+  - name: Herr Waldenau.
+    gender: m
+  - name: Philip,
+    role: dessen Bedienter.
+    gender: m
+  - name: Julie,
+    role: Liebhaberin des Herrn Waldenau.
+    gender: f
+  - name: Dorchen,
+    role: Kammerjungfer der Julie.
+    gender: f
+  - name: Wilhelmine,
+    role: Juliens Freundin.
+    gender: f
+  - name: Lisette,
+    role: Wilhelminens Kammerjungfer.
+    gender: f
+  - name: Herr Ferdinand,
+    role: Wilhelminens Liebhaber.
+    gender: m
+  - name: Herr Liebhard,
+    role: Wilhelminens Bruder.
+    gender: m
+  - name: Ein Gastwirt.
+    gender: m
+  - name: Ein Gerichtsdiener und einige Lakayen.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplatz ist in der Wohnung des Hn. Waldenau.
 ---
 slug: schwan-die-aussteuer
 author:
@@ -14258,6 +14640,45 @@ cast:
     gender: u
 setting: >
   Strasse.
+---
+slug: seybold-der-junge-patriot
+author:
+  name: Seybold, Johann Georg
+  wikidata: Q101552092
+title: Der junge Patriot
+subtitle: Ein Originallustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1777
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 560
+editions:
+  - title: "Straubing: [ohne Drucker] 1777"
+cast:
+  - name: Baron von Rittersheim,
+    role: ein gedienter General.
+    gender: m
+  - name: Fritz,
+    role: dessen Sohn.
+    gender: m
+  - name: Luise,
+    role: seine Tochter.
+    gender: f
+  - name: Karl von Edelburg,
+    role: ein verwaister Sohn eines Verwandten.
+    gender: m
+  - name: Simerl,
+    role: ein Knab, der Fritzen und Karln zur Bedienung gegeben worden.
+    gender: m
+  - name: Martin,
+    role: Dorfrichter.
+    gender: m
+  - name: Dorfgemeinde.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geht in Rittersheims Schloße vor.
 ---
 slug: seyfried-der-sehende-blinde
 author:
