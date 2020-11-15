@@ -37,13 +37,17 @@ export function formatYear (year) {
   // YYYY-MM
   if (yearString.match('^[0-9]{4}-[0-9]{2}$')) {
     const date = new Date(yearString);
-    return `${date.toLocaleString('en', {month: 'long'})} ${date.getFullYear()}`;
+    return date.toLocaleDateString('en-GB', {month: 'long', year: 'numeric'});
   }
 
   // YYYY-MM-DD
   if (yearString.match('^[0-9]{4}-[0-9]{2}-[0-9]{2}$')) {
     const date = new Date(yearString);
-    return date.toLocaleDateString('en');
+    return date.toLocaleDateString('en-GB', {
+      day: 'numeric',
+      month: 'long',
+      year: 'numeric'
+    });
   }
 
   // not before
