@@ -10,7 +10,7 @@ const Authors = ({authors}: Props) => {
     <>
       {authors.map((author, i) => (
         <span key={`author-${i}-${author.name}`}>
-          {i > 0 && ' / '}
+          {i > 0 && ' · '}
           {author.name}
           {author.pseudonym && (<i> ({author.pseudonym})</i>)}
           {author.wikidata && (
