@@ -7,6 +7,18 @@ Database of German one-act plays.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can learn more in the
 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+### Quick start
+
+After installing [nodejs](https://nodejs.org/en/download/package-manager/) and
+[yarn](https://classic.yarnpkg.com/en/docs/install) you can start the *Einakter*
+database by running the following commands:
+
+```bash
+git clone git@github.com:dracor-org/einakter.git
+cd einakter
+yarn
+yarn start
+```
 
 In the project directory, you can run:
 
