@@ -2766,6 +2766,44 @@ cast:
 setting: >
   Der Schauplatz ist in dem Hause der Frau Argante.
 ---
+slug: anonym-die-kranke-freundschaft
+author:
+  pseudonym: Anonym
+title: Die kranke Freundschaft
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 20
+printed: 1773
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 220–221
+editions:
+  - title: "Leipzig 1773"
+    url: https://books.google.com/books?id=Zw9jRfzSwUAC&printsec=frontcover
+cast:
+  - name: Herr von Maessig.
+    gender: m
+  - name: Frau von Maessig.
+    gender: f
+  - name: Fraeulein von Unentschlossen,
+    role: Schwester der Frau von Maessig.
+    gender: f
+  - name: Fraeulein von Ungewitter.
+    gender: f
+  - name: Fraeul. von Mausekopf,
+    role: eine sehr nahe Anverwandtin der Fraeulein von Ungewitter.
+    gender: f
+  - name: Fraeul. von Wurmkopf.
+    gender: f
+  - name: Herr von Farts,
+    role: Stiefbruder der Fraeulein von Wurmkopf, ein junger Officier.
+    gender: m
+  - name: Roesgen,
+    role: Kammerjungfer der Fraeulein von Ungewitter.
+    gender: f
+setting: >
+  Der Schauplatz ist in dem Hause der Fraeulein von Ungewitter.
+---
 slug: anonym-die-melonen-oder-die-zaenkerinn
 author:
   pseudonym: Anonym
@@ -3351,6 +3389,48 @@ cast:
   - name: Perette,
     role: Gotthards Frau.
     gender: f
+---
+slug: anonym-die-glueckliche-entfuehrung-oder-der-aedelmuethige-mann
+author:
+  pseudonym: Anonym
+title: Die glückliche Entführung, oder der ädelmüthige Mann
+subtitle: Ein Lustspiel in einem Aufzuge
+printed: 1773
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 216
+editions:
+  - title: "Schauspiele. Erstes Stück. Leipzig: Büschel 1773, S. 5–96"
+comments:
+  - "Besprechung in [Magazin der deutschen Critik, Zweyten Bandes Erster Theil (1773), S. 285–288](https://books.google.com/books?id=awxMAAAAcAAJ&pg=RA1-PA285)."
+cast:
+  - name: Herr von Mildbach.
+    gender: m
+  - name: Julie,
+    role: Tochter des Maiors.
+    gender: f
+  - name: Karl,
+    role: Mildbachs Neffe.
+    gender: m
+  - name: Herr von Zorn,
+    role: Maior.
+    gender: m
+  - name: Philint,
+    role: Mildbachs vertrauter Freund.
+    gender: m
+  - name: Lieschen,
+    role: Juliens Mädchen.
+    gender: f
+  - name: Heinrich,
+    role: Karls Bedienter.
+    gender: m
+  - name: Bedienter des Maiors.
+    gender: m
+  - name: Der Wirth.
+    gender: m
+setting: >
+  Der Schauplatz ist im Gasthofe.
 ---
 slug: anonym-die-glueckliche-taeuschung
 author:
@@ -6600,7 +6680,7 @@ premiered: 1777
 formalia:
   - Prosa
 basedOn:
-  - "Alain-René Le Sage und d'Orneval: [»Les amours de Nanterre«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DORNEVALLESAGE_AMOURSDENANTERRE.xml)"
+  - "Alain-René Le Sage und Jacques-Philippe d'Orneval: [»Les amours de Nanterre. Opéra comique«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DORNEVALLESAGE_AMOURSDENANTERRE.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 19, S. 421
 comments:
@@ -6798,6 +6878,56 @@ cast:
     gender: m
 setting: >
   Die Scene ist ein ländlicher mit Bäumen besetzter Platz vor einer Bauerhütte. Im Hintergrunde erblickt man eine kleine Anhöhe.
+---
+slug: engel-der-diamant
+author:
+  name: Engel, Johann Jakob
+  wikidata: Q71442
+title: Der Diamant
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem Französischen des Collé
+numberOfScenes: 14
+printed: 1772
+premiered: 1773-04-02
+formalia:
+  - Prosa
+basedOn:
+  - "Carmontelle: [»Le diamant. Dix-septième proverbe«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CARMONTELLE_DIAMANT.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 280
+editions:
+  - title: "Leipzig: Dyck 1773"
+    url: https://books.google.com/books?id=TWtVAAAAcAAJ&printsec=frontcover
+  - title: "J. J. Engels Lustspiele. Carlsruhe: Schmieder 1783, S. 1–56"
+    url: https://books.google.com/books?id=amih0bQhFucC&pg=PA1
+  - title: "J. J. Engel's Schriften. Sechster Band. Schauspiele. Zweiter Theil. Berlin: Mylius 1803, S. 195–265"
+    url: https://books.google.com/books?id=02w5AAAAMAAJ&pg=PA195
+  - title: "Schauspiele von J. J. Engel. Zweyter Theil. Berlin 1810, S. 117–160"
+    url: https://books.google.com/books?id=N-DrVepNANAC&pg=PA117
+comments:
+  - "Laut Angabe in den [Schriften, Sechster Band (1803), S. 278](https://books.google.com/books?id=IOl3dU0actoC&pg=PA278), bereits 1772 anonym gedruckt."
+  - "Die Vorlage ist »von Carmontel (anon. erschienen und gelegentlich fälschlich Collé zugeschrieben)«. (Meyer)"
+cast:
+  - name: Frau von Gercourt.
+    gender: f
+  - name: Herr von Gercourt.
+    gender: m
+  - name: Graf von Tourmont.
+    gender: m
+  - name: Henriette,
+    role: Kammermädchen der Frau von Gercourt.
+    gender: f
+  - name: Herr von Mirvault,
+    role: Bruder des Herrn von Gercourt.
+    gender: m
+  - name: Israel,
+    role: ein Jude.
+    gender: m
+  - name: Dumont,
+    role: Kammerdiener der Frau von Gercourt.
+    gender: m
+  - name: Champagne,
+    role: Bedienter des Herrn von Gercourt.
+    gender: m
 ---
 slug: faber-die-drey-brueder-als-nebenbuhler
 author:
@@ -7704,6 +7834,45 @@ cast:
 setting: >
   Der Schauplatz ist auf Jungfer Lottchens Zimmer. Die Handlung fängt, gleich nach der Mittagsmahlzeit an, und endiget sich gegen 5 Uhr.
 ---
+slug: grossmann-pygmalion
+author:
+  name: Großmann, Gustav Friedrich Wilhelm
+  wikidata: Q88019
+title: Pygmalion
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem Französischen, von G......
+numberOfScenes: 19
+printed: 1776
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Jacques Rousseau: »Pygmalion. Scène lyrique en un acte et en prose«"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 313
+editions:
+  - title: "Dresden: Walther 1776"
+    url: https://books.google.com/books?id=cW1VAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Pygmalion,
+    role: ein Bildhauer.
+    gender: m
+  - name: Galantis,
+    role: seine Geliebte.
+    gender: f
+  - name: Doris,
+    role: seine Schwester.
+    gender: f
+  - name: Caliston,
+    role: sein Gesell.
+    gender: m
+  - name: Amor.
+    gender: m
+  - name: Der König.
+    gender: m
+  - name: Ein Offizier.
+    gender: m
+setting: >
+  Der Schauplatz stellet einen Saal, im Hause des Pygmalion, und im Hintergrunde die Werkstätte vor.
+---
 slug: hafner-die-dramatische-unterhaltung-unter-guten-freunden
 author:
   name: Hafner, Philipp
@@ -8082,7 +8251,7 @@ premiered: 1753
 formalia:
   - Prosa
 basedOn:
-  - "Alain-René Le Sage und d'Orneval: [»Les amours de Nanterre«](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DORNEVALLESAGE_AMOURSDENANTERRE.xml)"
+  - "Alain-René Le Sage und Jacques-Philippe d'Orneval: [»Les amours de Nanterre. Opéra comique«](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DORNEVALLESAGE_AMOURSDENANTERRE.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 16, S. 387–388
 editions:
@@ -15206,6 +15375,48 @@ cast:
 setting: >
   Der Schauplatz ist in einer deutschen Handelsstadt.
 ---
+slug: stephanie-das-gespenst-auf-dem-lande
+author:
+  name: Stephanie, Christian Gottlob
+  wikidata: Q55134065
+title: Das Gespenst auf dem Lande
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1772
+premiered: 1772-09-26
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 174–175
+editions:
+  - title: "Wien 1772"
+    url: https://books.google.com/books?id=FN5tuwEACAAJ&printsec=frontcover
+cast:
+  - name: Christoph,
+    role: ein alter Bauer.
+    gender: m
+  - name: Röschen,
+    role: seine Tochter.
+    gender: f
+  - name: Martin,
+    role: ihr Bräutigam.
+    gender: m
+  - name: Jakob,
+    role: ein junger Bauer.
+    gender: m
+  - name: Herr von Schwärmer,
+    role: der Sohn des Herrn des Dorfs.
+    gender: m
+  - name: Der Schulmeister.
+    gender: m
+  - name: Steffen,
+    role: Christophs Knecht.
+    gender: m
+  - name: Ein Bedienter, des Herrn von Schwärmer.
+    gender: m
+setting: >
+  Das Theater stellet ein ländliches Zimmer vor, mit einer Thür im Hintergrunde, und zwo Seitenthüren.
+---
 slug: stephanie-nichts-oder-der-majoratherr-und-der-cadet
 author:
   name: Stephanie, Johann Gottlieb
@@ -16513,6 +16724,40 @@ cast:
     gender: m
 setting: >
   Die Handlung geht vor in der Räuberhöhle. Die Bühne stellt eine große Höhle vor, welche mit verschiedenen Seitengängen sich erweitert. Der Grund der Bühne ist ein langer Felsengang. Man sieht in der Ferne eine Treppe, und eine Fallthüre, durch welche die Räuber von der Erde in ihre Wohnung herabsteigen. In den Höhlen sind einige Schränke, und alles nöthige Hausgeräth. Es brennt eine große Lampe, welche den ganzen Ort beleuchtet.
+---
+slug: weidmann-die-ueberraschung
+author:
+  name: Weidmann, Paul
+  wikidata: Q114260
+title: Die Überraschung
+subtitle: Ein deutsches Originallustspiel von einem Aufzuge
+numberOfScenes: 12
+printed: 1771
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 418
+editions:
+  - title: "Wien: Trattner 1771"
+    url: https://books.google.com/books?id=ZZJNqlNDNB8C&printsec=frontcover
+cast:
+  - name: Baron Dorfil (unter dem Namen Renfeld),
+    role: Vater Sigmunds.
+    gender: m
+  - name: Blümond,
+    role: Vater Sophiens.
+    gender: m
+  - name: Sigmund,
+    role: Liebhaber Sophiens.
+    gender: m
+  - name: Sophie,
+    role: Tochter Blümonds.
+    gender: f
+  - name: Johann,
+    role: ein alter Diener Dorfils.
+    gender: m
+setting: >
+  Die Handlung geht vor sich im Hause Blümonds.
 ---
 slug: weiskern-die-wirkung-der-rechtschaffenheit
 author:
