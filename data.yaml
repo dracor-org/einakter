@@ -8598,6 +8598,44 @@ cast:
 setting: >
   Die Scene spielt auf einem Dorfe im Wirthshause.
 ---
+slug: kepner-der-zerstreute
+author:
+  name: Kepner, Johann Friedrich
+title: Der Zerstreute
+subtitle: Ein original-Lustspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1776
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 324–325
+editions:
+  - title: "Wien: Ghelen 1776"
+cast:
+  - name: Damis
+    role: der Zerstreute.
+    gender: m
+  - name: Orgon,
+    role: Damis Vater.
+    gender: m
+  - name: Araminte,
+    role: Damis Geliebte.
+    gender: f
+  - name: Polidor,
+    role: Aramintens Vater.
+    gender: m
+  - name: Cleant,
+    role: Liebhaber der Araminte.
+    gender: m
+  - name: Crispin,
+    role: Damis Bedienter.
+    gender: m
+  - name: Stephan,
+    role: Cleants Bedienter.
+    gender: m
+setting: >
+  Die Handlung geht in dem Hause des Orgons vor.
+---
 slug: kirchhoff-der-bestrafte-hochmuth
 author:
   name: Kirchhoff, Johann Heinrich
@@ -8916,6 +8954,57 @@ cast:
     gender: f
   - name: Crispin.
     gender: m
+---
+slug: klencke-die-aderlaess
+author:
+  name: Klencke, Caroline Louise von
+  wikidata: Q1044525
+title: Die Aderläß
+subtitle: Ein Schauspiel in einem Aufzuge aus dem Französischen
+numberOfScenes: 8
+printed: 1776
+formalia:
+  - Prosa
+basedOn:
+  - "Charles Georges Thomas Garnier: [»La saignée. Drame en un acte. Dixième proverbe«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/GARNIERT_SAIGNEE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 326
+editions:
+  - title: "Leipzig und Budißin: Deintzer 1776"
+    url: https://books.google.com/books?id=QWxVAAAAcAAJ&printsec=frontcover
+  - title: "Zweyte verbesserte Auflage. Leipzig und Budißin: Deintzer 1777"
+    url: https://books.google.com/books?id=cKxSAAAAcAAJ&printsec=frontcover
+comments:
+  - Zweite Auflage (1777) unter dem leicht geänderten Titel »Das Aderlassen«.
+keywords:
+  - Armut
+  - Aderlass
+cast:
+  - name: Herr Dormel.
+    gender: m
+  - name: Frau Dormel.
+    gender: f
+  - name: Dormel,
+    role: der ältere Sohn, von zwanzig Jahren.
+    gender: m
+  - name: Sophie,
+    role: Tochter des Herrn Dormel, von achtzehn Jahren.
+    gender: f
+  - name: Dormel,
+    role: der jüngere Sohn, von sechs Jahren.
+    gender: m
+  - name: Der Markis von Orival.
+    gender: m
+  - name: Dubois,
+    role: Kammerdiener des Markisen.
+    gender: m
+  - name: Der Graf von Saint-Bon.
+    gender: m
+  - name: Ein Bedienter des Grafen,
+    role: ohne zu reden.
+    gender: m
+setting: >
+  Die Schaubühne stellet eine sehr schlechte Stube vor, worinnen einiges altes und verbrauchtes Geräthe, ein Schreibtisch, und ein Stafflet befindlich ist, worauf ein angefangenes Gemälde liegt, in der Tiefe ist ein Ruhbett, worauf ein Kind, unter einer schlechten Decke liegt und schläft.
 ---
 slug: koenig-die-verkehrte-welt
 author:
@@ -11536,8 +11625,8 @@ cast:
 ---
 slug: pauersbach-der-herr-gevatter-etwas-fuer-land-und-eheleute
 author:
-  name: Pauersbach, Joseph von
-  wikidata: Q94991162
+  name: Pauersbach, Karl Michael von
+  wikidata: Q30541298
 title: Der Herr Gevatter. Etwas für Land- und Eheleute
 subtitle: Ein ländliches Lustspiel in einem Aufzuge
 numberOfScenes: 19
@@ -11573,6 +11662,58 @@ cast:
     gender: f
 setting: >
   Das Stück spielt zu Weinhaus, einem österreichischen Dorfe, in Simons Hause.
+---
+slug: pauersbach-der-hexenschabbas
+author:
+  name: Pauersbach, Karl Michael von
+  wikidata: Q30541298
+title: Der Hexenschabbas
+subtitle: Ein Marionettenfest in einem Aufzuge
+numberOfScenes: 6
+printed: 1773
+premiered: 1773-09-02
+formalia:
+  - Verse
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 225–226
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1773"
+    url: https://haab-digital.klassik-stiftung.de/viewer/resolver?urn=urn:nbn:de:gbv:32-1-10016537475
+comments:
+  - Libretto zu Haydns (verlorener) Musik.
+  - Die HAAB führt als zweiten Librettisten (?) den Esterházy'schen Bibliothekar Philipp Georg Bader an.
+cast:
+  - name: Ein Zauberer.
+    gender: m
+  - name: Eine Zauberinn.
+    gender: f
+  - name: Ein anderes Paar.
+    isGroup: true
+    gender: u
+  - name: Chor.
+    isGroup: true
+    gender: u
+  - name: Eine Stimme.
+    gender: u
+  - name: Eine andere.
+    gender: u
+  - name: Der Chor von Hexen.
+    isGroup: true
+    gender: f
+  - name: Rodoraune.
+    gender: m
+  - name: Der Chor von Zauberern.
+    isGroup: true
+    gender: m
+  - name: Das unsichtbare Orackel.
+    gender: u
+  - name: Der Vorsteher der Zauberer.
+    gender: m
+  - name: Zwo Hexen.
+    isGroup: true
+    gender: f
+setting: >
+  Die Bühne stellt einen Ort vor, wo die Hexen zur Nachtzeit ihre fabelhaften Zusammenkünfte, und Lustbarkeiten zu halten pflegen. Ueberbleibseln verschiedener prächtiger Gebäude, und in der Entfernung das Hochgericht bestimmen ihn. – In der Ferne ist ein nahes Dorf, und eine angenehme Landschaft schlüßt die Aussicht. Der Vollmond giebt der ganzen Gegend ihr Licht.
 ---
 slug: pauersbach-die-indianische-wittwe
 author:
@@ -15511,7 +15652,7 @@ formalia:
 dictionaries:
   bibliographia: 2. Abteilung, Band 25, S. 188–189
 editions:
-  - title: "Deutsches Theater von H. C. H. Trautzschen. Leipzig: Jacobäer 1772, S. 113–182"
+  - title: "Deutsches Theater von H. C. H. von Trautzschen. Leipzig: Jacobäer 1772, S. 113–182"
     url: https://books.google.com/books?id=R2xVAAAAcAAJ&pg=PA113
 cast:
   - name: Der Bürgermeister.
@@ -15547,7 +15688,7 @@ formalia:
 dictionaries:
   bibliographia: 2. Abteilung, Band 25, S. 187–188
 editions:
-  - title: "Deutsches Theater von H. C. H. Trautzschen. Leipzig: Jacobäer 1772, S. 275–312"
+  - title: "Deutsches Theater von H. C. H. von Trautzschen. Leipzig: Jacobäer 1772, S. 275–312"
     url: https://books.google.com/books?id=R2xVAAAAcAAJ&pg=PA275
 cast:
   - name: Der Präsident.
@@ -15571,6 +15712,42 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in einem Zimmer des Präsidenten, welches an den Speisesaal stößt.
+---
+slug: trautzschen-julie
+author:
+  name: Trautzschen, Hans Karl Heinrich von
+  wikidata: Q975929
+title: Julie
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1773
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 25, S. 399
+editions:
+  - title: "Deutsches Theater von H. C. H. von Trautzschen. Zweyter Theil. Leipzig: Jacobäer 1774, S. 315–334"
+    url: https://books.google.com/books?id=R2xVAAAAcAAJ&pg=RA1-PA315
+cast:
+  - name: Herr Gutwill.
+    gender: m
+  - name: Herr Gutwill,
+    role: dessen Sohn.
+    gender: m
+  - name: Herr Schwarz,
+    role: dessen Schwiegersohn.
+    gender: m
+  - name: Leonore,
+    role: dessen Tochter, Frau des Herrn Schwarz.
+    gender: f
+  - name: Julie,
+    role: ein armes Frauenzimmer.
+    gender: f
+  - name: Gerhard,
+    role: ein Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist ein Saal in dem Hause, welches diese Familie bewohnt.
 ---
 slug: uhlich-apollo-unter-den-hirten
 author:
@@ -16144,6 +16321,48 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist zu Charlestown, einer englischen Colonie in Nordamerica.
+---
+slug: weidmann-abdalah-oder-keine-wohlthat-bleibt-unbelohnt
+author:
+  name: Weidmann, Paul
+  wikidata: Q114260
+title: Abdalah, oder keine Wohlthat bleibt unbelohnt
+subtitle: Ein deutsches Originaldrama von einem Aufzug
+numberOfScenes: 15
+printed: 1771
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 24, S. 415–416
+editions:
+  - title: "Wien: Trattner 1771"
+    url: https://books.google.com/books?id=umpUAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Abdalah,
+    role: Großvizir.
+    gender: m
+  - name: Ein Aga.
+    gender: m
+  - name: Janitscharen.
+    isGroup: true
+    gender: u
+  - name: Lisimon,
+    role: ein Bürger einer von den Türken belägerten Stadt.
+    gender: m
+  - name: Lusinde,
+    role: seine Frau.
+    gender: f
+  - name: Sophie,
+    role: seine Tochter.
+    gender: f
+  - name: Servil,
+    role: ihr Gatte, ein Offizier von der Besatzung.
+    gender: m
+  - name: Ein todter Knabe,
+    role: ein Sohn Lisimons.
+    gender: m
+setting: >
+  Die Handlung geht vor im Hause Lisimons. Die Bühne stellt ein Wohnzimmer vor. In der Mitte des Zimmers ist ein Vorhang, welcher offen steht, und hinter welchem man ein Bette sieht, worinn ein todter Knabe liegt.
 ---
 slug: weidmann-der-podagrist
 author:
