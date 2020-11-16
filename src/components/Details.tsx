@@ -107,7 +107,7 @@ export default function Details () {
           )}
           {cast && (
             <tr>
-              <th>Cast</th>
+              <th>Dramatis personae</th>
               <td>
                 <ul>
                   {cast.map((c: CastMember) => c.group ? (
