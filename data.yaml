@@ -1986,6 +1986,52 @@ cast:
 setting: >
   Die Handlung geht auf einem Dorfe vor, das einige Stunden von der Hauptstadt entlegen ist.
 ---
+slug: anonym-der-sudelkoch-oder-peter-krapfel
+author:
+  pseudonym: Anonym
+title: Der Sudelkoch, oder Peter Krapfel
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 14
+printed: 1776
+premiered: 1777
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 243
+editions:
+  - title: "Wien 1776"
+    url: https://books.google.com/books?id=NPwJIDh7Ed8C&printsec=frontcover
+comments:
+  - "»Anlaß: Ein Gedicht im Göttinger Musenalmanach.« (Meyer) In der Vorerinnerung abgedruckt ([S. 3–4](https://books.google.com/books?id=NPwJIDh7Ed8C&pg=PA3))."
+cast:
+  - name: Peter Krapfel,
+    role: Trakteur.
+    gender: m
+  - name: Frau Krapflin.
+    gender: f
+  - name: Philippine,
+    role: Krapfels Schwester.
+    gender: f
+  - name: Bernhard.
+    gender: m
+  - name: Schmecks,
+    role: Gastwirth.
+    gender: m
+  - name: Spitz,
+    role: Schneidermeister. 
+    gender: m
+  - name: Rupprecht,
+    role: ein Gerichtsdiener.
+    gender: m
+  - group:
+    - name: Kasper,
+      gender: m
+    - name: Konrad,
+      gender: m
+    role: Aufwärter.
+setting: >
+  Ein Zimmer auf dem Zunfthause, wo der Ball gegeben wird.
+---
 slug: anonym-der-unerwartete-ausgang
 author:
   pseudonym: Anonym
@@ -5603,6 +5649,46 @@ cast:
 setting: >
   Der Schauplatz ist in dem Eichwalde Mamre, vor Jacobs Gezelte, wo eine cederne Ruhebank ist, und gegen über ein Altar von Marmor.
 ---
+slug: boecklin-von-boecklinsau-der-pedant
+author:
+  name: Böcklin von Böcklinsau, Franz Friedrich Siegmund August
+  wikidata: Q59535732
+title: Der Pedant
+subtitle: Ein Lustspiel in einem Aufzuge von F.V.B.Z.B.
+numberOfScenes: 16
+printed: 1776
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 26, S. 265
+editions:
+  - title: "[Augsburg: Stage] 1776"
+    url: https://books.google.com/books?id=bN9TOB5BJz0C&printsec=frontcover
+cast:
+  - name: Herr Dagesch,
+    role: Professor der morgenländischen Sprachen.
+    gender: m
+  - name: Madame Dagesch,
+    role: dessen Frau.
+    gender: f
+  - name: Lisette,
+    role: ihre einzige Tochter.
+    gender: f
+  - name: Herr Hauptmann von Antenor,
+    role: dessen Vater geadelt worden, Liebhaber der Lisette.
+    gender: m
+  - name: Herr Kummerbrod,
+    role: ein Student.
+    gender: m
+  - name: Herr Stammelmaul,
+    role: des Professors Famulus.
+    gender: m
+  - name: Johann,
+    role: Bedienter des Herrn von Antenor.
+    gender: m
+setting: >
+  Die Bühne stellt ein Wohnzimmer vor.
+---
 slug: brahm-der-ungegruendete-verdacht
 author:
   name: Brahm, Moritz von
@@ -6549,9 +6635,9 @@ cast:
 setting: >
   In einem Salon bey dem Herrn von Troppau.
 ---
-slug: eckhardt-der-fleissige-schuster
+slug: eckardt-der-fleissige-schuster
 author:
-  name: Eckardt, Friedrich Lucas Samuel
+  name: Eckardt, Friedrich
   wikidata: Q21660249
 title: Der fleißige Schuster
 subtitle: Ein Drama, in einem Aufzuge
@@ -6597,13 +6683,14 @@ setting: >
 ---
 slug: eckardt-der-kaufmann-und-der-bettler
 author:
-  name: Eckardt, Friedrich von
-  pseudonym: Anonym
+  name: Eckardt, Friedrich
   wikidata: Q21660249
 title: Der Kaufmann und der Bettler
 subtitle: Ein Schauspiel in einem Aufzuge
 numberOfScenes: 7
 printed: 1776
+formalia:
+  - Prosa
 dictionaries:
   bibliographia: 2. Abteilung, Band 26, S. 277–278
 editions:
