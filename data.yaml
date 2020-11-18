@@ -9906,6 +9906,101 @@ cast:
 setting: >
   Die Szene ist ein Vorhof mit einer Aussicht ins Meer.
 ---
+slug: kotzebue-baebbel-oder-aus-zwey-uebeln-das-kleinste
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Bäbbel oder Aus zwey Übeln das Kleinste
+subtitle: Eine historische Posse in Einem Akt
+numberOfScenes: 17
+printed: 1815
+premiered: 1817-07-01
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 14–15
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Dreizehnter Jahrgang. Leipzig: Hartmann 1815, S. 47–134"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044927_00061.html
+  - title: "Dramatische Werke von August von Kotzebue. 93. Bändchen. Neueste Auflage. Wien: Mausberger 1829, S. 3–53"
+    url: https://books.google.com/books?id=fFdZAAAAcAAJ&pg=PA3
+  - title: "Theater von August v. Kotzebue. Acht und dreißigster Band. Wien: Haykul und Lechner 1830, S. 111–179"
+    url: https://books.google.com/books?id=L6A6AAAAcAAJ&pg=PA111
+comments:
+  - Untertitel 1829 »in einem Aufzuge«.
+cast:
+  - name: Paff der Erste,
+    role: König der Insel Willibambula.
+    gender: m
+  - name: Millibimmilikili,
+    role: seine Tocher.
+    gender: f
+  - name: Bläh,
+    role: der Oberpriester.
+    gender: m
+  - name: Oramoro,
+    role: ein Jüngling.
+    gender: m
+  - name: Muschelgen,
+    role: dessen Schwester, vertraute der Prinzessin.
+    gender: f
+  - name: Bäbbel,
+    role: ein französischer Zollvisitator.
+    gender: m
+  - name: Suse,
+    role: seine Frau.
+    gender: f
+  - name: Ein Schiffer.
+    gender: m
+  - name: Des Königs Gefolge.
+    isGroup: true
+    gender: u
+setting: >
+  Das Costüm ist chinesisch. Bäbbel trägt eine Weiberkontusche und eine hohe Nachtmütze.
+---
+slug: kotzebue-das-urtheil-des-paris
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Das Urtheil des Paris
+subtitle: Eine heroische Komödia
+numberOfScenes: 10
+printed: 1804
+premiered: 1802-12-31
+formalia:
+  - Verse
+dictionaries:
+  kotzebue: S. 228–229
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zweiter Jahrgang. Berlin: La Garde 1804, S. 5–48"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044916_00011.html
+  - title: "Dramatische Werke von August von Kotzebue. 112. Bändchen. Neueste Auflage. Wien: Mausberger 1830, S. 27–54"
+    url: https://books.google.com/books?id=V1hZAAAAcAAJ&pg=PA27
+comments:
+  - Im Kotzebue-Dramenlexikon »Einakter« genannt.
+keywords:
+  - Satire
+  - Parodie
+  - antike Mythologie
+  - Erotik
+cast:
+  - name: Jupiter.
+    gender: m
+  - name: Paris,
+    role: ein griechischer Prinz, und Schaafhirt.
+    gender: m
+  - name: Helena,
+    role: eine trojanische Prinzessin.
+    gender: f
+  - name: Juno.
+    gender: f
+  - name: Minerva.
+    gender: f
+  - name: Venus.
+    gender: f
+  - name: Merkur.
+    gender: m
+---
 slug: kotzebue-der-alte-leibkutscher-peter-des-dritten
 author:
   name: Kotzebue, August von
@@ -9951,6 +10046,94 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in Petersburg, in dem Stadttheil Wasili Ostrow, jenseits der Newa, vor dem Hause des Tischlers. Eine Bank unter einem Baum, und ein fester Tisch davor.
+---
+slug: kotzebue-der-arme-minnesinger
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der arme Minnesinger
+subtitle: Schauspiel in Einem Akt
+numberOfScenes: 11
+printed: 1811
+premiered: 1811-04-14
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 10–11
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Neunter Jahrgang. Leipzig: Hartmann 1811, S. 143–185"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044923_00155.html
+  - title: "Leipzig 1811"
+    url: https://books.google.com/books?id=QBYHc7V2b4YC&printsec=frontcover
+  - title: "Theater von August v. Kotzebue. Sechsundzwanzgister Band. Rechtmäßige Original-Auflage. Leipzig: Kummer; Wien: Klang 1841, S. 3–26"
+    url: https://books.google.com/books?id=2GoIAQAAIAAJ&pg=PA3
+keywords:
+  - Ritterstück
+cast:
+  - name: Attila,
+    role: der Hunnen König.
+    gender: m
+  - name: Iwo,
+    role: ein Graf von Thüringen.
+    gender: m
+  - name: Ida,
+    role: dessen Schwester.
+    gender: f
+  - name: Ursula,
+    role: Ida's gewesene Amme.
+    gender: f
+  - name: Goswin,
+    role: der Minnesinger.
+    gender: m
+  - name: Bertram,
+    role: Iwo's Stallmeister.
+    gender: m
+  - name: Mehrere Hunnen.
+    isGroup: true
+    gender: m
+  - name: Jagdgefolge.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplatz ist in Thüringen, unweit einer Burg. Im Vorgrunde rechter Hand ursula's Hütte, links ein schattiger Eichbaum. Das Stück spielt in der Mitte des fünften Jahrhunderts.
+---
+slug: kotzebue-der-arme-poet
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der arme Poet
+subtitle: Ein Schauspiel in Einem Akt
+numberOfScenes: 9
+printed: 1813
+premiered: 1812-08-17
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 11–12
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Eilfter Jahrgang. Leipzig: Hartmann 1813, S. 143–196"
+    url: https://books.google.com/books?id=RZUeAQAAIAAJ&pg=PA142-IA3
+  - title: "Theater von August v. Kotzebue. Achtundzwanzgister Band. Rechtmäßige Original-Auflage. Leipzig: Kummer; Wien: Klang 1841, S. 215–242"
+    url: https://books.google.com/books?id=Jr3qwEA3EyMC&pg=PA215
+  - title: "Leipzig: Reclam [1870]"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11014850_00009.html
+comments:
+  - Untertitel 1870 »in einem Aufzuge«.
+cast:
+  - name: Lorenz Kindlein,
+    role: der arme Poet.
+    gender: m
+  - name: Frau Susanna,
+    role: eine Obsthändlerin.
+    gender: f
+  - name: Therese.
+    gender: f
+  - name: Julius.
+    gender: m
+  - name: Ein Kellner.
+    gender: m
+setting: >
+  Der Schauplatz ist in einer Seestadt, die Stube der Obsthändlerin, mit einem Tisch, zwei Stühlen und einem leeren Tragkorbe. Auf dem Tische steht eine Scherbe als Dintenfaß und eine Bouteille, die einem Stümpfchen Licht zum Leuchter dient. Anmerkung des Verfassers für solche Schauspieler, welche ihre Rollen bisweilen vergreifen: der arme Poet darf kein Lachen, sondern nur ein Lächeln erregen.
 ---
 slug: kotzebue-der-freimaurer
 author:
@@ -10060,6 +10243,80 @@ cast:
     gender: m
 setting: >
   Das Stück spielt zehn Jahre nach irgend einem verderblichen Kriege, etwa nach dem dreißigjährigen. Der Schauplatz ist ein deutsches Dorf an der Grenze. Linker Hand im Vorgrunde das Haus des Predigers. Rechter Hand, mehr im Hintergrunde, ein Todtengewölbe.
+---
+slug: kotzebue-die-alten-liebschaften
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die alten Liebschaften
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 11
+printed: 1812
+premiered: 1811-09-21
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 7–8
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zehnter Jahrgang. Leipzig: Hartmann 1812, S. 51–98"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044924_00059.html
+  - title: "Theater von Kotzebue. Sieben und dreyßigster Theil. Wien: Doll 1812, S. 47–98"
+    url: https://books.google.com/books?id=NbY4AQAAMAAJ&pg=PA47
+  - title: "[Augsburg: Stage] ca. 1814"
+    url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10118474-7
+  - title: "Dramatische Werke von August von Kotzebue. 57. Bändchen. Neueste Auflage. Wien: Mausberger 1829, S. 3–34"
+    url: https://books.google.com/books?id=qlVZAAAAcAAJ&pg=PA3
+  - title: "Theater von August v. Kotzebue. Siebenundzwanzgister Band. Rechtmäßige Original-Auflage. Leipzig: Kummer; Wien: Klang 1841, S. 3–34"
+    url: https://books.google.com/books?id=7xgSI0FNw_0C&pg=PA3
+comments:
+  - Untertitel 1814 »in einem Aufzug«.
+keywords:
+  - Ehe
+cast:
+  - name: Der Baron.
+    gender: m
+  - name: Julie,
+    role: seine Frau.
+    gender: f
+  - name: Elise,
+    role: ihre Freundin.
+    gender: f
+setting: >
+  Der Schauplatz ein Park auf dem Landgute des Barons. Ein hohler Baum steht im Vorgrunde.
+---
+slug: kotzebue-die-beichte
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Beichte
+subtitle: Ein Lustspiel in gereimten Versen und in Einem Akt
+numberOfScenes: 10
+printed: 1806
+premiered: 1805-10-25
+formalia:
+  - Verse
+dictionaries:
+  kotzebue: S. 17–18
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierter Jahrgang. Berlin: La Garde 1806, S. 3–36"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044918_00009.html
+  - title: "Theater von August v. Kotzebue. Dreiunddreißigster Band. Rechtmäßige Original-Auflage. Leipzig: Kummer; Wien: Klang 1841, S. 3–26"
+    url: https://books.google.com/books?id=Rp4r0AgKWWAC&pg=PA3
+comments:
+  - Auch unter dem Titel »Das Geständnis«.
+  - Untertitel 1841 »Ein Lustspiel in gereimten Versen in einem Aufzuge«.
+keywords:
+  - Ehebruch
+cast:
+  - name: Baron Ammer.
+    gender: m
+  - name: Henriette,
+    role: seine Gemahlin.
+    gender: f
+  - name: Ein Kind.
+    gender: u
+setting: >
+  Die Scene ist ein freier Platz mit Bäumen. Im Hintergrunde steht eine Einsiedler-Klause, und seitwärts eine Bauerhütte, ihr gegenüber ein Gartenzaun.
 ---
 slug: kotzebue-maedchenfreundschaft
 author:
