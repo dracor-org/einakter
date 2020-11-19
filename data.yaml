@@ -8545,6 +8545,46 @@ cast:
 setting: >
   Der Schauplatz stellet einen Saal, im Hause des Pygmalion, und im Hintergrunde die Werkstätte vor.
 ---
+slug: gubitz-allen-ist-geholfen
+author:
+  name: Gubitz, Friedrich Wilhelm
+  wikidata: Q692594
+title: Allen ist geholfen!
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 11
+printed: 1827
+premiered: 1827
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Sechster Jahrgang, für 1827. Berlin: Vereinsbuchhandlung 1827, S. 279–320"
+    url: https://books.google.com/books?id=KnwHAAAAQAAJ&pg=PA279
+cast:
+  - name: Caspar Brendel,
+    role: Küfermeister.
+    gender: m
+  - name: Gertraud,
+    role: seine Frau.
+    gender: f
+  - name: Clara Anserius,
+    role: ihre Muhme.
+    gender: f
+  - name: Arnold Brendel,
+    role: Goldschmidt und Bildner.
+    gender: m
+  - name: Hanfleben,
+    role: Stadtschreiber und Stadtpoet.
+    gender: m
+  - name: Priem,
+    role: Weinhändler und Herbergswirth.
+    gender: m
+  - name: Weinküfer.
+    isGroup: true
+    gender: u
+setting: >
+  Ort: Augsburg. Zeit: 1527.
+  Der Hof am Hause Brendels. (Der Hof am Hause Brendels mit einem Zaun im Hintergrunde. An einer Seite das Haus von der Hofseite, an der andern die offene Werkstatt Brendels mit mehreren Fässern. Eines, von bedeutender Größe, steht im Vorgrunde, der Deckel, der noch aufzulegen ist, liegt danebn.)
+---
 slug: hafner-die-dramatische-unterhaltung-unter-guten-freunden
 author:
   name: Hafner, Philipp
@@ -9894,6 +9934,39 @@ cast:
 setting: >
   Die Schaubühne stellet eine sehr schlechte Stube vor, worinnen einiges altes und verbrauchtes Geräthe, ein Schreibtisch, und ein Stafflet befindlich ist, worauf ein angefangenes Gemälde liegt, in der Tiefe ist ein Ruhbett, worauf ein Kind, unter einer schlechten Decke liegt und schläft.
 ---
+slug: klingemann-die-wittwe-von-ephesus
+author:
+  name: Klingemann, August
+  wikidata: Q68143
+title: Die Wittwe von Ephesus
+subtitle: Lustspiel in Einem Acte. Nach einer historischen Anekdote, mit Benutzung des Lessingschen Fragments, bearbeitet
+numberOfScenes: 12
+printed: 1817
+formalia:
+  - Alexandriner
+editions:
+  - title: "Braunschweig: Plüchart 1817"
+    url: https://books.google.com/books?id=tCNmB7Wl-1oC&printsec=frontcover
+  - title: "August Klingemann's dramatische Werke. Erster Band. Wien: Grund 1818, S. 129–194"
+    url: https://books.google.com/books?id=vQgPAAAAIAAJ&pg=PA129
+  - title: "August Klingemann's dramatische Werke. Erster Band. Wien: Grund 1820, S. 129–194"
+    url: https://books.google.com/books?id=gYRkGv6FBU0C&pg=PA129
+cast:
+  - name: Antiphila.
+    gender: f
+  - name: Mysis,
+    role: ihre Sklavinn.
+    gender: f
+  - name: Philokrates.
+    gender: m
+  - name: Dromo,
+    role: sein Waffenträger.
+    gender: m
+  - name: Telamon.
+    gender: m
+setting: >
+  Die Scene bleibt unverändert und stellt ein unterirdisches Gewölbe dar, das durch eine von der Decke herabhängende Lampe beleuchtet wird. Im Mittelgrunde steht ein antiker Sarkophag. Hinten führt eine Treppe in die Höhe.
+---
 slug: koenig-die-verkehrte-welt
 author:
   name: König, Johann Ulrich von
@@ -9958,6 +10031,47 @@ cast:
     gender: u
 setting: >
   Der Schauplatz zeiget eine grüne Ebene, woselbst man allerley unbekannte Vögel, fremde Bäume und seltsame Thiere sieht.
+---
+slug: koerner-joseph-heyderich-oder-deutsche-treue
+author:
+  name: Körner, Theodor
+  wikidata: Q62344
+title: "Joseph Heyderich, oder: Deutsche Treue"
+subtitle: Eine wahre Anecdote, als Drama in einem Aufzug
+numberOfScenes: 8
+created: 1813
+formalia:
+  - Prosa
+editions:
+  - title: "Theodor Körners sämmtliche Werke. Zweyter Band. Dramatische Beyträge. Zweyter Theil. Carlsruhe: Bureau der deutschen Classiker 1828, S. 53–82"
+    url: https://books.google.com/books?id=Irw9AAAAYAAJ&pg=PA53
+  - title: "Theodor Körners dramatische Werke. Reutlingen: Fleischhauer und Spohn 1836, S. 445–470"
+    url: https://books.google.com/books?id=i449AAAAYAAJ&pg=PA445
+  - title: "Theodor Körner's sämmtliche Werke. Im Auftrage der Mutter des Dichters herausgegeben und mit einem Vorworte begleitet von Karl Streckfuß. Dritte rechtmäßige Gesammt-Ausgabe in Einem Bande. Berlin: Nicolai; Wien: Gerold 1838, S. 219–227"
+    url: https://books.google.com/books?id=qs8WAAAAQAAJ&pg=PA219
+  - title: "Theodor Körner's sämmtliche Werke. Erste illustrirte Ausgabe. Zweiter Band. Dritte Auflage. Berlin: Grote 1877, S. 112–127"
+    url: https://books.google.com/books?id=8wPiAAAAMAAJ&pg=PA112
+comments:
+  - Letztes Stück des Autors.
+cast:
+  - name: Ein Hauptmann von den Jägern.
+    gender: m
+  - group:
+      - name: Ein Oberlieutenant
+        gender: m
+      - name: Ein Corporal
+        gender: m
+    role: von einem Linieninfanterie-Regimente.
+  - group:
+      - name: Ein Kaufmann
+        gender: m
+      - name: Ein Wundarzt
+        gender: m
+      - name: Ein Bürger
+        gender: m
+    role: von Voghera.
+setting: >
+  Die Handlung geht in Voghera am Abend nach der Schlacht von Montebello vor. (9. Juny 1800.) Eine einsame Straße in Voghera. Ein Haus mit Lauben, wo Thüre und Fenster verschlossen sind, macht den Hintergrund. Links ein Haus mit einer Stiege.
 ---
 slug: komareck-johann-nepomuk-inkle-und-yariko
 author:
@@ -10048,6 +10162,49 @@ cast:
     gender: u
 setting: >
   Das Costüm ist chinesisch. Bäbbel trägt eine Weiberkontusche und eine hohe Nachtmütze.
+---
+slug: kotzebue-blind-geladen
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Blind geladen
+subtitle: Ein Lustspiel in Einem Akt
+numberOfScenes: 23
+printed: 1811
+premiered: 1810-11-18
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 26–27
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Neunter Jahrgang. Leipzig: Hartmann 1811, S. 73–142"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044923_00083.html
+keywords:
+  - Eheanbahnung
+ids:
+  wikidata: Q884182
+cast:
+  - name: Baron Eschenholz,
+    role: ein Landedelmann.
+    gender: m
+  - name: Wilhelmine,
+    role: seine Tochter.
+    gender: f
+  - name: Hauptmann von Thal.
+    gender: m
+  - name: Krips,
+    role: sein Bedienter.
+    gender: m
+  - name: Rittmeister von Blum.
+    gender: m
+  - name: Zauser,
+    role: sein Bedienter.
+    gender: m
+  - name: Michel,
+    role: ein Ziegelbrenner.
+    gender: m
+setting: >
+  Die Scene ist ein Platz im Dorfe. An einer Seite das Landhaus des Barons mit einem Balcon; unter dem Balcon eine dichte Laube.
 ---
 slug: kotzebue-das-urtheil-des-paris
 author:
@@ -10493,6 +10650,53 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist vor den Thoren einer Landstadt, rechts und links die Häuser von Schluchzer und Frohmuth.
+---
+slug: kotzebue-die-edle-luege
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die edle Lüge
+subtitle: Schauspiel in einem Aufzuge. Fortsetzung von Menschenhaß und Reue
+numberOfScenes: 14
+printed: 1792
+premiered: 1790-11-29
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 32, S. 170–172
+  kotzebue: S. 51–52
+editions:
+  - title: "Leipzig: Kummer 1792"
+    url: https://books.google.com/books?id=R4MuAAAAYAAJ&printsec=frontcover
+  - title: "Wien: Wallishausser 1792"
+    url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10094531-9
+  - title: "[Ohne Ort: ohne Verlag] 1793"
+    url: https://books.google.com/books?id=xKw6AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Baron Meinau,
+    role: unter dem Namen Mayfeld.
+    gender: m
+  - name: Eulalia.
+    gender: f
+  - group:
+      - name: Wilhelm und
+        gender: m
+      - name: Malchen
+        gender: f
+    role: ihre Kinder 6 und 7 Jahr alt.
+  - name: Baron von der Horst,
+    role: Major in Französischen Diensten.
+    gender: m
+  - name: Der alte Diener Franz.
+    gender: m
+  - name: Röschen,
+    role: Stubenmädchen.
+    gender: f
+  - name: Conrad,
+    role: Jägerbursche.
+    gender: m
+setting: >
+  Die Scene ist in der Schweitz auf der kleinen Insel Meinau im Constanzer See.
 ---
 slug: kotzebue-maedchenfreundschaft
 author:
