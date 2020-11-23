@@ -5838,6 +5838,58 @@ cast:
 setting: >
   Der Schauplatz ist in einer Preussischen Stadt. Die Handlung gehet um vier Uhr Nachmittags an, und dauert bis in die Nacht.
 ---
+slug: bluemner-herr-temperlein-oder-wie-die-zeit-vergeht
+author:
+  name: Heinrich, Blümner
+  wikidata: Q1596769
+title: Herr Temperlein oder Wie die Zeit vergeht!
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 32
+printed: 1808
+premiered: 1807-07-26
+formalia:
+  - Prosa
+basedOn:
+  - "Louis-Benoît Picard: [»Monsieur Musard, ou, Comme le temps passe. Comédie en un acte et en prose«](https://books.google.com/books?id=btCFa_SfjL4C&printsec=frontcover)"
+editions:
+  - title: "Familientheater nach neuen französischen Lieblingsstücken. Erstes Bändchen. Leipzig: Göschen 1808, S. 59–124"
+    url: https://books.google.com/books?id=dJ4gi_Zd-CYC&pg=PA59
+keywords:
+  - Geld
+  - Eheanbahnung
+cast:
+  - name: Hr. Temperlein,
+    role: Kaufmann.
+    gender: m
+  - name: Mad. Temperlein,
+    role: seine Frau.
+    gender: f
+  - name: Ludwig,
+    role: ihr Sohn.
+    gender: m
+  - name: Herr Rund,
+    role: Kaufmann.
+    gender: m
+  - name: Sophie,
+    role: seine Tochter.
+    gender: f
+  - name: Adler,
+    role: Aubergist.
+    gender: m
+  - name: Friedrich,
+    role: Temperleins Bedienter.
+    gender: m
+  - name: Ein Gerichtsbote.
+    gender: m
+  - name: Ein Handlungsdiener.
+    gender: m
+  - name: Ein Knabe.
+    gender: m
+  - name: Träger.
+    gender: m
+setting: >
+  Die Scene ist ein Saal, der auf beiden Seiten zu Zimmern führt. Dem Schauspieler zur rechten, an der zweiten Coulisse, befindet sich ein Fenster, an der dritten die Thür zu Temperleins Zimmer, weiter vorn ein aufgeschlagener Toilettentisch. Zur linken, an der zweiten Coulisse, die Thür zu Sophiens Zimmer, vorn ein Tisch mit Schreibmaterialien, oben hängt ein Vogelbauer. Im Hintergrunde liegen auf einem Stuhle Temperleins Hut, Stock, Regenschirm und sein Kleid. Die Personen stehen in der vor jedem Auftritte vorgeschriebenen Ordnung; der erst benannte zur rechten Hand auf dem Theater.
+---
 slug: bock-der-adel-des-herzens-oder-die-ausgeschlagne-erbschaft
 author:
   name: Bock, Johann Christian
@@ -6849,6 +6901,46 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist ein wilder Ort an dem Ufer des Meers.
+---
+slug: castelli-der-eilige-zauderer
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Der eilige Zauderer
+subtitle: Lustspiel in einem Akt, in Versen
+numberOfScenes: 26
+printed: 1829
+formalia:
+  - Alexandriner
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sieben und zwanzigster Jahrgang. Hamburg: Hoffmann und Campe 1829, S. 205–280"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044941_00219.html
+  - title: "Dramatisches Sträußchen für das Jahr 1834. Neunzehnter Jahrgang. Wien: Wallishausser [1834], S. 95–172"
+    url: https://books.google.com/books?id=-BBnAAAAcAAJ&pg=PA95
+keywords:
+  - Eheanbahnung
+  - Duell
+cast:
+  - name: Herr von Lieven,
+    role: Gutsbesitzer.
+    gender: m
+  - name: Frau von Welling,
+    role: Wittwe, seine Nichte.
+    gender: f
+  - name: Herr von Langen.
+    gender: m
+  - name: Carl Brück,
+    role: Major.
+    gender: m
+  - name: Rosine.
+    gender: f
+  - name: Spatz,
+    role: Langen's Reitknecht.
+    gender: m
+  - name: Ein Notar.
+    gender: m
+setting: >
+  Die Handlung geschieht auf dem Landgute des Herrn von Lieven.
 ---
 slug: castelli-die-beyden-duennen
 author:
@@ -9235,6 +9327,39 @@ cast:
 setting: >
   Der Schauplatz ist in einem Zimmer in Orbilens Hause, wo eine oder zwey Stubenuhren angebracht werden können.
 ---
+slug: houwald-die-freistatt
+author:
+  name: Houwald, Ernst von
+  wikidata: Q73607
+title: Die Freistatt
+subtitle: Ein tragisches Bild in einem Acte
+numberOfScenes: 7
+created: 1817
+printed: 1819
+premiered: 1819-06-24
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Vermischte Schriften von Ernst von Houwald. Erstes Bändchen. Leipzig: Göschen 1825, S. 1–44"
+    url: https://books.google.com/books?id=a51JAAAAMAAJ&pg=PA1
+  - title: "Ernst von Houwalds sämmtliche Werke. Erster Band. Leipzig: Göschen 1851, S. 1–22"
+    url: https://books.google.com/books?id=vHYHAAAAQAAJ&pg=PA1
+cast:
+  - name: Conrad v. Ulstrade,
+    role: Senator und Patricier einer Reichsstadt.
+    gender: m
+  - name: Sara,
+    role: seine Frau.
+    gender: f
+  - name: Johannes Bruck,
+    role: Todtengräber.
+    gender: m
+  - name: Ein Officier und Wache.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist in der Wohnung des Todtengräbers.
+---
 slug: houwald-die-heimkehr
 author:
   name: Houwald, Ernst von
@@ -10498,6 +10623,81 @@ cast:
 setting: >
   Der Schauplatz ist in einer Seestadt, die Stube der Obsthändlerin, mit einem Tisch, zwei Stühlen und einem leeren Tragkorbe. Auf dem Tische steht eine Scherbe als Dintenfaß und eine Bouteille, die einem Stümpfchen Licht zum Leuchter dient. Anmerkung des Verfassers für solche Schauspieler, welche ihre Rollen bisweilen vergreifen: der arme Poet darf kein Lachen, sondern nur ein Lächeln erregen.
 ---
+slug: kotzebue-der-deserteur
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Deserteur
+subtitle: Eine Posse in einem Akt
+numberOfScenes: 15
+printed: 1808
+premiered: 1807-11-16
+formalia:
+  - Prosa
+basedOn:
+  - Soldatenstück
+dictionaries:
+  kotzebue: S. 41–42
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechster Jahrgang. Leipzig: Kummer 1808, S. 267–333"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044920_00283.html
+cast:
+  - name: Jeremias Edler von Holzbock,
+    role: Vormund der
+    gender: m
+  - name: Fräulein Lidie.
+    gender: f
+  - name: Lieutenant von Allen.
+    gender: m
+  - name: Barthel,
+    role: sein Reitknecht.
+    gender: m
+  - name: Notarius Krummaul.
+    gender: m
+setting: >
+  Der Schauplatz ist in einer von feindlichen Truppen besetzten Stadt.
+---
+slug: kotzebue-der-educations-rath
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Educations-Rath
+subtitle: Ein Lustspiel in Einem Act
+numberOfScenes: 17
+printed: 1816
+premiered: 1815-12-24
+formalia:
+  - Prosa
+basedOn:
+  - "Fabre d'Églantine: [»Les précepteurs. Comédie en cinq actes et en vers. Ouvrage posthume«](https://books.google.com/books?id=LMV4AXYsDNgC&printsec=frontcover)"
+dictionaries:
+  kotzebue: S. 54–55
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierzehnter Jahrgang. Leipzig: Hartmann 1816, S. 193–266"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044928_00205.html
+cast:
+  - name: Herr von Guldenring.
+    gender: m
+  - name: Therese,
+    role: seine Tochter.
+    gender: f
+  - name: Emil,
+    role: sein Neffe.
+    gender: m
+  - name: Valentin,
+    role: sein alter Kammerdiener.
+    gender: m
+  - name: Frau Schnickschnack,
+    role: Theresens alte Bonne.
+    gender: f
+  - name: Husaren-Rittmeister von Dorl.
+    gender: m
+  - name: Lux,
+    role: sein Reitknecht.
+    gender: m
+setting: >
+  Der Schauplatz ist in einer kleinen Stadt, 20 Meilen von Berlin, ein Zimmer im Hause des Herrn von Guldenring.
+---
 slug: kotzebue-der-freimaurer
 author:
   name: Kotzebue, August von
@@ -10506,11 +10706,11 @@ title: Der Freimaurer
 subtitle: Lustspiel in Einem Act
 numberOfScenes: 10
 printed: 1818
-premiered: 1817
+premiered: 1817-06-09
 dictionaries:
   kotzebue: S. 76–77
 editions:
-  - title: "Leipzig: Kummer 1818"
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechzehnter Jahrgang. Leipzig: Kummer 1818, S. 47–92"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11044930.html?pageNo=55
 keywords:
   - Freimaurer
@@ -10852,6 +11052,86 @@ cast:
 setting: >
   Die Scene ist in der Schweitz auf der kleinen Insel Meinau im Constanzer See.
 ---
+slug: kotzebue-die-erbschaft
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Erbschaft
+subtitle: Schauspiel in einem Akt
+numberOfScenes: 14
+printed: 1808
+premiered: 1808-01-03
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 61
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechster Jahrgang. Leipzig: Kummer 1808, S. 165–221"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044920_00177.html
+keywords:
+  - Rührstück
+cast:
+  - name: Obrister Hans Heinrich von Fels.
+    gender: m
+  - name: Herrmann Walther,
+    role: sein Wachmeister.
+    gender: m
+  - name: Madam Dahl,
+    role: eine Wittwe.
+    gender: f
+  - group:
+      - name: Henriette
+        gender: f
+      - name: Johanna,
+        role: ein Kind
+        gender: f
+    role: ihre Töchter.
+  - name: Oberförster von Mallwitz.
+    gender: m
+setting: >
+  Der Schauplatz ist ein Zimmer in Madam Dahls Hause.
+---
+slug: kotzebue-drei-vaeter-auf-einmal
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Drei Väter auf Einmal!
+subtitle: Eine Posse in einem Act
+numberOfScenes: 19
+printed: 1816
+premiered: 1815-12-16
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 51
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierzehnter Jahrgang. Leipzig: Hartmann 1816, S. 267–340"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044928_00281.html
+cast:
+  - name: Pfeffer,
+    role: ein Gewürz-Krämer in einer kleinen Stadt.
+    gender: m
+  - name: Hans Michel,
+    role: sein Sohn.
+    gender: m
+  - name: Suschen,
+    role: seine Nichte.
+    gender: f
+  - name: Frau Trull,
+    role: Pfeffers Haushälterin.
+    gender: f
+  - name: Schmoll,
+    role: ein Weinhändler.
+    gender: m
+  - name: Fritz,
+    role: sein Sohn, Ladendiener bei Pfeffer.
+    gender: m
+  - name: Dietrich Schmoll,
+    role: sein Bruder, ein Pachter.
+    gender: m
+setting: >
+  Der Schauplatz ist ein Zimmer in Pfeffers Hause.
+---
 slug: kotzebue-maedchenfreundschaft
 author:
   name: Kotzebue, August von
@@ -10896,6 +11176,42 @@ cast:
 setting: >
   Der Schauplatz ist ein Saal mit mehreren Thüren, im Hintergrunde ein Catheder,
   Stühle und Bänke für die Pensionaire.
+---
+slug: kotzebue-u-a-w-g-oder-die-einladungskarte
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: u. A. w. g. oder Die Einladungskarte
+subtitle: Ein Schwank in Einem Act
+numberOfScenes: 11
+printed: 1818
+premiered: 1817-09-14
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 56–57
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechzehnter Jahrgang. Leipzig: Kummer 1818, S. 93–142"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11044930.html?pageNo=103
+cast:
+  - name: Amtmann Vierling.
+    gender: m
+  - name: Malchen,
+    role: seine Tochter.
+    gender: f
+  - name: Lieutnant Schwan.
+    gender: m
+  - name: Doctor Blase.
+    gender: m
+  - name: Ferdinand,
+    role: seine Sohn.
+    gender: m
+  - name: Ein Kellner.
+    gender: m
+  - name: Ein Bedienter des Lieutnants.
+    gender: m
+setting: >
+  Vorsaal im Wirthshause.
 ---
 slug: krauseneck-die-fuerstenreise
 author:
