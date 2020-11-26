@@ -5454,6 +5454,62 @@ cast:
 setting: >
   Hütte des Paria.
 ---
+slug: benedix-die-luegnerin
+author:
+  name: Benedix, Roderich
+  wikidata: Q87176
+title: Die Lügnerin
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 8
+created: 1848
+printed: 1851
+premiered: 1849-04-30
+formalia:
+  - Prosa
+editions:
+  - title: "Die Barricadenbauer. Lustspiel in einem Aufzuge. Als Manuscript gedruckt. [Leipzig:] Sturm und Koppe [ohne Jahr]"
+    url: https://books.google.com/books?id=-F9Zq2qWLjIC&printsec=frontcover
+  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Sechster Band. Leipzig: Weber 1851, S. 1–38"
+    url: https://books.google.com/books?id=hdtUAAAAYAAJ&pg=PA1
+  - title: "Haustheater. Sammlung kleiner Lustspiele für gesellige Kreise von Roderich Benedix. Leipzig: Weber 1862, S. 121–148"
+    url: https://books.google.com/books?id=yUhTAAAAcAAJ&pg=PA121
+comments:
+  - "Auf der Bühne zuerst unter dem Titel »Die Barricadenbauer« erschienen. Früheste ermittelte Aufführung: [30. April 1849](https://books.google.com/books?id=2RY7w4gK1R0C&pg=PA12)."
+keywords:
+  - deutsche Revolution
+  - Eheanbahnung
+ids:
+  dracor: ger000354
+  wikidata: Q52785236
+cast:
+  - name: Constanze Braun,
+    role: eine reiche Erbin.
+    gender: f
+  - name: Dr. Langenberg,
+    role: Advocat, deren Vormund.
+    gender: m
+  - name: Frau Greiner,
+    role: deren Hauswirthin.
+    gender: f
+  - name: Moritz Hartmuth.
+    gender: m
+  - name: Zacharias Hahnenbein,
+    role: Seifensieder.
+    gender: f
+  - name: Kaspar Backes,
+    role: Handarbeiter.
+    gender: m
+  - name: Ein Hauptmann der Bürgerwehr.
+    gender: m
+  - name: Gustchen,
+    role: Constanzens Kammermädchen.
+    gender: f
+  - name: Bürgerwehrmänner.
+    isGroup: true
+    gender: m
+setting: >
+  Zimmer mit reichen Tapeten und von Reichthum zeugendem Hausgeräthe. Mittelthüre, rechts und links Seitenthüren. Rechts Fenster. Links ein Sopha. Davor ein runder Tisch, worauf eine brennende Lampe. Im Hintergrunde an der Wand Tische, auf welchen Lichter. An dem Sopha zur rechten Hand ein Arbeitstischchen.
+---
 slug: bergobzoomer-der-officier
 author:
   name: Bergopzoomer, Johann Baptist
@@ -10297,18 +10353,18 @@ cast:
   - name: Ein Hauptmann von den Jägern.
     gender: m
   - group:
-      - name: Ein Oberlieutenant
-        gender: m
-      - name: Ein Corporal
-        gender: m
+    - name: Ein Oberlieutenant
+      gender: m
+    - name: Ein Corporal
+      gender: m
     role: von einem Linieninfanterie-Regimente.
   - group:
-      - name: Ein Kaufmann
-        gender: m
-      - name: Ein Wundarzt
-        gender: m
-      - name: Ein Bürger
-        gender: m
+    - name: Ein Kaufmann
+      gender: m
+    - name: Ein Wundarzt
+      gender: m
+    - name: Ein Bürger
+      gender: m
     role: von Voghera.
 setting: >
   Die Handlung geht in Voghera am Abend nach der Schlacht von Montebello vor. (9. Juny 1800.) Eine einsame Straße in Voghera. Ein Haus mit Lauben, wo Thüre und Fenster verschlossen sind, macht den Hintergrund. Links ein Haus mit einer Stiege.
@@ -10698,6 +10754,47 @@ cast:
 setting: >
   Der Schauplatz ist in einer kleinen Stadt, 20 Meilen von Berlin, ein Zimmer im Hause des Herrn von Guldenring.
 ---
+slug: kotzebue-der-fluch-eines-roemers
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Fluch eines Römers
+subtitle: Schauspiel in Einem Act
+numberOfScenes: 10
+printed: 1814
+premiered: 1814-10-27
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 72–73
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zwölfter Jahrgang. Leipzig: Hartmann 1814, S. 1–36"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044926_00013.html
+keywords:
+  - Heimkehr-Motiv
+  - Adoption
+cast:
+  - name: Der Fürst von ***
+    gender: m
+  - name: Hofmarschall Baron von Simmern.
+    gender: m
+  - name: Garde-Hauptmann von Simmern,
+    role: dessen Sohn.
+    gender: m
+  - name: Gräfin Caroline von Mühlheim.
+    gender: f
+  - name: Graf Ehrenkorn,
+    role: ein achtzigjähriger Greis.
+    gender: m
+  - name: Christian Spitzmaus,
+    role: Laternen-Inspector.
+    gender: m
+  - name: Caspar,
+    role: dessen Gehülfe.
+    gender: m
+setting: >
+  Der Schauplatz eine Hauptstraße in einer Residenz. Einbrechende Nacht. An allen Häusern Lampen zu einer feierlichen Illumination. Ein großer Theil der Lampen brennt bereits, allein der ansehnlichste Palast im Hintergrunde ist ganz dunkel.
+---
 slug: kotzebue-der-freimaurer
 author:
   name: Kotzebue, August von
@@ -10730,6 +10827,92 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ein Zimmer.
+---
+slug: kotzebue-der-gefangene
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Gefangene
+subtitle: Ein Lustspiel in einem Akt
+numberOfScenes: 21
+printed: 1800
+premiered: 1798-10-22
+formalia:
+  - Prosa
+basedOn:
+  - "Alexandre Duval: [»Le prisonnier ou La ressemblance. Comédie en un acte et en prose«](https://books.google.com/books?id=oZa7sYfLLQYC&printsec=frontcover)"
+dictionaries:
+  kotzebue: S. 79–80
+editions:
+  - title: "Leipzig: Kummer 1800"
+    url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11260778-8
+comments:
+  - Verkleidungsspiel
+  - Eheanbahnung
+cast:
+  - name: Major Hellborn,
+    role: Kommandant eines festen Schlosses.
+    gender: m
+  - name: West,
+    role: Gefangener auf dem Schlosse.
+    gender: m
+  - name: Schlichtmann,
+    role: Wests Oheim.
+    gender: m
+  - name: Frau Stern,
+    role: eine reiche Wittwe.
+    gender: f
+  - name: Luise,
+    role: ihre Tochter.
+    gender: f
+  - name: Klotz,
+    role: Schlichmanns Bedienter.
+    gender: m
+  - name: Ein Corporal.
+    gender: m
+setting: >
+  Die Scene ist im Hause der Frau Stern, welches dicht ans Schloß stößt; ein Zimmer mit einer Mittel- und zwey Seitenthüren.
+---
+slug: kotzebue-der-gerade-weg-der-beste
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der gerade Weg der beste
+subtitle: Lustspiel in Einem Act
+numberOfScenes: 18
+printed: 1817
+premiered: 1816-10-19
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 31, S. 160
+  kotzebue: S. 80–81
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Fünfzehnter Jahrgang. Leipzig: Kummer 1817, S. 291–360"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044929_00305.html
+cast:
+  - name: Major von Murten,
+    role: Kirchen-Patron.
+    gender: m
+  - name: Jacob,
+    role: ein alter Wachmeister.
+    gender: m
+  - name: Frau Krebs,
+    role: Haushälterin.
+    gender: f
+  - name: Amalie,
+    role: eine junge Predigerwitwe.
+    gender: f
+  - group:
+    - name: Elias Krumm,
+      gender: m
+    - name: Friedrich Wahl,
+      gender: m
+    role: Zwei Candidaten des Predigtamtes.
+  - name: Der Schulmeister.
+    gender: mm
+setting: >
+  Der Schauplatz auf dem Gute des Majors, ein Zimmer in dessen Hause.
 ---
 slug: kotzebue-der-hyperboreeische-esel
 author:
@@ -11033,10 +11216,10 @@ cast:
   - name: Eulalia.
     gender: f
   - group:
-      - name: Wilhelm und
-        gender: m
-      - name: Malchen
-        gender: f
+    - name: Wilhelm und
+      gender: m
+    - name: Malchen
+      gender: f
     role: ihre Kinder 6 und 7 Jahr alt.
   - name: Baron von der Horst,
     role: Major in Französischen Diensten.
@@ -11080,16 +11263,97 @@ cast:
     role: eine Wittwe.
     gender: f
   - group:
-      - name: Henriette
-        gender: f
-      - name: Johanna,
-        role: ein Kind
-        gender: f
+    - name: Henriette
+      gender: f
+    - name: Johanna,
+      role: ein Kind
+      gender: f
     role: ihre Töchter.
   - name: Oberförster von Mallwitz.
     gender: m
 setting: >
   Der Schauplatz ist ein Zimmer in Madam Dahls Hause.
+---
+slug: kotzebue-die-feuerprobe
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Feuerprobe
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 22
+printed: 1811
+premiered: 1811-01-16
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 71–72
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Neunter Jahrgang. Leipzig: Hartmann 1811, S. 1–72"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044923_00013.html
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Neunter Band. Augsburg und Leipzig: Stage 1814, S. 1–46"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10118766_00007.html
+comments:
+  - Von Iganz Franz von Mosel vertont (EA 1826).
+keywords:
+  - Ritterdrama
+cast:
+  - group:
+    - name: Clara von Hohenstein.
+      gender: f
+    - name: Margarethe von Immenthal.
+      gender: f
+    role: Zwei junge Wittwen.
+  - name: Cordula,
+    role: Clara's Zofe.
+    gender: f
+  - name: Wallfried,
+    role: ein Edelknappe.
+    gender: m
+  - name: Ritter Wenzel von Rhingau.
+    gender: m
+  - name: Gelasius,
+    role: sein Knappe.
+    gender: m
+setting: >
+  Das Stück spielt in den Zeiten der Kreuzzüge. Der Schauplatz ist ein freier Platz unweit der Burg Hohenstein, links im Vorgrunde eine kleine Kapelle, im Hintergrunde eine Schmiede, in welcher man während der ersten Scene arbeiten sieht, deren Pforte aber dann zugethan wird.
+---
+slug: kotzebue-die-gefaehrliche-nachbarschaft
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die gefährliche Nachbarschaft
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 16
+printed: 1806
+premiered: 1805-12-14
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 78–79
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierter Jahrgang. Berlin: La Garde 1806, S. 37–96"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044918_00045.html
+comments:
+  - Nach dem [Pyramus-und-Thisbe-Stoff](https://de.wikipedia.org/wiki/Pyramus_und_Thisbe) aus Ovids *Metamorphosen* (Buch IV).
+  - Auch unter dem Titel »Scheindermeister Fips«.
+  - 1815 von Friedrich Stein vertont.
+cast:
+  - name: Schneider Fips.
+    gender: m
+  - name: Lieschen,
+    role: sein Mündel.
+    gender: f
+  - name: Madam Zephyr,
+    role: eine Modehändlerin.
+    gender: f
+  - name: Hollmann,
+    role: ein junger reicher Kaufmann.
+    gender: m
+  - name: Johann,
+    role: sein Bedienter.
+    gender: m
+setting: >
+  Die Bühne ist der Länge nach getheilt, welches auf Haustheatern sehr leicht mittelst einer spanischen Wand geschehen kann. Man blickt rechter Hand, in das Zimmer des jungen Hollmann, im Hause der Madam Zephyr; linker Hand, in des Schneiders Wohnzimmer, in dessen eigenem Hause. Jenes hat zwei Thüren, dieses nur Eine. An der Scheidewand zwischen beiden Häusern hängt, auf Hollmanns Seite, ein großes Bild, auf des Schneiders Seite, Lieschen's Kleidervorrath mit einer vorgezogenen Gardine.
 ---
 slug: kotzebue-drei-vaeter-auf-einmal
 author:
@@ -11131,6 +11395,76 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist ein Zimmer in Pfeffers Hause.
+---
+slug: kotzebue-eulenspiegel
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Eulenspiegel
+subtitle: Ein dramatischer Schwank, in Einem Akt, und in zwanglosen Reimen
+numberOfScenes: 18
+printed: 1806
+premiered: 1801
+formalia:
+  - Verse
+dictionaries:
+  kotzebue: S. 64
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierter Jahrgang. Berlin: La Garde 1806, S. 131–208"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044918_00143.html
+comments:
+  - Ursprünglich als Oper geplant, 1801 als Operette vertont.
+  - »Von Kotzebues Bearbeitung des Stoffs ist Matthäus Stegmayers *Till Eulenspiegel* (1808) inspiriert, der seinerseits Johann Nestroy bei der Gestaltung seines *Eulenspiegel*-Dramas (1835) beeinflusst hat.« (Kotzebue-Lexikon)
+keywords:
+  - Parodie auf Magnetismus u. dergl.
+cast:
+  - name: Brummser,
+    role: ein Marktschreier und Quacksalber.
+    gender: m
+  - name: Nettchen,
+    role: sein Mündel.
+    gender: f
+  - name: Eulenspiegel,
+    role: sein Knecht.
+    gender: m
+  - name: Frölich,
+    role: ein junger, reicher Kaufmann.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+setting: >
+  Der Schauplatz ist der innere Hofraum von Brummsers Landhause. Links, das Haus selbst; über der Thür ein Balcon, und neben derselben ein Fenster. Weiter vorwärts, noch ein kleineres Gebäude, Brummsers Laboratorium, mit eiserner Thür und vergittertem Fenster. Diesem gegenüber ein Taubenschlag, mit angelegter Leiter. Den Hintergrund schließt ein hohes eisernes Stacket, mit einer verriegelten Pforte. Neben derselben ein Ziehbrunnen.
+---
+slug: kotzebue-kaiser-claudius
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Kaiser Claudius
+subtitle: Schauspiel in einem Akt. Gegründet auf eine wahre Anecdote aus der Geschichte des Kaiser Claudius
+numberOfScenes: 10
+printed: 1807
+premiered: 1806-12-02
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 122
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Fünfter Jahrgang. Berlin: La Garde 1807, S. 125–162"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044919_00137.html
+cast:
+  - name: Kaiser Claudius.
+    gender: m
+  - name: Calpurn,
+    role: sein General.
+    gender: m
+  - name: Aurelian,
+    role: Hauptmann.
+    gender: m
+  - name: Flavia,
+    role: eine Waise aus Nicomedien.
+    gender: f
+setting: >
+  Der Schauplatz ist im römischen Lager.
 ---
 slug: kotzebue-maedchenfreundschaft
 author:
