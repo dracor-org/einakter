@@ -5454,6 +5454,37 @@ cast:
 setting: >
   Hütte des Paria.
 ---
+slug: benedix-der-weiberfeind
+author:
+  name: Benedix, Roderich
+  wikidata: Q87176
+title: Der Weiberfeind
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 4
+created: 1843
+printed: 1846
+premiered: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Gesammmelte Dramatische Werke von Roderich Benedix. Zweiter Band. Leipzig: Weber 1846, S. 275–307"
+    url: https://books.google.com/books?id=VV86AAAAcAAJ&pg=PA275
+  - title: "Gesammmelte Dramatische Werke von Roderich Benedix. Zweiter Band. Dritte, unveränderte Auflage. Leipzig: Weber 1865, S. 289–320"
+    url: https://books.google.com/books?id=Ln0FAQAAIAAJ&pg=RA1-PA289
+  - title: "Boston: Urbino 1870"
+    url: https://books.google.com/books?id=08cOAAAAYAAJ&printsec=frontcover
+cast:
+  - name: Gustav,
+    role: ein junger Förster.
+    gender: m
+  - name: Betty,
+    role: seine Frau.
+    gender: f
+  - name: Freiling.
+    gender: m
+setting: >
+  Einfaches Zimmer, mit Mittel- und Seitenthüren. Auf beiden Seiten Tische. Auf dem Tische rechts ein langes, weißes Tischtuch, was den Tisch verhüllt, darauf ein Plättstahl und ein Haufen Wäsche.
+---
 slug: benedix-die-luegnerin
 author:
   name: Benedix, Roderich
@@ -5509,6 +5540,65 @@ cast:
     gender: m
 setting: >
   Zimmer mit reichen Tapeten und von Reichthum zeugendem Hausgeräthe. Mittelthüre, rechts und links Seitenthüren. Rechts Fenster. Links ein Sopha. Davor ein runder Tisch, worauf eine brennende Lampe. Im Hintergrunde an der Wand Tische, auf welchen Lichter. An dem Sopha zur rechten Hand ein Arbeitstischchen.
+---
+slug: benedix-die-sonntagsjaeger
+author:
+  name: Benedix, Roderich
+  wikidata: Q87176
+title: Die Sonntagsjäger
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 8
+created: 1839
+printed: 1846
+formalia:
+  - Prosa
+editions:
+  - title: "Gesammmelte Dramatische Werke von Roderich Benedix. Zweiter Band. Leipzig: Weber 1846, S. 1–66"
+    url: https://books.google.com/books?id=VV86AAAAcAAJ&pg=PA1
+  - title: "Gesammmelte Dramatische Werke von Roderich Benedix. Zweiter Band. Dritte, unveränderte Auflage. Leipzig: Weber 1865, S. 1–70"
+    url: https://books.google.com/books?id=Ln0FAQAAIAAJ&pg=RA1-PA1
+comments:
+  - "Auch als dreiaktiges »Originallustspiel« ([Wesel: Becker [1843]](https://books.google.com/books?id=3BEGb_RFti0C&printsec=frontcover))."
+cast:
+  - name: Herr Hirschtödter,
+    role: Manufacturwaarenhändler in einer kleinen Stadt.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - group:
+    - name: Diana,
+      gender: f
+    - name: Nimrod,
+      gender: m
+    role: seine Kinder.
+  - name: Herr Bärenfeind,
+    role: Rentier.
+    gender: m
+  - name: Ellmer,
+    role: Förster.
+    gender: m
+  - name: Heinrich,
+    role: Jäger bei demselben.
+    gender: m
+  - name: Frau Marthe.
+    gender: f
+  - name: Trudchen,
+    role: ihre Tochter.
+    gender: f
+  - group:
+    - name: Gottfried,
+      gender: m
+    - name: Hans,
+      gender: m
+    role: Bauernbursche.
+  - group:
+    - name: Friedrich,
+      gender: m
+    - name: Rosine,
+      gender: f
+    role: in Hirschtödters Diensten.
+setting: >
+  Zimmer bei Herrn Hirschtödter. Zwei Seitenthüren, Mittelthüre.
 ---
 slug: bergobzoomer-der-officier
 author:
@@ -10502,6 +10592,151 @@ cast:
 setting: >
   Die Scene ist ein Platz im Dorfe. An einer Seite das Landhaus des Barons mit einem Balcon; unter dem Balcon eine dichte Laube.
 ---
+slug: kotzebue-das-getheilte-herz
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Das getheilte Herz
+subtitle: Ein Lustspiel in Einem Akt
+numberOfScenes: 13
+printed: 1813
+premiered: 1812-08-20
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 82–83
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Eilfter Jahrgang. Leipzig: Hartmann 1813, S. 197–258"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044925_00215.html
+keywords:
+  - Heimkehr-Motiv
+  - Eheanbahnung
+cast:
+  - name: Mistriß Dalby,
+    role: eine Wittwe.
+    gender: f
+  - name: Pauline,
+    role: ihre Tochter.
+    gender: f
+  - name: Frau Williams.
+    gender: f
+  - name: Hauptmann Dorset.
+    gender: m
+  - name: Jakob,
+    role: sein Reitknecht.
+    gender: m
+setting: >
+  Der Schauplatz ist in einer englischen Seestadt, ein Zimmer im Hause der Mistriß Dalby.
+---
+slug: kotzebue-das-koestlichste
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Das Köstlichste
+subtitle: Schauspiel in Einem Akt
+numberOfScenes: 8
+printed: 1806
+formalia:
+  - Alexandriner
+dictionaries:
+  kotzebue: S. 130–131
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierter Jahrgang. Berlin: La Garde 1806, S. 97–130"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044918_00107.html
+keywords:
+  - Indien
+cast:
+  - name: Aldor,
+    role: ein indischer Sultan.
+    gender: m
+  - group:
+    - name: Kosru,
+      gender: m
+    - name: Babilo,
+      gender: m
+    - name: Korasmin.
+      gender: m
+    role: seine Söhne.
+  - name: Zambur.
+    gender: m
+  - name: Ein Genius.
+    gender: m
+  - name: Ein Priester.
+    gender: m
+  - name: Ein Gesandter.
+    gender: m
+setting: >
+  Der Schauplatz ist ein Saal in Aldor's Pallast.
+---
+slug: kotzebue-das-landhaus-an-der-heerstrasse
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Das Landhaus an der Heerstraße
+subtitle: Ein Fastnachtspiel in einem Act
+numberOfScenes: 16
+printed: 1809
+premiered: 1808-11-09
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 136–137
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Siebenter Jahrgang. Riga: Hartmann 1809, S. 137–196"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044921_00145.html
+keywords:
+  - Puppentheater
+  - Biedermeierbehaglichkeit
+  - Gartenlaubenidylle
+cast:
+  - name: Herr von Lorch.
+    gender: m
+  - name: Nettgen,
+    role: ein Kammermädgen.
+    gender: f
+  - name: Balthasar,
+    role: ein Kammerdiener.
+    gender: m
+setting: >
+  Der Schauplatz ist die Landstraße; an der einen Seite ein Landhaus von gutem Ansehn, zu welchem eine Allee führt, im Vorgrunde eine Laube. An der andern Seite eine Gartenpforte, und in der Ferne mehrere Häuser.
+---
+slug: kotzebue-das-lustspiel-am-fenster
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Das Lustspiel am Fenster
+subtitle: Posse in einem Akt
+numberOfScenes: 1
+printed: 1807
+premiered: 1807-05-04
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 141–142
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Fünfter Jahrgang. Berlin: La Garde 1807, S. 163–211"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044919_00177.html
+keywords:
+  - Eheanbahnung
+  - List
+  - Erbschaft
+  - Dichtersatire
+  - Geld
+cast:
+  - name: Herr Dachs.
+    gender: m
+  - name: Luise,
+    role: sein Mündel.
+    gender: f
+  - name: Molwitz,
+    role: ein Officier.
+    gender: m
+  - name: Schneck,
+    role: ein Dichter.
+    gender: m
+setting: >
+  Der Schauplatz ist ein Landhaus, dessen Breite die ganze Bühne en face einnimmt, und gleich hinter der ersten Coulisse befindlich ist, so daß die Bühne dadurch schon bei der zweiten Coulisse geschlossen wird. Das Haus hat zwei Stockwerke, die Hausthür in der Mitte, über derselben im ersten Stock Luisens Fenster, dem zur Seite ihres Vormunds Fenster; im zweiten Stock, über Luisen, wohnt der Dichter Schneck. Es ist Nacht, kein Fenster erleuchtet.
+---
 slug: kotzebue-das-urtheil-des-paris
 author:
   name: Kotzebue, August von
@@ -10914,6 +11149,115 @@ cast:
 setting: >
   Der Schauplatz auf dem Gute des Majors, ein Zimmer in dessen Hause.
 ---
+slug: kotzebue-der-haeusliche-zwist
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der häusliche Zwist
+subtitle: Ein Lustspiel in einem Act
+numberOfScenes: 10
+printed: 1810
+premiered: 1809-10-18
+formalia:
+  - Alexandriner
+dictionaries:
+  kotzebue: S. 97–98
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Achter Jahrgang. Leipzig: Hartmann 1810, S. 189–256"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044922_00201.html
+cast:
+  - name: Der Mann.
+    gender: m
+  - name: Die Frau.
+    gender: f
+  - name: Der Nachbar.
+    gender: m
+setting: >
+  Der Schauplatz ist ein Zimmer, in dem ein Dames-Bureau steht.
+---
+slug: kotzebue-der-hahnenschlag
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Hahnenschlag
+subtitle: Schauspiel in Einem Akt
+numberOfScenes: 15
+printed: 1803
+premiered: 1802-12-31
+formalia:
+  - kreuzgereimte Knittelverse
+dictionaries:
+  kotzebue: S. 99–100
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Erster Jahrgang. Berlin: La Garde 1803, S. 145–184"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044915_00177.html
+keywords:
+  - Soldatenstück
+cast:
+  - name: Peter Lorch,
+    role: ein reicher Pachter.
+    gender: m
+  - name: Hannchen,
+    role: seine Tochter.
+    gender: f
+  - name: Wilhelm Walter,
+    role: ein junger Soldat.
+    gender: m
+  - name: Nachbar Sauerbrunn.
+    gender: m
+  - name: Fritz,
+    role: ein Bauerknabe.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem Dorfe. Links Peter Lorch's Haus.
+---
+slug: kotzebue-der-harem
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Harem
+subtitle: Ein Lustspiel in Einem Act
+numberOfScenes: 8
+printed: 1810
+premiered: 1810-02-01
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 100–102
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Achter Jahrgang. Leipzig: Hartmann 1810, S. 339–381"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044922_00355.html
+keywords:
+  - Sklaverei
+  - Ehe
+cast:
+  - name: Mustapha,
+    role: Vezier des Dey von Tunis.
+    gender: m
+  - name: Culluru,
+    role: dessen Haremswächter.
+    gender: m
+  - name: Zaide,
+    role: eine Türkin.
+    gender: f
+  - name: Laura,
+    role: eine Italienerin.
+    gender: f
+  - name: Justine,
+    role: eine Deutsche.
+    gender: f
+  - name: Elvira,
+    role: eine Spanierin.
+    gender: f
+  - name: Fanchette,
+    role: eine Französin.
+    gender: f
+  - name: Arabelle,
+    role: eine Engländerin.
+    gender: f
+setting: >
+  Der Schauplatz ist ein Garten, von den Gebäuden des Harems umgeben. Man erblickt an jeder Seite drei Gitterthüren, welche zu den Wohnungen von Mustapha's Weibern führen.
+---
 slug: kotzebue-der-hyperboreeische-esel
 author:
   name: Kotzebue, August von
@@ -10952,6 +11296,200 @@ cast:
     gender: m
 setting: >
   Die Scene ist auf dem Landgute des Baron Kreutz.
+---
+slug: kotzebue-der-kater-und-der-rosenstock
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Kater und der Rosenstock
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 13
+printed: 1807
+premiered: 1818-01-08
+formalia:
+  - Alexandriner
+dictionaries:
+  kotzebue: S. 123
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Fünfter Jahrgang. Berlin: La Garde 1807, S. 81–124"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044919_00091.html
+comments:
+  - "Basierend auf der Erzählung/Anecdote von François Andrieux: »Les fausses conjectures, ou L'observateur en défaut«."
+  - Weitere Bearbeitung des Stoffs als Einakter von [Müllner 1809](muellner-der-angolische-kater-oder-die-koenigin-von-golkonde).
+cast:
+  - name: Herr Bart,
+    role: ein reicher Mann.
+    gender: m
+  - name: Fritz,
+    role: sein Sohn.
+    gender: m
+  - name: Mammsell Bart,
+    role: seine Schwester.
+    gender: f
+  - name: Julie,
+    role: seine Pflegetochter.
+    gender: f
+setting: >
+  Der Schauplatz, ein Garten zu Barts Hause gehörig.
+---
+slug: kotzebue-der-kleine-declamator
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der kleine Declemator
+subtitle: Schauspiel in einem Act
+numberOfScenes: 11
+printed: 1809
+premiered: 1809-06-20
+formalia:
+  - vierhebige kreuzgereimte Verse
+dictionaries:
+  kotzebue: S. 126–127
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Siebenter Jahrgang. Riga: Hartmann 1809, S. 197–242"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044921_00207.html
+cast:
+  - name: Robert.
+    gender: m
+  - name: Frau Robert.
+    gender: f
+  - name: Theodor,
+    role: ihr Sohn, ein Knabe von 12 Jahren.
+    gender: m
+  - name: Graf von Riesen.
+    gender: m
+  - name: Eduard,
+    role: sein Sohn, ein Knabe von 10 Jahren.
+    gender: m
+setting: >
+  Der Schauplatz ist vor den Thoren einer geplünderten, abgebrannten und noch rauchenden Stadt. Im Vorgrunde einige kleine, unversehrte Häuser.
+---
+slug: kotzebue-der-leineweber
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Leineweber
+subtitle: Schauspiel in einem Akt
+numberOfScenes: 12
+printed: 1808
+premiered: 1807-12-05
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 137–138
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechster Jahrgang. Leipzig: Kummer 1808, S. 73–121"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044920_00081.html
+keywords:
+  - Napoleon-Kritik
+  - Geld- und Machtgier
+  - Eheanbahnung
+  - Krieg
+cast:
+  - name: Herr Stackel,
+    role: ein reicher Lieferant.
+    gender: m
+  - name: Minchen,
+    role: seine Nichte.
+    gender: f
+  - name: Sekretär Gustav Hiller.
+    gender: m
+  - name: Thomas Hiller,
+    role: sein Vater, ein Leineweber.
+    gender: m
+  - name: Klappfuß,
+    role: Verwalter auf Stackels Gütern.
+    gender: m
+setting: >
+  Der Schauplatz ist ein elegant möblirter Vorsaal in Stackels Hause, mit mehreren Thüren.
+---
+slug: kotzebue-der-luegenfeind
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Lügenfeind
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 20
+printed: 1812
+premiered: 1811-10-12
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 140–141
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zehnter Jahrgang. Leipzig: Hartmann 1812, S. 151–246"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044924_00163.html
+  - title: "Theater von Kotzebue. Sieben und dreyßigster Theil. Wien: Doll 1812, S. 149–234"
+    url: https://books.google.com/books?id=NbY4AQAAMAAJ&pg=PA149
+cast:
+  - name: Lord Derby.
+    gender: m
+  - name: Evelina,
+    role: seine Tochter.
+    gender: f
+  - name: Hannah,
+    role: ihr Mädchen.
+    gender: f
+  - name: Baronet Oldcastle.
+    gender: m
+  - name: Ralph,
+    role: sein Bedienter.
+    gender: m
+  - group:
+    - name: Thomas,
+      role: Kutscher
+      gender: m
+    - name: Heinrich,
+      role: Bedienter
+      gender: m
+    role: des Lord Derby.
+  - name: Huntington,
+    role: ein junger Maler.
+    gender: m
+setting: >
+  Der Schauplatz ist auf einer Insel an der schottischen Küste. Ein Gartensaal zu dem Schlosse des Lord Derby gehörig. Im Hintergrunde Glasthüren, durch welche man in den Park blickt.
+---
+slug: kotzebue-der-mann-von-vierzig-jahren
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Mann von vierzig Jahren
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen des Fagan
+numberOfScenes: 19
+printed: 1795
+premiered: 1794-05-28
+formalia:
+  - Prosa
+basedOn:
+  - "Barthélemy-Christophe Fagan: [»La pupille. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/FAGAN_PUPILLE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 33, S. 417–418
+  kotzebue: S. 143–144
+editions:
+  - title: "Leipzig: Kummer 1795"
+    url: https://books.google.com/books?id=Q2ZAAQAAMAAJ&printsec=frontcover
+  - title: "Wien: Wallishausser 1803"
+    url: https://books.google.com/books?id=zrXTbTFXRF0C&printsec=frontcover
+keywords:
+  - Alter vs. Jugend
+  - Eheanbahnung
+cast:
+  - group:
+    - name: Herr von Wiesen.
+      gender: m
+    - name: Herr von Baarkopf.
+      gender: m
+    role: benachbarte Landedelleute.
+  - name: Julie,
+    role: von Wiesens Mündel.
+    gender: f
+  - name: Kammerjunker von Baarkopf.
+    gender: m
+  - name: Nettchen,
+    role: Juliens Kammermädchen.
+    gender: f
+setting: >
+  Die Scene ist ein Gartensaal auf dem Guthe des Herrn von Wiesen.
 ---
 slug: kotzebue-die-abendstunde
 author:
@@ -11354,6 +11892,168 @@ cast:
     gender: m
 setting: >
   Die Bühne ist der Länge nach getheilt, welches auf Haustheatern sehr leicht mittelst einer spanischen Wand geschehen kann. Man blickt rechter Hand, in das Zimmer des jungen Hollmann, im Hause der Madam Zephyr; linker Hand, in des Schneiders Wohnzimmer, in dessen eigenem Hause. Jenes hat zwei Thüren, dieses nur Eine. An der Scheidewand zwischen beiden Häusern hängt, auf Hollmanns Seite, ein großes Bild, auf des Schneiders Seite, Lieschen's Kleidervorrath mit einer vorgezogenen Gardine.
+---
+slug: kotzebue-die-gluecklichen
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Glücklichen
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 15
+printed: 1811
+premiered: 1810-12-09
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 86–87
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Neunter Jahrgang. Leipzig: Hartmann 1811, S. 327–392"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044923_00345.html
+cast:
+  - name: Der Minister von Hohenfels.
+    gender: m
+  - name: Der Secretair.
+    gender: m
+  - name: Doktor Wohlring.
+    gender: m
+  - name: Annchen,
+    role: dessen Tochter.
+    gender: f
+  - name: Wilhelm,
+    role: ein junger Oekonom.
+    gender: m
+  - name: Kammerrath von Pappenspeck.
+    gender: m
+  - name: Der Dichter Drachenschuß.
+    gender: m
+  - name: Herr Vorgebirg.
+    gender: m
+  - name: Herr Gottlieb Merks.
+    gender: m
+  - name: Der Philosoph Okenastius.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem Dorfe, vor dem Hause des Doktor Wohlring. Zur Seite eine Laube.
+---
+slug: kotzebue-die-grossmamma
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Großmama
+subtitle: Ein Lustspiel in Einem Act
+numberOfScenes: 21
+printed: 1816
+premiered: 1815-11-25
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 93–94
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierzehnter Jahrgang. Leipzig: Hartmann 1816, S. 1–64"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044928_00009.html
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Die Großmamma.
+    gender: f
+  - name: Emilie,
+    role: ihre Enkelin.
+    gender: f
+  - name: Ludwig,
+    role: ihr Enkel.
+    gender: m
+  - name: Florian,
+    role: Ludwigs Kammerdiener.
+    gender: m
+setting: >
+  Ein Zimmer im Hause der Großmamma.
+---
+slug: kotzebue-die-huebsche-kleine-putzmacherin
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die hübsche kleine Putzmacherin
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 17
+printed: 1805
+premiered: 1804-11-17
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Nicolas Bouilly: [»Zoë ou la pauvre petite. Opéra en un acte«](https://books.google.com/books?id=apk9hxNtKRIC&printsec=frontcover)"
+dictionaries:
+  kotzebue: S. 108–109
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Dritter Jahrgang. Berlin: La Garde 1805, S. 3–50"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044917_00009.html
+cast:
+  - name: Frau Silber,
+    role: eine reiche Wittwe.
+    gender: f
+  - name: Wilhelm Silber,
+    role: ihr einziger Sohn.
+    gender: m
+  - name: Pauline,
+    role: eine junge Waise, Putzmacherin.
+    gender: f
+  - name: Stolperfuchs,
+    role: ein reicher Kaufmann und alter Hagestolz.
+    gender: m
+  - name: Berghof,
+    role: sein Stiefbruder.
+    gender: m
+  - name: Ein Hausknecht.
+    gender: m
+setting: >
+  Der Schauplatz ist ein kleines, ärmlich möbliertes Zimmer im vierten Stockwerk, Paulinens Wohnung. Eine Mittelthür führt auf die Treppe, eine Seitenthür in ein Kabinet. Ein Fenster geht auf die Straße, und neben dem Fenster außerhalb ist eine Klingel angebracht. Hier und da stehen Haubenköpfe, Pappschachteln und dergleichen.
+---
+slug: kotzebue-die-komoediantin-aus-liebe
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Komödiantin aus Liebe
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 18
+printed: 1811
+premiered: 1811-03-09
+formalia:
+  - Prosa
+basedOn:
+  - "Carlo Goldoni: »La donna di garbo«"
+dictionaries:
+  kotzebue: S. 131–132
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Neunter Jahrgang. Leipzig: Hartmann 1811, S. 187–264"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044923_00201.html
+keywords:
+  - Verkleidungsspiel
+cast:
+  - name: Elise von Sternthal,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Lisette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Oberforstmeister von Westen.
+    gender: m
+  - name: Dessen Gemahlin.
+    gender: f
+  - name: Eduard,
+    role: ihr Sohn.
+    gender: m
+  - group:
+    - name: Obrister
+      gender: m
+    - name: Hofmarschall
+      gender: m
+    - name: Criminalrath
+      gender: m
+    role: von Westen, Brüder des Oberhofmeisters.
+  - name: Fräulein Aurore,
+    role: dessen Schwester.
+    gender: f
+setting: >
+  Der Schauplatz, ein Saal in einem Wirthshause mit mehreren nummerierten Thüren. Auf einigen Stühlen liegen allerlei Dameskleidungen und Kopfzeuge.
 ---
 slug: kotzebue-drei-vaeter-auf-einmal
 author:
@@ -12704,7 +13404,7 @@ editions:
     url: https://books.google.com/books?id=j6yXKuup7kQC&pg=PA433
 comments:
   - "Bearbeitung von Plautus: [»Trinummus«](https://dracor.org/id/rom000010)."
-  - "Weitere Quellen aufgezählt in: [Paul Albrecht: Leszing’s Plagiate. Dritter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 1098–1267](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081377&seite=148)."
+  - "Weitere Quellen aufgezählt in: [Paul Albrecht: Leszing's Plagiate. Dritter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 1098–1267](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081377&seite=148)."
 ids:
   dracor: ger000249
   wikidata: Q56255327
@@ -12755,7 +13455,7 @@ editions:
   - title: "Carlsruhe: Schmieder 1777, S. 157–219"
     url: https://books.google.com/books?id=SzBgAAAAcAAJ&pg=PA157
 comments:
-  - "Lessings Quellen aufgezählt in: [Paul Albrecht: Leszing’s Plagiate. Zweiter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 864–933](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081376&seite=394)."
+  - "Lessings Quellen aufgezählt in: [Paul Albrecht: Leszing's Plagiate. Zweiter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 864–933](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081376&seite=394)."
   - "1766 aufgeführt unter dem Titel »Lust-Spiel des Herrn Leßing von einem Aufzuge, genannt: Die Juden«."
   - Ins Ungarische ([1865](https://books.google.com/books?id=QTQ2GwAACAAJ&printsec=frontcover)) und Französische ([1781](https://books.google.com/books?id=zi1aAAAAcAAJ&printsec=frontcover)) übersetzt.
 keywords:
@@ -13856,9 +14556,47 @@ cast:
 setting: >
   Die Handlung geht auf einem von der Poststraße etwas entlegenen Dorfe vor.
 ---
+slug: muellner-der-angolische-kater-oder-die-koenigin-von-golkonde
+author:
+  name: Müllner, Adolph
+  wikidata: Q73359
+title: Der angolische Kater, oder die Königin von Golkonde
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 15
+created: 1809
+printed: 1815
+premiered: 1809
+formalia:
+  - Alexandriner
+editions:
+  - title: "Müllner's Spiele für die Bühne. Erste Lieferung. Leipzig: Breitkopf und Härtel 1815, S. 187–234"
+    url: https://books.google.com/books?id=n_TfxQEACAAJ&pg=PA187
+  - title: "Theater von Adolph Müllner. Zweyter Theil. Neueste Auflage. Wien: Bauer 1816, S. 3–56"
+    url: https://books.google.com/books?id=8xJLAAAAcAAJ&pg=PA3
+  - title: "Adolph Müllners Theater. Erstes Bändchen. Stuttgart: Macklot 1820, S. 167–214"
+    url: https://books.google.com/books?id=bhFMAQAAMAAJ&pg=PA167
+comments:
+  - "Basierend auf der Erzählung/Anecdote von François Andrieux: »Les fausses conjectures, ou L'observateur en défaut«."
+  - In späteren Ausgabe 14 statt 15 Szenen.
+  - Weitere Bearbeitung des Stoffs als Einakter von [Kotzebue 1807](kotzebue-der-kater-und-der-rosenstock).
+cast:
+  - name: Franz.
+    gender: m
+  - name: Friederike,
+    role: seine Frau.
+    gender: f
+  - name: Lucinde,
+    role: deren Schwester.
+    gender: f
+  - name: Betty,
+    role: Kammermädchen
+    gender: f
+setting: >
+  Ein Zimmer mit einer Mittelthür und zwey Seitenthüren.
+---
 slug: muellner-der-neun-und-zwanzigste-februar
 author:
-  name: Müllner, Adolf
+  name: Müllner, Adolph
   wikidata: Q73359
 title: Der neun und zwanzigste Februar
 subtitle: Trauerspiel in einem Akt
