@@ -5762,6 +5762,65 @@ cast:
 setting: >
   Der Schauplatz ist in einem Landhause des Barons.
 ---
+slug: beyer-der-hausherr-in-der-klemme
+author:
+  name: Beyer, Heinrich
+title: Der Hausherr in der Klemme
+subtitle: Ein Spiel in Versen in einem Aufzug
+numberOfScenes: 8
+printed: 1813
+formalia:
+  - Alexandriner
+editions:
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Sechzehnter Band. Augsburg und Leipzig: Stage [1813], S. 89–122"
+    url: https://books.google.com/books?id=3ARIAAAAcAAJ&pg=PA89
+comments:
+  - Datierung unsicher. Bände 1–22 der »Deutschen Schaubühne« bei Jenisch und Stage [erschienen 1810–1813](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA143).
+cast:
+  - name: Der Hausherr.
+    gender: m
+  - name: Die Haushälterin.
+    gender: f
+  - name: Der Bediente,
+    role: (stumme Person).
+    gender: m
+---
+slug: beyer-die-beiden-tanten
+author:
+  name: Beyer, Heinrich
+title: Die beiden Tanten
+subtitle: Posse in einem Aufzug
+numberOfScenes: 18
+printed: 1813
+formalia:
+  - Prosa
+editions:
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Zweiundzwanzigster Band. Augsburg und Leipzig: Stage [1813], S. 243–290"
+    url: https://books.google.com/books?id=5ic7AAAAcAAJ&printsec=frontcover
+comments:
+  - Datierung unsicher. Bände 1–22 der »Deutschen Schaubühne« bei Jenisch und Stage [erschienen 1810–1813](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA143).
+cast:
+  - name: Madame Raymund,
+    role: Wittwe.
+    gender: f
+  - name: Helene,
+    role: ihre Tochter.
+    gender: f
+  - name: Sekretair Trautberg,
+    role: ihr Vetter.
+    gender: m
+  - name: Knallhorn,
+    role: Posihalter.
+    gender: m
+  - name: Sassefras,
+    role: Apotheker.
+    gender: m
+  - name: Fr. Petronilla,
+    role: im Hause der Mad. Raymund.
+    gender: f
+setting: >
+  Die Scene ist in einem Zimmer der Mad. Raymund.
+---
 slug: beyer-die-projekte
 author:
   name: Beyer, Heinrich
@@ -5775,7 +5834,7 @@ editions:
   - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Fünfzehnter Band. Augsburg und Leipzig: Stage [1813], S. 153–206"
     url: https://books.google.com/books?id=wQNIAAAAcAAJ&pg=PA153
 comments:
-  - Datierung unsicher. Bände 1–22 der »Deutschen Schaubühne« bei Jenisch und Stage [erschienen 1810–1813](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA143) (»Die Projekte« in Band 15).
+  - Datierung unsicher. Bände 1–22 der »Deutschen Schaubühne« bei Jenisch und Stage [erschienen 1810–1813](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA143).
 cast:
   - name: Herr von Reichenfeld.
     gender: m
@@ -5795,6 +5854,88 @@ cast:
     gender: m
 setting: >
   Die Scene ist in einem vornehmen Wirthshause.
+---
+slug: beyer-die-vier-sterne
+author:
+  name: Beyer, Heinrich
+title: Die vier Sterne
+subtitle: Posse in einem Akt
+numberOfScenes: 24
+printed: 1813
+formalia:
+  - Prosa
+editions:
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Vierter Band. Augsburg und Leipzig: Stage [1813], S. 142–180"
+    url: https://books.google.com/books?id=hS87AAAAcAAJ&pg=PA143
+comments:
+  - Datierung unsicher. Bände 1–22 der »Deutschen Schaubühne« bei Jenisch und Stage [erschienen 1810–1813](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA143).
+cast:
+  - name: Herr von Hampelmann.
+    gender: m
+  - name: Julie,
+    role: seine Tochter.
+    gender: f
+  - name: Lieutenant von Burgheim.
+    gender: m
+  - name: Fräulein von Edel.
+    gender: f
+  - name: Herr von Stern.
+    gender: m
+  - name: Johann,
+    role: Bedienter des Herrn v. Hampelmann.
+    gender: m
+  - name: Louis,
+    role: Bedienter des Herrn von Burgheim.
+    gender: m
+  - name: Ein Polizey-Commissaire.
+    gender: m
+setting: >
+  Die Szene geht im Hause des Herrn von Hampelmann im Gesellschaftszimmer vor.
+---
+slug: biedenfeld-wie-man-sein-glueck-macht
+author:
+  name: Biedenfeld, Ferdinand von
+  wikidata: Q1405946
+title: Wie man sein Glück macht!
+subtitle: Lustspiel in einem Akt nach Scribe und Mazères
+numberOfScenes: 20
+printed: 1833
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Édouard-Joseph-Ennemond Mazères: [»Le charlatanisme. Comédie-vaudeville en un acte«](https://books.google.com/books?id=y29FXLpq7VUC&printsec=frontcover)"
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. Band V, No. 39. Berlin: Hayn 1833, S. 681–692"
+    url: https://books.google.com/books?id=vFBcAAAAcAAJ&pg=PA681
+comments:
+  - "»Das Stück spielt: Eine Stunde.« ([Anhang](https://books.google.com/books?id=x7FKAAAAcAAJ&pg=PA692))"
+cast:
+  - name: Delmar,
+    role: Schriftsteller.
+    gender: m
+  - name: Rombaum,
+    role: Redacteur eines Journals.
+    gender: m
+  - name: Sandberg,
+    role: ein junger Arzt.
+    gender: m
+  - name: Herr von Hauser,
+    role: Land-Edelmann.
+    gender: m
+  - name: Sophie,
+    role: seine Tochter.
+    gender: f
+  - name: Frau von Zampa,
+    role: seine Nichte.
+    gender: f
+  - group:
+    - name: Johann,
+      gender: m
+    - name: Franz,
+      gender: m
+    role: Delmar's Diener.
+setting: >
+  Schauplatz: Wien, im Hause Delmar's.
 ---
 slug: bielfeld-der-ehestand
 author:
