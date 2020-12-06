@@ -5485,6 +5485,42 @@ cast:
 setting: >
   Einfaches Zimmer, mit Mittel- und Seitenthüren. Auf beiden Seiten Tische. Auf dem Tische rechts ein langes, weißes Tischtuch, was den Tisch verhüllt, darauf ein Plättstahl und ein Haufen Wäsche.
 ---
+slug: benedix-die-eifersuechtigen
+author:
+  name: Benedix, Roderich
+  wikidata: Q87176
+title: Die Eifersüchtigen
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 6
+created: 1850
+printed: 1850
+premiered: 1850-12-16
+formalia:
+  - Prosa
+editions:
+  - title: "Als Manuscript gedruckt. Köln 1850"
+    url: https://books.google.com/books?id=9BaI1peJ5VoC&printsec=frontcover
+  - title: "Gesammmelte Dramatische Werke von Roderich Benedix. Siebenter Band. Dritte, unveränderte Auflage. Leipzig: Weber 1870, S. 59–96"
+    url: https://books.google.com/books?id=RdtUAAAAYAAJ&pg=PA59
+cast:
+  - name: Alfons Palm,
+    role: Baumeister.
+    gender: m
+  - name: Arabella,
+    role: seine Frau.
+    gender: f
+  - name: Leopold Weiß,
+    role: Arzt.
+    gender: m
+  - name: Louise,
+    role: seine Frau.
+    gender: f
+  - name: Joseph,
+    role: Palms Diener.
+    gender: m
+setting: >
+  Zimmer in Palms Hause. Die Einrichtung zeugt von Wohlstand. Mittelthüre, Seitenthüren. Links ein Sopha. Im Hintergrunde ein mit weißem Tischtuche gedeckter Tisch, auf welchem ein Kaffeebret mit Tassen, Milchkanne, Zuckerschale.
+---
 slug: benedix-die-luegnerin
 author:
   name: Benedix, Roderich
@@ -5725,6 +5761,40 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in einem Landhause des Barons.
+---
+slug: beyer-die-projekte
+author:
+  name: Beyer, Heinrich
+title: Die Projekte
+subtitle: Ein Lustspiel in einem Aufzug. Frei nach dem Französischen
+numberOfScenes: 21
+printed: 1813
+formalia:
+  - Prosa
+editions:
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Fünfzehnter Band. Augsburg und Leipzig: Stage [1813], S. 153–206"
+    url: https://books.google.com/books?id=wQNIAAAAcAAJ&pg=PA153
+comments:
+  - Datierung unsicher. Bände 1–22 der »Deutschen Schaubühne« bei Jenisch und Stage [erschienen 1810–1813](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA143) (»Die Projekte« in Band 15).
+cast:
+  - name: Herr von Reichenfeld.
+    gender: m
+  - name: Fritz,
+    role: dessen Sohn, unter dem Namen Schellheim.
+    gender: m
+  - name: Frau von Anger.
+    gender: f
+  - name: Amalie,
+    role: ihre Tochter.
+    gender: f
+  - name: Rummel,
+    role: Fritzens Bedienter.
+    gender: m
+  - name: Finke,
+    role: ein anderer Bedienter.
+    gender: m
+setting: >
+  Die Scene ist in einem vornehmen Wirthshause.
 ---
 slug: bielfeld-der-ehestand
 author:
@@ -9024,6 +9094,179 @@ cast:
 setting: >
   Die Handlung spielt zu Merlü gleich nach Mittage.
 ---
+slug: harrys-der-anekdotenfreund-oder-list-und-grossmuth
+author:
+  name: Harrys, Georg
+  wikidata: Q15811725
+title: Der Anekdotenfreund, oder List und Großmuth
+subtitle: Original-Lustspiel in einem Act
+numberOfScenes: 15
+created: 1825
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch dramatischer Blüthen für das Jahr 1826 von Georg Harrys. Zweyter Jahrgang. Hannover [1826], S. 277–347"
+    url: https://books.google.com/books?id=FwxOAAAAcAAJ&pg=PA277
+cast:
+  - name: Korn,
+    role: Major außer Dienst.
+    gender: m
+  - name: Annette,
+    role: dessen Tochter.
+    gender: f
+  - name: Wilhelm,
+    role: dessen Sohn, Studiosus.
+    gender: m
+  - name: Warl,
+    role: Kaufmann.
+    gender: m
+  - name: Mengers,
+    role: Bau-Inspector.
+    gender: m
+  - name: Anton,
+    role: Diener des Majors.
+    gender: m
+  - name: Ein Kellner im Posthause.
+    gender: m
+  - name: Mehrere Reisende.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geht in einem kleinen Landstädtchen unweit der Hauptstadt vor.
+---
+slug: harrys-der-reiche-kuenstler-und-der-arme-millionair
+author:
+  name: Harrys, Georg
+  wikidata: Q15811725
+title: Der reiche Künstler und der arme Millionair
+subtitle: Lustspiel in einem Act
+numberOfScenes: 13
+created: 1824
+printed: 1825
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch dramatischer Blüthen für das Jahr 1825 von Georg Harrys. Erster Jahrgang. Hannover: Hahn [1825], S. 1–65"
+    url: https://books.google.com/books?id=NgxOAAAAcAAJ&pg=PA1
+cast:
+  - name: Ferdinand Güldner,
+    role: junger reicher Banquier.
+    gender: m
+  - name: Dürrlich,
+    role: Maler und Musicus.
+    gender: m
+  - name: Caroline,
+    role: dessen Tochter.
+    gender: f
+  - name: Professor Schaller,
+    role: Lehrer der Declamation.
+    gender: m
+  - name: Bemolini,
+    role: vormals Schauspieldirector, jetzt Commissionair.
+    gender: m
+  - name: Lorenz,
+    role: Ballettänzer und Kunsthändler.
+    gender: m
+  - name: Mehrere Gläubiger.
+    isGroup: true
+    gender: u
+setting: >
+  Das Stücks spielt in gegenwärtiger Zeit in einer Stadt Teutschlands. Das Theater stellt eine Mansarde vor; rechts dem Schauspieler sieht ein Pianoforte, worauf mehrere Musicalien und eine Trompete liegen; links eine Staffeley mit einem kleinen Gemälde; zur Seite ein Tisch, auf welchem eine Palette, Pinsel, Büsten, Modelle, Bücher, ein Schreibzeug, eine Papierscheere u. dergl.
+---
+slug: harrys-die-pulvertonne
+author:
+  name: Harrys, Georg
+  wikidata: Q15811725
+title: Die Pulvertonne
+subtitle: Lustspiel mit Gesang in einem Act
+numberOfScenes: 20
+created: 1824
+printed: 1825
+premiered: 1824-01-25
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch dramatischer Blüthen für das Jahr 1825 von Georg Harrys. Erster Jahrgang. Hannover: Hahn [1825], S. 67–148"
+    url: https://books.google.com/books?id=NgxOAAAAcAAJ&pg=PA67
+cast:
+  - name: Eduard Delmhorst,
+    role: Husarenrittmeister.
+    gender: m
+  - name: Eisenhart,
+    role: Husar in demselben Regimente.
+    gender: m
+  - name: Gräfin Amalia von Wolfenstein,
+    role: heimlich vermählt mit Delmhorst.
+    gender: f
+  - name: Reichsfreiherr von Rostig,
+    role: ein alter reicher Landedelmann, Onkel der Amalia.
+    gender: m
+  - name: Frau Landmarschallin von Zitterhaupt,
+    role: Schwester des Freiherrn von Rostig.
+    gender: f
+  - name: Lisette,
+    role: Kammermädchen der Amalia.
+    gender: f
+  - name: Lacroix,
+    role: alter Portier im Hotel des Generals Delmhorst.
+    gender: m
+  - name: Mehrere Anverwandte beyderley Geschlechts der Gräfin Amalia. Alle altväterisch, aber sehr anständig gekleidet.
+    isGroup: true
+    gender: u
+setting: >
+  Das Stück spielt in der Residenz, im Hotel des Generals Delmhorst, Onkel des Rittmeisters Delmhorst.
+---
+slug: harrys-die-tanz-und-reitstunde
+author:
+  name: Harrys, Georg
+  wikidata: Q15811725
+title: Die Tanz- und Reitstunde
+subtitle: Posse in einem Act
+numberOfScenes: 23
+created: 1824
+printed: 1825
+premiered: 1823-08-12
+formalia:
+  - Prosa
+basedOn:
+  - "Sewrin und Nicolas Gersin: [»La leçon de danse et d'equitation. Comédie en un acte, mêlée de couplets«](https://books.google.com/books?id=8sRoAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Taschenbuch dramatischer Blüthen für das Jahr 1825 von Georg Harrys. Erster Jahrgang. Hannover: Hahn [1825], S. 253–319"
+    url: https://books.google.com/books?id=NgxOAAAAcAAJ&pg=PA253
+cast:
+  - name: Graf Armainville,
+    role: Oberst eines Infanterie-Regiments.
+    gender: m
+  - name: Herr von Surval,
+    role: Hauptmann in demselben Regimente.
+    gender: m
+  - name: Emeline von Dolm,
+    role: junge Wittwe, Tochter des Obersten und Geliebte des Herrn von Surval.
+    gender: f
+  - name: Thomas,
+    role: Bedienter des Hauptmanns von Surval.
+    gender: m
+  - name: Morbleu,
+    role: Regiments-Tambour.
+    gender: m
+  - name: Bataille,
+    role: Wachtmeister eines Dragoner-Regiments.
+    gender: m
+  - name: Pickel,
+    role: Queerpfeier.
+    gender: m
+  - name: Katharine,
+    role: Dienstmagd.
+    gender: f
+  - name: Ein Sergeant.
+    gender: m
+  - name: Mehrere Infanteristen, Dragoner, Tamboure, Queerpfeifer und Rekruten
+    isGroup: true
+    gender: u
+setting: >
+  Das Stück spielt in Frankreich, in einer Provinzial-Stadt, ohnweit Paris.
+---
 slug: hebenstreit-von-streitenfeld-marie-und-emilie
 author:
   name: Hebenstreit von Streitenfeld, Karl
@@ -9063,6 +9306,42 @@ cast:
     gender: m
 setting: >
   Die Scene ist ein Spielhaus.
+---
+slug: hell-ein-besuch-im-narrenhause-oder-bedlams-nachbarschaft
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Ein Besuch im Narrenhause, oder Bedlam's Nachbarschaft
+subtitle: Lustspiel mit Versen in einem Act. Nach dem Französischen
+numberOfScenes: 18
+printed: 1820
+premiered: 1819
+formalia:
+  - Verse
+basedOn:
+  - "Eugène Scribe und Charles-Gaspard Delestre-Poirson: [»Une visite à Bedlam. Comédie en un acte, mêlée de vaudevilles«](https://books.google.com/books?id=TlM6AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Bühne der Ausländer, herausgegeben von Theodor Hell. Dritter Band. Dresden: Arnold 1820, S. 1–47"
+    url: https://books.google.com/books?id=WplJAQAAMAAJ&pg=PA1
+comments:
+  - Weitere Übersetzung [Herzenskron 1826](herzenskron-der-gang-ins-irrenhaus).
+cast:
+  - name: Alfred von Rosenau.
+    gender: m
+  - name: Amalie,
+    role: seine Frau.
+    gender: f
+  - name: Der Baron von Stirl,
+    role: dessen Oheim.
+    gender: m
+  - name: Crescendo,
+    role: ein italienischer Kappellmeister.
+    gender: m
+  - name: Tom,
+    role: Gärtner des Barons.
+    gender: m
+setting: >
+  Die Scene spielt vor einem der Thore Londons, ohnweit des Narrenhauses, Bedlam genannt.
 ---
 slug: hempel-die-preussischen-winterquartiere-in-sachsen
 author:
@@ -9239,6 +9518,92 @@ cast:
     gender: u
 setting: >
   Die Handlung geht in einem Gasthofe zu Wien vor.
+---
+slug: herzenskron-der-braeutigam-ohne-braut
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Der Bräutigam ohne Braut
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Wien: Tendler und von Manstein 1826, S. 3–61"
+    url: https://books.google.com/books?id=zmxWAAAAcAAJ&pg=PA3
+keywords:
+  - Verkleidungsspiel
+  - Eheanbahnung
+  - Geld
+cast:
+  - name: Sopie v. Halden,
+    role: eine junge Witwe.
+    gender: f
+  - name: Holprich,
+    role: Inhaber eines allgemeinen Auskunfts-Comptoirs auf dem Lande.
+    gender: m
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - name: Nicodem Schmeer,
+    role: ein reicher Ochsen- Pferde- und Holzhändler.
+    gender: m
+  - name: Willig,
+    role: Justiziarius im Orte.
+    gender: m
+  - name: Toinette,
+    role: Emiliens Mädchen.
+    gender: f
+  - group:
+    - name: Franz,
+      role: Bedienter
+      gender: m
+    - name: Eine Kammerfrau
+      gender: f
+    role: der Frau v. Halden.
+setting: >
+  Die Handlung geht in Holprichs Hause, auf dem Lande, einige Stunden weit von der Residenz vor.
+---
+slug: herzenskron-der-gang-ins-irrenhaus
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Der Gang in's Irrenhaus
+subtitle: Lustspiel in einem Aufzuge, nach dem Französischen der Herren Scribe und Delestre-Poirson, frey bearbeitet
+numberOfScenes: 18
+printed: 1826
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Charles-Gaspard Delestre-Poirson: [»Une visite à Bedlam. Comédie en un acte, mêlée de vaudevilles«](https://books.google.com/books?id=TlM6AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Wien: Tendler und von Manstein 1826, S. 243–288"
+    url: https://books.google.com/books?id=zmxWAAAAcAAJ&pg=PA243
+  - title: "Wien: Wallishausser 1853"
+    url: https://books.google.com/books?id=_oZzuaU03eUC&printsec=frontcover
+comments:
+  - Weitere Übersetzung [Hell 1819](hell-ein-besuch-im-narrenhause-oder-bedlams-nachbarschaft).
+keywords:
+  - Ehestandsszene
+  - Verstellspiel
+cast:
+  - name: Alfred von Rosenthal.
+    gender: m
+  - name: Amalie,
+    role: seine Gattinn.
+    gender: f
+  - name: Baron St. Elme,
+    role: ihr Oheim.
+    gender: m
+  - name: Crescendo,
+    role: italienischer Compositeur.
+    gender: m
+  - name: Toms,
+    role: des Barons Gärtner.
+    gender: m
+setting: >
+  Die Handlung spielt auf des Barons Landhaus, in der Nähe des neuen Narrenhauses, vor den Thoren von London.
 ---
 slug: heufeld-die-tochter-des-bruders-philipps
 author:
@@ -12054,6 +12419,96 @@ cast:
     gender: f
 setting: >
   Der Schauplatz, ein Saal in einem Wirthshause mit mehreren nummerierten Thüren. Auf einigen Stühlen liegen allerlei Dameskleidungen und Kopfzeuge.
+---
+slug: kotzebue-die-masken
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Masken
+subtitle: Ein Schauspiel in Einem Akt
+numberOfScenes: 13
+printed: 1813
+premiered: 1812-09-14
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 146
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Eilfter Jahrgang. Leipzig: Hartmann 1813, S. 83–142"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044925_00097.html
+  - title: "Dramatische Werke. Neueste Auflage. Wien: Mausberger 1830, S. 3–30"
+    url: https://books.google.com/books?id=xlhZAAAAcAAJ&pg=PA3
+keywords:
+  - Heimkehr-Motiv
+  - Liebesprobe
+cast:
+  - name: Morton.
+    gender: m
+  - name: Arabelle,
+    role: seine Frau.
+    gender: f
+  - name: Betty,
+    role: seine Tochter.
+    gender: f
+  - name: William During,
+    role: sein Freund.
+    gender: m
+  - name: Paul,
+    role: sein Kammerdiener.
+    gender: m
+  - name: Peter Blackswarth.
+    gender: m
+setting: >
+  Der Schauplatz ist ein Zimmer neben einem Tanzsaal. In einem Winkel desselben ein Büffet mit Erfrischungen und vielem Silbergeschirr. Reichgekleidete Bediente stehen bereit. Eine Seitenthür führt aus dem Vorhause durch das Zimmer nach dem hellerleuchteten Tanzsaale, dessen Flügelthüren offen stehen. Man sieht dort allerlei Masken hin und her wandeln, hört auch bisweilen in der Ferne Tanzmusik.
+---
+slug: kotzebue-die-nachtmuetze-des-propheten-elias
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Nachtmütze des Propheten Elias
+subtitle: Posse in Einem Act
+numberOfScenes: 8
+printed: 1814
+premiered: 1814-01-03
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 149–150
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zwölfter Jahrgang. Leipzig: Hartmann 1814, S. 37–84"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044926_00049.html
+comments:
+  - "»Die Uraufführung im Jahr 1814 erfolgte als Operette mit der Musik von Konradin Kreutzer und unter dem fortan für alle Aufführungen gebrauchten Zensurtitel
+›Die Schlafmütze‹ oder ›Die Zaubermütze‹ in Stuttgart, wo Kreutzer seit 1812 Hofkapellmeister war.« (Kotzebue-Lexikon)"
+  - "Übersetzt ins Dänische: »Den forhexede Nathue. Comedie i 1 Act« (1815), Russische: »Волшебный колпак. Комедия в одном действии« (1821) und Englische: »The nightcap of the prophet Elias. A farce in 1 act« (1929)."
+keywords:
+  - Magie/Zauberei
+  - Eheanbahnung
+  - Ritterstück
+cast:
+  - name: Ritter Hans von der Kolbe.
+    gender: m
+  - name: Sidonia,
+    role: seine Tochter.
+    gender: f
+  - name: Max,
+    role: sein Bruder.
+    gender: m
+  - group:
+    - name: Erich Finsterwald
+      gender: m
+    - name: Caspar Blutstein
+      gender: m
+    - name: Rudolph Krummwinkel
+      gender: m
+    - name: Conrad Pumper
+      gender: m
+    role: Ritter.
+  - name: Junker Edwin,
+    role: Pflegesohn des Hans von der Kolbe.
+    gender: m
+setting: >
+  Der Schauplatz ist der Burghof des Hans von der Kolbe mit einigen alten Linden; unter einer derselben eine Tafel voller Krüge und Becher.
 ---
 slug: kotzebue-drei-vaeter-auf-einmal
 author:
@@ -18747,6 +19202,36 @@ cast:
     gender: u
 setting: >
   Der Schauplatz stellet eine waldige Gegend vor. Rechter Hand sieht man die Thüre, die in Thomsons Hütte führet. Daneben ist eine Rasenbank.
+---
+slug: thale-guten-morgen-vielliebchen
+author:
+  name: Decker, Karl von
+  pseudonym: Thale, Adalbert vom
+  wikidata: Q90485
+title: Guten Morgen, Vielliebchen!
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 17
+printed: 1839
+premiered: 1833
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Achtzehnter Jahrgang, für 1839. Berlin: Vereins-Buchhandlung 1839, S. 225–256"
+    url: https://books.google.com/books?id=7HFIAQAAMAAJ&pg=PA225
+cast:
+  - name: Oberst von Blubber.
+    gender: m
+  - name: Auguste,
+    role: seine Nichte.
+    gender: f
+  - name: Anton,
+    role: sein Neffe.
+    gender: m
+  - name: Neumann,
+    role: Soldat.
+    gender: m
+setting: >
+  Scene: Gartensaal, mit Glasthüre.
 ---
 slug: thielmann-der-junge-feldherr-oder-die-franzosen-in-aegypten
 author:
