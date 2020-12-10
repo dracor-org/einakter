@@ -11243,6 +11243,98 @@ cast:
 setting: >
   Der Schauplatz ist ein Landhaus, dessen Breite die ganze Bühne en face einnimmt, und gleich hinter der ersten Coulisse befindlich ist, so daß die Bühne dadurch schon bei der zweiten Coulisse geschlossen wird. Das Haus hat zwei Stockwerke, die Hausthür in der Mitte, über derselben im ersten Stock Luisens Fenster, dem zur Seite ihres Vormunds Fenster; im zweiten Stock, über Luisen, wohnt der Dichter Schneck. Es ist Nacht, kein Fenster erleuchtet.
 ---
+slug: kotzebue-das-neue-jahrhundert
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Das neue Jahrhundert
+subtitle: Eine Posse in einem Akt
+numberOfScenes: 15
+printed: 1801
+premiered: 1799-12-31
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 153
+editions:
+  - title: "Neue Schauspiele von August von Kotzebue. Fünfter Band. Leipzig: Kummer 1801, S. 1–90"
+    url: https://books.google.com/books?id=I586AAAAcAAJ&pg=PA1
+  - title: "Neue Auflage. Leipzig: Kummer 1826"
+    url: https://books.google.com/books?id=aMA6AAAAcAAJ&printsec=frontcover
+keywords:
+  - Aberglaube
+  - Eheanbahnung
+  - Brownianismus
+  - Arztsatire
+cast:
+  - name: Werlhof,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Minchen,
+    role: seine Tochter.
+    gender: f
+  - name: Eduard,
+    role: sein Vetter.
+    gender: m
+  - name: Der alte Herr von Schmalbauch,
+    role: ein armer Landjunker.
+    gender: m
+  - name: Der junge Herr von Schmalbauch,
+    role: sein Sohn.
+    gender: m
+  - group:
+    - name: Doctor Reiz
+      gender: m
+    - name: Doctor Potenz
+      gender: m
+    role: zwey Aerzte vom Brownischen System.
+setting: >
+  Ein Zimmer in Werlhofs Haus. Mittel- und Seitenthüren. Ein gedeckter Theetisch, auf welchem Neujahrswünsche liegen.
+---
+slug: kotzebue-das-posthaus-in-treuenbrietzen
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Das Posthaus in Treuenbrietzen
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 16
+printed: 1808
+premiered: 1807-12-20
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 168–169
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechster Jahrgang. Leipzig: Kummer 1808, S. 1–71"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044920_00009.html
+comments:
+  - Auch unter dem Titel »Die Entdeckung im Posthause«.
+keywords:
+  - Siebenjähriger Krieg
+  - Eheanbahnung
+  - Soldatenstück
+  - Liebesprobe
+cast:
+  - group:
+    - name: von Blumenau
+      gender: m
+    - name: von Ralding
+      gender: m
+    role: zwei junge Kavallerie-Offiziere.
+  - name: Elise von Blumenau.
+    gender: f
+  - name: Therese,
+    role: ihre Kammermädchen.
+    gender: f
+  - name: Herr Fix,
+    role: Gastwirth und Posthalter zu Treuenbrietzen.
+    gender: m
+  - name: Aufwärter.
+    isGroup: true
+    gender: m
+setting: >
+  Die Scene ist ein Saal im Wirthshause zu Treuenbrietzen. – Das Stück spielt im siebenjährigen Kriege, gleich nach einer, durch die Preußen gewonnenen Schlacht.
+---
 slug: kotzebue-das-urtheil-des-paris
 author:
   name: Kotzebue, August von
@@ -11380,7 +11472,7 @@ cast:
     isGroup: true
     gender: m
 setting: >
-  Der Schauplatz ist in Thüringen, unweit einer Burg. Im Vorgrunde rechter Hand ursula's Hütte, links ein schattiger Eichbaum. Das Stück spielt in der Mitte des fünften Jahrhunderts.
+  Der Schauplatz ist in Thüringen, unweit einer Burg. Im Vorgrunde rechter Hand Ursula's Hütte, links ein schattiger Eichbaum. Das Stück spielt in der Mitte des fünften Jahrhunderts.
 ---
 slug: kotzebue-der-arme-poet
 author:
@@ -12650,6 +12742,141 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist der Burghof des Hans von der Kolbe mit einigen alten Linden; unter einer derselben eine Tafel voller Krüge und Becher.
+---
+slug: kotzebue-die-quaeker
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Quäker
+subtitle: Schauspiel in Einem Akt
+numberOfScenes: 11
+printed: 1812
+premiered: 1811-09-09
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 169–170
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zehnter Jahrgang. Leipzig: Hartmann 1812, S. 247–302"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044924_00261.html
+comments:
+  - Nach einem Dialog aus den [»Letters from an American Farmer«](https://en.wikipedia.org/wiki/Letters_from_an_American_Farmer) (1782) von J. Hector St. John de Crèvecœur.
+  - Übersetzt ins Amerikanische, Dänische, Holländische, Schwedische, Russische und Tschechische (vgl. [Goedeke](https://books.google.com/books?id=BoboBQAAQBAJ&pg=PA247)).
+keywords:
+  - amerikanischer Bürgerkrieg
+  - Vergewaltigung
+  - Religion
+  - Moral
+  - Pennsylvania
+cast:
+  - name: Der englische General Howe.
+    gender: m
+  - name: Lieutnant Howe,
+    role: sein Sohn.
+    gender: m
+  - name: Sein Adjutant.
+    gender: m
+  - group:
+    - name: Walther Mifflin
+      gender: m
+    - name: Eduard Mifflin
+      gender: m
+    - name: Maria Milford
+      gender: f
+    role: Quäker.
+setting: >
+  Das Stück spielt in der Zeit des amerikanischen Krieges. Der Schauplatz ist in Pensylvanien, unweit Philadelphia, im englischen Hauptquartiere, ein Zimmer des Generals, mit einem daran stoßenden Cabinette.
+---
+slug: kotzebue-die-respectable-gesellschaft
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die respectable Gesellschaft
+subtitle: Eine Posse in Einem Akt
+numberOfScenes: 12
+printed: 1813
+premiered: 1812-08-14
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 172
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Eilfter Jahrgang. Leipzig: Hartmann 1813, S. 259–334"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044925_00279.html
+keywords:
+  - Alter vs. Jugend
+  - Generationenkonflikt
+  - Spiel im Spiel
+  - Gesellschaftstheater
+cast:
+  - group:
+    - name: Frau von Altenhayn,
+      gender: f
+    - name: Frau von Schwerfuß,
+      gender: f
+    - name: Frau von Knochen,
+      gender: f
+    - name: Frau v. Zitterhaupt,
+      gender: f
+    - name: Herr von Wiese,
+      gender: m
+    - name: Herr von Schneehaar,
+      gender: m
+    - name: Herr von Wackelbach,
+      gender: m
+    - name: Herr v. Greisenthal,
+      gender: m
+    role: sämmtlich über 60 Jahre.
+  - name: Henriette,
+    role: Enkelin der Frau von Altenhayn.
+    gender: f
+  - name: Barbara Kunzel,
+    role: Kammerfrau der Frau von Altenhayn.
+    gender: f
+  - name: Rittmeister von Wiese,
+    role: Neffe des Herrn von Wiese.
+    gender: m
+  - name: Striegel,
+    role: sein Reitknecht.
+    gender: m
+  - name: Klärchen,
+    role: des Gärtners Enkelin.
+    gender: f
+  - name: Ein paar alte Bediente.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist ein Zimmer im Hause der Frau von Altenhayn.
+---
+slug: kotzebue-die-rosen-des-herrn-von-malesherbes
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Rosen des Herrn von Malesherbes
+subtitle: Ein ländliches Gemälde in Einem Akt (Den Stoff hat eine wahre, von Bouilly in seinen Contes à ma fille erzählte Anekdote geliefert.)
+numberOfScenes: 7
+printed: 1813
+premiered: 1812-08-13
+formalia:
+  - Verse
+dictionaries:
+  kotzebue: S. 173–174
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Eilfter Jahrgang. Leipzig: Hartmann 1813, S. 1–42"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044925_00013.html
+keywords:
+  - Eifersucht
+  - Eheanbahnung
+  - Rührstück
+cast:
+  - name: Lamoignon von Malesherbes.
+    gender: m
+  - name: Susette.
+    gender: f
+  - name: Peter.
+    gender: m
+setting: >
+  Der Schauplatz ist eine Gegend von hohen Bäumen umringt. Unter diesen Bäumen erblickt man in einem Halbzirkel eine blühende Rosenhecke; im Vorgrunde rechter Hand einen Ruhesitz, den jene Hecke verbirgt, und der auswärts gegen die Bühne gestellt ist; linker Hand ein Brunnen.
 ---
 slug: kotzebue-drei-vaeter-auf-einmal
 author:
