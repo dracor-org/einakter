@@ -5412,6 +5412,66 @@ cast:
 setting: >
   Der Schauplatz ist zu Whern-ye-will in Amerika, in Franks Hause.
 ---
+slug: baeuerle-die-gespensterfamilie
+author:
+  name: Bäuerle, Adolf
+  wikidata: Q361119
+title: Die Gespensterfamilie
+subtitle: Schwank in einem Act (Nach einer wahren Anekdote bearbeitet.)
+numberOfScenes: 23
+printed: 1821
+premiered: 1820-04-14
+formalia:
+  - Prosa
+editions:
+  - title: "Pesth: Hartleben 1821"
+    url: https://books.google.com/books?id=mcNRAAAAcAAJ&pg=PA1
+comments:
+  - Zum ersten Mal auf dem Liebhabertheater in Leopoldstadt aufgeführt.
+keywords:
+  - Verkleidungsspiel
+  - Eheanbahnung
+  - Geld
+  - Tugendprobe
+cast:
+  - name: Salau,
+    role: der Vater, Bürger und Hausbesitzer.
+    gender: m
+  - name: Franz,
+    role: sein Sohn.
+    gender: m
+  - name: Wohlgemuth,
+    role: ein angesehener Bürger.
+    gender: m
+  - name: Schmierbach,
+    role: ein Wucherer.
+    gender: m
+  - name: Kati,
+    role: seine Nichte.
+    gender: f
+  - name: Zwickel,
+    role: Hausmeister.
+    gender: m
+  - name: Suse,
+    role: sein Weib.
+    gender: f
+  - group:
+    - name: Fritzl,
+      gender: m
+    - name: Sepherl,
+      gender: m
+    - name: Johann,
+      gender: m
+    role: seine Kinder.
+  - name: Wallmann,
+    role: ein Beamter.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+  - name: Mehrere Diener und Handelsleute.
+    isGroup: true
+    gender: m
+---
 slug: beer-der-paria
 author:
   name: Beer, Michael
@@ -10826,6 +10886,50 @@ cast:
 setting: >
   Die Schaubühne stellet eine sehr schlechte Stube vor, worinnen einiges altes und verbrauchtes Geräthe, ein Schreibtisch, und ein Stafflet befindlich ist, worauf ein angefangenes Gemälde liegt, in der Tiefe ist ein Ruhbett, worauf ein Kind, unter einer schlechten Decke liegt und schläft.
 ---
+slug: klingemann-der-falkenstein
+author:
+  name: Klingemann, August
+  wikidata: Q68143
+title: Der Falkenstein
+subtitle: Drama in Einem Akte
+numberOfScenes: 11
+printed: 1822
+premiered: 1821-06-21
+formalia:
+  - Blankvers
+editions:
+  - title: "Allgemeiner deutscher Theater-Almanach für das Jahr 1822. Herausgegeben von Aug. Klingemann. Braunschweig: Meyer 1822, S. 1–73"
+    url: https://books.google.com/books?id=6p86AAAAcAAJ&pg=PA1
+comments:
+  - Basiert laut Vorerinnerung auf der Erzählung/Novelle [»Adam Wiederbauer«](https://books.google.com/books?id=ScRiAAAAcAAJ&pg=PA359) von Friedrich de la Motte Fouqué.
+cast:
+  - name: Herzog Christian von Braunschweig,
+    role: Kreisobrist der Niedersächsischen Stände im dreißigjährigen Kriege.
+    gender: m
+  - name: Graf Ernst von Mansfeld,
+    role: sein Verbündeter.
+    gender: m
+  - name: Eusebius Kraut,
+    role: Herzoglicher Hauptmann.
+    gender: m
+  - name: Heinrich von Adelepsen,
+    role: ein Ritter des Herzogs.
+    gender: m
+  - name: Volkmar,
+    role: Pfarrer zu Falkendorf.
+    gender: m
+  - name: Adam Wiederbauer,
+    role: ein Köhler.
+    gender: m
+  - name: Ritter und Reisige des Herzogs.
+    isGroup: true
+    gender: m
+  - name: Landleute. Köhler.
+    isGroup: true
+    gender: m
+setting: >
+  Ort der Handlung: Das Selkethal im Harzgebirge. Zeit: Das Jahr 1623.
+---
 slug: klingemann-die-wittwe-von-ephesus
 author:
   name: Klingemann, August
@@ -12089,6 +12193,72 @@ cast:
 setting: >
   Die Scene ist ein Gartensaal auf dem Guthe des Herrn von Wiesen.
 ---
+slug: kotzebue-der-sammtrock
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Sammtrock
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 11
+printed: 1807
+premiered: 1806-11-08
+formalia:
+  - Alexandriner
+dictionaries:
+  kotzebue: S. 184–185
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Fünfter Jahrgang. Berlin: La Garde 1807, S. 1–40"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044919_00007.html
+comments:
+  - Auch unter dem Titel [»Der Ehemann in der Falle. Ein Lustspiel in Versen und in 1 Akte«](https://nbn-resolving.de/urn:nbn:de:hbz:061:2-48225) aufgeführt.
+keywords:
+  - Ehe/Eheanbahnung
+  - Liebesprobe
+  - Gelehrtensatire
+cast:
+  - name: Magister Kranz.
+    gender: m
+  - name: Sybille,
+    role: seine Frau.
+    gender: f
+  - name: Advocat Blum.
+    gender: m
+  - name: Graf Lunger.
+    gender: m
+setting: >
+  Der Schauplatz, des Magisters Studierstube mit zwei Thüren, deren eine auf die Straße, die andere in die Bibliothek führt. Ein großes Büreau steht frei, auf den Stühlen liegen Folianten. Über der Lehne eines Stuhles hängt ein Sammtrock. An der Wand ein paar Pistolen.
+---
+slug: kotzebue-der-schauspieler-wider-willen
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Schauspieler wider Willen
+subtitle: Ein Lustspiel in einem Act. Nach dem Französischen frey bearbeitet
+numberOfScenes: 15
+printed: 1803
+premiered: 1804-12-05
+formalia:
+  - Prosa
+basedOn:
+  - "Dorvigny: [»La fête de campagne, ou L'intendant comédien malgré lui. Comédie-épisodique en un acte, en prose et en vers«](https://books.google.com/books?id=cMesS4QlMkYC&printsec=frontcover)"
+dictionaries:
+  kotzebue: S. 185
+editions:
+  - title: "Leipzig: Kummer 1803"
+    url: https://books.google.com/books?id=q70sAAAAYAAJ&printsec=frontcover
+keywords:
+  - Spiel im Spiel
+  - Theaterbetrieb
+cast:
+  - name: Murrkopf,
+    role: Haushofmeister des Grafen.
+    gender: m
+  - name: Pfifferling,
+    role: Schauspieldirector, erscheint als Kellner, Perückenmacher, Musikus, Maschinist, Ankleiderin, Souffleur, Theaterdichter.
+    gender: m
+setting: >
+  Die Scene ist im Garten auf dem Landgute des Grafen; rechts bewachsenes Gitterwerk; im Hintergrunde ein Pavillon mit Jalousien.
+---
 slug: kotzebue-die-abendstunde
 author:
   name: Kotzebue, August von
@@ -12761,7 +12931,7 @@ editions:
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044924_00261.html
 comments:
   - Nach einem Dialog aus den [»Letters from an American Farmer«](https://en.wikipedia.org/wiki/Letters_from_an_American_Farmer) (1782) von J. Hector St. John de Crèvecœur.
-  - Übersetzt ins Amerikanische, Dänische, Holländische, Schwedische, Russische und Tschechische (vgl. [Goedeke](https://books.google.com/books?id=BoboBQAAQBAJ&pg=PA247)).
+  - Übersetzt ins Amerikanische, Dänische, Niederländische, Schwedische, Russische und Tschechische (vgl. [Goedeke](https://books.google.com/books?id=BoboBQAAQBAJ&pg=PA247)).
 keywords:
   - amerikanischer Bürgerkrieg
   - Vergewaltigung
@@ -12877,6 +13047,67 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist eine Gegend von hohen Bäumen umringt. Unter diesen Bäumen erblickt man in einem Halbzirkel eine blühende Rosenhecke; im Vorgrunde rechter Hand einen Ruhesitz, den jene Hecke verbirgt, und der auswärts gegen die Bühne gestellt ist; linker Hand ein Brunnen.
+---
+slug: kotzebue-die-rueckkehr-der-freywilligen-oder-das-patriotische-geluebde
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Rückkehr der Freywilligen oder das patriotische Gelübde
+subtitle: Ein Lustspiel in Einem Akt
+numberOfScenes: 20
+printed: 1815
+premiered: 1814-10-19
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 179–181
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Dreizehnter Jahrgang. Leipzig: Hartmann 1815, S. 205–286"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044927_00223.html
+keywords:
+  - Heimkehr-Motiv
+  - Krieg
+  - Soldatenstück
+  - Krieg gegen Napoleon
+  - Kriegsfreiwillige
+  - Ehe/Eheanbahnung
+  - Liebesprobe; Eheanbahnung
+  - Generationenkonflikt
+  - Kriegsinvaliden
+  - Patriotismus
+  - Rolle der Frauen im Befreiungskrieg
+cast:
+  - name: Bulling,
+    role: ein reicher Kaufmann.
+    gender: m
+  - group:
+    - name: Caroline,
+      gender: f
+    - name: Adolphine,
+      gender: f
+    role: seine Töchter.
+  - name: Mamsell Beate Bulling,
+    role: seine Schwester.
+    gender: f
+  - name: Luise,
+    role: eine reiche Waise.
+    gender: f
+  - name: Braxen,
+    role: ihr Vormund, Hautmann beym Landsturm.
+    gender: m
+  - group:
+    - name: Müllner,
+      gender: m
+    - name: Riedl,
+      gender: m
+    - name: Webb,
+      gender: m
+    role: freywillige Jäger.
+  - name: Frau Webb,
+    role: Haushälterin bey Bulling.
+    gender: f
+setting: >
+  Schauplatz ist ein Zimmer in Bullings Hause. Im Hintergrunde drey Thüren, davon die mittelste Glasthür nach dem Garten führt. Rechter Hand noch eine Glasthür zu einem Balcon auf die Straße.
 ---
 slug: kotzebue-drei-vaeter-auf-einmal
 author:
@@ -13033,6 +13264,49 @@ cast:
 setting: >
   Der Schauplatz ist ein Saal mit mehreren Thüren, im Hintergrunde ein Catheder,
   Stühle und Bänke für die Pensionaire.
+---
+slug: kotzebue-ruebezahl
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Rübezahl
+subtitle: Ein Schauspiel in Einem Akt
+numberOfScenes: 14
+printed: 1804
+premiered: 1803-03-24
+formalia:
+  - Verse
+dictionaries:
+  kotzebue: S. 178–179
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zweiter Jahrgang. Berlin: La Garde 1804, S. 89–130"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044916_00099.html
+comments:
+  - "Ins Niederländische übersetzt: [»Rubezahl. Tooneelspel« (1808)](https://books.google.com/books?id=ObFkAAAAcAAJ&pg=PA107)."
+keywords:
+  - Geister/Berggeist
+  - Aberglaube
+  - Krieg
+  - Heimkehr-Motiv
+cast:
+  - name: Rübezahl.
+    gender: m
+  - name: Der alte, lahme Thomas.
+    gender: m
+  - name: Anna,
+    role: sein Weib.
+    gender: f
+  - group:
+    - name: Elisabeth
+      gender: f
+    - name: Gustchen,
+      role: ein Kind
+      gender: f
+    role: seine Töchter.
+  - name: Jakob.
+    gender: m
+setting: >
+  Der Schauplatz ist im Riesengebürge, auf einem wilden, romantischen Platze.
 ---
 slug: kotzebue-u-a-w-g-oder-die-einladungskarte
 author:
