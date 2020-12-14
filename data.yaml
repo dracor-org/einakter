@@ -6122,6 +6122,77 @@ cast:
 setting: >
   Die Szene geht im Hause des Herrn von Hampelmann im Gesellschaftszimmer vor.
 ---
+slug: biedenfeld-der-ball-nach-der-mode
+author:
+  name: Biedenfeld, Ferdinand von
+  wikidata: Q1405946
+title: Der Ball nach der Mode
+subtitle: Lustspiel in 1 Aufzuge. Nach dem Französischen frei bearbeitet
+numberOfScenes: 18
+printed: 1818
+formalia:
+  - Prosa
+editions:
+  - title: "Bühne der Ausländer. Herausgegeben von Theodor Hell. Erster Jahrgang 1818. Zweiter Band. [Ohne Ort: ohne Verlag 1818]"
+    url: https://books.google.com/books?id=H4dIAAAAcAAJ&printsec=frontcover
+keywords:
+  - Gesellschaftssatire
+cast:
+  - group:
+    - name: Baron Langheim,
+      gender: m
+    - name: Frau von Langheim,
+      role: seine Frau,
+      gender: f
+    - name: Baron Bohlanden,
+      role: ihr Oheim,
+      gender: m
+    role: aus der Provinz.
+  - name: Herr von Salmfeld,
+    role: ein junger Mann nach der Mode in der Residenz.
+    gender: m
+  - name: Gräfin Schaumbach,
+    role: eine Dame der großen Welt.
+    gender: f
+  - name: Ein Franzose.
+    gender: m
+  - name: Ein Russe.
+    gender: m
+  - name: Ein Engländer.
+    gender: m
+  - name: Der Banquier einer Farobank.
+    gender: m
+  - name: Der Erste Violinist für den Ball.
+    gender: m
+  - name: Joseph,
+    role: Kammerdiener.
+    gender: m
+  - name: Fleurette,
+    role: Kammerjungfer.
+    gender: f
+  - group:
+    - name: Jean,
+      gender: m
+    - name: Jaques,
+      gender: m
+    role: Lakaien.
+  - name: Wastel,
+    role: ein junger Spieler.
+    gender: m
+  - name: Zwei Tailleurs bei der Bank.
+    isGroup: true
+    gender: m
+  - name: Der zweite Violinist.
+    gender: m
+  - name: Ein Knabe,
+    role: der das Flageolet spielt.
+    gender: m
+  - name: Herren und Damen, welche zum Ball eingeladen sind.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist in einer großen teutschen Residenz, im Hause eines Großen. Die Zeit: das Jahr 1818.
+---
 slug: biedenfeld-wie-man-sein-glueck-macht
 author:
   name: Biedenfeld, Ferdinand von
@@ -9199,9 +9270,10 @@ editions:
     url: https://books.google.com/books?id=02CrwfWr3z8C&pg=PA145
   - title: "Goethe's Werke. Vollständige Ausgabe letzter Hand. Siebundfunfzigster Band. Stuttgart und Tübingen: Cotta 1842, S. 1–23"
     url: https://books.google.de/books?id=e83Ski8AUeAC&pg=PA1
-  - title: "Goethes poetische Werke. Vollständige Ausgabe. Dritter Band. Stuttgart: Cotta 1953, S. 119–136"
+  - title: "Goethes poetische Werke. Vollständige Ausgabe. Dritter Band. Stuttgart: Cotta 1953, S. 119–134"
     url: https://books.google.com/books?id=Y2jfAAAAMAAJ&pg=PA119
 ids:
+  dracor: ger000511
   wikidata: Q41744079
 cast:
   - name: Dorn.
@@ -14140,6 +14212,55 @@ cast:
 setting: >
   Der Schauplatz ist Meister Puffs Wohnstube, aus welcher eine Treppe hinauf in Frohmanns Dachstübchen führt.
 ---
+slug: kotzebue-die-tochter-pharaonis
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Tochter Pharaonis
+subtitle: Ein Lustspiel in Einem Akt
+numberOfScenes: 14
+printed: 1804
+premiered: 1802-12-23
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 216–217
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zweiter Jahrgang. Berlin: La Garde 1804, S. 49–88"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044916_00057.html
+  - title: "Wien: Wallishausser 1804"
+    url: https://books.google.com/books?id=VRU8USBeYzkC&printsec=frontcover
+  - title: "Dramatische Werke von August von Kotzebue. 112. Bändchen. Neueste Auflage. Wien: Mausberger 1830, S. 3–26"
+    url: https://books.google.com/books?id=V1hZAAAAcAAJ&pg=PA3
+  - title: "Theater von August v. Kotzebue. Fünfzehnter Band. Leipzig: Kummer; Wien: Klang 1841, S. 169–192"
+    url: https://books.google.com/books?id=nkIJAAAAQAAJ&pg=RA1-PA169
+comments:
+  - Ins Holländische übersetzt.
+  - "Auf dem [Frankfurter Theaterzettel vom 19. Juni 1810](https://books.google.com/books?id=1WhLAAAAcAAJ&pg=PP37) angekündigt als »Ein Lustspiel in zwey Aufzügen von Kotzebue und Guelden«."
+  - "J. G. Guelden schrieb die Fortsetzung [»Lord Pittel oder: die Tochter Pharaonis. Eine Posse in einem Akt«](https://books.google.com/books?id=iyw7AAAAcAAJ&printsec=frontcover) (fehlt noch: Verlinkung in unsere Datenbank)."
+  - "Auch unter dem Titel »Studentenstreiche, oder: Die Tochter Pharaonis«. ([Theaterzettel Bremen](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/2076659))"
+keywords:
+  - Geld
+  - Eheanbahnung
+cast:
+  - name: Runx,
+    role: ein Geizhals, der auf Pfänder leiht.
+    gender: m
+  - name: Tippel,
+    role: ein junger, lustiger Patron.
+    gender: m
+  - name: Fliederbusch,
+    role: sein Freund.
+    gender: m
+  - name: Konrad Herzig,
+    role: ein Uhrmacher-Geselle.
+    gender: m
+  - name: Philippinchen,
+    role: eines Uhrmachers Tochter.
+    gender: f
+setting: >
+  Der Schauplatz ist eine Straße. Rechter Hand ein Kaffeehaus, vor welchem ein Tisch und einige Stühle befindlich; gegenüber Runxens Haus, und daneben Philippinchens Wohnung.
+---
 slug: kotzebue-die-ungluecklichen
 author:
   name: Kotzebue, August von
@@ -14481,6 +14602,50 @@ cast:
     gender: m
 setting: >
   Vorsaal im Wirthshause.
+---
+slug: kotzebue-unser-fritz
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Unser Fritz
+subtitle: Ein Schauspiel in Einem Akt
+numberOfScenes: 10
+printed: 1803
+premiered: 1802-04-08
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 225
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Erster Jahrgang. Berlin: La Garde 1803, S. 51–88"
+    url: https://books.google.com/books?id=8Y1TAAAAcAAJ&pg=PA51
+  - title: "Wien: Wallishausser 1803"
+    url: https://books.google.com/books?id=YMkreOHHu9MC&printsec=frontcover
+  - title: "Wien: Lechner 1833, S. 165–186"
+    url: https://books.google.com/books?id=B1RlAAAAcAAJ&pg=PA165
+  - title: "Theater von August v. Kotzebue. Vierzehnter Band. Leipzig: Kummer; Wien: Klang 1841, S. 209–232"
+    url: https://books.google.com/books?id=RdE72HfLRnUC&pg=PA209
+comments:
+  - Übersetzt ins Holländische.
+keywords:
+  - Kinderverwechslung
+  - Rührstück
+cast:
+  - name: Vater Merten,
+    role: ein alter Bauer.
+    gender: m
+  - name: Mutter Anne,
+    role: sein Weib.
+    gender: f
+  - name: Fritz,
+    role: ihr Pflegling, 7 bis 9 Jahr alt.
+    gender: m
+  - name: Frau von Wilden.
+    gender: f
+  - name: Herr von Burg.
+    gender: m
+setting: >
+  Der Schauplatz ist eine ländliche Gegend am Ende eines Dorfes. Rechts ein Bauerhaus, von einer Linde beschattet, unter welcher eine Bank steht. Links ein kleiner Theil des Kirchhofes, von einem einfachen, weitschichtigen Zaun umgeben. Eine niedrige Gitterthür, dem Bauerhause gegenüber, führt hinein; vorne aber verliert sich der Zaun in der Coulisse. Man wird den Grabhügel eines Kindes mit einem schwarzen Kreuze gewahr, an dem ein verwelkter Blumenkranz hängt.
 ---
 slug: krauseneck-die-fuerstenreise
 author:
