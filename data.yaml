@@ -7835,7 +7835,7 @@ editions:
 comments:
   - >
     Tendenziöse Judensatire eines »mediokren Schriftstellers« (Gunnar Och), der
-    zum Umfeld E. T. A. Hoffmanns gehörte.
+    zum Umfeld E. T. A. Hoffmanns gehörte.
 keywords:
   - Judentum
   - Antisemitismus
@@ -9269,7 +9269,7 @@ editions:
   - title: "Goethe's sämmtliche Werke in vierzig Bänden. Vollständige, neugeordnete Ausgabe. Fünfunddreißigster Band. Stuttgart und Tübingen: Cotta 1840, S. 145–162"
     url: https://books.google.com/books?id=02CrwfWr3z8C&pg=PA145
   - title: "Goethe's Werke. Vollständige Ausgabe letzter Hand. Siebundfunfzigster Band. Stuttgart und Tübingen: Cotta 1842, S. 1–23"
-    url: https://books.google.de/books?id=e83Ski8AUeAC&pg=PA1
+    url: https://books.google.com/books?id=e83Ski8AUeAC&pg=PA1
   - title: "Goethes poetische Werke. Vollständige Ausgabe. Dritter Band. Stuttgart: Cotta 1953, S. 119–134"
     url: https://books.google.com/books?id=Y2jfAAAAMAAJ&pg=PA119
 ids:
@@ -12181,6 +12181,51 @@ cast:
 setting: >
   Der Schauplatz ist in den Gebirgen von Alpujarras, ein enges, reitzendes Thal von einem Strom durchschnitten. Unter einem Felsenabhang erblickt man eine ländliche Hütte, an deren Wänden viele Büschel von Kräutern zum Trocknen aufgehängt sind. Daneben ein Rasenbett unter einem Kastanienbaume.
 ---
+slug: kotzebue-das-unsichtbare-maedchen
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Das unsichtbare Mädchen
+subtitle: Ein Intermezzo in einem Aufzuge
+numberOfScenes: 5
+printed: 1812
+premiered: 1811-11
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 226
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zehnter Jahrgang. Leipzig: Hartmann 1812, S. 303–336"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044924_00319.html
+  - title: "Theater von Kotzebue. Sieben und dreyßigster Theil. Wien: Doll 1812, S. 285–312"
+    url: https://books.google.com/books?id=NbY4AQAAMAAJ&pg=PA285
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Vierter Band. Augsburg und Leipzig: Stage [1813], S. 271–295"
+    url: https://books.google.com/books?id=BrFIAAAAcAAJ&pg=PA271
+  - title: "Theater von August v. Kotzebue. Siebenundzwanzigster Band. Rechtmäßige Original-Auflage. Leipzig: Kummer; Wien: Klang 1841, S. 135–152"
+    url: https://books.google.com/books?id=7xgSI0FNw_0C&pg=PA135
+comments:
+  - "Im »Almanach Dramatischer Spiele« 1812 und in »Kotzebues Theater« im Untertitel nicht als Einakter markiert; in der »Deutschen Schaubühne« allerdings schon."
+  - "»Das Sujet, das sich auch in E. T. A. Hoffmanns *Kater Murr* findet, geht auf einen historisch verbürgten Fall zurück.« (Kotzebue-Lexikon)"
+  - Breslauer Uraufführung 1811 mit der Musik von Gottlob Benedict Bierey.
+keywords:
+  - Zaubertrick
+  - akustischer Trick
+  - Magnetismus
+  - Wahrsagerei
+  - Rolle der Frau
+cast:
+  - name: Goldangel,
+    role: der Besitzer des unsichtbaren Mädchens.
+    gender: m
+  - name: Suschen,
+    role: das unsichtbare Mädchen.
+    gender: f
+  - name: Stoffel,
+    role: der Lampenputzer beim Theater.
+    gender: m
+setting: >
+  Die Bühne ist getheilt. Rechter Hand ein größeres Zimmer, in welchem die Glaskugel aufgehängt ist, aus der die Unsichtbare spricht. Links ein kleineres, in dem dicht an der Wand hinter der Glaskugel ein Stuhl für die Unsichtbare steht. Aus der Wand geht ein Trichter in das kleinere Zimmer.
+---
 slug: kotzebue-das-urtheil-des-paris
 author:
   name: Kotzebue, August von
@@ -12224,6 +12269,84 @@ cast:
   - name: Merkur.
     gender: m
 ---
+slug: kotzebue-das-verlohrne-kind
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Das verlohrne Kind
+subtitle: Ein Schauspiel in Einem Akt
+numberOfScenes: 9
+printed: 1806
+premiered: 1806-01-30
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 235–237
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierter Jahrgang. Berlin: La Garde 1806, S. 267–298"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044918_00283.html
+keywords:
+  - Moral
+  - Rührstück
+  - Selbstmord
+cast:
+  - name: Lord Allhorst.
+    gender: m
+  - name: William,
+    role: sein alter Haushofmeister.
+    gender: m
+  - name: Georg,
+    role: ein Landmann.
+    gender: m
+  - name: Arabelle,
+    role: sein Weib.
+    gender: f
+  - name: Tony,
+    role: ihr Sohn, ein Knabe von 4 bis 6 Jahren.
+    gender: m
+setting: >
+  Der Schauplatz ist ein offener Platz im Walde; im Hintergrunde, das Meer.
+---
+slug: kotzebue-das-zugemauerte-fenster
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Das zugemauerte Fenster
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 11
+printed: 1811
+premiered: 1810-11-22
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 251–252
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Neunter Jahrgang. Leipzig: Hartmann 1811, S. 265–325"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044923_00281.html
+keywords:
+  - Kriegsinvalide
+  - Eheanbahnung
+  - Tugendprobe
+  - Krieg
+cast:
+  - name: Paul Lindner,
+    role: ein invalider Hauptmann.
+    gender: m
+  - name: Malchen,
+    role: seine Tochter.
+    gender: f
+  - name: Heinrich Lindner,
+    role: sein Bruder, ein Korrektor.
+    gender: m
+  - name: Meister Küper,
+    role: ein Maurer.
+    gender: m
+  - name: Franz,
+    role: sein Sohn, ein Buchdrucker.
+    gender: m
+setting: >
+  Der Schauplatz ist des Hauptmanns Zimmer in Heinrich Lindners Hause.
+---
 slug: kotzebue-der-alte-leibkutscher-peter-des-dritten
 author:
   name: Kotzebue, August von
@@ -12233,6 +12356,8 @@ subtitle: Eine wahre Anekdote
 numberOfScenes: 12
 printed: 1799
 premiered: 1797-02-10
+formalia:
+  - Prosa
 dictionaries:
   kotzebue: S. 6–7
 editions:
@@ -12242,8 +12367,10 @@ editions:
     url: http://resolver.sub.uni-goettingen.de/purl?PPN810784416
   - title: "Wien: Wallishausser 1799"
     url: https://books.google.com/books?id=WgFsqMDq3IgC&printsec=frontcover
-  - title: "Wien: Mausberger 1830"
+  - title: "Dramatische Werke. Neueste Auflage. Wien: Mausberger 1830, S. 31–57"
     url: https://books.google.com/books?id=xlhZAAAAcAAJ&pg=PA31
+comments:
+  - Auf Theaterzetteln ([Weimar 1801](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00049674/001882.tif)), in Journalen ([Münchener Theater-Journal, 1800](https://books.google.com/books?id=FM5AAAAAcAAJ&pg=PA56)) und in der Sekundärliteratur wiederholt als Einakter bezeichnet.
 keywords:
   - Russland
   - Paul I.
@@ -12483,11 +12610,13 @@ subtitle: Lustspiel in Einem Act
 numberOfScenes: 10
 printed: 1818
 premiered: 1817-06-09
+formalia:
+  - Alexandriner
 dictionaries:
   kotzebue: S. 76–77
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechzehnter Jahrgang. Leipzig: Kummer 1818, S. 47–92"
-    url: https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11044930.html?pageNo=55
+    url: https://books.google.com/books?id=6ZBTAAAAcAAJ&pg=PA47
 keywords:
   - Freimaurer
 ids:
@@ -12593,6 +12722,50 @@ cast:
 setting: >
   Der Schauplatz auf dem Gute des Majors, ein Zimmer in dessen Hause.
 ---
+slug: kotzebue-der-graf-von-gleichen
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Graf von Gleichen
+subtitle: Ein Spiel für lebendige Marionetten
+numberOfScenes: 11
+printed: 1808
+premiered: 1815-02-16
+formalia:
+  - Alexandriner
+dictionaries:
+  kotzebue: S. 90–91
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechster Jahrgang. Leipzig: Kummer 1808, S. 223–266"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044920_00237.html
+  - title: "Dramatische Spiele zur geselligen Unterhaltung, von A. von Kotzebue. Drittes Bändchen. Stuttgart: Macklot 1822, S. 319–348"
+    url: https://books.google.com/books?id=9o7QckkUu9kC&pg=RA1-PA19
+  - title: "Dramatische Werke von August von Kotzebue. 104. Bändchen. Neueste Auflage. Wien: Mausberger 1830, S. 33–60"
+    url: https://books.google.com/books?id=pFVlAAAAcAAJ&pg=PA33
+  - title: "Theater von August v. Kotzebue. Einundzwanzigster Band. Rechtmäßige Original-Auflage. Leipzig: Kummer; Wien: Klang 1841, S. 264–294"
+    url: https://books.google.com/books?id=wfKyC_2RHyEC&pg=RA2-PA265
+comments:
+  - Im Druck kein Einakterhinweis. – Bezeichnung »Historisches Trauerspiel in Einer Abtheilung« auf dem [Theaterzettel Weimar 1834](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00029745/006536.tif).
+  - Basiert auf der [Sage vom Graf von Gleichen](https://de.wikipedia.org/wiki/Der_Graf_von_Gleichen_(Sage)).
+  - »Seitenhieb« Goethes [»Stella«](https://dracor.org/id/ger000126) (laut Kotzebue-Lexikon).
+cast:
+  - name: Ritter Hans Graf von Gleichen.
+    gender: m
+  - name: Adelheid,
+    role: seine Gemahlin.
+    gender: f
+  - name: Fatime,
+    role: eine türkische Prinzessin.
+    gender: f
+  - name: Meta,
+    role: der Gräfin Zofe.
+    gender: f
+  - name: Kunz,
+    role: des Grafen Knappe.
+    gender: m
+setting: >
+  Der Schauplatz ist vor der Burg des Grafen.
+---
 slug: kotzebue-der-haeusliche-zwist
 author:
   name: Kotzebue, August von
@@ -12618,6 +12791,40 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist ein Zimmer, in dem ein Dames-Bureau steht.
+---
+slug: kotzebue-der-hagestolz-und-die-koerbe
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Hagestolz und die Körbe
+subtitle: Ein Intermezzo
+numberOfScenes: 1
+printed: 1809
+premiered: 1814-07-08
+formalia:
+  - paargereimte Verse
+dictionaries:
+  kotzebue: S. 98–99
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Siebenter Jahrgang. Riga: Hartmann 1809, S. 243–266"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044921_00255.html
+  - title: "Theater von August v. Kotzebue. Sieben und zwanzigster Band. Wien: Lechner 1833, S. 147–162"
+    url: https://books.google.com/books?id=fZ86AAAAcAAJ&pg=PA147
+comments:
+  - Im »Alamanach Dramatischer Spiele« ohne Einakterhinweis. – Bei Meyer mit dem Hinweis »In einem Aufzuge« (1813). – Im Kotzebue-Lexikon Einkater genannt.
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Der Hagestolz.
+    gender: m
+  - group:
+    - name: Sein Jokei.
+      gender: m
+    - name: Seine alte Köchin.
+      gender: f
+    role: stumme Personen.
+setting: >
+  Der Schauplatz ist ein Saal, in welchem, in einem Halbcirkel, fünf weibliche Gemählde aufgestellt sind. Das mittelste, ein junges Mädgen; das erste zur Rechten, ein Mädgen mit Rosen und Vergißmeinnicht; das zweite, ein Frauenzimmer mit einer Feder in der Hand: das erste zur Linken, ein Mädgen nach der neusten Mode gekleidet: das zweite eine Dame in Trauer.
 ---
 slug: kotzebue-der-hahnenschlag
 author:
@@ -12710,7 +12917,9 @@ title: Der hyperboreeische Esel oder Die heutige Bildung
 subtitle: Ein drastisches Drama, und philosophisches Lustspiel für Jünglinge, in Einem Akt
 numberOfScenes: 12
 printed: 1799
-premiered: 1799
+premiered: 1799-10
+formalia:
+  - Prosa
 dictionaries:
   kotzebue: S. 114–116
 editions:
@@ -12718,6 +12927,10 @@ editions:
     url: https://books.google.com/books?id=_EFRAAAAcAAJ&printsec=frontcover
   - title: "Theater von Kotzebue. Zwölfter Theil. Wien: Doll 1810, S. 391–450"
     url: https://books.google.com/books?id=4bY4AQAAMAAJ&pg=PA391
+comments:
+  - Polemik auf Friedrich Schlegels Roman »Lucinde«.
+keywords:
+  - Gelehrtensatire
 ids:
   dracor: ger000188
   wikidata: Q56448380
@@ -13219,6 +13432,248 @@ cast:
 setting: >
   Schauplatz ist in einem Wirthshause.
 ---
+slug: kotzebue-der-vater-von-ungefaehr
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Vater von ungefähr
+subtitle: Ein Lustspiel in einem Akt. Nach dem Französischen der Herren Pain und Vieillard
+numberOfScenes: 15
+printed: 1804
+premiered: 1803-09-19
+formalia:
+  - Prosa
+basedOn:
+  - "Joseph Pain und Pierre-Ange Vieillard: [»Le père d'occasion. Comédie en un acte, en prose«](https://books.google.com/books?id=IrhoAAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  kotzebue: S. 230–231
+editions:
+  - title: "Neue Schauspiele von August von Kotzebue. Eilfter Band. Leipzig: Kummer 1804, S. 367–428"
+    url: https://books.google.com/books?id=GqA6AAAAcAAJ&pg=PA367
+  - title: "Augsburg: Bürglen 1804"
+    url: https://books.google.com/books?id=zSk7AAAAcAAJ&printsec=frontcover
+  - title: "Wien: Wallishausser 1804"
+    url: https://books.google.com/books?id=xatSAAAAcAAJ&printsec=frontcover
+comments:
+  - 1810 als Vaudeville bearbeitet und aufgeführt.
+keywords:
+  - Geld
+  - Eheanbahnung
+  - Verkleidungsspiel
+cast:
+  - name: Herr von Grünfeld.
+    gender: m
+  - name: Carl,
+    role: sein Sohn.
+    gender: m
+  - name: Flink,
+    role: dessen Bedienter.
+    gender: m
+  - name: Frau von Rosen,
+    role: eine junge, reiche Wittwe.
+    gender: f
+  - name: Laurette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Mordfuß,
+    role: ein Wucherer.
+    gender: m
+  - name: Ohnebart,
+    role: ein Professor der Beredsamkeit.
+    gender: m
+  - name: Fleischhauer,
+    role: ein Fechtmeister.
+    gender: m
+  - name: Sattelfest,
+    role: ein Stallmeister.
+    gender: m
+  - name: Schnippschnitt,
+    role: ein Schneider.
+    gender: m
+  - name: Fegbeutel,
+    role: ein Restaurateur.
+    gender: m
+  - name: Hüpfeschnell,
+    role: ein Tanzmeister.
+    gender: m
+  - name: Ein Briefträger.
+    gender: m
+setting: >
+  Die Scene ist ein gemeinschaftlicher Saal in einem Hotêl garni mit einer Mittelthür: rechts das Zimmer der Frau von Rosen, links Carls Wohnung.
+---
+slug: kotzebue-der-verschwiegene-wider-willen-oder-die-fahrt-von-berlin-nach-potsdam
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der Verschwiegene wider Willen, oder die Fahrt von Berlin nach Potsdam
+subtitle: Ein Lustspiel in Einem Act
+numberOfScenes: 25
+printed: 1816
+premiered: 1815-11-19
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 237–238
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierzehnter Jahrgang. Leipzig: Hartmann 1816, S. 65–134"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044928_00073.html
+comments:
+  - Laut Kotzebue-Lexikon ist es nicht ganz klar, ob Georges Duval das Stück ins Französische [»Une journée à Versailles. Comédie en trois actes et en prose«](https://books.google.com/books?id=qclHAQAAMAAJ&printsec=frontcover) (EA am 20. Dezember 1814 in Paris; Erstdruck 1815) übertrug oder Kotzebue Duvals Dreiakter ins Deutsche.
+keywords:
+  - Soldatenstück
+  - Ehe
+cast:
+  - name: Der General von Wildruff.
+    gender: m
+  - name: Dessen Gemahlin.
+    gender: f
+  - name: Der Major von Düna,
+    role: ein Mann zwischen 40 und 50 Jahren.
+    gender: m
+  - name: Julie,
+    role: dessen junge Gattin.
+    gender: f
+  - name: Hauptmann von Trott.
+    gender: m
+  - name: Fähndrich von Wiesen.
+    gender: m
+  - name: Commissions-Rath Frosch.
+    gender: m
+  - name: Ein Adjutant.
+    gender: m
+setting: >
+  Die Scene ist in Potsdam der Platz, auf welchem die Journaliere, welche täglich von Berlin nach Potsdam fährt, anzuhalten pflegt.
+---
+slug: kotzebue-der-weibliche-jacobiner-clubb
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Der weibliche Jacobiner-Clubb
+subtitle: Ein politisches Lustspiel in Einem Aufzug
+numberOfScenes: 18
+created: 1791
+printed: 1792
+premiered: 1791-11-19
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 32, S. 168–170
+  kotzebue: S. 242–244
+editions:
+  - title: "Leipzig: Kummer 1792"
+    url: https://books.google.com/books?id=96E6AAAAcAAJ&printsec=frontcover
+  - title: "Wien: Wallishausser 1799"
+    url: https://books.google.com/books?id=Q3BDPYYrZGUC&printsec=frontcover
+  - title: "Ausgewählte Theater von August v. Kotzebue. Dritter Band. Wien: Doll 1811, S. 127–162"
+    url: https://books.google.com/books?id=noye1qqA31kC&pg=RA1-PA127
+  - title: "Neue Auflage. Leipzig: Kummer 1815"
+    url: https://books.google.com/books?id=4r86AAAAcAAJ&printsec=frontcover
+  - title: "Theater von Kotzebue. Dritter Theil. Prag: Sommer 1817, S. 133–180"
+    url: https://books.google.com/books?id=21lZAAAAcAAJ&pg=PA133
+  - title: "Dramatische Werke von August von Kotzebue. 11. Bändchen. Neueste Auflage. Wien: Mausberg 1828, S. 69–106"
+    url: https://books.google.com/books?id=GFdZAAAAcAAJ&pg=PA69
+comments:
+  - Übersetzt ins Dänische, Englische, Russische, Schwedische, Serbische, Ungarische.
+keywords:
+  - Französische Revolution
+  - Rolle der Frau
+  - Ehe
+cast:
+  - name: Duport,
+    role: ein alter Militär.
+    gender: m
+  - name: Madam Duport.
+    gender: f
+  - group:
+    - name: Julie
+      gender: f
+    - name: Louis,
+      role: ein Knabe
+      gender: m
+    role: ihre Kinder.
+  - name: Marquis de Rozieres.
+    gender: f
+  - name: Antoinette,
+    role: Kammermädchen.
+    gender: f
+  - name: La Brie,
+    role: Bedienter.
+    gender: m
+  - name: Sechs Herren und sechs Damen.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist in Paris in Duports Hause.
+---
+slug: kotzebue-des-esels-schatten-oder-der-process-in-kraehwinkel
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Des Esels Schatten oder der Proceß in Krähwinkel
+subtitle: Eine Posse (Ich brauche wohl Niemanden zu sagen, daß der Stoff zu dieser Posse aus Wielands Abderiten entlehnt ist.)
+numberOfScenes: 18
+printed: 1810
+premiered: 1809-11-24
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 63
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Achter Jahrgang. Leipzig: Hartmann 1810, S. 257–338"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044922_00271.html
+  - title: "Dramatische Werke von August von Kotzebue. 77. Bändchen. Neueste Auflage. Wien: Mausberger 1829, S. 3–44"
+    url: https://books.google.com/books?id=sVZZAAAAcAAJ&pg=PA3
+comments:
+  - Kein Einakterhinweis im Untertitel; das Stück wird aber auf Theaterzetteln als »Posse in einem Aufzug« angekündigt.
+  - Nach Christoph Martin Wielands »Der Proceß um des Esels Schatten« aus den »Abderiten« (1774–1780).
+  - Im fiktiven Ort [»Krähwinkel«](https://de.wikipedia.org/wiki/Kr%C3%A4hwinkel) (der zunächst von Jean Paul in seinen Werken verwendet wurde) spielt auch Kotzebues Drama [»Die deutschen Kleinstädter«](https://dracor.org/id/ger000225) (1803).
+keywords:
+  - Wieland
+  - Gerichtsverhandlung
+  - Justizsatire
+cast:
+  - name: Der Burgemeister.
+    gender: m
+  - name: Der Vice-Kirchenvorsteher.
+    gender: m
+  - name: Der Runkel-Rüben-Commissions-Assessor Sperling.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Die Muhme Morgenroth.
+    gender: f
+  - name: Der Fähndrich Rummelpuff,
+    role: Commandant von Krähwinkel.
+    gender: m
+  - name: Der Zoll-Inspector Argus.
+    gender: m
+  - name: Der Zeitungsschreiber Pfiffspitz.
+    gender: m
+  - name: Doctor Schalk.
+    gender: m
+  - name: Der Rathsherr Wickelwackel.
+    gender: m
+  - name: Der Zahnarzt Kropfelius.
+    gender: m
+  - name: Christinchen,
+    role: seine Tochter.
+    gender: f
+  - name: Der Advocat Lungenheld.
+    gender: m
+  - name: Der Advocat Hinterfuß.
+    gender: m
+  - name: Der Eseltreiber Schlaps.
+    gender: m
+  - name: Der Zunftmeister Pfrieme.
+    gender: m
+  - name: Der Rathsdiener.
+    gender: m
+  - name: Einige stumme Rathsherren.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplatz ist auf dem Rathhause zu Krähwinkel. Im Hintergrunde der Gerichtstisch, ein Armsessel für den Burgemeister und Stühle für die Rathsherren. Ein wenig weiter vorwärts, links und rechts, zwei erhabene Rednerstühle für die Advocaten. Dann Bänke zu beiden Seiten für die Zuhörer.
+---
 slug: kotzebue-die-abendstunde
 author:
   name: Kotzebue, August von
@@ -13228,12 +13683,14 @@ subtitle: Drama in einem Act
 numberOfScenes: 13
 printed: 1809
 premiered: 1812-06-11
+formalia:
+  - Prosa
 dictionaries:
   kotzebue: S. 1–2
 editions:
-  - title: "Riga: Hartmann 1809"
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Siebenter Jahrgang. Riga: Hartmann 1809, S. 267–309"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044921_00281.html
-  - title: "Wien: Klang; Leipzig: Kummer 1841"
+  - title: "Theater von August v. Kotzebue. Dreiundzwanzigster Band. Rechtmäßige Original-Auflage. Wien: Klang; Leipzig: Kummer 1841, S. 127–148"
     url: https://books.google.com/books?id=zi164FxwCsAC&pg=PA127
 keywords:
   - Soldatenstück
@@ -14368,6 +14825,159 @@ cast:
 setting: >
   Der Schauplatz ist in einem Dorfe zwischen Bayonne und der spanischen Gränze, am Abend nach einem, im Jahr 1814 vorgefallnen, Gefecht; ein Saal im Wirthhause mit einem Kamin oder Feuerherd.
 ---
+slug: kotzebue-die-vaeterliche-erwartung
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die väterliche Erwartung
+subtitle: Eine ländliche Familien Scene in Esthland, mit untermischten Gesängen. In Musik gesetzt vom Herrn Professor Hoerschelmann
+printed: 1789
+premiered: 1788-12-19
+dictionaries:
+  bibliographia: 2. Abteilung, Band 30, S. 272
+  kotzebue: S. 229–230
+editions:
+  - title: "Reval und Leipzig 1788"
+  - title: "Reval: Iversen und Fehmer 1789"
+comments:
+  - "Auch unter dem Titel [»Die väterliche Erwartung; Schauspiel mit Gesang in 1 Aufzuge«](https://books.google.com/books?id=gQdiWkjoHzAC&pg=PA241)."
+---
+slug: kotzebue-die-wittwe-und-das-reitpferd
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Wittwe und das Reitpferd
+subtitle: Eine dramatische Kleinigkeit
+numberOfScenes: 11
+printed: 1796
+premiered: 1795-12-04
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 34, S. 186–187
+  kotzebue: S. 248–249
+editions:
+  - title: "Leipzig: Kummer 1796"
+    url: https://books.google.com/books?id=caIyAQAAMAAJ&printsec=frontcover
+  - title: "Wien: Wallishausser [1799]"
+    url: https://books.google.com/books?id=D6B01YqaMOQC&printsec=frontcover
+comments:
+  - "Vorbemerkung: »Diese dramatische Kleinigkeit hat ihren Ursprung einer Anecdote zu verdanken, welche im 9ten Bande der Annalen des Herrn von Archenholz S. 425. enthalten ist.« ([S. 3](https://books.google.com/books?id=nMAmFK7eTtYC&pg=PA3))"
+  - Auch unter dem Titel »Das seltsame Testament«.
+  - Kein Einakterhinweis im Untertitel; auf Theaterzetteln als »Ein Lustspiel in einem Aufzuge« angekündigt.
+  - Ins Englische unter den Titeln »The Widow, and the Riding-Horse« (1799) und »The Horse and the Widow« (1799), ins Niederländische unter dem Titel »De Weduwe en het Rijdpaard« (1796) übersetzt.
+keywords:
+  - Anekdote
+  - Justizsatire
+  - Ehe
+  - Erbe
+  - Moral
+cast:
+  - name: Squire Thomas Fullarton,
+    role: ein Landedelmann.
+    gender: m
+  - name: Angelique,
+    role: seine Gattin.
+    gender: f
+  - name: Graf Valcour,
+    role: ein französischer Emigrant.
+    gender: m
+  - name: Ronsard,
+    role: sein Bedienter.
+    gender: m
+  - name: Mäster Warbifax,
+    role: ein Rechtsgelehrter.
+    gender: m
+  - name: Ein Stallknecht.
+    gender: m
+setting: >
+  Der Schauplatz ist im Saal in Fullartons Landhause.
+---
+slug: kotzebue-die-zerstreuten
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Zerstreuten
+subtitle: Eine Posse in Einem Act
+numberOfScenes: 12
+printed: 1810
+premiered: 1809-07-02
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 250–251
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Achter Jahrgang. Leipzig: Hartmann 1810, S. 135–187"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044922_00145.html
+keywords:
+  - Eheanbahnung
+  - Soldatenstück
+  - Kriegsinvaliden
+cast:
+  - group:
+    - name: Der Major von Staubwirbel
+      gender: m
+    - name: Der Hauptmann v. Mengkorn
+      gender: m
+    role: Pensionirte Invaliden.
+  - name: Charlotte,
+    role: des Majors Tochter.
+    gender: f
+  - name: Carl,
+    role: des Hauptmanns Sohn.
+    gender: m
+setting: >
+  Der Schauplatz ist ein Zimmer in des Majors Wohnung mit einer Mittel- und zwei Seitenthüren. Auf einem Tische liegen Zeitungen und eine Brille. Ein seidener Schlafrock hängt über einem Stuhle.
+---
+slug: kotzebue-die-zurueckkunft-des-vaters
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Die Zurückkunft des Vaters
+subtitle: Ein Vorspiel
+numberOfScenes: 6
+created: 1800
+printed: 1801
+premiered: 1800-11-17
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 252–253
+editions:
+  - title: "Leipzig: Kummer 1801"
+    url: https://books.google.com/books?id=iaqtzglTMooC&printsec=frontcover
+  - title: "Wien: Wallishausser 1802"
+    url: https://books.google.com/books?id=g4RkAAAAcAAJ&printsec=frontcover
+  - title: "Gratz: Kienreich [1802]"
+    url: https://books.google.com/books?id=974iJoQpsL8C&printsec=frontcover
+  - title: "Theater von Kotzebue. Vierzehnter Theil. Wien: Doll 1811, S. 345–384"
+    url: https://books.google.com/books?id=F7c4AQAAMAAJ&pg=PA345
+  - title: "Dramatische Werke von August von Kotzebue. 83. Bändchen. Neueste Auflage. Wien: Mausberger 1829, S. 29–54"
+    url: https://books.google.com/books?id=7lZZAAAAcAAJ&pg=PA29
+comments:
+  - Kein Einakterhinweis im Untertitel; im Kotzebue-Lexikon als Einakter bezeichnet.
+  - Geschrieben aus Anlass des jährlichen Thronbesteigungsfests des Zaren Pauls I.
+keywords:
+  - Heimkehr-Motiv
+  - Soldatenstück
+cast:
+  - name: Der Major.
+    gender: m
+  - name: Marie,
+    role: seine Tochter.
+    gender: f
+  - name: Gegor,
+    role: ein junger Offizier.
+    gender: m
+  - name: Fedora,
+    role: eine junge Kaufmannsfrau, seine Schwester.
+    gender: f
+  - name: Iwan Petrow,
+    role: ein alter Soldat.
+    gender: m
+setting: >
+  Der Schauplatz ist ein Garten. Im Hintergrunde Blumenbeete und einige Bienenstöcke.
+---
 slug: kotzebue-drei-vaeter-auf-einmal
 author:
   name: Kotzebue, August von
@@ -14448,6 +15058,46 @@ cast:
 setting: >
   Der Schauplatz ist der innere Hofraum von Brummsers Landhause. Links, das Haus selbst; über der Thür ein Balcon, und neben derselben ein Fenster. Weiter vorwärts, noch ein kleineres Gebäude, Brummsers Laboratorium, mit eiserner Thür und vergittertem Fenster. Diesem gegenüber ein Taubenschlag, mit angelegter Leiter. Den Hintergrund schließt ein hohes eisernes Stacket, mit einer verriegelten Pforte. Neben derselben ein Ziehbrunnen.
 ---
+slug: kotzebue-expectorationen
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Expectorationen
+subtitle: Ein Kunstwerk und zugleich ein Vorspiel zum Alarcos
+numberOfScenes: 3
+printed: 1803
+formalia:
+  - Verse
+dictionaries:
+  kotzebue: S. 65–66
+editions:
+  - title: "[Berlin] 1803"
+    url: https://books.google.com/books?id=zsxcAAAAcAAJ&printsec=frontcover
+comments:
+  - Kein Einakterhinweis im Untertitel; im Kotzebue-Lexikon als Einakter bezeichnet.
+  - Satire auf Goethe, die Schlegel-Brüder und die Romantik.
+  - "Hintergrund: Goethes Aufführung von Friedrich Schlegels [»Alarcos«](https://dracor.org/id/ger000164) in Weimar."
+keywords:
+  - Literatursatire
+cast:
+  - name: Göthe,
+    role: der Grosse!
+    gender: m
+  - name: Falck,
+    role: der Kleine.
+    gender: m
+  - name: A. W. Schlegel,
+    role: der Wütende.
+    gender: m
+  - name: Fr. Schlegel,
+    role: der Rasende.
+    gender: m
+  - name: Mehrere stumme, gekochte und gebratene Personen.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist ein Saal, in welchem rings umher die berühmten Gemählde aufgehängt sind, welche bekanntlich aus allen Ländern von den ersten Meistern zu der berühmten Weimarschen Kunstausstellung eingesandt worden.
+---
 slug: kotzebue-kaiser-claudius
 author:
   name: Kotzebue, August von
@@ -14479,20 +15129,60 @@ cast:
 setting: >
   Der Schauplatz ist im römischen Lager.
 ---
-slug: kotzebue-maedchenfreundschaft
+slug: kotzebue-list-gegen-misstrauen
 author:
   name: Kotzebue, August von
   wikidata: Q57242
-title: Mädchenfreundschaft, oder der türkische Gesandte
-subtitle: Ein Lustspiel in einem Akt
+title: List gegen Mißtrauen
+subtitle: Ein Lustspiel in Einem Akte. Nach dem Französischen
+numberOfScenes: 16
+printed: 1806
+formalia:
+  - Prosa
+editions:
+  - title: "[Augsburg] 1806"
+    url: https://books.google.com/books?id=Myw7AAAAcAAJ&printsec=frontcover
+comments:
+  - Kein Eintrag zu diesem Stück im Kotzebue-Lexikon.
+keywords:
+  - Verkleidungsspiel
+  - Liebesprobe
+cast:
+  - name: Herr von Neltern,
+    role: Liebhaber der Frau von Thalheim.
+    gender: m
+  - name: Herr von Neltern,
+    role: als sein Bedienter Berger verkleidet.
+    gender: m
+  - name: Frau von Thalheim,
+    role: Liebhaberin des Herrn von Neltern.
+    gender: f
+  - name: Frau von Thalheim,
+    role: unter dem namen Jungfer Anna, als eine Kammerfrau verkleidet.
+    gender: f
+setting: >
+  Das Theater stellt ein Gesellschaftszimmer vor.
+---
+slug: kotzebue-maedchenfreundschaft-oder-der-tuerkische-gesandte
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Mädchenfreundschaft oder der türkische Gesandte
+subtitle: Ein Lustspiel in Einem Akt
 numberOfScenes: 14
 printed: 1805
 premiered: 1805-06-18
+formalia:
+  - Prosa
 dictionaries:
   kotzebue: S. 142–143
 editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Dritter Jahrgang. Berlin: La Garde 1805, S. 163–205"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044917_00177.html
   - title: "Wien: Wallishausser 1805"
     url: https://books.google.com/books?id=FV2P2ebZ-KQC&printsec=frontcover
+comments:
+  - "Nachdichtung von Charles-Guillaume Étienne: [»Le pacha de Suresne, ou L'amitié des femmes. Comédie-anecdote en un acte et en prose«](https://books.google.com/books?id=dWQ0zXyYCjkC&printsec=frontcover)."
 ids:
   dracor: ger000486
   wikidata: Q88636794
@@ -14501,13 +15191,13 @@ cast:
     role: Vorsteherin einer Pensionsanstalt für junge Mädchen.
     gender: f
   - group:
-    - name: Lenore
+    - name: Lenore,
       gender: f
-    - name: Natalie
+    - name: Natalie,
       gender: f
-    - name: Wilhelmine
+    - name: Wilhelmine,
       gender: f
-    role: in Pension bey Madam Braun.
+    role: in Pension bei Mad. Braun.
   - name: Hopsa,
     role: ein Tanzmeister.
     gender: m
@@ -14521,7 +15211,7 @@ cast:
     isGroup: true
     gender: f
 setting: >
-  Der Schauplatz ist ein Saal mit mehreren Thüren, im Hintergrunde ein Catheder,
+  Der Schauplatz: ein Saal mit mehreren Thüren, im Hintergrunde ein Catheder,
   Stühle und Bänke für die Pensionaire.
 ---
 slug: kotzebue-ruebezahl
@@ -14646,6 +15336,45 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist eine ländliche Gegend am Ende eines Dorfes. Rechts ein Bauerhaus, von einer Linde beschattet, unter welcher eine Bank steht. Links ein kleiner Theil des Kirchhofes, von einem einfachen, weitschichtigen Zaun umgeben. Eine niedrige Gitterthür, dem Bauerhause gegenüber, führt hinein; vorne aber verliert sich der Zaun in der Coulisse. Man wird den Grabhügel eines Kindes mit einem schwarzen Kreuze gewahr, an dem ein verwelkter Blumenkranz hängt.
+---
+slug: kotzebue-wer-weiss-wozu-das-gut-ist
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Wer weiß wozu das gut ist
+subtitle: Ein Schwank in Einem Akt
+numberOfScenes: 13
+printed: 1815
+premiered: 1814-11-07
+formalia:
+  - Prosa
+dictionaries:
+  kotzebue: S. 244–245
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Dreizehnter Jahrgang. Leipzig: Hartmann 1815, S. 287–336"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044927_00307.html
+keywords:
+  - außereheliche Affäre
+cast:
+  - name: Meister Sparbüchse,
+    role: ein Schneider.
+    gender: m
+  - name: Käthgen,
+    role: seine Tochter.
+    gender: f
+  - name: Steffen,
+    role: sein Gesell.
+    gender: m
+  - name: Meister Knete,
+    role: ein Bäcker.
+    gender: m
+  - name: Meister Wurst,
+    role: ein Fleischer.
+    gender: m
+  - name: Ein Husaren-Lieutenant.
+    gender: m
+setting: >
+  Der Schauplatz ist eine Stube in des Schneiders Hause. An einer Seite ein Bett mit Vorhängen, an der andern ein großer mit Tuch behangener Tisch, auf welchem Schneider-Geräthschaften und allerley angefangene Arbeit liegen. Im Winkel steht ein hoher Kasten mit Deckel.
 ---
 slug: krauseneck-die-fuerstenreise
 author:
