@@ -7693,6 +7693,33 @@ cast:
 setting: >
   Die Scene ist 4 Meilen von der Hauptstadt.
 ---
+slug: costenoble-erdbeeren-und-kuesse
+author:
+  name: Costenoble, Karl Ludwig
+  wikidata: Q1732203
+title: Erdbeeren und Küsse
+subtitle: Ländliches Spiel in einem Aufzuge
+numberOfScenes: 5
+printed: 1825
+premiered: 1829-09-19
+formalia:
+  - Verse
+editions:
+  - title: "W. G. Becker's Taschenbuch zum geselligen Vergnügen. Herausgegeben von Friedrich Kind. Auf das Jahr 1825. Leipzig: Göschen 1825, S. 185–219"
+    url: https://books.google.com/books?id=8AFdAAAAcAAJ&pg=PA185
+cast:
+  - name: Robert,
+    role: ein Jäger.
+    gender: m
+  - name: Röschen,
+    role: eine Pachterstochter.
+    gender: f
+  - name: Fritz,
+    role: ihr Bruder.
+    gender: m
+setting: >
+  Waldige Gegend – Morgendämmerung.
+---
 slug: crentzin-der-arme
 author:
   name: Crentzin, Anton Adolph von
@@ -9474,6 +9501,51 @@ cast:
 setting: >
   Die Scene ist im Walde an des Einsiedlers Höle.
 ---
+slug: grillparzer-der-gastfreund
+author:
+  name: Grillparzer, Franz
+  wikidata: Q154438
+title: Der Gastfreund
+subtitle: Trauerspiel in einem Aufzuge
+numberOfScenes: 1
+created: 1818
+printed: 1822
+premiered: 1821-03-26
+formalia:
+  - Blankvers
+  - freie Verse
+editions:
+  - title: "Das Goldene Vließ. Dramatisches Gedicht in drei Abtheilungen. Wien: Wallishausser 1822, S. 1–35"
+    url: https://books.google.com/books?id=vr9hAAAAcAAJ&pg=PA1
+comments:
+  - Erster Teil von Grillparzers Dramentriologie »Das goldene Vließ«.
+cast:
+  - name: Aietes,
+    role: König von Kolchis.
+    gender: m
+  - name: Medea,
+    role: seine Tochter.
+    gender: f
+  - name: Gora,
+    role: Medeens Amme.
+    gender: f
+  - name: Peritta,
+    role: eine ihrer Jungfrauen.
+    gender: f
+  - name: Phryxus.
+    gender: m
+  - name: Jungfrauen Medeens.
+    isGroup: true
+    gender: f
+  - name: Griechen in Phryxus' Gefolge.
+    isGroup: true
+    gender: u
+  - name: Kolcher.
+    isGroup: true
+    gender: u
+setting: >
+  Kolchis. Wilde Gegend mit Felsen und Bäumen, im Hintergrunde das Meer. Am Gestade desselben ein Altar von unbehauenen Steinen zusammengesetzt, auf dem die kolossale Bildsäule eines nackten, bärtigen Mannes steht, der in seiner Rechten eine Keule, um die Schultern ein goldenes Widderfell trägt. Links an den Scenen des Mittelgrundes der Eingang eines Hauses mit Stufen und rohen Säulen. Tagesanbruch.
+---
 slug: grossmann-pygmalion
 author:
   name: Großmann, Gustav Friedrich Wilhelm
@@ -10845,6 +10917,98 @@ cast:
     gender: m
   - name: Franz, Rosensteins Bedienter
     gender: m
+---
+slug: iffland-der-veteran
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Der Veteran
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1798
+premiered: 1798-07-06
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Unger 1798"
+    url: https://books.google.com/books?id=fDldAAAAcAAJ&printsec=frontcover
+  - title: "Berlin 1799"
+    url: https://books.google.com/books?id=5Dw7AAAAcAAJ&printsec=frontcover
+  - title: "Wien: Wallishausser 1801"
+    url: https://books.google.com/books?id=f1JjAAAAcAAJ&printsec=frontcover
+comments:
+  - "Besprechung in: Neue Allgemeine Deutsche Bibliothek. Sieben und funfzigsten Bandes Zweytes Stück. Sechstes Heft. Berlin und Stettin: Nicolai 1801, [S. 347](https://books.google.com/books?id=G2FLAAAAcAAJ&pg=PA347)."
+cast:
+  - group:
+    - name: Friedrich Wernau,
+      role: Schulze des Dorfs.
+      gender: m
+    - name: Wilhelm Wernau,
+      role: sein Sohn.
+      gender: m
+    role: vormals in Kriegsdiensten.
+  - name: Ernst Leeser,
+    role: Pachter.
+    gender: m
+  - name: Louise,
+    role: dessen Tochter.
+    gender: f
+  - group:
+    - name: Jakob Armann.
+      gender: m
+    - name: Peter Stein.
+      gender: m
+    - name: Heinrich Fellmann.
+      gender: m
+    role: Landleute.
+  - name: Bauern.
+    isGroup: true
+    gender: m
+  - name: Bäuerinnen und Kinder.
+    isGroup: true
+    gender: u
+setting: >
+  Eine Bauernstube.
+---
+slug: iffland-die-marionetten
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Die Marionetten
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1807
+formalia:
+  - Prosa
+editions:
+  - title: "[Augsburg: Bolling] 1807"
+    url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10118576-3
+  - title: "Gratz: Kienreich [ohne Jahr]"
+    url: https://books.google.com/books?id=Y5wFsjjG4B0C&printsec=frontcover
+  - title: "Hannover: Wehrhahn 2009"
+keywords:
+  - Theaterbetrieb
+cast:
+  - name: Geheimrath Ward.
+    gender: m
+  - name: Geheimräthin,
+    role: seine Frau.
+    gender: f
+  - name: Ernestine,
+    role: deren Tochter.
+    gender: f
+  - name: Amtmann Iling.
+    gender: m
+  - name: Erhard,
+    role: des Geheimraths Diener.
+    gender: m
+  - name: Dimpfel,
+    role: des Amtmanns Schreiber.
+    gender: m
+  - name: Sekretair Sirt.
+    gender: m
+setting: >
+  Ein gewöhnliches Zimmer, darinn eine Menge Hausrath zerstreut hin und wieder gestellt ist. Komoden, Schreibtische, mehrere Kanapees, etliche Vorhangbettstellen, Vogelbauer, ein Schreibtisch mit vielen Akten. Im Hintergrunde des Zimmers ist eine Art Alkoven, mit einem Vorhang zugezogen, oder mit spanischen Wänden besetzt.
 ---
 slug: jester-das-duell-oder-das-junge-ehepaar
 author:
@@ -17051,6 +17215,59 @@ cast:
     gender: m
 setting: >
   Der Schauplatz stellt den Eingang in den Garten der Madame Gerdrut vor, und an dessen Seite ein kleines Gartenhaus.
+---
+slug: malss-die-jungfern-koechinnen
+author:
+  name: Malß, Carl
+  wikidata: Q1039634
+title: Die Jungfern Köchinnen
+subtitle: Lokalposse in einem Act. Vom Verfasser des Bürgercapitains und der Hampelmanniaden
+numberOfScenes: 28
+printed: 1836
+premiered: 1835-02-16
+formalia:
+  - Prosa
+editions:
+  - title: "Frankfurt a. M.: Barrentrapp 1836"
+    url: https://books.google.com/books?id=tXU9AQAAMAAJ&printsec=frontcover
+  - title: "Zweite Auflage. Frankfurt a. M.: Barrentrapp 1837"
+    url: https://books.google.com/books?id=nshIAAAAcAAJ&printsec=frontcover
+comments:
+  - "»Das Stück ist eine Bearbeitung der französischen Posse ›Les Cusinières‹ eines nicht feststellbaren Verfassers.« ([Goedeke](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA278))."
+ids:
+  dracor: ger000044
+  wikidata: Q54366286
+cast:
+  - name: Herr Hammel.
+    gender: m
+  - name: Frau Hammel.
+    gender: f
+  - name: Frenz,
+    role: ihre Köchin.
+    gender: f
+  - name: Frau Hannlapps,
+    role: ihre Mutter.
+    gender: f
+  - name: Peter,
+    role: ein Metzgerknecht.
+    gender: m
+  - group:
+    - name: Dorthee
+      gender: f
+    - name: Lißbeth
+      gender: f
+    - name: Susann
+      gender: f
+    role: Köchinnen.
+  - name: Die Schwäbin.
+    gender: f
+  - name: Schmidt,
+    role: ein Kutscher.
+    gender: m
+  - name: Ein Kohlenträger.
+    gender: m
+setting: >
+  Der Ort der Handlung, in der Wohnung des Herrn Hammel.
 ---
 slug: marinelli-der-anfang-muss-empfehlen
 author:
