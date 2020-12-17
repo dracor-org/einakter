@@ -10882,6 +10882,40 @@ cast:
 setting: >
   Die Scene ist auf dem Rathhaus, das zugleich des Schulzen Wohnhaus ist, in der Gerichts-Stube.
 ---
+slug: iffland-der-komet
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Der Komet
+subtitle: Eine Posse in einem Aufzuge
+numberOfScenes: 9
+printed: 1799
+premiered: 1798-02-28
+formalia:
+  - Prosa
+editions:
+  - title: "Leipzig: Göschen 1799"
+    url: https://books.google.com/books?id=mR51Wa6y9bgC&printsec=frontcover
+  - title: "Hannover: Wehrhahn 2006"
+ids:
+  wikidata: Q104217112
+cast:
+  - name: Der Buchbinder Balder.
+    gender: m
+  - name: Dessen Frau.
+    gender: f
+  - name: Justine,
+    role: seine Tochter.
+    gender: f
+  - name: Chirurgus Krappe.
+    gender: m
+  - name: Advokat Grünstein.
+    gender: m
+  - name: Ein Gerichtsdiener.
+    gender: m
+setting: >
+  Das Arbeitszimmer des Buchbinders Balder. Einige Stöße ungebundener Bücher und anderes Geräthe liegen in der sonst reinlich eingerichteten Stube umher. Justine kehrt das Zimmer aus.
+---
 slug: iffland-der-magnetismus
 author:
   name: Iffland, August Wilhelm
@@ -11194,6 +11228,37 @@ cast:
     gender: m
 setting: >
   Die Scene ist ein offener Gartensaal beym Grafen Braunstädt.
+---
+slug: juergensen-die-brueder
+author:
+  name: Jürgensen, Wilhelm
+  wikidata: Q94809491
+title: Die Brüder
+subtitle: Trauerspiel in einem Act
+numberOfScenes: 12
+printed: 1821
+formalia:
+  - Verse
+editions:
+  - title: "Schleswig: Königliches Taubstummen-Institut 1821"
+    url: https://books.google.com/books?id=SclIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Adelbert von Thalfeld,
+    role: unter dem Namen Walter.
+    gender: m
+  - group:
+    - name: Cuno,
+      role: Officier,
+      gender: m
+    - name: Carlos,
+      role: Candidat der Theologie,
+      gender: m
+    role: seine Söhne.
+  - name: Bertha,
+    role: sein Pflegekind.
+    gender: f
+setting: >
+  Die Scene ist in Walter's einsam in einem Walde belegenem Hause: ein Zimmer mit einer Mittel- und zwei Seitenthüren. An den Wänden hängen Schießgewehre, Jagdtaschen, mehrere Säbel und Degen. Rechts vom Zuschauer im Vordergrunde ein Fenster; links im Hintergrunde ein Kamin, in welchem in den ersten Scenen das Feuer von Zeit zu Zeit hell auflodert. Winterabend nach 6 Uhr.
 ---
 slug: juergensen-warum
 author:
@@ -11825,6 +11890,36 @@ cast:
 setting: >
   Der Schauplatz zeiget eine grüne Ebene, woselbst man allerley unbekannte Vögel, fremde Bäume und seltsame Thiere sieht.
 ---
+slug: koerner-der-gruene-domino
+author:
+  name: Körner, Karl Theodor
+  wikidata: Q62344
+title: Der grüne Domino
+subtitle: Ein Lustspiel in Alexandrinern in einem Aufzuge
+numberOfScenes: 6
+created: 1811
+printed: 1813
+premiered: 1812-01-17
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Beyträge von Theodor Körner. Erster Band. Wien: Wallishausser 1813, S. 103–142"
+    url: https://books.google.com/books?id=8RAzAQAAMAAJ&pg=PA103
+  - title: "Theodor Körner's sämmtliche Werke. Im Auftrage der Mutter des Dichters herausgegeben und mit einem Vorworte begleitet von Karl Streckfuß. Dritte rechtmäßige Gesammt-Ausgabe in Einem Bande. Berlin: Nicolai; Wien: Gerold 1838, S. 236–244"
+    url: https://books.google.com/books?id=qs8WAAAAQAAJ&pg=PA236
+  - title: "Theodor Körner's sämmtliche Werke. Erste illustrierte Ausgabe. Zweiter Band. Dritte Auflage. Berlin: Grote 1877, S. 142–156"
+    url: https://books.google.com/books?id=8wPiAAAAMAAJ&pg=PA142
+comments:
+  - Theaterzettel der Aufführung [Weimar 9. Dezember 1812](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00041525/003475.tif).
+  - Eine Beschreibung des Manuksripts in [Deutsche Dichtung. Zehnter Band. Berlin Haack 1891, S. 294–297](https://books.google.com/books?id=0zo8AQAAIAAJ&pg=PA294).
+cast:
+  - name: Marie.
+    gender: f
+  - name: Pauline.
+    gender: f
+setting: >
+  Ein Zimmer in einem Haupteingange und Thüren auf beyden Seiten.
+---
 slug: koerner-die-suehne
 author:
   name: Körner, Theodor
@@ -12138,6 +12233,47 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist die Landstraße; an der einen Seite ein Landhaus von gutem Ansehn, zu welchem eine Allee führt, im Vorgrunde eine Laube. An der andern Seite eine Gartenpforte, und in der Ferne mehrere Häuser.
+---
+slug: kotzebue-das-liebe-doerfchen
+author:
+  name: Kotzebue, August von
+  wikidata: Q57242
+title: Das liebe Dörfchen
+subtitle: Dramatisirte Idylle
+numberOfScenes: 9
+printed: 1807
+premiered: 1806-12-31
+formalia:
+  - Verse
+dictionaries:
+  kotzebue: S. 138–139
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Fünfter Jahrgang. Berlin: La Garde 1807, S. 41–80"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044919_00049.html
+  - title: "Theater von August von Kotzebue. 20ter Band. Wien: Kaulfuß und Krammer 1825, S. 133–166"
+    url: https://books.google.com/books?id=x05lAAAAcAAJ&pg=PA133
+  - title: "Theater von August v. Kotzebue. Einundzwanzigster Band. Rechtmäßige Original-Auflage. Wien: Klang; Leipzig: Kummer 1841, S. 3–34"
+    url: https://books.google.com/books?id=k0ETAAAAYAAJ&pg=PA3
+comments:
+  - "Untertitel auf Theaterzetteln: »Dramatisierte Idylle in einem Aufzuge« ([Bremen 1807](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1695390)), »ein Lustspiel in einem Aufzuge« ([Hamburg 1812](https://www.stadttheater.uni-hamburg.de/system/files/1812-08-05.pdf))."
+  - "Zur Form: »In Jamben, reichlich mit Anapästen vermischt.« ([Neue Leipziger Literaturzeitung](https://books.google.com/books?id=gAkbAAAAYAAJ&pg=PA1599))"
+cast:
+  - name: Walther,
+    role: ein Kaufmann.
+    gender: m
+  - name: Ferdinand,
+    role: sein Sohn.
+    gender: m
+  - name: Hans Krüger,
+    role: ein Bauer.
+    gender: m
+  - name: Gretchen,
+    role: seine Tochter.
+    gender: f
+  - name: Der Küster.
+    gender: m
+setting: >
+  Der Schauplatz ein Dörfchen. Links das Herrenhaus. Neben demselben das Haus des Küsters. Gegenüber Hans Krügers ländliche Hütte.
 ---
 slug: kotzebue-das-lustspiel-am-fenster
 author:
@@ -12972,10 +13108,16 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Siebenter Jahrgang. Riga: Hartmann 1809, S. 243–266"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044921_00255.html
+  - title: "Theater von Kotzebue. Sechs und dreißigster Theil. Prag: Sommer 1821, S. 201–222"
+    url: https://books.google.com/books?id=51tZAAAAcAAJ&pg=PA201
+  - title: "Erheiterungs-Bibliothek für Freunde romantischer Lectüre von August v. Kotzebue. Neue Folge. Sieben und zwanzigster Band. Wien: Kaulfuß und Krammer 1826, S. 201–222"
+    url: https://books.google.com/books?id=bmgvUCf1FxQC&pg=PA201
+  - title: "Dramatische Werke von August von Kotzebue. 46. Bändchen. Neueste Auflage. Wien: Mausberger 1828, S. 61–78"
+    url: https://books.google.com/books?id=R1VlAAAAcAAJ&pg=PA61
   - title: "Theater von August v. Kotzebue. Sieben und zwanzigster Band. Wien: Lechner 1833, S. 147–162"
     url: https://books.google.com/books?id=fZ86AAAAcAAJ&pg=PA147
 comments:
-  - Im »Alamanach Dramatischer Spiele« ohne Einakterhinweis. – Bei Meyer mit dem Hinweis »In einem Aufzuge« (1813). – Im Kotzebue-Lexikon Einkater genannt.
+  - Untertitel mit Einakterhinweis »Komisches Intermezzo in einem Aufzuge« auf Theaterzetteln ([Bremen 1822](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1701223)).
 keywords:
   - Eheanbahnung
 cast:
@@ -20830,6 +20972,49 @@ cast:
     gender: u
 setting: >
   Ein einfach meublirtes Zimmer.
+---
+slug: schmidt-nur-er-will-sprechen
+author:
+  name: Schmidt, Friedrich Ludwig
+  wikidata: Q16471530
+title: Nur er will sprechen
+subtitle: Lustspiel in einem Aufzuge. Nach dem Französischen
+numberOfScenes: 11
+printed: 1808
+premiered: 1806-04-02
+formalia:
+  - Prosa
+editions:
+  - title: "Hamburg: Vollmer 1808"
+    url: https://books.google.com/books?id=lTQ7AAAAcAAJ&printsec=frontcover
+comments:
+  - Zurlering ist die einzige Figur, die spricht.
+  - Titel der französischen Vorlage unklar.
+  - Ursprünglicher Titel »Das schwatzt!« (vgl. Schmidts [Denkwürdigkeiten](https://books.google.com/books?id=-0wTAAAAYAAJ&pg=PA150))
+  - Theaterzettel [Karlsruhe, 19. Dezember 1834](https://digital.blb-karlsruhe.de/blbtheater/periodical/titleinfo/3057446).
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Zurlering.
+    gender: m
+  - name: Dillert,
+    role: sein Freund.
+    gender: m
+  - name: Madame Dillert.
+    gender: f
+  - name: Amalia,
+    role: ihre Tochter.
+    gender: f
+  - name: Schiffskapitain Keuler.
+    gender: m
+  - name: Valentin,
+    role: Dillerts Bedienter.
+    gender: m
+  - name: Fein,
+    role: Zurlerings Bedienter.
+    gender: m
+setting: >
+  Zimmer bei Dillert.
 ---
 slug: schoenfeld-die-zwo-amaryllen
 author:
