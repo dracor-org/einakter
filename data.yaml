@@ -550,6 +550,96 @@ cast:
 setting: >
   Das Theater stellt den Garten einer Bürgertabagie im Voigtlande vor, hinten mit einem Gitter geschlossen. Tische, Bänke, Stühle im Garten. Rechts das Wirthshaus mit einem Schilde, worauf geschrieben steht: »Tabagie und Garten-Vergnügen.« Links an allen Coulissen eine Mauer mit einer Gitterthür, die in einen anstoßenden Garten führt.
 ---
+slug: angely-frauen-freundschaft
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: Frauen-Freundschaft
+subtitle: Lustspiel in einem Akt, nach dem Französischen des Lafitte
+numberOfScenes: 16
+printed: 1841
+premiered: 1832-01-23
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Baptiste-Pierre Lafitte: [»L'amitié des femmes. Comédie en un acte et en vers«](https://books.google.com/books?id=By9MAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Berliner Theater-Almanach auf das Jahr 1841. Herausgegeben von Alexander Cosmar. Sechster Jahrgang. Berlin: Bade 1841, S. 59–118"
+    url: https://books.google.com/books?id=1VI7AAAAcAAJ&pg=PA59
+comments:
+  - "[Theaterzettel Weimar 23. Januar 1832](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00030555/006088.tif) (Erstaufführung?)"
+cast:
+  - group:
+    - name: Amalie von Sellingen
+      gender: f
+    - name: Helene von Eschenthal
+      gender: f
+    role: junge Wittwen.
+  - name: Rosa,
+    role: eine Waise, bei ihnen erzogen.
+    gender: f
+  - name: Gustav von Springen.
+    gender: m
+  - name: Freimund,
+    role: Banquier, dessen Freund.
+    gender: m
+  - name: Margarethe,
+    role: eine alte Dienerin.
+    gender: f
+  - name: Freimunds Bedienter.
+    gender: m
+setting: >
+  Scene: eine kleine Stadt in der Nähe Berlins. Ein Gartensaal, große Mittelthüre, zwei Seitenthüren. Elegantes Ameublement. Ein Büreau. Lehnsessel.
+---
+slug: angely-nach-sonnen-untergang
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: Nach Sonnen-Untergang
+subtitle: Lustspiel in einem Aufzuge nach Mélesville
+numberOfScenes: 22
+printed: 1835
+formalia:
+  - Prosa
+basedOn:
+  - "Mélesville: [»Le coucher du soleil. Comédie-vaudeville en un acte«](https://books.google.com/books?id=KEg6AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band VII, No. 51. Berlin: Hayn 1835, S. 883–896"
+    url: https://books.google.com/books?id=1VBcAAAAcAAJ&pg=PA883
+cast:
+  - name: Der Baron d'Argentières.
+    gender: m
+  - name: Sarrassin,
+    role: Banquier.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Gustav,
+    role: sein Neffe.
+    gender: m
+  - name: Mathilde,
+    role: seine Pflegetochter.
+    gender: f
+  - name: Eugène,
+    role: sein erster Commis.
+    gender: m
+  - name: Mariane,
+    role: Haushälterin.
+    gender: f
+  - group:
+    - name: Jean,
+      gender: m
+    - name: Victor,
+      gender: m
+    role: Bediente.
+  - name: Der Portier.
+    gender: m
+  - name: Lelièvre,
+    role: Wechsel-Gerichts-Beamter.
+    gender: m
+setting: >
+  Scene: Paris, im Hause des Banquiers Sarrassin. (Ein eleganter Salon mit Mittel- und Eckthüren. Die Thür links führt zu Herrn, die Thür rechts zu Madame Sarrasin. An der ersten Coulisse rechts ein Kamin, reich verziert mit einer Bronce-Uhr, Vasen etc. links ein Fenster. – Die Möbel stehen bunt durcheinander, wie am Morgen nach einem großen Balle.)
+---
 slug: anonym-alberik
 author:
   pseudonym: Anonym
@@ -5420,6 +5510,38 @@ cast:
     role: Zeneidens Geliebter.
     gender: m
 ---
+slug: arnstein-das-billett
+author:
+  name: Arnstein, Benedikt
+  wikidata: Q816915
+title: Das Billett
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 24
+printed: 1800
+formalia:
+  - Prosa
+editions:
+  - title: "Wallishausser: Wien 1800"
+    url: https://books.google.com/books?id=YKpIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Baron Seehof.
+    gender: m
+  - name: Amalie,
+    role: dessen Gattin.
+    gender: f
+  - name: Wilhelmine,
+    role: Verwandte und Gesellschafterinn der Baroninn.
+    gender: f
+  - name: Baron Sternheim.
+    gender: m
+  - name: Herr von Stromfels.
+    gender: m
+  - name: Lisette,
+    role: Kammermädchen der Baroninn.
+    gender: f
+setting: >
+  Die Handlung geht im Hause des Baron Seehof vor.
+---
 slug: arnstein-das-geschenk
 author:
   name: Arnstein, Benedikt
@@ -5579,6 +5701,59 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist zu Whern-ye-will in Amerika, in Franks Hause.
+---
+slug: baermann-der-koenig-und-der-kuenstler
+author:
+  name: Bärmann, Georg Nikolaus
+  wikidata: Q1505487
+title: Der König und der Künstler
+subtitle: Ein geschichtliches Schauspiel in einem Akt
+numberOfScenes: 10
+printed: 1824
+premiered: 1821-09-17
+formalia:
+  - Verse
+editions:
+  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth 1824, S. 1–41"
+    url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA1
+cast:
+  - name: Arnulf,
+    role: König von Baiern.
+    gender: m
+  - name: Ethelinde,
+    role: seine Nichte.
+    gender: f
+  - name: Pfalzgraf Gundibald zum Stein.
+    gender: m
+  - name: Libertus,
+    role: ein römischer Bildhauer.
+    gender: m
+  - name: Winfried,
+    role: Hauptmann der königlichen Leibwache.
+    gender: m
+  - name: Jutta,
+    role: Ethelindens Kammerfrau.
+    gender: f
+  - group:
+    - name: Bruno,
+      gender: m
+    - name: Heribert,
+      gender: m
+    role: von der Leibwache.
+  - name: Gefolge des König.
+    isGroup: true
+    gender: u
+  - name: Königliche Leibwache.
+    isGroup: true
+    gender: m
+  - name: Drei gefangene Männer.
+    isGroup: true
+    gender: m
+  - name: Volk.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geht zu Dingolfing vor. Zeit: 923. (Das Theater stellt einen von Bäumen umringten Platz vor. Im Hintergrunde auf einer Anhöhe die herzogliche Hofburg. In der Mitte des Platzes auf einem Postamente eine durch baldachinartig gefaltete Vorhänge verhüllte Bildsäule. Rechts unter Bäumen ein Sessel auf einem Steine. Ein blankes Schwert ist vor demselben in den Boden gesteckt.)
 ---
 slug: baeuerle-die-gespensterfamilie
 author:
@@ -5982,6 +6157,43 @@ cast:
     gender: m
 setting: >
   Das Stück spielt auf dem Landhause des Marquis.
+---
+slug: bernstein-das-eingebrachte-stuendchen-oder-gellert-im-schlafrock
+author:
+  name: Bernstein, Caroline
+  pseudonym: Karoli, E.
+  wikidata: Q1044452
+title: Das eingebrachte Stündchen oder Gellert im Schlafrock
+subtitle: Original-Lustspiel in einem Aufzuge (nach einer Anekdote)
+numberOfScenes: 11
+created: 1827
+printed: 1831
+formalia:
+  - Alexandriner
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Zehnter Jahrgang, für 1831. Berlin: Vereins-Buchhandlung 1831, S. 63–114"
+    url: https://books.google.com/books?id=ocE6AAAAcAAJ&pg=PA63
+comments:
+  - Die Autorin gewann mit dem Einakter 1827 in einem Wettbewerb von F. W. Gubitz den ersten Preis (vgl. dessen [Erlebnisse](https://books.google.com/books?id=2pVOAAAAcAAJ&pg=PA229)).
+  - Besprechungen in [Literatur-Blatt. Redigirt von Dr. Wolfgang Wenzel. No. 97 (23. September 1831), S. 385–386](https://books.google.com/books?id=6u8IAQAAIAAJ&pg=PA936-IA69), und [Jenaische Allgemeine Literatur-Zeitung. No. 152 (August 1831), Sp. 254](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253).
+cast:
+  - name: Christian Fürchtegott Gellert,
+    role: Professor in Leipzig.
+    gender: m
+  - name: Oberst von Bogen,
+    role: in Preußischen Diensten.
+    gender: m
+  - name: Friederike,
+    role: dessen Tochter.
+    gender: f
+  - name: Heinrich von Flist,
+    role: Student in Leipzig.
+    gender: m
+  - name: Melchior,
+    role: Gellert's Famulus.
+    gender: m
+setting: >
+  Ort der Handlung: Leipzig. Zeit der Handlung: 1765. (Gellerts Studirzimmer mit einem Großvaterstuhl, worauf Schlafrock und Nachtmütze befindlich. Es ist Abend.)
 ---
 slug: bertram-der-mondsuechtige-oder-er-verliehrt-seine-braut-im-schlaf
 author:
@@ -8555,6 +8767,40 @@ cast:
   - name: Champagne,
     role: Bedienter des Herrn von Gercourt.
     gender: m
+---
+slug: engel-der-kleine-irrthum
+author:
+  name: Engel, Karl Christian
+  wikidata: Q55902339
+title: Der kleine Irrthum
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1799
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Maurer 1799"
+    url: https://books.google.com/books?id=dp0yAQAAMAAJ&printsec=frontcover
+cast:
+  - name: Hofrath Allwerth.
+    gender: m
+  - name: Minna,
+    role: seine Schwester.
+    gender: f
+  - name: Johann,
+    role: sein Bedienter.
+    gender: m
+  - name: Geuse,
+    role: ein Verwalter.
+    gender: m
+  - name: Wilhelmine,
+    role: seine Tochter.
+    gender: f
+  - name: Bausch,
+    role: ein Feldwebel.
+    gender: m
+setting: >
+  Die Scene ist in einem Lustholze, ganz nahe bey Geusens Wohnung.
 ---
 slug: faber-die-drey-brueder-als-nebenbuhler
 author:
@@ -19588,6 +19834,34 @@ cast:
 setting: >
   Die Handlung ist nahe bey einem, dem Pan geweihten Hayne.
 ---
+slug: robert-blind-und-lahm
+author:
+  name: Robert, Ludwig
+  wikidata: Q70435
+title: Blind und Lahm
+subtitle: Nachspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1823
+premiered: 1819-08-15
+formalia:
+  - Verse
+editions:
+  - title: "Berlin: Bloch [1823]"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0002A66C00000000
+  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth 1824, S. 71–143"
+    url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA71
+comments:
+  - Begleitet von einem [»Vorbericht über das Metrum des folgenden Lustspiels«](https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA73), worin es um das angemessene Metrum für das Lustspiel geht; unter anderem werden Kotzebues Werke erwähnt und Goethes Einakter »Die Mitschuldigen«.
+cast:
+  - name: Der Oheim.
+    gender: m
+  - name: Die Nichte.
+    gender: f
+  - name: Der Oberst.
+    gender: m
+setting: >
+  Ein kleines, aber modern und reich möblirtes Zimmer mit Fußteppich, Sopha, Blumengefäßen u. dgl., mit einer großen Mittelthüre und einer kleinen zur Seite.
+---
 slug: robert-er-wird-zur-hochzeit-gebeten-oder-die-nichtigen
 author:
   name: Robert, Ludwig
@@ -21700,6 +21974,70 @@ cast:
 setting: >
   Das Stück spielt in einem mitten im Walde gelegenen Schloß.
 ---
+slug: sessa-die-luftschiffer
+author:
+  name: Sessa, Karl Borromäus Alexander
+  wikidata: Q21089479
+title: Die Luftschiffer
+subtitle: "Posse in einem Aufzuge. Aus dem Nachlasse des verstorbnen Dr. Sessa, Verf. des Lustspiels: Unser Verkehr"
+numberOfScenes: 6
+created: 1813
+printed: 1824
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth 1824, S. 289–343"
+    url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA289
+comments:
+  - Erstdruck posthum 1824, genaues Entstehungsdatum bisher nicht ermittelt, terminus ante quem ist 1813, Sessas Todesjahr.
+cast:
+  - name: Luise.
+    gender: f
+  - name: Karl.
+    gender: m
+  - group:
+    - name: Herr von Süßmilch,
+      gender: m
+    - name: Herr von Schmalz,
+      gender: m
+    role: Gutsbesitzer.
+  - name: Habakuk,
+    role: deren Diener.
+    gender: m
+---
+slug: sessa-die-sonntagsperuecke
+author:
+  name: Sessa, Karl Borromäus Alexander
+  wikidata: Q21089479
+title: Die Sonntagsperücke
+subtitle: Posse in einem Aufzuge. Aus dem Nachlasse des Dr. Sessa, (Verf. der Lustspiele »Unser Verkehr«, »die Luftschiffer« u.s.w.)
+numberOfScenes: 12
+created: 1813
+printed: 1825
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Vierter Jahrgang, für 1825. Berlin: Vereinsbuchhandlung 1825, S. 129–174"
+    url: https://books.google.com/books?id=ppo6AAAAcAAJ&pg=PA129
+comments:
+  - Erstdruck posthum 1825, genaues Entstehungsdatum bisher nicht ermittelt, terminus ante quem ist 1813, Sessas Todesjahr.
+  - "Kurzbesprechung in [Leipziger Literatur-Zeitung für das Jahr 1825. Erstes Halbjahr. No. 137 (7. Juni 1825). Leipzig: Breitkopf und Härtel 1825, S. 1091](https://books.google.com/books?id=cV8gAQAAMAAJ&pg=PA1091)."
+cast:
+  - name: Frau Hedwig,
+    role: eine Bauerswittwe.
+    gender: f
+  - name: Anna,
+    role: ihre Muhme.
+    gender: f
+  - name: Paul,
+    role: ihr Schwager.
+    gender: m
+  - name: Flavius Popitius,
+    role: der Schulmeister.
+    gender: m
+setting: >
+  Scene: Ländliche Gegend vor Hedwigs Hause.
+---
 slug: sessa-unser-verkehr
 author:
   name: Sessa, Karl Borromäus Alexander
@@ -22790,6 +23128,42 @@ cast:
     gender: m
 setting: >
   Die Vorstellung ist in der Oberzauberin Garten.
+---
+slug: tietz-ein-stuendchen-aus-dem-leben-peter-des-grossen
+author:
+  name: Tietz, Friedrich
+  wikidata: Q60843664
+title: Ein Stündchen aus dem Leben Peter des Großen
+subtitle: Dramatisirte Anekdote in einem Akte
+numberOfScenes: 15
+printed: 1841
+formalia:
+  - Blankvers
+editions:
+  - title: "Berliner Theater-Almanach auf das Jahr 1841. Herausgegeben von Alexander Cosmar. Sechster Jahrgang. Berlin: Bade 1841, S. 323–368"
+    url: https://books.google.com/books?id=1VI7AAAAcAAJ&pg=PA323
+cast:
+  - name: Peter der Große.
+    gender: f
+  - name: Meister Brand,
+    role: ein Holländer, Schiffbaumeister und Aufseher einer Schiffswerft.
+    gender: m
+  - name: Anna,
+    role: seine Tochter.
+    gender: f
+  - group:
+    - name: Fedor
+      gender: m
+    - name: Wasil
+      gender: m
+    role: Russen, Schiffbauleute.
+  - name: Ein alter Schiffbauarbeiter.
+    gender: m
+  - name: Dentschiks. – Wache. – Schiffbauleute.
+    isGroup: true
+    gender: m
+setting: >
+  Ort der Handlung: St. Petersburg. Zeit: 1721. Die Scene stellt den Flur eines hölzernen Hauses vor. Hinten sieht man hinaus auf die an der Newa belegene Schiffswerft. Eine Seitenthüre führt in das Innere des Hauses.
 ---
 slug: toepfer-cyprian-und-barbara
 author:
