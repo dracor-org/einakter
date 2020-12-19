@@ -5420,6 +5420,39 @@ cast:
     role: Zeneidens Geliebter.
     gender: m
 ---
+slug: arnstein-das-geschenk
+author:
+  name: Arnstein, Benedikt
+  wikidata: Q816915
+title: Das Geschenk
+subtitle: Ein Gelegenheitsstück in einem Aufzuge
+numberOfScenes: 16
+printed: 1801
+formalia:
+  - Prosa
+editions:
+  - title: "Wallishausser: Wien 1801"
+    url: https://books.google.com/books?id=HyxIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Felix Gunst,
+    role: ein reicher Bürger in einer Provinzialstadt.
+    gender: m
+  - name: Anna,
+    role: dessen Frau.
+    gender: f
+  - name: Röschen,
+    role: dessen Tochter.
+    gender: f
+  - name: Peter.
+    gender: m
+  - name: Ein Unbekannter.
+    gender: m
+  - name: Ein Officier.
+    gender: m
+  - name: Drey Freywillige.
+    isGroup: true
+    gender: m
+---
 slug: ast-ein-missverstand-aus-dem-andern
 author:
   name: Ast, Johann Christian
@@ -9711,6 +9744,52 @@ cast:
 setting: >
   Die Handlung spielt zu Merlü gleich nach Mittage.
 ---
+slug: hagemann-vetter-paul-oder-die-rache-des-deutschen
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: "Vetter Paul, oder: Die Rache des Deutschen"
+subtitle: Original-Schauspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1810
+premiered: 1812-07-25
+formalia:
+  - Prosa
+editions:
+  - title: "Eisenach: Wittekindt 1810"
+    url: https://books.google.com/books?id=yPQ5vaxZ5b4C&printsec=frontcover
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Vierter Band. Augsburg und Leipzig: Stage [1813], S. 235–270"
+    url: https://books.google.com/books?id=BrFIAAAAcAAJ&pg=PA235
+comments:
+  - "Erstaufführung (?) laut [Spielplan des Leopoldstädter Theaters](https://books.google.com/books?id=jD94w8tOFoQC&pg=PA150)."
+keywords:
+  - Rache
+cast:
+  - name: Veter Paul,
+    role: Postmeister.
+    gender: m
+  - name: Lorchen,
+    role: seine Cousine.
+    gender: f
+  - name: Frau Hase,
+    role: seine Muhme.
+    gender: f
+  - group:
+    - name: Graf Thalheim,
+      role: Vater.
+      gender: m
+    - name: Graf Thalheim,
+      role: Sohn.
+      gender: m
+    role: Emigrirte.
+  - name: Bastian,
+    role: ein Postknecht.
+    gender: m
+  - name: Ein Knabe.
+    gender: m
+setting: >
+  Große Stube mit Mittel-Seitenthüren. Ein Verschlag, darin das Postcomptoir und ein Straßenfenster. Im Verschlage viele Pakete, Schachteln, Briefe, Gepäcke. Auf dem Schreibtisch im Verschlag ein brennendes Licht.
+---
 slug: harrys-der-anekdotenfreund-oder-list-und-grossmuth
 author:
   name: Harrys, Georg
@@ -11864,7 +11943,7 @@ cast:
     role: zwo Jungfern aus der verkehrten Welt.
   - name: Frau Sassefraß,
     role: ein Doctor der Arzney.
-    gender: m
+    gender: f
   - name: Herr von Erbarsheim,
     role: ein Stutzer.
     gender: m
@@ -21910,6 +21989,126 @@ cast:
 setting: >
   Die Handlung geht in einer kleinen Stadt vor.
 ---
+slug: solbrig-die-stadtschule
+author:
+  name: Solbrig, Carl Friedrich
+  wikidata: Q19277106
+title: Die Stadtschule
+subtitle: Eine charakteristische Posse in einem Akte. Seitenstück zur Dorfschule
+numberOfScenes: 16
+printed: 1827
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Possen von C. F. Solbrig. Zweites Bändchen. Leipzig: Lauffer 1827, S. 1–94"
+    url: https://books.google.com/books?id=0rtqw-_LOEoC&pg=PA1
+comments:
+  - Seitenstück zu Solbrigs [»Die Dorfschule«](solbrig-die-dorfschule).
+cast:
+  - group:
+    - name: M. Ruhbach,
+      role: Rector.
+      gender: m
+    - name: M. Opfermann,
+      role: Conrector.
+      gender: m
+    - name: M. Gütig,
+      role: Tertius.
+      gender: m
+    - name: M. Knurrig,
+      role: Quartus.
+      gender: m
+    - name: M. Schnellauf,
+      role: Quintus.
+      gender: m
+    - name: M. Ziemerfreund,
+      role: Sextus.
+      gender: m
+    role: Lehrer an der Stadtschule.
+  - name: Pathe,
+    role: Bürgermeister und Oberältester des Fleischer-Handwerks.
+    gender: m
+  - name: Schwärmer,
+    role: Stadtschreiber.
+    gender: m
+  - group:
+    - name: Christian Schenker,
+      gender: m
+    - name: David Unruh,
+      gender: m
+    - name: Heinrich Hartmann,
+      gender: m
+    role: redende Primaner.
+  - name: Andere Primaner.
+    isGroup: true
+    gender: m
+  - group:
+    - name: Friedrich Hinhalter,
+      gender: m
+    - name: Egidius v. Adlerschwerdt,
+      gender: m
+    - name: Gottfried Silbermann,
+      gender: m
+    role: redende Secundaner.
+  - name: Andere Secundaner.
+    isGroup: true
+    gender: m
+  - group:
+    - name: Benjamin Sandstreuer,
+      gender: m
+    - name: Herrmann Liebling,
+      gender: m
+    role: redende Tertianer.
+  - name: Andere Tertianer
+    isGroup: true
+    gender: u
+  - group:
+    - name: Ferdinand Schneller,
+      gender: m
+    - name: Leberecht Spender,
+      gender: m
+    role: redende Quartaner.
+  - name: Andere Quartaner.
+    isGroup: true
+    gender: m
+  - group:
+    - name: Johann Wisser,
+      gender: m
+    - name: Otto Schwindler,
+      gender: m
+    - name: Gottlob Schwerlich,
+      gender: m
+    - name: Christoph Schmidt,
+      gender: m
+    role: redende Quintaner.
+  - name: Andere Quintaner.
+    isGroup: true
+    gender: m
+  - group:
+    - name: Traugott Stegreif,
+      gender: m
+    - name: Gottlieb Wenige,
+      gender: m
+    - name: Gottfried Waldmann,
+      gender: m
+    - name: Ludwig Puchert,
+      gender: m
+    role: redende Sextaner.
+  - name: Andere Sextaner.
+    isGroup: true
+    gender: m
+  - name: Achselmann,
+    role: Schulaufwärter.
+    gender: m
+  - name: Väter, Mütter und Vormünder der Schüler.
+    isGroup: true
+    gender: u
+  - name: Honoratioren der Stadt.
+    isGroup: true
+    gender: m
+setting: >
+  Auditorium.
+---
 slug: sonnenfels-das-opfer
 author:
   name: Sonnenfels, Joseph von
@@ -22073,6 +22272,46 @@ cast:
     gender: u
 setting: >
   Die Scene ist auf der Straße vor des Euklio Hause.
+---
+slug: stein-shakespeares-bestimmung
+author:
+  name: Stein, Karl
+  wikidata: Q55193372
+title: Shakespeares Bestimmung
+subtitle: Schauspiel in einem Aufzuge; in freien Versen
+numberOfScenes: 10
+printed: 1820
+premiered: 1819-01-12
+formalia:
+  - Verse
+editions:
+  - title: "Deutsches Theater von Karl Stein. Berlin: Stuhr 1820, S. 49–92"
+    url: https://books.google.com/books?id=UTCnmAp6z_EC&pg=PA49
+keywords:
+  - Theaterbetrieb
+cast:
+  - name: Richard Lucy, Esquire,
+    role: Gutsbesitzer.
+    gender: m
+  - name: Thomas Green,
+    role: Schauspieler aus London.
+    gender: m
+  - name: William Shakespeare,
+    role: Kaufmann.
+    gender: m
+  - name: Sara,
+    role: seine Frau.
+    gender: f
+  - name: Susanna,
+    role: ihre kleine Tochter.
+    gender: f
+  - name: Eine Magd in Shakespeares Hause.
+    gender: f
+  - name: Zwei Gerichtsboten
+    isGroup: true
+    gender: m
+setting: >
+  Ort der Handlung: das Städtchen Stratfort in Warwickshire. Zeit: 1588.
 ---
 slug: steinsberg-ewald-und-seine-verwandten
 author:
@@ -24049,6 +24288,38 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist auf einem obern Saale in Herrn Gutmanns Hause.
+---
+slug: weissenthurn-das-missverstaendniss
+author:
+  name: Weißenthurn, Johanna Franul von
+  wikidata: Q1696932
+title: Das Mißverständniß
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1808
+premiered: 1804-06-06
+formalia:
+  - Prosa
+editions:
+  - title: "Schauspiele von Johanna Franul v. Weissenthurn, gebornen Grünberg, kaiserl. königl. Hofschauspielerin. Dritter Band. Wien: Degen 1810, S. 213–268"
+    url: https://books.google.com/books?id=PM5gAAAAcAAJ&pg=PA213
+cast:
+  - name: Madame Hain,
+    role: Witwe.
+    gender: f
+  - name: Marie,
+    role: ihre Tochter.
+    gender: f
+  - name: Franz Hall,
+    role: Mariens Bräutigam.
+    gender: m
+  - name: Fritz Went.
+    gender: m
+  - name: Wild,
+    role: Waaren-Sensal.
+    gender: m
+setting: >
+  Gemeinschaftliches Zimmer mit Mittel- und Seitenthüren; auf jeder Seite ein Schreibtisch.
 ---
 slug: weissenthurn-der-traum
 author:
