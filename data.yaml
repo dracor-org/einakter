@@ -5815,6 +5815,45 @@ cast:
     isGroup: true
     gender: m
 ---
+slug: bahr-der-glueckliche-morgen
+author:
+  name: Bahr, Robert
+  wikidata: Q94933259
+title: Der glückliche Morgen
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 18
+printed: 1799
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Belitz und Braun 1799"
+    url: https://books.google.com/books?id=VpZIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Madam Sternberg.
+    gender: f
+  - name: Sophie,
+    role: ihre Tochter.
+    gender: f
+  - name: Lindenheim,
+    role: Referendar.
+    gender: m
+  - name: von Holm,
+    role: Justizrath.
+    gender: m
+  - group:
+    - name: Wilhelm,
+      role: 8 Jahr alt
+      gender: m
+    - name: Malchen,
+      role: 6 Jahr alt
+      gender: f
+    role: seine Kinder.
+  - name: Martin,
+    role: Wirth.
+    gender: m
+setting: >
+  v. Holms Wohnung.
+---
 slug: bartsch-sankt-peter-oder-der-arme-maler
 author:
   name: Bartsch, Leopold
@@ -5905,9 +5944,9 @@ premiered: 1843
 formalia:
   - Prosa
 editions:
-  - title: "Gesammmelte Dramatische Werke von Roderich Benedix. Zweiter Band. Leipzig: Weber 1846, S. 275–307"
+  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Zweiter Band. Leipzig: Weber 1846, S. 275–307"
     url: https://books.google.com/books?id=VV86AAAAcAAJ&pg=PA275
-  - title: "Gesammmelte Dramatische Werke von Roderich Benedix. Zweiter Band. Dritte, unveränderte Auflage. Leipzig: Weber 1865, S. 289–320"
+  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Zweiter Band. Dritte, unveränderte Auflage. Leipzig: Weber 1865, S. 289–320"
     url: https://books.google.com/books?id=Ln0FAQAAIAAJ&pg=RA1-PA289
   - title: "Boston: Urbino 1870"
     url: https://books.google.com/books?id=08cOAAAAYAAJ&printsec=frontcover
@@ -5938,7 +5977,7 @@ formalia:
 editions:
   - title: "Als Manuscript gedruckt. Köln 1850"
     url: https://books.google.com/books?id=9BaI1peJ5VoC&printsec=frontcover
-  - title: "Gesammmelte Dramatische Werke von Roderich Benedix. Siebenter Band. Dritte, unveränderte Auflage. Leipzig: Weber 1870, S. 59–96"
+  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Siebenter Band. Dritte, unveränderte Auflage. Leipzig: Weber 1870, S. 59–96"
     url: https://books.google.com/books?id=RdtUAAAAYAAJ&pg=PA59
 cast:
   - name: Alfons Palm,
@@ -6027,9 +6066,9 @@ printed: 1846
 formalia:
   - Prosa
 editions:
-  - title: "Gesammmelte Dramatische Werke von Roderich Benedix. Zweiter Band. Leipzig: Weber 1846, S. 1–66"
+  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Zweiter Band. Leipzig: Weber 1846, S. 1–66"
     url: https://books.google.com/books?id=VV86AAAAcAAJ&pg=PA1
-  - title: "Gesammmelte Dramatische Werke von Roderich Benedix. Zweiter Band. Dritte, unveränderte Auflage. Leipzig: Weber 1865, S. 1–70"
+  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Zweiter Band. Dritte, unveränderte Auflage. Leipzig: Weber 1865, S. 1–70"
     url: https://books.google.com/books?id=Ln0FAQAAIAAJ&pg=RA1-PA1
 comments:
   - "Auch als dreiaktiges »Originallustspiel« ([Wesel: Becker [1843]](https://books.google.com/books?id=3BEGb_RFti0C&printsec=frontcover))."
@@ -6073,6 +6112,44 @@ cast:
     role: in Hirschtödters Diensten.
 setting: >
   Zimmer bei Herrn Hirschtödter. Zwei Seitenthüren, Mittelthüre.
+---
+slug: benedix-eigensinn
+author:
+  name: Benedix, Roderich
+  wikidata: Q87176
+title: Eigensinn
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 6
+created: 1847
+premiered: 1847
+formalia:
+  - Prosa
+editions:
+  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Fünfter Band. Leipzig: Weber 1849, S. 118–150"
+    url: https://books.google.com/books?id=gCxYhq9eqQ4C&pg=PA119
+comments:
+  - Aufführungsbeleg [Wien 10. Dezember 1847](https://books.google.com/books?id=qerTAAAAMAAJ&pg=PA130).
+cast:
+  - name: Ausdorf,
+    role: ein reicher Privatmann.
+    gender: m
+  - name: Katharina,
+    role: seine Frau.
+    gender: f
+  - name: Emma,
+    role: Beider Tochter.
+    gender: f
+  - name: Alfred,
+    role: Emma's Gatte.
+    gender: m
+  - group:
+    - name: Heinrich
+      gender: m
+    - name: Lisbeth
+      gender: f
+    role: in Alfreds Diensten.
+setting: >
+  Zimmer in Alfreds Hause mit Mittelthüre und Seitenthüren. In der Mitte der Bühne ein halbgedeckter Tisch, der so weit zurücksteht, daß der ganze Vorgrund für die Handelnden frei bleibt. Rechts von der Mittelthüre ein zweiter Tisch, auf welchem Gläser, Flaschen, Weißzeug und Alles, was zum Decken einer Tafel nöthig ist. Links vorn ein Nähtischchen und ein Sopha, rechts ein kleiner Tisch mit einer Zeitung.
 ---
 slug: bergobzoomer-der-officier
 author:
@@ -7937,6 +8014,39 @@ cast:
     gender: f
 setting: >
   Die Scene ist 4 Meilen von der Hauptstadt.
+---
+slug: castelli-die-junge-tante
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Die junge Tante
+subtitle: Lustspiel in einem Aufzuge. Nach Melesville
+numberOfScenes: 22
+printed: 1824
+premiered: 1823-05-24
+formalia:
+  - Prosa
+basedOn:
+  - "Mélesville: [»La jeune tante. Opéra comique en un acte«](https://books.google.com/books?id=Fb9oAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1824. Von I. F. Castelli. Neunter Jahrgang. Wien: Wallishausser 1824, S. 77–146"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10313306_00089.html
+cast:
+  - name: Freyherr von Waldheim.
+    gender: m
+  - name: Wilhelmine,
+    role: seine Tochter.
+    gender: f
+  - name: Eduard Hilmer.
+    gender: m
+  - name: Betty,
+    role: Wilhelminens Kammermädchen.
+    gender: f
+  - name: Friedrich,
+    role: Hilmers Reitknecht.
+    gender: m
+setting: >
+  Die Handlung auf dem Schlosse des Freyherrn vor. Ein Salon mit einer Mittel- und zwey Seitenthüren, dann einem Fenster zur Rechten.
 ---
 slug: costenoble-erdbeeren-und-kuesse
 author:
@@ -12149,6 +12259,110 @@ cast:
     gender: m
 setting: >
   Die Scene bleibt unverändert und stellt ein unterirdisches Gewölbe dar, das durch eine von der Decke herabhängende Lampe beleuchtet wird. Im Mittelgrunde steht ein antiker Sarkophag. Hinten führt eine Treppe in die Höhe.
+---
+slug: koch-der-letzte-starkenberg
+author:
+  name: Koch, Karl Wilhelm
+  wikidata: Q59341083
+title: Der letzte Starkenberg
+subtitle: Lustspiel in einem Akte nach Ançelot
+numberOfScenes: 18
+printed: 1839
+premiered: 1840-01-31
+formalia:
+  - Prosa
+basedOn:
+  - "Jacques-François Ancelot und Alexis Decomberousse: [»Le dernier de la famille. Comédie-vaudeville en un acte«](https://books.google.com/books?id=lDDS2XPUGpEC&printsec=frontcover)"
+editions:
+  - title: "F. A. von Kurländers dramatischer Almanach für das Jahr 1839. Fortgesetzt von C. W. Koch. Neun und zwanzigster Jahrgang. Leipzig: Baumgärtner 1839, S. 161–217"
+    url: https://books.google.com/books?id=LDFJAAAAcAAJ&pg=PA161
+comments:
+  - "Kurzbesprechung in [Repertorium der gesammten deutschen Literatur. Neunzehnter Band. Leipzig: Brockhaus 1839, S. 79](https://books.google.com/books?id=3I0CAAAAYAAJ&pg=PA79)."
+  - Aufführung [Hamburg 9. August 1841](https://www.stadttheater.uni-hamburg.de/node/26623).
+cast:
+  - name: Baron v. Felsenthal,
+    role: Vormund.
+    gender: m
+  - name: Gustav's,
+    role: Freiherrn von Starkenberg.
+    gender: m
+  - name: Ehrenfest,
+    role: sein Erzieher.
+    gender: m
+  - name: Elise v. Andlau,
+    role: Gustavs Cousine und Felsenthals Mündel.
+    gender: f
+  - name: Madame Wellen.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Die Handlung spielt auf dem Schlosse Starkenberg. Ein reicher alterthümlicher Saal mit einer Mittel- und Seitenthüren. Rechts steht ein Tisch, ein Divan und ein Stehspiegel.
+---
+slug: koch-der-see-capitain
+author:
+  name: Koch, Karl Wilhelm
+  wikidata: Q59341083
+title: Der See-Capitain
+subtitle: Posse in einem Akte
+numberOfScenes: 23
+printed: 1839
+formalia:
+  - Prosa
+editions:
+  - title: "F. A. von Kurländers dramatischer Almanach für das Jahr 1839. Fortgesetzt von C. W. Koch. Neun und zwanzigster Jahrgang. Leipzig: Baumgärtner 1839, S. 281–336"
+    url: https://books.google.com/books?id=LDFJAAAAcAAJ&pg=PA281
+comments:
+  - "Kurzbesprechung in [Repertorium der gesammten deutschen Literatur. Neunzehnter Band. Leipzig: Brockhaus 1839, S. 79](https://books.google.com/books?id=3I0CAAAAYAAJ&pg=PA79)."
+cast:
+  - name: Weber,
+    role: Gutsbesitzer.
+    gender: m
+  - name: Witwe Eck,
+    role: seine Nichte.
+    gender: f
+  - name: Fritz,
+    role: ihr Vetter.
+    gender: m
+  - name: Sturm,
+    role: Forstmeister.
+    gender: m
+  - name: Franz,
+    role: Webers Bedienter.
+    gender: m
+  - name: Ein Fremder.
+    gender: m
+setting: >
+  Die Handlung spielt auf einem Landgute Webers, nahe bei Bremen. Es ist Morgen. Im Hintergrunde das Schloß mit dem Haupteingange. Zwei Seitenflügel, mit Fenstern und Thüren versehen, springen etwas vor. Bäume und exotisches Gesträuch umschließt das Ganze.
+---
+slug: koch-die-seiltaenzerinn
+author:
+  name: Koch, Karl Wilhelm
+  wikidata: Q59341083
+title: Die Seiltänzerinn
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 10
+printed: 1839
+formalia:
+  - Prosa
+editions:
+  - title: "F. A. von Kurländers dramatischer Almanach für das Jahr 1839. Fortgesetzt von C. W. Koch. Neun und zwanzigster Jahrgang. Leipzig: Baumgärtner 1839, S. 1–51"
+    url: https://books.google.com/books?id=LDFJAAAAcAAJ&pg=PA1
+cast:
+  - name: Baron Thorn.
+    gender: m
+  - name: Balthasar,
+    role: sein Kammerdiener.
+    gender: m
+  - name: Spirichello.
+    gender: m
+  - name: Adele.
+    gender: f
+  - name: Mehrere Bediente. Zuschauer.
+    isGroup: true
+    gender: u
+setting: >
+  Garten mit Statuen und exotischen Gewächsen. Rechts der Eingang in ein Haus. Links ein Pavillon. Im Hintergrunde die Gartenmauer mit einem Gitterthor. Außer derselben erblickt man den Eingang zu einem Seiltänzercircus.
 ---
 slug: koenig-die-verkehrte-welt
 author:
@@ -17064,6 +17278,38 @@ cast:
 setting: >
   Die Scene ist in dem Landgute des Herrn Geronte.
 ---
+slug: lebrun-brief-und-antwort
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Brief und Antwort
+subtitle: Lustspiel in Einem Act (Frei, nach einer französischen Oper bearbeitet)
+numberOfScenes: 14
+printed: 1821
+premiered: 1820-03-17
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Land. Neunzehnter Jahrgang. Leipzig: Kummer 1821, S. 109–200"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044933_00123.html
+cast:
+  - name: Kapitain Holst.
+    gender: m
+  - name: Fritz,
+    role: sein Neffe.
+    gender: m
+  - name: Luise,
+    role: Fritzens Frau.
+    gender: f
+  - name: Lucas,
+    role: Kastellan auf dem Landschlosse des Kapitains.
+    gender: m
+  - name: Marthe,
+    role: dessen Frau, Fritzens Milchschwester.
+    gender: f
+setting: >
+  Scene auf dem Landschlosse des Kapitains. Gothischer Saal. Rechts und links Kabinette mit ganzen Glasthüren (en face des Publikums). Links ein Schreibepult. Mittelthüre. Rechts ein Fenster.
+---
 slug: lebrun-die-fledermaeuse-oder-klug-soll-leben
 author:
   name: Lebrun, Karl August
@@ -18850,6 +19096,35 @@ cast:
     gender: m
 setting: >
   Die Handlung geht vor in dem Schlosse des Herrn v. Hammelwitz.
+---
+slug: peucer-wandrer-und-paechterin
+author:
+  name: Peucer, Heinrich Karl Friedrich
+  wikidata: Q60845657
+title: Wandrer und Pächterin
+subtitle: Schauspiel in Einem Act, in Jamben, nach Göthe
+numberOfScenes: 6
+printed: 1821
+premiered: 1815-10-16
+formalia:
+  - Blankvers
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Land. Neunzehnter Jahrgang. Leipzig: Kummer 1821, S. 1–50"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044933_00013.html
+comments:
+  - "Nach Goethes Ballade [»Wanderer und Pächterin«](http://www.zeno.org/nid/20004840208)."
+  - "[Theaterzettel Weimar 16. Oktober 1815.](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00040360/003899.tif)"
+cast:
+  - name: Wandrer.
+    gender: m
+  - name: Pächterin.
+    gender: f
+  - name: Ihr Bruder.
+    gender: m
+  - name: Bedienter.
+    gender: m
+setting: >
+  Ländliche Gegend. Rechts die Pachtwohnung; links Gebüsch; in der Mitte ein Baum. Pächterin allein; ein Körbchen mit Gemüs oder Obst neben ihr; sie ist beschäftigt, davon ein Gericht zu bereiten.
 ---
 slug: pfeffel-der-einsiedler
 author:
@@ -20806,6 +21081,37 @@ cast:
 setting: >
   Der Schauplatz ist in Lucindens Zimmer.
 ---
+slug: schink-selbstopfer
+author:
+  name: Schink, Johann Friedrich
+  wikidata: Q15873118
+title: Selbstopfer
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1810
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Scherflein, ein Taschenbuch für die Bühne. Von Johann Friedrich Schink. Lüneburg: Herold und Wahlstab 1810, S. 271–351"
+    url: https://books.google.com/books?id=NoVlAAAAcAAJ&pg=PA271
+cast:
+  - name: Frau von Wertnach.
+    gender: f
+  - name: Cäcilie Zelten,
+    role: ihre Gesellschaftlerin und Freundin.
+    gender: f
+  - name: Der Fürst von ***, unter dem Namen, Graf von Falkenberg.
+    gender: m
+  - name: Moriz von Gehler.
+    gender: m
+  - name: Falbel,
+    role: Kammerdiener der Frau von Wertnach.
+    gender: m
+  - name: Ein Bedienter des Fürsten.
+    gender: m
+setting: >
+  Szene, Landsiz der Frau von Wertnach, in einer einsamen Gegend von Böhmen, nah' an der Sächsischen Gränze. (Garten des Schlosses. In der Mitte eine breitschattige Linde, unter ihren Zweigen ein Tisch und Gartenstühle, Seitenalleen, die zu diesem Plazze führen.)
+---
 slug: schlegel-anne-dore-oder-die-einquartierung
 author:
   name: Schlegel, Johann Adolf
@@ -22610,6 +22916,40 @@ cast:
     gender: u
 setting: >
   Die Scene ist auf der Straße vor des Euklio Hause.
+---
+slug: stein-der-wunderring
+author:
+  name: Stein, Karl
+  wikidata: Q55193372
+title: Der Wunderring
+subtitle: Lustspiel in Einem Act
+numberOfScenes: 11
+printed: 1821
+formalia:
+  - Alexandriner
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Land. Neunzehnter Jahrgang. Leipzig: Kummer 1821, S. 51–108"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044933_00063.html
+comments:
+  - Autorangabe [laut Goedeke](https://books.google.com/books?id=q3oTAAAAQAAJ&pg=PA946).
+cast:
+  - name: Herr Kloß,
+    role: Weinhändler.
+    gender: m
+  - name: Wilhelmine,
+    role: seine Frau.
+    gender: f
+  - name: Doctor Hell,
+    role: sein Oheim, Regiments-Arzt.
+    gender: m
+  - name: Stensch,
+    role: Gewürzhändler.
+    gender: m
+  - name: Fritz,
+    role: Kellner.
+    gender: m
+setting: >
+  Zimmer bei Kloß.
 ---
 slug: stein-shakespeares-bestimmung
 author:
