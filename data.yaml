@@ -4892,7 +4892,7 @@ printed: 1757
 formalia:
   - Prosa
 basedOn:
-  - "Jean-François Regnard: [»La critique du légataire«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_LEGATAIRECRITIQUE.xml)"
+  - "Jean-François Regnard: [»La critique du légataire. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_LEGATAIRECRITIQUE.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 18, S. 419–420
 editions:
@@ -8048,6 +8048,35 @@ cast:
 setting: >
   Die Handlung auf dem Schlosse des Freyherrn vor. Ein Salon mit einer Mittel- und zwey Seitenthüren, dann einem Fenster zur Rechten.
 ---
+slug: contessa-ich-bin-meine-schwester
+author:
+  name: Contessa, Karl Wilhelm
+  wikidata: Q96771
+title: Ich bin meine Schwester
+subtitle: Lustspiel in Einem Act (Die Idee ist einem kleinen französischen Lustspiel von St. Foix entlehnt.)
+numberOfScenes: 14
+printed: 1821
+premiered: 1820
+formalia:
+  - Verse
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Julie ou l'heureuse épreuve. Comédie en un acte et en prose«](https://books.google.com/books?id=4H44xgEACAAJ&printsec=frontcover)"
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Land. Neunzehnter Jahrgang. Leipzig: Kummer 1821, S. 201–244"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044933_00217.html
+cast:
+  - name: Rosalie.
+    gender: f
+  - name: Ihr Oheim.
+    gender: m
+  - name: Thalheim.
+    gender: m
+  - name: Hochberg.
+    gender: m
+  - name: Lisette,
+    role: Rosaliens Kammerjungfer.
+    gender: f
+---
 slug: costenoble-erdbeeren-und-kuesse
 author:
   name: Costenoble, Karl Ludwig
@@ -9908,6 +9937,9 @@ editions:
     url: https://books.google.com/books?id=vr9hAAAAcAAJ&pg=PA1
 comments:
   - Erster Teil von Grillparzers Dramentriologie »Das goldene Vließ«.
+ids:
+  dracor: ger000513
+  wikidata: Q104443343
 cast:
   - name: Aietes,
     role: König von Kolchis.
@@ -11165,6 +11197,9 @@ editions:
     url: https://books.google.com/books?id=a51JAAAAMAAJ&pg=PA1
   - title: "Ernst von Houwalds sämmtliche Werke. Erster Band. Leipzig: Göschen 1851, S. 1–22"
     url: https://books.google.com/books?id=vHYHAAAAQAAJ&pg=PA1
+ids:
+  dracor: ger000519
+  wikidata: Q104552092
 cast:
   - name: Conrad v. Ulstrade,
     role: Senator und Patricier einer Reichsstadt.
@@ -11177,7 +11212,7 @@ cast:
     gender: m
   - name: Ein Officier und Wache.
     isGroup: true
-    gender: u
+    gender: m
 setting: >
   Der Schauplatz ist in der Wohnung des Todtengräbers.
 ---
@@ -12429,9 +12464,59 @@ cast:
 setting: >
   Der Schauplatz zeiget eine grüne Ebene, woselbst man allerley unbekannte Vögel, fremde Bäume und seltsame Thiere sieht.
 ---
+slug: koerner-das-fischermaedchen-oder-hass-und-liebe
+author:
+  name: Körner, Theodor
+  wikidata: Q62344
+title: Das Fischermädchen, oder Haß und Liebe
+subtitle: Lyrisches Drama in einer Abtheilung
+numberOfScenes: 12
+created: 1811
+premiered: 1812
+formalia:
+  -  Verse
+editions:
+  - title: "[Ohne Ort: ohne Jahr]"
+    url: https://books.google.com/books?id=wcRI5mAIVe8C&printsec=frontcover
+  - title: "Theodor Körner's sämmtliche Werke. Im Auftrage der Mutter des Dichters herausgegeben und mit einem Vorworte begleitet von Karl Streckfuß. Dritte rechtmäßige Gesammt-Ausgabe in Einem Bande. Berlin: Nicolai; Wien: Gerold 1838, S. 280–290"
+    url: https://books.google.com/books?id=qs8WAAAAQAAJ&pg=PA280
+  - title: "[Ohne Ort: ca. 1860]"
+    url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10577448-7
+  - title: "Theodor Körner's sämmtliche Werke. Erste illustrirte Ausgabe. Zweiter Band. Dritte Auflage. Berlin: Grote 1877, S. 208–224"
+    url: https://books.google.com/books?id=8wPiAAAAMAAJ&pg=PA208
+comments:
+  - "»Dieses Singspiel ist nach der Composition des bey dem Königl. Seehandlungs-Institut in Berlin angestellten Herrn Hofraths J. P. Schmidt zu Berlin, Breslau, Dresden und Leipzig aufgeführt worden. Wer die Partitur dieser Musik zu haben wünscht, hat sich an den Componisten zu wenden.« ([Notiz unter dem Personenverzeichnis](https://books.google.com/books?id=wcRI5mAIVe8C&pg=PA114))"
+cast:
+  - name: Gregorio Galvani,
+    role: ein vornehmer Genueser.
+    gender: m
+  - name: Fernando,
+    role: sein Sohn.
+    gender: m
+  - name: Anselmo Lancia,
+    role: ein alter Fischer.
+    gender: m
+  - name: Florentine,
+    role: seine Tochter.
+    gender: f
+  - name: Franzesko,
+    role: ein junger Fischer.
+    gender: m
+  - name: Balandrino,
+    role: ein genuesischer Hauptmann.
+    gender: m
+  - name: Genuesische Soldaten.
+    isGroup: true
+    gender: m
+  - name: Fischer und Fischerinnen.
+    isGroup: true
+    gender: u
+setting: >
+  Eine Fischerhütte.
+---
 slug: koerner-der-gruene-domino
 author:
-  name: Körner, Karl Theodor
+  name: Körner, Theodor
   wikidata: Q62344
 title: Der grüne Domino
 subtitle: Ein Lustspiel in Alexandrinern in einem Aufzuge
@@ -12458,6 +12543,149 @@ cast:
     gender: f
 setting: >
   Ein Zimmer in einem Haupteingange und Thüren auf beyden Seiten.
+---
+slug: koerner-der-nachtwaechter
+author:
+  name: Körner, Theodor
+  wikidata: Q62344
+title: Der Nachtwächter
+subtitle: Eine Posse in Versen und einem Aufzuge
+numberOfScenes: 12
+created: 1812
+printed: 1813
+premiered: 1812
+formalia:
+  - Knittelverse
+editions:
+  - title: "Dramatische Beyträge von Theodor Körner. Erster Band. Wien: Wallishausser 1813, S. 143–184"
+    url: https://books.google.com/books?id=8RAzAQAAMAAJ&pg=PA143
+  - title: "Theodor Körner's sämmtliche Werke. Im Auftrage der Mutter des Dichters herausgegeben und mit einem Vorworte begleitet von Karl Streckfuß. Dritte rechtmäßige Gesammt-Ausgabe in Einem Bande. Berlin: Nicolai; Wien: Gerold 1838, S. 245–256"
+    url: https://books.google.com/books?id=qs8WAAAAQAAJ&pg=PA245
+  - title: "Theodor Körner's sämmtliche Werke. Erste illustrirte Ausgabe. Zweiter Band. Dritte Auflage. Berlin: Grote 1877, S. 157–175"
+    url: https://books.google.com/books?id=8wPiAAAAMAAJ&pg=PA157
+comments:
+  - Geht auf ein persönliches Erlebnis in Leipzig zurück (vgl. [Brief vom 8. Januar 1812](https://books.google.com/books?id=OcA6AAAAcAAJ&pg=PA218)).
+cast:
+  - name: Tobias Schwalbe,
+    role: Nachtwächter in einer Provincial Stadt.
+    gender: m
+  - name: Röschen,
+    role: seine Muhme.
+    gender: f
+  - group:
+    - name: Ernst Wachtel,
+      gender: m
+    - name: Karl Zeisig,
+      gender: m
+    role: Studenten.
+  - name: Des Nachtwächters Nachbarn, unter welchen der Bürgermeister.
+    isGroup: true
+    gender: u
+setting: >
+  Das Theater stellt den Markt einer kleinen Stadt vor. In der Mitte ganz im Vordergrunde ein kleines Brunnenhäuschen. Links des Nachtwächters, rechts des Bürgermeisters Haus.
+---
+slug: koerner-der-vetter-aus-bremen
+author:
+  name: Körner, Theodor
+  wikidata: Q62344
+title: Der Vetter aus Bremen
+subtitle: Ein Spiel in Versen und einem Act
+numberOfScenes: 12
+created: 1811
+premiered: 1812-08-10
+formalia:
+  -  Verse
+editions:
+  - title: "Dramatische Beyträge von Theodor Körner. Zweyter Band. Original-Ausgabe. Wien: Wallishausser 1814, S. 19–51"
+    url: https://books.google.com/books?id=0s6LjB4UBo0C&pg=PA19
+  - title: "Theodor Körners sämmtliche Werke. Zweyter Band. Dramatische Beyträge. Zweyter Theil. Carlsruhe: Bureau der deutschen Classiker 1828, S. 21–52"
+    url: https://books.google.com/books?id=Irw9AAAAYAAJ&pg=PA21
+  - title: "Theodor Körners dramatische Werke. Reutlingen: Fleischhauer und Spohn 1836, S. 421–444"
+    url: https://books.google.com/books?id=i449AAAAYAAJ&pg=PA421
+  - title: "Theodor Körner's sämmtliche Werke. Im Auftrage der Mutter des Dichters herausgegeben und mit einem Vorworte begleitet von Karl Streckfuß. Dritte rechtmäßige Gesammt-Ausgabe in Einem Bande. Berlin: Nicolai; Wien: Gerold 1838, S. 257–265"
+    url: https://books.google.com/books?id=qs8WAAAAQAAJ&pg=PA257
+  - title: "Theodor Körner's sämmtliche Werke. Erste illustrirte Ausgabe. Zweiter Band. Dritte Auflage. Berlin: Grote 1877, S. 175–190"
+    url: https://books.google.com/books?id=8wPiAAAAMAAJ&pg=PA175
+comments:
+  - "Auch unter dem Titel »Der Vetter aus Bremen oder: Die drei Schulmeister. Lustspiel in einem Aufzuge« ([Theaterzettel Weimar 1816](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00040187/003964.tif))."
+  - Auch mit dem Untertitel [»Lustspiel in 1 Akt von Th. Körner. Für das Kindertheater bearbeitet«](https://skd-online-collection.skd.museum/Details/Index/476128) (1875).
+cast:
+  - name: Pachter Veit.
+    gender: m
+  - name: Gretchen,
+    role: seine Tochter.
+    gender: f
+  - name: Franz,
+    role: ein junger Bauer.
+    gender: m
+setting: >
+  Platz vor Veits Hause.
+---
+slug: koerner-die-braut
+author:
+  name: Körner, Theodor
+  wikidata: Q62344
+title: Die Braut
+subtitle: Ein Lustspiel in Alexandrinern in einem Aufzuge
+numberOfScenes: 9
+created: 1811
+printed: 1813
+premiered: 1812-01-17
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Beyträge von Theodor Körner. Erster Band. Wien: Wallishausser 1813, S. 65–102"
+    url: https://books.google.com/books?id=8RAzAQAAMAAJ&pg=PA65
+  - title: "Theodor Körners dramatische Werke. Reutlingen: Fleischhauer und Spohn 1836, S. 301–324"
+    url: https://books.google.com/books?id=i449AAAAYAAJ&pg=PA301
+  - title: "Theodor Körner's sämmtliche Werke. Im Auftrage der Mutter des Dichters herausgegeben und mit einem Vorworte begleitet von Karl Streckfuß. Dritte rechtmäßige Gesammt-Ausgabe in Einem Bande. Berlin: Nicolai; Wien: Gerold 1838, S. 228–235"
+    url: https://books.google.com/books?id=qs8WAAAAQAAJ&pg=PA228
+  - title: "Theodor Körner's sämmtliche Werke. Erste illustrirte Ausgabe. Zweiter Band. Dritte Auflage. Berlin: Grote 1877, S. 128–141"
+    url: https://books.google.com/books?id=8wPiAAAAMAAJ&pg=PA128
+ids:
+  dracor: ger000520
+  wikidata: Q104585885
+cast:
+  - name: Graf Holm,
+    role: der Vater.
+    gender: m
+  - name: Graf Holm,
+    role: der Sohn.
+    gender: m
+setting: >
+  Ein Zimmer in einem Gasthause. Rechts zwey und links eine Thür. Im Hintergrunde der Haupteingang.
+---
+slug: koerner-die-gouvernante
+author:
+  name: Körner, Theodor
+  wikidata: Q62344
+title: Die Gouvernante
+subtitle: Eine Posse in einem Aufzuge
+numberOfScenes: 8
+created: 1812
+printed: 1814
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Beyträge von Theodor Körner. Zweyter Band. Original-Ausgabe. Wien: Wallishausser 1814, S. 169–216"
+    url: https://books.google.com/books?id=0s6LjB4UBo0C&pg=PA169
+  - title: "Theodor Körners sämmtliche Werke. Zweyter Band. Dramatische Beyträge. Zweyter Theil. Carlsruhe: Bureau der deutschen Classiker 1828, S. 165–204"
+    url: https://books.google.com/books?id=Irw9AAAAYAAJ&pg=PA165
+  - title: "Theodor Körners dramatische Werke. Reutlingen: Fleischhauer und Spohn 1836, S. 505–532"
+    url: https://books.google.com/books?id=i449AAAAYAAJ&pg=PA505
+  - title: "Theodor Körner's sämmtliche Werke. Im Auftrage der Mutter des Dichters herausgegeben und mit einem Vorworte begleitet von Karl Streckfuß. Dritte rechtmäßige Gesammt-Ausgabe in Einem Bande. Berlin: Nicolai; Wien: Gerold 1838, S. 266–279"
+    url: https://books.google.com/books?id=qs8WAAAAQAAJ&pg=PA266
+  - title: "Theodor Körner's sämmtliche Werke. Erste illustrirte Ausgabe. Zweiter Band. Dritte Auflage. Berlin: Grote 1877, S. 191–207"
+    url: https://books.google.com/books?id=8wPiAAAAMAAJ&pg=PA191
+cast:
+  - name: Die Gouvernante.
+    gender: f
+  - name: Franziska.
+    gender: f
+  - name: Luise.
+    gender: f
+setting: >
+  Ein Zimmer mit einer Mittelthüre und zwey Seitenthüren. Rechts und links ein Fenster.
 ---
 slug: koerner-die-suehne
 author:
