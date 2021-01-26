@@ -6818,9 +6818,178 @@ cast:
 setting: >
   Der Schauplatz ist in einer Preussischen Stadt. Die Handlung gehet um vier Uhr Nachmittags an, und dauert bis in die Nacht.
 ---
+slug: bluemner-cephise-oder-der-sieg-des-herzens
+author:
+  name: Blümner, Heinrich
+  wikidata: Q1596769
+title: Cephise oder Der Sieg des Herzens
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 21
+printed: 1808
+formalia:
+  - Prosa
+basedOn:
+  - "Benoît-Joseph Marsollier: [»Céphise, ou l'Erreur de l'esprit. Comédie en un acte et en prose«](https://books.google.com/books?id=VClMAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Familientheater nach neuen französischen Lieblingsstücken. Erstes Bändchen. Leipzig: Göschen 1808, S. 125–195"
+    url: https://books.google.com/books?id=lJ4-AAAAYAAJ&pg=RA1-PA125
+comments:
+  - "Besprechungen in: [Zeitung für die elegante Welt. Nr. 89 (3. Juni 1808), Sp. 711](https://books.google.com/books?id=94hEAAAAcAAJ&pg=PA711), und [Morgenblatt für gebildete Stände. Nro. 254 (22. Oktober 1808), S. 1013](https://books.google.com/books?id=P6YcAQAAMAAJ&pg=PA1013)."
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Cephise.
+    gender: f
+  - name: Der Baron,
+    role: ihr Vater.
+    gender: m
+  - name: Solange.
+    gender: m
+  - name: Der Chevalier.
+    gender: m
+  - name: Rosa,
+    role: Cephisens Kammermädchen.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Die Scene ist ein Zimmer in Cephisens Wohnung. Auf der einen Seite ein Tisch mit Schreibzeug, auf der andern ein Stickrahmen.
+---
+slug: bluemner-die-beiden-lustspiel-dichter
+author:
+  name: Blümner, Heinrich
+  wikidata: Q1596769
+title: Die beiden Lustspiel-Dichter
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1809
+formalia:
+  - Prosa
+basedOn:
+  - "Charles-Guillaume Étienne: [»Bruis et Palaprat. Comédie en un acte et en vers«](https://books.google.com/books?id=MtBiZ4hHiacC&printsec=frontcover)"
+editions:
+  - title: "Familientheater nach neuen französischen Lieblingsstücken. Zweites Bändchen. Leipzig: Göschen 1809, S. 1–54"
+    url: https://books.google.com/books?id=dKE-AAAAYAAJ&pg=PA1
+cast:
+  - group:
+    - name: Bruis.
+      gender: m
+    - name: Palaprat.
+      gender: m
+    role: "Zwei französische Dichter, Verfasser des Lustspiels: le Grondeur."
+  - name: Der Herzog von Vendome.
+    gender: m
+  - name: Demoiselle Beauval,
+    role: Schauspielerin.
+    gender: f
+  - name: Greif,
+    role: Gerichtsbote.
+    gender: m
+  - name: Ein Gerichtsdiener.
+    gender: m
+setting: >
+  Das Stück spielt in Paris. Schauplatz: ein kleines Zimmer mit schlechten Meubeln. Auf einem Schreibpult stehen einige Büsten.
+---
+slug: bluemner-die-spanische-wand
+author:
+  name: Blümner, Heinrich
+  wikidata: Q1596769
+title: Die spanische Wand
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1809
+premiered: 1809-06-07
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène de Planard: [»Le paravent. Comédie en un acte et en vers«](https://books.google.com/books?id=E_dRWXM37hYC&printsec=frontcover)"
+editions:
+  - title: "Familientheater nach neuen französischen Lieblingsstücken. Zweites Bändchen. Leipzig: Göschen 1809, S. 119–156"
+    url: https://books.google.com/books?id=dKE-AAAAYAAJ&pg=PA119
+cast:
+  - name: Der Prinz.
+    gender: m
+  - name: Don Alonzo,
+    role: sein Günstling.
+    gender: m
+  - name: Leon,
+    role: Page des Prinzen.
+    gender: m
+  - name: Donna Eleonora.
+    gender: f
+  - name: Beatrix,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Ein Kammerdiener des Prinzen.
+    gender: m
+setting: >
+  Das Stück spielt in Madrid. Schauplatz: ein Vorsaal, der zum Kabinet des Prinzen führt. Rechts eine Seitenthüre, links eine spanische Wand.
+---
+slug: bluemner-eitle-muehe-der-verliebten
+author:
+  name: Blümner, Heinrich
+  wikidata: Q1596769
+title: Eitle Mühe der Verliebten
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1808
+premiered: 1807-11-07
+formalia:
+  - Prosa
+basedOn:
+  - "Louis François Marie Bellin de La Liborlière: [»La cloison, ou Beaucoup de peine pour rien. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/LIBORLIERE_CLOISON.xml)"
+editions:
+  - title: "Familientheater nach neuen französischen Lieblingsstücken. Erstes Bändchen. Leipzig: Göschen 1808, S. 1–58"
+    url: https://books.google.com/books?id=lJ4-AAAAYAAJ&pg=PA1
+comments:
+  - UA in Weimar ([Theaterzettel](https://staatsarchive.thulb.uni-jena.de/receive/ThHStAW_performance_00020576)).
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Herr Dürivage,
+    role: funfzig Jahr alt. Moderne Kleidung.
+    gender: m
+  - name: Cecilie,
+    role: seine Nichte; sechzehn Jahr alt, elegant und nach ihrem Alter gekleidet.
+    gender: f
+  - name: Dorsay,
+    role: achtzehn Jahr alt. Anfangs im Oberrock, Pantalons, Frisur  à la Titus, dann in schwarzem Frack, Unterkleidern und Strümpfen, Schnallen in den Schuhen, dreieckigem Hute und gepudert.
+    gender: m
+setting: >
+  Das Stück spielt in Paris. Der Schauplatz ist ein Saal, mit einer Thür im Hintergrunde, und einer in der zweiten Kulisse, dem Zuschauer zur rechten. Links eine Wand; rechts, im Vordergrunde, steht ein Tisch mit Schreibzeug. Im Hintergrunde, auf einem Tische, liegt eine Guitarre.
+---
+slug: bluemner-hass-den-frauen
+author:
+  name: Blümner, Heinrich
+  wikidata: Q1596769
+title: Haß den Frauen!
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1809
+premiered: 1809-08-15
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Nicolas Bouilly: [»Haine aux femmes. Comédie en un acte, mêlée de vaudevilles«](https://books.google.com/books?id=-iBaAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Familientheater nach neuen französischen Lieblingsstücken. Zweites Bändchen. Leipzig: Göschen 1809, S. 55–118"
+    url: https://books.google.com/books?id=dKE-AAAAYAAJ&pg=PA55
+cast:
+  - name: von Alwill,
+    role: Rittmeister außer Dienst.
+    gender: m
+  - name: Baronin von Rosenberg,
+    role: Wittwe.
+    gender: f
+  - name: Lukas,
+    role: des Rittmeisters Gärtner.
+    gender: m
+setting: >
+  Schauplatz: ein Garten. Dem Zuschauer zur Linken sieht man in der Kulisse den Eingang zu einem Pavillon. Weiter vor eine Statue des Amor, der einen Schmetterling mit der Fackel quält; auf dem Gestell mit der im ersten Auftritt erwähnten Inschrift. Vor der Statue eine Rasenbank. Zur rechten ein Gestell mit Blumentöpfen. Daneben Gieskannen und anderes Gartengeräth. Den Hintergrund schließt eine Mauer mit Spalierbäumen bedeckt, durch welche eine grüne Gartenthür auf das Feld führt.
+---
 slug: bluemner-herr-temperlein-oder-wie-die-zeit-vergeht
 author:
-  name: Heinrich, Blümner
+  name: Blümner, Heinrich
   wikidata: Q1596769
 title: Herr Temperlein oder Wie die Zeit vergeht!
 subtitle: Lustspiel in einem Aufzuge
@@ -8488,10 +8657,13 @@ comments:
 keywords:
   - Eheanbahnung
   - Tiere
+ids:
+  dracor: ger000524
+  wikidata: Q105075429
 cast:
   - name: Baron Adolph.
     gender: m
-  - name: Marie.
+  - name: Marie,
     role: seine Tochter.
     gender: f
   - name: Junker Felden.
@@ -8512,7 +8684,7 @@ cast:
   - name: Ein Jäger.
     gender: m
 setting: >
-  Die Handlung geht vor in dem Schloße des B. Adolphs und der Gegend derselben.
+  Die Handlung geht vor in dem Schloße des B. Adolphs und der Gegend desselben.
 ---
 slug: ekhof-der-liebhaber-seiner-frau-oder-die-neben-buhlerin-von-sich-selbst
 author:
@@ -11227,7 +11399,7 @@ created: 1818
 printed: 1821
 premiered: 1818-08-26
 formalia:
-  - Blankvers
+  - Verse
 editions:
   - title: "Der Leuchtthurm. Die Heimkehr. Zwei Trauerspiele von Ernst von Houwald. Leipzig. Göschen 1821, S. 117–202"
     url: https://books.google.com/books?id=My0WAAAAYAAJ&pg=PA117
@@ -11252,7 +11424,7 @@ cast:
   - name: Heinrich Dorner.
     gender: m
 setting: >
-  Zimmer beim Förster Wolfram. Im Hintergrunde ein altes Gemählde, das einen Mann in militairischer Kleidung vorstellt. Ein Großvaterstuhl. Eine Wanduhr. Maria sitzt an einem Tische, auf welchem Blumen liegen, und windet einen Kranz. Heinrich hüpft hinein.
+  Zimmer beim Förster Wolfram. Im Hintergrunde ein altes Gemählde, das einen Mann in militairischer Kleidung vorstellt. Ein Großvaterstuhl. Eine Wanduhr. Maria sitzt an einem Tische, auf welchem Blumen liegen, und windet einen Kranz. Heinrich hüpft herein.
 ---
 slug: huber-das-doerfchen-der-schwarzen-in-amerika
 author:
