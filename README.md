@@ -42,3 +42,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
+
+### `yarn json`
+
+Transforms [`data.yaml`](data.yaml) into JSON creating file `data.json`. This
+script is mostly used behind the scenes for `yarn start` and `yarn build` but
+can come in handy when a fresh JSON version of the current data is needed.
