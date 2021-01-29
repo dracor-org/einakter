@@ -5931,6 +5931,39 @@ cast:
 setting: >
   Hütte des Paria.
 ---
+slug: belani-carls-xii-erste-und-letzte-liebe
+author:
+  name: Häberlin, Karl Ludwig
+  pseudonym: Belani, H. E. R.
+  wikidata: Q1732209
+title: Carl's XII erste und letzte Liebe
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1842
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Einundzwanzigster Jahrgang, für 1842. Berlin: Vereins-Buchhandlung 1842, S. 301–323"
+    url: https://books.google.com/books?id=qHNIAQAAMAAJ&pg=PA301
+cast:
+  - name: Carl XII,
+    role: König von Schweden (19 Jahr alt), unter dem Incognito eines Grafen von Erichson.
+    gender: m
+  - name: Graf Piper,
+    role: dessen erster Minister.
+    gender: m
+  - name: Christine,
+    role: dessen Tochter (16 Jahr alt).
+    gender: f
+  - name: Graf Adolph von Hessen
+    role: (18 Jahr alt).
+    gender: m
+  - name: Diener.
+    isGroup: true
+    gender: u
+setting: >
+  Handlung: zu Stockholm, im Palais des Grafen Piper, im Jahre 1701.
+---
 slug: benedix-der-weiberfeind
 author:
   name: Benedix, Roderich
@@ -8157,6 +8190,45 @@ cast:
 setting: >
   Die Handlung geschieht auf dem Landgute des Herrn von Lieven.
 ---
+slug: castelli-der-kuss-durch-einen-wechsel
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Der Kuß durch einen Wechsel
+subtitle: Posse in einem Akt, nach Scribe
+numberOfScenes: 17
+printed: 1826
+premiered: 1824-08-26
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe: [»Le baiser au porteur. Comédie-vaudeville en un acte«](https://books.google.com/books?id=d0c6AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1826. Von F. I. Castelli. Eilfter Jahrgang. Wien: Wallishausser [1826], S. 79–132"
+    url: https://books.google.com/books?id=RwD2giW-JGcC&pg=PA79
+comments:
+  - Auch unter dem Titel »Der Kuß durch Anweisung«.
+  - "Besprechung in [Morgenblatt für gebildete Stände. No. 242. Freitag, 8. October 1824, S. 968](https://books.google.com/books?id=GO8cAQAAMAAJ&pg=PA968)."
+cast:
+  - name: Frau von Hellwald.
+    gender: f
+  - name: Theodore,
+    role: ihre Nichte.
+    gender: f
+  - name: Max Bern.
+    gender: m
+  - name: Philipp,
+    role: sein Bedienter.
+    gender: m
+  - name: Martin Hips,
+    role: Pächter eines Meierhofes der Frau von Hellwald.
+    gender: m
+  - name: Hanne,
+    role: sein Weib.
+    gender: f
+setting: >
+  Die Scene ist auf dem Lande. (Die Bühne stellt ein Dorf vor.)
+---
 slug: castelli-die-beyden-duennen
 author:
   name: Castelli, Ignaz Franz
@@ -8216,6 +8288,77 @@ cast:
     gender: m
 setting: >
   Die Handlung auf dem Schlosse des Freyherrn vor. Ein Salon mit einer Mittel- und zwey Seitenthüren, dann einem Fenster zur Rechten.
+---
+slug: castelli-eheliche-strafe
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Eheliche Strafe
+subtitle: Lustspiel in einem Akt, in freyen Versen
+numberOfScenes: 28
+printed: 1826
+premiered: 1824-08-26
+formalia:
+  - Verse
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1826. Von F. I. Castelli. Eilfter Jahrgang. Wien: Wallishausser [1826], S. 1–78"
+    url: https://books.google.com/books?id=RwD2giW-JGcC&pg=PA1
+cast:
+  - name: Baron Dorn.
+    gender: m
+  - name: Friederike,
+    role: seine Gemahlinn.
+    gender: f
+  - name: Adele,
+    role: beyder Tochter, (15 Jahre alt.)
+    gender: f
+  - name: Ritter von Lauben,
+    role: Major.
+    gender: m
+  - name: Franz,
+    role: Bedienter des Barons.
+    gender: m
+  - name: Susanne,
+    role: Kammermädchen der Baroninn.
+    gender: f
+setting: >
+  Die Handlung spielt in der Hauptstadt, im Hause des Barons. (Die Bühne stellt einen sehr elegant meublirten Salon vor: Zur Rechten des Zusehers steht ein Sekretair, zur Linken ein Stickrahmen. Eine Thür zur Linken führt in der Baroninn, eine zur Rechten in Adelens Zimmer. Zwey Mittelthüren, wovon eine den Haupteingang, die andere den Eintritt in des Barons Gemach bildet.)
+---
+slug: castelli-urika-die-negerinn
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Urika, die Negerinn
+subtitle: Drama in einem Akt, nach dem Französischen
+numberOfScenes: 16
+printed: 1826
+premiered: 1824-08-26
+formalia:
+  - Prosa
+basedOn:
+  - "Mélesville und Pierre Carmouche: [»Ourika, ou La petite négresse. Drame en un acte, mêlé de couplets, imité du roman«]( https://books.google.com/books?id=B4NLAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1826. Von F. I. Castelli. Eilfter Jahrgang. Wien: Wallishausser [1826], S. 133–178"
+    url: https://books.google.com/books?id=RwD2giW-JGcC&pg=PA133
+comments:
+  - "Besprechung in [Flora. Ein Unterhaltungs-Blatt. München, Dienstags den 8. März 1825, S. 153](https://books.google.com/books?id=IlhEAAAAcAAJ&pg=PA153)."
+  - "1824 erscheint der aus dem Französischen übersetzte Roman [»Urika, die Negerin. Aus dem Französischen der Herzogin von ***«](https://books.google.com/books?id=guVIAQAAMAAJ&printsec=frontcover)."
+  - 1852 erscheint eine Versnovelle von Paul Heyse unter dem Titel [»Urica«](https://books.google.com/books?id=v0xgAAAAcAAJ&printsec=frontcover).
+cast:
+  - name: Eduard Belfort,
+    role: ein junger Kaufmann.
+    gender: m
+  - name: Elise,
+    role: seine Muhme.
+    gender: f
+  - name: Urika,
+    role: eine junge Negerinn.
+    gender: f
+  - name: Tarry,
+    role: Capitain eines Kauffahrdeyschiffes.
+    gender: m
+setting: >
+  Die Scene ist zu Marseille. (Die Bühne stellt einen niederen Salon vor, welcher ein Comptoir bildet, rückwärts offen ist, und den Hafen erblicken läßt. Zur Rechten des Zusehers eine Thür, welche in das Innere des Hauses führt; zur Linken die allgemeine Eingangsthür. Rechts ein Schreibtisch, links ein Schirm. Eine Wanduhr ober dem Kamin, welcher sich an der Seite des Schreibtisches befindet. Von außen mehrere Tonnen und Ballen, welche zum Einschiffen bereit stehen.)
 ---
 slug: contessa-ich-bin-meine-schwester
 author:
@@ -21481,6 +21624,95 @@ cast:
 setting: >
   Der Schauplatz ist in Lucindens Zimmer.
 ---
+slug: schikaneder-thespis
+author:
+  name: Schikaneder, Emanuel
+  wikidata: Q213547
+title: Thespis
+subtitle: Ein Nachspiel in einem Aufzuge
+numberOfScenes: 22
+printed: 1801
+premiered: 1801-06-11
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Alberti 1801"
+    url: https://books.google.com/books?id=_DFJAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Thespsis,
+    role: ein griechischer Schauspiel-Director.
+    gender: m
+  - name: Dessen schützender Genius.
+    gender: m
+  - name: Kalistenes.
+    gender: m
+  - name: Pistenes,
+    role: dessen Sohn.
+    gender: m
+  - name: Agathokles,
+    role: ein Athenienser.
+    gender: m
+  - name: Nikomedes.
+    gender: m
+  - name: Flantilla,
+    role: dessen Tochter.
+    gender: f
+  - group:
+    - name: Agelaus,
+      gender: m
+    - name: Alcibiades,
+      gender: m
+    - name: Gangus,
+      gender: m
+    role: Schauspieler.
+  - name: Kallos,
+    role: Diener des Thespis.
+    gender: m
+  - name: Ein Diener des Kalistenes.
+    gender: m
+  - name: Schauspieler und Schauspielerinnen.
+    isGroup: true
+    gender: u
+setting: >
+  Ein griechisches Zimmer.
+---
+slug: schink-die-schriftstellerin
+author:
+  name: Schink, Johann Friedrich
+  wikidata: Q15873118
+title: Die Schriftstellerin
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 18
+printed: 1810
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Scherflein, ein Taschenbuch für die Bühne. Von Johann Friedrich Schink. Lüneburg: Herold und Wahlstab 1810, S. 1–91"
+    url: https://books.google.com/books?id=NoVlAAAAcAAJ&pg=PA9
+  - title: "[Augsburg: Stage 1814]"
+    url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10118756-3
+comments:
+  - "Im [Vorbericht](https://books.google.com/books?id=NoVlAAAAcAAJ&pg=PA7): »Zu dem Lustspiele: *die Schriftstellerin*, gab mir ein größeres französisches Stück, ich glaube der *Connoisseur*, die erste Idee; aber weiter auch nichts. Fabel, Charakter und Dialog sind *mein* Eigenthum.«"
+  - "Analyse vgl. Nils Gelker: [Eine dichtende Frau auf romantischen Abwegen – Johann Friedrich Schinks Lustspiel *Die Schriftstellerin* (1810) als Typenkomödie und Romantik-Satire.](https://www.peterlang.com/view/9783631782682/chapter-11.xhtml) In: Bernhard Jahn und Alexander Košenina (Hg.): [Johann Friedrich Schink. Dramaturg – Bühnendichter – Theaterkritiker.](https://doi.org/10.3726/b15331) Berlin u.a.: Lang 2019."
+cast:
+  - name: von Hahnen,
+    role: Banquier.
+    gender: m
+  - name: Amanda,
+    role: seine Frau.
+    gender: f
+  - name: Meta,
+    role: ihre Nichte.
+    gender: f
+  - name: Felix von Heinen,
+    role: ein junger Mann, der von seinem Vermögen lebt.
+    gender: m
+  - name: von Lohr,
+    role: ein Journalist und Literator.
+    gender: m
+setting: >
+  Szene große deutsche Stadt. (Saal mit Mittel- und Seitenthüren, rechts Amandas links von Lohrs Zimmer.)
+---
 slug: schink-selbstopfer
 author:
   name: Schink, Johann Friedrich
@@ -22272,6 +22504,43 @@ cast:
     gender: f
 setting: >
   Der Schauplatz ist in Damons Hause.
+---
+slug: schrader-der-hohlweg
+author:
+  name: Schrader, Clementine
+  wikidata: Q105103631
+title: Der Hohlweg
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 13
+printed: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zweiundzwanzigster Jahrgang, für 1843. Berlin: Vereins-Buchhandlung 1843, S. 311–342"
+    url: https://books.google.com/books?id=ZnJIAQAAMAAJ&pg=PA311
+cast:
+  - name: Graf von Klockenberg.
+    gender: m
+  - name: August,
+    role: dessen Sohn.
+    gender: m
+  - name: Sophie Sternfeldt,
+    role: Schauspielerin.
+    gender: f
+  - name: Lisette,
+    role: deren Mädchen.
+    gender: f
+  - name: Justizrath Steinberg.
+    gender: m
+  - name: Brigitte,
+    role: des Grafen Haushälterin.
+    gender: f
+  - name: Ein Jäger.
+    gender: m
+  - name: Ein Diener.
+    gender: m
+setting: >
+  Die Scene geht auf dem Gute des Grafen von Klockenberg vor.
 ---
 slug: schuetze-die-heimkehr
 author:
@@ -24582,6 +24851,61 @@ cast:
     gender: u
 setting: >
   Das Theater zeigt einen prächtigen verzierten Saal; auf einer Tafel, die mit einem himmelblau sammtnen mit goldnen Lilien durchwürkten Teppich behangen ist, liegt eine Krone. Rund herum im Saale stehen die allegorischen Figuren mit ihren Attributen. Der König betrachtet nachdenkend die Krone.
+---
+slug: wagner-ein-augenblick
+author:
+  name: Wagner, Adolph
+  wikidata: Q1539931
+title: Ein Augenblick
+subtitle: Dramatisches Spiel in Einem Aufzuge
+numberOfScenes: 9
+printed: 1816
+formalia:
+  - Alexandriner
+editions:
+  - title: "Theater von Adolph Wagner. Leipzig und Altenburg: Brockhaus 1816, S. 217–268"
+    url: https://books.google.com/books?id=6MlIAAAAcAAJ&pg=PA217
+cast:
+  - name: Max.
+    gender: m
+  - name: Kamilla.
+    gender: f
+  - name: Ludolf.
+    gender: m
+  - name: Leontia.
+    gender: f
+setting: >
+  Scene: Saal mit Seitenkabinet.
+---
+slug: wagner-hinterlist
+author:
+  name: Wagner, Adolph
+  wikidata: Q1539931
+title: Hinterlist
+subtitle: "Lustspiel in einem Aufzuge. Aus dem Französischen: les fausses infidélités, von Barthe"
+numberOfScenes: 17
+printed: 1816
+formalia:
+  - Alexandriner
+basedOn:
+  - "Nicolas Thomas Barthe: [»Les fausses infidelités. Comédie en un acte et en vers«](https://books.google.com/books?id=YNLqS72LX_MC&printsec=frontcover)"
+editions:
+  - title: "Theater von Adolph Wagner. Leipzig und Altenburg: Brockhaus 1816, S. 268–331"
+    url: https://books.google.com/books?id=6MlIAAAAcAAJ&pg=PA269
+cast:
+  - name: Hedewig,
+    role: junge Wittwe.
+    gender: f
+  - name: Hildegard.
+    gender: f
+  - name: Baron von Sternan.
+    gender: m
+  - name: Graf Wildenburg.
+    gender: m
+  - name: Herr von Küster.
+    gender: m
+setting: >
+  Scene: Hedewigs Zimmer.
 ---
 slug: walz-einwilligung-wider-willen
 author:
