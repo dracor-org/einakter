@@ -5702,6 +5702,47 @@ cast:
 setting: >
   Der Schauplatz ist zu Whern-ye-will in Amerika, in Franks Hause.
 ---
+slug: baermann-alte-suenden
+author:
+  name: Bärmann, Georg Nikolaus
+  wikidata: Q1505487
+title: Alte Sünden
+subtitle: Ein Vaudeville-Scherz in einem Act, nach dem Französischen des Melesville
+numberOfScenes: 22
+printed: 1838
+premiered: 1847-06-28
+formalia:
+  - Prosa
+basedOn:
+  - "Mélesville: [»Les vieux péchés. Comédie-vaudeville en un acte«](https://books.google.com/books?id=GvFRAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dr. G. N. Bärmann's Theater. Zweiter Theil. Mainz: Kupferberg 1838"
+    url: https://books.google.com/books?id=JAgzAQAAMAAJ&pg=RA3-PA1
+comments:
+  - Als Manuskript auch von Johann Reinhold von Lenz unter dem Titel »Alte Sünden. Lustspiel in einem Aufzuge« ([Aufführung Hamburg 1844](https://www.stadttheater.uni-hamburg.de/node/28223)). (Verlinkung in unsere Datenbank?)
+cast:
+  - name: Ortsrichter Wurzel.
+    gender: m
+  - name: Madam Schnell,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Oskar,
+    role: ihr Neffe.
+    gender: m
+  - name: Mamsell Ninette,
+    role: Operntänzerin.
+    gender: f
+  - name: Schaf,
+    role: Wurzel's Diener.
+    gender: m
+  - name: Ein Notar.
+    gender: m
+  - name: Gäste.
+    isGroup: true
+    gender: u
+setting: >
+  Schauplatz: Ein Saal im Landhause Wurzel's. (Im Hintergrund eine Mittelthüre mit zwei Seitenthüren; durch die erstere gelangt man in den Garten. Vorn links und rechts Cabinetsthüren; zur Seite links im Vorgrunde ein Schreibtisch, rechts ein Tisch, dessen Decke bis auf den Fußboden reicht.)
+---
 slug: baermann-der-koenig-und-der-kuenstler
 author:
   name: Bärmann, Georg Nikolaus
@@ -5754,6 +5795,174 @@ cast:
     gender: u
 setting: >
   Die Handlung geht zu Dingolfing vor. Zeit: 923. (Das Theater stellt einen von Bäumen umringten Platz vor. Im Hintergrunde auf einer Anhöhe die herzogliche Hofburg. In der Mitte des Platzes auf einem Postamente eine durch baldachinartig gefaltete Vorhänge verhüllte Bildsäule. Rechts unter Bäumen ein Sessel auf einem Steine. Ein blankes Schwert ist vor demselben in den Boden gesteckt.)
+---
+slug: baermann-der-oberrock
+author:
+  name: Bärmann, Georg Nikolaus
+  wikidata: Q1505487
+title: Der Oberrock
+subtitle: Ein Original-Lustspiel nach einer wahren Anecdote, in einem Act
+numberOfScenes: 8
+printed: 1825
+premiered: 1824-11-09
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Vierter Jahrgang, für 1825. Berlin: Vereinsbuchhandlung 1825, S. 175–220"
+    url: https://books.google.com/books?id=ppo6AAAAcAAJ&pg=PA175
+  - title: "Dr. G. N. Bärmann's Theater. Erster Theil. Mainz: Kupferberg 1838"
+    url: https://books.google.com/books?id=AAgzAQAAMAAJ&pg=RA3-PA1
+cast:
+  - name: Mac Reddy,
+    role: der Schauspieler aus London.
+    gender: m
+  - name: Arabella.
+    gender: f
+  - name: Jenny,
+    role: deren Zofe.
+    gender: f
+  - name: Der Wirth zur Krone.
+    gender: m
+  - name: Ein Polizeibeamteter.
+    gender: m
+  - name: Ein Polizeidiener.
+    gender: m
+  - name: Zwei Kellner.
+    isGroup: true
+    gender: m
+setting: >
+  Der Schauplatz zeigt einen Saal mit mehreren numerirten Ausgängen im Gasthofe »zur Krone« in der Stadt Birmingham. – Das Stück spielt von Abends zehn Uhr bis Mitternacht.
+---
+slug: baermann-die-hoehle-auf-lampedusa
+author:
+  name: Bärmann, Georg Nikolaus
+  wikidata: Q1505487
+title: Die Höhle auf Lampedusa
+subtitle: Ein Originaltrauerspiel in einem Act und in Assonanzen
+numberOfScenes: 10
+printed: 1826
+premiered: 1825-11-23
+formalia:
+  - Verse
+editions:
+  - title: "Dr. G. N. Bärmann's Theater. Erster Theil. Mainz: Kupferberg 1838"
+    url: https://books.google.com/books?id=AAgzAQAAMAAJ&pg=RA1-PA1
+cast:
+  - name: Der Kapitän einer französischen Fregatte.
+    gender: m
+  - name: Clotilde de Lormeuil.
+    gender: f
+  - name: Eugen,
+    role: ihr Sohn, fünfzehn Jahre alt.
+    gender: m
+  - name: Adele,
+    role: ihre Tochter, acht Jahre alt.
+    gender: f
+  - name: Hussein,
+    role: tunesischer Corsarenhauptmann.
+    gender: m
+  - name: Muley.
+    gender: m
+  - name: Ein Eremit.
+    gender: m
+  - name: Mehrere Corsaren.
+    isGroup: true
+    gender: m
+  - name: Französische Seesoldaten.
+    isGroup: true
+    gender: m
+setting: >
+  Die Scene ist auf der unbewohnten Insel Lampedusa, südlich von Malta. – Die Handlung beginnt spät Abends und endigt mit Tagesanbruch.
+---
+slug: baermann-einer-fuer-drei
+author:
+  name: Bärmann, Georg Nikolaus
+  wikidata: Q1505487
+title: Einer für Drei
+subtitle: Original-Lustspiel in einem Act
+numberOfScenes: 13
+printed: 1830
+formalia:
+  - Prosa
+editions:
+  - title: "Dr. G. N. Bärmann's Theater. Erster Theil. Mainz: Kupferberg 1838"
+    url: https://books.google.com/books?id=AAgzAQAAMAAJ&pg=RA4-PA1
+keywords:
+  - Eheanbahnung
+  - Verkleidungsspiel
+cast:
+  - name: Der Intendant eines kleinen Hoftheaters.
+    gender: m
+  - name: Seine Tochter.
+    gender: f
+  - name: Seine Nichte.
+    gender: f
+  - name: Sein Secretär.
+    gender: m
+  - name: Ein Schauspieler.
+    gender: m
+setting: >
+  Die Handlung ereignet sich im Hause des Intendanten des Morgens zwischen acht und eilf Uhr. (Das Theater zeigt ein Zimmer mit mehreren Ausgängen)
+---
+slug: baermann-staatspapiere
+author:
+  name: Bärmann, Georg Nikolaus
+  wikidata: Q1505487
+title: Staatspapiere
+subtitle: Ein Lustspiel in einem Act
+numberOfScenes: 17
+printed: 1827
+premiered: 1826-09-26
+formalia:
+  - Verse
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Fünf und Zwanzigster Jahrgang. Hamburg: Hoffmann & Campe 1827, S. 111–188"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044939_00123.html
+  - title: "Dr. G. N. Bärmann's Theater. Zweiter Theil. Mainz: Kupferberg 1838"
+    url: https://books.google.com/books?id=JAgzAQAAMAAJ&pg=RA2-PA1
+cast:
+  - name: Franz Dorn,
+    role: ein junger Buchhändler.
+    gender: m
+  - name: Brummer,
+    role: dessen Geschäftsdiener.
+    gender: m
+  - name: Die Wirthin zum Schwan.
+    gender: f
+  - name: Maria Rose.
+    gender: f
+  - name: Amanda Süß.
+    gender: f
+  - name: Pachter Goldfuß.
+    gender: m
+  - name: Ein Kammermädchen.
+    gender: f
+setting: >
+  Die Handlung ereignet sich in einer mittleren Stadt Norddeutschlands.
+---
+slug: baermann-zum-benefiz
+author:
+  name: Bärmann, Georg Nikolaus
+  wikidata: Q1505487
+title: Zum Benefiz!
+subtitle: Ein Original-Lustspiel in einem Act
+numberOfScenes: 12
+printed: 1838
+premiered: 1831-04-16
+formalia:
+  - Verse
+editions:
+  - title: "Dr. G. N. Bärmann's Theater. Zweiter Theil. Mainz: Kupferberg 1838"
+    url: https://books.google.com/books?id=JAgzAQAAMAAJ&pg=RA4-PA1
+cast:
+  - name: Schneider,
+    role: Regisseur eines Provinzaltheaters.
+    gender: m
+  - name: Minchen,
+    role: "dessen Frau, als: Tante Müller; Lorchen, deren Tochter; Eva, deren Magd; Student Läppel; Jüdin Salome."
+    gender: f
+setting: >
+  Schauplatz: Schneiders Zimmer mit Seitenthüren.
 ---
 slug: baeuerle-die-gespensterfamilie
 author:
@@ -16660,7 +16869,7 @@ dictionaries:
   kotzebue: S. 56–57
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechzehnter Jahrgang. Leipzig: Kummer 1818, S. 93–142"
-    url: https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11044930.html?pageNo=103
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044930_00103.html
 cast:
   - name: Amtmann Vierling.
     gender: m
@@ -17894,6 +18103,83 @@ cast:
     gender: u
 setting: >
   Das Stück spielt in einer Provinzialstadt, im Gasthofe »zum blauen Himmel.«
+---
+slug: lebrun-die-verstorbenen
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Die Verstorbenen
+subtitle: Posse in Einem Act (Fortsetzung von No. 777.)
+numberOfScenes: 19
+printed: 1826
+premiered: 1825-09-28
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vier u. Zwanzigster Jahrgang. Leipzig: Kummer 1826, S. 71–140"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044938_00083.html
+comments:
+  - Fortsetzung des Einakters [»Nummer 777«](lebrun-nummer-777).
+cast:
+  - name: Vortheil,
+    role: Notar.
+    gender: m
+  - name: Lisette,
+    role: Putzmamsell, sein Mündel.
+    gender: f
+  - name: Rose,
+    role: des Notars Schreiber, Neffe des Postmeisters im Orte.
+    gender: m
+  - name: Pfeffer,
+    role: Verwalter des Grafen Silberling.
+    gender: m
+setting: >
+  Die Decoration ist dieselbe, wie in No. 777., mit dem Unterschied, daß das Aushängeschild des Notars über der Hausthür der Madame Putzig angebracht ist; auf dem der letztern lies't man: Modehandlung von Susanne Vortheil, gewesene Putzig.
+---
+slug: lebrun-nummer-777
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Nummer 777
+subtitle: Posse in einem Act, freie Nachbildung eines französischen Vaudeville
+numberOfScenes: 18
+printed: 1822
+premiered: 1821-10-20
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zwanzigster Jahrgang. Leipzig: Kummer 1822, S. 1–54"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044934_00009.html
+comments:
+  - "Nach dem Französischen des Louis-Benoît Picard: [»La maison en lotérie. Comédie en un acte, mêlée de couplets«](https://books.google.com/books?id=lotJAQAAMAAJ&pg=PA1) (vgl. [Goedeke](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA390))."
+cast:
+  - name: Vortheil,
+    role: Notar.
+    gender: m
+  - name: Pfeffer,
+    role: sein Schreiber.
+    gender: m
+  - name: Rosine,
+    role: seine Magd.
+    gender: f
+  - name: Karl,
+    role: Kammerdiener in der Residenz.
+    gender: m
+  - name: Frau Putzig,
+    role: Krämerin.
+    gender: f
+  - name: Der Rathsdiener.
+    gender: m
+  - name: Der Stadttambour.
+    gender: m
+  - name: Nähermädchen.
+    isGroup: true
+    gender: f
+  - name: Einwohner beiderlei Geschlechts.
+    isGroup: true
+    gender: u
+setting: >
+  Das Stück spielt in einem Landstädtchen, ohnweit der Residenz. (Oeffentlicher Platz; links des Notars, rechts der Putzmacherin Wohnung. Beide haben Aushängeschilder, und in beiden sind die Laden noch geschlossen. Den Hintergrund bildet ein elegantes, mit eisernem Gitter umzogenes Haus; in der Mitte der Bühne liegt ein großer Stein.)
 ---
 slug: lessing-damon-oder-die-wahre-freundschaft
 author:
@@ -20309,6 +20595,41 @@ cast:
 setting: >
   Die Handlung ist auf dem Landgute des Barons.
 ---
+slug: raupach-der-gliedermann
+author:
+  name: Raupach, Ernst
+  wikidata: Q67961
+title: Der Gliedermann
+subtitle: Schwank in einem Aufzuge
+numberOfScenes: 11
+printed: 1842
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Einundzwanzigster Jahrgang, für 1842. Berlin: Vereins-Buchhandlung 1842, S. 131–160"
+    url: https://books.google.com/books?id=qHNIAQAAMAAJ&pg=PA131
+cast:
+  - name: Grote,
+    role: ein Gastwirth in einem Dorfe am Rhein.
+    gender: m
+  - group:
+    - name: Lieschen,
+      gender: f
+    - name: Lottchen,
+      gender: f
+    role: seine Töchter.
+  - name: Döring,
+    role: ein junger Maler.
+    gender: m
+  - name: Paul Berger,
+    role: ein junger Landmann.
+    gender: m
+  - name: Stramm,
+    role: Küster, Grote's Schwager.
+    gender: m
+setting: >
+  Die Gaststube in Grote's Hause; der Haupteingang zur Linken; zur Rechten eine Seitenthür; unweit davon ein Tisch mit Flaschen, Gläsern und einem Lichte; im Hintergrunde ein oder zwei Fenster; unweit davon ein anderer Tisch mit Schreibezeug. Unter dem vordern Tische ein Korb mit Flaschen.
+---
 slug: rautenstrauch-die-brunnengraeber
 author:
   name: Rautenstrauch, Johann
@@ -22541,6 +22862,45 @@ cast:
     gender: m
 setting: >
   Die Scene geht auf dem Gute des Grafen von Klockenberg vor.
+---
+slug: schuetze-der-koenig-von-gestern
+author:
+  name: Schütze, Stephan
+  wikidata: Q2343847
+title: Der König von Gestern
+subtitle: Lustspiel in einem Act
+numberOfScenes: 8
+printed: 1827
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Fünf und Zwanzigster Jahrgang. Hamburg: Hoffmann & Campe 1827, S. 55–110"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044939_00065.html
+comments:
+  - "Bereits 1818 als »Posse« gedruckt und am 1. März 1818 uraufgeführt, die »Lustspiel«-Version von 1827 ist »in zweckmäßigerer, bühnengerechterer Gestalt wiedergegeben« (vgl. [Goedeke](https://books.google.com/books?id=V36dCgAAQBAJ&pg=PA323))."
+cast:
+  - name: Der König.
+    gender: m
+  - name: Merz,
+    role: ein Landmann.
+    gender: m
+  - name: Lieschen,
+    role: seine Tochter.
+    gender: f
+  - name: Christian Wohlgemuth,
+    role: ihr Liebhaber.
+    gender: m
+  - group:
+    - name: Hochtrapp,
+      gender: m
+    - name: Schnellfuß,
+      gender: m
+    role: Studenten.
+  - name: Gefolge des Königs.
+    isGroup: true
+    gender: u
+setting: >
+  Ein Platz mit Bäumen und einer ländlichen Wohnung.
 ---
 slug: schuetze-die-heimkehr
 author:
