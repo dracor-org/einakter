@@ -5439,6 +5439,30 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: anonym-wie-du-mir-so-ich-dir
+author:
+  pseudonym: Anonym
+title: Wie du mir, so ich dir
+subtitle: Lustspiel in Einem Act. Nach dem Französischen frei bearbeitet
+numberOfScenes: 16
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vier u. Zwanzigster Jahrgang. Leipzig: Kummer 1826, S. 251–301"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044938_00267.html
+comments:
+  - "Zur Herkunft und Qualität des Einakters vgl. Ludwig Tieck: [»Ueber die neueren französischen Stücke auf dem deutschen Theater«](https://books.google.com/books?id=glRZAAAAcAAJ&pg=PA139) (1827)."
+keywords:
+  - Verkleidungsspiel
+cast:
+  - name: Graf Eduard Helford.
+    gender: m
+  - name: Elise von Ottmar.
+    gender: f
+setting: >
+  Das Stück spielt auf dem Lande, in dem Gartensaale eines Schlosses.
+---
 slug: anonym-yariko
 author:
   pseudonym: Anonym
@@ -7598,6 +7622,37 @@ cast:
 setting: >
   Die Bühne stellt ein Wohnzimmer vor.
 ---
+slug: bonafont-der-pflegvater
+author:
+  name: Bonafont, Philipp Karl
+  wikidata: Q99029332
+title: Der Pflegvater
+subtitle: Ein dramatisches Gemählde in einem Aufzug
+numberOfScenes: 7
+printed: 1802
+formalia:
+  - Prosa
+editions:
+  - title: "Carlsruhe: Macklot 1802"
+    url: https://books.google.com/books?id=aG9HAAAAcAAJ&printsec=frontcover
+comments:
+  - Laut [Vorrede](https://books.google.com/books?id=aG9HAAAAcAAJ&pg=PA5) ist der Einakter inspiriert von vier französischen Versen des Verfassers (die in der Vorrede abgedruckt sind).
+cast:
+  - name: Doctor Edelmuth,
+    role: ein Mann von etwa 30 Jahren.
+    gender: m
+  - name: Wilhelmine,
+    role: dessen Pflegetochter.
+    gender: f
+  - name: Rosenfeld,
+    role: ein junger Mahler, Wilhelminens Zeichenmeister.
+    gender: m
+  - name: Ein armer Knabe,
+    role: ohngefähr 12 Jahr alt.
+    gender: m
+setting: >
+  Die Handlung geht in Edelmuths Wohnung vor. (Edelmuths Wohnzimmer.)
+---
 slug: brahm-der-sklavenhaendler-von-smyrna
 author:
   name: Brahm, Moritz von
@@ -8597,6 +8652,45 @@ cast:
   - name: Lisette,
     role: Rosaliens Kammerjungfer.
     gender: f
+---
+slug: costenoble-der-unschuld-sieg
+author:
+  name: Costenoble, Karl Ludwig
+  wikidata: Q1732203
+title: Der Unschuld Sieg
+subtitle: Lustspiel in Einem Act
+numberOfScenes: 22
+printed: 1826
+formalia:
+  - Alexandriner
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vier u. Zwanzigster Jahrgang. Leipzig: Kummer 1826, S. 189–251"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044938_00203.html
+cast:
+  - name: Frau von Grottau.
+    gender: f
+  - name: Florine,
+    role: ihre Tochter.
+    gender: f
+  - name: Baron Wenden,
+    role: "unter dem Namen: Kranz."
+    gender: m
+  - name: Adolf,
+    role: sein Sohn.
+    gender: m
+  - name: Louise,
+    role: Kammerjungfer der Frau von Grottau.
+    gender: f
+  - name: Philipp,
+    role: Bedienter der Frau von Grottau.
+    gender: m
+  - name: Luchs,
+    role: Bedienter des Baron Wenden.
+    gender: m
+  - name: Noch ein Bedienter der Fr. von Grottau.
+    gender: m
+setting: >
+  Die Scene ist im Hause der Frau von Grottau.
 ---
 slug: costenoble-erdbeeren-und-kuesse
 author:
@@ -10701,6 +10795,71 @@ cast:
     gender: m
 setting: >
   Große Stube mit Mittel-Seitenthüren. Ein Verschlag, darin das Postcomptoir und ein Straßenfenster. Im Verschlage viele Pakete, Schachteln, Briefe, Gepäcke. Auf dem Schreibtisch im Verschlag ein brennendes Licht.
+---
+slug: halirsch-hanns-sachs
+author:
+  name: Halirsch, Ludwig
+  wikidata: Q1368873
+title: Hanns Sachs
+subtitle: Schauspiel in Einem Act
+numberOfScenes: 8
+printed: 1826
+premiered: 1826-01-26
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vier u. Zwanzigster Jahrgang. Leipzig: Kummer 1826, S. 141–188"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044938_00155.html
+cast:
+  - name: Meister Christoph,
+    role: der Schuster.
+    gender: m
+  - name: Evchen,
+    role: seine Tochter.
+    gender: f
+  - name: Meister Bernhard,
+    role: der Mahler.
+    gender: m
+  - name: Meister Ludolf,
+    role: der Bildhauer.
+    gender: m
+  - name: Hanns Sachs.
+    gender: m
+  - name: Till Eulenspiegel.
+    gender: m
+  - name: Der Wirth zur Traube.
+    gender: m
+setting: >
+  Die Handlung spielt in Nürnberg.
+---
+slug: halirsch-schwaermer-sansfacon-und-gleichgueltiger
+author:
+  name: Halirsch, Ludwig
+  wikidata: Q1368873
+title: Schwärmer, Sansfaçon und Gleichgültiger
+subtitle: Original-Lustspiel in einem Act
+numberOfScenes: 18
+printed: 1825
+premiered: 1825-03-02
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Drei- und Zwanzigster Jahrgang. Leipzig: Kummer 1825, S. 257–300"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044937_00273.html
+cast:
+  - name: Legationssekretär von Brandeis.
+    gender: m
+  - name: Antonie,
+    role: seine Gemahlin.
+    gender: f
+  - name: Hauptmann Sturm.
+    gender: m
+  - name: Banquier Feurig.
+    gender: m
+  - name: Hofjunker von Zärtlich.
+    gender: m
+setting: >
+  Die Scene ist ein Privatgarten in einem Badeorte. (Geschmackvoller englischer Garten. Zu beiden Seiten grüne Gartenkanapees. Etwas mehr im Hintergrunde links ein Pavillon, der jedoch halb vom Gesträuche bedeckt ist; rechts eine Laube.)
 ---
 slug: harrys-der-anekdotenfreund-oder-list-und-grossmuth
 author:
@@ -18810,6 +18969,41 @@ cast:
     gender: m
 setting: >
   Der Ort der Handlung, in der Wohnung des Herrn Hammel.
+---
+slug: maltitz-ritter-roststaub
+author:
+  name: Maltitz, Gotthilf August von
+  wikidata: Q5588045
+title: Ritter Roststaub
+subtitle: Schwank in einem Aufzuge
+numberOfScenes: 8
+printed: 1828
+premiered: 1828-06-03
+formalia:
+  - Alexandriner
+editions:
+  - title: "Almanach dramatischer Spiele für das Jahr 1828. Hamburg: Hoffmann & Campe 1828, S. 215–260"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10791137_00225.html
+cast:
+  - name: Herr von Roststaub,
+    role: Gustbesitzer.
+    gender: m
+  - group:
+    - name: Roland,
+      role: sein Sohn.
+      gender: m
+    - name: Amalie,
+      role: seine Nichte.
+      gender: f
+    role: Heimlich vermählt.
+  - name: Hector,
+    role: ein Kind, ihr Sohn.
+    gender: m
+  - name: Bayard,
+    role: Bedienter in Roststaubs Hause.
+    gender: m
+setting: >
+  Die Handlung geschieht auf dem Gute des Herrn von Roststaub. (Vorzimmer auf Roststaubs Landhause, mit einer durch einen Vorhang bekleideten Mittel- und zwei Seitenthüren. Das Ameublement ist im Geschmacke, ungefähr des 14ten Jahrhunderts, contrastirend mit der neumodischen Tapezerie u. dergl. der jetzigen Zeit. Rechts ein hoher Schirm.)
 ---
 slug: marinelli-der-anfang-muss-empfehlen
 author:
