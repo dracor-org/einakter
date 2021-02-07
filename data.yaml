@@ -12869,6 +12869,46 @@ cast:
 setting: >
   Die Scene spielt auf einem Dorfe im Wirthshause.
 ---
+slug: kaibel-gefunden
+author:
+  name: Kaibel, Karl Ludwig
+  wikidata: Q94838742
+title: Gefunden!
+subtitle: Ein Lustspiel in Einem Akt
+numberOfScenes: 20
+printed: 1806
+premiered: 1808-04-19
+formalia:
+  - Prosa
+editions:
+  - title: "Breslau: Korn 1806"
+    url: https://books.google.com/books?id=aKpIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Walter,
+    role: ein reicher junger Kaufmann.
+    gender: m
+  - name: Marquis de Verglas.
+    gender: m
+  - group:
+    - name: Luise,
+      gender: f
+    - name: Amalie,
+      gender: f
+    role: seine Töchter.
+  - name: Julie,
+    role: deren Kammermädchen.
+    gender: f
+  - name: Ein Greis.
+    gender: m
+  - name: Paul,
+    role: sein Sohn, ein 10jähriger Knabe.
+    gender: m
+  - name: Jacob,
+    role: Walters Joquei.
+    gender: m
+setting: >
+  Die Scene ist auf dem Landgute des Marquis.
+---
 slug: kepner-der-zerstreute
 author:
   name: Kepner, Johann Friedrich
@@ -23561,6 +23601,44 @@ cast:
 setting: >
   Die Scene geht auf dem Gute des Grafen von Klockenberg vor.
 ---
+slug: schroeer-rein-gefegt
+author:
+  name: Schröer, Tobias Gottfried
+  pseudonym: Chr. Oeser
+  wikidata: Q1321956
+title: Rein gefegt
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 13
+printed: 1828
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechs und zwanzigster Jahrgang. Hamburg: Hoffmann & Campe 1828, S. 261–314"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10791137_00273.html
+  - title: "Theestunden in Lindenhain. Eine Sammlung von Gedichten, Novellen und Schauspielen. Herausgegeben von Chr. Oeser. Zweiter Band. Leipzig: Einhorn 1846, S. 1–42"
+    url: https://books.google.com/books?id=PqgyAQAAMAAJ&pg=RA1-PA1
+cast:
+  - name: Von der Hulst,
+    role: ein holländischer Kaufmann.
+    gender: m
+  - name: Luzie,
+    role: seine Nichte.
+    gender: f
+  - group:
+    - name: Frau Wellenbrecker,
+      gender: f
+    - name: Frau Slingeland,
+      gender: f
+    role: seine Schwestern, beide Wittwen.
+  - name: Frau Ruisdael,
+    role: Luziens Erzieherin.
+    gender: f
+  - name: Rudeli Wellried,
+    role: ein Maler aus der Schweiz.
+    gender: m
+setting: >
+  Die Handlung geschieht in Amsterdam.
+---
 slug: schuetze-der-koenig-von-gestern
 author:
   name: Schütze, Stephan
@@ -25813,6 +25891,51 @@ cast:
 setting: >
   Das Theater stellet einen durchaus mit aller Pracht ausgezierten Hochzeitsaal vor, in der Mitte steht eine herrliche bedekte Tafel, an welcher die Götter, Peleus und Thetis sitzen.
 ---
+slug: vanoni-zur-gesundheit
+author:
+  name: Vanoni, B.
+title: Zur Gesundheit!
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 11
+printed: 1841
+formalia:
+  - Prosa
+editions:
+  - title: "München 1841"
+    url: https://books.google.com/books?id=svFVGEeGU_oC&printsec=frontcover
+comments:
+  - "Erwähnung in: Allgemeine Theaterzeitung, Originalblatt für Kunst, Literatur, Musik, Mode und geselliges Leben, 3. August 1842, [S. 823](https://books.google.com/books?id=CJV_304uEScC&pg=PA823)."
+cast:
+  - name: Herr von Mosack,
+    role: Tabackfabrikant.
+    gender: m
+  - name: Frau von Mosack,
+    role: seine Gattin.
+    gender: f
+  - name: Mina,
+    role: ihre Tochter.
+    gender: f
+  - name: Herr Sommer,
+    role: ihr Schwiegersohn (Wittwer).
+    gender: m
+  - name: Heimbecker,
+    role: Schneidermeister.
+    gender: m
+  - name: Wilhelm,
+    role: Assessor, sein Sohn.
+    gender: m
+  - name: Wittwe Rosen,
+    role: Heimbeckers Schwester.
+    gender: f
+  - name: Thadäus Tritschler,
+    role: Heimbeckers Buchführer.
+    gender: m
+  - name: Johann,
+    role: von Mosacks Diener.
+    gender: m
+setting: >
+  Das Stück spielt in einer großen Handelsstadt.
+---
 slug: vogel-der-letzte-pagenstreich
 author:
   name: Vogel, Wilhelm
@@ -26876,6 +26999,71 @@ cast:
     gender: m
 setting: >
   Das Stück spielt in Winklers Hause.
+---
+slug: weissenthurn-die-englaenderin
+author:
+  name: Weißenthurn, Johanna Franul von
+  wikidata: Q1696932
+title: Die Engländerin
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1826
+premiered: 1824-02-11
+formalia:
+  - Prosa
+editions:
+  - title: "Neueste Schauspiele von Johanna Franul v. Weissenthurn. Eilfter Band oder Neue Folge dritter Band. Wien: Wallishausser 1826, S. 223–284"
+    url: https://books.google.com/books?id=LzRiIHvtkQ4C&pg=PA223
+cast:
+  - name: Goldschmidt,
+    role: Doktor der Rechte.
+    gender: m
+  - name: Eduard,
+    role: sein Neffe.
+    gender: m
+  - name: Bartholomäus Sitzmann,
+    role: sein Schreiber.
+    gender: m
+  - name: Sara,
+    role: seine Haushälterin.
+    gender: f
+  - name: Fanny Klappland,
+    role: eine Engländerin.
+    gender: f
+  - name: Jenny,
+    role: ihr Mädchen.
+    gender: f
+setting: >
+  Das Stück spielt in Hamburg, in Doktor Goldschmidts Hause.
+---
+slug: weissenthurn-die-reise-nach-amerika
+author:
+  name: Weißenthurn, Johanna Franul von
+  wikidata: Q1696932
+title: Die Reise nach Amerika
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 4
+printed: 1826
+premiered: 1824-02-11
+formalia:
+  - Verse
+editions:
+  - title: "Neueste Schauspiele von Johanna Franul v. Weissenthurn. Eilfter Band oder Neue Folge dritter Band. Wien: Wallishausser 1826, S. 187–222"
+    url: https://books.google.com/books?id=LzRiIHvtkQ4C&pg=PA189
+cast:
+  - name: Röschen,
+    role: ein Bauernmädchen.
+    gender: f
+  - name: Felix,
+    role: ein Reisender.
+    gender: m
+  - name: Peter,
+    role: ein Bauernknabe von 10 bis 12 Jahren.
+    gender: m
+  - name: Marie.
+    gender: f
+setting: >
+  Das Stück spielt in den Niederlanden, unweit eines Hafens.
 ---
 slug: welisch-philint
 author:
