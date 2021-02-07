@@ -11238,6 +11238,46 @@ cast:
 setting: >
   Zeit der Handlung: 11te September 1683. Ort: Meierei am Abhange des Kahlenberg's, nächst Wien, (jetzt Kahlenberger-Dörfel.)
 ---
+slug: hell-der-schwatzt-ohn-ende
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Der schwatzt ohn' Ende
+subtitle: Posse in Einem Akte nach Le parleur éternel bearbeitet von Theodor Hell
+numberOfScenes: 11
+printed: 1807
+premiered: 1821-09-30
+formalia:
+  - Alexandriner
+editions:
+  - title: "Leipzig: Bruder und Hofmann 1807"
+    url: https://books.google.com/books?id=Do5lAAAAcAAJ&printsec=frontcover
+  - title: "Der Schwätzer. Neue Ausgabe. Elberfeld: Büschler 1817"
+    url: https://books.google.com/books?id=D20u9v-37v4C&printsec=frontcover
+cast:
+  - name: Zunger.
+    gender: m
+  - name: Wiese.
+    role: Zungers Freund. Eine ehrliche Haut, ohne Charakter.
+    gender: m
+  - name: Mad. Wiese.
+    role: Sehr gern sprechend.
+    gender: f
+  - name: Amalie.
+    role: Ihre Tochter. Ein unbefangenes Geschöpf.
+    gender: f
+  - name: v. Haltenstaten.
+    role: Schiffs-Capitain. Kalter trockner Mensch.
+    gender: m
+  - name: Johann,
+    role: Wiesens Bedienter.
+    gender: m
+  - name: Schnell,
+    role: Zungers Bedienter.
+    gender: m
+setting: >
+  Die Scene in einer Residenz. Wiesens Zimmer. Rechts eine Seitenthüre.
+---
 slug: hell-der-segen-der-eifersucht
 author:
   name: Hell, Theodor
@@ -12105,6 +12145,39 @@ cast:
   - name: Franz, Rosensteins Bedienter
     gender: m
 ---
+slug: iffland-der-taufschein
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Der Taufschein
+subtitle: Lustspiel in Einem Akt. Aus dem Französischen des Piccard
+numberOfScenes: 23
+printed: 1807
+formalia:
+  - Prosa
+basedOn:
+  -  "Louis-Benoît Picard: [»L'acte de naissance. Comédie en un acte et en prose«](https://books.google.com/books?id=lxAzAQAAMAAJ&pg=PA351)"
+editions:
+  - title: "Berlin: Braunes 1807"
+    url: https://books.google.com/books?id=Ub-YtQEACAAJ&pg=PA1
+  - title: "Wien: Wallishausser 1808"
+    url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11260577-2
+cast:
+  - name: Herr Dubouloir.
+    gender: m
+  - name: Herr Clairville.
+    gender: m
+  - name: Frau v. Rosemont.
+    gender: f
+  - name: Louise,
+    role: ihre Tochter.
+    gender: f
+  - name: André,
+    role: Bedienter des Herrn Clairville.
+    gender: m
+setting: >
+  Das Theater stellt einen Saal vor: an der Seite ein Fenster mit mousselinenem Vorhang.
+---
 slug: iffland-der-veteran
 author:
   name: Iffland, August Wilhelm
@@ -12157,6 +12230,83 @@ cast:
 setting: >
   Eine Bauernstube.
 ---
+slug: iffland-die-brautwahl
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Die Brautwahl
+subtitle: Ein Schauspiel in Einem Akt
+numberOfScenes: 12
+printed: 1808
+premiered: 1808-03-20
+formalia:
+  - Prosa
+editions:
+  - title: "A. W. Iffland's dramatische Werke. Siebzehnter Band. Berlin: Oehmigke 1808"
+    url: https://books.google.com/books?id=SstIAAAAcAAJ&pg=RA3-PA1
+  - title: "[Ohne Ort] 1809"
+    url: https://books.google.com/books?id=lCc7AAAAcAAJ&printsec=frontcover
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Hofrath Lobau.
+    gender: m
+  - name: Die Hofräthin,
+    role: seine Frau.
+    gender: f
+  - name: Fritz,
+    role: ihr Sohn.
+    gender: m
+  - name: Doktor Wels.
+    gender: m
+  - name: Philipp,
+    role: des Hofraths Bedienter.
+    gender: m
+---
+slug: iffland-die-gefluechteten
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Die Geflüchteten
+subtitle: Ein Schauspiel in Einem Aufzuge. Zum Debüt für die Wittwe des unvergeßlichen Schauspielers Beil
+numberOfScenes: 24
+printed: 1799
+premiered: 1795-03-05
+formalia:
+  - Prosa
+editions:
+  - title: "A. W. Ifflands dramatische Werke. Neunter Band. Leipzig: Göschen 1799"
+    url: https://books.google.com/books?id=RMBCAQAAMAAJ&pg=RA3-PA1
+  - title: "A. W. Iffland's Theater. Zehnter Band. Wien: Pichler 1815, S. 228–284"
+    url: https://books.google.com/books?id=jtRdAAAAcAAJ&pg=PA227
+keywords:
+  - Krieg
+cast:
+  - name: Kaufmann Borthal.
+    gender: m
+  - name: Mamsell Borthal,
+    role: seine Tochter.
+    gender: f
+  - group:
+    - name: Wittwe Wallmohr.
+      gender: f
+    - name: Herr Wallmohr,
+      role: ihr Sohn.
+      gender: m
+    - name: Hauptmann Wallmohr,
+      role: dessen Onkel.
+      gender: m
+    - name: Friedrike,
+      role: ihre Magd.
+      gender: f
+    role: Ausgewanderte Deutsche.
+  - name: Sekretär Ferding.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Ein gemeinschaftlicher Vorsaal, der links nach dem Ausgange und Herrn Borthals Wohnung, rechts in der Madam Wallmohr Zimmer führt.
+---
 slug: iffland-die-marionetten
 author:
   name: Iffland, August Wilhelm
@@ -12196,6 +12346,232 @@ cast:
     gender: m
 setting: >
   Ein gewöhnliches Zimmer, darinn eine Menge Hausrath zerstreut hin und wieder gestellt ist. Komoden, Schreibtische, mehrere Kanapees, etliche Vorhangbettstellen, Vogelbauer, ein Schreibtisch mit vielen Akten. Im Hintergrunde des Zimmers ist eine Art Alkoven, mit einem Vorhang zugezogen, oder mit spanischen Wänden besetzt.
+---
+slug: iffland-die-muessiggaenger
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Die Müßiggänger
+subtitle: Lustspiel in Einem Act. Aus dem Französischen des Picard
+numberOfScenes: 14
+printed: 1812
+premiered: 1811-11-06
+formalia:
+  - Prosa
+basedOn:
+  - "Louis-Benoît Picard: [»Les oisifs. Comédie en un acte et en prose«](https://books.google.com/books?id=FqUGAAAAQAAJ&pg=PA121)."
+editions:
+  - title: "Berlin: Braunes 1812"
+    url: https://books.google.com/books?id=FT-94XtOXcsC&printsec=frontcover
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Dreizehnter Band. Augsburg und Leipzig: Stage [1813], S. 271–322"
+    url: https://books.google.com/books?id=sC87AAAAcAAJ&pg=PA271
+cast:
+  - name: Dericour.
+    gender: m
+  - name: Durmont,
+    role: sein Oheim.
+    gender: m
+  - name: Deglantier.
+    gender: m
+  - name: Florville.
+    gender: m
+  - name: Leffilé.
+    gender: m
+  - name: Bourdas.
+    gender: m
+  - name: Duchemin.
+    gender: m
+  - name: Versac.
+    gender: m
+  - name: Benjamin.
+    gender: m
+  - name: Flamand.
+    gender: m
+  - name: Mad. Bourneil.
+    gender: f
+  - name: Julie,
+    role: ihre Tochter.
+    gender: f
+  - name: Frau von Senange.
+    gender: f
+  - name: Madame Deglantier.
+    gender: f
+setting: >
+  Die Scene ist zu Paris, in Durmonts Kabinet. Rechts von den Schauspielern ist eine kleine Thüre, in Form einer Bibliothek, angebracht.
+---
+slug: iffland-die-nachbarschaft
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Die Nachbarschaft
+subtitle: Ein Lustspiel in Einem Akt. Nach dem Französischen des Piccard
+numberOfScenes: 22
+printed: 1807
+premiered: 1807-03-23
+formalia:
+  - Prosa
+basedOn:
+  - "Louis-Benoît Picard: [»Les voisins. Comédie en un acte, en prose«](https://books.google.com/books?id=3VE6AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Berlin: Braunes 1807"
+    url: https://books.google.com/books?id=4MDtAAAAMAAJ&pg=RA1-PA1
+  - title: "Neueste deutsche Schaubühne für 1808. Zweiter Band. Augsburg 1808, S. 1–60"
+    url: https://books.google.com/books?id=YCw7AAAAcAAJ&pg=PP3
+cast:
+  - name: Dürmont,
+    role: Kaufmann.
+    gender: m
+  - name: Cecilie,
+    role: seine Tochter.
+    gender: f
+  - name: Armand,
+    role: Kaufmann.
+    gender: m
+  - group:
+    - name: Malinval.
+      gender: m
+    - name: Montbrun.
+      gender: m
+    - name: Lambert.
+      gender: m
+    role: Dürmonts Nachbarn.
+  - name: Dürmonts Bedienter.
+    gender: m
+setting: >
+  Die Handlung geht zu Auteuil bey Dürmont vor.
+---
+slug: iffland-die-verbruederung
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Die Verbrüderung
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1793
+premiered: 1793-01-01
+formalia:
+  - Prosa
+editions:
+  - title: "Mannheim: Schwan 1793"
+  - title: "Wien: Wallishausser 1801"
+    url: https://books.google.com/books?id=flJjAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Geheimerrath von Saalburg.
+    gender: m
+  - name: Die Geheimeräthin.
+    gender: f
+  - group:
+    - name: Ernst von Saalburg,
+      role: Hauptmann
+      gender: m
+    - name: Ludwig von Saalburg,
+      gender: m
+    - name: Henriette von Saalburg,
+      gender: f
+    role: deren Kinder
+  - name: Justitzrath von Brandstein.
+    gender: m
+  - name: Kaufmann Rosing.
+    gender: m
+  - name: Zimmermann Thal.
+    gender: m
+  - group:
+    - name: Georg Wester,
+      gender: m
+    - name: Friedrich Stein,
+      gender: m
+    - name: Jakob Schmidt,
+      gender: m
+    role: Bauern.
+setting: >
+  Eine Landgegend vor einem kleinen Städtchen, zu beyden Seiten Gebüsch, auf der linken ein Bauernhaus.
+---
+slug: iffland-liussan-fuerst-von-garisene
+author:
+  name: Iffland, Wilhelm August
+  wikidata: Q215115
+title: Liussan, Fürst von Garisene
+subtitle: Prolog in einem Aufzuge, mit Chören
+numberOfScenes: 11
+printed: 1790
+premiered: 1790-01-03
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 31, S. 134–135
+editions:
+  - title: "Mannheim 1790"
+  - title: "Köln am Rheine: Imhof 1791"
+    url: https://books.google.com/books?id=ECdIAAAAcAAJ&printsec=frontcover
+  - title: "Deutsche Schaubühne. Vierten Jahrgangs Sechster Band. Augsburg 1792, S. 435–472"
+    url: https://books.google.com/books?id=LB0G74nECHkC&pg=PA435
+  - title: "Theater von Aug. Wilh. Iffland. Erste vollständige Ausgabe. Achter Band. Wien: Klang 1843, S. 241–270"
+    url: https://books.google.com/books?id=UTKbkeG9Q7gC&pg=PA241
+cast:
+  - name: Die Fee Tannettine.
+    gender: f
+  - name: Die Fee Antouga.
+    gender: f
+  - name: Liussan,
+    role: Herrscher zu Garisene.
+    gender: m
+  - name: Muza,
+    role: Obervorschneider.
+    gender: m
+  - name: Alsafi,
+    role: Befehlshaber des Heeres.
+    gender: m
+  - name: Kassuenda.
+    gender: f
+  - name: Genien.
+    isGroup: true
+    gender: u
+  - name: Volk.
+    isGroup: true
+    gender: u
+setting: >
+  Zimmer an Liussans Hofe. Prächtig mit reichen Polstern meublirt, an der Seite ein Baldachin.
+---
+slug: iffland-rueckwuerkung
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Rückwürkung
+subtitle: Lustspiel in Einem Akt. Aus dem Französischen des Piccard
+numberOfScenes: 24
+printed: 1807
+premiered: 1807-04-06
+formalia:
+  - Prosa
+basedOn:
+  - "Louis-Benoît Picard: [»Les ricochets. Comédie en un acte et en prose«](https://books.google.com/books?id=8JJMAQAAMAAJ&pg=PA1)"
+editions:
+  - title: "Berlin: Braunes 1807"
+    url: https://books.google.com/books?id=72KS5Et565UC&printsec=frontcover
+  - title: "[Ohne Ort] 1808"
+    url: https://books.google.com/books?id=UCw7AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Sainville,
+    role: ein junger Oberst, Sohn eines Ministers.
+    gender: m
+  - name: Dorsay.
+    gender: m
+  - group:
+    - name: Lafleur,
+      role: Kammerdiener
+      gender: m
+    - name: Gabriel,
+      role: Jokei
+      gender: m
+    - name: Frau von Mircour,
+      role: Nichte
+      gender: f
+    role: des Herrn Dorsay.
+  - name: Marie,
+    role: Kammerjungfer der Frau von Mircour.
+    gender: f
+setting: >
+  Zimmer des Herrn Dorsay.
 ---
 slug: jester-das-duell-oder-das-junge-ehepaar
 author:
@@ -17449,6 +17825,107 @@ cast:
 setting: >
   Die Bühne ist in einem Dorfe.
 ---
+slug: krickeberg-das-heiraths-gesuch
+author:
+  name: Krickeberg, Karl
+title: Das Heiraths-Gesuch
+subtitle: Original-Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1828
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechs und zwanzigster Jahrgang. Hamburg: Hoffmann & Campe 1828, S. 1–78"
+    url: https://books.google.com/books?id=O_NXAAAAcAAJ&pg=PA1
+comments:
+  - "Zur Autorschaft vgl. Goedekes Artikel zu Sophie Friederike Krickeberg ([S. 945–946](https://books.google.com/books?id=ECsPAQAAIAAJ&pg=RA2-PA945)): »Das Heirathsgesuch scheint von ihrem Sohne Karl zu sein, der seit 1823 sich zum Sänger ausbildete.«"
+cast:
+  - name: Baron Löventhal.
+    gender: m
+  - name: Helmine von Löventhal,
+    role: seine Nichte.
+    gender: f
+  - name: Baron Hainau,
+    role: sein Neffe.
+    gender: m
+  - name: Frau von Rosen,
+    role: seine Schwester.
+    gender: f
+  - group:
+    - name: Henriette,
+      gender: f
+    - name: Elise,
+      gender: f
+    role: ihre Töchter.
+  - name: Johann,
+    role: Bedienter im Hause des Baron Löventhal.
+    gender: m
+  - name: Lieschen,
+    role: Kammermädchen im Hause des Baron Löventhal.
+    gender: f
+setting: >
+  Saal mit mehreren Thüren im Haus des Baron Löventhal. Ein Tisch mit einer Klingel und eine Klingelschnur an der Wand.
+---
+slug: kringsteiner-othello-der-mohr-in-wien
+author:
+  name: Kringsteiner, Ferdinand
+  wikidata: Q1405521
+title: Othello, der Mohr in Wien
+subtitle: Eine Posse mit Gesang in einem Aufzuge. Vom Verfasser des Zwirnhändlers
+numberOfScenes: 24
+printed: 1806
+premiered: 1806-05-28
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1806"
+    url: https://books.google.com/books?id=K71HAAAAcAAJ&printsec=frontcover
+  - title: "Herausgegeben von Andrea Brandner-Kapfer. Graz 2011"
+    url: http://lithes.uni-graz.at/kasperls_erben/pdfs_erben/ed_kringsteiner_othello.pdf
+comments:
+  - »Die Musik ist vom Herrn Ignaz Schuster, Mitglied dieser Schaubühne.«
+  - Überarbeitung in drei Akten von Karl Meisl unter dem Titel »Othellerl, der Mohr von Wien oder Die geheilte Eifersucht« (UA 1829).
+cast:
+  - name: Herr von Nascherl,
+    role: ein reicher Privatmann.
+    gender: m
+  - group:
+    - name: Othello.
+      gender: m
+    - name: Rodrigerl.
+      gender: m
+    - name: Jakerl.
+      gender: m
+    role: seine Bediente.
+  - name: Wastl,
+    role: sein Hausmeister.
+    gender: m
+  - name: Desdemonerl,
+    role: seine Tochter.
+    gender: f
+  - name: Mussi Cassio,
+    role: ein Barbiergeselle vom Land.
+    gender: m
+  - name: Frau Resel,
+    role: eine Wäscherinn an der Wien.
+    gender: m
+  - name: Thaddädl,
+    role: ihr Sohn, Wäscherbube.
+    gender: m
+  - name: Joseph,
+    role: ein Laufer.
+    gender: m
+  - name: Lenerl,
+    role: eine Köchin.
+    gender: f
+  - name: Ein kleiner Knabe.
+    gender: m
+  - name: Laufer, Mohren, Bediente, Köchinnen, Hausmeister, und Wäscherleute, Buben.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geschieht in der Nähe des Kärtnerthors. (Tiefe Strasse.)
+---
 slug: krueger-der-teufel-ein-baerenhaeuter
 author:
   name: Krüger, Johann Christian
@@ -19129,6 +19606,33 @@ cast:
     gender: m
 setting: >
   Das Stück spielt in einem Saale des Gasthauses zur Meerkatze.
+---
+slug: marsano-die-helden
+author:
+  name: Marsano, Wilhelm von
+  wikidata: Q1664045
+title: Die Helden
+subtitle: Lustspiel in einem Akt und in Alexandrinern
+numberOfScenes: 7
+printed: 1830
+premiered: 1829-11-22
+formalia:
+  - Alexandriner
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Acht und zwanzigster Jahrgang. Hamburg: Hoffmann und Campe 1830, S. 119–184"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044942_00137.html
+keywords:
+  - Rolle der Frau
+  - Verkleidungsspiel
+cast:
+  - group:
+    - name: Julie,
+      gender: f
+    - name: Bertha,
+      gender: f
+      role: zwei junge Wittwen.
+setting: >
+  Das Stück spielt auf einem Landhause nah bei einer großen Stadt. (Die Scene ist ein gemeinschaftlicher Saal mit einer Mittel- und zwei Seitenthüren. Rechts im Vorgrund ein Toilettenspiegel.)
 ---
 slug: martini-die-prachtsuechtige
 author:
@@ -25309,6 +25813,37 @@ cast:
 setting: >
   Das Theater stellet einen durchaus mit aller Pracht ausgezierten Hochzeitsaal vor, in der Mitte steht eine herrliche bedekte Tafel, an welcher die Götter, Peleus und Thetis sitzen.
 ---
+slug: vogel-der-letzte-pagenstreich
+author:
+  name: Vogel, Wilhelm
+  wikidata: Q61971934
+title: Der letzte Pagenstreich
+subtitle: "Posse in einem Akt, (Als Fortsetzung der Kotzebue'schen Posse: Die Pagenstreiche)"
+numberOfScenes: 15
+printed: 1828
+premiered: 1819-12-12
+formalia:
+  - Prosa
+editions:
+  - title: "Prag: Stephani und Schlosser 1828"
+    url: https://books.google.com/books?id=EtxJAAAAcAAJ&printsec=frontcover
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Graf von Hall.
+    gender: m
+  - name: Julie von Weilburg,
+    role: seine Nichte, eine junge Witwe.
+    gender: f
+  - name: Paul von Husch,
+    role: einst Page, jetzt Rittmeister.
+    gender: m
+  - name: Stiefel,
+    role: sein Reitknecht.
+    gender: m
+setting: >
+  Die Handlung geschieht in einer Residenz.
+---
 slug: voss-euer-verkehr
 author:
   name: Voß, Julius von
@@ -26432,6 +26967,43 @@ cast:
     gender: m
 setting: >
   Die Handlung spielt in Schwarrbach, einem einsamen Alpenwirthshause, auf dem zwischen Kanderstäg und Leuk belegenen Felsen- und Bergpasse Gemmi in der Schweiz. Bauernstube und Kammer, durch eine Seitenwand getrennt, an der eine kleine Wanduhr, eine Sense und ein großes Messer hangen. Im Hintergrunde ein Strohlager und ein alter Lehnstuhl. Die Stube ist durch eine auf dem Tische brennende Lampe erleuchtet. Es ist Nacht. Die Wanduhr schlägt eilfe.
+---
+slug: werner-frage-und-antwort
+author:
+  name: Werner, Pauline
+  pseudonym: A. P.
+  wikidata: Q1465959
+title: Frage und Antwort
+subtitle: Dramatischer Scherz in einem Akt
+numberOfScenes: 19
+printed: 1843
+premiered: 1838-11-21
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zweiundzwanzigster Jahrgang, für 1843. Berlin: Vereins-Buchhandlung 1843, S. 209–242"
+    url: https://books.google.com/books?id=ZnJIAQAAMAAJ&pg=PA209
+comments:
+  - Zum Datum der (Erst-)aufführung in Berlin vgl. [Teichmanns Literarischer Nachlaß](https://books.google.com/books?id=kPFZAAAAcAAJ&pg=PA404) (1863).
+  - "Zur Aufführung in Wien siehe [Wiener Zeitschrift, 13. Februar 1843](https://books.google.com/books?id=vpJHAAAAcAAJ&pg=PA246)."
+  - Zur Auflösung des Anonymats vgl. [Geschichte der dramatischen Literatur und Kunst in Deutschland](https://books.google.com/books?id=aMU4AQAAMAAJ&pg=RA1-PA254) (1883).
+cast:
+  - name: Baronin Selten.
+    gender: f
+  - name: Josephine,
+    role: ihre Schwester.
+    gender: f
+  - name: Herr von Dorn,
+    role: Josephinens Vormund.
+    gender: m
+  - name: Graf Berg,
+    role: Rittmeister.
+    gender: m
+  - name: Johann,
+    role: Diener bei der Baronin.
+    gender: m
+setting: >
+  Das Stück spielt auf dem Gute der Baronin, nahe bei der Residenz gelegen.
 ---
 slug: wetzel-wilhelmine
 author:
