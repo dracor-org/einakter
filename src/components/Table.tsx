@@ -73,7 +73,18 @@ function Table () {
   }, {
     dataField: 'normalizedYear',
     text: 'Year (normalized)',
-    sort: true
+    sort: true,
+    sortFunc: (a: number, b: number, order: string) => {
+      if (!a) {
+        return order === 'asc' ? -1 : 1;
+      }
+
+      if (!b) {
+        return order === 'asc' ? 1 : -1;
+      }
+
+      return order === 'asc' ? a - b : b - a;
+    }
   }, {
     dataField: 'ids.wikidata',
     text: 'Wikidata',
@@ -111,6 +122,9 @@ function Table () {
             <BootstrapTable
               { ...props.baseProps }
               bootstrap4
+              defaultSorted={[
+                { dataField: 'normalizedYear', order: 'asc' }
+              ]}
               defaultSortDirection="asc"
             />
           </div>
