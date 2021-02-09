@@ -181,6 +181,17 @@ export default function Details () {
                       {dictionaries.dramenlexikon}
                     </li>
                   )}
+                  {dictionaries.iffland && (
+                    <li>
+                      <a href="http://d-nb.info/992367107">
+                        Ifflands Dramen – Ein Lexikon
+                      </a>
+                      {' '}
+                      (2009).
+                      {' '}
+                      {dictionaries.iffland}
+                    </li>
+                  )}
                   {dictionaries.kotzebue && (
                     <li>
                       <a href="https://de.wikipedia.org/wiki/Kotzebues_Dramen_–_Ein_Lexikon">

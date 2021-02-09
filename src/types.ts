@@ -37,6 +37,7 @@ export interface Play {
   dictionaries?: {
     bibliographia?: string
     dramenlexikon?: string
+    iffland?: string
     kotzebue?: string
   }
   formalia?: string[]
