@@ -39,6 +39,35 @@ cast:
 setting:
   "Scene: Der Garten des Herrn Veltheim. (Garten mit vielen Blumenbeeten. Im Hintergrunde, den Spielenden links, ein schönes Landhaus. Eine Mauer zieht sich in der Tiefe der Bühne von einer Seite zur anderen. Dicht an dieser Mauer und an dieselbe gelehnt, erblickt man, den Spielenden rechts, ein kleines Häuschen, des Gärtners Wohnung. In Mitte der Mauer ein Gitterthor, durch welches man Aussicht in eine schöne Landschaft hat. Vor des Gärtners Häuschen ein Schöpfbrunnen mit Eimern. Im Vordergrunde, den Spielenden rechts, eine Laube mit Tisch und Stühlen. Schreibgeräthe auf dem Tische.)"
 ---
+slug: albini-fragt-nur-mich-um-rath
+author:
+  name: Meddlhammer, Albin Johann Baptist von
+  pseudonym: Albini
+  wikidata: Q781097
+title: Fragt nur mich um Rath!
+subtitle: Ein Lustspiel in einem Akt und in Alexandrinern
+numberOfScenes: 11
+printed: 1824
+formalia:
+  - Alexandriner
+editions:
+  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth 1824, S. 199–288"
+    url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA199
+cast:
+  - name: Christine,
+    role: Pächterin, Wittwe.
+    gender: f
+  - name: Fritz Willig.
+    gender: m
+  - name: Hanns,
+    role: sein Bruder, neun Jahre alt.
+    gender: m
+  - name: Frau Thekla,
+    role: eine alte Bäuerin.
+    gender: f
+setting: >
+  Die Scene ist auf einem Dorfe, vor Christinens Hause.
+---
 slug: albini-was-den-einen-toedtet-giebt-dem-andern-leben
 author:
   name: Meddlhammer, Albin Johann Baptist von
@@ -8728,6 +8757,74 @@ cast:
 setting: >
   Die Handlung spielt in der Hauptstadt, im Hause des Barons. (Die Bühne stellt einen sehr elegant meublirten Salon vor: Zur Rechten des Zusehers steht ein Sekretair, zur Linken ein Stickrahmen. Eine Thür zur Linken führt in der Baroninn, eine zur Rechten in Adelens Zimmer. Zwey Mittelthüren, wovon eine den Haupteingang, die andere den Eintritt in des Barons Gemach bildet.)
 ---
+slug: castelli-gutes-beispiel
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Gutes Beispiel
+subtitle: Lustspiel in einem Akt, nach dem Französischen des Théaulon
+numberOfScenes: 18
+printed: 1826
+formalia:
+  - Prosa
+basedOn:
+  - "Emmanuel Théaulon: [»Le dragon de vertu, ou le pouvoir de l'exemple. Comédie en un acte et en«](https://books.google.com/books?id=1CxMAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1826. Von F. I. Castelli. Eilfter Jahrgang. Wien: Wallishausser [1826], S. 179–226"
+    url: https://books.google.com/books?id=RwD2giW-JGcC&pg=PA179
+cast:
+  - name: Saint-Leon,
+    role: Infanterie-Capitaine (35 Jahr alt).
+    gender: m
+  - name: Adolph de Seligny,
+    role: Cavallerie-Capitaine (20 Jahr alt).
+    gender: m
+  - group:
+    - name: Inés,
+      role: 25 Jahr alt,
+      gender: f
+    - name: Flora,
+      role: 15 Jahr alt,
+      gender: f
+    role: Spanierinnen, Schwestern.
+setting: >
+  Die Scene ist in Spanien. (Die Bühne stellt einen Garten vor. Zur Rechten, bey der ersten Coulisse eine schräge Mauerwand mit einer Jalousie, zur Linken ebenfalls bey der ersten Coulisse eine Thüre, welche in's Freye führt. Im Hintergrunde Rosenstöcke, Vasen u. s. w., und eine Gitterwand, welche den Garten schließt, und über die ganze Bühne läuft.)
+---
+slug: castelli-hass-allen-weibern
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Haß allen Weibern!
+subtitle: Ein Lustspiel in einem Akt. Frey nach dem Französischen des Bouilly
+numberOfScenes: 14
+printed: 1809
+premiered: 1808-11-09
+formalia:
+  - Alexandriner
+basedOn:
+  - "Jean-Nicolas Bouilly: [»Haine aux femmes. Comédie en un acte, mêlée de vaudevilles«](https://books.google.com/books?id=-iBaAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen. Ein Taschenbuch auf das Jahr 1809. Von Castelli und Hassaureck. Wien: Wallishausser 1809, S. 1–86"
+    url: https://books.google.com/books?id=xgKY5bGphO4C&pg=PA1
+  - title: "Neueste deutsche Schaubühne für 1810. Dritter Band. Augsburg 1810, S. 1–74"
+    url: https://books.google.com/books?id=MSg7AAAAcAAJ&pg=PA1
+  - title: "Neue Bibliothek kleiner Theaterstücke für Privat-Gesellschaften. Ein Pendant zu der deutschen Schaubühne. Dritter Theil. Augsburg und Leipzig: Jenisch und Stage [1818], S. 229–288"
+    url: https://books.google.com/books?id=1NuUYHbjz-UC&pg=PA229
+  - title: "I. F. Castelli's sämmtliche Werke. Zwölftes Bändchen. Wien: Pichler 1845, S. 49–100"
+    url: https://books.google.com/books?id=fW9KAAAAcAAJ&pg=PA49
+cast:
+  - name: Valincour,
+    role: ein französischer Cavallerie-Officier.
+    gender: m
+  - name: Amalie,
+    role: Gräfinn von Ronsberg, eine Deutsche.
+    gender: f
+  - name: Marzel,
+    role: Valincours Gärtner.
+    gender: m
+setting: >
+  Die Handlung geht nahe bey Paris, in dem Thale Montmorency vor. (Die Bühne stellt das Innere eines schönen gezierten Gartens vor. Dem Zuseher zur Linken ist der Eingang zu einem Pavillon. Auf der nämlichen Seite weiter vorne steht die Statue des Amors, in einer Hand hält er Blumen, in der andern Dornen und Pfeile; auf dem Pedestal liest man die Inschrift: Mit der einen Hand liebkoset, mit der andern verwundet er uns. Auf der andern Seite der Bühne, gegenüber vom Pavillon, ist eine Bosquet bey dessen Eingang eine Gruppe von Figuren steht, welche den Samson vorstellt, wie er im Schooße der Delila schläft, und diese ihm die Haare abschneidet. Unten liest man die Aufschrift: Vertrauen verrathen durch Liebe. Gesträuche und Blumengeschirre sind hin und wieder vertheilt. In der Mitte der Bühne stehen zwey große Gießkannen und ein Rechen. Im Hintergrunde ist der Garten durch eine Mauer, welche oben mit einer Treillage besetzt ist, geschlossen. In der Mitte dieser Mauer ist eine kleine grüne Thüre sichtbar, welche ins Freye führt. Außer der Mauer sieht man von einer Seite Landschaft, von der andern Seite einen Theil des Landhauses, zu welchem dieser Garten gehört.)
+---
 slug: castelli-uniform-und-schlafrock
 author:
   name: Castelli, Ignaz Franz
@@ -9245,6 +9342,29 @@ cast:
     gender: m
 setting: >
   In einem Salon bey dem Herrn von Troppau.
+---
+slug: eberhard-sankt-sylvester-oder-der-alte-krieg-und-neue-sieg
+author:
+  name: Eberhard, August Gottlob
+  wikidata: Q214499
+title: Sankt Sylvester, oder der alte Krieg und neue Sieg
+subtitle: Posse in einem Aufzug, in Marionetten-Manier
+numberOfScenes: 11
+printed: 1813
+formalia:
+  - Alexandriner
+editions:
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Achter Band. Augsburg und Leipzig: Stage [1813], S. 285–321"
+    url: https://books.google.com/books?id=-_xHAAAAcAAJ&pg=PA285
+cast:
+  - name: Der verliebte Prinz.
+    gender: m
+  - name: Die schnippische Prinzessin.
+    gender: f
+  - name: Der gravitätische Mentor.
+    gender: m
+  - name: Die böse Mentorin.
+    gender: f
 ---
 slug: eckardt-der-fleissige-schuster
 author:
@@ -9975,6 +10095,51 @@ cast:
     gender: u
 setting: >
   Scene: Park eines Landsitzes in der Nähe der Residenz.
+---
+slug: friedrich-der-geist-oder-die-unterbrochene-theaterprobe
+author:
+  name: Friedrich, Theodor Heinrich
+  wikidata: Q1353485
+title: Der Geist, oder die unterbrochene Theaterprobe
+subtitle: Ein Schwank in Einem Aufzuge
+numberOfScenes: 19
+printed: 1818
+premiered: 1814-07-14
+formalia:
+  - Prosa
+editions:
+  - title: "Neue Bibliothek kleiner Theaterstücke für Privat-Gesellschaften. Ein Pendant zu der deutschen Schaubühne. Dritter Theil. Augsburg und Leipzig: Jenisch und Stage [1818], S. 133–170"
+    url: https://books.google.com/books?id=1NuUYHbjz-UC&pg=PA133
+comments:
+  - "Hinweis zum Autor auf dem Titelblatt: »Verfasser der satyrischen Feldzüge.«"
+cast:
+  - name: Graf Stillensee.
+    gender: m
+  - name: Emilie,
+    role: dessen Tochter.
+    gender: f
+  - name: Kammerherr von Storch.
+    gender: m
+  - name: Herr v. Zimper.
+    gender: m
+  - name: Heinrich v. Holm.
+    gender: m
+  - name: Frau v. Hohenthurm.
+    gender: f
+  - name: Commissionsrath Gemsbock.
+    gender: m
+  - name: Schauspieler Kraft.
+    gender: m
+  - name: Gottlieb,
+    role: Holms Bedienter.
+    gender: m
+  - name: Mehrere Schauspiel-Dilettanten und Hausfreunde des Grafen.
+    isGroup: true
+    gender: u
+  - name: Ein Bedienter des Grafen.
+    gender: m
+setting: >
+  Die Scene ist auf dem Landsitze desselben. (Ein Lustwäldchen bei dem gräflichen Schlosse.)
 ---
 slug: gasser-ramirus
 author:
@@ -12166,6 +12331,40 @@ cast:
     gender: m
 setting: >
   Die Szene ist auf einem freyen Plaze vor Rösgens Hause.
+---
+slug: hinze-ein-streich-zum-todtlachen
+author:
+  name: Hinze, Paul Friedrich Hinze
+  wikidata: Q19210496
+title: Ein Streich zum Todtlachen
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 12
+printed: 1818
+formalia:
+  - Prosa
+editions:
+  - title: "Neue Bibliothek kleiner Theaterstücke für Privat-Gesellschaften. Ein Pendant zu der deutschen Schaubühne. Dritter Theil. Augsburg und Leipzig: Jenisch und Stage [1818], S. 1–36"
+    url: https://books.google.com/books?id=1NuUYHbjz-UC&pg=PA1
+cast:
+  - group:
+    - name: Anna Maria Siedentopf, 61 Jahre alt
+      gender: f
+    - name: Euphrosine Christlich, 57 Jahre alt
+      gender: f
+    role: Tanten von
+  - name: Louise,
+    role: Tochter des verstorbenen Rendanten Siedentopf.
+    gender: f
+  - name: Jean Jaques,
+    role: ein Kommis.
+    gender: m
+  - name: Karl Gut,
+    role: ein junger Kaufmann
+    gender: m
+  - name: Ein alter Kater.
+    gender: u
+setting: >
+  In einem reinlichen Zimmer, mit altfränkischen Meubles und Portraits an den Wänden, sitzt Anna Maria rechts neben einem Tische und spinnt; links Euphrosine, die Brille auf der Nase, in einer Postille lesend; an der andern Seite des Tisches rechter Hand, auf der Erde, sitzt Karl Gut, und füttert einen unter dem Tische befindlichen, aber nicht sichtbaren alten Kater.
 ---
 slug: hippel-der-mann-nach-der-uhr-oder-der-ordentliche-mann
 author:
@@ -18308,6 +18507,39 @@ cast:
 setting: >
   Saal mit mehreren Thüren im Haus des Baron Löventhal. Ein Tisch mit einer Klingel und eine Klingelschnur an der Wand.
 ---
+slug: krickeberg-wer-traegt-die-schuld
+author:
+  name: Krickeberg, Sophie Friederike
+  wikidata: Q26878036
+title: Wer trägt die Schuld?
+subtitle: Lustspiel in Einem Akt. Aus dem Französischen des Scribe
+numberOfScenes: 17
+printed: 1830
+premiered: 1830-03-25
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Mélesville: [»La seconde année, ou À qui la faute? Comédie-vaudeville en un acte«](https://books.google.com/books?id=CJfCXy8_s-YC&pg=PA371)"
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band I, No. 6. Berlin: Cosmar und Krause 1830, S. 81–94"
+    url: https://books.google.com/books?id=dWRcAAAAcAAJ&pg=PA81
+cast:
+  - name: Haller,
+    role: Banquier.
+    gender: m
+  - name: Caroline,
+    role: seine Frau.
+    gender: f
+  - name: Graf Edmund von der Bürg.
+    gender: m
+  - name: Matthias Rechner,
+    role: Hallers Buchhalter.
+    gender: m
+  - name: Ein Diener.
+    gender: m
+setting: >
+  Reich Meublirtes Zimmer in Hallers Hause – Im Vordergrunde links ein kaufmännisches Bureau, rechts diesem gegenüber ein eleganter Stehspiegel. – Ein Sopha an der Wand – ein Flügelfortepiano – drei Thüren – eine im Hintergrunde – eine links, die andere rechts an den Coulissen. – Im Hintergrunde ein Kamin mit Zubehör.
+---
 slug: kringsteiner-othello-der-mohr-in-wien
 author:
   name: Kringsteiner, Ferdinand
@@ -23948,6 +24180,80 @@ cast:
     gender: m
 setting: >
   Ein Gartensalon mit einer Mittel- und Seitenthüren, deren eine zum Speisesaal, die andere zu den Zimmern Camilla's führt. Auf der linken Seite ein Tisch mit Schreibgeräth, eben da ein Flügel-Pianoforte und Musik. Rechts ein Tisch mit verschiedener weiblicher Arbeit.
+---
+slug: schneider-der-erwartete
+author:
+  name: Schneider, Louis
+  pseudonym: Both, L. W.
+  wikidata: Q214659
+title: Der Erwartete
+subtitle: Drama in Einem Akt. Nach dem Französischen des Scribe
+numberOfScenes: 19
+printed: 1830
+premiered: 1829-08-03
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Antoine-François Varner: [»Théobald, ou Le retour de Russie. Comédie-vaudeville en un acte«](https://books.google.com/books?id=WRddAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band I, No. 2. Berlin: Cosmar und Krause 1830, S. 17–31"
+    url: https://books.google.com/books?id=dWRcAAAAcAAJ&pg=PA17
+cast:
+  - name: Raimund,
+    role: praktischer Arzt.
+    gender: m
+  - name: v. Schaal,
+    role: Assessor.
+    gender: m
+  - name: Theobald v. Bingen.
+    gender: m
+  - name: Frau v. Budberg.
+    gender: f
+  - name: Caroline,
+    role: deren Enkelin.
+    gender: f
+  - name: Die Baronin v. Rheinberg.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >
+  Das Stück spielt in einer Stadt am Rhein, im Hause der Frau Budberg.
+---
+slug: schneider-der-junge-pathe
+author:
+  name: Schneider, Louis
+  pseudonym: Both, L. W.
+  wikidata: Q214659
+title: Der junge Pathe
+subtitle: Lustspiel in Einem Akt. Aus dem Französischen des Scribe
+numberOfScenes: 17
+printed: 1830
+premiered: 1830-07-29
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe, Lockroy und Jules Chabot de Bouin: [»La jeune marraine. Comédie-vaudeville en un acte«](https://books.google.com/books?id=JL6LFCWpRCkC&pg=PA1)"
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band I, No. 8. Berlin: Cosmar und Krause 1830, S. 115–126"
+    url: https://books.google.com/books?id=dWRcAAAAcAAJ&pg=RA1-PA115
+cast:
+  - name: Frau v. Lucy,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Eduard,
+    role: ihr Pathe.
+    gender: m
+  - name: Herr v. Mordy,
+    role: Justizrath.
+    gender: m
+  - name: Cäcilie,
+    role: dessen Schwester.
+    gender: f
+  - name: Jean Champenoux,
+    role: Pachter und Pathe der Frau v. Lucy.
+    gender: m
+setting: >
+  Das Stück spielt auf einem Gute der Frau v. Lucy.
 ---
 slug: schneider-frauenhass
 author:
