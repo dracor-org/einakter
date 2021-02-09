@@ -170,6 +170,17 @@ export default function Details () {
                       {dictionaries.bibliographia}
                     </li>
                   )}
+                  {dictionaries.corvey && (
+                    <li>
+                      <a href="https://nbn-resolving.de/urn:nbn:de:bvb:12-bsb00040797-1">
+                        Die Dramen der Fürstlichen Bibliothek Corvey, 1805–1832
+                      </a>
+                      {' '}
+                      (2000).
+                      {' '}
+                      {dictionaries.corvey}
+                    </li>
+                  )}
                   {dictionaries.dramenlexikon && (
                     <li>
                       <a href="https://de.wikipedia.org/wiki/Dramenlexikon_des_18._Jahrhunderts">

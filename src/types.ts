@@ -36,6 +36,7 @@ export interface Play {
   editions?: Edition[]
   dictionaries?: {
     bibliographia?: string
+    corvey?: string
     dramenlexikon?: string
     iffland?: string
     kotzebue?: string
