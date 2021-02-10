@@ -2100,7 +2100,7 @@ premiered: 1752
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Cérou: [L'Amant auteur et valet](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/CEROU_AMANTAUTEUR.xml)"
+  - "Pierre Cérou: [»L'amant auteur et valet. Comédie en un acte et en prose«](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/CEROU_AMANTAUTEUR.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 17, S. 408, und Band 18, S. 152–154
 editions:
@@ -6261,6 +6261,44 @@ cast:
 setting: >
   Handlung: zu Stockholm, im Palais des Grafen Piper, im Jahre 1701.
 ---
+slug: benedix-der-prozess
+author:
+  name: Benedix, Roderich
+  wikidata: Q87176
+title: Der Proceß
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 6
+created: 1848
+printed: 1849
+formalia:
+  - Prosa
+editions:
+  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Fünfter Band. Leipzig: Weber 1849, S. 245–280"
+    url: https://books.google.com/books?id=gCxYhq9eqQ4C&pg=PA245
+  - title: "Als Manuscript gedruckt. Leipzig: Sturm und Koppe [ohne Jahr]"
+    url: https://books.google.com/books?id=7P_2rCUf6GQC&printsec=frontcover
+comments:
+  - "Kurze Erwähnung in W. Neumann: Roderich Benedix. Cassel: Balde 1853, [S. 14](https://books.google.com/books?id=X4xTAAAAcAAJ&pg=PA14)."
+cast:
+  - group:
+    - name: Schulze,
+      gender: m
+    - name: Lehmann,
+      gender: m
+    role: Gutsbesitzer.
+  - name: Lohmeier,
+    role: Advokat.
+    gender: m
+  - name: Kropp,
+    role: Gefängnißwärter.
+    gender: m
+  - name: Nachtwächter.
+    gender: m
+  - name: Polizeidiener.
+    gender: m
+setting: >
+  Die Handlung geht in einer großen Stadt vor.
+---
 slug: benedix-der-weiberfeind
 author:
   name: Benedix, Roderich
@@ -6480,6 +6518,64 @@ cast:
     role: in Alfreds Diensten.
 setting: >
   Zimmer in Alfreds Hause mit Mittelthüre und Seitenthüren. In der Mitte der Bühne ein halbgedeckter Tisch, der so weit zurücksteht, daß der ganze Vorgrund für die Handelnden frei bleibt. Rechts von der Mittelthüre ein zweiter Tisch, auf welchem Gläser, Flaschen, Weißzeug und Alles, was zum Decken einer Tafel nöthig ist. Links vorn ein Nähtischchen und ein Sopha, rechts ein kleiner Tisch mit einer Zeitung.
+---
+slug: benedix-entsagung
+author:
+  name: Benedix, Roderich
+  wikidata: Q87176
+title: Entsagung
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 7
+created: 1845
+printed: 1848
+formalia:
+  - Prosa
+editions:
+ - title: "Gesammelte Dramatische Werke von Roderich Benedix. Vierter Band. Leipzig: Weber 1848, S. 135–162"
+   url: https://books.google.com/books?id=il86AAAAcAAJ&pg=PA135
+cast:
+  - name: Mathilde.
+    gender: f
+  - name: Reinhold.
+    gender: m
+  - name: Graf von Felsenstein,
+    role: Kammerherr.
+    gender: m
+  - name: Gräfin von Felsenstein,
+    role: seine Gemahlin.
+    gender: f
+  - name: Christine,
+    role: Mathildens alte Dienerin.
+    gender: f
+setting: >
+  Ort der Handlung: Mathildens Landgut, unweit einer kleinen Stadt.
+---
+slug: benedix-unerschuetterlich
+author:
+  name: Benedix, Roderich
+  wikidata: Q87176
+title: Unerschütterlich
+subtitle: Vorspiel in einem Aufzuge
+numberOfScenes: 7
+created: 1845
+printed: 1848
+premiered: 1847-07-25
+formalia:
+  - Prosa
+editions:
+  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Vierter Band. Leipzig: Weber 1848, S. 1–22"
+    url: https://books.google.com/books?id=il86AAAAcAAJ&pg=PA1
+cast:
+  - name: Der Vater.
+    gender: m
+  - name: Die Mutter.
+    gender: f
+  - name: Die Tochter.
+    gender: f
+  - name: Der Liebhaber.
+    gender: m
+setting: >
+  Zimmer mit Mittel- und zwei Seitenthüren.
 ---
 slug: bergobzoomer-der-officier
 author:
@@ -12662,6 +12758,8 @@ printed: 1799
 premiered: 1798-02-28
 formalia:
   - Prosa
+dictionaries:
+  iffland: S. 146–148
 editions:
   - title: "Leipzig: Göschen 1799"
     url: https://books.google.com/books?id=mR51Wa6y9bgC&printsec=frontcover
@@ -12693,6 +12791,12 @@ title: Der Magnetismus
 subtitle: Nachspiel in einem Aufzug
 numberOfScenes: 13
 printed: 1787
+premiered: 1787-07-07
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 30, S. 103–104
+  iffland: S. 170–173
 editions:
   - title: "Mannheim: Schwan und Götz 1787"
     url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11090349-6
@@ -12706,20 +12810,25 @@ keywords:
 ids:
   wikidata: Q95500234
 cast:
-  - name: Hofrath Rosenstein
+  - name: Hofrath Rosenstein.
     gender: m
-  - name: Lieutenant Linden
+  - name: Lieutenant Linden.
     gender: m
-  - name: Konsistorial-Registrator Rendius
+  - name: Konsistorial-Registrator Rendius.
     gender: m
-  - name: Kantor Sandbach
+  - name: Kantor Sandbach.
     gender: m
-  - name: Karoline, dessen Tochter
+  - name: Karoline,
+    role: dessen Tochter.
     gender: f
-  - name: Grundmann, ein reducierter Soldat, Lindens Aufwärter
+  - name: Grundmann,
+    role: ein reducirter Soldat, Lindens Aufwärter.
     gender: m
-  - name: Franz, Rosensteins Bedienter
+  - name: Franz,
+    role: Rosensteins Bedienter.
     gender: m
+setting: >
+  Ein kurzes, bürgerliches Zimmer.
 ---
 slug: iffland-der-taufschein
 author:
@@ -12733,6 +12842,8 @@ formalia:
   - Prosa
 basedOn:
   - "Louis-Benoît Picard: [»L'acte de naissance. Comédie en un acte et en prose«](https://books.google.com/books?id=lxAzAQAAMAAJ&pg=PA351)"
+dictionaries:
+  iffland: S. 225–228
 editions:
   - title: "Berlin: Braunes 1807"
     url: https://books.google.com/books?id=Ub-YtQEACAAJ&pg=PA1
@@ -12765,6 +12876,8 @@ printed: 1798
 premiered: 1798-07-06
 formalia:
   - Prosa
+dictionaries:
+  iffland: S. 244–247
 editions:
   - title: "Berlin: Unger 1798"
     url: https://books.google.com/books?id=fDldAAAAcAAJ&printsec=frontcover
@@ -12817,6 +12930,8 @@ printed: 1808
 premiered: 1808-03-20
 formalia:
   - Prosa
+dictionaries:
+  iffland: S. 39–42
 editions:
   - title: "A. W. Iffland's dramatische Werke. Siebzehnter Band. Berlin: Oehmigke 1808"
     url: https://books.google.com/books?id=SstIAAAAcAAJ&pg=RA3-PA1
@@ -12850,6 +12965,8 @@ printed: 1799
 premiered: 1795-03-05
 formalia:
   - Prosa
+dictionaries:
+  iffland: S. 101–104
 editions:
   - title: "A. W. Ifflands dramatische Werke. Neunter Band. Leipzig: Göschen 1799"
     url: https://books.google.com/books?id=RMBCAQAAMAAJ&pg=RA3-PA1
@@ -12893,6 +13010,8 @@ numberOfScenes: 13
 printed: 1807
 formalia:
   - Prosa
+dictionaries:
+  iffland: S. 178–182
 editions:
   - title: "[Augsburg: Bolling] 1807"
     url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10118576-3
@@ -12936,6 +13055,8 @@ formalia:
   - Prosa
 basedOn:
   - "Louis-Benoît Picard: [»Les oisifs. Comédie en un acte et en prose«](https://books.google.com/books?id=FqUGAAAAQAAJ&pg=PA121)."
+dictionaries:
+  iffland: S. 186–189
 editions:
   - title: "Berlin: Braunes 1812"
     url: https://books.google.com/books?id=FT-94XtOXcsC&printsec=frontcover
@@ -12988,6 +13109,8 @@ formalia:
   - Prosa
 basedOn:
   - "Louis-Benoît Picard: [»Les voisins. Comédie en un acte, en prose«](https://books.google.com/books?id=3VE6AAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  iffland: S. 189–193
 editions:
   - title: "Berlin: Braunes 1807"
     url: https://books.google.com/books?id=4MDtAAAAMAAJ&pg=RA1-PA1
@@ -13027,6 +13150,8 @@ printed: 1793
 premiered: 1793-01-01
 formalia:
   - Prosa
+dictionaries:
+  iffland: S. 240–244
 editions:
   - title: "Mannheim: Schwan 1793"
   - title: "Wien: Wallishausser 1801"
@@ -13075,6 +13200,7 @@ formalia:
   - Prosa
 dictionaries:
   bibliographia: 2. Abteilung, Band 31, S. 134–135
+  iffland: S. 165–169
 editions:
   - title: "Mannheim 1790"
   - title: "Köln am Rheine: Imhof 1791"
@@ -13121,6 +13247,8 @@ formalia:
   - Prosa
 basedOn:
   - "Louis-Benoît Picard: [»Les ricochets. Comédie en un acte et en prose«](https://books.google.com/books?id=8JJMAQAAMAAJ&pg=PA1)"
+dictionaries:
+  iffland: S. 207–211
 editions:
   - title: "Berlin: Braunes 1807"
     url: https://books.google.com/books?id=72KS5Et565UC&printsec=frontcover
@@ -14175,6 +14303,8 @@ created: 1811
 premiered: 1812
 formalia:
   - Verse
+dictionaries:
+  corvey: S. 193–194
 editions:
   - title: "[Ohne Ort: ohne Jahr]"
     url: https://books.google.com/books?id=wcRI5mAIVe8C&printsec=frontcover
@@ -14227,7 +14357,7 @@ premiered: 1812-01-17
 formalia:
   - Alexandriner
 dictionaries:
-  corvey: S. 194-195
+  corvey: S. 194–195
 editions:
   - title: "Dramatische Beyträge von Theodor Körner. Erster Band. Wien: Wallishausser 1813, S. 103–142"
     url: https://books.google.com/books?id=8RAzAQAAMAAJ&pg=PA103
@@ -14255,9 +14385,11 @@ subtitle: Eine Posse in Versen und einem Aufzuge
 numberOfScenes: 12
 created: 1812
 printed: 1813
-premiered: 1812
+premiered: 1812-02-08
 formalia:
   - Knittelverse
+dictionaries:
+  corvey: S. 196–197
 editions:
   - title: "Dramatische Beyträge von Theodor Körner. Erster Band. Wien: Wallishausser 1813, S. 143–184"
     url: https://books.google.com/books?id=8RAzAQAAMAAJ&pg=PA143
@@ -14297,6 +14429,8 @@ created: 1811
 premiered: 1812-08-10
 formalia:
   - Verse
+dictionaries:
+  corvey: S. 197
 editions:
   - title: "Dramatische Beyträge von Theodor Körner. Zweyter Band. Original-Ausgabe. Wien: Wallishausser 1814, S. 19–51"
     url: https://books.google.com/books?id=0s6LjB4UBo0C&pg=PA19
@@ -14335,6 +14469,8 @@ printed: 1813
 premiered: 1812-01-17
 formalia:
   - Alexandriner
+dictionaries:
+  corvey: S. 199–200
 editions:
   - title: "Dramatische Beyträge von Theodor Körner. Erster Band. Wien: Wallishausser 1813, S. 65–102"
     url: https://books.google.com/books?id=8RAzAQAAMAAJ&pg=PA65
@@ -14368,6 +14504,8 @@ created: 1812
 printed: 1814
 formalia:
   - Alexandriner
+dictionaries:
+  corvey: S. 200–201
 editions:
   - title: "Dramatische Beyträge von Theodor Körner. Zweyter Band. Original-Ausgabe. Wien: Wallishausser 1814, S. 169–216"
     url: https://books.google.com/books?id=0s6LjB4UBo0C&pg=PA169
@@ -14400,6 +14538,8 @@ created: 1812
 premiered: 1812-05-04
 formalia:
   - Verse
+dictionaries:
+  corvey: S. 201–202
 editions:
   - title: "Theodor Körner's sämmtliche Werke. Im Auftrage der Mutter des Dichters herausgegeben und mit einem Vorworte begleitet von Karl Streckfuß. Dritte rechtmäßige Gesammt-Ausgabe in Einem Bande. Berlin: Nicolai; Wien: Gerold 1838, S. 114–121"
     url: https://books.google.com/books?id=qs8WAAAAQAAJ&pg=PA114
@@ -14431,6 +14571,8 @@ numberOfScenes: 8
 created: 1813
 formalia:
   - Prosa
+dictionaries:
+  corvey: S. 203–204
 editions:
   - title: "Theodor Körners sämmtliche Werke. Zweyter Band. Dramatische Beyträge. Zweyter Theil. Carlsruhe: Bureau der deutschen Classiker 1828, S. 53–82"
     url: https://books.google.com/books?id=Irw9AAAAYAAJ&pg=PA53
@@ -28077,6 +28219,8 @@ printed: 1826
 premiered: 1824-02-11
 formalia:
   - Prosa
+dictionaries:
+  corvey: S. 443
 editions:
   - title: "Neueste Schauspiele von Johanna Franul v. Weissenthurn. Eilfter Band oder Neue Folge dritter Band. Wien: Wallishausser 1826, S. 223–284"
     url: https://books.google.com/books?id=LzRiIHvtkQ4C&pg=PA223
@@ -28113,6 +28257,8 @@ printed: 1826
 premiered: 1824-02-11
 formalia:
   - Verse
+dictionaries:
+  corvey: S. 447
 editions:
   - title: "Neueste Schauspiele von Johanna Franul v. Weissenthurn. Eilfter Band oder Neue Folge dritter Band. Wien: Wallishausser 1826, S. 187–222"
     url: https://books.google.com/books?id=LzRiIHvtkQ4C&pg=PA189
