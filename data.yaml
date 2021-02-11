@@ -306,6 +306,9 @@ dictionaries:
 editions:
   - title: "Offenbach am Mayn: Weiß 1765"
     url: https://books.google.com/books?id=hOtRhHivrfQC&printsec=frontcover
+ids:
+  dracor: ger000525
+  wikidata: Q105436023
 cast:
   - name: Oront.
     gender: m
@@ -5562,6 +5565,37 @@ cast:
   - name: Olinde,
     role: Zeneidens Geliebter.
     gender: m
+---
+slug: anonym-zwey-tage-auf-dem-lande
+author:
+  pseudonym: Anonym
+title: Zwey Tage auf dem Lande
+subtitle: Ein Lustspiel in einem Aufzuge, nach der Erzählung des Baron Steigentesch bearbeitet
+numberOfScenes: 14
+printed: 1813
+premiered: 1816
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele für Gesellschaftstheater. Von Franz August von Kurländer. Dritter Jahrgang. Wien und Triest: Geistinger 1813, S. 133–194"
+    url: https://books.google.com/books?id=YdLzHfwYN1gC&pg=PA133
+comments:
+  - Dramatisierung von Steigenteschs [gleichnamiger Erzählung](https://books.google.com/books?id=r_FXAAAAcAAJ&pg=PA7) (zuerst 1802).
+  - "Hinweis zur Aufführung 1816 [bei Goedeke](https://books.google.com/books?id=JjjnBQAAQBAJ&pg=PA243)."
+  - "Weiteres zur Beziehung zwischen Vorlage und Dramatisierung bei Ursula Klingenböck: »Die Natur ist wie unsere Oper«. Rezeption und Reflexion von Stadt und Provinz in August Ernst von Steigenteschs »Zwey Tage auf dem Lande«. In: Studia Austriaca IX (2001), 177–212. ([PDF](https://riviste.unimi.it/index.php/StudiaAustriaca/article/view/1969/2219))"
+cast:
+  - name: Graf Helm.
+    gender: m
+  - name: Fritz,
+    role: sein Neffe.
+    gender: m
+  - name: Evelina,
+    role: dessen Gemahlinn.
+    gender: f
+  - name: Heinrich.
+    gender: m
+setting: >
+  Die Handlung spielt auf dem Landgute des alten Grafen. (Ein altgothischer Saal mit Mittel- Seitenthür und einem Fenster. Zwey Schirme stehen im Hintergrunde. Links ein Kamin, vorne, rechts und links, ein alter Schreibtisch, mit allem nöthigen Geräthe.)
 ---
 slug: arnstein-das-billett
 author:
@@ -25933,6 +25967,39 @@ cast:
 setting: >
   Zimmer bei Kloß.
 ---
+slug: stein-die-armen-maler
+author:
+  name: Stein, Karl
+  wikidata: Q55193372
+title: Die armen Maler
+subtitle: Lustspiel in einem Aufzuge; frei nach dem Französischen
+numberOfScenes: 10
+printed: 1820
+premiered: 1818-10-10
+formalia:
+  - Alexandriner
+editions:
+  - title: "Deutsches Theater von Karl Stein. Berlin: Stuhr 1820, S. 1–48"
+    url: https://books.google.com/books?id=UTCnmAp6z_EC&pg=PA1
+cast:
+  - group:
+    - name: Krüger
+      gender: m
+    - name: Sellnau
+      gender: m
+    role: Maler
+  - name: Metha
+    role: Sellnau's Tochter
+    gender: f
+  - name: Koch
+    role: Schauspieler
+    gender: m
+  - name: Julius Wendt
+    role: Kaufmann
+    gender: m
+setting: >
+  Ort der Handlung: Leipzig. Zeit: Jahr 1773. (Die Scene ist ein kleines, ärmliches Dachstübchen.)
+---
 slug: stein-shakespeares-bestimmung
 author:
   name: Stein, Karl
@@ -28190,6 +28257,8 @@ printed: 1826
 premiered: 1824-02-11
 formalia:
   - Prosa
+dictionaries:
+  corvey: S. 436
 editions:
   - title: "Neueste Schauspiele von Johanna Franul v. Weissenthurn. Eilfter Band oder Neue Folge dritter Band. Wien: Wallishausser 1826, S. 125–186"
     url: https://books.google.com/books?id=s-FWAAAAYAAJ&pg=PA125
@@ -28207,6 +28276,44 @@ cast:
     gender: m
 setting: >
   Das Stück spielt in Winklers Hause.
+---
+slug: weissenthurn-die-ehescheuen
+author:
+  name: Weißenthurn, Johanna Franul von
+  wikidata: Q1696932
+title: Die Ehescheuen
+subtitle: Ein Lustspiel in einem Act
+numberOfScenes: 13
+printed: 1810
+premiered: 1808-03-18
+formalia:
+  - Prosa
+dictionaries:
+  corvey: S. 442
+editions:
+  - title: "Schauspiele von Johanna Franul v. Weissenthurn, gebornen Grünberg. Fünfter Band. Wien: Degen 1810, S. 207–248"
+    url: https://books.google.com/books?id=zQZkAAAAcAAJ&pg=PA207
+cast:
+  - name: Der Graf.
+    gender: m
+  - group:
+    - name: August,
+      gender: m
+    - name: Franz,
+      gender: m
+    role: seine Söhne.
+  - name: Albertine,
+    role: seine Tochter.
+    gender: f
+  - name: Minna von Erlen.
+    gender: f
+  - name: Der Inspector.
+    gender: m
+  - name: Bedienter.
+    gender: m
+  - name: Hausleute.
+    isGroup: true
+    gender: u
 ---
 slug: weissenthurn-die-englaenderin
 author:
