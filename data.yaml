@@ -12023,6 +12023,57 @@ cast:
 setting: >
   Ein Zimmer mit zwei Seiten- und einer Mittelthür.
 ---
+slug: hell-drei-stockwerk-hoch-oder-das-lustspiel-auf-der-treppe
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Drei Stockwerk hoch oder das Lustspiel auf der Treppe
+subtitle: Nach dem Französischen bearbeitet. Nachspiel in einem Akte
+numberOfScenes: 30
+printed: 1811
+formalia:
+  - Prosa
+basedOn:
+  - "Marc-Antoine-Madeleine Désaugiers: [»Les trois étages, ou L'intrigue sur l'escalier. Vaudeville, en un acte et en prose«](https://books.google.com/books?id=aDVMAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Neue Lustspiele von Theodor Hell. Vierter Band. Leipzig: Hinrichs 1811"
+    url: https://books.google.com/books?id=C6RmAAAAcAAJ&pg=RA1-PA1
+cast:
+  - name: Dünnebier,
+    role: Hausbesitzer, wohnt in der ersten Etage links.
+    gender: m
+  - name: Stempler,
+    role: Advokat, wohnt in der ersten Etage rechts.
+    gender: m
+  - name: Sterblich,
+    role: Arzt, wohnt in der zweiten Etage rechts.
+    gender: m
+  - name: Streckvers,
+    role: ein Dichter, wohnt in der dritten Etage links.
+    gender: m
+  - name: Ein Kranker,
+    role: wohnt in der dritten Etage rechts.
+    gender: m
+  - name: Röschen,
+    role: Dünnebiers Nichte.
+    gender: f
+  - name: Mastmann,
+    role: Röschens Bestimmter.
+    gender: m
+  - name: Wilhelm,
+    role: ein Haarkräusler.
+    gender: m
+  - name: Feld,
+    role: Röschens Liebhaber.
+    gender: m
+  - name: Peter,
+    role: Portier und Schuster.
+    gender: m
+  - name: Ein Lohnbedienter.
+    gender: m
+setting: >
+  Scene. Das Hinterhaus Dünnebiers. (Das Theater stellt ein Hinterhaus und Hof mit einer Treppe von drei Etagen vor. Die Thüre Stemplers trägt die Innschrift: »Advokat Stempler.« Die Thür Sterblichs: »Doctor Sterblich.« Links vor dieser steht: »hier ist ein Quartier zu vermiethen.« Dies ist im zweiten Stocke links. Ein Reif zum Kleiderauspochen hängt im Hintergrunde mit einem Bindfaden am Treppengange aufgehängt. Vorn auf dem Theater links, ist die Zelle des Portiers, mit der Ueberschrift: »Man hat sich hier zu melden.« Rechts ist die Kellerthür, das runde Kellerloch nach den Zuschauern gerichtet. In der Mitte des Theaters ist die Thüre unter dem Treppengange.)
+---
 slug: hell-ein-besuch-im-narrenhause-oder-bedlams-nachbarschaft
 author:
   name: Hell, Theodor
@@ -20840,6 +20891,43 @@ cast:
 setting: >
   Schauplatz in Hamburg. Haus der Frau von Baldern.
 ---
+slug: meyer-ein-gestaendniss-oder-der-artikel-213-des-buergerlichen-gesetzbuchs
+author:
+  name: Meyer, Ludwig
+title: "Ein Gestaendniss, oder: Der Artikel 213 des bürgerlichen Gesetzbuchs"
+subtitle: Lustspiel in einem Act. Von Dennery und Lemoine
+numberOfScenes: 19
+printed: 1847
+formalia:
+  - Prosa
+basedOn:
+  - "Adolphe d'Ennery und Gustave Lemoine: [»L'article 213, ou, Le mari doit protection. Comédie-vaudeville en un acte«](https://books.google.com/books?id=UfkZD5gVDFcC&printsec=frontcover)"
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XVI, No. 128. Berlin: Hayn 1847"
+    url: https://books.google.com/books?id=sbFKAAAAcAAJ&printsec=frontcover
+keywords:
+  - Ehestandsszene
+cast:
+  - group:
+    - name: Duriveau,
+      gender: m
+    - name: Chambellan,
+      gender: m
+    role: Wechselagenten.
+  - name: Clara,
+    role: Duriveau's Gattin.
+    gender: f
+  - name: Lucie
+    role: Clara's Schwester, Chambellan's Gattin.
+    gender: f
+  - name: August de Belleville.
+    gender: m
+  - name: Jean,
+    role: ein alter Diener Duriveau's.
+    gender: m
+setting: >
+  Scene: Paris. (Elegantes Zimmer. Rechts (vom Schauspieler) ein Tisch. Links ein Bureau-Tisch mit Pult, Papieren, Schreibzeug, Büchern etc. Mittelthüre. Rechts eine Seitenthür. Links Fenster.)
+---
 slug: meyer-nuht-die-gottheit-von-nehestaet
 author:
   name: Meyer, Franz Anton von
@@ -21283,6 +21371,73 @@ cast:
     gender: f
   - name: Die Fremde.
     gender: f
+---
+slug: nabehl-jugend-streiche
+author:
+  name: Nabehl
+title: Jugend-Streiche
+subtitle: Lustspiel in Einem Aufzuge (Seitenstück zu den humoristischen Studien)
+numberOfScenes: 20
+printed: 1833
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Ein und Dreißigster Jahrgang. Hamburg: Hoffmann & Campe 1833, S. 1–52"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044945_00017.html
+cast:
+  - name: Herr Wahlbach,
+    role: ein wohlhabender Pachter.
+    gender: m
+  - name: Marie,
+    role: dessen Frau.
+    gender: f
+  - group:
+    - name: Ferdinand,
+      gender: m
+    - name: Franz,
+      gender: m
+    role: dessen Söhne.
+  - name: Herr Hippler,
+    role: vormals Lieferant bei der Armee.
+    gender: m
+  - name: Theodor,
+    role: dessen Sohn.
+    gender: m
+  - name: Sir Klindworth,
+    role: ein reicher Engländer.
+    gender: m
+  - name: Plutz,
+    role: dessen Hausmeister.
+    gender: m
+  - name: Herr Klapperbein,
+    role: ein Kaufmann.
+    gender: m
+  - name: Herr Quandtmuth,
+    role: Schuhmacher-Meister.
+    gender: m
+  - name: Herr Fippsmann,
+    role: Schneider.
+    gender: m
+  - name: Herr Stolldorf,
+    role: Pferde-Verleiher.
+    gender: m
+  - name: Frau Spuntetrull,
+    role: Traiteur-Witwe.
+    gender: f
+  - name: Jungfer Gänsemarkt,
+    role: Wäscherin.
+    gender: f
+  - name: Aaron,
+    role: ein Handelsjude.
+    gender: m
+  - name: Aufwärter aus einem großen Gasthofe.
+    isGroup: true
+    gender: u
+  - name: Mehrere Damen und Herrn als Gäste.
+    isGroup: true
+    gender: u
+setting: >
+  Eine sehr einfache Stube, mit einer Seitenthüre und einem Fenster. Beinahe in der Mitte ein Tisch, worauf ein Messing-Leuchter und eine Rumflasche mit einem Stückchen Licht, ein Punschnapf und einige Gläser, ein altes Schreibzeug und einige Spielkarten. Am Tische ein Bett. Zwei alte Rohrstühle, Hieber, Rappiere, Fecht-Handschuh und einige lange Pfeifen stehen unordentlich umher oder hängen an der Wand. Rechts an der Wand hängt Wahlbachs Mantel und Hut, sein Rock über einen Stuhl.
 ---
 slug: pantke-die-jugend
 author:
@@ -22510,7 +22665,7 @@ author:
   wikidata: Q55901750
 title: Die Eheleute vor der Hochzeit oder sie sind zu Hause
 subtitle: Lustspiel in Einem Aufzuge. Nach dem Französischen frey bearbeitet
-numberOfScenes: 21
+numberOfScenes: 22
 printed: 1809
 premiered: 1809-11-03
 formalia:
