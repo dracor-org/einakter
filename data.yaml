@@ -5340,6 +5340,52 @@ cast:
     isGroup: true
     gender: f
 ---
+slug: anonym-sie-sind-zu-hause
+author:
+  pseudonym: Anonym
+title: Sie sind zu Hause
+subtitle: Ein Lustspiel in einem Acte, nach Desaugiers frey bearbeitet
+numberOfScenes: 21
+printed: 1808
+premiered: 1809-03-25
+formalia:
+  - Prosa
+basedOn:
+  - "Marc-Antoine-Madeleine Désaugiers: [»Les époux avant le mariage, ou Ils sont chez eux. Opéra-comique en un acte«](https://books.google.com/books?id=IVloAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Wien: Wallishausser 1808"
+    url: https://books.google.com/books?id=OPq0TAyKkG4C&printsec=frontcover
+comments:
+  - "Weitere Übersetzung: [Reinhold 1809](reinhold-die-eheleute-vor-der-hochzeit-oder-sie-sind-zu-hause)."
+  - "Zur Aufführung in Hamburg 1809 vgl. [Goedeke](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA339)."
+cast:
+  - name: Von Wallheim,
+    role: ein junger Officier, Liebhaber der Wittwe Sontheim.
+    gender: m
+  - name: Emilie von Sontheim,
+    role: junge Wittwe.
+    gender: f
+  - name: Rücker,
+    role: Wallheims Onkel.
+    gender: m
+  - name: Mad. Löppel,
+    role: Hausfrau.
+    gender: f
+  - name: Borst,
+    role: ein Meubelhändler.
+    gender: m
+  - name: Fritz,
+    role: Wallheims Bedienter.
+    gender: m
+  - name: Lottchen,
+    role: Emiliens Mädchen.
+    gender: f
+  - name: Träger.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geht in einer Hauptstadt vor. Ein halbeingerichteter Salon. Drey Hinterthüren, zwey Seitenthüren; ein Secretär mit Schriften; Feder, Dinte dem Zuseher links; zur Rechten ein Fenster.
+---
 slug: anonym-tabardillo-oder-der-grossprecher
 author:
   pseudonym: Anonym
@@ -22458,6 +22504,55 @@ cast:
 setting: >
   Die Scene ist in Paris, in Dorimenens Behausung.
 ---
+slug: reinhold-die-eheleute-vor-der-hochzeit-oder-sie-sind-zu-hause
+author:
+  name: Reinhold, Carl Wilhelm
+  wikidata: Q55901750
+title: Die Eheleute vor der Hochzeit oder sie sind zu Hause
+subtitle: Lustspiel in Einem Aufzuge. Nach dem Französischen frey bearbeitet
+numberOfScenes: 21
+printed: 1809
+premiered: 1809-11-03
+formalia:
+  - Prosa
+basedOn:
+  - "Marc-Antoine-Madeleine Désaugiers: [»Les époux avant le mariage, ou Ils sont chez eux. Opéra-comique en un acte«](https://books.google.com/books?id=IVloAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Leipzig: Solbrig 1809"
+    url: https://books.google.com/books?id=qJ9DAQAAMAAJ&printsec=frontcover
+comments:
+  - "Weitere Übersetzung: [Anonym (1808)](anonym-sie-sind-zu-hause)."
+  - "Reinholds Bearbeitung ist einigen Quellen zufolge nach Louis-Benoît Picards Fünfakter [»La noce sans mariage«](https://books.google.com/books?id=2nxLAAAAcAAJ&printsec=frontcover) (vgl. etwa [ADB](https://www.deutsche-biographie.de/sfz49872.html)). Schon die Namensgleichheit der Figuren mit dem Libretto von Désaugiers zeigt aber, dass das nicht zu stimmn scheint."
+  - "Besprechung in der Allgemeinen Literatur-Zeitung, September 1813, Nr. 227, [Sp. 144](https://books.google.com/books?id=VogFAAAAQAAJ&pg=PA143)."
+  - "Theaterzettel zur [Aufführung 1809 in Bremen](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1687934)."
+cast:
+  - name: Valsain,
+    role: ein junger Offizier, Geliebter der Madame de Solange.
+    gender: m
+  - name: Madame de Solange,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Düclos,
+    role: Valsains Onkel.
+    gender: m
+  - name: Madame Bertrand,
+    role: Hauseigenthümerin.
+    gender: f
+  - name: Dutrecht,
+    role: Tapezier.
+    gender: m
+  - name: Germain,
+    role: Valsains Bedienter.
+    gender: m
+  - name: Finette,
+    role: Kammermädchen der Madame de Solange.
+    gender: f
+  - name: Träger.
+    isGroup: true
+    gender: u
+setting: >
+  Die Scene ist in Paris. Das Theater stellt einen zur Hälfte meublirten Saal vor. Im Hintergrunde sind 3 Thüren und 2 auf beyden Seiten. Dem Zuschauer links steht eine Schreibcommode mit Papier, Feder und Dinte. Rechts ein Fenster.
+---
 slug: reuling-das-orackel
 author:
   name: Reuling, Carl Ludwig
@@ -26139,7 +26234,7 @@ editions:
   - title: "Regensburg: Breitfeld [ohne Jahr]"
     url: https://books.google.com/books?id=iVZZAAAAcAAJ&printsec=frontcover
 comments:
-  - "Von Meyer unter Anonyme 1770 einsortiert. Angabe zur Autorschaft und Datierung auf ca. 1780 laut Online-Katalogen. Laut Untertitel aufgeführt auf der Hochfürstlich Thurn und Taxischen Schaubühne."
+  - "Von Meyer unter Anonyme 1770 einsortiert. Angabe zur Autorschaft und Datierung auf ca. 1780 laut Online-Katalogen. Laut Untertitel aufgeführt auf der Hochfürstlich-Thurn, und Taxischen Schaubühne."
 cast:
   - name: Graf Friederich Waffenschall.
     gender: m
