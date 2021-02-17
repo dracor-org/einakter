@@ -9735,6 +9735,41 @@ cast:
 setting: >
   Zimmer mit Mittel- und Seitenthüren. – Nacht. Es schlägt 3 Uhr. – Die Mittelthüre geht auf.
 ---
+slug: doering-der-schulmeister-und-seine-frau
+author:
+  name: Döring, Georg
+  wikidata: Q3568258
+title: Der Schulmeister und seine Frau
+subtitle: Lustspiel in einem Act
+numberOfScenes: 13
+printed: 1823
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Ein u. Zwanzigster Jahrgang. Leipzig: Kummer 1823, S. 279–324"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044935_00295.html
+comments:
+  - "Besprechung in: Leipziger Literatur-Zeitung. Nr. 101 (23. des April. 1823), [Sp. 807–808](https://books.google.com/books?id=y1RxUHE9XE0C&pg=PA807), und Heidelberger Jahrbücher der Literatur, Nro. 74 (1822), [S. 1175](https://books.google.com/books?id=pOdaAAAAQAAJ&pg=PA1175)."
+cast:
+  - name: Fabian Bitterfrost,
+    role: Schulmeister im Städtchen X.
+    gender: m
+  - name: Barbara,
+    role: seine Frau.
+    gender: f
+  - name: Röschen.
+    gender: f
+  - name: Junker Stubenrauch.
+    gender: m
+  - group:
+    - name: Falk,
+      gender: m
+    - name: Friedel,
+      gender: m
+    role: Zwei Musikanten.
+setting: >
+  Zimmer des Schulmeisters mit zwei Seitenthüren und einem Eingange im Hintergrunde; neben diesem zwei Fenster, von denen eins paktikabel.
+---
 slug: doering-die-vier-tanten
 author:
   name: Döring, Georg
@@ -20283,6 +20318,38 @@ cast:
     gender: u
 setting: >
   Das Stück spielt in einem Landstädtchen, ohnweit der Residenz. (Oeffentlicher Platz; links des Notars, rechts der Putzmacherin Wohnung. Beide haben Aushängeschilder, und in beiden sind die Laden noch geschlossen. Den Hintergrund bildet ein elegantes, mit eisernem Gitter umzogenes Haus; in der Mitte der Bühne liegt ein großer Stein.)
+---
+slug: lebrun-scherz-um-scherz
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Scherz um Scherz
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1829
+formalia:
+  - Alexandriner
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sieben und zwanzigster Jahrgang. Hamburg: Hoffmann und Campe 1829, S. 77–130"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044941_00087.html
+comments:
+  - "»Aufgeführt auf dem Hamburger Stadttheater.«"
+cast:
+  - name: Graf Theodor.
+    gender: m
+  - name: Baron Karl.
+    gender: m
+  - name: Isabelle,
+    role: dessen Schwester.
+    gender: f
+  - name: Marie,
+    role: ihre Verwandte.
+    gender: f
+  - name: Johann,
+    role: Bedienter.
+    gender: m
+setting: >
+  Ort der Handlung: Ein Zimmer mit einer Mittel-Thüre und zwei Seiten-Thüren auf dem Schlosse des Barons.
 ---
 slug: lebrun-vater-dominique-oder-sauer-ist-suess
 author:
