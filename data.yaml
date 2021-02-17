@@ -2568,6 +2568,55 @@ cast:
 setting: >
   Die Handlung geht auf einem Dorfe vor, das einige Stunden von der Hauptstadt entlegen ist.
 ---
+slug: anonym-der-streit-oder-welches-geschlecht-brach-zuerst-die-treue-der-liebe
+author:
+  pseudonym: Anonym
+title: Der Streit, oder welches Geschlecht brach zuerst die Treue der Liebe?
+subtitle: Ein Lustspiel in einem Aufzug. Aus dem Französischen des Herrn Marivaux
+numberOfScenes: 19
+printed: 1778
+formalia:
+  - Prosa
+basedOn:
+  - "Marivaux: [»La dispute. Comédie en un acte, en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DISPUTE.xml)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 39
+editions:
+  - title: "Jena 1778"
+comments:
+  - "Besprechungen in: Taschenbuch für Schauspieler und Schauspielliebhaber. Offenbach am Mayn: Weiß 1779, [S. 343](https://books.google.com/books?id=uYpKAAAAcAAJ&pg=PA343), und Almanach der deutschen Musen auf das Jahr 1779. Leipzig: Weygand 1779, [S. 175](https://books.google.com/books?id=01leAAAAcAAJ&pg=PA175)."
+  - "Andere Übertragung von Johann Friedrich Schmidt unter dem Titel [»Wer ist in der Liebe unbeständig? Ein Lustspiel in zween Aufzügen«](https://books.google.com/books?id=f2loV8YPCusC&printsec=frontcover) (1777)."
+cast:
+  - name: Der Fürst.
+    gender: m
+  - name: Die Gräfin.
+    gender: f
+  - group:
+    - name: Therese,
+      gender: f
+    - name: Karolina,
+      gender: f
+    - name: Sophia,
+      gender: f
+    - name: Theodor,
+      gender: m
+    - name: Karl,
+      gender: m
+    - name: Wilhelm,
+      gender: m
+    role: junge Zöglinge des Fürsten.
+  - group:
+    - name: Toey,
+      gender: m
+    - name: Baby,
+      gender: m
+    role: ihre Wärter.
+  - name: Gefolge des Fürsten.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geht vor, auf einem Landguthe des Fürsten
+---
 slug: anonym-der-sudelkoch-oder-peter-krapfel
 author:
   pseudonym: Anonym
@@ -2850,6 +2899,42 @@ cast:
   - name: Musikanten und Tänzer.
     isGroup: true
     gender: u
+---
+slug: anonym-die-beyden-officiere
+author:
+  pseudonym: Anonym
+title: Die beyden Officiere
+subtitle: Ein Lustspiel in einem Aufzuge nach Düval
+numberOfScenes: 25
+printed: 1804
+formalia:
+  - Prosa
+basedOn:
+  - "Alexandre Duval: [»Les projets de mariage, ou, Les deux militaires. Comédie en un acte et en prose«](https://books.google.com/books?id=GH88ywkS_c0C&printsec=frontcover)"
+editions:
+  - title: "Leipzig: Baumgärter [1804]"
+    url: https://books.google.com/books?id=-DlIAAAAcAAJ&pg=PP5
+  - title: "Augsburg: Bürglen [ohne Jahr]"
+    url: https://books.google.com/books?id=Uq6LPRBRWaQC&printsec=frontcover
+comments:
+  - "Besprechung in: Neue Leipziger Literaturzeitung. 91. Stück (16. Julius 1804), [Sp. 1148](https://books.google.com/books?id=FgFQAAAAYAAJ&pg=PA1447)."
+cast:
+  - name: Der Baron.
+    gender: m
+  - name: Frau von Schönau,
+    role: seine Nichte.
+    gender: f
+  - name: Major von Westenberg.
+    gender: m
+  - name: Lieutenant von Seltitz.
+    gender: m
+  - name: Picard,
+    role: Kammerdiener des Barons.
+    gender: m
+  - name: Noch ein Bedienter.
+    gender: m
+setting: >
+  Der Schauplatz ist in einem Gartensaale.
 ---
 slug: anonym-die-haushaelterin
 author:
@@ -6231,6 +6316,44 @@ cast:
 setting: >
   Freier Platz vor einem schönen Landhause, linker Hand hohe Bäume und Gebüsch.
 ---
+slug: bartsch-die-macht-der-toene
+author:
+  name: Bartsch, Leopold
+  wikidata: Q94897782
+title: Die Macht der Töne
+subtitle: Dramatische Scene in einem Akt
+numberOfScenes: 11
+printed: 1830
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Neunter Jahrgang, für 1830. Berlin: Vereinsbuchhandlung 1830, S. 209–238"
+    url: https://books.google.com/books?id=ksE6AAAAcAAJ&pg=PA209
+cast:
+  - name: Theodor.
+    gender: m
+  - name: Amalie Hold, unter dem namen Cecilie,
+    role: Sängerin.
+    gender: f
+  - name: Ferdinand,
+    role: ihr Bruder.
+    gender: m
+  - name: Doktor Grübler,
+    role: Arzt.
+    gender: m
+  - name: Herr von Daus.
+    gender: m
+  - name: Johann,
+    role: sein Bedienter.
+    gender: m
+  - name: Heinrich,
+    role: Bedienter bei der Sängerin.
+    gender: m
+  - name: Ein Orchesterdiener.
+    gender: m
+setting: >
+  Das Theater zeigt das Vorzimmer der Sängerin. Rechts vom Schauspieler das Wohnzimmer derselben, links das ihres Bruders. Mittelthüre zum allgemeinen Aus- und Eingang. Rechts an der Coulisse ein geöffnetes Fortepiano, auf welchem Musikalien liegen.
+---
 slug: bartsch-sankt-peter-oder-der-arme-maler
 author:
   name: Bartsch, Leopold
@@ -9546,6 +9669,71 @@ cast:
     gender: f
 setting: >
   Zimmer mit Mittel- und Seitenthüren, ein Spiegel und ein Fortepiano darinn; vorne ein Tisch, worauf ein Rosenstock steht.
+---
+slug: deinhardstein-die-verschleierte-dame
+author:
+  name: Deinhardstein, Johann Ludwig
+  wikidata: Q1695335
+title: Die verschleierte Dame
+subtitle: Ein romantisches Spiel in einem Act
+numberOfScenes: 16
+printed: 1825
+formalia:
+  - Verse
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Drei- und Zwanzigster Jahrgang. Leipzig: Kummer 1825, S. 125–180"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044937_00137.html
+  - title: "Theater von Deinhardstein. Erster Theil. Wien: Armbruster 1827, S. 107–157"
+    url: https://books.google.com/books?id=--SRtQEACAAJ&pg=PA107
+  - title: "Gesammelte dramatische Werke von J. C. Deinhardstein. Sechster Band. Leipzig: Weber 1853, S. 135–188"
+    url: https://books.google.com/books?id=E58KAQAAIAAJ&pg=PA135
+comments:
+  - "1827 ([im Inhaltsverzeichnis](https://books.google.com/books?id=--SRtQEACAAJ&pg=PP9)) auch mit dem Untertitel »Lustspiel in einem Act«."
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Graf de la Torre.
+    gender: m
+  - name: Blanca,
+    role: seine Tochter.
+    gender: f
+  - group:
+    - name: Fernando,
+      gender: m
+    - name: Benno,
+      gender: m
+    role: Ritter.
+  - name: Kurt,
+    role: ein alter Diener des Grafen.
+    gender: m
+setting: >
+  Garten. Im Hintergrunde ein offen stehendes Gitterthor, links dichtes Gebüsch, rechts eine Laube, deren Inneres vom Zuschauer gesehen wird, im Vorgrunde eine große Linde. Statuen rings umher. In einiger Entfernung gewahrt man einen Theil der Burg. – Aus dem Gebüsche werden Lautenklänge gehört.
+---
+slug: deinhardstein-maedchenlist
+author:
+  name: Deinhardstein, Johann Ludwig
+  wikidata: Q1695335
+title: Mädchenlist
+subtitle: Ein Lustspiel in einem Act und in Alexandrinern
+numberOfScenes: 10
+printed: 1816
+premiered: 1816-02-10
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Dichtungen von Deinhardstein. Wien: Wallishausser 1816, S. 45–98"
+    url: https://books.google.com/books?id=KX46AAAAcAAJ&pg=PA45
+  - title: "Gesammelte Dramatische Werke von J. L. Deinhardstein. Siebenter Band. Leipzig: Weber 1857, S. 59–104"
+    url: https://books.google.com/books?id=UJ8KAQAAIAAJ&pg=PA59
+cast:
+  - name: Der Oheim.
+    gender: m
+  - name: Der Neffe.
+    gender: m
+  - name: Susanne.
+    gender: f
+setting: >
+  Zimmer mit Mittel- und Seitenthüren. – Nacht. Es schlägt 3 Uhr. – Die Mittelthüre geht auf.
 ---
 slug: doering-die-vier-tanten
 author:
@@ -12881,6 +13069,51 @@ cast:
     gender: f
 setting: >
   Ort der Handlung: Wien. (Elegantes Zimmer. Links an einem Fenster steht ein sehr modern gekleidet und frisirtes Brustbild mit wächsernem Gesichte, wie sie in den Ausstellkasten der Modehandlungen üblich sind. Im Hintergrund eine Mittelthür, und auf beiden Seiten Glaskasten mit Kleidern und modernen Kopfzeugen. In der Ecke rechts ein hoher Perückenstock mit einer Haarbeutel-Perücke, und ein kleinerer mit einer blonden Damen-Tour. In der Ecke links auf zwei Stöcken mittelmäßiger Höhe, eine moderne schwarze und braune Herrn-Perücke. Mehrere Stühle, Requisiten für Friseur- und Putzarbeiten liegen auf den Tischen.)
+---
+slug: holtei-der-dichter-im-versammlungszimmer-oder-das-fantastische-lustspiel
+author:
+  name: Holtei, Karl von
+  wikidata: Q66388
+title: Der Dichter im Versammlungszimmer oder Das fantastische Lustspiel
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 17
+printed: 1830
+premiered: 1828-12-11
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Neunter Jahrgang, für 1830. Berlin: Vereinsbuchhandlung 1830, S. 51–90"
+    url: https://books.google.com/books?id=ksE6AAAAcAAJ&pg=PA51
+cast:
+  - name: Der Regisseur.
+    gender: m
+  - group:
+    - name: Albertine,
+      gender: f
+    - name: Auguste,
+      gender: m
+    - name: Erich,
+      gender: m
+    - name: Gebhard,
+      gender: m
+    - name: Ludwig,
+      gender: m
+    - name: Konrad,
+      gender: m
+    role: Mitglieder des Theaters.
+  - name: Der Soufleur.
+    gender: m
+  - name: Joseph,
+    role: Theaterdiener.
+    gender: m
+  - name: Die Ankleiderin.
+    gender: f
+  - name: Ein Offizier.
+    gender: m
+  - name: Der Dichter.
+    gender: m
+setting: >
+  Scene: Versammlungszimmer, an jeder Seite Thüren und in der Hintergardine ebenfalls zwei, zwischen denen, auf einem Postament, Göthe's Büste steht. Zur Seite: Sopha, großer Spiegel, in der Mitte ein Fortepiano. An den Wänden mehrere vergitterte Anschläge. An der Thür, dem Schauspieler rechts, steht angeschrieben: Damen-Garderobe; an der links: Männergarderobe. Wanduhr etc.
 ---
 slug: holtei-des-sohnes-rache
 author:
@@ -20051,6 +20284,41 @@ cast:
 setting: >
   Das Stück spielt in einem Landstädtchen, ohnweit der Residenz. (Oeffentlicher Platz; links des Notars, rechts der Putzmacherin Wohnung. Beide haben Aushängeschilder, und in beiden sind die Laden noch geschlossen. Den Hintergrund bildet ein elegantes, mit eisernem Gitter umzogenes Haus; in der Mitte der Bühne liegt ein großer Stein.)
 ---
+slug: lebrun-vater-dominique-oder-sauer-ist-suess
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Vater Dominique oder Sauer ist süß
+subtitle: Drama in Einem Aufzuge. Nach Merciers »Essighändler,« Braziers Verkürzung und Ueberarbeitung
+numberOfScenes: 11
+printed: 1833
+premiered: 1832-07-22
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Ein und Dreißigster Jahrgang. Hamburg: Hoffmann & Campe 1833, S. 291–364"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044945_00315.html
+cast:
+  - name: Delorme,
+    role: Banquier.
+    gender: m
+  - name: Adele,
+    role: seine Tochter.
+    gender: f
+  - name: Dominique,
+    role: Vater, Essighändler.
+    gender: m
+  - name: Dominique,
+    role: Sohn, auf dem Comptoir Delorme's.
+    gender: m
+  - name: Jacquemin Juliot,
+    role: Adelens bestimmter Bräutigam, Juli-Ritter.
+    gender: m
+  - name: Ein Diener.
+    gender: m
+setting: >
+  Scene: Paris, in Delorme's Hause.
+---
 slug: lessing-damon-oder-die-wahre-freundschaft
 author:
   name: Lessing, Gotthold Ephraim
@@ -20627,6 +20895,44 @@ cast:
     gender: m
 setting: >
   Der Schauplatz stellt den Eingang in den Garten der Madame Gerdrut vor, und an dessen Seite ein kleines Gartenhaus.
+---
+slug: lorbeer-die-parlamentswahl
+author:
+  name: Lorbeer
+title: Die Parlamentswahl
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zwei und Dreißigster Jahrgang. Hamburg: Hoffmann & Campe 1834, S. 163–212"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044946_00191.html
+cast:
+  - name: Der Graf von Sutton.
+    gender: m
+  - name: Mistreß Vougham,
+    role: eine reiche Witwe.
+    gender: f
+  - name: Betty,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Benley,
+    role: ein Buchbinder.
+    gender: m
+  - name: Jenny,
+    role: seine Nichte.
+    gender: f
+  - name: William Hudson,
+    role: sein Gehülfe.
+    gender: m
+  - name: Tomson,
+    role: ein Klempner.
+    gender: m
+  - name: Ein Briefträger.
+    gender: m
+setting: >
+  Elegantes Zimmer im Hause der Mistreß Vougham.
 ---
 slug: malss-die-jungfern-koechinnen
 author:
@@ -21652,6 +21958,48 @@ cast:
 setting: >
   Eine sehr einfache Stube, mit einer Seitenthüre und einem Fenster. Beinahe in der Mitte ein Tisch, worauf ein Messing-Leuchter und eine Rumflasche mit einem Stückchen Licht, ein Punschnapf und einige Gläser, ein altes Schreibzeug und einige Spielkarten. Am Tische ein Bett. Zwei alte Rohrstühle, Hieber, Rappiere, Fecht-Handschuh und einige lange Pfeifen stehen unordentlich umher oder hängen an der Wand. Rechts an der Wand hängt Wahlbachs Mantel und Hut, sein Rock über einen Stuhl.
 ---
+slug: oeser-der-baer
+author:
+  name: Schröer, Tobias Gottfried
+  pseudonym: Chr. Oeser
+  wikidata: Q1321956
+title: Der Bär
+subtitle: Lustspiel in einem Act
+numberOfScenes: 12
+printed: 1830
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Neunter Jahrgang, für 1830. Berlin: Vereinsbuchhandlung 1830, S. 91–130"
+    url: https://books.google.com/books?id=ksE6AAAAcAAJ&pg=PA91
+keywords:
+  - Russland
+  - Zar
+  - Eheanbahnung
+cast:
+  - name: Ivan Vasilievits II.,
+    role: Czaar von Moskau.
+    gender: m
+  - name: Roman Sacharinits.
+    gender: m
+  - name: Anastasia,
+    role: seine Tochter.
+    gender: f
+  - name: Alexei Kiewsky,
+    role: ein Strelitze.
+    gender: m
+  - name: Wsewolod,
+    role: der Kanzler.
+    gender: m
+  - name: Jaroslav,
+    role: der Kämmerling.
+    gender: m
+  - name: Edelknaben und Strelitzen.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geschieht in Moskau im Jahre 1547. (Scene: Ein Saal im Palaste des Czaars.)
+---
 slug: pantke-die-jugend
 author:
   name: Pantke, Adam Bernhard
@@ -21911,8 +22259,8 @@ setting: >
 ---
 slug: petrasch-das-eiland-der-bucklichten
 author:
-  name: Petrasch, Freyherr Joseph von
-  wikidata: Q89583249
+  name: Petrasch, Joseph von
+  wikidata: Q632100
 title: Das Eiland der Bucklichten
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 17
@@ -21960,8 +22308,8 @@ setting: >
 ---
 slug: petrasch-von-hannswurst
 author:
-  name: Petrasch, Joseph Freiherr von
-  wikidata: Q89583249
+  name: Petrasch, Joseph von
+  wikidata: Q632100
 title: Hannswurst
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 23
@@ -26080,6 +26428,11 @@ formalia:
 editions:
   - title: "Zwei dramatische Possen von C. F. Solbrig. Magdeburg: Schütz 1819, S. 51–80"
     url: https://books.google.com/books?id=q1PDO0ko1mcC&pg=PA51
+  - title: "Neue wohlfeile Ausgabe. Leipzig: Dyk [1830], S. 1–27"
+    url: http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:hebis:30-91188
+ids:
+  wikidata: Q105525766
+  dracor: ger000526
 cast:
   - name: Der Dorfschulmeister.
     gender: m
@@ -26121,6 +26474,7 @@ editions:
 comments:
   - "Seitenstück zu Karl Borromäus Alexander Sessa: [»Unser Verkehr. Eine Posse in einem Akte«](sessa-unser-verkehr)."
   - "Die auf der Titelseite angegebene erste Deklamation des Stücks am 25.12.1811 steht eventuell im Widerspruch zum Erscheinungsdatum des Vorlagenstücks »Unser Verkehr« (Erstdruck 1813); vielleicht war Solbrig der Inhalt anderweitig bekannt oder die Datumsangabe ist fehlerhaft."
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung, Num. 177 (September 1819), [Sp. 454](https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00188532/JALZ_1819_Bd3_0228.tif): »eine grobe Versündigung gegen alle ästhetischen, politischen und moralischen Grundsätze«."
 keywords:
   - Judentum
   - Geld
