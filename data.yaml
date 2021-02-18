@@ -6267,6 +6267,45 @@ cast:
     isGroup: true
     gender: m
 ---
+slug: baeuerle-kinder-und-narren-reden-die-wahrheit
+author:
+  name: Bäuerle, Adolf
+  wikidata: Q361119
+title: Kinder und Narren reden die Wahrheit
+subtitle: Ein Lustspiel in einem Akte
+numberOfScenes: 19
+printed: 1806
+premiered: 1806-07-25
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1806"
+    url: https://books.google.com/books?id=8SwnLzpfq8wC&printsec=frontcover
+cast:
+  - name: Obrist, Baron von Fernbug,
+    role: pensionirt.
+    gender: m
+  - name: Karoline,
+    role: seine Nichte.
+    gender: f
+  - name: Baron Flambert,
+    role: Major.
+    gender: m
+  - name: Von Welling,
+    role: ein junger Arzt.
+    gender: m
+  - name: Linchen,
+    role: ein Kind von 6 Jahren.
+    gender: f
+  - name: Betty,
+    role: Kammermädchen.
+    gender: f
+  - name: Hanns,
+    role: im Dienst des Obersten.
+    gender: m
+setting: >
+  Die Handlung spielt in des Barons Hause.
+---
 slug: bahr-der-glueckliche-morgen
 author:
   name: Bahr, Robert
@@ -7169,6 +7208,47 @@ cast:
 setting: >
   Der Schauplatz ist in einer großen teutschen Residenz, im Hause eines Großen. Die Zeit: das Jahr 1818.
 ---
+slug: biedenfeld-der-baron-martin
+author:
+  name: Biedenfeld, Ferdinand von
+  wikidata: Q1405946
+title: Der Baron Martin
+subtitle: Eine Posse in einem Act
+numberOfScenes: 19
+printed: 1822
+premiered: 1821-05-07
+formalia:
+  - Prosa
+editions:
+  - title: "Winterabende. Eine Sammlung dramatischer Beyträge für leichte Unterhaltung und Darstellung bestimmt. Erster Theil. Bamberg und Würzburg: Goebhardt 1822, S. 255–312"
+    url: https://books.google.com/books?id=WI5IAAAAcAAJ&pg=PA255
+cast:
+  - name: Baron Wismar,
+    role: ein reicher Gutsbesitzer.
+    gender: m
+  - name: Amalie,
+    role: seine Tochter.
+    gender: f
+  - name: Hauptmann von Wismar,
+    role: sein Bruder.
+    gender: m
+  - name: Martin,
+    role: ein vazirender Laquai.
+    gender: m
+  - name: Johann,
+    role: ein vazirender Laquai.
+    gender: m
+  - name: Susanne,
+    role: Amaliens Kammermädchen.
+    gender: f
+  - name: Der Portier.
+    gender: m
+  - name: Kavaliere, Damen, Domestiken.
+    isGroup: true
+    gender: u
+setting: >
+  Der Schauplatz ist im Schloß des Barons, unweit einer großen Stadt. (Ein Salon im Schloß des Barons, mit drey Glasthüren im Hintergrunde, durch welche man in einen sehr eleganten Saal sieht. Ein Fortepiano, Möbeln.)
+---
 slug: biedenfeld-wie-man-sein-glueck-macht
 author:
   name: Biedenfeld, Ferdinand von
@@ -7692,6 +7772,86 @@ cast:
     gender: m
 setting: >
   Die Scene ist ein Saal, der auf beiden Seiten zu Zimmern führt. Dem Schauspieler zur rechten, an der zweiten Coulisse, befindet sich ein Fenster, an der dritten die Thür zu Temperleins Zimmer, weiter vorn ein aufgeschlagener Toilettentisch. Zur linken, an der zweiten Coulisse, die Thür zu Sophiens Zimmer, vorn ein Tisch mit Schreibmaterialien, oben hängt ein Vogelbauer. Im Hintergrunde liegen auf einem Stuhle Temperleins Hut, Stock, Regenschirm und sein Kleid. Die Personen stehen in der vor jedem Auftritte vorgeschriebenen Ordnung; der erst benannte zur rechten Hand auf dem Theater.
+---
+slug: blum-der-schiffs-capitain-oder-die-unbefangenen
+author:
+  name: Blum, Carl
+  wikidata: Q110163
+title: Der Schiffs-Capitain oder Die Unbefangenen
+subtitle: Vaudeville, in einem Aufzug, frei nach dem Französischen
+numberOfScenes: 15
+printed: 1821
+premiered: 1817-06-08
+formalia:
+  - Prosa
+  - Gesang
+editions:
+  - title: "Berlin 1821"
+    url: https://books.google.com/books?id=AfgpnQAACAAJ
+  - title: "Vaudevilles, für deutsche Bühnen und gesellige Zirkel; nach dem Französischen bearbeitet von Carl Blum. Berlin: Humblot 1824, S. 1–56"
+    url: https://books.google.com/books?id=zDNJAAAAcAAJ&pg=PA1
+cast:
+  - group:
+    - name: Julie.
+      gender: f
+    - name: Henriette.
+      gender: f
+    role: zwei junge Waisen.
+  - name: Brandor,
+    role: junger Schiffs-Capitain, unter dem Namen Waller.
+    gender: m
+setting: >
+  Die Handlung geht auf einem Landgute, in der Nähe einer großen Seestadt, vor.
+---
+slug: blum-lisette-oder-borgen-macht-gluecklich
+author:
+  name: Blum, Carl
+  wikidata: Q110163
+title: Lisette oder Borgen macht glücklich
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 23
+printed: 1836
+premiered: 1835-06-29
+formalia:
+  - Prosa
+editions:
+  - title: "Jucunde. Dramatisches Taschenbuch für 1836. Berlin: Enslin [1836], S. 309–408"
+    url: https://books.google.com/books?id=H-wLZhlWIS0C&pg=PA309
+cast:
+  - name: Henriette von Eichen.
+    gender: f
+  - name: Rudolf von Stein.
+    gender: m
+  - name: Amtsrath von Geldern.
+    gender: m
+  - name: Joachim,
+    role: sein Sohn.
+    gender: m
+  - name: Herr von Malz.
+    gender: m
+  - name: Bastian,
+    role: Dorfschulze.
+    gender: m
+  - name: Peter,
+    role: ein junger Pachter.
+    gender: m
+  - name: Andreas,
+    role: Gärtnerbursche.
+    gender: m
+  - name: Louis,
+    role: Kammerdiener.
+    gender: m
+  - name: Ein Müllergeselle; ein Amtsbote.
+    isGroup: true
+    gender: m
+  - name: Ein Jägerbursche.
+    gender: m
+  - name: Ein Tabulettkrämer.
+    gender: m
+  - name: Lisette.
+    gender: f
+setting: >
+  Scene: auf dem Gute der Frau von Eichen. (Garten hinter dem Schlosse. Links im Vorgrunde der Eingang in das Schloß, neben diesem ein eleganter Pavillon. Gartenstühle, Tische etc. in neuestem Geschmacke. Ein Tischchen links im Vorgrunde, auf ihm eine Blumenvase. Arbeitskörbchen etc.)
 ---
 slug: bock-der-adel-des-herzens-oder-die-ausgeschlagne-erbschaft
 author:
@@ -9734,6 +9894,39 @@ cast:
 setting: >
   Garten. Im Hintergrunde ein offen stehendes Gitterthor, links dichtes Gebüsch, rechts eine Laube, deren Inneres vom Zuschauer gesehen wird, im Vorgrunde eine große Linde. Statuen rings umher. In einiger Entfernung gewahrt man einen Theil der Burg. – Aus dem Gebüsche werden Lautenklänge gehört.
 ---
+slug: deinhardstein-florette
+author:
+  name: Deinhardstein, Johann Ludwig
+  wikidata: Q1695335
+title: Florette
+subtitle: Dramatisches Gedicht in einem Act
+numberOfScenes: 11
+printed: 1822
+premiered: 1822-02-06
+formalia:
+  - Blankvers
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zwanzigster Jahrgang. Leipzig: Kummer 1822, S. 55–108"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044934_00063.html
+  - title: "Theater von Deinhardstein. Erster Theil. Wien: Armbruster 1827, S. 63–106"
+    url: https://books.google.com/books?id=--SRtQEACAAJ&pg=PA63
+  - title: "Gesammelte dramatische Werke von Deinhardstein. Fünfter Band. Leipzig: Weber 1851, S. 345–394"
+    url: https://books.google.com/books?id=A346AAAAcAAJ&pg=PA345
+comments:
+  - 1827 mit dem Untertitel »Drama in Einem Act«.
+cast:
+  - name: Heinrich IV.,
+    role: König von Frankreich.
+    gender: m
+  - name: Graf du Vallis,
+    role: Freund des Königs.
+    gender: m
+  - name: Florette,
+    role: Tochter eines armen Edelmannes in der Provence.
+    gender: f
+setting: >
+  Die Handlung spielt in Nerac, einem kleinen Städtchen in der Provence. (Garten. Rechts eine Rasenbank. Im Hintergrunde ein breites Gitterthor, hinter welchem ein Bach gesehen wird.)
+---
 slug: deinhardstein-maedchenlist
 author:
   name: Deinhardstein, Johann Ludwig
@@ -10791,6 +10984,48 @@ cast:
 setting: >
   Der Schauplatz ist eine mit Gebüschen umgebne einsame Gegend, vor der Hütte des Ramirus.
 ---
+slug: gathy-allzu-eifrig
+author:
+  name: Gathy, August
+  wikidata: Q19976549
+title: Allzu eifrig
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 20
+printed: 1833
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Ein und Dreißigster Jahrgang. Hamburg: Hoffmann & Campe 1833, S. 107–212"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044945_00127.html
+cast:
+  - name: Nagel,
+    role: Rentier.
+    gender: m
+  - name: Ernst Wollstein,
+    role: Referendar.
+    gender: m
+  - name: Pauline Waldeneck,
+    role: junge Witwe.
+    gender: f
+  - name: Allwil,
+    role: Paulinens Vetter.
+    gender: m
+  - name: Frau Wachtel,
+    role: Hauswirthin.
+    gender: f
+  - name: Vier Gerichtsdiener.
+    isGroup: true
+    gender: m
+  - name: Lisette,
+    role: Nähterin.
+    gender: f
+  - name: Marqueur.
+    gender: m
+  - name: Bote.
+    gender: m
+setting: >
+  Scene: in Berlin. Vorsaal im zweiten Stock; zwei Seitenthüren, zu anstoßenden Zimmern führend; im Hintergrunde die Treppe.
+---
 slug: gebler-das-bindband-oder-die-fuenf-theresen
 author:
   name: Gebler, Tobias Philipp von
@@ -11591,7 +11826,7 @@ subtitle: Ein Trauerspiel in einem Akt
 numberOfScenes: 8
 printed: 1771
 formalia:
-  - Blankverse
+  - Blankvers
 dictionaries:
   bibliographia: 2. Abteilung, Band 24, S. 338
 editions:
@@ -13099,6 +13334,41 @@ cast:
     gender: m
 setting: >
   Der Schauplatz ist in einem Zimmer in Orbilens Hause, wo eine oder zwey Stubenuhren angebracht werden können.
+---
+slug: holbein-die-wittwe-und-der-wittwer-oder-treue-bis-in-den-tod
+author:
+  name: Holbein, Franz Ignaz von
+  wikidata: Q1447416
+title: Die Wittwe und der Wittwer, oder Treue – bis – in den Tod
+subtitle: Lustspiel in einem Act. Frei nach Gellert
+numberOfScenes: 6
+printed: 1822
+premiered: 1821-06-07
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zwanzigster Jahrgang. Leipzig: Kummer 1822, S. 257–298"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044934_00271.html
+  - title: "Deutsche Schaubühne seit Lessing und Schröder bis auf die neueste Zeit. Sechs und zwanzigstes Bändchen. Wien: Schade 1826, S. 129–159"
+    url: https://books.google.com/books?id=EyU7AAAAcAAJ&pg=PA129
+comments:
+  - "Nach Gellerts [»Die Wittwe. Ein Mährchen«](https://de.wikisource.org/wiki/Die_Wittwe), das den Stoff der Matrone von Ephesus behandelt."
+  - "Besprechungen in: Heidelberger Jahrbücher der Literatur. Nro. 78 (1821), [S. 1235](https://books.google.com/books?id=FaNNAAAAcAAJ&pg=PA1235), und Zeitung für die elegante Welt, Nr. 240 (7. December 1821), [Sp. 1918](https://books.google.com/books?id=8oBHAAAAYAAJ&pg=PA1917)."
+cast:
+  - name: Emilie.
+    role: Die Wittwe.
+    gender: f
+  - name: Rohrbach.
+    role: Der Witter.
+    gender: m
+  - name: Hr. v. Trübenhausen.
+    role: Der Freier.
+    gender: m
+  - name: Pauline.
+    role: Die Freundin.
+    gender: f
+setting: >
+  Würde dieses Lustspiel ohne Theater, blos in einem Zimmer von Dilettanten dargestellt; so dürften nur die Meubles mit schwarzen Tüchern und Flören umhangen und die wenigen Beziehungen auf das schwarze Zimmer weggelassen werden.
 ---
 slug: holbein-die-nachschrift
 author:
@@ -23042,6 +23312,54 @@ cast:
     role: ihre Zofe.
     gender: f
 ---
+slug: ploetz-die-gunst-der-kleinen-oder-die-hintertreppe
+author:
+  name: Plötz, Johann von
+  wikidata: Q94874028
+title: Die Gunst der Kleinen oder die Hintertreppe
+subtitle: Ein Lustspiel in einem Aufzug. Frey nach dem Französischen
+numberOfScenes: 26
+printed: 1822
+premiered: 1820-01-20
+formalia:
+  - Prosa
+editions:
+  - title: "Original-Theater für das Jahr 1822. Dritter Band. Augsburg und Leipzig: Jenisch und Stage [1822], S. 1–44"
+    url: https://books.google.com/books?id=ErxHAAAAcAAJ&pg=PA1
+comments:
+  - "Nach dem Original: Théodore Baudouin d'Aubigny: [»Les petits protecteurs, ou L'escalier dérobé. Comédie en un acte et en prose«](https://books.google.com/books?id=VTs6AAAAcAAJ&printsec=frontcover)."
+  - "Weitere Übersetzung [Rosenau 1823](rosenau-die-gunst-der-kleinen-oder-die-hintertreppe)."
+cast:
+  - name: Jeremias Angstwurm,
+    role: ein Solliziant.
+    gender: m
+  - name: Flink,
+    role: ein Friseur.
+    gender: m
+  - name: Rosine,
+    role: eine Putzhändlerin.
+    gender: f
+  - name: Herr Florimund,
+    role: ein anderer Sollizitant.
+    gender: m
+  - name: Steiger,
+    role: Sekretär.
+    gender: m
+  - name: Bettine,
+    role: Kammermädchen.
+    gender: f
+  - name: Goldmann,
+    role: Kammerdiener.
+    gender: m
+  - name: Heinrich,
+    role: Jäger.
+    gender: m
+  - name: Christoph,
+    role: Hausmeister.
+    gender: m
+setting: >
+  Die Handlung geht im Hause eines hohen Staatsbeamten vor.
+---
 slug: ploetz-dumm-und-gelehrt
 author:
   name: Plötz, Johann von
@@ -24018,6 +24336,52 @@ cast:
   - name: Nerine,
     role: Angeliquens Mägdgen.
     gender: f
+---
+slug: rosenau-die-gunst-der-kleinen-oder-die-hintertreppe
+author:
+  name: Rosenau, Ferdinand
+  wikidata: Q61198282
+title: "Die Gunst der Kleinen, oder: Die Hintertreppe"
+subtitle: Lustspiel in einem Aufzuge. Nach dem Französischen frey bearbeitet
+numberOfScenes: 27
+printed: 1823
+premiered: 1820-10-15
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Mausberger 1823"
+    url: https://books.google.com/books?id=G27PAAAAMAAJ&printsec=frontcover
+comments:
+  - "Nach dem Original: Théodore Baudouin d'Aubigny: [»Les petits protecteurs, ou L'escalier dérobé. Comédie en un acte et en prose«](https://books.google.com/books?id=VTs6AAAAcAAJ&printsec=frontcover)."
+  - "Weitere Übersetzung [Plötz 1822](ploetz-die-gunst-der-kleinen-oder-die-hintertreppe)."
+cast:
+  - name: Ferdinand Wallbach.
+    gender: m
+  - name: Peregrinus Bader,
+    role: ein Barbier.
+    gender: m
+  - name: Ernestine,
+    role: Marchande des Modes.
+    gender: m
+  - name: Edler von Blasius.
+    gender: m
+  - name: Feinmann,
+    role: Secretär.
+    gender: m
+  - name: Nettchen,
+    role: Kammerjungfer.
+    gender: m
+  - name: Charles,
+    role: Kammerdiener.
+    gender: m
+  - name: Jean,
+    role: Jäger.
+    gender: m
+  - name: Georg,
+    role: Lakay.
+    gender: m
+setting: >
+  Saal mit zwey Seitenthüren. Rechts ein Schreibtisch mit Fächern, links ein Tisch, an welchem die Lakayen spielen. Mehrere Armsessel und Bänke.
 ---
 slug: rosenhahn-die-originalien
 author:
@@ -27228,6 +27592,50 @@ cast:
 setting: >
   Die Scene ist auf der Straße vor des Euklio Hause.
 ---
+slug: steigentesch-der-schiffbruch-oder-die-erben
+author:
+  name: Steigentesch, August Ernst von
+  wikidata: Q761203
+title: Der Schiffbruch oder die Erben
+subtitle: Lustspiel in einem Act
+numberOfScenes: 14
+printed: 1798
+premiered: 1799-04-05
+formalia:
+  - Prosa
+editions:
+  - title: "Neue Sammlung Deutscher Schauspiele. Dritten Jahrgangs Zehnter Band. Grätz 1798"
+    url: https://books.google.com/books?id=7mJlAAAAcAAJ&pg=RA3-PA1
+comments:
+  - "Besprechung der Wiener Aufführung in: Kritisches Journal der K. K. Hof- und priv. Vorstadttheater. Ersten Bandes erstes Heft 1799, [S. 32–37](https://books.google.com/books?id=90w_gkLCMJgC&pg=RA1-PA32)."
+cast:
+  - name: Anton Waller.
+    gender: m
+  - name: Jacob Waller.
+    gender: m
+  - name: Frau von Werden,
+    role: ihre Schwester.
+    gender: f
+  - name: Sophie,
+    role: ihre Tochter.
+    gender: f
+  - group:
+    - name: Friz Waller,
+      gender: m
+    - name: Mahler Selmo,
+      gender: m
+    role: ihre Neffen.
+  - name: Blidt,
+    role: ehemahls Bedienter bey Anton Waller.
+    gender: m
+  - name: Franz,
+    role: Bedienter.
+    gender: m
+  - name: Ein Träger.
+    gender: m
+setting: >
+  Der Schauplatz ist in einer Landstadt auf einem Landgute des Anton Wallers.
+---
 slug: stein-der-wunderring
 author:
   name: Stein, Karl
@@ -27329,7 +27737,7 @@ cast:
     gender: f
   - name: Eine Magd in Shakespeares Hause.
     gender: f
-  - name: Zwei Gerichtsboten
+  - name: Zwei Gerichtsboten.
     isGroup: true
     gender: m
 setting: >
