@@ -3877,6 +3877,31 @@ cast:
 setting: >
   Die Vorstellung ist auf dem Landguthe des Herrn Geronte.
 ---
+slug: anonym-die-sonette
+author:
+  pseudonym: Anonym
+title: Die Sonette
+subtitle: Lustspiel in einem Act und Alexandrinen
+numberOfScenes: 11
+printed: 1831
+formalia:
+  - Alexandriner
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Neun und zwanzigster Jahrgang. Hamburg: Hoffmann und Campe 1831, S. 323–368"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044943_00347.html
+cast:
+  - name: Minna von Heim.
+    gender: f
+  - name: Baron von Lamm.
+    gender: m
+  - name: Arist.
+    gender: m
+  - name: Jean,
+    role: Diener des Baron.
+    gender: m
+setting: >
+  Das Stück spielt im Garten des Fräulein von Heim.
+---
 slug: anonym-die-trauer-oder-der-betrogene-pachter
 author:
   pseudonym: Anonym
@@ -20604,6 +20629,42 @@ cast:
 setting: >
   Die Scene, ein Zelt in dem Lager des Aridäus.
 ---
+slug: lewald-der-vatersegen
+author:
+  name: Lewald, August
+  wikidata: Q99351
+title: Der Vatersegen
+subtitle: Drama in einem Act
+numberOfScenes: 12
+printed: 1830
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Acht und zwanzigster Jahrgang. Hamburg: Hoffmann und Campe 1830, S. 277–338"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044942_00295.html
+cast:
+  - name: Freiberg.
+    gender: m
+  - name: Julie,
+    role: seine Frau.
+    gender: f
+  - group:
+    - name: Batilde,
+      gender: f
+    - name: Klaudine,
+      gender: f
+    role: seine Töchter.
+  - name: Fritz Klar,
+    role: ein junger Gutsbesitzer.
+    gender: m
+  - name: Pollert,
+    role: Freiberg's alter Schreiber.
+    gender: m
+  - name: Ein alter Leiermann.
+    gender: m
+setting: >
+  Scene: Garten. Hinten Gartenthor. Links Freiberg's Haus. Rechts eine Laube mit Tisch und Gartenstühlen.
+---
 slug: leyding-emirene
 author:
   name: Leyding, Johann Dieterich
@@ -21169,6 +21230,30 @@ cast:
     gender: m
 setting: >
   Die Handlung geht in der Stadt Pest den 17. Hornung 1775. vor. Das Theater stellt einen Theil der Stadt vor, wohin sich die Fluth des Wassers noch nicht ergossen hat. Man hört ein Gewimmel des Weheklagens, und ein lautes Geschrey zur Aufmunterung der Arbeit. Man sieht Geräthschaften, Kinder, u. s. w. von weinenden Personen tragen. Ein allgemeines Weheklagen mäßiget die Luft, so, daß man mehr Jammer, als Winde verspürt. Eine Menge Menschen bemühen sich ihre Habschaften zu retten, und andre zieht die Neugierde herbey, um über das Vorgehende ihr Urtheil zu fehlen.
+---
+slug: marsano-das-spiegelbild
+author:
+  name: Marsano, Wilhelm von
+  wikidata: Q1664045
+title: Das Spiegelbild
+subtitle: Lustspiel in einem Akt in freien Versen
+numberOfScenes: 7
+printed: 1831
+premiered: 1823-04-21
+formalia:
+  - Verse
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Neun und zwanzigster Jahrgang. Hamburg: Hoffmann und Campe 1831, S. 97–190"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044943_00115.html
+cast:
+  - name: Der Mann.
+    gender: m
+  - name: Die Frau.
+    gender: f
+  - name: Der Lieutenant.
+    gender: m
+setting: >
+  Saal mit zwei Mittel- und zwei Seitenthüren. Im Vordergrund steht ein Toilettenspiegel, der gegen die rechte Seitenthüre gekehrt ist.
 ---
 slug: marsano-der-phlegmatiker
 author:
@@ -23081,6 +23166,38 @@ cast:
     gender: m
 setting: >
   Die Handlung ist auf dem Landgute des Barons.
+---
+slug: raupach-der-bettler
+author:
+  name: Raupach, Ernst
+  wikidata: Q67961
+title: Der Bettler
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1832
+premiered: 1829-11-05
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Dreizigster Jahrgang. Hamburg: Hoffmann & Campe 1832, S. 68–120"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044944_00075.html
+cast:
+  - name: Walter.
+    gender: m
+  - name: Klara.
+    gender: f
+  - name: Hubert.
+    gender: m
+  - name: Philipp.
+    gender: m
+  - name: Böhm.
+    gender: m
+  - name: Ein Knabe.
+    gender: m
+  - name: Ein Mädchen.
+    gender: f
+setting: >
+  Scene: Walters Wohnung, durchaus ärmlich, nur ein Tisch und zwei alte Rohrstühle.
 ---
 slug: raupach-der-gliedermann
 author:
@@ -25860,6 +25977,45 @@ cast:
     gender: f
 setting: >
   Die Scene: Platz vor einer ländlichen Wohnung; seitwärts Tisch und Bank.
+---
+slug: schuetze-mutter-und-tochter
+author:
+  name: Schütze, Stephan
+  wikidata: Q2343847
+title: Mutter und Tochter
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 27
+printed: 1830
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Acht und zwanzigster Jahrgang. Hamburg: Hoffmann und Campe 1830, S. 185–276"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044942_00205.html
+cast:
+  - name: Amalie von Dornau,
+    role: Wittwe.
+    gender: f
+  - name: Mathilde,
+    role: ihre Tochter.
+    gender: f
+  - name: Justizrath Herbig,
+    role: ihr Curator.
+    gender: m
+  - name: Angelika,
+    role: dessen Tochter.
+    gender: f
+  - name: Eduard von Wallheim,
+    role: Assessor.
+    gender: m
+  - name: Baron von Bebenhorst.
+    gender: m
+  - name: Lieutenant von Belzig.
+    gender: m
+  - name: Franz,
+    role: Kellner.
+    gender: m
+setting: >
+  Zimmer bei Amalie von Dornau.
 ---
 slug: schulz-das-portrait
 author:
