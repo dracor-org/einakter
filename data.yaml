@@ -9579,6 +9579,61 @@ cast:
     role: Rosaliens Kammerjungfer.
     gender: f
 ---
+slug: cosmar-der-spion-wider-willen
+author:
+  name: Cosmar, Alexander
+  wikidata: Q19125906
+title: Der Spion wider Willen
+subtitle: Militairischer Schwank in einem Acte. Nach einer Anekdote aus dem französisch-italienischen Feldzuge bearbeitet
+numberOfScenes: 24
+printed: 1837
+formalia:
+  - Prosa
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band VIII, No. 63. Berlin: Hayn 1837, S. 1083–1092"
+    url: https://books.google.com/books?id=4VBcAAAAcAAJ&pg=PA1083
+cast:
+  - name: Obrist Blémont,
+    role: Commandeur einer französischen Halbbrigade.
+    gender: m
+  - name: Loreau,
+    role: dessen Sergeant.
+    gender: m
+  - name: Mikéli,
+    role: Gastwirth in dem piemontesischen Dorfe San-Giuliano.
+    gender: m
+  - name: Rosella,
+    role: seine Tochter.
+    gender: f
+  - name: Carmagnole,
+    role: ein piemontesischer Bauer und Hufschmidt.
+    gender: m
+  - name: Catharina,
+    role: Marketenderin.
+    gender: f
+  - name: Ein Unbekannter.
+    gender: m
+  - group:
+    - name: Ein Major
+      gender: m
+    - name: Ein Lieutenant
+      gender: m
+    - name: Ein Korporal
+      gender: m
+    role: der französischen Armee.
+  - name: Ein österreichischer Offizier.
+    gender: m
+  - name: Ein Landmann.
+    gender: m
+  - name: Französische Soldaten.
+    isGroup: true
+    gender: m
+  - name: Landleute beiderlei Geschlechts.
+    isGroup: true
+    gender: u
+setting: >
+  Die Scene spielt in dem piemontesischen Dorfe San-Giuliano. Zeit der Handlung das Jahr 1800. (Freier Platz im Dorfe San-Giuliano. Zur Rechten Mikéli's Wirthshaus, zur Linken eine Schmiede mit einem Schilde, worauf zu lesen: »Carmagnole, Hufschmidt.« In der Mitte der Bühne ein grosser Baum. Im Hintergrunde ein Bach, über welchen eine hölzerne Brücke führt.)
+---
 slug: costenoble-der-unschuld-sieg
 author:
   name: Costenoble, Karl Ludwig
@@ -14601,7 +14656,7 @@ editions:
   - title: "[Ohne Ort: ohne Drucker] 1751"
     url: https://books.google.com/books?id=TqKBuzuDAm8C&printsec=frontcover
 comments:
-  - Autor ermittelt via "Lexikon der vom Jahr 1750 bis 1800 verstorbenen teutschen Schriftsteller", [7. Bd. (1808), S. 28](https://books.google.com/books?id=-c5ZAAAAcAAJ&pg=PA28).
+  - Autor ermittelt via »Lexikon der vom Jahr 1750 bis 1800 verstorbenen teutschen Schriftsteller«, [7. Bd. (1808), S. 28](https://books.google.com/books?id=-c5ZAAAAcAAJ&pg=PA28).
 cast:
   - name: Herr Anselmo,
     role: ein wohlhabender Kaufmann.
@@ -20385,6 +20440,7 @@ dictionaries:
   bibliographia: 2. Abteilung, Band 26, S. 338–339
 editions:
   - title: "Wien: Kurzbeck 1776"
+    url: https://books.google.com/books?id=jA9zpfkBknsC&printsec=frontcover
 cast:
   - name: Marchese Ranghi
     role: ein Römer.
@@ -25895,6 +25951,57 @@ cast:
 setting: >
   Ort der Handlung: Die Sommerwohnung der Familien Reinhard und Winter in geringer Entfernung von der Residenz. (Eleganter Salon mit einer Mittel und zwei Seitenthüren. Im Vordergrunde auf der einen Seite ein Tisch, auf der andern ein Canapé. Elegant meublirt.)
 ---
+slug: both-rabelais
+author:
+  name: Schneider, Louis
+  pseudonym: Both, L. W.
+  wikidata: Q214659
+title: Rabelais
+subtitle: Dramatisirte Anekdote in einem Aufzuge nach Leuven
+numberOfScenes: 18
+printed: 1832
+formalia:
+  - Prosa
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band IV, No. 30. Berlin: Hayn 1832, S. 505–516"
+    url: https://books.google.com/books?id=slBcAAAAcAAJ&pg=PA505
+comments:
+  - "Nach dem Original: Adolphe de Leuven: [»Rabelais, ou Le presbytère de Meudon. Comédie-anecdote, mêlée de couplets«](https://books.google.com/books?id=uzBMAAAAcAAJ&printsec=frontcover)."
+  - "Kommentar im Anhang: »Das Stück spielt: Eine gute Stunde.«"
+cast:
+  - name: Franz Rabelais,
+    role: Pfarrer zu Meudon.
+    gender: m
+  - name: Dubellay,
+    role: Cardinal.
+    gender: m
+  - name: Ignaz,
+    role: Vicar der Pfarre zu Meudon.
+    gender: m
+  - name: Olivier,
+    role: Neffe des Cardinals.
+    gender: m
+  - name: Ronsard,
+    role: Dichter, Freund des Rabelais.
+    gender: m
+  - name: Panurgus,
+    role: Diener des Rabelais.
+    gender: m
+  - name: Jerome,
+    role: Dorf-Musikant.
+    gender: m
+  - name: Clotilde,
+    role: eine junge Waise, Pathe Rabelais.
+    gender: f
+  - name: Freunde Rabelais.
+    isGroup: true
+    gender: u
+  - name: Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+setting: >
+  Scene: Meudon. Im Jahre 1545. (Der Garten des Pfarrhofes. In der Mauer, die das Theater im Hintergrunde abschliesst, eine Gitterthür. Links die Pfarr-Wohnung mit praktikablen Fenstern im ersten und zweiten Stockwerk. Auf derselben Seite, jedoch ganz nahe an der Mauer, eine grosse Laube. Hinter der Mauer sieht man die Kirche des Dorfs, einige Häuser desselben und eine ländliche Gegend.)
+---
 slug: both-verheirathet-und-begraben
 author:
   name: Schneider, Louis
@@ -26966,6 +27073,44 @@ cast:
 setting: >
   Die Scene ist in Thomasons Hause.
 ---
+slug: smidt-der-findling
+author:
+  name: Smidt, Heinrich
+  wikidata: Q108339
+title: Der Findling
+subtitle: Lustspiel in einem Akt. Nach dem Französischen der Herren Picard und Mazères
+numberOfScenes: 16
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band VI, No. 48. Berlin: Hayn 1834, S. 853–860"
+    url: https://books.google.com/books?id=ETZAAAAAYAAJ&pg=PA853
+comments:
+  - "Hinweis im [Anhang](https://books.google.com/books?id=ETZAAAAAYAAJ&pg=PA860): »Das Original der gegenwärtigen Bearbeitung verdankt seinen Stoff einem komischen Roman des geistreichen Picard, welcher in den ersten Jahren der Kaiserherrschaft in Paris erschien. Mazères, von dem das Bühnen-Repertoir schon mehrere gelungene Arbeiten gebracht, machte aus dem Roman ein Lustspiel in drei Akten, welches auch in dieser Form schon in's Deutsche übersetzt worden ist. Der Bearbeiter des vorliegenden Stückchens glaubte aber, durch das Zusammendrängen der Scenen und das Weglassen mancher unnöthiger Episoden mehr der ursprünglichen Idee des Romans zu entsprechen, und milderte auch insofern das Unwahrscheinliche der Situation, [...].«"
+cast:
+  - name: Dalmont,
+    role: Advokat.
+    gender: m
+  - name: Dufour,
+    role: Kaufmann.
+    gender: m
+  - name: Henriette,
+    role: seine Nichte.
+    gender: f
+  - name: Saint Ange,
+    role: Banquier.
+    gender: m
+  - name: Rafin,
+    role: Dalmont's Schreiber.
+    gender: m
+  - name: Castleville.
+    gender: m
+  - name: Demoiselle Dubrosserac.
+    gender: f
+setting: >
+  Ort der Handlung: Paris. (Zimmer bei dem Advokaten Dalmont, mit Mittel- und Seitenthüren. Rechts ein Schreibtisch, links ein Fenster.)
+---
 slug: solbrig-die-braunschweiger-wurst-oder-boese-beispiele-verderben-gute-sitten
 author:
   name: Solbrig, Carl Friedrich
@@ -27760,7 +27905,7 @@ editions:
   - title: "Prag, und Leipzig: Gröbl 1779"
     url: https://books.google.com/books?id=HKfkPgAACAAJ&printsec=frontcover
 comments:
-  - auch als "Lustspiel in einem Aufzug"
+  - Auch als »Lustspiel in einem Aufzug«.
 keywords:
   - Heimkehr-Motiv
   - Geld
@@ -28491,7 +28636,7 @@ editions:
   - title: "Erste Sammlung neuer Lustspiele. Danzig und Leipzig: Rüdiger 1746, S. 345–384"
     url: https://books.google.com/books?id=BUg7AAAAcAAJ&pg=PA345
 comments:
-  - Erscheint auch ohne den Titelzusatz "in einem Aufzuge" (1746).
+  - Erscheint auch ohne den Titelzusatz »in einem Aufzuge« (1746).
   - Laut [Vorwort](https://books.google.com/books?id=BUg7AAAAcAAJ&pg=PA345) das erste holländische Lustspiel, das gedruckt in deutscher Sprache erscheint.
 cast:
   - name: Ludewig,
@@ -28690,7 +28835,7 @@ editions:
   - title: "Zweyte Sammlung neuer Lustspiele. Danzig und Leipzig: Rüdiger 1747, S. 259–294"
     url: https://books.google.com/books?id=JJJTAAAAcAAJ&pg=PA259
 comments:
-  - Auch aufgeführt als "Lust-Spiel In drey Aufzügen mit Arien und Tänzen" (1770).
+  - Auch aufgeführt als »Lust-Spiel In drey Aufzügen mit Arien und Tänzen« (1770).
 cast:
   - name: Der Gouverneur, über die Wilden.
     gender: m
