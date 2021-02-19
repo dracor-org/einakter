@@ -7464,6 +7464,45 @@ cast:
 setting: >
   Der Schauplatz ist auf der Straße.
 ---
+slug: birch-pfeiffer-der-kaiser-und-der-seiler
+author:
+  name: Birch-Pfeiffer, Charlotte
+  wikidata: Q68117
+title: Der Kaiser und der Seiler
+subtitle: Vorspiel in 1 Akt
+numberOfScenes: 7
+printed: 1842
+formalia:
+  - Prosa
+editions:
+  - title: "Zürich: Ulrich 1842"
+    url: https://books.google.com/books?id=Z9LVCLeqlU4C&printsec=frontcover
+comments:
+  - "Vorspiel zu: »Steffen Langer aus Glogau, oder: Der holländische Kamin. Original-Lustspiel in 4 Akten.«"
+cast:
+  - name: Peter I.,
+    role: Kaiser von Rußland.
+    gender: m
+  - name: Wasilowitsch,
+    role: Leibeigener des Fürsten Menzikoff, kaiserlicher Haushofmeister.
+    gender: m
+  - name: Iwanof,
+    role: Werkmeister auf der Werfte von St. Petersburg.
+    gender: m
+  - name: Steffen Langer,
+    role: Seilergeselle aus Glogau.
+    gender: m
+  - group:
+    - name: Jonathan
+      gender: m
+    - name: Fritz
+      gender: m
+    role: Seilergesellen.
+  - name: Klärchen Buren.
+    gender: f
+setting: >
+  Zeit der Handlung: Oktober des Jahres 1717. (Großer freier Platz auf der Werfte zu St. Petersburg. Im Hintergrunde ein halb vollendetes Schiff. Am Hafen hin läuft im Hintergrunde eine Terrasse, von welcher Stufen auf die Bühne herabführen. Zimmermannsgeräthe, Holz, Fässer u. s. w. stehen da umher. Im Vordergrunde, links vom Zuschauer, ein großer Haufen Ankertaue und Stricke; dicht daneben einige Balken, Sägen und ein Häufchen Holzabfall. – Morgendämmerung.)
+---
 slug: bischoff-der-judenfeind
 author:
   name: Bischoff, L. C. H.
@@ -8200,6 +8239,53 @@ cast:
     gender: m
 setting: >
   Die Handlung geht in Edelmuths Wohnung vor. (Edelmuths Wohnzimmer.)
+---
+slug: bonafont-die-brunnengaeste
+author:
+  name: Bonafont, Philipp Karl
+  wikidata: Q99029332
+title: Die Brunnengäste
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1816
+formalia:
+  - Prosa
+editions:
+  - title: "Neue deutsche Schaubühne oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Achter Band. Augsburg und Leipzig: Jenisch und Stage [1816], S. 243–298"
+    url: https://books.google.com/books?id=gyk7AAAAcAAJ&pg=PA243 
+  - title: "Thalia. Sammlung neuer Schauspiele von C. Bonafont. Erstes Bändchen. Augsburg und Leipzig 1816"
+    url: https://books.google.com/books?id=5Xc6AAAAcAAJ&pg=RA1-PA1
+cast:
+  - name: Herr von Rindhorn,
+    role: ein geadelter Bürger.
+    gender: m
+  - name: Eduard Nordberg,
+    role: sein Neffe.
+    gender: m
+  - name: Hauptmann von Bellendorf,
+    role: ausser Dienste.
+    gender: m
+  - name: Amalie,
+    role: seine Tochter.
+    gender: f
+  - group:
+    - name: Schwarz,
+      gender: m
+    - name: Schnell,
+      gender: m
+    role: zwey Adventuriers.
+  - name: Jude Josel.
+    gender: m
+  - name: Peter Rüstig,
+    role: ein Schuhmacher.
+    gender: m
+  - name: Ein Polizeybeamter.
+    gender: m
+  - name: Zwey Gerichtsdiener.
+    isGroup: true
+    gender: u
+setting: >
+  Ein gemeinschaftlicher Saal in einem Gasthofe mit einer Mittel- und zwey Seitenthüren.
 ---
 slug: brahm-der-sklavenhaendler-von-smyrna
 author:
@@ -9578,6 +9664,47 @@ cast:
   - name: Lisette,
     role: Rosaliens Kammerjungfer.
     gender: f
+---
+slug: cosmar-der-meuchelmoerder-oder-der-fluch-der-boesen-that
+author:
+  name: Cosmar, Alexander
+  wikidata: Q19125906
+title: "Der Meuchelmörder, oder: Der Fluch der bösen That!"
+subtitle: "Posse in einem Aufzuge. Frei nach dem Französischen Vaudeville: L'assassin"
+numberOfScenes: 14
+printed: 1835
+premiered: 1833-12-23
+formalia:
+  - Prosa
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band VII, No. 50. Berlin: Hayn 1835, S. 873–881"
+    url: https://books.google.com/books?id=pd_3fqU7r3AC&pg=PA873
+comments:
+  - "Nach dem Original: Augustin-Théodore de Lauzanne de Vauroussel und Adolphe Jaime: [»L'assassin. Folie-vaudeville en un acte«](https://books.google.com/books?id=7btoAAAAcAAJ&printsec=frontcover)."
+cast:
+  - name: Amadeus Kriemel,
+    role: ehemals Conditor.
+    gender: m
+  - name: Caroline,
+    role: seine Tochter.
+    gender: f
+  - name: Ernst Walter,
+    role: sein Neffe.
+    gender: m
+  - name: Schwiemelinsky,
+    role: Rentier.
+    gender: m
+  - name: Flesch,
+    role: Barbier.
+    gender: m
+  - name: Wilhelmine Moll,
+    role: Putzmacherin.
+    gender: f
+  - name: Peter,
+    role: Hausknecht bei Kriemel.
+    gender: m
+setting: >
+  Ein Zimmer mit einer Haupt- und zwei Seitenthüren. Das Ameublement ist anständig. Auf jeder Seite ein Tisch mit einer Decke.
 ---
 slug: cosmar-der-spion-wider-willen
 author:
@@ -25144,6 +25271,45 @@ cast:
 setting: >
   Szene große deutsche Stadt. (Saal mit Mittel- und Seitenthüren, rechts Amandas links von Lohrs Zimmer.)
 ---
+slug: schink-die-seelige-frau
+author:
+  name: Schink, Johann Friedrich
+  wikidata: Q15873118
+title: Die seelige Frau
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 21
+printed: 1809
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Scherflein, ein Taschenbuch für die Bühne. Von Johann Friedrich Schink. Lüneburg: Herold und Wahlstab 1810 [d. i. 1809], S. 93–194"
+    url: https://books.google.com/books?id=NoVlAAAAcAAJ&pg=PA93
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Vierter Band. Augsburg und Leipzig: Stage [1813], S. 1–68"
+    url: https://books.google.com/books?id=BrFIAAAAcAAJ&pg=PA1
+cast:
+  - name: Liborius Hamann,
+    role: Doktor der Philosophie, Vorsteher einer Schulanstalt.
+    gender: m
+  - name: Treuenfels,
+    role: Landphysikus.
+    gender: m
+  - name: Johanna,
+    role: des Arztes Nichte.
+    gender: f
+  - name: Pastor Helm,
+    role: Johanna's Geliebter.
+    gender: m
+  - name: Emerenzia Tieftrunk,
+    role: eine Geisterseherin.
+    gender: f
+  - name: Die seelige Frau.
+    gender: f
+  - name: Peter,
+    role: Hamanns Bedienter.
+    gender: m
+setting: >
+  Scene; ein kleiner Flekken in Deutschland. Die Handlung beginnt nach Sonnenuntergang und endet gegen Mitternacht. (Hamanns Studierstube mit Bücherrükken, einem Schreibpulte u. s. w. Ein Alkoven mit Gardienen.)
+---
 slug: schink-selbstopfer
 author:
   name: Schink, Johann Friedrich
@@ -25847,6 +26013,43 @@ cast:
     gender: m
 setting: >
   Das Stück spielt auf einem Gute der Frau v. Lucy.
+---
+slug: both-der-onkel-als-nebenbuhler
+author:
+  name: Schneider, Louis
+  pseudonym: Both, L. W.
+  wikidata: Q214659
+title: Der Onkel als Nebenbuhler
+subtitle: Lustspiel in einem Aufzuge nach Mellesville
+numberOfScenes: 15
+printed: 1835
+formalia:
+  - Prosa
+basedOn:
+  - "Mélesville: [»L'oncle rival. Comédie-Vaudeville en un acte«](https://books.google.com/books?id=pI5LAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band VII, No. 52. Berlin: Hayn 1835, S. 899–908"
+    url: https://books.google.com/books?id=pd_3fqU7r3AC&pg=PA899
+comments:
+  - "Anmerkung im [Anhang](https://books.google.com/books?id=pd_3fqU7r3AC&pg=PA908): »In der Deutschen Bearbeitung ist der Ober-Rheinische Dialekt für die Hauptrolle gewählt worden. Spräche aber eine Schauspielerin vorzugsweise Schwäbisch, Sächsisch, Oesterreichisch u. s. w. lieber, als den gewählten Dialekt, so lässt sich das mit wenigen Worten abändern, indem dann nicht der Rhein, sondern eine andere Gegend bezeichnet wird, wo Julie sich lange aufgehalten.«"
+cast:
+  - name: v. Sturm,
+    role: Major ausser Diensten.
+    gender: m
+  - name: Carl,
+    role: sein Neffe.
+    gender: m
+  - name: Julie,
+    role: heimlich mit Carl vermählt.
+    gender: f
+  - name: Robert,
+    role: ehemals Feldwebel.
+    gender: m
+  - name: Zacharias Quirl,
+    role: Gärtner.
+    gender: m
+setting: >
+  Saal eines alten Schlosses. Die Möbel altväterisch. Rechts vom Schauspieler ein Tisch mit einem Grossvaterstuhl, links einige Stühle. Mittel- und Seitenthüren.
 ---
 slug: both-er-amuesirt-sich-doch
 author:
