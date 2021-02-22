@@ -7262,7 +7262,7 @@ formalia:
 basedOn:
   - "Eugène Scribe und Édouard-Joseph-Ennemond Mazères: [»Le charlatanisme. Comédie-vaudeville en un acte«](https://books.google.com/books?id=y29FXLpq7VUC&printsec=frontcover)"
 editions:
-  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. Band V, No. 39. Berlin: Hayn 1833, S. 681–692"
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band V, No. 39. Berlin: Hayn 1833, S. 681–692"
     url: https://books.google.com/books?id=vFBcAAAAcAAJ&pg=PA681
 comments:
   - "»Das Stück spielt: Eine Stunde.« ([Anhang](https://books.google.com/books?id=x7FKAAAAcAAJ&pg=PA692))"
@@ -8252,7 +8252,7 @@ formalia:
   - Prosa
 editions:
   - title: "Neue deutsche Schaubühne oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Achter Band. Augsburg und Leipzig: Jenisch und Stage [1816], S. 243–298"
-    url: https://books.google.com/books?id=gyk7AAAAcAAJ&pg=PA243 
+    url: https://books.google.com/books?id=gyk7AAAAcAAJ&pg=PA243
   - title: "Thalia. Sammlung neuer Schauspiele von C. Bonafont. Erstes Bändchen. Augsburg und Leipzig 1816"
     url: https://books.google.com/books?id=5Xc6AAAAcAAJ&pg=RA1-PA1
 cast:
@@ -9461,6 +9461,47 @@ cast:
 setting: >
   Die Scene ist in Spanien. (Die Bühne stellt einen Garten vor. Zur Rechten, bey der ersten Coulisse eine schräge Mauerwand mit einer Jalousie, zur Linken ebenfalls bey der ersten Coulisse eine Thüre, welche in's Freye führt. Im Hintergrunde Rosenstöcke, Vasen u. s. w., und eine Gitterwand, welche den Garten schließt, und über die ganze Bühne läuft.)
 ---
+slug: castelli-klimpern-gehoert-zum-handwerke
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Klimpern gehört zum Handwerke
+subtitle: Lustspiel in einem Akte nach Scribe
+numberOfScenes: 20
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1826. Von F. I. Castelli. Eilfter Jahrgang. Wien: Wallishausser [1826], S. 227–290"
+    url: https://books.google.com/books?id=RwD2giW-JGcC&pg=PA227
+cast:
+  - name: Dawitz,
+    role: ein Schriftsteller.
+    gender: m
+  - name: Reisser,
+    role: ein Journalist.
+    gender: m
+  - name: Warberg,
+    role: ein Arzt.
+    gender: m
+  - name: Herr von Brückelheim,
+    role: Gutsbesitzer vom Lande.
+    gender: m
+  - name: Klärchen,
+    role: seine Tochter.
+    gender: f
+  - name: Frau von Feller,
+    role: seine Nichte.
+    gender: f
+  - group:
+    - name: Franz,
+      gender: m
+    - name: Heinrich,
+      gender: m
+    role: Dawitz's Bediente.
+setting: >
+  Die Handlung spielt in einer Hauptstadt, in Dawitz's Hause und Wohnung. (Die Bühne stellt ein elegantes Zimmer vor mit einer Mittel- und zwey Seitenthüren, zu beyden Seiten der Mittelthüre sind Bücherkasten mit Glasthüren, auf einem dieser Kasten steht die Büste Schiller's, auf dem andern jene Göthe's. Zur Rechten ein Sekretair, bey welchem Dawitz bey Eröffnung der Gardine sitzt und schreibt.)
+---
 slug: castelli-ueberspanntheit-oder-die-entsetzliche-literatur
 author:
   name: Castelli, Ignaz Franz
@@ -9635,6 +9676,37 @@ cast:
     gender: m
 setting: >
   Die Scene ist zu Marseille. (Die Bühne stellt einen niederen Salon vor, welcher ein Comptoir bildet, rückwärts offen ist, und den Hafen erblicken läßt. Zur Rechten des Zusehers eine Thür, welche in das Innere des Hauses führt; zur Linken die allgemeine Eingangsthür. Rechts ein Schreibtisch, links ein Schirm. Eine Wanduhr ober dem Kamin, welcher sich an der Seite des Schreibtisches befindet. Von außen mehrere Tonnen und Ballen, welche zum Einschiffen bereit stehen.)
+---
+slug: castelli-zwey-jahre-nach-der-hochzeit-oder-an-wem-ist-die-schuld
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: "Zwey Jahre nach der Hochzeit, oder: An wem ist die Schuld?"
+subtitle: Lustspiel in einem Aufzuge. Nach Scribe und Melesville
+numberOfScenes: 17
+printed: 1831
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Mélesville: [»La seconde annee, ou A qui la faute? Comédie-vaudeville en un acte«](https://books.google.com/books?id=OjrukAQmoz8C&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1831. Von F. I. Castelli. Sechzehnter Jahrgang. Wien: Wallishausser 1831, S. 109–194"
+    url: https://books.google.com/books?id=26c7AAAAcAAJ&pg=PA109
+cast:
+  - name: Murthen,
+    role: Banquier.
+    gender: m
+  - name: Caroline,
+    role: seine Frau.
+    gender: f
+  - name: Edmund,
+    role: Graf von Elmen.
+    gender: m
+  - name: Reisenhuber,
+    role: Murthens Buchhalter.
+    gender: m
+setting: >
+  Die Handlung ist in der Residenz in Murthens Hause. (Die Bühne stellt ein reich dekorirtes Zimmer vor. Im Hintergrunde mitten ein Kamin, zu beyden Seiten Thüren, jene zur Rechten ist die allgemeine Eingangsthüre. Bey den Coulissen zwey Seitenthüren, wovon jene zur Linken in Carolinens Zimmer, jene zur Rechten in ein Cabinett führt. Neben dieser letztern ein eleganter Schreibtisch, auf welchem Schriften und Rechnungsbücher liegen – neben jener zur Linken ein Stehspiegel.)
 ---
 slug: contessa-ich-bin-meine-schwester
 author:
@@ -10203,6 +10275,38 @@ cast:
 setting: >
   Die Scene ist in einem Garten, auf dem Landgute Fräulein Aureliens. (Garten mit einer Laube, Bank und Tisch.)
 ---
+slug: doerring-seite-vier-und-zwanzig-oder-die-memoiren-der-grossmutter
+author:
+  name: Dörring, G.
+title: "Seite vier und zwanzig, oder: Die Memoiren der Grossmutter"
+subtitle: Lustspiel in einem Aufzuge. Frei nach dem Französischen
+numberOfScenes: 19
+printed: 1837
+formalia:
+  - Prosa
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band VIII, No. 62. Berlin: Hayn 1837, S. 1071–1081"
+    url: https://books.google.com/books?id=4VBcAAAAcAAJ&pg=PA1071
+cast:
+  - name: Baron Arthur von Boden.
+    gender: m
+  - name: Frau von Selling.
+    gender: f
+  - name: Constanze,
+    role: deren Enkelin.
+    gender: f
+  - name: Cyprian Steinpilz,
+    role: Gärtner.
+    gender: m
+  - name: Nannette,
+    role: seine Tochter, in Diensten der Frau von Selling.
+    gender: f
+  - name: Jakob Fiedel,
+    role: ein armer Dorfmusikant.
+    gender: m
+setting: >
+  Ort der Handlung: ein Landgut der Frau von Selling. (Das Innere eines Gartens. Im Hintergrunde eine Mauer, mit einer grünen Thür in der Mitte. Rechts ein Pavillon mit Thür und Fenster, dem Zuschauer gegenüber geöffnet. Man sieht in demselben das lebensgrosse Bild eines Husaren-Offiziers, eine Bibliothek, einen Schreibtisch mit Schreibmaterialien und einige Stühle. Mehr im Vordergrunde rechts der Eingang in en kleines Hundehäuschen. Links eine Laube, vor der ein Gartentisch und mehrere Gartenstühle stehen.)
+---
 slug: droste-huelshoff-perdu
 author:
   name: Droste-Hülshoff, Annette von
@@ -10252,6 +10356,44 @@ cast:
     gender: f
 setting: >
   Speth, ein Buchhändler; im Vordergrund ein Fenster mit halbgeschlossenen Vorhängen, das auf den Rhein geht, alle Stühle mit Papieren, Ballen u.s.w. beladen; […]
+---
+slug: dunkel-ritter-und-knecht
+author:
+  name: Dunkel, Theodor
+title: Ritter und Knecht
+subtitle: Lustspiel in einem Akt. Frei nach dem Französischen des D'épagny
+numberOfScenes: 18
+printed: 1839
+formalia:
+  - Prosa
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band IX, No. 72. Berlin: Hayn 1839, S. 1227–1238"
+    url: https://books.google.com/books?id=pd_3fqU7r3AC&pg=PA1227
+cast:
+  - name: Ritter Bär von Nordenfels.
+    gender: m
+  - name: Marder,
+    role: dessen Schlossvogt.
+    gender: m
+  - name: Hans,
+    role: ein Landmann, Bärs Unterthan.
+    gender: m
+  - name: Der Marschalk
+    role: des Grafen v. d. Yppenburg.
+    gender: m
+  - name: Grete,
+    role: eine junge Bäuerin, des Grafen Vasallin.
+    gender: f
+  - name: Niklas,
+    role: ein alter Landmann auf Nordenfels.
+    gender: m
+  - name: Ein Herold.
+    gender: m
+  - name: Knappen. Bauern. Bäuerinnen. Diener. Trabanten.
+    isGroup: true
+    gender: u
+setting: >
+  Scene: die Grenze der beiden Besitzungen Yppenburg und Nordenfels an der Küste der Nordsee. Zeit: die Kreuzzüge. (Meeresküste; die Gegend ist wüst; zwei Pfähle, an denen zwei verschiedene Wappenschilder hängen, rechts und links dicht an den Coulissen aufgestellt, deuten die Grenzen der beiden benachbarten Herrschaften an. Eine Baumgruppe steht vorn links, sechs Fuss von der Coulisse entfernt. Es donnert, und im Hintergrunde erblickt man die Wellen schlagende, aufgeregte See.)
 ---
 slug: dusch-die-unschuldigen-diebe
 author:
@@ -10902,6 +11044,36 @@ cast:
 setting: >
   Die Scene ist in einem Lustholze, ganz nahe bey Geusens Wohnung.
 ---
+slug: ernst-der-arzt
+author:
+  name: Ernst, Carl
+title: Der Arzt
+subtitle: Lustspiel in einem Akte. Nach Scribe und Bayard, frei bearbeitet
+numberOfScenes: 17
+printed: 1839
+formalia:
+  - Prosa
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band IX, No. 71. Berlin: Hayn 1839, S. 1215–1225"
+    url: https://books.google.com/books?id=pd_3fqU7r3AC&pg=PA1215
+cast:
+  - name: Delaroche,
+    role: Kaufmann.
+    gender: m
+  - name: Agathe,
+    role: dessen Tochter.
+    gender: f
+  - name: Darmentières,
+    role: Arzt.
+    gender: m
+  - name: Mistress Berlington.
+    gender: f
+  - name: Arthur,
+    role: ihr Neffe.
+    gender: m
+setting: >
+  Ort: Paris, im Hause des Delaroche. (Zimmer, hinter dem Laden eines Seidenwaaren-Magazins. Mittelthür; Rechts, in der Ecke, ein Schreib- und Zahltisch, daneben eine Cabinetsthür. Einige Ballen und Packete liegen umher. Im Vordergrunde links ein Tisch, Stühle.)
+---
 slug: faber-die-drey-brueder-als-nebenbuhler
 author:
   name: Faber, Johann Heinrich
@@ -10991,6 +11163,34 @@ cast:
     gender: m
 setting: >
   Das Theater stellt einen Theil vom See Ufer vor. Wo an der einen Seite vorwärts, ein Stein von mittelmäßiger Grösse liegt; hinten hat man die Aussicht auf die See.
+---
+slug: foerster-untreue-und-eifersucht
+author:
+  name: Förster, Wilhelm
+title: Untreue und Eifersucht
+subtitle: Nachspiel in einem Aufzuge. Nach dem Italienischen des Malipieri
+numberOfScenes: 4
+printed: 1833
+formalia:
+  - Prosa
+basedOn:
+  - "Troilo Malipiero: »La mascherata«"
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band V, No. 37. Berlin: Hayn 1833, S. 637–643"
+    url: https://books.google.com/books?id=c-A-AAAAYAAJ&pg=PA637
+comments:
+  - "Anmerkung im [Anhang](https://books.google.com/books?id=c-A-AAAAYAAJ&pg=PA643): »Das Stück spielt: Eine halbe Stunde.«"
+cast:
+  - name: Herr von Glanden.
+    gender: m
+  - name: Elise,
+    role: dessen Frau.
+    gender: f
+  - name: Alwine,
+    role: deren Schwester.
+    gender: f
+setting: >
+  Die Scene ist im Hause des Herrn von Glanden. (Wohnzimmer mit einer Mittel- und einer Seitenthür. Im Vordergrunde rechts ein Sopha, links ein eleganter Ofenschirm.)
 ---
 slug: franke-die-trauer
 author:
@@ -19740,6 +19940,46 @@ cast:
 setting: >
   Saal mit mehreren Thüren im Haus des Baron Löventhal. Ein Tisch mit einer Klingel und eine Klingelschnur an der Wand.
 ---
+slug: krickeberg-philipp
+author:
+  name: Krickeberg, Sophie Friederike
+  wikidata: Q26878036
+title: Philipp
+subtitle: Drama in Einem Akt. Nach dem Französischen bearbeitet
+numberOfScenes: 23
+printed: 1831
+premiered: 1830-10-04
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe, Mélesville und Jean-François Bayard: [»Philipp. Comédie-vaudeville en un acte«](https://books.google.com/books?id=ZDVMAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. Band II, No. 10. Berlin: Hayn 1831, S. 137–150"
+    url: https://books.google.com/books?id=elBcAAAAcAAJ&pg=PA137
+comments:
+  - "Anmerkung im [Anhang](https://books.google.com/books?id=elBcAAAAcAAJ&pg=PA150): »Das Stück spielt. Gerade eine Stunde.«"
+cast:
+  - name: Fräulein von Harville.
+    gender: f
+  - name: Mathilde,
+    role: ihre Nichte.
+    gender: f
+  - name: Vicomte von Beauvoisis,
+    role: ihr Neffe.
+    gender: m
+  - name: Philipp,
+    role: Haushofmeister des Fr. v. Harville.
+    gender: m
+  - name: Victor.
+    gender: m
+  - name: Joseph.
+    gender: m
+  - name: Mehrere Diener des Fr. v. Harville.
+    isGroup: true
+    gender: m
+setting: >
+  Der Ort der Handlung ist das Hôtel des Fräuleins von Harville. (Ein geschmackvoll reich verziertes Zimmer, mit Mittel- und Seitenthüren, wovon die zur Linken in Mathildens, die zur Rechten in Victors Zimmer führt. Im Vordergrunde links ein grosser, mit reichem Teppich behangener Tisch, worauf eine Cassette, Schreibzeug etc.; daneben ein Sopha, mit dem Rücken an die Coulissen. Rechts Tisch und Stuhl.
+---
 slug: krickeberg-wer-traegt-die-schuld
 author:
   name: Krickeberg, Sophie Friederike
@@ -26013,6 +26253,57 @@ cast:
     gender: m
 setting: >
   Das Stück spielt auf einem Gute der Frau v. Lucy.
+---
+slug: both-der-oberst-von-18-jahren
+author:
+  name: Schneider, L.
+  wikidata: Q214659
+title: Der Oberst von 18 Jahren
+subtitle: Lustspiel in einem Aufzuge. Nach dem Französischen
+numberOfScenes: 22
+printed: 1839
+formalia:
+  - Prosa
+basedOn:
+  - "Mélesville, Gabriel de Lurieu und Ange-Jean-Robert Eustache Angel: [»Un Colonel d'autrefois. Comédie-vaudeville en un acte«](https://books.google.com/books?id=87loAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band IX, No. 68. Berlin: Hayn 1839, S. 1163–1176"
+    url: https://books.google.com/books?id=pd_3fqU7r3AC&pg=PA1163
+cast:
+  - name: Julius,
+    role: Marquis von Crequi.
+    gender: m
+  - group:
+    - name: Lefaucheux,
+      role: Major
+      gender: m
+    - name: Henry de Blançay,
+      role: Lieutenant
+      gender: m
+    - name: Octave de Blançay,
+      role: Lieutenant
+      gender: m
+    - name: Joli-Coeur,
+      role: Sergeant
+      gender: m
+    - name: Brin d'Amour
+      role: Corporal
+      gender: m
+    role: im Regiment Beaujolois.
+  - name: Florchard,
+    role: Erzieher des Marquis von Crequi.
+    gender: m
+  - name: Ernestine,
+    role: Tochter des Majors.
+    gender: f
+  - name: Offiziere und Soldaten des Regiments Beaujolois.
+    isGroup: true
+    gender: m
+  - name: Bediente des Marquis.
+    isGroup: true
+    gender: u
+setting: >
+  Ort der Handlung; Lille im Jahre 1760. (Das Innere eines grossen Militair-Gebäudes. Rechts vom Zuschauer, an der erstne Coulisse, eine Balkonthür, zu der man einige Stufen emporsteig und beim Oeffnen der Glasthüren auf einen Balkon treten kann. Auf derselben Seite, weiter zurück, die Thür zum Gesellschafts- und Sepisezimmer der Offiziere. In der Mitte des Hintergrundes der Haupteingang, welcher durch ein Gitter geschlossen ist, durch welches man in den tiefer liegenden Hof der Citadelle sehen kann. Links vom Zuschauer, an der ersten Coulisse, die Thür zur Wohnung des Majors. Zwischen dieser Thür und dem Haupteingange ein vergittertes Fenster, welches zu den Militair-Gefängniss führt. Auf dem Tische links ein Stickrahmen, daneben ein Harfen-Futteral, mehrere Pappcartons u. dergl.)
 ---
 slug: both-der-onkel-als-nebenbuhler
 author:
