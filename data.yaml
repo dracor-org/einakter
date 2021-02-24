@@ -2057,7 +2057,7 @@ premiered: 1741-11-01
 formalia:
   - Prosa
 basedOn:
-  - "Noël Lebreton de Hauteroche: [»Le cocher supposé«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/HAUTEROCHE_COCHERSUPPOSE.xml)"
+  - "Noël Lebreton de Hauteroche: [»Le cocher supposé. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/HAUTEROCHE_COCHERSUPPOSE.xml)"
 dictionaries:
   bibliographia: 2. Abteilung, Band 11, S. 356, und Band 19, S. 189, und Band 20, S. 199–200
 comments:
@@ -7049,6 +7049,48 @@ cast:
 setting: >
   Der Schauplatz ist in einem Landhause des Barons.
 ---
+slug: bertuch-der-teufel-aus-der-kohlenkammer
+author:
+  name: Bertuch, Friedrich Justin
+  wikidata: Q213775
+title: Der Teufel aus der Kohlenkammer
+subtitle: Posse in einem Akte, von Cervantes
+numberOfScenes: 11
+printed: 1782
+formalia:
+  - Prosa
+basedOn:
+  - "Cervantes: [»La cueva de Salamanca«](https://www.wikidata.org/wiki/Q5966386)"
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 211–212
+editions:
+  - title: "Magazin der Spanischen und Portugiesischen Literatur. Dritter Band. Dessau und Leipzig: Buchhandlung der Gelehrten 1782, S. 129–168"
+    url: https://books.google.com/books?id=fm0zAQAAMAAJ&pg=PA129
+comments:
+  - "Im [Nachwort](https://books.google.com/books?id=fm0zAQAAMAAJ&pg=PA168): Vermutlich diente Cervantes ein Sprichwort als Vorlage."
+cast:
+  - name: Pankrazio.
+    role: Ein alter Spießbürger.
+    gender: m
+  - name: Leonarda.
+    role: Seine Frau.
+    gender: f
+  - name: Christine.
+    role: Magd.
+    gender: f
+  - name: Gevatter Leoniso.
+    role: Pankrazio's Freund.
+    gender: m
+  - name: Carraolan,
+    role: Ein fahrender Student.
+    gender: m
+  - name: Reponce.
+    role: Küster im Orte.
+    gender: m
+  - name: Meister Niklas.
+    role: Barbier.
+    gender: m
+---
 slug: beyer-der-hausherr-in-der-klemme
 author:
   name: Beyer, Heinrich
@@ -11591,6 +11633,50 @@ cast:
 setting: >
   Die Scene ist in einem Lustholze, ganz nahe bey Geusens Wohnung.
 ---
+slug: erdmann-gruenewald-skeitz
+author:
+  name: Erdmann, Ludwig
+  wikidata: Q95007495
+title: Grünewald Skeitz
+subtitle: Ein Lustspiel, in einem Aufzuge
+numberOfScenes: 7
+printed: 1782
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 228
+editions:
+  - title: "Leipzig und Kölln am Rhein: Imhof 1782"
+    url: https://books.google.com/books?id=_SNdAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Skeitz,
+    role: ein Oberförster.
+    gender: m
+  - name: Gellhausen,
+    role: ein Forstjäger.
+    gender: m
+  - name: Birkenstein,
+    role: ein Beamter.
+    gender: m
+  - name: Gretchen,
+    role: Tochter des Oberförsters.
+    gender: f
+  - group:
+    - name: Jürge,
+      gender: m
+    - name: Peter,
+      gender: m
+    role: zwey Jägerjungen.
+  - name: Eine Fremde.
+    gender: f
+  - name: Vier Häscher.
+    isGroup: true
+    gender: m
+  - name: Ein Kutscher.
+    gender: m
+setting: >
+  Die Bühne ist eine Wirthsstube.
+---
 slug: ernst-der-arzt
 author:
   name: Ernst, Carl
@@ -13108,6 +13194,50 @@ cast:
     role: Des Impressario Komödianten.
 setting: >
   Die Handlung spielt zu Merlü gleich nach Mittage.
+---
+slug: hagemann-die-glueckliche-werbung-oder-liebe-zum-koenig
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: "Die glückliche Werbung, oder: Liebe zum König"
+subtitle: Volkslustspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1793
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 32, S. 375–376
+editions:
+  - title: "Hannover: Hahn 1793"
+    url: https://books.google.com/books?id=pzhdAAAAcAAJ&printsec=frontcover
+  - title: "[Ohne Ort: ohne Verlag] 1793"
+    url: https://books.google.com/books?id=qn7EKKbwyMIC&printsec=frontcover
+comments:
+  - "Ausführlich analysiert in: Toni Bernhart: Volksschauspiele. Genese einer kulturgeschichtlichen Formation. Berlin/Boston: De Gruyter 2019, S. 81–85 ([doi:10.1515/9783110606089](https://doi.org/10.1515/9783110606089))"
+  - Laut Bernhart das erste deutsche Drama, das den Untertitel »Volkslustspiel« trägt (ebd.).
+keywords:
+  - Französische Revolution
+  - Soldatenstück
+  - Patriotismus
+  - Monarchie
+  - Freiheit
+  - Staatsführung
+  - Militärdrama
+cast:
+  - name: Meier,
+    role: Weinschenker.
+    gender: m
+  - name: Therese,
+    role: seine Tochter.
+    gender: f
+  - name: Brand,
+    role: Grenadiercorporal in hannöverischen Diensten.
+    gender: m
+  - name: Wilhelm,
+    role: ein Aufwärter.
+    gender: m
+setting: >
+  Die Handlung geschieht in einer hannövrischen Stadt.
 ---
 slug: hagemann-vetter-paul-oder-die-rache-des-deutschen
 author:
