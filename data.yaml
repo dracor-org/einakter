@@ -10193,6 +10193,306 @@ cast:
 setting: >
   Die Handlung ist in der Residenz in Murthens Hause. (Die Bühne stellt ein reich dekorirtes Zimmer vor. Im Hintergrunde mitten ein Kamin, zu beyden Seiten Thüren, jene zur Rechten ist die allgemeine Eingangsthüre. Bey den Coulissen zwey Seitenthüren, wovon jene zur Linken in Carolinens Zimmer, jene zur Rechten in ein Cabinett führt. Neben dieser letztern ein eleganter Schreibtisch, auf welchem Schriften und Rechnungsbücher liegen – neben jener zur Linken ein Stehspiegel.)
 ---
+slug: claudius-das-rendezvous-oder-untreu-aus-liebe
+author:
+  name: Claudius, Georg Karl
+  wikidata: Q19279269
+title: Das Rendezvous oder Untreu aus Liebe
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 23
+printed: 1783
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 389
+editions:
+  - title: "Frankfurt und Leipzig: Brönner 1783"
+    url: https://books.google.com/books?id=sic7AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr von Braunendorf.
+    gender: m
+  - name: Amalie von Braunendorf,
+    role: seine Gattin.
+    gender: f
+  - name: Fräulein von Altenborn,
+    role: bejahrte Anverwandte der Frau von Braunendorf.
+    gender: f
+  - name: Lieutenant von Hoheneck.
+    gender: m
+  - name: Kammerrath Läuft.
+    gender: m
+  - name: Tobias,
+    role: Bedienter des Herrn von Braunendorf.
+    gender: m
+  - name: Storr,
+    role: ein alter Feldwebel an der Krücke.
+    gender: m
+  - name: Ein Bauer.
+    gender: m
+  - name: Ein Jäger und noch ein Bedienter des Herrn von Braunendorf.
+    isGroup: true
+    gender: m
+setting: >
+  Die Scene: Herrn von Braunendorfs Ritterguth. (Zimmer des Herrn von Braunendorf.)
+---
+slug: claudius-der-abend-auf-der-flur
+author:
+  name: Claudius, Georg Karl
+  wikidata: Q19279269
+title: Der Abend auf der Flur
+subtitle: Ein ländliches Schauspiel für Kinder mit Gesang in Einem Aufzuge
+numberOfScenes: 4
+printed: 1783
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 387
+editions:
+  - title: "Kleine Unterhaltungen von G. C. Claudius. Zweyter Theil. Leipzig: Böhme 1783, S. 233–259"
+    url: https://nbn-resolving.org/urn:nbn:de:bvb:384-uba000042-0
+cast:
+  - name: Amyntas,
+    role: ein betagter Hirt.
+    gender: m
+  - name: Phyllis,
+    role: eine Hirtin.
+    gender: f
+  - name: Milon,
+    role: ein junger Hirt.
+    gender: m
+  - name: Daphne,
+    role: eine junge Hirtin.
+    gender: f
+  - group:
+    - name: Mirtill, und
+      gender: m
+    - name: Menalkas,
+      gender: m
+    role: zwey junge Hirten.
+  - name: Drey Genien.
+    isGroup: true
+    gender: u
+setting: >
+  Die Scene eine Flur mit verschiedenen Bäumen besetzt.
+---
+slug: claudius-der-ball-oder-beurtheile-den-menschen-nicht-nach-dem-aeusserlichen
+author:
+  name: Claudius, Georg Karl
+  wikidata: Q19279269
+title: Der Ball. Oder Beurtheile den Menschen nicht nach dem Aeußerlichen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1782
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 218
+editions:
+  - title: "Kinder-Theater. Herausgegeben von G. C. Claudius. Frankfurt und Leipzig: Brönnek 1782, S. 57–82"
+    url: https://books.google.com/books?id=7hsR14w3VeQC&pg=PA57
+comments:
+  - "Nicht identisch mit [»Der Ball. Ein Lustspiel in einem Aufzuge« (1757, anonym)](anonym-der-ball)."
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr von Walldorf.
+    gender: m
+  - group:
+    - name: Carl
+      gender: m
+    - name: Heinrich
+      gender: m
+    - name: Louise
+      gender: m
+    role: seine Kinder.
+  - group:
+    - name: Wilhelminchen
+      gender: f
+    - name: Fritz
+      gender: m
+    role: Gespielen von Herr von Walldorfs Kindern.
+  - name: Herr von Rosenau,
+    role: Anverwandter vom Herrn von Walldorf, ein alter Mann,
+    gender: m
+  - name: andere Kinder noch, und
+    isGroup: true
+    gender: u
+  - name: Monsieur Olivier,
+    role: ein Tanzmeister.
+    gender: m
+setting: >
+  Die Scene. Ein Salon mit zwey Seitenthüren. (Ein Pult mit einigen Musicken, die zum Tanz spielen. Eine Anzahl Kinder sind im Saal, die andern im Zimmer wo die Seitenthüre hineinführet, und Erfrischungen für die Kinder stehen.)
+---
+slug: claudius-die-beiden-freunde
+author:
+  name: Claudius, Georg Karl
+  wikidata: Q19279269
+title: Die beiden Freunde
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1783
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 387–388
+editions:
+  - title: "Frankfurt und Leipzig: Brönner 1783"
+    url: https://books.google.com/books?id=-9WpdsP0sHwC&printsec=frontcover
+cast:
+  - name: Robert,
+    role: ein alter Bauer.
+    gender: m
+  - name: Lieschen,
+    role: seine Tochter.
+    gender: f
+  - name: Fritz,
+    role: Roberts angenommener Sohn.
+    gender: m
+  - name: Kunz,
+    role: ein Bauer.
+    gender: m
+  - name: Der Fürst ***.
+    gender: m
+  - name: General Storbeck.
+    gender: m
+  - name: Ein Offizier.
+    gender: m
+  - name: Ein Aktuarius nebst Gerichtspersonen.
+    isGroup: true
+    gender: u
+  - name: Soldaten.
+    isGroup: true
+    gender: m
+setting: >
+  Die Scene: Ein finsterer dicker Wald. Nächtliches Dunkel.
+---
+slug: claudius-die-verstoerte-wirthschaft
+author:
+  name: Claudius, Georg Karl
+  wikidata: Q19279269
+title: Die verstörte Wirthschaft
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 22
+printed: 1783
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 389–390
+editions:
+  - title: "Frankfurt und Leipzig: Brönner 1783"
+cast:
+  - name: Herr Orbil,
+    role: ein Kaufmann.
+    gender: m
+  - name: Frau Orbil.
+    gender: m
+  - name: Lottchen,
+    role: ihre Tochter.
+    gender: f
+  - name: Freymund,
+    role: ihr Liebhaber.
+    gender: m
+  - group:
+    - name: Anton,
+      gender: m
+    - name: Johann,
+      gender: m
+    role: Bediente.
+  - name: Orbils Buchhalter.
+    gender: m
+  - group:
+    - name: Niklas,
+      gender: m
+    - name: Andres,
+      gender: m
+    role: ein paar Bauern.
+  - name: Rosemund,
+    role: Bruder des Orbils.
+    gender: m
+  - name: Ein Notar.
+    gender: m
+  - name: Ein Schuster.
+    gender: m
+setting: >
+  Das Theater ein Zimmer.
+---
+slug: claudius-juliane-duerrbach
+author:
+  name: Claudius, Georg Karl
+  wikidata: Q19279269
+title: Juliane Dürrbach
+subtitle: In einem Aufzuge. Nach Sprickmanns Erzählung des Intelligenzblatt
+numberOfScenes: 18
+printed: 1783
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 388
+editions:
+  - title: "Frankfurt und Leipzig: Brönner 1783"
+    url: https://books.google.com/books?id=XAfHH1tR824C&printsec=frontcover
+comments:
+  - "Basiert auf Anton Mathias Sprickmanns Erzählung [»Das Intelligenzblatt«](http://ds.ub.uni-bielefeld.de/viewer/resolver?urn=urn:nbn:de:0070-disa-1923976_004_2925) (1777)."
+  - "Sprickmanns Erzählung war ursprünglich auch als Einakter konzipiert, bevor sie zu einer Erzählung bearbeitet wurde (vgl. Johannes Venhofen: Anton Matthias Sprickmann als Mensch und Dichter. Münster: Coppenrath 1910, [S. 88](https://archive.org/details/antonmatthiassp00venhgoog/page/n107/mode/1up))."
+cast:
+  - name: Franz Dürrbach,
+    role: ein Krämer in einem kleinen Städtchen.
+    gender: m
+  - name: Marie,
+    role: seine Frau.
+    gender: f
+  - name: Juliane,
+    role: ihre Tochter.
+    gender: f
+  - name: Wilhelm Grünwald,
+    role: ein junger Advokat, Julianens Liebhaber.
+    gender: m
+  - name: Meister Elis,
+    role: ein Metzger.
+    gender: m
+  - name: Jakob,
+    role: Grünwalds Bedienter.
+    gender: m
+setting: >
+  Die Handlung geht in einer kleinen Stadt vor – Darnach wird sich auch das Costume bestimmen müssen. (Das Theater: Ein Zimmer mit zwey Seitenthüren, worinnen ein Flügel steht. An der Wand Grünwalds Silhouette.)
+---
+slug: claudius-so-siegt-die-unschuld
+author:
+  name: Claudius, Georg Karl
+  wikidata: Q19279269
+title: So siegt die Unschuld
+subtitle: Ein kleines Schauspiel für Kinder in einem Akt
+numberOfScenes: 14
+printed: 1782
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 219
+editions:
+  - title: "Kinder-Theater. Herausgegeben von G. C. Claudius. Frankfurt und Leipzig: Brönnek 1782, S. 83–102"
+    url: https://books.google.com/books?id=7hsR14w3VeQC&pg=PA83
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau von Thalfort.
+    gender: f
+  - group:
+    - name: Charlotte v. Thalfort
+      gender: f
+    - name: Friedrich v. Thalfort
+      gender: m
+    role: Kinder der Frau von Thalfort.
+  - name: Albertine Stuck,
+    role: in Fr. v. Thalforts Dienst.
+    gender: f
+  - name: Philipp Stuck,
+    role: Albertinens Vater.
+    gender: m
+  - name: Ein kleiner Knabe.
+    gender: m
+setting: >
+  Die Scene. In der Frau von Thalfort Hause.
+---
 slug: contessa-ich-bin-meine-schwester
 author:
   name: Contessa, Karl Wilhelm
@@ -15647,6 +15947,54 @@ cast:
     gender: m
 setting: >
   Die Scene ist auf dem Landgute des Marquis.
+---
+slug: keller-die-nationaltracht-oder-fort-mit-dem-plunder-nach-deutschland
+author:
+  name: Keller, Heinrich
+title: Die Nationaltracht, oder Fort mit dem Plunder nach Deutschland!
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1783
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 28, S. 415
+editions:
+  - title: "Leipzig und Sondershausen 1783"
+    url: https://books.google.com/books?id=pgJSKY7_cU0C&printsec=frontcover
+cast:
+  - name: Herr von Harburg,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Frau von Harburg,
+    role: dessen Frau.
+    gender: f
+  - name: Karoline,
+    role: dessen Tochter.
+    gender: f
+  - name: Frau von Hohenhauben.
+    gender: f
+  - name: Fräulein von Spitzberg.
+    gender: f
+  - name: Herr von Schminkenfeld.
+    gender: m
+  - name: Altmann,
+    role: ein aus Ostindien kommender Kaufmann, ehemaliger Liebhaber Karolinens.
+    gender: m
+  - name: Christoph,
+    role: Harburgs Bedienter.
+    gender: m
+  - name: Friedrich,
+    role: Altmanns Bedienter.
+    gender: m
+  - name: Jack,
+    role: ein Friseur.
+    gender: m
+  - name: Meister Strobelkopf,
+    role: Hofschneider.
+    gender: m
+setting: >
+  Die Handlung geht eigentlich vor in Schweden, man denke sich aber lieber den Zeitpunkt idealisch, als historisch, und lasse das Stück lieber in einer glücklichen Zukunft, als in der Vergangenheit spielen. Demohngeachtet kann die dankbarste Erinnerung an einen Gustav III. Schwedens grossen König, damit verbunden bleiben.
 ---
 slug: kepner-der-zerstreute
 author:
