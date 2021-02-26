@@ -23,6 +23,11 @@ export interface Author {
   wikidata?: string
 }
 
+export interface Coords {
+  longitude: number
+  latitude: number
+}
+
 export interface Play {
   author?: Author
   authors?: Author[]
@@ -53,5 +58,12 @@ export interface Play {
   premiered?: string | number
   printed?: number
   setting?: string
+  location?: {
+    wikidataId: string
+    coordinates?: Coords
+  } | {
+    coordinates: Coords
+    wikidataId?: string
+  }
   subtitle?: string
 }
