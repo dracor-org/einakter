@@ -690,6 +690,11 @@ setting: >-
   Madame Sarrasin. An der ersten Coulisse rechts ein Kamin, reich verziert mit
   einer Bronce-Uhr, Vasen etc. links ein Fenster. – Die Möbel stehen bunt
   durcheinander, wie am Morgen nach einem großen Balle.)
+location:
+  wikidataId: Q90
+  coordinates:
+    latitude: 48.856944
+    longitude: 2.351389
 ---
 slug: anonym-alberik
 author:
@@ -855,6 +860,8 @@ cast:
     role: Charlottens Mädchen.
     gender: f
 setting: Der Schauplatz ist in Leipzig in Arists Hause.
+location:
+  wikidataId: Q2079
 ---
 slug: anonym-colin-maillard-die-blinde-kuh
 author:
