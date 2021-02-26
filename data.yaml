@@ -3407,7 +3407,7 @@ dictionaries:
   bibliographia: 2. Abteilung, Band 27, S. 196
 comments:
   - Manuskript zu einer Mannheimer Aufführung.
-  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1766 (Walz)](walz-die-junge-indianerin) und [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn).
+  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1766 (Walz)](walz-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn) und [1818 (Vogel)](vogel-die-junge-indianerin).
 keywords:
   - Sklaverei
 cast:
@@ -3442,7 +3442,7 @@ dictionaries:
   bibliographia: 2. Abteilung, Band 22, S. 441
 comments:
   - Nur als Manuskript.
-  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1766 (Walz)](walz-die-junge-indianerin) und [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin).
+  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1766 (Walz)](walz-die-junge-indianerin), [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin) und [1818 (Vogel)](vogel-die-junge-indianerin).
 keywords:
   - Sklaverei
 cast:
@@ -8293,6 +8293,48 @@ cast:
     gender: m
 setting: >
   Die Bühne stellt ein Wohnzimmer vor.
+---
+slug: boesenberg-einer-prellt-den-andern
+author:
+  name: Bösenberg, Heinrich
+  wikidata: Q17575492
+title: Einer prellt den Andern!
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1791
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 31, S. 308
+editions:
+  - title: "Theatralische Sammlung. Achtundfünfzigster Band. Wien: Jahn 1795, S. 179–216"
+    url: https://books.google.com/books?id=FFIM5_JRNCMC&pg=PA179
+cast:
+  - name: Herr von Buchholz.
+    gender: m
+  - name: Antonette,
+    role: seine Tochter.
+    gender: f
+  - name: Fräulein Walmor,
+    role: versprochene Braut, des
+    gender: f
+  - name: Baron von Geiersberg,
+    role: ein alter Landjunker.
+    gender: m
+  - name: Carl von Geiersberg,
+    role: sein Sohn.
+    gender: m
+  - name: Johann,
+    role: Bedienter des Barons.
+    gender: m
+  - name: Havermann,
+    role: ein Notar.
+    gender: m
+  - name: Grone,
+    role: ein Dorfbarbier.
+    gender: m
+setting: >
+  Der Schauplatz ist im Hause des Herrn von Buchholz, von den ersten Auftritt bis zu den zwölften, ist ein Zimmer mit einer Mittelthür und zwey Seitenthüren, von dreizehnten bis zum funfzehnten, ein anders schlechtes Zimmer. Denn wieder, die erste Dekoration bis zu Ende.
 ---
 slug: bonafont-betrug-fuer-betrug-oder-bedientenstreiche
 author:
@@ -13848,6 +13890,82 @@ cast:
     gender: u
 setting: >
   Das Stück spielt in Frankreich, in einer Provinzial-Stadt, ohnweit Paris.
+---
+slug: hartmann-die-dankbare-tochter-oder-die-einquartirung
+author:
+  name: Hartmann, Andreas Gottlieb
+  wikidata: Q55901658
+title: Die dankbare Tochter oder die Einquartirung
+subtitle: Ein ländliches Lustspiel mit Gesang in einem Aufzuge
+numberOfScenes: 33
+printed: 1780
+formalia:
+  - Prosa
+dictionaries:
+  bibliographia: 2. Abteilung, Band 27, S. 370
+editions:
+  - title: "Leipzig und Budißin: Deinzer 1780"
+    url: https://books.google.com/books?id=ThJaAAAAcAAJ&printsec=frontcover
+  - title: "Zweyte Auflage. Leipzig und Budißin: Deinzer 1784"
+    url: https://books.google.com/books?id=1jBJAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Martin Quaas,
+    role: ein Bauer.
+    gender: m
+  - name: Rahel,
+    role: seine Frau.
+    gender: f
+  - name: Röschen,
+    role: ihre älteste Tochter, Wißhofs Frau.
+    gender: f
+  - name: Gretchen,
+    role: ihre jüngste Tochter.
+    gender: f
+  - name: Töffel,
+    role: Gretchens Bräutigam.
+    gender: m
+  - group:
+    - name: Carl,
+      gender: m
+    - name: Fritze,
+      gender: m
+    role: 2 Kinder, die Quaas erzieht, Söhne eines Generals.
+  - group:
+    - name: Eisenbard,
+      gender: m
+    - name: Stich und
+      gender: m
+    - name: Platz,
+      gender: m
+    role: 3 Soldaten.
+  - name: Wißhof,
+    role: Rittmeister.
+    gender: m
+  - name: Marr,
+    role: der Verwalter.
+    gender: m
+  - group:
+    - name: Peter,
+      gender: m
+    - name: Thomas,
+      gender: m
+    - name: Christel,
+      gender: m
+    - name: Michel,
+      gender: m
+    role: junge Bauern.
+  - group:
+    - name: Dore,
+      gender: f
+    - name: Lieschen,
+      gender: f
+    - name: Anne,
+      gender: f
+    - name: Marthe,
+      gender: f
+    role: junge Bäuerinnen.
+setting: >
+  Das Theater stellt eine ländliche Gegend, im Grunde eine Bauernhütte vor.
 ---
 slug: hebenstreit-von-streitenfeld-marie-und-emilie
 author:
@@ -24597,7 +24715,7 @@ editions:
   - title: "Theatralische Belustigungen. Nach Französischen Mustern. Zwote Sammlung. Frankfurt und Leipzig: Garbe 1766, S. 95–134"
     url: https://books.google.com/books?id=ekbR2ZqA0K0C&pg=PA95
 comments:
-  - Weitere Übersetzungen [1766 (Walz)](walz-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn) und [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin).
+  - Weitere Übersetzungen [1766 (Walz)](walz-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn), [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin) und [1818 (Vogel)](vogel-die-junge-indianerin).
 keywords:
   - Sklaverei
 cast:
@@ -30932,6 +31050,39 @@ cast:
 setting: >
   Die Handlung geschieht in einer Residenz.
 ---
+slug: vogel-die-junge-indianerin
+author:
+  name: Vogel, Wilhelm
+  wikidata: Q61971934
+title: Die junge Indianerin
+subtitle: Ein Schauspiel in einem Akt und in Versen nach Champfort. Neu bearbeitet
+numberOfScenes: 10
+printed: 1818
+formalia:
+  - Alexandriner
+basedOn:
+  - "Sébastien-Roch Nicolas de Chamfort: [»La jeune indienne. Comédie en un acte et en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CHAMFORT_LAJEUNEINDIENNE.xml)"
+editions:
+  - title: "Kleine Dramatische Spiele für stehende Bühnen und Privat-Theater von Wilhelm Vogel, ehemaliger Hofschauspiel-Direktor in Karlsruhe. Aarau: Sauerländer 1818, S. 53–102"
+    url: https://books.google.com/books?id=OC9EAQAAMAAJ&pg=PA53
+comments:
+  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1766 (Walz)](walz-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn) und [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin).
+keywords:
+  - Sklaverei
+cast:
+  - name: Mowbray (lies Maubräh),
+    role: ein alter Quäker.
+    gender: m
+  - name: Mylford,
+    role: sein Neffe.
+    gender: m
+  - name: Belton.
+    gender: m
+  - name: Betty.
+    gender: f
+setting: >
+  Die Szene ist in einem amerikanischen Hafen. (Ein Zimmer mit einer Mittelthüre.)
+---
 slug: voss-der-jude-und-der-grieche
 author:
   name: Voß, Julius von
@@ -31175,7 +31326,7 @@ editions:
   - title: "Sammlung einiger französischer Lustspiele für das deutsche Theater. Bremen: Cramer 1766"
     url: https://books.google.com/books?id=itZUAAAAcAAJ&pg=PA1
 comments:
-  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn) und [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin).
+  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn), [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin) und [1818 (Vogel)](vogel-die-junge-indianerin).
 keywords:
   - Sklaverei
 cast:
