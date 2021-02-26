@@ -153,10 +153,10 @@ cast:
     role: Ruppert's Universitätsfreund.
     gender: m
   - group:
-    - name: Simon,
-      gender: m
-    - name: Bernhard,
-      gender: m
+      - name: Simon,
+        gender: m
+      - name: Bernhard,
+        gender: m
     role: Buchhalter beym alten Wittekind.
   - name: Ein Bedienter in Wittelkindschen Hause.
     gender: m
@@ -192,12 +192,12 @@ cast:
     role: ihr Sohn.
     gender: m
   - group:
-    - name: Georg.
-      gender: m
-    - name: William.
-      gender: m
-    - name: John.
-      gender: m
+      - name: Georg.
+        gender: m
+      - name: William.
+        gender: m
+      - name: John.
+        gender: m
     role: Roberts Söhne, gemeine beym Klintonschen Regiment.
   - name: General Klinton.
     gender: m
@@ -246,13 +246,13 @@ keywords:
   - Eheanbahnung
 cast:
   - group:
-    - name: Julie,
-      gender: f
-    - name: Auguste,
-      role: Wittwe,
-      gender: f
-    - name: Cecil,
-      gender: f
+      - name: Julie,
+        gender: f
+      - name: Auguste,
+        role: Wittwe,
+        gender: f
+      - name: Cecil,
+        gender: f
     role: Mitglieder einer Schauspielertruppe.
   - name: Der Baron.
     gender: m
@@ -616,10 +616,10 @@ comments:
   - "[Theaterzettel Weimar 23. Januar 1832](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00030555/006088.tif) (Erstaufführung?)"
 cast:
   - group:
-    - name: Amalie von Sellingen
-      gender: f
-    - name: Helene von Eschenthal
-      gender: f
+      - name: Amalie von Sellingen
+        gender: f
+      - name: Helene von Eschenthal
+        gender: f
     role: junge Wittwen.
   - name: Rosa,
     role: eine Waise, bei ihnen erzogen.
@@ -674,10 +674,10 @@ cast:
     role: Haushälterin.
     gender: f
   - group:
-    - name: Jean,
-      gender: m
-    - name: Victor,
-      gender: m
+      - name: Jean,
+        gender: m
+      - name: Victor,
+        gender: m
     role: Bediente.
   - name: Der Portier.
     gender: m
@@ -737,10 +737,10 @@ editions:
     url: https://haab-digital.klassik-stiftung.de/viewer/resolver?urn=urn:nbn:de:gbv:32-1-10003508625
 cast:
   - group:
-    - name: Amalie
-      gender: f
-    - name: Charlotte
-      gender: f
+      - name: Amalie
+        gender: f
+      - name: Charlotte
+        gender: f
     role: Baronessen von Habenichts.
   - name: Herr von Weinreich,
     role: Liebhaber der Amalie.
@@ -921,12 +921,12 @@ editions:
     url: https://books.google.com/books?id=w2tVAAAAcAAJ&pg=PA17
 cast:
   - group:
-    - name: Julchen,
-      gender: f
-    - name: Florchen,
-      gender: f
-    - name: Lotchen,
-      gender: f
+      - name: Julchen,
+        gender: f
+      - name: Florchen,
+        gender: f
+      - name: Lotchen,
+        gender: f
     role: drey arme Mägdchen.
   - name: Friedrich.
     gender: m
@@ -999,10 +999,10 @@ cast:
     role: dessen Schwester.
     gender: f
   - group:
-    - name: Ephraim,
-      gender: m
-    - name: Sarchen,
-      gender: f
+      - name: Ephraim,
+        gender: m
+      - name: Sarchen,
+        gender: f
     role: ihre Kinder.
   - name: Davidsohn,
     role: ein junger Jude.
@@ -1035,10 +1035,10 @@ cast:
   - name: Herr Gerngroß.
     gender: m
   - group:
-    - name: Herr Kluge,
-      gender: m
-    - name: Herr Fein,
-      gender: m
+      - name: Herr Kluge,
+        gender: m
+      - name: Herr Fein,
+        gender: m
     role: Pensionairs auf einer hohen Schule, siebenzehn bis zwanzig Jahr alt.
   - name: Herr Paulwitz.
     gender: m
@@ -1102,18 +1102,18 @@ cast:
   - name: Frau Ahlwart.
     gender: f
   - group:
-    - name: Amalia,
-      role: achtzehn Jahr alt.
-      gender: f
-    - name: Ernst,
-      role: zwölf Jahr alt.
-      gender: m
-    - name: Louischen,
-      role: zehn Jahr alt.
-      gender: f
-    - name: Ferdinand,
-      role: sieben Jahr alt.
-      gender: m
+      - name: Amalia,
+        role: achtzehn Jahr alt.
+        gender: f
+      - name: Ernst,
+        role: zwölf Jahr alt.
+        gender: m
+      - name: Louischen,
+        role: zehn Jahr alt.
+        gender: f
+      - name: Ferdinand,
+        role: sieben Jahr alt.
+        gender: m
     role: Ahlwarts Kinder.
   - name: Johann,
     role: ein Bedienter.
@@ -1191,13 +1191,13 @@ cast:
     role: ein Freund Herrn Jobelius.
     gender: m
   - group:
-    - name: Ein Ritter.
-      gender: m
-    - name: Coronis,
-      role: ein Gaskonier.
-      gender: m
-    - name: Ein Abt.
-      gender: m
+      - name: Ein Ritter.
+        gender: m
+      - name: Coronis,
+        role: ein Gaskonier.
+        gender: m
+      - name: Ein Abt.
+        gender: m
     role: Freunde Dorants.
   - name: Carondas,
     role: ein Poet.
@@ -1302,10 +1302,10 @@ cast:
   - name: Der Abbe Egards.
     gender: m
   - group:
-    - name: Comtois, und
-      gender: m
-    - name: Champagne,
-      gender: m
+      - name: Comtois, und
+        gender: m
+      - name: Champagne,
+        gender: m
     role: Bedienten der Gräfinn von Minneville.
   - name: Franz,
     role: Kutscher der Gräfinn.
@@ -1550,10 +1550,10 @@ cast:
     role: des Valers Bedienter.
     gender: m
   - group:
-    - name: Pralmann,
-      gender: m
-    - name: Lange,
-      gender: m
+      - name: Pralmann,
+        gender: m
+      - name: Lange,
+        gender: m
     role: zween Soldaten.
   - name: Fertig,
     role: der Cantor des Dorfes.
@@ -1808,16 +1808,16 @@ cast:
     role: sein Sohn.
     gender: m
   - group:
-    - name: Melcher.
-      gender: m
-    - name: Casper.
-      gender: m
+      - name: Melcher.
+        gender: m
+      - name: Casper.
+        gender: m
     role: seine Gesellen.
   - group:
-    - name: Schraubgern.
-      gender: m
-    - name: Spaßmann.
-      gender: m
+      - name: Schraubgern.
+        gender: m
+      - name: Spaßmann.
+        gender: m
     role: reißende Studenten.
 setting: Der Schauplatz präsentirt eine Schuster-Werckstadt.
 ---
@@ -1915,14 +1915,14 @@ cast:
     role: eine Waise, ein Pflegesohn des Herrn Großmann.
     gender: m
   - group:
-    - name: Wilhelmine.
-      gender: f
-    - name: Philippine.
-      gender: f
-    - name: Rosine.
-      gender: f
-    - name: Hieronymus.
-      gender: m
+      - name: Wilhelmine.
+        gender: f
+      - name: Philippine.
+        gender: f
+      - name: Rosine.
+        gender: f
+      - name: Hieronymus.
+        gender: m
     role: Kinder.
   - name: Herr Redlich.
     role: Informator bey diesen Kindern.
@@ -2240,10 +2240,10 @@ cast:
     role: ein witziger Kopf, Belisens Liebhaber.
     gender: m
   - group:
-    - name: Polidor
-      gender: m
-    - name: Dorant
-      gender: m
+      - name: Polidor
+        gender: m
+      - name: Dorant
+        gender: m
     role: Schriftsteller, Likanders Freunde.
   - name: Oliv,
     role: Likanders Bedienter.
@@ -2438,10 +2438,10 @@ cast:
     role: Tochter derselben.
     gender: f
   - group:
-    - name: Herr von Feindorf
-      gender: m
-    - name: Herr von Reinhold
-      gender: m
+      - name: Herr von Feindorf
+        gender: m
+      - name: Herr von Reinhold
+        gender: m
     role: Liebhaber der Charlotte.
   - name: Christoph,
     role: Bedienter des letztern.
@@ -2565,10 +2565,10 @@ cast:
     role: Richter im Dorfe.
     gender: m
   - group:
-    - name: Michel,
-      gender: m
-    - name: Rose,
-      gender: f
+      - name: Michel,
+        gender: m
+      - name: Rose,
+        gender: f
     role: seine Kinder.
   - name: Hartherzig,
     role: herrschaftlicher Amtmann.
@@ -2604,24 +2604,24 @@ cast:
   - name: Die Gräfin.
     gender: f
   - group:
-    - name: Therese,
-      gender: f
-    - name: Karolina,
-      gender: f
-    - name: Sophia,
-      gender: f
-    - name: Theodor,
-      gender: m
-    - name: Karl,
-      gender: m
-    - name: Wilhelm,
-      gender: m
+      - name: Therese,
+        gender: f
+      - name: Karolina,
+        gender: f
+      - name: Sophia,
+        gender: f
+      - name: Theodor,
+        gender: m
+      - name: Karl,
+        gender: m
+      - name: Wilhelm,
+        gender: m
     role: junge Zöglinge des Fürsten.
   - group:
-    - name: Toey,
-      gender: m
-    - name: Baby,
-      gender: m
+      - name: Toey,
+        gender: m
+      - name: Baby,
+        gender: m
     role: ihre Wärter.
   - name: Gefolge des Fürsten.
     isGroup: true
@@ -2666,10 +2666,10 @@ cast:
     role: ein Gerichtsdiener.
     gender: m
   - group:
-    - name: Kasper,
-      gender: m
-    - name: Konrad,
-      gender: m
+      - name: Kasper,
+        gender: m
+      - name: Konrad,
+        gender: m
     role: Aufwärter.
 setting: Ein Zimmer auf dem Zunfthause, wo der Ball gegeben wird.
 ---
@@ -2704,10 +2704,10 @@ cast:
     role: Verwalter.
     gender: m
   - group:
-    - name: Maria,
-      gender: f
-    - name: Jacob,
-      gender: m
+      - name: Maria,
+        gender: f
+      - name: Jacob,
+        gender: m
     role: in Reichenau's Diensten.
   - name: Stint,
     role: von Birtens Bedienter.
@@ -2806,22 +2806,22 @@ cast:
   - name: Frau Merlüsche.
     gender: f
   - group:
-    - name: Luzette.
-      gender: f
-    - name: Baliverne.
-      gender: f
+      - name: Luzette.
+        gender: f
+      - name: Baliverne.
+        gender: f
     role: ihre Nichten.
   - group:
-    - name: Octav.
-      gender: m
-    - name: Horaz.
-      gender: m
+      - name: Octav.
+        gender: m
+      - name: Horaz.
+        gender: m
     role: ihre Liebhaber.
   - group:
-    - name: Trufaldin.
-      gender: m
-    - name: Ein Capitän.
-      gender: m
+      - name: Trufaldin.
+        gender: m
+      - name: Ein Capitän.
+        gender: m
     role: verliebte Vormünder.
   - name: Franz,
     role: ein Betrüger.
@@ -3636,10 +3636,10 @@ cast:
     role: Priorin.
     gender: f
   - group:
-    - name: Schwester Veronika,
-      gender: f
-    - name: Schwester Clare,
-      gender: f
+      - name: Schwester Veronika,
+        gender: f
+      - name: Schwester Clare,
+        gender: f
     role: Nonnen.
   - name: Clidamor,
     role: ein junger Officier.
@@ -3727,23 +3727,23 @@ cast:
   - name: Frau Argante.
     gender: f
   - group:
-    - name: Pulcherie
-      gender: f
-    - name: Sophie
-      gender: f
+      - name: Pulcherie
+        gender: f
+      - name: Sophie
+        gender: f
     role: ihre Töchter.
   - name: Herr von Gutmannsdorf.
     role: Der Frau Argante Bruder.
     gender: m
   - group:
-    - name: Der Marquis
-      gender: m
-    - name: Der Graf
-      gender: m
-    - name: Dorant
-      gender: m
-    - name: Herr von Neuhaus
-      gender: m
+      - name: Der Marquis
+        gender: m
+      - name: Der Graf
+        gender: m
+      - name: Dorant
+        gender: m
+      - name: Herr von Neuhaus
+        gender: m
     role: Pulcheriens Liebhaber.
   - name: Lisette
     role: Kammerjungfer der Frau Argante.
@@ -4099,16 +4099,16 @@ cast:
     role: Unterdirektor.
     gender: m
   - group:
-    - name: Herr Sternfreund.
-      gender: m
-    - name: Herr Kehlhammer.
-      gender: m
-    - name: Herr Klesch.
-      gender: m
-    - name: Mamsell Steel.
-      gender: f
-    - name: Ein Schatten.
-      gender: u
+      - name: Herr Sternfreund.
+        gender: m
+      - name: Herr Kehlhammer.
+        gender: m
+      - name: Herr Klesch.
+        gender: m
+      - name: Mamsell Steel.
+        gender: f
+      - name: Ein Schatten.
+        gender: u
     role: Schauspieler, und Schauspielerinnen.
   - name: Herr von Flieh.
     gender: m
@@ -4139,10 +4139,10 @@ cast:
     role: Vater.
     gender: m
   - group:
-    - name: Der ältere Delmas,
-      gender: m
-    - name: Der jüngere Delmas,
-      gender: m
+      - name: Der ältere Delmas,
+        gender: m
+      - name: Der jüngere Delmas,
+        gender: m
     role: Brüder, acht oder neun Jahr alt, und nur zwey Jahr von einander unterschieden.
   - name: Eine Hofmeisterin.
     gender: f
@@ -4213,10 +4213,10 @@ cast:
     role: des Anselmo Verwalter.
     gender: m
   - group:
-    - name: Griffon
-      gender: m
-    - name: Tobias
-      gender: m
+      - name: Griffon
+        gender: m
+      - name: Tobias
+        gender: m
     role: 2 Nachbarn.
   - name: Lucinde,
     role: des Tobias Tochter.
@@ -4653,10 +4653,10 @@ cast:
     role: Valerens Geliebte.
     gender: f
   - group:
-    - name: Belise,
-      gender: f
-    - name: Araminte,
-      gender: f
+      - name: Belise,
+        gender: f
+      - name: Araminte,
+        gender: f
     role: Schwestern.
   - name: Valere,
     role: Vetter der Belise und Araminte, und Liebhaber der Isabellen.
@@ -4693,10 +4693,10 @@ cast:
     role: ihr Mädgen.
     gender: f
   - group:
-    - name: Leonora,
-      gender: f
-    - name: Laurentia,
-      gender: f
+      - name: Leonora,
+        gender: f
+      - name: Laurentia,
+        gender: f
     role: die Töchter derselben.
   - name: Barbara,
     role: eine alte Kuplerinn.
@@ -4973,10 +4973,10 @@ cast:
   - name: Lord Thaley.
     gender: m
   - group:
-    - name: Lord Thoward.
-      gender: m
-    - name: Lord Windham.
-      gender: m
+      - name: Lord Thoward.
+        gender: m
+      - name: Lord Windham.
+        gender: m
     role: Thaley's Freunde.
   - name: Bettson,
     role: der Fanny Kind.
@@ -5282,10 +5282,10 @@ comments:
   - "Auch unter dem Titel »Der Franzose zu Londen. Ein Lustspiel In Einem Aufzuge« (Frankfurt und Leipzig: Fuchs 1753)."
 cast:
   - group:
-    - name: Baron von Polenville,
-      gender: m
-    - name: Marquis von Polenville,
-      gender: m
+      - name: Baron von Polenville,
+        gender: m
+      - name: Marquis von Polenville,
+        gender: m
     role: Vetter.
   - name: Madame Eliante,
     role: eine Wittwe von 19 Jahren.
@@ -5334,19 +5334,19 @@ cast:
     role: ihre Tante.
     gender: f
   - group:
-    - name: Daphne,
-      gender: f
-    - name: Hortense,
-      gender: f
+      - name: Daphne,
+        gender: f
+      - name: Hortense,
+        gender: f
     role: Schwestern, Clarines Nachbarinnen.
   - name: Ismene,
     role: Cephise Freundinn.
     gender: f
   - group:
-    - name: Melite,
-      gender: f
-    - name: Doris,
-      gender: f
+      - name: Melite,
+        gender: f
+      - name: Doris,
+        gender: f
     role: zwo Schwätzerinnen.
   - name: Nerine,
     role: Der Clarice Bediente.
@@ -5434,25 +5434,25 @@ editions:
     url: https://books.google.com/books?id=6A5SAAAAcAAJ&printsec=frontcover
 cast:
   - group:
-    - name: Aridäus,
-      gender: m
-      role: König.
-    - name: Philotas.
-      gender: m
-    - name: Strato,
-      gender: m
-      role: Feldherr des Aridäus.
-    - name: Parmenio,
-      gender: m
-      role: ein Gefangener.
+      - name: Aridäus,
+        gender: m
+        role: König.
+      - name: Philotas.
+        gender: m
+      - name: Strato,
+        gender: m
+        role: Feldherr des Aridäus.
+      - name: Parmenio,
+        gender: m
+        role: ein Gefangener.
     role: Die Schauspieler.
   - name: Der Tonkünstler.
     gender: m
   - group:
-    - name: Die vaterländliche Liebe.
-      gender: u
-    - name: Die kindliche Liebe.
-      gender: u
+      - name: Die vaterländliche Liebe.
+        gender: u
+      - name: Die kindliche Liebe.
+        gender: u
     role: Die Sänger.
   - name: Die Chöre.
     isGroup: true
@@ -5592,10 +5592,10 @@ cast:
     role: ehemals Banquieur in Lion, jezt Nationalgarden-Officier und Kommandeur eines kleinen Korps.
     gender: m
   - group:
-    - name: Toinon, Wittwe,
-      gender: f
-    - name: Charlotte,
-      gender: f
+      - name: Toinon, Wittwe,
+        gender: f
+      - name: Charlotte,
+        gender: f
     role: seine Töchter.
   - name: Walter von Kronau,
     role: ein gefangener preussischer Officier und Liebhaber der Charlotte.
@@ -6066,10 +6066,10 @@ cast:
     role: Ethelindens Kammerfrau.
     gender: f
   - group:
-    - name: Bruno,
-      gender: m
-    - name: Heribert,
-      gender: m
+      - name: Bruno,
+        gender: m
+      - name: Heribert,
+        gender: m
     role: von der Leibwache.
   - name: Gefolge des König.
     isGroup: true
@@ -6305,12 +6305,12 @@ cast:
     role: sein Weib.
     gender: f
   - group:
-    - name: Fritzl,
-      gender: m
-    - name: Sepherl,
-      gender: m
-    - name: Johann,
-      gender: m
+      - name: Fritzl,
+        gender: m
+      - name: Sepherl,
+        gender: m
+      - name: Johann,
+        gender: m
     role: seine Kinder.
   - name: Wallmann,
     role: ein Beamter.
@@ -6385,12 +6385,12 @@ cast:
     role: Justizrath.
     gender: m
   - group:
-    - name: Wilhelm,
-      role: 8 Jahr alt
-      gender: m
-    - name: Malchen,
-      role: 6 Jahr alt
-      gender: f
+      - name: Wilhelm,
+        role: 8 Jahr alt
+        gender: m
+      - name: Malchen,
+        role: 6 Jahr alt
+        gender: f
     role: seine Kinder.
   - name: Martin,
     role: Wirth.
@@ -6608,10 +6608,10 @@ comments:
   - "Kurze Erwähnung in W. Neumann: Roderich Benedix. Cassel: Balde 1853, [S. 14](https://books.google.com/books?id=X4xTAAAAcAAJ&pg=PA14)."
 cast:
   - group:
-    - name: Schulze,
-      gender: m
-    - name: Lehmann,
-      gender: m
+      - name: Schulze,
+        gender: m
+      - name: Lehmann,
+        gender: m
     role: Gutsbesitzer.
   - name: Lohmeier,
     role: Advokat.
@@ -6782,10 +6782,10 @@ cast:
   - name: Seine Frau.
     gender: f
   - group:
-    - name: Diana,
-      gender: f
-    - name: Nimrod,
-      gender: m
+      - name: Diana,
+        gender: f
+      - name: Nimrod,
+        gender: m
     role: seine Kinder.
   - name: Herr Bärenfeind,
     role: Rentier.
@@ -6802,16 +6802,16 @@ cast:
     role: ihre Tochter.
     gender: f
   - group:
-    - name: Gottfried,
-      gender: m
-    - name: Hans,
-      gender: m
+      - name: Gottfried,
+        gender: m
+      - name: Hans,
+        gender: m
     role: Bauernbursche.
   - group:
-    - name: Friedrich,
-      gender: m
-    - name: Rosine,
-      gender: f
+      - name: Friedrich,
+        gender: m
+      - name: Rosine,
+        gender: f
     role: in Hirschtödters Diensten.
 setting: Zimmer bei Herrn Hirschtödter. Zwei Seitenthüren, Mittelthüre.
 ---
@@ -6845,10 +6845,10 @@ cast:
     role: Emma's Gatte.
     gender: m
   - group:
-    - name: Heinrich
-      gender: m
-    - name: Lisbeth
-      gender: f
+      - name: Heinrich
+        gender: m
+      - name: Lisbeth
+        gender: f
     role: in Alfreds Diensten.
 setting: >-
   Zimmer in Alfreds Hause mit Mittelthüre und Seitenthüren. In der Mitte der
@@ -6870,8 +6870,8 @@ printed: 1848
 formalia:
   - Prosa
 editions:
- - title: "Gesammelte Dramatische Werke von Roderich Benedix. Vierter Band. Leipzig: Weber 1848, S. 135–162"
-   url: https://books.google.com/books?id=il86AAAAcAAJ&pg=PA135
+  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Vierter Band. Leipzig: Weber 1848, S. 135–162"
+    url: https://books.google.com/books?id=il86AAAAcAAJ&pg=PA135
 cast:
   - name: Mathilde.
     gender: f
@@ -7264,14 +7264,14 @@ keywords:
   - Gesellschaftssatire
 cast:
   - group:
-    - name: Baron Langheim,
-      gender: m
-    - name: Frau von Langheim,
-      role: seine Frau,
-      gender: f
-    - name: Baron Bohlanden,
-      role: ihr Oheim,
-      gender: m
+      - name: Baron Langheim,
+        gender: m
+      - name: Frau von Langheim,
+        role: seine Frau,
+        gender: f
+      - name: Baron Bohlanden,
+        role: ihr Oheim,
+        gender: m
     role: aus der Provinz.
   - name: Herr von Salmfeld,
     role: ein junger Mann nach der Mode in der Residenz.
@@ -7296,10 +7296,10 @@ cast:
     role: Kammerjungfer.
     gender: f
   - group:
-    - name: Jean,
-      gender: m
-    - name: Jaques,
-      gender: m
+      - name: Jean,
+        gender: m
+      - name: Jaques,
+        gender: m
     role: Lakaien.
   - name: Wastel,
     role: ein junger Spieler.
@@ -7399,10 +7399,10 @@ cast:
     role: seine Nichte.
     gender: f
   - group:
-    - name: Johann,
-      gender: m
-    - name: Franz,
-      gender: m
+      - name: Johann,
+        gender: m
+      - name: Franz,
+        gender: m
     role: Delmar's Diener.
 setting: "Schauplatz: Wien, im Hause Delmar's."
 ---
@@ -7602,10 +7602,10 @@ cast:
     role: Seilergeselle aus Glogau.
     gender: m
   - group:
-    - name: Jonathan
-      gender: m
-    - name: Fritz
-      gender: m
+      - name: Jonathan
+        gender: m
+      - name: Fritz
+        gender: m
     role: Seilergesellen.
   - name: Klärchen Buren.
     gender: f
@@ -7677,12 +7677,12 @@ cast:
     role: Major.
     gender: m
   - group:
-    - name: v. Wölheim der ältere,
-      role: Kriegsrath,
-      gender: m
-    - name: v. Wölheim der iüngere,
-      role: Auditeur,
-      gender: m
+      - name: v. Wölheim der ältere,
+        role: Kriegsrath,
+        gender: m
+      - name: v. Wölheim der iüngere,
+        role: Auditeur,
+        gender: m
     role: Brüder und des Majors Anverwandte.
   - name: Frau von Selow,
     role: eine Wittwe.
@@ -7761,10 +7761,10 @@ editions:
     url: https://books.google.com/books?id=dKE-AAAAYAAJ&pg=PA1
 cast:
   - group:
-    - name: Bruis.
-      gender: m
-    - name: Palaprat.
-      gender: m
+      - name: Bruis.
+        gender: m
+      - name: Palaprat.
+        gender: m
     role: "Zwei französische Dichter, Verfasser des Lustspiels: le Grondeur."
   - name: Der Herzog von Vendome.
     gender: m
@@ -7952,10 +7952,10 @@ editions:
     url: https://books.google.com/books?id=zDNJAAAAcAAJ&pg=PA1
 cast:
   - group:
-    - name: Julie.
-      gender: f
-    - name: Henriette.
-      gender: f
+      - name: Julie.
+        gender: f
+      - name: Henriette.
+        gender: f
     role: zwei junge Waisen.
   - name: Brandor,
     role: junger Schiffs-Capitain, unter dem Namen Waller.
@@ -8194,10 +8194,10 @@ cast:
     role: dessen Gemahlinn.
     gender: f
   - group:
-    - name: August,
-      gender: m
-    - name: Amalia,
-      gender: f
+      - name: August,
+        gender: m
+      - name: Amalia,
+        gender: f
     role: deren Kinder.
   - name: Fräulein Karoline,
     role: Gabrielens Schwester.
@@ -8269,10 +8269,10 @@ cast:
   - name: Thamar.
     gender: f
   - group:
-    - name: Perez.
-      gender: m
-    - name: Serah.
-      gender: m
+      - name: Perez.
+        gender: m
+      - name: Serah.
+        gender: m
     role: Judas Söhne von Thamar.
   - name: Juda.
     gender: m
@@ -8462,10 +8462,10 @@ cast:
     role: seine Tochter.
     gender: f
   - group:
-    - name: Schwarz,
-      gender: m
-    - name: Schnell,
-      gender: m
+      - name: Schwarz,
+        gender: m
+      - name: Schnell,
+        gender: m
     role: zwey Adventuriers.
   - name: Jude Josel.
     gender: m
@@ -8686,12 +8686,12 @@ cast:
     role: des Herrn Finsters Bedienter.
     gender: m
   - group:
-    - name: Herr Pille,
-      gender: m
-    - name: Herr Blutstrohm,
-      gender: m
-    - name: Herr Seelvoll,
-      gender: m
+      - name: Herr Pille,
+        gender: m
+      - name: Herr Blutstrohm,
+        gender: m
+      - name: Herr Seelvoll,
+        gender: m
     role: drey Aerzte.
   - name: Herr Presse,
     role: ein Buchführer.
@@ -8751,10 +8751,10 @@ cast:
   - name: Ein Schneider.
     gender: m
   - group:
-    - name: Stichus.
-      gender: m
-    - name: Vulpin.
-      gender: m
+      - name: Stichus.
+        gender: m
+      - name: Vulpin.
+        gender: m
     role: ein paar Werber.
   - name: Ein Gerichtsdiener.
     gender: m
@@ -8829,10 +8829,10 @@ cast:
     role: von acht Jahren.
     gender: m
   - group:
-    - name: Rosa
-      gender: f
-    - name: Beatrice
-      gender: f
+      - name: Rosa
+        gender: f
+      - name: Beatrice
+        gender: f
     role: Zwo verkleidete Sängerinnen.
   - name: Verschiedene Musici.
     isGroup: true
@@ -8859,10 +8859,10 @@ cast:
   - name: Der Baron.
     gender: m
   - group:
-    - name: Der Graf
-      gender: m
-    - name: Herr von Wild
-      gender: m
+      - name: Der Graf
+        gender: m
+      - name: Herr von Wild
+        gender: m
     role: Freunde des Barons.
   - name: Herr Schlimm,
     role: Hofmeister des Barons.
@@ -9118,10 +9118,10 @@ cast:
     role: ihre Tochter.
     gender: f
   - group:
-    - name: Wilhelm,
-      gender: m
-    - name: Emilie,
-      gender: f
+      - name: Wilhelm,
+        gender: m
+      - name: Emilie,
+        gender: f
     role: deren Kinder.
   - name: Ein Unbekannter.
     gender: m
@@ -9132,24 +9132,24 @@ cast:
     role: Pachters Wittwe, Sophiens Amme.
     gender: f
   - group:
-    - name: Lieschen,
-      gender: f
-    - name: Hannchen,
-      gender: f
-    - name: Gretchen,
-      gender: f
-    - name: Trinchen,
-      gender: f
+      - name: Lieschen,
+        gender: f
+      - name: Hannchen,
+        gender: f
+      - name: Gretchen,
+        gender: f
+      - name: Trinchen,
+        gender: f
     role: ihre Töchter.
   - group:
-    - name: Töffel,
-      gender: m
-    - name: Gürge,
-      gender: m
-    - name: Martin,
-      gender: m
-    - name: Hans,
-      gender: m
+      - name: Töffel,
+        gender: m
+      - name: Gürge,
+        gender: m
+      - name: Martin,
+        gender: m
+      - name: Hans,
+        gender: m
     role: Bauerbursche.
   - name: Mehrere Bauern und Bäuerinnen.
     isGroup: true
@@ -9187,27 +9187,27 @@ cast:
   - name: Daniel.
     gender: m
   - group:
-    - name: Rehum
-      gender: m
-    - name: Abiel
-      gender: m
+      - name: Rehum
+        gender: m
+      - name: Abiel
+        gender: m
     role: Aelteste.
   - group:
-    - name: Lea
-      gender: f
-    - name: Rachel
-      gender: f
+      - name: Lea
+        gender: f
+      - name: Rachel
+        gender: f
     role: Mädchen der Susanna.
   - name: Volk beyderley Geschlechts.
     isGroup: true
     gender: u
   - group:
-    - name: Hilkia,
-      gender: m
-    - name: seine Frau,
-      gender: f
-    - name: Jojakim,
-      gender: m
+      - name: Hilkia,
+        gender: m
+      - name: seine Frau,
+        gender: f
+      - name: Jojakim,
+        gender: m
     role: welche die klügsten Rollen im Stücke haben.
 setting: >-
   Der Schauplatz ist von Anfang bis zu Ende in Jojakims Garten. Die Handlung geht kurz vor dem Mittagessen an, und hört mit Schlafengehn auf.
@@ -9244,14 +9244,14 @@ cast:
   - name: Messaline.
     gender: f
   - group:
-    - name: Biribinker,
-      gender: m
-    - name: Fitzaldo,
-      gender: m
-    - name: Baham,
-      gender: m
-    - name: Hyacinth,
-      gender: m
+      - name: Biribinker,
+        gender: m
+      - name: Fitzaldo,
+        gender: m
+      - name: Baham,
+        gender: m
+      - name: Hyacinth,
+        gender: m
     role: Prinzen, Messalinens Liebhaber.
   - name: Bella,
     role: Messalinens Kammermädchen.
@@ -9293,10 +9293,10 @@ cast:
     role: Aufwartmädchen.
     gender: f
   - group:
-    - name: Franz,
-      gender: m
-    - name: Georg,
-      gender: m
+      - name: Franz,
+        gender: m
+      - name: Georg,
+        gender: m
     role: Aufwärter.
   - name: Zwey Officiere.
     isGroup: true
@@ -9390,12 +9390,12 @@ cast:
     role: eine junge Wittwe, seine Nichte.
     gender: f
   - group:
-    - name: Marfeld,
-      role: Major
-      gender: m
-    - name: Dormann
-      role: Lieutenant
-      gender: m
+      - name: Marfeld,
+        role: Major
+        gender: m
+      - name: Dormann
+        role: Lieutenant
+        gender: m
     role: bey einem Cav. Regimente.
   - name: Peter,
     role: Körners Bedienter.
@@ -9556,10 +9556,10 @@ editions:
     url: https://books.google.com/books?id=hSw7AAAAcAAJ&printsec=frontcover
 cast:
   - group:
-    - name: Edmund
-      gender: m
-    - name: Florville
-      gender: m
+      - name: Edmund
+        gender: m
+      - name: Florville
+        gender: m
     role: Husaren-Lieutenauts.
   - name: Emilie
     role: Florvills Gattin.
@@ -9634,12 +9634,12 @@ cast:
     role: Gutsbesitzer.
     gender: m
   - group:
-    - name: Pauline,
-      role: 20 Jahre alt,
-      gender: f
-    - name: Malchen
-      role: 9 Jahre alt,
-      gender: f
+      - name: Pauline,
+        role: 20 Jahre alt,
+        gender: f
+      - name: Malchen
+        role: 9 Jahre alt,
+        gender: f
     role: seine Töchter.
   - name: Carl Frick,
     role: sein Neffe, Student der Humanioren, 14 Jahr alt, in einer öffentlichen Erziehungsanstalt.
@@ -9848,14 +9848,14 @@ cast:
     role: Koch.
     gender: m
   - group:
-    - name: Leonore,
-      gender: f
-    - name: Stella,
-      gender: f
-    - name: Luzinde,
-      gender: f
-    - name: Leonarde,
-      gender: f
+      - name: Leonore,
+        gender: f
+      - name: Stella,
+        gender: f
+      - name: Luzinde,
+        gender: f
+      - name: Leonarde,
+        gender: f
     role: Blanka's Gespielinnen.
   - name: Gefolge der Gräfinn.
     isGroup: true
@@ -9954,12 +9954,12 @@ cast:
     role: Cavallerie-Capitaine (20 Jahr alt).
     gender: m
   - group:
-    - name: Inés,
-      role: 25 Jahr alt,
-      gender: f
-    - name: Flora,
-      role: 15 Jahr alt,
-      gender: f
+      - name: Inés,
+        role: 25 Jahr alt,
+        gender: f
+      - name: Flora,
+        role: 15 Jahr alt,
+        gender: f
     role: Spanierinnen, Schwestern.
 setting: >-
   Die Scene ist in Spanien. (Die Bühne stellt einen Garten vor. Zur Rechten, bey der ersten Coulisse eine schräge Mauerwand mit einer Jalousie, zur Linken ebenfalls bey der ersten Coulisse eine Thüre, welche in's Freye führt. Im Hintergrunde Rosenstöcke, Vasen u. s. w., und eine Gitterwand, welche den Garten schließt, und über die ganze Bühne läuft.)
@@ -9997,10 +9997,10 @@ cast:
     role: seine Nichte.
     gender: f
   - group:
-    - name: Franz,
-      gender: m
-    - name: Heinrich,
-      gender: m
+      - name: Franz,
+        gender: m
+      - name: Heinrich,
+        gender: m
     role: Dawitz's Bediente.
 setting: >-
   Die Handlung spielt in einer Hauptstadt, in Dawitz's Hause und Wohnung. (Die Bühne stellt ein elegantes Zimmer vor mit einer Mittel- und zwey Seitenthüren, zu beyden Seiten der Mittelthüre sind Bücherkasten mit Glasthüren, auf einem dieser Kasten steht die Büste Schiller's, auf dem andern jene Göthe's. Zur Rechten ein Sekretair, bey welchem Dawitz bey Eröffnung der Gardine sitzt und schreibt.)
@@ -10168,10 +10168,10 @@ cast:
     role: seine Tochter.
     gender: f
   - group:
-    - name: Stelling,
-      gender: m
-    - name: Kranz,
-      gender: m
+      - name: Stelling,
+        gender: m
+      - name: Kranz,
+        gender: m
     role: Lieutenants bey einem Freykorps.
   - name: Spitzmaus,
     role: Gastwirth.
@@ -10327,10 +10327,10 @@ cast:
     role: eine junge Hirtin.
     gender: f
   - group:
-    - name: Mirtill, und
-      gender: m
-    - name: Menalkas,
-      gender: m
+      - name: Mirtill, und
+        gender: m
+      - name: Menalkas,
+        gender: m
     role: zwey junge Hirten.
   - name: Drey Genien.
     isGroup: true
@@ -10360,18 +10360,18 @@ cast:
   - name: Herr von Walldorf.
     gender: m
   - group:
-    - name: Carl
-      gender: m
-    - name: Heinrich
-      gender: m
-    - name: Louise
-      gender: m
+      - name: Carl
+        gender: m
+      - name: Heinrich
+        gender: m
+      - name: Louise
+        gender: m
     role: seine Kinder.
   - group:
-    - name: Wilhelminchen
-      gender: f
-    - name: Fritz
-      gender: m
+      - name: Wilhelminchen
+        gender: f
+      - name: Fritz
+        gender: m
     role: Gespielen von Herr von Walldorfs Kindern.
   - name: Herr von Rosenau,
     role: Anverwandter vom Herrn von Walldorf, ein alter Mann,
@@ -10456,18 +10456,18 @@ cast:
     role: ihr Liebhaber.
     gender: m
   - group:
-    - name: Anton,
-      gender: m
-    - name: Johann,
-      gender: m
+      - name: Anton,
+        gender: m
+      - name: Johann,
+        gender: m
     role: Bediente.
   - name: Orbils Buchhalter.
     gender: m
   - group:
-    - name: Niklas,
-      gender: m
-    - name: Andres,
-      gender: m
+      - name: Niklas,
+        gender: m
+      - name: Andres,
+        gender: m
     role: ein paar Bauern.
   - name: Rosemund,
     role: Bruder des Orbils.
@@ -10542,10 +10542,10 @@ cast:
   - name: Frau von Thalfort.
     gender: f
   - group:
-    - name: Charlotte v. Thalfort
-      gender: f
-    - name: Friedrich v. Thalfort
-      gender: m
+      - name: Charlotte v. Thalfort
+        gender: f
+      - name: Friedrich v. Thalfort
+        gender: m
     role: Kinder der Frau von Thalfort.
   - name: Albertine Stuck,
     role: in Fr. v. Thalforts Dienst.
@@ -10699,12 +10699,12 @@ cast:
   - name: Ein Unbekannter.
     gender: m
   - group:
-    - name: Ein Major
-      gender: m
-    - name: Ein Lieutenant
-      gender: m
-    - name: Ein Korporal
-      gender: m
+      - name: Ein Major
+        gender: m
+      - name: Ein Lieutenant
+        gender: m
+      - name: Ein Korporal
+        gender: m
     role: der französischen Armee.
   - name: Ein österreichischer Offizier.
     gender: m
@@ -11046,10 +11046,10 @@ comments:
   - "Als Autor wird auch Karl Ludwig Costenoble genannt, vgl. [Oldenburger Theaterzettel](https://digital.lb-oldenburg.de/ihd/periodical/pageview/399293)."
 cast:
   - group:
-    - name: Lise,
-      gender: f
-    - name: Peter,
-      gender: m
+      - name: Lise,
+        gender: f
+      - name: Peter,
+        gender: m
     role: Bauersleute aus verschiedenen Dörfern.
   - name: Christel,
     role: sein Sohn, 7 Jahre alt.
@@ -11085,10 +11085,10 @@ cast:
     role: seine Tochter.
     gender: f
   - group:
-    - name: Fernando,
-      gender: m
-    - name: Benno,
-      gender: m
+      - name: Fernando,
+        gender: m
+      - name: Benno,
+        gender: m
     role: Ritter.
   - name: Kurt,
     role: ein alter Diener des Grafen.
@@ -11182,10 +11182,10 @@ cast:
   - name: Junker Stubenrauch.
     gender: m
   - group:
-    - name: Falk,
-      gender: m
-    - name: Friedel,
-      gender: m
+      - name: Falk,
+        gender: m
+      - name: Friedel,
+        gender: m
     role: Zwei Musikanten.
 setting: >-
   Zimmer des Schulmeisters mit zwei Seitenthüren und einem Eingange im Hintergrunde; neben diesem zwei Fenster, von denen eins paktikabel.
@@ -11205,15 +11205,15 @@ editions:
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044934_00117.html
 cast:
   - group:
-    - name: Gräfin Brigitte von Cedernholz.
-      gender: f
-    - name: Freifrau Petronilla von Schreckenstamm,
-      role: Witwe eines Artillerie-Obersten.
-      gender: f
-    - name: Fräulein Ulrika von Zaundorf.
-      gender: f
-    - name: Fräulein Aurelia von Zaundorf.
-      gender: f
+      - name: Gräfin Brigitte von Cedernholz.
+        gender: f
+      - name: Freifrau Petronilla von Schreckenstamm,
+        role: Witwe eines Artillerie-Obersten.
+        gender: f
+      - name: Fräulein Ulrika von Zaundorf.
+        gender: f
+      - name: Fräulein Aurelia von Zaundorf.
+        gender: f
     role: Schwestern.
   - name: Wilhelmine von Steineck,
     role: ihre Nichte.
@@ -11406,10 +11406,10 @@ cast:
     role: Korporal bey der Stadtmiliz.
     gender: m
   - group:
-    - name: Ernst,
-      gender: m
-    - name: Christoph,
-      gender: m
+      - name: Ernst,
+        gender: m
+      - name: Christoph,
+        gender: m
     role: Bediente.
   - name: Zwey Stadtsoldaten.
     isGroup: true
@@ -11468,10 +11468,10 @@ cast:
     role: sein Lehrbursche.
     gender: m
   - group:
-    - name: Dörtchen,
-      gender: f
-    - name: Christel,
-      gender: f
+      - name: Dörtchen,
+        gender: f
+      - name: Christel,
+        gender: f
     role: und noch drey Kleinere seine Kinder.
   - name: Hr. Siegmund,
     role: ein Kaufmann.
@@ -11505,10 +11505,10 @@ cast:
     role: ein Kaufmann
     gender: m
   - group:
-    - name: Jettchen
-      gender: f
-    - name: Karl
-      gender: m
+      - name: Jettchen
+        gender: f
+      - name: Karl
+        gender: m
     role: seine Kinder
   - name: Frau Willig,
     role: seine Muhme
@@ -12016,10 +12016,10 @@ cast:
     role: Tochter des Oberförsters.
     gender: f
   - group:
-    - name: Jürge,
-      gender: m
-    - name: Peter,
-      gender: m
+      - name: Jürge,
+        gender: m
+      - name: Peter,
+        gender: m
     role: zwey Jägerjungen.
   - name: Eine Fremde.
     gender: f
@@ -12211,10 +12211,10 @@ cast:
     role: des Sekretairs Bedienter.
     gender: m
   - group:
-    - name: Trina.
-      gender: m
-    - name: Clas.
-      gender: m
+      - name: Trina.
+        gender: m
+      - name: Clas.
+        gender: m
     role: in Reinhards Diensten.
 setting: Die Handlung ist auf von Siltens Landgute.
 ---
@@ -12335,10 +12335,10 @@ cast:
     role: dessen Gemahlinn.
     gender: f
   - group:
-    - name: Sohn
-      gender: m
-    - name: Tochter
-      gender: f
+      - name: Sohn
+        gender: m
+      - name: Tochter
+        gender: f
     role: Kinder des Ramirus.
   - name: Polydor,
     role: Ramirs Bruder.
@@ -12421,10 +12421,10 @@ cast:
     role: eine Wittwe.
     gender: f
   - group:
-    - name: Fräulein von Zierfeld.
-      gender: f
-    - name: Fräulein von Jungblut.
-      gender: f
+      - name: Fräulein von Zierfeld.
+        gender: f
+      - name: Fräulein von Jungblut.
+        gender: f
     role: Ihre Nichten.
   - name: Herr von Kleinstern.
     role: Liebhaber des Fräuleins von Zierfeld.
@@ -12513,10 +12513,10 @@ cast:
     role: Tochter des von Gabrink aus erster Ehe.
     gender: f
   - group:
-    - name: Herr von Traudorf,
-      gender: m
-    - name: Herr von Bilz,
-      gender: m
+      - name: Herr von Traudorf,
+        gender: m
+      - name: Herr von Bilz,
+        gender: m
     role: Henriettens Liebhaber.
   - name: Herr Langmann,
     role: ein alter Freund des von Gabrink.
@@ -13482,16 +13482,16 @@ cast:
     role: ein lediger von seinen Mitteln lebender junger Herr.
     gender: m
   - group:
-    - name: Fräulein Caroline,
-      gender: f
-    - name: Fräulein Cathrine,
-      gender: f
-    - name: Herr von Willig,
-      gender: m
-    - name: Herr von Zuckerthal,
-      gender: m
-    - name: Herr von Schwierig,
-      gender: m
+      - name: Fräulein Caroline,
+        gender: f
+      - name: Fräulein Cathrine,
+        gender: f
+      - name: Herr von Willig,
+        gender: m
+      - name: Herr von Zuckerthal,
+        gender: m
+      - name: Herr von Schwierig,
+        gender: m
     role: Gute Bekante des von Gutsmuth.
   - name: Martin,
     role: Diener des von Gutsmuth.
@@ -13526,16 +13526,16 @@ cast:
   - name: Der Impressario.
     gender: m
   - group:
-    - name: Sultel
-      gender: m
-    - name: Stixel
-      gender: m
-    - name: Fidel
-      gender: m
-    - name: Melack
-      gender: m
-    - name: Melambus
-      gender: m
+      - name: Sultel
+        gender: m
+      - name: Stixel
+        gender: m
+      - name: Fidel
+        gender: m
+      - name: Melack
+        gender: m
+      - name: Melambus
+        gender: m
     role: Des Impressario Komödianten.
 setting: Die Handlung spielt zu Merlü gleich nach Mittage.
 ---
@@ -13614,12 +13614,12 @@ cast:
     role: seine Muhme.
     gender: f
   - group:
-    - name: Graf Thalheim,
-      role: Vater.
-      gender: m
-    - name: Graf Thalheim,
-      role: Sohn.
-      gender: m
+      - name: Graf Thalheim,
+        role: Vater.
+        gender: m
+      - name: Graf Thalheim,
+        role: Sohn.
+        gender: m
     role: Emigrirte.
   - name: Bastian,
     role: ein Postknecht.
@@ -13926,18 +13926,18 @@ cast:
     role: Gretchens Bräutigam.
     gender: m
   - group:
-    - name: Carl,
-      gender: m
-    - name: Fritze,
-      gender: m
+      - name: Carl,
+        gender: m
+      - name: Fritze,
+        gender: m
     role: 2 Kinder, die Quaas erzieht, Söhne eines Generals.
   - group:
-    - name: Eisenbard,
-      gender: m
-    - name: Stich und
-      gender: m
-    - name: Platz,
-      gender: m
+      - name: Eisenbard,
+        gender: m
+      - name: Stich und
+        gender: m
+      - name: Platz,
+        gender: m
     role: 3 Soldaten.
   - name: Wißhof,
     role: Rittmeister.
@@ -13946,24 +13946,24 @@ cast:
     role: der Verwalter.
     gender: m
   - group:
-    - name: Peter,
-      gender: m
-    - name: Thomas,
-      gender: m
-    - name: Christel,
-      gender: m
-    - name: Michel,
-      gender: m
+      - name: Peter,
+        gender: m
+      - name: Thomas,
+        gender: m
+      - name: Christel,
+        gender: m
+      - name: Michel,
+        gender: m
     role: junge Bauern.
   - group:
-    - name: Dore,
-      gender: f
-    - name: Lieschen,
-      gender: f
-    - name: Anne,
-      gender: f
-    - name: Marthe,
-      gender: f
+      - name: Dore,
+        gender: f
+      - name: Lieschen,
+        gender: f
+      - name: Anne,
+        gender: f
+      - name: Marthe,
+        gender: f
     role: junge Bäuerinnen.
 setting: >-
   Das Theater stellt eine ländliche Gegend, im Grunde eine Bauernhütte vor.
@@ -14109,10 +14109,10 @@ cast:
     role: Sprecher der Bürgerschaft von Neapel.
     gender: m
   - group:
-    - name: Mendez,
-      gender: m
-    - name: Marco,
-      gender: m
+      - name: Mendez,
+        gender: m
+      - name: Marco,
+        gender: m
     role: Diener des Herzogs.
   - name: Rathsherren, Bürger und Volk von Neapel. Spanische Offiziere und Soldaten; Trabanten und Diener des Vicekönigs. Lazzaroni.
     isGroup: true
@@ -14157,10 +14157,10 @@ cast:
     role: Torbaschi. (Oberst).
     gender: m
   - group:
-    - name: Achmet,
-      gender: m
-    - name: Halil,
-      gender: m
+      - name: Achmet,
+        gender: m
+      - name: Halil,
+        gender: m
     role: Janitscharen.
   - name: Oginsky,
     role: Adjutant des Königs.
@@ -14339,12 +14339,12 @@ editions:
   - title: "Prag: Schönfeld 1779"
 cast:
   - group:
-    - name: Ruprecht,
-      gender: m
-    - name: Flink,
-      gender: m
-    - name: Trapler,
-      gender: m
+      - name: Ruprecht,
+        gender: m
+      - name: Flink,
+        gender: m
+      - name: Trapler,
+        gender: m
     role: preußische Husaren.
   - name: Sebald,
     role: Schulze des Dorfs.
@@ -14533,11 +14533,11 @@ cast:
     role: Emiliens Mädchen.
     gender: f
   - group:
-    - name: Franz,
-      role: Bedienter
-      gender: m
-    - name: Eine Kammerfrau
-      gender: f
+      - name: Franz,
+        role: Bedienter
+        gender: m
+      - name: Eine Kammerfrau
+        gender: f
     role: der Frau v. Halden.
 setting: >-
   Die Handlung geht in Holprichs Hause, auf dem Lande, einige Stunden weit von der Residenz vor.
@@ -14783,10 +14783,10 @@ editions:
     url: https://books.google.com/books?id=1NuUYHbjz-UC&pg=PA1
 cast:
   - group:
-    - name: Anna Maria Siedentopf, 61 Jahre alt
-      gender: f
-    - name: Euphrosine Christlich, 57 Jahre alt
-      gender: f
+      - name: Anna Maria Siedentopf, 61 Jahre alt
+        gender: f
+      - name: Euphrosine Christlich, 57 Jahre alt
+        gender: f
     role: Tanten von
   - name: Louise,
     role: Tochter des verstorbenen Rendanten Siedentopf.
@@ -14931,18 +14931,18 @@ cast:
   - name: Der Regisseur.
     gender: m
   - group:
-    - name: Albertine,
-      gender: f
-    - name: Auguste,
-      gender: m
-    - name: Erich,
-      gender: m
-    - name: Gebhard,
-      gender: m
-    - name: Ludwig,
-      gender: m
-    - name: Konrad,
-      gender: m
+      - name: Albertine,
+        gender: f
+      - name: Auguste,
+        gender: m
+      - name: Erich,
+        gender: m
+      - name: Gebhard,
+        gender: m
+      - name: Ludwig,
+        gender: m
+      - name: Konrad,
+        gender: m
     role: Mitglieder des Theaters.
   - name: Der Soufleur.
     gender: m
@@ -14976,12 +14976,12 @@ editions:
     url: https://books.google.com/books?id=whOHwwEACAAJ&pg=PA125
 cast:
   - group:
-    - name: Severus,
-      role: Graf von Altberg,
-      gender: m
-    - name: Helena,
-      role: Gräfin von Hochstein,
-      gender: f
+      - name: Severus,
+        role: Graf von Altberg,
+        gender: m
+      - name: Helena,
+        role: Gräfin von Hochstein,
+        gender: f
     role: neu vermählt.
   - name: Nicolaus,
     role: Kastellan auf Altberg.
@@ -15307,12 +15307,12 @@ comments:
   - "Besprechung in: Neue Allgemeine Deutsche Bibliothek. Sieben und funfzigsten Bandes Zweytes Stück. Sechstes Heft. Berlin und Stettin: Nicolai 1801, [S. 347](https://books.google.com/books?id=G2FLAAAAcAAJ&pg=PA347)."
 cast:
   - group:
-    - name: Friedrich Wernau,
-      role: Schulze des Dorfs.
-      gender: m
-    - name: Wilhelm Wernau,
-      role: sein Sohn.
-      gender: m
+      - name: Friedrich Wernau,
+        role: Schulze des Dorfs.
+        gender: m
+      - name: Wilhelm Wernau,
+        role: sein Sohn.
+        gender: m
     role: vormals in Kriegsdiensten.
   - name: Ernst Leeser,
     role: Pachter.
@@ -15321,12 +15321,12 @@ cast:
     role: dessen Tochter.
     gender: f
   - group:
-    - name: Jakob Armann.
-      gender: m
-    - name: Peter Stein.
-      gender: m
-    - name: Heinrich Fellmann.
-      gender: m
+      - name: Jakob Armann.
+        gender: m
+      - name: Peter Stein.
+        gender: m
+      - name: Heinrich Fellmann.
+        gender: m
     role: Landleute.
   - name: Bauern.
     isGroup: true
@@ -15398,17 +15398,17 @@ cast:
     role: seine Tochter.
     gender: f
   - group:
-    - name: Wittwe Wallmohr.
-      gender: f
-    - name: Herr Wallmohr,
-      role: ihr Sohn.
-      gender: m
-    - name: Hauptmann Wallmohr,
-      role: dessen Onkel.
-      gender: m
-    - name: Friedrike,
-      role: ihre Magd.
-      gender: f
+      - name: Wittwe Wallmohr.
+        gender: f
+      - name: Herr Wallmohr,
+        role: ihr Sohn.
+        gender: m
+      - name: Hauptmann Wallmohr,
+        role: dessen Onkel.
+        gender: m
+      - name: Friedrike,
+        role: ihre Magd.
+        gender: f
     role: Ausgewanderte Deutsche.
   - name: Sekretär Ferding.
     gender: m
@@ -15544,12 +15544,12 @@ cast:
     role: Kaufmann.
     gender: m
   - group:
-    - name: Malinval.
-      gender: m
-    - name: Montbrun.
-      gender: m
-    - name: Lambert.
-      gender: m
+      - name: Malinval.
+        gender: m
+      - name: Montbrun.
+        gender: m
+      - name: Lambert.
+        gender: m
     role: Dürmonts Nachbarn.
   - name: Dürmonts Bedienter.
     gender: m
@@ -15578,13 +15578,13 @@ cast:
   - name: Die Geheimeräthin.
     gender: f
   - group:
-    - name: Ernst von Saalburg,
-      role: Hauptmann
-      gender: m
-    - name: Ludwig von Saalburg,
-      gender: m
-    - name: Henriette von Saalburg,
-      gender: f
+      - name: Ernst von Saalburg,
+        role: Hauptmann
+        gender: m
+      - name: Ludwig von Saalburg,
+        gender: m
+      - name: Henriette von Saalburg,
+        gender: f
     role: deren Kinder
   - name: Justitzrath von Brandstein.
     gender: m
@@ -15593,12 +15593,12 @@ cast:
   - name: Zimmermann Thal.
     gender: m
   - group:
-    - name: Georg Wester,
-      gender: m
-    - name: Friedrich Stein,
-      gender: m
-    - name: Jakob Schmidt,
-      gender: m
+      - name: Georg Wester,
+        gender: m
+      - name: Friedrich Stein,
+        gender: m
+      - name: Jakob Schmidt,
+        gender: m
     role: Bauern.
 setting: >-
   Eine Landgegend vor einem kleinen Städtchen, zu beyden Seiten Gebüsch, auf der linken ein Bauernhaus.
@@ -15677,15 +15677,15 @@ cast:
   - name: Dorsay.
     gender: m
   - group:
-    - name: Lafleur,
-      role: Kammerdiener
-      gender: m
-    - name: Gabriel,
-      role: Jokei
-      gender: m
-    - name: Frau von Mircour,
-      role: Nichte
-      gender: f
+      - name: Lafleur,
+        role: Kammerdiener
+        gender: m
+      - name: Gabriel,
+        role: Jokei
+        gender: m
+      - name: Frau von Mircour,
+        role: Nichte
+        gender: f
     role: des Herrn Dorsay.
   - name: Marie,
     role: Kammerjungfer der Frau von Mircour.
@@ -15918,12 +15918,12 @@ cast:
     role: unter dem Namen Walter.
     gender: m
   - group:
-    - name: Cuno,
-      role: Officier,
-      gender: m
-    - name: Carlos,
-      role: Candidat der Theologie,
-      gender: m
+      - name: Cuno,
+        role: Officier,
+        gender: m
+      - name: Carlos,
+        role: Candidat der Theologie,
+        gender: m
     role: seine Söhne.
   - name: Bertha,
     role: sein Pflegekind.
@@ -16000,10 +16000,10 @@ cast:
     role: dessen Frau.
     gender: f
   - group:
-    - name: Wolff
-      gender: m
-    - name: Püttner
-      gender: m
+      - name: Wolff
+        gender: m
+      - name: Püttner
+        gender: m
     role: zwey Rekruten.
   - name: List,
     role: Bedienter der Frau v. Mayenthal.
@@ -16031,10 +16031,10 @@ cast:
   - name: Marquis de Verglas.
     gender: m
   - group:
-    - name: Luise,
-      gender: f
-    - name: Amalie,
-      gender: f
+      - name: Luise,
+        gender: f
+      - name: Amalie,
+        gender: f
     role: seine Töchter.
   - name: Julie,
     role: deren Kammermädchen.
@@ -16355,10 +16355,10 @@ cast:
     role: ihr Mädchen.
     gender: f
   - group:
-    - name: Simon,
-      gender: m
-    - name: Cleant,
-      gender: m
+      - name: Simon,
+        gender: m
+      - name: Cleant,
+        gender: m
     role: Lisels Liebhaber.
   - name: Christoph,
     role: Bedienter des Herrn Cleant.
@@ -16713,16 +16713,16 @@ keywords:
   - allegorische Figuren
 cast:
   - group:
-    - name: Harlekin,
-      gender: m
-    - name: Scaramutz,
-      gender: m
+      - name: Harlekin,
+        gender: m
+      - name: Scaramutz,
+        gender: m
     role: zween teutsche Comödianten.
   - group:
-    - name: Jungfer Neu-Münze,
-      gender: f
-    - name: Jungfer Alt-Münze,
-      gender: f
+      - name: Jungfer Neu-Münze,
+        gender: f
+      - name: Jungfer Alt-Münze,
+        gender: f
     role: zwo Jungfern aus der verkehrten Welt.
   - name: Frau Sassefraß,
     role: ein Doctor der Arzney.
@@ -16738,10 +16738,10 @@ cast:
     role: ein Advocat.
     gender: m
   - group:
-    - name: Herr Fertig,
-      gender: m
-    - name: Herr Hurtig,
-      gender: m
+      - name: Herr Fertig,
+        gender: m
+      - name: Herr Hurtig,
+        gender: m
     role: zweene Liebhaber aus der verkehrten Welt.
   - name: Merlin,
     role: ein Zauberer und Beherrscher der verkehrten Welt.
@@ -16867,10 +16867,10 @@ cast:
     role: seine Muhme.
     gender: f
   - group:
-    - name: Ernst Wachtel,
-      gender: m
-    - name: Karl Zeisig,
-      gender: m
+      - name: Ernst Wachtel,
+        gender: m
+      - name: Karl Zeisig,
+        gender: m
     role: Studenten.
   - name: Des Nachtwächters Nachbarn, unter welchen der Bürgermeister.
     isGroup: true
@@ -17049,18 +17049,18 @@ cast:
   - name: Ein Hauptmann von den Jägern.
     gender: m
   - group:
-    - name: Ein Oberlieutenant
-      gender: m
-    - name: Ein Corporal
-      gender: m
+      - name: Ein Oberlieutenant
+        gender: m
+      - name: Ein Corporal
+        gender: m
     role: von einem Linieninfanterie-Regimente.
   - group:
-    - name: Ein Kaufmann
-      gender: m
-    - name: Ein Wundarzt
-      gender: m
-    - name: Ein Bürger
-      gender: m
+      - name: Ein Kaufmann
+        gender: m
+      - name: Ein Wundarzt
+        gender: m
+      - name: Ein Bürger
+        gender: m
     role: von Voghera.
 setting: >-
   Die Handlung geht in Voghera am Abend nach der Schlacht von Montebello vor. (9. Juny 1800.) Eine einsame Straße in Voghera. Ein Haus mit Lauben, wo Thüre und Fenster verschlossen sind, macht den Hintergrund. Links ein Haus mit einer Stiege.
@@ -17086,10 +17086,10 @@ keywords:
   - Sklaverei
 cast:
   - group:
-    - name: Inkle
-      gender: m
-    - name: Begley
-      gender: m
+      - name: Inkle
+        gender: m
+      - name: Begley
+        gender: m
     role: englische Kaufleute.
   - name: Yariko,
     role: eine Amerikanerinn.
@@ -17255,12 +17255,12 @@ cast:
     role: ein indischer Sultan.
     gender: m
   - group:
-    - name: Kosru,
-      gender: m
-    - name: Babilo,
-      gender: m
-    - name: Korasmin.
-      gender: m
+      - name: Kosru,
+        gender: m
+      - name: Babilo,
+        gender: m
+      - name: Korasmin.
+        gender: m
     role: seine Söhne.
   - name: Zambur.
     gender: m
@@ -17424,10 +17424,10 @@ cast:
     role: sein Sohn.
     gender: m
   - group:
-    - name: Doctor Reiz
-      gender: m
-    - name: Doctor Potenz
-      gender: m
+      - name: Doctor Reiz
+        gender: m
+      - name: Doctor Potenz
+        gender: m
     role: zwey Aerzte vom Brownischen System.
 setting: >-
   Ein Zimmer in Werlhofs Haus. Mittel- und Seitenthüren. Ein gedeckter Theetisch, auf welchem Neujahrswünsche liegen.
@@ -17457,10 +17457,10 @@ keywords:
   - Liebesprobe
 cast:
   - group:
-    - name: von Blumenau
-      gender: m
-    - name: von Ralding
-      gender: m
+      - name: von Blumenau
+        gender: m
+      - name: von Ralding
+        gender: m
     role: zwei junge Kavallerie-Offiziere.
   - name: Elise von Blumenau.
     gender: f
@@ -18080,10 +18080,10 @@ cast:
     role: eine junge Predigerwitwe.
     gender: f
   - group:
-    - name: Elias Krumm,
-      gender: m
-    - name: Friedrich Wahl,
-      gender: m
+      - name: Elias Krumm,
+        gender: m
+      - name: Friedrich Wahl,
+        gender: m
     role: Zwei Candidaten des Predigtamtes.
   - name: Der Schulmeister.
     gender: mm
@@ -18189,10 +18189,10 @@ cast:
   - name: Der Hagestolz.
     gender: m
   - group:
-    - name: Sein Jokei.
-      gender: m
-    - name: Seine alte Köchin.
-      gender: f
+      - name: Sein Jokei.
+        gender: m
+      - name: Seine alte Köchin.
+        gender: f
     role: stumme Personen.
 setting: >-
   Der Schauplatz ist ein Saal, in welchem, in einem Halbcirkel, fünf weibliche Gemählde aufgestellt sind. Das mittelste, ein junges Mädgen; das erste zur Rechten, ein Mädgen mit Rosen und Vergißmeinnicht; das zweite, ein Frauenzimmer mit einer Feder in der Hand: das erste zur Linken, ein Mädgen nach der neusten Mode gekleidet: das zweite eine Dame in Trauer.
@@ -18314,10 +18314,10 @@ cast:
     role: seine Schwester, eine arme Wittwe.
     gender: f
   - group:
-    - name: Karl,
-      gender: m
-    - name: Hans,
-      gender: m
+      - name: Karl,
+        gender: m
+      - name: Hans,
+        gender: m
     role: ihre Söhne.
   - name: Der Fürst von **
     gender: m
@@ -18461,12 +18461,12 @@ cast:
     role: sein Bedienter.
     gender: m
   - group:
-    - name: Thomas,
-      role: Kutscher
-      gender: m
-    - name: Heinrich,
-      role: Bedienter
-      gender: m
+      - name: Thomas,
+        role: Kutscher
+        gender: m
+      - name: Heinrich,
+        role: Bedienter
+        gender: m
     role: des Lord Derby.
   - name: Huntington,
     role: ein junger Maler.
@@ -18500,10 +18500,10 @@ keywords:
   - Eheanbahnung
 cast:
   - group:
-    - name: Herr von Wiesen.
-      gender: m
-    - name: Herr von Baarkopf.
-      gender: m
+      - name: Herr von Wiesen.
+        gender: m
+      - name: Herr von Baarkopf.
+        gender: m
     role: benachbarte Landedelleute.
   - name: Julie,
     role: von Wiesens Mündel.
@@ -18948,11 +18948,11 @@ cast:
   - name: Madam Duport.
     gender: f
   - group:
-    - name: Julie
-      gender: f
-    - name: Louis,
-      role: ein Knabe
-      gender: m
+      - name: Julie
+        gender: f
+      - name: Louis,
+        role: ein Knabe
+        gender: m
     role: ihre Kinder.
   - name: Marquis de Rozieres.
     gender: f
@@ -19176,19 +19176,19 @@ comments:
   - "Nach der Erzählung von Jean-Nicolas Bouilly: [»La pièce d'or«](https://books.google.com/books?id=9SQOAAAAQAAJ&pg=PA190)."
 cast:
   - group:
-    - name: Wilhelm,
-      gender: m
-    - name: Jakob,
-      gender: m
+      - name: Wilhelm,
+        gender: m
+      - name: Jakob,
+        gender: m
     role: Gebrüder Florval, Kaufleute aus Lyon.
   - name: Cecilie,
     role: ein Mädchen von 12 bis 14 Jahren, die Tochter Jakobs.
     gender: f
   - group:
-    - name: Wilhelm,
-      gender: m
-    - name: Jakob,
-      gender: m
+      - name: Wilhelm,
+        gender: m
+      - name: Jakob,
+        gender: m
     role: Knaben von 10 bis 12 Jahren, die Söhne Wilhelms.
   - name: Madame Latour,
     role: eine Wittwe.
@@ -19220,10 +19220,10 @@ comments:
   - Untertitel 1841 »in einem Aufzuge«.
 cast:
   - group:
-    - name: Elias Schluchzer,
-      gender: m
-    - name: Hans Frohmuth,
-      gender: m
+      - name: Elias Schluchzer,
+        gender: m
+      - name: Hans Frohmuth,
+        gender: m
     role: Gutsbesitzer.
   - name: Fritz,
     role: dessen Sohn.
@@ -19299,10 +19299,10 @@ cast:
   - name: Eulalia.
     gender: f
   - group:
-    - name: Wilhelm und
-      gender: m
-    - name: Malchen
-      gender: f
+      - name: Wilhelm und
+        gender: m
+      - name: Malchen
+        gender: f
     role: ihre Kinder 6 und 7 Jahr alt.
   - name: Baron von der Horst,
     role: Major in Französischen Diensten.
@@ -19346,11 +19346,11 @@ cast:
     role: eine Wittwe.
     gender: f
   - group:
-    - name: Henriette
-      gender: f
-    - name: Johanna,
-      role: ein Kind
-      gender: f
+      - name: Henriette
+        gender: f
+      - name: Johanna,
+        role: ein Kind
+        gender: f
     role: ihre Töchter.
   - name: Oberförster von Mallwitz.
     gender: m
@@ -19380,10 +19380,10 @@ keywords:
   - Ritterdrama
 cast:
   - group:
-    - name: Clara von Hohenstein.
-      gender: f
-    - name: Margarethe von Immenthal.
-      gender: f
+      - name: Clara von Hohenstein.
+        gender: f
+      - name: Margarethe von Immenthal.
+        gender: f
     role: Zwei junge Wittwen.
   - name: Cordula,
     role: Clara's Zofe.
@@ -19585,12 +19585,12 @@ cast:
     role: ihr Sohn.
     gender: m
   - group:
-    - name: Obrister
-      gender: m
-    - name: Hofmarschall
-      gender: m
-    - name: Criminalrath
-      gender: m
+      - name: Obrister
+        gender: m
+      - name: Hofmarschall
+        gender: m
+      - name: Criminalrath
+        gender: m
     role: von Westen, Brüder des Oberhofmeisters.
   - name: Fräulein Aurore,
     role: dessen Schwester.
@@ -19673,14 +19673,14 @@ cast:
     role: sein Bruder.
     gender: m
   - group:
-    - name: Erich Finsterwald
-      gender: m
-    - name: Caspar Blutstein
-      gender: m
-    - name: Rudolph Krummwinkel
-      gender: m
-    - name: Conrad Pumper
-      gender: m
+      - name: Erich Finsterwald
+        gender: m
+      - name: Caspar Blutstein
+        gender: m
+      - name: Rudolph Krummwinkel
+        gender: m
+      - name: Conrad Pumper
+        gender: m
     role: Ritter.
   - name: Junker Edwin,
     role: Pflegesohn des Hans von der Kolbe.
@@ -19722,12 +19722,12 @@ cast:
   - name: Sein Adjutant.
     gender: m
   - group:
-    - name: Walther Mifflin
-      gender: m
-    - name: Eduard Mifflin
-      gender: m
-    - name: Maria Milford
-      gender: f
+      - name: Walther Mifflin
+        gender: m
+      - name: Eduard Mifflin
+        gender: m
+      - name: Maria Milford
+        gender: f
     role: Quäker.
 setting: >-
   Das Stück spielt in der Zeit des amerikanischen Krieges. Der Schauplatz ist in Pensylvanien, unweit Philadelphia, im englischen Hauptquartiere, ein Zimmer des Generals, mit einem daran stoßenden Cabinette.
@@ -19755,22 +19755,22 @@ keywords:
   - Gesellschaftstheater
 cast:
   - group:
-    - name: Frau von Altenhayn,
-      gender: f
-    - name: Frau von Schwerfuß,
-      gender: f
-    - name: Frau von Knochen,
-      gender: f
-    - name: Frau v. Zitterhaupt,
-      gender: f
-    - name: Herr von Wiese,
-      gender: m
-    - name: Herr von Schneehaar,
-      gender: m
-    - name: Herr von Wackelbach,
-      gender: m
-    - name: Herr v. Greisenthal,
-      gender: m
+      - name: Frau von Altenhayn,
+        gender: f
+      - name: Frau von Schwerfuß,
+        gender: f
+      - name: Frau von Knochen,
+        gender: f
+      - name: Frau v. Zitterhaupt,
+        gender: f
+      - name: Herr von Wiese,
+        gender: m
+      - name: Herr von Schneehaar,
+        gender: m
+      - name: Herr von Wackelbach,
+        gender: m
+      - name: Herr v. Greisenthal,
+        gender: m
     role: sämmtlich über 60 Jahre.
   - name: Henriette,
     role: Enkelin der Frau von Altenhayn.
@@ -19847,10 +19847,10 @@ cast:
     role: ein reicher Kaufmann.
     gender: m
   - group:
-    - name: Caroline,
-      gender: f
-    - name: Adolphine,
-      gender: f
+      - name: Caroline,
+        gender: f
+      - name: Adolphine,
+        gender: f
     role: seine Töchter.
   - name: Mamsell Beate Bulling,
     role: seine Schwester.
@@ -19862,12 +19862,12 @@ cast:
     role: ihr Vormund, Hautmann beym Landsturm.
     gender: m
   - group:
-    - name: Müllner,
-      gender: m
-    - name: Riedl,
-      gender: m
-    - name: Webb,
-      gender: m
+      - name: Müllner,
+        gender: m
+      - name: Riedl,
+        gender: m
+      - name: Webb,
+        gender: m
     role: freywillige Jäger.
   - name: Frau Webb,
     role: Haushälterin bey Bulling.
@@ -19901,15 +19901,15 @@ cast:
     role: eine junge reiche Wittwe.
     gender: f
   - group:
-    - name: Herr von Kuhwackel,
-      role: ein Landjunker,
-      gender: m
-    - name: Major von Brudduz,
-      gender: m
-    - name: Graf Lilienduft,
-      gender: m
-    - name: Conferenzrath von Auwau,
-      gender: m
+      - name: Herr von Kuhwackel,
+        role: ein Landjunker,
+        gender: m
+      - name: Major von Brudduz,
+        gender: m
+      - name: Graf Lilienduft,
+        gender: m
+      - name: Conferenzrath von Auwau,
+        gender: m
     role: ihre Liebhaber.
   - name: Georg,
     role: ihr Bedienter.
@@ -19978,13 +19978,13 @@ cast:
     role: Kammermädgen.
     gender: f
   - group:
-    - name: Seecapitän Strudel.
-      gender: m
-    - name: Lieutenant Donner.
-      gender: m
-    - name: Herr v. Schmalunk,
-      role: ein Landjunker.
-      gender: m
+      - name: Seecapitän Strudel.
+        gender: m
+      - name: Lieutenant Donner.
+        gender: m
+      - name: Herr v. Schmalunk,
+        role: ein Landjunker.
+        gender: m
     role: Leopoldinens Liebhaber.
 setting: >-
   Der Schauplatz im Garten auf dem Landgute des Barons Haifisch, nahe an einem großen See.
@@ -20270,10 +20270,10 @@ keywords:
   - Kriegsinvaliden
 cast:
   - group:
-    - name: Der Major von Staubwirbel
-      gender: m
-    - name: Der Hauptmann v. Mengkorn
-      gender: m
+      - name: Der Major von Staubwirbel
+        gender: m
+      - name: Der Hauptmann v. Mengkorn
+        gender: m
     role: Pensionirte Invaliden.
   - name: Charlotte,
     role: des Majors Tochter.
@@ -20543,12 +20543,12 @@ cast:
     role: Vorsteherin einer Pensionsanstalt für junge Mädchen.
     gender: f
   - group:
-    - name: Lenore,
-      gender: f
-    - name: Natalie,
-      gender: f
-    - name: Wilhelmine,
-      gender: f
+      - name: Lenore,
+        gender: f
+      - name: Natalie,
+        gender: f
+      - name: Wilhelmine,
+        gender: f
     role: in Pension bei Mad. Braun.
   - name: Hopsa,
     role: ein Tanzmeister.
@@ -20598,11 +20598,11 @@ cast:
     role: sein Weib.
     gender: f
   - group:
-    - name: Elisabeth
-      gender: f
-    - name: Gustchen,
-      role: ein Kind
-      gender: f
+      - name: Elisabeth
+        gender: f
+      - name: Gustchen,
+        role: ein Kind
+        gender: f
     role: seine Töchter.
   - name: Jakob.
     gender: m
@@ -20836,12 +20836,12 @@ cast:
     role: Mutter.
     gender: f
   - group:
-    - name: Lise,
-      role: von sechzehn und
-      gender: f
-    - name: Röschen,
-      role: von zehen Jahren,
-      gender: f
+      - name: Lise,
+        role: von sechzehn und
+        gender: f
+      - name: Röschen,
+        role: von zehen Jahren,
+        gender: f
     role: ihre Töchter.
   - name: Knauf,
     role: Nachbar.
@@ -21066,10 +21066,10 @@ cast:
     role: seine Schwester.
     gender: f
   - group:
-    - name: Henriette,
-      gender: f
-    - name: Elise,
-      gender: f
+      - name: Henriette,
+        gender: f
+      - name: Elise,
+        gender: f
     role: ihre Töchter.
   - name: Johann,
     role: Bedienter im Hause des Baron Löventhal.
@@ -21177,12 +21177,12 @@ cast:
     role: ein reicher Privatmann.
     gender: m
   - group:
-    - name: Othello.
-      gender: m
-    - name: Rodrigerl.
-      gender: m
-    - name: Jakerl.
-      gender: m
+      - name: Othello.
+        gender: m
+      - name: Rodrigerl.
+        gender: m
+      - name: Jakerl.
+        gender: m
     role: seine Bediente.
   - name: Wastl,
     role: sein Hausmeister.
@@ -21319,10 +21319,10 @@ cast:
   - name: Minerva.
     gender: f
   - group:
-    - name: Amor,
-      gender: m
-    - name: Cupido,
-      gender: m
+      - name: Amor,
+        gender: m
+      - name: Cupido,
+        gender: m
     role: die zwey Götter der Liebe.
   - name: Plutus.
     gender: m
@@ -21357,10 +21357,10 @@ cast:
     role: des Herrn Argante Tochter.
     gender: f
   - group:
-    - name: Dorant,
-      gender: m
-    - name: Erast,
-      gender: m
+      - name: Dorant,
+        gender: m
+      - name: Erast,
+        gender: m
     role: der Jungfer Argante Liebhaber.
   - name: Peter,
     role: des Herrn Argante Verwalter.
@@ -21556,14 +21556,14 @@ cast:
     role: ein alter Schäffer.
     gender: m
   - group:
-    - name: SELADON
-      gender: m
-    - name: DAMOET
-      gender: m
-    - name: MARGARIS
-      gender: f
-    - name: SILVIA
-      gender: f
+      - name: SELADON
+        gender: m
+      - name: DAMOET
+        gender: m
+      - name: MARGARIS
+        gender: f
+      - name: SILVIA
+        gender: f
     role: seine Kinder.
   - name: viele Schäffer.
     isGroup: true
@@ -21747,10 +21747,10 @@ cast:
     role: der Frau Gernereichin Cammermägdchen.
     gender: f
   - group:
-    - name: Tapsmann,
-      gender: m
-    - name: Packburg,
-      gender: m
+      - name: Tapsmann,
+        gender: m
+      - name: Packburg,
+        gender: m
     role: zwey Spitzbuben.
   - name: Herr Schmeichlendorff,
     role: ein Nachbar des Herrn Gernereichs.
@@ -21952,18 +21952,18 @@ cast:
     role: Diener.
     gender: m
   - group:
-    - name: Graf Bruggi
-      gender: m
-    - name: Graf Arcatti
-      role: sein Freund
-      gender: m
+      - name: Graf Bruggi
+        gender: m
+      - name: Graf Arcatti
+        role: sein Freund
+        gender: m
     role: Turiner.
   - group:
-    - name: Graf Aretusi
-      gender: m
-    - name: Graf Anselmi
-      role: sein Freund.
-      gender: m
+      - name: Graf Aretusi
+        gender: m
+      - name: Graf Anselmi
+        role: sein Freund.
+        gender: m
     role: Mayländer.
   - name: Vespa
     role: Stubenmagd im Gasthofe.
@@ -22546,10 +22546,10 @@ cast:
     role: seine Frau.
     gender: f
   - group:
-    - name: Batilde,
-      gender: f
-    - name: Klaudine,
-      gender: f
+      - name: Batilde,
+        gender: f
+      - name: Klaudine,
+        gender: f
     role: seine Töchter.
   - name: Fritz Klar,
     role: ein junger Gutsbesitzer.
@@ -22639,21 +22639,21 @@ cast:
     role: sein Bedienter.
     gender: m
   - group:
-    - name: Phanantes,
-      role: Einwohner der Insel.
-      gender: m
-    - name: Glauca,
-      role: seine Frau.
-      gender: f
-    - name: Lichas,
-      role: Sohn derselben.
-      gender: m
-    - name: Ophrys,
-      role: eine Wayse, die sich bey dem Phanantes aufhält.
-      gender: f
-    - name: Hormine,
-      role: ihr Mägdchen.
-      gender: f
+      - name: Phanantes,
+        role: Einwohner der Insel.
+        gender: m
+      - name: Glauca,
+        role: seine Frau.
+        gender: f
+      - name: Lichas,
+        role: Sohn derselben.
+        gender: m
+      - name: Ophrys,
+        role: eine Wayse, die sich bey dem Phanantes aufhält.
+        gender: f
+      - name: Hormine,
+        role: ihr Mägdchen.
+        gender: f
     role: Pucklichte.
 ---
 slug: lieberkuehn-die-lissabonner
@@ -22739,10 +22739,10 @@ cast:
     role: Derselben Mutter.
     gender: f
   - group:
-    - name: Loipperl.
-      gender: m
-    - name: Grescherl.
-      gender: f
+      - name: Loipperl.
+        gender: m
+      - name: Grescherl.
+        gender: f
     role: Enkelkinder der Margareth.
   - name: Stix.
     role: Ein Herrschafts Amtmann.
@@ -22777,10 +22777,10 @@ cast:
     role: seine Gemahlin.
     gender: f
   - group:
-    - name: Wilhelmine, 10. Jahr alt.
-      gender: f
-    - name: Joseph, 9. Jahr alt.
-      gender: m
+      - name: Wilhelmine, 10. Jahr alt.
+        gender: f
+      - name: Joseph, 9. Jahr alt.
+        gender: m
     role: beede ihre Kinder.
   - name: Kornemann,
     role: Regimentsfeldscher.
@@ -22991,12 +22991,12 @@ cast:
     role: ein Metzgerknecht.
     gender: m
   - group:
-    - name: Dorthee
-      gender: f
-    - name: Lißbeth
-      gender: f
-    - name: Susann
-      gender: f
+      - name: Dorthee
+        gender: f
+      - name: Lißbeth
+        gender: f
+      - name: Susann
+        gender: f
     role: Köchinnen.
   - name: Die Schwäbin.
     gender: f
@@ -23026,12 +23026,12 @@ cast:
     role: Gustbesitzer.
     gender: m
   - group:
-    - name: Roland,
-      role: sein Sohn.
-      gender: m
-    - name: Amalie,
-      role: seine Nichte.
-      gender: f
+      - name: Roland,
+        role: sein Sohn.
+        gender: m
+      - name: Amalie,
+        role: seine Nichte.
+        gender: f
     role: Heimlich vermählt.
   - name: Hector,
     role: ein Kind, ihr Sohn.
@@ -23172,16 +23172,16 @@ cast:
     role: sein Gränznachbar.
     gender: m
   - group:
-    - name: Wallau
-      gender: m
-    - name: Sterneck
-      gender: m
-    - name: Hohlfeld
-      gender: m
-    - name: Burgau
-      gender: m
-    - name: Brisdorf
-      gender: m
+      - name: Wallau
+        gender: m
+      - name: Sterneck
+        gender: m
+      - name: Hohlfeld
+        gender: m
+      - name: Burgau
+        gender: m
+      - name: Brisdorf
+        gender: m
     role: Wildofs Freunde.
   - name: Der Wirth zur Meerkatze.
     gender: m
@@ -23208,11 +23208,11 @@ keywords:
   - Verkleidungsspiel
 cast:
   - group:
-    - name: Julie,
-      gender: f
-    - name: Bertha,
-      gender: f
-      role: zwei junge Wittwen.
+      - name: Julie,
+        gender: f
+      - name: Bertha,
+        gender: f
+    role: zwei junge Wittwen.
 setting: >-
   Das Stück spielt auf einem Landhause nah bei einer großen Stadt. (Die Scene
   ist ein gemeinschaftlicher Saal mit einer Mittel- und zwei Seitenthüren.
@@ -23493,10 +23493,10 @@ keywords:
   - Ehestandsszene
 cast:
   - group:
-    - name: Duriveau,
-      gender: m
-    - name: Chambellan,
-      gender: m
+      - name: Duriveau,
+        gender: m
+      - name: Chambellan,
+        gender: m
     role: Wechselagenten.
   - name: Clara,
     role: Duriveau's Gattin.
@@ -23613,14 +23613,14 @@ cast:
     role: seine Tochter.
     gender: f
   - group:
-    - name: Harlekin,
-      gender: m
-    - name: Scapin,
-      gender: m
-    - name: Isabelle,
-      gender: f
-    - name: Valer,
-      gender: m
+      - name: Harlekin,
+        gender: m
+      - name: Scapin,
+        gender: m
+      - name: Isabelle,
+        gender: f
+      - name: Valer,
+        gender: m
     role: Schauspieler.
   - name: Peter,
     role: Lichtputzer.
@@ -23782,28 +23782,28 @@ cast:
     role: dessen Bedienter.
     gender: m
   - group:
-    - name: Anne,
-      gender: f
-    - name: Kattel,
-      gender: f
-    - name: Sannel,
-      gender: f
+      - name: Anne,
+        gender: f
+      - name: Kattel,
+        gender: f
+      - name: Sannel,
+        gender: f
     role: Junge Bäuerinnen.
   - group:
-    - name: Peter,
-      gender: m
-    - name: Gürge,
-      gender: m
-    - name: Conrad,
-      gender: m
+      - name: Peter,
+        gender: m
+      - name: Gürge,
+        gender: m
+      - name: Conrad,
+        gender: m
     role: Junge Bauern.
   - name: Ein Dorfgeiger.
     gender: m
   - group:
-    - name: Simon,
-      gender: m
-    - name: Kasper,
-      gender: m
+      - name: Simon,
+        gender: m
+      - name: Kasper,
+        gender: m
     role: Bauern.
   - name: Ein Hausknecht.
     gender: m
@@ -23977,10 +23977,10 @@ cast:
     role: dessen Frau.
     gender: f
   - group:
-    - name: Ferdinand,
-      gender: m
-    - name: Franz,
-      gender: m
+      - name: Ferdinand,
+        gender: m
+      - name: Franz,
+        gender: m
     role: dessen Söhne.
   - name: Herr Hippler,
     role: vormals Lieferant bei der Armee.
@@ -24260,12 +24260,12 @@ cast:
     role: eine Amerikanerinn.
     gender: f
   - group:
-    - name: Inkle,
-      gender: m
-    - name: Begley,
-      gender: m
-    - name: Sorrowgrey,
-      gender: m
+      - name: Inkle,
+        gender: m
+      - name: Begley,
+        gender: m
+      - name: Sorrowgrey,
+        gender: m
     role: Englische Kaufleute.
   - name: Don Estados,
     role: Herr einer Pflanzstatt im Mexikanischen.
@@ -24589,22 +24589,22 @@ cast:
     role: eine alte Wittwe.
     gender: f
   - group:
-    - name: Fräulein Fiekchen,
-      gender: f
-    - name: Fräulein Clarchen,
-      gender: f
+      - name: Fräulein Fiekchen,
+        gender: f
+      - name: Fräulein Clarchen,
+        gender: f
     role: ihre Nichten.
   - group:
-    - name: Herr von Rosenhayn,
-      gender: m
-    - name: Herr von Schönau,
-      gender: m
+      - name: Herr von Rosenhayn,
+        gender: m
+      - name: Herr von Schönau,
+        gender: m
     role: deren Liebhaber.
   - group:
-    - name: Der Hauptmann Roland,
-      gender: m
-    - name: Juncker Genserich,
-      gender: m
+      - name: Der Hauptmann Roland,
+        gender: m
+      - name: Juncker Genserich,
+        gender: m
     role: der Fräulein Vormünder.
   - name: Reinecke,
     role: ein Betrüger.
@@ -24759,16 +24759,16 @@ comments:
   - Libretto für Joseph Haydns Singspiel (1773).
 cast:
   - group:
-    - name: Jupiter und
-      gender: m
-    - name: Merkur,
-      gender: m
+      - name: Jupiter und
+        gender: m
+      - name: Merkur,
+        gender: m
     role: als Wanderer.
   - group:
-    - name: Philemon und
-      gender: m
-    - name: Baucis,
-      gender: f
+      - name: Philemon und
+        gender: m
+      - name: Baucis,
+        gender: f
     role: ein altes armes Ehepaar.
   - name: Aret,
     role: ihr Sohn.
@@ -24889,10 +24889,10 @@ cast:
     role: Tyrann zu Syrakus.
     gender: m
   - group:
-    - name: Damon,
-      gender: m
-    - name: Pythias,
-      gender: m
+      - name: Damon,
+        gender: m
+      - name: Pythias,
+        gender: m
     role: zween Freunde.
   - name: Gelon,
     role: Dionysens Günstling.
@@ -25206,10 +25206,10 @@ cast:
     role: ein Gastwirth in einem Dorfe am Rhein.
     gender: m
   - group:
-    - name: Lieschen,
-      gender: f
-    - name: Lottchen,
-      gender: f
+      - name: Lieschen,
+        gender: f
+      - name: Lottchen,
+        gender: f
     role: seine Töchter.
   - name: Döring,
     role: ein junger Maler.
@@ -25564,10 +25564,10 @@ cast:
     role: eines Pächters Wittwe.
     gender: f
   - group:
-    - name: Luise.
-      gender: f
-    - name: Fanny.
-      gender: f
+      - name: Luise.
+        gender: f
+      - name: Fanny.
+        gender: f
     role: ihre Nichte.
   - name: Rittmeister Waldenau.
     gender: m
@@ -25602,10 +25602,10 @@ cast:
     role: sein Sohn.
     gender: m
   - group:
-    - name: Lycidas,
-      gender: m
-    - name: Menalkas,
-      gender: m
+      - name: Lycidas,
+        gender: m
+      - name: Menalkas,
+        gender: m
     role: Hirten.
   - name: Hierokles,
     role: Priester.
@@ -25743,24 +25743,24 @@ keywords:
   - Kindertheater
 cast:
   - group:
-    - name: Friederike,
-      role: fünfzehn Jahr alt.
-      gender: f
-    - name: Malchen,
-      role: ungefähr 5 Jahr alt.
-      gender: f
-    - name: Wilhelm,
-      role: zwanzig Jahr alt.
-      gender: m
-    - name: Christian,
-      role: zwölf Jahr alt.
-      gender: m
+      - name: Friederike,
+        role: fünfzehn Jahr alt.
+        gender: f
+      - name: Malchen,
+        role: ungefähr 5 Jahr alt.
+        gender: f
+      - name: Wilhelm,
+        role: zwanzig Jahr alt.
+        gender: m
+      - name: Christian,
+        role: zwölf Jahr alt.
+        gender: m
     role: Geschwister.
   - group:
-    - name: Lottchen,
-      gender: f
-    - name: Caroline,
-      gender: f
+      - name: Lottchen,
+        gender: f
+      - name: Caroline,
+        gender: f
     role: dreyzehn Jahr ungefähr beyde alt. Freundinnen Friederikens.
   - name: Ludwig,
     role: ein Freund Christians, und mit ihm von gleichem Alter.
@@ -26140,11 +26140,11 @@ cast:
     role: Freunde des Dorants.
     gender: m
   - group:
-    - name: Babet,
-      gender: f
-    - name: Heinrich,
-      role: Bruder der Babet,
-      gender: m
+      - name: Babet,
+        gender: f
+      - name: Heinrich,
+        role: Bruder der Babet,
+        gender: m
     role: Anverwandte.
   - name: Carl,
     role: ein kleiner Knabe.
@@ -26175,16 +26175,16 @@ comments:
   - Auch unter dem Titel »Der versteckte Hammel, oder die gelernte Liebe« (1743).
 cast:
   - group:
-    - name: Damöt,
-      gender: m
-    - name: Tiren,
-      gender: m
+      - name: Damöt,
+        gender: m
+      - name: Tiren,
+        gender: m
     role: Schäfer.
   - group:
-    - name: Amarillis,
-      gender: f
-    - name: Silvie,
-      gender: f
+      - name: Amarillis,
+        gender: f
+      - name: Silvie,
+        gender: f
     role: Schäferinnen.
 ---
 slug: saal-der-geizige
@@ -26261,10 +26261,10 @@ cast:
   - name: Balthasar.
     gender: m
   - group:
-    - name: Deismus.
-      gender: m
-    - name: Freudenkehr.
-      gender: m
+      - name: Deismus.
+        gender: m
+      - name: Freudenkehr.
+        gender: m
     role: Schriftgelehrte.
   - name: Knecht des Königs Herodes.
     gender: m
@@ -26327,10 +26327,10 @@ cast:
     role: als der gute Hirt.
     gender: u
   - group:
-    - name: Der Glaube;
-      gender: u
-    - name: Die Vernunft;
-      gender: u
+      - name: Der Glaube;
+        gender: u
+      - name: Die Vernunft;
+        gender: u
     role: als zween ihm untergebene Schäfer.
   - name: Der Willen,
     role: als das verlohrne Schaf.
@@ -26612,10 +26612,10 @@ cast:
     role: Ihre Bediente.
     gender: f
   - group:
-    - name: Arist.
-      gender: m
-    - name: Valer.
-      gender: m
+      - name: Arist.
+        gender: m
+      - name: Valer.
+        gender: m
     role: Lucindens Liebhaber.
 setting: Der Schauplatz ist in Lucindens Zimmer.
 ---
@@ -26653,12 +26653,12 @@ cast:
     role: dessen Tochter.
     gender: f
   - group:
-    - name: Agelaus,
-      gender: m
-    - name: Alcibiades,
-      gender: m
-    - name: Gangus,
-      gender: m
+      - name: Agelaus,
+        gender: m
+      - name: Alcibiades,
+        gender: m
+      - name: Gangus,
+        gender: m
     role: Schauspieler.
   - name: Kallos,
     role: Diener des Thespis.
@@ -27301,22 +27301,22 @@ cast:
   - name: Ein Hanseat.
     gender: m
   - group:
-    - name: Ein englischer
-      gender: m
-    - name: Ein russischer
-      gender: m
-    - name: Ein österreichischer
-      gender: m
-    - name: Ein preussischer
-      gender: m
-    - name: Ein holländischer
-      gender: m
-    - name: Ein schwedischer
-      gender: m
-    - name: Ein spanischer
-      gender: m
-    - name: Ein hamburgischer
-      gender: m
+      - name: Ein englischer
+        gender: m
+      - name: Ein russischer
+        gender: m
+      - name: Ein österreichischer
+        gender: m
+      - name: Ein preussischer
+        gender: m
+      - name: Ein holländischer
+        gender: m
+      - name: Ein schwedischer
+        gender: m
+      - name: Ein spanischer
+        gender: m
+      - name: Ein hamburgischer
+        gender: m
     role: Matrose.
   - name: Bürger.
     isGroup: true
@@ -27536,21 +27536,21 @@ cast:
     role: Marquis von Crequi.
     gender: m
   - group:
-    - name: Lefaucheux,
-      role: Major
-      gender: m
-    - name: Henry de Blançay,
-      role: Lieutenant
-      gender: m
-    - name: Octave de Blançay,
-      role: Lieutenant
-      gender: m
-    - name: Joli-Coeur,
-      role: Sergeant
-      gender: m
-    - name: Brin d'Amour
-      role: Corporal
-      gender: m
+      - name: Lefaucheux,
+        role: Major
+        gender: m
+      - name: Henry de Blançay,
+        role: Lieutenant
+        gender: m
+      - name: Octave de Blançay,
+        role: Lieutenant
+        gender: m
+      - name: Joli-Coeur,
+        role: Sergeant
+        gender: m
+      - name: Brin d'Amour
+        role: Corporal
+        gender: m
     role: im Regiment Beaujolois.
   - name: Florchard,
     role: Erzieher des Marquis von Crequi.
@@ -27738,10 +27738,10 @@ cast:
     role: eine junge Wittwe.
     gender: f
   - group:
-    - name: Leopoldine
-      gender: f
-    - name: Hermenegilde
-      gender: f
+      - name: Leopoldine
+        gender: f
+      - name: Hermenegilde
+        gender: f
     role: Töchter des Geheimenraths Winter.
   - name: Ein Bedienter.
     gender: m
@@ -28214,10 +28214,10 @@ cast:
     role: seine Nichte.
     gender: f
   - group:
-    - name: Frau Wellenbrecker,
-      gender: f
-    - name: Frau Slingeland,
-      gender: f
+      - name: Frau Wellenbrecker,
+        gender: f
+      - name: Frau Slingeland,
+        gender: f
     role: seine Schwestern, beide Wittwen.
   - name: Frau Ruisdael,
     role: Luziens Erzieherin.
@@ -28255,10 +28255,10 @@ cast:
     role: ihr Liebhaber.
     gender: m
   - group:
-    - name: Hochtrapp,
-      gender: m
-    - name: Schnellfuß,
-      gender: m
+      - name: Hochtrapp,
+        gender: m
+      - name: Schnellfuß,
+        gender: m
     role: Studenten.
   - name: Gefolge des Königs.
     isGroup: true
@@ -28292,12 +28292,12 @@ cast:
     role: seine Frau.
     gender: f
   - group:
-    - name: Marie,
-      role: 13 Jahr alt, aus der ersten Ehe
-      gender: f
-    - name: Heinrich,
-      role: 9 Jahr, aus der zweiten Ehe
-      gender: m
+      - name: Marie,
+        role: 13 Jahr alt, aus der ersten Ehe
+        gender: f
+      - name: Heinrich,
+        role: 9 Jahr, aus der zweiten Ehe
+        gender: m
     role: ihre Kinder.
   - name: Flink,
     role: Dorfschneider.
@@ -28692,11 +28692,11 @@ cast:
     role: ein Reisender.
     gender: m
   - group:
-    - name: Haushofmeister
-      gender: m
-    - name: Karl,
-      role: Bedienter
-      gender: m
+      - name: Haushofmeister
+        gender: m
+      - name: Karl,
+        role: Bedienter
+        gender: m
     role: des Grafen.
   - name: Sophie,
     role: Gabrielens Kammermägdchen.
@@ -28728,10 +28728,10 @@ cast:
   - name: Karl.
     gender: m
   - group:
-    - name: Herr von Süßmilch,
-      gender: m
-    - name: Herr von Schmalz,
-      gender: m
+      - name: Herr von Süßmilch,
+        gender: m
+      - name: Herr von Schmalz,
+        gender: m
     role: Gutsbesitzer.
   - name: Habakuk,
     role: deren Diener.
@@ -28987,10 +28987,10 @@ keywords:
   - Judentum
 cast:
   - group:
-    - name: Moses.
-      gender: m
-    - name: Wolf.
-      gender: m
+      - name: Moses.
+        gender: m
+      - name: Wolf.
+        gender: m
     role: Zwei jüdische Jünglinge, Söhne wohlhabender Eltern.
   - name: Ein polnischer Rabiner,
     role: ihr Hofmeister.
@@ -29020,22 +29020,22 @@ cast:
   - name: Der Dorfschulmeister.
     gender: m
   - group:
-    - name: Gottlieb,
-      gender: m
-    - name: Traugott,
-      gender: m
-    - name: Hanstöffel,
-      gender: m
-    - name: Fritze,
-      gender: m
-    - name: Christlieb,
-      gender: m
-    - name: Benjamin,
-      gender: m
-    - name: Leberecht,
-      gender: m
-    - name: Gottfried,
-      gender: m
+      - name: Gottlieb,
+        gender: m
+      - name: Traugott,
+        gender: m
+      - name: Hanstöffel,
+        gender: m
+      - name: Fritze,
+        gender: m
+      - name: Christlieb,
+        gender: m
+      - name: Benjamin,
+        gender: m
+      - name: Leberecht,
+        gender: m
+      - name: Gottfried,
+        gender: m
     role: Bauerjungen.
 setting: >-
   Das Stück spielt, wenn es von Einer Person executirt wird, hinter der Scene; bei einer wirklichen Aufführung, ist die Scene eine Bauerstube, mit langen Tischen und Bänken.
@@ -29080,18 +29080,18 @@ cast:
     role: ein Jude.
     gender: m
   - group:
-    - name: Borach,
-      gender: m
-    - name: Hirsch,
-      gender: m
-    - name: Moses,
-      gender: m
-    - name: Saul,
-      gender: m
-    - name: Wolf,
-      gender: m
-    - name: Levi,
-      gender: m
+      - name: Borach,
+        gender: m
+      - name: Hirsch,
+        gender: m
+      - name: Moses,
+        gender: m
+      - name: Saul,
+        gender: m
+      - name: Wolf,
+        gender: m
+      - name: Levi,
+        gender: m
     role: Juden.
   - name: Ein Postbote.
     gender: m
@@ -29114,24 +29114,24 @@ comments:
   - Seitenstück zu Solbrigs [»Die Dorfschule«](solbrig-die-dorfschule).
 cast:
   - group:
-    - name: M. Ruhbach,
-      role: Rector.
-      gender: m
-    - name: M. Opfermann,
-      role: Conrector.
-      gender: m
-    - name: M. Gütig,
-      role: Tertius.
-      gender: m
-    - name: M. Knurrig,
-      role: Quartus.
-      gender: m
-    - name: M. Schnellauf,
-      role: Quintus.
-      gender: m
-    - name: M. Ziemerfreund,
-      role: Sextus.
-      gender: m
+      - name: M. Ruhbach,
+        role: Rector.
+        gender: m
+      - name: M. Opfermann,
+        role: Conrector.
+        gender: m
+      - name: M. Gütig,
+        role: Tertius.
+        gender: m
+      - name: M. Knurrig,
+        role: Quartus.
+        gender: m
+      - name: M. Schnellauf,
+        role: Quintus.
+        gender: m
+      - name: M. Ziemerfreund,
+        role: Sextus.
+        gender: m
     role: Lehrer an der Stadtschule.
   - name: Pathe,
     role: Bürgermeister und Oberältester des Fleischer-Handwerks.
@@ -29140,67 +29140,67 @@ cast:
     role: Stadtschreiber.
     gender: m
   - group:
-    - name: Christian Schenker,
-      gender: m
-    - name: David Unruh,
-      gender: m
-    - name: Heinrich Hartmann,
-      gender: m
+      - name: Christian Schenker,
+        gender: m
+      - name: David Unruh,
+        gender: m
+      - name: Heinrich Hartmann,
+        gender: m
     role: redende Primaner.
   - name: Andere Primaner.
     isGroup: true
     gender: m
   - group:
-    - name: Friedrich Hinhalter,
-      gender: m
-    - name: Egidius v. Adlerschwerdt,
-      gender: m
-    - name: Gottfried Silbermann,
-      gender: m
+      - name: Friedrich Hinhalter,
+        gender: m
+      - name: Egidius v. Adlerschwerdt,
+        gender: m
+      - name: Gottfried Silbermann,
+        gender: m
     role: redende Secundaner.
   - name: Andere Secundaner.
     isGroup: true
     gender: m
   - group:
-    - name: Benjamin Sandstreuer,
-      gender: m
-    - name: Herrmann Liebling,
-      gender: m
+      - name: Benjamin Sandstreuer,
+        gender: m
+      - name: Herrmann Liebling,
+        gender: m
     role: redende Tertianer.
   - name: Andere Tertianer
     isGroup: true
     gender: u
   - group:
-    - name: Ferdinand Schneller,
-      gender: m
-    - name: Leberecht Spender,
-      gender: m
+      - name: Ferdinand Schneller,
+        gender: m
+      - name: Leberecht Spender,
+        gender: m
     role: redende Quartaner.
   - name: Andere Quartaner.
     isGroup: true
     gender: m
   - group:
-    - name: Johann Wisser,
-      gender: m
-    - name: Otto Schwindler,
-      gender: m
-    - name: Gottlob Schwerlich,
-      gender: m
-    - name: Christoph Schmidt,
-      gender: m
+      - name: Johann Wisser,
+        gender: m
+      - name: Otto Schwindler,
+        gender: m
+      - name: Gottlob Schwerlich,
+        gender: m
+      - name: Christoph Schmidt,
+        gender: m
     role: redende Quintaner.
   - name: Andere Quintaner.
     isGroup: true
     gender: m
   - group:
-    - name: Traugott Stegreif,
-      gender: m
-    - name: Gottlieb Wenige,
-      gender: m
-    - name: Gottfried Waldmann,
-      gender: m
-    - name: Ludwig Puchert,
-      gender: m
+      - name: Traugott Stegreif,
+        gender: m
+      - name: Gottlieb Wenige,
+        gender: m
+      - name: Gottfried Waldmann,
+        gender: m
+      - name: Ludwig Puchert,
+        gender: m
     role: redende Sextaner.
   - name: Andere Sextaner.
     isGroup: true
@@ -29352,10 +29352,10 @@ cast:
     role: ein Macedonier.
     gender: m
   - group:
-    - name: Mithracen
-      gender: m
-    - name: Orsill
-      gender: m
+      - name: Mithracen
+        gender: m
+      - name: Orsill
+        gender: m
     role: Perser.
   - name: Soldaten von dem Heere Alexanders.
     isGroup: true
@@ -29506,15 +29506,15 @@ cast:
     role: König von Frankreich und Navarra, 56 Jahr alt.
     gender: m
   - group:
-    - name: Der Dauphin,
-      role: 15 Jahr,
-      gender: m
-    - name: Gaston,
-      role: Herzog v. Orleans, 12 Jahr,
-      gender: m
-    - name: Henriette von Frankreich,
-      role: 7 Jahr,
-      gender: f
+      - name: Der Dauphin,
+        role: 15 Jahr,
+        gender: m
+      - name: Gaston,
+        role: Herzog v. Orleans, 12 Jahr,
+        gender: m
+      - name: Henriette von Frankreich,
+        role: 7 Jahr,
+        gender: f
     role: seine Kinder.
   - name: Lord Effingham,
     role: Gross-Admiral und Gesandter des Königs von England.
@@ -29611,10 +29611,10 @@ cast:
     role: ihre Tochter.
     gender: f
   - group:
-    - name: Friz Waller,
-      gender: m
-    - name: Mahler Selmo,
-      gender: m
+      - name: Friz Waller,
+        gender: m
+      - name: Mahler Selmo,
+        gender: m
     role: ihre Neffen.
   - name: Blidt,
     role: ehemahls Bedienter bey Anton Waller.
@@ -29676,10 +29676,10 @@ editions:
     url: https://books.google.com/books?id=UTCnmAp6z_EC&pg=PA1
 cast:
   - group:
-    - name: Krüger
-      gender: m
-    - name: Sellnau
-      gender: m
+      - name: Krüger
+        gender: m
+      - name: Sellnau
+        gender: m
     role: Maler
   - name: Metha
     role: Sellnau's Tochter
@@ -30037,16 +30037,16 @@ cast:
   - name: Ein General.
     gender: m
   - group:
-    - name: Erster
-      gender: m
-    - name: Zweiter
-      gender: m
+      - name: Erster
+        gender: m
+      - name: Zweiter
+        gender: m
     role: Adjutant.
   - group:
-    - name: Erster
-      gender: m
-    - name: Zweiter
-      gender: m
+      - name: Erster
+        gender: m
+      - name: Zweiter
+        gender: m
     role: Grenadier.
   - name: Ein Dragoner.
     gender: m
@@ -30057,10 +30057,10 @@ cast:
   - name: Ein Tambour.
     gender: m
   - group:
-    - name: Erster
-      gender: m
-    - name: Zweiter
-      gender: m
+      - name: Erster
+        gender: m
+      - name: Zweiter
+        gender: m
     role: Musketier.
   - name: Jeanette,
     role: ein Marketenderin.
@@ -30241,10 +30241,10 @@ cast:
     role: seine Tochter.
     gender: f
   - group:
-    - name: Fedor
-      gender: m
-    - name: Wasil
-      gender: m
+      - name: Fedor
+        gender: m
+      - name: Wasil
+        gender: m
     role: Russen, Schiffbauleute.
   - name: Ein alter Schiffbauarbeiter.
     gender: m
@@ -30459,12 +30459,12 @@ cast:
     role: der Hirt, der den Apoll in seine Hütte aufgenommen.
     gender: m
   - group:
-    - name: Tityrus,
-      gender: m
-    - name: Myrtill,
-      gender: m
-    - name: Alexis,
-      gender: m
+      - name: Tityrus,
+        gender: m
+      - name: Myrtill,
+        gender: m
+      - name: Alexis,
+        gender: m
     role: Daphnis Freunde.
   - name: Menalkas,
     role: Daphnis Vater.
@@ -30544,22 +30544,22 @@ comments:
   - Auch unter dem Titel »Das Fest der danckbahren Schäffer« (1743).
 cast:
   - group:
-    - name: Seladon.
-      gender: m
-    - name: Thyrsis.
-      gender: m
-    - name: Licidas.
-      gender: m
-    - name: Silvius.
-      gender: m
+      - name: Seladon.
+        gender: m
+      - name: Thyrsis.
+        gender: m
+      - name: Licidas.
+        gender: m
+      - name: Silvius.
+        gender: m
     role: "Vier Schäfer, als:"
   - group:
-    - name: Cloe.
-      gender: f
-    - name: Phillis.
-      gender: f
-    - name: Doris.
-      gender: f
+      - name: Cloe.
+        gender: f
+      - name: Phillis.
+        gender: f
+      - name: Doris.
+        gender: f
     role: "Drei Schäferinnen, als:"
   - name: Margaris.
     role: "Eine junge und unschuldige Schäferinn, als:"
@@ -30665,10 +30665,10 @@ cast:
     role: ein prahlerischer Schäfer.
     gender: m
   - group:
-    - name: Lalage,
-      gender: f
-    - name: Lesbie,
-      gender: f
+      - name: Lalage,
+        gender: f
+      - name: Lesbie,
+        gender: f
     role: Schäferinnen.
 ---
 slug: uhlich-der-schiffbruch-oder-crispins-leichen-begaengniss
@@ -30824,15 +30824,15 @@ cast:
     role: der Götter Mundschenke.
     gender: m
   - group:
-    - name: Verschiedene männliche und weibliche Gottheiten.
-      isGroup: true
-      gender: u
-    - name: Das Gefolge der Götter.
-      isGroup: true
-      gender: u
-    - name: Die Aufwärter bey dem Hochzeitmahle.
-      isGroup: true
-      gender: u
+      - name: Verschiedene männliche und weibliche Gottheiten.
+        isGroup: true
+        gender: u
+      - name: Das Gefolge der Götter.
+        isGroup: true
+        gender: u
+      - name: Die Aufwärter bey dem Hochzeitmahle.
+        isGroup: true
+        gender: u
     role: Welche aber stumm sind.
 setting: >-
   Das Theater stellet einen durchaus mit aller Pracht ausgezierten Hochzeitsaal
@@ -31292,12 +31292,12 @@ cast:
   - name: Herr von Rosenthal.
     gender: m
   - group:
-    - name: Johann,
-      role: Diener
-      gender: m
-    - name: Anna,
-      role: Dienerinn
-      gender: f
+      - name: Johann,
+        role: Diener
+        gender: m
+      - name: Anna,
+        role: Dienerinn
+        gender: f
     role: vom Hause.
 setting: >-
   Die Handlung geht vor im Hause des Thürmer. Die Bühne ist ein niedlich
@@ -31326,10 +31326,10 @@ cast:
     role: seine Frau.
     gender: f
   - group:
-    - name: Sophie,
-      gender: f
-    - name: Fritz,
-      gender: m
+      - name: Sophie,
+        gender: f
+      - name: Fritz,
+        gender: m
     role: ihre Kinder.
   - name: Anton Glückspiel,
     role: ein blinder Kaufmann.
@@ -31365,20 +31365,20 @@ cast:
     role: seine Schwester.
     gender: f
   - group:
-    - name: Lotchen,
-      gender: f
-    - name: Adam,
-      gender: m
-    - name: Fritz,
-      gender: m
-    - name: Erast,
-      gender: m
+      - name: Lotchen,
+        gender: f
+      - name: Adam,
+        gender: m
+      - name: Fritz,
+        gender: m
+      - name: Erast,
+        gender: m
     role: seine Kinder.
   - group:
-    - name: Schwerthau,
-      gender: m
-    - name: Schönfeld,
-      gender: m
+      - name: Schwerthau,
+        gender: m
+      - name: Schönfeld,
+        gender: m
     role: Hofmeister.
   - name: Kätchen,
     role: Kammerjungfer der Emilie.
@@ -31426,10 +31426,10 @@ cast:
     role: seine Frau.
     gender: f
   - group:
-    - name: Lottchen,
-      gender: f
-    - name: Fritz,
-      gender: m
+      - name: Lottchen,
+        gender: f
+      - name: Fritz,
+        gender: m
     role: ihre Kinder.
   - name: Thomas,
     role: Kerkermeister.
@@ -31462,30 +31462,30 @@ editions:
     url: https://books.google.com/books?id=0LpTAAAAcAAJ&printsec=frontcover
 cast:
   - group:
-    - name: Herr von Rechtlieb.
-      gender: m
-    - name: Sophie,
-      role: seine Tocher.
-      gender: f
-    - name: Herr von Schönheim,
-      role: ihr Gatte,
-      gender: m
-    - name: Eduard,
-      role: ihr Bruder,
-      gender: m
+      - name: Herr von Rechtlieb.
+        gender: m
+      - name: Sophie,
+        role: seine Tocher.
+        gender: f
+      - name: Herr von Schönheim,
+        role: ihr Gatte,
+        gender: m
+      - name: Eduard,
+        role: ihr Bruder,
+        gender: m
     role: Reisende.
   - name: Löwenzahn,
     role: der Räuberhauptmann.
     gender: m
   - group:
-    - name: Bärenschütz,
-      gender: m
-    - name: Listreich,
-      gender: m
-    - name: Stierhorn,
-      gender: m
-    - name: Tygerschlau,
-      gender: m
+      - name: Bärenschütz,
+        gender: m
+      - name: Listreich,
+        gender: m
+      - name: Stierhorn,
+        gender: m
+      - name: Tygerschlau,
+        gender: m
     role: die ersten der Räuber.
   - name: Agnes,
     role: eine Ausspäherinn.
@@ -32047,10 +32047,10 @@ cast:
   - name: Der Graf.
     gender: m
   - group:
-    - name: August,
-      gender: m
-    - name: Franz,
-      gender: m
+      - name: August,
+        gender: m
+      - name: Franz,
+        gender: m
     role: seine Söhne.
   - name: Albertine,
     role: seine Tochter.
@@ -32326,10 +32326,10 @@ cast:
     role: ein Officier.
     gender: m
   - group:
-    - name: Müller
-      gender: m
-    - name: Wirth
-      gender: m
+      - name: Müller
+        gender: m
+      - name: Wirth
+        gender: m
     role: zween Soldaten.
   - name: Wilibald,
     role: ein Schulmeister.
