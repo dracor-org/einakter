@@ -40,6 +40,7 @@ export default function Details () {
     premiered,
     printed,
     setting,
+    location,
     basedOn,
   } = play;
 
@@ -140,6 +141,16 @@ export default function Details () {
             <tr>
               <th>Setting</th>
               <td>{setting}</td>
+            </tr>
+          )}
+          {location?.wikidataId && (
+            <tr>
+              <th>Location</th>
+              <td>
+                <a href={`https://www.wikidata.org/wiki/${location.wikidataId}`}>
+                  {location.wikidataId}
+                </a>
+              </td>
             </tr>
           )}
           {basedOn && (
