@@ -28,6 +28,12 @@ export interface Coords {
   latitude: number
 }
 
+export interface Dict {
+  name: string
+  pages?: string
+  url?: string
+}
+
 export interface Play {
   author?: Author
   authors?: Author[]
@@ -39,13 +45,7 @@ export interface Play {
   comments?: string[]
   created?: number
   editions?: Edition[]
-  dictionaries?: {
-    bibliographia?: string
-    corvey?: string
-    dramenlexikon?: string
-    iffland?: string
-    kotzebue?: string
-  }
+  dictionaries?: Dict[]
   formalia?: string[]
   ids?: {
     dracor?: string

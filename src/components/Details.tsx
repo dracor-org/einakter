@@ -4,6 +4,7 @@ import {Table} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
+import Dictionaries from './Dictionaries';
 import Years from './Years';
 import {CastMember, Play} from '../types';
 import data from '../data.json';
@@ -171,61 +172,7 @@ export default function Details () {
             <tr>
               <th>Dictionaries</th>
               <td>
-                <ul>
-                  {dictionaries.bibliographia && (
-                    <li>
-                      <a href="https://www.degruyter.com/view/mvw/BDD-B">
-                        Bibliographia dramatica et dramaticorum
-                      </a>
-                      {'. '}
-                      {dictionaries.bibliographia}
-                    </li>
-                  )}
-                  {dictionaries.corvey && (
-                    <li>
-                      <a href="https://nbn-resolving.de/urn:nbn:de:bvb:12-bsb00040797-1">
-                        Die Dramen der Fürstlichen Bibliothek Corvey, 1805–1832
-                      </a>
-                      {' '}
-                      (2000).
-                      {' '}
-                      {dictionaries.corvey}
-                    </li>
-                  )}
-                  {dictionaries.dramenlexikon && (
-                    <li>
-                      <a href="https://de.wikipedia.org/wiki/Dramenlexikon_des_18._Jahrhunderts">
-                        Dramenlexikon des 18. Jahrhunderts
-                      </a>
-                      {' '}
-                      (2001).
-                      {' '}
-                      {dictionaries.dramenlexikon}
-                    </li>
-                  )}
-                  {dictionaries.iffland && (
-                    <li>
-                      <a href="http://d-nb.info/992367107">
-                        Ifflands Dramen – Ein Lexikon
-                      </a>
-                      {' '}
-                      (2009).
-                      {' '}
-                      {dictionaries.iffland}
-                    </li>
-                  )}
-                  {dictionaries.kotzebue && (
-                    <li>
-                      <a href="https://de.wikipedia.org/wiki/Kotzebues_Dramen_–_Ein_Lexikon">
-                        Kotzebues Dramen – Ein Lexikon
-                      </a>
-                      {' '}
-                      (2011).
-                      {' '}
-                      {dictionaries.kotzebue}
-                    </li>
-                  )}
-                </ul>
+                <Dictionaries dictionaries={dictionaries}/>
               </td>
             </tr>
           )}
