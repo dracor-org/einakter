@@ -1877,6 +1877,56 @@ cast:
     role: reißende Studenten.
 setting: Der Schauplatz präsentirt eine Schuster-Werckstadt.
 ---
+slug: anonym-der-gerettete-selbstmoerder
+author:
+  pseudonym: Anonym
+title: Der Gerettete Selbstmörder
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1783
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 364
+editions:
+  - title: "Dessau und Leipzig: Buchhandlung der Gelehrten 1783"
+    url: https://books.google.com/books?id=k1JZAAAAcAAJ&printsec=frontcover
+keywords:
+  - Umweltkatastrophe
+  - Gott
+  - Suizid
+  - Armut
+  - Geld
+cast:
+  - name: Jacob Tomms,
+    role: ein Gärtner.
+    gender: m
+  - name: Mariane,
+    role: seine Frau.
+    gender: f
+  - group:
+      - name: Görgen,
+        role: ein Knabe von 8. Jahren.
+        gender: m
+      - name: Lisgen,
+        role: ein Mädchen von 10. Jahren.
+        gender: f
+    role: Ihre Kinder.
+  - name: Herr Reichard,
+    role: Jacobs Lehnherr.
+    gender: m
+  - name: Herr Woller,
+    role: Pfarrer im Dorfe.
+    gender: m
+  - name: Thomsen,
+    role: des Pfarrers ältester Sohn.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Scene ist eine ländliche Gegend. Im Hintergrunde Jacobs Strohhütte – Davor eine Rasenbank und ein Kirschbaum: Am Dache hängt eine Leiter.
+---
 slug: anonym-der-getreue-verraether
 author:
   pseudonym: Anonym
@@ -11370,6 +11420,37 @@ cast:
     gender: m
 setting: >-
   Garten. Im Hintergrunde ein offen stehendes Gitterthor, links dichtes Gebüsch, rechts eine Laube, deren Inneres vom Zuschauer gesehen wird, im Vorgrunde eine große Linde. Statuen rings umher. In einiger Entfernung gewahrt man einen Theil der Burg. – Aus dem Gebüsche werden Lautenklänge gehört.
+---
+slug: deinhardstein-ehestands-qualen
+author:
+  name: Deinhardstein, Johann Ludwig
+  wikidata: Q1695335
+title: Ehestands-Qualen
+subtitle: Lustspiel in einem Acte und in Alexandrinern
+numberOfScenes: 17
+printed: 1833
+premiered: 1820-08-28
+formalia:
+  - Alexandriner
+editions:
+  - title: "Wien: Armbruster 1833"
+    url: https://books.google.com/books?id=nTViAAAAcAAJ&printsec=frontcover
+keywords:
+  - Liebesprobe
+cast:
+  - name: Der Baron.
+    gender: m
+  - name: Die Baroninn.
+    gender: f
+  - name: Sophie von Minden.
+    gender: f
+  - name: Fürchtegott von Stahl.
+    gender: m
+  - name: Veit,
+    role: Gärtner des Barons.
+    gender: m
+setting: >-
+  Im Garten des Barons. Rechts ein Pavillion, dessen niedere Fenster an der Vorderseite vom Zuschauer gesehen werden. Links eine Rasenbank.
 ---
 slug: deinhardstein-florette
 author:
@@ -27417,6 +27498,50 @@ cast:
     role: ein Bedienter.
     gender: m
 setting: Szene auf von Dahlens Landgute. (von Dahlens Wohnzimmer.)
+---
+slug: schink-die-komoedienprobe-oder-der-impressar-in-tausend-aengsten
+author:
+  name: Schink, Johann Friedrich
+  wikidata: Q15873118
+title: Die Komödienprobe, oder der Impressar in tausend Aengsten
+subtitle: Eine Gelegenheitsposse in einem Aufzuge
+numberOfScenes: 23
+printed: 1783
+premiered: 1783-01-09
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 460–461
+editions:
+  - title: "Wien 1783"
+cast:
+  - name: Der Impressar.
+    gender: m
+  - group:
+      - name: Mamsell Ha.
+        gender: f
+      - name: Mamsell Oh.
+        gender: f
+      - name: Mamsell Ach.
+        gender: f
+    role: Tragische Aktrisen.
+  - name: Schnaps,
+    role: ein Akteur für die ersten Liebhaber.
+    gender: m
+  - name: Edler von Dumm,
+    role: ein Poet.
+    gender: m
+  - name: Die kleine Post.
+    gender: u
+  - name: Ein Barbier.
+    gender: m
+  - name: Der Theatermeister.
+    gender: m
+  - name: Der Theaterschneider.
+    gender: m
+setting: >-
+  Scene: das Theater unbeleuchtet, wie es auf den Proben gewöhnlich ist.
 ---
 slug: schink-die-schriftstellerin
 author:
