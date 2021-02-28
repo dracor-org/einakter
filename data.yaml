@@ -228,7 +228,8 @@ setting: >-
   reinliches Zimmer, mittelmäßig meublirt, Robert sitzt auf einen Lehnstuhl,
   sein Tochterkind spielt zwischen seinen Füßen, und Jeny arbeitet beym Tische
   an einer Manschette.
-
+location:
+  wikidataId: Q84
 ---
 slug: alexis-die-sonette
 author:
@@ -460,6 +461,8 @@ cast:
     isGroup: true
     gender: u
 setting: Die Scene ist zu Bagdad.
+location:
+  wikidataId: Q1530
 ---
 slug: andre-faber-der-nebenbuhler-seines-herrn
 authors:
@@ -829,6 +832,8 @@ cast:
 setting: >-
   Die Bühne zeigt während den drey ersten Auftritten eine schöne ländliche
   Gegend, die am Fusse des Parnaßus supponiret wird: und dann den Parnaßus.
+location:
+  wikidataId: Q105261
 ---
 slug: anonym-charlotte-oder-die-besiegte-sproede
 author:
@@ -925,6 +930,8 @@ cast:
     isGroup: true
     gender: u
 setting: Der Schauplaz ist zu Andresy.
+location:
+  wikidataId: Q1419026
 ---
 slug: anonym-das-armenhaus
 author:
@@ -1345,6 +1352,8 @@ cast:
     role: Herrn Bernhards Farbenreiber.
     gender: m
 setting: Die Handlung geht in Paris vor.
+location:
+  wikidataId: Q90
 ---
 slug: anonym-das-portrait-1779
 author:
@@ -1416,6 +1425,8 @@ cast:
 setting: >-
   Der Schauplatz stellt das Gefilde in dem Gebürge in der Nachbarschaft von
   Troja vor.
+location:
+  wikidataId: Q22647
 ---
 slug: anonym-das-verlorene-laemmchen
 author:
@@ -1643,6 +1654,8 @@ cast:
 setting: >-
   Der Schauplatz ist zu Constantinopel vor des Kadi Behausung. Die Begebenheit
   ist in der Demmerung, und dauret so lange als das Nachspiel.
+location:
+  wikidataId: Q16869
 ---
 slug: anonym-der-dervisch
 author:
@@ -2200,6 +2213,8 @@ cast:
     role: Lucindens Kammer-Mädchen.
     gender: f
 setting: Der Schauplatz ist zu Paris, in der Lucinde Hause.
+location:
+  wikidataId: Q90
 ---
 slug: anonym-der-menschenfreund-oder-der-freund-der-ganzen-welt
 author:
@@ -2257,6 +2272,8 @@ cast:
     isGroup: true
     gender: u
 setting: Der Schauplatz ist zu Paris in Philanders Hause.
+location:
+  wikidataId: Q90
 ---
 slug: anonym-der-neidische-oder-critic-ueber-den-verheyratheten-philosophen
 author:
@@ -2689,7 +2706,7 @@ cast:
   - name: Gefolge des Fürsten.
     isGroup: true
     gender: u
-setting: Die Handlung geht vor, auf einem Landguthe des Fürsten
+setting: Die Handlung geht vor, auf einem Landguthe des Fürsten.
 ---
 slug: anonym-der-sudelkoch-oder-peter-krapfel
 author:
@@ -2814,6 +2831,8 @@ cast:
     gender: f
 setting: Der Schauplatz ist auf einem Schlosse des Don Felix, fünf Meilen von
     Saragossa.
+location:
+  wikidataId: Q10305
 ---
 slug: anonym-der-von-der-liebe-betrogene-philosoph
 author:
@@ -3076,6 +3095,8 @@ cast:
     role: Williams Bedienter.
     gender: m
 setting: Die Handlung ist in Basra.
+location:
+  wikidataId: Q48195
 ---
 slug: anonym-die-heyrath-ohne-liebe
 author:
@@ -3237,6 +3258,8 @@ cast:
     role: Valers Bedienter.
     gender: m
 setting: Der Schauplatz ist in Paris.
+location:
+  wikidataId: Q90
 ---
 slug: anonym-die-einigen-zaenker
 author:
@@ -3302,6 +3325,8 @@ cast:
     role: der Clarisse Mädchen.
     gender: f
 setting: Die Schaubühne ist zu Autevil.
+location:
+  wikidataId: Q18199480
 ---
 slug: anonym-die-familie
 author:
@@ -3514,6 +3539,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist in Charlestown, einer englischen Kolonie in West-Indien.
+location:
+  wikidataId: Q992311
 ---
 slug: anonym-die-junge-indianerinn
 author:
@@ -3552,6 +3579,8 @@ cast:
     role: Mowbray's Diener.
     gender: m
 setting: Die Handlung ist in einem Gasthofe, in Charlestown, in Amerika.
+location:
+  wikidataId: Q992311
 ---
 slug: anonym-die-klatschen
 author:
@@ -4952,6 +4981,8 @@ cast:
   - name: Jacob.
     gender: m
 setting: Der Schauplatz ist bey einem Buchladen in Paris.
+location:
+  wikidataId: Q90
 ---
 slug: anonym-emilie-oder-die-philosophisch-verliebten
 author:
@@ -5159,6 +5190,8 @@ cast:
 setting: >-
   Der Schauplatz ist in dem Saale eines Landhauses des Herrn Durval, welches
   sehr nahe an Versailles ist.
+location:
+  wikidataId: Q621
 ---
 slug: anonym-krispin-der-geplagte-lehenbediente
 author:
@@ -5304,6 +5337,8 @@ cast:
   - name: Cathrine.
     gender: f
 setting: Der Schauplatz ist in einem Dorfe, ohnweit Paris.
+location:
+  wikidataId: Q90
 ---
 slug: anonym-la-famille-extravagante-die-ausschweifende-familie
 author:
@@ -5429,6 +5464,8 @@ cast:
     role: ein englischer Kaufmann, Elianten versprochen.
     gender: m
 setting: Der Schauplatz ist in einem vornehmen Gasthofe in London.
+location:
+  wikidataId: Q84
 ---
 slug: anonym-le-babillard-der-schwaetzer
 author:
@@ -5762,6 +5799,8 @@ cast:
 setting: >-
   Der Schauplatz ist in einem französischen Grenzstädtchen ohnweit
   Kaiserslautern.
+location:
+  wikidataId: Q3758
 ---
 slug: anonym-warte-ein-bisschen-du-kannst-lange-warten
 author:
@@ -5864,6 +5903,8 @@ cast:
     isGroup: true
     gender: m
 setting: Die Scene ist in Barbados.
+location:
+  wikidataId: Q244
 ---
 slug: anonym-zeneide
 author:
@@ -6230,6 +6271,8 @@ setting: >-
   baldachinartig gefaltete Vorhänge verhüllte Bildsäule. Rechts unter Bäumen ein
   Sessel auf einem Steine. Ein blankes Schwert ist vor demselben in den Boden
   gesteckt.)
+location:
+  wikidataId: Q225909
 ---
 slug: baermann-der-oberrock
 author:
@@ -6269,6 +6312,8 @@ setting: >-
   Der Schauplatz zeigt einen Saal mit mehreren numerirten Ausgängen im Gasthofe
   »zur Krone« in der Stadt Birmingham. – Das Stück spielt von Abends zehn Uhr
   bis Mitternacht.
+location:
+  wikidataId: Q2256
 ---
 slug: baermann-die-hoehle-auf-lampedusa
 author:
@@ -6311,6 +6356,8 @@ cast:
 setting: >-
   Die Scene ist auf der unbewohnten Insel Lampedusa, südlich von Malta. – Die
   Handlung beginnt spät Abends und endigt mit Tagesanbruch.
+location:
+  wikidataId: Q107338
 ---
 slug: baermann-einer-fuer-drei
 author:
@@ -6727,6 +6774,8 @@ cast:
     isGroup: true
     gender: u
 setting: "Handlung: zu Stockholm, im Palais des Grafen Piper, im Jahre 1701."
+location:
+  wikidataId: Q1754
 ---
 slug: benedix-der-prozess
 author:
@@ -7176,6 +7225,8 @@ setting: >-
   Ort der Handlung: Leipzig. Zeit der Handlung: 1765. (Gellerts Studirzimmer mit
   einem Großvaterstuhl, worauf Schlafrock und Nachtmütze befindlich. Es ist
   Abend.)
+location:
+  wikidataId: Q2079
 ---
 slug: bertram-der-mondsuechtige-oder-er-verliehrt-seine-braut-im-schlaf
 author:
@@ -7549,6 +7600,8 @@ cast:
         gender: m
     role: Delmar's Diener.
 setting: "Schauplatz: Wien, im Hause Delmar's."
+location:
+  wikidataId: Q1741
 ---
 slug: bielfeld-der-ehestand
 author:
@@ -7662,6 +7715,8 @@ cast:
     isGroup: true
     gender: u
 setting: Der Schauplatz ist zu Meßina.
+location:
+  wikidataId: Q13666
 ---
 slug: bierling-die-erzwungene-heirath
 author:
@@ -7764,6 +7819,8 @@ setting: >-
   Im Vordergrunde, links vom Zuschauer, ein großer Haufen Ankertaue und Stricke;
   dicht daneben einige Balken, Sägen und ein Häufchen Holzabfall. –
   Morgendämmerung.)
+location:
+  wikidataId: Q656
 ---
 slug: bischoff-der-judenfeind
 author:
@@ -7928,6 +7985,8 @@ cast:
 setting: >-
   Das Stück spielt in Paris. Schauplatz: ein kleines Zimmer mit schlechten
   Meubeln. Auf einem Schreibpult stehen einige Büsten.
+location:
+  wikidataId: Q90
 ---
 slug: bluemner-die-spanische-wand
 author:
@@ -7964,6 +8023,8 @@ cast:
 setting: >-
   Das Stück spielt in Madrid. Schauplatz: ein Vorsaal, der zum Kabinet des
   Prinzen führt. Rechts eine Seitenthüre, links eine spanische Wand.
+location:
+  wikidataId: Q2807
 ---
 slug: bluemner-eitle-muehe-der-verliebten
 author:
@@ -8000,6 +8061,8 @@ setting: >-
   Hintergrunde, und einer in der zweiten Kulisse, dem Zuschauer zur rechten.
   Links eine Wand; rechts, im Vordergrunde, steht ein Tisch mit Schreibzeug.
   Im Hintergrunde, auf einem Tische, liegt eine Guitarre.
+location:
+  wikidataId: Q90
 ---
 slug: bluemner-hass-den-frauen
 author:
@@ -8195,6 +8258,8 @@ cast:
   - name: Der Prokurator.
     gender: m
 setting: Der Schauplatz ist zu Wien im Hause von Jürgens verstorbner Schwester.
+location:
+  wikidataId: Q1741
 ---
 slug: bock-der-bettler
 author:
@@ -8441,6 +8506,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist in dem Eichwalde Mamre, vor Jacobs Gezelte, wo eine cederne Ruhebank ist, und gegen über ein Altar von Marmor.
+location:
+  wikidataId: Q2143048
 ---
 slug: boecklin-von-boecklinsau-der-pedant
 author:
@@ -8675,6 +8742,8 @@ cast:
     gender: m
 setting: >-
   Die Zeit der Begebenheit fällt in die letzten Jahre der Regierung Pauls des Ersten. (Zimmer der Fedora in Strelna, einem Dorfe ohnweit Petersburg.)
+location:
+  wikidataId: Q656
 ---
 slug: brahm-der-sklavenhaendler-von-smyrna
 author:
@@ -8734,6 +8803,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist zu Smyrna in einem gemeinschaftlichen Garten des Hassan und Kaled, deren beyde Häuser die Aussicht auf das Meer haben.
+location:
+  wikidataId: Q1379299
 ---
 slug: brahm-der-ungegruendete-verdacht
 author:
@@ -9258,6 +9329,8 @@ cast:
     gender: m
 setting: >-
   Die Scene ist in Amsterdam, anfangs im goldnen Schwan, hernach freier Platz am Hafen.
+location:
+  wikidataId: Q727
 ---
 slug: buerger-die-ueberraschung
 author:
@@ -9749,6 +9822,8 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht in Straßburg in einem großen Gasthofe vor. (Das Theater stellt einen Saal in einem Gasthofe vor, welcher zwei Seitenthüren, die mit den Nummern 17. und 18. bezeichnet sind, und zwei Thüren im Hintergrunde hat.)
+location:
+  wikidataId: Q6602
 ---
 slug: castelli-die-junge-tante
 author:
@@ -9982,6 +10057,8 @@ cast:
     gender: u
 setting: >-
   Die Scene ist in London, im Hotel der Tänzerinn. (Die Bühne stellt ein sehr elegantes Boudoir, mit einer Mittel- und zwey Seitenthüren, vor. Jene zur Rechten führt in Georginas Zimmer. Auf derselben Seite im Vordergrunde ein Canapee. Auf der andern Seite ein Pianoforte, worauf Musikalien und Kupferstiche liegen. Weiter vorne ein Tisch mit Schreibgeräthe. Zwey hohe Fenster auf beiden Seiten der Mittelthüre.)
+location:
+  wikidataId: Q84
 ---
 slug: castelli-die-tauben
 author:
@@ -10034,6 +10111,8 @@ cast:
     gender: u
 setting: >-
   Die Scene ist in den Gebirgen von Alen-Tejo. (Die Bühne stellt einen eingezäunten Platz vor. Im Hintergrunde zur Linken ist ein Loch im Zaun. Zur Rechten der Ausgang. Im Hintergrunde ein Felsen, welcher die ganze Bühne beherrscht. – Weiter vorne ein reichverzierter großer Taubenschlag mit verschiedenen Gattungen von Tauben.)
+location:
+  wikidataId: Q26824
 ---
 slug: castelli-domesticken-streiche
 author:
@@ -10220,6 +10299,8 @@ cast:
     gender: f
 setting: >-
   Die Scene ist in Sansonnets Gasthofe zu St. Germain en-Lay. (Die Bühne stellt einen Saal vor.)
+location:
+  wikidataId: Q60847808
 ---
 slug: castelli-ueberspanntheit-oder-die-entsetzliche-literatur
 author:
@@ -10288,6 +10369,8 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht nahe bey Paris, in dem Thale Montmorency vor. (Die Bühne stellt das Innere eines schönen gezierten Gartens vor. Dem Zuseher zur Linken ist der Eingang zu einem Pavillon. Auf der nämlichen Seite weiter vorne steht die Statue des Amors, in einer Hand hält er Blumen, in der andern Dornen und Pfeile; auf dem Pedestal liest man die Inschrift: Mit der einen Hand liebkoset, mit der andern verwundet er uns. Auf der andern Seite der Bühne, gegenüber vom Pavillon, ist eine Bosquet bey dessen Eingang eine Gruppe von Figuren steht, welche den Samson vorstellt, wie er im Schooße der Delila schläft, und diese ihm die Haare abschneidet. Unten liest man die Aufschrift: Vertrauen verrathen durch Liebe. Gesträuche und Blumengeschirre sind hin und wieder vertheilt. In der Mitte der Bühne stehen zwey große Gießkannen und ein Rechen. Im Hintergrunde ist der Garten durch eine Mauer, welche oben mit einer Treillage besetzt ist, geschlossen. In der Mitte dieser Mauer ist eine kleine grüne Thüre sichtbar, welche ins Freye führt. Außer der Mauer sieht man von einer Seite Landschaft, von der andern Seite einen Theil des Landhauses, zu welchem dieser Garten gehört.)
+location:
+  wikidataId: Q316891
 ---
 slug: castelli-raphael
 author:
@@ -10315,6 +10398,8 @@ cast:
     gender: f
 setting: >-
   Die Scene ist das Palais des Fürsten, das kleine Farnese genannt. (Die Bühne stellt das Attelier eines Mahlers vor.)
+location:
+  wikidataId: Q1126723
 ---
 slug: castelli-uniform-und-schlafrock
 author:
@@ -10395,6 +10480,8 @@ cast:
     gender: m
 setting: >-
   Die Scene ist zu Marseille. (Die Bühne stellt einen niederen Salon vor, welcher ein Comptoir bildet, rückwärts offen ist, und den Hafen erblicken läßt. Zur Rechten des Zusehers eine Thür, welche in das Innere des Hauses führt; zur Linken die allgemeine Eingangsthür. Rechts ein Schreibtisch, links ein Schirm. Eine Wanduhr ober dem Kamin, welcher sich an der Seite des Schreibtisches befindet. Von außen mehrere Tonnen und Ballen, welche zum Einschiffen bereit stehen.)
+location:
+  wikidataId: Q23482
 ---
 slug: castelli-zwey-jahre-nach-der-hochzeit-oder-an-wem-ist-die-schuld
 author:
@@ -10801,6 +10888,8 @@ cast:
     gender: m
 setting: >-
   Das Stück spielt auf dem Landgute des Herrn Gobert, in der Nähe von Senlis. (Das Theater stellt das Innere eines Pavillons dar, die Eingangsthür im Hintergrunde; links eine Seitenthür, auf derselben Seite ein Sopha; rechts ein Fenster, im Hintergrunde, von jeder Seite der Thür, ein Bücherspinde, Stühle, Tische u.s.w.)
+location:
+  wikidataId: Q126668
 ---
 slug: cosmar-der-meuchelmoerder-oder-der-fluch-der-boesen-that
 author:
@@ -10897,6 +10986,8 @@ cast:
     gender: u
 setting: >-
   Die Scene spielt in dem piemontesischen Dorfe San-Giuliano. Zeit der Handlung das Jahr 1800. (Freier Platz im Dorfe San-Giuliano. Zur Rechten Mikéli's Wirthshaus, zur Linken eine Schmiede mit einem Schilde, worauf zu lesen: »Carmagnole, Hufschmidt.« In der Mitte der Bühne ein grosser Baum. Im Hintergrunde ein Bach, über welchen eine hölzerne Brücke führt.)
+location:
+  wikidataId: Q3947324
 ---
 slug: cosmar-hummer-und-compagnie
 author:
@@ -10930,6 +11021,8 @@ cast:
     gender: m
 setting: >-
   Scene: Berlin. (Anständig meublirtes Zimmer im Silber'schen Hause, mit einer Haupt- und zwei Seitenthüren. Zur Rechten im Vorgrunde ein Tisch mit Schreibmaterialien.)
+location:
+  wikidataId: Q64
 ---
 slug: costenoble-der-unschuld-sieg
 author:
@@ -11310,6 +11403,8 @@ cast:
     gender: f
 setting: >-
   Die Handlung spielt in Nerac, einem kleinen Städtchen in der Provence. (Garten. Rechts eine Rasenbank. Im Hintergrunde ein breites Gitterthor, hinter welchem ein Bach gesehen wird.)
+location:
+  wikidataId: Q210769
 ---
 slug: deinhardstein-maedchenlist
 author:
@@ -12255,6 +12350,8 @@ cast:
     gender: m
 setting: >-
   Ort: Paris, im Hause des Delaroche. (Zimmer, hinter dem Laden eines Seidenwaaren-Magazins. Mittelthür; Rechts, in der Ecke, ein Schreib- und Zahltisch, daneben eine Cabinetsthür. Einige Ballen und Packete liegen umher. Im Vordergrunde links ein Tisch, Stühle.)
+location:
+  wikidataId: Q90
 ---
 slug: faber-die-drey-brueder-als-nebenbuhler
 author:
@@ -12592,6 +12689,8 @@ cast:
     gender: m
 setting: >-
   Scene: in Berlin. Vorsaal im zweiten Stock; zwei Seitenthüren, zu anstoßenden Zimmern führend; im Hintergrunde die Treppe.
+location:
+  wikidataId: Q64
 ---
 slug: gebler-das-bindband-oder-die-fuenf-theresen
 author:
@@ -13512,6 +13611,8 @@ cast:
     gender: u
 setting: >-
   Kolchis. Wilde Gegend mit Felsen und Bäumen, im Hintergrunde das Meer. Am Gestade desselben ein Altar von unbehauenen Steinen zusammengesetzt, auf dem die kolossale Bildsäule eines nackten, bärtigen Mannes steht, der in seiner Rechten eine Keule, um die Schultern ein goldenes Widderfell trägt. Links an den Scenen des Mittelgrundes der Eingang eines Hauses mit Stufen und rohen Säulen. Tagesanbruch.
+location:
+  wikidataId: Q183150
 ---
 slug: grossmann-pygmalion
 author:
@@ -13591,11 +13692,12 @@ cast:
     gender: u
 setting: >-
   Ort: Augsburg. Zeit: 1527.
-
   Der Hof am Hause Brendels. (Der Hof am Hause Brendels mit einem Zaun im
   Hintergrunde. An einer Seite das Haus von der Hofseite, an der andern die
   offene Werkstatt Brendels mit mehreren Fässern. Eines, von bedeutender Größe,
   steht im Vorgrunde, der Deckel, der noch aufzulegen ist, liegt danebn.)
+location:
+  wikidataId: Q2749
 ---
 slug: guttenberg-das-miniatur-gemaelde
 author:
@@ -13886,6 +13988,8 @@ cast:
   - name: Der Wirth zur Traube.
     gender: m
 setting: Die Handlung spielt in Nürnberg.
+location:
+  wikidataId: Q2090
 ---
 slug: halirsch-schwaermer-sansfacon-und-gleichgueltiger
 author:
@@ -14114,6 +14218,8 @@ cast:
     gender: u
 setting: >-
   Das Stück spielt in Frankreich, in einer Provinzial-Stadt, ohnweit Paris.
+location:
+  wikidataId: Q90
 ---
 slug: hartmann-die-dankbare-tochter-oder-die-einquartirung
 author:
@@ -14299,6 +14405,8 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht auf Voré, dem Gute des Helvetius vor, und fällt in das Jahr 1758. Ein reichgeschmückter Salon. Die Meubles reich vergoldet, aber ja nicht modern; alles muß den Stempel der Zeit Ludwigs XV. tragen.
+location:
+  wikidataId: Q20127504
 ---
 slug: heigel-ossuna
 author:
@@ -14344,6 +14452,8 @@ cast:
     gender: u
 setting: >-
   Zeit der Handlung: 1618, während der spanischen Herrschaft in Neapel, unter Philipp III. Ort: Der königliche Palast in Neapel.
+location:
+  wikidataId: Q426339
 ---
 slug: heigel-sobiesky-koenig-von-polen
 author:
@@ -14395,6 +14505,8 @@ cast:
     gender: m
 setting: >-
   Zeit der Handlung: 11te September 1683. Ort: Meierei am Abhange des Kahlenberg's, nächst Wien, (jetzt Kahlenberger-Dörfel.)
+location:
+  wikidataId: Q1721184
 ---
 slug: hell-der-schwatzt-ohn-ende
 author:
@@ -14547,6 +14659,8 @@ cast:
     gender: m
 setting: >-
   Die Scene spielt vor einem der Thore Londons, ohnweit des Narrenhauses, Bedlam genannt.
+location:
+  wikidataId: Q831377
 ---
 slug: hempel-die-preussischen-winterquartiere-in-sachsen
 author:
@@ -14631,6 +14745,8 @@ cast:
   - name: Ein Trager von der Hauptmauth.
     gender: m
 setting: Die Handlung geht in Wien vor.
+location:
+  wikidataId: Q1741
 ---
 slug: hensler-lorenz-konau
 author:
@@ -14723,6 +14839,8 @@ cast:
     isGroup: true
     gender: u
 setting: Die Handlung geht in einem Gasthofe zu Wien vor.
+location:
+  wikidataId: Q1741
 ---
 slug: herzenskron-der-braeutigam-ohne-braut
 author:
@@ -14809,6 +14927,8 @@ cast:
     gender: m
 setting: >-
   Die Handlung spielt auf des Barons Landhaus, in der Nähe des neuen Narrenhauses, vor den Thoren von London.
+location:
+  wikidataId: Q831377
 ---
 slug: heufeld-die-tochter-des-bruders-philipps
 author:
@@ -15147,6 +15267,8 @@ cast:
     gender: f
 setting: >-
   Ort der Handlung: Wien. (Elegantes Zimmer. Links an einem Fenster steht ein sehr modern gekleidet und frisirtes Brustbild mit wächsernem Gesichte, wie sie in den Ausstellkasten der Modehandlungen üblich sind. Im Hintergrund eine Mittelthür, und auf beiden Seiten Glaskasten mit Kleidern und modernen Kopfzeugen. In der Ecke rechts ein hoher Perückenstock mit einer Haarbeutel-Perücke, und ein kleinerer mit einer blonden Damen-Tour. In der Ecke links auf zwei Stöcken mittelmäßiger Höhe, eine moderne schwarze und braune Herrn-Perücke. Mehrere Stühle, Requisiten für Friseur- und Putzarbeiten liegen auf den Tischen.)
+location:
+  wikidataId: Q1741
 ---
 slug: holtei-der-dichter-im-versammlungszimmer-oder-das-fantastische-lustspiel
 author:
@@ -15757,6 +15879,8 @@ cast:
     gender: f
 setting: >-
   Die Scene ist zu Paris, in Durmonts Kabinet. Rechts von den Schauspielern ist eine kleine Thüre, in Form einer Bibliothek, angebracht.
+location:
+  wikidataId: Q90
 ---
 slug: iffland-die-nachbarschaft
 author:
@@ -15800,6 +15924,8 @@ cast:
   - name: Dürmonts Bedienter.
     gender: m
 setting: Die Handlung geht zu Auteuil bey Dürmont vor.
+location:
+  wikidataId: Q18199480
 ---
 slug: iffland-die-verbruederung
 author:
@@ -16481,6 +16607,8 @@ cast:
     gender: u
 setting: >-
   Die Handlung spielt in einem niederländischen Dorfe bei Utrecht. – Scene: Die Gerichtsstube.
+location:
+  wikidataId: Q803
 ---
 slug: klemm-alzimire
 author:
@@ -16816,6 +16944,8 @@ cast:
     isGroup: true
     gender: m
 setting: "Ort der Handlung: Das Selkethal im Harzgebirge. Zeit: Das Jahr 1623."
+location:
+  wikidataId: Q17127361
 ---
 slug: klingemann-die-wittwe-von-ephesus
 author:
@@ -16924,6 +17054,8 @@ cast:
     gender: m
 setting: >-
   Die Handlung spielt auf einem Landgute Webers, nahe bei Bremen. Es ist Morgen. Im Hintergrunde das Schloß mit dem Haupteingange. Zwei Seitenflügel, mit Fenstern und Thüren versehen, springen etwas vor. Bäume und exotisches Gesträuch umschließt das Ganze.
+location:
+  wikidataId: Q24879
 ---
 slug: koch-die-seiltaenzerinn
 author:
@@ -17341,6 +17473,8 @@ cast:
     role: von Voghera.
 setting: >-
   Die Handlung geht in Voghera am Abend nach der Schlacht von Montebello vor. (9. Juny 1800.) Eine einsame Straße in Voghera. Ein Haus mit Lauben, wo Thüre und Fenster verschlossen sind, macht den Hintergrund. Links ein Haus mit einer Stiege.
+location:
+  wikidataId: Q39981
 ---
 slug: komareck-johann-nepomuk-inkle-und-yariko
 author:
@@ -17762,6 +17896,8 @@ cast:
     gender: m
 setting: >-
   Die Scene ist ein Saal im Wirthshause zu Treuenbrietzen. – Das Stück spielt im siebenjährigen Kriege, gleich nach einer, durch die Preußen gewonnenen Schlacht.
+location:
+  wikidataId: Q625078
 ---
 slug: kotzebue-das-strandrecht
 author:
@@ -17840,6 +17976,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist in den Gebirgen von Alpujarras, ein enges, reitzendes Thal von einem Strom durchschnitten. Unter einem Felsenabhang erblickt man eine ländliche Hütte, an deren Wänden viele Büschel von Kräutern zum Trocknen aufgehängt sind. Daneben ein Rasenbett unter einem Kastanienbaume.
+location:
+  wikidataId: Q661868
 ---
 slug: kotzebue-das-unsichtbare-maedchen
 author:
@@ -18060,6 +18198,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist in Petersburg, in dem Stadttheil Wasili Ostrow, jenseits der Newa, vor dem Hause des Tischlers. Eine Bank unter einem Baum, und ein fester Tisch davor.
+location:
+  wikidataId: Q27600
 ---
 slug: kotzebue-der-arme-minnesinger
 author:
@@ -18111,6 +18251,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist in Thüringen, unweit einer Burg. Im Vorgrunde rechter Hand Ursula's Hütte, links ein schattiger Eichbaum. Das Stück spielt in der Mitte des fünften Jahrhunderts.
+location:
+  wikidataId: Q1205
 ---
 slug: kotzebue-der-arme-poet
 author:
@@ -18226,6 +18368,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist in einer kleinen Stadt, 20 Meilen von Berlin, ein Zimmer im Hause des Herrn von Guldenring.
+location:
+  wikidataId: Q64
 ---
 slug: kotzebue-der-fluch-eines-roemers
 author:
@@ -18786,6 +18930,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist auf einer Insel an der schottischen Küste. Ein Gartensaal zu dem Schlosse des Lord Derby gehörig. Im Hintergrunde Glasthüren, durch welche man in den Park blickt.
+location:
+  wikidataId: Q22
 ---
 slug: kotzebue-der-mann-von-vierzig-jahren
 author:
@@ -19231,6 +19377,8 @@ cast:
     gender: m
 setting: >-
   Die Scene ist in Potsdam der Platz, auf welchem die Journaliere, welche täglich von Berlin nach Potsdam fährt, anzuhalten pflegt.
+location:
+  wikidataId: Q1711
 ---
 slug: kotzebue-der-weibliche-jacobiner-clubb
 author:
@@ -19293,6 +19441,8 @@ cast:
     isGroup: true
     gender: u
 setting: Der Schauplatz ist in Paris in Duports Hause.
+location:
+  wikidataId: Q90
 ---
 slug: kotzebue-des-esels-schatten-oder-der-process-in-kraehwinkel
 author:
@@ -19526,6 +19676,8 @@ cast:
     role: eine Wittwe.
     gender: f
 setting: Die Scene ist auf der Messe zu Beaucaire. Der Schauplatz ein Zimmer.
+location:
+  wikidataId: Q211647
 ---
 slug: kotzebue-die-bestohlenen
 author:
@@ -19653,6 +19805,8 @@ cast:
     gender: m
 setting: >-
   Die Scene ist in der Schweitz auf der kleinen Insel Meinau im Constanzer See.
+location:
+  wikidataId: Q165401
 ---
 slug: kotzebue-die-erbschaft
 author:
@@ -19736,6 +19890,8 @@ cast:
     gender: m
 setting: >-
   Das Stück spielt in den Zeiten der Kreuzzüge. Der Schauplatz ist ein freier Platz unweit der Burg Hohenstein, links im Vorgrunde eine kleine Kapelle, im Hintergrunde eine Schmiede, in welcher man während der ersten Scene arbeiten sieht, deren Pforte aber dann zugethan wird.
+location:
+  wikidataId: Q1012443
 ---
 slug: kotzebue-die-gefaehrliche-nachbarschaft
 author:
@@ -20077,6 +20233,8 @@ cast:
     role: Quäker.
 setting: >-
   Das Stück spielt in der Zeit des amerikanischen Krieges. Der Schauplatz ist in Pensylvanien, unweit Philadelphia, im englischen Hauptquartiere, ein Zimmer des Generals, mit einem daran stoßenden Cabinette.
+location:
+  wikidataId: Q1345
 ---
 slug: kotzebue-die-respectable-gesellschaft
 author:
@@ -20294,8 +20452,7 @@ cast:
   - name: Pfifferling,
     role: Theater-Principal.
     gender: m
-setting: >-
-
+setting: Der Schauplatz auf dem Lande ein freier Platz an der Landstraße.
 ---
 slug: kotzebue-die-seeschlacht-und-die-meerkatze
 author:
@@ -20493,6 +20650,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist in Holland, auf dem Landgute Peter Falks, unweit dem Haag.
+location:
+  wikidataId: Q36600
 ---
 slug: kotzebue-die-uniform-des-feldmarschalls-wellington
 author:
@@ -20536,6 +20695,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist in einem Dorfe zwischen Bayonne und der spanischen Gränze, am Abend nach einem, im Jahr 1814 vorgefallnen, Gefecht; ein Saal im Wirthhause mit einem Kamin oder Feuerherd.
+location:
+  wikidataId: Q134674
 ---
 slug: kotzebue-die-vaeterliche-erwartung
 author:
@@ -20976,6 +21137,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist im Riesengebürge, auf einem wilden, romantischen Platze.
+location:
+  wikidataId: Q214644
 ---
 slug: kotzebue-u-a-w-g-oder-die-einladungskarte
 author:
@@ -21273,6 +21436,8 @@ cast:
     isGroup: true
     gender: m
 setting: Der Schauplatz ist ein Haus in der Festung Choczim.
+location:
+  wikidataId: Q141012
 ---
 slug: krauseneck-zama-oder-die-junge-marokkanerin
 author:
@@ -21316,6 +21481,8 @@ cast:
     gender: m
 setting: >-
   Die Scene macht ein Platz zu Marokko, um welchen schlechte Gebäude für Gefangene stehen.
+location:
+  wikidataId: Q1028
 ---
 slug: kretschmann-adonis
 author:
@@ -21589,6 +21756,8 @@ cast:
     isGroup: true
     gender: u
 setting: Die Handlung geschieht in der Nähe des Kärtnerthors. (Tiefe Strasse.)
+location:
+  wikidataId: Q1741
 ---
 slug: krueger-der-teufel-ein-baerenhaeuter
 author:
@@ -22030,6 +22199,8 @@ cast:
     isGroup: true
     gender: u
 setting: Der Schauplatz ist zu Syrakusa, in dem Pallaste des Dionysius.
+location:
+  wikidataId: Q13670
 ---
 slug: la-roche-man-fuerchtet-sich-oft-vor-seinem-eigenen-schatten
 author:
@@ -22367,6 +22538,8 @@ cast:
     isGroup: true
     gender: m
 setting: Die Handlung gehet zu Mayland in einem vornehmen Gasthofe vor.
+location:
+  wikidataId: Q490
 ---
 slug: laudes-die-sitten-der-zeit
 author:
@@ -22631,6 +22804,8 @@ cast:
   - name: Ein Diener.
     gender: m
 setting: "Scene: Paris, in Delorme's Hause."
+location:
+  wikidataId: Q90
 ---
 slug: lembert-die-geheimnisse
 author:
@@ -23013,6 +23188,8 @@ cast:
     role: Hauptmann der Trabanten.
     gender: m
 setting: Der Schauplatz ist zu Antiochien, im kayserlichen Pallaste.
+location:
+  wikidataId: Q200441
 ---
 slug: lieberkuehn-die-insel-der-pucklichten
 author:
@@ -23108,6 +23285,8 @@ cast:
   - name: Ein fremder Bedienter.
     gender: m
 setting: Der Schauplatz ist auf einem Lusthause des Don Diego vor Lissabon.
+location:
+  wikidataId: Q597
 ---
 slug: lindenmayr-ein-kurzweiliger-hochzeitsvertrag
 author:
@@ -23535,6 +23714,8 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht in der Stadt Pest den 17. Hornung 1775. vor. Das Theater stellt einen Theil der Stadt vor, wohin sich die Fluth des Wassers noch nicht ergossen hat. Man hört ein Gewimmel des Weheklagens, und ein lautes Geschrey zur Aufmunterung der Arbeit. Man sieht Geräthschaften, Kinder, u. s. w. von weinenden Personen tragen. Ein allgemeines Weheklagen mäßiget die Luft, so, daß man mehr Jammer, als Winde verspürt. Eine Menge Menschen bemühen sich ihre Habschaften zu retten, und andre zieht die Neugierde herbey, um über das Vorgehende ihr Urtheil zu fehlen.
+location:
+  wikidataId: Q210205
 ---
 slug: marsano-das-spiegelbild
 author:
@@ -23722,6 +23903,8 @@ cast:
   - name: Ein Kind von fünfviertel Jahren.
     gender: u
 setting: Der Schauplatz ist in Hamburg, in Damons Hause, auf der Diehle.
+location:
+  wikidataId: Q1055
 ---
 slug: mathesius-die-herrschaft-der-weiber
 author:
@@ -23893,6 +24076,8 @@ cast:
     role: ein Bube.
     gender: m
 setting: Schauplatz in Hamburg. Haus der Frau von Baldern.
+location:
+  wikidataId: Q1055
 ---
 slug: meyer-ein-gestaendniss-oder-der-artikel-213-des-buergerlichen-gesetzbuchs
 author:
@@ -23930,6 +24115,8 @@ cast:
     gender: m
 setting: >-
   Scene: Paris. (Elegantes Zimmer. Rechts (vom Schauspieler) ein Tisch. Links ein Bureau-Tisch mit Pult, Papieren, Schreibzeug, Büchern etc. Mittelthüre. Rechts eine Seitenthür. Links Fenster.)
+location:
+  wikidataId: Q90
 ---
 slug: meyer-nuht-die-gottheit-von-nehestaet
 author:
@@ -24496,6 +24683,8 @@ cast:
     gender: u
 setting: >-
   Die Handlung geschieht in Moskau im Jahre 1547. (Scene: Ein Saal im Palaste des Czaars.)
+location:
+  wikidataId: Q649
 ---
 slug: pantke-die-jugend
 author:
@@ -24567,6 +24756,8 @@ cast:
     gender: f
 setting: >-
   Das Stück spielt zu Weinhaus, einem österreichischen Dorfe, in Simons Hause.
+location:
+  wikidataId: Q2556149
 ---
 slug: pauersbach-der-hexenschabbas
 author:
@@ -24717,6 +24908,8 @@ cast:
     gender: m
 setting: >-
   Die Scene ist in Barbados, einer den Engeländern zugehörigen amerikanischen Insel. Die Handlung geht in einem dem Haven zu nächst gelegenen Hause vor.
+location:
+  wikidataId: Q244
 ---
 slug: perinet-isaak
 author:
@@ -25099,6 +25292,8 @@ cast:
     gender: m
 setting: >-
   Die Scene ist in Mowbrais Hause, zu Charlestowe, einer englischen Pflanzstadt im nördlichen Amerika.
+location:
+  wikidataId: Q992311
 ---
 slug: pfeffel-die-sclaven-insel
 author:
@@ -25359,6 +25554,8 @@ cast:
   - name: Die Wache.
     gender: u
 setting: Der Schauplatz ist in Dionysens Pallaste.
+location:
+  wikidataId: Q13670
 ---
 slug: pitt-warum
 author:
@@ -25720,6 +25917,8 @@ cast:
     isGroup: true
     gender: m
 setting: Der Schauplaz ist ein Hof von einem Haus in der Josephstadt.
+location:
+  wikidataId: Q256778
 ---
 slug: rautenstrauch-die-vormundschaft-oder-der-strich-druch-die-rechnung
 author:
@@ -25811,6 +26010,8 @@ cast:
     gender: m
 setting: >-
   Die Scene geht auf einem Landgute nicht weit von Wien vor. Die Bühne ist ein Saal.
+location:
+  wikidataId: Q1741
 ---
 slug: reichard-die-ungetreuen
 author:
@@ -25849,6 +26050,8 @@ cast:
   - name: Mondor.
     gender: m
 setting: Die Scene ist in Paris, in Dorimenens Behausung.
+location:
+  wikidataId: Q90
 ---
 slug: reinhold-die-eheleute-vor-der-hochzeit-oder-sie-sind-zu-hause
 author:
@@ -25898,6 +26101,8 @@ cast:
     gender: u
 setting: >-
   Die Scene ist in Paris. Das Theater stellt einen zur Hälfte meublirten Saal vor. Im Hintergrunde sind 3 Thüren und 2 auf beyden Seiten. Dem Zuschauer links steht eine Schreibcommode mit Papier, Feder und Dinte. Rechts ein Fenster.
+location:
+  wikidataId: Q90
 ---
 slug: reuling-das-orackel
 author:
@@ -26189,6 +26394,8 @@ cast:
     isGroup: true
     gender: m
 setting: Der Schauplatz ist in Salonich, der Hauptstadt in Macedonien.
+location:
+  wikidataId: Q17151
 ---
 slug: roeding-die-kranke-mutter
 author:
@@ -26231,7 +26438,6 @@ cast:
   - name: Ludwig,
     role: ein Freund Christians, und mit ihm von gleichem Alter.
     gender: m
-setting: >-
 ---
 slug: romanus-das-muendel
 author:
@@ -26426,6 +26632,8 @@ cast:
     isGroup: true
     gender: u
 setting: Der Schauplatz ist zu Andresy.
+location:
+  wikidataId: Q1419026
 ---
 slug: romanus-die-schwiegermuetter
 author:
@@ -26702,6 +26910,8 @@ cast:
     role: der nicht redt.
     gender: m
 setting: Der Schauplatz ist in Pavia, in einer Gallerie, bey Don Ambrosio.
+location:
+  wikidataId: Q6259
 ---
 slug: sailer-die-schwaebischen-drey-koenige
 author:
@@ -26960,6 +27170,8 @@ cast:
     isGroup: true
     gender: m
 setting: Der Schauplatz ist ein Wald in Norwegen.
+location:
+  wikidataId: Q20
 ---
 slug: schiebeler-die-frage-die-antwort-und-die-belohnung
 author:
@@ -27298,6 +27510,8 @@ cast:
     gender: m
 setting: >-
   Szene, Landsiz der Frau von Wertnach, in einer einsamen Gegend von Böhmen, nah' an der Sächsischen Gränze. (Garten des Schlosses. In der Mitte eine breitschattige Linde, unter ihren Zweigen ein Tisch und Gartenstühle, Seitenalleen, die zu diesem Plazze führen.)
+location:
+  wikidataId: Q39193
 ---
 slug: schlegel-anne-dore-oder-die-einquartierung
 author:
@@ -27460,6 +27674,8 @@ cast:
     role: Mädgen der Frau Roquentin.
     gender: f
 setting: Der Schauplatz ist zu Paris in dem Hause der Frau Roquentin.
+location:
+  wikidataId: Q90
 ---
 slug: schlegel-die-grazien
 author:
@@ -27904,6 +28120,8 @@ cast:
     gender: m
 setting: >-
   Ort der Handlung: Breslau, im Hause des verstorbenen Herrn von Knorring. (Saal mit einem Haupt-Eingange in der Mitte, und zwei Seitenthüren in den Ecken desselben. Rechts vom Schauspieler ein Kamin. Daneben ein Schreibtisch. Gegenüber, auf der linken Seite, ein Tisch mit zwei Stühlen.)
+location:
+  wikidataId: Q1799
 ---
 slug: both-der-erste-eindruck
 author:
@@ -28063,6 +28281,8 @@ cast:
     gender: u
 setting: >-
   Ort der Handlung; Lille im Jahre 1760. (Das Innere eines grossen Militair-Gebäudes. Rechts vom Zuschauer, an der erstne Coulisse, eine Balkonthür, zu der man einige Stufen emporsteig und beim Oeffnen der Glasthüren auf einen Balkon treten kann. Auf derselben Seite, weiter zurück, die Thür zum Gesellschafts- und Sepisezimmer der Offiziere. In der Mitte des Hintergrundes der Haupteingang, welcher durch ein Gitter geschlossen ist, durch welches man in den tiefer liegenden Hof der Citadelle sehen kann. Links vom Zuschauer, an der ersten Coulisse, die Thür zur Wohnung des Majors. Zwischen dieser Thür und dem Haupteingange ein vergittertes Fenster, welches zu den Militair-Gefängniss führt. Auf dem Tische links ein Stickrahmen, daneben ein Harfen-Futteral, mehrere Pappcartons u. dergl.)
+location:
+  wikidataId: Q648
 ---
 slug: both-der-onkel-als-nebenbuhler
 author:
@@ -28205,6 +28425,8 @@ cast:
     isGroup: true
     gender: u
 setting: "Ort der Handlung: Berlin und Pankow."
+location:
+  wikidataId: Q64
 ---
 slug: both-frauenhass
 author:
@@ -28330,6 +28552,8 @@ cast:
     gender: u
 setting: >-
   Scene: Meudon. Im Jahre 1545. (Der Garten des Pfarrhofes. In der Mauer, die das Theater im Hintergrunde abschliesst, eine Gitterthür. Links die Pfarr-Wohnung mit praktikablen Fenstern im ersten und zweiten Stockwerk. Auf derselben Seite, jedoch ganz nahe an der Mauer, eine grosse Laube. Hinter der Mauer sieht man die Kirche des Dorfs, einige Häuser desselben und eine ländliche Gegend.)
+location:
+  wikidataId: Q234735
 ---
 slug: both-vergeltung
 author:
@@ -28418,6 +28642,8 @@ cast:
     isGroup: true
     gender: u
 setting: "Ort der Handlung: Eine Insel an der Japanischen Küste."
+location:
+  wikidataId: Q17
 ---
 slug: schoenfeld-die-zwo-amaryllen
 author:
@@ -28494,6 +28720,8 @@ cast:
     gender: m
 setting: >-
   Die Scene ist im kleinern Phrygien, am Fuß des Ida, worauf Scamander und Simois entspringen. Schäfer und Schäferinnen sieht man in entfernten Gegenden, bey ihren Heerden sitzen und mit ländlichen Arbeiten beschäftiget.
+location:
+  wikidataId: Q1127771
 ---
 slug: scholz-die-beiden-faecher
 author:
@@ -28693,6 +28921,8 @@ cast:
     role: sein Sohn.
     gender: m
 setting: Die Scene ist in Wien. (Wohnzimmer bey Storch.)
+location:
+  wikidataId: Q1741
 ---
 slug: schroeer-rein-gefegt
 author:
@@ -28730,6 +28960,8 @@ cast:
     role: ein Maler aus der Schweiz.
     gender: m
 setting: Die Handlung geschieht in Amsterdam.
+location:
+  wikidataId: Q727
 ---
 slug: schuetze-der-koenig-von-gestern
 author:
@@ -29108,6 +29340,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist in Smyrna in einem Garten, der dem Hassan und Kaled gemeinschaftlich zugehöret, deren Häuser an dem Ufer des Meers gelegen sind.
+location:
+  wikidataId: Q1379299
 ---
 slug: schwan-die-aussteuer
 author:
@@ -29477,6 +29711,8 @@ cast:
     gender: f
 setting: >-
   Ort der Handlung: Paris. (Zimmer bei dem Advokaten Dalmont, mit Mittel- und Seitenthüren. Rechts ein Schreibtisch, links ein Fenster.)
+location:
+  wikidataId: Q90
 ---
 slug: solbrig-die-braunschweiger-wurst-oder-boese-beispiele-verderben-gute-sitten
 author:
@@ -29917,6 +30153,8 @@ cast:
     gender: f
 setting: >-
   Scene: Colmar's Landgut, drei Stunden von Stettin. (Ein geräumiger Platz, der nach dem Garten führt. Rechts die Außenseite des Hauses mit einer Thüre; auf derselben Seite, etwas entfernter, die Thüre der Meierei. Links gegen den Hintergrund ein Gitter. Einige Stühle und ein Gartentisch mit einem vollständigen Schreibzeuge. Rechts und links ist vom Schauspieler angenommen.)
+location:
+  wikidataId: Q393
 ---
 slug: sprickmann-das-missverstaendniss
 author:
@@ -30002,6 +30240,8 @@ cast:
     isGroup: true
     gender: u
 setting: "Ort der Handlung: London, in Miss Georgina's Wohnung."
+location:
+  wikidataId: Q84
 ---
 slug: stawinsky-familienleben-heinrichs-iv
 author:
@@ -30057,6 +30297,8 @@ cast:
     gender: u
 setting: >-
   Ort und Zeit: Fontainebleau 1609. (Saal im Schlosse zu Fontainebleau mit einer grossen Mittelthür, die zu einer Gallerie führt. Links die Zimmer des Königs. Rechts die des Dauphins. Neben der Thür, die zu den letzteren führt, ein Kamin, über dem eine Uhr. Ein breiter Armstuhl auf der inken Seite. Im Hintergrunde ein gedeckter Tisch mit vier Couverts.)
+location:
+  wikidataId: Q201428
 ---
 slug: steffens-der-geld-topf
 author:
@@ -30212,6 +30454,8 @@ cast:
     gender: m
 setting: >-
   Ort der Handlung: Leipzig. Zeit: Jahr 1773. (Die Scene ist ein kleines, ärmliches Dachstübchen.)
+location:
+  wikidataId: Q2079
 ---
 slug: stein-shakespeares-bestimmung
 author:
@@ -30252,6 +30496,8 @@ cast:
     gender: m
 setting: >-
   Ort der Handlung: das Städtchen Stratfort in Warwickshire. Zeit: 1588.
+location:
+  wikidataId: Q189288
 ---
 slug: steinsberg-ewald-und-seine-verwandten
 author:
@@ -30418,6 +30664,8 @@ cast:
     isGroup: true
     gender: u
 setting: Die Scene ist in Paphos, nahe an dem Tempel der Liebe.
+location:
+  wikidataId: Q180918
 ---
 slug: suabe-der-sehende-blinde
 author:
@@ -30621,6 +30869,8 @@ setting: >-
   Infanterie dreieckige Hüte, die Grenadiere tragen Bärenmützen; die Husaren
   Umschlage-Tschakots; Die Generäle rothe, blaue und weiße Federn auf den Hüten;
   ditto Schärpen.
+location:
+  wikidataId: Q12508
 ---
 slug: thilo-die-grossmuethigen-erben
 author:
@@ -30717,6 +30967,8 @@ cast:
   - name: Ein Beckerknecht.
     gender: m
 setting: Die Scene ist in Berlin.
+location:
+  wikidataId: Q64
 ---
 slug: tiessen-le-disenchantement-inespere-die-unverhofte-entzauberung
 author:
@@ -30782,7 +31034,10 @@ cast:
     gender: m
 setting: >-
   Ort der Handlung: St. Petersburg. Zeit: 1721. Die Scene stellt den Flur eines
-  hölzernen Hauses vor. Hinten sieht man hinaus auf die an der Newa belegene Schiffswerft. Eine Seitenthüre führt in das Innere des Hauses.
+  hölzernen Hauses vor. Hinten sieht man hinaus auf die an der Newa belegene
+  Schiffswerft. Eine Seitenthüre führt in das Innere des Hauses.
+location:
+  wikidataId: Q656
 ---
 slug: toepfer-cyprian-und-barbara
 author:
@@ -31521,6 +31776,8 @@ cast:
   - name: Ein Polizeikommissarius.
     gender: m
 setting: Die Handlung geht in Wien vor.
+location:
+  wikidataId: Q1741
 ---
 slug: voss-euer-verkehr
 author:
@@ -31758,6 +32015,8 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist zu Charlestown, einer englischen Colonie in Nordamerica.
+location:
+  wikidataId: Q992311
 ---
 slug: weidmann-abdalah-oder-keine-wohlthat-bleibt-unbelohnt
 author:
@@ -32669,6 +32928,8 @@ cast:
     role: ihr Mädchen.
     gender: f
 setting: Das Stück spielt in Hamburg, in Doktor Goldschmidts Hause.
+location:
+  wikidataId: Q1055
 ---
 slug: weissenthurn-die-reise-nach-amerika
 author:
@@ -32800,6 +33061,8 @@ setting: >-
   kleine Wanduhr, eine Sense und ein großes Messer hangen. Im Hintergrunde ein
   Strohlager und ein alter Lehnstuhl. Die Stube ist durch eine auf dem Tische
   brennende Lampe erleuchtet. Es ist Nacht. Die Wanduhr schlägt eilfe.
+location:
+  wikidataId: Q389416
 ---
 slug: werner-frage-und-antwort
 author:
@@ -32871,6 +33134,8 @@ cast:
     role: ihre Schwester.
     gender: f
 setting: Die Scene ist in Berlin, im Hause der Freiin von Heerfeld.
+location:
+  wikidataId: Q64
 ---
 slug: wetzel-wilhelmine
 author:
