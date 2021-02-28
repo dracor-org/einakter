@@ -1,5 +1,5 @@
 import {Play} from './types';
-import {normalizeYear} from './utils';
+import {normalizeYear, countCharactersByGender} from './utils';
 
 const playTmpl: Play = {
   slug: 'foo-bar',
@@ -44,5 +44,29 @@ describe('normalizeYear', () => {
   it('prefers publication year when less than 10 years after creation', () => {
     const play = {...playTmpl, premiered: 1810, created: 1805};
     expect(normalizeYear(play)).toBe(1810);
+  });
+});
+
+describe('countCharactersByGender', () => {
+  it('counts characters by gender', () => {
+    const play = {
+      ...playTmpl,
+      cast: [
+        {name: 'Alice', gender: 'f'},
+        {name: 'Bob', gender: 'm'},
+        {name: 'Somebody else', gender: 'u'},
+        {group: [
+          {name: 'Jane', gender: 'f'},
+          {name: 'Joe', gender: 'm'},
+          {name: 'J.', gender: 'u'},
+          {name: 'Joan', gender: 'f'},
+        ]}
+      ]
+    };
+    const num = countCharactersByGender(play);
+    expect(num?.total).toBe(7);
+    expect(num?.male).toBe(2);
+    expect(num?.female).toBe(3);
+    expect(num?.unknown).toBe(2);
   });
 });
