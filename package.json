@@ -33,10 +33,11 @@
     "typescript": "4.0.3"
   },
   "scripts": {
+    "csv": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2csv.ts && cp ./data.csv ./public/",
     "json": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2json.ts && cp ./data.json ./src/ && cp ./data.json ./public/",
-    "start": "yarn json && react-scripts start",
-    "build": "yarn json && react-scripts build",
-    "test": "yarn json && react-scripts test",
+    "start": "yarn csv && yarn json && react-scripts start",
+    "build": "yarn csv && yarn json && react-scripts build",
+    "test": "yarn csv && yarn json && react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

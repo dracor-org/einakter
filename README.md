@@ -48,3 +48,7 @@ Your app is ready to be deployed!
 Transforms [`data.yaml`](data.yaml) into JSON creating file `data.json`. This
 script is mostly used behind the scenes for `yarn start` and `yarn build` but
 can come in handy when a fresh JSON version of the current data is needed.
+
+### `yarn csv`
+
+Generates CSV file `data.csv` from [`data.yaml`](data.yaml).

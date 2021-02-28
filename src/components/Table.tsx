@@ -114,8 +114,12 @@ function Table () {
             <span className="counter">
               Database currently containing {data.length} one-act plays
               {' '}
-              <a href="data.json" className="download" download="einakter.json" >
+              <a href="data.json" className="download" download="einakter.json">
                 <FontAwesomeIcon icon="download" title="Download JSON"/>
+              </a>
+              {' '}
+              <a href="data.csv" className="download" download="einakter.csv">
+                <FontAwesomeIcon icon="file-csv" title="Download CSV"/>
               </a>
             </span>
             <br/>

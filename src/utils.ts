@@ -25,3 +25,25 @@ export function countCharacters (play: Play) {
     return num + n;
   }, 0)
 };
+
+export function countCharactersByGender (play: Play) {
+  const {cast} = play;
+  const initial = {male: 0, female: 0, unknown: 0, total: 0};
+  if (!cast) return initial;
+  return cast.reduce((num, item) => {
+    if (item.group) {
+      item.group.forEach((x) => {
+        num.male += x.gender === 'm' ? 1 : 0;
+        num.female += x.gender === 'f' ? 1 : 0;
+        num.unknown += x.gender === 'u' ? 1 : 0;
+        num.total++;
+      });
+    } else {
+      num.male += item.gender === 'm' ? 1 : 0;
+      num.female += item.gender === 'f' ? 1 : 0;
+      num.unknown += item.gender === 'u' ? 1 : 0;
+      num.total++;
+    }
+    return num;
+  }, initial)
+};
