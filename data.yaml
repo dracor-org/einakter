@@ -441,6 +441,7 @@ editions:
     url: https://books.google.com/books?id=kg86AAAAcAAJ&printsec=frontcover
 comments:
   - "Gehört zu den Stücken »aus Frankfurter Druckereien«, die »abwechselnd André oder Faber zugeschrieben [werden], ohne daß eine Begründung oder Quelle geliefert würde«. (Meyer)"
+  - "Weitere Übersetzung: [1780 (Mylius)](mylius-der-barbier-von-bagdad)."
 cast:
   - name: Der Cadi.
     gender: m
@@ -24668,6 +24669,54 @@ cast:
   - name: Die Fremde.
     gender: f
 ---
+slug: mylius-der-barbier-von-bagdad
+author:
+  name: Mylius, Wilhelm Christhelf Sigmund
+  wikidata: Q2572238
+title: Der Barbier von Bagdad
+subtitle: Schnurre in einem Akte mit Gesang. Nach Palissot
+numberOfScenes: 18
+printed: 1780
+formalia:
+  - Prosa
+basedOn:
+  - "Charles Palissot de Montenoy: [»Le barbier de Bagdad. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PALISSOT_BARBIERDEBAGDAD.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 449
+editions:
+  - title: "Theater-Journal für Deutschland. Funfzehndes Stück. Gotha: Ettinger 1780, S. 3–40"
+    url: https://books.google.com/books?id=7lM7AAAAcAAJ&pg=PA3
+comments:
+  - "Weitere Übersetzung: [1772 (André/Faber)](andre-faber-der-balbier-von-bagdad)."
+cast:
+  - name: Sulamith.
+    gender: f
+  - name: Kadi
+    role: Deren Vater.
+    gender: m
+  - name: Fatme.
+    role: Deren Mädchen.
+    gender: m
+  - name: Almanzor.
+    gender: m
+  - name: Zulip.
+    role: Dessen Sklave. Ein äußerst mißgestaltes mohrisches Geschöpf.
+    gender: m
+  - name: Sandrapandraback.
+    role: Barbier.
+    gender: m
+  - name: Des Kadis Gefolge.
+    isGroup: true
+    gender: u
+  - name: Almanzor's Sklaven.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene, Bagdad.
+location:
+  wikidataId: Q1530
+---
 slug: nabehl-jugend-streiche
 author:
   name: Nabehl
@@ -25902,6 +25951,98 @@ cast:
     role: vormals Jäger im Dienste des Barons.
     gender: m
 setting: Die Handlung ist auf dem Landgute des Barons.
+---
+slug: prothke-das-leidende-maedchen
+author:
+  name: Prothke, Johann
+title: Das leidende Mädchen
+subtitle: Ein Trauerspiel in einem Aufzuge
+numberOfScenes: 22
+printed: 1780
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 463
+editions:
+  - title: "Prag: Schönfeld 1780"
+    url: https://books.google.com/books?id=hBFaAAAAcAAJ&printsec=frontcover
+comments:
+  - Erstlingswerk, Autor ist eigentlich Schauspieler.
+keywords:
+  - Mord
+  - Selbstmord
+  - Vaterrolle
+cast:
+  - name: Baron von Rottburg.
+    gender: m
+  - name: Baroninn,
+    role: seine Gemahlin.
+    gender: f
+  - name: Julie,
+    role: dessen Tochter.
+    gender: f
+  - name: Graf Hildborn.
+    gender: m
+  - name: Herr von Danberg,
+    role: Officier.
+    gender: m
+  - name: Klara,
+    role: Mädchen der Julie.
+    gender: f
+  - group:
+      - name: Christoph
+        gender: m
+      - name: Johann
+        gender: m
+    role: Bediente des Barons.
+  - name: Mehrere Bediente des Barons.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht auf des Barons Schlosse in einem unteren Gartengebäude vor. Sie fängt nach der Mittagstafel an, und dauert bis Abends.
+---
+slug: ratschky-bekir-und-gulroui
+author:
+  name: Ratschky, Joseph Franz
+  wikidata: Q1545582
+title: Bekir und Gulroui
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1780
+premiered: 1780-07-08
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 464
+editions:
+  - title: "Wien 1780"
+    url: https://books.google.com/books?id=oRFaAAAAcAAJ&printsec=frontcover
+comments:
+  - "Stoff aus Denis Dominique Cardonne: [»Mêlanges de littérature orientale«](https://books.google.com/books?id=eEVOvQEACAAJ&printsec=frontcover)."
+keywords:
+  - Geld
+  - Sklaverei
+  - Liebe
+cast:
+  - name: Moter,
+    role: ein reicher Emir.
+    gender: m
+  - name: Bekir.
+    gender: m
+  - name: Gulroui.
+    gender: f
+  - name: Kasem,
+    role: Bekirs Sklave.
+    gender: m
+  - name: Verschiedene Sklaven des Emirs.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung spielt in der Hauptstadt von Khouzistan. (Der Schauplatz ist eines von Bekirs Zimmern mit zwey Thüren im Grunde und einem Seiteneingang.)
+location:
+  wikidataId: Q170366
 ---
 slug: raupach-der-bettler
 author:
@@ -31979,6 +32120,48 @@ setting: >-
   Der Schauplatz ist ein Theater, von rückwärts zu sehen, die Seitenwände
   umgedreht, der Vorhang nach hinten. Das Stück spielt am Abend, nach Endigung
   des Trauerspiels Emilia Galotti.
+---
+slug: wagenseil-der-freymaurer
+author:
+  name: Wagenseil, Christian Jakob
+  wikidata: Q1080444
+title: Der Freymaurer
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 11
+printed: 1780
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 497–498
+editions:
+  - title: "Kaufbeuren: Neth 1780"
+    url: https://books.google.com/books?id=HxFaAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Bellmann,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Wilhelmine,
+    role: seine Tochter.
+    gender: f
+  - name: Freyberg,
+    role: Bellmanns Anverwandter, in dessen Haus wohnend.
+    gender: m
+  - name: Herr von Sternheim.
+    gender: m
+  - name: Nathan,
+    role: ein Jude.
+    gender: m
+  - name: Grippon,
+    role: ein Wechsler.
+    gender: m
+  - name: Eine arme Frau.
+    gender: f
+  - name: Johann,
+    role: Bedienter bey Freyberg.
+    gender: m
+setting: >-
+  Die Scene ist in Bellmanns Haus.
 ---
 slug: wagner-die-koeningskroenung
 author:
