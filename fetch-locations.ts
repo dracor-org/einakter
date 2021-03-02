@@ -52,7 +52,7 @@ async function fetchLocations () {
   }
 
   console.log(results);
-  writeFileSync('./locations.json', JSON.stringify(results, null, 2));
+  writeFileSync('./src/locations.json', JSON.stringify(results, null, 2));
 }
 
 fetchLocations();
