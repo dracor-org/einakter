@@ -5,6 +5,7 @@ import Topnav from './components/Topnav';
 import Table from './components/Table';
 import Details from './components/Details';
 import About from './components/About';
+import Map from './components/Map';
 import './icons';
 
 import './App.css';
@@ -20,6 +21,9 @@ function App () {
           </Route>
           <Route path="/about">
             <About/>
+          </Route>
+          <Route path="/map">
+            <Map/>
           </Route>
           <Route path="/:id">
             <Details/>
