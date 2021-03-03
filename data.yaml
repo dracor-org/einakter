@@ -6177,6 +6177,54 @@ setting: >-
   die in der Tiefe der Bühne ist, sieht man noch auf jeder Seite eine Thüre,
   wovon die eine in die Zimmer des Hauptmanns, die andere zum Fähnrich führt.
 ---
+slug: babo-das-lustlager
+author:
+  name: Babo, Joseph Marius
+  wikidata: Q104172
+title: Das Lustlager
+subtitle: Ein Schauspiel in einer Handlung
+numberOfScenes: 17
+printed: 1778
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 46–47
+editions:
+  - title: "Frankfurt und Leipzig 1778"
+  - title: "Wien 1779"
+    url: https://books.google.com/books?id=TQNIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Ein Rittmeister.
+    gender: m
+  - name: Ein Hauptmann.
+    gender: m
+  - name: Valentin,
+    role: ein Kaufmann.
+    gender: m
+  - name: Frau Valentin.
+    gender: f
+  - name: Sophie,
+    role: ihre Tochter.
+    gender: f
+  - name: Doktor Blasius,
+    role: ein Schriftsteller.
+    gender: m
+  - name: Madam Flick,
+    role: seine Braut.
+    gender: m
+  - name: Friedrich,
+    role: des Hauptmanns Bedienter.
+    gender: m
+  - name: Karlin,
+    role: Wirthinn.
+    gender: f
+  - name: Wilhelm,
+    role: Pachter.
+    gender: m
+setting: >-
+  Der Schauplatz ist im Lager.
+---
 slug: babo-das-winterquartier-in-amerika
 author:
   name: Babo, Joseph Marius
@@ -11927,6 +11975,59 @@ cast:
 setting: >-
   Die Handlung geht vor in dem Schloße des B. Adolphs und der Gegend desselben.
 ---
+slug: eckert-fritzel-von-mannheim-oder-das-vorurtheil
+author:
+  name: Eckert, Gabriel
+  wikidata: Q95337631
+title: Fritzel von Mannheim, oder das Vorurtheil
+subtitle: Ein Original-Lustspiel in einer Handlung
+numberOfScenes: 19
+printed: 1779
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 243–244
+editions:
+  - title: "Frankenthal: Gegel 1779"
+    url: https://books.google.com/books?id=xBFaAAAAcAAJ&printsec=frontcover
+  - title: "Mannheim: Löffler 1780"
+    url: https://books.google.com/books?id=jTE7AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Donnerstag,
+    role: ein Gastwirth.
+    gender: m
+  - name: Donnerstaginn,
+    role: seine Frau.
+    gender: f
+  - name: Fritzel,
+    role: ihr Sohn.
+    gender: m
+  - name: Zussel,
+    role: ihre Tochter.
+    gender: f
+  - name: Madame Ruyter,
+    role: eine Fremde.
+    gender: f
+  - name: Sphinx,
+    role: ein Advokat.
+    gender: m
+  - name: Hertz,
+    role: ein Schulmeister.
+    gender: m
+  - name: Hertzinn,
+    role: seine Frau.
+    gender: f
+  - name: Lieutenant Werndly.
+    gender: m
+  - name: Lieutenant Flucht.
+    gender: m
+  - name: Keller,
+    role: Mohr, Sänftenträger.
+    gender: m
+setting: >-
+  Der Schauplatz ist in zwey Gasthäusern.
+---
 slug: ekhof-der-liebhaber-seiner-frau-oder-die-neben-buhlerin-von-sich-selbst
 author:
   name: Ekhof, Konrad
@@ -15454,6 +15555,8 @@ editions:
 ids:
   dracor: ger000519
   wikidata: Q104552092
+keywords:
+  - Schicksalstragödie
 cast:
   - name: Conrad v. Ulstrade,
     role: Senator und Patricier einer Reichsstadt.
@@ -15487,6 +15590,7 @@ editions:
 comments:
   - Eine einaktige Parodie zu dem Trauerspiel schrieb Stephan Schütze 1824 unter dem Titel [»Die Heimkehr. Lustspiel in einem Act«](schuetze-die-heimkehr).
 keywords:
+  - Schicksalstragödie
   - Heimkehr-Motiv
   - Selbstmord
 cast:
@@ -22678,6 +22782,35 @@ cast:
     gender: f
 setting: Die Scene ist in dem Landgute des Herrn Geronte.
 ---
+slug: lauer-der-stegreif
+author:
+  name: Lauer, Christian Friedrich
+title: Der Stegreif
+subtitle: Ein Lustspiel in einer Handlung aus dem Französischen
+numberOfScenes: 14
+printed: 1778
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 115
+editions:
+  - title: "Hildesheim: Schlegel 1778"
+    url: https://books.google.com/books?id=1QsYB6kAdo0C&printsec=frontcover
+comments:
+  - Ohne Personenverzeichnis (die hier veröffentlichte Personenliste in Reihenfolge des Auftretens).
+cast:
+  - name: Die Gräfinn.
+    gender: f
+  - name: Die Baronesse.
+    gender: f
+  - name: Der Marquis.
+    gender: m
+  - name: Champagnie.
+    gender: m
+  - name: Damon.
+    gender: m
+---
 slug: lebrun-brief-und-antwort
 author:
   name: Lebrun, Karl August
@@ -24376,6 +24509,48 @@ cast:
 setting: >-
   Die Handlung geht in dem Schlosse des Don Garzias vor, nahe an der Residenzstadt, und dauert von 10. Uhr Abends bis nach Mitternacht.
 ---
+slug: moritz-blunt-oder-der-gast
+author:
+  name: Moritz, Karl Philipp
+  wikidata: Q215781
+title: Blunt oder der Gast
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 5
+printed: 1781
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 448
+editions:
+  - title: "Berlin: Wever 1781"
+    url: https://books.google.com/books?id=jBZaAAAAcAAJ&printsec=frontcover
+keywords:
+  - Schicksalstragödie
+comments:
+  - Fünf Schauplatzwechsel (= Anzahl Szenen).
+  - "Inspiriert von George Lillo: [»The fatal curiosity. A tragedy«](https://books.google.com/books?id=MK1bAAAAQAAJ&printsec=frontcover)."
+ids:
+  wikidata: Q105729385
+  dracor: ger000528
+cast:
+  - name: Blunt.
+    gender: m
+  - name: Sein Weib Gertrude.
+    gender: f
+  - name: Adelheid,
+    role: ihre Tochter, ein Kind von acht Jahren.
+    gender: f
+  - name: Der Bürgermeister Blunt.
+    gender: m
+  - name: Mariane,
+    role: seine Tochter.
+    gender: f
+  - name: Ein Fremder.
+    gender: m
+setting: >-
+  Mitternacht. Eine düstre Lampe brennt auf einem Tische. Blunt und sein Weib Gertrude, in alte Decken gehült, sitzen am Tische; Adelheid, ihre Tochter, ein Kind von acht Jahren, schläft auf einem Stuhle.
+---
 slug: mottoni-der-redliche-betrueger
 author:
   name: Mottoni, B. von
@@ -24588,7 +24763,7 @@ comments:
   - In Wien von Nikolaus Heurteur (1781–1844) zum Drama »Wahn« mit gutem Ausgang umgearbeitet und 1815 aufgeführt. Von Müllner überarbeitet und als »Der Wahn« 1818 gedruckt.
   - "Parodie des Stücks: [»Eumenides Düster« (1819)](richter-der-eliastag)."
 keywords:
-  - Schicksalsdrama
+  - Schicksalstragödie
 ids:
   wikidata: Q98544670
   dracor: ger000506
@@ -26395,6 +26570,7 @@ comments:
   - "Parodie auf Müllners Schicksalstragödie [»Der neun und zwanzigste Februar«](muellner-der-neun-und-zwanzigste-februar). Der Einakter gehört zum Trauerspiel »Eumenides Düster«, ihm geht das Vorspiel [»Ullo's Tod oder das Verbrechen«](https://books.google.com/books?id=UuRHAAAAMAAJ&pg=RA2-PA9) voraus."
   - "Über den so nicht abgesprochenen Abdruck des »Eumenides Düster« als Supplement zu seinen gesammelten dramatischen Werken hat sich Müllner im Achten Theil (Wolfenbüttel: Verlags-Comtoir 1828) geäußert, [S. 143–154](https://books.google.com/books?id=bcs6AAAAcAAJ&pg=PA143)."
 keywords:
+  - Schicksalstragödie
   - Parodie
 ids:
   wikidata: Q100145770
@@ -28107,6 +28283,56 @@ cast:
 setting: >-
   Der Schauplatz ist in dem Garten, der Carlchens und Henriettens Aeltern gehöret, und in der Vorstadt einer Residenz ist, oder wenigstens nahe daran gelegen.
 ---
+slug: schletter-die-rechnung-ohne-den-wirth-oder-in-der-liebe-giebts-narren-die-menge
+author:
+  name: Schletter, Salomo Friedrich
+  wikidata: Q94892046
+title: "Die Rechnung ohne den Wirth, oder: In der Liebe giebts Narren die Menge"
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 23
+printed: 1780
+premiered: 1781-01-21
+formalia:
+  - Prosa
+basedOn:
+  - "Marc-Antoine Legrand: [»La famille extravagante. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/LEGRAND_FAMILLEEXTRAVAGANTE.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 474–475
+editions:
+  - title: "Wien 1780"
+    url: https://books.google.com/books?id=W-J6t65sax8C&printsec=frontcover
+cast:
+  - name: Herr v. Ahlsfeld,
+    role: Amtshauptmann und Wittwer.
+    gender: m
+  - name: Frau v. Ahlsfeld,
+    role: dessen Mutter.
+    gender: f
+  - name: Wilhelmine,
+    role: dessen Schwester.
+    gender: f
+  - name: Charlotte,
+    role: dessen Tochter.
+    gender: f
+  - name: Louise v. Saalfeld,
+    role: dessen Mündelin.
+    gender: f
+  - name: Lieutenant v. Burgheim,
+    role: Louisens Liebhaber.
+    gender: m
+  - name: Johann,
+    role: dessen Bedienter.
+    gender: m
+  - name: Lisette,
+    role: Mädchen im Ahlsfeldischen Hause.
+    gender: f
+  - name: D. Bast,
+    role: ein Rechtsgelehrter.
+    gender: m
+setting: >-
+  Die Handlung geschieht in einem Saale im Ahlsfeldischen Hause, welcher nebst der Mittelthüre vier Seitenthüren, und eine verborgene in den Tapeten hat.
+---
 slug: schletter-gewinnt-der-fuerst-wenn-er-sich-herablaesst
 author:
   name: Schletter, Salomo Friedrich
@@ -29297,6 +29523,7 @@ editions:
 comments:
   - Parodie auf Ernst von Houwalds Einakter [»Die Heimkehr. Trauerspiel in Einem Akte«](houwald-die-heimkehr).
 keywords:
+  - Schicksalstragödie
   - Parodie
   - Soldat
   - Heimkehr-Motiv
@@ -33649,3 +33876,32 @@ cast:
   - name: "[Mathurin, gestrichen, stattdessen:] Hani (?)"
     role: ein Mühlpursch.
     gender: m
+---
+slug: zabuesnig-abels-tod
+author:
+  name: Zabuesnig, Johann Christoph von
+  wikidata: Q267397
+title: Abels Tod
+subtitle: Ein Duodrama in einer Handlung nach Gäßners Erzählungen
+numberOfScenes: 6
+printed: 1779
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 340–341
+editions:
+  - title: "Augsburg 1779, S. 117–143"
+    url: https://books.google.com/books?id=uT4BuaPXPLIC&pg=PA117
+  - title: "Grätz: Leykam 1789"
+comments:
+  - "Nach Salomon Gessner: [»Der Tod Abels«](https://books.google.com/books?id=kMGkIroQXWcC&printsec=frontcover)."
+  - Einakterhinweis »ein Duodrama in einer Handlung nach Gäßners Erzählungen« erst 1789.
+  - 1789 von Franz Stanislaus Spindler »in Musik gesetzt«.
+cast:
+  - name: Kain.
+    gender: m
+  - name: Abel.
+    gender: m
+setting: >-
+  Der Schauplatz ist ein Hayn: zur Rechten eine Sommerlaube; zur Linken, etwas entfernet, zween Altare.
