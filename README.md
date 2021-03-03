@@ -52,3 +52,8 @@ can come in handy when a fresh JSON version of the current data is needed.
 ### `yarn csv`
 
 Generates CSV file `data.csv` from [`data.yaml`](data.yaml).
+
+### `yarn locations`
+
+Update [`locations.json`](src/locations.json). This fetches coordinates for
+new location IDs in `data.yaml` and adds them to `src/locations.json`.
