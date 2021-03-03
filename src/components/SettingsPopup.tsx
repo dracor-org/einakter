@@ -21,7 +21,7 @@ const SettingsPopup = ({plays}: Props) => {
   return (
     <Popup>
       {plays.map((p) => (
-        <div className="popup-setting" key={p.slug}>
+        <div className="popup-location" key={p.slug}>
           <p>
             {p.authors && renderAuthors(p.authors)}
             {p.authors && ', '}

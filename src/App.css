@@ -47,27 +47,27 @@ td ul:last-child, td p:last-child {
   color: black;
 }
 
-.settings-map h1 {
+.locations-map h1 {
   margin: 1em 0 .5em;
 }
 
 .leaflet-container {
   width: 100%;
-  height: calc(100vh - 140px);
+  height: calc(100vh - 250px);
 }
 
-.popup-setting {
+.popup-location {
   margin: 1em;
 }
 
-.popup-setting p {
+.popup-location p {
   margin: 0;
 }
 
-.popup-setting p:first-child {
+.popup-location p:first-child {
   margin-bottom: .4em;
 }
 
-.xpopup-setting p:last-child {
+.xpopup-location p:last-child {
   margin-left: 1em;
 }

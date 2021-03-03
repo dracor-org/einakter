@@ -32,8 +32,15 @@ const markers = Object.entries(locations).map(([k, l]) => (
 
 const SettingsMap = () => {
   return (
-    <div className="settings-map">
-      <h1>Settings</h1>
+    <div className="locations-map">
+      <h1>Locations</h1>
+
+      <p>
+        This map shows all plot locations extractable from the setting
+        information at the beginning of a play. Denominations and demarcations
+        on the map are provided by OpenStreetMap and are therefore ahistorical
+        in relation to the time of action and creation of a play.
+      </p>
 
       <MapContainer
         center={[51.505, -0.09]}

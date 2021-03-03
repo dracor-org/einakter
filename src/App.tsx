@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import {BrowserRouter as Router, Switch, Route, Redirect} from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Topnav from './components/Topnav';
 import Table from './components/Table';
@@ -19,10 +19,13 @@ function App () {
           <Route exact path="/">
             <Table/>
           </Route>
+          <Route exact path="/map">
+            <Redirect to="/locations" />
+          </Route>
           <Route path="/about">
             <About/>
           </Route>
-          <Route path="/map">
+          <Route path="/locations">
             <Map/>
           </Route>
           <Route path="/:id">
