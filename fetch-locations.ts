@@ -32,14 +32,14 @@ async function fetchLocations () {
       const response = await axios.get(url);
       if (response.status === 200) {
         const loc = response.data.results?.bindings[0]?.loc.value;
-        let long, lat;
+        let long: number, lat: number;
         const m = loc.match(/\((-?[.0-9]+) (-?[.0-9]+)\)/);
         if (m) {
           long = parseFloat(m[1]);
           lat = parseFloat(m[2]);
-          results[id as string] = [long, lat]
+          results[id as string] = [lat, long]
+          console.log(loc, long, lat);
         }
-        console.log(loc, long, lat);
       } else {
         console.log(response.status);
       }
