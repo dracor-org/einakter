@@ -25,6 +25,7 @@ const cols = [
   'keywords', // (in one cell, separated by a line break)
   'wikidataID', // (as full URL to be clickable for convenience)
   'dracorID', // (as full URL to be clickable for convenience)
+  'locationID', // (as full URL to be clickable for convenience)
   'numberOfScenes',
   'numberOfCharacters',
   'numberOfMaleCharacters',
@@ -48,9 +49,11 @@ const lines = data.map((p: Play) => {
     premiereYear: p.premiered ? `${p.premiered}`.split('-')[0] : '',
     formalia: p.formalia?.join('\n'),
     keywords: p.keywords?.join('\n'),
-    dracorId: p.ids?.dracor ? `https://dracor.org/id/${p.ids.dracor}` : '',
-    wikidataId: p.ids?.wikidata
-      ? `https://www.wikidata.org/wiki/${p.ids.wikidata}` : ''
+    dracorID: p.ids?.dracor ? `https://dracor.org/id/${p.ids.dracor}` : '',
+    wikidataID: p.ids?.wikidata
+      ? `http://wikidata.org/entity/${p.ids.wikidata}` : '',
+    locationID: p.location?.wikidataId
+      ? `http://wikidata.org/entity/${p.location.wikidataId}` : '',
   };
   const line = cols.map(col => {
     const value: string = play[col] || '';
