@@ -45,7 +45,7 @@ const lines = data.map((p: Play) => {
     link: `https://einakter.dracor.org/${p.slug}`,
     createdYear: p.created,
     printedYear: p.printed,
-    premiereYear: `${p.premiered}`.split('-')[0],
+    premiereYear: p.premiered ? `${p.premiered}`.split('-')[0] : '',
     formalia: p.formalia?.join('\n'),
     keywords: p.keywords?.join('\n'),
     dracorId: p.ids?.dracor ? `https://dracor.org/id/${p.ids.dracor}` : '',
