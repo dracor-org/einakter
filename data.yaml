@@ -8263,6 +8263,39 @@ setting: >-
   Der Schauplatz ist in einer Preussischen Stadt. Die Handlung gehet um vier Uhr
   Nachmittags an, und dauert bis in die Nacht.
 ---
+slug: biwancko-der-thronerbe
+author:
+  name: Biwancko, Joseph Ignatz
+title: Der Thronerbe
+subtitle: Ein Drama in einem Aufzuge
+numberOfScenes: 5
+printed: 1781
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 62
+editions:
+  - title: "Wien: Berger 1781"
+    url: https://books.google.com/books?id=hq0nShju5XkC&printsec=frontcover
+comments:
+  - Im Stück erscheinen Josephs Eltern als Geister sowie verschiedene »Fantome«, die im Personenverzeichnis nicht erwähnt sind.
+cast:
+  - name: Kaiser Joseph II.
+    gender: m
+  - name: Theresia die Große.
+    gender: f
+  - name: Franz I.
+    gender: m
+  - name: Minister, geistliche und weltliche Stände.
+    isGroup: true
+    gender: u
+  - name: Volk.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Theater zeiget ein Mausoläum. In der Mitte steht Theresiens Sarg, um welchen eine Menge Volk gedrängt. Alle Hertzen bewegt, alle Augen von Thränen benetzt, verbreitet sich ein allgemeines Seufzen.
+---
 slug: bluemner-cephise-oder-der-sieg-des-herzens
 author:
   name: Blümner, Heinrich
@@ -12030,6 +12063,44 @@ cast:
   - name: Tityr.
     gender: m
 ---
+slug: dyk-jack-splien-oder-ich-erschiesse-mich-nicht
+author:
+  name: Dyk, Johann Gottfried
+  wikidata: Q1694090
+title: Jack Splien, oder Ich erschieße mich nicht!
+subtitle: Ein Lustspiel in Einem Akte
+numberOfScenes: 17
+printed: 1786
+premiered: 1785-09-13
+formalia:
+  - Prosa
+basedOn:
+  - "Joseph Patrat: [»Le fou raisonnable, ou L'anglois. Comédie«](https://books.google.com/books?id=c1dbAAAAQAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 399–400
+editions:
+  - title: "Leipzig: Dyk 1786"
+    url: https://books.google.com/books?id=KcDW6S6W3pgC&printsec=frontcover
+cast:
+  - name: Jack Splien,
+    role: ein Engländer.
+    gender: m
+  - name: Leiher,
+    role: Gastwirth zu Strasburg.
+    gender: m
+  - name: Friedericke,
+    role: dessen Tochter; Strasburgisch gekleidet.
+    gender: f
+  - name: Jakob,
+    role: Aufwärter im Gasthoffe.
+    gender: m
+  - name: Ein Gerichtsfrohn,
+    role: stottert.
+    gender: m
+setting: >-
+  Scene, der Speisesaal von Leihers Gasthoff.
+---
 slug: dyk-selbst-gefangen
 author:
   name: Dyk, Johann Gottfried
@@ -12099,6 +12170,48 @@ cast:
     gender: m
   - name: Die böse Mentorin.
     gender: f
+---
+slug: eberl-der-dichterling-oder-solche-insekten-giebts-die-menge
+author:
+  name: Eberl, Ferdinand
+  wikidata: Q999966
+title: "Der Dichterling, oder: Solche Insekten giebts die Menge"
+subtitle: Ein Original-Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1781
+premiered: 1781-06-30
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 80–81
+editions:
+  - title: "Wien 1781"
+    url: https://books.google.com/books?id=-tk_AQAAMAAJ&printsec=frontcover
+cast:
+  - name: Herr von Bergthal,
+    role: ein reicher gewesener Kaufmann.
+    gender: m
+  - name: Ludwig,
+    role: sein Sohn.
+    gender: m
+  - name: Juliane,
+    role: sein Mündel.
+    gender: f
+  - name: Friderike,
+    role: ihr Mädchen.
+    gender: f
+  - name: Doktor Kranz.
+    gender: m
+  - name: Herr von Brukner.
+    gender: m
+  - name: Wilhelm,
+    role: Bedienter des Ludwigs.
+    gender: m
+  - name: Ein Buchdruckerjung.
+    gender: m
+setting: >-
+  Studirstube des Ludwigs.
 ---
 slug: eckardt-der-fleissige-schuster
 author:
@@ -14181,6 +14294,79 @@ setting: >-
 location:
   wikidataId: Q2749
 ---
+slug: guenderrode-die-gelehrte-frau
+author:
+  name: Günderrode, Friedrich Justinian von
+  wikidata: Q55844040
+title: Die gelehrte Frau
+subtitle: Ein Drama in einem Aufzuge
+numberOfScenes: 12
+printed: 1781
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 92
+editions:
+  - title: "Frankfurt am Mayn: Eichenberg 1781"
+    url: https://books.google.com/books?id=PtBUAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr von Gutherzheim.
+    gender: m
+  - name: Frau von Gutherzheim,
+    role: dessen Gemahlin.
+    gender: f
+  - name: Herr von Freundstern.
+    gender: m
+  - name: Gräfinn von Weltputz.
+    gender: f
+  - name: Graf von Silhouetheim.
+    gender: m
+  - name: Baron von Landglück.
+    gender: m
+  - name: Frau Magister Bombaciphaliusin.
+    gender: f
+  - name: Johann,
+    role: Bedienter des Hrn. v. Gutherzheim.
+    gender: m
+  - name: Der Frau Magisterin ihre Magd.
+    gender: f
+setting: >-
+  Der Schauplatz ist in einer grossen Stadt, in dem Zimmer der Frau Gutherzheim.
+---
+slug: guenderrode-marianne
+author:
+  name: Günderrode, Friedrich Justinian von
+  wikidata: Q55844040
+title: Marianne
+subtitle: Ein Drama in einem Aufzuge
+numberOfScenes: 13
+printed: 1781
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 92
+editions:
+  - title: "Frankfurt am Mayn: Eichenberg 1781"
+    url: https://books.google.com/books?id=wxVaAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Erast.
+    gender: m
+  - name: Marianne,
+    role: dessen Tochter.
+    gender: f
+  - name: Der Amtsvogt.
+    gender: m
+  - name: Hans,
+    role: dessen Sohn.
+    gender: m
+  - name: Franz,
+    role: Mariannens Liebhaber.
+    gender: m
+setting: >-
+  Der Schauplatz ist bey der grossen Linde vor dem Ort.
+---
 slug: guttenberg-das-miniatur-gemaelde
 author:
   name: Guttenberg, Andreas Josef von
@@ -14548,6 +14734,47 @@ cast:
     gender: m
 setting: >-
   Die Scene ist ein Privatgarten in einem Badeorte. (Geschmackvoller englischer Garten. Zu beiden Seiten grüne Gartenkanapees. Etwas mehr im Hintergrunde links ein Pavillon, der jedoch halb vom Gesträuche bedeckt ist; rechts eine Laube.)
+---
+slug: hanke-das-patriotenspiel
+author:
+  name: Hanke, Andre
+title: Das Patriotenspiel
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 11
+printed: 1792
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 114
+editions:
+  - title: "Wien: Goldhann 1792"
+    url: https://books.google.com/books?id=mjNJAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr Kümmel,
+    role: ein reicher Handelsmann.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Wilhelm Kümmel,
+    role: ihr Sohn.
+    gender: m
+  - name: Adelheit,
+    role: seine Frau.
+    gender: f
+  - name: Wilhelm,
+    role: ein Kind von 4 Jahren ihr Sohn.
+    gender: m
+  - name: Herr von Gutmuth.
+    gender: m
+  - name: Hönigfeld,
+    role: ein Adjudant.
+    gender: m
+  - name: Ein Korporal.
+    gender: m
+  - name: Nebenpersonen.
+    isGroup: true
+    gender: u
 ---
 slug: hansing-kuenstlerglueck-oder-die-proberollen
 author:
@@ -15323,6 +15550,46 @@ cast:
 setting: Die Handlung geht in Wien vor.
 location:
   wikidataId: Q1741
+---
+slug: hensler-der-korb-aus-liebe-oder-frauenzimmer-laune
+author:
+  name: Hensler, Karl Friedrich
+  wikidata: Q1731074
+title: Der Korb aus Liebe, oder Frauenzimmer-Laune
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 19
+printed: 1792
+premiered: 1789-03-26
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 130
+editions:
+  - title: "Wien: Goldhann 1792"
+    url: https://books.google.com/books?id=OQFzpmIRHKEC&printsec=frontcover
+cast:
+  - name: Amalie von Eschen,
+    role: eine junge, reiche Wittwe.
+    gender: f
+  - name: Schmidt,
+    role: ihr Oheim.
+    gender: m
+  - name: Moriz von Rosenstrauch.
+    gender: m
+  - name: Baron Mühldorf.
+    gender: m
+  - name: Hannchen,
+    role: Kammermädchen.
+    gender: f
+  - name: Johann,
+    role: Bedienter.
+    gender: m
+  - name: Zachel,
+    role: ein Schustermeister.
+    gender: m
+setting: >-
+  Zimmer des Herrn von Rosenstrauch.
 ---
 slug: hensler-lorenz-konau
 author:
@@ -16103,6 +16370,49 @@ cast:
 setting: >-
   Die Scene ist auf dem Rathhaus, das zugleich des Schulzen Wohnhaus ist, in der Gerichts-Stube.
 ---
+slug: huber-der-englische-kaper
+author:
+  name: Huber, Joseph Karl
+  wikidata: Q27149951
+title: Der Englische Kaper
+subtitle: Ein Original-Lustspiel in einem Aufzug
+numberOfScenes: 13
+printed: 1781
+premiered: 1782-02-15
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 95–96
+editions:
+  - title: "München: Strobel 1781"
+    url: https://books.google.com/books?id=shNaAAAAcAAJ&printsec=frontcover
+  - title: "Wien 1783"
+    url: https://books.google.com/books?id=NNJh2nxUA84C&printsec=frontcover
+comments:
+  - Als Autor wird auch Franz Xaver Heigl genannt.
+cast:
+  - name: Sir Rich,
+    role: ein Kaufmann.
+    gender: m
+  - name: Miß Fanny,
+    role: dessen Tochter.
+    gender: f
+  - name: Pirk,
+    role: ein Deutscher.
+    gender: m
+  - name: Sir Fielding,
+    role: Buchhalter des Sir Rich.
+    gender: m
+  - name: Betsy,
+    role: Kammermädchen der Miß Fanny.
+    gender: f
+  - name: Jämes,
+    role: Bedienter des Sir Rich.
+    gender: m
+setting: >-
+  Die Handlung geht in London in Sir Rich Hause vor.
+---
 slug: iffland-der-komet
 author:
   name: Iffland, August Wilhelm
@@ -16672,6 +16982,87 @@ cast:
 setting: >-
   Scene: Ein Saal mit mehrern Thüren. Er ist mit Kränzen verziert. In der Mitte steht ein reichdekorirtes Gerüst, auf dessen Stufen verschiedenartige Rosenstöcke in gemahlten Töpfen so aufgestellt sind, daß durch sie die Figur eines lateinischen R. hervorgebracht wird.
 ---
+slug: jacobi-der-neujahrstag-auf-dem-lande
+author:
+  name: Jacobi, Johann Georg
+  wikidata: Q68209
+title: Der Neujahrstag auf dem Lande
+subtitle: Ein Vorspiel in einem Aufzuge
+numberOfScenes: 4
+printed: 1792
+formalia:
+  - Prosa
+editions:
+  - title: "Johann Georg Jacobi: Theatralische Schriften. Nachtrag zu seinen sämtlichen Werken. Leipzig: Göschen 1792, S. 209–240"
+    url: https://books.google.com/books?id=OhNhAAAAcAAJ&pg=PA209
+cast:
+  - name: Christoph,
+    role: ein Bauer.
+    gender: m
+  - group:
+      - name: Hannchen,
+        gender: f
+      - name: Liesel,
+        role: ein Kind von sechs Jahren,
+        gender: f
+    role: beyde seine Töchter.
+  - name: Michel,
+    role: ein Bauer.
+    gender: m
+  - name: Wilhelm,
+    role: sein Sohn.
+    gender: m
+  - name: Ernst,
+    role: Jäger des Barons von Burchheim.
+    gender: m
+setting: >-
+  Die Scene ist eine Bauernstube.
+---
+slug: jacobi-die-wallfahrt-nach-compostel
+author:
+  name: Jacobi, Johann Georg
+  wikidata: Q68209
+title: Die Wallfahrt nach Compostel
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1792
+premiered: 1791
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 150
+editions:
+  - title: "Johann Georg Jacobi: Theatralische Schriften. Nachtrag zu seinen sämtlichen Werken. Leipzig: Göschen 1792, S. 163–208"
+    url: https://books.google.com/books?id=OhNhAAAAcAAJ&pg=PA163
+  - title: "J. G. Jacobi's sämmtliche Werke. Vierter Band. Dritte, rechtmäßige Original-Ausgabe. Zürich: Orell, Füßli und Compagnie 1819, S. 151–189"
+    url: https://books.google.com/books?id=ecI3AQAAMAAJ&pg=RA1-PA151
+comments:
+  - "In der Vorrede (1819, [S. 153](https://books.google.com/books?id=ecI3AQAAMAAJ&pg=RA1-PA153)) wird der Autor gegen den Vorwurf verteidigt: »Ein Protestant habe die katholische Religion angetastet, und lächerlich zu machen gesucht«."
+keywords:
+  - Religion
+cast:
+  - name: Jacob,
+    role: Wirth in einer Dorfschenke.
+    gender: m
+  - name: Gertrud,
+    role: seine Frau.
+    gender: f
+  - name: Klärchen,
+    role: ihre Tochter, in Pilgerkleidern.
+    gender: f
+  - name: Karl,
+    role: ein Dragoner.
+    gender: m
+  - name: Flitterbach,
+    role: Leutnant unter den Dragonern.
+    gender: m
+  - name: Martin,
+    role: ein alter Waldbruder, in Pilgerkleidern.
+    gender: m
+setting: >-
+  Wirthsstube in einer Dorfschenke.
+---
 slug: jester-das-duell-oder-das-junge-ehepaar
 author:
   name: Jester, Friedrich Ernst
@@ -16808,6 +17199,57 @@ cast:
     role: Bedienter des Hrn v. Seltheim.
     gender: m
 setting: Der Schauplatz ist auf dem Gute des Herrn von Seltheim.
+---
+slug: juenger-der-ton-unserer-zeiten
+author:
+  name: Jünger, Johann Friedrich
+  wikidata: Q1693594
+title: Der Ton unserer Zeiten
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1792
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 157–158
+editions:
+  - title: "Leipzig: Göschen 1792"
+    url: https://books.google.com/books?id=6G9yJ4kO6HkC&printsec=frontcover
+  - title: "Wien: Wallishausser 1804"
+    url: https://books.google.com/books?id=g947MpQV4ZkC&printsec=frontcover
+comments:
+  - Im Erstdruck 1792 Hinweis auf Einaktigkeit nur auf dem Schmutztitel nach dem Deckblatt.
+keywords:
+  - Geld
+  - Moral
+  - Eheanbahnung
+  - Verstellspiel
+cast:
+  - name: Herr von Reichenfeld.
+    gender: m
+  - name: Gräfin Hohenberg,
+    role: dessen Schwester.
+    gender: f
+  - name: Julie,
+    role: dessen Tochter.
+    gender: f
+  - name: Frau von Elsing,
+    role: eine junge Witwe.
+    gender: f
+  - name: Baron von Kolditz.
+    gender: m
+  - name: Baron von Saarburg,
+    role: sein Vetter.
+    gender: m
+  - name: Schiefer,
+    role: Haushofmeister des Baron von Kolditz.
+    gender: m
+  - name: Lieschen,
+    role: Kammermädchen der Gräfin.
+    gender: f
+setting: >-
+  Die Handlung ist auf dem Landgute des Herrn von Reichenfeld. (Die Szene ist ein großes Gesellschaftszimmer mit verschiedenen Thüren, auf der einen Seite, nach dem Hintergrunde zu, ein Sofa.
 ---
 slug: juenger-die-komoedie-aus-dem-stegreife
 author:
@@ -34289,6 +34731,43 @@ cast:
     isGroup: true
     gender: m
 setting: Der Schauplatz ist in einer einsamen Gegend.
+---
+slug: wezel-herr-quodlibet
+author:
+  name: Wezel, Johann Karl
+  wikidata: Q114493
+title: Herr Quodlibet
+subtitle: Ein Lustspiel in Einem Akte und in Versen
+numberOfScenes: 1
+printed: 1787
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 177
+editions:
+  - title: "Leipzig: Dyk 1787"
+    url: https://books.google.com/books?id=QTRJAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr von Naugard.
+    gender: m
+  - name: Max,
+    role: sein Sohn.
+    gender: m
+  - name: Scharlotte,
+    role: seine Tochter.
+    gender: f
+  - name: Fritz,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Quodlibet,
+    role: ein Dichter.
+    gender: m
+  - name: Luise,
+    role: Scharlottens Mädchen.
+    gender: f
+setting: >-
+  In Scharlottens Stube.
 ---
 slug: wichmann-die-cabale
 author:
