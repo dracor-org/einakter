@@ -5209,6 +5209,41 @@ setting: Der Schauplatz ist bey einem Buchladen in Paris.
 location:
   wikidataId: Q90
 ---
+slug: anonym-eduart-und-minna
+author:
+  pseudonym: Anonym
+title: Eduart und Minna
+subtitle: Ein Familiengemälde in einem Aufzuge
+numberOfScenes: 15
+printed: 1790
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 24–25
+editions:
+  - title: "Schemnitz: Sulzer 1790"
+cast:
+  - name: Minna.
+    gender: f
+  - name: Elisabeth,
+    role: ihre Mutter.
+    gender: f
+  - name: Klaus,
+    role: Wirth.
+    gender: m
+  - name: Lord Winsthon.
+    gender: m
+  - name: William,
+    role: sein Diener.
+    gender: m
+  - name: Fritz.
+    gender: m
+  - name: Ein Juwelier.
+    gender: m
+setting: >-
+  Das Theater stellet ein Zimmer im Wirthshause vor. In einer Eke des Zimmers liegt auf einem Schieb Stroh ein kleiner Knab, und schläft. Minna sieht gedankenvoll das Kind an.
+---
 slug: anonym-emilie-oder-die-philosophisch-verliebten
 author:
   pseudonym: Anonym
@@ -24383,6 +24418,7 @@ comments:
   - "Auch unter dem Titel »Der Schatz. Eine Comödie des Herrn Leßing in einem Aufzuge« (Hamburg 1768)."
   - "Zum Zweiakter umgearbeitete Wiener Fassung 1771: »Der Schatz, ein Lustspiel in zween Aufzügen, von Herrn Gotthold Ephraim Leßing«."
   - "Auch als Zweiakter gedruckt: »Der Schatz. Lustspiel in zwei Aufzügen« (Nürnberg: Raspe 1786)."
+  - "Erstaufführung vermutlich 1754 (vgl. Ursula Schulz: [Lessing auf der Bühne](https://books.google.com/books?hl=de&id=VWJcAAAAMAAJ), 1977, S. 243). Sonst vermutlich Erstaufführung durch Ackermann 1755 in Königsberg (vgl. Franz Graul: [Lessing als Lustspieldichter](https://books.google.com/books?id=LFsVAAAAYAAJ&pg=PA204), 1869)."
 ids:
   dracor: ger000249
   wikidata: Q56255327
