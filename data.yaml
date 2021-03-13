@@ -2617,6 +2617,66 @@ setting: >-
   Der Schauplatz ist ein Saal in Sehkrafts Hause; im Grunde eine Mittel- und
   rechter und linker Hand eine Seitenthüre.
 ---
+slug: anonym-der-retter-des-vaterlandes
+author:
+  pseudonym: Anonym
+title: Der Retter des Vaterlandes
+subtitle: Scenen aus den ersten Zeiten Deutschlands in einem Aufzuge mit Gesang
+numberOfScenes: 13
+printed: 1797
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 294–295
+editions:
+  - title: "Wien: Rehm 1797"
+cast:
+  - name: Varus,
+    role: römischer Oberbefehlshaber.
+    gender: m
+  - name: Hermann,
+    role: römischer Feldherr.
+    gender: m
+  - name: Segest,
+    role: ein deutscher Fürst im Bunde mit den Römern.
+    gender: m
+  - name: Siegmund,
+    role: dessen Sohn im Dienste der Römer.
+    gender: m
+  - name: Vallo,
+    role: Oberdruide.
+    gender: m
+  - name: Ein Druide,
+    role: welcher redet.
+    gender: m
+  - name: Ein Hauptmann der Deutschen.
+    gender: m
+  - name: Druiden.
+    isGroup: true
+    gender: m
+  - name: Barden.
+    isGroup: true
+    gender: m
+  - name: Oberpriesterinn der Deutschen und
+    gender: f
+  - name: alte Wahrsagerinnen.
+    isGroup: true
+    gender: f
+  - name: Deutsche Weiber.
+    isGroup: true
+    gender: f
+  - name: Deutsche Soldaten und Volk.
+    isGroup: true
+    gender: u
+  - name: Römische Soldaten und Volk.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht in Deutschland unweit des Teutoburger Waldes vor.
+location:
+  wikidataId: Q109773
+---
 slug: anonym-der-schoene-geist
 author:
   pseudonym: Anonym
@@ -2884,6 +2944,42 @@ cast:
         gender: m
     role: Aufwärter.
 setting: Ein Zimmer auf dem Zunfthause, wo der Ball gegeben wird.
+---
+slug: anonym-der-trauschein
+author:
+  name: H.
+  pseudonym: Anonym
+title: Der Trauschein
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1796
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 117
+editions:
+  - title: "Cöthen: Aue 1796"
+  - title: "Neue Sammlung Deutscher Schauspiele. Fünften Jahrgangs Neunter Band. Grätz 1800"
+    url: https://books.google.com/books?id=pwszAQAAMAAJ&pg=RA3-PA9
+cast:
+  - name: Jürge Krumbaum,
+    role: Dorfrichter.
+    gender: m
+  - name: Marie,
+    role: dessen Frau.
+    gender: f
+  - name: Röse,
+    role: beyder Töchter.
+    gender: f
+  - name: Martin Meyer,
+    role: Unterofficier.
+    gender: m
+  - name: Jobsen,
+    role: Schulmeister.
+    gender: m
+setting: >-
+  Die Scene ist eine ländliche Gegend, im Vorgrund ein Haus, und vor demselben eine Rasenbank.
 ---
 slug: anonym-der-ueberfall
 author:
@@ -4085,6 +4181,45 @@ cast:
     gender: m
   - name: Eine Nachbarinn.
     gender: f
+---
+slug: anonym-die-schleppen
+author:
+  pseudonym: Anonym
+title: Die Schleppen
+subtitle: Deutsches Original-Nachspiel in einem Acte
+numberOfScenes: 1
+printed: 1797
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 297
+editions:
+  - title: "Grätz 1797"
+    url: https://books.google.com/books?id=rPxj0jj3B8sC&printsec=frontcover
+cast:
+  - name: Akmee,
+    role: eine junge Frau.
+    gender: f
+  - group:
+      - name: Laura,
+        gender: m
+      - name: Philinde,
+        gender: f
+    role: Cousinen der Frau Räthinn.
+  - name: Frau Räthinn Sprecher.
+    gender: f
+  - name: Herr Sprecher,
+    role: deren Sohn.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+  - name: Eine weibliche Bedientinn.
+    gender: f
+setting: >-
+  Die Scene ist zu Berlin in der Vorstadt. Ein gut gebautes und anständig meublirtes Haus, und dessen Visiten-Zimmer.
+location:
+  wikidataId: Q64
 ---
 slug: anonym-die-schoene-nanette
 author:
@@ -12755,6 +12890,61 @@ cast:
     role: ein alter Bettler
     gender: m
 ---
+slug: eckartshausen-der-hofrath
+author:
+  name: Eckartshausen, Karl von
+  wikidata: Q67274
+title: Der Hofrath
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1783
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 394–395
+editions:
+  - title: "München: Strobel 1783"
+    url: https://books.google.com/books?id=j9daAAAAcAAJ&printsec=frontcover
+  - title: "Prag: Diesbach 1785"
+    url: https://books.google.com/books?id=qNUZ8lbJ7hUC&printsec=frontcover
+comments:
+  - Einakterhinweis erst im Untertitel der Ausgabe von 1785.
+keywords:
+  - Justizwesen
+  - Gott
+  - Religion
+  - Recht
+  - Judentum
+  - Rolle der Frau
+cast:
+  - name: Herr Seltenmann,
+    role: Hofrath.
+    gender: m
+  - name: Hofkammerrath Ehrlich.
+    gender: m
+  - name: Hofkammerräthinn.
+    gender: f
+  - name: Karl,
+    role: ihr Söhnchen.
+    gender: m
+  - name: Mons. La Broche,
+    role: ein Avanturier.
+    gender: m
+  - name: Herr Schleichwurm,
+    role: ein Advokat.
+    gender: m
+  - name: Moyses,
+    role: ein Jud.
+    gender: m
+  - name: Schneck,
+    role: ein Schreiber.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung geht vor in dem Hause des Hofraths Seltenmann.
+---
 slug: eckartshausen-der-pudelhund
 author:
   name: Eckartshausen, Karl von
@@ -13653,6 +13843,34 @@ cast:
     gender: m
 setting: >-
   Die Scene ist auf dem Landsitze desselben. (Ein Lustwäldchen bei dem gräflichen Schlosse.)
+---
+slug: gaensberger-campaspe-oder-die-wahl-der-liebe
+author:
+  name: Gänsberger, Joseph Franz
+title: Campaspe oder die Wahl der Liebe
+subtitle: Ein Schauspiel in einem Aufzug
+numberOfScenes: 11
+printed: 1796
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 108
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1796"
+    url: https://books.google.com/books?id=DPVc4hHqVIAC&printsec=frontcover
+cast:
+  - name: Alexander,
+    role: König von Mazedonien.
+    gender: m
+  - name: Klytus,
+    role: ein Führer des Heeres.
+    gender: m
+  - name: Apelles,
+    role: der Mahler.
+    gender: m
+  - name: Campaspe.
+    gender: f
 ---
 slug: gaertner-die-schoene-rosette
 author:
