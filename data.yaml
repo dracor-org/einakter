@@ -4056,6 +4056,88 @@ cast:
 setting: >-
   Das Theater stellt ein einfaches, aber wohl meublirtes Zimmer in des jungen Thalheims Hause vor. Thalheim sitzt allein mit wild herumirrendem Blicke, einen offenen Brief in der Hand bey einem Tische, das Gefühle der Verzweiflung zeigt sich in seinen Gesichtszügen. Er hat die Beine übergeschlagen, mit der Rechten, die auf seinem Knie liegt, hält er den obbesagten Brief, die Linke ist über den Sessel geschlungen. Lange Pause, in der er zitternd den Brief betrachtet. Mit dem ganzen Ausdrucke der inneren Seelenqual.
 ---
+slug: anonym-die-liebe-im-reichsnarrenspitale
+author:
+  pseudonym: Anonym
+title: Die Liebe im Reichsnarrenspitale
+subtitle: Ein Nachspiel mit Gesang in einem Aufzuge nach Herrn Stephanie dem jüngern, mit der Musik des Herrn Ditters Edlen von Dittersdorf
+numberOfScenes: 2
+created: 1795
+printed: 1796
+formalia:
+  - Verse
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 33
+editions:
+  - title: "Germania im Jahr 1795. Stuttgard 1796, S. 151–174"
+    url: https://books.google.com/books?id=ztBNAQAAMAAJ&pg=PA151
+comments:
+  - Der angegebene Druck hört auf S. 174 mitten im Satz auf.
+cast:
+  - name: Homan,
+    role: Reichsnarrenspitalmeister, Ritter von Hochfürstlich Koklikoschen Jagdorden des heiligen Labre.
+    gender: m
+  - name: Bauwau,
+    role: Oekonom des Reichsnarrenspitals.
+    gender: m
+  - name: Josephe,
+    role: dessen Tochter.
+    gender: f
+  - name: Kreszentia,
+    role: ihre Dienstjungfer.
+    gender: f
+  - name: Albert Baron von Subsidiendorf,
+    role: Liebhaber der Josephe.
+    gender: m
+  - name: Merkur,
+    role: ein Gott.
+    gender: m
+  - group:
+      - name: Graf Skrbhasi aus Hungarn und
+        gender: m
+      - name: Baron Wechselbrief aus Wien,
+        gender: m
+    role: Reisende.
+  - group:
+      - name: Riem,
+        role: ein Expriester
+        gender: m
+      - name: Kaufmann,
+        role: ein Exschreiber
+        gender: m
+      - name: Baron von Rappelda der erste
+        gender: m
+      - name: Baron von Rappelda der zweite
+        gender: m
+      - name: Baron von Subsidiendorf,
+        role: Vater des Liebhabers der Josephe
+        gender: m
+      - name: Spaz,
+        role: ein Doktor
+        gender: m
+      - name: Herr von Lukkenberg
+        gender: m
+      - name: Baron von Federkilow
+        gender: m
+      - name: Lebanche
+        gender: f
+    role: "Kranke im Spitale: Reichsnarren."
+  - group:
+      - name: Minchen Demarkationslinie
+        gender: f
+      - name: Käthchen Freiheit
+        gender: f
+      - name: Baberle Gleichheit
+        gender: f
+    role: Reichsnärrinnen.
+  - name: Nikolo,
+    role: Reichsnarrenwächter.
+    gender: m
+setting: >-
+  Das Theater stellt den innern Hof des Spitals vor. Zu beiden Seiten Pavillons mit Krankenstuben, die jedes ein mit eisernen Gittern wohlverwahrtes Fenster, auch noch von außen Läden zum Zumachen haben. Uiber jedem Fenster befindet sich eine Nummer. Das Theater wird von der äußern inwendig mit einem Baumgange eingefaßten Mauer des Spitals geschlossen. In der Mitte derselben ist die Einfahrt von der Straße her, ein Thor, und eine Einlaßthüre. An den Seiten siehet man Gange, die hinter die Pavillons führen.
+---
 slug: anonym-die-melonen-oder-die-zaenkerinn
 author:
   pseudonym: Anonym
@@ -4465,6 +4547,44 @@ cast:
     role: Diener des Baron.
     gender: m
 setting: Das Stück spielt im Garten des Fräulein von Heim.
+---
+slug: anonym-die-studentenstube
+author:
+  pseudonym: Anonym
+title: Die Studentenstube
+subtitle: In Einem Aufzug
+numberOfScenes: 11
+printed: 1779
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 39
+editions:
+  - title: "Beytrag zu kleinen Schauspielen für die Jugend. Frankfurt am Mayn: Eßlinger 1779, S. 93–118"
+    url: https://books.google.com/books?id=0_FYAAAAcAAJ&pg=PA93
+  - title: "Theatralische Sammlung. Hundert und Achtzigster Band. Wien: Jahn 1796, S. 93–118"
+    url: https://books.google.com/books?id=LyrV6OQfPmUC&pg=RA2-PA93
+cast:
+  - group:
+      - name: Herr Sittenwald.
+        gender: m
+      - name: Herr Alber.
+        gender: m
+      - name: Herr Raufbold.
+        gender: m
+      - name: Herr Trinkerheld.
+        gender: m
+      - name: Herr Spielmann.
+        gender: m
+    role: Studenten.
+  - name: Der Sekretarius der Universität.
+    gender: m
+  - name: Johann,
+    role: Albers Junge oder Bedienter.
+    gender: m
+setting: >-
+  Die Scene ist ein Zimmer auf der Universität.
 ---
 slug: anonym-die-trauer-oder-der-betrogene-pachter
 author:
@@ -9485,6 +9605,48 @@ cast:
     role: Bedienter des Herrn von Antenor.
     gender: m
 setting: Die Bühne stellt ein Wohnzimmer vor.
+---
+slug: boesenberg-die-amerikanische-waise
+author:
+  name: Bösenberg, Heinrich
+  wikidata: Q17575492
+title: Die amerikanische Waise
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 22
+printed: 1791
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Le philosophe dupé de l'amour. Comédie en un acte«](https://books.google.com/books?id=9VdaAAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 310
+editions:
+  - title: "Theatralische Sammlung, Sechsunddreyßigster Band. Wien: Jahn 1793, S. 211–263"
+    url: https://books.google.com/books?id=RhFkAAAAcAAJ&pg=PA211
+  - title: "Hannover: Wehrhahn 2020"
+    url: https://www.wehrhahn-verlag.de/public/index.php?ID_Section=3&ID_Product=1394
+cast:
+  - name: Mifflin,
+    role: ein alter Philosoph und Astronom, Vormund und Lehrer der Jenny.
+    gender: m
+  - name: Clara,
+    role: seine Frau.
+    gender: f
+  - name: Betty,
+    role: Mifflins Schwester.
+    gender: f
+  - name: Jenny,
+    role: eine Waise.
+    gender: f
+  - name: Sir Burton,
+    role: Jennys Liebhaber.
+    gender: m
+  - name: John,
+    role: sein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung geht vor in Amerika. (Die Bühne stellt ein angenehmes Thal vor, welches mit Bäumen besetzt ist, im Hintergrunde Gebürge. Die Koulissen an der einen Seite gleichfalls Felsen, an der andern Seite sieht man eine ländliche Wohnung.)
 ---
 slug: boesenberg-einer-prellt-den-andern
 author:
@@ -17265,6 +17427,8 @@ editions:
     url: https://books.google.com/books?id=f8pIAAAAcAAJ&pg=RA2-PA1
   - title: "Wien: Wallishausser 1800"
     url: https://books.google.com/books?id=1T8Ou87DTtcC&printsec=frontcover
+comments:
+  - In undatierten Manuskripten auch mit den Untertiteln »Schauspiel in einem Aufzuge« und »Ein Lust-Spiel in einem Akt«.
 keywords:
   - Magnetismus
   - Eheanbahnung
@@ -17656,6 +17820,57 @@ cast:
     role: Bauern.
 setting: >-
   Eine Landgegend vor einem kleinen Städtchen, zu beyden Seiten Gebüsch, auf der linken ein Bauernhaus.
+---
+slug: iffland-liebe-um-liebe
+author:
+  name: Iffland, Wilhelm August
+  wikidata: Q215115
+title: Liebe um Liebe
+subtitle: Ein ländliches Schauspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1785
+premiered: 1785-11-20
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 245
+  - name: iffland
+    pages: S. 157–161
+editions:
+  - title: "Mannheim: Hof- und akadem. Buchhandlung [1785]"
+    url: https://books.google.com/books?id=sLI7AAAAcAAJ&printsec=frontcover
+  - title: "A. W. Ifflands dramatische Werke. Dreyzehnter Band. Leipzig: Göschen 1800"
+    url: https://books.google.com/books?id=ZV3v2MtPMLIC&pg=RA1-PA1
+  - title: "Gratz: Kienreich [ohne Jahr]"
+    url: https://books.google.com/books?id=IqOMXaMjA3kC&printsec=frontcover
+  - title: "Theater von Aug. Wilh. Iffland. Erste vollständige Ausgabe. Vierzehnter Band. Wien: Klang 1843, S. 217–198"
+    url: https://books.google.com/books?id=djEMLaGd-48C&pg=PA217
+cast:
+  - name: Jakob Reder,
+    role: ein alter Bauer.
+    gender: m
+  - group:
+      - name: Karl,
+        role: Soldat
+        gender: m
+      - name: Friedrich
+        gender: m
+    role: seine Söhne.
+  - name: Margrethe,
+    role: eine Wittwe.
+    gender: f
+  - name: Sophie,
+    role: ihre Tochter.
+    gender: f
+  - name: Christoph,
+    role: ein Bauer.
+    gender: m
+  - name: Konrad,
+    role: Pachter aus einem benachbarten Lande.
+    gender: m
+setting: >-
+  Die Handlung geht in einem entlegenen Dorfe vor.
 ---
 slug: iffland-liussan-fuerst-von-garisene
 author:
@@ -30115,7 +30330,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 15, S. 84
 editions:
-  - title: "Des Herrn von Saintfoix Theatralische Werke, Aus dem Französischen übersetzt. Erster Theil. Leipzig: Wendler 1750, S. 1–24"
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Erster Theil. Leipzig: Wendler 1750, S. 1–24"
     url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA1
 comments:
   - Weitere Übersetzungen [1745](anonym-das-orakel-1745) und [1752](anonym-das-orakel-1752) (beide anonym).
@@ -30213,6 +30428,51 @@ setting: Der Schauplatz ist zu Paris in dem Hause der Frau Roquentin.
 location:
   wikidataId: Q90
 ---
+slug: schlegel-die-doppelte-verkleidung
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Die doppelte Verkleidung
+subtitle: Ein Lustspiel in einem Aufzuge, das am 29 May 1747 zum erstenmale aufgeführt worden
+numberOfScenes: 13
+printed: 1750
+premiered: 1747-05-29
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Le double déguisement. Comédie en un acte, en prose«](https://books.google.com/books?id=UTlmAAAAcAAJ&pg=PA245)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 15, S. 84–85
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Zweiter Theil. Leipzig: Wendler 1750, S. 277–304"
+    url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA277
+cast:
+  - name: Damis.
+    gender: m
+  - name: Erast.
+    gender: m
+  - name: Pamphilus,
+    role: in eine Frauensperson verkleidet, unter dem Namen Marton.
+    gender: m
+  - name: Rosalie,
+    role: in eine Mannsperson verkleidet, unter dem Namen Valentin.
+    gender: f
+  - name: Isabelle.
+    gender: f
+  - name: Marine.
+    gender: f
+  - name: Ein Commissarius.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+  - name: Ein Gärtner.
+    gender: m
+setting: >-
+  Der Schauplatz ist zu Venedig in des Damis Hause.
+location:
+  wikidataId: Q641
+---
 slug: schlegel-die-grazien
 author:
   name: Schlegel, Johann Elias
@@ -30229,7 +30489,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 15, S. 81
 editions:
-  - title: "Des Herrn von Saintfoix Theatralische Werke, Aus dem Französischen übersetzt. Erster Theil. Leipzig: Wendler 1750, S. 163–207"
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Erster Theil. Leipzig: Wendler 1750, S. 163–207"
     url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA163
 comments:
   - Weitere Übersetzung [1748 (anonym)](anonym-die-gratien).
@@ -34612,6 +34872,44 @@ setting: >-
   umgedreht, der Vorhang nach hinten. Das Stück spielt am Abend, nach Endigung
   des Trauerspiels Emilia Galotti.
 ---
+slug: vulpius-zufall-und-laune
+author:
+  name: Vulpius, Christian August
+  wikidata: Q65376
+title: Zufall und Laune
+subtitle: Ein Lustspiel in Einem  Aufzuge
+numberOfScenes: 24
+printed: 1794
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 258–259
+editions:
+  - title: "Prag und Leipzig: Albrecht 1794"
+    url: https://books.google.com/books?id=MLqercKHSxAC&printsec=frontcover
+cast:
+  - name: Amalie von Schönau,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Major von Wüstenthal.
+    gender: m
+  - name: Frohberg.
+    gender: m
+  - name: Marwald,
+    role: Gastwirth zur blauen Lilie.
+    gender: m
+  - name: Bernhardine,
+    role: seine Tochter.
+    gender: f
+  - name: Robert,
+    role: Wachtmeister.
+    gender: m
+  - name: Hausknecht.
+    gender: m
+setting: >-
+  Saal mit Seitenthüren.
+---
 slug: wagenseil-der-freymaurer
 author:
   name: Wagenseil, Christian Jakob
@@ -35538,6 +35836,49 @@ cast:
     gender: m
 setting: Der Schauplatz ist auf einem Saale mit etlichen Thüren.
 ---
+slug: weisse-die-dorfhochzeit
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Die Dorfhochzeit
+subtitle: In Einem Abschnitte
+numberOfScenes: 1
+printed: 1794
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 264
+editions:
+  - title: "Dramatische Unterhaltungen zur Belehrung und zum Vergnügen junger Personen von der Verfasserin des blinden Kindes. Aus dem Englischen. Leipzig: Gräff 1794, S. 259–278"
+    url: https://gdz.sub.uni-goettingen.de/id/PPN1022426966?tify={%22pages%22:[271]}
+cast:
+  - name: Lord Aubrey,
+    role: Herr des Dorfs.
+    gender: m
+  - name: Obrister Nesbit.
+    gender: m
+  - group:
+      - name: Lady Aubrey,
+        gender: f
+      - name: Miß Nesbit,
+        gender: f
+    role: seine Töchter.
+  - name: Robert,
+    role: ein alter Bauer.
+    gender: m
+  - name: Lieschen,
+    role: dessen Tochter.
+    gender: f
+  - name: Philipp,
+    role: Lieschens Bräutigam.
+    gender: m
+  - name: Bauern.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene, ein freyer Platz hinter einer Hütte.
+---
 slug: weisse-die-matrone-von-ephesus
 author:
   name: Weiße, Christian Felix
@@ -36066,7 +36407,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 23, S. 185
 editions:
-  - title: "Des Herrn von Saintfoix Theatralische Werke, Aus dem Französischen übersetzt. Vierter Theil. Leipzig: Fritsch 1768, S. 251–270"
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Vierter Theil. Leipzig: Fritsch 1768, S. 251–270"
 comments:
   - Weitere Übersetzung [1764 (anonym)](anonym-der-dervisch).
 ---
