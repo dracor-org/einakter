@@ -2073,6 +2073,47 @@ cast:
     role: Informator bey diesen Kindern.
     gender: m
 ---
+slug: anonym-der-herr-gevatter-oder-der-sanftmuethige-ehemann
+author:
+  pseudonym: Anonym
+title: Der Herr Gevatter oder der sanftmüthige Ehemann
+subtitle: Ein Lustspiel von einem Aufzuge
+numberOfScenes: 32
+printed: 1770
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 23, S. 416–417
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1770"
+    url: https://books.google.com/books?id=pVFZAAAAcAAJ&printsec=frontcover
+comments:
+  - "»Vorlage: Ev. eine Erzählung von Prévost.« (Meyer)"
+cast:
+  - name: Ernst.
+    gender: m
+  - name: Claudia,
+    role: dessen Frau, in Hochgelahrt verliebt.
+    gender: f
+  - name: Hochgelahrt,
+    role: ein einfältiger Advocat und närrischer Liebhaber von Claudien.
+    gender: m
+  - group:
+      - name: Thomas, und
+        gender: m
+      - name: Ehrlich,
+        gender: m
+    role: Ernsts Vertraute.
+  - name: Friedlieb,
+    role: Hochgelahrts Freund.
+    gender: m
+  - name: Martin,
+    role: ein Hausgenosse des Ernsts.
+    gender: m
+setting: >-
+  Der Schauplatz ist in einem Gartenhause.
+---
 slug: anonym-der-junge-herr
 author:
   pseudonym: Anonym
@@ -3066,6 +3107,49 @@ cast:
     role: von Birtens Bedienter.
     gender: m
 setting: Die Handlung ist auf Reichenaus Landgute.
+---
+slug: anonym-der-unverschwiegene
+author:
+  pseudonym: Anonym
+title: Der Unverschwiegene
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 21
+printed: 1746
+formalia:
+  - Prosa
+basedOn:
+  - "Voltaire: [»L'indiscret. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/VOLTAIRE_INDISCRET.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 13, S. 216
+editions:
+  - title: "Des Herrn Arouet von Voltaire sämmtliche Schauspiele, nebst den dazu gehörigen Schriften, aus dem Französischen von verschiedenen Federn übersetzet. Erster Band. Nürnberg: Raspe 1766, S. 139–176"
+    url: https://books.google.com/books?id=-yY6AAAAcAAJ&pg=PA139
+comments:
+  - Erstes Erscheinen dieser Übersetzung 1746, allerdings unter dem alternativen Titel »Der Klätscher. Ein Nachspiel«, also ohne Einakterhinweis im Titel. Ansonsten ist die Ausgabe von 1766 laut Meyer ein »Neudruck der Ausgabe von 1746«.
+  - Im Original in Alexandrinern.
+keywords:
+  - Leben am Hof
+  - Eheanbahnung
+  - Mutter-Sohn-Beziehung
+cast:
+  - name: Euphemie.
+    gender: f
+  - name: Damis.
+    gender: m
+  - name: Hortensia.
+    gender: f
+  - name: Pasquin.
+    gender: m
+  - name: Clitander.
+    gender: m
+  - name: Trasimon.
+    gender: m
+  - name: Nerine.
+    gender: f
+  - name: Einige Laquayen.
+    isGroup: true
+    gender: m
 ---
 slug: anonym-der-vermeynte-nebenbuhler
 author:
@@ -24365,9 +24449,9 @@ dictionaries:
     pages: 2. Abteilung, Band 12, S. 252–254
 editions:
   - title: "Sechs Lust-Spiele. Anfänglich in Dänischer Sprache geschrieben von Herrn Ludwig Holberg. Hamburg und Leipzig 1743, S. 1–46"
-    url: https://books.google.com/books?id=7hBgAAAAcAAJ&pg=PA1
+    url: https://books.google.com/books?id=7hBgAAAAcAAJ&pg=PA101
   - title: "Die Dänische Schaubühne. 1. Band. Copenhagen und Leipzig: Rothens sel. Wittwe 1752, S. 1–46"
-    url: https://books.google.com/books?id=bC5PAAAAcAAJ&pg=PA1
+    url: https://books.google.com/books?id=bC5PAAAAcAAJ&pg=PA101
 comments:
   - Von [Kotzebue 1810](https://books.google.com/books?id=WZIktQEACAAJ&printsec=frontcover) auch als Zweiakter.
 keywords:
@@ -25482,6 +25566,49 @@ cast:
     role: Ein Herrschafts Amtmann.
     gender: m
 ---
+slug: lindheimer-die-cremonseser-geige
+author:
+  name: Lindheimer, Friedrich
+title: Die Cremoneser Geige
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 16
+printed: 1798
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 3, S. 1239 und S. 1311
+editions:
+  - title: "Theater-Stücke. Von Dr. Fridrich Lindheimer. Frankfurt am Main: Zeßler 1798, S. 9–70"
+    url: https://books.google.com/books?id=a1dIAAAAcAAJ&pg=PA9
+keywords:
+  - Eheanbahnung
+  - Lotto
+cast:
+  - name: Weinhold,
+    role: Stadtmusikant.
+    gender: m
+  - name: Frau Weinhold,
+    role: seine Frau.
+    gender: f
+  - name: Friedericke,
+    role: seine Tochter.
+    gender: f
+  - name: Rossel,
+    role: Schulmeister.
+    gender: m
+  - name: Grünthal,
+    role: Förster.
+    gender: m
+  - name: Tänzler,
+    role: Wirth.
+    gender: m
+  - name: Kehr,
+    role: Aufwärter.
+    gender: m
+setting: >-
+  Ort der Handlung: Ein kleines Landstädtchen.
+---
 slug: loeper-so-gehts-wenn-man-dem-gesinde-die-aufsicht-der-kinder-ueberlaesst
 author:
   name: Loeper, Christian Philipp Gabriel
@@ -26591,6 +26718,72 @@ cast:
     role: dessen Diener.
     gender: m
 setting: Die Handlung gehet in dem Leichtsinnischen Hause vor.
+---
+slug: muechler-das-verauctionirte-serail
+author:
+  name: Müchler, Karl Friedrich
+  wikidata: Q1374429
+title: Das verauctionirte Serail
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 23
+printed: 1795
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 437–438
+editions:
+  - title: "Dramatische Bagatellen von Karl Müchler. Zweytes Bändchen. Berlin: Hartmann 1795, S. 129–182"
+    url: https://www.digitale-bibliothek-mv.de/viewer/image/PPN1031221808/137/
+cast:
+  - name: Usbek,
+    role: ein abgesetzter Wessir.
+    gender: m
+  - name: Osmin,
+    role: sein Vertrauter.
+    gender: m
+  - name: Nadine,
+    role: eine Peruanerinn.
+    gender: f
+  - name: Der Kadileskier.
+    gender: m
+  - name: Der Ausrufer.
+    gender: m
+  - name: Eine Georgianerinn.
+    gender: f
+  - name: Eine Cirkassierinn.
+    gender: f
+  - name: Eine Mingrelierinn.
+    gender: f
+  - name: Eine Französinn.
+    gender: f
+  - name: Eine Engländerinn.
+    gender: f
+  - name: Eine Venetianerinn.
+    gender: f
+  - name: Eine Alte.
+    gender: f
+  - name: Eine Lapländerinn.
+    gender: f
+  - name: Ein arabischer Kaufmann.
+    gender: m
+  - name: Ein griechischer Kaufmann.
+    gender: m
+  - name: Ein Jude.
+    gender: m
+  - name: Ein Sklave des Mufti.
+    gender: m
+  - name: Curli,
+    role: Sklave des Cadi.
+    gender: m
+  - name: Verschiedene Kaufleute und andere Liebhaber.
+    isGroup: true
+    gender: m
+  - name: Vier Stumme
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist im Usbekschen Pallaste.
 ---
 slug: mueller-der-fleissige-schuster
 author:
@@ -27877,6 +28070,48 @@ cast:
 setting: Der Schauplatz ist in Dionysens Pallaste.
 location:
   wikidataId: Q13670
+---
+slug: piper-verlust-durch-gewinn-und-gewinn-durch-verlust
+author:
+  name: Piper, Friedrich
+  wikidata: Q94874234
+title: Verlust durch Gewinn und Gewinn durch Verlust
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 18
+printed: 1795
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 445
+editions:
+  - title: "Olla Potrida. Erstes Stück. Berlin: Wever 1795, S. 43–100"
+    url: https://books.google.com/books?id=x2su6W5poVgC&pg=PA43
+cast:
+  - name: Etatsrath von Hilzer.
+    gender: m
+  - name: Ludwig,
+    role: sein Sohn.
+    gender: m
+  - name: Lisette,
+    role: seine Tochter.
+    gender: f
+  - name: Berginspector Malwitz.
+    gender: m
+  - name: Hofrath Barner.
+    gender: m
+  - name: Heinrich,
+    role: sein Sohn.
+    gender: m
+  - name: Julchen,
+    role: seine Tochter.
+    gender: f
+  - name: Johann,
+    role: des Hofraths Bedienter.
+    gender: m
+  - name: Friedrich,
+    role: des Etatsraths Bedienter.
+    gender: m
 ---
 slug: pitt-warum
 author:
