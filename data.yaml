@@ -14824,7 +14824,7 @@ setting: >-
 ---
 slug: goethe-der-buergergeneral
 author:
-  name: Goethe, Johann Wolfgang von
+  name: Goethe, Johann Wolfgang
   wikidata: Q5879
 title: Der Bürgergeneral
 subtitle: Ein Lustspiel in einem Aufzuge. Zweyte Fortsetzung der beyden Billets
@@ -14869,7 +14869,7 @@ setting: Der Schauplatz ist in Märtens Hause, wie in den vorigen Stücken.
 ---
 slug: goethe-die-laune-der-verliebten
 author:
-  name: Goethe, Johann Wolfgang von
+  name: Goethe, Johann Wolfgang
   wikidata: Q5879
 title: Die Laune der Verliebten
 subtitle: Ein Schäferspiel in Versen und einem Akte
@@ -14899,6 +14899,44 @@ cast:
     gender: m
   - name: Lamon.
     gender: m
+---
+slug: goethe-die-mitschuldigen
+author:
+  name: Goethe, Johann Wolfgang
+  wikidata: Q5879
+title: Die Mitschuldigen
+subtitle: Ein Lustspiel in Einem Ackte
+numberOfScenes: 15
+created: 1769
+printed: 1909
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 304
+editions:
+  - title: "Alfred Döll: Goethes Mitschuldigen. Mit Anhang: Abdruck der ältesten Handschrift. Halle a. S.: Niemeyer 1909, S. 221–271"
+    url: https://archive.org/details/goethesmitschuld00dl/page/220/mode/2up
+  - title: "Goethes poetische Werke. Vollständige Ausgabe. Dritter Band. Stuttgart: Cotta 1953, S. 36–69"
+    url: https://books.google.com/books?id=Y2jfAAAAMAAJ&pg=PA35
+comments:
+  - Erste Fassung in einem Akt (1768/69, Erstdruck 1909), zweite Fassung in drei Akten (1769, diese dann 1776 in Weimar uraufgeführt), weitere Fassungen in zwei Akten, Erstdruck der überarbeiteten Version 1787.
+  - "Von Johann Friedrich Ernst Albrecht unter dem Titel [»Alle strafbar. Ein Lustspiel in zwei Akten«](https://books.google.com/books?id=fflKAAAAcAAJ&printsec=frontcover) (1795) bearbeitet."
+  - "Ausführlicher Vergleich der verschiedenen Fassungen in: Döll 1909, [S. 164–171](https://archive.org/details/goethesmitschuld00dl/page/164/mode/2up)."
+ids:
+  dracor: ger000178
+  wikidata: Q1214841
+cast:
+  - name: Alcest.
+    gender: m
+  - name: Sophie.
+    gender: f
+  - name: Söller.
+    gender: m
+  - name: Der Wirth.
+    gender: m
+setting: >-
+  Das Theater ist getheilt, der Haupttheil stellt das Zimmer Alcests, der kleinere einen Alkoven vor.
 ---
 slug: goethe-die-wette
 author:
@@ -24247,6 +24285,36 @@ cast:
 setting: >-
   Ein großer Saal mit einer Mittel- und zwei Seitenthüren. Links steht ein hoher Schrank. Aus den Fenstern im Hintergrunde geht die Aussicht auf das freie Feld.
 ---
+slug: kurlaender-shakspeare-als-liebhaber
+author:
+  name: Kurländer, Franz August von
+  wikidata: Q55122987
+title: Shakspeare als Liebhaber
+subtitle: Lustspiel in einem Act. Nach Duval frey bearbeitet
+numberOfScenes: 11
+printed: 1818
+premiered: 1817-07-29
+formalia:
+  - Prosa
+basedOn:
+  - "Alexandre Duval: [»Shakespeare amoureux. Comédie en un acte«](https://books.google.com/books?id=BCRu97gniZIC&printsec=frontcover)"
+editions:
+  - title: "Almanach dramatischer Spiele für Gesellschafts-Theater. Von Franz August von Kurländer. Achter Jahrgang. Wien: Wallishausser 1818, S. 1–44"
+    url: https://books.google.com/books?id=SC9JAAAAcAAJ&pg=PA1
+cast:
+  - name: William Shakspeare.
+    gender: m
+  - name: Miß Eveline,
+    role: Schauspielerinn.
+    gender: f
+  - name: Miß Jenny,
+    role: ihre Verwandte.
+    gender: f
+  - name: Bedienter.
+    gender: m
+setting: >-
+  Ein Saal im Geschmacke der Zeit der Königinn Elisabeth. Ein Tisch, worauf ein hoher Armleuchter steht, gegenüber ein Schreibpult.
+---
 slug: kurz-die-frohlockenden-schaefer
 author:
   name: Kurz, Joseph Felix von
@@ -25952,12 +26020,67 @@ cast:
 setting: >-
   Die Handlung geschieht auf dem Gute des Herrn von Roststaub. (Vorzimmer auf Roststaubs Landhause, mit einer durch einen Vorhang bekleideten Mittel- und zwei Seitenthüren. Das Ameublement ist im Geschmacke, ungefähr des 14ten Jahrhunderts, contrastirend mit der neumodischen Tapezerie u. dergl. der jetzigen Zeit. Rechts ein hoher Schirm.)
 ---
+slug: marinelli-aller-anfang-ist-schwer
+author:
+  name: Marinelli, Karl von
+  wikidata: Q1733642
+title: Aller Anfang ist schwer
+subtitle: Ein Gelegenheitsstück in einem Aufzuge. Bey Eröfnung des neuerbauten Schauspielhauses in der Leopoldstadt
+numberOfScenes: 11
+printed: 1781
+premiered: 1781-10-20
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 102 und S. 107
+editions:
+  - title: "[Wien] 1781"
+    url: https://books.google.com/books?id=m7urzSNKZAkC&printsec=frontcover
+cast:
+  - name: Herr Marinelli,
+    role: der ältere.
+    gender: m
+  - name: Herr Menninger.
+    gender: m
+  - name: Herr Richter.
+    gender: m
+  - name: Herr la Roche.
+    gender: m
+  - name: Herr Marinelli,
+    role: der jüngere.
+    gender: m
+  - name: Herr Reisenhueber.
+    gender: m
+  - name: Herr Schretter.
+    gender: m
+  - name: Herr Kiendl.
+    gender: m
+  - name: Herr Wolschowsky.
+    gender: m
+  - name: Mad. Menninger.
+    gender: f
+  - name: Mad. Richter.
+    gender: f
+  - name: Mad. la Roche.
+    gender: f
+  - name: Mad. Reisenhueber.
+    gender: f
+  - name: Mad. Kiendl.
+    gender: f
+  - name: Mad. Wolschowsky.
+    gender: f
+  - name: Mad. Marinelli
+    gender: f
+setting: >-
+  Das Theater stellt in ersteren Auftritten des Unternehmers Wohnung, und hernach die Schaubühne selbst vor.
+---
 slug: marinelli-der-anfang-muss-empfehlen
 author:
   name: Marinelli, Karl von
   wikidata: Q1733642
 title: Der Anfang muß empfehlen
-subtitle: Ein Vorspiel in einem Aufzuge. Eigentlich für Preßburg Verfertiget von dem älteren Marinelli. einem deutschen Schauspieler
+subtitle: Ein Vorspiel in einem Aufzuge. Eigentlich für Preßburg. Verfertiget von dem älteren Marinelli. einem deutschen Schauspieler
 numberOfScenes: 12
 printed: 1774
 formalia:
@@ -26398,6 +26521,40 @@ setting: Schauplatz in Hamburg. Haus der Frau von Baldern.
 location:
   wikidataId: Q1055
 ---
+slug: metternich-die-freudenthraenen-oder-die-dankbaren-kinder
+author:
+  name: Metternich, Kaspar
+title: Die Freudenthränen oder die dankbaren Kinder
+subtitle: Versuch eines kleinen Lustspieles für Kinder in einem Aufzuge
+numberOfScenes: 4
+printed: 1781
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 111
+editions:
+  - title: "Prag: Hagen 1781"
+cast:
+  - name: Octavius,
+    role: Wittwer und Vater der
+    gender: m
+  - name: Julie, und
+    gender: f
+  - name: Sophie,
+    role: Juliens Schwester.
+    gender: f
+  - group:
+      - name: Erasius,
+        gender: m
+      - name: Antonie,
+        gender: f
+      - name: Columbine,
+        gender: f
+    role: Sophiens Kinder und Enkel des Octavius.
+setting: >-
+  Die Handlung geht vor in einem Zimmer des Octavius.
+---
 slug: meyer-das-portefeuille
 author:
   name: Meyer, Friedrich Albrecht Anton
@@ -26719,9 +26876,44 @@ cast:
     gender: m
 setting: Die Handlung gehet in dem Leichtsinnischen Hause vor.
 ---
+slug: muechler-das-geheimniss
+author:
+  name: Müchler, Karl
+  wikidata: Q1374429
+title: Das Geheimniß
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 24
+printed: 1795
+premiered: 1801-02-10
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 436
+editions:
+  - title: "Dramatische Bagatellen von Karl Müchler. Zweytes Bändchen. Berlin: Hartmann 1795, S. 81–128"
+    url: https://digitale-bibliothek-mv.de/viewer/image/PPN1031221808/89/
+cast:
+  - name: Der Amtmann.
+    gender: m
+  - name: Töffel.
+    gender: m
+  - name: Anne,
+    role: seine Frau.
+    gender: f
+  - name: Lotte.
+    gender: f
+  - name: Gürge.
+    gender: m
+  - name: Rose,
+    role: seine Braut.
+    gender: f
+setting: >-
+  Der Schauplatz ist in Töffel's Hause.
+---
 slug: muechler-das-verauctionirte-serail
 author:
-  name: Müchler, Karl Friedrich
+  name: Müchler, Karl
   wikidata: Q1374429
 title: Das verauctionirte Serail
 subtitle: Lustspiel in einem Aufzuge
@@ -26785,6 +26977,136 @@ cast:
 setting: >-
   Der Schauplatz ist im Usbekschen Pallaste.
 ---
+slug: muechler-der-bildhauer
+author:
+  name: Müchler, Karl
+  wikidata: Q1374429
+title: Der Bildhauer
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 15
+printed: 1794
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 201
+editions:
+  - title: "Dramatische Bagatellen von Karl Müchler. Erstes Bändchen. Berlin: Hartmann 1794, S. 49–100"
+    url: https://www.digitale-bibliothek-mv.de/viewer/image/PPN1031221794/57/
+  - title: "Grätz 1796"
+    url: https://books.google.com/books?id=acZHAAAAcAAJ&printsec=frontcover
+comments:
+  - Aus dem Französischen.
+cast:
+  - name: Kolbe,
+    role: ein Bildhauer.
+    gender: m
+  - name: Julie,
+    role: seine Tochter.
+    gender: f
+  - name: Rink der Vater,
+    role: ein Kaufmann.
+    gender: m
+  - name: Rink,
+    role: der Sohn.
+    gender: m
+  - name: Ein Marionettenspieler.
+    gender: m
+  - name: Ein Kutscher.
+    gender: m
+  - name: Jacob,
+    role: Kolbens Lehrling.
+    gender: m
+  - name: Zwei Träger.
+    isGroup: true
+    gender: m
+setting: >-
+  Der Schauplatz stellt ein Zimmer in Kolbens Wohnung vor, das mit verschiedenen Bildsäulen, Vasen und dergleichen verziert ist.
+---
+slug: muechler-der-scharlachmantel
+author:
+  name: Müchler, Karl
+  wikidata: Q1374429
+title: Der Scharlachmantel
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 15
+printed: 1794
+formalia:
+  - Prosa
+basedOn:
+  - Aus dem Französischen.
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 201–202
+editions:
+  - title: "Dramatische Bagatellen von Karl Müchler. Erstes Bändchen. Berlin: Hartmann 1794, S. 1–48"
+    url: https://www.digitale-bibliothek-mv.de/viewer/image/PPN1031221794/9/
+  - title: "Grätz 1797"
+    url: https://books.google.com/books?id=8AiZxQEACAAJ&printsec=frontcover
+cast:
+  - name: Herr von Mansfeld.
+    gender: m
+  - name: Frau von Mansfeld.
+    gender: f
+  - name: Fräulein von Steinbach.
+    gender: f
+  - name: Henriette,
+    role: Kammermädchen der Frau von Mansfeld.
+    gender: f
+  - group:
+      - name: Peter,
+        role: Gärtner.
+        gender: m
+      - name: Anton,
+        role: Hägereiter.
+        gender: m
+    role: in Diensten des Herrn von Mansfeld.
+setting: >-
+  Die Handlung geschieht im Schlosse des Herrn von Mansfeld. (Der Schauplatz stellt einen Saal vor; auf der einen Seite desselben erblickt man eine Thür, mit einem kleinen Gitter davor.)
+---
+slug: muechler-was-kuemmerts-mich
+author:
+  name: Müchler, Karl
+  wikidata: Q1374429
+title: Was kümmert's mich!
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 16
+printed: 1794
+premiered: 1794-05-24
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 202
+editions:
+  - title: "Dramatische Bagatellen von Karl Müchler. Erstes Bändchen. Berlin: Hartmann 1794, S. 193–252"
+    url: https://www.digitale-bibliothek-mv.de/viewer/image/PPN1031221794/201/
+comments:
+  - Aus dem Französischen.
+cast:
+  - name: Herr Felix.
+    gender: m
+  - name: Madame Felix.
+    gender: f
+  - name: Herr Berghoff,
+    role: der Vater.
+    gender: m
+  - name: Herr Berghoff,
+    role: der Sohn.
+    gender: m
+  - group:
+      - name: Philipp,
+        role: Gärtner.
+        gender: m
+      - name: Susanne,
+        role: Hausmädchen.
+        gender: f
+    role: in Diensten des Herrn Felix.
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Der Schauplatz stellt einen Saal im Landhause des Herrn Felix vor.
+---
 slug: mueller-der-fleissige-schuster
 author:
   name: Müller, Johann Georg
@@ -26824,6 +27146,48 @@ cast:
     gender: m
 setting: >-
   Das Theater stellt ein klein, dunkel Zimmer, elend meublirt, und eine Schuster-Werkstatt vor; hinten erblickt man einen Alkov, wo man die Vorhänge eines Bett's sieht.
+---
+slug: mueller-friedberg-die-eroberung-von-sant-lucia
+author:
+  name: Müller-Friedberg, Karl von
+  wikidata: Q1230748
+title: Die Eroberung von Sant Lucia
+subtitle: Ein Drama in einem Aufzuge. Von dem Verfasser der Schlacht bey Morgarten. Aus der französischen Urschrift von einem Freund übersetzt
+numberOfScenes: 8
+printed: 1781
+formalia:
+  - Prosa
+basedOn:
+  - "Karl von Müller-Friedberg: [»La prise de Sainte Lucie. Drame en un acte«](https://books.google.com/books?id=V7vSxwEACAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 114–115
+editions:
+  - title: "Schafhausen: Hurter 1781"
+    url: https://books.google.com/books?id=j746AAAAcAAJ&printsec=frontcover
+comments:
+  - Auch unter dem Titel »Die Eroberung von Sant Lucia, [...] in einer Abhandlung« (Theaterzettel).
+  - "Weitere Übersetzungen: [»Die Eroberung von St. Lucie«](schmidt-die-eroberung-von-st-lucie) (1781, Schmidt) und [»Blanford und Charlotte oder die Eroberung von St. Lucie«](valentini-blanford-und-charlotte-oder-die-eroberung-von-st-lucie) (1782, Valentini)."
+cast:
+  - name: Ludwig Blanford,
+    role: ein Franzose, der sich zu St. Lucia haushäblich niedergelassen.
+    gender: m
+  - name: Charlotte Blanford,
+    role: seine Gattin.
+    gender: f
+  - name: Sir Robert,
+    role: ein Englischer Seeofficier.
+    gender: m
+  - name: S***,
+    role: Major unter den Landtruppen, ein Sweizer von Geburt.
+    gender: m
+  - name: Jakob,
+    role: Bedienter des Sir Robert.
+    gender: m
+setting: >-
+  Der Schauplatz ist auf der Insel St. Lucia in dem Haus des Blanfords.
+location:
+  wikidataId: Q760
 ---
 slug: mueller-stirbt-der-fuchs-so-gilt-sein-balg
 author:
@@ -28194,6 +28558,61 @@ cast:
     role: ihre Zofe.
     gender: f
 ---
+slug: pleissner-der-amerikaner
+author:
+  name: Pleißner, Heinrich Christian
+  wikidata: Q95324122
+title: Der Amerikaner
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Inhalt des le Sauvage
+numberOfScenes: 17
+printed: 1783
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 439
+editions:
+  - title: "Frankfurt und Leipzig: Fleischer 1783"
+    url: https://books.google.com/books?id=skFbAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Baxdorf,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Caroline,
+    role: seine Tochter.
+    gender: f
+  - group:
+      - name: Lehmann,
+        role: ein junger Kaufmann.
+        gender: m
+      - name: von Mahr,
+        role: Hauptmann.
+        gender: m
+    role: Carolinens Liebh.
+  - name: Akkum,
+    role: der Amerikaner, geht anfangs als Matrose gekleidet.
+    gender: m
+  - name: Therese,
+    role: Karolinens Kammermädchen.
+    gender: f
+  - name: Ein Kaufmann.
+    gender: m
+  - name: Ein Notar.
+    gender: m
+  - name: Anton,
+    role: Lehmanns Bedienter.
+    gender: m
+  - name: Ein Friseur.
+    gender: m
+  - name: Bediente.
+    isGroup: true
+    gender: u
+  - name: Häscher.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Scene ist in einem Gasthofe zu N.
+---
 slug: ploetz-die-gunst-der-kleinen-oder-die-hintertreppe
 author:
   name: Plötz, Johann von
@@ -28487,6 +28906,41 @@ setting: >-
   Die Handlung spielt in der Hauptstadt von Khouzistan. (Der Schauplatz ist eines von Bekirs Zimmern mit zwey Thüren im Grunde und einem Seiteneingang.)
 location:
   wikidataId: Q170366
+---
+slug: ratschky-der-theaterkizel
+author:
+  name: Ratschky, Joseph Franz
+  wikidata: Q1545582
+title: Der Theaterkizel
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1781
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 123
+editions:
+  - title: "Wien: Gerold 1781"
+    url: https://books.google.com/books?id=1BdaAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr Schillenborg,
+    role: ein Kaufmann.
+    gender: m
+  - name: Isidor,
+    role: dessen Sohn.
+    gender: m
+  - name: Petersburger,
+    role: Hofmeister.
+    gender: m
+  - name: Niklas,
+    role: Hausknecht.
+    gender: m
+  - name: Margreth,
+    role: Köchinn.
+    gender: f
+setting: >-
+  Die Handlung spielt in Schillenborgs Hause. (Der Schauplaz ist Isidors Studierstube, mit drey Thüren, wovon die im Hintergrunde die Hausthüre vorstellt, die beyden Seitenthüren aber, die eine zur Küche, die andre zu den übrigen Zimmern führt.)
 ---
 slug: raupach-der-bettler
 author:
@@ -31120,6 +31574,50 @@ cast:
     gender: u
 setting: Ein einfach meublirtes Zimmer.
 ---
+slug: schmidt-die-eroberung-von-st-lucie
+author:
+  name: Schmidt, Carl Friedrich
+title: Die Eroberung von St. Lucie
+subtitle: Ein Schauspiel in einem Aufzuge. Frey aus dem Französischen übersetzt
+numberOfScenes: 8
+printed: 1781
+premiered: 1781-08-25
+formalia:
+  - Prosa
+basedOn:
+  - "Karl von Müller-Friedberg: [»La prise de Sainte Lucie. Drame en un acte«](https://books.google.com/books?id=V7vSxwEACAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 135
+editions:
+  - title: "Wien 1781"
+    url: https://books.google.com/books?id=4M5UAAAAcAAJ&printsec=frontcover
+comments:
+  - "Weitere Übersetzungen: [»Die Eroberung von Sant Lucia«](mueller-friedberg-die-eroberung-von-sant-lucia) (1781, Müller-Friedberg) und [»Blanford und Charlotte oder die Eroberung von St. Lucie«](valentini-blanford-und-charlotte-oder-die-eroberung-von-st-lucie) (1782, Valentini)."
+cast:
+  - name: Ludwig Blanford,
+    role: Franzose, zu St. Lucie satzhaft.
+    gender: m
+  - name: Charlotte,
+    role: seine Gattinn.
+    gender: f
+  - name: Sir Robert,
+    role: Engländer, Seeofficier.
+    gender: m
+  - name: S***,
+    role: Major von den Landtruppen, ein Schweizer.
+    gender: m
+  - name: Arcadie,
+    role: Charlottens Freundinn.
+    gender: f
+  - name: Jacob,
+    role: Sir Roberts Diener.
+    gender: m
+setting: >-
+  Der Schauplatz ist in der Insel St. Lucie, in Blanfords Hause.
+location:
+  wikidataId: Q760
+---
 slug: schmidt-nur-er-will-sprechen
 author:
   name: Schmidt, Friedrich Ludwig
@@ -32125,6 +32623,141 @@ cast:
 setting: Die Scene ist in Wien. (Wohnzimmer bey Storch.)
 location:
   wikidataId: Q1741
+---
+slug: schroeder-die-komoedie
+author:
+  name: Schröder, Friedrich Ludwig
+  wikidata: Q213877
+title: Die Komödie
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1783
+premiered: 1783-11-01
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 472–473
+editions:
+  - title: "Wien 1783"
+    url: https://books.google.com/books?id=4RrCs9TNYJoC&printsec=frontcover
+cast:
+  - name: Frau von Adelberg,
+    role: Henriettens Mutter.
+    gender: f
+  - name: Baronin Amelung,
+    role: Baron Kleeburgs Tante.
+    gender: f
+  - name: Frau von Mehler,
+    role: ihre gemeinschaftliche Freundinn.
+    gender: f
+  - name: Baron Kleeburg.
+    gender: m
+  - name: Henriette von Adelberg.
+    gender: f
+  - name: Franz,
+    role: des Barons Kammerdiener.
+    gender: m
+  - name: Therese,
+    role: Henriettens Kammermädchen.
+    gender: f
+  - name: Bernhard,
+    role: des Pachters Sohn.
+    gender: m
+  - name: Lieschen,
+    role: des Gärtners Tochter.
+    gender: f
+  - name: Ein Notarius.
+    gender: m
+setting: >-
+  Die Handlung ist auf dem Landgut der Frau von Adelberg.
+---
+slug: schroeder-jeder-fege-vor-seiner-thuer
+author:
+  name: Schröder, Friedrich Ludwig
+  wikidata: Q213877
+title: Jeder fege vor seiner Thür
+subtitle: Ein Sprichwort in einem Aufzuge. Aus dem Französischen
+numberOfScenes: 12
+printed: 1783
+premiered: 1783-05-31
+formalia:
+  - Prosa
+basedOn:
+  - "De Beaunoir: [»Jérome Pointu. Comédie en un acte et en prose«](https://books.google.com/books?id=V5oTAAAAQAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 471–472
+editions:
+  - title: "Wien 1783"
+    url: https://books.google.com/books?id=5DxOAAAAcAAJ&printsec=frontcover
+  - title: "Neue Auflage. Hamburg: Bachmann und Gundermann 1805"
+    url: https://books.google.com/books?id=i4EUAAAAQAAJ&printsec=frontcover
+  - title: "Dritte Auflage. Hamburg: Gundermann 1810"
+    url: https://books.google.com/books?id=q2pkAAAAcAAJ&printsec=frontcover
+comments:
+  - Auch unter den Titeln »Jeder fege vor seiner Thür. Ein dramatisirtes Sprichwort, in einem Aufzuge. Aus dem Französischen« (1805) und »Jeder fege vor seiner Thüre. Lustspiel in einem Aufzug« (1824).
+  - "Zur Autorschaft: »Übs. von Schröder und/oder F. L. W. Meyer – oder beiden zusammen.« (Meyer)"
+cast:
+  - name: Hieronimus Spiz,
+    role: Prokurator.
+    gender: m
+  - name: Falk,
+    role: sein Schreiber.
+    gender: m
+  - name: Hanne,
+    role: seine Köchin.
+    gender: f
+  - name: Schnuren,
+    role: ein Schreiber aus Kaufbeuren.
+    gender: m
+setting: >-
+  Scene; ein Zimmer des Prokurators in einer Reichsstadt. Rechts steht ein Schreibtisch, und links ein Triktrack Brett.
+---
+slug: schroeder-weder-einer-noch-der-andere
+author:
+  name: Schröder, Friedrich Ludwig
+  wikidata: Q213877
+title: Weder einer noch der andere
+subtitle: Eine Posse in einem Aufzuge
+numberOfScenes: 21
+printed: 1783
+premiered: 1781-04-21
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 475
+editions:
+  - title: "Wien 1783"
+    url: https://books.google.com/books?id=E91MRV5fBCQC&printsec=frontcover
+cast:
+  - name: Herr Trautmann,
+    role: ein Bürger.
+    gender: m
+  - name: Madam Trautmann,
+    role: dessen Frau.
+    gender: f
+  - name: Josepha,
+    role: ihre Tochter.
+    gender: f
+  - name: Therese,
+    role: ihr Mädchen.
+    gender: f
+  - name: Mannstein,
+    role: Josephens Liebhaber.
+    gender: m
+  - name: Sturm,
+    role: Josephens Bräutigam.
+    gender: m
+  - name: Rand,
+    role: dessen Vetter, ebenfals Josephens Bräutigam.
+    gender: m
+  - name: Paul,
+    role: Mannsteins Bediente.
+    gender: m
+setting: >-
+  Die Handlung ist in Trautmanns Hause.
 ---
 slug: schroeer-rein-gefegt
 author:
@@ -34902,6 +35535,47 @@ setting: >-
   vor, in der Mitte steht eine herrliche bedekte Tafel, an welcher die Götter,
   Peleus und Thetis sitzen.
 ---
+slug: valentini-blanford-und-charlotte-oder-die-eroberung-von-st-lucie
+author:
+  name: Valentini, Ernst
+  wikidata: Q52154361
+title: Blanford und Charlotte oder die Eroberung von St. Lucie
+subtitle: Ein Schauspiel in einem Aufzuge nach dem Französischen von E. V.
+numberOfScenes: 8
+printed: 1782
+formalia:
+  - Prosa
+basedOn:
+  - "Karl von Müller-Friedberg: [»La prise de Sainte Lucie. Drame en un acte«](https://books.google.com/books?id=V7vSxwEACAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 325
+editions:
+  - title: "Offenbach am Main: Weiß und Brede 1782"
+    url: https://books.google.com/books?id=CVtZAAAAcAAJ&printsec=frontcover
+comments:
+  - "Weitere Übersetzungen: [»Die Eroberung von Sant Lucia«](mueller-friedberg-die-eroberung-von-sant-lucia) (1781, Müller-Friedberg) und [»Die Eroberung von St. Lucie«](schmidt-die-eroberung-von-st-lucie) (1781, Schmidt)."
+cast:
+  - name: Ludwig Blanford,
+    role: ein französischer Kaufmann zu St. Lucie.
+    gender: m
+  - name: Charlotte,
+    role: seine Frau.
+    gender: f
+  - name: Sir Robert,
+    role: ein englischer Seeofficier.
+    gender: m
+  - name: Schrick,
+    role: Major unter den englischen Landtruppen.
+    gender: m
+  - name: Jakob,
+    role: Bedienter des Sir Robert.
+    gender: m
+setting: >-
+  Die Handlung geht auf der Insel St. Lucie in Blanfords Hause vor, und fängt vor Anbruch des Tags an. (Das Theater stellt ein reinlich aber nicht kostbar ausgeziertes Zimmer vor. Auf einem Tisch bemerkt man ein halbabgebranntes Wachslicht nebst einer Stickerei und einem offenen Kästchen mit Briefschaften. Charlotte hatte die ganze Nacht gewacht um die Briefe zu lesen, die sie von ihrem Mann aus Martinique erhalten, wo er sich Geschäfte halber seit sechs Monaten aufhält. Der Schlaf hat sie während dieser Beschäftigung überfallen; mit dem Kopf auf eine Hand gestützt, ist sie in einen tiefen Schlaf versunken, die andere worin sie nachläßig einen Brief hält, ruhet auf ihrem Schoos. – Man hört den Lärm einer wiederholten Losfeuerung der Artillerie, und das Getöse der Trommeln.)
+location:
+  wikidataId: Q760
+---
 slug: vanoni-zur-gesundheit
 author:
   name: Vanoni, B.
@@ -35230,6 +35904,44 @@ cast:
     gender: u
 setting: >-
   Scene, eine ländliche Gegend im Aufgang der Sonne. Conrads Haus.
+---
+slug: wagenseil-louise-von-walheim
+author:
+  name: Wagenseil, Christian Jakob
+  wikidata: Q1080444
+title: Louise von Walheim
+subtitle: Ein Schauspiel in einem Aufzug
+numberOfScenes: 10
+printed: 1783
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 489–490
+editions:
+  - title: "Kempten: Typographische Gesellschaft 1785"
+    url: https://books.google.com/books?id=hRpkAAAAcAAJ&printsec=frontcover
+keywords:
+  - Heimkehr-Motiv
+  - Eheanbahnung
+  - Soldatenstück
+cast:
+  - name: Der Präsident von Walheim.
+    gender: m
+  - name: Louise,
+    role: seine Tochter.
+    gender: f
+  - name: Marianne von Siegfried,
+    role: ihre Freundin.
+    gender: f
+  - name: Kammerherr von Berg.
+    gender: m
+  - name: Wilhelm von Baldern.
+    gender: m
+  - name: Ein Bedienter des Präsidenten.
+    gender: m
+setting: >-
+  Die Scene ist im Haus des Präsidenten.
 ---
 slug: wagner-die-koeningskroenung
 author:
