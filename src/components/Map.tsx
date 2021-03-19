@@ -22,8 +22,6 @@ data.forEach((p) => {
   }
 });
 
-console.log(locations);
-
 const markers = Object.entries(locations).map(([k, l]) => (
   <Marker position={l.coords} key={k}>
     <SettingsPopup plays={l.plays}/>
