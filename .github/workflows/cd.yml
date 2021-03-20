@@ -1,0 +1,35 @@
+# This workflow will do a clean install of node dependencies, run tests,
+# build the source code and deploy the resulting files to the staging server.
+
+name: CD
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '12.x'
+    - name: Restore node_modules
+      uses: actions/cache@v2
+      with:
+        path: node_modules
+        key: ${{ runner.os }}-${{ hashFiles('yarn.lock') }}
+
+    - run: yarn install
+    - run: yarn test --watchAll=false
+    - run: yarn build
+
+    - uses: webfactory/ssh-agent@v0.5.1
+      with:
+        ssh-private-key: ${{ secrets.DRACOR_ORG_DEPLOY_KEY }}
+
+    - name: Deploy to staging
+      run: rsync -rlvz --delete -e 'ssh -o StrictHostKeyChecking=no' build/ ${{ secrets.DRACOR_ORG_DEPLOY_USER }}@staging.dracor.org:${{ secrets.DEPLOY_PATH }}/
+      if: github.branch == 'master'
