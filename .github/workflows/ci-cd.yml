@@ -11,9 +11,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js
@@ -25,7 +23,13 @@ jobs:
       with:
         path: node_modules
         key: ${{ runner.os }}-${{ hashFiles('yarn.lock') }}
+
     - run: yarn install
     - run: yarn test --watchAll=false
     - run: yarn build
-      if: github.event == 'push'
+      # if: github.event == 'push'
+
+    - uses: webfactory/ssh-agent@v0.5.1
+      with:
+        ssh-private-key: ${{ secrets.DRACOR_ORG_DEPLOY_KEY }}
+    - run: rsync -rlvz --delete -e 'ssh -o StrictHostKeyChecking=no' build/ ${{ secrets.DRACOR_ORG_DEPLOY_USER }}@staging.dracor.org:${{ secrets.DEPLOY_PATH }}/
