@@ -32,4 +32,4 @@ jobs:
 
     - name: Deploy to staging
       run: rsync -rlvz --delete -e 'ssh -o StrictHostKeyChecking=no' build/ ${{ secrets.DRACOR_ORG_DEPLOY_USER }}@staging.dracor.org:${{ secrets.DEPLOY_PATH }}/
-      if: github.branch == 'master'
+      if: github.ref == 'refs/heads/master'
