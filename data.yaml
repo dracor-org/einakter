@@ -1231,6 +1231,37 @@ setting: >-
   Spinnrad, und einen kleinen Tisch, auf welchem etliche kleine Häfen mit
   Farben stehn.
 ---
+slug: anonym-das-impromptue
+author:
+  pseudonym: Anonym
+title: Das Impromptü
+subtitle: Lustspiel in einem Akt. Aus dem Französischen des Herrn von Sacy
+numberOfScenes: 14
+printed: 1784
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 28
+editions:
+  - title: "Olla Potrida. Viertes Stück. Berlin: Wever 1784, S. 157–168"
+    url: https://books.google.com/books?id=XONGAAAAcAAJ&pg=RA3-PA157
+cast:
+  - name: Die Gräfin.
+    gender: f
+  - name: Die Baronesse.
+    gender: f
+  - name: Der Marki.
+    gender: m
+  - name: Damon,
+    role: ein Dichter.
+    gender: m
+  - name: Champagne,
+    role: ein Bedienter.
+    gender: m
+setting: >-
+  Die Scene ist auf dem Schlosse des Marki.
+---
 slug: anonym-das-kaffee-haus-zu-paris
 author:
   pseudonym: Anonym
@@ -5664,6 +5695,44 @@ cast:
     gender: m
 setting: >-
   Das Theater stellet ein Zimmer im Wirthshause vor. In einer Eke des Zimmers liegt auf einem Schieb Stroh ein kleiner Knab, und schläft. Minna sieht gedankenvoll das Kind an.
+---
+slug: anonym-eile-mit-weile
+author:
+  pseudonym: Anonym
+title: Eile mit Weile
+subtitle: Sprichwort in einem Aufzuge
+numberOfScenes: 22
+printed: 1785
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 174
+editions:
+  - title: "Olla Potrida. Drittes Stück. Berlin: Wever 1785, S. 8–28"
+    url: https://books.google.com/books?id=x_5kAAAAcAAJ&pg=PA8
+cast:
+  - name: Von Arny,
+    role: ein Patricier.
+    gender: m
+  - name: Seine zweyte Frau.
+    gender: f
+  - name: Seine Tochter erster Ehe.
+    gender: m
+  - name: Semund.
+    gender: m
+  - name: Notarius Brusbart.
+    gender: m
+  - name: Arnys Bedienter.
+    gender: m
+  - name: Ein Schlosser.
+    gender: m
+  - name: Ein Schneider.
+    gender: m
+  - name: Ein Schneiderbursche.
+    gender: m
+setting: >-
+  Scene: Ein Zimmer des von Orny[!].
 ---
 slug: anonym-emilie-oder-die-philosophisch-verliebten
 author:
@@ -22914,6 +22983,10 @@ editions:
   - title: "Reval: Iversen und Fehmer 1789"
 comments:
   - "Auch unter dem Titel [»Die väterliche Erwartung; Schauspiel mit Gesang in 1 Aufzuge«](https://books.google.com/books?id=gQdiWkjoHzAC&pg=PA241)."
+ids:
+  wikidata: Q61401691
+location:
+  wikidataId: Q191
 ---
 slug: kotzebue-die-wittwe-und-das-reitpferd
 author:
@@ -25933,6 +26006,48 @@ setting: >-
 location:
   wikidataId: Q2079
 ---
+slug: maier-esserig-esserogum-oder-die-misslungene-spekulazion
+author:
+  name: Maier, Jacob
+  wikidata: Q94929414
+title: Eßerig-Eßerogum oder Die mißlungene Spekulazion
+subtitle: Ein Lustspiel in einem Aufzug
+premiered: 1784-12-16
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 110–111
+editions:
+  - title: "Aus denen hinterlassenen Schriften des verstorbenen Herrn Hofgerichts-Raths Meyer. [Undat. Ms.]"
+cast:
+  - name: Färber,
+    role: ein Kaufmann.
+    gender: m
+  - name: Luise,
+    role: dessen Tochter erster Ehe.
+    gender: f
+  - name: Werner,
+    role: ein Fiscal, Luisens Liebhaber.
+    gender: m
+  - name: Heinrich,
+    role: ein Kaufmann, Luisens Oheim.
+    gender: m
+  - name: Albert,
+    role: Färbers Buchhalter.
+    gender: m
+  - name: Klimm,
+    role: Färbers Ladenknecht.
+    gender: m
+  - group:
+      - name: Manachum und
+        gender: m
+      - name: Löwgen,
+        gender: m
+    role: zween Juden.
+setting: >-
+  Der Schauplaz ist in der [...]stube des Hrn. Färbers.
+---
 slug: malss-die-jungfern-koechinnen
 author:
   name: Malß, Carl
@@ -26592,6 +26707,51 @@ setting: >-
 location:
   wikidataId: Q1741
 ---
+slug: meyer-der-graue-bruder
+author:
+  name: Meyer, Friedrich Albrecht Anton
+  wikidata: Q1998397
+title: Der graue Bruder
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1792
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 184
+editions:
+  - title: "Olla Potrida. Zweites Stück. Berlin: Wever 1792, S. 50–67"
+    url: https://books.google.com/books?id=COVGAAAAcAAJ&pg=RA1-PA50
+comments:
+  - "Anmerkung unter dem Personenverzeichnis: »Der Stoff zu diesem Stücke ist zum Theil aus dem zweiten Bande von Veit Webers Sagen der Vorzeit, aus der Erzählung [›der graue Bruder‹](https://books.google.com/books?id=efJXAAAAcAAJ&pg=PA399) entlehnt.«"
+cast:
+  - name: Siegmund,
+    role: Graf von Hengsperg.
+    gender: m
+  - name: Maria,
+    role: seine Gemahlin.
+    gender: f
+  - name: Siegmund,
+    role: sein Sohn, ein Knabe von 6 Jahren.
+    gender: m
+  - name: Pater Wolffbrand,
+    role: Schloßcaplan.
+    gender: m
+  - group:
+      - name: Asmund von Ralow,
+        gender: m
+      - name: Lüder von Lindow,
+        gender: m
+      - name: Carl von Cleeborn,
+        gender: n
+    role: Waffenbrüder des Grafen von Hengsperg.
+  - name: Buben und Knechte des Grafen von Hengsperg.
+    isGroup: true
+    gender: m
+setting: >-
+  Das Stück spielt in der Nähe des Hengspergischen Schlosses und im Schlosse selbst. Die Handlung fällt in die Zeit der Kreutzzüge.
+---
 slug: meyer-ein-gestaendniss-oder-der-artikel-213-des-buergerlichen-gesetzbuchs
 author:
   name: Meyer, Ludwig
@@ -26703,6 +26863,63 @@ cast:
   - name: Ein Bedienter.
     gender: m
 setting: "Scene: ein Saal im Hause des Herrn von Homberg."
+---
+slug: meyer-treue-und-undank
+author:
+  name: Meyer, Friedrich Ludwig Wilhelm
+  wikidata: Q1460909
+title: Treue und Undank
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1781
+premiered: 1782-08-27
+formalia:
+  - Prosa
+basedOn:
+  - "James Solas Dodd: »Gallic Gratitude; or, The Frenchman in India. A Comedy in Two Acts« und Joseph de La Font: [»Le naufrage, ou La pompe funèbre de Crispin. Comédie en vers et en un acte«](https://books.google.com/books?id=BSvDfkhHMHEC&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 112–113
+editions:
+  - title: "Wien 1781"
+    url: https://books.google.com/books?id=tj68YKleinYC&printsec=frontcover
+  - title: "Berlin: Maurer 1782"
+    url: https://books.google.com/books?id=d9daAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Coßim,
+    role: Beherrscher von Salamandros.
+    gender: m
+  - name: Ali,
+    role: Hoherpriester der Sonne.
+    gender: m
+  - group:
+      - name: Haroun,
+        gender: m
+      - name: Decca,
+        gender: m
+    role: Staatsbediente der Insel.
+  - name: Sir Thomas Callico,
+    role: Statthalter von Madras.
+    gender: m
+  - name: La Bronze,
+    role: sein Kammerdiener.
+    gender: m
+  - name: Derby O Rudder,
+    role: Bootsmann.
+    gender: m
+  - name: Blanda,
+    role: Sir Thomas Gemahlin.
+    gender: f
+  - name: Therese,
+    role: ihre Schwester.
+    gender: f
+  - name: Priester, Priesterinnen, Wache etc.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene: Salamandros, eine der Maldivischen Inseln, in Ostindien.
+location:
+  wikidataId: Q826
 ---
 slug: moeser-die-tugend-auf-der-schaubuehne
 author:
@@ -27563,6 +27780,48 @@ setting: >-
   Die Handlung geschieht in Moskau im Jahre 1547. (Scene: Ein Saal im Palaste des Czaars.)
 location:
   wikidataId: Q649
+---
+slug: palm-fuerstenglueck
+author:
+  name: Palm, Johann Carl Wilhelm
+title: Fürstenglück
+subtitle: Ein fürstliches Original-Familiengemählde in einem Aufzuge
+numberOfScenes: 27
+printed: 1796
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 201–202
+editions:
+  - title: "Magdeburg 1796"
+    url: https://books.google.com/books?id=moBRAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Der Fürst.
+    gender: m
+  - name: Die Fürstin,
+    role: seine Gemahlin.
+    gender: f
+  - name: v. Ludewig,
+    role: fürstlicher Rath.
+    gender: m
+  - name: Gräfin Bella,
+    role: Gesellschafterin der Fürstin.
+    gender: f
+  - name: Der Flügelmann des Leib-Regiments.
+    gender: m
+  - name: Bertha,
+    role: seine Frau.
+    gender: f
+  - name: Albert,
+    role: ein alter Bauer.
+    gender: m
+  - name: Ein Kammerdiener.
+    gender: m
+  - name: Ein Knabe von etwa 4 Jahren.
+    gender: m
+setting: >-
+  Scene: Zimmer im fürstlichen Pallaste.
 ---
 slug: pantke-die-jugend
 author:
