@@ -1,16 +1,14 @@
-# This workflow will do a clean install of node dependencies, run tests and
-# build the source code
+# This workflow will do a clean install of node dependencies, run tests,
+# build the source code and deploy the resulting files to the staging server.
 
-name: CI/CD
+name: CD
 
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -27,9 +25,11 @@ jobs:
     - run: yarn install
     - run: yarn test --watchAll=false
     - run: yarn build
-      # if: github.event == 'push'
 
     - uses: webfactory/ssh-agent@v0.5.1
       with:
         ssh-private-key: ${{ secrets.DRACOR_ORG_DEPLOY_KEY }}
-    - run: rsync -rlvz --delete -e 'ssh -o StrictHostKeyChecking=no' build/ ${{ secrets.DRACOR_ORG_DEPLOY_USER }}@staging.dracor.org:${{ secrets.DEPLOY_PATH }}/
+
+    - name: Deploy to staging
+      run: rsync -rlvz --delete -e 'ssh -o StrictHostKeyChecking=no' build/ ${{ secrets.DRACOR_ORG_DEPLOY_USER }}@staging.dracor.org:${{ secrets.DEPLOY_PATH }}/
+      if: github.branch == 'master'
