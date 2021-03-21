@@ -10436,9 +10436,102 @@ cast:
 setting: >-
   Das Theater stellet einen Garten vor. Hier und da stehen einzelne Bäume. Es ist Nacht und um 10 Uhr.
 ---
+slug: bruehl-bald-klein-bald-gross
+author:
+  name: Brühl, Alois Friedrich von
+  wikidata: Q214283
+title: Bald Klein, bald Groß
+subtitle: Ein Feen-Lustspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1786
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 381
+editions:
+  - title: "Theatralische Belustigungen, von A. F. Gr. v. B. Dritter Theil. Dresden: Walther 1786, S. 225–264"
+    url: https://books.google.com/books?id=8SBfCPb0HlEC&pg=PA225
+  - title: "Dresden: Walther 1786"
+    url: https://books.google.com/books?id=pDNJAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Ritter Huniwald,
+    role: der Große.
+    gender: m
+  - name: Gerasmin,
+    role: sein Knappe.
+    gender: m
+  - name: Habacca,
+    role: eine Gnomide, Bewohnerin der Erde. Diese Rolle muß, wo möglich, durch eine Mannsperson, die klein und dicke ist, gespielt werden.
+    gender: f
+  - name: Hiacinthia,
+    role: Prinzeßin der Blumen-Insel.
+    gender: f
+  - name: Oberon,
+    role: zuerst unter der Gestalt eines alten Mütterchens, die sich auf Krücken stemmt.
+    gender: m
+  - name: Oldibrando,
+    role: ein Riese.
+    gender: m
+  - name: Verschiedene Prinzeßinnen.
+    isGroup: true
+    gender: f
+setting: >-
+  Eine wüste, felsichte Gegend. Man siehet den Ritter Huniwald und seinen Knappen Gerasmin, beyde in der Gestalt kleiner Knaben, auf spitzigen Felsen schlafend liegen. Gerasmin hat einen großen schwarzen Bart. Habacca eine Zauberruthe in der Hand, siehet bey Eröffnung des Theaters den Ritter Huniwald mit ergrimmten Augen an.
+---
+slug: bruehl-der-seltsame-spiegel
+author:
+  name: Brühl, Alois Friedrich von
+  wikidata: Q214283
+title: Der seltsame Spiegel
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1786
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 381
+editions:
+  - title: "Theatralische Belustigungen, von A. F. Gr. v. B. Dritter Theil. Dresden: Walther 1786, S. 161–224"
+    url: https://books.google.com/books?id=8SBfCPb0HlEC&pg=PA161
+  - title: "Dresden 1786"
+    url: https://books.google.com/books?id=Rr9TAAAAcAAJ&printsec=frontcover
+comments:
+  - "Hinweis unter dem Titel: »Die Veranlassung zu diesem Stücke hat ein Mährchen in der Tausend und einen Nacht gegeben.«"
+keywords:
+  - Tausendundeine Nacht
+  - Märchen
+  - Eheanbahnung
+cast:
+  - name: Almanzor,
+    role: Prinz des Königreichs Caschemire.
+    gender: m
+  - name: Moador,
+    role: ein alter Weiser, und gewissermaßen der Hofmeister des Prinzen.
+    gender: m
+  - name: Hali,
+    role: des Prinzen Sklave.
+    gender: m
+  - name: Nadine,
+    role: eine Tochter des Thoabecks.
+    gender: f
+  - name: Alzine,
+    role: ein junges aufgewecktes Mädchen.
+    gender: f
+  - name: Zulima,
+    role: eine sehr traurige Person.
+    gender: f
+  - name: Der Iman Hassan.
+    gender: m
+setting: >-
+  Die Bühne stellt ein Wirthshaus in Gros-Cairo vor.
+location:
+  wikidataId: Q85
+---
 slug: bruehl-die-ankunft-des-herrn
 author:
-  name: Brühl, Alois Friedrich
+  name: Brühl, Alois Friedrich von
   wikidata: Q214283
 title: Die Ankunft des Herrn
 subtitle: Ein Lustspiel in einem Aufzug. von A. F. G. V. B. G. F. Z. M. D. K. P.
@@ -36570,6 +36663,59 @@ setting: >-
   In der Mitte des Zimmers ist ein Vorhang, welcher offen steht, und hinter
   welchem man ein Bette sieht, worinn ein todter Knabe liegt.
 ---
+slug: weidmann-der-dorfbarbier
+author:
+  name: Weidmann, Paul
+  wikidata: Q114260
+title: Der Dorfbarbier
+subtitle: Ein Originallustspiel in einem Aufzug
+numberOfScenes: 9
+printed: 1785
+premiered: 1785-06-18
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 319–321, und Band 34, S. 256–258
+editions:
+  - title: "Wien 1785"
+    url: https://books.google.com/books?id=Z7SFQ7f01xUC&printsec=frontcover
+comments:
+  - Auch zu einem einaktigen Singspiel bearbeitet (1796).
+cast:
+  - name: Herr Lux,
+    role: ein Dorfbarbier.
+    gender: m
+  - name: Jungfer Suschen,
+    role: seine Mündel.
+    gender: f
+  - name: Herr Rund,
+    role: der Schulmeister.
+    gender: m
+  - name: Joseph,
+    role: ein Pächtersohn.
+    gender: m
+  - name: Adam,
+    role: ein Barbiergesell.
+    gender: m
+  - name: Frau Margareth,
+    role: eine Schmiedswittwe.
+    gender: f
+  - name: Peter,
+    role: ein Schneider.
+    gender: m
+  - group:
+      - name: Philipp
+        gender: m
+      - name: Thomas
+        gender: m
+    role: Geschworne.
+  - name: Andere Bauern.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung ist auf einem Dorf im Hause des Barbiers, und währt einen halben Tag. (Die Bühne ist durch das ganze Schauspiel eine ländliche Barbierstube mit allem häuslichen Geräthe. Durch die offenen Fenster und Thüren sieht man im Grunde in ein Wohnzimmer des Barbiers.)
+---
 slug: weidmann-der-podagrist
 author:
   name: Weidmann, Paul
@@ -38206,3 +38352,47 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist ein Hayn: zur Rechten eine Sommerlaube; zur Linken, etwas entfernet, zween Altare.
+---
+slug: zimdar-man-hat-der-beispiele
+author:
+  name: Zimdar, Karl Friedrich
+  wikidata: Q17278136
+title: Man hat der Beispiele
+subtitle: Ein Schauspiel in einem Aufzug
+numberOfScenes: 9
+printed: 1785
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 327–328
+editions:
+  - title: "Frankfurt am Main: Andreä 1785"
+    url: https://books.google.com/books?id=ZK9IAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Graf Wildheim,
+    role: Herr einer Herrschaft im herzoglichen Gebiete.
+    gender: m
+  - name: Fuchs,
+    role: dessen Kammerdiener.
+    gender: m
+  - name: Gutmann,
+    role: Wildheims Verwalter.
+    gender: m
+  - name: Sprengel,
+    role: gewesener Leibarzt des Herzogs, unter dem Namen Walter, welcher bey dem Grenzort des herzoglichen Gebiet's in einer nahe am Wald gelegenen einsamen Wohnung als Einsiedler lebt.
+    gender: m
+  - name: Karl,
+    role: sein Zögling.
+    gender: m
+  - name: Andres,
+    role: der Schulze aus Wildheims Dorf.
+    gender: m
+  - name: Maria,
+    role: seine Tochter.
+    gender: f
+  - name: Gerichtsvogt und Bauern.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist zu Anfang in Wildheims Schloß; hernach in Walters Wohnung an der Grenze des herzoglichen Gebiet's, in einer Bauernwohnung. (Die Handlung fängt mit dem Abend an, und dauert bis Mitternacht.)
