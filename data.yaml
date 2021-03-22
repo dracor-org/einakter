@@ -8855,6 +8855,60 @@ cast:
     gender: m
 setting: Der Schauplatz ist auf der Straße.
 ---
+slug: bilderbeck-barogo
+author:
+  name: Bilderbeck, Ludwig Benedict Franz von
+title: Barogo
+subtitle: Eine Posse in Einem Aufzuge. Nach dem Französischen
+numberOfScenes: 29
+printed: 1793
+formalia:
+  - Prosa
+basedOn:
+  - "Maurin de Pompigny: [»Barogo, ou La suite du ramoneur prince. Comédie en deux actes et en prose«](https://books.google.com/books?id=RLBszQEACAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 326–327
+editions:
+  - title: "Dramatische Versuche. Erster Band. Zeitz und Naumburg: Heinse 1793, S. 1–79"
+    url: https://books.google.com/books?id=2Wo6AAAAcAAJ&pg=PA1
+  - title: "Schauspiele von C. F. von Bilderbeck. Zweiter Band. Leipzig: Voß 1801, S. 285–357"
+    url: https://books.google.com/books?id=wcpIAAAAcAAJ&pg=PA285
+comments:
+  - Auch unter dem Titel »Kleider machen Leute« (1801).
+keywords:
+  - Eheanbahnung
+  - Verkleidungsspiel
+  - Liebesprobe
+cast:
+  - name: Der Prinz.
+    gender: m
+  - name: Greif,
+    role: Sekretair des Prinzen.
+    gender: m
+  - name: Julie,
+    role: Eleonorens Kammermädchen.
+    gender: f
+  - name: Postichi,
+    role: Italiänischer Zahnarzt.
+    gender: m
+  - name: Flick,
+    role: Schneidermeister.
+    gender: m
+  - group:
+      - name: Meyer,
+        gender: m
+      - name: Klein,
+        gender: m
+    role: Kammerdiener des Prinzen.
+  - name: Barogo,
+    role: Schorsteinfeger.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung in einer deutschen Residenzstadt.
+---
 slug: bilderbeck-liebe-und-vaterland
 author:
   name: Bilderbeck, Ludwig Benedict Franz von
@@ -15495,6 +15549,48 @@ setting: >-
 location:
   wikidataId: Q2749
 ---
+slug: guelden-lord-pittel-oder-die-tochter-pharaonis
+author:
+  name: Guelden, Johann Georg
+title: "Lord Pittel oder: die Tochter Pharaonis"
+subtitle: Eine Posse in einem Akt
+numberOfScenes: 10
+printed: 1805
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 3, S. 1391
+editions:
+  - title: "Danzig 1805"
+  - title: "[Ohne Ort: ohne Verlag] 1806"
+    url: https://books.google.com/books?id=iyw7AAAAcAAJ&printsec=frontcover
+comments:
+  - Fortsetzung des Einakters [»Die Tochter Pharaonis«](kotzebue-die-tochter-pharaonis) von Kotzebue.
+cast:
+  - name: Amtsrath Tippel,
+    role: Vater des
+    gender: m
+  - name: Tippel,
+    role: eines jungen lustigen Patrons.
+    gender: m
+  - name: Runx,
+    role: ein alter Wucherer, der auf Pfänder leiht.
+    gender: m
+  - name: Konrad Herzig,
+    role: ein Uhrmacher Geselle.
+    gender: m
+  - name: Philippinchen,
+    role: eine Uhrmachers Tochter.
+    gender: f
+  - name: Preller,
+    role: Trakteur.
+    gender: m
+  - name: Ein Marqueur.
+    gender: m
+setting: >-
+  Die Scene ist das allgemeine Zimmer im Gasthofe zum goldnen Affen.
+---
 slug: guenderrode-die-gelehrte-frau
 author:
   name: Günderrode, Friedrich Justinian von
@@ -17161,6 +17257,45 @@ cast:
     role: ein Jude.
     gender: m
 ---
+slug: heyne-der-stammbaum
+author:
+  name: Heyne, Christian Leberecht
+  pseudonym: Anton-Wall
+  wikidata: Q23710566
+title: Der Stammbaum
+subtitle: Erste Fortsetzung der beyden Billets
+numberOfScenes: 9
+printed: 1791
+premiered: 1788-03-31
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 472–473
+editions:
+  - title: "Leipzig: Dyk 1791"
+    url: https://books.google.com/books?id=AK7giLrZx2YC&printsec=frontcover
+  - title: "Deutsche Schaubühne seit Lessing und Schröder bis auf die neueste Zeit. Neuntes Bändchen. Wien: Schade 1825, S. 37–78"
+    url: https://books.google.com/books?id=MCpMUvCcTXAC&pg=PA37
+comments:
+  - Erste Fortsetzung des Einakters [»Die beiden Billets«](heyne-die-beiden-billets).
+  - Hinweis auf Einaktigkeit mindestens seit 1800 auf Theaterzetteln ([Bremen 1800](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1678146)).
+cast:
+  - name: Märten,
+    role: ein alter Bauer.
+    gender: m
+  - name: Röse,
+    role: seine Tochter.
+    gender: f
+  - name: Gürge,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Schnapps,
+    role: Dorfbarbier.
+    gender: m
+setting: >-
+  Scene: Ein freyer Platz vor Märtens Hause; im Vordergrunde ein großer Stein zum Sitzen.
+---
 slug: heyne-die-beiden-billets
 author:
   name: Heyne, Christian Leberecht
@@ -17650,6 +17785,53 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht in London in Sir Rich Hause vor.
+---
+slug: huber-die-torte
+author:
+  name: Huber
+title: Die Torte
+subtitle: Ein Lustspiel für Kinder in einem Aufzuge
+numberOfScenes: 10
+printed: 1786
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 416–417
+editions:
+  - title: "Frankfurt und Leipzig 1786"
+    url: https://books.google.com/books?id=unMgNxNwgYEC&printsec=frontcover
+comments:
+  - Kindertheater
+cast:
+  - group:
+      - name: Graf Fritz
+        gender: m
+      - name: Graf Karl
+        gender: m
+    role: Brüder.
+  - name: Der Hofmeister.
+    gender: m
+  - name: Jobs,
+    role: ein armer Bürger.
+    gender: m
+  - name: Jobsens Weib.
+    gender: f
+  - group:
+      - name: Albert
+        gender: m
+      - name: Lotte
+        gender: f
+      - name: Hanne
+        gender: f
+    role: Jobsens Kinder.
+  - name: Jakob,
+    role: ein Kochjunge.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Zimmer der Grafen.
 ---
 slug: iffland-der-komet
 author:
@@ -22921,7 +23103,7 @@ editions:
 comments:
   - Ins Holländische übersetzt.
   - "Auf dem [Frankfurter Theaterzettel vom 19. Juni 1810](https://books.google.com/books?id=1WhLAAAAcAAJ&pg=PP37) angekündigt als »Ein Lustspiel in zwey Aufzügen von Kotzebue und Guelden«."
-  - "J. G. Guelden schrieb die Fortsetzung [»Lord Pittel oder: die Tochter Pharaonis. Eine Posse in einem Akt«](https://books.google.com/books?id=iyw7AAAAcAAJ&printsec=frontcover) (fehlt noch: Verlinkung in unsere Datenbank)."
+  - "J. G. Guelden schrieb die Fortsetzung [»Lord Pittel oder: die Tochter Pharaonis. Eine Posse in einem Akt«](guelden-lord-pittel-oder-die-tochter-pharaonis)."
   - "Auch unter dem Titel »Studentenstreiche, oder: Die Tochter Pharaonis«. ([Theaterzettel Bremen](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/2076659))"
 keywords:
   - Geld
@@ -23709,6 +23891,62 @@ cast:
   - name: Eine Gerichtsperson.
     gender: m
 setting: Der Schauplatz ist in Mangolds Hause auf dem Lande.
+---
+slug: krauseneck-die-laendliche-feyer-des-fuerstentags
+author:
+  name: Krauseneck, Johann Christoph
+  wikidata: Q94360286
+title: Die ländliche Feyer des Fürstentags
+subtitle: Ein Dorfgemälde in einer Handlung
+numberOfScenes: 10
+printed: 1791
+premiered: 1791-02-24
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 391
+editions:
+  - title: "Bayreuth [1791]"
+    url: https://books.google.com/books?id=U01IAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Amtmann Reinhold.
+    gender: m
+  - name: Oberförster Weidmann.
+    gender: m
+  - name: Matthias Scharf,
+    role: Schulmeister.
+    gender: m
+  - name: Michael Braun,
+    role: Schulze.
+    gender: m
+  - name: Anna,
+    role: dessen Frau.
+    gender: f
+  - name: Lise,
+    role: Tochter.
+    gender: f
+  - name: Martin,
+    role: Kirchenvater.
+    gender: m
+  - name: Martha,
+    role: dessen Frau.
+    gender: f
+  - name: Jakob,
+    role: Sohn.
+    gender: m
+  - name: Ein Soldat.
+    gender: m
+  - name: Eine arme Wittwe und
+    gender: f
+  - name: Zwey Kinder.
+    isGroup: true
+    gender: u
+  - name: Mehrere Dorfleute.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung ist im Hause des Schulzen und Amtmanns.
 ---
 slug: krauseneck-die-werbung-fuer-england
 author:
@@ -26589,6 +26827,49 @@ cast:
     role: dessen Bedienter.
     gender: m
 ---
+slug: mauvillon-die-sitten-der-heutigen-welt
+author:
+  name: Mauvillon, Jakob
+  wikidata: Q71973
+title: Die Sitten der heutigen Welt
+subtitle: In Einem Akte
+numberOfScenes: 9
+printed: 1785
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 268
+editions:
+  - title: "Dramatische Sprüchwörter. Ein Beytrag zum gesellschaftlichen Vergnügen in Deutschland. Zweiter Theil. Leipzig: Dyk 1785, S. 59–82"
+    url: https://gdz.sub.uni-goettingen.de/id/PPN1020167726?tify={%22pages%22:[59]}
+  - title: "Theatralische Sammlung. Hundert acht und neunzigster Band. Wien 1797, S. 59–82"
+    url: https://books.google.com/books?id=ocMQBAM35YAC&pg=PA59
+cast:
+  - name: Frau von Elster.
+    gender: f
+  - name: Frau von Neidhaußen.
+    gender: f
+  - name: Frau von Scheelwiz.
+    gender: f
+  - name: Fräulein von Hochnase.
+    gender: f
+  - name: Fräulein von Katzenburg.
+    gender: f
+  - name: Frau Gräfin von Vulkan.
+    gender: f
+  - name: Fräulein von Gutherz.
+    gender: f
+  - name: Herr von Freymuth,
+    role: ein fremder Kavalier.
+    gender: m
+  - name: Baron von Gleichviel.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Scene ist ein Besuchzimmer der Frau von Elster.
+---
 slug: meisl-meine-frau-ist-ein-satan
 author:
   name: Meisl, Carl
@@ -27107,6 +27388,49 @@ cast:
 setting: >-
   Die Handlung geht in dem Schlosse des Don Garzias vor, nahe an der Residenzstadt, und dauert von 10. Uhr Abends bis nach Mitternacht.
 ---
+slug: morenbach-gonsalvo-davila
+author:
+  name: Morenbach, Ritter von
+title: Gonsalvo Davila
+subtitle: Ein Trauerspiel in einem Aufzug von S. A. R. v. M.
+numberOfScenes: 10
+printed: 1786
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 439
+editions:
+  - title: "Prag: Diesbach 1786"
+    url: https://books.google.com/books?id=LzBJAAAAcAAJ&printsec=frontcover
+comments:
+  - "»Eine rührende Episode in der vortreflichen Geschichte der Inkas, das Schicksal des jungen Davila lieh' mir die erste Idee zu diesem Trauerspiel, womit ich die dramatische Bahn betrete« (in der [Anmerkung](https://books.google.com/books?id=LzBJAAAAcAAJ&pg=PA3) des Autors)."
+keywords:
+  - Indianer
+  - Schiffbruch
+  - Sklaverei
+cast:
+  - name: Don Gonsalvo Davila,
+    role: spanischer Schifskapitain.
+    gender: m
+  - name: Ines,
+    role: seine Gattinn.
+    gender: f
+  - name: Antonio,
+    role: Sohn des Gonsalvo, ein Knab von 6 bis 7 Jahren.
+    gender: m
+  - name: Lopez,
+    role: ein alter Diener des Kapitain.
+    gender: m
+  - name: Der Cacique,
+    role: einer wilden Nation die Otamies genannt.
+    gender: m
+  - name: Noch viele andere Wilde.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht in Amerika auf einer wüsten unfruchtbaren Insel vor, und dauert von Frühmorgens bis Mittag. (Eine wüste Insel –  die Aussicht in das ofne Meer, wo man noch Trümmer eines gescheiterten Schiffs in der Ferne erblickt; Rechts ist eine schlechte bretterne Hütte errichtet, in welcher Ines mit ihren Knaben schlummert; – die Bühne ist anfangs Dunkel, wird aber mit dem Gang des Stücks mit jedem Auftritt Heller.
+---
 slug: moritz-blunt-oder-der-gast
 author:
   name: Moritz, Karl Philipp
@@ -27567,6 +27891,44 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht auf einem von der Poststraße etwas entlegenen Dorfe vor.
+---
+slug: mueller-was-ists
+author:
+  name: Müller, Johann Heinrich Friedrich
+  wikidata: Q1694390
+title: Was ists?
+subtitle: Ein Nachspiel, in einem Aufzuge!
+numberOfScenes: 15
+printed: 1786
+premiered: 1786-12-26
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 440–441
+editions:
+  - title: "Wien: Jahn 1786"
+    url: https://books.google.com/books?id=Hj5AAQAAMAAJ&printsec=frontcover
+cast:
+  - name: Herr von Raden.
+    gender: m
+  - name: Amalie,
+    role: dessen Tochter.
+    gender: f
+  - name: Lieutenant Streitberg.
+    gender: m
+  - name: Herr von Wendheim.
+    gender: m
+  - name: Herr Winkel.
+    gender: m
+  - name: Nannette,
+    role: Amaliens Mädchen.
+    gender: f
+  - name: Zwey Hausknechte.
+    isGroup: true
+    gender: m
+setting: >-
+  Zimmer mit zwey Seiten- und einer Mittelthür: garnirt mit Stühlen und zwey Tischen.
 ---
 slug: muellner-der-angolische-kater-oder-die-koenigin-von-golkonde
 author:
@@ -31018,6 +31380,64 @@ cast:
     gender: u
 setting: Ein griechisches Zimmer.
 ---
+slug: schildbach-der-fuerstentempel
+author:
+  name: Schildbach, Johann Gottlieb
+  wikidata: Q55127608
+title: Der Fürstentempel
+subtitle: Schauspiel in Einem Akt. Bey Gelegenheit der Böhmischen Krönungsfeier und Erbhuldigung im August 1792
+numberOfScenes: 8
+printed: 1792
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 209
+editions:
+  - title: "Prag und Leipzig: Albrecht 1792"
+    url: https://books.google.com/books?id=xyNIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Die Oberpriesterin.
+    gender: f
+  - name: Zwo Priesterinnen.
+    isGroup: true
+    gender: f
+  - name: Ein alter Barde.
+    gender: m
+  - name: Ein junger Barde.
+    gender: m
+  - name: Ein Fremdling.
+    gender: m
+  - name: Ein Hofmann.
+    gender: m
+  - name: Ein Krieger.
+    gender: m
+  - name: Ein Knabe.
+    gender: m
+  - name: Ein Künstler.
+    gender: m
+  - name: Ein Kaufmann.
+    gender: m
+  - name: Ein Fabrikant.
+    gender: m
+  - name: Zween Handwerker.
+    isGroup: true
+    gender: m
+  - name: Ein alter blinder Bauer.
+    gender: m
+  - name: Seine Tochter.
+    gender: f
+  - name: Seine zween Söhne.
+    isGroup: true
+    gender: m
+  - name: Ein Schiffer.
+    gender: m
+  - name: Volk
+    isGroup: true
+    gender: u
+setting: >-
+  Die Bühne stellt einen romantisch schönen Hain vor, in dessen Mitte man das Portal eines majestätischen Tempels sieht, dessen hohe Flügelthüren nach verschlossen sind. Zu beiden Seiten sind Bäume und angenehme Rasenbänke, worauf sich die nach und nach Kommenden lagern.
+---
 slug: schildbach-die-verlegenheit
 author:
   name: Schildbach, Johann Gottlieb
@@ -31427,7 +31847,6 @@ cast:
 slug: schlegel-der-sieg-der-vergangenen-zeit
 author:
   name: Schlegel, Johann Elias
-  pseudonym: Anonym
   wikidata: Q67322
 title: Der Sieg der vergangenen Zeit
 subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen übersetzt
@@ -31614,6 +32033,51 @@ cast:
     role: die Bediente der Frau Praatgern.
     gender: f
 setting: Der Schauplatz ist in der Frau Praatgern Hause.
+---
+slug: schlegel-zeloide
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Zeloide
+subtitle: Ein prosaisches Trauerspiel in einem Aufzuge, das am 29 May 1747 zum erstenmale aufgeführt worden
+numberOfScenes: 10
+printed: 1750
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Zéloïde. Tragédie en un acte«](https://books.google.com/books?id=mRfqX5XQzGMC&pg=PA337)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 15, S. 86–87
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Erster Theil. Leipzig: Wendler 1750, S. 305–326"
+    url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA305
+comments:
+  - "Auch aufgeführt unter dem Titel: »ZELOIDE, Oder: Die so lange Zeit verlohren, und glücklich wieder gefundene Kinder. Schau-Spiel, In Prosa und einer Handlung« (Frankfurt am Main 1770)."
+keywords:
+  - Kindesentführung
+  - Indien
+  - Sklaverei
+cast:
+  - name: Arimant.
+    gender: m
+  - name: Metrobat.
+    gender: m
+  - name: Orosmin.
+    gender: m
+  - name: Zeloide.
+    gender: f
+  - name: Phanes.
+    gender: m
+  - name: Araspes.
+    gender: m
+  - name: Die Wache
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist in dem Lager vor Oxythra bey dem Flusse Ganges.
+location:
+  wikidataId: Q5089
 ---
 slug: schletter-das-goldstueck-oder-der-kleine-menschenfreund
 author:
@@ -32975,6 +33439,51 @@ cast:
 setting: Die Scene ist in Wien. (Wohnzimmer bey Storch.)
 location:
   wikidataId: Q1741
+---
+slug: schroeder-die-heurath-durch-irrthum
+author:
+  name: Schröder, Friedrich Ludwig
+  wikidata: Q213877
+title: Die Heurath durch Irrthum
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem Französischen des Patrat
+numberOfScenes: 29
+printed: 1786
+premiered: 1784-10-09
+formalia:
+  - Prosa
+basedOn:
+  - "Joseph Patrat: [»L'heureuse erreur. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PATRAT_HEUREUSEERREUR.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 461–462
+editions:
+  - title: "Wien: Hartmann 1786"
+    url: https://books.google.com/books?id=p79AEo4N6IIC&printsec=frontcover
+cast:
+  - name: Gräfin Lodenheim,
+    role: eine junge Witwe.
+    gender: f
+  - name: Graf Reimsburg,
+    role: ihr Bruder.
+    gender: m
+  - name: Gräfin Sophie Mansbach.
+    gender: f
+  - name: Graf Mansbach,
+    role: ihr Bruder.
+    gender: m
+  - name: Mariane,
+    role: Kammerjungfer der Gräfin Sophie.
+    gender: f
+  - name: Ludwig,
+    role: ein alter Bedienter der Gräfin Lodenheim.
+    gender: m
+  - name: Andres,
+    role: Bedienter des Grafen Mansbach.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+setting: >-
+  Die Handlung ist in dem Schlosse der Gräfin Lodenheim, auf ihrem Landgute.
 ---
 slug: schroeder-die-komoedie
 author:
@@ -35474,6 +35983,43 @@ cast:
 setting: >-
   Der Schauplatz ist ein Saal in dem Hause, welches diese Familie bewohnt.
 ---
+slug: treitschke-das-bauerngut
+author:
+  name: Treitschke, Georg Friedrich
+  wikidata: Q78038
+title: Das Bauerngut
+subtitle: Ein Lustspiel in einem Aufzuge. Fortsetzung der beyden Billets, und des Stammbaumes
+numberOfScenes: 12
+printed: 1799
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 473
+editions:
+  - title: "Grätz 1799"
+    url: https://books.google.com/books?id=i2rquT3ZEEgC&printsec=frontcover
+  - title: "Deutsche Schaubühne seit Lessing und Schröder bis auf die neueste Zeit. Neuntes Bändchen. Wien: Schade 1825, S. 79–120"
+    url: https://books.google.com/books?id=MCpMUvCcTXAC&pg=PA79
+comments:
+  - Dritte Fortsetzung des Einakters [»Die beiden Billets«](heyne-die-beiden-billets) (Heyne 1783), nach den Fortsetzungen [»Der Stammbaum«](heyne-der-stammbaum) (Heyne 1788) und [»Der Bürgergeneral«](goethe-der-buergergeneral) (Goethe 1793).
+  - »Das Bauerngut« wurde unterm dem Namen Heynes [!] mehrfach aufgeführt.
+cast:
+  - name: Hauptmann von Lilienstern.
+    gender: m
+  - name: Märten.
+    gender: m
+  - name: Röse.
+    gender: f
+  - name: Gürge.
+    gender: m
+  - name: Schnapps.
+    gender: m
+  - name: Doctor Knallerpaller.
+    gender: m
+setting: >-
+  Die Scene ist vor Märtens Hause, wie in den beyden vorigen Stücken.
+---
 slug: uhlich-apollo-unter-den-hirten
 author:
   name: Uhlich, Gottfried
@@ -36132,6 +36678,44 @@ setting: >-
   Der Schauplatz ist ein Theater, von rückwärts zu sehen, die Seitenwände
   umgedreht, der Vorhang nach hinten. Das Stück spielt am Abend, nach Endigung
   des Trauerspiels Emilia Galotti.
+---
+slug: vulpius-list-und-ungeduld
+author:
+  name: Vulpius, Christian August
+  wikidata: Q65376
+title: List und Ungeduld
+subtitle: Ein Lustspiel in Einem Aufzuge
+premiered: 1794-11-07
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 256
+editions:
+  - title: Undat. Ms.
+comments:
+  - Evtl. schon aufgeführt am 3. Juli 1793 in Hamburg (vgl. Meyer).
+cast:
+  - name: Herr von Wildenhain.
+    gender: m
+  - name: Julie,
+    role: seine Nichte.
+    gender: f
+  - name: Luise,
+    role: ihre Kammerjungfer.
+    gender: f
+  - name: Akzisrath von Bornek.
+    gender: m
+  - name: Gustav von Hellburg.
+    gender: m
+  - name: Rosalie,
+    role: seine Schwester.
+    gender: f
+  - name: Ludwig,
+    role: Kammerdiener des Herrn von Wildenhain.
+    gender: m
+setting: >-
+  Zimmer mit Seitenthüren.
 ---
 slug: vulpius-zufall-und-laune
 author:
