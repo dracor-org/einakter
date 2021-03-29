@@ -5441,6 +5441,49 @@ setting: >-
   beschäftigt, einige Stühle und Tische herauszuschaffe, und die Stube zu
   reinigen.
 ---
+slug: anonym-die-vermachte-waise
+author:
+  pseudonym: Anonym
+title: Die vermachte Waise
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen
+numberOfScenes: 16
+printed: 1782
+formalia:
+  - Prosa
+basedOn:
+  - "Bernard-Joseph Saurin: [»L'orpheline légué. Comédie en trois actes, en vers libres«](https://books.google.com/books?id=li9MAAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 201
+editions:
+  - title: "[Ohne Ort:] Eckhardt [1782]"
+    url: https://books.google.com/books?id=nSc7AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Baron von Rechtern.
+    gender: m
+  - name: Herr von Welldone,
+    role: des Barons Freund.
+    gender: m
+  - name: Herr von Breitenau,
+    role: Welldons Vetter, Sophiens Liebhaber.
+    gender: m
+  - name: Frau von Liebreich,
+    role: des Barons Schwester.
+    gender: f
+  - name: Fräulein Sophie von Wohlau,
+    role: des Barons Nichte.
+    gender: f
+  - name: Lisette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Johann,
+    role: des Barons Bedienter.
+    gender: m
+setting: >-
+  Der Schauplatz ist in des Barons Landhause bey Wien.
+location:
+  wikidataId: Q1741
+---
 slug: anonym-die-verschreibung
 author:
   pseudonym: Anonym
@@ -10257,6 +10300,55 @@ comments:
   - Nicht mehr auffindbar.
   - "Identisch mit »Der lächerliche Irrtum oder die Entführung. Lustspiel 1 Akt. Breslau 1761«?"
 ---
+slug: brandes-die-irrthuemer
+author:
+  name: Brandes, Johann Christian
+  wikidata: Q112511
+title: Die Irrthümer
+subtitle: Komödie in Einem Aufzuge. Verfertigt im Jahr 1786
+numberOfScenes: 19
+created: 1786
+printed: 1791
+premiered: 1791-11-19
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 311–312
+editions:
+  - title: "[Ohne Ort: ohne Jahr]"
+    url: https://books.google.com/books?id=XUQhKVvGUvEC&printsec=frontcover
+cast:
+  - name: Kettler,
+    role: ein Kaufmann.
+    gender: m
+  - name: Juliane Kettler,
+    role: dessen Schwester.
+    gender: f
+  - name: Juliane Kettler,
+    role: dessen Schwägerin, eine junge Wittwe.
+    gender: f
+  - name: Schönborn,
+    role: ein junger Rechtsgelehrter.
+    gender: m
+  - name: von Rennthal,
+    role: Fähndrich und Schönborns Freund.
+    gender: m
+  - name: Mahlbein,
+    role: Kommerzienrath und Schönborns Oheim.
+    gender: m
+  - name: Rand,
+    role: ein tauber Doctor Medicinä.
+    gender: m
+  - group:
+      - name: Jakob,
+        gender: m
+      - name: Franz,
+        gender: m
+    role: Bediente.
+setting: >-
+  Die Scene ist im Garten.
+---
 slug: braun-die-herrlichkeit-im-traume-oder-der-lyrant-als-fuerst
 author:
   name: Braun, Johann Adam
@@ -14655,6 +14747,59 @@ cast:
     gender: u
 setting: >-
   Die Handlung gehet vor in dem Rosenheimischen Garten, nahe beym Gartenhaus.
+---
+slug: geisler-der-schwaezer
+author:
+  name: Geisler, Adam Friedrich
+  wikidata: Q24259181
+title: Der Schwäzer
+subtitle: Ein Lustspiel, in einem Aufzuge. Nach dem Französischen des Herrn Boissy
+numberOfScenes: 17
+printed: 1782
+premiered: 1783-08-06
+formalia:
+  - Prosa
+basedOn:
+  - "Louis de Boissy: [»Le babillard. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/BOISSY_BABILLARD.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 234
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1782"
+    url: https://books.google.com/books?id=oMJK5S06KqQC&printsec=frontcover
+cast:
+  - name: Hauptman von Merlhof,
+    role: Liebhaber der
+    gender: m
+  - name: Sophie,
+    role: eine junge Witwe.
+    gender: f
+  - name: Frau von Trontheim,
+    role: ihre Tante.
+    gender: f
+  - name: Hauptman von Steinberg,
+    role: Sophiens zweiter Liebhaber.
+    gender: m
+  - name: Hanchen,
+    role: Sophiens Kammermädchen.
+    gender: f
+  - group:
+      - name: Justel,
+        gender: f
+      - name: Marie,
+        gender: f
+    role: Schwester und Sophiens Freundinnen.
+  - name: Friederike.
+    gender: f
+  - name: Louise.
+    gender: f
+  - name: Amalie.
+    gender: f
+  - name: Friz,
+    role: Bedienter.
+    gender: m
+setting: >-
+  Der Schauplaz stelt einen Saal, mit auf beiden Seiten und im Hintergrunde angebrachten Thüren, vor.
 ---
 slug: gellert-das-band
 author:
@@ -26701,6 +26846,56 @@ setting: >-
   ist ein gemeinschaftlicher Saal mit einer Mittel- und zwei Seitenthüren.
   Rechts im Vorgrund ein Toilettenspiegel.)
 ---
+slug: martin-weder-wittwe-noch-jungfer
+author:
+  name: Martin, Karl Christian
+title: Weder Wittwe noch Jungfer
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1782
+premiered: 1782-08-19
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 202 und S. 266
+editions:
+  - title: "Wien 1782"
+    url: https://books.google.com/books?id=sety6T-b0W0C&printsec=frontcover
+comments:
+  - "Uraufführung in Wien unter dem Titel »Die Frau als Wittwe und Jungfer«."
+cast:
+  - name: Baron von Lindau.
+    gender: m
+  - group:
+      - name: Juliane,
+        gender: f
+      - name: Therese,
+        gender: f
+    role: dessen Töchter.
+  - name: Herr von Birkenfeld.
+    gender: m
+  - name: Frau von Birkenfeld.
+    gender: f
+  - name: Herr von Treiten,
+    role: Julianens Geliebter.
+    gender: m
+  - name: Herr von Leibnitz,
+    role: Theresens Geliebter.
+    gender: f
+  - name: Baron von Streithorst.
+    gender: m
+  - name: Herr von Liebling.
+    gender: m
+  - name: Lisette,
+    role: Frau von Birkenfeld Mädchen.
+    gender: f
+  - name: Paul,
+    role: von Lindaus Bedienter.
+    gender: m
+setting: >
+  Die Handlung geschieht im Birkenfeldischen Garten.
+---
 slug: martini-die-prachtsuechtige
 author:
   name: Martini, Christian Leberecht
@@ -26969,6 +27164,48 @@ cast:
     gender: m
 setting: Die Scene ist auf einem Landhause des Alcimons.
 ---
+slug: meissner-der-schachspieler
+author:
+  name: Meißner, August Gottlieb
+  wikidata: Q214593
+title: Der Schachspieler
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 18
+printed: 1782
+premiered: 1783-05-18
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 269–270
+editions:
+  - title: "Leipzig: Breitkopf 1782"
+    url: https://books.google.com/books?id=q9haAAAAcAAJ&printsec=frontcover
+cast:
+  - name: von Teuteberg,
+    role: Kavalier von teutscher Abkunft.
+    gender: m
+  - name: Marchese Fiati,
+    role: sein Freund.
+    gender: m
+  - name: Jakob,
+    role: sein Bedienter.
+    gender: m
+  - name: Ein Fremder.
+    gender: m
+  - name: Eine Maske.
+    gender: f
+  - name: Rosalia Benedetti,
+    role: Teutebergs Braut.
+    gender: f
+  - name: Laura,
+    role: ihr Mädchen.
+    gender: f
+setting: >-
+  Schauplaz zu Venedig. Teutebergs und Rosaliens, auch einmal ein Kaffee-Zimmer.
+location:
+  wikidataId: Q641
+---
 slug: meissner-die-gegenseitige-probe
 author:
   name: Meißner, August Gottlieb
@@ -27009,6 +27246,41 @@ cast:
 setting: Schauplatz in Hamburg. Haus der Frau von Baldern.
 location:
   wikidataId: Q1055
+---
+slug: meitl-schenswin
+author:
+  name: Meitl, Franz
+title: Schenswin
+subtitle: Ein Trauerspiel in einen Aufzuge
+numberOfScenes: 17
+created: 1782
+printed: 1785
+premiered: 1785-02-08
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 270
+editions:
+  - title: "Prag: Diesbach 1785"
+    url: https://books.google.com/books?id=7cJdAAAAcAAJ&printsec=frontcover
+comments:
+  - "Aus der [Vorrede](https://books.google.com/books?id=7cJdAAAAcAAJ&pg=PA3): »Schenswin wurde den 8 Hornung 1785 in einen Haußtheater aufgeführet«. Wahrscheinliches Entstehungsjahr 1782 laut Jahreszahl auf Titelseite."
+  - »Wache« fehlt im Personenverzeichnis.
+cast:
+  - name: König.
+    gender: m
+  - name: Grimaldi.
+    gender: m
+  - name: Schenswin.
+    gender: m
+  - name: Schenswin,
+    role: dessen Sohn.
+    gender: m
+  - name: Korenno.
+    gender: m
+  - name: Wandurno.
+    gender: m
 ---
 slug: metternich-die-freudenthraenen-oder-die-dankbaren-kinder
 author:
@@ -37586,6 +37858,48 @@ cast:
     role: ein alter Diener Dorfils.
     gender: m
 setting: Die Handlung geht vor sich im Hause Blümonds.
+---
+slug: weikard-der-gereiste-braeutigam
+author:
+  name: Weikard, Marianne Sophie
+  wikidata: Q1896914
+title: Der gereiste Bräutigam
+subtitle: Ein Lustspiel in Einem Aufzuge
+numberOfScenes: 17
+printed: 1791
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 474
+editions:
+  - title: "Kleine Lustspiele. Frankfurt am Main: Andreä 1791, S. 55–114"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB000144CF00000067
+comments:
+  - Aus dem Französischen.
+cast:
+  - name: Baron Forstheim.
+    gender: m
+  - name: Henriette,
+    role: seine Tochter.
+    gender: f
+  - name: Karoline,
+    role: Forstheims Nichte.
+    gender: f
+  - name: Hauptmann von Ahldorf.
+    gender: m
+  - name: Major von Buchau.
+    gender: m
+  - name: Baron Hohenthal.
+    gender: m
+  - name: Heinrich,
+    role: Hohenthals Bedienter.
+    gender: m
+  - name: Johann,
+    role: Bedienter bei Forstheim.
+    gender: m
+setting: >-
+  Die Handlung bei Forstheim.
 ---
 slug: weiskern-die-wirkung-der-rechtschaffenheit
 author:
