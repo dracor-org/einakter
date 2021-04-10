@@ -3082,7 +3082,7 @@ editions:
     url: https://books.google.com/books?id=mvFATeBbu0cC&printsec=frontcover
 comments:
   - "Weitere Übersetzung [1759 (anonym)](anonym-le-babillard-der-schwaetzer). Auch unter dem Titel »Der Schwätzer. Ein Lustspiel in einem Acte. Nach dem Französischen des Boissy« (Aufführung in Mannheim 1779)."
-  - Nicht identisch mit Paul Weidemanns fünfaktigen Lustspiel »Der Schwätzer«.
+  - Nicht identisch mit Paul Weidmanns fünfaktigen Lustspiel »Der Schwätzer«.
 cast:
   - name: Leander.
     gender: m
@@ -3896,7 +3896,7 @@ editions:
     url: https://books.google.com/books?id=ATY7AAAAcAAJ&printsec=frontcover
 comments:
   - "Auch unter dem Titel »L'Impromptu de Campagne oder Die Komedie aus dem Stegreife. Ein Lustspiel von einem Aufzuge aus dem Französischen des Herrn Poisson übersezt.« (undat. Ms.)."
-  - "Weitere Übersetzung von [Johann Friedrich Jünger: »Die Komödie aus dem Stegreife. Ein Lustspiel in einem Aufzuge«](juenger-die-komoedie-aus-dem-stegreife) (1794)."
+  - "Weitere Übersetzungen: [Gotter 1775](gotter-die-comoedie-aus-dem-stegreif) und [Jünger 1794](juenger-die-komoedie-aus-dem-stegreife)."
 cast:
   - name: Der Graf.
     gender: m
@@ -4077,6 +4077,7 @@ editions:
     url: https://books.google.com/books?id=PBhaAAAAcAAJ&pg=PA183
 comments:
   - 1762 unter dem Titel »Die erzwungene Einwilligung, ein Lustspiel aus dem Französischen des Herrn Guyot de Merville«.
+  - "Weitere Übersetzungen: [1768 (Walz)](walz-einwilligung-wider-willen) und [1771 (Gebler)](gebler-die-abgenoethigte-einwilligung)."
 cast:
   - name: Orgon.
     gender: m
@@ -4114,7 +4115,7 @@ dictionaries:
 editions:
   - title: "Schauspiele, welche auf der Schönemannschen Schaubühne aufgeführt worden. Vierter Theil. Braunschweig und Leipzig 1749"
 comments:
-  - Weitere Übersetzung [1777 (Berhandtsky)](berhandtsky-die-familie).
+  - "Weitere Übersetzung: [Berhandtsky 1777](berhandtsky-die-familie)."
 keywords:
   - Eheanbahnung
   - Standesproblematik
@@ -5071,6 +5072,12 @@ editions:
 comments:
   - Zur französischen Vorlage siehe Meyer, 2. Abteilung, Band 20, S. 147–149.
   - Weitere Übersetzungen [1761 (Joseph Laudes)](laudes-die-sitten-der-zeit), [1762 (anonym)](anonym-die-sitten-der-zeit-1762) und [1769 (anonym)](anonym-die-sitten-der-zeit-1769).
+keywords:
+  - Stadt vs. Land
+  - Geld vs. Liebe
+  - Verkleidungsspiel
+  - Eheanbahnung
+  - Molières Theater
 cast:
   - name: Geronte,
     role: ein reicher Finanzpachter, Vater der Julie.
@@ -5410,6 +5417,45 @@ cast:
 setting: Die Scene ist in dem Gesellschafts-Saal, welcher an eine verschlossene
     Schlafkammer stößt. Die Handlung fällt um acht Uhr des Abends vor.
 ---
+slug: anonym-die-glueckliche-zusammenkunft-1789
+author:
+  name: E..., F. A.
+  pseudonym: Anonym
+title: Die glückliche Zusammenkunft
+subtitle: Ein Lustspiel in einem Aufzug aus dem Französischen
+numberOfScenes: 24
+printed: 1789
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 396
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1789"
+comments:
+  - "Vorlage unklar. Weitere Übersetzung: [Anonym 1772](anonym-die-glueckliche-zusammenkunft-1772)."
+cast:
+  - name: Dormin,
+    role: ein Pfachter.
+    gender: m
+  - name: Frau Dormin,
+    role: seine Frau.
+    gender: f
+  - name: Lorchen,
+    role: seine Tochter.
+    gender: f
+  - name: Gürge,
+    role: Lorchens Liebhaber.
+    gender: m
+  - name: Peter,
+    role: Sohn des Dormin, Soldat.
+    gender: m
+  - name: Grimm,
+    role: sein Feldwebel.
+    gender: m
+setting: >-
+  Der Schauplatz ist ein offener Platz vor Dormins Wohnung.
+---
 slug: anonym-die-gratien
 author:
   pseudonym: Anonym
@@ -5608,7 +5654,7 @@ setting: >-
   Das Theater stellt einen offnen Dorfplatz vor, an der Seite ist Jürgens elende
   Hütte, im Hintergrunde ein ausgetretener Fluß mit Feldfrüchten bedeckt.
 ---
-slug: anonym-die-glueckliche-zusammenkunft
+slug: anonym-die-glueckliche-zusammenkunft-1772
 author:
   pseudonym: Anonym
 title: Die glückliche Zusammenkunft
@@ -5624,7 +5670,7 @@ editions:
   - title: "Frankfurt am Mayn: Andreä 1772"
     url: https://books.google.com/books?id=XSNVAAAAcAAJ&printsec=frontcover
 comments:
-  - "»Vorlage: unklar.« (Meyer)"
+  - "»Vorlage: unklar.« (Meyer) – Weitere Übersetzung: [Anonym 1789](anonym-die-glueckliche-zusammenkunft-1789)."
 cast:
   - name: Vincent.
     gender: m
@@ -6798,7 +6844,7 @@ dictionaries:
     pages: 2. Abteilung, Band 19, S. 214
 comments:
   - "Weitere Übersetzung [1779 (anonym)](anonym-der-schwaetzer)."
-  - Nicht identisch mit Paul Weidemanns fünfaktigen Lustspiel »Der Schwätzer«.
+  - Nicht identisch mit Paul Weidmanns fünfaktigen Lustspiel »Der Schwätzer«.
 cast:
   - name: Leander,
     role: Claricens Liebhaber.
@@ -6833,8 +6879,6 @@ cast:
   - name: La Fleur,
     role: ein Diener.
     gender: m
-setting: >-
-  Die Scene ist ein Saal, mit Thüren auf beyden Seiten, und im Hintergrunde.
 ---
 slug: anonym-les-filles-medecins-die-weiblichen-aerzte
 author:
@@ -8772,7 +8816,7 @@ editions:
   - title: "Frankfurt und Leipzig: Erben 1777"
     url: https://books.google.com/books?id=HhJYAAAAcAAJ&printsec=frontcover
 comments:
-  - Weitere Übersetzung [1747 (anonym)](anonym-die-familie).
+  - "Weitere Übersetzung: [Anonym 1747](anonym-die-familie)."
 keywords:
   - Eheanbahnung
   - Standesproblematik
@@ -10747,7 +10791,7 @@ premiered: 1770-12-15
 formalia:
   - Prosa
 basedOn:
-  - "Sébastien-Roch Nicolas de Chamfort: »Le marchand de Smyrne«"
+  - "Sébastien-Roch Nicolas de Chamfort: [»Le marchand de Smyrne. Comédie en un acte et en prose«](https://books.google.com/books?id=dQ1bAAAAQAAJ&printsec=frontcover)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 34–35
@@ -15309,7 +15353,7 @@ premiered: 1814-07-14
 formalia:
   - Prosa
 editions:
-  - title: "Neue Bibliothek kleiner Theaterstücke für Privat-Gesellschaften. Ein Pendant zu der deutschen Schaubühne. Dritter Theil. Augsburg und Leipzig: Jenisch und Stage [1818], S. 133–170"
+  - title: "Neue Bibliothek kleiner Theaterstücke für Privat-Gesellschaften. Ein Pendant zu der deutschen Schaubühne. Dritter Theil. Augsburg und Leipzig: Jenisch und Stage [1818], S. 133–176"
     url: https://books.google.com/books?id=1NuUYHbjz-UC&pg=PA133
 comments:
   - "Hinweis zum Autor auf dem Titelblatt: »Verfasser der satyrischen Feldzüge.«"
@@ -15576,7 +15620,7 @@ editions:
   - title: "Wien: Trattner 1771"
     url: https://books.google.com/books?id=NJ0yAQAAMAAJ&printsec=frontcover
 comments:
-  - Weitere Übersetzungen [1742 (anonym)](anonym-die-erzwungene-einwilligung) und [1768 (Walz)](walz-einwilligung-wider-willen).
+  - "Weitere Übersetzungen: [1742 (anonym)](anonym-die-erzwungene-einwilligung) und [1768 (Walz)](walz-einwilligung-wider-willen)."
 cast:
   - name: Herr von Lindthal;
     role: Vater.
@@ -15951,6 +15995,7 @@ author:
 title: Die neue Delila
 subtitle: Ein Anfangs lustiges, aber gegen das Ende höchst trauriges Schäfer- und Ritterspiel in einem Act
 numberOfScenes: 5
+created: 1817
 printed: 1823
 formalia:
   - Alexandriner
@@ -15959,10 +16004,12 @@ editions:
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044935_00247.html
 comments:
   - Delila ist eine Figur aus dem Alten Testament. In diesem Einakter wird die biblische Geschichte über ihren Mann, Samson, dessen übermenschliche Kraft in seinen Haaren steckt, parodiert.
+  - "[Laut Goedeke](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA296) »verfaßt zwischen 1815 u. 1817«."
 keywords:
   - Ritterstück
-  - Parodie
   - Schäferspiel
+  - Schicksalstragödie
+  - Parodie
 cast:
   - name: Lalage.
     gender: f
@@ -16366,6 +16413,25 @@ cast:
     gender: m
 setting: >-
   Der Schauplaz ist im Schloße des Barons.
+---
+slug: gotter-die-comoedie-aus-dem-stegreif
+author:
+  name: Gotter, Friedrich Wilhelm
+  wikidata: Q70356
+title: Die Comoedie aus dem Stegreif
+subtitle: Ein Nachspiel in einem Aufzuge
+numberOfScenes: 12
+premiered: 1775-11-22
+formalia:
+  - Prosa
+basedOn:
+  - "Philippe Poisson: »L'impromptu de campagne. Comédie en vers et en un acte«"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 107
+comments:
+  - "Manuskript im ›Nachlass Conrad Ekhof‹ der Forschungsbibliothek Gotha, Signatur: [Chart. B 1614](http://kalliope-verbund.info/DE-611-HS-3410363)."
+  - "Weitere Übersetzungen: [Anonym 1759](anonym-die-comoedie-aus-dem-stegreif) und [Jünger 1794](juenger-die-komoedie-aus-dem-stegreife)."
 ---
 slug: gotter-die-maskerade-oder-die-dreyfache-heyrath
 author:
@@ -20779,7 +20845,7 @@ editions:
   - title: "Wien: Wallishausser 1807"
     url: https://books.google.com/books?id=FI_XiA8--xgC&printsec=frontcover
 comments:
-  - 1759 bereits [anonym übersetzt](anonym-die-comoedie-aus-dem-stegreif).
+  - "Weitere Übersetzungen: [Anonym 1759](anonym-die-comoedie-aus-dem-stegreif) und [Gotter 1775](gotter-die-comoedie-aus-dem-stegreif)."
 cast:
   - name: Graf Braunstädt.
     gender: m
@@ -26865,6 +26931,7 @@ author:
 title: Damon und Pythias
 subtitle: Ein Trauerspiel in einem Aufzuge
 numberOfScenes: 8
+created: 1766
 printed: 1768
 formalia:
   - Alexandriner
@@ -26904,6 +26971,7 @@ author:
 title: Man fürchtet sich oft vor seinem eigenen Schatten
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 14
+created: 1767
 printed: 1768
 formalia:
   - Prosa
@@ -26939,6 +27007,7 @@ author:
 title: Nomares
 subtitle: Ein Trauerspiel in einem Aufzuge
 numberOfScenes: 10
+created: 1767
 printed: 1768
 formalia:
   - Alexandriner
@@ -28808,6 +28877,9 @@ dictionaries:
 editions:
   - title: "Pest: Royer [1775]"
     url: https://books.google.com/books?id=PyddAAAAcAAJ&printsec=frontcover
+keywords:
+  - Religion
+  - Umwelt
 cast:
   - name: Herr Billig.
     gender: m
@@ -28816,6 +28888,10 @@ cast:
   - name: Herr Gutherz.
     gender: m
   - name: Herr Wind.
+    gender: m
+  - name: Ein Greis.
+    gender: m
+  - name: Ein Jude.
     gender: m
 setting: >-
   Die Handlung geht in der Stadt Pest den 17. Hornung 1775. vor. Das Theater stellt einen Theil der Stadt vor, wohin sich die Fluth des Wassers noch nicht ergossen hat. Man hört ein Gewimmel des Weheklagens, und ein lautes Geschrey zur Aufmunterung der Arbeit. Man sieht Geräthschaften, Kinder, u. s. w. von weinenden Personen tragen. Ein allgemeines Weheklagen mäßiget die Luft, so, daß man mehr Jammer, als Winde verspürt. Eine Menge Menschen bemühen sich ihre Habschaften zu retten, und andre zieht die Neugierde herbey, um über das Vorgehende ihr Urtheil zu fehlen.
@@ -30478,6 +30554,8 @@ dictionaries:
 editions:
   - title: "Spiele für die Bühne von Adolph Müllner. Erste Lieferung. Leipzig: Breitkopf und Härtel 1815, S. 19–78"
     url: https://books.google.com/books?id=iNf_1Uc_1LgC&pg=PA19
+  - title: "Neue Bibliothek kleiner Theaterstücke für Privat-Gesellschaften. Ein Pendant zu der deutschen Schaubühne. Dritter Theil. Augsburg und Leipzig: Jenisch und Stage [1818], S. 177–228"
+    url: https://books.google.com/books?id=1NuUYHbjz-UC&pg=PA177
   - title: "Adolph Müllners Theater. Erstes Bändchen. Stuttgart: Macklot 1820, S. 1–64"
     url: https://books.google.com/books?id=b3hRxQEACAAJ&pg=PP17
 comments:
@@ -32769,6 +32847,8 @@ dictionaries:
 editions:
   - title: "Andreas Friz der Gesellschaft JEsu Priesters Trauerspiele, von einigen bemeldter Gesellschaft aus dem Lateinischen übersetzet. Wien: Bernardi 1762, S. 375–400"
     url: https://books.google.com/books?id=zDJdAAAAcAAJ&pg=PA375
+  - title: "Theatralische Sammlung. Zweyhundert zwanzigster Band. Wien: 1797, S. 375–400"
+    url: https://books.google.com/books?id=FGRVYiQavDMC&pg=PA375
 cast:
   - name: Agathokles,
     role: Fürst der Hirten.
@@ -32985,7 +33065,7 @@ printed: 1771
 formalia:
   - Prosa
 basedOn:
-  - "Александр Семёнович Шишков: »Благодеянии приобретают сердца. Драма в одном действии«"
+  - "Александр Семёнович Шишков: [»Благодеянии приобретают сердца. Драма в одном действии«](https://kp.rusneb.ru/item/material/5fcf8bab991f3b9142343501)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 385
@@ -32993,7 +33073,7 @@ editions:
   - title: "Riga: Hartknoch 1771"
     url: https://books.google.com/books?id=K2tVAAAAcAAJ&pg=PA1
 comments:
-  - "Grundgerüst übernommen aus Sébastien-Roch Nicolas de Chamforts »Le marchand de Smyrne«, das ebenfalls mehrfach als Einakter übersetzt wurde. (Verlinkungen in unsere Datenbank!)"
+  - "Grundgerüst übernommen aus Sébastien-Roch Nicolas de Chamforts »Le marchand de Smyrne«, das ebenfalls mehrfach als Einakter übersetzt wurde: [Brahm 1770](brahm-der-sklavenhaendler-von-smyrna), [Schwan 1770](schwan-der-kaufmann-von-smyrna)."
   - "Die Vorlage stammt laut [»Almanach der deutschen Musen auf das Jahr 1772«, S. 154,](https://books.google.com/books?id=8WBeAAAAcAAJ&pg=PA154) vom russischen Schauspieler »Mitrewsky« aus St. Petersburg, wurde aber neben Schischkow auch [Vladimir I. Lukin](http://lib.pushkinskijdom.ru/Default.aspx?tabid=1139) zugeschrieben."
 keywords:
   - Krieg
@@ -36578,6 +36658,45 @@ cast:
 setting: >-
   Die Scene ist ein Saal auf dem Landhause Krumbachs, mit Seitenthüren und Fenstern.
 ---
+slug: schroeder-der-vernuenftige-narr-oder-keiner-versteht-den-andern
+author:
+  name: Schröder, Friedrich Ludwig
+  wikidata: Q213877
+title: Der vernünftige Narr, oder Keiner versteht den andern
+subtitle: Ein Lustspiel in einem Aufzuge nach dem Französischen des Patrat
+numberOfScenes: 17
+printed: 1786
+premiered: 1784-07-01
+formalia:
+  - Prosa
+basedOn:
+  - "Joseph Patrat: [»Le fou raisonnable, ou L'anglois. Comédie«](https://books.google.com/books?id=c1dbAAAAQAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 464–465
+editions:
+  - title: "Wien: Hartmann 1786"
+    url: https://books.google.com/books?id=S9MlvqPfpoAC&printsec=frontcover
+cast:
+  - name: Jakob Blackhead,
+    role: ein reisender Engländer.
+    gender: m
+  - name: Simon,
+    role: ein Wirth.
+    gender: m
+  - name: Therese,
+    role: dessen Tochter.
+    gender: f
+  - name: Jakob,
+    role: Aufwärter.
+    gender: m
+  - name: Ein Gerichtsdiener.
+    gender: m
+setting: >-
+  Die Handlung ist in Paris, im Gasthofe des Herrn Simon.
+location:
+  wikidataId: Q90
+---
 slug: schroeder-die-heurath-durch-irrthum
 author:
   name: Schröder, Friedrich Ludwig
@@ -37128,7 +37247,7 @@ printed: 1770
 formalia:
   - Prosa
 basedOn:
-  - "Sébastien-Roch Nicolas de Chamfort: »Le marchand de Smyrne«"
+  - "Sébastien-Roch Nicolas de Chamfort: [»Le marchand de Smyrne. Comédie en un acte et en prose«](https://books.google.com/books?id=dQ1bAAAAQAAJ&printsec=frontcover)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 179–183
@@ -40538,6 +40657,7 @@ editions:
 comments:
   - Auch unter dem Titel »Die Einwilligung wider Willen. Ein Lustspiel in einem Aufzuge« (Hamburg 1788), nur 19 Auftritte, Personen umbenannt (Baron Derbiz, Baron Veltheim, Carl von Veltheim, Clarisse von Baudem, Lieschen).
   - "1793 anonym auch als Zweiakter unter dem Titel [»Die Einwilligung wider Willen; oder: Verzeihen ist süßer als Strafen. Lustspiel in zwey Akten«](https://books.google.com/books?id=BeBo3n4lCJcC&printsec=frontcover)."
+  - "Weitere Übersetzungen: [1742 (anonym)](anonym-die-erzwungene-einwilligung) und [1771 (Gebler)](gebler-die-abgenoethigte-einwilligung)."
 cast:
   - name: Orgon.
     gender: m
