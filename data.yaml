@@ -10624,6 +10624,51 @@ setting: >-
 location:
   wikidataId: Q656
 ---
+slug: bonin-der-weibliche-kammerdiener
+author:
+  name: Bonin, Christian Friedrich von
+  wikidata: Q55130929
+title: Der weibliche Kammerdiener
+subtitle: Ein Lustspiel in Einem Aufzuge von B–n
+numberOfScenes: 16
+printed: 1779
+premiered: 1779-11-30
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 229
+editions:
+  - title: "Olla Potrida. Drittes Stück. Berlin: Wever 1779, S. 9–40"
+    url: https://books.google.com/books?id=NLMvabe-U6sC&pg=RA1-PA9
+cast:
+  - name: von Sternheim,
+    role: Wittwe von mittlern Jahren.
+    gender: f
+  - name: von Wibach,
+    role: Husarenrittmeister.
+    gender: m
+  - name: von Liß,
+    role: Nachbar der Frau von Sternheim.
+    gender: m
+  - name: Sophie,
+    role: unter dem Namen Friedrich, Kammerdiener beym Rittmeister von Wibach.
+    gender: f
+  - name: Lina,
+    role: Kammermädchen der Frau von Sternheim.
+    gender: f
+  - name: Andrews,
+    role: Bedienter des Herrn von Liß.
+    gender: m
+  - name: Der Wachtmeister von Wibachs Schwadron.
+    gender: m
+  - name: Ein Reitknecht.
+    gender: m
+setting: >-
+  Der Schauplatz ist in Schlesien, nahe der Böhmischen Grenze, auf dem Landhause der Frau von Sternheim.
+location:
+  wikidataId: Q81720
+---
 slug: brahm-der-sklavenhaendler-von-smyrna
 author:
   name: Brahm, Moritz von
@@ -13323,6 +13368,46 @@ cast:
     role: Notarii.
 setting: >-
   Die Bühne, das Vorzimmer eines Bildhauers mit verschiedenen Grouppen und Büsten, Bildsäulen und Vasen verziert. Man sieht zwo Thüren in demselben gegen einander über, in den Seitenwänden des Vordergrundes angebracht. Die zur Linken der Zuschauer führt zu den Seitengemächern. Jene zur Rechten geht auf die Gasse. Neben der Letztern sind Fenster, deren Vorhänge niedergelassen sind.
+---
+slug: d-arien-nina-oder-wahnsinn-aus-liebe
+author:
+  name: d'Arien, Bernhard Christian
+  wikidata: Q25991406
+title: Nina oder Wahnsinn aus Liebe
+subtitle: Ein Schauspiel mit Gesang in einem Aufzuge. Nach dem Französischen mit beybehaltener Musik
+numberOfScenes: 15
+printed: 1787
+premiered: 1787-01-31
+basedOn:
+  - "Benoît-Joseph Marsollier: [»Nina, ou La folle par amour. Comédie en un acte, en prose, mêlée d'ariettes«](https://books.google.com/books?id=0ZITAAAAQAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 45
+editions:
+  - title: "Hamburg 1787"
+    url: https://books.google.com/books?id=rWA6AAAAcAAJ&printsec=frontcover
+comments:
+  - "Weitere Übersetzungen: [1787 (Schmieder)](schmieder-nina-oder-wahnsinn-aus-liebe), [1788 (Müller)](mueller-nina-oder-der-wahnwitz-aus-liebe)."
+cast:
+  - name: Der Graf,
+    role: Vater von
+    gender: m
+  - name: Nina.
+    gender: f
+  - name: Von Trautenfels,
+    role: ihr Verlobter.
+    gender: m
+  - name: Elise,
+    role: Gesellschaftsfräulein.
+    gender: f
+  - name: Georg,
+    role: ein alter Bauer, des Grafen Ziehvater.
+    gender: m
+  - name: Bauren, Bäurinnen und Kinder.
+    isGroup: true
+    gender: u
+setting: >-
+  Garten. Zur Seite eine Rasen-Bank am Eingange einiger Bäume, die eine Laube bilden. Der Bank gegen über an der andern Seite ein Gitter-Thor, das auf die Landstraße hinausgeht. Im Hintergrunde eine Anhöhe mit verschiednen Fußsteigen, die aufs Gut führen.
 ---
 slug: d-elpons-der-ahnherr
 author:
@@ -17185,6 +17270,58 @@ cast:
     gender: m
 setting: >-
   Große Stube mit Mittel-Seitenthüren. Ein Verschlag, darin das Postcomptoir und ein Straßenfenster. Im Verschlage viele Pakete, Schachteln, Briefe, Gepäcke. Auf dem Schreibtisch im Verschlag ein brennendes Licht.
+---
+slug: haikul-die-schnitter
+author:
+  name: Haikul, J. J. Edler von
+title: Die Schnitter
+subtitle: Ein ländliches Sittengemälde in einem Aufzuge
+numberOfScenes: 8
+printed: 1787
+formalia:
+  - Prosa
+basedOn:
+  - "Charles-Simon Favart: [»Les moissonneurs. Comédie en trois actes et en vers meslée d'ariettes«](https://books.google.com/books?id=0ZZLAAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 97
+editions:
+  - title: "Prag: Diesbach 1787"
+    url: https://books.google.com/books?id=HsNdAAAAcAAJ&printsec=frontcover
+comments:
+  - "Autor auf dem Titelblatt angegeben als »J. J. e. v. H–u–l« – Auflösung des Namens durch Meyer, allerdings keinen anderen Beleg gefunden."
+cast:
+  - name: Hr. von Rollendorf,
+    role: Amtmann, zu Charlottenburg.
+    gender: m
+  - name: Frau von Rollendorf,
+    role: seine Gemahlinn.
+    gender: f
+  - name: Fanny,
+    role: ihre Tochter.
+    gender: f
+  - name: Maurer,
+    role: ein Pastor.
+    gender: m
+  - name: Neidhard,
+    role: der Schulze.
+    gender: m
+  - name: Margarethe,
+    role: sein Weib.
+    gender: f
+  - name: Christoph,
+    role: ihr Sohn.
+    gender: m
+  - name: Käthe,
+    role: ihre neunjährige Tochter.
+    gender: f
+  - name: Ein Bauer.
+    gender: m
+  - name: Schnitter und Schnitterinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Theater stellt eine Strecke Felder vor, auf denen die Saaten stehn. In der Ferne ein Dorf. (Die Handlung beginnt mit Sonnenaufgang, und dauert eine Stunde.)
 ---
 slug: halirsch-hanns-sachs
 author:
@@ -29567,6 +29704,62 @@ setting: >-
 location:
   wikidataId: Q760
 ---
+slug: mueller-nina-oder-der-wahnwitz-aus-liebe
+author:
+  name: Müller, Johann Heinrich Friedrich
+  wikidata: Q1694390
+title: Nina, oder Wahnwitz aus Liebe
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen frey bearbeitet
+numberOfScenes: 16
+printed: 1788
+premiered: 1788-11-08
+formalia:
+  - Prosa
+basedOn:
+  - "Benoît-Joseph Marsollier: [»Nina, ou La folle par amour. Comédie en un acte, en prose, mêlée d'ariettes«](https://books.google.com/books?id=0ZITAAAAQAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 287–288
+editions:
+  - title: "Wien: Jahn 1788"
+    url: https://books.google.com/books?id=yJsyAQAAMAAJ&printsec=frontcover
+comments:
+  - "Weitere Übersetzungen: [1787 (d'Ariens)](d-arien-nina-oder-wahnsinn-aus-liebe), [1787 (Schmieder)](schmieder-nina-oder-wahnsinn-aus-liebe)."
+cast:
+  - name: Der Graf.
+    gender: m
+  - name: Nina,
+    role: dessen Tochter.
+    gender: f
+  - name: Reinbach,
+    role: Oberamtmann der gräflichen Güter.
+    gender: m
+  - name: Mathilde,
+    role: dessen Schwester.
+    gender: f
+  - name: Elise,
+    role: Hofmeisterinn der Nina und ihre vertraute Freundinn.
+    gender: f
+  - name: Baron Karlstein.
+    gender: m
+  - name: Georg,
+    role: ein alter Bauer.
+    gender: m
+  - group:
+      - name: Anne,
+        gender: f
+      - name: Martin,
+        gender: m
+    role: zwey Bauernkinder.
+  - name: Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+  - name: Zwey Hirten.
+    isGroup: true
+    gender: m
+setting: >-
+  Garten mit Alleen. Vorwärts unter einer Laube eine Gartenbank. In der Mitte ein Gitterthor, das auf die Landstrasse hinausgeht. In der Tiefe, Gebürge mit veschiedenen Fußsteigen, die zum Schloß führen.
+---
 slug: mueller-stirbt-der-fuchs-so-gilt-sein-balg
 author:
   name: Müller, Johann Heinrich Friedrich
@@ -31282,6 +31475,46 @@ cast:
     role: vormals Jäger im Dienste des Barons.
     gender: m
 setting: Die Handlung ist auf dem Landgute des Barons.
+---
+slug: proepper-die-verlornen-soehne
+author:
+  name: Pröpper, P. J. von
+title: Die verlornen Söhne
+subtitle: Ein Schauspiel in einem Akte
+numberOfScenes: 19
+printed: 1787
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 133
+editions:
+  - title: "Offenbach: Brede 1787"
+    url: https://books.google.com/books?id=kCxdAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr von Daldorf.
+    gender: m
+  - group:
+      - name: Ferdinand,
+        gender: m
+      - name: Karl,
+        role: 9 Jahre alt,
+        gender: m
+    role: seine Söhne.
+  - name: Wendel,
+    role: sein Verwalter.
+    gender: m
+  - name: Schlau,
+    role: ein Seelenverkäufer.
+    gender: m
+  - name: Strips,
+    role: ein Wirth.
+    gender: m
+  - name: Sophie,
+    role: eines Malers Tochter.
+    gender: f
+setting: >-
+  Vorzimmer in Daldorfs Landhause.
 ---
 slug: prothke-das-leidende-maedchen
 author:
@@ -34602,50 +34835,51 @@ cast:
     gender: m
 setting: Zimmer bei Dillert.
 ---
-slug: bonin-der-weibliche-kammerdiener
+slug: schmieder-nina-oder-wahnsinn-aus-liebe
 author:
-  name: Bonin, Christian Friedrich von
-  wikidata: Q55130929
-title: Der weibliche Kammerdiener
-subtitle: Ein Lustspiel in Einem Aufzuge von B–n
-numberOfScenes: 16
-printed: 1779
-premiered: 1779-11-30
-formalia:
-  - Prosa
+  name: Schmieder, Heinrich Gottlieb
+  wikidata: Q30235471
+title: Nina oder Wahnsinn aus Liebe
+subtitle: Ein Schauspiel mit Gesang in Einem Akt
+numberOfScenes: 15
+printed: 1787
+premiered: 1787-06-17
+basedOn:
+  - "Benoît-Joseph Marsollier: [»Nina, ou La folle par amour. Comédie en un acte, en prose, mêlée d'ariettes«](https://books.google.com/books?id=0ZITAAAAQAAJ&printsec=frontcover)"
 dictionaries:
   - name: bibliographia
-    pages: 2. Abteilung, Band 27, S. 229
+    pages: 2. Abteilung, Band 30, S. 144–145
 editions:
-  - title: "Olla Potrida. Drittes Stück. Berlin: Wever 1779, S. 9–40"
-    url: https://books.google.com/books?id=NLMvabe-U6sC&pg=RA1-PA9
+  - title: "Mainz 1787"
+    url: https://books.google.com/books?id=r9FhR-2o62IC&printsec=frontcover
+comments:
+  - "Weitere Übersetzungen: [1787 (d'Ariens)](d-arien-nina-oder-wahnsinn-aus-liebe), [1788 (Müller)](mueller-nina-oder-der-wahnwitz-aus-liebe)."
 cast:
-  - name: von Sternheim,
-    role: Wittwe von mittlern Jahren.
+  - name: Der Graf.
+    gender: m
+  - name: Nina,
+    role: dessen Tochter, seit einigen Monaten wahnsinnig.
     gender: f
-  - name: von Wibach,
-    role: Husarenrittmeister.
+  - name: Gottfried,
+    role: im Hause des Grafen.
     gender: m
-  - name: von Liß,
-    role: Nachbar der Frau von Sternheim.
-    gender: m
-  - name: Sophie,
-    role: unter dem Namen Friedrich, Kammerdiener beym Rittmeister von Wibach.
+  - name: Mamsell Elise,
+    role: Erzieherinn der Nina.
     gender: f
-  - name: Lina,
-    role: Kammermädchen der Frau von Sternheim.
+  - name: Schoenberg,
+    role: Liebhaber der Nina. Tod geglaubt.
+    gender: m
+  - name: Margaretha,
+    role: Baeuerinn.
     gender: f
-  - name: Andrews,
-    role: Bedienter des Herrn von Liß.
-    gender: m
-  - name: Der Wachtmeister von Wibachs Schwadron.
-    gender: m
-  - name: Ein Reitknecht.
-    gender: m
+  - name: Bauern.
+    isGroup: true
+    gender: u
+  - name: Alte und Kinder des Dorfs.
+    isGroup: true
+    gender: u
 setting: >-
-  Der Schauplatz ist in Schlesien, nahe der Böhmischen Grenze, auf dem Landhause der Frau von Sternheim.
-location:
-  wikidataId: Q81720
+  Ein Garten. Unter einigen Bauemen ein Sitz nicht fern von einem Gegitter, welches auf die Landstrasse fuihrt. Im Grunde ein Steigweg, der zum Dorfe fuihrt. Nina ruhet, ohne dass man sie sieht. Elise ist auf der Buihne von einigen Bauern umgeben, an deren Spitze Gottfried ist. Einige steigen den Weg herab, andere sind noch auf demselben.
 ---
 slug: both-der-erbe
 author:
