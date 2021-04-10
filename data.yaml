@@ -9383,6 +9383,72 @@ cast:
     gender: m
 setting: Der Schauplatz ist auf der Straße.
 ---
+slug: bierling-die-laecherlichen-precioesen
+author:
+  name: Bierling, Friedrich Immanuel
+  wikidata: Q96439747
+title: "Die lächerlichen Preciösen; oder, die romanmäßig witzigen Frauenzimmer"
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 17
+printed: 1752
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [»Les précieuses ridicules. Comédie en un acte, en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_PRECIEUSESRIDICULES.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 16, S. 54–55
+editions:
+  - title: "Des Herrn Moliere sämmtliche Lustspiele. Nach einer freyen und sorgfältigen Uebersetzung. Erster Theil. Hamburg: Herold 1752, S. 185–220"
+    url: https://books.google.com/books?id=20tcAAAAcAAJ&pg=RA1-PA184-IA1
+comments:
+  - "Weitere Übersetzungen: [Dyk 1778](dyk-der-sproedenspiegel), [Schmid 1779](schmid-der-sproedenspiegel), [Zschokke 1805](zschokke-die-eleganten), [Robert 1804](robert-die-ueberbildeten), [Robert 1824](robert-die-ueberbildeten-neuere-freie-bearbeitung), [Lax 1837](lax-die-verschrobenen)."
+  - Bei Meyer ist von Friedrich Samuel Bierling die Rede, wahrscheinlich identisch mit Friedrich Immanuel Bierling, vgl. [Leipziger Literaturzeitung 1831](https://books.google.com/books?id=enbtu3MUrkgC&pg=PA2187).
+cast:
+  - group:
+    - name: La Grange,
+      gender: m
+    - name: Dü Croisi,
+      gender: m
+    role: zween verachtete Liebhaber.
+  - name: Gorgibus,
+    role: ein ehrbarer Bürger.
+    gender: m
+  - name: Madlenchen,
+    role: dessen Tochter.
+    gender: f
+  - name: Cäthchen,
+    role: dessen Muhme.
+    gender: f
+  - name: Mariechen,
+    role: Kammermädchen bey beyden.
+    gender: f
+  - name: Almanzor,
+    role: deren Lackey.
+    gender: m
+  - name: Der Marquis von Mascarilias,
+    role: des la Grange Lackey.
+    gender: m
+  - name: Der Vicomte von Jodelet,
+    role: des dü Croisi Lackey.
+    gender: m
+  - group:
+    - name: Lucilia,
+      gender: f
+    - name: Celimene,
+      gender: f
+    role: Freundinnen der beyden Jungfern.
+  - name: Zween Sänftenträger.
+    isGroup: true
+    gender: m
+  - name: Etliche Musicanten.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist zu Paris, in des Gorgibus Hause.
+location:
+  wikidataId: Q90
+---
 slug: bilderbeck-barogo
 author:
   name: Bilderbeck, Ludwig Benedict Franz von
@@ -13899,7 +13965,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 320
 editions:
-  - title: "Hannover: Seel. Nicolai Försters und Sohns Erben Buchhandlung 1749"
+  - title: "Hannover: Förster 1749"
     url: https://books.google.com/books?id=0i9XMF7U40AC&printsec=frontcover
 cast:
   - name: Daphne.
@@ -13912,6 +13978,64 @@ cast:
     gender: m
   - name: Tityr.
     gender: m
+---
+slug: dyk-der-sproedenspiegel
+author:
+  name: Dyk, Johann Gottfried
+  wikidata: Q1694090
+title: Der Sprödenspiegel
+subtitle: Ein Lustspiel in Einem Akte. Nach Moliere
+numberOfScenes: 18
+printed: 1778
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [»Les précieuses ridicules. Comédie en un acte, en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_PRECIEUSESRIDICULES.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 77
+editions:
+  - title: "Komisches Theater der Franzosen. Für die Deutschen. Herausgegeben von J. G. Dyk. Dritter Theil. Leipzig: Dyk 1778, S. 1–76"
+    url: https://books.google.com/books?id=DZAGHr1l62cC&pg=PA1
+comments:
+  - "Weitere Übersetzungen: [Bierling 1752](bierling-die-laecherlichen-precioesen), [Schmid 1779](schmid-der-sproedenspiegel), [Zschokke 1805](zschokke-die-eleganten), [Robert 1804](robert-die-ueberbildeten), [Robert 1824](robert-die-ueberbildeten-neuere-freie-bearbeitung), [Lax 1837](lax-die-verschrobenen)."
+cast:
+  - name: Ehren,
+    role: Amtmann.
+    gender: m
+  - name: Rebekka,
+    role: dessen Tochter.
+    gender: f
+  - name: Susanne Elisabeth,
+    role: dessen Nichte.
+    gender: f
+  - name: Christine,
+    role: deren Mädchen.
+    gender: f
+  - name: Gerhard,
+    role: Kaufmann.
+    gender: m
+  - name: Adolph,
+    role: desgleichen.
+    gender: m
+  - name: Johann,
+    role: Gerhards Bedienter.
+    gender: m
+  - name: Philipp,
+    role: Adolphs Diener.
+    gender: m
+  - name: Einige ungenannte Herren und Damens.
+    isGroup: true
+    gender: u
+  - name: Musikanten.
+    isGroup: true
+    gender: u
+  - name: Marqeur.
+    gender: m
+setting: >-
+  Schauplatz ein Gasthof zu Wien. (Ein Saal, der zu verschiedenen Zimmern führt.)
+location:
+  wikidataId: Q1741
 ---
 slug: dyk-jack-splien-oder-ich-erschiesse-mich-nicht
 author:
@@ -27284,6 +27408,63 @@ cast:
 setting: >-
   Die Scene ist in Baumanns Wohnzimmer.
 ---
+slug: lax-die-verschrobenen
+author:
+  name: Lax, Louis
+  wikidata: Q55902345
+title: Die Verschrobenen
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 19
+printed: 1837
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [»Les précieuses ridicules. Comédie en un acte, en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_PRECIEUSESRIDICULES.xml)"
+editions:
+  - title: "Moliere's sämmtliche Werke. Herausgegeben von Louis Lax. 1. Bändchen. Aachen und Leipzig: Mayer 1837, S. 297–336"
+    url: https://books.google.com/books?id=ogY6AAAAcAAJ&pg=PA297
+comments:
+  - "Weitere Übersetzungen: [Bierling 1752](bierling-die-laecherlichen-precioesen), [Dyk 1778](dyk-der-sproedenspiegel), [Schmid 1779](schmid-der-sproedenspiegel), [Zschokke 1805](zschokke-die-eleganten), [Robert 1804](robert-die-ueberbildeten), [Robert 1824](robert-die-ueberbildeten-neuere-freie-bearbeitung)."
+cast:
+  - name: La Grange.
+    gender: m
+  - name: Du Croisy.
+    gender: m
+  - name: Gorgibus,
+    role: ein Bürger.
+    gender: m
+  - name: Magdalene,
+    role: seine Tochter.
+    gender: f
+  - name: Käthe,
+    role: seine Nichte.
+    gender: f
+  - name: Marotte,
+    role: ihre Dienerin.
+    gender: f
+  - name: Almanzor,
+    role: ihr Laquai.
+    gender: m
+  - name: Der Markis von Mascarill,
+    role: Bedienter von La Grange.
+    gender: m
+  - name: Der Vicomte von Jodelet,
+    role: Bedienter von Du Croisy.
+    gender: m
+  - name: Zwei Träger.
+    isGroup: true
+    gender: m
+  - name: Nachbarinnen.
+    isGroup: true
+    gender: f
+  - name: Violinisten.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist zu Paris.
+location:
+  wikidataId: Q90
+---
 slug: lebrun-brief-und-antwort
 author:
   name: Lebrun, Karl August
@@ -32634,6 +32815,131 @@ cast:
 setting: >-
   Ein kleines, aber modern und reich möblirtes Zimmer mit Fußteppich, Sopha, Blumengefäßen u. dgl., mit einer großen Mittelthüre und einer kleinen zur Seite.
 ---
+slug: robert-die-ueberbildeten
+author:
+  name: Robert, Ludwig
+  wikidata: Q70435
+title: Die Ueberbildeten
+subtitle: "Lustspiel in einem Aufzug nach Moliere's: Précieuses ridicules"
+numberOfScenes: 16
+printed: 1816
+premiered: 1804-04-03
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [»Les précieuses ridicules. Comédie en un acte, en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_PRECIEUSESRIDICULES.xml)"
+editions:
+  - title: "Neue deutsche Schaubühne oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Neunter Band. Augsburg und Leipzig: Jenisch und Stage [1816], S. 121–170"
+    url: https://books.google.com/books?id=oik7AAAAcAAJ&pg=PA121
+comments:
+  - "Weitere Übersetzungen: [Bierling 1752](bierling-die-laecherlichen-precioesen), [Dyk 1778](dyk-der-sproedenspiegel), [Schmid 1779](schmid-der-sproedenspiegel), [Zschokke 1805](zschokke-die-eleganten), [Robert 1824](robert-die-ueberbildeten-neuere-freie-bearbeitung), [Lax 1837](lax-die-verschrobenen)."
+  - "Wurde in der Ausgabe Philipp Karl Bonafont zugeschrieben, der diesen Fehler selbst anzeigte, vgl. das [Nachwort in Roberts neuer Bearbeitung](https://books.google.com/books?id=PcE6AAAAcAAJ&pg=PA193), dort auch 1803 als Jahr der Erstaufführung angegeben (wohl falsch, [laut ADB](https://de.wikisource.org/wiki/ADB:Robert,_Ludwig) fand die EA am 3. April 1804 statt)."
+cast:
+  - group:
+    - name: Wentheim,
+      gender: m
+    - name: Walter,
+      gender: m
+    role: verschmähete Liebhaber.
+  - name: Gorgibus,
+    role: Kaufmann aus der Provinz.
+    gender: m
+  - name: Friederike,
+    role: Tochter des Gorgibus.
+    gender: f
+  - name: Caroline,
+    role: Nichte des Gorgibus.
+    gender: f
+  - name: Charlotte,
+    role: Magd in Gorgibus Hause.
+    gender: f
+  - name: Lenardo,
+    role: Bedienter in Gorgibus Hause.
+    gender: m
+  - name: "Der Bediente von Walter, unter dem Namen: Graf Süßwald."
+    gender: m
+  - name: "Der Bediente von Wentheim, unter dem Namen: Baron Heldberg."
+    gender: m
+  - name: Zwey Sänftenträger.
+    isGroup: true
+    gender: m
+  - name: Nachbarn.
+    isGroup: true
+    gender: u
+  - name: Gerichtsdiener.
+    isGroup: true
+    gender: m
+  - name: Musikanten.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist in Berlin. (Ein kleiner Saal im Hause des Gorgibus.)
+location:
+  wikidataId: Q64
+---
+slug: robert-die-ueberbildeten-neuere-freie-bearbeitung
+author:
+  name: Robert, Ludwig
+  wikidata: Q70435
+title: Die Ueberbildeten
+subtitle: "Lustspiel in einem Aufzuge nach Moliere's »précieuses ridicules«. (Neuere, freie Bearbeitung.)"
+numberOfScenes: 15
+printed: 1826
+premiered: 1824
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [»Les précieuses ridicules. Comédie en un acte, en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_PRECIEUSESRIDICULES.xml)"
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Fünfter Jahrgang, für 1826. Berlin: Vereinsbuchhandlung 1826, S. 191–241"
+    url: https://books.google.com/books?id=PcE6AAAAcAAJ&pg=PA191
+comments:
+  - "Weitere Übersetzungen: [Bierling 1752](bierling-die-laecherlichen-precioesen), [Dyk 1778](dyk-der-sproedenspiegel), [Schmid 1779](schmid-der-sproedenspiegel), [Zschokke 1805](zschokke-die-eleganten), [Robert 1804](robert-die-ueberbildeten), [Lax 1837](lax-die-verschrobenen)."
+  - "Gründe für die aktualisierte Bearbeitung [im Nachwort](https://books.google.com/books?id=PcE6AAAAcAAJ&pg=PA193). Hinweis auf die erste Aufführung dieser Überarbeitung 1824 in Hamburg in: Originalien aus dem Gebiete der Wahrheit, Kunst, Laune und Phantasie, Jg. 8, [Nr. 147 (8. Dezember 1824), Sp. 1175](https://books.google.com/books?id=X35EAAAAcAAJ&pg=PA1175) und [Nr. 150 (15. Dezember 1824), Sp. 1199–1200](https://books.google.com/books?id=X35EAAAAcAAJ&pg=PA1199)."
+cast:
+  - group:
+    - name: Waller,
+      gender: m
+    - name: Wentheim,
+      gender: m
+    role: verschmähte Liebhaber.
+  - name: Kilian,
+    role: Kaufmann aus der Provinz.
+    gender: m
+  - name: Philippine,
+    role: Nichte des Kilian.
+    gender: f
+  - name: Auguste,
+    role: Mündel des Kilian.
+    gender: f
+  - name: "Der Bediente des Waller, unter dem Namen: Graf Süßwald."
+    gender: m
+  - name: "Der Bediente des Wentheim, unter dem Namen: Baron von Stockwitz."
+    gender: m
+  - name: Hedwig,
+    role: Magd, in Kilians Diensten.
+    gender: f
+  - name: Fridolin,
+    role: ein Knabe, in Kilians Diensten.
+    gender: m
+  - name: Ein Trödler.
+    gender: m
+  - name: Dessen Bursche.
+    gender: m
+  - name: Zwei Sänftenträger.
+    isGroup: true
+    gender: m
+  - name: Gäste
+    isGroup: true
+    gender: u
+  - name: Ein Musikus.
+    gender: m
+  - name: Musiker.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist in der Hauptstadt, in Kilians Wohnung.
+---
 slug: robert-er-wird-zur-hochzeit-gebeten-oder-die-nichtigen
 author:
   name: Robert, Ludwig
@@ -35062,6 +35368,23 @@ cast:
     gender: f
   - name: Celinde.
     gender: f
+---
+slug: schmid-der-sproedenspiegel
+author:
+  name: Schmid, Christian Heinrich
+  wikidata: Q108665
+title: Der Sprödenspiegel
+subtitle: Lustspiel in einem Aufzug, nach Moliere
+premiered: 1779-05-05
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [»Les précieuses ridicules. Comédie en un acte, en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_PRECIEUSESRIDICULES.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 300
+comments:
+  - "Weitere Übersetzungen: [Bierling 1752](bierling-die-laecherlichen-precioesen), [Dyk 1778](dyk-der-sproedenspiegel), [Zschokke 1805](zschokke-die-eleganten), [Robert 1804](robert-die-ueberbildeten), [Robert 1824](robert-die-ueberbildeten-neuere-freie-bearbeitung), [Lax 1837](lax-die-verschrobenen)."
 ---
 slug: schmidt-der-tag-der-erloesung
 author:
@@ -42376,3 +42699,52 @@ cast:
     gender: u
 setting: >-
   Die Scene ist zu Anfang in Wildheims Schloß; hernach in Walters Wohnung an der Grenze des herzoglichen Gebiet's, in einer Bauernwohnung. (Die Handlung fängt mit dem Abend an, und dauert bis Mitternacht.)
+---
+slug: zschokke-die-eleganten
+author:
+  name: Zschokke, Heinrich
+  wikidata: Q66207
+title: Die Eleganten
+subtitle: Posse in einem Aufzuge. Von Molieres. Für die deutsche Bühne
+numberOfScenes: 17
+printed: 1805
+premiered: 1841
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [»Les précieuses ridicules. Comédie en un acte, en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_PRECIEUSESRIDICULES.xml)"
+editions:
+  - title: "Molieres Lustspiele und Possen. Für die deutsche Bühne von Heinrich Zschokke. Erster Band. Franckfurth und Leipzig 1805, S. 201–245"
+    url: https://books.google.com/books?id=ba6tpqieHtUC&pg=PA201
+  - title: "Wien: Wallishausser 1808"
+    url: https://books.google.com/books?id=AD5IAAAAcAAJ&printsec=frontcover
+comments:
+  - "Weitere Übersetzungen: [Bierling 1752](bierling-die-laecherlichen-precioesen), [Dyk 1778](dyk-der-sproedenspiegel), [Schmid 1779](schmid-der-sproedenspiegel), [Robert 1804](robert-die-ueberbildeten), [Robert 1824](robert-die-ueberbildeten-neuere-freie-bearbeitung), [Lax 1837](lax-die-verschrobenen)."
+  - "Nachwort zur Übersetzung in der Ausgabe von 1805, [S. 246–248](https://books.google.com/books?id=ba6tpqieHtUC&pg=PA246)."
+cast:
+  - name: Rittmeister von Holm.
+    gender: m
+  - name: Herr von Wandel.
+    gender: m
+  - name: Herr Flägelein,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Ursula,
+    role: seine Tochter.
+    gender: f
+  - name: Grethe,
+    role: seine Nichte.
+    gender: f
+  - name: Marielise,
+    role: deren Kammermädchen.
+    gender: f
+  - name: Ein Lehnkutscher.
+    gender: m
+  - name: Johann,
+    role: Holms Bedienter.
+    gender: m
+  - name: Peter,
+    role: Wandels Bedienter.
+    gender: m
+setting: >-
+  Die Scene ist in einer großen Hauptstadt, im Hause des Herrn Flägelein.
