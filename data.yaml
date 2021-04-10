@@ -17133,6 +17133,78 @@ cast:
 setting: >-
   Die Scene ist im Fürstlichen Sommerschlosse.
 ---
+slug: hagemann-der-kranich
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Der Kranich
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1784
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 83
+editions:
+  - title: "Kleinere Stücke für die Teutsche Bühne bearbeitet von Friedr. Gustav Hagemann. Lübeck: Iversen 1784"
+    url: https://books.google.com/books?id=LNMJNZUK0gQC&pg=RA4-PA1
+cast:
+  - name: Lorenz,
+    role: Bediente[r] in Gilbachs Hause.
+    gender: m
+  - group:
+      - name: Waso
+        gender: m
+      - name: Sophie
+        gender: f
+    role: Gilbachs Mündel.
+  - name: Gilbach.
+    gender: m
+setting: >-
+  Die Scene ist ein Zimmer in Gilbachs Hause.
+---
+slug: hagemann-der-patriot
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Der Patriot
+subtitle: Ein Drama in einem Aufzuge
+numberOfScenes: 11
+printed: 1784
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 84
+editions:
+  - title: "Kleinere Stücke für die Teutsche Bühne bearbeitet von Friedr. Gustav Hagemann. Lübeck: Iversen 1784"
+    url: https://books.google.com/books?id=LNMJNZUK0gQC&pg=PA1
+comments:
+  - "In der [Vorerinnerung](https://books.google.com/books?id=LNMJNZUK0gQC&pg=PA3) heißt es: »Die Geschichte des berühmten römischen Feldherrn Kamillus ist die Veranlassung zu diesem Stük.«"
+keywords:
+  - Patriotismus
+  - Krieg
+cast:
+  - name: Eudoxia,
+    role: Trautheims Mutter.
+    gender: f
+  - name: Klementine,
+    role: Trautheims Gattin.
+    gender: f
+  - name: Ein Bote.
+    gender: m
+  - name: Trautheim.
+    gender: m
+  - name: Stertwehr,
+    role: Klementinens Bruder.
+    gender: m
+  - name: Rathsherren.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung geht in einem republikanischen Staate vor. Die Scene ist ein Saal in Drontheims Hause.
+---
 slug: hagemann-die-eroberung-von-valenciennes
 author:
   name: Hagemann, Friedrich Gustav
@@ -17225,6 +17297,232 @@ cast:
 setting: >
   Die Handlung geschieht in einer hannövrischen Stadt.
 ---
+slug: hagemann-die-unrechtmaessige-vermaehlung
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Die unrechtmässige Vermählung
+subtitle: Ein Drama mit musikalischer Begleitung in einem Aufzuge
+numberOfScenes: 11
+printed: 1784
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 85
+editions:
+  - title: "Kleinere Stücke für die Teutsche Bühne bearbeitet von Friedr. Gustav Hagemann. Lübeck: Iversen 1784"
+    url: https://books.google.com/books?id=LNMJNZUK0gQC&pg=RA2-PA1
+comments:
+  - "In der [Vorbemerkung](https://books.google.com/books?id=LNMJNZUK0gQC&pg=RA2-PA4) heißt es: »Die Geschichte ist aus Voltairs Zadig entlehnt.«"
+keywords:
+  - Mord
+  - Selbstmord
+  - Religion
+cast:
+  - name: Die Königin.
+    gender: f
+  - name: Ein Priester.
+    gender: m
+  - name: Der König.
+    gender: m
+  - name: Die neue Königin.
+    gender: f
+  - name: Priester und andre Nebenpersonen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist ein Tempel, im Hintergrunde ein Altar, auf welchem Feuer brent, zu beiden Seiten des Altars stehen Säulen, wovon die eine Hohl ist und in welcher sich die Königin verborgen hielt. Zur rechten des Altars steht die Statüe der höchsten Gottheit, den Blitz in der Hand und zur Linken die, der Gerechtigkeit mit der Wage. (Tempel und Altar sind illuminirt.)
+---
+slug: hagmemann-leichtsinn-und-gutes-herz
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Leichtsinn und gutes Herz
+subtitle: Ein Lustspiel in Einem Aufzuge
+numberOfScenes: 18
+printed: 1791
+premiered: 1790-08-23
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 345–346
+editions:
+  - title: "Theatralische Sammlung. Achtundzwanzigster Band. Jahn: Wien 1791, S. 273–304"
+    url: https://books.google.com/books?id=4BBkAAAAcAAJ&pg=PA273
+  - title: "Wien: Wallishausser 1802"
+    url: https://books.google.com/books?id=5pkyAQAAMAAJ&printsec=frontcover
+cast:
+  - name: Sekretair Schulz.
+    gender: m
+  - name: August,
+    role: sein Sohn.
+    gender: m
+  - name: Hauptmann von Jörtner.
+    gender: m
+  - name: Wendt,
+    role: ein Wucherer, Eigenthümer des Hauses, in welchem der Hauptmann und der Sekretair wohnen.
+    gender: m
+  - name: David,
+    role: ein alter Aufwärter des Sekretairs.
+    gender: n
+  - name: Ein Unterofficier.
+    gender: m
+  - name: Zwey Gerichtsdiener.
+    isGroup: true
+    gender: m
+  - name: Ein Kaufdiener.
+    gender: m
+setting: >-
+  Die Scene ist ein gemeinschaftlicher Vorplatz; rechts die Thüre zu des Hauptmanns, links die Thüre zu des Sekretairs Zimmer.
+---
+slug: hagmemann-großmuth-und-dankbarkeit
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Großmuth und Dankbarkeit
+subtitle: "Schauspiel in einem Aufzuge. Fortsetzung des Schauspiels: Leichtsinn und gutes Herz"
+numberOfScenes: 20
+printed: 1810
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 346
+editions:
+  - title: "Eisenach: Wittekind 1810"
+    url: https://books.google.com/books?id=mkNGGEHFKEcC&printsec=frontcover
+  - title: "[Ohne Ort: ohne Jahr]"
+    url: https://books.google.com/books?id=Ei47AAAAcAAJ&printsec=frontcover
+comments:
+  - "Fortsetzung von Hagemanns Schauspiel [»Leichtsinn und gutes Herz«](hagmemann-leichtsinn-und-gutes-herz) (1790)."
+cast:
+  - name: Secretair Schulz.
+    gender: m
+  - name: August,
+    role: sein Sohn.
+    gender: m
+  - name: Hauptmann Jörtner.
+    gender: m
+  - name: David.
+    gender: m
+  - name: Julie Rosen.
+    gender: f
+  - name: Jungfer Saller.
+    gender: f
+setting: >-
+  Die Scene ist das nämliche Zimmer, wie in dem Lustspiel: Leichtsinn und gutes Herz. (Auf einem Tisch Caffee für zwey Personen, gestopfte Pfeife und ein brennendes Licht.)
+---
+slug: hagemann-magister-tufelius
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Magister Tufelius
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1784
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 84
+editions:
+  - title: "Kleinere Stücke für die Teutsche Bühne bearbeitet von Friedr. Gustav Hagemann. Lübeck: Iversen 1784"
+    url: https://books.google.com/books?id=LNMJNZUK0gQC&pg=RA3-PA1
+cast:
+  - name: Magister Tufelius.
+    gender: m
+  - name: Docta,
+    role: seine Tochter.
+    gender: f
+  - name: Juliane.
+    gender: f
+  - name: Der Wachtmeister.
+    gender: m
+  - name: Julianens Schwester.
+    gender: f
+setting: >-
+  Die Scene stellt ein Zimmer in des Magister Tufelius Wohnung vor. Die Handlung geht des Morgens früh vor.
+---
+slug: hagemann-prosit-das-neue-jahr
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Prosit das neue Jahr!
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1784
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 84–85
+editions:
+  - title: "Kleinere Stücke für die Teutsche Bühne bearbeitet von Friedr. Gustav Hagemann. Lübeck: Iversen 1784"
+    url: https://books.google.com/books?id=LNMJNZUK0gQC&pg=RA1-PA1
+cast:
+  - name: von Morgenstern,
+    role: als Hauptmann verabschiedet.
+    gender: m
+  - name: Juliane,
+    role: seine Frau.
+    gender: f
+  - name: Henriette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Herr von Wildberg,
+    role: ein Student.
+    gender: m
+  - name: George,
+    role: ein Bedienter.
+    gender: m
+setting: >-
+  Die Scene ist ein Zimmer in des Hauptmann von Morgenstern Haus. Ein ofner Sarg steht auf der Erde, in welchem der Hauptmann in der Uniform liegt, ein Tuch ist über sein Gesicht gedekt. Auf dem Dekel des Sarges, welcher auf der andern Seite des Sarges liegt, ruht Degen, Schärfe, Ringkragen und Hut des Hauptmanns.
+---
+slug: hagmemann-so-opfern-herzen
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: So opfern Herzen!
+subtitle: Eine ländliche Szene mit Chören, in einem Aufzuge
+numberOfScenes: 23
+printed: 1791
+premiered: 1791-01-18
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 347–348
+editions:
+  - title: "Hannover: Ritscher 1791"
+    url: https://books.google.com/books?id=HetKAAAAcAAJ&printsec=frontcover
+  - title: "Theatralische Sammlung. Fünf und achtzigster Band. Wien: Jahn 1791"
+    url: https://books.google.com/books?id=4-Ojm6ltIywC&pg=RA1-PA1
+cast:
+  - name: Der Pastor im Dorfe.
+    gender: m
+  - name: Heinemann,
+    role: Verwalter daselbst.
+    gender: m
+  - group:
+      - name: Röschen,
+        gender: f
+      - name: Justel,
+        gender: m
+    role: seine Kinder.
+  - name: Heinrich,
+    role: Schreiber.
+    gender: m
+  - name: Philipp,
+    role: Jäger.
+    gender: m
+  - name: Landleute. Beurlaubte. Jäger. Bauern und Bäuerinnen. Die Schule. Nebenpersonen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Szene ist im Wohnschloß auf dem Gute eines hannöverischen Landedelmanns, wo Heinemann Verwalter ist.
+---
 slug: hagemann-vetter-paul-oder-die-rache-des-deutschen
 author:
   name: Hagemann, Friedrich Gustav
@@ -17270,6 +17568,48 @@ cast:
     gender: m
 setting: >-
   Große Stube mit Mittel-Seitenthüren. Ein Verschlag, darin das Postcomptoir und ein Straßenfenster. Im Verschlage viele Pakete, Schachteln, Briefe, Gepäcke. Auf dem Schreibtisch im Verschlag ein brennendes Licht.
+---
+slug: hagemeister-das-grosse-loos
+author:
+  name: Hagemeister, Johann Gottfried
+  wikidata: Q1694100
+title: Das große Loos
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 13
+printed: 1791
+premiered: 1790-10-22
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 349–350
+editions:
+  - title: "Berlin: Petit und Schöne 1791"
+    url: https://books.google.com/books?id=ZgQEnuxV9sMC&printsec=frontcover
+comments:
+  - Auch mit dem Untertitel »Lustspiel in einem Aufzuge« (Ms. für Aufführung in Mannheim 1794).
+cast:
+  - name: Van der Hort,
+    role: ein Kaufmann.
+    gender: m
+  - name: Wilhelm,
+    role: sein Sohn.
+    gender: m
+  - name: Nantchen,
+    role: sein Mündel.
+    gender: f
+  - name: Elias Trippel,
+    role: sein Buchhalter.
+    gender: m
+  - name: Susanna,
+    role: seine Haushälterin.
+    gender: f
+  - name: Ein Kollekteur.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+setting: >-
+  Scene: Ein Zimmer bei van der Hort mit zwei Thüren, wovon die eine in den Garten geht.
 ---
 slug: haikul-die-schnitter
 author:
@@ -19369,6 +19709,37 @@ cast:
   - name: Jean,
     role: ein Friseur.
     gender: m
+---
+slug: hutt-der-rechte-weg
+author:
+  name: Hutt, Johann
+  wikidata: Q94524283
+title: Der rechte Weg
+subtitle: Eine Ehestandsscene
+numberOfScenes: 5
+printed: 1805
+premiered: 1804-06-16
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 173
+editions:
+  - title: "Hutt's Lustspiele. Erstes Bändchen. Zweyte Auflage. Wien: Mörschner und Jasper 1824"
+    url: https://books.google.com/books?id=FHqG2TrUhHUC&pg=RA1-PA1
+comments:
+  - "Bei Meyer nur als undatiertes, anonym verfasstes Manuskript mit Einakterhinweis: »Ehestandsglück. Lustspiel in 1 Act.« Dort tragen die drei Personen auch Namen (Matz, Margarethe, Herr von Schuß)."
+cast:
+  - group:
+      - name: Bauer
+        gender: f
+      - name: Bäuerinn
+        gender: f
+    role: ein junges Ehepaar.
+  - name: Ein junger Herr aus der Stadt.
+    gender: m
+setting: >-
+  Eine von Hügeln eingeschlossene ländliche Gegend. Einige Bauernhütten, im Vorgrunde rechts ein ansehnliches Bauernhaus.
 ---
 slug: iffland-der-komet
 author:
