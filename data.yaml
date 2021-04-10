@@ -113,6 +113,39 @@ cast:
 setting: >-
   Zimmer im Hause des Herrn Langer. Tische. Stühle. Mittel- und Seitenthüren.
 ---
+slug: albrecht-die-enterbung-oder-der-buchstabe-des-testaments
+author:
+  name: Albrecht, Johann Friedrich Ernst
+  wikidata: Q124680
+title: Die Enterbung oder der Buchstabe des Testaments
+subtitle: Ein Schauspiel in einem Aufzuge. Für das churfürstlich sächsische Hoftheater
+numberOfScenes: 7
+printed: 1795
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 334–335
+editions:
+  - title: "Neue Schauspiele. Von Albrecht. Für das churfürstlich sächsische Hoftheater. Erster Band. Leipzig: Liebeskind 1795"
+    url: https://books.google.com/books?id=4nt_aBheEdQC&pg=RA2-PA1
+cast:
+  - name: Der Fürst.
+    gender: m
+  - name: Der Präsident.
+    gender: m
+  - name: Moloso,
+    role: der Erbe.
+    gender: m
+  - name: Fernando,
+    role: der Enterbte.
+    gender: m
+  - name: Genella,
+    role: dessen Geliebte.
+    gender: f
+setting: >-
+  Genella's Zimmer.
+---
 slug: albrecht-die-privattheaterprobe
 author:
   name: Heidemann, Theophil Albrecht
@@ -166,6 +199,49 @@ setting: >-
   Fenster. Im Hintergrunde desselben erblickt man ein aufgebautes Theater,
   eine Stube darstellend, auf der Mitte desselben einen Tisch und vier Stühle,
   und dicht vor der Hintergardine zu jeder Seite ein großes Spinde.
+---
+slug: albrecht-julie-graefin-zu-palmira
+author:
+  name: Albrecht, Johann Friedrich Ernst
+  wikidata: Q124680
+title: Julie Gräfin zu Palmira
+subtitle: Ein Schauspiel in einem Akt nach dem Sujet des Erasmus Schleicher frey bearbeitet
+numberOfScenes: 20
+printed: 1792
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 34 und S. 61
+editions:
+  - title: "Theatralische Sammlung. Dreyundvierzigster Band. Wien: Jahn 1793, S. 207–262"
+    url: https://books.google.com/books?id=2RFkAAAAcAAJ&pg=PA207
+  - title: "Halberstadt: Groß [1808]"
+    url: https://books.google.com/books?id=FrdTAAAAcAAJ&printsec=frontcover
+comments:
+  - "Adaption von Carl Gottlob Cramers [»Erasmus Schleicher«](https://books.google.com/books?id=GvzRugEACAAJ&printsec=frontcover)."
+cast:
+  - name: Julius,
+    role: regierender Graf zu Palmira.
+    gender: m
+  - name: Julie,
+    role: seine Tochter.
+    gender: f
+  - name: Antonie von Wohlau,
+    role: seine Nichte.
+    gender: f
+  - name: von Colmar,
+    role: königlicher Stallmeister.
+    gender: m
+  - name: Lorenzo,
+    role: Leibjäger des Grafen.
+    gender: m
+  - name: Ein Unbekannter unter dem Namen Anton.
+    gender: m
+  - name: Ein alter Jäger.
+    gender: m
+setting: >-
+  Ein Zimmer der Gräfin.
 ---
 slug: alexander-die-verpfaendung
 author:
@@ -833,6 +909,50 @@ setting: >-
 location:
   wikidataId: Q105261
 ---
+slug: anonym-barrey-und-ernestine-oder-die-studenten-braut
+author:
+  pseudonym: Anonym
+title: "Barrey und Ernestine oder: Die Studenten-Braut"
+subtitle: Ein Lustspiel in Einem Aufzuge
+numberOfScenes: 1
+printed: 1783
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 342
+editions:
+  - title: "Bremen: Förster 1783"
+    url: https://books.google.com/books?id=EtdaAAAAcAAJ&printsec=frontcover
+comments:
+  - "Besprechung in: Journal aller Romane und Schauspiele. Erstes Stück. Leipzig: Schneider 1784, [S. 52–53](https://books.google.com/books?id=2zi5EmbSDjwC&pg=PA52)."
+cast:
+  - name: Barrey der Aeltere,
+    role: ein Prediger.
+    gender: m
+  - name: Barrey der Jüngere,
+    role: sein Sohn, ein Student.
+    gender: m
+  - name: Ruperti der Aeltere,
+    role: ein Advokat.
+    gender: m
+  - name: Ruperti der Jüngere,
+    role: Student.
+    gender: m
+  - name: Ernestine,
+    role: ihre Schwester.
+    gender: f
+  - name: Diedelt,
+    role: ein Barbierer.
+    gender: m
+  - name: Der Gastwirth und dessen Magd.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplaz eine Dorfschenke auf dem Eichsfelde.
+location:
+  wikidataId: Q7333847
+---
 slug: anonym-brando
 author:
   pseudonym: Anonym
@@ -1120,6 +1240,7 @@ setting: Die Scene ist in dem Zimmer des Herrn Kluge, wo ein zubereiteter Tisch
 slug: anonym-das-geraubte-schaaf
 author:
   name: K.***, J. G. C.
+  pseudonym: Anonym
 title: Das geraubte Schaaf
 subtitle: Ein Schäfer-Spiel in einem Acte
 numberOfScenes: 7
@@ -1789,6 +1910,37 @@ cast:
     role: dessen Hofmeister.
     gender: m
 ---
+slug: anonym-der-eifersuechtige-ehemann-sein-eigner-nebenbuhler
+author:
+  name: L.
+  pseudonym: Anonym
+title: Der eifersüchtige Ehemann sein eigner Nebenbuhler
+subtitle: Lustspiel in einem Aufzuge aus dem Französischen des Herrn Villeterque
+numberOfScenes: 15
+created: 1793
+formalia:
+  - Prosa
+basedOn:
+  - "Alexandre-Louis de Villeterque: »Le mari jaloux et rival de lui-même. Comédie en un acte, en prose«"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 407–408
+comments:
+  - Nur Manuskript.
+cast:
+  - name: Herr Limberg.
+    gender: m
+  - name: Mad. Limberg.
+    gender: f
+  - name: Herr Holm.
+    gender: m
+  - name: Lisette.
+    gender: f
+  - name: Friedrich.
+    gender: m
+setting: >-
+  Die Scene ist ein Zimmer der Mad. Limberg im Vordergrund des Theaters, links sieht man eine Toilette; auf der andern Seite ein Clavier, und einen Tisch, worauf Bücher und Musicalien liegen. Im Hintergrund und auf beiden Seiten sind einige Gemälde. In der Mitte, nicht weit vom Clavier, steht auf einer Staffeley ein angefangenes Tableau, worauf man nichts als einen Weiberkopf unterscheiden kann; Das übrige ist bloße Zeichnung. Die Thüre des Zimmers ist in der Mitte; links ein Fenster; auf der nehmlichen Seite die Thür eines Kabinetts.
+---
 slug: anonym-der-erbe-und-der-braeutigam-auf-der-reise
 author:
   pseudonym: Anonym
@@ -1870,6 +2022,45 @@ cast:
     gender: f
 setting: >-
   Der Schauplaz ist eine waldichte Gegend nahe an dem Guthe der Frau Agathe.
+---
+slug: anonym-der-feuerlaerm-oder-alles-geht-nach-wunsch
+author:
+  name: H., A.
+  pseudonym: Anonym
+title: Der Feuerlärm, oder alles geht nach Wunsch
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 17
+printed: 1793
+premiered: 1799-01-17
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 369
+editions:
+  - title: "Wien: Wallishausser 1793"
+    url: https://books.google.com/books?id=uI1IAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr von Karg.
+    gender: m
+  - name: Louise,
+    role: dessen Tochter.
+    gender: f
+  - name: Baron Black,
+    role: ihr erklärter Bräutigam.
+    gender: m
+  - name: Karl von Blankenheim.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+  - name: Babete,
+    role: Louisens Kammermädchen.
+    gender: f
+  - name: Jakob,
+    role: Blankenheims Bedienter.
+    gender: m
+setting: >-
+  Zimmer in Blankenheims Hause.
 ---
 slug: anonym-der-finanzpachter
 author:
@@ -2144,6 +2335,48 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist in einem Gartenhause.
+---
+slug: anonym-der-jaemmerliche-kaufmann
+author:
+  name: K***, Philipp
+  pseudonym: Anonym
+title: Der jämmerliche Kaufmann
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1792
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 159
+editions:
+  - title: "Theatralische Sammlung. Dreyunddreyßigster Band. Wien: Jahn 1792, S. 263–288"
+    url: https://books.google.com/books?id=Gv7F18iqcDwC&pg=PA263
+  - title: "Frankfurt und Leipzig 1792"
+    url: https://books.google.com/books?id=ap06AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr Stromüller.
+    gender: m
+  - name: Herr Siegwald.
+    gender: m
+  - name: Herr Beiker,
+    role: ein Doktor.
+    gender: m
+  - name: Herr Fenchel,
+    role: ein Maler.
+    gender: m
+  - name: Herr Walz,
+    role: ein Schneider.
+    gender: m
+  - name: Bastian,
+    role: Stromüllers Knecht.
+    gender: m
+  - name: Madam Stromüller.
+    gender: f
+  - name: Mamsell Stromüller.
+    gender: f
+setting: >-
+  Die Handlung geschieht in des Herrn Stromüllers Schreibstube.
 ---
 slug: anonym-der-junge-herr
 author:
@@ -2433,6 +2666,48 @@ setting: Der Schauplatz ist zu Paris in Philanders Hause.
 location:
   wikidataId: Q90
 ---
+slug: anonym-der-nationalgardist-oder-so-raecht-sich-die-tugend
+author:
+  name: F., A.
+  pseudonym: Anonym
+title: "Der Nationalgardist, oder: So rächt sich die Tugend"
+subtitle: Ein Original-Lustspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1794
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 118
+editions:
+  - title: "[Ohne Ort:] Salzer 1794"
+cast:
+  - name: Herr von Bredenau.
+    gender: m
+  - name: Henriette,
+    role: dessen Gattinn.
+    gender: f
+  - name: Herr von Haynberg,
+    role: ihr Vater.
+    gender: m
+  - group:
+      - name: Louise von Kleindorn.
+        gender: f
+      - name: Franziska von Reichenthal.
+        gender: f
+    role: Henriettens Freundinnen.
+  - name: Jacque d'Aveugle,
+    role: Lieutenant der National-Garde.
+    gender: m
+  - name: Johann,
+    role: Bredenaus Bedienter.
+    gender: m
+  - name: Bedienter,
+    role: des Lieutenants.
+    gender: m
+setting: >-
+  Die Handlung geht in einem Marktflecken an der französischen Gränze vor.
+---
 slug: anonym-der-neidische-oder-critic-ueber-den-verheyratheten-philosophen
 author:
   pseudonym: Anonym
@@ -2443,7 +2718,7 @@ printed: 1756
 formalia:
   - Prosa
 basedOn:
-  - "Destouches: »L'envieux, ou la critique du philosophe marié«"
+  - "Philippe Néricault Destouches: »L'envieux, ou la critique du philosophe marié«"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 18, S. 263–264
@@ -2533,7 +2808,7 @@ printed: 1772
 formalia:
   - Prosa
 basedOn:
-  - "Destouches: »Le dépot. Comédie«"
+  - "Philippe Néricault Destouches: »Le dépot. Comédie«"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 469–470
@@ -3647,6 +3922,68 @@ cast:
     gender: m
 setting: Der Schauplatz ist auf dem Land / in des Grafen Schloß. [Ausgabe 1769]
 ---
+slug: anonym-die-dreyfache-heyrath
+author:
+  pseudonym: Anonym
+title: Die dreyfache Heyrath
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1756
+formalia:
+  - Prosa
+basedOn:
+  - "Philippe Néricault Destouches: [»Le triple mariage. Comédie«](https://books.google.com/books?id=dotQAAAAcAAJ&pg=PA1)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 11, S. 344, und Band 18, S. 242–243
+editions:
+  - title: "Des Herrn Nericault Destouches sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Leipzig und Göttingen: Luzac der jüngere 1756, S. 427–476"
+    url: https://books.google.com/books?id=KaVmAAAAcAAJ&pg=PA427
+comments:
+  - "Weitere Übersetzung: [Gotter 1773](gotter-die-maskerade-oder-die-dreyfache-heyrath)."
+  - "Aufführungen, bei denen unklar ist, welche Übersetzung zugrunde lag: »Die dreyfache Heirath. Comoedie in einem Aufzug und in Versen« (Neuber'sche Truppe, Leipzig 1741), »Die 3fache Heirath. Ein Lustspiel« (Schönemann'sche Truppe, Hamburg 1753), »LE TRIPLE MARIAGE, Die dreyfache Heyrath. Eine Comödie des Hrn. Destouches in einem Ackt« (Ackermann'sche Truppe, Hamburg 1764)."
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Oront.
+    gender: m
+  - name: Isabelle,
+    role: Oronts Tochter.
+    gender: f
+  - name: Valer,
+    role: Oronts Sohn.
+    gender: m
+  - name: Cleon,
+    role: Isabellens Mann.
+    gender: m
+  - name: Nerine,
+    role: Isabellens Mädchen.
+    gender: m
+  - name: Die Gräfin von Ruffardiere.
+    gender: f
+  - name: Julie,
+    role: Valers Frau.
+    gender: f
+  - name: Celimene,
+    role: Oronts Frau.
+    gender: f
+  - name: Pasquin,
+    role: Valers Bedienter.
+    gender: m
+  - name: Lepin,
+    role: Cleons Bedienter.
+    gender: m
+  - name: Javotte,
+    role: Isabellens jüngste Schwester.
+    gender: f
+  - name: Eine Gesellschaft von Täntzern und Tänzerinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist zu Paris in Oronts Hause.
+location:
+  wikidataId: Q90
+---
 slug: anonym-die-eigensinnigen
 author:
   pseudonym: Anonym
@@ -4253,6 +4590,70 @@ cast:
 setting: >-
   Das Theater stellt den innern Hof des Spitals vor. Zu beiden Seiten Pavillons mit Krankenstuben, die jedes ein mit eisernen Gittern wohlverwahrtes Fenster, auch noch von außen Läden zum Zumachen haben. Uiber jedem Fenster befindet sich eine Nummer. Das Theater wird von der äußern inwendig mit einem Baumgange eingefaßten Mauer des Spitals geschlossen. In der Mitte derselben ist die Einfahrt von der Straße her, ein Thor, und eine Einlaßthüre. An den Seiten siehet man Gange, die hinter die Pavillons führen.
 ---
+slug: anonym-die-mainzer-klubbisten-zu-koenigstein
+author:
+  pseudonym: Anonym
+title: Die Mainzer Klubbisten zu Königstein
+subtitle: Ein tragi-komisches Schauspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1793
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 284
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1793"
+    url: https://doi.org/10.11588/diglit.34564#0005
+  - title: "Deutsche Litteratur-Pasquille. Herausgegeben von Dr. Franz Blei. Viertes Stück. Leipzig: Zeitler 1907"
+    url: https://archive.org/details/bub_gb_zPsOAAAAIAAJ/page/n5/mode/2up
+comments:
+  - "In der Ausgabe von 1907 kurzes Nachwort von Franz Blei auf [S. 36–38](https://archive.org/details/bub_gb_zPsOAAAAIAAJ/page/n39/mode/2up)."
+keywords:
+  - Revolution
+  - Religion
+  - Krieg
+cast:
+  - name: Bürgerinn Böhmer,
+    role: eine viel versprechende und wenig haltende Wittwe.
+    gender: f
+  - name: Bürgerinn Forkel,
+    role: Taglöhnerinn bei der englischen Uebersetzer-Fabrike des Bürger und Mainzer Nationalkonvents Deputirten, Forster.
+    gender: f
+  - name: Bürgerinn Eßbeck,
+    role: ehemal von Adel, nun Vorleserinn im Klub.
+    gender: f
+  - name: Bürgerinn Wehdekind,
+    role: Mutter des großen Erzbürgers Wehdekind.
+    gender: f
+  - name: Bürgerinn Wehdekind,
+    role: Frau des Erzbürgers.
+    gender: f
+  - name: Aloysius Franziskus Xaverius Ignatius Loyola Blau,
+    role: Professor der demokratischen Dogmatik zu Mainz.
+    gender: m
+  - name: Arnsperger,
+    role: zügelloser Kaplan zu Kassel, Farren zu Bingen.
+    gender: m
+  - name: Scheuer,
+    role: Polizeikommissar und Proklamationsreuter in Mainz.
+    gender: m
+  - name: Reit,
+    role: Duodezgelehrter aus Mainz.
+    gender: m
+  - name: Arand,
+    role: der gelehrteste Pfarrer im ersten Mainzer Grenzorte Nackenheim, Regens und Weinhändler im Seminar, Pfarrer zu Kristoph, Doctor baccal. Biblic. Stultiss. formatus & bomabasticus, wirklicher Weihbischof, Erzbischof in petto.
+    gender: m
+  - name: Der Kommandant von Königstein.
+    gender: m
+  - name: Wache
+    isGroup: true
+    gender: m
+setting: >-
+  Zimmer der Bürgerinn Böhmer.
+location:
+  wikidataId: Q1012780
+---
 slug: anonym-die-melonen-oder-die-zaenkerinn
 author:
   pseudonym: Anonym
@@ -4282,6 +4683,60 @@ cast:
     gender: m
   - name: Barbe.
     gender: f
+---
+slug: anonym-die-nacht
+author:
+  pseudonym: Anonym
+title: Die Nacht
+subtitle: Ein Lustspiel, von einem Aufzuge
+numberOfScenes: 12
+printed: 1778
+formalia:
+  - Prosa
+basedOn:
+  - "Francesco Albergati Capacelli: [»La notte. Commedia d'un atto solo«](https://books.google.com/books?id=GjLW7i6ECHcC&pg=PA125)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 35–36
+editions:
+  - title: "Des Herrn Marquis Franz Albergati Capacelli Neues komisches Theater. Erster Theil. Breslau: Korn 1778, S. 193–260"
+    url: https://books.google.com/books?id=he9YAAAAcAAJ&pg=PA193
+comments:
+  - "Weitere Übersetzungen: [Laudes 1776](laudes-die-nacht), [Reichard 1777](reichard-nacht-und-ohngefaehr)."
+cast:
+  - name: Der Marquis Valerio Ranghi,
+    role: ein Römer.
+    gender: m
+  - name: Die Marquise Clarice,
+    role: dessen Tochter.
+    gender: f
+  - name: Tofolo,
+    role: ein Bedienter.
+    gender: m
+  - group:
+      - name: Der Graf Florindo Bruggi.
+        gender: m
+      - name: Der Graf Leandro Arcati,
+        role: dessen Freund.
+        gender: m
+    role: aus Turin.
+  - group:
+      - name: Der Graf Ottavio Aretusi.
+        gender: m
+      - name: Der Graf Lelio Anselmi,
+        role: dessen Freund.
+        gender: m
+      - name: Vespa,
+        role: ein Aufwärter im Gasthofe.
+        gender: m
+    role: Mailänder.
+  - name: Bediente; die nicht reden.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist in einem angesehenen Gasthofe in Mailand.
+location:
+  wikidataId: Q490
 ---
 slug: anonym-die-nonnen
 author:
@@ -4473,7 +4928,7 @@ printed: 1756
 formalia:
   - Prosa
 basedOn:
-  - "Destouches: »La belle orgueilleuse ou l'enfant gâté«"
+  - "Philippe Néricault Destouches: »La belle orgueilleuse ou l'enfant gâté«"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 18, S. 281–282, und Band 23, S. 455
@@ -5349,6 +5804,38 @@ cast:
     role: ein Wuchrer.
     gender: m
 ---
+slug: anonym-die-vereinigte-familie
+author:
+  pseudonym: Anonym
+title: Die vereinigte Familie
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 4
+printed: 1793
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 276
+editions:
+  - title: "Leipzig: Crusius 1793"
+keywords:
+  - Sklaverei
+cast:
+  - name: Tayro,
+    role: König der Mohren.
+    gender: m
+  - name: Morexis,
+    role: dessen Sohn.
+    gender: m
+  - name: Armina,
+    role: Sklavin.
+    gender: f
+  - name: Alvanus,
+    role: Sklave und Sohn der Armina.
+    gender: m
+setting: >-
+  Der Schauplatz ist auf einem großen Saal.
+---
 slug: anonym-die-verhandelte-braut
 author:
   pseudonym: Anonym
@@ -6034,7 +6521,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 359
 editions:
-  - title: "Wien: Gerold [1760]."
+  - title: "Wien: Gerold [1760]"
     url: https://books.google.com/books?id=BHdkxCk1EKsC&pg=RA1-PA1
 comments:
   - Abgedruckt als Nachspiel zu »Konradon ein Schüler des Cupido und der magischen Künsten. Ein Lustspiel von drey Aufzügen«.
@@ -8776,7 +9263,6 @@ setting: Die Handlung geht in dem Hause des Herrn Hieronymus vor sich.
 slug: bierling-der-sicilier-oder-die-liebe-ein-maler
 author:
   name: Bierling, Friedrich Immanuel
-  pseudonym: Anonym
   wikidata: Q96439747
 title: Der Sicilier, oder die Liebe ein Maler
 subtitle: Ein Lustspiel mit Tänzen; in einer Handlung
@@ -8844,7 +9330,6 @@ location:
 slug: bierling-die-erzwungene-heirath
 author:
   name: Bierling, Friedrich Immanuel
-  pseudonym: Anonym
   wikidata: Q96439747
 title: Die erzwungene Heirath
 subtitle: Ein Lustspiel
@@ -9944,6 +10429,51 @@ setting: >-
   Seitenthüren, von dreizehnten bis zum funfzehnten, ein anders schlechtes
   Zimmer. Denn wieder, die erste Dekoration bis zu Ende.
 ---
+slug: boettger-der-gebesserte-ehemann
+author:
+  name: Böttger, Gottfried Conrad
+  wikidata: Q94886965
+title: Der gebesserte Ehemann
+subtitle: Ein Lustspiel von einem Akt
+numberOfScenes: 14
+printed: 1780
+formalia:
+  - Prosa
+basedOn:
+  - "Alois Friedrich von Brühl: »Le mari corrigé. Comédie en prose et en 1 acte«"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 388–389
+editions:
+  - title: "Nordhausen: Groß 1780"
+    url: https://books.google.com/books?id=pozHqzt0l9EC&printsec=frontcover
+cast:
+  - name: Der Marquis Dorville,
+    role: Vater Ceciliens und Gouverneur der französischen, antillischen Inseln.
+    gender: m
+  - name: Sänt Clär,
+    role: Gemahl Ceciliens, Soldat im Fort unter dem Namen, Franc-Cöur.
+    gender: m
+  - name: Der Capitän Büscot,
+    role: gewesener Schiffslieutenant, izt Befehlshaber im Fort; hat nur einen Arm und einen hölzernen.
+    gender: m
+  - name: Basque,
+    role: Bedienter Sänt Clärs, Soldat im Fort unter dem Namen, La Cerreur.
+    gender: m
+  - name: Cecilie,
+    role: Tochter Dorvillens, Gemahlin Sänt Clärs.
+    gender: f
+  - name: Justine,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Verschiedene Officiere, Soldaten, Einwohner.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist auf der Insel St. Lucie, Einer von den Antillen. (Der Schauplatz stellet die eine Seite des Forts vor, nebst der Zugbrücke desselben. Im Hintergrunde siehet man verschiedene Zelte, für den Gouverneur und sein Gefolge aufgeschlagen, welcher, nach jährlicher Gewohnheit, die Inseln besucht. Die Landschaft ist, auf eine angenehme Art, mit Kokos- und andern amerikanischen Bäumen umgeben.)
+location:
+  wikidataId: Q760
+---
 slug: bonafont-betrug-fuer-betrug-oder-bedientenstreiche
 author:
   name: Bonafont, Philipp Karl
@@ -10891,7 +11421,6 @@ setting: Die Scene ist auf Lindheim, im Hannoverischen.
 slug: bueschel-die-keusche-susanna
 author:
   name: Büschel, Johann Gabriel Bernhard
-  pseudonym: Anonym
   wikidata: Q23531388
 title: Die keusche Susanna
 subtitle: Ein rührendes Drama in Versen und einem Aufzug
@@ -10909,7 +11438,7 @@ comments:
   - Parodie der biblischen Erzählung »Susanna im Bade«, in der Daniel kein Prophet, sondern Susannas heimlicher Geliebter ist.
   - Verfasserschaft nicht abschließend geklärt. Auch Karl Riesbeck wird als Autor ins Spiel gebracht.
   - Bei Meyer fälschlich unter dem Titel »Die keusche Johanna«.
-  - "Besprechung in: Journal aller Romane und Schauspiele. Erstes Stück. Leipzig: Schneider 1784, [S. 92–93](https://books.google.com/books?id=2zi5EmbSDjwC&pg=RA4-PA92)."
+  - "Besprechung in: Journal aller Romane und Schauspiele. Viertes Stück. Leipzig: Schneider 1784, [S. 92–93](https://books.google.com/books?id=2zi5EmbSDjwC&pg=RA4-PA92)."
 keywords:
   - Pornographie
   - Vergewaltigung
@@ -10948,7 +11477,6 @@ setting: >-
 slug: bueschel-die-neue-messaline
 author:
   name: Büschel, Johann Gabriel Bernhard
-  pseudonym: Anonym
   wikidata: Q23531388
 title: Die neue Messaline
 subtitle: Trauerspiel in einem Akt. Nach dem Französischen
@@ -12747,6 +13275,55 @@ cast:
     gender: m
 setting: Der Schauplatz ist im Garten auf dem Landgute Zemirens.
 ---
+slug: d-arien-der-blinde-und-der-taube
+author:
+  name: d'Arien, Bernhard Christian
+  wikidata: Q25991406
+title: Der Blinde und der Taube
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen des J. Patrat
+numberOfScenes: 20
+printed: 1794
+premiered: 1793-03-07
+formalia:
+  - Prosa
+basedOn:
+  - "Joseph Patrat: [»Le sourd et l'aveugle. Comédie en un acte«](https://books.google.com/books?id=Aa20W-fNUw0C&pg=PA1)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 85–87
+editions:
+  - title: "Theatralische Sammlung. Einundsechzigster Band. Wien: Jahn 1796, S. 83–135"
+    url: https://books.google.com/books?id=xxJkAAAAcAAJ&pg=PA83
+  - title: "Neue Sammlung Deutscher Schauspiele. Vierter Band. Grätz 1796"
+    url: https://books.google.com/books?id=fjpLIvA2smMC&pg=RA3-PA1
+cast:
+  - name: Anton Grouppe
+    role: ein bejahrter Bildhauer, harthörig.
+    gender: m
+  - name: Policarpus Palett,
+    role: ein alter Maler, blind.
+    gender: m
+  - name: Anton Grouppe, der Jüngere, genannt Backbord,
+    role: Sohn des Bildhauers und Schiffshauptmann; Rosaliens Liebhaber.
+    gender: m
+  - name: Mariane,
+    role: seine Schwester, Octavio's Geliebte.
+    gender: f
+  - name: Octavio Palett,
+    role: ein junger Tonkünstler, Marianens Liebhaber.
+    gender: m
+  - name: Rosaline,
+    role: seine Schwester.
+    gender: f
+  - group:
+      - name: Bonifacius,
+        gender: m
+      - name: Pancratius,
+        gender: m
+    role: Notarii.
+setting: >-
+  Die Bühne, das Vorzimmer eines Bildhauers mit verschiedenen Grouppen und Büsten, Bildsäulen und Vasen verziert. Man sieht zwo Thüren in demselben gegen einander über, in den Seitenwänden des Vordergrundes angebracht. Die zur Linken der Zuschauer führt zu den Seitengemächern. Jene zur Rechten geht auf die Gasse. Neben der Letztern sind Fenster, deren Vorhänge niedergelassen sind.
+---
 slug: d-elpons-der-ahnherr
 author:
   name: d'Elpons, Friedrich Wilhelm
@@ -12785,6 +13362,43 @@ cast:
     role: ein reicher Jude.
     gender: m
   - name: Der Ahnherr.
+    gender: m
+---
+slug: dalberg-die-eheliche-versoehnung
+author:
+  name: Dalberg, Wolfgang Heribert von
+  wikidata: Q214611
+title: Die eheliche Versöhnung
+subtitle: Eine Folge der ehelichen Vergeltung. Lustspiel in einem Aufzuge
+premiered: 1793-02-26
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 346
+comments:
+  - Nur Manuskript.
+cast:
+  - name: Treumund,
+    role: Ehegerichts-Rath.
+    gender: m
+  - name: Mariane,
+    role: seine Frau.
+    gender: f
+  - group:
+      - name: Henriette Freyenthal
+        gender: f
+      - name: Antonie
+        gender: f
+    role: seine Töchter.
+  - name: Der alte Dormann.
+    gender: m
+  - name: Joseph Dormann,
+    role: sein Sohn.
+    gender: m
+  - name: Ein Unbekannter.
+    gender: m
+  - name: Bedienter.
     gender: m
 ---
 slug: deinhardstein-das-sonnett
@@ -13364,6 +13978,47 @@ cast:
 setting: >-
   Studirstube des Ludwigs.
 ---
+slug: eberl-der-tode-und-seine-hausfreunde
+author:
+  name: Eberl, Ferdinand
+  wikidata: Q999966
+title: Der Tode und seine Hausfreunde
+subtitle: Posse in einem Aufzug
+numberOfScenes: 9
+printed: 1793
+premiered: 1792-11-19
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 351
+editions:
+  - title: "Wien: Meyer und Patzowsky 1793"
+    url: https://books.google.com/books?id=SZBckdATJSIC&printsec=frontcover
+cast:
+  - name: Kaspar Schlauch.
+    gender: m
+  - name: Rose,
+    role: sein Weib.
+    gender: f
+  - name: Mauskopf,
+    role: Richter.
+    gender: m
+  - name: Trautel,
+    role: sein Weib.
+    gender: f
+  - name: Spitzel,
+    role: Schulmeister.
+    gender: m
+  - name: Everl,
+    role: sein Weib.
+    gender: f
+  - name: Katzbalg,
+    role: Gerichtsschreiber.
+    gender: m
+setting: >-
+  Ein schlecht meublirtes Zimmer, links ein Vorhang-Bett: rechts ein Tisch mit einer Kanne und ein Buch darauf.
+---
 slug: eckardt-der-fleissige-schuster
 author:
   name: Eckardt, Friedrich
@@ -13443,6 +14098,43 @@ cast:
   - name: Giesser,
     role: ein alter Bettler
     gender: m
+---
+slug: eckardt-die-vergiftete-traube
+author:
+  name: Eckardt, Friedrich
+  wikidata: Q21660249
+title: Die Vergiftete Traube
+subtitle: Ein Trauerspiel in Einem Aufzuge, Mit doppelter Katastrophe. Wie es auf dem Prager Nationaltheater nicht aufgeführt worden. Von einem Soldaten
+numberOfScenes: 15
+printed: 1783
+premiered: 1783-10-16
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 394
+editions:
+  - title: "Prag: Gerle 1783"
+    url: https://books.google.com/books?id=o-tKAAAAcAAJ&printsec=frontcover
+keywords:
+  - Rache
+cast:
+  - name: Marchese Carlo Ponza.
+    gender: m
+  - name: Gräfinn Claudia Batti,
+    role: seine Braut.
+    gender: m
+  - name: Bianka da Minani.
+    gender: f
+  - name: Gianetta,
+    role: ihre Tochter, sechs Jahr alt.
+    gender: f
+  - name: Ritter Sassino.
+    gender: m
+  - name: Die Gärtnerinn vom Schloß.
+    gender: f
+setting: >-
+  Die Scene ist der Garten eines dem Marchese gehörigen Schlosses in Wälschland. Auf der einen Seite eine Weinlaube, in der Nähe des Haus der Gärtnerinn.
 ---
 slug: eckartshausen-der-hofrath
 author:
@@ -13703,7 +14395,6 @@ comments:
 slug: ekhof-der-wucherer-ein-edelmann
 author:
   name: Ekhof, Konrad
-  pseudonym: Anonym
   wikidata: Q215783
 title: Der Wucherer, ein Edelmann
 subtitle: Eine Comödie […] in einem Akte
@@ -14265,6 +14956,50 @@ cast:
     gender: f
 setting: >-
   Die Scene ist im Hause des Herrn von Glanden. (Wohnzimmer mit einer Mittel- und einer Seitenthür. Im Vordergrunde rechts ein Sopha, links ein eleganter Ofenschirm.)
+---
+slug: frambach-der-fluechtling
+author:
+  name: Frambach, Johann Heinrich
+  wikidata: Q94923557
+title: Der Flüchtling
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 21
+printed: 1793
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 363–364
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1793"
+    url: https://books.google.com/books?id=WWtIvwEACAAJ&printsec=frontcover
+cast:
+  - name: Der Fürst.
+    gender: m
+  - name: Staatsminister von Hohenberg.
+    gender: m
+  - name: Präsident Franzesko Bonino,
+    role: ein gebohrner Italiäner.
+    gender: m
+  - name: Graf von Montamour,
+    role: ein französischer Flüchtling.
+    gender: m
+  - name: Gräfinn von Sternfeld.
+    gender: f
+  - name: Wurm,
+    role: Haushofmeister beym Präsidenten.
+    gender: m
+  - name: Christoph,
+    role: Bedienter beym Präsidenten.
+    gender: m
+  - name: Mehrere Bediente beym Präsidenten.
+    isGroup: true
+    gender: u
+  - name: Herrn und Damen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht vor in einer Residenz. (Grosse Strasse: im Hintergrunde ein prächtiges Haus, so erleuchtet ist. Abend. Mondenschein.)
 ---
 slug: franke-die-trauer
 author:
@@ -15228,6 +15963,46 @@ cast:
     gender: m
 setting: Der Schauplatz ist in Märtens Hause, wie in den vorigen Stücken.
 ---
+slug: goethe-die-geschwister
+author:
+  name: Goethe, Johann Wolfgang
+  wikidata: Q5879
+title: Die Geschwister
+subtitle: Ein Schauspiel in einem Act
+numberOfScenes: 1
+created: 1776
+printed: 1787
+premiered: 1776-11-21
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 90–91
+editions:
+  - title: "Ächte Ausgabe. Leipzig: Göschen 1787"
+    url: https://books.google.com/books?id=6VcHAAAAQAAJ&pg=PA1
+  - title: "Goethe's Werke. Vollständige Ausgabe letzter Hand. Siebenter Band. Stuttgart und Tübingen: Cotta 1827, S. 117–146"
+    url: https://books.google.com/books?id=hKs7AAAAcAAJ&pg=PA117
+  - title: "Goethe's Werke. Vollständige Ausgabe letzter Hand. Siebenter Band. Stuttgart und Tübingen: Cotta 1828, S. 117–146"
+    url: https://books.google.com/books?id=9yYHAAAAQAAJ&pg=PA117
+  - title: "Goethes Werke. Herausgegeben im Auftrage der Großherzogin Sophie von Sachsen. 9. Band. Weimar: Böhlau 1891, S. 117–145"
+    url: https://books.google.com/books?id=6l9KAAAAYAAJ&pg=PA117
+keywords:
+  - Eheanbahnung
+ids:
+  wikidata: Q1212977
+cast:
+  - name: Wilhelm,
+    role: ein Kaufmann.
+    gender: m
+  - name: Marianne,
+    role: seine Schwester.
+    gender: f
+  - name: Fabrice.
+    gender: m
+  - name: Briefträger.
+    gender: m
+---
 slug: goethe-die-laune-der-verliebten
 author:
   name: Goethe, Johann Wolfgang
@@ -15336,6 +16111,216 @@ cast:
   - name: Friederike.
     gender: f
 ---
+slug: gotter-der-verschlag
+author:
+  name: Gotter, Friedrich Wilhelm
+  wikidata: Q70356
+title: Der Verschlag
+subtitle: Ein Lustspiel in Einem Akte. Nach der Frau Gräfin von Genlis
+numberOfScenes: 20
+printed: 1783
+formalia:
+  - Prosa
+basedOn:
+  - "Félicité de Genlis: [»La cloison. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/GENLIS_CLOISON.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 406–407
+editions:
+  - title: "Komisches Theater der Franzosen. Für die Deutschen. Herausgegeben von J. G. Dyk. Achter Theil. Leipzig: Dyk 1783, S. 41–112"
+    url: https://books.google.com/books?id=VdtfAAAAcAAJ&pg=PA41
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Der Baron.
+    gender: m
+  - name: Orphise,
+    role: dessen Schwester.
+    gender: f
+  - name: Sophie,
+    role: dessen Tochter.
+    gender: f
+  - name: Der Chevalier Terville,
+    role: Sophiens Bruder.
+    gender: m
+  - name: Kleant,
+    role: des Barons Freund.
+    gender: m
+  - name: Lindor,
+    role: Sophiens Liebhaber.
+    gender: m
+  - name: Mariette,
+    role: Sophiens Kammermädchen.
+    gender: f
+  - name: Louis,
+    role: ein Bedienter.
+    gender: m
+setting: >-
+  Der Schauplaz ist im Schloße des Barons.
+---
+slug: gotter-die-maskerade-oder-die-dreyfache-heyrath
+author:
+  name: Gotter, Friedrich Wilhelm
+  wikidata: Q70356
+title: Die Maskerade oder die dreyfache Heyrath
+subtitle: Ein Nachspiel
+numberOfScenes: 20
+printed: 1773
+formalia:
+  - Prosa
+basedOn:
+  - "Philippe Néricault Destouches: [»Le triple mariage. Comédie«](https://books.google.com/books?id=dotQAAAAcAAJ&pg=PA1)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 25, S. 300–301
+editions:
+  - title: "Gotha: Ettinger 1773"
+    url: https://books.google.com/books?id=iLxTAAAAcAAJ&printsec=frontcover
+comments:
+  - "Kein Einakterhinweis im Druck; bei Holzmann/Bohatta als »Lustspiel in 1 Aufz.« bezeichnet ([Nr. 3889](https://archive.org/details/deutschesanonym00unkngoog/page/n126/mode/2up))."
+  - "In der verlinkten Ausgabe ist der Untertitel handschriftlich von »Nachspiel« zu »Lustspiel in zween Aufzügen« geändert. Der [11. Auftritt](https://books.google.com/books?id=iLxTAAAAcAAJ&pg=PA37) wird ebenfalls handschriftlich zur ersten Szene des zweiten Aufzugs korrigiert, entsprechend alle nachfolgenden Szenen."
+  - "Weitere Übersetzung: [Anonym 1756](anonym-die-dreyfache-heyrath)."
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Herr von Orme.
+    gender: m
+  - group:
+      - name: Caroline,
+        gender: f
+      - name: Rösgen,
+        gender: f
+    role: seine Töchter.
+  - name: Ferdinand,
+    role: sein Sohn.
+    gender: m
+  - name: Wilhelmine.
+    gender: f
+  - name: Julie.
+    gender: f
+  - name: Von Dahl.
+    gender: m
+  - name: Melhorn.
+    gender: m
+  - name: Marthe,
+    role: Carolinens Mädchen.
+    gender: f
+  - name: Heinrich,
+    role: Ferdinands Bedienter.
+    gender: m
+  - name: Johann,
+    role: Dahls Bedienter.
+    gender: m
+  - name: Die Gräfin Lammfromm.
+    gender: f
+  - name: Michel,
+    role: ein Gärtner.
+    gender: m
+  - name: Masken.
+    isGroup: true
+    gender: u
+---
+slug: gotter-die-stolze-vasthi
+author:
+  name: Gotter, Friedrich Wilhelm
+  wikidata: Q70356
+title: Die stolze Vasthi
+subtitle: Ein Lustspiel in einem Akte
+numberOfScenes: 16
+printed: 1795
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 378
+editions:
+  - title: "Schauspiele von Friedrich Wilhelm Gotter. Leipzig: Göschen 1795, S. 7–40"
+    url: https://books.google.com/books?id=rEn2DwAAQBAJ&pg=PA7
+comments:
+  - "Hinweis in der [Vorrede](https://books.google.com/books?id=rEn2DwAAQBAJ&lpg=PA7&pg=PA5): Einakter geeignet für ein Liebhabertheater."
+keywords:
+  - Rolle der Frau
+  - Mord
+cast:
+  - name: Ahasver,
+    role: König in Persien.
+    gender: m
+  - name: Vasthi,
+    role: seine Gemahlin.
+    gender: f
+  - name: Haman,
+    role: Günstling des Königs.
+    gender: m
+  - name: Seres,
+    role: seine Frau und Hofmeisterin der Königin.
+    gender: f
+  - group:
+      - name: Mehuman,
+        gender: m
+      - name: Bigtha,
+        gender: m
+      - name: Carbona,
+        gender: m
+    role: Kämmerlinge des Königs.
+  - group:
+      - name: Fatme,
+        gender: f
+      - name: Cyrene,
+        gender: f
+    role: Zofen der Königin.
+  - name: Kämmerlinge.
+    isGroup: true
+    gender: m
+  - name: Gefolge von Schwarzen.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Scene ist zu Susa.
+location:
+  wikidataId: Q180773
+---
+slug: gotter-die-unversehene-wette
+author:
+  name: Gotter, Friedrich Wilhelm
+  wikidata: Q70356
+title: Die unversehene Wette
+subtitle: Ein Lustspiel in Einem Akt. Nach Sedaine
+numberOfScenes: 29
+printed: 1781
+premiered: 1773-02-08
+formalia:
+  - Prosa
+basedOn:
+  - "Michel-Jean Sedaine: [»La gageure imprévue. Comédie, en prose, et en un acte«](https://books.google.com/books?id=9OCq8WNhoacC&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 88–89
+editions:
+  - title: "Leipzig: Dyk 1781"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0000BF2A00000000
+cast:
+  - name: Der Graf von Lindenhall.
+    gender: m
+  - name: Die Gräfin,
+    role: seine Gemahlin.
+    gender: f
+  - name: Adelheid.
+    gender: f
+  - name: Der Baron von Dornberg.
+    gender: m
+  - name: Der Haushofmeister Holzmann.
+    gender: m
+  - name: Lisette,
+    role: Mädchen der Gräfin.
+    gender: f
+  - name: Johann,
+    role: Bedienter der Gräfin.
+    gender: m
+  - name: Noch ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung geht auf dem Schloße des Grafen vor. (Das Theater stellt einen Gesellschaftssaal vor.)
+---
 slug: gotter-trunkner-mund-wahrer-mund
 author:
   name: Gotter, Friedrich Wilhelm
@@ -15378,6 +16363,50 @@ cast:
     role: Bedienter des Assessors.
     gender: m
 setting: Das Theater stellt einen Gesellschaftsaal im Hause des Assessors vor.
+---
+slug: gotter-zwey-onkels-fuer-einen
+author:
+  name: Gotter, Friedrich Wilhelm
+  wikidata: Q70356
+title: Zwey Onkels für Einen
+subtitle: Ein Lustspiel in Einem Akt
+numberOfScenes: 22
+printed: 1781
+premiered: 1782-04-09
+formalia:
+  - Prosa
+basedOn:
+  - "Nicolas-Julien Forgeot: [»Les deux oncles. Comédie, en un acte et en vers«](https://books.google.com/books?id=vtnkahn_Mq4C&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 87–88
+editions:
+  - title: "Leipzig: Dyk 1781"
+    url: https://books.google.com/books?id=UjJJAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Sparmann.
+    gender: m
+  - name: Manners.
+    gender: m
+  - name: Klelie,
+    role: Sparmanns Tochter.
+    gender: f
+  - name: Röschen,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Hauptmann Lindner,
+    role: Manners Neffe.
+    gender: m
+  - name: Der Justizrath.
+    gender: m
+  - name: Max,
+    role: Bedienter des Hauptmanns.
+    gender: m
+  - name: Jakob,
+    role: Bedienter des Sparmann.
+    gender: m
+setting: >-
+  Die Scene ist in Sparmanns Hause.
 ---
 slug: gottsched-die-widersprecherinn
 author:
@@ -15434,7 +16463,6 @@ setting: >-
 slug: gottsched-herr-witzling
 author:
   name: Gottsched, Luise Adelgunde Victorie
-  pseudonym: Anonym
   wikidata: Q65863
 title: Herr Witzling
 subtitle: Ein deutsches Nachspiel in einem Aufzuge
@@ -15972,6 +17000,53 @@ cast:
         gender: m
     role: Des Impressario Komödianten.
 setting: Die Handlung spielt zu Merlü gleich nach Mittage.
+---
+slug: hagemann-der-fuerst-und-sein-kammerdiener
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Der Fürst und sein Kammerdiener
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 21
+printed: 1792
+premiered: 1792-03-02
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 112–113
+editions:
+  - title: "Sammlung von Schauspielen für's Hamburgsche Theater. Herausgegeben von Schröder. Dritter Theil. Schwerin und Wismar: Bödner 1792"
+    url: https://books.google.com/books?id=eIlkAAAAcAAJ&pg=RA3-PA1
+  - title: "Grätz 1796"
+    url: https://books.google.com/books?id=1nPw6DN8dHMC&printsec=frontcover
+comments:
+  - "Auch unter dem Titel »Der alte Cammerdiener. Ein Lustspiel in einem Aufzuge« (Ms.)."
+cast:
+  - name: Fürst Heinrich.
+    gender: m
+  - name: Kammerrath Warth.
+    gender: n
+  - name: Körber,
+    role: Kammerdiener des Fürsten.
+    gender: m
+  - group:
+      - name: Amtsräthin Lieben.
+        gender: f
+      - name: Wilhelm,
+        role: ihr Sohn, 6 Jahr alt.
+        gender: m
+      - name: Auguste,
+        role: ihre Tochter, 5 Jahr alt.
+        gender: f
+    role: in tiefer Trauer.
+  - name: Israel Moses,
+    role: Hofagent.
+    gender: m
+  - name: Ein Läufer des Fürsten.
+    gender: m
+setting: >-
+  Die Scene ist im Fürstlichen Sommerschlosse.
 ---
 slug: hagemann-die-eroberung-von-valenciennes
 author:
@@ -16980,6 +18055,54 @@ cast:
 setting: >-
   Die Scene ist in einem sächsischen Dorfe, das nur einige Meilen von der böhmischen Gränze entfernet ist, in des Schulzens Hause.
 ---
+slug: hensler-der-feldtrompeter-oder-wurst-wider-wurst
+author:
+  name: Hensler, Karl Friedrich
+  wikidata: Q1731074
+title: Der Feldtrompeter, oder Wurst wider Wurst!
+subtitle: Eine Posse in einem Aufzug für die kaiserl. königl. priv. Marinellische Schaubühne
+numberOfScenes: 30
+printed: 1794
+premiered: 1793-11-21
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 146–147
+editions:
+  - title: "Wien: Wallishausser 1794"
+    url: https://books.google.com/books?id=Xi-OUh7hYsMC&printsec=frontcover
+  - title: "Wien: Wallishausser 1808"
+    url: https://books.google.com/books?id=jqtIAAAAcAAJ&printsec=frontcover
+comments:
+  - "1808 von J. Perinet als einaktiges Singspiel bearbeitet."
+cast:
+  - name: Melko,
+    role: Trompeter bey einem Husaren-Regiment.
+    gender: m
+  - name: Evchen,
+    role: seine Frau.
+    gender: f
+  - name: Herr von Wallner,
+    role: Rittmeister unter den Dragonern.
+    gender: m
+  - name: Blecher,
+    role: ein gemeiner Reuter.
+    gender: m
+  - name: Speck,
+    role: der Wirth zum goldenen Stern in Ofen.
+    gender: m
+  - name: Röschen,
+    role: seine Frau.
+    gender: f
+  - name: Einige Kellner.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht vor im Winterquartiere zu Ofen. (Zimmer in des Feldtrompeters Haus, mit einer Seitenthüre. Evchen steht vor dem Tisch, und bügelt. Sie ist in reitzende Soldatentracht gekleidet.)
+location:
+  wikidataId: Q193478
+---
 slug: hensler-der-geschwaetzige-barbier
 author:
   name: Hensler, Karl Friedrich
@@ -17069,6 +18192,49 @@ cast:
     gender: m
 setting: >-
   Zimmer des Herrn von Rosenstrauch.
+---
+slug: hensler-die-schoene-ungarin-oder-das-pasquill
+author:
+  name: Hensler, Karl Friedrich
+  wikidata: Q1731074
+title: Die schöne Ungarin, oder das Pasquill
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 31
+printed: 1794
+premiered: 1794-02-14
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 151–152
+editions:
+  - title: "Wien: Wallishausser 1794"
+    url: https://books.google.com/books?id=U0ZIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Frau von Zoskalla,
+    role: eine ungarische Dame, Wittwe.
+    gender: f
+  - name: Herr von Waller,
+    role: ihr Oheim.
+    gender: m
+  - name: Herr von Florenbach.
+    gender: m
+  - name: Fink,
+    role: ein Lehnbedienter.
+    gender: m
+  - name: Moritz Erdmann.
+    gender: m
+  - name: Franziska,
+    role: Kammermädchen.
+    gender: f
+  - name: Johann,
+    role: ein Bedienter.
+    gender: m
+  - name: Mehrere Bediente und Masken.
+    isGroup: true
+    gender: u
+setting: >-
+  Erdmanns Zimmer. Tisch mit Büchern und Schriften.
 ---
 slug: hensler-lorenz-konau
 author:
@@ -17459,7 +18625,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 490–491
 editions:
-  - title: "Komisches Theater der Franzosen. Für die Deutschen. Herausgegeben von J. G. Dyk. Achter Theil. Leipzig: Dyk 1783, 217–268"
+  - title: "Komisches Theater der Franzosen. Für die Deutschen. Herausgegeben von J. G. Dyk. Achter Theil. Leipzig: Dyk 1783, S. 217–268"
     url: https://books.google.com/books?id=VdtfAAAAcAAJ&pg=PA217
   - title: "Zweyte Ausgabe. Leipzig: Dyk 1790"
     url: https://books.google.com/books?id=tg-7CIIVMccC&printsec=frontcover
@@ -17931,6 +19097,60 @@ cast:
 setting: >-
   Die Handlung geht in London in Sir Rich Hause vor.
 ---
+slug: huber-der-trostlose
+author:
+  name: Huber, Ludwig Ferdinand
+  wikidata: Q88699
+title: Der Trostlose
+subtitle: Lustspiel in einem Aufzuge. Nach dem Französischen Manuskripte der Verfasserin von Schweizersinn, übersetzt von dem Herausgeber der Friedens-Präliminarien
+numberOfScenes: 11
+printed: 1794
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 160–161
+editions:
+  - title: "Berlin: Voss 1794"
+    url: https://books.google.com/books?id=3TBJAAAAcAAJ&printsec=frontcover
+keywords:
+  - Krieg
+cast:
+  - name: Del'orme,
+    role: Landmann.
+    gender: m
+  - name: Louise,
+    role: seine Tochter.
+    gender: f
+  - name: Xaver,
+    role: sein Schwiegersohn.
+    gender: m
+  - name: Der Graf d'Envers,
+    role: Xavers Bruder.
+    gender: m
+  - name: Herr des Etangs,
+    role: Xavers Freund.
+    gender: m
+  - name: Frau von Ange,
+    role: Del'orme'ns Nachbarin.
+    gender: f
+  - name: Sophie,
+    role: ihre Tochter.
+    gender: f
+  - group:
+      - name: Alexander, und
+        gender: m
+      - name: Philipp,
+        gender: m
+    role: ihre Söhne.
+  - name: Lisette,
+    role: ihre Kammerjungfer.
+    gender: f
+setting: >-
+  Die Handlung ist in der Französischen Schweiz, gegen Ende des Januars 1794. Das Theater stellt ein geräumiges und reinliches Zimmer in einem Bauerhause vor.
+location:
+  wikidataId: Q214086
+---
 slug: huber-die-torte
 author:
   name: Huber
@@ -17977,6 +19197,41 @@ cast:
     gender: m
 setting: >-
   Zimmer der Grafen.
+---
+slug: huber-gute-kinder-sind-der-eltern-seegen
+author:
+  name: Huber, Leopold
+  wikidata: Q94896491
+title: Gute Kinder sind der Eltern Seegen
+subtitle: Ein Lustspiel in einem Aufzug, für die Marinellische Kinderschule
+numberOfScenes: 16
+printed: 1791
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 357–358
+editions:
+  - title: "Theatralische Sammlung. Zweyhundert zwey und zwanzigster Band. Wien 1797, S. 61–83"
+    url: https://books.google.com/books?id=E9ulzuLjGwMC&pg=RA1-PA61
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr von Bronner,
+    role: Kaufmann.
+    gender: m
+  - name: Frau von Ruhm,
+    role: seine Schwester.
+    gender: f
+  - group:
+      - name: Nettchen
+        gender: f
+      - name: Friz
+        gender: m
+    role: ihre Kinder.
+  - name: Jean,
+    role: ein Friseur.
+    gender: m
 ---
 slug: iffland-der-komet
 author:
@@ -18684,7 +19939,6 @@ setting: >-
 slug: jester-das-duell-oder-das-junge-ehepaar
 author:
   name: Jester, Friedrich Ernst
-  pseudonym: Anonym
   wikidata: Q105238
 title: Das Duell, oder das junge Ehepaar
 subtitle: Ein Lustspiel in einem Aufzug
@@ -19163,7 +20417,6 @@ setting: Die Handlung geht in dem Hause des Orgons vor.
 slug: kirchhoff-der-bestrafte-hochmuth
 author:
   name: Kirchhoff, Johann Heinrich
-  pseudonym: Anonym
   wikidata: Q60842851
 title: Der bestrafte Hochmuth
 subtitle: Ein Nachspiel von einer Handlung
@@ -20162,7 +21415,41 @@ cast:
 setting: >-
   Die Szene ist eine Allee.
 ---
-slug: komareck-johann-nepomuk-inkle-und-yariko
+slug: komareck-die-versoehnung-oder-die-liebe-macht-alles-gut
+author:
+  name: Komareck, Johann Nepomuk
+  wikidata: Q55903554
+title: "Die Versöhnung, oder: die Liebe macht alles gut"
+subtitle: Ein Schauspiel in einem Akte
+numberOfScenes: 9
+printed: 1793
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 404
+editions:
+  - title: "Pilsen, Klattau und Leipzig: Morgensäuler 1793"
+    url: https://books.google.com/books?id=soBloD6aXzAC&printsec=frontcover
+comments:
+  - "Die Widmung datiert vom 3. Februar 1785."
+cast:
+  - name: Gotthelf,
+    role: ein alter Bauer.
+    gender: m
+  - name: Karl,
+    role: sein Sohn.
+    gender: m
+  - name: Amalia,
+    role: Gräfinn von Löwenburg.
+    gender: f
+  - name: Jakob,
+    role: ihr Diener.
+    gender: m
+setting: >-
+  Die Scene ist ein dichter Wald, wo linkerhand eine kleine Strohhütte steht.
+---
+slug: komareck-inkle-und-yariko
 author:
   name: Komareck, Johann Nepomuk
   wikidata: Q55903554
@@ -24729,7 +26016,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»L'Île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
+  - "Pierre Carlet de Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 13, S. 479
@@ -25284,6 +26571,8 @@ dictionaries:
 editions:
   - title: "Wien: Kurzbeck 1776"
     url: https://books.google.com/books?id=jA9zpfkBknsC&printsec=frontcover
+comments:
+  - "Weitere Übersetzungen: [Reichard 1777](reichard-nacht-und-ohngefaehr), [Anonym 1778](anonym-die-nacht)."
 cast:
   - name: Marchese Ranghi
     role: ein Römer.
@@ -25391,6 +26680,101 @@ cast:
     gender: m
   - name: Damon.
     gender: m
+---
+slug: lawaetz-damon-phintias
+author:
+  name: Lawätz, Heinrich Wilhelm
+  wikidata: Q1000323
+title: Damon und Phintias, oder, das Muster der Freundschaft
+subtitle: Ein Schauspiel, in einem Aufzuge
+numberOfScenes: 11
+created: 1793
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 411
+comments:
+  - Nur Manuskript. Laut Meyer sind Zuschreibung und Datierung nicht gesichert.
+keywords:
+  - Freundschaft
+cast:
+  - name: Dionÿsius,
+    role: Tyrann von Syrakus.
+    gender: m
+  - group:
+      - name: Damon
+        gender: m
+      - name: Phintias
+        gender: m
+    role: zween zärtliche Freunde.
+  - name: Eudimia,
+    role: Schwester des Phintias, und Geliebte des Damon.
+    gender: f
+  - name: Zamira,
+    role: Schwester des Damon, und Geliebte des Phintias.
+    gender: f
+  - name: Antiphil,
+    role: Zemirens und Damons Bruder.
+    gender: f
+  - name: Erast.
+    gender: m
+  - name: Ein Hauptmann.
+    gender: m
+  - name: Die Wache.
+    isGroup: true
+    gender: m
+  - name: Das Gefolge des Dionÿsius.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist zu Syrakus, in dem Gefängnisse des Phintias.
+location:
+  wikidataId: Q13670
+---
+slug: lawaetz-die-diamanten
+author:
+  name: Lawätz, Heinrich Wilhelm
+  wikidata: Q1000323
+title: Die Diamanten
+subtitle: Ein Schauspiel in einem Aufzuge. (Wahre Geschichte.)
+numberOfScenes: 15
+printed: 1793
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 411–412
+editions:
+  - title: "Deutsche Schaubühne. Sechsten Jahrgangs Vierter Band. Nach der Ordnung 64ster Band. Augsburg 1794"
+    url: https://books.google.com/books?id=9AMTc7EvXTQC&pg=PA1
+cast:
+  - name: Graf von Silberstern.
+    role: (Wegen des Todes seines Vaters, in Trauer.)
+    gender: m
+  - name: Herr Rübe,
+    role: Advocat.
+    gender: m
+  - name: Baumann,
+    role: Künstler.
+    gender: m
+  - name: Amalia,
+    role: deßen Frau
+    gender: f
+  - name: Ernst,
+    role: Pflegesohn des alten Baumann und vormaliger Bedienter, des verstorbenen Vaters, des Grafen von Silberstern.
+    gender: m
+  - group:
+      - name: Hannchen.
+        gender: f
+      - name: Julchen.
+        gender: f
+    role: Schwestern, Töchter einer Nachbarinn, des Baumannschen Hauses.
+  - name: Zween Bediente, des Grafen von Silberstern.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist in Baumanns Wohnzimmer.
 ---
 slug: lebrun-brief-und-antwort
 author:
@@ -25937,7 +27321,7 @@ keywords:
   - Heroische Tragödie
 ids:
   dracor: ger000194
-  wikidata: Q57173794
+  wikidata: Q6074342
 cast:
   - name: Aridäus,
     role: König.
@@ -25992,7 +27376,6 @@ setting: >-
 slug: leyding-emirene
 author:
   name: Leyding, Johann Dieterich
-  pseudonym: Anonym
   wikidata: Q29441765
 title: Emirene
 subtitle: Ein prosaisches Trauerspiel in einer Handlung
@@ -26052,8 +27435,8 @@ premiered: 1757
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»L'Île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
-  - "Pierre Carlet de Marivaux: [»L'Île de la raison«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDELARAISON.xml)"
+  - "Pierre Carlet de Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
+  - "Pierre Carlet de Marivaux: [»L'île de la raison«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDELARAISON.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 112–113
@@ -27398,6 +28781,49 @@ cast:
 setting: >-
   Das Stück spielt in der Nähe des Hengspergischen Schlosses und im Schlosse selbst. Die Handlung fällt in die Zeit der Kreutzzüge.
 ---
+slug: meyer-die-pruefung
+author:
+  name: Meyer, Friedrich Ludwig Wilhelm
+  wikidata: Q1460909
+title: Die Prüfung
+subtitle: Lustspiel in einem Aufzuge. Nach Marivaux
+numberOfScenes: 20
+printed: 1793
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre Carlet de Marivaux: [»L'épreuve. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_EPREUVE.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 416–417
+editions:
+  - title: "Beyträge, der vaterländischen Bühne gewidmet, von Meyer. Berlin: Unger 1793, S. 317–366"
+    url: https://books.google.com/books?id=yUFIAAAAcAAJ&pg=PA317
+  - title: "Grätz 1798"
+    url: https://books.google.com/books?id=VqtIAAAAcAAJ&printsec=frontcover
+comments:
+  - "Auch unter dem Titel »Die Prüfung. Posse in Einem Akt« (1828)."
+cast:
+  - name: Madam Wahlmann.
+    gender: f
+  - name: Louise,
+    role: ihre Tochter.
+    gender: f
+  - name: Dorchen,
+    role: ihr Mädchen.
+    gender: f
+  - name: Brunner,
+    role: ein Kaufmann.
+    gender: m
+  - name: Anton,
+    role: sein Bedienter.
+    gender: m
+  - name: Niklas,
+    role: Pachter.
+    gender: m
+setting: >-
+  Ein Saal.
+---
 slug: meyer-ein-gestaendniss-oder-der-artikel-213-des-buergerlichen-gesetzbuchs
 author:
   name: Meyer, Ludwig
@@ -27566,6 +28992,52 @@ setting: >-
   Scene: Salamandros, eine der Maldivischen Inseln, in Ostindien.
 location:
   wikidataId: Q826
+---
+slug: miersch-kuenstler-glueck
+author:
+  name: Miersch, Karl Gottfried
+  wikidata: Q95634795
+title: Künstler-Glück
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1793
+premiered: 1798
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 420–421
+editions:
+  - title: "Berlin: Schöne 1793"
+  - title: "Deutsche Schaubühne. Sechsten Jahrgangs Dritter Band. Nach der Ordnung 63ster Band. Augsburg 1794"
+    url: https://books.google.com/books?id=SUx4Ed0bp2gC&pg=RA4-PA1
+cast:
+  - name: Graf von Blumenfeld,
+    role: Minister.
+    gender: m
+  - name: Hartmann,
+    role: dessen Sekretär.
+    gender: m
+  - name: Liebthal,
+    role: ein junger Mahler.
+    gender: m
+  - name: Wurm,
+    role: ein Gastwirth.
+    gender: m
+  - name: Lottchen,
+    role: seine Tochter.
+    gender: f
+  - name: Franz,
+    role: Bedienter des Grafen.
+    gender: m
+  - name: Bauern.
+    isGroup: true
+    gender: m
+  - name: Bäuerinnen.
+    isGroup: true
+    gender: f
+setting: >-
+  Zimmer in einem großen Gasthofe.
 ---
 slug: moeser-die-tugend-auf-der-schaubuehne
 author:
@@ -28464,6 +29936,46 @@ cast:
 setting: >-
   Eine sehr einfache Stube, mit einer Seitenthüre und einem Fenster. Beinahe in der Mitte ein Tisch, worauf ein Messing-Leuchter und eine Rumflasche mit einem Stückchen Licht, ein Punschnapf und einige Gläser, ein altes Schreibzeug und einige Spielkarten. Am Tische ein Bett. Zwei alte Rohrstühle, Hieber, Rappiere, Fecht-Handschuh und einige lange Pfeifen stehen unordentlich umher oder hängen an der Wand. Rechts an der Wand hängt Wahlbachs Mantel und Hut, sein Rock über einen Stuhl.
 ---
+slug: ochsenheimer-er-soll-sich-schlagen
+author:
+  name: Ochsenheimer, Ferdinand
+  wikidata: Q95181
+title: Er soll sich schlagen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1792
+premiered: 1792-02-09
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 188–189
+editions:
+  - title: "Mannheim: Schwan und Götz 1792"
+    url: https://books.google.com/books?id=QqpIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr von Scherbein,
+    role: Commerzienrath.
+    gender: m
+  - name: Frau von Scherbein.
+    gender: f
+  - name: Henriette,
+    role: ihre Tochter erster Ehe.
+    gender: f
+  - name: Baron von Reben,
+    role: Lieutenant.
+    gender: m
+  - name: von Molsek,
+    role: Hofrath.
+    gender: m
+  - name: Rudolph,
+    role: des Barons Bedienter.
+    gender: m
+  - name: Ein Lakey.
+    gender: m
+setting: >-
+  Die Handlung ist in einem Bade. (Ein kurzes Zimmer des Barons von Reben mit einer Mittelthüre und zwei Seitenthüren. von Reben zieht den Hofrath von Molsek zur Mittelthüre herein.)
+---
 slug: oeser-der-baer
 author:
   name: Schröer, Tobias Gottfried
@@ -29170,7 +30682,7 @@ printed: 1764
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»L'Île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
+  - "Pierre Carlet de Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 21, S. 159
@@ -30171,6 +31683,55 @@ cast:
 setting: Die Scene ist in Paris, in Dorimenens Behausung.
 location:
   wikidataId: Q90
+---
+slug: reichard-nacht-und-ohngefaehr
+author:
+  name: Reichard, Heinrich August Ottokar
+  wikidata: Q3129467
+title: Nacht und Ohngefähr
+subtitle: Ein Lustspiel in Einem Akt
+numberOfScenes: 12
+printed: 1779
+premiered: 1777-07-25
+formalia:
+  - Prosa
+basedOn:
+  - "Francesco Albergati Capacelli: [»La notte. Commedia d'un atto solo«](https://books.google.com/books?id=GjLW7i6ECHcC&pg=PA125)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 293–294 und S. 435
+editions:
+  - title: "Olla Potrida. Erster Vierteljahrgang. Berlin: Wever 1779, S. 13–51"
+    url: https://books.google.com/books?id=98JTAAAAcAAJ&pg=PA13
+  - title: "Nacht und Ungefähr. Ein Lustspiel in einem Aufzuge. Wien 1780"
+    url: https://books.google.com/books?id=64rJdAtHcgsC&printsec=frontcover
+comments:
+  - "Weitere Übersetzungen: [Laudes 1776](laudes-die-nacht) (Meyer schreibt die Ausgabe von 1780 fälschlicherweise auch Laudes zu), [Anonym 1778](anonym-die-nacht)."
+cast:
+  - name: Präsident von Röhm,
+    role: auf Reisen.
+    gender: m
+  - name: Amalie,
+    role: seine Tochter.
+    gender: f
+  - name: Friedrich,
+    role: sein Kammerdiener.
+    gender: m
+  - group:
+      - name: Baron Wallerhausen,
+        gender: m
+      - name: Herr von Thalheim,
+        gender: m
+    role: auf Reisen.
+  - name: Hauptmann von Rheinberg.
+    gender: m
+  - name: Thomas,
+    role: Kellner.
+    gender: m
+setting: >-
+  Die Handlung geht zu Maynz in einem angesehenen Gasthof vor.
+location:
+  wikidataId: Q1720
 ---
 slug: reinhard-der-willkommne-gast
 author:
@@ -31710,6 +33271,55 @@ cast:
 setting: >-
   Die Bühne stellt einen romantisch schönen Hain vor, in dessen Mitte man das Portal eines majestätischen Tempels sieht, dessen hohe Flügelthüren nach verschlossen sind. Zu beiden Seiten sind Bäume und angenehme Rasenbänke, worauf sich die nach und nach Kommenden lagern.
 ---
+slug: schildbach-die-rekrutirung
+author:
+  name: Schildbach, Johann Gottlieb
+  wikidata: Q55127608
+title: Die Rekrutirung
+subtitle: Eine Menschenscene in Einem Akt. Nach einer wahren Anekdote bearbeitet
+numberOfScenes: 14
+printed: 1793
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 444–445
+editions:
+  - title: "Prag und Leipzig: Albrecht 1793"
+    url: https://books.google.com/books?id=_fk5j_Xua9EC&printsec=frontcover
+comments:
+  - "Auch unter den Titeln »Die Rekrutirung, oder: so sollten mehrere Menschen bey jetzigen Zeit-Umständen denken« (1796) und »Die verwünschte Recrutirung. Lustspiel in 1 A.« (1797)."
+cast:
+  - name: Bürgermeister von Ehrheim.
+    gender: m
+  - name: Hauptmann Schaal,
+    role: Werbbezirkscommandant.
+    gender: m
+  - name: Leopold Gruner,
+    role: ein alter dienstloser Lakay.
+    gender: m
+  - name: Susanne,
+    role: sein Weib.
+    gender: f
+  - group:
+      - name: Vinzenz,
+        role: Bedienter,
+        gender: m
+      - name: Joseph,
+        role: Schreiber,
+        gender: m
+      - name: Sophie,
+        gender: f
+    role: ihre Kinder.
+  - name: Ein Korporal.
+    gender: m
+  - name: Ein Polizeikorporal.
+    gender: m
+setting: >-
+  Die Handlung geht in Linz vor.
+location:
+  wikidataId: Q41329
+---
 slug: schildbach-die-verlegenheit
 author:
   name: Schildbach, Johann Gottlieb
@@ -32133,7 +33743,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 13, S. 308, und Band 16, S. 335–336
 editions:
-  - title: "[Das Buch ohne Titel.] [Hamburg] 1746."
+  - title: "[Das Buch ohne Titel.] [Hamburg] 1746"
 comments:
   - Auch unter dem Titel »Der Triumph der vergangenen Zeit. Lustspiel in einem Aufzug und in Prosa. Aus dem Französischen des Le Grand« (1753).
   - "Weitere Übersetzungen: [»Die schöne Rosette« (1780, Gärtner)](gaertner-die-schoene-rosette), [»Die schöne Nanette« (1781, anonym)](anonym-die-schoene-nanette)."
@@ -32159,6 +33769,61 @@ cast:
 setting: Der Schauplatz ist zu Paris in dem Hause der Frau Roquentin.
 location:
   wikidataId: Q90
+---
+slug: schlegel-der-sylphe
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Der Sylphe
+subtitle: Ein Lustspiel in einem Aufzuge, das am 5 Februar 1743 zum erstenmale aufgeführt worden
+numberOfScenes: 11
+printed: 1750
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Le silphe. Comédie en un acte et en prose«](https://books.google.com/books?id=xcs7AAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 15, S. 84
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Erster Theil. Leipzig: Wendler 1750, S. 85–118"
+    url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA85
+cast:
+  - name: Fräulein Julchen.
+    gender: f
+  - name: Der Baron von Silvine.
+    gender: m
+  - name: Frontin,
+    role: Julchens Bedienter.
+    gender: m
+setting: >-
+  Der Schauplatz ist auf dem Lande, auf Julchens Schlosse.
+---
+slug: schlegel-deukalion-und-pyrrha
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Deukalion und Pyrrha
+subtitle: Ein Lustspiel, in einem Aufzuge, nebst einem kleinen Vorspiele, Welches am 20 Februar 1741 auf dem französischen Theater zum erstenmale aufgeführt worden
+numberOfScenes: 7
+printed: 1750
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Deucalion et Pirrha. Comédie en un acte«](https://books.google.com/books?id=LJUTAAAAQAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 11, S. 320, und Band 15, S. 79–80
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Erster Theil. Leipzig: Wendler 1750, S. 25–52"
+    url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA25
+cast:
+  - name: Deukalion.
+    gender: m
+  - name: Pyrrha.
+    gender: f
+setting: >-
+  Der Schauplatz ist in einem Walde.
 ---
 slug: schlegel-die-doppelte-verkleidung
 author:
@@ -32306,6 +33971,158 @@ cast:
     gender: f
 setting: Der Schauplatz ist in der Frau Praatgern Hause.
 ---
+slug: schlegel-die-tuerkischen-wittwen
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Die türkischen Wittwen
+subtitle: Ein Lustspiel in einem Aufzuge, das in dem May 1742 in einer Gesellschaft von Freunden, am 21 August 1747 aber auf dem öffentlichen Schauplatze zuerst aufgeführt worden
+numberOfScenes: 13
+printed: 1750
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Les veuves turques. Comédie en un acte et en prose«](https://books.google.com/books?id=nQakGA16jysC&pg=PA85)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 15, S. 85
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Erster Theil. Leipzig: Wendler 1750, S. 53–84"
+    url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA53
+cast:
+  - name: Osmin.
+    gender: m
+  - name: Fatime.
+    gender: f
+  - name: Zaide.
+    gender: f
+  - name: Salome.
+    gender: f
+  - name: Ein Cadi, und sein Gefolg.
+    gender: m
+  - name: Eine Sklavinn von Fatimen.
+    gender: f
+  - name: Fatimens und Zaidens Kammerfrauen.
+    isGroup: true
+    gender: f
+setting: >-
+  Der Schauplatz ist zu Constantinopel auf einem großen Saale, der Fatimens und Zaidens Zimmer von einander scheidet.
+location:
+  wikidataId: Q16869
+---
+slug: schlegel-egeria
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Egeria
+subtitle: Ein Lustspiel in einem Aufzuge, das am 9 September 1747 zum erstenmale aufgeführt worden
+numberOfScenes: 12
+printed: 1750
+formalia:
+  - Verse
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Egérie. Comédie en un acte«](https://books.google.com/books?id=oBHtiLtIXrIC&pg=PA75)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 15, S. 80–81
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Zweiter Theil. Leipzig: Wendler 1750, S. 247–276"
+    url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA247
+cast:
+  - name: Numa.
+    gender: m
+  - name: Cäcilius.
+    gender: m
+  - name: Tullus.
+    gender: f
+  - name: Egeria.
+    gender: f
+  - name: Camilla.
+    gender: m
+setting: >-
+  Der Schauplatz ist in einem von den heiligen Haynen, die die Tempel der Alten umgaben.
+---
+slug: schlegel-harlekin-im-serrail
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Harlekin im Serrail
+subtitle: Ein Lustspiel in einem Aufzuge, so am 29 May 1747 zum erstenmale aufgeführt worden
+numberOfScenes: 10
+printed: 1750
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Arlequin au sérrail. Comédie en un acte, en prose«](https://books.google.com/books?id=5kQGAAAAQAAJ&pg=PA229)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 15, S. 81–82
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Zweiter Theil. Leipzig: Wendler 1750, S. 327–351"
+    url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA327
+cast:
+  - name: Der Bassa.
+    gender: m
+  - name: Fatime.
+    gender: f
+  - name: Angelika.
+    gender: f
+  - name: Colombine.
+    gender: f
+  - name: Octavius.
+    gender: m
+  - name: Harlekin.
+    gender: m
+  - name: Scapin.
+    gender: m
+  - name: Das Gefolge des Bassa.
+    isGroup: true
+    gender: u
+  - name: Fatimens Kammerfrauen.
+    isGroup: true
+    gender: f
+setting: >-
+  Der Schauplatz ist zu Constantinopel in dem Garten des Serrails.
+location:
+  wikidataId: Q16869
+---
+slug: schlegel-julchen-oder-die-glueckliche-probe
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Julchen, oder Die glückliche Probe
+subtitle: Ein Lustspiel in einem Aufzuge, welche Donnerstags am 20 October 1746 zum erstenmale vorgestellet worden
+numberOfScenes: 11
+printed: 1750
+premiered: 1755
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Julie ou L'heureuse épreuve. Comédie en un acte en prose«](https://books.google.com/books?id=jMk7AAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 15, S. 83
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Zweiter Theil. Leipzig: Wendler 1750, S. 209–232"
+    url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA209
+cast:
+  - name: Geront,
+    role: Julchens Onkel.
+    gender: m
+  - name: Julchen.
+    gender: f
+  - name: Damis,
+    role: Julchens Liebhaber.
+    gender: m
+  - name: Valer,
+    role: Julchens Liebhaber.
+    gender: m
+  - name: Lisette,
+    role: Julchens Kammermädchen.
+    gender: f
+setting: >-
+  Der Schauplatz ist in Geronts Zimmer.
+---
 slug: schlegel-zeloide
 author:
   name: Schlegel, Johann Elias
@@ -32350,6 +34167,43 @@ setting: >-
   Der Schauplatz ist in dem Lager vor Oxythra bey dem Flusse Ganges.
 location:
   wikidataId: Q5089
+---
+slug: schleifer-so-handeln-freunde
+author:
+  name: Schleifer, Mathias Leopold
+  wikidata: Q1571001
+title: So handeln Freunde
+subtitle: Ein Original-Gemählde aus dem häuslichen Leben in einem Aufzuge
+numberOfScenes: 12
+printed: 1794
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 53–54
+editions:
+  - title: "Wien: Wallishausser 1794"
+    url: https://books.google.com/books?id=8SN1GkIsj0IC&printsec=frontcover
+cast:
+  - name: Von Moorfeld,
+    role: Rittmeister, pensionirt.
+    gender: m
+  - name: Julie,
+    role: seine Tochter.
+    gender: f
+  - name: Jette,
+    role: ihr Mädchen.
+    gender: f
+  - name: Lewald,
+    role: ein alter Bedienter des Rittmeisters.
+    gender: m
+  - name: Friedrich Hornthal,
+    role: unter dem Nahmen Sommer.
+    gender: m
+  - name: Christian Sommer.
+    gender: m
+setting: >-
+  Die Handlung geht in einem Zimmer des Rittmeisters vor, und dauert vom Morgen bis Mittag.
 ---
 slug: schletter-das-goldstueck-oder-der-kleine-menschenfreund
 author:
@@ -33631,6 +35485,47 @@ cast:
 setting: >-
   Die Scene ist ein gemeinschaftlicher Saal in einem Gasthofe.
 ---
+slug: schreiber-der-arzt
+author:
+  name: Schreiber, Aloys
+  wikidata: Q119183
+title: Der Arzt
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 16
+printed: 1792
+premiered: 1791-07-06
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 219
+editions:
+  - title: "Dramatische Gemälde. Vom Verfasser der dramaturgischen Blätter. Wien und Leipzig: Doll 1792, S. 99–143"
+    url: https://books.google.com/books?id=9EUPAQAAIAAJ&pg=PA99
+cast:
+  - name: Doktor Strupp.
+    gender: m
+  - name: Karl Winnheim,
+    role: sein Neffe.
+    gender: m
+  - name: Amalie Staal,
+    role: seine Mündel.
+    gender: f
+  - name: Kapitain Rund.
+    gender: m
+  - name: Frau von Kamm.
+    gender: f
+  - name: Magister Schleicher.
+    gender: m
+  - name: D. Rohrdrommel.
+    gender: m
+  - name: Ein Jude.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Scene ist in einem Bade, in dem Hause des Doktors.
+---
 slug: schreiber-die-braut-im-schleier
 author:
   name: Schreiber, Aloys
@@ -33711,6 +35606,49 @@ cast:
 setting: Die Scene ist in Wien. (Wohnzimmer bey Storch.)
 location:
   wikidataId: Q1741
+---
+slug: schreiber-schadenfreude
+author:
+  name: Schreiber, Aloys
+  wikidata: Q119183
+title: Schadenfreude
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 18
+printed: 1792
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 220
+editions:
+  - title: "Dramatische Gemälde. Vom Verfasser der dramaturgischen Blätter. Wien und Leipzig: Doll 1792, S. 55–98"
+    url: https://books.google.com/books?id=9EUPAQAAIAAJ&pg=PA55
+cast:
+  - name: Herr von Krumbach,
+    role: ein Landedelmann.
+    gender: m
+  - name: Georg,
+    role: sein Söhnchen acht Jahre alt.
+    gender: m
+  - name: Ferdinandine von Kleeborn,
+    role: seine Mündel.
+    gender: m
+  - name: Graf Asberg.
+    gender: m
+  - name: Tobias Wolgemuth,
+    role: Informator.
+    gender: m
+  - name: Korn,
+    role: Verwalter.
+    gender: m
+  - name: Valentin,
+    role: Bedienter Krumbachs.
+    gender: m
+  - name: Konrad,
+    role: Bedienter des Grafen.
+    gender: m
+setting: >-
+  Die Scene ist ein Saal auf dem Landhause Krumbachs, mit Seitenthüren und Fenstern.
 ---
 slug: schroeder-die-heurath-durch-irrthum
 author:
@@ -36002,9 +37940,49 @@ setting: Die Scene ist in Berlin.
 location:
   wikidataId: Q64
 ---
+slug: tiessen-der-fluss-der-vergessenheit
+author:
+  name: Tießen, Johann Alexander
+title: Der Fluß der Vergessenheit
+subtitle: Ein Lustspiel in Prosa und einer Handlung. Aus dem Französischen des Herrn le Grand
+numberOfScenes: 7
+printed: 1770
+formalia:
+  - Prosa
+basedOn:
+  - "Marc-Antoine Legrand: [»La fleuve d'oubly. Comédie«](https://books.google.com/books?id=lkxgAAAAcAAJ&pg=RA3-PA1)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 24, S. 195–196
+editions:
+  - title: "Quedlinburg und Leipzig: Biesterfeld 1770"
+    url: https://books.google.com/books?id=CmlTAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Trivelin,
+    role: Austheiler des Wassers.
+    gender: m
+  - name: Ein Stutzer.
+    gender: m
+  - name: Spinette,
+    role: eine Verleumderin.
+    gender: f
+  - name: Ein Undankbarer.
+    gender: m
+  - name: Violette.
+    gender: f
+  - name: Ein Apotheker.
+    gender: m
+  - name: Ein Gasconier.
+    gender: m
+  - name: Gefolge von Todten.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung ist in der Hölle.
+---
 slug: tiessen-le-disenchantement-inespere-die-unverhofte-entzauberung
 author:
-  name: Tiessen, Johann Alexander
+  name: Tießen, Johann Alexander
 title: LE DESENCHANTEMENT INESPERÉ. Die unverhofte Entzauberung
 subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen des Herrn de la B**
 numberOfScenes: 11
@@ -36275,7 +38253,7 @@ editions:
     url: https://books.google.com/books?id=MCpMUvCcTXAC&pg=PA79
 comments:
   - Dritte Fortsetzung des Einakters [»Die beiden Billets«](heyne-die-beiden-billets) (Heyne 1783), nach den Fortsetzungen [»Der Stammbaum«](heyne-der-stammbaum) (Heyne 1788) und [»Der Bürgergeneral«](goethe-der-buergergeneral) (Goethe 1793).
-  - »Das Bauerngut« wurde unterm dem Namen Heynes [!] mehrfach aufgeführt.
+  - »Das Bauerngut« wurde unter dem Namen Heynes [!] mehrfach aufgeführt.
 cast:
   - name: Hauptmann von Lilienstern.
     gender: m
@@ -36951,6 +38929,166 @@ setting: >-
   umgedreht, der Vorhang nach hinten. Das Stück spielt am Abend, nach Endigung
   des Trauerspiels Emilia Galotti.
 ---
+slug: vulpius-betrug-ueber-betrug-oder-die-schnelle-bekehrung
+author:
+  name: Vulpius, Christian August
+  wikidata: Q65376
+title: Betrug über Betrug, oder die schnelle Bekehrung
+subtitle: Ein Lustspiel in Einem Aufzuge
+numberOfScenes: 17
+printed: 1785
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 317
+editions:
+  - title: "Olla Potrida. Erstes Stück. Berlin: Wever 1785, S. 8–39"
+    url: https://books.google.com/books?id=ItGzUw1X8CMC&pg=PA8
+cast:
+  - name: Gustav Baron von Donnersburg.
+    gender: m
+  - name: Jakob,
+    role: sein Bedienter.
+    gender: m
+  - name: Minna.
+    gender: f
+  - name: Lisette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Rheinfels,
+    role: ein Offizier.
+    gender: m
+  - name: Wirth.
+    gender: m
+---
+slug: vulpius-der-treffbube
+author:
+  name: Vulpius, Christian August
+  wikidata: Q65376
+title: Der Treffbube
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 26
+printed: 1792
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 244–245
+editions:
+  - title: "Olla Potrida. Erstes Stück. Berlin: Wever 1792, S. 81–104"
+    url: https://books.google.com/books?id=gkYoAAAAYAAJ&pg=PA81
+cast:
+  - name: Emilie von Waldberg.
+    gender: f
+  - name: Karoline,
+    role: ihre Kammerjungfer.
+    gender: f
+  - name: Adolph von Tannau.
+    gender: m
+  - name: Ferdinand,
+    role: sein Bruder; Kavallerie-Lieutenant.
+    gender: m
+  - name: Anton,
+    role: sein Reitknecht.
+    gender: m
+  - name: Kasper,
+    role: Adolphs Bedienter.
+    gender: m
+  - name: Ein Bube.
+    gender: m
+setting: >-
+  Saal mit Seitenthüren.
+---
+slug: vulpius-die-sympathie
+author:
+  name: Vulpius, Christian August
+  wikidata: Q65376
+title: Die Sympathie
+subtitle: Ein Lustspiel in Einem Aufzuge
+numberOfScenes: 17
+printed: 1787
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 168
+editions:
+  - title: "Ephemeriden der Litteratur und des Theaters. Sechster Band. Berlin: Maurer 1787, S. 260–271, 357–368"
+    url: https://hdl.handle.net/2027/hvd.32044077699114?urlappend=%3Bseq=274
+comments:
+  - "Der gleichnamige Einakter [»Die Sympathie« von Ad[olf?] Würth (1844)](https://books.google.com/books?id=HHs6AAAAcAAJ&pg=RA3-PA1) scheint eine Adaption mit wörtlichen Übernahmen zu sein."
+cast:
+  - name: Frau Werburg,
+    role: eine Gastwirthin.
+    gender: f
+  - name: Lorchen,
+    role: ihre Tochter.
+    gender: f
+  - name: Herr Engelfeld,
+    role: Stadtlieutnant.
+    gender: m
+  - name: Wilhelm,
+    role: sein Sohn.
+    gender: m
+  - name: Eduard Myrthenfeld.
+    gender: m
+  - name: Karl Dörrbein,
+    role: ein Maler.
+    gender: m
+  - name: Hausknecht.
+    gender: m
+setting: >-
+  Die Szene ist in einer kleinen freien Reichsstadt.
+---
+slug: vulpius-er-kam-aus-holland
+author:
+  name: Vulpius, Christian August
+  wikidata: Q65376
+title: Er kam aus Holland!
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 20
+printed: 1789
+premiered: 1790-02-17
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 493
+editions:
+  - title: "Olla Potrida. Erstes Stück. Berlin: Wever 1789, S. 28–58"
+    url: https://books.google.com/books?id=okUoAAAAYAAJ&pg=PA28
+comments:
+  - Verstellspiel
+  - Vater-Sohn-Konflikt
+  - Geld
+cast:
+  - name: Herr Sparr von Sparrenberg,
+    role: ein reicher Bankier.
+    gender: m
+  - name: Fräul. Erdmuth,
+    role: seine Schwester.
+    gender: f
+  - name: Minna,
+    role: seine Tochter.
+    gender: f
+  - name: Kommerzienrath von Feller.
+    gender: m
+  - name: Gustav,
+    role: sein Sohn.
+    gender: m
+  - name: Adolf von Linden,
+    role: Fähndrich.
+    gender: m
+  - name: Leopoldine,
+    role: Fräulein Erdmuthens Kammermädchen.
+    gender: f
+  - name: Louis,
+    role: Herrn Sparrs Kammerdiener.
+    gender: m
+setting: >-
+  Gustavs Zimmer.
+---
 slug: vulpius-list-und-ungeduld
 author:
   name: Vulpius, Christian August
@@ -37026,6 +39164,61 @@ cast:
     gender: m
 setting: >-
   Saal mit Seitenthüren.
+---
+slug: wagenseil-der-aehrenkranz
+author:
+  name: Wagenseil, Christian Jakob
+  wikidata: Q1080444
+title: Der Aehrenkranz
+subtitle: Ein ländliches Schauspiel mit Gesang in einem Akt
+numberOfScenes: 8
+printed: 1792
+premiered: 1792
+formalia:
+  - Prosa
+  - Verse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 245–246
+editions:
+  - title: "Kaufbeuren: Dorn 1792"
+    url: https://books.google.com/books?id=ixpkAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr von Freudheim,
+    role: Besizer eines Dorfes.
+    gender: m
+  - name: Amalie,
+    role: seine Tochter, 11 Jahr' alt.
+    gender: f
+  - name: Friedrich,
+    role: sein Sohn, 10 Jahr' alt.
+    gender: m
+  - name: Joseph Kurz,
+    role: ein Bauer.
+    gender: m
+  - name: Franziska,
+    role: seine Tochter.
+    gender: f
+  - name: Just,
+    role: ein junger Bauer, ihr Bräutigam.
+    gender: m
+  - group:
+      - name: Rosette,
+        gender: f
+      - name: Bärbchen,
+        gender: f
+    role: Bauermädchen.
+  - name: Kaspar,
+    role: ein Invalide.
+    gender: m
+  - name: Georg Habicht,
+    role: Bauer eines andern Dorfes.
+    gender: m
+  - name: Mehrere Bauern und Bäuerinnen, die im Chor singen.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Theater stellt einen ländlichen Plaz mit Obßtbäumen besezt vor. In der Ferne ein Kornfeld.
 ---
 slug: wagenseil-der-freymaurer
 author:
@@ -37859,6 +40052,46 @@ cast:
     gender: m
 setting: Die Handlung geht vor sich im Hause Blümonds.
 ---
+slug: weikard-das-naechtliche-rendezvous
+author:
+  name: Weikard, Marianne Sophie
+  wikidata: Q1896914
+title: Das nächtliche Rendezvous
+subtitle: Ein Lustspiel in Einem Aufzuge aus dem Französischen frei übersetzt
+numberOfScenes: 14
+printed: 1791
+formalia:
+  - Prosa
+basedOn:
+  - "André-Robert Andréa de Nerciat: »Les rendez-vous nocturnes, ou L'aventure comique. Comédie«"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 475
+editions:
+  - title: "Kleine Lustspiele. Frankfurt am Main: Andreä 1791, S. S. 115–158"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB000144CF00000127
+cast:
+  - name: Baronesse Schönburg,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Graf Waller,
+    role: ihr Onkel.
+    gender: m
+  - name: Major von Lohbach,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Schleichmann,
+    role: der Baronesse Bedienter.
+    gender: m
+  - name: Nette,
+    role: der Baronesse Kammermädchen.
+    gender: f
+  - name: Fritz,
+    role: Bedienter des Majors.
+    gender: m
+setting: >-
+  Die Scene ist bei der Baronesse. (Das Theater stellt einen geschmackvoll möblirten Saal vor, mit einer doppelten Thüre, und zwei Kabinets.)
+---
 slug: weikard-der-gereiste-braeutigam
 author:
   name: Weikard, Marianne Sophie
@@ -37900,6 +40133,85 @@ cast:
     gender: m
 setting: >-
   Die Handlung bei Forstheim.
+---
+slug: weikard-der-vergleich
+author:
+  name: Weikard, Marianne Sophie
+  wikidata: Q1896914
+title: Der Vergleich
+subtitle: Ein Lustspiel in Einem Aufzuge
+numberOfScenes: 20
+printed: 1791
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 475
+editions:
+  - title: "Kleine Lustspiele. Frankfurt am Main: Andreä 1791, S. 1–54"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB000144CF00000013
+cast:
+  - name: Gräfinn Mildau,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Baron Olmar,
+    role: ihr Bruder.
+    gender: m
+  - name: Baron Olmar von Wallroth,
+    role: beider Onkel.
+    gender: m
+  - name: Baron Wellnitz,
+    role: unter dem Namen Wellberg.
+    gender: m
+  - name: Friderike,
+    role: seine Schwester.
+    gender: f
+  - name: Konrad,
+    role: Bedienter der Gräfinn.
+    gender: m
+setting: >-
+  Die Handlung ist auf dem Landgute der Gräfinn.
+---
+slug: weikard-die-kriegslist
+author:
+  name: Weikard, Marianne Sophie
+  wikidata: Q1896914
+title: Die Kriegslist
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 18
+printed: 1792
+premiered: 1793-01-07
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 248–249
+editions:
+  - title: "Wien: Oehler 1792"
+    url: https://books.google.com/books?id=mzBJAAAAcAAJ&printsec=frontcover
+cast:
+  - name: General von Dallhof.
+    gender: m
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - name: Antonie,
+    role: seine Nichte und Mündel.
+    gender: f
+  - name: Hauptmann von Wimberg.
+    gender: m
+  - name: Baron Ottenthal.
+    gender: m
+  - name: Ein Adjutant.
+    gender: m
+  - name: Ninette,
+    role: Kammermädchen der Fräulein.
+    gender: f
+  - name: Ludwig,
+    role: des Generals Bedienter.
+    gender: m
+setting: >-
+  Die Handlung ist Anfangs in des Generals, am Ende in des Baron Ottenthals Wohnung.
 ---
 slug: weiskern-die-wirkung-der-rechtschaffenheit
 author:
@@ -37984,6 +40296,51 @@ cast:
     role: des letztern Bedienter.
     gender: m
 setting: Der Schauplatz ist in einer angesehenen Stadt.
+---
+slug: weisse-das-denkmal-in-arkadien
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Das Denkmal in Arkadien
+subtitle: Ein ländliches Schauspiel für die Jugend mit untermischten Gesängen in Einem Aufzuge
+numberOfScenes: 14
+printed: 1781
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 165 und S. 328
+editions:
+  - title: "Leipzig: Crusius 1782"
+    url: https://books.google.com/books?id=MXmVe_R6JKIC&printsec=frontcover
+keywords:
+  - Kindertheater
+cast:
+  - name: Palämon,
+    role: ein alter Hirt.
+    gender: m
+  - name: Lysias,
+    role: ein junger Spartaner.
+    gender: m
+  - name: Euphemon,
+    role: ein Arkadischer Hirt.
+    gender: m
+  - name: Daphne,
+    role: Braut des Lysias.
+    gender: f
+  - name: Evergete,
+    role: Frau des Euphemon.
+    gender: f
+  - group:
+      - name: Laura,
+        gender: f
+      - name: Doris,
+        gender: f
+    role: Töchter des Euphemon.
+setting: >-
+  Der Schauplatz ist in Arkadien.
+location:
+  wikidataId: Q12898802
 ---
 slug: weisse-das-weihnachtsgeschenke
 author:
@@ -38128,6 +40485,47 @@ cast:
     gender: u
 setting: >-
   Scene, ein freyer Platz hinter einer Hütte.
+---
+slug: weisse-die-jungen-spieler-oder-boese-gesellschaften-verderben-gute-sitten
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: "Die jungen Spieler, oder: Böse Gesellschaften verderben gute Sitten"
+subtitle: Ein Lustspiel für junge Leute in Einem Aufzuge
+numberOfScenes: 4
+printed: 1781
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 168
+editions:
+  - title: "Leipzig: Crusius 1781"
+    url: https://books.google.com/books?id=6BpaAAAAcAAJ&printsec=frontcover
+comments:
+  - Kindertheater
+cast:
+  - name: Herr Albert,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Karl,
+    role: sein Sohn von vierzehn Jahren.
+    gender: m
+  - group:
+      - name: Hendrich,
+        gender: m
+      - name: Trisk,
+        gender: m
+      - name: Fröhlich,
+        gender: m
+      - name: Biedermann,
+        gender: m
+    role: des vorhergehenden Gespielen.
+  - name: Lottchen,
+    role: Karls Schwester.
+    gender: f
+setting: >-
+  Der Schauplatz stellt einen Garten mit einer Laube vor.
 ---
 slug: weisse-die-matrone-von-ephesus
 author:
@@ -39114,6 +41512,51 @@ cast:
     isGroup: true
     gender: m
 ---
+slug: wittenberg-cecilie-oder-das-opfer-der-freundschaft
+author:
+  name: Wittenberg, Albrecht
+  wikidata: Q20979913
+title: Cecilie, oder das Opfer der Freundschaft
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 10
+printed: 1780
+formalia:
+  - Prosa
+basedOn:
+  - "Félicité de Genlis: [»Cécile, ou Le sacrifice de l'amitié. Comédie en un acte«](https://books.google.com/books?id=SKTCqzc2GLQC&pg=PA59)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 508
+editions:
+  - title: "Theater zum Gebrauch junger Standespersonen weiblichen Geschlechts. 2. Theil. 1780, S. 47–72"
+  - title: "Der Frau Gräfinn von Genlis Erziehungstheater für junge Frauenzimmer. Aus dem Französischen. Zweyter Band. Leipzig: Crusius 1780, S. 85–128"
+    url: https://books.google.com/books?id=PJxmAAAAcAAJ&pg=PA85
+comments:
+  - "Besprechung in: Magazin der neuern französischen Litteratur. Herausgegeben von Wilhelm Gottlieb Becker. Erster Band. Sechstes Stück. Leipzig: Breitkopf 1780, [S. 561](https://books.google.com/books?id=E81LAAAAcAAJ&pg=PA561)."
+cast:
+  - name: Cecilie,
+    role: eine angehende Nonne.
+    gender: f
+  - name: Caliste,
+    role: eine andere angehende Nonne, Ceciliens Freundinn.
+    gender: f
+  - name: Mutter Opportuna,
+    role: Ausgeberinn.
+    gender: f
+  - name: Die Aebtißinn.
+    gender: f
+  - name: Schwester Angelike,
+    role: Pförtnerinn.
+    gender: f
+  - name: Schwester Rosalie,
+    role: eine junge Nonne.
+    gender: f
+  - name: Fräulein von St. Firmin,
+    role: Ceciliens ältere Schwester.
+    gender: f
+setting: >-
+  Der Schauplatz ist in einem Kloster in der Provinz.
+---
 slug: wittenberg-die-flaschen
 author:
   name: Wittenberg, Albrecht
@@ -39143,6 +41586,40 @@ cast:
     gender: f
 setting: >-
   Der Schauplatz ist in dem Pallaste der Fee.
+---
+slug: wittenberg-die-taube
+author:
+  name: Wittenberg, Albrecht
+  wikidata: Q20979913
+title: Die Taube
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 6
+printed: 1780
+formalia:
+  - Prosa
+basedOn:
+  - "Félicité de Genlis: [»La Colombe. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/GENLIS_COLOMBE.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 511
+editions:
+  - title: "Theater zum Gebrauch junger Standespersonen weiblichen Geschlechts. 2. Theil. 1780, S. 27–46"
+  - title: "Der Frau Gräfinn von Genlis Erziehungstheater für junge Frauenzimmer. Aus dem Französischen. Zweyter Band. Leipzig: Crusius 1780, S. 47–84"
+    url: https://books.google.com/books?id=PJxmAAAAcAAJ&pg=PA47
+cast:
+  - name: Rosine.
+    gender: f
+  - name: Amalie,
+    role: Rosinens Schwester.
+    gender: f
+  - name: Zelis,
+    role: Rosinens und Amaliens Freundinn.
+    gender: f
+  - name: Niclas,
+    role: der Gärtner.
+    gender: m
+setting: >-
+  Der Schauplatz ist in einem Landhause.
 ---
 slug: wolff-treue-siegt-in-liebesnetzen
 author:
