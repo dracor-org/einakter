@@ -1738,6 +1738,51 @@ cast:
   - name: eine Muhme des Hn. Bernhards.
     gender: f
 ---
+slug: anonym-der-apfel
+author:
+  pseudonym: Anonym
+title: Der Apfel
+subtitle: Ein Lustspiel, von einem Aufzuge
+numberOfScenes: 17
+printed: 1778
+formalia:
+  - Prosa
+basedOn:
+  - "Francesco Albergati Capacelli: [»Il pomo. Commedia d'un atto solo«](https://books.google.com/books?id=tg5kAAAAcAAJ&pg=PA135)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 19–20
+editions:
+  - title: "Des Herrn Marquis Franz Albergati Capacelli Neues Komisches Theater. Erster Theil. Breslau: Korn 1778, S. 115–192"
+    url: https://books.google.com/books?id=he9YAAAAcAAJ&pg=PA115
+comments:
+  - "1783 auch als [Zweiakter von Karl Lotich](https://books.google.com/books?id=YCM7AAAAcAAJ&printsec=frontcover)."
+cast:
+  - name: Don Astolfo Anselmi.
+    gender: m
+  - name: Donna Beatrice,
+    role: dessen Tochter.
+    gender: f
+  - group:
+      - name: Alessio.
+        gender: m
+      - name: Targa.
+        gender: m
+    role: Bediente.
+  - name: Der Graf Fulgenzio Ventori,
+    role: aus Parma.
+    gender: m
+  - name: Der Graf Filinto Raschi,
+    role: des Grafen Fulgenzio guter Freund und Landsmann.
+    gender: m
+  - name: Der Marquis Tiberio Cruscati,
+    role: ein Florentiner.
+    gender: m
+setting: >-
+  Der Schauplatz ist zu Neapel in des Don Astolfo Hause.
+location:
+  wikidataId: Q2634
+---
 slug: anonym-der-ball
 author:
   pseudonym: Anonym
@@ -4441,6 +4486,42 @@ cast:
     role: katholische Magd.
     gender: f
 ---
+slug: anonym-die-freyer
+author:
+  pseudonym: Anonym
+title: Die Freyer
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1782
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 185
+comments:
+  - "Undatiertes Manuskript. Laut Meyer »publ. in Berlin: Sander 1782«."
+cast:
+  - name: Bertram
+    role: Schulz eines Dorfs.
+    gender: m
+  - name: Ferdinand,
+    role: sein Sohn, Kaufmann.
+    gender: m
+  - name: Hanne,
+    role: seine Tochter.
+    gender: f
+  - name: Baron von Luft,
+    role: ein benachbarter verschuldeter Gutsbesitzer.
+    gender: m
+  - name: Walter,
+    role: ein reicher Kaufmann in der naheliegenden Stadt.
+    gender: m
+  - name: Peter,
+    role: des Schulzen Knecht.
+    gender: m
+setting: >-
+  Die Bühne stellt den Garten des Schulzen vor. Zur Rechten im Vorgrunde des Schulzen Haus. Zur Linken eine Gartenpforte, die auf's Feld, und im Hintergrunde eine zweyte, die auf die Landstraße führt.
+---
 slug: anonym-die-furcht
 author:
   pseudonym: Anonym
@@ -6870,6 +6951,46 @@ setting: >-
   Hand eine Bauernhütte, gegen den Grund eine kleine Erhöhung, worauf ein
   Grabstein mit Rosengebüschen umwachsen.
 ---
+slug: anonym-glueck-aus-unglueck-oder-die-beyderseitige-rettung
+author:
+  name: H...n, G. F.
+  pseudonym: Anonym
+title: Glück aus Unglück oder die beyderseitige Rettung
+subtitle: Ein Schauspiel in einem Akt aus einer Englischen Geschichte
+numberOfScenes: 10
+printed: 1781
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 92
+editions:
+  - title: "Frankfurt am Mayn: Eichenberg 1781"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB000149DB00000003
+comments:
+  - "Als Erzählung: 1. »Wie der Allgütige sogar das selbsterwählte Unglück und Verderben eines Menschen zu verhindern weiß«. In: Beyspiele für Traurige und Leidende. Herausgegeben von H. B. Wagnitz. Halle: Gebauer 1791, S. [292–308](https://books.google.com/books?id=CFY9AAAAcAAJ&pg=PA292). – 2. »Die zweifache Rettung«. In: Sommerrosen. Eine Sammlung belehrender Geschichten und Erzählungen, herausgegeben von Franz Seraph Häglsperger. München: Giel 1834, [S. 99–113](https://books.google.com/books?id=nv9PAAAAcAAJ&pg=PA99)."
+cast:
+  - name: Lord Damby.
+    gender: m
+  - name: Knigston,
+    role: ein Kaufmann.
+    gender: m
+  - name: Mistris Betty,
+    role: seine Gemahlin.
+    gender: f
+  - name: Miß Nancy,
+    role: seine Tochter.
+    gender: f
+  - name: Ein Bedienter des Knigstons.
+    gender: m
+  - name: Eine arme Familie, die von Lord Damby erhalten wird.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist in London.
+location:
+  wikidataId: Q84
+---
 slug: anonym-ich-werde-nicht-doktor
 author:
   name: J–n
@@ -7316,6 +7437,47 @@ cast:
   - name: Cidalise,
     role: Clitanders Liebste.
     gender: f
+---
+slug: anonym-liebe-macht-narren-oder-die-laecherliche-verkleidung
+author:
+  pseudonym: Anonym
+title: Liebe macht Narren oder die lächerliche Verkleidung
+subtitle: Eine Farße in einem Aufzug nach einem Spanischen Original
+numberOfScenes: 15
+printed: 1783
+premiered: 1784-09-07
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 355–356
+editions:
+  - title: "Leipzig: Hilscher 1783"
+    url: https://books.google.com/books?id=8NdaAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr Horatz,
+    role: ein reicher Bürger.
+    gender: m
+  - name: Therese,
+    role: seine Tochter.
+    gender: f
+  - name: Lisette,
+    role: Dienstmädchen.
+    gender: f
+  - name: Lisidor,
+    role: ein junger Kaufmann.
+    gender: m
+  - name: Pankratz,
+    role: ein Doktor.
+    gender: m
+  - name: Leichtfuß,
+    role: ein Dichter.
+    gender: m
+  - name: Monsieur Rigodon,
+    role: ein Stutzer.
+    gender: m
+setting: >-
+  Die Handlung ist in Horatzens Haus.
 ---
 slug: anonym-lise
 author:
@@ -20218,6 +20380,22 @@ cast:
     role: ein Jude.
     gender: m
 ---
+slug: wall-der-arrestant
+author:
+  name: Heyne, Christian Leberecht
+  pseudonym: Anton-Wall
+  wikidata: Q23710566
+title: Der Arrestant
+subtitle: Ein Lustspiel
+created: 1779
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 498
+comments:
+  - "War ursprünglich ein Einakter, in Hamburg von Schröder wegen Überlänge (über 1 Stunde Lesezeit) in zwei Akte geteilt (mit 9 bzw. 11 Szenen) und so 1779 aufgeführt ([und 1781 gedruckt](https://books.google.com/books?id=Gr767B_irCwC&printsec=frontcover)). Vom Verfasser selbst 1780 in drei Akte geteilt [und gedruckt](https://books.google.com/books?id=gfhqnxpKbdAC&printsec=frontcover) (12 + 9 + 12 Szenen). Vgl. die [Vorrede](https://books.google.com/books?id=gfhqnxpKbdAC&pg=PA3) in der dreiaktigen Ausgabe 1780. Vgl. außerdem Litteratur- und Theater-Zeitung. No. XLIX (4. December 1779), [S. 773–776](https://books.google.com/books?id=uo_PIM1A14kC&pg=PA773)."
+---
 slug: heyne-der-stammbaum
 author:
   name: Heyne, Christian Leberecht
@@ -20295,6 +20473,91 @@ cast:
     role: ein Dorfbalbier.
     gender: m
 setting: Die Szene ist auf einem freyen Plaze vor Rösgens Hause.
+---
+slug: heyne-die-bildsaeule
+author:
+  name: Heyne, Christian Leberecht
+  pseudonym: Anton-Wall
+  wikidata: Q23710566
+title: Die Bildsäule
+subtitle: Nachspiel in Einem Aufzuge. Nach dem Französischen bearbeitet
+numberOfScenes: 11
+printed: 1782
+formalia:
+  - Prosa
+basedOn:
+  - "Carmontelle: [»La statue. Proverbe XX«](https://books.google.com/books?id=sp1TAAAAcAAJ&pg=PA259)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 327
+editions:
+  - title: "Leipzig: Dyk 1782"
+    url: https://books.google.com/books?id=_CmwZELKC_4C&printsec=frontcover
+  - title: "Theatralische Sammlung. Siebenunddreyßigster Band. Wien: Jahn 1793, S. 237–264"
+    url: https://books.google.com/books?id=LW6_WMtV1e4C&pg=PA237
+cast:
+  - name: Gräfin von Holm.
+    gender: f
+  - name: Fräulein von Wirliz,
+    role: ihre Nichte.
+    gender: f
+  - name: Graf von Forster.
+    gender: m
+  - name: Obrister von Teich.
+    gender: m
+  - name: Rittmeister von Alberg.
+    gender: m
+  - name: Verwalter des Grafen.
+    gender: m
+  - name: Ein Zug von Mädchen und jungen Burschen aus dem Dorfe.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Szene ist in einem Bosket, auf dem Landgute des Grafen, nicht weit von Wien.
+location:
+  wikidataId: Q1741
+---
+slug: heyne-die-gute-ehe
+author:
+  name: Heyne, Christian Leberecht
+  pseudonym: Anton-Wall
+  wikidata: Q23710566
+title: Die gute Ehe
+subtitle: Ein Lustspiel in Einem Akt. Nach dem Französischen frey bearbeitet
+numberOfScenes: 18
+printed: 1784
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Pierre Claris de Florian: [»Le bon ménage, ou La suite des deux billets. Comédie en un acte et en prose«](https://books.google.com/books?id=Ksk7AAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 162–163
+editions:
+  - title: "Leipzig: Dyk 1784"
+    url: https://books.google.com/books?id=PNpaAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Sekretär Ehrlich,
+    role: ehedem in Diensten des Grafen von Bergheim.
+    gender: m
+  - name: Julchen,
+    role: seine Frau, ehedem Bediente der Comteße von Bergheim.
+    gender: f
+  - group:
+      - name: Philipp,
+        role: etwa sechs Jahr alt,
+        gender: m
+      - name: August,
+        role: etwa fünf Jahr alt,
+        gender: m
+    role: die Kinder von Beiden.
+  - name: Comteße von Bergheim.
+    gender: f
+  - name: Ein Bedienter,
+    role: ohne Livree.
+    gender: m
+setting: >-
+  Die Scene ist in des Sekretärs Wohnung in einer kleinen Landstadt.
 ---
 slug: hinze-ein-streich-zum-todtlachen
 author:
@@ -30089,6 +30352,50 @@ setting: >-
   ist ein gemeinschaftlicher Saal mit einer Mittel- und zwei Seitenthüren.
   Rechts im Vorgrund ein Toilettenspiegel.)
 ---
+slug: martin-liebe-wirkt-schnell
+author:
+  name: Martin, Karl Christian
+title: Liebe wirkt schnell
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 20
+printed: 1782
+premiered: 1782-07-22
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 190 und S. 265
+editions:
+  - title: "Wien 1782"
+    url: https://books.google.com/books?id=s71TAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Fräulein von Blumenhayn.
+    gender: f
+  - name: Amalia,
+    role: ihre Nichte.
+    gender: f
+  - name: Hannchen,
+    role: ihr Mädchen.
+    gender: f
+  - name: Louis von Brettenbach,
+    role: Lieutenant.
+    gender: m
+  - name: Franz,
+    role: dessen Bedienter.
+    gender: m
+  - name: Doktor Schollenberg,
+    role: ein Arzt.
+    gender: m
+  - name: Doktor Püchler,
+    role: Rechtsgelehrter.
+    gender: m
+  - name: Wächter,
+    role: ein Unteroffizier.
+    gender: m
+  - name: Jakques,
+    role: Bedienter der Fräulein von Blumenhayn.
+    gender: m
+---
 slug: martin-weder-wittwe-noch-jungfer
 author:
   name: Martin, Karl Christian
@@ -38123,6 +38430,46 @@ cast:
 setting: >-
   Die Handlung ist auf dem Landgut der Frau von Adelberg.
 ---
+slug: schroeder-die-versuchung
+author:
+  name: Schröder, Friedrich Ludwig
+  wikidata: Q213877
+title: Die Versuchung
+subtitle: Lustspiel, in einem Aufzuge aus dem Marivaux
+numberOfScenes: 20
+printed: 1782
+premiered: 1782-11-25
+formalia:
+  - Prosa
+basedOn:
+  - "Pierre Carlet de Marivaux: [»L'épreuve. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_EPREUVE.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 308
+editions:
+  - title: "Wien 1780"
+    url: https://books.google.com/books?id=E-XqdEQfEm0C&printsec=frontcover
+cast:
+  - name: Madam Wahlmann.
+    gender: f
+  - name: Louise,
+    role: ihre Tochter.
+    gender: f
+  - name: Dorchen,
+    role: ihr Mädchen.
+    gender: f
+  - name: Brunner,
+    role: ein Kaufmann.
+    gender: m
+  - name: Anton,
+    role: ein Bedienter.
+    gender: m
+  - name: Niklas,
+    role: ein Pachter.
+    gender: m
+setting: >-
+  Scene: Saal auf Brunners Landsiz.
+---
 slug: schroeder-jeder-fege-vor-seiner-thuer
 author:
   name: Schröder, Friedrich Ludwig
@@ -39987,6 +40334,49 @@ cast:
       - name: Mlle. Silberklang.
         gender: f
     role: Sängerinnen.
+---
+slug: stephanie-monsieur-fips-oder-alter-schuetzt-vor-thorheit-nicht
+author:
+  name: Stephanie, Johann Gottlieb
+  wikidata: Q78822
+title: "Monsieur Fips, oder: Alter schützt vor Thorheit nicht"
+subtitle: Ein Lustspiel in einem Aufzuge. Nach le Dedit vom Fresny
+numberOfScenes: 15
+printed: 1782
+premiered: 1782-04-14
+formalia:
+  - Prosa
+basedOn:
+  - "Charles Dufresny: [»Le dédit. Comédie en vers et en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DUFRESNY_DEDIT.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 317
+editions:
+  - title: "Wien 1782"
+    url: https://books.google.com/books?id=oNZUAAAAcAAJ&printsec=frontcover
+cast:
+  - group:
+      - name: Fräulein Nannette,
+        gender: f
+      - name: Fräulein Susette,
+        gender: f
+    role: zwo Schwestern.
+  - name: Junker Romberg.
+    gender: m
+  - name: Juliane,
+    role: seine Tochter.
+    gender: f
+  - name: Herr von Eckck,
+    role: Liebhaber der Juliane.
+    gender: m
+  - name: Fips,
+    role: sein Bedienter.
+    gender: m
+  - name: Jaques,
+    role: Diener im Hause der beyden Fräuleins.
+    gender: m
+setting: >-
+  Die Handlung geht vor einem Gartensaale beym Hause der zwo Schwestern vor.
 ---
 slug: stephanie-nichts-oder-der-majoratherr-und-der-cadet
 author:
