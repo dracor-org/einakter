@@ -1943,6 +1943,72 @@ cast:
     role: dessen Hofmeister.
     gender: m
 ---
+slug: anonym-der-edelmuethige-soldat
+author:
+  pseudonym: Anonym
+title: Der edelmüthige Soldat
+subtitle: Ein Schauspiel in einem Akt. Aus dem Französischen des Herrn Dümaniant
+numberOfScenes: 12
+printed: 1789
+formalia:
+  - Prosa
+basedOn:
+  - "Dumaniant: [»L'honnête homme, ou Le rival généreux. Comédie en trois actes et en vers«](https://books.google.com/books?id=0ltoAAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 355
+editions:
+  - title: "Leipzig: Hamann 1789"
+    url: https://books.google.com/books?id=FxD1ThqENgoC&printsec=frontcover
+cast:
+  - name: Chevalier *** vom Ludwigsorden.
+    gender: m
+  - name: Düsincere,
+    role: ein junger Dragoner.
+    gender: m
+  - name: Der Obrist.
+    gender: m
+  - name: Ein Advocat.
+    gender: m
+  - name: Gerichtsdiener.
+    gender: m
+setting: >-
+  Die Scene ist ein Vorsaal.
+---
+slug: anonym-der-ehrliche-mann
+author:
+  name: W., J.
+  pseudonym: Anonym
+title: Der ehrliche Mann
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 12
+printed: 1781
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 159
+editions:
+  - title: "Komische, und politische Schriften. Wien: Gerold 1781, S. 69–96"
+    url: https://books.google.com/books?id=wXGnVib3YRgC&pg=PA69
+cast:
+  - group:
+      - name: Herr v. Recht,
+        gender: m
+      - name: Herr v. Nöthig,
+        gender: m
+    role: zwey Reisende.
+  - name: Peter,
+    role: ein Bauer.
+    gender: m
+  - name: Grätchen,
+    role: sein Weib.
+    gender: f
+  - name: Ein Verwalter der Gegend.
+    gender: m
+setting: >-
+  Die Handlung geht auf dem Lande in einem Dorf vor.
+---
 slug: anonym-der-eifersuechtige-ehemann-sein-eigner-nebenbuhler
 author:
   name: L.
@@ -4002,6 +4068,39 @@ cast:
     gender: m
   - name: Merlin.
     gender: m
+---
+slug: anonym-die-arme-frau
+author:
+  pseudonym: Anonym
+title: Die arme Frau
+subtitle: Ein Nachspiel in einem Aufzuge nach dem Französischen von Marsollier
+premiered: 1797-10-06
+formalia:
+  - Prosa
+basedOn:
+  - "Benoît-Joseph Marsollier: [»La fausse peur. Comédie en un acte, mêlée d'ariettes«](https://books.google.com/books?id=7xmXXW2xNUkC&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 281–282
+comments:
+  - Nur Manuskript.
+cast:
+  - name: Frau Armand.
+    gender: f
+  - name: Julie.
+    gender: f
+  - name: Germain,
+    role: Juliens Schwager.
+    gender: m
+  - name: Jacques,
+    role: "[...]bürger."
+    gender: m
+  - name: Dermont.
+    gender: m
+setting: >-
+  Scene Paris, Zeit kurz nach Rob[b]espierre's Sturz. Das Theater stellt ein reinliches Dachstübchen vor. Man sieht darinn ein kleines Bett, einem Wassterständer auf einem Stein, einen kleinen [...?] im Hintergrunde, wo man auf einer Leiter hinaufsteigt. Künstlich [...] stellte Reisigbündel verbergen den Eingang eines kleinen Holzschuppen, in welchem Germain versteckt ist.
+location:
+  wikidataId: Q90
 ---
 slug: anonym-die-armen-teufel
 author:
@@ -7637,6 +7736,104 @@ setting: >-
   mit Mittel- Seitenthür und einem Fenster. Zwey Schirme stehen im Hintergrunde.
   Links ein Kamin, vorne, rechts und links, ein alter Schreibtisch, mit allem
   nöthigen Geräthe.)
+---
+slug: armbruster-armuth-und-gutherzigkeit
+author:
+  name: Armbruster, Johann Michael
+  wikidata: Q3167933
+title: Armuth und Gutherzigkeit
+subtitle: Schauspiel in einem Aufzug. Nach dem Französischen des Herrn Moißy frey bearbeitet
+numberOfScenes: 7
+printed: 1789
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 364
+editions:
+  - title: "Angenehme und lehrreiche Erzählungen, Lieder und kleine Schauspiele für Kinder, zur Bildung eines edeln Herzens. Zürich: Bürkli 1789, S. 107–132"
+    url: https://www.e-rara.ch/zuz/content/zoom/24132328
+keywords:
+  - Kindertheater
+  - Kindererziehung
+cast:
+  - name: Herr Müller,
+    role: Bürger und Goldarbeiter in einer grossen Stadt der Schweiz.
+    gender: m
+  - name: Madame Müller,
+    role: seine Frau.
+    gender: f
+  - group:
+      - name: Heinrich,
+        role: eilf Jahre alt.
+        gender: m
+      - name: Kaspar,
+        role: zehen Jahre alt .
+        gender: m
+      - name: Nanette,
+        role: acht Jahre alt.
+        gender: f
+    role: ihre Kinder.
+  - name: Rauf,
+    role: ein abgedankter Soldat, der an einer Krücke geht.
+    gender: m
+  - name: Konrad,
+    role: ein Bauerknabe, dessen Taufpathe, (Götti) Herr Müller ist.
+    gender: m
+  - name: Marie,
+    role: Magd.
+    gender: f
+setting: >-
+  Die Szene ist auf einem kleinen Landgut des Herrn Müllers.
+---
+slug: armbruster-die-familie-sonnenfels-oder-die-kindliche-liebe
+author:
+  name: Armbruster, Johann Michael
+  wikidata: Q3167933
+title: Die Familie Sonnenfels oder die kindliche Liebe
+subtitle: Schauspiel in einem Aufzug für Kinder reiferen Alters. Nach La Saignée, Proverbe dramatique frey bearbeitet
+numberOfScenes: 9
+printed: 1789
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 364–365
+editions:
+  - title: "Angenehme und lehrreiche Erzählungen, Lieder und kleine Schauspiele für Kinder, zur Bildung eines edeln Herzens. Zürich: Bürkli 1789, S. 133–167"
+    url: https://www.e-rara.ch/zuz/content/zoom/24132354
+cast:
+  - name: Sonnenfels,
+    role: ein Mahler.
+    gender: m
+  - name: Amalia Sonnenfels,
+    role: seine Frau.
+    gender: f
+  - group:
+      - name: Theodor,
+        role: fünfzehen Jahre alt.
+        gender: m
+      - name: Luise,
+        role: dreyzehen Jahre alt.
+        gender: f
+      - name: Karl,
+        role: sieben Jahre alt.
+        gender: m
+      - name: Ein Säugling.
+        gender: u
+    role: Ihre Kinder.
+  - name: General Buckenhausen.
+    gender: m
+  - name: Ein gemeiner Husar.
+    gender: m
+  - name: Weber,
+    role: ein Schuster, in dessen Hause Herr Sonnenfels wohnt.
+    gender: m
+  - name: Wilhelm von Rynach,
+    role: Page des Fürsten.
+    gender: m
+setting: >-
+  Die Szene ist in einer grossen deutschen Stadt, zur Zeit der allgemeinen Theurung im Jahr 1771.
 ---
 slug: arnstein-das-billett
 author:
@@ -11665,6 +11862,111 @@ cast:
     gender: m
 setting: >-
   Das Theater stellet einen Garten vor. Hier und da stehen einzelne Bäume. Es ist Nacht und um 10 Uhr.
+---
+slug: broeckelmann-die-hautboisten
+author:
+  name: Bröckelmann, Wilhelm
+  wikidata: Q18029671
+title: Die Hautboisten
+subtitle: Lustspiel in Einem Aufzug
+numberOfScenes: 23
+printed: 1797
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 336–337
+editions:
+  - title: "Cassel: Grießbach 1797"
+    url: https://books.google.com/books?id=3VxrdN4VJdgC&printsec=frontcover
+keywords:
+  - Verkleidungsspiel
+  - Eheanbahnung
+cast:
+  - name: von Spornhelm,
+    role: Generalmajor.
+    gender: m
+  - name: Amalie von der Ammöneburg,
+    role: seine Nichte und Erbin.
+    gender: f
+  - name: Franziska,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Graf Moritz von Waldau,
+    role: unter dem Namen Miller.
+    gender: m
+  - name: Otto,
+    role: Büchsenspänner des Grafen, jezt Musquetier.
+    gender: m
+  - name: von Kämpfer,
+    role: Lieutenant und Regiments-Adjudant.
+    gender: m
+  - name: Blaufärber,
+    role: Corporal.
+    gender: m
+  - name: Umstand,
+    role: Musquetier.
+    gender: m
+  - name: Holstein,
+    role: Ordonanz.
+    gender: m
+  - name: Aentchen,
+    role: eine alte Ausgeberin.
+    gender: f
+setting: >-
+  Scene: Eine kleine Garnison. (Ein bürgerliches Zimmer. Pünktliche Reinlichkeit, und einige unachtsam herumgeworfene Kostbarkeiten, verrathen einen reichen Besitzer. Auf einem Tische eine Flasche feinen Liqueur und etwas Gebacknes. Der Graf, als Hautboist gekleidet, spaziert auf und ab, indem er seine Hautboist in Ordnung bringt; singt einige verliebte Strophen. Otto, als Musquetier, putzt des Grafen Säbel mit finsterer Mine. Man klopft von aussen an die Thüre, der Graf geht eilig hinaus, und kömmt mit einem Billet zurück, welches er verbirgt und ließt.)
+---
+slug: broeckelmann-vielerley-handwerk-vielerley-unglueck
+author:
+  name: Bröckelmann, Wilhelm
+  wikidata: Q18029671
+title: Vielerley Handwerk, vielerley Unglück
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 13
+printed: 1789
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 378
+editions:
+  - title: "Neustrelitz: Hofbuchhandlung 1789"
+    url: https://books.google.com/books?id=fUpZ6u3yAegC&printsec=frontcover
+comments:
+  - "[Motto](https://books.google.com/books?id=fUpZ6u3yAegC&pg=PA3): »Lache, wenn du weise bist; lache, – und werde fett!« 😊"
+cast:
+  - name: Specht,
+    role: Richter, Collecteur, Postverwalter, Wege-Commissair, und Wirth zum hagern Wolf.
+    gender: m
+  - name: Anna,
+    role: seine Tochter.
+    gender: f
+  - name: Kümmel,
+    role: Hegeförster.
+    gender: m
+  - name: Nothnagel,
+    role: Küster.
+    gender: m
+  - name: Lehser,
+    role: ein Polnischer Jude.
+    gender: m
+  - name: Regardemoi,
+    role: ein Zwerg.
+    gender: m
+  - name: Beyfuß,
+    role: Bedienter des Grafen.
+    gender: m
+  - name: Kroll,
+    role: ein Leinweber.
+    gender: m
+  - group:
+      - name: Haß,
+        gender: m
+      - name: Schramm,
+        gender: m
+    role: Bürger.
+setting: >-
+  Bauerstube. Man sieht Placats an der Thüre hängen. Posthörner, Geigen, Barbierbecken, Lottotabellen, u.d.gl. hängen an der Wand. – Im Hintergrunde eine Hobelbank, und eine Schusterwerkstelle; vorn an der einen Seite ein langer Wirthshaustisch; gegen über ein Schreibpult und ein Spinnrad.
 ---
 slug: bruehl-bald-klein-bald-gross
 author:
@@ -18512,6 +18814,50 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: hanker-die-maskerade
+author:
+  name: Hanker, Garlieb
+  wikidata: Q1494304
+title: Die Maskerade
+subtitle: Ein Gesellschaftsstück in einem Akt, von F. L. Epheu
+numberOfScenes: 4
+printed: 1781
+formalia:
+  - Prosa
+basedOn:
+  - französische Anekdote
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 93
+editions:
+  - title: "Hamburg: Reuß 1781"
+    url: https://books.google.com/books?id=iddaAAAAcAAJ&printsec=frontcover
+comments:
+  - Nicht identisch mit [Schlossers gleichnamigem einaktigen Lustspiel](schlosser-die-maskerade) (1767).
+cast:
+  - name: Madame Kroß.
+    gender: f
+  - name: Baronesse von Weithügel.
+    gender: f
+  - name: Baron von Linke.
+    gender: m
+  - name: Baron von Starkheim.
+    gender: m
+  - name: Von West.
+    gender: m
+  - name: Von Kleebach.
+    gender: m
+  - name: Ein Unbekannter, in der Maske eines Genius.
+    gender: m
+  - name: Bediente.
+    isGroup: true
+    gender: u
+  - name: Masken.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist in einer deutschen Handelsstadt. (Die Scene ist ein Zimmer, das in den Maskeradensaal herausgeht, den man durch die hinten eröfnete Flügelthüre sieht.)
+---
 slug: hansing-kuenstlerglueck-oder-die-proberollen
 author:
   name: Hansing, Gottlieb Anton Friedrich
@@ -19446,6 +19792,56 @@ cast:
     gender: m
 setting: >-
   Zimmer des Herrn von Rosenstrauch.
+---
+slug: hensler-der-oesterreichische-soldat-in-kehl
+author:
+  name: Hensler, Karl Friedrich
+  wikidata: Q1731074
+title: Der österreichische Soldat in Kehl
+subtitle: Ein Vorspiel in einem Aufzug für die k. k. privil. Marinellische Schaubühne nach Hagemann bearbeitet
+numberOfScenes: 11
+printed: 1797
+premiered: 1797-03-02
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 374–375
+editions:
+  - title: "Wien: Schmidt 1797"
+    url: https://books.google.com/books?id=FWxUAAAAcAAJ&printsec=frontcover
+keywords:
+  - Krieg
+  - Österreich
+  - Frankreich
+  - Propagandastück
+  - Patriotismus
+cast:
+  - name: Larnaut,
+    role: ein Bürger von Kehl.
+    gender: m
+  - name: Marie,
+    role: seine Frau.
+    gender: f
+  - name: Jeanette,
+    role: seine Tochter.
+    gender: f
+  - name: Louis Dubois,
+    role: ihr Mann, Soldat in Diensten der Republik.
+    gender: m
+  - name: Louis,
+    role: sein Söhnchen von drey Jahren.
+    gender: m
+  - name: Wolf,
+    role: kaiserlicher Korporal.
+    gender: m
+  - name: Mehrere österreichische Soldaten.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung geschieht in Kehl.
+location:
+  wikidataId: Q15979
 ---
 slug: hensler-die-schoene-ungarin-oder-das-pasquill
 author:
@@ -20451,6 +20847,50 @@ cast:
     gender: m
 setting: >-
   Zimmer der Grafen.
+---
+slug: huber-die-ungeladenen-gaeste-oder-der-kanonikus-von-mailand
+author:
+  name: Huber, Ludwig Ferdinand
+  wikidata: Q88699
+title: Die ungeladenen Gäste, oder der Kanonikus von Mailand
+subtitle: "Eine Posse in einem Aufzuge: Nach le Souper imprévu ou le Chanoine de Milan; von Alex. Duval, bearbeitet"
+numberOfScenes: 21
+printed: 1797
+formalia:
+  - Prosa
+basedOn:
+  - "Alexandre Duval: [»Le souper imprévu ou Le chanoine de Milan. Comédie en un acte et en prose«](https://books.google.com/books?id=JgJHhI51k-sC&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 384–385
+editions:
+  - title: "Leipzig: Wolf 1797"
+    url: https://nbn-resolving.de/urn:nbn:de:hbz:5:1-17854-p0005-0
+cast:
+  - name: Tomaso,
+    role: Kanonikus in Mailand.
+    gender: m
+  - name: Benetto,
+    role: sein Neffe.
+    gender: m
+  - name: Firmin,
+    role: Adjudant eines Generals bei der Italiänischen Armee.
+    gender: m
+  - name: Sansquartier,
+    role: Husar, Ordonnanz bei Firmin.
+    gender: m
+  - name: Ein französischer General.
+    gender: m
+  - name: Lauretta,
+    role: Nachbarin des Kanonikus.
+    gender: f
+  - name: Gertrude,
+    role: dessen Magd.
+    gender: f
+setting: >-
+  Die Scene ist in einem Dorfe, nahe bei Mailand. (Ein einfach meublirtes Zimmer, auf der Seite eine offene Thüre, dieser gegenüber ein Kamin mit Zubehör zum Einheizen, im Hintergunde eine Stiege, die in den Keller hinuntergeht, und ein Fenster.)
+location:
+  wikidataId: Q490
 ---
 slug: huber-gute-kinder-sind-der-eltern-seegen
 author:
