@@ -6665,6 +6665,38 @@ setting: >-
 location:
   wikidataId: Q1741
 ---
+slug: anonym-die-vermeinten-fehler
+author:
+  pseudonym: Anonym
+title: Die vermeinten Fehler
+subtitle: Die vermeinten Hehler. Ein Lustspiel in einem Aufzug nach dem französischen des Herrn Sedaine
+premiered: 1788-12-21
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 185 und S. 188
+comments:
+  - Nur Manuskript. Bei Meyer fälschlicherweise(?) unter dem Titel »Die vermeinten Hehler«.
+cast:
+  - name: von Neuenstein.
+    gender: m
+  - name: Amalie,
+    role: seine Tochter.
+    gender: f
+  - name: Gräfin von Sieburg,
+    role: Wittwe.
+    gender: f
+  - name: Karl Graf von Sieburg,
+    role: ihr Sohn.
+    gender: m
+  - name: Franz,
+    role: Graf von Sieburgs Kammerdiener.
+    gender: m
+  - name: Louiße,
+    role: Amaliens Mädchen.
+    gender: f
+---
 slug: anonym-die-verschreibung
 author:
   pseudonym: Anonym
@@ -12683,6 +12715,51 @@ cast:
 setting: >-
   Bauerstube. Man sieht Placats an der Thüre hängen. Posthörner, Geigen, Barbierbecken, Lottotabellen, u.d.gl. hängen an der Wand. – Im Hintergrunde eine Hobelbank, und eine Schusterwerkstelle; vorn an der einen Seite ein langer Wirthshaustisch; gegen über ein Schreibpult und ein Spinnrad.
 ---
+slug: broemel-wie-machen-sies-in-der-komoedie-oder-die-buchstaebliche-auslegung
+author:
+  name: Brömel, Wilhelm Heinrich
+  wikidata: Q55136131
+title: "Wie machen sie's in der Komödie? oder: die buchstäbliche Auslegung"
+subtitle: Ein Lustspiel in einem Akt
+numberOfScenes: 12
+printed: 1786
+premiered: 1784-01-26
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 379–380
+editions:
+  - title: "Berlin und Hamburg 1786"
+    url: https://books.google.com/books?id=UW1HAAAAcAAJ&printsec=frontcover
+  - title: "Wien: Wallishausser 1794"
+    url: https://books.google.com/books?id=Cs8-N1SyxyoC&printsec=frontcover
+comments:
+  - In der Ausgabe Wien 1794 mit dem Untertitel »in einem Aufzug«.
+  - Auch unter dem Titel »Die buchstäbliche Auslegung. – Lustspiel in einem Act« (1785).
+keywords:
+  - Eheanbahnung
+  - Moral
+  - Rechtsgelehrtheit
+cast:
+  - name: Robinson,
+    role: Rechtsgelehrter.
+    gender: m
+  - name: Jenny,
+    role: seine Tochter.
+    gender: f
+  - name: Edwin,
+    role: sein Verwandter.
+    gender: m
+  - name: Wellsing,
+    role: Kaufmann.
+    gender: m
+  - name: William,
+    role: sein Sohn.
+    gender: m
+setting: >-
+  Die Scene ist in einem Zimmer in Robinsons Hause.
+---
 slug: bruehl-bald-klein-bald-gross
 author:
   name: Brühl, Alois Friedrich von
@@ -16756,6 +16833,41 @@ cast:
 setting: >-
   Die Scene ist in dem Garten des Herrn Philidor, der an sein Haus stößt.
 ---
+slug: faber-mariannchen
+author:
+  name: Faber, Johann Heinrich
+  wikidata: Q94839946
+title: Mariannchen
+subtitle: Ein kleines Schauspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1787
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 81
+editions:
+  - title: "Die Winterabende eine Sammlung merkwürdiger rührender und moralischer Geschichten, Anecdoten, kleiner Schauspiele u.s.w. Frankfurt am Mayn: Reiffenstein 1787, S. 13–34"
+    url: https://books.google.com/books?id=i9ij4-AoTSAC&pg=PA13
+cast:
+  - name: Der gnädige Herr.
+    gender: m
+  - name: Die gnädige Frau.
+    gender: f
+  - name: Mariannchen,
+    role: ein 17 jähriges Landmädchen, Pathe der gnädigen Frau.
+    gender: f
+  - name: Mademoiselle la Varenne,
+    role: eine Französinn.
+    gender: f
+  - name: Wilhelmine,
+    role: Kammerjungfer der gnädigen Frau.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Der Schauplatz ist in dem Hause des gnädigen Herrn.
+---
 slug: falcke-braitwell
 author:
   name: Falcke, Ernst Friedrich Hektor
@@ -16800,6 +16912,42 @@ cast:
     gender: m
 setting: >-
   Das Theater stellt einen Theil vom See Ufer vor. Wo an der einen Seite vorwärts, ein Stein von mittelmäßiger Grösse liegt; hinten hat man die Aussicht auf die See.
+---
+slug: federico-wer-den-papst-zum-freunde-hat-kann-leicht-kardinal-werden
+author:
+  name: Federico
+title: Wer den Papst zum Freunde hat, kann leicht Kardinal werden
+subtitle: Lustspiel in einem Abschnitte
+numberOfScenes: 5
+printed: 1787
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 84
+editions:
+  - title: "Sprichwörterspiele dramatisch bearbeitet von Federico. Berlin 1787, S. 167–184"
+    url: https://books.google.com/books?id=V8lIAAAAcAAJ&pg=PA167
+cast:
+  - name: Geheimeräthin, Frau v. Plazdorf.
+    gender: f
+  - name: Inspector Finzer.
+    gender: m
+  - name: Pastor Bunkel.
+    gender: m
+  - name: Dessen Frau.
+    gender: f
+  - name: Simplicius,
+    role: Cand. theol.
+    gender: m
+  - group:
+      - name: Christoph,
+        gender: m
+      - name: Johann,
+        gender: m
+    role: zwey Bediente.
+setting: >-
+  Die Szene stellt theils das Studierzimmer des Inspector Finzers vor. Theils die Pfarrwohnung des Hn. Pastor Bunkels. Die Handlung ist im Brandenburgischen.
 ---
 slug: foerster-untreue-und-eifersucht
 author:
@@ -18921,7 +19069,7 @@ cast:
   - name: Fürst Heinrich.
     gender: m
   - name: Kammerrath Warth.
-    gender: n
+    gender: m
   - name: Körber,
     role: Kammerdiener des Fürsten.
     gender: m
@@ -19176,7 +19324,7 @@ cast:
     gender: m
   - name: David,
     role: ein alter Aufwärter des Sekretairs.
-    gender: n
+    gender: m
   - name: Ein Unterofficier.
     gender: m
   - name: Zwey Gerichtsdiener.
@@ -23269,6 +23417,54 @@ setting: >-
   glücklichen Zukunft, als in der Vergangenheit spielen. Demohngeachtet kann
   die dankbarste Erinnerung an einen Gustav III. Schwedens grossen König, damit
   verbunden bleiben.
+---
+slug: keller-lieber-heute-als-morgen
+author:
+  name: Keller, Heinrich
+title: Lieber heute, als morgen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1786
+premiered: 1786-12-26
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 424
+editions:
+  - title: "Freyberg: Craz 1786"
+    url: https://books.google.com/books?id=bx_b31g6f_cC&printsec=frontcover
+cast:
+  - group:
+      - name: Graf von Waldburg,
+        gender: m
+      - name: Bornhelm,
+        role: ein Passagier vom Mittelstande,
+        gender: m
+    role: Eine Person.
+  - name: Herr von Sagon.
+    gender: m
+  - name: Frau von Sagon.
+    gender: f
+  - name: Fräulein Franziska von Sagon,
+    role: ihre Tochter.
+    gender: f
+  - name: Der Hauptmann von St. Aegid.
+    gender: m
+  - name: Herr Wolmuth,
+    role: geheimer Reisebegleiter und Hofrath des Grafen.
+    gender: m
+  - name: Fritz,
+    role: Bedienter.
+    gender: m
+  - name: Wirthsleute.
+    isGroup: true
+    gender: u
+  - name: Bediente.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist theils in beiden Gasthöfen, theils in Herrn von Sagons Hause.
 ---
 slug: kepner-der-zerstreute
 author:
@@ -31938,7 +32134,7 @@ cast:
       - name: Lüder von Lindow,
         gender: m
       - name: Carl von Cleeborn,
-        gender: n
+        gender: m
     role: Waffenbrüder des Grafen von Hengsperg.
   - name: Buben und Knechte des Grafen von Hengsperg.
     isGroup: true
@@ -44881,6 +45077,41 @@ setting: >-
 location:
   wikidataId: Q12898802
 ---
+slug: weisse-das-junge-modefrauenzimmer
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Das junge Modefrauenzimmer
+subtitle: Ein Schauspiel für Kinder in Einem Aufzuge
+numberOfScenes: 17
+printed: 1780
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 504
+editions:
+  - title: "Leipzig: Crusius 1780"
+    url: https://books.google.com/books?id=ehFaAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Arist,
+    role: ein angesehener Mann, aus einer Stadt in Sachsen.
+    gender: m
+  - name: Frau Brilliantinn,
+    role: "eine Wittwe und Tante von folgenden zween jungen Personen:"
+    gender: f
+  - name: Ernst Gutherz,
+    role: ein Knabe von zwölf Jahren.
+    gender: m
+  - name: Mariane,
+    role: Schwester des vorigen, dreyzehn Jahr alt.
+    gender: f
+  - name: Christiane,
+    role: ein Jungfernmädchen.
+    gender: f
+setting: >-
+  Der Schauplatz ist in einem Saale.
+---
 slug: weisse-das-weihnachtsgeschenke
 author:
   name: Weiße, Christian Felix
@@ -45196,6 +45427,48 @@ cast:
     role: Fräulein Henriettens Kammermägdchen.
     gender: f
 setting: Der Schauplatz ist auf des Herrn von Busch Landguthe.
+---
+slug: weisse-edelmuth-in-niedrigkeit
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Edelmuth in Niedrigkeit
+subtitle: Ein Schauspiel für Kinder in Einem Aufzuge
+numberOfScenes: 13
+printed: 1777
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 571
+editions:
+  - title: "Leipzig: Crusius 1777"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0000C38C00000005
+comments:
+  - Mehrfach ins Französische übersetzt.
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr von Grünthal,
+    role: ein reicher Guthsbesitzer.
+    gender: m
+  - name: Frau von Grünthal,
+    role: seine Gemalin.
+    gender: f
+  - name: Karl,
+    role: der Vorigen Sohn.
+    gender: m
+  - name: Emilie,
+    role: Tochter.
+    gender: f
+  - name: Töffel,
+    role: eines Gärtners Sohn.
+    gender: m
+  - name: Johann,
+    role: ein Bedienter.
+    gender: m
+setting: >-
+  Der Schauplatz ist in einem Pavillion im Garten der herrschaftlichen Wohnung.
 ---
 slug: weisse-ein-kleiner-familienzwist-oder-gute-kinder-machen-bisweilen-auch-gute-aeltern
 author:
