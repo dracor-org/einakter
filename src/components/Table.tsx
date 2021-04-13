@@ -98,6 +98,10 @@ function Table () {
   }]
   
   const { SearchBar } = Search;
+  
+  const total = data.reduce((sum: number, play: Play) => {
+    return sum + (play.numberOfCharacters || 0);
+  }, 0);
 
   return (
     <ToolkitProvider
@@ -113,6 +117,8 @@ function Table () {
             <SearchBar { ...props.searchProps } />
             <span className="counter">
               Database currently containing {data.length} one-act plays
+              {' '}
+              featuring {total} characters
               {' '}
               <a href="data.json" className="download" download="einakter.json">
                 <FontAwesomeIcon icon="download" title="Download JSON"/>
