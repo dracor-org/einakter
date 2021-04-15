@@ -11861,6 +11861,37 @@ setting: >-
   im Schloß des Barons, mit drey Glasthüren im Hintergrunde, durch welche man in
   einen sehr eleganten Saal sieht. Ein Fortepiano, Möbeln.)
 ---
+slug: biedenfeld-der-schiffskapitain
+author:
+  name: Biedenfeld, Ferdinand von
+  wikidata: Q1405946
+title: Der Schiffskapitain
+subtitle: Ein Lustspiel in einem Act
+numberOfScenes: 14
+printed: 1822
+premiered: 1818-04-02
+formalia:
+  - Prosa
+basedOn:
+  - "Emmanuel Théaulon: [»Le marin, ou Les deux ingénues. Comédie-vaudeville en un acte«](https://books.google.com/books?id=hylMAAAAcAAJ&printsec=frontcover)."
+editions:
+  - title: "Winterabende. Eine Sammlung dramatischer Beyträge für leichte Unterhaltung und Darstellung bestimmt. Dritter Theil. Bamberg und Würzburg: Goebhardt 1822, S. 259–311"
+    url: https://books.google.com/books?id=L4tIAAAAcAAJ&pg=RA2-PA259
+comments:
+  - "Besprechung der Dresdner Aufführung vom 2. April 1818 in: Carl-Maria-von-Weber-Gesamtausgabe. Digitale Edition. [http://weber-gesamtausgabe.de/A030252](http://weber-gesamtausgabe.de/A030252)."
+  - "Weitere Übersetzung: [Blum 1817](blum-der-schiffs-capitain-oder-die-unbefangenen)."
+cast:
+  - name: von Walborn.
+    gender: m
+  - group:
+      - name: Emilie,
+        gender: f
+      - name: Laura,
+        gender: f
+    role: Fräuleins und junge Waisen.
+setting: >-
+  Der Schauplatz ist auf einem Landgute. (Ein Salon, wodurch man in den Garten sieht. Vor einem Spiegel à la Psyche ein Pianoforte, und eine Guitarre. Hinter dem Spiegel ein Sessel, näher im Vordergrund ein Gueridon. Beym Aufzug des Vorhangs spielen die Schwestern Federball.
+---
 slug: biedenfeld-wie-man-sein-glueck-macht
 author:
   name: Biedenfeld, Ferdinand von
@@ -12751,11 +12782,15 @@ premiered: 1817-06-08
 formalia:
   - Prosa
   - Gesang
+basedOn:
+  - "Emmanuel Théaulon: [»Le marin, ou Les deux ingénues. Comédie-vaudeville en un acte«](https://books.google.com/books?id=hylMAAAAcAAJ&printsec=frontcover)."
 editions:
   - title: "Berlin 1821"
     url: https://books.google.com/books?id=AfgpnQAACAAJ
   - title: "Vaudevilles, für deutsche Bühnen und gesellige Zirkel; nach dem Französischen bearbeitet von Carl Blum. Berlin: Humblot 1824, S. 1–56"
     url: https://books.google.com/books?id=zDNJAAAAcAAJ&pg=PA1
+comments:
+  - "Weitere Übersetzung: [Biedenfeld 1818](biedenfeld-der-schiffskapitain)."
 cast:
   - group:
       - name: Julie.
@@ -14307,8 +14342,12 @@ editions:
     url: https://books.google.com/books?id=fvgwwxrsz58C&pg=PA305
   - title: "Dresden: Walther 1785"
     url: https://books.google.com/books?id=n77Xe-ZfxQQC&printsec=frontcover
+comments:
+  - "1816 zu einer [dreiaktigen Oper](https://books.google.com/books?id=qquXQVv7_rcC&pg=PA1) bearbeitet."
 keywords:
   - Krieg
+  - Sklaverei
+  - Rache
 cast:
   - name: Milord Jefris,
     role: Kommendant eines Forts in Amerika.
@@ -15918,6 +15957,8 @@ basedOn:
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1826. Von F. I. Castelli. Eilfter Jahrgang. Wien: Wallishausser [1826], S. 133–178"
     url: https://books.google.com/books?id=RwD2giW-JGcC&pg=PA133
+  - title: "Meyer's Groschen-Bibliothek der Deutschen Classiker für alle Stände. Dreihundertunderstes Bändchen. August von Steigentesch und Ignaz Franz Castelli. Hildburghausen: Bibliographisches Institut; New-York: Meyer [1870], S. 45–75"
+    url: https://books.google.com/books?id=OIVTAAAAcAAJ&pg=PA45
 comments:
   - "Besprechung in [Flora. Ein Unterhaltungs-Blatt. München, Dienstags den 8. März 1825, S. 153](https://books.google.com/books?id=IlhEAAAAcAAJ&pg=PA153)."
   - "1824 erscheint der aus dem Französischen übersetzte Roman [»Urika, die Negerin. Aus dem Französischen der Herzogin von ***«](https://books.google.com/books?id=guVIAQAAMAAJ&printsec=frontcover)."
@@ -16334,6 +16375,8 @@ basedOn:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Land. Neunzehnter Jahrgang. Leipzig: Kummer 1821, S. 201–244"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044933_00217.html
+  - title: "C. W. Contessa's Schriften. Herausgegeben von E. von Houwald. Achter Band. Leipzig: Göschen 1826, S. 1–44"
+    url: https://books.google.com/books?id=pAZMAQAAMAAJ&pg=PA1
 cast:
   - name: Rosalie.
     gender: f
@@ -18979,6 +19022,51 @@ cast:
     role: in Reinhards Diensten.
 setting: Die Handlung ist auf von Siltens Landgute.
 ---
+slug: freisleben-der-schreckenstag-oder-die-einsame-försterwohnung
+author:
+  name: Freisleben, Ludwig Georg Franz
+  wikidata: Q55843847
+title: Der Schreckenstag, oder Die einsame Försterwohnung
+subtitle: Schauder-Gemählde aus der wirklichen Welt, in Einem Aufzuge
+numberOfScenes: 11
+printed: 1827
+formalia:
+  - Blankvers
+dictionaries:
+  - name: corvey
+    pages: S. 91–92
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=89"
+editions:
+  - title: "Schauder-Gemählde aus der wirklichen Welt von L. G. Franz Freisleben. Bernburg: Grüning 1827, S. 1–34"
+    url: https://books.google.com/books?id=vchIAAAAcAAJ&pg=PA1
+keywords:
+  - Schicksalstragödie
+cast:
+  - name: Brand,
+    role: Oberförster.
+    gender: m
+  - name: Therese,
+    role: seine Gattin.
+    gender: f
+  - name: Carl,
+    role: dessen jüngster Sohn, 4 Jahr alt.
+    gender: m
+  - group:
+      - name: Ferdinand Schwarz,
+        gender: m
+      - name: Rudolph,
+        gender: m
+    role: Jäger, im Dienst des Oberförsters.
+  - name: Ein Reisender.
+    gender: m
+  - name: Dessen Diener.
+    gender: m
+  - name: Mehrere Jägerbursche.
+    isGroup: true
+    gender: m
+setting: >-
+  Der Ort der Handlung ist in dem, an einem Walde gelegenen, Hause des Oberförsters, vor welchem eine Landstraße vorbeiführt. Die Handlung selbst an einem Sonntagsmorgen. (Zimmer im Hause des Oberförsters, mit pracktikabler Mittel- und zwei Seitenthüren, wovon die zur Rechten zur Stube des Oberförsters, die zur Linken nach dem Hofe führt. Auf jeder Seite ein Fenster.)
+---
 slug: freytag-der-gelehrte
 author:
   name: Freytag, Gustav
@@ -19725,6 +19813,8 @@ editions:
 comments:
   - Delila ist eine Figur aus dem Alten Testament. In diesem Einakter wird die biblische Geschichte über ihren Mann, Samson, dessen übermenschliche Kraft in seinen Haaren steckt, parodiert.
   - "[Laut Goedeke](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA296) »verfaßt zwischen 1815 u. 1817«."
+  - "Gilt in der Forschung als eine der ersten Parodien der Schicksalstragödie (vgl. Paul R. Pope: Review: Richard Wagner's Stepfather. In: Modern Language Notes 29/6 (1914), [S. 185–187](https://www.jstor.org/stable/2916523), hier S. 186)."
+  - "Drei Szenen des Einakters werden auch hier abgedruckt: Humoristische Perlenschnur. Chrestomathie der gelungensten Stellen aus den besten humoristischen Schriftstellern. Zweites Bändchen. Stuttgart: Köhler 1837, [S. 89–103](https://books.google.com/books?id=qT1jAAAAcAAJ&pg=PA89)."
 keywords:
   - Ritterstück
   - Schäferspiel
@@ -20037,11 +20127,11 @@ cast:
   - name: Briefträger.
     gender: m
 ---
-slug: goethe-die-laune-der-verliebten
+slug: goethe-die-laune-des-verliebten
 author:
   name: Goethe, Johann Wolfgang
   wikidata: Q5879
-title: Die Laune der Verliebten
+title: Die Laune des Verliebten
 subtitle: Ein Schäferspiel in Versen und einem Akte
 numberOfScenes: 9
 created: 1768
@@ -23135,6 +23225,7 @@ editions:
     url: https://books.google.com/books?id=X21VAAAAcAAJ&printsec=frontcover
 comments:
   - "Parodie auf Goethes »Die Leiden des jungen Werthers«."
+  - "Besprechung in: Julius W. Braun: Goethe im Urtheile seiner Zeitgenossen. Berlin: Luckhardt 1883, [S. 254–258](https://books.google.de/books?id=dZdBAAAAIAAJ&ots=DvbqQPnmCh&=de&pg=PA254)."
 cast:
   - name: Lorenz Konau,
     role: ein Buchbinder und Bürgerworthalter.
@@ -23954,7 +24045,8 @@ editions:
   - title: "Wien: Schmidt 1809"
     url: https://books.google.com/books?id=DK9IAAAAcAAJ&printsec=frontcover
 comments:
-  - Ermittlung des Autors via [Tschechische Theaterenzyklopädie](http://de.encyklopedie.idu.cz/index.php/Huber,_Leopold).
+  - "Ermittlung des Autors via [Tschechische Theaterenzyklopädie](http://de.encyklopedie.idu.cz/index.php/Huber,_Leopold). Wurde in der Forschung auch Franz Xaver Huber zugeschrieben, vgl. Susanne Zantrop: Kolonialphantasien im vorkolonialen Deutschland (1770–1870). Berlin: Erich Schmidt 1999, [S. 301](https://books.google.com/books?id=aM2NNt_6Uw8C&pg=PA301)."
+  - "Besprechung in: Wiener allgemeine Theaterzeitung und Unterhaltungsblatt für Freunde der Kunst, Literatur und des geselligen Lebens 131. Sonnabend, den 31. October 1818, [S. 523](https://anno.onb.ac.at/cgi-content/anno?aid=thz&datum=18181031&seite=3) (dort auch der Hinweis, dass der Einakter von Kotzebues Dreiakter »Die Negersclaven« inspiriert sei)."
 keywords:
   - Amerika
   - Sklaverei
@@ -25329,7 +25421,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 23, S. 209–210
 editions:
-  - title: "[Wien]: 1769"
+  - title: "[Wien] 1769"
     url: https://books.google.com/books?id=jUN_gaVRdAYC&printsec=frontcover
   - title: "Zweyte verbesserte Auflage. Frankfurth und Leipzig 1771"
     url: https://books.google.com/books?id=Oq1brC-O5_IC&printsec=frontcover
@@ -25337,6 +25429,7 @@ editions:
     url: https://books.google.com/books?id=5FVoV1VvtC0C&pg=PA93
 comments:
   - "Autorschaft erschlossen via »Das gelehrte Teutschland«."
+  - "Obwohl Johann Gottlieb Schummel in der Vorrede seines Dreiakters [»Das Duell«](https://books.google.com/books?id=LH2sMpIlhqoC&printsec=frontcover) angibt, Jesters Einakter erst nach Fertigstellung seines Dreiakters gelesen zu haben, wird das schon von Zeitgenossen angezweifelt (vgl. Alexander Košenina: Nachwort. In: Johann Gottlieb Schummel: Das Duell. Hannover: Wehrhahn 2012, S. 67–72, hier S. 70–71)."
 cast:
   - name: Herr von Whigall,
     role: ein gewesener Offizier.
@@ -26476,6 +26569,8 @@ formalia:
 editions:
   - title: "Braunschweig: Plüchart 1817"
     url: https://books.google.com/books?id=tCNmB7Wl-1oC&printsec=frontcover
+  - title: "Neueste deutsche Schaubühne, oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele für das Jahr 1818. Zweyter Band. Augsburg und Leipzig: Jenisch und Stage [1818], S. 145–210"
+    url: https://books.google.com/books?id=4xtIAAAAcAAJ&pg=PA145
   - title: "August Klingemann's dramatische Werke. Erster Band. Wien: Grund 1818, S. 129–194"
     url: https://books.google.com/books?id=vQgPAAAAIAAJ&pg=PA129
   - title: "August Klingemann's dramatische Werke. Erster Band. Wien: Grund 1820, S. 129–194"
@@ -27194,7 +27289,8 @@ setting: Die Szene ist ein Vorhof mit einer Aussicht ins Meer.
 ---
 slug: koppe-aus-scherz-kann-ernst-werden
 author:
-  name: Koppe, J. C.
+  name: Koppe, Johann Christian
+  wikidata: Q1472079
 title: Aus Scherz kann Ernst werden
 subtitle: Ein Lustspiel in Einem Aufzuge
 numberOfScenes: 20
@@ -27207,6 +27303,9 @@ dictionaries:
 editions:
   - title: "Olla Potrida. Drittes Stück. Berlin: Wever 1780, S. 15–40"
     url: https://books.google.com/books?id=0BGGOdYNhKoC&pg=RA1-PA15
+keywords:
+  - Soldatenstück
+  - Eheanbahnung
 cast:
   - name: Meyer,
     role: ein reicher Kaufmann.
@@ -27226,7 +27325,7 @@ cast:
   - name: Schulz,
     role: von Meerfeldts Wachtmeister.
     gender: m
-  - name: Bartels
+  - name: Bartels,
     role: Meyers ältester Handlungsdiener.
     gender: m
   - name: Friedrich,
@@ -31252,7 +31351,9 @@ editions:
   - title: "Bayreuth: Lübeck 1770"
     url: https://books.google.com/books?id=WlJZAAAAcAAJ&printsec=frontcover
 comments:
-  - "Auch unter dem Titel »Zama, die junge Marokkanerin. Trauerspiel [!] in einem Aufzug« (Aufführung in Gotha 1776)."
+  - "Auch unter dem Titel »Zama, die junge Marokkanerin. Trauerspiel [!] in einem Aufzug« (Aufführung in Gotha 1776, vgl. Rudolf Schlösser: Vom Hamburger Nationaltheater zur Gothaer Hofbühne. 1767–1779. Hamburg und Leipzig: Voß 1895, [S. 79](https://archive.org/details/vomhamburgernat00schlgoog/page/n93/mode/2up))."
+  - "Auch mit dem Untertitel [»Ein Schauspiel«](https://books.google.de/books?id=DyAVJnaSKuQC&pg=PA109)."
+  - "Laut [Widmungsschrift](https://books.google.com/books?id=WlJZAAAAcAAJ&pg=PP3) vor dem Druck schon mehrmals aufgeführt."
 keywords:
   - Sklaverei
   - Christensklaven
@@ -31774,7 +31875,7 @@ author:
 title: L'Isle des Esclaves. Die Sklaven-Insel
 subtitle: Ein Lustspiel von einer Handlung
 numberOfScenes: 11
-premiered: 1747
+printed: 1747
 formalia:
   - Prosa
 basedOn:
@@ -32908,6 +33009,8 @@ dictionaries:
 editions:
   - title: "Carlsruhe: Macklot 1791"
     url: https://books.google.com/books?id=pP_0gOaLz4QC&printsec=frontcover
+comments:
+  - "1794 [ins Niederländische](https://books.google.com/books?id=4ChdAAAAcAAJ&printsec=frontcover) übersetzt."
 keywords:
   - Geld
 cast:
@@ -33105,6 +33208,8 @@ editions:
     url: https://books.google.com/books?id=XG8HAAAAQAAJ&pg=PA187
   - title: "Carlsruhe: Schmieder 1777, S. 157–219"
     url: https://books.google.com/books?id=SzBgAAAAcAAJ&pg=PA157
+  - title: "Lessing's Werke. Siebenter Band. Leipzig: Göschen 1867, S. 33–72"
+    url: https://books.google.de/books?id=2v3hAAAAMAAJ&pg=PA33
 comments:
   - "Lessings Quellen aufgezählt in: [Paul Albrecht: Leszing's Plagiate. Zweiter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 864–933](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081376&seite=394)."
   - "1766 aufgeführt unter dem Titel »Lust-Spiel des Herrn Leßing von einem Aufzuge, genannt: Die Juden«."
@@ -33231,6 +33336,8 @@ editions:
     url: https://books.google.com/books?id=FNlVAAAAcAAJ&pg=PA1
   - title: "Gotthold Ephraim Lessing's sämmtliche Schriften. Auf's Neue durchgesehen und vermehrt. Zweiter Band. Leipzig: Göschen 1853, S. 225–312"
     url: https://books.google.com/books?id=XUQ4AQAAIAAJ&pg=PA85
+  - title: "Lessing's Werke. Siebenter Band. Leipzig: Göschen 1867, S. 167–192"
+    url: https://books.google.de/books?id=2v3hAAAAMAAJ&pg=PA167
 comments:
   - "Kein Einakterhinweis im Druck, das Stück wird aber auf Theaterzetteln wiederholt als Einakter angekündigt und in der Forschung stets als Einakter bezeichnet."
   - Lessings letzter Einakter.
@@ -35908,7 +36015,7 @@ editions:
   - title: "Prag: Diesbach 1786"
     url: https://books.google.com/books?id=LzBJAAAAcAAJ&printsec=frontcover
 comments:
-  - "»Eine rührende Episode in der vortreflichen Geschichte der Inkas, das Schicksal des jungen Davila lieh' mir die erste Idee zu diesem Trauerspiel, womit ich die dramatische Bahn betrete« (in der [Anmerkung](https://books.google.com/books?id=LzBJAAAAcAAJ&pg=PA3) des Autors)."
+  - "Erster Dramenversuch des Autors: »Eine rührende Episode in der vortreflichen Geschichte der Inkas, das Schicksal des jungen Davila lieh' mir die erste Idee zu diesem Trauerspiel, womit ich die dramatische Bahn betrete« (in der [Anmerkung](https://books.google.com/books?id=LzBJAAAAcAAJ&pg=PA3) des Autors)."
 keywords:
   - Indianer
   - Schiffbruch
@@ -37243,6 +37350,7 @@ comments:
   - Auch unter dem Titel »Incle und Yariko. Trauerspiel« (Wien 1773).
   - Unter dem Titel »Yariko« erschien [1777 (anonym)](anonym-yariko) eine weitere – nicht identische – Bearbeitung des Stoffs.
   - 1807 von Alois Gleis zu einem Singspiel in einem Aufzug bearbeitet.
+  - "Besprechung in: Theaterchronick. Herausgegeben von Christian Heinrich Schmid. Gießen: Krieger 1772, [S. 216–225](https://books.google.de/books?id=otRVAAAAcAAJ&hl=de&pg=PA216)."
 keywords:
   - Sklaverei
 cast:
@@ -38038,6 +38146,50 @@ cast:
     gender: f
 setting: >-
   Sehr elegant möblirter Salon; eine Thür rechts führt nach Kronthal's Wohnung, eine gleiche links nach den Zimmern des Justizraths; Flurthür im Hintergrunde.
+---
+slug: platen-der-thurm-mit-sieben-pforten
+author:
+  name: Platen, August von
+  wikidata: Q62432
+title: Der Thurm mit sieben Pforten
+subtitle: Ein Lustspiel in Einem Akt
+numberOfScenes: 1
+created: 1825
+printed: 1828
+formalia:
+  - Blankvers
+dictionaries:
+  - name: corvey
+    pages: S. 299–300
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=297"
+editions:
+  - title: "Taschenbuch für Damen. Auf das Jahr 1828. Stuttgart und Tübingen: Cotta 1828, S. 273–302"
+    url: https://books.google.com/books?id=zsNiAAAAcAAJ&pg=PA273
+  - title: "Gesammelte Werke des Grafen August von Platen. In Einem Band. Stuttgart und Tübingen: Cotta 1839, S. 219–225"
+    url: https://books.google.com/books?id=O27Q5Y4gQd4C&pg=PA219
+  - title: "Gesammelte Werke des Grafen August von Platen in fünf Bänden. Dritter Band. Stuttgart und Tübingen: Cotta 1847, S. 223–248"
+    url: https://books.google.com/books?id=oJ5IAQAAMAAJ&pg=PA223
+comments:
+  - "»Platens Quelle war das mittelalterliche Volksbuch ›Die sieben Meister‹ (7. Beispiel von der Kaiserin im Turm).« (Corvey)"
+cast:
+  - name: Der Dei von Tunis.
+    gender: m
+  - name: Isidor,
+    role: ein neapolitanischer Ritter.
+    gender: m
+  - name: Girolamo,
+    role: dessen Knappe.
+    gender: m
+  - name: Amurad,
+    role: ein Mohr.
+    gender: m
+  - name: Rosalba,
+    role: Gefangene des Dei's.
+    gender: f
+setting: >-
+  Seehafen von Tunis mit mehreren Schiffen. Im Vordergrunde ein Garten mit einem Pavillon. Unweit davon ein alter Thurm.
+location:
+  wikidataId: Q3572
 ---
 slug: platen-berengar
 author:
@@ -38886,6 +39038,60 @@ setting: >-
   Die Handlung geht zu Maynz in einem angesehenen Gasthof vor.
 location:
   wikidataId: Q1720
+---
+slug: reil-der-erste-may-oder-der-reiche-poet
+author:
+  name: Reil, Johann Anton Friedrich
+  wikidata: Q1692389
+title: Der erste May oder der reiche Poet
+subtitle: Ein Frühlingsgemählde nach wahren Vorfällen entworfen, in einem Aufzuge
+numberOfScenes: 16
+printed: 1816
+premiered: 1816-05-05
+formalia:
+  - Verse
+editions:
+  - title: "Wien: Strauß 1816"
+    url: https://books.google.com/books?id=eZkyAQAAMAAJ&printsec=frontcover
+comments:
+  - Laut Vorwort des Autors ein heiterer Gegenentwurf zu Müllners Einakter [»Der neun und zwanzigste Februar«](muellner-der-neun-und-zwanzigste-februar) bzw. der alternativen Version »Der Wahn«.
+  - Das Motto vor dem Drama ist ein Auszug aus Kotzebues Einakter [»Der arme Poet«](kotzebue-der-arme-poet).
+  - "Besprechung in: Besondere Beylage zur Wiener-Moden-Zeitung 19. Sonnabend, den 11. May 1816, [S. 188](https://books.google.com/books?id=ScWfNHbfbW4C&hl&pg=PA188)."
+ids:
+  dracor: ger000527
+  wikidata: Q105605657
+cast:
+  - name: Serenus May,
+    role: "Poet und Herausgeber der Monathschrift: Gemüth u. Phantasie."
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - group:
+      - name: Philippine
+        gender: f
+      - name: Fritz
+        gender: m
+      - name: Helmi
+        gender: m
+      - name: Bebi
+        gender: f
+      - name: Fanny
+        gender: f
+    role: ihre Kinder.
+  - name: Heiter,
+    role: Philippines Bräutigam.
+    gender: m
+  - name: Ein Reisender.
+    gender: m
+  - name: Ein Verarmter.
+    gender: m
+  - name: Helmi,
+    role: Spielcamerad des Helmi May.
+    gender: m
+  - name: Ein Handlungsdiener.
+    gender: m
+setting: >-
+  Die Handlung geht in einem kleinen Landhäuschen vor, unfern dem Stadtthor. (Es ist Morgen. Zimmer in May's Wohnung, mit einer Mittelthür und zwey Seitenthüren; jede Thür ist mit frischen Blumenkränzen behangen.)
 ---
 slug: reiner-die-heirath-durch-eine-comoedie
 author:
@@ -43187,7 +43393,7 @@ author:
   wikidata: Q328094
 title: Die zwo Amaryllen
 subtitle: Ein Schäferspiel in einem Aufzuge
-numberOfScenes: 6
+numberOfScenes: 7
 printed: 1774
 formalia:
   - Prosa
@@ -43796,6 +44002,7 @@ editions:
     url: https://books.google.com/books?id=6XMyAQAAMAAJ&pg=PP5
 comments:
   - "Ausführliche Analyse des Einakters in: Johannes Birgfeld: Medienrevolution und gesellschaftlicher Wandel. Das Unterhaltungstheater als Reflexionsmedium von Modernisierungsprozessen. In: Das Unterhaltungsstück um 1800. Literaturhistorische Konfigurationen – Signaturen der Moderne. Zur Geschichte des Theaters als Reflexionsmedium von Gesellschaft, Politik und Ästhetik. Hrsg. von Johannes Birgfeld und Claude D. Conter. [Laatzen]: Wehrhahn 2007, S. 81–117."
+  - "Sehr kurze Besprechung in: Allgemeine deutsche Bibliothek. Des neun und neunzigsten Bandes erstes Stück. Berlin und Stettin: Nicolai 1791, [S. 123](https://books.google.com/books?id=KSiC4e1Aze4C&pg=PA123)."
 cast:
   - name: Wiesenberg.
     gender: m
@@ -44313,6 +44520,8 @@ dictionaries:
 editions:
   - title: "Lustspiele ohne Heyrathen. von dem Verfasser der Empfindsamen Reisen durch Deutschland. Wittenberg und Zerbst: Zimmermann 1773, S. 159–190"
     url: https://books.google.com/books?id=jiNVAAAAcAAJ&pg=PA159
+comments:
+  - "Von Goethe besprochen in: Frankfurter gelehrte Anzeigen. Nro. V. Den 15. Januar 1773, [S. 39–40](https://doi.org/10.11588/diglit.27330#0043)."
 cast:
   - name: Dumpf,
     role: ein Würzkrämer.
@@ -44385,6 +44594,8 @@ dictionaries:
 editions:
   - title: "Lustspiele ohne Heyrathen. von dem Verfasser der Empfindsamen Reisen durch Deutschland. Wittenberg und Zerbst: Zimmermann 1773, S. 5–64"
     url: https://books.google.com/books?id=jiNVAAAAcAAJ&pg=PA5
+comments:
+  - "Von Goethe besprochen in: Frankfurter gelehrte Anzeigen. Nro. V. Den 15. Januar 1773, [S. 39–40](https://doi.org/10.11588/diglit.27330#0043)."
 cast:
   - name: Der Herr von Taubenhayn,
     role: ein Landedelmann.
@@ -44392,7 +44603,7 @@ cast:
   - name: Die Frau von Taubenhayn,
     role: seine Gemahlin.
     gender: f
-  - name: Johann
+  - name: Johann,
     role: Bedienter des Herrn von Taubenhayn.
     gender: m
   - name: Lottchen,
@@ -45347,7 +45558,7 @@ title: Die Gartenmauer
 subtitle: Ein Lustspiel in einem Akte
 numberOfScenes: 25
 printed: 1805
-premiered: 1808-12-05
+premiered: 1805-10-26
 formalia:
   - Prosa
 basedOn:
@@ -45700,6 +45911,8 @@ formalia:
 editions:
   - title: "Neue Sammlung Deutscher Schauspiele. Dritten Jahrgangs Zehnter Band. Grätz 1798"
     url: https://books.google.com/books?id=7mJlAAAAcAAJ&pg=RA3-PA1
+  - title: "Lustspiele von Freyherrn von Steigentesch. Wien und Triest: Geistinger 1808, S. 1–52"
+    url: https://books.google.com/books?id=aURhAAAAcAAJ&pg=PA1
 comments:
   - "Besprechung der Wiener Aufführung in: Kritisches Journal der K. K. Hof- und priv. Vorstadttheater. Ersten Bandes erstes Heft 1799, [S. 32–37](https://books.google.com/books?id=90w_gkLCMJgC&pg=RA1-PA32)."
 cast:
@@ -47005,6 +47218,7 @@ editions:
 comments:
   - Dritte Fortsetzung des Einakters [»Die beiden Billets«](heyne-die-beiden-billets) (Heyne 1783), nach den Fortsetzungen [»Der Stammbaum«](heyne-der-stammbaum) (Heyne 1788) und [»Der Bürgergeneral«](goethe-der-buergergeneral) (Goethe 1793).
   - »Das Bauerngut« wurde unter dem Namen Heynes [!] mehrfach aufgeführt.
+  - Als Autor wird (wohl fälschlicherweise) mehrfach auch Georg Ludwig Peter Sievers genannt, der unter dem Titel [»Die Schatzgräber. Posse in einem Aufzuge«](sievers-die-schatzgraeber) (1802) ebenso eine Fortsetzung zu »Die beiden Billets« schrieb.
 cast:
   - name: Hauptmann von Lilienstern.
     gender: m
@@ -47572,8 +47786,8 @@ premiered: 1819-12-12
 formalia:
   - Prosa
 editions:
-  - title: "Prag: Stephani und Schlosser 1828"
-    url: https://books.google.com/books?id=EtxJAAAAcAAJ&printsec=frontcover
+  - title: "Neues deutsches Original-Theater. Herausgegeben von S. W. Schießler. Zweites Bändchen. Prag: Buchler, Stephanie und Schlosser 1828, S. 55–83"
+    url: https://books.google.com/books?id=BbxKAQAAMAAJ&pg=RA1-PA55
 keywords:
   - Eheanbahnung
 cast:
