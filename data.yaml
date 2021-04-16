@@ -12211,6 +12211,51 @@ setting: >-
 location:
   wikidataId: Q90
 ---
+slug: bilderbeck-das-manuscript
+author:
+  name: Bilderbeck, Ludwig Benedict Franz von
+title: Das Manuscript
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 22
+printed: 1801
+formalia:
+  - Prosa
+editions:
+  - title: "Schauspiele von C. F. Bilderbeck. Zweiter Band. Leipzig: Voß 1801, S. 213–283"
+    url: https://books.google.com/books?id=wcpIAAAAcAAJ&pg=PA213
+cast:
+  - name: Storr,
+    role: Geheimer Rath.
+    gender: m
+  - name: Roth,
+    role: Commerzienrath.
+    gender: m
+  - name: Braun,
+    role: Hofgerichtsrath.
+    gender: m
+  - name: von Bombenberg,
+    role: holländischer Hauptmann, reduzirt.
+    gender: m
+  - name: Marie Saalfeld,
+    role: des Geheimen Raths Nichte.
+    gender: f
+  - name: Winzer,
+    role: ein junger Gelehrter.
+    gender: m
+  - name: Hofräthin Hyacinte,
+    role: Wittwe.
+    gender: f
+  - group:
+      - name: Daniel,
+        gender: m
+      - name: Friedrich,
+        gender: m
+      - name: Johann,
+        gender: m
+    role: des Geh. Raths Bediente.
+setting: >-
+  Eine geräumige Studierstube – Büchersammlung – Gemälde – Kupferstiche – Landkarten – physikalische Instrumente – Statuen – Büsten – ein großer runder Tisch, worauf auf Schreibmaterialien liegen – das ganze Ameublement verräth Reichthum.
+---
 slug: bilderbeck-barogo
 author:
   name: Bilderbeck, Ludwig Benedict Franz von
@@ -33154,6 +33199,35 @@ cast:
     role: Bedienter des Doktors.
     gender: m
 ---
+slug: leo-der-eheteufel
+author:
+  name: Leo, Friedrich
+title: Der Eheteufel
+subtitle: Ein Lustspiel in Einem Aufzuge
+numberOfScenes: 9
+printed: 1799
+formalia:
+  - Prosa
+editions:
+  - title: "Hamburg: Hoffmann 1799"
+    url: https://books.google.com/books?id=G0yHpeIOksEC&printsec=frontcover
+cast:
+  - name: Rath Wahrmann.
+    gender: m
+  - name: Karoline,
+    role: seine zweite Frau.
+    gender: f
+  - name: Vier Kinder von der ersten Ehe, 3 bis 9 Jahr alt.
+    isGroup: true
+    gender: u
+  - name: Hautpmann Morgenstern.
+    gender: m
+  - name: Tanzmeister Duline.
+    gender: m
+  - name: Catharina,
+    role: eine alte Magd.
+    gender: f
+---
 slug: leo-schulden-ohne-geld-zu-bezahlen
 author:
   name: Leo, Friedrich
@@ -39328,6 +39402,183 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht in einem kleinen Landhäuschen vor, unfern dem Stadtthor. (Es ist Morgen. Zimmer in May's Wohnung, mit einer Mittelthür und zwey Seitenthüren; jede Thür ist mit frischen Blumenkränzen behangen.)
+---
+slug: reil-der-nothverkauf
+author:
+  name: Reil, Johann Anton Friedrich
+  wikidata: Q1692389
+title: Der Nothverkauf
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1810
+formalia:
+  - Prosa
+editions:
+  - title: "[Augsburg: Bolling] 1810"
+    url: https://books.google.com/books?id=GSg7AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Bammer,
+    role: ein Bildhauer.
+    gender: m
+  - name: Luise,
+    role: seine Tochter.
+    gender: f
+  - name: Ein dicker Baron.
+    gender: m
+  - name: Ein Domherr.
+    gender: m
+  - name: Eine Madame mit einem Hund.
+    gender: f
+  - name: Allgut,
+    role: ein junger Mann.
+    gender: m
+  - name: Veit Fest,
+    role: ein alter Invalide, ehemals Kürassier.
+    gender: m
+setting: >-
+  Die Handlung ist in einer Vorstadt von Wien. (Eine Strassenseite von kleinen Häusern. Morgen. Veit in alter Uniform, kömmt aus einem Häuschen, geht zu seines Nachbars Hausthüre, bleibt unentschlossen da stehen, sieht ein Paarmal hinein, geht wieder zurück, setzt sich auf den Stein vor seiner Hausthüre, und holt seine Rauchinstrumente hervor. Sehr trocken, alt, oft bedächtlich, und wo er Recht zu haben glaubt, herzlich, auch feurig.)
+location:
+  wikidataId: Q1741
+---
+slug: reil-der-theater-dichter-nach-der-mode
+author:
+  name: Reil, Johann Anton Friedrich
+  wikidata: Q1692389
+title: Der Theater-Dichter nach der Mode
+subtitle: Ein Lustspielchen in einem Aufzuge. Für irgend ein Taschenbuch dramatischer Spiele
+numberOfScenes: 9
+printed: 1816
+formalia:
+  - Prosa
+editions:
+  - title: "Wiener Hof-Theater Taschenbuch auf das Jahr 1816. 13ter Jahrgang. Wien: Geistinger 1816, S. 133–176"
+    url: https://books.google.com/books?id=3rNmAAAAcAAJ&pg=PA133
+keywords:
+  - Theaterbetrieb
+cast:
+  - name: Der Jüngling.
+    gender: m
+  - name: Das Mädchen.
+    gender: f
+---
+slug: reil-der-verstellte-postmeister
+author:
+  name: Reil, Johann Anton Friedrich
+  wikidata: Q1692389
+title: Der verstellte Postmeister
+subtitle: Ein Lustpiel in einem Akt
+numberOfScenes: 20
+printed: 1808
+premiered: 1806-04-28
+formalia:
+  - Prosa
+editions:
+  - title: "[Augsburg: Bolling] 1808"
+    url: https://books.google.com/books?id=PC07AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Major Rommersdorf,
+    role: ausser Diensten.
+    gender: m
+  - name: Klementine von Maring,
+    role: sein Mündel.
+    gender: m
+  - name: Fräulein von Berlau,
+    role: ihre Tante.
+    gender: f
+  - name: Lieutenant Murrach,
+    role: Neffe des Majors.
+    gender: m
+  - name: Wascher,
+    role: Verwalter auf dem Gute des Majors.
+    gender: m
+  - name: Niklas,
+    role: Amtsbothe.
+    gender: m
+setting: >-
+  Die Handlung geschieht in dem Landschlosse des Majors.
+---
+slug: reil-die-beyden-hundertjaehrigen-alten-oder-wie-soll-man-leben-um-lang-zu-leben
+author:
+  name: Reil, Johann Anton Friedrich
+  wikidata: Q1692389
+title: Die beyden hundertjährigen Alten, oder Wie soll man leben, um lang zu leben
+subtitle: Ein Lustspiel in einem Akt
+numberOfScenes: 14
+printed: 1808
+formalia:
+  - Prosa
+editions:
+  - title: "Neueste deutsche Schaubühne für 1808. Sechster Band. Augsburg: [Bolling] 1808"
+    url: https://books.google.com/books?id=Iy07AAAAcAAJ&pg=PA1
+cast:
+  - name: Hollwell,
+    role: ein reicher Mann.
+    gender: m
+  - name: Christine,
+    role: ein von ihm auferzogenes Mädchen.
+    gender: f
+  - name: Hellauf,
+    role: sein Tischfreund.
+    gender: m
+  - name: Philipp,
+    role: sein Diener.
+    gender: m
+  - name: Georg,
+    role: ein Reitjunge.
+    gender: m
+  - group:
+      - name: Steffen,
+        gender: m
+      - name: Muffel,
+        gender: m
+    role: die beyden Alten.
+setting: >-
+  Die Handlung geschieht am Morgen in Hollwells Behausung und Zimmer.
+---
+slug: reil-die-debuetrolle
+author:
+  name: Reil, Johann Anton Friedrich
+  wikidata: Q1692389
+title: Die Debütrolle
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 10
+printed: 1809
+formalia:
+  - Prosa
+editions:
+  - title: "[Augsburg: Bolling] 1809"
+    url: https://books.google.com/books?id=dCc7AAAAcAAJ&printsec=frontcover
+keywords:
+  - Theaterbetrieb
+  - Gesellschaftstheater
+  - Liebhabertheater
+  - Vater-Tochter-Konflikt
+cast:
+  - name: Herr von Wollersdorf,
+    role: gewesener Geheimerrath, nun Direktor eines Liebhabertheaters.
+    gender: m
+  - name: Herr Rath,
+    role: sein Theaterdichter.
+    gender: m
+  - name: Qual,
+    role: sein Hausverwalter.
+    gender: m
+  - name: Frau Borner,
+    role: eine Schauspielerinn.
+    gender: f
+  - group:
+      - name: Lottchen
+        gender: f
+      - name: Franz
+        gender: m
+      - name: Karl
+        gender: m
+    role: ihre Kinder.
+  - name: Johann,
+    role: Diener bei Herr von Wollersdorf.
+    gender: m
+setting: >-
+  Die Handlung geschieht in einem kleinen Städtchen in der Behaußung des Herrn Wollersdorf.
 ---
 slug: reiner-die-heirath-durch-eine-comoedie
 author:
@@ -45905,6 +46156,43 @@ cast:
 setting: >-
   Ein finsterer Wald. Man sieht unterschiedliche Gänge, die mit Bäumen dicht bewachsen sind. An der Spitze des Theaters sieht man einen halb zusammen gefallenen Brunnen.
 ---
+slug: spengel-die-diaet-oder-mit-woelfen-muss-man-heulen
+author:
+  name: Spengel, Heinrich Ludwig
+title: Die Diät oder mit Wölfen muß man heulen
+subtitle: Ein Lustspiel in einem Aufzuge, frei aus dem Französischen übersetzt
+numberOfScenes: 16
+printed: 1813
+formalia:
+  - Prosa
+editions:
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Achter Band. Augsburg und Leipzig: Stage [1813], S. 1–36"
+    url: https://books.google.com/books?id=-_xHAAAAcAAJ&pg=PA1
+cast:
+  - name: Herr von Mattenfeld.
+    gender: m
+  - name: Frau von Dolling,
+    role: eine junge Wittwe, Nichte des Herrn von Mattenfeld.
+    gender: f
+  - name: Lieutenant von Pahlen.
+    gender: m
+  - name: Frau Bilsen,
+    role: Haushälterinn bei Herrn v. Mattenfeld.
+    gender: f
+  - name: Doktor Flatt.
+    gender: m
+  - group:
+      - name: Friedrich.
+        gender: m
+      - name: Johann.
+        gender: m
+    role: Bediente des Herrn von Mattenfeld.
+  - name: Philipp,
+    role: Bedienter des Herrn von Pahlen.
+    gender: m
+setting: >-
+  Die Handlung geht bei Herrn Mattenfeld in einem Saale vor.
+---
 slug: spiess-der-schauspieler-von-stettin
 author:
   name: Spiess, L.
@@ -50643,6 +50931,35 @@ cast:
     gender: f
 setting: Der Schauplatz ist auf einem obern Saale in Herrn Gutmanns Hause.
 ---
+slug: weissenthurn-alles-aus-freundschaft
+author:
+  name: Weißenthurn, Johanna Franul von
+  wikidata: Q1696932
+title: Alles aus Freundschaft
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1848
+premiered: 1839-04-10
+formalia:
+  - Prosa
+editions:
+  - title: "Neueste Schauspiele von Johanna Franul v. Weissenthurn. Fünfzehnter Band oder neue Folge siebenter Band. Wien: Wallishausser 1848, S. 245–288"
+    url: https://books.google.com/books?id=oeJWAAAAYAAJ&pg=PA245
+cast:
+  - name: Herr von Elfenstein,
+    role: Gutsbesitzer.
+    gender: m
+  - name: Therese von Blauen,
+    role: seine Nichte.
+    gender: f
+  - name: Baron Reinfeld.
+    gender: m
+  - name: Jakob,
+    role: Bedienter.
+    gender: m
+setting: >-
+  Das Stück spielt in dem Hause des Herrn v. Elfenstein, in einer großen Stadt.
+---
 slug: weissenthurn-das-missverstaendniss
 author:
   name: Weißenthurn, Johanna Franul von
@@ -50835,7 +51152,7 @@ premiered: 1842-03-03
 formalia:
   - Prosa
 editions:
-  - title: "Neuste Schauspiele von Johanna Franul v. Weissenthurn. Fünfzehnter Band oder neue Folge siebenter Band. Wien: Wallishausser 1848, S. 153–184"
+  - title: "Neueste Schauspiele von Johanna Franul v. Weissenthurn. Fünfzehnter Band oder neue Folge siebenter Band. Wien: Wallishausser 1848, S. 153–184"
     url: https://books.google.com/books?id=oeJWAAAAYAAJ&pg=PA153
 cast:
   - name: Walter.
@@ -50850,6 +51167,39 @@ setting: >-
   Eine Alpengegend auf einem Hügel des Rigi, im Hintergrunde schneebedeckte Alpen, in der Schlucht links ein Wohngebäude nach Schweizer-Art, das Wohlhabenheit verräth. Seitwärts vor dem Hause ein Tisch, auf beiden Seiten Bänke. Es ist Morgen. – Man hört aus der Ferne den Kuhreigen und das Glöcklein einer Kapelle.
 location:
   wikidataId: Q15291
+---
+slug: weissenthurn-ein-mann-hilft-dem-andern
+author:
+  name: Weißenthurn, Johanna Franul von
+  wikidata: Q1696932
+title: Ein Mann hilft dem andern!
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1823
+premiered: 1822-07-27
+formalia:
+  - Prosa
+editions:
+  - title: "Weimarisches dramatisches Taschenbuch für größere und kleinere Bühnen. Herausgegeben von Theodor Hell. Erster Jahrgang. Weimar: Hofmann 1823"
+    url: https://books.google.com/books?id=oicqWAzQgiAC&pg=RA3-PA1
+  - title: "Neueste Schauspiele von Johanna Franul v. Weissenthurn. Fünfzehnter Band oder neue Folge siebenter Band. Wien: Wallishausser 1848, S. 185–244"
+    url: https://books.google.com/books?id=oeJWAAAAYAAJ&pg=PA185
+cast:
+  - name: Doctor Berg.
+    gender: m
+  - name: Mayfeld,
+    role: sein Neffe, Wechsler.
+    gender: m
+  - name: Julie,
+    role: Mayfelds Gattin.
+    gender: f
+  - name: Doktor Falkner.
+    gender: m
+  - name: Jakob,
+    role: Bedienter bei Doktor Berg.
+    gender: m
+setting: >-
+  Das Stück spielt in dem Hause des Doktor Berg.
 ---
 slug: welisch-philint
 author:
