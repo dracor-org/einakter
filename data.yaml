@@ -10742,6 +10742,43 @@ cast:
 setting: >-
   Freier Platz vor einem schönen Landhause, linker Hand hohe Bäume und Gebüsch.
 ---
+slug: bartholmae-der-schneider-von-samarkand
+author:
+  name: Bartholmä, Johann Georg
+  wikidata: Q60844998
+title: Der Schneider von Samarkand
+subtitle: Dramatisches Spiel in Einem Akte
+numberOfScenes: 14
+printed: 1829
+formalia:
+  - Verse
+editions:
+  - title: "Zwei dramatische Versuche von Bartholmä. Nürnberg: Bauer und Raspe 1829, S. 1–54"
+    url: https://books.google.com/books?id=EF06AAAAcAAJ&pg=PA1
+cast:
+  - name: Omar,
+    role: Prinz von Samarkand.
+    gender: m
+  - name: A-issa,
+    role: ein Prophet.
+    gender: m
+  - name: Hann,
+    role: Schneidermeister zu Samarkand.
+    gender: m
+  - name: Gulpenhee,
+    role: seine Frau.
+    gender: f
+  - name: Abdallah,
+    role: Günstling des Prinzen.
+    gender: m
+  - name: Sclaven. Musiker. Asas.
+    isGroup: true
+    gender: u
+setting: >-
+  Begräbnißplatz von Samarkand. Es ist Nacht.
+location:
+  wikidataId: Q5753
+---
 slug: bartsch-die-macht-der-toene
 author:
   name: Bartsch, Leopold
@@ -19067,6 +19104,41 @@ cast:
 setting: >-
   Der Ort der Handlung ist in dem, an einem Walde gelegenen, Hause des Oberförsters, vor welchem eine Landstraße vorbeiführt. Die Handlung selbst an einem Sonntagsmorgen. (Zimmer im Hause des Oberförsters, mit pracktikabler Mittel- und zwei Seitenthüren, wovon die zur Rechten zur Stube des Oberförsters, die zur Linken nach dem Hofe führt. Auf jeder Seite ein Fenster.)
 ---
+slug: freisleben-der-weihnachtstag
+author:
+  name: Freisleben, Ludwig Georg Franz
+  wikidata: Q55843847
+title: Der Weihnachtstag
+subtitle: Drama in Einem Aufzuge. Bearbeitet nach einer Schreckensscene aus der wirklichen Welt
+numberOfScenes: 6
+printed: 1827
+formalia:
+  - Blankvers
+dictionaries:
+  - name: corvey
+    pages: S. 92
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=90"
+editions:
+  - title: "Schauder-Gemählde aus der wirklichen Welt von L. G. Franz Freisleben. Bernburg: Grüning 1827, S. 103–118"
+    url: https://books.google.com/books?id=vchIAAAAcAAJ&pg=PA103
+keywords:
+  - Schicksalstragödie
+  - Mord
+cast:
+  - name: Geheimerath Sternow.
+    gender: m
+  - name: Eduard,
+    role: dessen Sohn, Rath.
+    gender: m
+  - name: Louise,
+    role: dessen Tochter.
+    gender: f
+  - name: Lieutenant,
+    role: Graf von Hornburg.
+    gender: m
+setting: >-
+  Schreibzimmer des Geheimeraths. Auf dem Tische, neben mehreren Akten, ein Armleuchter mit zwei brennenden Lichtern. Es ist Morgens fünf Uhr.
+---
 slug: freytag-der-gelehrte
 author:
   name: Freytag, Gustav
@@ -20380,7 +20452,7 @@ editions:
   - title: "Schauspiele von Friedrich Wilhelm Gotter. Leipzig: Göschen 1795, S. 7–40"
     url: https://books.google.com/books?id=rEn2DwAAQBAJ&pg=PA7
 comments:
-  - "Hinweis in der [Vorrede](https://books.google.com/books?id=rEn2DwAAQBAJ&lpg=PA7&pg=PA5): Einakter geeignet für ein Liebhabertheater."
+  - "Hinweis in der [Vorrede](https://books.google.com/books?id=rEn2DwAAQBAJ&pg=PA5): Einakter geeignet für ein Liebhabertheater."
 keywords:
   - Rolle der Frau
   - Mord
@@ -23225,7 +23297,7 @@ editions:
     url: https://books.google.com/books?id=X21VAAAAcAAJ&printsec=frontcover
 comments:
   - "Parodie auf Goethes »Die Leiden des jungen Werthers«."
-  - "Besprechung in: Julius W. Braun: Goethe im Urtheile seiner Zeitgenossen. Berlin: Luckhardt 1883, [S. 254–258](https://books.google.de/books?id=dZdBAAAAIAAJ&ots=DvbqQPnmCh&=de&pg=PA254)."
+  - "Besprechung in: Julius W. Braun: Goethe im Urtheile seiner Zeitgenossen. Berlin: Luckhardt 1883, [S. 254–258](https://books.google.com/books?id=dZdBAAAAIAAJ&ots=DvbqQPnmCh&=de&pg=PA254)."
 cast:
   - name: Lorenz Konau,
     role: ein Buchbinder und Bürgerworthalter.
@@ -25887,6 +25959,94 @@ cast:
     role: Walters Joquei.
     gender: m
 setting: Die Scene ist auf dem Landgute des Marquis.
+---
+slug: kannegiesser-adrast
+author:
+  name: Kannegießer, Karl Ludwig
+  wikidata: Q90900
+title: Adrast
+subtitle: Ein Trauerspiel in einem Aufzuge
+numberOfScenes: 1
+printed: 1810
+formalia:
+  - blockgereimte Verse
+editions:
+  - title: "Dramatische Spiele. Herausgegeben von Carl Ludwig Kannegiesser, Doctor der Philosophie. Erstes Bändchen. Berlin und Leipzig: Salfeld 1810, S. 173–250"
+    url: https://books.google.com/books?id=YU1yoZEZ4ucC&hl&pg=PA173
+comments:
+  - "Basiert laut [Vorwort](https://books.google.com/books?id=YU1yoZEZ4ucC&pg=PP8) auf »eine[r] Erzählung Herodots«."
+  - "Gilt als eines der ersten Schicksalsdramen (vgl. [NDB](https://www.deutsche-biographie.de/pnd116044640.html#ndbcontent))."
+keywords:
+  - Schicksalstragödie
+cast:
+  - name: Crösus.
+    gender: m
+  - name: Attys.
+    gender: m
+  - name: Monime.
+    gender: f
+  - name: Adrast.
+    gender: m
+  - name: Sprecher der Mysier.
+    gender: m
+  - name: Boten.
+    isGroup: true
+    gender: m
+  - name: Mysier und Lydier.
+    isGroup: true
+    gender: u
+setting: >-
+  Prachthalle im Pallaste des Crösus. Vermählungsfest des Attys und der Monime. Im Vordergrunde Crösus zwischen den Vermählten an einem mit Speisen und Wein besetzten Tische. Im Hintergrunde mehrere Tische, an welchen die Lydier sitzten. Musik. Während des Gesanges tritt Adrast ein.
+---
+slug: kannegiesser-venus-zu-ross-oder-der-gesattelte-paedagog
+author:
+  name: Kannegießer, Karl Ludwig
+  wikidata: Q90900
+title: Venus zu Roß oder der gesattelte Pädagog
+subtitle: Ein Spiel in einem Aufzuge in Versen
+numberOfScenes: 7
+printed: 1810
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Spiele. Herausgegeben von Carl Ludwig Kannegiesser, Doctor der Philosophie. Erstes Bändchen. Berlin und Leipzig: Salfeld 1810, S. 51–97"
+    url: https://books.google.com/books?id=YU1yoZEZ4ucC&pg=PA51
+comments:
+  - "Basiert laut [Vorwort](https://books.google.com/books?id=YU1yoZEZ4ucC&pg=PP8) auf dem »Lied von Aristoteles aus le Grands Erzählungen«."
+cast:
+  - name: Prinz.
+    gender: m
+  - name: Prinzessin.
+    gender: f
+  - name: Pädagog.
+    gender: m
+setting: >-
+  Scene. Im Freien, unter Bäumen.
+---
+slug: kannegiesser-verliebter-irrthum
+author:
+  name: Kannegießer, Karl Ludwig
+  wikidata: Q90900
+title: Verliebter Irrthum
+subtitle: Ein Spiel in einem Aufzuge in Versen
+numberOfScenes: 12
+printed: 1810
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Spiele. Herausgegeben von Carl Ludwig Kannegiesser, Doctor der Philosophie. Erstes Bändchen. Berlin und Leipzig: Salfeld 1810, S. 1–50"
+    url: https://books.google.com/books?id=YU1yoZEZ4ucC&pg=PA1
+comments:
+  - "Basiert laut [Vorwort](https://books.google.com/books?id=YU1yoZEZ4ucC&pg=PP8) auf der »Geschichte der Margot aus Thümmels Reisen in die mittäglichen Provinzen von Frankreich«."
+cast:
+  - name: Der Graf.
+    gender: m
+  - name: Adolph.
+    gender: m
+  - name: Marie.
+    gender: f
+setting: >-
+  Scene. Im Freien.
 ---
 slug: karnowitz-merlin-ein-dragoner
 author:
@@ -31352,7 +31512,7 @@ editions:
     url: https://books.google.com/books?id=WlJZAAAAcAAJ&printsec=frontcover
 comments:
   - "Auch unter dem Titel »Zama, die junge Marokkanerin. Trauerspiel [!] in einem Aufzug« (Aufführung in Gotha 1776, vgl. Rudolf Schlösser: Vom Hamburger Nationaltheater zur Gothaer Hofbühne. 1767–1779. Hamburg und Leipzig: Voß 1895, [S. 79](https://archive.org/details/vomhamburgernat00schlgoog/page/n93/mode/2up))."
-  - "Auch mit dem Untertitel [»Ein Schauspiel«](https://books.google.de/books?id=DyAVJnaSKuQC&pg=PA109)."
+  - "Auch mit dem Untertitel [»Ein Schauspiel«](https://books.google.com/books?id=DyAVJnaSKuQC&pg=PA109)."
   - "Laut [Widmungsschrift](https://books.google.com/books?id=WlJZAAAAcAAJ&pg=PP3) vor dem Druck schon mehrmals aufgeführt."
 keywords:
   - Sklaverei
@@ -33209,7 +33369,7 @@ editions:
   - title: "Carlsruhe: Schmieder 1777, S. 157–219"
     url: https://books.google.com/books?id=SzBgAAAAcAAJ&pg=PA157
   - title: "Lessing's Werke. Siebenter Band. Leipzig: Göschen 1867, S. 33–72"
-    url: https://books.google.de/books?id=2v3hAAAAMAAJ&pg=PA33
+    url: https://books.google.com/books?id=2v3hAAAAMAAJ&pg=PA33
 comments:
   - "Lessings Quellen aufgezählt in: [Paul Albrecht: Leszing's Plagiate. Zweiter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 864–933](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081376&seite=394)."
   - "1766 aufgeführt unter dem Titel »Lust-Spiel des Herrn Leßing von einem Aufzuge, genannt: Die Juden«."
@@ -33337,7 +33497,7 @@ editions:
   - title: "Gotthold Ephraim Lessing's sämmtliche Schriften. Auf's Neue durchgesehen und vermehrt. Zweiter Band. Leipzig: Göschen 1853, S. 225–312"
     url: https://books.google.com/books?id=XUQ4AQAAIAAJ&pg=PA85
   - title: "Lessing's Werke. Siebenter Band. Leipzig: Göschen 1867, S. 167–192"
-    url: https://books.google.de/books?id=2v3hAAAAMAAJ&pg=PA167
+    url: https://books.google.com/books?id=2v3hAAAAMAAJ&pg=PA167
 comments:
   - "Kein Einakterhinweis im Druck, das Stück wird aber auf Theaterzetteln wiederholt als Einakter angekündigt und in der Forschung stets als Einakter bezeichnet."
   - Lessings letzter Einakter.
@@ -36662,7 +36822,7 @@ editions:
     url: https://books.google.com/books?id=b3hRxQEACAAJ&pg=PP17
 comments:
   - Nach dem Muster von Werners Schicksalstragödie [»Der vierundzwanzigste Februar. Eine Tragödie in einem Akt«](werner-der-vierundzwanzigste-februar).
-  - In Wien von Nikolaus Heurteur (1781–1844) zum Drama »Wahn« mit gutem Ausgang umgearbeitet und 1815 aufgeführt. Von Müllner überarbeitet und als »Der Wahn« 1818 gedruckt.
+  - "In Wien ohne Wissen Müllners vom Hofschauspieler Nikolaus Heurteur (1781–1844) zum Drama »Der Wahn« (laut Müllner: »Wahn und Drama«) mit gutem Ausgang umgearbeitet und am 6. April 1815 am Burgtheater aufgeführt. Von Müllner daraufhin selbst überarbeitet, in dieser Version ebenfalls unter dem Titel [»Der Wahn«](muellner-der-wahn) 1816 erstmals aufgeführt und 1818 gedruckt."
   - "Parodie des Stücks: [»Eumenides Düster« (1819)](richter-der-eliastag)."
 keywords:
   - Schicksalstragödie
@@ -36683,6 +36843,45 @@ cast:
     gender: m
 setting: >-
   Das Stück spielt im Waldhause des Försters. Ein Zimmer mit Hauptthür und Seitenthür. Auf der ersten sind die Tage der letzten Woche im Februar eines Schaltjahrs angeschrieben. Unterm Saturn der 29ste. Ein Kamin mit vorspringender Esse, ein Schirm davor, Jagdgeräth an den Wänden und ein Schleifstein mit einem Schwungrad in der Stube.
+---
+slug: muellner-der-wahn
+author:
+  name: Müllner, Adolph
+  wikidata: Q73359
+title: Der Wahn
+subtitle: Drama in Einem Akt
+numberOfScenes: 9
+printed: 1818
+premiered: 1816-02-29
+formalia:
+  - gereimte trochäische Verse
+dictionaries:
+  - name: corvey
+    pages: S. 229–230
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=227"
+editions:
+  - title: "Almanach für Privatbühnen. Zweites Bändchen auf das Jahr 1818. Herausgegeben von Adolph Müllner. Leipzig: Göschen 1818, S. 189–274"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10104570_00219.html
+  - title: "Müllner's Dramatische Werke. Siebenter Theil. Braunschweig: Vieweg 1828, S. 1–104"
+    url: https://books.google.com/books?id=yEQJAQAAMAAJ&pg=RA1-PA1
+comments:
+  - "In der [Vorerinnerung](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10104570_00221.html): »Nachstehendes ist nichts anderes, als eine, durch Hinzufügung von ungefähr neunzig Versen bewirkte, Umgestaltung meiner Tragödie, [der neun und zwanzigste Februar](muellner-der-neun-und-zwanzigste-februar)«. Anlass hierfür war die Wiener Zensur, die »auf der Bühne Blutschande und Kindesmord durchaus nicht zuzulassen« gewillt war."
+keywords:
+  - Schicksalstragödie
+cast:
+  - name: Walter Horst,
+    role: Erbförster.
+    gender: m
+  - name: Sophie,
+    role: seine Frau.
+    gender: f
+  - name: Emil,
+    role: ihr Kind, 11 Jahr alt.
+    gender: m
+  - name: Ludwig Horst.
+    gender: m
+setting: >-
+  Das Stück spielt im Waldhause des Försters. Ein Zimmer mit Hauptthür und Seitenthür. Auf der ersten sind die Tage der letzten Woche im Februar eines Schaltjahrs angeschrieben. Unterm Saturn der 29ste. Ein Kamin mit vorspringender Esse, ein Schirm davor, Jagdgeräth an den Wänden.
 ---
 slug: muellner-die-zweiflerin
 author:
@@ -37350,7 +37549,7 @@ comments:
   - Auch unter dem Titel »Incle und Yariko. Trauerspiel« (Wien 1773).
   - Unter dem Titel »Yariko« erschien [1777 (anonym)](anonym-yariko) eine weitere – nicht identische – Bearbeitung des Stoffs.
   - 1807 von Alois Gleis zu einem Singspiel in einem Aufzug bearbeitet.
-  - "Besprechung in: Theaterchronick. Herausgegeben von Christian Heinrich Schmid. Gießen: Krieger 1772, [S. 216–225](https://books.google.de/books?id=otRVAAAAcAAJ&hl=de&pg=PA216)."
+  - "Besprechung in: Theaterchronick. Herausgegeben von Christian Heinrich Schmid. Gießen: Krieger 1772, [S. 216–225](https://books.google.com/books?id=otRVAAAAcAAJ&pg=PA216)."
 keywords:
   - Sklaverei
 cast:
@@ -38554,6 +38753,43 @@ cast:
     gender: u
 setting: >-
   Die Handlung geht auf des Barons Schlosse in einem unteren Gartengebäude vor. Sie fängt nach der Mittagstafel an, und dauert bis Abends.
+---
+slug: pulvermacher-die-macht-des-gewissens
+author:
+  name: Pulvermacher, Christian Leopold Julius
+  pseudonym: Clip
+  wikidata: Q94887961
+title: Die Macht des Gewissens
+subtitle: Drama in einem Akte von Clip
+numberOfScenes: 8
+printed: 1832
+formalia:
+  - vierhebige trochäische Verse
+editions:
+  - title: "Breslau: Schulz 1832"
+    url: https://books.google.com/books?id=1dxJAAAAcAAJ&printsec=frontcover
+comments:
+  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 144. Freitag, 24. Mai 1833, [S. 594](https://books.google.com/books?id=pOMaAAAAYAAJ&pg=PA594)."
+  - "Eine »gewissenlos[e]« Kopie von Müllners Vierakter »Die Schuld« und Houwalds Zweiakter »Der Leuchtthurm« (vgl. ebd.)."
+  - "Fehler im Druck: Nach dem 7. folgt der 9. Auftritt, es sind also insgesamt nur 8 Auftritte."
+keywords:
+  - Schicksalstragödie
+cast:
+  - name: Francesco,
+    role: ein Fischer.
+    gender: m
+  - name: Maria,
+    role: dessen Frau.
+    gender: f
+  - name: Margaritta,
+    role: dessen Tochter erster Ehe, (15 Jahr alt).
+    gender: f
+  - name: Johannes Stark.
+    gender: m
+setting: >-
+  Der Ort der Handlung ist an der italienischen Küste in Ober-Italien.
+location:
+  wikidataId: Q4345530
 ---
 slug: rahbek-die-matrone-von-ephesus
 author:
@@ -50586,6 +50822,34 @@ cast:
   - name: Marie.
     gender: f
 setting: Das Stück spielt in den Niederlanden, unweit eines Hafens.
+---
+slug: weissenthurn-die-stille-braut
+author:
+  name: Weißenthurn, Johanna Franul von
+  wikidata: Q1696932
+title: Die stille Braut
+subtitle: Eine Alpensage in einem Akt
+numberOfScenes: 7
+printed: 1848
+premiered: 1842-03-03
+formalia:
+  - Prosa
+editions:
+  - title: "Neuste Schauspiele von Johanna Franul v. Weissenthurn. Fünfzehnter Band oder neue Folge siebenter Band. Wien: Wallishausser 1848, S. 153–184"
+    url: https://books.google.com/books?id=oeJWAAAAYAAJ&pg=PA153
+cast:
+  - name: Walter.
+    gender: m
+  - name: Rosli,
+    role: seine Tochter.
+    gender: f
+  - name: Herrmann,
+    role: ein Reisender.
+    gender: m
+setting: >-
+  Eine Alpengegend auf einem Hügel des Rigi, im Hintergrunde schneebedeckte Alpen, in der Schlucht links ein Wohngebäude nach Schweizer-Art, das Wohlhabenheit verräth. Seitwärts vor dem Hause ein Tisch, auf beiden Seiten Bänke. Es ist Morgen. – Man hört aus der Ferne den Kuhreigen und das Glöcklein einer Kapelle.
+location:
+  wikidataId: Q15291
 ---
 slug: welisch-philint
 author:
