@@ -22838,7 +22838,7 @@ editions:
   - title: "Bühne der Ausländer, herausgegeben von Theodor Hell. Dritter Band. Dresden: Arnold 1820, S. 1–47"
     url: https://books.google.com/books?id=WplJAQAAMAAJ&pg=PA1
 comments:
-  - Weitere Übersetzung [Herzenskron 1826](herzenskron-der-gang-ins-irrenhaus).
+  - Weitere Übersetzung [Herzenskron 1819](herzenskron-der-gang-ins-irrenhaus).
 cast:
   - name: Alfred von Rosenau.
     gender: m
@@ -23421,6 +23421,132 @@ setting: Die Handlung geht in einem Gasthofe zu Wien vor.
 location:
   wikidataId: Q1741
 ---
+slug: herzenskron-acht-vernuenftige-tage
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Acht vernünftige Tage
+subtitle: Lustspiel in einem Aufzuge, frey bearbeitet nach Castelli's Erzählung gleiches Nahmens
+numberOfScenes: 14
+printed: 1833
+premiered: 1830-12-14
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Dritter Band. Wien: Tendler 1833, S. 87–128"
+    url: https://books.google.com/books?id=AYK_sifhhOoC&pg=PA87
+comments:
+  - "Besprechung in: Münchener Politische Zeitung. Nro. 225. Freitag, 20. September 1833, [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
+cast:
+  - name: Herr von Molk.
+    gender: m
+  - name: Sophie,
+    role: seine Tochter.
+    gender: f
+  - name: Ernst Holger,
+    role: Molks Neffe.
+    gender: m
+  - name: Assessor von Rohrbach.
+    gender: m
+  - name: Doctor Blügen.
+    gender: m
+  - name: Max,
+    role: Holgers Bedienter.
+    gender: m
+  - name: Erste verschleyerte Dame.
+    gender: f
+  - name: Zweyte verschleyerte Dame.
+    gender: f
+setting: >-
+  Die Handlung geht in Holgers Wohnung vor.
+---
+slug: herzenskron-bedienten-eifer
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Bedienten-Eifer
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 23
+printed: 1829
+premiered: 1834-08-12
+formalia:
+  - Prosa
+editions:
+  - title: "Was Einer gut macht, verdirbt der Andere. Posse in einem Aufzuge. In: Taschenbuch des k. k. privilegirten Theaters in der Leopoldstadt für das Jahr 1829. Sechzehnter Jahrgang. Wien: Gerold [1829], S. 79–130"
+    url: https://books.google.com/books?id=jhVaAAAAcAAJ&pg=PA79
+  - title: "Dramatische Kleinigkeiten von Herzenskron. Vierter Band. Wien: Tendler 1835, S. 157–210"
+    url: https://books.google.com/books?id=2qXvBc92AYsC&pg=PA157
+comments:
+  - "Erstaufführung und Erstdruck unter dem Titel »Was Einer gut macht, verdirbt der Andere. Posse in einem Aufzuge«."
+cast:
+  - name: Herr von Berthold,
+    role: ein reicher Gutsbesitzer.
+    gender: m
+  - name: Marie,
+    role: seine Tochter.
+    gender: f
+  - name: Baron Helm.
+    gender: m
+  - group:
+      - name: Jeremias,
+        gender: m
+      - name: Franz,
+        gender: m
+    role: Helms Bediente.
+  - name: Frau Murrbach,
+    role: Mariens Erzieherin.
+    gender: f
+  - name: Ein Postillon.
+    gender: m
+  - name: Ein Aufwärter im Gasthofe.
+    gender: m
+setting: >-
+  Die Handlung spielt in dem Gasthofe einer Provinzial-Stadt. (Gemeinschaftliches Eingangszimmer im Hotel, mit Stühlen und Tischen, elegant eingerichtet. Auf beiden Seiten sind Fenster und Thüren, wovon Letztere mit Nummern versehen sind; so zwar, daß rechter Hand Nr. 1 und 2, linker Hand Nr. 3 und 4 sich befinden. Im Hinter- und Mittelgrunde eine große Glasthür, die ins Freie führt. Eine Post-Chaise hört man ankommen, der Postillon bläst. Ein Kellner öffnet schnell die Thür, und führt Herrn v. Berthold, Marien, und Frau Murrbach unter Complimenten in den Saal. Alle sind reisemäßig gekleidet, besonders Frau Murrbach ist ganz eingewickelt, und trägt in jeder Hand einen Carton.)
+---
+slug: herzenskron-das-haeuschen-in-der-aue
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Das Häuschen in der Aue
+subtitle: "Lustspiel in einem Acte, nach dem Französischen: La Maison des bois, von Caignéz, frey bearbeitet"
+numberOfScenes: 20
+printed: 1826
+premiered: 1822-03-29
+formalia:
+  - Prosa
+basedOn:
+  - "Louis-Charles Caigniez: [»André, ou La maison des bois. Comédie en un acte«](https://books.google.com/books?id=e0Q6AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Wien: Tendler und von Manstein 1826, S. 199–241"
+    url: https://books.google.com/books?id=Wx9tUcsOG90C&pg=PA199
+cast:
+  - name: Franz,
+    role: Hausinspector des Baron Strahldorf.
+    gender: m
+  - name: Grasgrün,
+    role: Gärtner des Baron Strahldorf.
+    gender: m
+  - name: Fink,
+    role: Kammerdiener des Baron Strahldorf.
+    gender: m
+  - name: Frau von Birken,
+    role: des Barons Verlobte.
+    gender: f
+  - group:
+      - name: Wordak,
+        gender: m
+      - name: Bruno,
+        gender: m
+    role: im Dienste des Baron Minden.
+  - name: Zwey Bediente.
+    isGroup: true
+    gender: m
+  - name: Zwey Kammerfrauen.
+    isGroup: true
+    gender: f
+setting: >-
+  Die Handlung geht auf dem Sommerhause des Baron Strahldorf, in der Aue vor. (Das Theater stellt einen Saal, mit Fenstern im Hintergrunde, vor, die in den Vorhof führen; welchen ein großes Gitter schließt, durch das man wieder in der Entfernung das Feld und die Umgegend sieht. Die Fenster sind mit Laden versehen, welche nach Belieben geschlossen und geöffnet werden können. Dem Zuschauer rechts ist eine Thüre, welche in eine andere Abtheilung des Hauses zu führen scheint, und ein Fenster; auf der linken Seite ist ebenfalls eine Thüre, und vorne steht ein Fortepiano, worauf eine Guittare, eine Violine, eine Flöte und ein Haufe Noten liegt.)
+---
 slug: herzenskron-der-braeutigam-ohne-braut
 author:
   name: Herzenskron, Hermann
@@ -23429,6 +23555,7 @@ title: Der Bräutigam ohne Braut
 subtitle: Lustspiel in einem Aufzuge
 numberOfScenes: 19
 printed: 1826
+premiered: 1827-05-08
 formalia:
   - Prosa
 editions:
@@ -23475,6 +23602,7 @@ title: Der Gang in's Irrenhaus
 subtitle: Lustspiel in einem Aufzuge, nach dem Französischen der Herren Scribe und Delestre-Poirson, frey bearbeitet
 numberOfScenes: 18
 printed: 1826
+premiered: 1819-07-10
 formalia:
   - Prosa
 basedOn:
@@ -23508,6 +23636,618 @@ setting: >-
   Die Handlung spielt auf des Barons Landhaus, in der Nähe des neuen Narrenhauses, vor den Thoren von London.
 location:
   wikidataId: Q831377
+---
+slug: herzenskron-der-hufschmied
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Der Hufschmied
+subtitle: Schauspiel in einem Aufzuge. Nach einer wahren Begebenheit
+numberOfScenes: 8
+printed: 1838
+premiered: 1838
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten von Herzenskron. Fünfter Band. Wien: Tendler 1838, S. 173–198"
+    url: https://books.google.com/books?id=FCXiAAAAMAAJ&pg=PA173
+cast:
+  - name: Liedmann
+    role: Professor der Malerei.
+    gender: m
+  - name: Therese,
+    role: seine Tochter.
+    gender: f
+  - name: Friedrich Schulz,
+    role: Hufschmied.
+    gender: m
+  - name: Margarethe,
+    role: seine alte Mutter.
+    gender: f
+setting: >-
+  Die Handlung geht in einem kleinen Landstädtchen vor. (Der Schauplatz ist ein freier Platz mit Bäumen. Rechts das kleine Häuschen des Hufschmieds, sammt der Außenseite einer Schmiede, links das schönere Haus des Malers; in der Mitte des Theaters steht eine große Linde, mit einer hölzernen Bank.)
+---
+slug: herzenskron-der-kuss-an-ueberbringer
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Der Kuß an Ueberbringer
+subtitle: Lustspiel in einem Aufzuge. Nach dem Französischen des Scribe
+numberOfScenes: 17
+printed: 1826
+premiered: 1824-12-15
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe, Justin Gensoul und Frédéric de Courcy: [»Le baiser au porteur. Comédie-vaudeville en un acte«](https://books.google.com/books?id=Ri8UAAAAQAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Wien: Tendler und von Manstein 1826, S. 149–198"
+    url: https://books.google.com/books?id=Wx9tUcsOG90C&pg=PA149
+  - title: "Wien: Wallishausser 1853"
+    url: https://books.google.com/books?id=NZvbeNghDjIC&printsec=frontcover
+cast:
+  - name: Baroninn Halm.
+    gender: f
+  - name: Jenny,
+    role: ihre Nichte.
+    gender: f
+  - name: Derville,
+    role: Oberster.
+    gender: m
+  - name: Philipp,
+    role: sein Bedienter.
+    gender: m
+  - name: Karg,
+    role: Pächter auf der Baroninn Gut.
+    gender: m
+  - name: Jeanette,
+    role: seine Frau.
+    gender: f
+setting: >-
+  Die Handlung spielt auf dem Lande unweit der Residenz. (Ländliche Gegend.)
+---
+slug: herzenskron-die-landparthie-nach-weidling-am-bach
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Die Landparthie nach Weidling am Bach
+subtitle: Locale Posse in einem Aufzuge, frey nach dem Französischen des Scribe und Melesville
+numberOfScenes: 15
+printed: 1833
+premiered: 1829-09-26
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Dritter Band. Wien: Tendler 1833, S. 175–215"
+    url: https://books.google.com/books?id=AYK_sifhhOoC&pg=PA175
+comments:
+  - "Besprechung in: Münchener Politische Zeitung. Nro. 225. Freitag, 20. September 1833, [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
+  - "Besprechung in: Der Sammler. Nr. 93 (Dinstag den 4. August 1829), [S. 372](https://books.google.com/books?id=c8BaAAAAcAAJ&pg=PA372)."
+cast:
+  - name: Herr von Plutzerl,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Sibilla,
+    role: seine Frau.
+    gender: f
+  - name: Mariane,
+    role: ihre Tochter.
+    gender: f
+  - name: Lieder,
+    role: Amtspractikant, ihr Bräutigam.
+    gender: m
+  - name: Herr von Stökerl,
+    role: Holzversilberer.
+    gender: m
+  - name: Lucretia,
+    role: dessen Frau.
+    gender: f
+  - name: Fräulein Mimi,
+    role: ihre Tochter.
+    gender: f
+  - name: Blümel,
+    role: Kartenmahler.
+    gender: m
+  - name: Pirzelberger,
+    role: pensionirter Mautheinnehmer.
+    gender: m
+  - name: Mamsell Pirzelberger,
+    role: seine Schwester.
+    gender: f
+  - name: Natzerl,
+    role: Pirzerlbergers Vetter, Handlungsdiener bey Plutzerl.
+    gender: f
+  - name: Herr von Gschaftlhuber.
+    gender: m
+setting: >-
+  Die Scene geht in Weidling am Bach vor. (Das Theater stellt eine Gegend in Weidling vor. Man sieht kein Haus. Rechts eine Wiese mit einem Kastanienbaume. Links ein Wegweiser, der die verschiedenen Wege anzeigt.)
+location:
+  wikidataId: Q484858
+---
+slug: herzenskron-der-mechanische-trompeter
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Der mechanische Trompeter
+subtitle: "Posse in einem Aufzuge, frey nach dem Vaudeville: l'homme automate"
+numberOfScenes: 21
+printed: 1828
+premiered: 1823-01-31
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe, Antoine-François Varner und Jean-Gilbert Ymbert: [»L'homme automate. Folie-parade, mêlée de couplets«](https://books.google.com/books?id=K5Q4AQAAIAAJ&pg=RA1-PA1)"
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Zweyter Band. Wien: Tendler und von Manstein 1828, S. 45–89"
+    url: https://books.google.com/books?id=1WxWAAAAcAAJ&pg=PA45
+cast:
+  - name: Doctor Fieber,
+    role: ein angehender Arzt.
+    gender: m
+  - name: Fröhlich,
+    role: ein Student, dessen Jugendfreund.
+    gender: m
+  - name: Fricassée,
+    role: Restaurateur zur wohlfeilen Kost.
+    gender: m
+  - name: Lenchen,
+    role: seine Tochter.
+    gender: f
+  - name: Schreymaul,
+    role: ein Mechaniker und Inhaber eines Wachsfigurencabinettes.
+    gender: m
+  - name: Zuschauer.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung spielt in einem kleinen Landstädtchen zur Marktzeit. (Die Scene stellt einen öffentlichen Platz vor. Dem Zuschauer rechts ist das Haus und Schild des Restaurateurs; auf einer großen Tafel stehet mit goldenen Buchstaben: Zur wohlfeilen Kost. Links das Cabinett des Mechanikers mit der Aufschrift: Täuschungs-Cabinett. Der Eingang in dasselbe ist durch rothe Vorhänge geschlossen; vor demselben steht ein Piedestal, auf dem eine menschliche Figur Platz findet.)
+---
+slug: herzenskron-der-schoenste-tag-des-lebens
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Der schönste Tag des Lebens
+subtitle: Lustspiel in einem Aufzuge, frey nach Scribe
+numberOfScenes: 20
+printed: 1828
+premiered: 1826-01-27
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe: [»Le plus beau jour de la vie. Comédie-vaudeville en deux actes«](https://books.google.com/books?id=LQDmvs3qJ2YC&printsec=frontcover)"
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Zweyter Band. Wien: Tendler und von Manstein 1828, S. 91–137"
+    url: https://books.google.com/books?id=1WxWAAAAcAAJ&pg=PA91
+cast:
+  - name: Millbach.
+    gender: m
+  - name: Baron von Thal.
+    gender: m
+  - name: Baroninn,
+    role: seine Frau.
+    gender: f
+  - group:
+      - name: Antonie,
+        gender: f
+      - name: Louise,
+        gender: f
+    role: seine Töchter.
+  - name: Lehrfeld,
+    role: ein junger Mahler, Louisens Geliebter.
+    gender: m
+  - name: Julius Holder,
+    role: des Barons Neffe, ein Student.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung geht in Wien, in des Barons Wohnung vor. (Saal mit einer Mittelthür und zwey Seitenthüren. Dem Schauspieler rechts das Zimmer der Frau Baroninn und von Antonien; links die Zugänge zu den übrigen Wohnzimmern; seitwärts eine Nische, und besser vorne ein Tischchen mit Schmuck. Auf der entgegengesetzten Seite vorn ein eleganter Schreibtisch, und darauf Schreibmaterialien aller Art.)
+location:
+  wikidataId: Q1741
+---
+slug: herzenskron-der-verstorbene
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Der Verstorbene
+subtitle: Lustspiel in einem Aufzuge. Nach dem Französischen frei bearbeitet
+numberOfScenes: 17
+printed: 1835
+premiered: 1836
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten von Herzenskron. Vierter Band. Wien: Tendler 1835, S. 59–98"
+    url: https://books.google.com/books?id=2qXvBc92AYsC&pg=PA59
+cast:
+  - name: Dorville,
+    role: unter dem Namen Valcour.
+    gender: m
+  - name: Der alte Dorville,
+    role: sein Oheim, ein reicher Banquier.
+    gender: m
+  - name: Clementine,
+    role: dessen Nichte.
+    gender: f
+  - name: Der Chevalier Florival.
+    gender: m
+  - name: Denise,
+    role: eine junge Bäuerin.
+    gender: f
+  - name: Jeannot,
+    role: ihr Bräutigam.
+    gender: m
+setting: >-
+  Die Handlung spielt auf einem kleinen Landgute, einige Stunden von Paris. (Das Theater stellt einen Garten vor. Seitwärts eine beinahe geschlossene Laube, worin man einen Tisch mit allerlei Schreibmaterialien, Schriften, Büchern u.s.w. sieht, welche Unordnung umherliegen.)
+location:
+  wikidataId: Q90
+---
+slug: herzenskron-die-perruecke
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Die Perrücke
+subtitle: Dramatischer Scherz in einem Aufzuge
+numberOfScenes: 12
+printed: 1839
+premiered: 1839-01-08
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten von Herzenskron. Sechster Band. Wien: Volckmar 1839, S. 121–158"
+    url: https://books.google.com/books?id=FCXiAAAAMAAJ&pg=RA1-PA121
+cast:
+  - name: Willmers.
+    gender: m
+  - name: Julie von Branden,
+    role: eine junge Wittwe.
+    gender: f
+  - group:
+      - name: Zartlieb,
+        role: ein Schöngeist;
+        gender: m
+      - name: Donnerschwert,
+        role: pensionirter Capitän;
+        gender: m
+      - name: Zünglein,
+        role: Advocat;
+        gender: m
+      - name: Wurm,
+        role: ein Projectant;
+        gender: m
+    role: gemeinschaftliche Vormünder der Fr. v. Branden.
+setting: >-
+  Die Handlung spielt in dem gemeinschaftlichen Saale eines Gasthofes. (Gemeinschaftlicher Saal im Gasthofe. Vier Glasthüren im Hintergrunde, welche der Ordnung nach mit Nr. 1. 2. 3. 4. bezeichnet, und mit Vorhängen versehen sind. Auf jeder Seite eine Thüre. Seitwärts steht ein Schirm. Vorne ein Tisch mit Schreibrequisiten, und mehrere Stühle; auf der andern Seite ein Tisch, an welchem Julie, Donnerschwert, Zünglein, Wurm und Zartlieb beim Frühstück sitzen.)
+---
+slug: herzenskron-die-unschuldigen
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Die Unschuldigen
+subtitle: Lustspiel in einem Aufzuge, nach dem Französischen frey bearbeitet
+numberOfScenes: 17
+printed: 1828
+premiered: 1821-11-02
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Zweyter Band. Wien: Tendler und von Manstein 1828, S. 5–43"
+    url: https://books.google.com/books?id=1WxWAAAAcAAJ&pg=PA5
+cast:
+  - name: Frau von Rosen,
+    role: eine junge Wittwe, Gutsbesitzerinn.
+    gender: f
+  - group:
+      - name: Major Dorn,
+        gender: m
+      - name: Rittmeister Frank,
+        gender: m
+    role: von den Husaren.
+  - name: Sorgenfrey.
+    gender: m
+  - name: Mutter Anna,
+    role: eine alte Bäuerinn.
+    gender: f
+  - name: Röschen,
+    role: ihre Tochter.
+    gender: f
+  - name: Steffen,
+    role: ein junger Bauer, Röschens Bräutigam.
+    gender: m
+  - name: Der Richter im Dorfe.
+    gender: m
+  - name: Bauern, Wächter, Bediente.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht auf einem Dorfe vor, und währt einen halben Tag. (Ländliche Gegend. Vor einigen Bauernhäusern, im Hintergrunde führt ein Bergweg ins Thal herab. Hin und wieder Bäume.)
+---
+slug: herzenskron-die-wittwe-von-achtzehn-jahren
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Die Wittwe von achtzehn Jahren
+subtitle: Lustspiel in einem Aufzuge, frey nach dem Französischen des Theaulon
+numberOfScenes: 17
+printed: 1833
+premiered: 1828-11-27
+formalia:
+  - Prosa
+basedOn:
+  - "Emmanuel Théaulon und Pierre Capelle: [»La veuve de quinze ans. Comédie-vaudeville en un acte«](https://books.google.com/books?id=DDVMAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Dritter Band. Wien: Tendler 1833, S. 45–86"
+    url: https://books.google.com/books?id=AYK_sifhhOoC&pg=PA45
+comments:
+  - "Besprechung in: Münchener Politische Zeitung. Nro. 225. Freitag, 20. September 1833, [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
+cast:
+  - name: Julius von Derville,
+    role: Schiffs-Capitän.
+    gender: m
+  - name: Sidonie,
+    role: seine Frau.
+    gender: f
+  - name: Madame d'Hermond,
+    role: Sidoniens ehemahlige Erzieherinn.
+    gender: f
+  - name: Hyazinth von Nelkenfeld,
+    role: aus Berlin.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung geht auf Sidonien's Landgut, einige Stunden von Paris vor. (Schöner Garten-Saal, mit der Aussicht ins Freye, elegant möblirt. Eine Harfe und eine Toillette nach dem neuesten Geschmacke.)
+location:
+  wikidataId: Q90
+---
+slug: herzenskron-ein-maedchen-ists-und-nicht-ein-knabe
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Ein Mädchen ist's und nicht ein Knabe
+subtitle: Lustspiel in einem Aufzuge. Nach dem Französischen
+numberOfScenes: 17
+printed: 1826
+premiered: 1825-07-06
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Wien: Tendler und von Manstein 1826, S. 105–147"
+    url: https://books.google.com/books?id=Wx9tUcsOG90C&pg=PA105
+cast:
+  - name: Baron von Monval,
+    role: pensionirter Oberster.
+    gender: m
+  - name: Die Baroninn,
+    role: seine Gehmalinn.
+    gender: f
+  - name: Eugenie Minden,
+    role: eine junge Waise von ungefähr zehn Jahren.
+    gender: f
+  - name: Madame Dumont,
+    role: ihre Erzieherinn.
+    gender: f
+  - name: Nettchen,
+    role: ihre Nichte, ein junges Bauernmädchen.
+    gender: f
+  - name: Hans,
+    role: ein Bauernjunge, Nettchens Liebhaber.
+    gender: m
+setting: >-
+  Die Handlung geht auf des Barons Landgut, einige Stunden von Paris vor. (Das Theater stellt das Innere eines offenen Pavillons vor, das in einem Garten liegt; Rückwärts führt die Aussicht in den Park. Rechts steht ein Tisch, links eine Glasthüre und etliche Stühle.)
+location:
+  wikidataId: Q90
+---
+slug: herzenskron-gastrollen-von-ungefaehr
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Gastrollen von Ungefähr
+subtitle: Lustspiel in einem Aufzuge, nach dem Französischen der Herren Moreau und Sewrin frey bearbeitet
+numberOfScenes: 21
+printed: 1828
+premiered: 1825-09-21
+formalia:
+  - Prosa
+basedOn:
+  - Moreau und Sewrin
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Zweyter Band. Wien: Tendler und von Manstein 1828, S. 189–244"
+    url: https://books.google.com/books?id=1WxWAAAAcAAJ&pg=PA189
+cast:
+  - name: Flink,
+    role: Schauspieler.
+    gender: m
+  - name: Haselnuß,
+    role: ehemals Ortsrichter und Eigenthümer eines ansehnlichen Landhauses.
+    gender: m
+  - name: Josephine,
+    role: seine Tochter.
+    gender: f
+  - name: Millbach,
+    role: eines Kaufmanns Sohn aus der nächsten Stadt.
+    gender: m
+  - name: Herr Pfiffig edler von Supperklug,
+    role: ein junger Landedelmann.
+    gender: m
+  - name: Lorenz,
+    role: Gärtner bey Herrn Haselnuß.
+    gender: m
+  - name: Martha,
+    role: seine Frau.
+    gender: f
+setting: >-
+  Die Handlung geht auf einem Dorfe nahe bey der Stadt, in Haselnuß's Haus vor. (Das Theater stellt einen Vorhof, der in Haselnuß's Garten führt, vor, dem Zuschauer rechts, das Aeußere des Hauses mit einer Thüre. Auf derselben Seite etwas mehr zurück, die Thüre eines Bauernhofes. Dem Zuschauer links, ein Gitter. Auf dem Theater selbst stehen unter einem Baume Stühle, ein Gartentisch, worauf sich ein Tintenfaß, Feder und Papier befindet.)
+---
+slug: herzenskron-hoang-puff
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Hoang-Puff
+subtitle: Posse in einem Acte, nach dem Französischen der Herren Caignéz und Louis frey bearbeitet
+numberOfScenes: 18
+printed: 1826
+premiered: 1822-09-30
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Wien: Tendler und von Manstein 1826, S. 63–103"
+    url: https://books.google.com/books?id=Wx9tUcsOG90C&pg=PA63
+keywords:
+  - China
+cast:
+  - name: Hoang-Puff,
+    role: Statthalter von Schekiang.
+    gender: m
+  - name: Kang-Schu,
+    role: sein Vezier.
+    gender: m
+  - name: Jao,
+    role: Oberster der Eunuchen.
+    gender: m
+  - name: Zimar,
+    role: ein Bramine.
+    gender: m
+  - name: Nadir,
+    role: Sohn des verbrannten Vesiers.
+    gender: m
+  - name: Oali,
+    role: Hoang-Puff's Auserwählte.
+    gender: f
+  - name: Sclaven. Stumme. Frauen. Wachen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht in Schekiang in China, im Schloßgarten Hoang-Puff's vor.
+location:
+  wikidataId: Q16967
+---
+slug: herzenskron-jagd-und-ball
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Jagd und Ball
+subtitle: Lustspiel in einem Aufzuge, nach dem Französischen frey bearbeitet
+numberOfScenes: 19
+printed: 1833
+premiered: 1829-09-29
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Dritter Band. Wien: Tendler 1833, S. 5–44"
+    url: https://books.google.com/books?id=AYK_sifhhOoC&pg=PA5
+comments:
+  - "Besprechung in: Münchener Politische Zeitung. Nro. 225. Freitag, 20. September 1833, [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
+cast:
+  - name: Frau von Langer,
+    role: Gutsbesitzerinn.
+    gender: f
+  - name: Sophie,
+    role: ihre Enkelinn.
+    gender: f
+  - name: Baron Sternthal,
+    role: Sophiens Gemahl.
+    gender: m
+  - name: Schleicher,
+    role: des Barons Freund.
+    gender: m
+  - name: Jettchen,
+    role: ein Bauernmädchen,der Frau v. Langer Pathe.
+    gender: f
+  - name: Peter,
+    role: ein junger Pächter aus der Nachbarschaft.
+    gender: m
+setting: >-
+  Die Handlung geht auf dem Gute der Frau v. Langer vor. (Das Theater stellt einen Garten vor. Rechts ein Gartenhaus, wo Sternthal und seine Frau wohnen.)
+---
+slug: herzenskron-schwindels-fatalitaeten
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Schwindel's Fatalitäten
+subtitle: "Posse in einem Aufzuge, nach: Le Gastronome sans argent des Scribe frey bearbeitet"
+numberOfScenes: 18
+printed: 1828
+premiered: 1827-06-05
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Brulay: [»Le gastronome sans argent. Vaudeville en un acte«](https://books.google.com/books?id=VS8UAAAAQAAJ&pg=PA1)"
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Zweyter Band. Wien: Tendler und von Manstein 1828, S. 139–188"
+    url: https://books.google.com/books?id=1WxWAAAAcAAJ&pg=PA139
+cast:
+  - name: Schwindel.
+    gender: m
+  - name: Herr von Helden,
+    role: Besitzer eines Landhauses.
+    gender: m
+  - name: Architect Linden,
+    role: sein Schwiegersohn.
+    gender: m
+  - name: Frau Billig,
+    role: Gastwirthin zur Enthaltsamkeit.
+    gender: f
+  - name: Reichmann,
+    role: Fabrikant.
+    gender: m
+  - name: Blank,
+    role: dessen Freund.
+    gender: m
+  - name: Franz,
+    role: Reichmanns Bedienter.
+    gender: m
+  - name: Ein Fremder.
+    gender: m
+  - name: Bauern. Aufwärter.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung geht auf dem Lande, ungefähr eine Stunde außerhalb der Stadt vor. (Das Theater stellt eine freundliche Landgegend vor: Links ein bürgerliches neu erbautes Haus, rechts Frau Billig's Gasthof; eine große Tafel mit der Inschrift: Hier erhält man Viel um Wenig, hängt ober der Thüre, wo auch auf einem Tische Brot und verschiedene andere Eßwaaren aufgehäuft liegen.)
+---
+slug: herzenskron-victor
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Victor
+subtitle: Lustspiel in einem Aufzuge. Nach dem Französischen des Scribe und Moreau frei bearbeitet
+numberOfScenes: 15
+printed: 1835
+premiered: 1836
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Charles-François-Jean-Baptiste Moreau de Commagny: [»Philibert marié. Comédie-vaudeville en un acte«](https://books.google.com/books?id=B0c6AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatische Kleinigkeiten von Herzenskron. Vierter Band. Wien: Tendler 1835, S. 211–249"
+    url: https://books.google.com/books?id=2qXvBc92AYsC&pg=PA211
+cast:
+  - name: Louis Durant.
+    gender: m
+  - name: Albina,
+    role: seine Frau.
+    gender: f
+  - name: Therese,
+    role: seine Tochter.
+    gender: f
+  - name: Victor Durant,
+    role: sein Neffe, 20 Jahre alt.
+    gender: m
+  - name: Monsieur Chopart,
+    role: früher Durant's, jetzt Victor's Erzieher.
+    gender: m
+  - name: Margarethe,
+    role: Victor's alte Wärterin.
+    gender: f
+  - name: La Cotelette,
+    role: Restarateur.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung geht in Paris vor. (Saal, im Hintergrunde zwei Thüren. Rechts ebenfalls eine Thür, links ein Fenster.)
+location:
+  wikidataId: Q90
 ---
 slug: heufeld-die-tochter-des-bruders-philipps
 author:
@@ -36872,6 +37612,34 @@ cast:
     gender: f
 setting: Ein Zimmer mit einer Mittelthür und zwey Seitenthüren.
 ---
+slug: muellner-der-blitz
+author:
+  name: Müllner, Adolph
+  wikidata: Q73359
+title: Der Blitz
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 13
+printed: 1818
+premiered: 1814-01-10
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: corvey
+    pages: S. 228
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=226"
+editions:
+  - title: "Almanach für Privatbühnen. Zweites Bändchen auf das Jahr 1818. Herausgegeben von Adolph Müllner. Leipzig: Göschen [1818], S. 275–328"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10104570_00307.html
+  - title: "Müllner's Dramatische Werke. Siebenter Theil. Braunschweig: Vieweg 1828, S. 105–164"
+    url: https://books.google.com/books?id=yEQJAQAAMAAJ&pg=RA1-PA105
+cast:
+  - name: Fritz.
+    gender: m
+  - name: Rosalie.
+    gender: f
+setting: >-
+  Die Scene ein Saal mit einer Hauptthür und zwei Seitenthüren, welche numerirt sind, wie in Gasthöfen.
+---
 slug: muellner-der-neun-und-zwanzigste-februar
 author:
   name: Müllner, Adolph
@@ -36956,6 +37724,46 @@ cast:
     gender: m
 setting: >-
   Das Stück spielt im Waldhause des Försters. Ein Zimmer mit Hauptthür und Seitenthür. Auf der ersten sind die Tage der letzten Woche im Februar eines Schaltjahrs angeschrieben. Unterm Saturn der 29ste. Ein Kamin mit vorspringender Esse, ein Schirm davor, Jagdgeräth an den Wänden.
+---
+slug: muellner-die-onkelei-oder-das-franzoesische-lustspiel
+author:
+  name: Müllner, Adolph
+  wikidata: Q73359
+title: Die Onkelei oder das französische Lustspiel
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 24
+printed: 1819
+premiered: 1817-03-09
+formalia:
+  - Alexandriner
+basedOn:
+  - "Charles-Guillaume Étienne: [»Une heure de mariage. Comédie en un acte, mêlée de chants«](https://books.google.com/books?id=_jhaAAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  - name: corvey
+    pages: S. 232–233
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=230"
+editions:
+  - title: "Almanach für Privatbühnen. Drittes Bändchen auf das Jahr 1819. Herausgegeben von Adolph Müllner. Leipzig: Göschen 1819, S. 421–517"
+    url: https://books.google.com/books?id=KtIzZ7ptdugC&pg=PA421
+  - title: "Müllner's Dramatische Werke. Siebenter Theil. Braunschweig: Vieweg 1828, S. 165–278"
+    url: https://books.google.com/books?id=yEQJAQAAMAAJ&pg=RA1-PA165
+comments:
+  - "In der [Nachschrift](https://books.google.com/books?id=KtIzZ7ptdugC&pg=PA516): Müllner habe mit der Übersetzung von Sonnenleither ([»Die kurze Ehe«](sonnleithner-die-kurze-ehe)) gearbeitet und kenne das Original nicht."
+cast:
+  - name: Freiherr von Hohenburg.
+    gender: m
+  - name: Eduard von Wild,
+    role: sein Neffe.
+    gender: m
+  - name: Mathilde von Sitten,
+    role: dessen Frau.
+    gender: f
+  - name: Henriette von Helm.
+    gender: f
+  - name: Hauptmann von Hold.
+    gender: m
+setting: >-
+  Ein Zimmer in Hohenburgs Landhause, mit drei Thüren.
 ---
 slug: muellner-die-zweiflerin
 author:
