@@ -15196,6 +15196,40 @@ cast:
 setting: >-
   Die Scene ist ein Zimmer in Herrn von Rillers Landhause, mit zwei Seiten- und einer Mittelthüre, zur Rechten ein Tisch mit Schreibgeräthe, zur Linken ein Queridon mit Büchern.
 ---
+slug: castelli-das-fruehstueck
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Das Frühstück
+subtitle: Ein Burschenstreich in einem Aufzuge. Frey nach dem Französischen des Auguste
+numberOfScenes: 12
+printed: 1807
+premiered: 1807-06-06
+formalia:
+  - Prosa
+basedOn:
+  - "Auguste Creuzé de Lesser: [»Le déjeuner des garçons. Comédie en un acte, mêlée d'ariettes«](https://books.google.com/books?id=bU2eUQsFlwEC&printsec=frontcover)"
+editions:
+  - title: "Wien: Wallishausser 1807"
+    url: https://books.google.com/books?id=_iFdAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Kohl.
+    gender: m
+  - name: Link.
+    gender: m
+  - name: Wallmann,
+    role: Kohl's Onkel.
+    gender: m
+  - name: Herr von Alban.
+    gender: m
+  - name: Louise Hellwart,
+    role: seine Tochter.
+    gender: f
+  - name: Billberg.
+    gender: m
+setting: >-
+  Die Bühne ist in der Mitte getheilt, und stellt zwey ärmliche Zimmer vor, welche durch eine Thüre Communikation haben. Zur Linken ist Kohls Zimmer, in welchen ein Tisch und ein paar Stühle stehen, rechts Links Zimmer, worinn auch ein Tisch, ein Piano-Forte, und zwey Stühle sich befinden.
+---
 slug: castelli-der-ehenstifter-oder-die-beyden-offiziere
 author:
   name: Castelli, Ignaz Franz
@@ -18472,6 +18506,45 @@ cast:
     isGroup: true
     gender: m
 setting: Das Theater stellet eine wilde Gegend vor, am Ufer des Meers.
+---
+slug: ellmenreich-das-beste-loos-ein-mann
+author:
+  name: Ellmenreich, Friederike
+  wikidata: Q1457035
+title: "Das beste Loos: Ein Mann!"
+subtitle: Lustspiel in einem Aufzug. Frei nach dem Französischen bearbeitet
+numberOfScenes: 22
+printed: 1827
+premiered: 1829-11-11
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele. Frei nach dem Französischen bearbeitet von Friederike Ellmenreich. Zweiter Band. Mainz: Kupferberg 1827"
+    url: https://books.google.com/books?id=z1dFWhS9SucC&pg=RA2-PA1
+comments:
+  - Berliner Uraufführung unter dem Titel »Die Männerlotterie«.
+cast:
+  - name: Belnau,
+    role: ein reicher Privatmann.
+    gender: m
+  - name: Julie Welling,
+    role: eine junge Wittwe und Belnau's Tochter.
+    gender: f
+  - name: Eduard Belnau,
+    role: seine Neffe.
+    gender: f
+  - name: Mariane,
+    role: Eduard's Erzieherin.
+    gender: f
+  - name: Jeannette,
+    role: ein junges Mädchen.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung geht in Wien, in einem gemeinschaftlichen Saale, in Eduard's Wohnung vor. (Elegant meublirter Saal, mit einer Mittel- und zwei Seitenthüren.)
+location:
+  wikidataId: Q1741
 ---
 slug: elsholtz-kuenstler-rache-oder-der-polterabend
 author:
@@ -34361,7 +34434,7 @@ editions:
     url: https://doi.org/10.3931/e-rara-55793
   - title: "Theater der Deutschen. Fünfter Theil. Berlin und Leipzig: Rüdiger 1767, S. 1–36"
     url: https://books.google.com/books?id=FNlVAAAAcAAJ&pg=PA1
-  - title: "Gotthold Ephraim Lessing's sämmtliche Schriften. Auf's Neue durchgesehen und vermehrt. Zweiter Band. Leipzig: Göschen 1853, S. 225–312"
+  - title: "Gotthold Ephraim Lessing's sämmtliche Schriften. Auf's Neue durchgesehen und vermehrt. Zweiter Band. Leipzig: Göschen 1853, S. 85–108"
     url: https://books.google.com/books?id=XUQ4AQAAIAAJ&pg=PA85
   - title: "Lessing's Werke. Siebenter Band. Leipzig: Göschen 1867, S. 167–192"
     url: https://books.google.com/books?id=2v3hAAAAMAAJ&pg=PA167
@@ -34388,6 +34461,48 @@ cast:
     role: Soldat.
     gender: m
 setting: Die Scene, ein Zelt in dem Lager des Aridäus.
+---
+slug: lessing-vor-diesem
+author:
+  name: Lessing, Gotthold Ephraim
+  wikidata: Q34628
+title: Vor diesem!
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 4
+created: 1756
+printed: 1784
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 109
+editions:
+  - title: "Gotthold Ephraim Leßings Theatralischer Nachlaß. Erster Theil. Berlin: Voß 1784, S. 47–180"
+    url: https://nbn-resolving.de/urn:nbn:de:gbv:3:1-743045-p0105-4
+  - title: "Gotthold Ephraim Lessing's sämmtliche Schriften. Auf's Neue durchgesehen und vermehrt. Zweiter Band. Leipzig: Göschen 1853, S. 479–488"
+    url: https://books.google.com/books?id=XUQ4AQAAIAAJ&pg=PA479
+  - title: "Lessings sämmtliche lyrische, epische und dramatische Werke und seine vorzüglichen Prosaschriften. Leipzig und Teschen: Prochaska [1868], S. 215–217"
+    url: https://books.google.com/books?id=7EY_AAAAcAAJ&pg=PA215
+comments:
+  - Fragment
+cast:
+  - name: Wilibald.
+    gender: m
+  - name: Charitas.
+    role: Tochter des Wilibalds.
+    gender: f
+  - name: Hedwig.
+    role: Der Charitas Mädchen.
+    gender: f
+  - name: Codex.
+    role: Ein Advokat.
+    gender: m
+  - name: Florian.
+    role: Dessen Vetter.
+    gender: m
+  - name: Philibert.
+    role: Der Charitas Liebhaber.
+    gender: m
 ---
 slug: lewald-der-vatersegen
 author:
@@ -38897,6 +39012,60 @@ cast:
     role: ein Betrüger.
     gender: m
 setting: Der Schauplatz ist auf einem öffentlichen Markte.
+---
+slug: pfeffel-die-belagerung-von-glocester
+author:
+  name: Pfeffel, Gottlieb Konrad
+  wikidata: Q77742
+title: Die Belagerung von Glocester
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1769
+premiered: 1773-10-07
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 23, S. 325–326
+editions:
+  - title: "Dramatische Kinderspiele. Strasburg: Bauer 1769, S. 25–70"
+    url: https://books.google.com/books?id=FhBQAAAAcAAJ&pg=PA25
+  - title: "Theater der Deutschen. Zehnter Theil. Königsberg und Leipzig: Kanter 1771, S. 351–372"
+    url: https://books.google.com/books?id=rdpVAAAAcAAJ&pg=PA351
+comments:
+  - Hinweis auf Einaktigkeit im Untertitel erst 1771.
+  - "Hinweis in der [Vorrede](https://books.google.com/books?id=ut1JAAAAcAAJ&pg=PA4-IA1) (1769): »Die Belagerung von Glocester ist aus einer Anekdote gezogen, die sich in Raguenets Leben des Cromwel befindet.«"
+keywords:
+  - Kindertheater
+cast:
+  - name: Lord Fairfax,
+    role: Feldherr des englischen Parlaments.
+    gender: m
+  - name: Lord Capel,
+    role: königl. Stadthalter von Glocester.
+    gender: m
+  - name: Edmund,
+    role: Sohn des Fairfax.
+    gender: m
+  - name: Arthur,
+    role: Sohn des Capel.
+    gender: m
+  - name: Der Obriste Morgan,
+    role: ein Freund des Fairfax.
+    gender: m
+  - name: Der Obriste Kingston,
+    role: ein Freund des Capel.
+    gender: m
+  - name: Surrey,
+    role: ein Hauptmann von der Wache des Fairfax.
+    gender: m
+  - name: Zween Soldaten.
+    isGroup: true
+    gender: m
+setting: >-
+  Der Schauplatz ist in dem Hauptquartier des Fairfax, vor den Mauern der Stadt Glocester.
+location:
+  wikidataId: Q170497
 ---
 slug: pfeffel-die-junge-indianerin
 author:
@@ -49330,6 +49499,51 @@ setting: >-
   Der Schauplatz ist ein Theater, von rückwärts zu sehen, die Seitenwände
   umgedreht, der Vorhang nach hinten. Das Stück spielt am Abend, nach Endigung
   des Trauerspiels Emilia Galotti.
+---
+slug: vulpius-bella-und-fernando-oder-die-satire
+author:
+  name: Vulpius, Christian August
+  wikidata: Q65376
+title: Bella und Fernando, oder die Satire
+subtitle: In einem Aufzuge
+numberOfScenes: 20
+printed: 1790
+premiered: 1789-05-20
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 244
+editions:
+  - title: "Operetten von C. A. Vulpius. Erstes Bändchen. Baireuth und Leipzig: Lübeck 1790, S. 111–176"
+    url: https://books.google.com/books?id=opvtioE18m4C&pg=PA111
+comments:
+  - Operette, »in Musik gesezt von Herrn Preu«.
+cast:
+  - name: Donna Bella,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Laura,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Don Fernando.
+    gender: m
+  - name: Assad,
+    role: ein Mohr, sein Diener.
+    gender: m
+  - name: Omar,
+    role: Diener des Kadi.
+    gender: m
+  - name: Juan,
+    role: ein Diener der Donna Bella.
+    gender: m
+  - name: Skalvinnen und Sklaven.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Szene ist zu Konstantinopel.
+location:
+  wikidataId: Q16869
 ---
 slug: vulpius-betrug-ueber-betrug-oder-die-schnelle-bekehrung
 author:
