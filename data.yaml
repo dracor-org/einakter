@@ -10785,6 +10785,39 @@ setting: >-
 location:
   wikidataId: Q5753
 ---
+slug: bartholmae-das-grosse-loos
+author:
+  name: Bartholmä, Johann Georg
+  wikidata: Q60844998
+title: Das große Loos
+subtitle: Posse in Einem Akte
+numberOfScenes: 11
+printed: 1829
+premiered: 1819
+formalia:
+  - Verse
+editions:
+  - title: "Zwei dramatische Versuche von Bartholmä. Nürnberg: Raspe 1829"
+    url: https://books.google.com/books?id=EF06AAAAcAAJ&pg=RA1-PA3
+cast:
+  - name: Herr von Haudegen,
+    role: pensionirter Major.
+    gender: m
+  - name: Jungfer Marthe,
+    role: dessen Haushälterin.
+    gender: f
+  - name: Christoph Caspar Hahnenfuß,
+    role: Lotto-Kollekteur.
+    gender: m
+  - name: Hannchen,
+    role: seine Nichte.
+    gender: f
+  - name: Wilhelm Treulieb,
+    role: ein Student.
+    gender: m
+setting: >-
+  Abend. Einsame Straße einen kleinen Provinzialstadt.
+---
 slug: bartsch-die-macht-der-toene
 author:
   name: Bartsch, Leopold
@@ -18545,6 +18578,202 @@ setting: >-
   Die Handlung geht in Wien, in einem gemeinschaftlichen Saale, in Eduard's Wohnung vor. (Elegant meublirter Saal, mit einer Mittel- und zwei Seitenthüren.)
 location:
   wikidataId: Q1741
+---
+slug: ellmenreich-der-entfuehrte-offizier
+author:
+  name: Ellmenreich, Friederike
+  wikidata: Q1457035
+title: Der entführte Offizier
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 14
+printed: 1827
+premiered: 1823-10-14
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele. Frei nach dem Französischen bearbeitet von Friederike Ellmenreich. Zweiter Band. Mainz: Kupferberg 1827"
+    url: https://books.google.com/books?id=z1dFWhS9SucC&pg=RA1-PA3
+cast:
+  - name: Gräfin Dorset,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Marquis Gerval,
+    role: Garde-Lieutenant.
+    gender: m
+  - name: Remi,
+    role: Schloßverwalter der Gräfin.
+    gender: m
+  - name: Jeannette,
+    role: Kammermädchen.
+    gender: f
+  - name: Einige Bediente.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht auf einem Schlosse der Gräfin, unweit Paris, vor. (Die Bühne stellt einen großen reich meublirten Saal vor, in dessen Mitte ein Kamin ist, worin Feuer brennt. Zu beiden Seiten des Kamin's Thüren. Durch jene links, treten alle handelnden Personen ein, jene rechts bildet, geöffnet, einen Schrank, worin sich ein vollständiges Jagdgeräthe befindet. Der Saal wird durch einen in der Mitte hängenden Kronleuchter und die zu beiden Seiten auf den Tischen stehenden Armleuchter erhellt. Rechts, im Vorgrunde, eine Thüre, welche zu Gerval's Zimmer führt. Links ein Fenster. Auf einem der Tische steht ein Schreibzeug und Bücher.)
+location:
+  wikidataId: Q90
+---
+slug: ellmenreich-der-grosspapa
+author:
+  name: Ellmenreich, Friederike
+  wikidata: Q1457035
+title: Der Grosspapa
+subtitle: Lustspiel in einem Aufzug. Frei nach dem Französischen bearbeitet
+numberOfScenes: 18
+printed: 1827
+premiered: 1824-08-20
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Mélesville: [»Le bon papa, ou La proposition de mariage. Comédie-vaudeville en un acte«](https://books.google.com/books?id=iehKAAAAcAAJ&printsec=frontcover )"
+editions:
+  - title: "Lustspiele. Frei nach dem Französischen bearbeitet von Friederike Ellmenreich. Erster Band. Mainz: Kupferberg 1827"
+    url: https://books.google.com/books?id=iEqrdY4uTxcC&pg=RA3-PA1
+cast:
+  - name: Herr von Lautern,
+    role: ein reicher Privatmann, 70 Jahre alt.
+    gender: m
+  - group:
+      - name: Adolph,
+        role: 18 Jahre alt.
+        gender: m
+      - name: Emilie,
+        role: 15 Jahre alt.
+        gender: f
+    role: seine Enkel.
+  - name: Hofrath Flittner.
+    gender: m
+  - name: Henriette,
+    role: seine Nichte, 17 Jahre alt.
+    gender: f
+  - name: Margarethe,
+    role: Haushälterin bei Herrn von Lautern.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+settig: >
+  Die Handlung geht in einer großen Stadt, in Herrn von Lauterns Hause vor. (Elegant meublirtes Zimmer des Herrn von Lautern, mit einer Mittel- und zwei Seitenthüren. Links ein Kamin, worin Feuer brennt, auf derselben Seite ein Fenster. Rechts ein kleiner Eckschrank, weiter im Vorgrund ein Sopha, vor welchem ein kleiner, runder Tisch steht.)
+---
+slug: ellmenreich-der-vampyr
+author:
+  name: Ellmenreich, Friederike
+  wikidata: Q1457035
+title: Der Vampyr
+subtitle: Posse in einem Aufzug. Nach dem Französischen des Scribe
+numberOfScenes: 15
+printed: 1827
+premiered: 1839
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Mélesville: »Le vampire. Comédie-vaudeville en un acte«"
+editions:
+  - title: "Lustspiele. Frei nach dem Französischen bearbeitet von Friederike Ellmenreich. Erster Band. Mainz: Kupferberg 1827"
+    url: https://books.google.com/books?id=iEqrdY4uTxcC&pg=RA2-PA1
+comments:
+  - "»frei übers. ohne die Gesangseinlagen« ([Goedeke](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA380))"
+keywords:
+  - Aberglaube
+  - Verstellspiel
+cast:
+  - name: Graf von Mannsfred,
+    role: General.
+    gender: m
+  - name: Albert von Mannsfred,
+    role: sein Neffe.
+    gender: m
+  - name: Baron Belhazy,
+    role: ein ungarischer Edelmann.
+    gender: m
+  - name: Leonore von Wallstein,
+    role: seine Braut.
+    gender: f
+  - name: Ulrike,
+    role: ihre Schwester.
+    gender: f
+  - name: Thormann,
+    role: Schloßverwalter.
+    gender: m
+  - name: Peter,
+    role: sein Vetter.
+    gender: m
+  - name: Karl,
+    role: Jäger des Generals.
+    gender: m
+  - name: Ein Notar.
+    gender: m
+setting: >-
+  Die Handlung ist in Ungarn. (Die Bühne stellt einen gothischen Saal mit einer Mittel- und zwei Seitenthüren vor. Links im Vorgrund ein Fenster, rechts ein Tisch mit Schreibgeräthe. Rechts im Vorgrund eine kleine Kabinettsthüre.)
+location:
+  wikidataId: Q28
+---
+slug: ellmenreich-die-beiden-wittwen-oder-der-kontrast
+author:
+  name: Ellmenreich, Friederike
+  wikidata: Q1457035
+title: "Die beiden Wittwen oder: Der Kontrast"
+subtitle: Lustspiel in einem Aufzug. Frei nach dem Französischen bearbeitet
+numberOfScenes: 20
+printed: 1827
+premiered: 1822-10-22
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele. Frei nach dem Französischen bearbeitet von Friederike Ellmenreich. Erster Band. Mainz: Kupferberg 1827"
+    url: https://books.google.com/books?id=iEqrdY4uTxcC&pg=RA1-PA1
+comments:
+  - Uraufführung ohne Nennung der Verfasserin.
+cast:
+  - name: Gräfin Lukrezia,
+    role: Wittwe des älteren Grafen von Torstendorf.
+    gender: f
+  - name: Gräfin Albertine,
+    role: Wittwe des jüngern Grafen von Torstendorf.
+    gender: f
+  - name: Baron Fliederstamm,
+    role: ein pommer'scher Edelmann.
+    gender: m
+  - name: Baron Blumenau,
+    role: ein berliner Elegant.
+    gender: m
+  - name: Tobias,
+    role: alter Diener der Gräfin Lukrezia.
+    gender: m
+  - name: Florine,
+    role: Kammermädchen der Gräfin Albertine.
+    gender: f
+setting: >-
+  Die Handlung geht auf einem alten Schlosse, dem Wittwensitze beider Gräfinnen, vor.
+---
+slug: ellmenreich-michel-und-christine
+author:
+  name: Ellmenreich, Friederike
+  wikidata: Q1457035
+title: Michel und Christine
+subtitle: Lustspiel in einem Aufzug. Frei nach dem Französischen bearbeitet
+numberOfScenes: 14
+printed: 1827
+premiered: 1830-10-17
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele. Frei nach dem Französischen bearbeitet von Friederike Ellmenreich. Zweiter Band. Mainz: Kupferberg 1827"
+    url: https://books.google.com/books?id=z1dFWhS9SucC&pg=PA1
+cast:
+  - name: Christine,
+    role: Wirthin zum goldenen Lamm.
+    gender: f
+  - name: Grimm,
+    role: Soldat.
+    gender: m
+  - name: Michel.
+    gender: m
+  - name: Hans,
+    role: Aufwärter.
+    gender: m
+setting: >-
+  Die Bühne stellt einen Garten vor, welcher von einer Hecke eingezäunt ist. In der Mitte eine Gatterthüre, über welcher als Schild ein goldenes Lamm angebracht ist. Rechts im Vordergrund ist der Eingang in das Innere des Wirthshauses, an welchem dasselbe Schild hängt. Im Garten stehen mehrere hölzerne Tische und Bänke. Im Hintergrund der Bühne erblickt man eine bergigte Gegend und einige Bauernhäuser.
 ---
 slug: elsholtz-kuenstler-rache-oder-der-polterabend
 author:
@@ -34462,11 +34691,11 @@ cast:
     gender: m
 setting: Die Scene, ein Zelt in dem Lager des Aridäus.
 ---
-slug: lessing-vor-diesem
+slug: lessing-vor-diesen
 author:
   name: Lessing, Gotthold Ephraim
   wikidata: Q34628
-title: Vor diesem!
+title: Vor diesen!
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 4
 created: 1756
@@ -34484,7 +34713,8 @@ editions:
   - title: "Lessings sämmtliche lyrische, epische und dramatische Werke und seine vorzüglichen Prosaschriften. Leipzig und Teschen: Prochaska [1868], S. 215–217"
     url: https://books.google.com/books?id=7EY_AAAAcAAJ&pg=PA215
 comments:
-  - Fragment
+  - Fragment.
+  - Im Druck »Vor diesem!« statt wie bei Lessing »Vor diesen!« – Diese Verhochdeutschung des sächsischen Dativs geht auf Karl Lessing zurück.
 cast:
   - name: Wilibald.
     gender: m
@@ -37182,7 +37412,7 @@ cast:
     isGroup: true
     gender: u
 setting: >-
-  Die Handlung geht in Amerika auf einer wüsten unfruchtbaren Insel vor, und dauert von Frühmorgens bis Mittag. (Eine wüste Insel –  die Aussicht in das ofne Meer, wo man noch Trümmer eines gescheiterten Schiffs in der Ferne erblickt; Rechts ist eine schlechte bretterne Hütte errichtet, in welcher Ines mit ihren Knaben schlummert; – die Bühne ist anfangs Dunkel, wird aber mit dem Gang des Stücks mit jedem Auftritt Heller.)
+  Die Handlung geht in Amerika auf einer wüsten unfruchtbaren Insel vor, und dauert von Frühmorgens bis Mittag. (Eine wüste Insel – die Aussicht in das ofne Meer, wo man noch Trümmer eines gescheiterten Schiffs in der Ferne erblickt; Rechts ist eine schlechte bretterne Hütte errichtet, in welcher Ines mit ihren Knaben schlummert; – die Bühne ist anfangs Dunkel, wird aber mit dem Gang des Stücks mit jedem Auftritt Heller.)
 ---
 slug: moritz-blunt-oder-der-gast
 author:
@@ -49748,7 +49978,7 @@ author:
   name: Vulpius, Christian August
   wikidata: Q65376
 title: Zufall und Laune
-subtitle: Ein Lustspiel in Einem  Aufzuge
+subtitle: Ein Lustspiel in Einem Aufzuge
 numberOfScenes: 24
 printed: 1794
 formalia:
