@@ -58,7 +58,7 @@ printed: 1824
 formalia:
   - Alexandriner
 editions:
-  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth 1824, S. 199–288"
+  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth [1824], S. 199–288"
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA199
 comments:
   - "Besprechung in: Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 380](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA380)."
@@ -686,6 +686,40 @@ setting: >-
   Wirthshaus mit einem Schilde, worauf geschrieben steht: »Tabagie und
   Garten-Vergnügen.« Links an allen Coulissen eine Mauer mit einer Gitterthür,
   die in einen anstoßenden Garten führt.
+---
+slug: angely-die-wittwe-und-ihr-mann
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: Die Wittwe und ihr Mann
+subtitle: Lustspiel in 1 Akt
+numberOfScenes: 18
+printed: 1836
+premiered: 1834-03-23
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Desserts. Herausgegeben von E. M. Oettinger. Hamburg: Magazin für Buchhandel, Musik und Kunst [1836], S. 45–114"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10128154_00053.html
+cast:
+  - name: Herr von Brecourt.
+    gender: m
+  - name: Adele,
+    role: seine Gattin.
+    gender: f
+  - name: Pauline,
+    role: deren Nichte.
+    gender: f
+  - name: Adolph von Norville,
+    role: Paulines Bräutigam.
+    gender: m
+  - name: Mariane,
+    role: Kammermädchen.
+    gender: f
+setting: >-
+  Das Stück spielt auf einem Landhause nahe bey Paris. (Bühne. Ein elegantes Zimmer. In der ersten Coulisse links vom Zuschauer eine Seitenthür, die in Adelen's Zimmer führt; rechts gegenüber zu Paulinen's Zimmer. In der zweiten Coulisse rechts ein Kamin, worin ein Feuer brennt. Im Hintergrunde Mittelthür, die nach außen führt. Im Winkel rechts noch eine Seitenthür; im Winkel links ein Fenster nach dem Park. Vorn rechts ein Tisch, darauf ein Stammbuch, Bleistift, Schreibzeug etc.)
+location:
+  wikidataId: Q90
 ---
 slug: angely-frauen-freundschaft
 author:
@@ -10315,7 +10349,7 @@ premiered: 1821-09-17
 formalia:
   - Verse
 editions:
-  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth 1824, S. 1–41"
+  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth [1824], S. 1–41"
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA1
 comments:
   - "Besprechung in: Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 378–379](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA378)."
@@ -10724,7 +10758,7 @@ premiered: 1815-05-05
 formalia:
   - Alexandriner
 editions:
-  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth 1824, S. 43–69"
+  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth [1824], S. 43–69"
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA43
 comments:
   - "Zur (Erst-?)aufführung in Berlin vgl. [Goedeke](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA461)."
@@ -12488,6 +12522,68 @@ setting: >-
   Im Vordergrunde, links vom Zuschauer, ein großer Haufen Ankertaue und Stricke;
   dicht daneben einige Balken, Sägen und ein Häufchen Holzabfall. –
   Morgendämmerung.)
+location:
+  wikidataId: Q656
+---
+slug: birch-pfeiffer-wie-ist-das-zugegangen
+author:
+  name: Birch-Pfeiffer, Charlotte
+  wikidata: Q68117
+title: "Wie ist das zugegangen?"
+subtitle: Lustspiel in 1 Akt
+numberOfScenes: 24
+printed: 1836
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Desserts. Herausgegeben von E. M. Oettinger. Hamburg: Magazin für Buchhandel, Musik und Kunst [1836], S. 1–44"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10128154_00009.html
+comments:
+  - "1832 als Erzählung von Birch-Pfeiffer [unter demselben Titel](https://books.google.com/books?id=nHxEAAAAcAAJ&pg=PA357)."
+cast:
+  - name: Graf Kurakow,
+    role: Polizey-Präsident in St. Petersburg.
+    gender: m
+  - name: Baron von Saldern,
+    role: ein reicher Banquier.
+    gender: m
+  - name: Victor,
+    role: sein Sohn.
+    gender: m
+  - name: Gräfin Solowsky.
+    gender: f
+  - name: Alexandrine,
+    role: ihre Nichte.
+    gender: f
+  - name: Obrist Grubenikow.
+    gender: m
+  - name: Ninon Fleure,
+    role: eine Pariser Tänzerin.
+    gender: f
+  - name: Jeannette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Vermeuil,
+    role: ein Juwelier.
+    gender: m
+  - group:
+      - name: Jacob,
+        gender: m
+      - name: Wilhelm,
+        gender: m
+    role: Bediente des alten Baron Saldern.
+  - name: François,
+    role: Victors Kammerdiener.
+    gender: m
+  - name: Der Haushofmeister der Gräfin Solowsky.
+    gender: m
+  - name: Polizeydiener.
+    gender: m
+  - name: Diener der Gräfin.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung spielt in St. Petersburg. (Glänzendes Zimmer im Hause des Baron Saldern.)
 location:
   wikidataId: Q656
 ---
@@ -16717,6 +16813,53 @@ setting: >-
   Die Scene spielt in dem piemontesischen Dorfe San-Giuliano. Zeit der Handlung das Jahr 1800. (Freier Platz im Dorfe San-Giuliano. Zur Rechten Mikéli's Wirthshaus, zur Linken eine Schmiede mit einem Schilde, worauf zu lesen: »Carmagnole, Hufschmidt.« In der Mitte der Bühne ein grosser Baum. Im Hintergrunde ein Bach, über welchen eine hölzerne Brücke führt.)
 location:
   wikidataId: Q3947324
+---
+slug: cosmar-die-ehrendame
+author:
+  name: Cosmar, Alexander
+  wikidata: Q19125906
+title: Die Ehrendame
+subtitle: Lustspiel in einem Aufzuge, nach Dupin
+numberOfScenes: 18
+printed: 1836
+premiered: 1835-03-25
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Desserts. Herausgegeben von E. M. Oettinger. Hamburg: Magazin für Buchhandel, Musik und Kunst [1836], S. 169–208"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10128154_00177.html
+  - title: "Dramatischer Salon. Almanach kleiner Bühnenspiele zur Unterhaltung in geselligen Kreisen. Von Alexander Cosmar. Erster Jahrgang. Berlin: Morin 1839, S. 127–173"
+    url: https://books.google.com/books?id=geNMAAAAcAAJ&pg=PA127
+cast:
+  - name: Der Herzog von York,
+    role: Bruder Carls II., Königs von England.
+    gender: m
+  - name: Die Herzogin von York.
+    gender: f
+  - group:
+      - name: Miß Temple,
+        gender: f
+      - name: Miß Hobart,
+        gender: f
+    role: Ehrendamen.
+  - name: Lord Cornwallis.
+    gender: m
+  - name: Littleton,
+    role: Offizier der Garde.
+    gender: m
+  - name: Ein Offizier.
+    gender: m
+  - name: Ein Page.
+    gender: m
+  - name: Eine Gerichtsperson.
+    gender: m
+  - name: Mehrere Herren und Damen des Hofes.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene spielt in England, im Schlosse zu Windsor, 1662. (Großer Saal mit einer Gallerie. Im Hintergrunde der Haupteingang. Rechts und links eine Seitenthür. Im Vorgrunde ein Tisch mti einer Decke, auf demselben die nöthigen Schreibmaterialien.)
+location:
+  wikidataId: Q42646
 ---
 slug: cosmar-hummer-und-compagnie
 author:
@@ -23722,6 +23865,78 @@ cast:
     gender: m
 setting: Die Handlung ist in Konaus Hause.
 ---
+slug: herrmann-das-schreckens-gewebe
+author:
+  name: Herrmann, Bernhard Anton
+  wikidata: Q55123021
+title: Das Schreckens-Gewebe
+subtitle: Posse in 1 Akt. Frei nach dem Französischen
+numberOfScenes: 19
+printed: 1837
+premiered: 1837-01-04
+formalia:
+  - Prosa
+basedOn:
+  - "Léon-Lévy Brunswick et Victor Lhérie: [»Un tissu d'horreurs. Vaudeville en un acte«](https://books.google.com/books?id=irloAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatische Desserts für das Jahr 1837. Herausgegeben von E. M. Oettinger. Hamburg [1837], S. 91–126"
+    url: https://sammlungen.ulb.uni-muenster.de/um/periodical/pageview/1994382
+cast:
+  - name: Herr Rose,
+    role: ehemals Spezereihändler.
+    gender: m
+  - name: Madame Rose,
+    role: seine Frau.
+    gender: f
+  - name: Cäcilie,
+    role: ihre Pflegetochter.
+    gender: f
+  - name: Eduard Freund.
+    gender: m
+  - name: Lene,
+    role: Rose's Haushälterin.
+    gender: f
+  - name: Valentin,
+    role: Rose's Diener.
+    gender: m
+setting: >-
+  Das Stück spielt in Perleberg, in Rose's Wohnung. (Eine Stube mit einem Fenster. – Schreibpult, Stühle, ein Lehnstuhl, in der Ecke ein großer Reisekoffer, an der Wand hängen zwei Pistolen.)
+location:
+  wikidataId: Q498540
+---
+slug: herrmann-die-liebe-im-ersten-und-im-dritten-stock
+author:
+  name: Herrmann, Bernhard Anton
+  wikidata: Q55123021
+title: Die Liebe im ersten und im dritten Stock
+subtitle: Lustspiel in 1 Akt
+numberOfScenes: 14
+printed: 1837
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Desserts für das Jahr 1837. Herausgegeben von E. M. Oettinger. Hamburg [1837], S. 203–240"
+    url: https://sammlungen.ulb.uni-muenster.de/um/periodical/pageview/1994494
+cast:
+  - name: Frau von Gronau,
+    role: eine junge Wittwe.
+    gender: f
+  - name: August Freiberg,
+    role: Advokat.
+    gender: m
+  - name: Ludwig Ewald,
+    role: Beamter.
+    gender: m
+  - name: Herr Breitfuß.
+    gender: m
+  - name: Joseph,
+    role: Bedienter.
+    gender: m
+setting: >-
+  Die Scene ist in Wien, im Hause der Frau von Gronau. (Elegantes Zimmer, mit Seiten und Mittelthüren.)
+location:
+  wikidataId: Q1741
+---
 slug: herrl-der-faschingsstreich
 author:
   name: Herrl, Johann Joseph von
@@ -26338,7 +26553,7 @@ printed: 1824
 formalia:
   - Alexandriner
 editions:
-  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth 1824, S. 145–198"
+  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth [1824], S. 145–198"
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA145
 comments:
   - "Hinweis auf Einaktigkeit (»Lustspiel in einem Acte«) in: Allgemeines Repertorium der neuesten in- und ausländischen Literatur für 1824. Zweiter Band. Zweites Stück. Leipzig: Cnobloch 1824, [S. 113](https://books.google.com/books?id=nudMAAAAcAAJ&pg=PA113)."
@@ -38507,6 +38722,106 @@ setting: >-
 location:
   wikidataId: Q649
 ---
+slug: oettinger-der-journalist
+author:
+  name: Oettinger, Eduard Maria
+  wikidata: Q120261
+title: Der Journalist
+subtitle: Original-Lustspiel in einem Akt
+numberOfScenes: 27
+printed: 1836
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Desserts. Herausgegeben von E. M. Oettinger. Hamburg: Magazin für Buchhandel, Musik und Kunst [1836], S. 355–403"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10128154_00363.html
+cast:
+  - name: Frau von Beauvalle.
+    gender: f
+  - name: Victor,
+    role: ihr Neffe, ein junger Journalist.
+    gender: m
+  - name: Amelie,
+    role: eine junge Schauspielerin.
+    gender: f
+  - name: Jeannette,
+    role: Kammermädchen der Frau von Beauvalle.
+    gender: f
+  - name: Germain,
+    role: Victors Bedienter.
+    gender: m
+setting: >-
+  Die Handlung spielt in Paris, in dem Hause der Frau von Beauvalle. (Ein elegantes Zimmer, mit Tisch, Sopha, Stühlen etc.)
+location:
+  wikidataId: Q90
+---
+slug: oettinger-der-regenschirm
+author:
+  name: Oettinger, Eduard Maria
+  wikidata: Q120261
+title: Der Regenschirm
+subtitle: Schwank in 1 Akt
+numberOfScenes: 19
+printed: 1836
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Desserts. Herausgegeben von E. M. Oettinger. Hamburg: Magazin für Buchhandel, Musik und Kunst [1836], S. 209–252"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10128154_00217.html
+cast:
+  - name: Louise.
+    gender: f
+  - name: Emma.
+    gender: f
+  - name: Herr von Springer.
+    gender: m
+  - name: Herr von Bock.
+    gender: m
+setting: >-
+  Die Bühne stellt den Graben zu Wien vor.
+location:
+  wikidataId: Q1741
+---
+slug: oettinger-die-getaeuschten
+author:
+  name: Oettinger, Eduard Maria
+  wikidata: Q120261
+title: Die Getäuschten
+subtitle: Original-Lustspiel in 1 Aufzuge
+numberOfScenes: 20
+printed: 1837
+premiered: 1830-10-12
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Desserts für das Jahr 1837. Herausgegeben von E. M. Oettinger. Hamburg [1837], S. 127–167"
+    url: https://sammlungen.ulb.uni-muenster.de/um/periodical/pageview/1994418
+comments:
+  - "Besprechung in: Repertorium der gesammten deutschen Literatur. Elfter Band. Leipzig: Brockhaus 1837, [S. 372–373](https://books.google.com/books?id=q-8EAAAAQAAJ&pg=PA372)."
+cast:
+  - name: Emilie von Berg,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Therese,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Baronin von Hammelberg.
+    gender: f
+  - name: Hermann von Thal,
+    role: ihr Neffe.
+    gender: m
+  - name: Carl,
+    role: sein Bedienter.
+    gender: m
+  - name: Carl,
+    role: Emiliens Bedienter und Theresens Liebhaber.
+    gender: m
+  - name: Löwenzahn,
+    role: Executor.
+    gender: m
+setting: >-
+  Die Handlung geht in der Wohnung der Frau von Berg von. (Ein elegantes Zimmer mit zwei Thüren im Hintergrunde. Rechts am Fenster ein modernes Sopha. Aus der rechten Thür kommt Emilie, gleich hinter ihr Therese.)
+---
 slug: oliva-figaros-reue-nach-der-hochzeit
 author:
   name: Oliva, Adam Franz
@@ -41282,7 +41597,7 @@ formalia:
 editions:
   - title: "Berlin: Bloch [1823]"
     url: http://resolver.staatsbibliothek-berlin.de/SBB0002A66C00000000
-  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth 1824, S. 71–143"
+  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth [1824], S. 71–143"
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA71
 comments:
   - Begleitet von einem [»Vorbericht über das Metrum des folgenden Lustspiels«](https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA73), worin es um das angemessene Metrum für das Lustspiel geht; unter anderem werden Kotzebues Werke erwähnt und Goethes Einakter »Die Mitschuldigen«.
@@ -44214,6 +44529,69 @@ cast:
 setting: >-
   Der Schauplatz ist bald ein Saal, bald ein an denselben gränzendes Kabinett.
 ---
+slug: schmelka-die-arsenikbuechse
+author:
+  name: Schmelka, Heinrich
+  wikidata: Q1598752
+title: Die Arsenikbüchse
+subtitle: "Posse in Einem Akt. Nach Göthe's Operntext: »List, Liebe und Rache« frei bearbeitet"
+numberOfScenes: 17
+printed: 1837
+premiered: 1824-06-26
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Desserts für das Jahr 1837. Herausgegeben von E. M. Oettinger. Hamburg [1837], S. 169–202"
+    url: https://sammlungen.ulb.uni-muenster.de/um/periodical/pageview/1994460
+comments:
+  - "Vorlage: Johann Wolfgang Goethes Singspiel [»Scherz, List und Rache«](https://books.google.com/books?id=g7ICKXE76f0C&printsec=frontcover)."
+  - "Besprechung in: Repertorium der gesammten deutschen Literatur. Elfter Band. Leipzig: Brockhaus 1837, [S. 373](https://books.google.com/books?id=q-8EAAAAQAAJ&pg=PA373)."
+cast:
+  - name: Lothschlag,
+    role: ein Quacksalber.
+    gender: m
+  - group:
+      - name: Armthal,
+        gender: m
+      - name: Louise,
+        role: seine Frau,
+        gender: f
+    role: Schauspieler außer Engagement.
+setting: >-
+  Die Handlung ist in einem Landstädtchen. (Ein Altmodisches Zimmer, mit Mittelthür und zwei Seitenthüren. Links im Vordergrunde ein Fenster. Rechts im Vordergrunde ein Gestelle mit Arzneibüchsen, Gläsern, Schachteln, etc. Ein Tisch zur Rechten, ein Großvaterstuhl zur Linken.)
+---
+slug: schmelka-wenn-nur-der-rechte-kommt
+author:
+  name: Schmelka, Heinrich
+  wikidata: Q1598752
+title: Wenn nur der Rechte kommt!
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1822
+premiered: 1822-01-25
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Nachspiele. Erster Jahrgang, für 1822. Herausgegeben von Carl von Holtei. Breslau: Graß, Barth & Co.; Leipzig: Barth [1822], S. 77–129"
+    url: https://books.google.com/books?id=BmdIAQAAMAAJ&pg=PA77
+cast:
+  - name: Obrist Brand,
+    role: außer Dienst.
+    gender: m
+  - name: Julie,
+    role: seine Tochter.
+    gender: f
+  - name: Lieschen,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Rittmeister Selting.
+    gender: m
+  - name: Johann,
+    role: sein Bedienter.
+    gender: m
+setting: >-
+  Das Stück spielt auf einem Landhause des Obersten, nahe bei der Stadt. (Scene: Garten. Linker Hand im zweiten Flügel ein Haus im modernen Geschmack, mit einer Glocke zum Anläuten versehen. Rechts ein Tisch und eine Rasenbank.)
+---
 slug: schmieder-der-gutherzige-sohn
 author:
   name: Schmieder, Heinrich Gottlieb
@@ -46673,7 +47051,7 @@ printed: 1824
 formalia:
   - Prosa
 editions:
-  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth 1824, S. 289–343"
+  - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth [1824], S. 289–343"
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA289
 comments:
   - Erstdruck posthum 1824, genaues Entstehungsdatum bisher nicht ermittelt, terminus ante quem ist 1813, Sessas Todesjahr.
@@ -48797,6 +49175,94 @@ setting: >-
   Ein Garten mit einem Gitter hinten, durch das man ein Haus erblickt, welches
   der Sekretair bewohnt. Cyprians und Barbara's Haus befindet sich rechts im
   Garten, links Lauben, Gebüsch etc.
+---
+slug: toepfer-die-weisse-piquesche
+author:
+  name: Töpfer, Carl
+  wikidata: Q16650514
+title: Die weiße Piquesche
+subtitle: Schwank in 1 Akt
+numberOfScenes: 20
+printed: 1837
+premiered: 1834-08-03
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Desserts für das Jahr 1837. Herausgegeben von E. M. Oettinger. Hamburg [1837], S. 241–284"
+    url: https://sammlungen.ulb.uni-muenster.de/um/periodical/pageview/1994532
+  - title: "Lustspiele von Dr. Carl Toepfer. Siebenter Band. Berlin: Duncker und Humblot 1851, S. 401–470"
+    url: https://books.google.com/books?id=qBAQAAAAYAAJ&pg=PA401
+cast:
+  - name: Oberamtmann Sauser.
+    gender: m
+  - name: Ernst Sauser,
+    role: sein Neffe.
+    gender: m
+  - name: Ida Roth,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Wilhelm Hill.
+    gender: m
+  - name: Lebrecht,
+    role: des Oberamtmanns Aktuar.
+    gender: m
+  - name: Johann,
+    role: Ernst's Diener.
+    gender: m
+  - name: Louise,
+    role: Kammermädchen bei Ida Roth.
+    gender: f
+  - group:
+      - name: Betty,
+        gender: f
+      - name: Trinchen,
+        gender: f
+      - name: Anna,
+        gender: f
+      - name: Doris,
+        gender: f
+    role: Dienstmädchen im Hause der Wittwe.
+  - group:
+      - name: Schneider Meck,
+        gender: m
+      - name: Jude Schmuel,
+        gender: m
+      - name: Mehrere Schuldner,
+        isGroup: true
+        gender: m
+    role: hinter der Scene.
+  - name: Ein Schneiderbursch.
+    gender: m
+setting: >-
+  Sehr kurzes Garçon-Zimmer.
+---
+slug: toepfer-nehmt-ein-exempel-dran
+author:
+  name: Töpfer, Carl
+  wikidata: Q16650514
+title: Nehmt ein Exempel d'ran!
+subtitle: Lustspiel in Alexandrinern und einem Aufzuge
+numberOfScenes: 12
+printed: 1830
+premiered: 1828-08-07
+formalia:
+  - Alexandriner
+editions:
+  - title: "Lustspiele von Dr. Carl Toepfer. Berlin: Duncker und Humblot 1830, S. 157–208"
+    url: https://books.google.com/books?id=jh6VyAEACAAJ&pg=PA157
+cast:
+  - name: Der Onkel.
+    gender: m
+  - name: Der Mann.
+    gender: m
+  - name: Die Frau.
+    gender: f
+  - name: Das Dienstmädchen.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Ein bürgerliches aber freundliches Wohnzimmer. Rechts ein Fenster, daneben ein hölzerner Ständer, auf welchem der Reihe nach verschiedene Pfeifen stehen. Ein gefüllter Tabackskasten. Stahl, Stein und Schwamm befinden sich ebenfalls auf demselben. Gegenüber ein großer Schrank, mit Damengarderobe angefüllt. Auf einem Stuhle liegt Näherei.
 ---
 slug: topp-still
 author:
