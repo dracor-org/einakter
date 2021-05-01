@@ -1,4 +1,38 @@
 ---
+slug: achat-ein-april-scherz
+author:
+  pseudonym: Achat
+title: Ein April-Scherz
+subtitle: Original-Lustspiel in einem Akt
+numberOfScenes: 22
+printed: 1842
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Einundzwanzigster Jahrgang, für 1842. Berlin: Vereins-Buchhandlung 1842, S. 45–74"
+    url: https://books.google.com/books?id=qHNIAQAAMAAJ&pg=PA45
+comments:
+  - Autor nicht ermittelt.
+cast:
+  - name: Fräulein Cornelia v. Brodelwitz.
+    gender: f
+  - name: Betty,
+    role: ihr Mädchen.
+    gender: f
+  - name: Louise v. Mellingen,
+    role: ihre Nichte.
+    gender: f
+  - name: Eduard v. Mellingen,
+    role: deren Bruder.
+    gender: m
+  - name: Rittmeister v. Dorneck.
+    gender: m
+  - name: Franz,
+    role: dessen Reitknecht.
+    gender: m
+setting: >-
+  Der Schauplatz ist ein elegant möblirtes Zimmer, auf dem Landgute des Fräuleins von Brodelwitz.
+---
 slug: albini-das-crimen-plagii-oder-die-gleichen-haben-sich-gefunden
 author:
   name: Meddlhammer, Albin Johann Baptist von
@@ -620,6 +654,46 @@ cast:
     gender: m
 setting: Der Schauplatz ist in Michels Hause.
 ---
+slug: angely-das-ehepaar-aus-der-alten-zeit
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: Das Ehepaar aus der alten Zeit
+subtitle: Localer Scherz in Einem Akt. Als Vaudeville behandelt, und mit bekannten Melodien versehen
+numberOfScenes: 12
+printed: 1828
+premiered: 1825-07-16
+formalia:
+  - Prosa
+editions:
+  - title: "Vaudevilles und Lustspiele. Theils Originale, theils Uebertragungen und Bearbeitungen von L. Angely. Berlin: Cosmar und Krause 1828"
+    url: https://books.google.com/books?id=hmU6AAAAcAAJ&pg=PA1
+  - title: "Vaudevilles und Lustspiele von L. Angely. Dritter Band. Berlin: Klemann 1842, S. 133–192"
+    url: https://books.google.com/books?id=KkZojL0Qm6YC&pg=PA133
+cast:
+  - name: Herr Hyacinthe Duval,
+    role: von der französischen Colonie, von einer kleinen Pension lebend.
+    gender: m
+  - name: Madame Rose Duval,
+    role: seine Gattin.
+    gender: f
+  - name: Hortense,
+    role: deren Tochter.
+    gender: f
+  - name: Klapper,
+    role: ein Lederhändler.
+    gender: m
+  - name: Madame Klapper,
+    role: seine Frau.
+    gender: f
+  - name: August,
+    role: deren Sohn.
+    gender: m
+setting: >-
+  Scene: Berlin. (Ein einfaches, ärmlich möblirtes Zimmer mit zwei Cabinetsthüren. Links ein Fenster, an dem eine Scheibe zerbrochen ist; am Fensterrahmen hängt ein kleiner Handspiegel. Im Hintergrunde ein alter Spieltisch, an der Wand eine hölzerne Uhr. Dem Fenster gegenüber ein alter Toilettentisch mit einem Spiegel; an der Seite links ein altväterisches Canapee. Alte Gemälde an den Wänden. An einem Nagel hängt ein altes Parapluie von geflammtem Stoffe, ein dreieckiger Huth, ein Comptoir-Calender; auf einem Tische im Hintergrunde liegt eine Flöte und ein Notenblatt. An der Seite rechts ein Kamin, darauf ein ausgestopfter Mops und mehrere Tassen. Im Kamin brennt ein Nachtlämpchen.)
+location:
+  wikidataId: Q64
+---
 slug: angely-das-fest-der-handwerker
 author:
   name: Angely, Louis
@@ -686,6 +760,98 @@ setting: >-
   Wirthshaus mit einem Schilde, worauf geschrieben steht: »Tabagie und
   Garten-Vergnügen.« Links an allen Coulissen eine Mauer mit einer Gitterthür,
   die in einen anstoßenden Garten führt.
+---
+slug: angely-der-schmarotzer-in-der-klemme
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: Der Schmarotzer in der Klemme
+subtitle: Vaudeville in Einem Akt, nach dem Französischen des Scribe, frei bearbeitet
+numberOfScenes: 20
+printed: 1828
+formalia:
+  - Prosa
+basedOn:
+  - Scribe
+editions:
+  - title: "Vaudevilles und Lustspiele. Theils Originale, theils Uebertragungen und Bearbeitungen von L. Angely. Berlin: Cosmar und Krause 1828"
+    url: https://books.google.com/books?id=hmU6AAAAcAAJ&pg=RA5-PA1
+  - title: "Vaudevilles und Lustspiele von L. Angely. Zweiter Band. Berlin: Klemann 1842, S. 131–195"
+    url: https://books.google.com/books?id=C_HO9ppvaQ0C&pg=PA131
+cast:
+  - name: Schmeckebein.
+    gender: m
+  - name: Gutbart,
+    role: Hauseigenthümer.
+    gender: m
+  - name: Louise,
+    role: seine Tochter.
+    gender: f
+  - name: Wanner,
+    role: Architect, ihr Bräutigam.
+    gender: m
+  - name: Bohmhammel,
+    role: Gastwirth.
+    gender: m
+  - name: Jörner,
+    role: reicher Fabrikant in Berlin.
+    gender: m
+  - name: Weiß,
+    role: dessen Freund.
+    gender: m
+  - name: Franz,
+    role: Jörners Bedienter.
+    gender: m
+  - name: Ein Gendarm.
+    gender: m
+  - name: Hochzeitsgäste. Kinder. Kellner und Aufwärter. Fabrikarbeiter. Bauern und Bäuerinnen. Gensdarmen. Ein kleiner Junge.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Stück spielt in Pankow, einem bedeutenden Lustdorfe, eine Stunde von Berlin. (Eine angenehme Landschaft; links, angenommen am Eingange des Dorfes, ein hübsches neu gebautes Haus; rechts Bohmhammels Gasthof, mit der Inschrift: zum dreisten Hahn.)
+location:
+  wikidataId: Q4707648
+---
+slug: angely-die-beiden-hofmeister-oder-asinus-asinum-fricat
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: Die beiden Hofmeister oder Asinus asinum fricat
+subtitle: Vaudeville in Einem Akt frei nach dem Französischen
+numberOfScenes: 22
+printed: 1828
+premiered: 1825-03-21
+formalia:
+  - Prosa
+editions:
+  - title: "Vaudevilles und Lustspiele. Theils Originale, theils Uebertragungen und Bearbeitungen von L. Angely. Berlin: Cosmar und Krause 1828"
+    url: https://books.google.com/books?id=hmU6AAAAcAAJ&pg=RA4-PA1
+cast:
+  - name: Herr v. Schwach,
+    role: ein reicher Gutsbesitzer in der Mark.
+    gender: m
+  - name: Karl,
+    role: sein Sohn.
+    gender: m
+  - name: Elise,
+    role: seine Nichte.
+    gender: f
+  - name: Zachäus Schlaglieb,
+    role: Dorf-Schulmeister.
+    gender: m
+  - name: Johann Quirl.
+    gender: m
+  - name: Hannchenm
+    role: Schlagliebs Nichte, Gärtnerin im Schlosse.
+    gender: f
+  - name: Anton,
+    role: Bedienter.
+    gender: m
+  - name: Junge Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Stück spielt auf dem Landgute des Herrn v. Schwach; das Theater stellt einen Garten vor; links das herrschaftliche Wohnhaus, rechts bis an den Hintergrund eine Mauer, hinter welcher man ein anderes kleineres Gebäude erblickt; die Mauer hat eine verschlossene Thür. Der Garten ist hinten mit einem Gitter, worin eine Thür, umgeben.
 ---
 slug: angely-die-wittwe-und-ihr-mann
 author:
@@ -763,6 +929,93 @@ setting: >-
   Scene: eine kleine Stadt in der Nähe Berlins. Ein Gartensaal, große
   Mittelthüre, zwei Seitenthüren. Elegantes Ameublement. Ein Büreau. Lehnsessel.
 ---
+slug: angely-herr-blaubart-oder-das-geheimnissvolle-kabinett
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: Herr Blaubart oder das geheimnißvolle Kabinett
+subtitle: Posse in Einem Akt, frei nach dem Französischen
+numberOfScenes: 24
+printed: 1828
+premiered: 1825-09-21
+formalia:
+  - Prosa
+basedOn:
+  - "Henri Dupin und Antoine-François Varner: [»Monsieur Barbe Bleue, ou Le cabinet mystérieux. Folie en un acte, mêlée de couplets«](https://books.google.com/books?id=k1loAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Vaudevilles und Lustspiele. Theils Originale, theils Uebertragungen und Bearbeitungen von L. Angely. Berlin: Cosmar und Krause 1828"
+    url: https://books.google.com/books?id=hmU6AAAAcAAJ&pg=RA1-PA1
+cast:
+  - name: Herr Blaubart,
+    role: ein Weinhändler.
+    gender: m
+  - name: Marie Gernejung,
+    role: seine Braut.
+    gender: f
+  - name: Adolph von Grauen,
+    role: Dragoner-Hauptmann.
+    gender: m
+  - name: Elise Gernejung,
+    role: seine Gattin.
+    gender: f
+  - name: Purzel,
+    role: Visitator.
+    gender: m
+  - name: Niclas,
+    role: Blaubarts Diener.
+    gender: m
+  - name: Durstig,
+    role: Dragoner, Adolphs Diener.
+    gender: m
+  - name: Hochzeitsgäste, Zollbeamte.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene: Blaubarts Haus am äußersten Ende der Vorstadt einer deutschen Residenz. – Das Theater stellt einen gemeinschaftlichen Saal mit zwei Hinterthüren vor; rechts ein verschlossenes Kabinett, links ein Fenster.
+---
+slug: angely-list-und-phlegma
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: List und Phlegma
+subtitle: Vaudeville-Posse in Einem Akt, frei nach Patrat
+numberOfScenes: 14
+printed: 1829
+premiered: 1827
+formalia:
+  - Prosa
+basedOn:
+  - "Joseph Patrat: [»La résolution inutile, ou Les déguisemens amoureux. Comédie en un acte et en prose, mêlée de vaudevilles«](https://books.google.com/books?id=HC0erNaSuagC&printsec=frontcover)"
+editions:
+  - title: "[Berlin: Cosmar und Krause 1829]"
+    url: https://books.google.com/books?id=OLRIAQAAMAAJ&pg=RA4-PA1
+  - title: "Vaudevilles und Lustspiele von L. Angely. Dritter Band. Berlin: Klemann 1842, S. 3–71"
+    url: https://books.google.com/books?id=KkZojL0Qm6YC&pg=PA3
+  - title: "Dritte Auflage. Berlin: Bloch 1859"
+    url: https://books.google.com/books?id=NscOAAAAYAAJ&printsec=frontcover
+comments:
+  - "Weitere Übersetzung: [Koller 1804](koller-liebe-ist-die-beste-lehrmeisterinn)."
+cast:
+  - name: Herr von Ruhleben,
+    role: reicher Gutsbesitzer.
+    gender: m
+  - name: Louise,
+    role: seine Gattin.
+    gender: f
+  - name: Fritz,
+    role: sein Kind.
+    gender: m
+  - name: Adolphine,
+    role: seine Schwester.
+    gender: f
+  - name: Baron Palm,
+    role: deren Liebhaber.
+    gender: m
+  - name: Ein Postillion.
+    gender: m
+setting: >-
+  Die Scene ist in einer großen Stadt Deutschlands.
+---
 slug: angely-nach-sonnen-untergang
 author:
   name: Angely, Louis
@@ -815,6 +1068,117 @@ setting: >-
   Madame Sarrasin. An der ersten Coulisse rechts ein Kamin, reich verziert mit
   einer Bronce-Uhr, Vasen etc. links ein Fenster. – Die Möbel stehen bunt
   durcheinander, wie am Morgen nach einem großen Balle.)
+location:
+  wikidataId: Q90
+---
+slug: angely-schlafrock-und-uniform
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: Schlafrock und Uniform
+subtitle: Lustspiele in Einem Akt, frei nach dem Französischen des Vial
+numberOfScenes: 22
+printed: 1828
+premiered: 1825-08-30
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Baptiste-Charles Vial et Justin Gensoul: [»Les deux mousquetaires, ou La robe de chambre. Opéra-comique en un acte«](https://books.google.com/books?id=-xhdAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Vaudevilles und Lustspiele. Theils Originale, theils Uebertragungen und Bearbeitungen von L. Angely. Berlin: Cosmar und Krause 1828"
+    url: https://books.google.com/books?id=hmU6AAAAcAAJ&pg=RA3-PA1
+  - title: "Vaudevilles und Lustspiele von L. Angely. Zweiter Band. Berlin: Klemann 1842, S. 3–55"
+    url: https://books.google.com/books?id=C_HO9ppvaQ0C&pg=PA3
+cast:
+  - name: Oberst von Monval,
+    role: Commandeuer eines Schiffes.
+    gender: m
+  - name: Amélie,
+    role: dessen Nichte.
+    gender: f
+  - group:
+      - name: Dercourt
+        gender: m
+      - name: Florville
+        gender: m
+    role: Kavallerie-Offiziere.
+  - name: Bertrand,
+    role: Gastwirth.
+    gender: m
+  - name: Germain,
+    role: Bedienter der beiden jungen Offiziere.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+  - name: Ein Aufwärter.
+    gender: m
+  - name: Ein Schneiderbursche.
+    gender: m
+setting: >-
+  Scene: Ein gemeinschaftlicher Saal in einem Gasthofe in Paris. Rechts Dercours, links Florvilles Zimmer.
+location:
+  wikidataId: Q90
+---
+slug: angely-schueler-schwaenke-oder-die-kleinen-wilddiebe
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: Schüler-Schwänke oder die kleinen Wilddiebe
+subtitle: Vaudeville-Posse in Einem Akt, frei nach dem Französischen
+numberOfScenes: 16
+printed: 1828
+premiered: 1826-03-31
+formalia:
+  - Prosa
+  - Verse
+basedOn:
+  - "René-Charles Guilbert de Pixerécourt: [»Les petits braconniers, ou Les écoliers en vacances. Comédie en un acte, mêlée de couplets«](https://books.google.com/books?id=8DBaAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Vaudevilles und Lustspiele. Theils Originale, theils Uebertragungen und Bearbeitungen von L. Angely. Berlin: Cosmar und Krause 1828"
+    url: https://books.google.com/books?id=hmU6AAAAcAAJ&pg=RA2-PA1
+  - title: "Vaudevilles und Lustspiele von L. Angely. Zweiter Band. Berlin: Klemann 1842, S. 57–129"
+    url: https://books.google.com/books?id=C_HO9ppvaQ0C&pg=PA57
+cast:
+  - name: Die Baronin von Belval.
+    gender: f
+  - group:
+      - name: Felix,
+        role: ihr Neffe,
+        gender: m
+      - name: Victor,
+        gender: m
+      - name: Eugene,
+        gender: m
+      - name: Leon,
+        gender: m
+      - name: Gustav,
+        gender: m
+      - name: Julius,
+        gender: m
+      - name: Albert,
+        gender: m
+      - name: Emil,
+        gender: m
+    role: Zöglinge der Militairschule zu Paris.
+  - name: Matois,
+    role: alter Förster der Baronin.
+    gender: m
+  - name: Mutter Delorme,
+    role: Pachterin.
+    gender: f
+  - name: Nicette,
+    role: ihre Tochter.
+    gender: f
+  - name: André,
+    role: Nicettens Liebhaber.
+    gender: m
+  - name: Der Gerichtsschreiber.
+    gender: m
+  - name: Bauern.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Stück spielt auf dem Landgute der Baronin Belval, unweit Paris. – Das Theater stellt eine Landschaft vor, hinten quer über die Bühne die Terrasse des Schloßgartens, welche in der Mitte eine Gitterthür hat, die von innen verriegelt werden kann. Dahinter eine Allee von Kastanienbäumen, die zum Schlosse der Baronin führt. Vorn rechts das Haus der Mutter Delorme, mit einem Zaune, der die ganze rechte Seite, bis beinahe an die Terrasse, einnimmt; das Haus steht auf einem niedrigen Gerüste, damit, den Zuschauern gegenüber, ein Kellerloch angebracht werden kann, in welches Victor kriecht, und aus welchem er die Flaschen herausbringt. Auf derselben Seite ein Taubenschlag, so seitwärts, daß er nicht die ganze Seite der Terrasse verdeckt; im Vordergrunde links eine Rasenbank und ein steinerner Tisch.
 location:
   wikidataId: Q90
 ---
@@ -18509,6 +18873,73 @@ cast:
 setting: >
   Siegmunds Comtoirstube.
 ---
+slug: ehrimfeld-die-liebhaber-im-verborgenen-oder-die-doppelte-beschaemung
+author:
+  name: Frech von Ehrimfeld, Tobias
+title: Die Liebhaber im Verborgenen, oder die doppelte Beschämung
+subtitle: Ein Lustspiel in einem Akt
+numberOfScenes: 11
+printed: 1804
+premiere: 1804-08-16
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1804"
+    url: https://books.google.com/books?id=jaJIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Wallen.
+    gender: m
+  - name: Amalie,
+    role: seine Gemahlinn.
+    gender: f
+  - name: Süßberg.
+    gender: m
+  - group:
+      - name: Karl,
+        gender: m
+      - name: Lisette,
+        gender: f
+    role: in Wallens Dienste.
+setting: >-
+  Der Ort der Handlung ist ein gemeinschaftliches Zimmer in Wallens Hause. Die Hinterthüre führt auf die Gasse, die Thüre rechts in Amaliens, die links in Wallens Zimmer. In der Mitte steht eine Toilette, im Vordergrund an der Wand ein Schirm.
+---
+slug: ehrimfeld-die-nebenbuhler-von-sich-selbst
+author:
+  name: Frech von Ehrimfeld, Tobias
+title: Die Nebenbuhler von sich selbst
+subtitle: Ein Lustspiel in einem Act. Nach dem Französischen bearbeitet
+numberOfScenes: 15
+printed: 1805
+formalia:
+  - Prosa
+basedOn:
+  - "Pigault-Lebrun: [»Rivaux d'eux-mêmes. Comédie en un acte et en prose«](https://books.google.com/books?id=j8c7AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Wien: Rehm 1805"
+    url: https://books.google.com/books?id=DZlHAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Baron Festenberg,
+    role: Major.
+    gender: m
+  - name: Baroninn Festenberg.
+    gender: f
+  - name: Blumendorf,
+    role: Lieutenant.
+    gender: m
+  - name: Lisette,
+    role: Kammerjungfer der Baroninn.
+    gender: f
+  - name: Bruckner,
+    role: Gastwirth und Postmeister.
+    gender: m
+  - name: Sebastian.
+    gender: m
+  - name: Officiere, Aufwärter.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Scene ist ein Gasthofe. (Ein gemeinschaftlicher Saal mit Seitenthüren. Ein Tisch, worauf Papier, Feder und Tinte ist.)
+---
 slug: ekhof-der-liebhaber-seiner-frau-oder-die-neben-buhlerin-von-sich-selbst
 author:
   name: Ekhof, Konrad
@@ -19536,6 +19967,48 @@ cast:
 setting: >-
   Die Szene stellt theils das Studierzimmer des Inspector Finzers vor. Theils die Pfarrwohnung des Hn. Pastor Bunkels. Die Handlung ist im Brandenburgischen.
 ---
+slug: fellner-lederer-der-chargenverkauf
+authors:
+  - name: Fellner
+  - name: Lederer, Joseph
+    wikidata: Q55679629
+title: Der Chargenverkauf
+subtitle: Ein Lustspiel
+numberOfScenes: 13
+printed: 1780
+premiered: 1778-02-19
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 406
+editions:
+  - title: "Salzburg: Waisenhausbuchdruckerey 1780"
+    url: https://books.google.com/books?id=VGlTAAAAcAAJ&printsec=frontcover
+  - title: "Altenburg: Richter 1780"
+    url: https://books.google.com/books?id=ThBaAAAAcAAJ&printsec=frontcover
+comments:
+  - Zuschreibung ungesichert, es kursieren zwei Autorenangaben.
+  - Hinweis auf Einaktigkeit nicht im Druck, allerdings unter anderem bei Goedeke als Einakter ausgezeichnet.
+  - 1793 ins Ungarische übersetzt.
+cast:
+  - name: Der König.
+    gender: m
+  - group:
+      - name: Oberster Branten.
+        gender: m
+      - name: Hauptmann Blennheim.
+        gender: m
+      - name: Oberlieutenant Winterfeld.
+        gender: m
+      - name: Unterlieutenant Wille.
+        gender: m
+      - name: Der Adjutant.
+        gender: m
+    role: Von einem Regiment.
+  - name: Ein Bedienter.
+    gender: m
+---
 slug: foerster-die-wette
 author:
   name: Förster, Wilhelm
@@ -19688,6 +20161,49 @@ cast:
         gender: m
     role: in Reinhards Diensten.
 setting: Die Handlung ist auf von Siltens Landgute.
+---
+slug: franzky-ein-schelm-thut-mehr-als-er-kann
+author:
+  name: Franzky, Franz Joseph Theodor
+  wikidata: Q95146517
+title: Ein Schelm thut mehr als er kann
+subtitle: Lustspiel in einem Akt. Nach dem Französischen des Dorvigni frei bearbeitet
+numberOfScenes: 16
+printed: 1799
+formalia:
+  - Prosa
+basedOn:
+  - "Dorvigny: [»On fait ce qu'on peut, non pas ce qu'on veut. Proverbe à deux acteurs«](https://books.google.com/books?id=ylNbAAAAQAAJ&printsec=frontcover)"
+editions:
+  - title: "Brünn: Siedler 1799"
+    url: https://books.google.com/books?id=J71XC7KvTWAC&printsec=frontcover
+comments:
+  - "Weitere Übersetzung: [Koller 1804](koller-das-debut)."
+cast:
+  - name: Herr Frank,
+    role: Theaterunternehmer.
+    gender: m
+  - name: Ein Soufleur.
+    gender: m
+  - name: Ein tauber Bedienter.
+    gender: m
+  - name: Der schöne Karl.
+    gender: m
+  - name: Der Schneidermeister Durstig.
+    gender: m
+  - name: Madame Durstig,
+    role: seine Frau.
+    gender: f
+  - name: Magister Süßmilch.
+    gender: m
+  - name: Ein Lohnbedienter.
+    gender: m
+  - name: Ein Fiaker.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+setting: >-
+  Die Handlung ist in einem Gasthofe. (Ein Saal mit einer Mittel- und einer Seitenthüre.)
 ---
 slug: freisleben-der-schreckenstag-oder-die-einsame-försterwohnung
 author:
@@ -21761,6 +22277,81 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist bey der grossen Linde vor dem Ort.
+---
+slug: guttenberg-das-laendliche-freudenfest
+author:
+  name: Guttenberg, Andreas Josef von
+  wikidata: Q94889736
+title: Das ländliche Freudenfest
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1799
+formalia:
+  - Prosa
+editions:
+  - title: "München: Hübschmann 1799"
+    url: https://books.google.com/books?id=9s1AAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Peter Brock,
+    role: ein alter wohlhabender Bauer.
+    gender: m
+  - name: Dorthe,
+    role: sein Weib.
+    gender: f
+  - name: Hanns Brock,
+    role: sein älterer Sohn.
+    gender: m
+  - name: Lene,
+    role: dessen Weib.
+    gender: f
+  - group:
+      - name: Ludwig,
+        gender: m
+      - name: Bärbchen,
+        gender: f
+    role: deren Kinder.
+  - name: Philipp Brock,
+    role: sein jüngerer Sohn.
+    gender: m
+  - name: Margarethe,
+    role: dessen Weib.
+    gender: f
+  - name: Veit Kollman,
+    role: ein Bauer.
+    gender: m
+  - name: Liese,
+    role: sein Weib.
+    gender: f
+  - name: Marie,
+    role: deren Tochter.
+    gender: f
+  - name: Theobald Schnapper,
+    role: Dorfschulz.
+    gender: m
+  - name: Policarp,
+    role: sein Sohn.
+    gender: m
+  - name: Der Förster.
+    gender: m
+  - name: Die Försterinn.
+    gender: f
+  - group:
+      - name: Max,
+        gender: m
+      - name: Joseph,
+        gender: m
+    role: zwey Bauernpursche.
+  - name: Rund,
+    role: Dorfschulmeister.
+    gender: m
+  - name: Wacker,
+    role: ein Invaliden Unteroffizier.
+    gender: m
+  - name: Viele Bauern. Bäuerinnen, Kinder, Dorfmusikanten.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht auf einem Dorfe einige Meilen von der Residenz vor. (Das Theater stellt ein Dorf vor. Links und rechts sieht man Bauernhütten, hin und wieder stehen einzelne Bäume, links seitwärts, ist eine große Linde, auf deren Gipfel Ludwig sitzt und sehr aufmerksam in die Ferne sieht, als harre er ungeduldig auf die Ankunft von Jemand. Peter Brock, Hanns Brock, Veit Kollmann stehen in einer Entfernung von dem Baum.)
 ---
 slug: guttenberg-das-miniatur-gemaelde
 author:
@@ -24025,6 +24616,174 @@ cast:
   - name: Ein Bettler.
     gender: m
 setting: Die Handlung ist in Konaus Hause.
+---
+slug: herbst-der-glueckliche-zufall
+author:
+  name: Herbst, C. A.
+title: Der glückliche Zufall
+subtitle: Ein Lustspiel in Einem Aufzuge
+numberOfScenes: 12
+printed: 1798
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 1, S. 316
+editions:
+  - title: "Kleine deutsche Theater-Bibliothek. Erstes Bändchen. Breslau: Meyer 1798, S. 1–40"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB00025A1B00010009
+cast:
+  - name: Graf von Hohenstädt.
+    gender: m
+  - name: Carl,
+    role: dessen Sohn.
+    gender: m
+  - name: Louise, von Werderau.
+    gender: f
+  - name: Baron Musser.
+    gender: m
+  - name: Marin,
+    role: des Barons Kammerdiener.
+    gender: m
+  - name: Bediente des Grafen.
+    isGroup: true
+    gender: u
+  - name: Ein Aufwärter im Gasthofe.
+    gender: m
+setting: >-
+  Die Handlung ist in einer Residenz-Stadt.
+---
+slug: herbst-der-phlegmatikus
+author:
+  name: Herbst, C. A.
+title: Der Phlegmatikus
+subtitle: Ein Lustspiel in Einem Aufzuge
+numberOfScenes: 9
+printed: 1798
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 1, S. 316
+editions:
+  - title: "Kleine deutsche Theater-Bibliothek. Erstes Bändchen. Breslau: Meyer 1798, S. 83–122"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB00025A1B00010091
+cast:
+  - name: Herr von Rast,
+    role: ein alter reicher Guthsbesitzer.
+    gender: m
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - name: Frau von Rast,
+    role: seine Schwägerin.
+    gender: f
+  - name: Lieutenant von Felsbach.
+    gender: m
+  - name: Füller,
+    role: Haushofmeister des Herrn von Rast.
+    gender: m
+  - name: Peter,
+    role: Bedienter.
+    gender: m
+setting: >-
+  Die Handlung ist auf dem Guthe des Herrn von Rast. (Zimmer in Herrn von Rast Hause.)
+---
+slug: herbst-die-geister-beschwoerung-oder-die-heirath-aus-angst
+author:
+  name: Herbst, C. A.
+title: Die Geister-Beschwörung oder die Heirath aus Angst!
+subtitle: Ein altdeutsches Lustspiel in Einem Akt
+numberOfScenes: 8
+printed: 1798
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 1, S. 316
+editions:
+  - title: "Kleine deutsche Theater-Bibliothek. Erstes Bändchen. Breslau: Meyer 1798, S. 41–82"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB00025A1B00010049
+cast:
+  - name: Fräulein Agnes von Kronenburg.
+    gender: f
+  - name: Ritter Herrmann von Blankenstein.
+    gender: m
+  - name: Ritter Hans von Uehlenhoff,
+    role: ein bejahrter Wittwer.
+    gender: m
+  - name: Peter Benedikt,
+    role: Burgpfaff auf Kronenburg.
+    gender: m
+  - name: Veit,
+    role: Leibknappe des Ritter Herrmann.
+    gender: m
+  - name: Elsabe,
+    role: des Fräuleins Mädchen.
+    gender: f
+  - name: Ein Knecht,
+    role: auf Kronenburg.
+    gender: m
+  - name: Knappen des Ritter Herrmann.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung ist auf der Burg zu Blankenstein, hernach auf Kronenburg. Die Zeit, eine Stunde vor Mitternacht. – (Zimmer auf Ritter Herrmanns Burg.)
+---
+slug: herbst-die-schatzgraeber
+author:
+  name: Herbst, C. A.
+title: Die Schatzgräber
+subtitle: Eine Posse in Einem Aufzuge
+numberOfScenes: 14
+printed: 1798
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 1, S. 316
+editions:
+  - title: "Kleine deutsche Theater-Bibliothek. Erstes Bändchen. Breslau: Meyer 1798, S. 123–162"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB00025A1B00010131
+cast:
+  - name: Frau von Berning,
+    role: eine alte Guthsbesitzerin.
+    gender: f
+  - name: Louise von Abendroth,
+    role: ihre Enkelin.
+    gender: f
+  - name: Hofrath von Hennings,
+    role: Justitiarius auf dem Berningschen Guthe, Louisens Liebhaber.
+    gender: m
+  - name: Heinrich,
+    role: Bedienter des Hofraths.
+    gender: m
+  - name: Caspar,
+    role: ein alter Bedienter der Frau von Berning.
+    gender: m
+  - name: Malchen,
+    role: des Fräuleins Kammermädchen.
+    gender: f
+  - name: Magister Rabbeler,
+    role: ein Schatzgräber.
+    gender: m
+  - group:
+      - name: Schürzer,
+        gender: m
+      - name: Hohlmann,
+        gender: m
+      - name: Unke,
+        gender: m
+      - name: Höllengeiger,
+        gender: m
+      - name: Rauscher,
+        gender: m
+    role: Gehülfen des Magisters.
+  - name: Ein Gerichtsfrohn, und einige Bauern.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung ist auf dem Schloße der Frau von Berning, des Abends zwischen 10 und 12 Uhr.
 ---
 slug: herrmann-das-schreckens-gewebe
 author:
@@ -27126,6 +27885,59 @@ cast:
     gender: m
 setting: Der Schauplatz ist auf dem Gute des Herrn von Seltheim.
 ---
+slug: juenger-der-instinkt-oder-wer-ist-vater-zum-kinde
+author:
+  name: Jünger, Johann Friedrich
+  wikidata: Q1693594
+title: "Der Instinkt, oder wer ist Vater zum Kinde?"
+subtitle: Ein Nachspiel
+numberOfScenes: 15
+printed: 1785
+premiered: 1787-05-06
+formalia:
+  - Prosa
+basedOn:
+  - "Charles Dufresny: [»Le faux instinct. Comédie en trois actes«](https://books.google.com/books?id=-ABPHEhN9EEC&pg=PA147)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 251–252
+editions:
+  - title: "Wien: Wallishausser 1785"
+    url: https://books.google.com/books?id=G4b9WQapmskC&printsec=frontcover
+  - title: "Wien: Wallishausser 1803"
+    url: https://books.google.com/books?id=kVNPugEACAAJ&printsec=frontcover
+comments:
+  - "Bei [Jördens](https://books.google.com/books?id=QfFiAAAAcAAJ&pg=PA526) mit dem Untertitel »Lustspiel in einem Akt«."
+cast:
+  - name: Frau von Seefeld,
+    role: eine Hauptmanns Wittwe, in Trauer.
+    gender: f
+  - name: Der alte Brenner,
+    role: ein Kaufmann.
+    gender: m
+  - name: Madame Brenner.
+    gender: f
+  - name: Wilhelm Brenner,
+    role: sein Neffe.
+    gender: m
+  - name: Sophie,
+    role: Schwester der Madame Brenner.
+    gender: f
+  - name: Rösgen,
+    role: Schwester der Madame Brenner.
+    gender: f
+  - name: Peter,
+    role: ein Bauer.
+    gender: m
+  - name: Dore,
+    role: seine Frau.
+    gender: f
+  - name: Frau Rinteln,
+    role: Haushälterin der Frau von Seefeld.
+    gender: f
+setting: >-
+  Die Handlung ist auf einem Dorfe. (Eine ländliche Gegend mit einem Bauernhause.)
+---
 slug: juenger-der-ton-unserer-zeiten
 author:
   name: Jünger, Johann Friedrich
@@ -28824,7 +29636,7 @@ editions:
   - title: "Dramatische Beiträge. Von J. Koller. Osnabrück: Blothe 1804, S. 1–58"
     url: https://books.google.com/books?id=fCRdAAAAcAAJ&pg=PA1
 comments:
-  - "1799 bereits von Franzky unter dem Titel [»Ein Schelm thut mehr als er kann«](franzky-ein-schelm-thut-mehr-als-er-kann)."
+  - "Weitere Übersetzung: [Franzky 1799](franzky-ein-schelm-thut-mehr-als-er-kann)."
   - "In der [Vorrede](https://books.google.com/books?id=fCRdAAAAcAAJ&pg=PA3) gibt Koller an, dass er seine Version nach einer »mündlichen Erzählung« ausgeführt habe und er weder das französische Original noch Franzkys Übersetzung kenne."
 cast:
   - name: Sollmer,
@@ -28895,6 +29707,45 @@ cast:
 setting: >-
   Scene: ein Zimmer mit zwey Seitenthüren und einer Mittelthüren.
 ---
+slug: koller-der-spuck
+author:
+  name: Koller, Benedikt Josef von
+  wikidata: Q816963
+title: Der Spuck
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen des Bürgers Hoffmann
+numberOfScenes: 30
+printed: 1804
+formalia:
+  - Prosa
+basedOn:
+  - "François-Benoît Hoffmann: [»Le secret. Comédie en un acte et en prose. Mêlée de musique«](https://books.google.com/books?id=VPrMvNmyu0wC&printsec=frontcover)"
+editions:
+  - title: "Dramatische Beiträge. Von J. Koller. Osnabrück: Blothe 1804, S. 125–196"
+    url: https://books.google.com/books?id=fCRdAAAAcAAJ&pg=PA125
+comments:
+  - "In der [Vorbemerkung](https://books.google.com/books?id=fCRdAAAAcAAJ&pg=PA127): »Das kleine Lustspiel, welches im Originale mit Gesängen vermischt ist, wurde im Jahr 1796 den 20sten April zu Paris im Opernhause aufgeführt. – Der Bürger Hoffmann hat, ohne ein Wort davon zu erwähnen, den Entwurf des ältern Riccoboni benutzt. Siehe [La Moglie gelosa, S. 165. im vierten Stücke von Lessing's theatralischer Bibliothek](https://books.google.com/books?id=gSsWX_2Ulv0C&pg=PA165).«"
+cast:
+  - name: Advokat Vollmer.
+    gender: m
+  - name: Sophie
+    role: seine Frau
+    gender: f
+  - name: Emilie
+    role: Kind von sieben Jahren
+    gender: f
+  - name: Fallburg
+    role: Vollmers Freund
+    gender: m
+  - name: Angelika.
+    gender: f
+  - name: Thomas
+    role: Vollmers Schreiber
+    gender: m
+  - name: Ein Lastträger.
+    gender: m
+setting: >-
+  Die Handlung geht in Vollmers Wohnung auf dessen Zimmer vor, worinn eine geheime Thüre angebracht ist.
+---
 slug: koller-der-zauberstein
 author:
   name: Koller, Benedikt Josef von
@@ -28924,6 +29775,50 @@ cast:
     gender: m
 setting: >-
   Scene: Laube.
+---
+slug: koller-liebe-ist-die-beste-lehrmeisterinn
+author:
+  name: Koller, Benedikt Josef von
+  wikidata: Q816963
+title: Liebe ist die beste Lehrmeisterinn
+subtitle: "Ein Lustspiel in einem Aufzuge. Nach dem Französischen des Bürgers Patrat: La Résolution inutile ou les déguisemens amoureux"
+numberOfScenes: 9
+printed: 1804
+formalia:
+  - Prosa
+basedOn:
+  - "Joseph Patrat: [»La résolution inutile, ou Les déguisemens amoureux. Comédie en un acte et en prose, mêlée de vaudevilles«](https://books.google.com/books?id=HC0erNaSuagC&printsec=frontcover)"
+editions:
+  - title: "Dramatische Beiträge. Von J. Koller. Osnabrück: Blothe 1804, S. 197–247"
+    url: https://books.google.com/books?id=fCRdAAAAcAAJ&pg=PA197
+comments:
+  - "Weitere Übersetzung: [Angely 1827](angely-list-und-phlegma)."
+cast:
+  - name: Julie von Linden,
+    role: in einem Trauer-Negligee.
+    gender: f
+  - name: Friederike,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Van der Rosen,
+    role: Lieutenant. In Uniform.
+    gender: m
+  - name: Quast,
+    role: Mahler.
+    gender: m
+  - name: Vanini,
+    role: Tonkünstler.
+    gender: m
+  - name: Karver,
+    role: Philosoph.
+    gender: m
+  - name: Schlegel,
+    role: Dichter.
+    gender: m
+setting: >-
+  Die Handlung geht zu München auf Juliens Zimmer vor.
+location:
+  wikidataId: Q1726
 ---
 slug: komareck-die-ankunft
 author:
@@ -35416,6 +36311,42 @@ cast:
     role: Ein Herrschafts Amtmann.
     gender: m
 ---
+slug: lindheimer-das-wandernde-koerbchen
+author:
+  name: Lindheimer, Friedrich
+title: Das wandernde Körbchen
+subtitle: Ein Lustspiel in einem Act
+numberOfScenes: 15
+printed: 1798
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 2, S. 665
+editions:
+  - title: "Grätz 1798"
+    url: https://books.google.com/books?id=Tq5HAAAAcAAJ&pg=PA1
+cast:
+  - name: Justizrath Reinhold.
+    gender: m
+  - name: Friderike,
+    role: seine Tochter.
+    gender: f
+  - name: Wilhelmine,
+    role: seine Nichte.
+    gender: f
+  - name: Amtmann Birkenstamm.
+    gender: m
+  - name: Secretair Rosenthal.
+    gender: m
+  - name: Carl,
+    role: Bedienter des Justizrath.
+    gender: m
+  - name: Ein Träger.
+    gender: m
+setting: >-
+  Die Handlung geht vor in einem Landstädtchen. (Zimmer beym Justizrath.)
+---
 slug: lindheimer-die-cremonseser-geige
 author:
   name: Lindheimer, Friedrich
@@ -35458,6 +36389,115 @@ cast:
     gender: m
 setting: >-
   Ort der Handlung: Ein kleines Landstädtchen.
+---
+slug: lindheimer-garrick
+author:
+  name: Lindheimer, Friedrich
+title: Garrick
+subtitle: Eine Posse in einem Aufzuge
+numberOfScenes: 14
+printed: 1805
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 2, S. 665
+editions:
+  - title: "Neueste Dramatische Versuche von Dr. Lindheimer. Erster Theil. Frankfurt am Mayn: Mohr 1805, S. 9–70"
+    url: https://books.google.com/books?id=IMdIAAAAcAAJ&pg=PA9
+comments:
+  - "In der Vorrede des Bandes unterteilt der Autor Lustspiele in sechs Gruppen: »die Posse, das komische, das sentimentale, das romantische, das Intrigue-, und das Charakter-Lustspiel« ([S. III](https://books.google.com/books?id=IMdIAAAAcAAJ&pg=PA3))."
+cast:
+  - name: "Baron Wild:"
+    role: Postillion, Gastwirth, Quacksalber, Guckkastenträger, Galanteriehändler, Offizier, Wahrsager.
+    gender: m
+  - name: Herr Dörmer,
+    role: ein reicher Handelsmann.
+    gender: m
+  - group:
+      - name: Wilhelmine,
+        gender: f
+      - name: Henriette,
+        gender: f
+    role: seine Töchter.
+  - name: Lieutenant von Schönfeld.
+    gender: m
+  - name: Philipp,
+    role: Bedienter des Barons.
+    gender: m
+  - name: Ein Kellner.
+    gender: m
+setting: >-
+  Das Stück spielt in einer Handelsstadt zur Zeit der Messe. (Salon gleicher Erde im Gasthofe.)
+---
+slug: lindheimer-hagestolz-und-liebe
+author:
+  name: Lindheimer, Friedrich
+title: Hagestolz und Liebe
+subtitle: Ein komisches Lustspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1805
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 2, S. 665
+editions:
+  - title: "Neueste Dramatische Versuche von Dr. Lindheimer. Erster Theil. Frankfurt am Mayn: Mohr 1805, S. 71–126"
+    url: https://books.google.com/books?id=IMdIAAAAcAAJ&pg=PA71
+comments:
+  - "In der Vorrede des Bandes unterteilt der Autor Lustspiele in sechs Gruppen: »die Posse, das komische, das sentimentale, das romantische, das Intrigue-, und das Charakter-Lustspiel« ([S. III](https://books.google.com/books?id=IMdIAAAAcAAJ&pg=PA3))."
+cast:
+  - name: Werner,
+    role: ein reicher Handelsmann.
+    gender: m
+  - name: Madame Werner.
+    gender: f
+  - name: Fräulein von Steinfeld.
+    gender: f
+  - name: Doctor May.
+    gender: m
+  - name: Johann,
+    role: in Werners Dienste.
+    gender: m
+---
+slug: lindheimer-julie-von-loewenstein
+author:
+  name: Lindheimer, Friedrich
+title: Julie von Löwenstein
+subtitle: Ein sentimentales Lustspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1805
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 2, S. 665
+editions:
+  - title: "Neueste Dramatische Versuche von Dr. Lindheimer. Erster Theil. Frankfurt am Mayn: Mohr 1805, S. 127–189"
+    url: https://books.google.com/books?id=IMdIAAAAcAAJ&pg=PA127
+comments:
+  - "In der Vorrede des Bandes unterteilt der Autor Lustspiele in sechs Gruppen: »die Posse, das komische, das sentimentale, das romantische, das Intrigue-, und das Charakter-Lustspiel« ([S. III](https://books.google.com/books?id=IMdIAAAAcAAJ&pg=PA3))."
+cast:
+  - name: Julie,
+    role: unter erdichtetem Familiennahmen.
+    gender: f
+  - name: Fritz,
+    role: ein Knabe, ihr Bruder.
+    gender: m
+  - name: Schönfeld.
+    gender: m
+  - name: Brunner,
+    role: Wirth.
+    gender: m
+  - name: Friedericke,
+    role: seine Tochter.
+    gender: f
+  - name: Jacob,
+    role: Schönfeld's Bedienter.
+    gender: m
+setting: >-
+  Scene: ein Gastzimmer im Wirthshause.
 ---
 slug: loeper-so-gehts-wenn-man-dem-gesinde-die-aufsicht-der-kinder-ueberlaesst
 author:
@@ -53320,6 +54360,37 @@ cast:
 setting: >-
   Gemeinschaftliches Zimmer mit Mittel- und Seitenthüren; auf jeder Seite ein
   Schreibtisch.
+---
+slug: weissenthurn-der-brautschleyer
+author:
+  name: Weißenthurn, Johanna Franul von
+  wikidata: Q1696932
+title: Der Brautschleyer
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1836
+premiered: 1833-01-12
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 434–435
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=432"
+editions:
+  - title: "Neueste Schauspiele von Johanna Franul v. Weissenthurn. Vierzehnter Band, oder neue Folge sechster Band. Wien: Wallishausser 1836, S. 189–220"
+    url: https://books.google.com/books?id=TuJWAAAAYAAJ&pg=PA189
+cast:
+  - name: Eduard,
+    role: Baron von Hollberg.
+    gender: m
+  - name: Caroline von Feldheim,
+    role: seine Braut.
+    gender: f
+  - name: Georg,
+    role: ein Bedienter.
+    gender: m
+setting: >-
+  Das Stück spielt auf einem Landgute unweit einer großen Stadt. (Ein geschmackvolles Zimmer in einem Landhause. Seitwärts im Vordergrunde liegt auf Tischen und Stühlen ausgebreitet Alles, was zu der galanten Ausstattung einer Braut gehört.)
 ---
 slug: weissenthurn-der-traum
 author:
