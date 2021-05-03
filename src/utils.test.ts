@@ -1,5 +1,5 @@
 import {Play} from './types';
-import {normalizeYear, countCharactersByGender} from './utils';
+import {normalizeYear, countCharactersByGender, getEarliestYear} from './utils';
 
 const playTmpl: Play = {
   slug: 'foo-bar',
@@ -69,4 +69,33 @@ describe('countCharactersByGender', () => {
     expect(num?.female).toBe(3);
     expect(num?.unknown).toBe(2);
   });
+});
+
+describe('getEarliestYear', () => {
+  
+  it('finds earliest year', () => {
+    const play = {...playTmpl, premiered: 1789, created: 1770, printed: 1790};
+    expect(getEarliestYear(play)).toBe(1770);
+  });
+
+  it('handles integer for premiered', () => {
+    const play = {...playTmpl, premiered: 1789};
+    expect(getEarliestYear(play)).toBe(1789);
+  });
+
+  it('handles YYYY-MM string for premiered', () => {
+    const play = {...playTmpl, premiered: '1789-01'};
+    expect(getEarliestYear(play)).toBe(1789);
+  });
+
+  it('handles YYYY-MM-DD string for premiered', () => {
+    const play = {...playTmpl, premiered: '1789-01-02'};
+    expect(getEarliestYear(play)).toBe(1789);
+  });
+
+  it('returns undefined when no year is given', () => {
+    const play = {...playTmpl};
+    expect(getEarliestYear(play)).toBe(undefined);
+  });
+
 });

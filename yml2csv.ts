@@ -1,7 +1,11 @@
 import {loadAll, CORE_SCHEMA} from 'js-yaml';
 import {readFileSync, writeFileSync} from 'fs';
 import {Play} from './src/types';
-import {normalizeYear, countCharactersByGender} from './src/utils';
+import {
+  normalizeYear,
+  getEarliestYear,
+  countCharactersByGender
+} from './src/utils';
 
 let data: Play[] = [];
 try {
@@ -17,6 +21,7 @@ const cols = [
   'title',
   'subtitle',
   'basedOn', // (only true or false, an easy way to exclude translations)
+  'earliestYear',
   'normalizedYear',
   'createdYear',
   'printedYear',
@@ -38,6 +43,7 @@ const lines = data.map((p: Play) => {
   const play: {[index: string]: any} = {
     ...p,
     normalizedYear: normalizeYear(p),
+    earliestYear: getEarliestYear(p) || '',
     numberOfCharacters: num.total,
     numberOfMaleCharacters: num.male,
     numberOfFemaleCharacters: num.female,

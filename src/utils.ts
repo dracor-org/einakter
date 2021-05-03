@@ -17,6 +17,14 @@ export function normalizeYear (play: Play) {
   return year;
 };
 
+export function getEarliestYear (play: Play) {
+  const {premiered, printed, created} = play;
+  const years = [parseInt(premiered as string), printed, created].filter(
+    y => Boolean(y)
+  );
+  return years.length > 0 ? Math.min(...years as number[]): undefined;
+};
+
 export function countCharacters (play: Play) {
   const {cast} = play;
   if (!cast) return undefined;
