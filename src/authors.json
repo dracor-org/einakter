@@ -613,15 +613,18 @@
     },
     "gender": "male"
   },
-  "Q99029332": {
-    "name": "Carl Philipp Bonafont",
+  "Q94875676": {
+    "name": "Philipp Karl Bonafont",
     "gnd": "116237554",
     "birth": {
-      "date": "1778-06-22T00:00:00Z"
+      "date": "1778-06-22T00:00:00Z",
+      "place": "Rastatt",
+      "placeId": "http://www.wikidata.org/entity/Q6874"
     },
     "death": {
       "date": "1848-01-01T00:00:00Z"
-    }
+    },
+    "gender": "male"
   },
   "Q55130929": {
     "name": "Christian Friedrich Ferdinand Anselm von Bonin",
@@ -2836,10 +2839,18 @@
     "gender": "male",
     "ambiguous": true
   },
-  "Q94986422": {
-    "name": "Q94986422",
-    "birth": {},
-    "death": {}
+  "Q94877379": {
+    "name": "Christian Loeper",
+    "gnd": "1012655431",
+    "birth": {
+      "date": "1743-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1809-05-19T00:00:00Z",
+      "place": "Gnoien",
+      "placeId": "http://www.wikidata.org/entity/Q536734"
+    },
+    "gender": "male"
   },
   "Q103936": {
     "name": "Johann Friedrich Löwen",
@@ -3878,10 +3889,22 @@
     },
     "gender": "male"
   },
-  "Q27588164": {
-    "name": "Scheibe, Johann Adolph",
-    "birth": {},
-    "death": {}
+  "Q213705": {
+    "name": "Johann Adolf Scheibe",
+    "gnd": "118754319",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Adolph%20Scheibe.jpg",
+    "birth": {
+      "date": "1708-05-05T00:00:00Z",
+      "place": "Leipzig",
+      "placeId": "http://www.wikidata.org/entity/Q2079"
+    },
+    "death": {
+      "date": "1776-04-22T00:00:00Z",
+      "place": "Kopenhagen",
+      "placeId": "http://www.wikidata.org/entity/Q1748"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q1162542": {
     "name": "Daniel Schiebeler",
