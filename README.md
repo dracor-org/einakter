@@ -53,6 +53,11 @@ can come in handy when a fresh JSON version of the current data is needed.
 
 Generates CSV file `data.csv` from [`data.yaml`](data.yaml).
 
+### `yarn authors`
+
+Update [`authors.json`](src/authors.json). This fetches author data for new
+author IDs in `data.yaml` and adds it to `src/authors.json`.
+
 ### `yarn locations`
 
 Update [`locations.json`](src/locations.json). This fetches coordinates for
