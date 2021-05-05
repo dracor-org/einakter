@@ -15101,7 +15101,7 @@ editions:
   - title: "Thalia. Sammlung neuer Schauspiele von C. Bonafont. Erstes Bändchen. Augsburg und Leipzig 1816, S. 119–166"
     url: https://books.google.com/books?id=5Xc6AAAAcAAJ&pg=RA1-PA119
 comments:
-  - "Weitere Übersetzung: [Castelli 1804](castelli-domesticken-streiche) (unter dem Titel »Domesticken-Streiche«)."
+  - "Weitere Übersetzungen: [Castelli 1804](castelli-domesticken-streiche) (unter dem Titel »Domesticken-Streiche«), [Bonafont 1826](bonafont-list-um-list) (unter dem Titel »List um List«)."
 keywords:
   - Verstellspiel
   - Verkleidungsspiel
@@ -15113,6 +15113,55 @@ cast:
     role: ein Kammermädchen.
     gender: f
 setting: Ein eleganter Salon im Hause von Lisettens Gebieterin.
+---
+slug: bonafont-der-koenig-und-die-henne
+author:
+  name: Bonafont, Philipp Karl
+  wikidata: Q94875676
+title: Der König und die Henne
+subtitle: Original-Lustspiel in einem Aufzuge, (nach einer wahren Begebenheit)
+numberOfScenes: 12
+printed: 1823
+formalia:
+  - Prosa
+editions:
+  - title: "Brandenburg: Wiesike 1823"
+    url: https://books.google.com/books?id=HdptbVwTY98C&printsec=frontcover
+  - title: "Heinrich IV. zu Alençon. Original-Lustspiel in einem Aufzug. Zweite verbesserte Auflage. In: Thaliens Spenden für Bühnen und Privattheater von C. Ph. Bonafont. Zweiter Band. Leipzig: Kaiser 1826, S. 51–101"
+    url: https://books.google.com/books?id=qAU-AQAAMAAJ&pg=PA51
+comments:
+  - "Hinweis im Vorwort: »Die Begebenheit selbst trug sich zu Alençon im Jahre 1590 zu, kurz vor der entscheidenden Schlacht von Ivri, die Heinrich IV. bekanntlich den Liguisten lieferte.« (1823, [S. V](https://books.google.com/books?id=HdptbVwTY98C&pg=PA5))"
+  - Zweite Auflage unter dem Titel »Heinrich IV. zu Alençon« (1826).
+cast:
+  - name: Heinrich IV.,
+    role: König von Frankreich.
+    gender: m
+  - name: Dame von Déricourt,
+    role: Gattin eines königlichen Hauptmanns.
+    gender: f
+  - name: Rosa,
+    role: ihre Tochter.
+    gender: f
+  - name: Claude Martinet,
+    role: ein reicher Bürger.
+    gender: m
+  - name: Victor,
+    role: sein Sohn.
+    gender: m
+  - name: Magistratspersonen und Bürger von Alençon.
+    isGroup: true
+    gender: u
+  - name: Gefolge des Königs.
+    role: (Nicht zahlreich.)
+    isGroup: true
+    gender: u
+  - name: Bediente der Dame von Déricourt.
+    isGroup: true
+    gender: u
+setting: >-
+  Ort der Begebenheit Alençon. Zeit des Ereignisses 1590, kurz vor der Schlacht von Ivri. (Strasse zu Alençon. Es ist Abends acht Uhr. In mehreren Häusern ist Licht zu sehen.)
+location:
+  wikidataId: Q181269
 ---
 slug: bonafont-der-pflegvater
 author:
@@ -15143,6 +15192,47 @@ cast:
     role: ohngefähr 12 Jahr alt.
     gender: m
 setting: Die Handlung geht in Edelmuths Wohnung vor. (Edelmuths Wohnzimmer.)
+---
+slug: bonafont-die-beiden-joseph-oder-des-kaisers-wechsel
+author:
+  name: Bonafont, Philipp Karl
+  wikidata: Q94875676
+title: Die beiden Joseph oder des Kaisers Wechsel
+subtitle: Dramatisirte Anecdote in einem Aufzug, aus dem Leben Josephs II.
+numberOfScenes: 13
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Thaliens Spenden für Bühnen und Privattheater von C. Ph. Bonafont. Zweiter Band. Leipzig: Kaiser 1826, S. 193–244"
+    url: https://books.google.com/books?id=qAU-AQAAMAAJ&pg=PA193
+comments:
+  - "In der [Bemerkung](https://books.google.com/books?id=qAU-AQAAMAAJ&pg=PA195) nach dem Personenverzeichnis: Das Stück sei in Österreich erfolgreich aufgeführt worden. Das längere Selbstgespräch des Kaisers im sechsten Auftritt sei interessant für Leser&#042;innen, können aber abgekürzt werden."
+cast:
+  - name: Joseph II.,
+    role: Kaiser.
+    gender: m
+  - name: Freifrau von Hartingen,
+    role: reiche Witwe.
+    gender: f
+  - name: Marie Börner,
+    role: eine Waise.
+    gender: f
+  - name: Kaufmann Hallermund.
+    gender: m
+  - name: Joseph Gerbert,
+    role: Handlungsdiener.
+    gender: m
+  - name: Weise,
+    role: Kabinetsrath.
+    gender: m
+  - name: Heiducken des Kaisers.
+    isGroup: true
+    gender: m
+setting: >-
+  Ort des Ereignisses: Wien. Zeit, 1770.
+location:
+  wikidataId: Q1741
 ---
 slug: bonafont-die-brunnengaeste
 author:
@@ -15190,6 +15280,39 @@ cast:
     gender: u
 setting: >-
   Ein gemeinschaftlicher Saal in einem Gasthofe mit einer Mittel- und zwey Seitenthüren.
+---
+slug: bonafont-list-um-list
+author:
+  name: Bonafont, Philipp Karl
+  wikidata: Q94875676
+title: List um List
+subtitle: Lustspiel in einem Aufzug nach dem Französischen
+numberOfScenes: 13
+printed: 1826
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Baptiste Dubois: [»Marton et Frontin, ou Assaut de valets. Comédie en un acte, en prose«](https://books.google.com/books?id=dxFGj_gOT44C&printsec=frontcover)"
+editions:
+  - title: "Thaliens Spenden für Bühnen und Privattheater von C. Ph. Bonafont. Zweiter Band. Leipzig: Kaiser 1826, S. 1–50"
+    url: https://books.google.com/books?id=qAU-AQAAMAAJ&l&pg=PA1
+comments:
+  - "Hinweis unter dem Personenverzeichnis: »Dieses kleine, nur zwei Personen erfordernde Bühnenspiel, eignet sich vorzüglich für Gesellschaftstheater uns selbst zur Darstellung in einem Salon, wo mit Hülfe einiger sogenannte spanische Wände, eine Art von Theater leicht eingerichtet werden kann.«"
+  - "Weitere Übersetzungen: [Castelli 1804](castelli-domesticken-streiche) (unter dem Titel »Domesticken-Streiche«), [Bonafont 1816](bonafont-betrug-fuer-betrug-oder-bedientenstreiche) (unter dem Titel »Betrug für Betrug oder Bedientenstreiche«)."
+keywords:
+  - Verstellspiel
+  - Verkleidungsspiel
+cast:
+  - group:
+      - name: Schlau,
+        role: Bedienter.
+        gender: m
+      - name: Lisette,
+        role: Kammermädchen.
+        gender: f
+    role: in verschiedenen Gestalten.
+setting: >-
+  Salon mit Seitenthüren im Hause von Lisettens Gebieterin, die abwesend ist.
 ---
 slug: bonafont-paul-der-erste-oder-entschlossenheit-und-gnade
 author:
@@ -17372,7 +17495,7 @@ editions:
   - title: "I. F. Castelli's Theater. Vollständige Ausgabe letzter Hand, in strenger Auswahl. Zweites Bändchen. Zweite vermehrte Auflage. Wien: Mayer 1848, S. 173–208"
     url: https://books.google.com/books?id=gHjfAAAAMAAJ&pg=PA173
 comments:
-  - "Weitere Übersetzung: [Bonafont 1816](bonafont-betrug-fuer-betrug-oder-bedientenstreiche) (unter dem Titel »Betrug für Betrug oder Bedientenstreiche«)."
+  - "Weitere Übersetzungen: [Bonafont 1816](bonafont-betrug-fuer-betrug-oder-bedientenstreiche) (unter dem Titel »Betrug für Betrug oder Bedientenstreiche«), [Bonafont 1826](bonafont-list-um-list) (unter dem Titel »List um List«)."
   - "1826 unter dem Titel »Fünf sind Zwei, oder: Domestikenstreiche« (1826)."
 keywords:
   - Verstellspiel
@@ -17735,7 +17858,7 @@ printed: 1831
 formalia:
   - Prosa
 basedOn:
-  - "Eugène Scribe und Mélesville: [»La seconde annee, ou A qui la faute? Comédie-vaudeville en un acte«](https://books.google.com/books?id=OjrukAQmoz8C&printsec=frontcover)"
+  - "Eugène Scribe und Mélesville: [»La seconde année, ou À qui la faute? Comédie-vaudeville en un acte«](https://books.google.com/books?id=CJfCXy8_s-YC&pg=PA371)"
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1831. Von F. I. Castelli. Sechzehnter Jahrgang. Wien: Wallishausser 1831, S. 109–194"
     url: https://books.google.com/books?id=26c7AAAAcAAJ&pg=PA109
@@ -24267,6 +24390,48 @@ cast:
 setting: >-
   Die Scene ist ein Zimmer in Gilbachs Hause.
 ---
+slug: hagemann-der-orgelpeter
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Der Orgelpeter
+subtitle: Original-Lustspiel mit Gesang in einem Aufzuge
+numberOfScenes: 13
+printed: 1810
+formalia:
+  - Prosa
+editions:
+  - title: "Eisenach: Wittekindt 1810"
+    url: https://books.google.com/books?id=2y4myc2O090C&printsec=frontcover
+cast:
+  - name: Fräulein Amalie.
+    gender: f
+  - name: Lisette,
+    role: ihr Kammermädchen.
+    gender: f
+  - group:
+      - name: von Bollwitz,
+        gender: m
+      - name: Waldheim,
+        gender: m
+      - name: Rosenthal,
+        gender: m
+      - name: Doctor Grobian,
+        gender: m
+      - name: Hieber,
+        gender: m
+      - name: von Beaumont,
+        gender: m
+    role: Amaliens Liebhaber.
+  - name: Peter,
+    role: ein Orgelträger.
+    gender: m
+  - name: Thomas,
+    role: ein Knabe.
+    gender: m
+setting: >-
+  Die Scene ist eine englische Anlage. (Hinten eine Gartenmauer mit einer Thüre.) (Den Spielenden links Amaliens Haus.)
+---
 slug: hagemann-der-patriot
 author:
   name: Hagemann, Friedrich Gustav
@@ -25811,6 +25976,39 @@ setting: >-
   Die Scene spielt vor einem der Thore Londons, ohnweit des Narrenhauses, Bedlam genannt.
 location:
   wikidataId: Q831377
+---
+slug: hell-zwei-jahre-verheirathet-oder-wer ist-daran-schuld
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: "Zwei Jahre verheirathet, oder: Wer ist daran Schuld?"
+subtitle: Lustspiel in Einem Acte. Nach Scribe und Melesville
+numberOfScenes: 16
+printed: 1832
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Mélesville: [»La seconde année, ou À qui la faute? Comédie-vaudeville en un acte«](https://books.google.com/books?id=CJfCXy8_s-YC&pg=PA371)"
+editions:
+  - title: "Dramatisches Vergißmeinnicht für das Jahr 1832. aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Neuntes Bändchen. Dresden und Leipzig: Arnoldi 1832, S. 1–108"
+    url: https://books.google.com/books?id=UQtOAAAAcAAJ&pg=PA1
+cast:
+  - name: Denneville,
+    role: Bankier.
+    gender: m
+  - name: Caroline,
+    role: seine Frau.
+    gender: f
+  - name: Edmond,
+    role: Graf von Saint Elme, Denneville's Freund.
+    gender: m
+  - name: Gervault,
+    role: Denneville's Buchhalter.
+    gender: m
+setting: >-
+  Scene: Paris. (Die Bühne stellt ein elegantes Wohnzimmer in Denneville's Hause dar. Hinten ein Kamin, an beiden Seiten Eingangsthüren. Die Thür rechts geht nach außen. Zwei Seitenthüren, wovon die links zu Karolinens Zimmer, rechts in ein Kabinet führt. Ohnweit der letztern ein Schreibtisch mit Papieren, bei der links ein Anziehspiegel.)
+location:
+  wikidataId: Q90
 ---
 slug: hempel-die-preussischen-winterquartiere-in-sachsen
 author:
