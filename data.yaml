@@ -28109,6 +28109,76 @@ cast:
 setting: >-
   Ländliche Gegend. Im Vorgrunde eine Dorfschenke, die einen grünen Kranz zum Schilde führt; gegenüber eine große Linde mit einer Rasenbank.
 ---
+slug: holbein-die-farben
+author:
+  name: Holbein, Franz Ignaz von
+  wikidata: Q1447416
+title: Die Farben
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1822
+premiered: 1819-05-21
+formalia:
+  - gereimte vierhebige trochäische Verse
+editions:
+  - title: "Jahrbuch deutscher Nachspiele. Erster Jahrgang, für 1822. Herausgegeben von Carl von Holtei. Breslau: Graß, Barth & Co.; Leipzig: Barth [1822], S. 131–220"
+    url: https://books.google.com/books?id=BmdIAQAAMAAJ&pg=PA131
+  - title: "Theater von Karl von Holtei. Ausgabe letzter Hand in sechs Bänden. Vierter Band. Breslau: Trewendt 1867, S. 55–110"
+    url: https://books.google.com/books?id=ZcI6AAAAcAAJ&pg=PA55
+comments:
+  - Laut [Vorwort](https://books.google.com/books?id=ZcI6AAAAcAAJ&pg=PA57) ursprünglich in Prosa geschrieben.
+  - "Untertitel 1867: »Ein Spiel in einem Akt«."
+cast:
+  - name: Die Landräthin.
+    gender: f
+  - group:
+      - name: Amalie,
+        gender: f
+      - name: Bertha,
+        gender: f
+      - name: Emilie,
+        gender: f
+    role: ihre Kinder.
+  - name: Clara,
+    role: ihre Nichte.
+    gender: f
+  - name: Gustav.
+    gender: m
+setting: >-
+  Scene: Ein Garten; im Hintergrunde ein Gartenhaus, im Vordergrund eine Laube.
+---
+slug: holbein-die-nachschrift
+author:
+  name: Holbein, Franz Ignaz von
+  wikidata: Q1447416
+title: Die Nachschrift
+subtitle: "Lustspiel in einem Aufzuge. Frei nach Heigels Lustspiel: »Der Perückenstock«, bearbeitet"
+numberOfScenes: 4
+printed: 1826
+premiered: 1812-10-16
+formalia:
+  - Prosa
+editions:
+  - title: "Dilettanten-Bühne für 1826. Von Franz von Holbein. Erster Jahrgang. Wien: Wallishausser 1826, S. 41–78"
+    url: https://books.google.com/books?id=mG1WAAAAcAAJ&pg=PA41
+comments:
+  - Freie Bearbeitung von [Heigels »Der Perückenstock«](heigel-der-perueckenstock).
+  - "Mit Gesang im Anhang: »Anmerkung: Wenn die Darstellenden einen kleinen Gesang vortragen können, so können sie Folgendes noch hinzusetzen: […]« ([S. 76](https://books.google.com/books?id=mG1WAAAAcAAJ&pg=PA76))"
+keywords:
+  - Ehestandsszene
+  - Eifersucht
+cast:
+  - name: Kranz,
+    role: ein Friseur.
+    gender: m
+  - name: Lisette,
+    role: eine Putzmacherin, seine Frau.
+    gender: f
+setting: >-
+  Ort der Handlung: Wien. (Elegantes Zimmer. Links an einem Fenster steht ein sehr modern gekleidet und frisirtes Brustbild mit wächsernem Gesichte, wie sie in den Ausstellkasten der Modehandlungen üblich sind. Im Hintergrund eine Mittelthür, und auf beiden Seiten Glaskasten mit Kleidern und modernen Kopfzeugen. In der Ecke rechts ein hoher Perückenstock mit einer Haarbeutel-Perücke, und ein kleinerer mit einer blonden Damen-Tour. In der Ecke links auf zwei Stöcken mittelmäßiger Höhe, eine moderne schwarze und braune Herrn-Perücke. Mehrere Stühle, Requisiten für Friseur- und Putzarbeiten liegen auf den Tischen.)
+location:
+  wikidataId: Q1741
+---
 slug: holbein-die-wittwe-und-der-wittwer-oder-treue-bis-in-den-tod
 author:
   name: Holbein, Franz Ignaz von
@@ -28143,38 +28213,6 @@ cast:
     gender: f
 setting: >-
   Würde dieses Lustspiel ohne Theater, blos in einem Zimmer von Dilettanten dargestellt; so dürften nur die Meubles mit schwarzen Tüchern und Flören umhangen und die wenigen Beziehungen auf das schwarze Zimmer weggelassen werden.
----
-slug: holbein-die-nachschrift
-author:
-  name: Holbein, Franz Ignaz von
-  wikidata: Q1447416
-title: Die Nachschrift
-subtitle: "Lustspiel in einem Aufzuge. Frei nach Heigels Lustspiel: »Der Perückenstock«, bearbeitet"
-numberOfScenes: 4
-printed: 1826
-premiered: 1812-10-16
-formalia:
-  - Prosa
-editions:
-  - title: "Dilettanten-Bühne für 1826. Von Franz von Holbein. Erster Jahrgang. Wien: Wallishausser 1826, S. 41–78"
-    url: https://books.google.com/books?id=mG1WAAAAcAAJ&pg=PA41
-comments:
-  - Freie Bearbeitung von [Heigels »Der Perückenstock«](heigel-der-perueckenstock).
-  - "Mit Gesang im Anhang: »Anmerkung: Wenn die Darstellenden einen kleinen Gesang vortragen können, so können sie Folgendes noch hinzusetzen: […]« ([S. 76](https://books.google.com/books?id=mG1WAAAAcAAJ&pg=PA76))"
-keywords:
-  - Ehestandsszene
-  - Eifersucht
-cast:
-  - name: Kranz,
-    role: ein Friseur.
-    gender: m
-  - name: Lisette,
-    role: eine Putzmacherin, seine Frau.
-    gender: f
-setting: >-
-  Ort der Handlung: Wien. (Elegantes Zimmer. Links an einem Fenster steht ein sehr modern gekleidet und frisirtes Brustbild mit wächsernem Gesichte, wie sie in den Ausstellkasten der Modehandlungen üblich sind. Im Hintergrund eine Mittelthür, und auf beiden Seiten Glaskasten mit Kleidern und modernen Kopfzeugen. In der Ecke rechts ein hoher Perückenstock mit einer Haarbeutel-Perücke, und ein kleinerer mit einer blonden Damen-Tour. In der Ecke links auf zwei Stöcken mittelmäßiger Höhe, eine moderne schwarze und braune Herrn-Perücke. Mehrere Stühle, Requisiten für Friseur- und Putzarbeiten liegen auf den Tischen.)
-location:
-  wikidataId: Q1741
 ---
 slug: holbein-geniren-sie-sich-nicht
 author:
@@ -45994,6 +46032,167 @@ cast:
     role: Priester.
     gender: m
 setting: Die Handlung ist nahe bey einem, dem Pan geweihten Hayne.
+---
+slug: riesch-die-abentheuer-einer-ballnacht
+author:
+  name: Riesch, Franz von
+  wikidata: Q94529541
+title: Die Abentheuer einer Ballnacht
+subtitle: Posse in einem Aufzug
+numberOfScenes: 25
+printed: 1820
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 336
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=334"
+editions:
+  - title: "Bühnen-Spiele von F. Grafen von Riesch. Dritter Band. Wien: Tendler & Compagnie 1820, S. 281–344"
+    url: https://books.google.com/books?id=hbk7AAAAcAAJ&pg=PA281
+cast:
+  - name: Kralle,
+    role: ein reicher Lieferant.
+    gender: m
+  - name: Leonore,
+    role: seine Tochter.
+    gender: f
+  - name: Madame Plunder,
+    role: eine Wittwe, seine Schwester.
+    gender: f
+  - name: Lorenz,
+    role: ihr Bedienter.
+    gender: m
+  - name: Lieutenant Blum.
+    gender: m
+  - name: Fritz Zeisig.
+    gender: m
+  - name: Zange,
+    role: Gerichtsschreiber.
+    gender: m
+  - name: Ein Hausmeister.
+    gender: m
+  - name: Ein Aufwärter.
+    gender: m
+  - name: Bediente. Reisende. Bürger und Bürgerinnen. Ballgäste. Wache.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung spielt in einer kleinen Provinzialstadt. (Freier Marktplatz. Im Vordergrunde links das Haus der Madame Plunder; eine Seite desselben mit der Thüre, darüber zwei Fenster und über diesen ein kleines, ovales Fenster, ist gegen die Zuschauer, die andere Seite mit einem Balkon und mehreren Fenstern im ersten, und zwei Fenstern im zweiten Stock, ist gegen die rechte Seite der Bühne gekehrt, so daß man rückwärts noch mehrere Zimmer vermuthen kann. Seitwärts vom Balkon, am Eingange einer kleinen, engen Gasse, steht ein Heuwagen, an den eine Leiter gelehnt ist. Gegenüber im Vordergrunde rechts der Gasthof zum blauen Igel, vor dem eine große Straßenlaterne brennt. Rückwärts rechts und links mehrere Häuser. Den Hintergrund füllt ein großes, quer über die Bühne laufendes, mit einem Einfahrtsthor versehenes Gebäude.)
+---
+slug: riesch-die-nebenbuhlerinn
+author:
+  name: Riesch, Franz von
+  wikidata: Q94529541
+title: Die Nebenbuhlerinn
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 7
+printed: 1820
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: corvey
+    pages: S. 337–338
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=335"
+editions:
+  - title: "Lustspiele von F. Grafen von Riesch. Erster Band. Wien: Tendler und Compagnie 1820, S. 143–168"
+    url: https://books.google.com/books?id=08dRAAAAcAAJ&pg=PA143
+keywords:
+  - Ehestandsszene
+cast:
+  - name: Herr von Greifen.
+    gender: m
+  - name: Louise,
+    role: seine Frau.
+    gender: f
+  - name: Landrath von Soltau,
+    role: ihr Onkel.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung spielt in einer Residenz. (Ein kleiner Saal; rechts und links eine Thüre; im Hintergrund zwei Thüren; vorn ein Tisch, auf dem zwei Lichter brennen, und Stühle; links im Hintergrund ein großer Wandschrank, und etwas weiter vor zwei Fenster.)
+---
+slug: riesch-die-treuen-ungetreuen
+author:
+  name: Riesch, Franz von
+  wikidata: Q94529541
+title: Die treuen Ungetreuen
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 12
+printed: 1820
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: corvey
+    pages: S. 338
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=336"
+editions:
+  - title: "Lustspiele von F. Grafen von Riesch. Erster Band. Wien: Tendler und Compagnie 1820, S. 219–286"
+    url: https://books.google.com/books?id=08dRAAAAcAAJ&pg=PA219
+cast:
+  - name: Mathilde,
+    role: Gräfinn Selt, eine junge Wittwe.
+    gender: f
+  - name: Rosamunde,
+    role: ihre Schwester.
+    gender: f
+  - name: Assessor Dorn.
+    gender: m
+  - name: Hauptmann von Sturm.
+    gender: m
+  - name: Baron Beinchen.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung spielt in einer Residenz. (Elegant meublirtes Zimmer der Gräfinn. Links ein Schreibtisch; mehrere Seitenthüren.)
+---
+slug: riesch-die-ueberlisteten
+author:
+  name: Riesch, Franz von
+  wikidata: Q94529541
+title: Die Ueberlisteten
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 24
+printed: 1820
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: corvey
+    pages: S. 338
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=336"
+editions:
+  - title: "Bühnen-Spiele von F. Grafen von Riesch. Dritter Band. Wien: Tendler & Compagnie 1820, S. 81–138"
+    url: https://books.google.com/books?id=hbk7AAAAcAAJ&pg=PA81
+cast:
+  - name: Herr von Rast,
+    role: ein alter Seeofficier.
+    gender: m
+  - name: Heinrich von Sand,
+    role: sein Neffe.
+    gender: m
+  - group:
+      - name: Belinde v. Krohnheim,
+        role: die jüngere
+        gender: f
+      - name: Belinde v. Krohnheim,
+        role: ihre Tante
+        gender: f
+    role: Beide in Hrn. von Rast's Hause.
+  - name: Doktor Uelx.
+    gender: m
+  - name: Rosine,
+    role: Belindens Kammermädchen.
+    gender: f
+  - name: Trill,
+    role: Bedienter bei Herrn von Rast.
+    gender: m
+  - name: Holper,
+    role: Notar.
+    gender: m
+setting: >-
+  Die Handlung spielt in einer Seestadt. (Elegant meublirtes Zimmer in Herrn von Rast's Hause. Im Hintergrunde ein offenes Portal, durch das man in das Vorzimmer sieht. Recht und links Seitenthüren.)
 ---
 slug: robert-blind-und-lahm
 author:
