@@ -28053,6 +28053,62 @@ cast:
 setting: >-
   Der Schauplatz ist in einem Zimmer in Orbilens Hause, wo eine oder zwey Stubenuhren angebracht werden können.
 ---
+slug: holbein-das-preisgedicht
+author:
+  name: Holbein, Franz Ignaz von
+  wikidata: Q1447416
+title: Das Preisgedicht
+subtitle: Locales Lustspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Dilettanten-Bühne für 1826. Von Franz von Holbein. Erster Jahrgang. Wien: Wallishausser 1826, S. 123–150"
+    url: https://books.google.com/books?id=mG1WAAAAcAAJ&pg=PA123
+cast:
+  - name: Ein reicher Pächter.
+    gender: m
+  - name: Der Schulze.
+    gender: m
+  - name: Lehne,
+    role: seine Base.
+    gender: f
+  - name: Gottlieb,
+    role: ein armer Bauer.
+    gender: m
+setting: >-
+  Die Handlung geschieht nahe bei Wien, am 12. Februar. (Oeder Waldplatz mit einem bis auf den Grund abgebrannten Bauernhause.)
+location:
+  wikidataId: Q1741
+---
+slug: holbein-der-vorsatz
+author:
+  name: Holbein, Franz Ignaz von
+  wikidata: Q1447416
+title: Der Vorsatz
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 3
+printed: 1819
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach für Privatbühnen. Drittes Bändchen auf das Jahr 1819. Herausgegeben von Adolph Müllner. Leipzig: Göschen 1819, S. 383–420"
+    url: https://books.google.com/books?id=KtIzZ7ptdugC&pg=PA383
+  - title: "Dilettanten-Bühne für 1826. Von Franz von Holbein. Erster Jahrgang. Wien: Wallishausser 1826, S. 9–40"
+    url: https://books.google.com/books?id=mG1WAAAAcAAJ&pg=PA9
+comments:
+  - 1826 lautet der Untertitel »Original-Lustspiel in einem Aufzuge«.
+cast:
+  - name: Gretchen,
+    role: ein Bauernmädchen.
+    gender: f
+  - name: Hanns,
+    role: ein Soldat.
+    gender: m
+setting: >-
+  Ländliche Gegend. Im Vorgrunde eine Dorfschenke, die einen grünen Kranz zum Schilde führt; gegenüber eine große Linde mit einer Rasenbank.
+---
 slug: holbein-die-wittwe-und-der-wittwer-oder-treue-bis-in-den-tod
 author:
   name: Holbein, Franz Ignaz von
@@ -28119,6 +28175,33 @@ setting: >-
   Ort der Handlung: Wien. (Elegantes Zimmer. Links an einem Fenster steht ein sehr modern gekleidet und frisirtes Brustbild mit wächsernem Gesichte, wie sie in den Ausstellkasten der Modehandlungen üblich sind. Im Hintergrund eine Mittelthür, und auf beiden Seiten Glaskasten mit Kleidern und modernen Kopfzeugen. In der Ecke rechts ein hoher Perückenstock mit einer Haarbeutel-Perücke, und ein kleinerer mit einer blonden Damen-Tour. In der Ecke links auf zwei Stöcken mittelmäßiger Höhe, eine moderne schwarze und braune Herrn-Perücke. Mehrere Stühle, Requisiten für Friseur- und Putzarbeiten liegen auf den Tischen.)
 location:
   wikidataId: Q1741
+---
+slug: holbein-geniren-sie-sich-nicht
+author:
+  name: Holbein, Franz Ignaz von
+  wikidata: Q1447416
+title: Geniren Sie sich nicht
+subtitle: Original-Lustspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Dilettanten-Bühne für 1826. Von Franz von Holbein. Erster Jahrgang. Wien: Wallishausser 1826, S. 79–122"
+    url: https://books.google.com/books?id=mG1WAAAAcAAJ&pg=PA79
+cast:
+  - name: Sophie,
+    role: Gräfin von Reigen.
+    gender: f
+  - name: Baron,
+    role: Hanns von Strohmburg, ihr Onkel.
+    gender: m
+  - name: Peter.
+    gender: m
+  - name: Paul.
+    gender: m
+setting: >-
+  Die Handlung geschieht auf Waldheim, einem einsamen Waldschloß des Baron von Strohmburg. (Altmodisch aber reich meublirtes Zimmer. Links der allgemeine Aus- und Eingang; rechts eine Thür, die in's Innere des Schlosses führt. Ein Fortepiano, eine Elektrisirmaschine, Bücher, Musikalien, Gemälde und allerlei Kunstsachen. Im Hintergrunde zwei offene Fenster, durch welche man in den Garten sieht. Auf beiden Seiten des Vorgrundes Tisch und Stühle.)
 ---
 slug: holtei-der-dichter-im-versammlungszimmer-oder-das-fantastische-lustspiel
 author:
@@ -40599,6 +40682,72 @@ cast:
     gender: m
 setting: >-
   Die Scene ist im Billerbeckischen Hause.
+---
+slug: meisl-die-buschmenschen-in-kraehwinkel
+author:
+  name: Meisl, Carl
+  wikidata: Q1308773
+title: Die Buschmenschen in Krähwinkel
+subtitle: Eine Posse in einem Act
+numberOfScenes: 16
+printed: 1820
+premiered: 1819-12-30
+formalia:
+  - Prosa
+editions:
+  - title: "Theatralisches Quodlibet oder sämmtliche dramatische Beyträge für die Leopoldstädter Schaubühne von Carl Meisl. FÜnfter Band. Pesth: Hartleben 1820, S. 221–256"
+    url: https://books.google.com/books?id=Tr86AAAAcAAJ&pg=PA221
+comments:
+  - "»Veranlassung für das Stück waren Buschmänner, die in Wien allgemeines Staunen erregten. Das Th. in d. Josefstadt zeigte am 18. Dez. 1819 ›Die Buschmenschen in Trippstrill‹.« ([Goedeke](https://books.google.com/books?id=JjjnBQAAQBAJ&pg=PA273))"
+cast:
+  - name: Der Bürgermeister.
+    gender: m
+  - name: Staar,
+    role: sein Bruder.
+    gender: m
+  - group:
+      - name: Holprich,
+        gender: m
+      - name: Vollauf,
+        gender: m
+      - name: Nachtvogel,
+        gender: m
+    role: Rathsherrn.
+  - name: Klärchen,
+    role: des Bürgermeisters Mündel.
+    gender: f
+  - name: Lorchen,
+    role: ihr Mädchen.
+    gender: f
+  - name: Carl Lobe,
+    role: ihr Geliebter.
+    gender: m
+  - name: Purzel,
+    role: ein Schauspieldirector.
+    gender: m
+  - group:
+      - name: Madame Buche,
+        gender: f
+      - name: Demouiselle Eiche,
+        gender: f
+    role: Schauspielerinnen.
+  - name: Flink,
+    role: ein Schauspieler.
+    gender: m
+  - name: Sebastian Trampel,
+    role: ein vazirender Schustergesell.
+    gender: m
+  - name: Kinder.
+    isGroup: true
+    gender: u
+  - name: Die Frauen der Honoratioren.
+    isGroup: true
+    gender: f
+  - name: Volk.
+    isGroup: true
+    gender: u
+setting: >-
+  Straße in Krähwinkel, links im Wirthshause beym Haarzopf Rummelpufs.
 ---
 slug: meisl-meine-frau-ist-ein-satan
 author:
@@ -54628,6 +54777,40 @@ cast:
     role: von Mosacks Diener.
     gender: m
 setting: Das Stück spielt in einer großen Handelsstadt.
+---
+slug: velde-das-wilde-heer
+author:
+  name: Velde, Carl Franz van der
+  wikidata: Q85756
+title: Das wilde Heer
+subtitle: Lustspiel in einem Akte, von v. d. Velde
+numberOfScenes: 1
+printed: 1822
+premiered: 1818-01-29
+formalia:
+  - Blankvers
+editions:
+  - title: "Jahrbuch deutscher Nachspiele. Erster Jahrgang, für 1822. Herausgegeben von Carl von Holtei. Breslau: Graß, Barth & Co.; Leipzig: Barth [1822], S. 1–32"
+    url: https://books.google.com/books?id=BmdIAQAAMAAJ&pg=PA1
+comments:
+  - "Aufführungsbesprechung in: Abend-Zeitung. Nr. 35 (Mittwoch, am 11. Februar, 1818), [unpag.](https://books.google.com/books?id=C59TAAAAcAAJ&pg=PP154)"
+cast:
+  - name: Oberförster Wolf.
+    gender: m
+  - name: Concordie,
+    role: seine Tochter.
+    gender: f
+  - name: Forsteleve Silberling.
+    gender: m
+  - name: Lieutenant Eiche.
+    gender: m
+  - name: Anne,
+    role: eine Tagelöhners-Wittwe.
+    gender: f
+  - name: Ein Jäger.
+    gender: m
+setting: >-
+  Wilder Wald. Link das Haus des Oberförsters. Ueber der Thür ein Hirschgeweih.
 ---
 slug: vogel-das-seltene-rezept
 author:
