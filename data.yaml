@@ -11101,7 +11101,7 @@ cast:
         role: eilf Jahre alt.
         gender: m
       - name: Kaspar,
-        role: zehen Jahre alt .
+        role: zehen Jahre alt.
         gender: m
       - name: Nanette,
         role: acht Jahre alt.
@@ -18327,6 +18327,38 @@ cast:
 setting: >-
   Ein Saal mit Mittel- und Seitenthüren.
 ---
+slug: contessa-ich-bin-mein-bruder
+author:
+  name: Contessa, Karl Wilhelm
+  wikidata: Q96771
+title: Ich bin mein Bruder
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 17
+created: 1809
+printed: 1819
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach für Privatbühnen. Drittes Bändchen auf das Jahr 1819. Herausgegeben von Adolph Müllner. Leipzig: Göschen 1819, S. 231–328"
+    url: https://books.google.com/books?id=KtIzZ7ptdugC&pg=PA231
+  - title: "C. W. Contessa's Schriften. Herausgegeben von E. von Houwald. Dritter Band. Leipzig: Göschen 1826, S. 205–282"
+    url: https://books.google.com/books?id=jEtTAAAAcAAJ&pg=PA205
+cast:
+  - name: Albert.
+    gender: m
+  - name: Caroline,
+    role: seine Frau.
+    gender: f
+  - name: Sophie,
+    role: seine Nichte.
+    gender: f
+  - name: Sirillo.
+    gender: m
+  - name: Heimfeld.
+    gender: m
+setting: >-
+  Das Theater stellt einen Saal vor, mit zwei Mittelthüren und einer Seitenthüre. Im Vordergrunde stehen zwei behangene Tische einander gegenüber.
+---
 slug: contessa-ich-bin-meine-schwester
 author:
   name: Contessa, Karl Wilhelm
@@ -18786,7 +18818,7 @@ premiered: 1829-09-19
 formalia:
   - Verse
 editions:
-  - title: "W. G. Becker's Taschenbuch zum geselligen Vergnügen. Herausgegeben von Friedrich Kind. Auf das Jahr 1825. Leipzig: Göschen 1825, S. 185–219"
+  - title: "W. G. Becker's Taschenbuch zum geselligen Vergnügen. Herausgegeben von Friedrich Kind. Auf das Jahr 1825. Leipzig: Göschen [1825], S. 185–219"
     url: https://books.google.com/books?id=8AFdAAAAcAAJ&pg=PA185
 cast:
   - name: Robert,
@@ -21743,7 +21775,7 @@ cast:
 setting: >-
   Die Handlung ist in einem Gasthofe. (Ein Saal mit einer Mittel- und einer Seitenthüre.)
 ---
-slug: freisleben-der-schreckenstag-oder-die-einsame-försterwohnung
+slug: freisleben-der-schreckenstag-oder-die-einsame-foersterwohnung
 author:
   name: Freisleben, Ludwig Georg Franz
   wikidata: Q55843847
@@ -23404,9 +23436,9 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 12, S. 121
 editions:
-  - title: "Die Deutsche Schaubühne. Erster Theil. Leipzig: Breitkopf 1742, S. 495–536"
+  - title: "Der Deutschen Schaubühne. Erster Theil. Leipzig: Breitkopf 1742, S. 495–536"
     url: https://books.google.com/books?id=VxJ8y6ZVJk0C&pg=RA1-PA495
-  - title: "Die Deutsche Schaubühne. Erster Theil. Neue verbesserte Auflage. Leipzig: Breitkopf 1746, S. 497–536"
+  - title: "Der Deutschen Schaubühne. Erster Theil. Neue verbesserte Auflage. Leipzig: Breitkopf 1746, S. 497–536"
     url: https://books.google.com/books?id=VxJ8y6ZVJk0C&pg=RA1-PA495
   - title: "Wien 1770"
     url: https://books.google.com/books?id=yCNVAAAAcAAJ&printsec=frontcover
@@ -23455,8 +23487,10 @@ dictionaries:
   - name: dramenlexikon
     pages: S. 107–108
 editions:
-  - title: "Die Deutsche Schaubühne. Sechster und letzter Theil. Leipzig: Breitkopf 1745, S. 509–551"
-    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11089914_00529.html
+  - title: "Der Deutschen Schaubühne. Sechster und letzter Theil. Leipzig: Breitkopf 1745, S. 509–551"
+    url: https://books.google.com/books?id=bFpZAAAAcAAJ&pg=PA509
+  - title: "Der Deutschen Schaubühne. Sechster und letzter Theil. Zweyte verbesserte Auflage. Leipzig: Breitkopf 1750, S. 509–551"
+    url: https://www.digitale-sammlungen.de/de/view/bsb10109563?page=535
   - title: "Berlin: De Gruyter 1962, S. 7–38"
     url: https://doi.org/10.1515/9783110828252-002
   - title: "Lustspiele der Aufklärung in einem Akt. Stuttgart: Reclam 1986, S. 5–40"
@@ -24645,7 +24679,7 @@ cast:
 setting: >-
   Die Scene ist ein gemeinschaftlicher Vorplatz; rechts die Thüre zu des Hauptmanns, links die Thüre zu des Sekretairs Zimmer.
 ---
-slug: hagmemann-großmuth-und-dankbarkeit
+slug: hagmemann-grossmuth-und-dankbarkeit
 author:
   name: Hagemann, Friedrich Gustav
   wikidata: Q23061863
@@ -25652,6 +25686,42 @@ cast:
     gender: m
 setting: >-
   Blumenthals Zimmer.
+---
+slug: heigel-das-war-dein-glueck-oder-der-liebhaber-im-stroh
+author:
+  name: Heigel, Cäsar Max
+  wikidata: Q1150012
+title: "Das war dein Glück oder: Der Liebhaber im Stroh"
+subtitle: Lustspiel in 1 Akt
+numberOfScenes: 7
+printed: 1821
+premiered: 1804-05-11
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Bagatellen von Cäsar Max Heigel. Aarau: Sauerländer 1821, S. 35–80"
+    url: https://books.google.com/books?id=TUtPAQAAMAAJ&pg=PA35
+comments:
+  - "»Seitenstück zu dem beliebten Lustspiel: Das war ich!« (Zürcherisches Wochenblatt. Nro. 81 (Donnerstag, den 9. October 1834), [S. 366](https://books.google.com/books?id=w2VBAAAAcAAJ&pg=RA1-PA366))."
+  - "Hinweis auf Einaktigkeit bei Goedeke (Band XI/1, [S. 171](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA171))."
+cast:
+  - name: Herrmann,
+    role: Pachter.
+    gender: m
+  - name: Anne,
+    role: seine Frau.
+    gender: f
+  - name: Hannchen,
+    role: seine Tochter.
+    gender: f
+  - name: Theodor,
+    role: ein Bauernbursche.
+    gender: m
+  - name: Michel,
+    role: ein Knecht.
+    gender: m
+setting: >-
+  Die Scene ist des Pachters Haus-Flur, welche mit Werkzeugen gefüllt ist. Im Hintergrunde die Thüre in den Hof, an der Seite einige Stufen, und die Thüre, welche in das Innere des Hauses führt.
 ---
 slug: heigel-der-perueckenstock
 author:
@@ -30636,6 +30706,102 @@ cast:
     gender: m
 setting: Die Handlung geht in dem Hause des Orgons vor.
 ---
+slug: kind-der-weinberg-an-der-elbe
+author:
+  name: Kind, Johann Friedrich
+  wikidata: Q78246
+title: Der Weinberg an der Elbe
+subtitle: Ländliches Lust- und Festspiel in Einem Aufzuge
+numberOfScenes: 10
+printed: 1817
+premiered: 1817-11-15
+formalia:
+  - jambische gereimte Verse
+editions:
+  - title: "Leipzig: Göschen 1817"
+    url: https://books.google.com/books?id=xIgqAAAAMAAJ&printsec=frontcover
+  - title: "Friedrich Kind's Theaterschriften. Zweiter Band. Leipzig: Göschen 1823, S. 131–180"
+    url: https://books.google.com/books?id=NUGUkJGNwm8C&pg=PA131
+comments:
+  - "Hinweis auf dem Titelblatt: »Bei Vermählung der Königl. Prinzessin Maria Anna Carolina von Sachsen mit dem Herrn Erbgroßherzoge Leopold von Toscana.«"
+cast:
+  - name: Hainau.
+    gender: m
+  - group:
+      - name: Wilhelm,
+        gender: m
+      - name: Anna,
+        gender: f
+    role: seine Kinder.
+  - name: Florentin.
+    gender: m
+  - name: Peter Bunkel.
+    gender: m
+  - name: Wall.
+    gender: m
+  - name: Gäste. Schnitter und Winzer mit ihren Frauen und Mädchen.
+    isGroup: true
+    gender: u
+  - name: Nebenpersonen.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Stück spielt auf einem herrschaftlichen Weinbergsgrundstück am Tage der Vermählung durch Procuration. (Saal mit drei Thüren. Zwei davon sind verschlossen.)
+---
+slug: kind-petrus-apianus-oder-achtung-der-wissenschaft
+author:
+  name: Kind, Johann Friedrich
+  wikidata: Q78246
+title: "Petrus Apianus, oder: Achtung der Wissenschaft"
+subtitle: Schauspiel in Einem Aufzuge
+numberOfScenes: 12
+created: 1818
+printed: 1820
+premiered: 1818-08-12
+formalia:
+  - jambische gereimte Verse
+editions:
+  - title: "W. G. Becker's Taschenbuch zum geselligen Vergnügen. Herausgegeben von Friedrich Kind. Auf das Jahr 1820. Leipzig: Göschen; Wien: Gerold [1820], S. 287–354"
+    url: https://books.google.com/books?id=t6xUAAAAcAAJ&pg=PA287
+  - title: "Friedrich Kind's Theaterschriften. Zweiter Band. Leipzig: Göschen 1823, S. 77–130"
+    url: https://books.google.com/books?id=NUGUkJGNwm8C&pg=PA77
+cast:
+  - name: Prinz von Solmonien,
+    role: General, Kaiser Karl des Fünften, unter dem Oberbefehl des Herzogs von Alba.
+    gender: m
+  - name: Toledo,
+    role: Obrister.
+    gender: m
+  - name: Falkenberg,
+    role: Hauptmann.
+    gender: m
+  - name: Nicol Bienewitz,
+    role: Rathmann zu Leisnig.
+    gender: m
+  - name: Lisbet,
+    role: seine Tochter.
+    gender: f
+  - name: Gertrud,
+    role: Magd.
+    gender: f
+  - name: Ein Thorwächter.
+    gender: m
+  - name: Drei Croaten.
+    isGroup: true
+    gender: m
+  - name: Ein spanischer Hakenschütz.
+    gender: m
+  - name: Officiere von mehrern Regimentern, Constabler, Trompeter, andere Soldaten.
+    isGroup: true
+    gender: u
+  - name: Einwohner zu Leisnig.
+    isGroup: true
+    gender: u
+setting: >-
+  Ort: Leisnig, ein sächsisches Städtchen, auf einem Berge, an der Freyberger Mulde gelegen. Zeit: der 22ste April 1547. (Früher Morgen. – Bürgerliches Zimmer mit einem Schränkchen und andern Geräthschaften, Alles im Geschmack der angegebenen Zeit. Ein Bogenfenster, in dessen Obertheile sich ein Wappen von buntem Glase befindet, nämlich in goldenem Schilde, ingleichen auf dem Helme, ein schwarzer, doppelter Adler, von sieben blauen, röthlich geschüppten Wolken umgeben; die Helmdecken golden und schwarz. Auf dem Tische Schwert, Handschuhe und Sturmhaube (mit rothen Federn.))
+location:
+  wikidataId: Q71133
+---
 slug: kirchhoff-der-bestrafte-hochmuth
 author:
   name: Kirchhoff, Johann Heinrich
@@ -33080,6 +33246,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechzehnter Jahrgang. Leipzig: Kummer 1818, S. 47–92"
     url: https://books.google.com/books?id=6ZBTAAAAcAAJ&pg=PA47
+  - title: "Theater von August v. Kotzebue. Fünfunddreißigster Band. Rechtmäßige Original-Auflage. Leipzig: Kummer; Wien: Klang 1841, S. 3–34"
+    url: https://books.google.com/books?id=-bhz0v58sFgC&pg=PA3
 keywords:
   - Freimaurer
 ids:
@@ -45572,6 +45740,179 @@ cast:
 setting: >-
   Die Handlung geschieht in einem kleinen Städtchen in der Behaußung des Herrn Wollersdorf.
 ---
+slug: reinbeck-der-dichter
+author:
+  name: Reinbeck, Georg
+  wikidata: Q1505724
+title: Der Dichter
+subtitle: Lustspiel in einem Abtheilung
+numberOfScenes: 17
+printed: 1819
+premiered: 1819-02-09
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: corvey
+    pages: S. 317–318
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=315"
+editions:
+  - title: "Sämmtliche dramatische Werke von Dr. Georg Reinbeck. Vierter Band. Coblenz: Hölscher 1819, S. 207–277"
+    url: https://books.google.com/books?id=Igk7AAAAcAAJ&pg=PA207
+cast:
+  - name: Walter,
+    role: Dichter.
+    gender: m
+  - name: Sander,
+    role: sein Freund.
+    gender: m
+  - name: Werner,
+    role: Buchhändler.
+    gender: m
+  - name: Nanny,
+    role: Walter's Pflegetochter.
+    gender: f
+setting: >-
+  Walters Zimmer.
+---
+slug: reinbeck-der-schuldbrief
+author:
+  name: Reinbeck, Georg
+  wikidata: Q1505724
+title: Der Schuldbrief
+subtitle: Posse in einer Abtheilung
+numberOfScenes: 17
+printed: 1818
+premiered: 1807-05-06
+formalia:
+  - Prosa
+basedOn:
+  - "Noël Lebreton de Hauteroche: »Le deuil. Comédie, en un acte et en vers«"
+dictionaries:
+  - name: corvey
+    pages: S. 319
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=317"
+editions:
+  - title: "Sämmtliche dramatische Werke von Dr. Georg Reinbeck. Dritter Band. Coblenz: Hölscher 1818, S. 135–208"
+    url: https://books.google.com/books?id=wgo2FYE9SWoC&pg=PA135
+cast:
+  - name: Von Werner,
+    role: ein reicher Gutsbesitzer.
+    gender: m
+  - name: Ferdinand,
+    role: sein Neffe, Lieutenant.
+    gender: m
+  - name: Rabe,
+    role: Pachter auf Werner's Gute.
+    gender: m
+  - name: Friederike,
+    role: seine Tochter.
+    gender: f
+  - name: Anne,
+    role: Wirthschafterin.
+    gender: f
+  - name: Michel,
+    role: Großknecht.
+    gender: m
+  - name: Philipp,
+    role: Ferdinands Bedienter.
+    gender: m
+  - name: Knechte.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist vor dem Pachthofe.
+---
+slug: reinbeck-die-rueckkehr
+author:
+  name: Reinbeck, Georg
+  wikidata: Q1505724
+title: Die Rückkehr
+subtitle: Vorspiel in einem Aufzuge
+numberOfScenes: 6
+printed: 1821
+premiered: 1809-11-08
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: corvey
+    pages: S. 326
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=324"
+editions:
+  - title: "Sämmtliche dramatische Werke von Dr. Georg Reinbeck. Fünfter Band. Coblenz: Hölscher 1821, S. 321–359"
+    url: https://www.digitale-sammlungen.de/de/view/bsb10116885?page=337
+keywords:
+  - Krieg
+  - Heimkehr-Motiv
+cast:
+  - name: Feiherr von Ehrenschwert,
+    role: Major.
+    gender: m
+  - name: Julie von Ehrenschwert.
+    gender: f
+  - name: Fritz von Ehrenschwert,
+    role: ihr Sohn.
+    gender: m
+  - name: Hauptmann Fels.
+    gender: m
+  - name: Gärtner.
+    gender: m
+setting: >-
+  Ein mit Bäumen umgebener Platz vor einem Landhause; im Hintergrunde steht zwischen Cypressen ein Denkmal, mit der Inschrift: Er fiel für Brüder, Fürst und Vaterland, den 9. May 1800. Unter den Bäumen stehen Gartenbänke.
+---
+slug: reinbeck-unbesonnenheit-und-gutes-herz
+author:
+  name: Reinbeck, Georg
+  wikidata: Q1505724
+title: Unbesonnenheit und gutes Herz
+subtitle: Lustspiel in einer Abtheilung
+numberOfScenes: 18
+printed: 1819
+premiered: 1813-05-07
+formalia:
+  - jambische Verse
+dictionaries:
+  - name: corvey
+    pages: S. 330–331
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=328"
+editions:
+  - title: "Sämmtliche dramatische Werke von Dr. Georg Reinbeck. Vierter Band. Coblenz: Hölscher 1819, S. 281–349"
+    url: https://books.google.com/books?id=rzNXab3M71YC&pg=PA281
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Oberst von Halden.
+    gender: m
+  - name: Ottilie,
+    role: seine Tochter.
+    gender: m
+  - name: Baron Carl von Halden,
+    role: sein Neffe und Mündel.
+    gender: m
+  - group:
+      - name: v. Walter
+        gender: m
+      - name: v. Hort
+        gender: m
+      - name: v. Spielmann
+        gender: m
+    role: dessen Freunde.
+  - name: Wilhelm,
+    role: sein Bedienter.
+    gender: m
+  - group:
+      - name: Rabe
+        gender: m
+      - name: Marder
+        gender: m
+    role: zwei Wucherer.
+  - name: Aiguilles,
+    role: Schneider.
+    gender: m
+  - name: Eine verschleierte Dame.
+    gender: f
+setting: >-
+  Carls Zimmer mit einem Büreau und einem Gemälde auf der Staffelei, nebst Pinsel und Palette auf einem Tische daneben: außer der Mittelthüre gehen mehre Seitenthüren in andere Zimmer.
+---
 slug: reiner-die-heirath-durch-eine-comoedie
 author:
   name: Reiner, Carl
@@ -46033,6 +46374,151 @@ cast:
     gender: m
 setting: Die Handlung ist nahe bey einem, dem Pan geweihten Hayne.
 ---
+slug: riesch-die-werbung
+author:
+  name: Riesch, Franz von
+  wikidata: Q94529541
+title: Die Werbung
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1820
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: corvey
+    pages: S. 339
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=337"
+editions:
+  - title: "Lustspiele von F. Grafen von Riesch. Erster Band. Wien: Tendler und Compagnie 1820, S. 49–90"
+    url: https://books.google.com/books?id=08dRAAAAcAAJ&pg=PA49
+cast:
+  - name: Sebastian Lips,
+    role: Schulmeister.
+    gender: m
+  - group:
+      - name: Hans,
+        gender: m
+      - name: Lene,
+        gender: f
+    role: seine Kinder.
+  - name: Barbara Schnell,
+    role: eine Wittwe.
+    gender: f
+  - group:
+      - name: Michel,
+        gender: m
+      - name: Lise,
+        gender: f
+    role: ihre Kinder.
+setting: >-
+  Die Handlung spielt auf einem Dorfe. (Stube in des Schulmeisters Hause. Lene sitzt auf der einen Seite bei einem Spinnrade; Michel geht mit einer Fliegenklappe herum, und schlägt Fliegen todt.)
+---
+slug: riesch-das-gespenst-im-keller
+author:
+  name: Riesch, Franz von
+  wikidata: Q94529541
+title: Das Gespenst im Keller
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 22
+printed: 1820
+premiered: 1820-07-04
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 332
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=330"
+editions:
+  - title: "Bühnen-Spiele von F. Grafen von Riesch. Dritter Band. Wien: Tendler & Compagnie 1820, S. 139–183"
+    url: https://books.google.com/books?id=hbk7AAAAcAAJ&pg=PA139
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Huf,
+    role: Schmidt in einem Dorfe.
+    gender: m
+  - name: Käthe,
+    role: seine Tochter.
+    gender: f
+  - name: Marthe,
+    role: seine Schwester.
+    gender: f
+  - name: Johann,
+    role: herrschaftlicher Kutscher.
+    gender: m
+  - group:
+      - name: Michel,
+        gender: m
+      - name: Hans,
+        gender: m
+    role: Bauern.
+  - name: Peter,
+    role: ein junger Pächter, Johanns Neffe.
+    gender: m
+setting: >-
+  Die Handlung spielt in einem Dorfe. (Abenddämmerung. Freier Platz vor einem Dorfe. Im Hintergrunde eine Schmiede mit einem Vordache, unter welchem ein Ambos mit mehreren Schmiedegeräthschaften und ein paar alte Stühle nebst einem Tische, auf dem eine Flasche, Schreibzeug und Papier ist. Im Hintergrunde des Vordaches eine Thüre, welche in das Zimmer des Schmidts führt. Links neben der Schmiede eine schief angebrachte Thüre, die den Eingang zu einem Keller öffnet. Weiter hinten mehrere Häuser und ein Kirchthurm mit einer Uhr, die eben Fünf schlägt.)
+---
+slug: riesch-der-schellenbaum-oder-ich-glaubs-nicht
+author:
+  name: Riesch, Franz von
+  wikidata: Q94529541
+title: "Der Schellenbaum, oder: Ich glaub's nicht!"
+subtitle: Posse in einem Aufzug
+numberOfScenes: 28
+printed: 1820
+premiered: 1821-03-28
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 333
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=331"
+editions:
+  - title: "Bühnen-Spiele von F. Grafen von Riesch. Dritter Band. Wien: Tendler & Compagnie 1820, S. 345–394"
+    url: https://books.google.com/books?id=hbk7AAAAcAAJ&pg=PA345
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Gräfinn Julie,
+    role: junge Wittwe.
+    gender: f
+  - name: Viktorine,
+    role: ihre Freundinn.
+    gender: f
+  - name: Von Plant,
+    role: Husarenobrist von der feindlichen Parthei.
+    gender: m
+  - group:
+      - name: Falk,
+        gender: m
+      - name: Flock,
+        gender: m
+    role: Wachmeister.
+  - name: Betti,
+    role: Kammermädchen der Gräfinn.
+    gender: f
+  - name: Peter,
+    role: Gärtner der Gräfinn.
+    gender: f
+  - name: Raps,
+    role: Husar.
+    gender: m
+  - name: Frau von Dampf.
+    gender: f
+  - name: Frau von Zwick.
+    gender: f
+  - name: Frau von Wiesel.
+    gender: f
+  - name: Frau von Groll.
+    gender: f
+  - name: Frau von Dachs.
+    gender: f
+  - name: Bediente der Gräfinn.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung spielt auf dem Lande, im Garten der Gräfinn. (Ein Garten. Rechts der Flügel eines Schlosses mit einem Balkon, unter welchem die Schloßthüre. Unweit davon ein großer Baum, darunter eine Rasenbank. Links im Hintergrunde ein Lusthaus, daneben die Gartenpforte. Im Hintergrunde die Gartenmauer. An dem Balkon hängt ein Strauß von Rosen und Lorbeer.)
+---
 slug: riesch-die-abentheuer-einer-ballnacht
 author:
   name: Riesch, Franz von
@@ -46193,6 +46679,122 @@ cast:
     gender: m
 setting: >-
   Die Handlung spielt in einer Seestadt. (Elegant meublirtes Zimmer in Herrn von Rast's Hause. Im Hintergrunde ein offenes Portal, durch das man in das Vorzimmer sieht. Recht und links Seitenthüren.)
+---
+slug: riesch-ein-scherz-des-schicksals
+author:
+  name: Riesch, Franz von
+  wikidata: Q94529541
+title: Ein Scherz des Schicksals
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 21
+printed: 1820
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 339
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=337"
+editions:
+  - title: "Bühnen-Spiele von F. Grafen von Riesch. Dritter Band. Wien: Tendler & Compagnie 1820, S. 227–279"
+    url: https://books.google.com/books?id=hbk7AAAAcAAJ&pg=PA227
+cast:
+  - name: Baron Wildau.
+    gender: m
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - name: Baron Anker,
+    role: Schiffskapitain, sein Schwager.
+    gender: m
+  - name: Graf Wiesenflamm.
+    gender: m
+  - name: Susanne,
+    role: Emiliens Kammermädchen.
+    gender: f
+  - name: Tobias Wachtel,
+    role: ein vacirender Büchsenspanner.
+    gender: m
+  - name: Friedrich,
+    role: Kammerdiener des Barons.
+    gender: m
+  - name: Mehrere Freunde und Freundinnen des Barons.
+    isGroup: true
+    gender: u
+  - name: Bediente des Barons.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung spielt auf dem Lande, im Schlosse des Barons. (Ein altmodisch meublirter Saal mit einer Thüre im Hintergrunde und zwei Seitenthüren. Im Hintergrunde ein Ofenschirm.)
+---
+slug: riesch-ich-bin-nicht-ich
+author:
+  name: Riesch, Franz von
+  wikidata: Q94529541
+title: Ich bin nicht ich
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 15
+printed: 1820
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 341
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=339"
+editions:
+  - title: "Bühnen-Spiele von F. Grafen von Riesch. Dritter Band. Wien: Tendler & Compagnie 1820, S. 45–79"
+    url: https://books.google.com/books?id=hbk7AAAAcAAJ&pg=PA45
+cast:
+  - name: Amtmann Schnabel.
+    gender: m
+  - name: Hart,
+    role: Straßengeldeinnehmer.
+    gender: m
+  - name: Marthe,
+    role: seine Frau.
+    gender: f
+  - name: Röschen,
+    role: ihre Nichte.
+    gender: f
+  - name: Wurf.
+    gender: m
+  - name: Johann,
+    role: sein Bedienter.
+    gender: m
+  - name: Michel,
+    role: Amtsdiener.
+    gender: m
+  - name: Käthe,
+    role: Harts Magd.
+    gender: f
+setting: >-
+  Die Handlung spielt in einem Dorfe. (Freier Platz in einem Dorfe. Links im Vordergrunde des Straßengeldeinnehmers Haus. Ein Fenster im ersten Stocke desselben ist geöffnet. Neben dem Hause ein Baum mit einer daran anstoßenden ziemlich hohen Hecke. Im Hintergrunde ein Kirchthurm und mehrere Häuser.)
+---
+slug: riesch-nichts
+author:
+  name: Riesch, Franz von
+  wikidata: Q94529541
+title: Nichts
+subtitle: Dramatischer Scherz in einem Aufzug
+numberOfScenes: 16
+printed: 1820
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 341
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=339"
+editions:
+  - title: "Bühnen-Spiele von F. Grafen von Riesch. Dritter Band. Wien: Tendler & Compagnie 1820, S. 185–225"
+    url: https://books.google.com/books?id=hbk7AAAAcAAJ&pg=PA185
+cast:
+  - name: Der Doctor.
+    gender: m
+  - name: Isabelle.
+    gender: f
+  - name: Wart.
+    gender: m
+setting: >-
+  Die Handlung spielt in einem Garten. (Ein Garten. Im Hintergrunde desselben ein Gartenhaus mit einem von Säulen getragenen, offenen Portale, zu welchem Stufen hinaufführen. Links im Hintergrunde eine ziemlich hohe Taxushecke. In der Ferne sieht man die Thürme und Häuser einer Stadt.)
 ---
 slug: robert-blind-und-lahm
 author:
@@ -46434,7 +47036,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 33, S. 451
 editions:
-  - title: "Nützliche Erinnerungen für Mitglieder von Privattheatern. Nebst vier Lustspielen für Liebhabertheater. Halberstadt: Groß 1798. Anhang , S. 125–168"
+  - title: "Nützliche Erinnerungen für Mitglieder von Privattheatern. Nebst vier Lustspielen für Liebhabertheater. Halberstadt: Groß 1798. Anhang, S. 125–168"
     url: https://books.google.com/books?id=LsNKAAAAcAAJ&pg=RA1-PA125
 cast:
   - name: Kommerzienrath Benedikt.
@@ -52951,6 +53553,34 @@ cast:
     role: Theodors Vetter.
     gender: m
 ---
+slug: steigentesch-liebe-neckt
+author:
+  name: Steigentesch, August Ernst von
+  wikidata: Q761203
+title: Liebe neckt
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1808
+formalia:
+  - jambische gereimte Verse
+editions:
+  - title: "Lustspiele von Freyherrn von Steigentesch. Erster Theil. Wien und Triest: Geistinger 1808, S. 279–343"
+    url: https://books.google.com/books?id=npio_unowQwC&pg=PA279
+cast:
+  - name: Fr. v. Randen.
+    gender: f
+  - name: Julie,
+    role: ihre Tochter.
+    gender: f
+  - name: Major v. Wild.
+    gender: m
+  - name: Herr v. Gold.
+    gender: m
+  - name: Tago.
+    gender: m
+setting: >-
+  Zimmer von Fr. v. Randen mit zwei Nebenthüren.
+---
 slug: steigentesch-man-kann-sich-irren
 author:
   name: Steigentesch, August Ernst von
@@ -57992,7 +58622,7 @@ cast:
 setting: >-
   Der Schauplatz ist in einer Wüste.
 ---
-slug: weisse-versprechen-muß-man-halten-oder-ein-guter-mensch-macht-andre-gute-menschen
+slug: weisse-versprechen-muss-man-halten-oder-ein-guter-mensch-macht-andre-gute-menschen
 author:
   name: Weiße, Christian Felix
   wikidata: Q68815
