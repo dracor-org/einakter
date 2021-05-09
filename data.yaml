@@ -33,6 +33,37 @@ cast:
 setting: >-
   Der Schauplatz ist ein elegant möblirtes Zimmer, auf dem Landgute des Fräuleins von Brodelwitz.
 ---
+slug: adam-die-citation
+author:
+  name: Adam, Joseph August
+title: Die Citation
+subtitle: Eine Posse in einem Aufzuge
+numberOfScenes: 14
+printed: 1821
+formalia:
+  - Prosa
+editions:
+  - title: "Original-Theater für das Jahr 1821. Zusammengetragen von mehrern dramatischen Dichtern. Zweiter Band. Augsburg und Leipzig: Jenisch und Stage [1821], S. 201–240"
+    url: https://books.google.com/books?id=epQSttoQF9YC&pg=PA201
+cast:
+  - name: Sigmund von Linden,
+    role: Hauptmann.
+    gender: m
+  - name: Theodor von Pappel,
+    role: Gutsbesitzer.
+    gender: m
+  - name: Urban Kiesel,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Valeska von Perlenbach,
+    role: sein Mündel.
+    gender: m
+  - name: Wolfgang Igel,
+    role: Advokat, dessen Anwalt.
+    gender: m
+setting: >-
+  Die Handlung geht in einer Provinzialstadt vor. (Zimmer.)
+---
 slug: albini-das-crimen-plagii-oder-die-gleichen-haben-sich-gefunden
 author:
   name: Meddlhammer, Albin Johann Baptist von
@@ -18768,6 +18799,114 @@ setting: >-
 location:
   wikidataId: Q90
 ---
+slug: cossmann-der-schoene-bund
+author:
+  name: Cossmann, Conrad August
+title: Der schöne Bund
+subtitle: Schauspiel in einem Akte
+numberOfScenes: 19
+printed: 1826
+formalia:
+  - Blankvers
+editions:
+  - title: "Dramatische Dichtungen betrübten und spaßhaften Inhalts von C. A. Cossmann Paderano. Berlin: Schmidt 1826, S. 49–90"
+    url: https://books.google.com/books?id=P76jp5KBUiAC&pg=PA48-IA1
+keywords:
+  - Mit einem Vorspiel (S. 50–56) und einem Epilog (S. 90).
+cast:
+  - name: Napoleon Bonaparte.
+    gender: m
+  - name: Blücher.
+    gender: m
+  - name: Wellington.
+    gender: m
+  - group:
+      - name: Emma von Hiddessen,
+        gender: m
+      - name: Albert von Oehnhausen,
+        gender: m
+    role: schwarze Husaren vom braunschweigsch. Corps.
+  - group:
+      - name: Ein General,
+        gender: m
+      - name: Ein Garde-Oberster,
+        gender: m
+      - name: Ein General-Adjutant,
+        gender: m
+      - name: Ein Jäger-Offizier,
+        gender: m
+      - name: Ein Lancier-Offizier,
+        gender: m
+      - name: Ein Kürassier-Offizier,
+        gender: m
+      - name: Der Leibarzt Napoleons,
+        gender: m
+    role: im französischen Heere.
+  - group:
+      - name: Leclaire
+        gender: m
+      - name: Selons
+        gender: m
+    role: Kürassiere.
+  - group:
+      - name: Ein Feldprediger,
+        gender: m
+      - name: Ein Wachmeister,
+        gender: m
+      - name: Ein Unteroffizier,
+        gender: m
+      - name: Ein Tambour,
+        gender: m
+      - name: Eine Marketenderinn,
+        gender: f
+    role: in der preußischen Armee.
+  - name: Militär-Personen von jedem Range und allen Waffengattungen so wohl der Verbündeten, als der Franzosen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung spielt auf dem Schlachtfelde von Belle-Alliançe gegen Abend des 18. Jun 1815.
+location:
+  wikidataId: Q2894672
+---
+slug: cossmann-liebe-und-kaffe
+author:
+  name: Cossmann, Conrad August
+title: Liebe und Kaffe
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 15
+printed: 1826
+formalia:
+  - vierhebige trochäische Verse
+editions:
+  - title: "Dramatische Dichtungen betrübten und spaßhaften Inhalts von C. A. Cossmann Paderano. Berlin: Schmidt 1826, S. 105–156"
+    url: https://books.google.com/books?id=P76jp5KBUiAC&pg=PA105
+cast:
+  - name: Herr Gerson,
+    role: wirklichster, geheimster, oberster Finanz-Sekretär, ein Liebhaber von gewöhnlicher Façon.
+    gender: m
+  - name: Fräulein Wallburga von Aether,
+    role: eine alte sonderbare Verliebte.
+    gender: f
+  - name: Fräulein Julia von Aether,
+    role: eine junge dito.
+    gender: f
+  - group:
+      - name: Madame Laufenburg,
+        gender: f
+      - name: Madame Sibylla,
+        gender: f
+      - name: Madame Kamilla,
+        gender: f
+    role: Kaffeschwestern.
+  - name: Fanny,
+    role: Freundinn der Julia.
+    gender: f
+  - name: Frauen und Mädchen. Diener.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung spielt im Jahre 1816, in der Residenz eines kleinen deutschen Fürsten. Sie beginnt Nachmittags 3 Uhr und endet präcise um 5 Uhr Abends.
+---
 slug: costenoble-der-unschuld-sieg
 author:
   name: Costenoble, Karl Ludwig
@@ -30706,6 +30845,42 @@ cast:
     gender: m
 setting: Die Handlung geht in dem Hause des Orgons vor.
 ---
+slug: kind-der-orangenbaum
+author:
+  name: Kind, Johann Friedrich
+  wikidata: Q78246
+title: Der Orangenbaum
+subtitle: Lustspiel in Einem Act
+numberOfScenes: 14
+created: 1808
+printed: 1809
+premiered: 1812
+formalia:
+  - Alexandriner
+editions:
+  - title: "Tulpen. Von Friedrich Kind. Sechstes Bändchen. Leipzig: Hartknoch 1809, S. 303–351"
+    url: https://books.google.com/books?id=6YRFIFCcbLwC&pg=PA303
+  - title: "Friedrich Kind's Theaterschriften. Zweiter Band. Leipzig: Göschen 1823, S. 239–284"
+    url: https://books.google.com/books?id=NUGUkJGNwm8C&pg=PA239
+cast:
+  - name: Steuersecretair Feder.
+    gender: m
+  - name: Minchen,
+    role: seine Anverwandte.
+    gender: f
+  - name: Christine,
+    role: seine Haushälterin.
+    gender: f
+  - name: Karl Müller.
+    gender: m
+  - name: Heinrich,
+    role: der stumme Blumenjunge genannt.
+    gender: m
+  - name: Ein Laufer.
+    gender: m
+setting: >-
+  Scene: Ein Vorzimmer mit einer Eingangs- und zwei Kabinets-Thüren.
+---
 slug: kind-der-weinberg-an-der-elbe
 author:
   name: Kind, Johann Friedrich
@@ -38377,6 +38552,86 @@ cast:
 setting: >-
   Die Decoration ist dieselbe, wie in No. 777., mit dem Unterschied, daß das Aushängeschild des Notars über der Hausthür der Madame Putzig angebracht ist; auf dem der letztern lies't man: Modehandlung von Susanne Vortheil, gewesene Putzig.
 ---
+slug: lebrun-lehrer-schueler-und-corrector
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Lehrer, Schüler und Corrector
+subtitle: Lustspiel in einem Aufzug. Nach dem Französischen des Vial
+numberOfScenes: 34
+printed: 1822
+premiered: 1821-09-02
+formalia:
+  - Prosa
+basedOn:
+  - Jean-Baptiste-Charles Vial
+editions:
+  - title: "Lustspiele. Original und Bearbeitungen von Carl Lebrün, Schauspieler. Erster Theil. Mainz: Kupferberg 1822"
+    url: https://books.google.com/books?id=SyGGaqPQGJoC&pg=RA2-PA1
+cast:
+  - name: St. Val,
+    role: Husarenobrist.
+    gender: m
+  - name: Auguste,
+    role: dessen Freund (17 Jahr alt.)
+    gender: m
+  - name: Frontin,
+    role: beider Kammerdiener.
+    gender: m
+  - name: Madame de St. Val, unter dem Namen der Frau von Valbelle.
+    gender: m
+  - name: Lisette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Motus,
+    role: Portier in einem Hôtel garni.
+    gender: m
+setting: >-
+  Paris. (Saal in einem Hôtel garni: wo möglich mit geschlossenen Seitenwänden [im andern Fall müssen die Seitencoulissen nach hinten zu bedeutend vorgerückt werden, damit die nachher beschriebene Seitenthür dem Publikum so deutlich wie möglich in's Auge springt.] Die Mittelthür ist stets offen, so wie eine rechte Seitenthür, die zu St. Val's und Auguste's Zimmer führt; die linke hingegen ist geschlossen [Madame de St. Val's Zimmer] und wird nach Außen von links zu rechts geöffnet. Außerdem steh'n zu beiden Seiten der Mittelthür Sopha's und im Vordergrunde ein runder Tisch mit Journalen, Broschüren etc. bedeckt.)
+location:
+  wikidataId: Q90
+---
+slug: lebrun-marquis-pomenars
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Marquis Pomenars
+subtitle: Lustspiel in einem Aufzug. Nach dem Französischen frei bearbeitet
+numberOfScenes: 16
+printed: 1822
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele. Original und Bearbeitungen von Carl Lebrün, Schauspieler. Erster Theil. Mainz: Kupferberg 1822"
+    url: https://books.google.com/books?id=SyGGaqPQGJoC&pg=RA1-PA1
+cast:
+  - name: Frau von Sevigne.
+    gender: f
+  - name: Marquis Sevigne,
+    role: ihr Sohn.
+    gender: m
+  - name: Meridec,
+    role: Seneschall.
+    gender: m
+  - name: Madame d'Angerval,
+    role: junge Wittwe, Nichte des Seneschalls.
+    gender: f
+  - name: St. Clair,
+    role: Neffe des Seneschalls.
+    gender: m
+  - name: Marquis Pomenars.
+    gender: m
+  - name: Germain,
+    role: Pomenars Bedienter.
+    gender: m
+  - name: Francois,
+    role: des Seneschalls Bedienter.
+    gender: m
+setting: >-
+  Das Stück spielt zu Laval, im Hause des Seneschalls. (Costüme: Zeitalter Ludwig des XIV.)
+location:
+  wikidataId: Q184154
+---
 slug: lebrun-nummer-777
 author:
   name: Lebrun, Karl August
@@ -41844,6 +42099,45 @@ cast:
     gender: f
 setting: >-
   Zimmer in einem großen Gasthofe.
+---
+slug: miksch-die-mitgift
+author:
+  name: Miksch, Johannes
+  wikidata: Q1692331
+title: Die Mitgift
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 16
+printed: 1835
+formalia:
+  - Prosa
+basedOn:
+  - "Carlo Goldoni: [»L'avaro. Commedia di un' atto solo in prosa«](https://books.google.com/books?id=eXZeAAAAcAAJ&pg=PA233)"
+editions:
+  - title: "Lustspiele von Johannes Miksch. Dresden und Leipzig: Arnoldi 1835, S. 61–110"
+    url: https://books.google.com/books?id=ehAwxAEACAAJ&pg=PA61
+comments:
+  - "Noch unklar, ob Johannes Miksch tatsächlich um den Sänger Johann Aloys Miksch handelt."
+cast:
+  - name: v. Hain,
+    role: ein reicher Particulier.
+    gender: m
+  - name: Eugenie,
+    role: dessen Schwiegertochter.
+    gender: f
+  - name: Graf Hornfels.
+    gender: m
+  - name: Baron Reichenhall.
+    gender: m
+  - name: v. Reinau,
+    role: ein junger Jurist.
+    gender: m
+  - name: Bediente.
+    isGroup: true
+    gender: u
+  - name: Ein Advocat.
+    gender: m
+setting: >-
+  Ort der Handlung: Eine Universitätstadt. Gesellschaftzimmer in v. Hain's Hause.
 ---
 slug: moeser-die-tugend-auf-der-schaubuehne
 author:
@@ -46796,6 +47090,45 @@ cast:
 setting: >-
   Die Handlung spielt in einem Garten. (Ein Garten. Im Hintergrunde desselben ein Gartenhaus mit einem von Säulen getragenen, offenen Portale, zu welchem Stufen hinaufführen. Links im Hintergrunde eine ziemlich hohe Taxushecke. In der Ferne sieht man die Thürme und Häuser einer Stadt.)
 ---
+slug: riese-der-weg-durchs-fenster
+author:
+  name: Riese, Friedrich Wilhelm
+  wikidata: Q85481
+title: Der Weg durch's Fenster
+subtitle: Lustspiel in einem Act, nach Scribe
+numberOfScenes: 22
+printed: 1847
+premiered: 1847-06-17
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Gustave Lemoine: [»Une femme qui se jette par la fenêtre. Comédie en un acte«](https://books.google.com/books?id=JotUAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Hamburg: Verlags-Comptoir 1847"
+    url: https://books.google.com/books?id=Y0jeaBe6EN0C&pg=PA15
+comments:
+  - Auch übersetzt unter den Titeln »Eine Frau, die sich zum Fenster hinausstürzt«, »Eine Fenster-Promenade«, »Zum Fenster hinaus«.
+cast:
+  - name: Chevalier d'Harcourt.
+    gender: m
+  - name: Rudolph,
+    role: sein Neffe.
+    gender: m
+  - name: Gabriele,
+    role: dessen Gattin.
+    gender: f
+  - name: Marquise de l'Esparre,
+    role: Gabrielen's Mutter.
+    gender: f
+  - name: Lise Pomme,
+    role: Pächterin, Gabrielen's Milchschwester.
+    gender: f
+  - name: Diener.
+    isGroup: true
+    gender: u
+setting: >-
+  Ländliche Gegend. Links, erste Coulisse, ein Pavillon, mit einer Thür im Erdgeschosse, und einem von steinernen Säulen gestützten Balcon, der die ganze erste Etage umgiebt, und sich um die Ecke zieht. – An den Pavillon stößt die Mauer des Parks. – Rechts, der Eingang (Thorweg) zu einem Pachthofe, nahe davor ein Baum, unter diesem ein Rasensitz. – Im Hintergrunde: die Landstraße.
+---
 slug: robert-blind-und-lahm
 author:
   name: Robert, Ludwig
@@ -48203,6 +48536,53 @@ cast:
 setting: Der Schauplatz ist ein Wald in Norwegen.
 location:
   wikidataId: Q20
+---
+slug: schenk-albrecht-duerer-in-venedig
+author:
+  name: Schenk, Eduard von
+  wikidata: Q1290682
+title: Albrecht Dürer in Venedig
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1829
+premiered: 1828-04-07
+formalia:
+  - Blankvers
+editions:
+  - title: "Taschenbuch für Damen. Auf das Jahr 1829. Stuttgart und Tübingen: Cotta 1829, S. 1–64"
+    url: https://books.google.com/books?id=EMdXAAAAcAAJ&pg=PA1
+cast:
+  - name: Albrecht Dürer,
+    role: Künstler aus Nürnberg.
+    gender: m
+  - name: Agnes Frey,
+    role: seine Frau.
+    gender: f
+  - name: Anna,
+    role: seine Nichte.
+    gender: f
+  - group:
+      - name: Tizian Vercelli,
+        gender: m
+      - name: Giorgione Barbarelli,
+        gender: m
+    role: Maler in Venedig.
+  - name: Marc Antonio Raimondi,
+    role: Kupferstecher aus Bologna.
+    gender: m
+  - name: Luigi Pisani,
+    role: venetianischer Edelmann.
+    gender: m
+  - name: Cecco,
+    role: öffentlicher Schreiber.
+    gender: m
+  - name: Schüler Tizians. Diener. Volk.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist in Venedig auf dem Marcusplatze. Die Zeit der Handlung zu Anfang des sechszehnten Jahrhunderts.
+location:
+  wikidataId: Q217527
 ---
 slug: schiebeler-die-frage-die-antwort-und-die-belohnung
 author:
@@ -59725,6 +60105,40 @@ cast:
   - name: Einige andre Personen.
     isGroup: true
     gender: u
+---
+slug: wilke-wallhaide
+author:
+  name: Wilke, J. H.
+title: Wallhaide
+subtitle: Drama in einem Acte, nach einer Anecdote aus der Belagerung Wien's durch die Türken von 1683 frei bearbeitet
+numberOfScenes: 7
+printed: 1835
+formalia:
+  - Blankvers
+editions:
+  - title: "Dramatischer Bildersaal. Almanach für 1836 von J. H. Wilke. Erster Jahrgang. Braunschweig: Meyer 1835, S. 233–284"
+    url: https://books.google.com/books?id=-FJlAAAAcAAJ&pg=PA233
+comments:
+  - "»(Zuerst aufgeführt auf dem Hof-Theater zu Braunschweig, unter Leitung des verstorbenen General-Directors Dr. Klingemann).«"
+cast:
+  - name: Max Szalantinsky,
+    role: Oberst eines Cavallerie-Regiments unter Sobiesky.
+    gender: m
+  - name: Xaver Haltzinskoy,
+    role: sein Freund, Lieutenant in demselben Regiment.
+    gender: m
+  - name: Palma.
+    gender: f
+  - name: Elgantin,
+    role: ihr Sohn, 14 Jahr alt.
+    gender: m
+  - name: Azamor,
+    role: ein Aga der Reiterei unter Kara Mustapha.
+    gender: m
+setting: >-
+  Die Zeit der Handlung ist das Jahr 1683; das Stück spielt am Abend nach dem Treffen von Petronell. Der Ort der Handlung ist eine verlassene Waldklause in der Nähe des Schlachtfeldes.
+location:
+  wikidataId: Q697119
 ---
 slug: willemer-die-jacobiner
 author:
