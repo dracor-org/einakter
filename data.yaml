@@ -26032,6 +26032,45 @@ setting: >-
 location:
   wikidataId: Q1721184
 ---
+slug: hell-clementine
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Clementine
+subtitle: Schauspiel in einem Akte nach dem Französischen bearbeitet
+numberOfScenes: 25
+printed: 1823
+premiered: 1823-10-03
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Mélesville: [»Valérie. Comédie en trois actes et en prose«](https://books.google.com/books?id=lPNKAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Vergißmeinnicht aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Erstes Bändchen. Dresden: Arnoldi 1823, S. 105–194"
+    url: https://books.google.com/books?id=8bI73bci0oAC&pg=PA105
+comments:
+  - "Besprechung in: Eos. Zeitschrift aus Baiern. Nr. 160 (Montag den 6. Oktober 1823), [S. 640](http://opacplus.bsb-muenchen.de/title/6561887/ft/bsb10859372?page=674)."
+cast:
+  - name: Caroline von Blumenfeld,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Clementine,
+    role: ihre Freundin.
+    gender: f
+  - name: Ernst,
+    role: Graf von Halburg.
+    gender: m
+  - name: Müller,
+    role: Hofrath.
+    gender: m
+  - name: Benedict,
+    role: ein alter Diener Carolinens.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Scene: eine kleine Stadt in Deutschland. (Die Bühne stellt ein Zimmer zu ebener Erde vor, das in einen Garten führt. – Mittelthüre und zwei Fenster im Hintergrunde, zwei Seitenthüren.)
+---
 slug: hell-der-schwatzt-ohn-ende
 author:
   name: Hell, Theodor
@@ -37388,6 +37427,42 @@ cast:
 setting: >-
   Das Innere einer Kanzlei. Im Hintergrunde ein großer Schrank mit Akten, daneben ein hohes Fenster. Rechts und links Arbeitstische, mit allen den Beamten nöthigen Einrichtungsstücken. Auf der einen Seite ein Schrank zum Aufhängen der Hüte und Ueberröcke.
 ---
+slug: kurlaender-der-achtzigste-geburtstag
+author:
+  name: Kurländer, Franz August von
+  wikidata: Q55122987
+title: Der achtzigste Geburtstag
+subtitle: "Schauspiel in einem Aufzuge. Nach dem Roman: »Adèle de Senange« und nach Scribe frei bearbeitet"
+numberOfScenes: 19
+printed: 1837
+premiered: 1836-03-19
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe: [»La pensionnaire mariée. Comédie-vaudeville en un acte, imitée d'un roman de M.me Flahaut«](https://books.google.com/books?id=hvgNqakOjCIC&printsec=frontcover)"
+editions:
+  - title: "Lustspiele oder dramatischer Almanach für das Jahr 1837. Von F. A. von Kurländer. Sieben und zwanzigster Jahrgang. Leipzig: Baumgärtner 1837, S. 1–81"
+    url: https://books.google.com/books?id=9zBJAAAAcAAJ&pg=PA1
+comments:
+  - "Besprechung in: Der Telegraph, österreichisches Conversationsblatt. No. 35 (Donnerstag den 24. März 1836), [S. 139–140](https://books.google.com/books?id=1kRbAAAAcAAJ&pg=PA139)."
+cast:
+  - name: Herr von Senange.
+    gender: m
+  - name: Anatole Feron,
+    role: sein Mündel.
+    gender: m
+  - name: Adele.
+    gender: f
+  - name: Tricon,
+    role: Schullehrer.
+    gender: m
+  - name: Marie.
+    gender: f
+setting: >-
+  Ort der Handlung: Das Landgut des Herrn von Senange, in der Nähe von Havre. (Ein Gartensaal. (Im Hintergrunde der Park.) Auf der einen Seite steht ein Schreibtisch, gegenüber ein rundes Tischchen.)
+location:
+  wikidataId: Q42810
+---
 slug: kurlaender-der-junge-krack
 author:
   name: Kurländer, Franz August von
@@ -37547,6 +37622,130 @@ cast:
     gender: m
 setting: >-
   Ein Saal auf dem Landgute des Barons. Rechts eine Glasthüre, welche in die Bibliothek führt. Gegenüber ein hohes Fenster. Im Hintergrunde zwei Thüren, zwischen beiden ein Fenster mit der Aussicht in den Garten.
+---
+slug: kurlaender-der-verwundete-liebhaber
+author:
+  name: Kurländer, Franz August von
+  wikidata: Q55122987
+title: Der verwundete Liebhaber
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 20
+printed: 1812
+premiered: 1812-09-15
+formalia:
+  - Prosa
+basedOn:
+  - Emmanuel Dupaty
+editions:
+  - title: "Neues deutsches Original-Theater. Herausgegeben von S. W. Schießler. Erstes Bändchen. Prag: Buchler, Stephani und Schlosser 1828, S. 79–106"
+    url: https://books.google.com/books?id=fzlXAAAAcAAJ&pg=PA79
+comments:
+  - "Laut [Nachschrift](https://books.google.com/books?id=fzlXAAAAcAAJ&pg=PT6) eine Umgestaltung seines Stücks [»Die Krankenwärterinn«](kurlaender-die-krankenwaerterinn)."
+cast:
+  - name: Caroline von Bildau,
+    role: Witwe.
+    gender: f
+  - name: Therese Dithelm,
+    role: ihre gewesene Erzieherin.
+    gender: f
+  - name: Baron Florwald.
+    gender: m
+  - name: Major Florwald,
+    role: dessen Neffe.
+    gender: m
+  - name: Heinrich,
+    role: Bedienter beim Major.
+    gender: m
+  - name: Herrmann,
+    role: Jäger beim Major.
+    gender: m
+  - name: Philipp,
+    role: Reitknecht beim Major.
+    gender: m
+  - name: Rodau,
+    role: Arzt.
+    gender: m
+setting: >-
+  Ein Saal mit geschmackvoller Einrichtung, jedoch in großer Unordnung. Auf der einen Seite ein Sekretärtisch, über demselben hängen ein Paar Pistolen. Weiter aufwärts steht ein Clavier, gegenüber ein Pult mit Noten und Büchern. Ein kleines Canapée, worauf eine Uniform liegt. Ein Sessel mit Rädern. Ein Tisch mit Schreibgeräthe und Arzneien. Eine Thür im Hintergrunde, eine rechts, gegenüber ein Fenster.
+---
+slug: kurlaender-der-vorsichtige
+author:
+  name: Kurländer, Franz August von
+  wikidata: Q55122987
+title: Der Vorsichtige
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 19
+printed: 1823
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele oder dramatischer Almanach für das Jahr 1823, von F. A. von Kurländer. Dreizehnter Jahrgang. Leipzig: Baumgärtner 1823, S. 265–326"
+    url: https://books.google.com/books?id=0pryyFOuvyAC&pg=PA265
+cast:
+  - name: Herr von Dorau.
+    gender: m
+  - name: Laura,
+    role: seine Tochter.
+    gender: f
+  - name: Victor Stillburg,
+    role: Lieutenant.
+    gender: m
+  - name: Prandner,
+    role: Agent.
+    gender: m
+  - name: Martis,
+    role: Gerichtsschreiber.
+    gender: m
+  - name: Klärchen,
+    role: Laura's Kammermädchen.
+    gender: f
+  - name: Thomas,
+    role: Pradners Bedienter.
+    gender: m
+setting: >-
+  Ein Gartenhaus auf Dorau's Landgute.
+---
+slug: kurlaender-die-krankenwaerterinn
+author:
+  name: Kurländer, Franz August von
+  wikidata: Q55122987
+title: Die Krankenwärterinn
+subtitle: Ein Lustspiel in einem Aufzuge. Nach Dupaty und nach einer kleinen Erzählung bearbeitet
+numberOfScenes: 25
+printed: 1812
+formalia:
+  - Prosa
+basedOn:
+  - Emmanuel Dupaty
+editions:
+  - title: "Almanach dramatischer Spiele für Gesellschaftstheater. Von Franz August von Kurländer. Zweyter Jahrgang. Wien und Triest: Geistinger 1812, S. 211–291"
+    url: https://books.google.com/books?id=ejJJAAAAcAAJ&pg=PA211
+cast:
+  - name: Caroline von Bildau,
+    role: Wittwe.
+    gender: f
+  - name: Therese Schmaling,
+    role: ihre gewesene Erzieherinn.
+    gender: f
+  - name: Baron Florwald,
+    role: Oheim des
+    gender: m
+  - name: Carl,
+    role: Baron Florwald, Major.
+    gender: m
+  - group:
+      - name: Heinrich
+        gender: m
+      - name: Hermann
+        gender: m
+      - name: Philipp
+        gender: m
+    role: Bediente beym Major.
+  - name: Rodau,
+    role: Arzt.
+    gender: m
+setting: >-
+  Die Handlung spielt auf des Majors Zimmer. (Ein Saal mit geschmackvoller Einrichtung, jedoch in grosser Unordnung. Auf der einen Seite ein Sekretärtisch, über demselben hängen ein paar Pistolen. Weiter aufwärts ein Piano, gegenüber ein Stehpult mit Noten und Büchern. Ein kleines Canapée, worauf eine Uniform liegt. Ein Sessel mit Rädern an den Füssen. Ein Tisch mit Schreibgeräthe und Arzneyen. Eine Thüre im Hintergrunde, eine rechts; gegenüber ein Fenster.)
 ---
 slug: kurlaender-die-kriegslist
 author:
@@ -38615,6 +38814,85 @@ cast:
 setting: >-
   Scene auf dem Landschlosse des Kapitains. Gothischer Saal. Rechts und links Kabinette mit ganzen Glasthüren (en face des Publikums). Links ein Schreibepult. Mittelthüre. Rechts ein Fenster.
 ---
+slug: lebrun-der-alte-juengling
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Der alte Jüngling
+subtitle: Posse in einem Act. Frei dem Französischen nachgebildet
+numberOfScenes: 18
+printed: 1820
+premiered: 1815-11-02
+formalia:
+  - Prosa
+editions:
+  - title: "Neueste kleine Lustspiele und Possen. Von Carl Lebrün, Schauspieler. Mainz: Kupferberg 1820"
+    url: https://books.google.com/books?id=qW76-5-qVIsC&pg=RA5-PA1
+cast:
+  - name: Herr von Boissec,
+    role: 60 Jahr alt.
+    gender: m
+  - name: Fritz,
+    role: dessen Neffe.
+    gender: m
+  - name: Flink,
+    role: sein Bedienter.
+    gender: m
+  - name: Frau von Linden.
+    gender: f
+  - name: Baron Weiß.
+    gender: m
+  - name: Doctor Schwarz.
+    gender: m
+  - name: Grob,
+    role: Wechselgerichtsbote.
+    gender: m
+  - name: Barth,
+    role: Geldverleiher.
+    gender: m
+  - name: Vermisseau,
+    role: Schneider.
+    gender: m
+  - name: Ein Knabe.
+    gender: m
+setting: >-
+  Das Stück spielt in einem Gasthofe der Residenz. (Zimmer des Herrn von Boissec, elegant verziert; rechts und links Seitenthüren; vorn ein Kamin mit einem Spiegel; auf dem Kamin Tassen, Blumen u.s.w.; links ein Sekretair mit zwei silbernen Gueridous.)
+---
+slug: lebrun-der-unschluessige
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Der Unschlüßige
+subtitle: Lustspiel in einem Act. Frei bearbeitet nach l'Irrésolu, von Leroy
+numberOfScenes: 17
+printed: 1820
+formalia:
+  - Prosa
+basedOn:
+  - "Onésime Leroy: [»L'irrésolu. Comédie en un acte et en vers«](https://books.google.com/books?id=HY1lDxQ8z_IC&pg=PP5)"
+editions:
+  - title: "Neueste kleine Lustspiele und Possen. Von Carl Lebrün, Schauspieler. Mainz: Kupferberg 1820"
+    url: https://books.google.com/books?id=qW76-5-qVIsC&pg=RA3-PA1
+cast:
+  - name: Bangen.
+    gender: m
+  - name: Heinrich,
+    role: dessen Bruder.
+    gender: m
+  - name: Hauptmann Sturz,
+    role: pensionirt.
+    gender: m
+  - name: Madame Wellen.
+    gender: f
+  - name: Caroline,
+    role: ihre Nichte.
+    gender: f
+  - name: Anton,
+    role: Bangens Kammerdiener.
+    gender: m
+setting: >-
+  Ein Zimmer im gemeinschaftlichen Hause Bangens und der M. Wellen.
+---
 slug: lebrun-die-fledermaeuse-oder-klug-soll-leben
 author:
   name: Lebrun, Karl August
@@ -38741,6 +39019,52 @@ cast:
 setting: >-
   Die Decoration ist dieselbe, wie in No. 777., mit dem Unterschied, daß das Aushängeschild des Notars über der Hausthür der Madame Putzig angebracht ist; auf dem der letztern lies't man: Modehandlung von Susanne Vortheil, gewesene Putzig.
 ---
+slug: lebrun-ich-irre-mich-nie-oder-der-raeuberhauptmann
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: "Ich irre mich nie oder: Der Räuberhauptmann"
+subtitle: Lustspiel in einem Act. Nach dem Französischen frei bearbeitet
+numberOfScenes: 17
+printed: 1820
+premiered: 1820-03-17
+formalia:
+  - Prosa
+basedOn:
+  - "Théophile Marion Dumersan und Jean-Toussaint Merle: [»Jocrisse chef de brigands. Melodrame comique en un acte«](https://books.google.com/books?id=AV5oAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Neueste kleine Lustspiele und Possen. Von Carl Lebrün, Schauspieler. Mainz: Kupferberg 1820"
+    url: https://books.google.com/books?id=qW76-5-qVIsC&pg=PA1
+cast:
+  - name: Michel Lefont,
+    role: Seemann.
+    gender: m
+  - name: Louison,
+    role: dessen Tochter.
+    gender: f
+  - name: Gertrude,
+    role: ihre alte Amme.
+    gender: m
+  - name: Bonoeil,
+    role: Postmeister.
+    gender: m
+  - name: Martial,
+    role: dessen Sohn.
+    gender: m
+  - name: Ein Unbekannter.
+    gender: m
+  - name: Crac,
+    role: Matrose.
+    gender: m
+  - name: Ein Knecht.
+    gender: m
+  - name: Ein Brigadier von der Gensd'armerie.
+    gender: m
+setting: >-
+  Ein einfaches Haus an der Küste, einige Stunden von Dünkirchen.
+location:
+  wikidataId: Q45797
+---
 slug: lebrun-lehrer-schueler-und-corrector
 author:
   name: Lebrun, Karl August
@@ -38779,6 +39103,33 @@ setting: >-
   Paris. (Saal in einem Hôtel garni: wo möglich mit geschlossenen Seitenwänden [im andern Fall müssen die Seitencoulissen nach hinten zu bedeutend vorgerückt werden, damit die nachher beschriebene Seitenthür dem Publikum so deutlich wie möglich in's Auge springt.] Die Mittelthür ist stets offen, so wie eine rechte Seitenthür, die zu St. Val's und Auguste's Zimmer führt; die linke hingegen ist geschlossen [Madame de St. Val's Zimmer] und wird nach Außen von links zu rechts geöffnet. Außerdem steh'n zu beiden Seiten der Mittelthür Sopha's und im Vordergrunde ein runder Tisch mit Journalen, Broschüren etc. bedeckt.)
 location:
   wikidataId: Q90
+---
+slug: lebrun-man-muss-nichts-uebertreiben
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Man muß nichts übertreiben
+subtitle: Lustspiel in einem Act. Nach einem Vaudeville frei bearbeitet
+numberOfScenes: 17
+printed: 1820
+formalia:
+  - Alexandriner
+editions:
+  - title: "Neueste kleine Lustspiele und Possen. Von Carl Lebrün, Schauspieler. Mainz: Kupferberg 1820"
+    url: https://books.google.com/books?id=qW76-5-qVIsC&pg=RA4-PA1
+cast:
+  - name: Julius.
+    gender: m
+  - name: Louise,
+    role: dessen Frau.
+    gender: f
+  - name: Der Oheim.
+    gender: m
+  - name: Jean-Petit,
+    role: des Oheims Kammerdiener, unter dem Namen Adam in Julius Diensten.
+    gender: m
+setting: >-
+  Gothischer Saal in des Oheims Schloß. Rechts und links Tische mit Schreibzeug. Seitwärts ein Kamin, und im Hintergrunde zwei alte Schirme.
 ---
 slug: lebrun-marquis-pomenars
 author:
@@ -38977,6 +39328,34 @@ cast:
 setting: "Scene: Paris, in Delorme's Hause."
 location:
   wikidataId: Q90
+---
+slug: lebrun-vielliebchen-oder-das-tagebuch
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Vielliebchen oder Das Tagebuch
+subtitle: Spiel in Versen in einem Act
+numberOfScenes: 9
+printed: 1826
+premiered: 1824-12-14
+formalia:
+  - Knittelreime
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Fünfter Jahrgang, für 1826. Berlin: Vereinsbuchhandlung 1826, S. 85–127"
+    url: https://books.google.com/books?id=PcE6AAAAcAAJ&pg=PA85
+  - title: "Vor- und Nachspiele für die Bühne von C. Lebrün. Erster Band. Mainz: Kupferberg 1833"
+    url: https://books.google.com/books?id=NQhTAAAAcAAJ&pg=PA3
+comments:
+  - "Hinweis zur Vorlage im [Vorbericht](https://books.google.com/books?id=zmdIAQAAMAAJ&pg=PA85): »Der treffliche [Brief an Herrn Wills](https://books.google.com/books?id=TgkWAAAAYAAJ&pg=PA195), in Sturzen's Schriften, gab dieser Kleinigkeit das Daseyn«."
+cast:
+  - name: Der Mann.
+    gender: m
+  - name: Die Frau.
+    gender: f
+  - name: Der Vetter.
+    gender: m
+setting: >-
+  Zimmer: Im Hintergrunde ein moderner Schrank, links im Vordergrund ein Sopha, über den ein großer Teppich, die Arbeit der Frau, nachlässig geworfen ist.
 ---
 slug: lembert-der-ehemann-in-der-klemme
 author:
@@ -53205,6 +53584,10 @@ editions:
     url: https://books.google.com/books?id=kF30d7DBLlUC&printsec=frontcover
   - title: "Dritte Auflage mit einigen Zusätzen. Leipzig: Dyk 1816"
     url: https://books.google.com/books?id=qZN-fbthiWgC&printsec=frontcover
+  - title: "Neue deutsche Schaubühne oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Achter Band. Augsburg und Leipzig: Jenisch und Stage [1816], S. 195–242"
+    url: https://books.google.com/books?id=ThFIAAAAcAAJ&pg=PA195
+  - title: "Vierte Auflage mit einigen Zusätzen. Berlin: Expedition des dramaturgischen Wochenblatts 1817"
+    url: https://books.google.com/books?id=J8UzAQAAMAAJ&printsec=frontcover
   - title: "Leipzig: Reclam [1869]"
     url: https://nbn-resolving.de/urn:nbn:de:hbz:6:1-211505
 comments:
