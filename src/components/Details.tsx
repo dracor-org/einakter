@@ -89,6 +89,7 @@ export default function Details () {
                 <ul>
                   {ids.dracor && <li>DraCor: <a href={`https://dracor.org/id/${ids.dracor}`}>{ids.dracor}</a></li>}
                   {ids.wikidata && <li>Wikidata: <a href={`https://www.wikidata.org/wiki/${ids.wikidata}`}>{ids.wikidata}</a></li>}
+                  {ids.weber && <li>Weber-Gesamtausgabe: <a href={`http://weber-gesamtausgabe.de/${ids.weber}`}>{ids.weber}</a></li>}
                 </ul>
               </td>
             </tr>

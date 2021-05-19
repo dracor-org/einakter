@@ -50,6 +50,7 @@ export interface Play {
   ids?: {
     dracor?: string
     wikidata?: string
+    weber?: string
   }
   keywords?: string[]
   normalizedYear?: number
