@@ -22116,7 +22116,7 @@ editions:
   - title: "Schauder-Gemählde aus der wirklichen Welt von L. G. Franz Freisleben. Bernburg: Grüning 1827, S. 1–34"
     url: https://books.google.com/books?id=vchIAAAAcAAJ&pg=PA1
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
 cast:
   - name: Brand,
     role: Oberförster.
@@ -22161,7 +22161,7 @@ editions:
   - title: "Schauder-Gemählde aus der wirklichen Welt von L. G. Franz Freisleben. Bernburg: Grüning 1827, S. 103–118"
     url: https://books.google.com/books?id=vchIAAAAcAAJ&pg=PA103
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
   - Mord
 cast:
   - name: Geheimerath Sternow.
@@ -22924,12 +22924,12 @@ editions:
 comments:
   - Delila ist eine Figur aus dem Alten Testament. In diesem Einakter wird die biblische Geschichte über ihren Mann, Samson, dessen übermenschliche Kraft in seinen Haaren steckt, parodiert.
   - "[Laut Goedeke](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA296) »verfaßt zwischen 1815 u. 1817«."
-  - "Gilt in der Forschung als eine der ersten Parodien der Schicksalstragödie (vgl. Paul R. Pope: Review: Richard Wagner's Stepfather. In: Modern Language Notes 29/6 (1914), [S. 185–187](https://www.jstor.org/stable/2916523), hier S. 186)."
+  - "Gilt in der Forschung als eine der ersten Parodien der Schicksalsdrama (vgl. Paul R. Pope: Review: Richard Wagner's Stepfather. In: Modern Language Notes 29/6 (1914), [S. 185–187](https://www.jstor.org/stable/2916523), hier S. 186)."
   - "Drei Szenen des Einakters werden auch hier abgedruckt: Humoristische Perlenschnur. Chrestomathie der gelungensten Stellen aus den besten humoristischen Schriftstellern. Zweites Bändchen. Stuttgart: Köhler 1837, [S. 89–103](https://books.google.com/books?id=qT1jAAAAcAAJ&pg=PA89)."
 keywords:
   - Ritterstück
   - Schäferspiel
-  - Schicksalstragödie
+  - Schicksalsdrama
   - Parodie
 cast:
   - name: Lalage.
@@ -24223,6 +24223,36 @@ cast:
 setting: >-
   Zeit-Tracht: zwischen 1770 und 1780. (Die Bühne zeigt Garten mit einem Stücke der sehr nahen zum Theil mit Gebüsch gedeckten Mauer; links [vom Parterre aus] bemerkt man, vorgebaut, Theile eines Landhauses, rechts eine Rasenbank um einen starken Baum. Neben der Bank steht ein kleiner Tisch, auf ihm Blanka's Nähekörbchen. Der Hintergrund deutet eine bergige Gegend an.)
 ---
+slug: gubitz-die-talentprobe
+author:
+  name: Gubitz, Friedrich Wilhelm
+  wikidata: Q692594
+title: Die Talentprobe
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 13
+printed: 1813
+premiered: 1815-10-07
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Neue Societäts-Verlags-Buchhandlung 1813"
+    url: https://books.google.com/books?id=tQGUEs1i-FcC&printsec=frontcover
+  - title: "Jahrbuch deutscher Bühnenspiele. Sechsundzwanzigster Jahrgang, für 1847. Herausgegeben von F. W. Gubitz. Berlin: Vereins-Buchhandlung 1847, S. 309–342"
+    url: https://books.google.com/books?id=iZw6AAAAcAAJ&pg=PA309
+comments:
+  - "Auf dem Deckblatt 1813: »Mit Musik von F. L. Seidel.«"
+  - "Bearbeitung von Theodor Hells [»Der Beruf. Lustspiel in einem Aufzuge«](hell-der-beruf)."
+cast:
+  - name: Waller.
+    role: Kaufmann.
+    gender: m
+  - name: Minna.
+    role: Seine Tochter, Schauspielerin.
+    gender: f
+  - name: Stern.
+    role: Schauspieler.
+    gender: m
+---
 slug: gubitz-hans-sachs-oder-duerers-fest-abend
 author:
   name: Gubitz, Friedrich Wilhelm
@@ -25509,6 +25539,32 @@ cast:
 setting: >-
   Die Scene ist in einer deutschen Handelsstadt. (Die Scene ist ein Zimmer, das in den Maskeradensaal herausgeht, den man durch die hinten eröfnete Flügelthüre sieht.)
 ---
+slug: hansing-der-schauspieler-katechismus
+author:
+  name: Hansing, Gottlieb Anton Friedrich
+  wikidata: Q95325505
+title: Der Schauspieler Katechismus
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 26
+printed: 1808
+formalia:
+  - Prosa
+editions:
+  - title: "[Ohne Ort] 1808"
+    url: https://books.google.com/books?id=Mi07AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Wahrmann,
+    role: "Schauspiel-Direktor, als: Kapitain Jordan. Schauspieler Jordan, dessen Sohn. Wahsinniger Greis, des Schauspielers Großvater. Rohrdommel, ein Quaksalber, vormals Schauspieler."
+    gender: m
+  - name: Lottchen,
+    role: "seine Tochter, als Sängerin. Stubenmädchen. Alte Dame. Laufer. Demoisell Lustig, eine Schauspielerin."
+    gender: f
+  - name: Reimann,
+    role: Lottchens heimlicher Liebhaber, Schauspieler.
+    gender: m
+setting: >-
+  Die Scene ist unverändert in Wahrmanns Zimmer, mit einer Seiten und Mittelthür.
+---
 slug: hansing-kuenstlerglueck-oder-die-proberollen
 author:
   name: Hansing, Gottlieb Anton Friedrich
@@ -26255,6 +26311,32 @@ cast:
 setting: >-
   Scene: eine kleine Stadt in Deutschland. (Die Bühne stellt ein Zimmer zu ebener Erde vor, das in einen Garten führt. – Mittelthüre und zwei Fenster im Hintergrunde, zwei Seitenthüren.)
 ---
+slug: hell-der-beruf
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Der Beruf
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1805
+premiered: 1807
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1806"
+    url: https://books.google.com/books?id=TZgyAQAAMAAJ&printsec=frontcover
+cast:
+  - name: Held.
+    gender: m
+  - name: Minna,
+    role: seine Tochter.
+    gender: f
+  - name: Kommissair Dorn,
+    role: der Hauswirth.
+    gender: m
+setting: >-
+  Scene, ein Vorsaal mit mehreren Thüren.
+---
 slug: hell-der-schwatzt-ohn-ende
 author:
   name: Hell, Theodor
@@ -26477,6 +26559,38 @@ cast:
     gender: m
 setting: >-
   Die Scene ist in einem sächsischen Dorfe, das nur einige Meilen von der böhmischen Gränze entfernet ist, in des Schulzens Hause.
+---
+slug: hensel-ritter-hans
+author:
+  name: Hensel, Wilhelm
+  wikidata: Q560757
+title: Ritter Hans
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 9
+printed: 1818
+premiered: 1817-06-30
+formalia:
+  - Verse (gereimt)
+basedOn:
+  - Calderón
+editions:
+  - title: "Almanach für Privatbühnen. Zweites Bändchen auf das Jahr 1818. Herausgegeben von Adolph Müllner. Leipzig: Göschen [1818], S. 1–47"
+    url: https://www.digitale-sammlungen.de/de/view/bsb10104570?page=21
+comments:
+  - Auch unter dem Titel »Ritter Hans, oder Die Verwechslung«.
+  - "Im [Nachwort](https://www.digitale-sammlungen.de/de/view/bsb10104570?page=70) Hinweise für die Aufführung des Stücks."
+cast:
+  - name: Adelheid von Lichtried.
+    gender: f
+  - name: Adelheid von Kronfels.
+    gender: f
+  - name: Wilibald von Treufels.
+    gender: m
+  - name: Hans,
+    role: als Wilibalds Diener.
+    gender: m
+setting: >-
+  Der Ort der Handlung ist ein Garten.
 ---
 slug: hensler-buergerfreuden
 author:
@@ -28514,6 +28628,66 @@ setting: >-
 location:
   wikidataId: Q1741
 ---
+slug: holbein-das-wiedersehen
+author:
+  name: Holbein, Franz Ignaz von
+  wikidata: Q1447416
+title: Das Wiedersehen
+subtitle: Ein ländliches Gemälde in einem Act
+numberOfScenes: 8
+printed: 1812
+premiered: 1807-07-15
+formalia:
+  - Prosa
+editions:
+  - title: "Franz v. Holbein's Theater. Zweiter Band. Rudolstadt: Verlag der Hof-Buch- und Kunsthandlung 1812, S. 291–328"
+    url: https://books.google.com/books?id=rZU6AAAAcAAJ&pg=PA291
+cast:
+  - name: Peter,
+    role: ein verarmter Landmann.
+    gender: m
+  - name: Marthe,
+    role: seine Frau.
+    gender: f
+  - name: Winter.
+    gender: m
+  - name: Gottfried,
+    role: Bauernbursche.
+    gender: m
+setting: >-
+  Das Theater stellt das Innere einer halb verfallenen Scheuer vor, aus welcher links eine Thüre in die Wohnstube führt; durch das Thor und die offenen Stellen im Hintergrunde blickt man in den Wald hinaus, welcher so tief seyn muß, als das Theater erlaubt. Bei aller hervorblickenden Armuth fällt dennoch die äußerste Reinlichkeit und Ordnung in die Augen.
+---
+slug: holbein-der-verraether
+author:
+  name: Holbein, Franz Ignaz von
+  wikidata: Q1447416
+title: Der Verräther
+subtitle: Lustspiel in einem Acte
+numberOfScenes: 7
+printed: 1811
+premiered: 1810-10-19
+formalia:
+  - Prosa
+editions:
+  - title: "Franz v. Holbein's Theater. Erster Band. Rudolstadt: Verlag der Hof-Buch- und Kunsthandlung 1811, S. 377–418"
+    url: https://books.google.com/books?id=98dTAAAAcAAJ&pg=PA377
+  - title: "Wien: Wallishausser 1813"
+    url: https://books.google.com/books?id=ENxJAAAAcAAJ&printsec=frontcover
+  - title: "Zweite Auflage. Wien: Wallishausser 1845"
+    url: https://books.google.com/books?id=hoJXAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Berger,
+    role: ein Winzer.
+    gender: m
+  - name: Klärchen,
+    role: eine von ihm an Kindes Statt angenommene Waise.
+    gender: f
+  - name: Jakob,
+    role: ein junger Bauer.
+    gender: m
+setting: >-
+  Stube des Winzers mit einer Mittel- und zwei Seitenthüren. Am Fenster steht ein Tisch, darauf eine brennende Lampe neben einer rauchenden Schüssel voll Milch. Links eine hölzerne Wanduhr, die bald auf Viere zeigt.
+---
 slug: holbein-der-vorsatz
 author:
   name: Holbein, Franz Ignaz von
@@ -28805,7 +28979,7 @@ ids:
   dracor: ger000519
   wikidata: Q104552092
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
 cast:
   - name: Conrad v. Ulstrade,
     role: Senator und Patricier einer Reichsstadt.
@@ -28839,7 +29013,7 @@ editions:
 comments:
   - Eine einaktige Parodie zu dem Trauerspiel schrieb Stephan Schütze 1824 unter dem Titel [»Die Heimkehr. Lustspiel in einem Act«](schuetze-die-heimkehr).
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
   - Heimkehr-Motiv
   - Selbstmord
 cast:
@@ -30853,7 +31027,7 @@ comments:
   - "Basiert laut [Vorwort](https://books.google.com/books?id=YU1yoZEZ4ucC&pg=PP8) auf »eine[r] Erzählung Herodots«."
   - "Gilt als eines der ersten Schicksalsdramen (vgl. [NDB](https://www.deutsche-biographie.de/pnd116044640.html#ndbcontent))."
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
 cast:
   - name: Crösus.
     gender: m
@@ -31243,6 +31417,37 @@ cast:
     gender: u
 setting: >-
   Das Stück spielt auf einem herrschaftlichen Weinbergsgrundstück am Tage der Vermählung durch Procuration. (Saal mit drei Thüren. Zwei davon sind verschlossen.)
+---
+slug: kind-der-abend-am-waldbrunnen
+author:
+  name: Kind, Johann Friedrich
+  wikidata: Q78246
+title: Der Abend am Waldbrunnen
+subtitle: Dramatisches Idyll in Einem Aufzuge. Mit einer Melodie von Carl Maria von Weber
+numberOfScenes: 6
+printed: 1819
+premiered: 1818-09-25
+formalia:
+  - gereimte Alexandriner
+editions:
+  - title: "Almanach für Privatbühnen. Drittes Bändchen auf das Jahr 1819. Herausgegeben von Adolph Müllner. Leipzig: Göschen 1819, S. 329–382"
+    url: https://books.google.com/books?id=KtIzZ7ptdugC&pg=PA329
+comments:
+  - "Untertitel im [Inhaltsverzeichnis](https://books.google.com/books?id=KtIzZ7ptdugC&pg=PP15): »Dramatisches Idyll in Einem Akt«"
+cast:
+  - name: Röschen,
+    role: Landmädchen.
+    gender: f
+  - name: Dorchen,
+    role: Strohflechtermädchen.
+    gender: f
+  - name: Ein fremder Knabe.
+    gender: m
+  - name: Ferdinand,
+    role: Jäger.
+    gender: m
+setting: >-
+  Waldgegend, von der Abendsonne durchschienen. Ein Brunnen, der aus dem Felsen quillt, mit steinerner Einfassung und einigen Stufen, alles mit Gebüsch und Schlingpflanzen reich bewachsen. In der Nähe eine alte, seltsam gewundene und hohle Weide.
 ---
 slug: kind-petrus-apianus-oder-achtung-der-wissenschaft
 author:
@@ -32434,7 +32639,7 @@ editions:
   - title: "Theodor Körner's sämmtliche Werke. Erster Band. Vierte Auflage. Berlin: Grote 1869, S. 311–328"
     url: https://books.google.com/books?id=dqhBAAAAcAAJ&pg=PA311
 comments:
-  - "Nach dem Muster von [Werners Schicksalstragödie »Der vierundzwanzigste Februar«](werner-der-vierundzwanzigste-februar) (vgl. [NDB](https://www.deutsche-biographie.de/pnd118713507.html#ndbcontent))."
+  - "Nach dem Muster von [Werners Schicksalsdrama »Der vierundzwanzigste Februar«](werner-der-vierundzwanzigste-februar) (vgl. [NDB](https://www.deutsche-biographie.de/pnd118713507.html#ndbcontent))."
   - "Uraufführung via Goethe in Weimar unter dem Titel »Die Sühne, oder: Der vier und zwanzigste May« ([Theaterzettel](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00041796/003375.tif))."
 keywords:
   - Mord
@@ -41495,6 +41700,47 @@ cast:
 setting: >-
   Das Stück spielt in einer kleinen Landstadt in Sachsen. Die Szene, ein Saal mit vielen Thüren in des Amtmanns Wohnung.
 ---
+slug: luedemann-der-mystiker-oder-die-schuld
+author:
+  name: Lüdemann, Wilhelm von
+  wikidata: Q94831848
+title: Der Mystiker oder die Schuld
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1833
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zwölfter Jahrgang. Zwölfter Jahrgang, für 1833. Berlin: Vereins-Buchhandlung 1833, S. 177–224"
+    url: https://books.google.com/books?id=H5s6AAAAcAAJ&pg=PA177
+comments:
+  - Parodie auf Müllners Schicksalsdrama »Die Schuld«.
+  - "Besprechungen in: Jenaische Allgemeine Literatur-Zeitung. Num. 4 (Januar 1834), [Sp. 32](https://books.google.com/books?id=1RRIAQAAMAAJ&pg=PA31), und Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26. December 1834), [S. 521–522](https://books.google.com/books?id=ugUbAAAAYAAJ&pg=PA521)."
+keywords:
+  - Schicksalsdrama
+  - Parodie
+cast:
+  - name: Baron von Ruhort,
+    role: Gutsbesitzer.
+    gender: m
+  - name: Editha,
+    role: seine Tochter.
+    gender: f
+  - name: Fräulein Elvira,
+    role: Ruhort's Schwester.
+    gender: f
+  - name: Edwin von Strahl,
+    role: Editha's Geliebter.
+    gender: m
+  - name: Kaspar,
+    role: Edwin's Diener.
+    gender: m
+  - name: Jertha,
+    role: Elvirens Kammermädchen.
+    gender: f
+setting: >-
+  Die Scene ist auf dem Gute des Barons.
+---
 slug: luederwald-der-freybrief
 author:
   name: Lüderwald, Georg Ernst
@@ -42580,6 +42826,193 @@ cast:
 setting: >-
   Die Scene ist im Billerbeckischen Hause.
 ---
+slug: meisl-altdeutsch-und-neumodisch
+author:
+  name: Meisl, Carl
+  wikidata: Q1308773
+title: Altdeutsch und Neumodisch
+subtitle: Eine Kleinigkeit in einem Aufzuge und Knittelreimen
+numberOfScenes: 10
+printed: 1816
+premiered: 1816-05-14
+formalia:
+  - Knittelreim
+editions:
+  - title: "Wien 1816"
+    url: https://books.google.com/books?id=zOu1tDo6x2EC&printsec=frontcover
+  - title: "Theatralisches Quodlibet oder sämmtliche dramatische Beyträge für die Leopoldstädter Schaubühne von Carl Meisl. Erster Band. Pesth: Hartleben 1820, S. 215–240"
+    url: https://books.google.com/books?id=F786AAAAcAAJ&pg=PA215
+cast:
+  - name: Herr von Edelheit,
+    role: ein Landedelmann.
+    gender: m
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - name: August,
+    role: sein Mündel.
+    gender: m
+  - name: Dansel.
+    gender: m
+  - name: Torring.
+    gender: m
+  - name: Konrad,
+    role: Torrings Bedienter.
+    gender: m
+  - name: Williams,
+    role: Dansels Bedienter.
+    gender: m
+  - name: Fanny,
+    role: Kammermädchen.
+    gender: f
+  - name: Schloßleute.
+    isGroup: true
+    gender: u
+  - name: Bauern.
+    isGroup: true
+    gender: m
+setting: >-
+  Park.
+---
+slug: meisl-der-fluegelmann-oder-er-muss-sie-heirathen
+author:
+  name: Meisl, Carl
+  wikidata: Q1308773
+title: Der Flügelmann, oder Er muß sie heirathen
+subtitle: Ein Original-Lustspiel in einem Act
+numberOfScenes: 22
+printed: 1820
+premiered: 1804-11-07
+formalia:
+  - Prosa
+editions:
+  - title: "Theatralisches Quodlibet oder sämmtliche dramatische Beyträge für die Leopoldstädter Schaubühne von Carl Meisl. Zweyter Band. Pesth: Hartleben 1820, S. 215–254"
+    url: https://books.google.com/books?id=_gdCAQAAMAAJ&pg=PA215
+cast:
+  - name: Der Fürst.
+    gender: m
+  - name: Oberst von Grisauer.
+    gender: m
+  - name: Adjutant Werner.
+    gender: m
+  - name: Seller,
+    role: Flügelmann bey der Leibcompagnie.
+    gender: m
+  - name: Kracher,
+    role: Corporal.
+    gender: m
+  - name: Gretchen,
+    role: ein Bauermädchen.
+    gender: f
+  - name: Mutter Anna,
+    role: eine alte Witwe.
+    gender: f
+  - name: Gürge,
+    role: ein Bauernjunge.
+    gender: m
+setting: >-
+  Ländliche Gegen, eine Hütte, vor der eine Bank steht.
+---
+slug: meisl-der-oesterreichische-grenadier
+author:
+  name: Meisl, Carl
+  wikidata: Q1308773
+title: Der österreichische Grenadier
+subtitle: Ein Schauspiel in einem Act
+numberOfScenes: 13
+printed: 1820
+premiered: 1813-09-09
+formalia:
+  - Prosa
+editions:
+  - title: "Theatralisches Quodlibet oder sämmtliche dramatische Beyträge für die Leopoldstädter Schaubühne von Carl Meisl. Sechster Band. Pesth: Hartleben 1820, S. 181–206"
+    url: https://books.google.com/books?id=GP1BAQAAMAAJ&pg=PA181
+cast:
+  - name: Der Müller.
+    gender: m
+  - name: Die Müllerin.
+    gender: f
+  - name: Ihr Sohn von sieben Jahren.
+    gender: m
+  - name: Schulmeister aus dem nächsten Dorfe.
+    gender: m
+  - name: Der Grenadier.
+    gender: m
+  - name: Ein Müllerbursche.
+    gender: m
+  - name: Erster Nachzügler.
+    gender: m
+  - name: Zweyter Nachzügler.
+    gender: m
+  - name: Mehrere Nachzügler.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht auf einer abgelegenen Mühle vor. (Wohnzimmer in der Mühle.)
+---
+slug: meisl-die-aloe-im-botanischen-garten-zu-kraehwinkel
+author:
+  name: Meisl, Carl
+  wikidata: Q1308773
+title: Die Aloe im botanischen Garten zu Krähwinkel
+subtitle: Eine Posse in einem Act
+numberOfScenes: 16
+printed: 1820
+premiered: 1819-11-30
+formalia:
+  - Prosa
+editions:
+  - title: "Theatralisches Quodlibet oder sämmtliche dramatische Beyträge für die Leopoldstädter Schaubühne von Carl Meisl. Zweyter Band. Pesth: Hartleben 1820, S. 81–120"
+    url: https://books.google.com/books?id=_gdCAQAAMAAJ&pg=PA81
+comments:
+  - "Auf dem [Bremer Theaterzettel vom 25. Februar 1821](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1698094) mit dem Hinweis: »Seitenstück zur falschen prima Donna. Eine Carnevals-Posse in einem Akt«."
+cast:
+  - name: Niclas Staar,
+    role: Bürgermeister, auch Oberältester.
+    gender: m
+  - name: Die Frau Bürgermeisterinn.
+    gender: f
+  - name: Staar,
+    role: Kirchenamts- und Waisen-Vorsteher, sein Bruder.
+    gender: m
+  - name: Nachtvogel,
+    role: Lampen-, Lichter- und Beleuchtungs-Inspector.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Holprich,
+    role: Straßen-, Pflasterungs-, Brücken-, Weg- und Umlaufs-Revident.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Vollauf,
+    role: Marktvictualien-, Fleisch-, Geflügel- und Weinkeller-Inspicient.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Lottchen,
+    role: eine Nichte des Bürgermeisters.
+    gender: f
+  - name: Klaus,
+    role: der Rathsdiener.
+    gender: m
+  - name: Botanischer Gärtner zu Krähwinkel.
+    gender: m
+  - name: Straub,
+    role: ein Abenteurer.
+    gender: m
+  - name: Lorchen,
+    role: seine Schwester.
+    gender: f
+  - name: Sperling,
+    role: Klubb-, Casino-, Theater- und Redouten-Intendanzverweser.
+    gender: m
+  - name: Lieschen,
+    role: Kammermädchen der Bürgermeisterinn.
+    gender: f
+setting: >-
+  Rathsversammlung in Krähwinkel.
+---
 slug: meisl-die-buschmenschen-in-kraehwinkel
 author:
   name: Meisl, Carl
@@ -42645,6 +43078,50 @@ cast:
     gender: u
 setting: >-
   Straße in Krähwinkel, links im Wirthshause beym Haarzopf Rummelpufs.
+---
+slug: meisl-er-ist-mein-mann
+author:
+  name: Meisl, Carl
+  wikidata: Q1308773
+title: Er ist mein Mann
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1824
+premiered: 1816-09-18
+formalia:
+  - Prosa
+editions:
+  - title: "Neuestes theatralisches Quodlibet, oder dramatische Beyträge für die Leopoldstädter Schaubühne. Zweyter Band. Wien: Mörschner und Jasper 1824"
+    url: https://books.google.com/books?id=bwQ-AQAAMAAJ&pg=PARA4-PA1
+cast:
+  - name: Wundarzt Belcour.
+    gender: m
+  - name: Pauline,
+    role: seine Tochter.
+    gender: f
+  - name: Semonville,
+    role: ein Officier der Vendéer.
+    gender: m
+  - name: Dornance,
+    role: Officier der Republik.
+    gender: m
+  - name: Martin,
+    role: Gehülfe Belcours.
+    gender: m
+  - name: Marie,
+    role: die alte Magd Belcours.
+    gender: f
+  - group:
+      - name: Erster
+        gender: m
+      - name: Zweyter
+        gender: m
+    role: republikanischer Soldat.
+  - name: Mehrere Soldaten.
+    isGroup: true
+    gender: m
+setting: >-
+  Paulinens Schlafgemach mit einem Bette. Es ist Abend, auf dem offenen Fenster brennen Kerzen.
 ---
 slug: meisl-meine-frau-ist-ein-satan
 author:
@@ -43759,7 +44236,7 @@ editions:
   - title: "Berlin: Wever 1781"
     url: https://books.google.com/books?id=jBZaAAAAcAAJ&printsec=frontcover
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
 comments:
   - Fünf Schauplatzwechsel (= Anzahl Szenen).
   - "Inspiriert von George Lillo: [»The fatal curiosity. A tragedy«](https://books.google.com/books?id=MK1bAAAAQAAJ&printsec=frontcover)."
@@ -44392,11 +44869,11 @@ editions:
   - title: "Müllner's Dramatische Werke. Erste rechtmäßige, vollständige und vom Verfasser verbesserte Gesammt-Ausgabe. Erster Theil. Braunschweig: Vieweg 1828, S. 1–72"
     url: https://books.google.com/books?id=f0IJAQAAMAAJ&pg=PA1
 comments:
-  - Nach dem Muster von Werners Schicksalstragödie [»Der vierundzwanzigste Februar. Eine Tragödie in einem Akt«](werner-der-vierundzwanzigste-februar).
+  - Nach dem Muster von Werners Schicksalsdrama [»Der vierundzwanzigste Februar. Eine Tragödie in einem Akt«](werner-der-vierundzwanzigste-februar).
   - "In Wien ohne Wissen Müllners vom Hofschauspieler Nikolaus Heurteur (1781–1844) zum Drama »Der Wahn« (laut Müllner: »Wahn und Drama«) mit gutem Ausgang umgearbeitet und am 6. April 1815 am Burgtheater aufgeführt. Von Müllner daraufhin selbst überarbeitet, in dieser Version ebenfalls unter dem Titel [»Der Wahn«](muellner-der-wahn) 1816 erstmals aufgeführt und 1818 gedruckt."
   - "Parodie des Stücks: [»Eumenides Düster« (1819)](richter-der-eliastag)."
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
 ids:
   wikidata: Q98544670
   dracor: ger000506
@@ -44438,7 +44915,7 @@ editions:
 comments:
   - "In der [Vorerinnerung](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10104570_00221.html): »Nachstehendes ist nichts anderes, als eine, durch Hinzufügung von ungefähr neunzig Versen bewirkte, Umgestaltung meiner Tragödie, [der neun und zwanzigste Februar](muellner-der-neun-und-zwanzigste-februar)«. Anlass hierfür war die Wiener Zensur, die »auf der Bühne Blutschande und Kindesmord durchaus nicht zuzulassen« gewillt war."
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
 cast:
   - name: Walter Horst,
     role: Erbförster.
@@ -45136,6 +45613,48 @@ cast:
 setting: >-
   Die Handlung geht in der Wohnung der Frau von Berg von. (Ein elegantes Zimmer mit zwei Thüren im Hintergrunde. Rechts am Fenster ein modernes Sopha. Aus der rechten Thür kommt Emilie, gleich hinter ihr Therese.)
 ---
+slug: oldenburg-jahreswechsel
+author:
+  name: Oldenburg, Ferdinand August
+  wikidata: Q60842779
+title: Jahreswechsel
+subtitle: Dramatische Allegorie in 1 Akte
+numberOfScenes: 1
+printed: 1826
+premiered: 1824-01-01
+formalia:
+  - Verse
+editions:
+  - title: "Nützliches Theaterrequisit, besonders für mittlere und reisende Bühnen. Herausgegeben von E. Wehrmann und A. F. Oldenburg. Rathenow: Flick 1826, S. 19–30"
+    url: https://books.google.com/books?id=lxzgGy7gmxMC&pg=PA19
+keywords:
+  - Allegorische Figuren
+cast:
+  - name: Das alte Jahr.
+    role: in Gestalt eines Greises.
+    gender: m
+  - name: Das neue Jahr,
+    role: in Gestalt eines Kindes.
+    gender: u
+  - name: Rhea,
+    role: die Städtebeschützerinn.
+    gender: f
+  - group:
+      - name: Clotho,
+        gender: f
+      - name: Lachesis,
+        gender: f
+      - name: Atropos,
+        gender: f
+    role: die drei Parzen.
+  - name: Die Stimme des Schicksals.
+    gender: u
+  - name: Vier Horen.
+    isGroup: true
+    gender: f
+setting: >-
+  Das Theater bildet eine Wolkenperspektive im Hintergrunde. Im Vorgrunde Waldgegend, wo links das alte Jahr in Greisesgestalt sitzt. Im Mittelgrunde etwas erhöht sind die drei Parzen, mit ihren Arbeiten beschäftigt.
+---
 slug: oliva-figaros-reue-nach-der-hochzeit
 author:
   name: Oliva, Adam Franz
@@ -45432,6 +45951,246 @@ cast:
     gender: u
 setting: >-
   Die Bühne stellt einen Vorsaal in des obersten Bramine Wohnung vor. In der Tiefe sind Kalebs Sclaven verschieden beschäftiget. Einige bringen Fackeln, Kohlpfannen, Weihrauchtöpfe; Andere Opfergeschirre, Festkleider, Holzbündeln, und dergleichen.
+---
+slug: payer-der-arme-goerge
+author:
+  name: Payer, Karl
+title: Der arme Görge
+subtitle: Ein Schauspiel in einem Akte für Kinder. Gelegenheitsstück für beide Eltern
+numberOfScenes: 7
+printed: 1819
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: corvey
+    pages: S. 277–278
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=275"
+editions:
+  - title: "Theater für Kinder, von Karl Payer. Erster Theil. Wien: Schaumberg; Prag: Widtmann 1819, S. 37–62"
+    url: https://books.google.com/books?id=I9RVAAAAcAAJ&pg=PA37
+keywords:
+  - Kindertheater
+cast:
+  - name: Görge,
+    role: ein armer Bauernjunge.
+    gender: m
+  - group:
+      - name: Julchen
+        gender: f
+      - name: Lieschen
+        gender: f
+    role: Geschwister, Kinder reicher Eltern in der Stadt.
+  - name: Amor.
+    gender: m
+setting: >-
+  Die Handlung spielt in der Stadt, in Julchens und Lieschens Eltern-Hause.
+---
+slug: payer-der-bestrafte-vorwitz
+author:
+  name: Payer, Karl
+title: Der bestrafte Vorwitz
+subtitle: Ein kleines Lustspiel für Kinder in einem Akte (Nach einer bekannten Anekdote bearbeitet)
+numberOfScenes: 9
+printed: 1819
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 278
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=276"
+editions:
+  - title: "Theater für Kinder, von Karl Payer. Erster Theil. Wien: Schaumberg; Prag: Widtmann 1819, S. 165–180"
+    url: https://books.google.com/books?id=I9RVAAAAcAAJ&pg=PA165
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Gustav
+        gender: m
+      - name: Lucinde
+        gender: f
+      - name: Malchen
+        gender: f
+    role: Geschwister.
+---
+slug: payer-der-fruchtbare-blumenstock
+author:
+  name: Payer, Karl
+title: Der fruchtbare Blumenstock
+subtitle: Ein kleines Schauspiel für Kinder in einem Akte. Gelegenheitsstück für den Vater
+numberOfScenes: 6
+printed: 1819
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 278–279
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=276"
+editions:
+  - title: "Theater für Kinder, von Karl Payer. Erster Theil. Wien: Schaumberg; Prag: Widtmann 1819, S. 113–138"
+    url: https://books.google.com/books?id=I9RVAAAAcAAJ&pg=PA113
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Agathe
+        gender: f
+      - name: Minna
+        gender: f
+      - name: Wilhelm
+        gender: m
+    role: Geschwister.
+---
+slug: payer-der-schusterjunge-und-die-brille
+author:
+  name: Payer, Karl
+title: Der Schusterjunge und die Brille
+subtitle: Ein kleines Lustspiel in einem Akte für Kinder
+numberOfScenes: 7
+printed: 1819
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 279
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=277"
+editions:
+  - title: "Theater für Kinder, von Karl Payer. Erster Theil. Wien: Schaumberg; Prag: Widtmann 1819, S. 139–164"
+    url: https://books.google.com/books?id=I9RVAAAAcAAJ&pg=PA139
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Ludwig
+        gender: m
+      - name: Sabine
+        gender: f
+    role: Geschwister.
+  - name: Ein armes Weib.
+    gender: f
+  - name: Ihre zwey Kinder.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung spielt in einem Zimmer.
+---
+slug: payer-der-schwarze-vetter
+author:
+  name: Payer, Karl
+title: Der schwarze Vetter
+subtitle: Ein kleines Schauspiel in einem Akte
+numberOfScenes: 11
+printed: 1819
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 280
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=278"
+editions:
+  - title: "Theater für Kinder, von Karl Payer. Erster Theil. Wien: Schaumberg; Prag: Widtmann 1819, S. 77–112"
+    url: https://books.google.com/books?id=I9RVAAAAcAAJ&pg=PA77
+keywords:
+  - Kindertheater
+cast:
+  - name: Amar,
+    role: Mohr, ein junger ostindischer Pflanzer.
+    gender: m
+  - name: Jobs,
+    role: sein Matrose.
+    gender: m
+  - name: Mylady Macfery,
+    role: eine Witwe.
+    gender: f
+  - name: Esquire John,
+    role: ihr Sohn.
+    gender: m
+  - name: Anne,
+    role: ihre Tochter.
+    gender: f
+setting: >-
+  Die Handlung spielt in London.
+location:
+  wikidataId: Q84
+---
+slug: payer-die-insel-der-fortuna
+author:
+  name: Payer, Karl
+title: Die Insel der Fortuna
+subtitle: Ein kleines Schauspiel für Kinder in einem Akte. Gelegenheitsstück für die Mutter
+numberOfScenes: 5
+printed: 1819
+formalia:
+  - Blankvers
+dictionaries:
+  - name: corvey
+    pages: S. 280–281
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=278"
+editions:
+  - title: "Theater für Kinder, von Karl Payer. Erster Theil. Wien: Schaumberg; Prag: Widtmann 1819, S. 63–76"
+    url: https://books.google.com/books?id=I9RVAAAAcAAJ&pg=PA63
+keywords:
+  - Kindertheater
+cast:
+  - name: Ein junger Schiffer.
+    gender: m
+  - name: Priester der Fortuna.
+    gender: m
+  - name: Fortuna,
+    role: die Göttin des Glücks.
+    gender: f
+setting: >-
+  Die Handlung geht im Tempel der Fortuna vor, auf einer unbekannten Insel. – Das Kostüm ist griechisch.
+---
+slug: payer-menalkas-heimkehr
+author:
+  name: Payer, Karl
+title: Menalkas Heimkehr
+subtitle: Ein Schauspiel in einem Akte für größere Kinder. Gelegenheitsstück für die Mutter
+numberOfScenes: 7
+printed: 1819
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 281–282
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=279"
+editions:
+  - title: "Theater für Kinder, von Karl Payer. Erster Theil. Wien: Schaumberg; Prag: Widtmann 1819, S. 181–223"
+    url: https://books.google.com/books?id=I9RVAAAAcAAJ&pg=PA181
+keywords:
+  - Kindertheater
+cast:
+  - name: Mutter Daphne.
+    gender: f
+  - name: Menalkas,
+    role: ihr Sohn.
+    gender: m
+  - group:
+      - name: Laë
+        gender: f
+      - name: Chlorinde
+        gender: f
+    role: ihr Töchter.
+  - name: Liscus,
+    role: ein Hirtengreis.
+    gender: m
+  - group:
+      - name: Oderon
+        gender: m
+      - name: Baucis
+        gender: m
+    role: Flötenspieler.
+  - name: Zwey Hirtenknaben.
+    isGroup: true
+    gender: m
+  - name: Viele Hirten.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung spielt in Arkadien. – Der Schauplatz ist eine freye Gegend.
+location:
+  wikidataId: Q12898802
 ---
 slug: pelzel-yariko
 author:
@@ -46794,7 +47553,7 @@ comments:
   - "Eine »gewissenlos[e]« Kopie von Müllners Vierakter »Die Schuld« und Houwalds Zweiakter »Der Leuchtthurm« (vgl. ebd.)."
   - "Fehler im Druck: Nach dem 7. folgt der 9. Auftritt, es sind also insgesamt nur 8 Auftritte."
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
 cast:
   - name: Francesco,
     role: ein Fischer.
@@ -46878,6 +47637,100 @@ setting: >-
   Scene auf einem Dorfe bey Nimes in Frankreich.
 location:
   wikidataId: Q42807
+---
+slug: rango-die-pfandbriefe
+author:
+  name: Rango, Ludwig von
+  wikidata: Q55909092
+title: Die Pfandbriefe
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 27
+printed: 1818
+formalia:
+  - Verse
+editions:
+  - title: "Dramatische Werke von L. von Rango. Erster Theil. Berlin 1818, S. 13–78"
+    url: https://books.google.com/books?id=-NxJAAAAcAAJ&pg=PA13
+keywords:
+  - Geld
+  - Erbe
+  - Eheanbahnung
+cast:
+  - name: Herr von Köcher.
+    gender: m
+  - name: Ferdinand,
+    role: seyn Neffe.
+    gender: m
+  - name: Franz,
+    role: sein Freund.
+    gender: m
+  - name: Mad. Aurore Zephir,
+    role: eine Wittwe deren Mann seit 7 Monaten sanft entschlummert. Über die 40 hinaus, – ungebildet, aber Bildung affektirend, verliebt und geizig.
+    gender: f
+  - name: Tony,
+    role: ihre Pflegetochter.
+    gender: f
+  - name: Heinrich,
+    role: Ferdinands Reitknecht.
+    gender: m
+  - name: Pökel,
+    role: Bedienter im Hause der Mad. Zephir.
+    gender: m
+  - name: Ein Jude.
+    gender: m
+setting: >-
+  Die Scene spielt theils im Hause der Mad. Zephir theils in Ferdinands Hause.
+---
+slug: rango-roeschen
+author:
+  name: Rango, Ludwig von
+  wikidata: Q55909092
+title: Röschen
+subtitle: Dramatisches Gedicht in Einem Aufzuge
+numberOfScenes: 27
+printed: 1818
+formalia:
+  - Verse
+editions:
+  - title: "Dramatische Werke von L. von Rango. Erster Theil. Berlin 1818, S. 81–143"
+    url: https://books.google.com/books?id=-NxJAAAAcAAJ&pg=PA81
+cast:
+  - name: Der Graf.
+    gender: m
+  - name: Die Gräfin.
+    gender: f
+  - name: Zwey Pagen.
+    isGroup: true
+    gender: m
+  - name: Fritz,
+    role: Förster des Grafen.
+    gender: m
+  - name: Michel,
+    role: ein reicher Pächter.
+    gender: m
+  - name: Margarethe,
+    role: seine Frau.
+    gender: f
+  - name: Röschen,
+    role: seine Tochter.
+    gender: f
+  - name: Lieschen,
+    role: Pflegetochter.
+    gender: f
+  - name: Peter,
+    role: Röschens Verlobter.
+    gender: m
+  - name: Jäger.
+    isGroup: true
+    gender: m
+  - name: Zwey Räuber.
+    isGroup: true
+    gender: m
+  - name: Bauern und Bäuerinnen u.s.w.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist in der Nähe einer Residenzstadt eines Thüringer Grafen. (Reitzende Gegend, rechts das Pächterhaus, in der Ferne die Residenz des Grafen.)
 ---
 slug: ratschky-bekir-und-gulroui
 author:
@@ -47999,10 +48852,10 @@ editions:
   - title: "Eumenides Düster. Trauerspiel nach Adolph Müllner's Weise von Ludwig Stahlpanzer. In: Müllner's Dramatische Werke. Zweite rechtmässige, vollständige und vom Verfasser verbesserte Gesammt-Ausgabe. In Einem Bande. Braunschweig: Vieweg 1832, S. 18–26"
     url: https://books.google.com/books?id=hhlRAAAAcAAJ&pg=PA18
 comments:
-  - "Parodie auf Müllners Schicksalstragödie [»Der neun und zwanzigste Februar«](muellner-der-neun-und-zwanzigste-februar). Der Einakter gehört zum Trauerspiel »Eumenides Düster«, ihm geht das Vorspiel [»Ullo's Tod oder das Verbrechen«](https://books.google.com/books?id=UuRHAAAAMAAJ&pg=RA2-PA9) voraus."
+  - "Parodie auf Müllners Schicksalsdrama [»Der neun und zwanzigste Februar«](muellner-der-neun-und-zwanzigste-februar). Der Einakter gehört zum Trauerspiel »Eumenides Düster«, ihm geht das Vorspiel [»Ullo's Tod oder das Verbrechen«](https://books.google.com/books?id=UuRHAAAAMAAJ&pg=RA2-PA9) voraus."
   - "Über den so nicht abgesprochenen Abdruck des »Eumenides Düster« als Supplement zu seinen gesammelten dramatischen Werken hat sich Müllner im Achten Theil (Wolfenbüttel: Verlags-Comtoir 1828) geäußert, [S. 143–154](https://books.google.com/books?id=bcs6AAAAcAAJ&pg=PA143)."
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
   - Parodie
 ids:
   wikidata: Q100145770
@@ -51955,6 +52808,36 @@ cast:
 setting: >-
   Ein sehr sauberes, aber prunkloses Wohnzimmer des Gutsherrn, in der Mitte ein Alkoven. Zur Seite ein zubereiteter Theetisch.
 ---
+slug: schmidt-der-junge-heuchler
+author:
+  name: Schmidt, Friedrich Ludwig
+  wikidata: Q16471530
+title: Der junge Heuchler
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1812
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatischer Jugendfreund von Friedrich Ludwig Schmidt. Ein Weihnachtsgeschenk mit illuminirten Kupfern. Hamburg: Hoffmann 1812, S. 69–112"
+    url: https://books.google.com/books?id=IZpsGl3BQU8C&pg=PA69
+cast:
+  - name: Berg,
+    role: ein reicher Pachter.
+    gender: m
+  - name: Ernst,
+    role: sein Sohn, 14 Jahre alt.
+    gender: m
+  - name: Dessen Tante.
+    gender: f
+  - name: Ihr Bruder.
+    gender: m
+  - name: Matz,
+    role: ein Bauerknabe, 14 Jahre alt.
+    gender: m
+setting: >-
+  Die Scene: ein Wohnzimmer. Im Hintergrunde ein Tisch mit Büchern.
+---
 slug: schmidt-der-tag-der-erloesung
 author:
   name: Schmidt, Friedrich Ludwig
@@ -52055,6 +52938,41 @@ setting: >-
   Der Schauplatz ist in der Insel St. Lucie, in Blanfords Hause.
 location:
   wikidataId: Q760
+---
+slug: schmidt-die-pflegetochter
+author:
+  name: Schmidt, Friedrich Ludwig
+  wikidata: Q16471530
+title: Die Pflegetochter
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1812
+premiered: 1812-02-20
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatischer Jugendfreund von Friedrich Ludwig Schmidt. Ein Weihnachtsgeschenk mit illuminirten Kupfern. Hamburg: Hoffmann 1812, S. 113–156"
+    url: https://books.google.com/books?id=IZpsGl3BQU8C&pg=PA113
+comments:
+  - Früheste ermittelte Aufführung am 20. Februar 1812 in Hamburg.
+cast:
+  - name: Sir William Clive.
+    gender: m
+  - name: Mistriß Clive,
+    role: seine Gattin.
+    gender: f
+  - name: Charlotte,
+    role: ihre Tochter.
+    gender: f
+  - name: Betty,
+    role: ihr Pflegekind.
+    gender: f
+  - name: Sir John Barring.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Ein Zimmer mit Seitengemächern im Hause des Sir William.
 ---
 slug: schmidt-nur-er-will-sprechen
 author:
@@ -53816,7 +54734,7 @@ editions:
 comments:
   - Parodie auf Ernst von Houwalds Einakter [»Die Heimkehr. Trauerspiel in Einem Akte«](houwald-die-heimkehr).
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
   - Parodie
   - Soldat
   - Heimkehr-Motiv
@@ -54329,6 +55247,36 @@ cast:
     role: Rambeks Freund.
     gender: m
 ---
+slug: seidel-kuenstler-liebe-oder-die-moderne-galathe
+author:
+  name: Seidel, W. F.
+title: Künstler-Liebe oder die moderne Galathe
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1833
+formalia:
+  - Alexandriner
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zwölfter Jahrgang. Zwölfter Jahrgang, für 1833. Berlin: Vereins-Buchhandlung 1833, S. 99–131"
+    url: https://books.google.com/books?id=H5s6AAAAcAAJ&pg=PA99
+comments:
+  - "Besprechung in: Allgemeine Theaterzeitung und Originalblatt für Kunst, Literatur und geselliges Leben. Herausgeber und Redakteur: Adolf Bäuerle. Nr. 147 (Donnerstag den 9. Dezember 1830), [S. 602](https://books.google.com/books?id=7m4-AQAAMAAJ&pg=PA602)."
+cast:
+  - name: Leonhard,
+    role: plastischer Künstler.
+    gender: m
+  - name: Julie,
+    role: seine Gattin.
+    gender: f
+  - name: Jakob,
+    role: dessen alter Diener.
+    gender: m
+  - name: Suschen,
+    role: Hausmädchen.
+    gender: f
+setting: >-
+  Das Theater ist der Länge nach getheilt. Rechts auf der Bühne das Attelier des Bildhauers, worin mehrere Büsten und Statüen zerstreut herumstehen, ganz nach vorn ein großer Schrank; im Hintergrunde eine Thür, welche nach dem Innern des Hauses führt, in der Seitenwand links eine Glasthüre zum allgemeinen Ausgang mit einem Vorhange und praktikabeln Fenster. Das Entree links hat ebenfalls eine Seitenthüre und eine Thür im Hintergrunde, die auf die Straße führt.
+---
 slug: sessa-die-luftschiffer
 author:
   name: Sessa, Karl Borromäus Alexander
@@ -54739,6 +55687,39 @@ setting: >-
   Ort der Handlung: Ein Thal der Vaucluse in der Provence. Zeit: Die Mitte des 15. Jahrhunderts, vom Nachmittage bis zum Sonnen-Untergange. (Ein Thal der Vaucluse. Rechts vom Zuschauer an den beiden vordern Coulissen ein einstöckiges Wohnhaus, zu welchem mehrere breite Stufen hinanführen; die Mauern sind mit Schlingpflanzen und Rosen bewachsen. Vor dem Hause dehnt sich der Garten aus, in welchem eine südliche Vegetation herrscht. Vor der Thür des Hauses stehen einzelne hohe Dattelpalmen. Der Garten wird von einer mit dichtem Buschwerk bedeckten Bergwand eingeschlossen, in welcher links vom Zuschauer eine mit Steinen und Moos bedeckte Thür ist, die man nur erkennt, wenn sie geöffnet wird. Ueber diese Bergwand ragt aus weiter Ferne der Kamm eine hohen Gebirges hervor.)
 location:
   wikidataId: Q12792
+---
+slug: soden-die-lange-nase
+author:
+  name: Soden, Julius von
+  wikidata: Q103911
+title: Die lange Nase
+subtitle: Lustspiel in Einem Akt und in drei Abtheilungen
+numberOfScenes: 12
+printed: 1818
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach für Privatbühnen. Zweites Bändchen auf das Jahr 1818. Herausgegeben von Adolph Müllner. Leipzig: Göschen [1818], S. 145–188"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10104570_00169.html
+  - title: "Neueste deutsche Schaubühne, oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Dritter Band. Augsburg und Leipzig:Jenisch und Stage [1818], S. 207–234"
+    url: https://books.google.com/books?id=xBxIAAAAcAAJ&pg=PA207
+cast:
+  - name: Herr von Schleh.
+    gender: m
+  - name: Sophie,
+    role: seine Gemahlin.
+    gender: f
+  - name: Bernhard,
+    role: sein Kammerdiener.
+    gender: m
+  - name: Frau Branz,
+    role: Wirthin zur weißen Taube.
+    gender: m
+  - name: Frau von Pinto,
+    role: Schwägerin des Herrn von Schleh.
+    gender: f
+setting: >-
+  Vorzimmer.
 ---
 slug: solbrig-die-braunschweiger-wurst-oder-boese-beispiele-verderben-gute-sitten
 author:
@@ -58263,6 +59244,42 @@ cast:
 setting: >-
   Eine Straße. Vorne links ein Schilderhaus. Es ist Nacht. Die Laternen brennen.
 ---
+slug: voss-befoerderung-nach-verdienst
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Beförderung nach Verdienst
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 10
+printed: 1811
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 375
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=373"
+editions:
+  - title: "Julius von Voß Lustspiele. Sechster Band. Berlin: Schmidt 1811"
+    url: https://belser.gbv.de/dllm/43123-1.pdf#page=836
+cast:
+  - name: Der Herzog.
+    gender: m
+  - name: General von Hartan.
+    gender: m
+  - name: Die Generalin.
+    gender: f
+  - name: Sophie,
+    role: ihre Tochter.
+    gender: f
+  - name: Der Auditeur.
+    gender: m
+  - name: Jude Rieß.
+    gender: m
+  - name: Pferdevermiether Huf.
+    gender: m
+  - name: Die rothe Katharine.
+    gender: f
+---
 slug: voss-coriolan
 author:
   name: Voß, Julius von
@@ -58304,6 +59321,50 @@ setting: >-
   Coriolans Wohnung in Rom.
 location:
   wikidataId: Q220
+---
+slug: voss-der-erste-april
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Der Erste April
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 9
+printed: 1817
+premiered: 1816-04-01
+formalia:
+  - jambische, gereimte Verse
+dictionaries:
+  - name: corvey
+    pages: S. 380
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=378"
+editions:
+  - title: "Neue dramatische Schwänke, von Julius von Voß. Berlin: Schüppel 1817, S. 287–326"
+    url: https://books.google.com/books?id=_Cvy5HsjWVwC&pg=PA287
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Herr von Tiefentrunk,
+    role: ein Landedelmann.
+    gender: m
+  - name: Philippinchen,
+    role: seine Mündel.
+    gender: f
+  - name: Herr von Lehnheim,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Hamster,
+    role: Kornschreiber.
+    gender: m
+  - name: Ilse,
+    role: Ausgeberin.
+    gender: f
+  - name: Ein Postillon.
+    gender: m
+  - name: Knechte, Mägde und Eseljungen.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist ein Wohnzimmer mit einer Hinterthüre und Fenstern. Außer einigen andern Mobilien steht ein Kasten im Hintergrunde.
 ---
 slug: voss-der-jude-und-der-grieche
 author:
@@ -58394,6 +59455,257 @@ cast:
 setting: >-
   Die Scene ist das Innre eines in der Eil befestigten Schoßhofes. (Die Scene ist das Innre eines Schloßhofes. Man sieht seitwärts das Schloß zum Theil. Im Hintergrunde oder auf der gegenüber liegenden Seite ein Thor mit dem Wachtgebäude. An der herumlaufenden Mauer ist eine darauf befindliche Kanone. Das Thor steht etwas auf. Die beiden Schildwachen schnarchen. Der Morgen beginnt zu grauen, und es wird während des Stücks allmählig Tag.)
 ---
+slug: voss-die-einquartierungspein
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Die Einquartierungspein
+subtitle: Posse in einem Aufzug
+numberOfScenes: 32
+printed: 1817
+premiered: 1818-02-27
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 395
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=393"
+editions:
+  - title: "Neue dramatische Schwänke, von Julius von Voß. Berlin: Schüppel 1817, S. 1–88"
+    url: https://books.google.com/books?id=_Cvy5HsjWVwC&pg=PA1
+cast:
+  - name: Mondgabel,
+    role: ein reicher Papiermüller.
+    gender: m
+  - name: Frau Mondgabel.
+    gender: f
+  - name: Suschen,
+    role: Tochter aus Mondgabels erster Ehe.
+    gender: f
+  - name: Lottchen,
+    role: Tochter zweiter Ehe.
+    gender: f
+  - name: Sauerhahn,
+    role: Stadtmusikant, auf dem Kirchthurm wohnhaft.
+    gender: m
+  - name: Nasing,
+    role: Schneidermeister.
+    gender: m
+  - name: Auenfeld,
+    role: sonst Student, nun preußischer Husar.
+    gender: m
+  - name: Matz,
+    role: Lumpensammler der Papiermühle.
+    gender: m
+  - name: Zur Einquartierung einen französischen Bulletinschreiber.
+    gender: m
+  - name: Einen österreichischen Corporal.
+    gender: m
+  - name: Eine schwedische Marketenderin.
+    gender: f
+  - name: Einen würtembergschen Stabschirurgus.
+    gender: m
+  - name: Einen englischen Ingeniör.
+    gender: m
+  - name: Drei Kalmucken.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Stück spielt im sächsischen Gebirge um die Zeit der Schlacht bei Leipzig.
+---
+slug: voss-die-nasen
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Die Nasen
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 13
+printed: 1827
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 401
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=399"
+editions:
+  - title: "Neuere Lustspiele von Julius Voß. Sechster Band. Berlin: Schlesing 1827, S. 235–282"
+    url: https://books.google.com/books?id=i1FQ0CuqtbcC&pg=PA235
+comments:
+  - In zwei Scenen aufgeteilt mit insgesamt 13 Auftritten.
+cast:
+  - name: Der Justizrath.
+    gender: m
+  - name: Die Justizräthin.
+    gender: f
+  - name: Anna,
+    role: deren Tochter.
+    gender: f
+  - name: Herr Schulz,
+    role: angehender Rechtsgelehrter.
+    gender: m
+  - name: Herr Lohning,
+    role: ein junger Arzt.
+    gender: m
+  - name: Christian,
+    role: Diener.
+    gender: m
+setting: >-
+  Zimmer des Herrn Schulz.
+---
+slug: voss-die-retraite-pour-les-dames
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Die Retraite pour les dames
+subtitle: Posse in einem Akt
+numberOfScenes: 18
+printed: 1811
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 403
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=401"
+editions:
+  - title: "Julius von Voß Lustspiele. Sechster Band. Berlin: Schmidt 1811"
+    url: https://belser.gbv.de/dllm/43123-1.pdf#page=966
+comments:
+  - "Im [Vorwort](https://belser.gbv.de/dllm/43123-1.pdf#page=836): »Der ›Retraite pour les dames‹ liegt etwas von einer kleinen Begebenheit, die wirklich sich ereignet haben soll, zum Grunde. Ich hatte erst gar nicht den Muth, sie in den Druck zu geben, ein Freund aber bewog mich.«"
+cast:
+  - name: Herr von Rosenthau.
+    gender: m
+  - name: Frau von Rosenthau.
+    gender: f
+  - name: Kornet,
+    role: Graf von Wilden.
+    gender: m
+  - name: Zwei alte verheirathete Damen.
+    isGroup: true
+    gender: f
+  - name: Zwei alte Fräulein.
+    isGroup: true
+    gender: f
+  - name: Ein armes schönes, und
+    gender: f
+  - name: Ein reiches häßliches Fräulein.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+  - name: Eine Köchin und noch andere Dienerschaft.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Szene ist eine abgelegene Kammer. An einer Seite befindet sich ein großer Schirm, an der andern sieht man eine kleine Treppe, die zur Bodenöffnung führt. Die Kammerthüre ist inwendig mit Riegeln versehn.
+---
+slug: voss-die-sterbekasse
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Die Sterbekasse
+subtitle: Posse in einem Akt
+numberOfScenes: 13
+printed: 1810
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 406
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=404"
+editions:
+  - title: "Julius von Voß Lustspiele. Dritter Band. Berlin: Schmidt 1810"
+    url: https://books.google.com/books?id=-hhkAAAAcAAJ&pg=RA2-PA1
+keywords:
+  - Geld
+cast:
+  - name: Schuster.
+    gender: m
+  - name: Weib.
+    gender: f
+  - name: Tochter.
+    gender: f
+  - name: Gesell.
+    gender: m
+  - name: Stadtchirurgus.
+    gender: m
+  - name: Vorsteher der Sterbegesellschaft.
+    gender: m
+  - name: Tischler.
+    gender: m
+  - name: Wirthin.
+    gender: f
+  - name: Leichenbitter und Träger.
+    isGroup: true
+    gender: u
+  - name: Schülerchor.
+    isGroup: true
+    gender: u
+setting: >-
+  Aermliche Wohnung. Die Kammerthür im Hintergrunde steht auf.
+---
+slug: voss-die-tresorscheine
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Die Tresorscheine
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 6
+printed: 1809
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 406
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=404"
+editions:
+  - title: "Julius von Voß Lustspiele. Zweiter Band. Berlin: Schmidt 1809"
+    url: https://belser.gbv.de/dllm/43123-1.pdf#page=337
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Der Kaufmann.
+    gender: m
+  - name: Die Tochter.
+    gender: f
+  - name: Der Buchhalter.
+    gender: m
+setting: >-
+  Das Stück spielt zu Berlin im Frühling 1809, vor Ausbruch des neuen Krieges mit Oesterreich.
+location:
+  wikidataId: Q64
+---
+slug: voss-die-weinachtsausstellung
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Die Weinachtsausstellung
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 6
+printed: 1823
+formalia:
+  - Blankvers
+dictionaries:
+  - name: corvey
+    pages: S. 407
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=405"
+editions:
+  - title: "Neuere Lustspiele von Julius Voß. Berlin: Schlesinger 1823, S. 215–240"
+    url: https://books.google.com/books?id=myV00juc8V4C&pg=PA215
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Ein Conditor.
+    gender: m
+  - name: Seine Gattin.
+    gender: f
+  - name: Auguste,
+    role: seine Tochter.
+    gender: f
+  - name: Wilhelm,
+    role: sein Gehülfe.
+    gender: m
+setting: >-
+  Backstube.
+---
 slug: voss-euer-verkehr
 author:
   name: Voß, Julius von
@@ -58454,6 +59766,157 @@ setting: >-
   Der Schauplatz ist ein Theater, von rückwärts zu sehen, die Seitenwände
   umgedreht, der Vorhang nach hinten. Das Stück spielt am Abend, nach Endigung
   des Trauerspiels Emilia Galotti.
+---
+slug: voss-frau-russkachel-oder-die-betrogne-stiefmutter
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Frau Rußkachel, oder die betrogne Stiefmutter
+subtitle: Posse mit Gesang in einem Aufzug
+numberOfScenes: 23
+printed: 1817
+premiered: 1816-12-11
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 408–409
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=406"
+editions:
+  - title: "Neue dramatische Schwänke, von Julius von Voß. Berlin: Schüppel 1817, S. 89–154"
+    url: https://books.google.com/books?id=_Cvy5HsjWVwC&pg=PA89
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Frau Rußkachel,
+    role: eine Schornsteinfegerwittwe.
+    gender: f
+  - name: Fanny,
+    role: ihre Stieftochter.
+    gender: f
+  - name: Ludwig Windhalm,
+    role: ein junger Stadtmusikant.
+    gender: m
+  - name: Susanna,
+    role: Aufwärterin.
+    gender: f
+  - name: Schornsteinfeger, Soldaten, Volk u.s.w.
+    isGroup: true
+    gender: u
+setting: >-
+  Einfach bürgerliches Zimmer bei Frau Rußkachel. Im Hintergrunde zwei Thüren. Rechts ein Fenster. Gegenüber links, die Thüre zu Fannys Wohnstube. Neben dem Fenster ein Tisch, worauf ein Säbel, Dolch und ein Paar Pistolen liegen. Dicht dabei an die Wand gelehnt, ein Carabiner, lange Picke, Bogen und Köcher. In der Vertiefung des Fensters hängt ein Spiegel. Auf einem Stuhl liegt eine Guitarre.
+---
+slug: voss-liebe-auf-dem-lande
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Liebe auf dem Lande
+subtitle: Posse in einem Aufzug, in Brandenburgischer Volkssprache
+numberOfScenes: 6
+printed: 1817
+premiered: 1828-10-25
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 412
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=410"
+editions:
+  - title: "Neue dramatische Schwänke, von Julius von Voß. Berlin: Schüppel 1817, S. 327–348"
+    url: https://books.google.com/books?id=_Cvy5HsjWVwC&pg=PA327
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Michel,
+    role: Kossät.
+    gender: m
+  - name: Anntrine,
+    role: seine Frau.
+    gender: f
+  - name: Hans,
+    role: beider Sohn.
+    gender: m
+  - name: Mutter Göcksche,
+    role: Wittwe des Kuhhirten.
+    gender: f
+  - name: Grete,
+    role: ihre Tochter.
+    gender: f
+  - name: Herr Müller,
+    role: Erzieher auf dem Edelhofe.
+    gender: m
+setting: >-
+  Das Stück spielt in Michels Wohnung.
+---
+slug: voss-nichts-als-liebe-jugend
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Nichts als liebe Jugend
+subtitle: Lustspiel in Einem Aufzug
+numberOfScenes: 14
+printed: 1825
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 413
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=411"
+editions:
+  - title: "Neuere Lustspiele von Julius von Voß. Dritter Band. Berlin: Schlesinger 1825, S. 151–192"
+    url: https://books.google.com/books?id=sJl0K1VfAWQC&pg=PA151
+cast:
+  - name: Lieutenant Adrian von Jung.
+    gender: m
+  - name: Emma von Jung.
+    gender: f
+  - name: Lieutenant Karl von Jung.
+    gender: m
+  - name: Ludovike von Jung.
+    gender: f
+  - name: Lieutenant Christoph von Jung.
+    gender: m
+  - name: Liane von Jung.
+    gender: f
+  - name: Fritz,
+    role: der junge Bediente oder Jokei.
+    gender: m
+  - name: Sophie,
+    role: das neue junge Hausmädchen.
+    gender: f
+---
+slug: voss-wiedersehn-in-der-ferne
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Wiedersehn in der Ferne
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 5
+printed: 1827
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 419
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=417"
+editions:
+  - title: "Neuere Lustspiele von Julius von Voß. Siebenter Band. Berlin: Schlesinger 1827, S. 221–238"
+    url: https://books.google.com/books?id=1rrmmDremWwC&pg=PA221
+cast:
+  - name: Van Brölen,
+    role: Schiffshauptmann.
+    gender: m
+  - name: Sein Steuermann.
+    gender: m
+  - name: Ein Matrose.
+    gender: m
+  - name: Titschakin,
+    role: Hafenaufseher.
+    gender: m
+  - name: Janko.
+    gender: m
+setting: >-
+  Schauplatz ein enges Zimmer, worin Kisten stehn.
 ---
 slug: vulpius-bella-und-fernando-oder-die-satire
 author:
@@ -59340,6 +60803,168 @@ setting: >-
   Der Schauplatz ist zu Charlestown, einer englischen Colonie in Nordamerica.
 location:
   wikidataId: Q992311
+---
+slug: wehrmann-der-wurstpickenick
+author:
+  name: Wehrmann, Eduard
+  wikidata: Q94843834
+title: Der Wurstpickenick
+subtitle: Vaudeville-Posse in 1 Akt
+numberOfScenes: 18
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Nützliches Theaterrequisit, besonders für mittlere und reisende Bühnen. Herausgegeben von E. Wehrmann und A. F. Oldenburg. Rathenow: Flick 1826, S. 49–100"
+    url: https://books.google.com/books?id=lxzgGy7gmxMC&pg=PA49
+cast:
+  - name: Herr Schmuddel,
+    role: Tabagist in Berlin.
+    gender: m
+  - name: Herr Ring,
+    role: Stubenmaler.
+    gender: m
+  - name: Madame Ring,
+    role: seine Frau.
+    gender: f
+  - name: Herr Bockert,
+    role: Damenkleidermachermeister.
+    gender: m
+  - name: Madame Bockert,
+    role: seine Frau.
+    gender: f
+  - name: Jettchen,
+    role: eine Blumenmachermamsell.
+    gender: f
+  - name: August,
+    role: Marqueur bei Herrn Schmuddel.
+    gender: m
+  - name: Louise,
+    role: Schenkmädchen bei Herrn Schmuddel.
+    gender: f
+setting: >-
+  Die Handlung geht Abends in der Tabagie des Herrn Schmuddel vor. (Zimmer mit Mittelthür und Seitenthür.)
+---
+slug: wehrmann-die-schneiderbraut
+author:
+  name: Wehrmann, Eduard
+  wikidata: Q94843834
+title: Die Schneiderbraut
+subtitle: Posse in 1 Akt
+numberOfScenes: 16
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Nützliches Theaterrequisit, besonders für mittlere und reisende Bühnen. Herausgegeben von E. Wehrmann und A. F. Oldenburg. Rathenow: Flick 1826, S. 101–142"
+    url: https://books.google.com/books?id=lxzgGy7gmxMC&pg=PA101
+cast:
+  - name: Sprenkelbein,
+    role: Amtmeister der Schneiderzunft.
+    gender: m
+  - name: Rosine,
+    role: seine Frau.
+    gender: f
+  - name: Alexander,
+    role: beider Sohn, freiwilliger Jäger.
+    gender: m
+  - name: Riekchen,
+    role: Sprenkelbeins Nichte.
+    gender: f
+  - name: Hammer,
+    role: Schmiedemeister.
+    gender: m
+  - name: Carl,
+    role: sein Sohn, Lieutenant und Adjutant bei den freiwilligen Jägern.
+    gender: m
+  - name: Wilke,
+    role: freiwilliger Jäger.
+    gender: m
+  - name: Peter,
+    role: Lehrbursche bei Sprenkelbein.
+    gender: m
+  - name: Mehrere Schneider.
+    isGroup: true
+    gender: m
+  - name: Anverwandte Sprenkelbeins.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht im Jahre 1814 in einem Provinzialstädtchen vor.
+---
+slug: wehrmann-die-verlobung
+author:
+  name: Wehrmann, Eduard
+  wikidata: Q94843834
+title: Die Verlobung
+subtitle: Vaudeville-Burleske in 1 Akt
+numberOfScenes: 10
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Nützliches Theaterrequisit, besonders für mittlere und reisende Bühnen. Herausgegeben von E. Wehrmann und A. F. Oldenburg. Rathenow: Flick 1826, S. 143–184"
+    url: https://books.google.com/books?id=lxzgGy7gmxMC&pg=PA143
+cast:
+  - name: Bastian Velten,
+    role: Bürgermeister in Hasenfelde.
+    gender: m
+  - name: Fritz Sausewind,
+    role: sein Neffe.
+    gender: m
+  - name: Jettchen Fröhlich,
+    role: sein Mündel.
+    gender: f
+  - name: Hans Brummer,
+    role: Fleischer und Stadtsyndikus.
+    gender: m
+  - name: Felix Stichweit,
+    role: Schneidermeister und Gerichtsschreiber.
+    gender: m
+  - name: Caspar Grobhaut,
+    role: Schmiedemeister und erster Rathsherr.
+    gender: m
+  - name: Ulrich Dümmlich,
+    role: Gerichtsdiener.
+    gender: m
+  - name: Rathsherren.
+    isGroup: true
+    gender: m
+  - name: Zwei Polizeidiener.
+    isGroup: true
+    gender: m
+  - name: Volk.
+    isGroup: true
+    gender: u
+setting: >-
+  Zimmer des Bürgermeisters mit Mittel- und Seitenthür. In der Mitte der Bühne steht ein großer Tisch mit Schreibzeug und Papieren. Im Hintergrunde eine große Kiste.
+---
+slug: wehrmann-unterthanentreue
+author:
+  name: Wehrmann, Eduard
+  wikidata: Q94843834
+title: Unterthanentreue
+subtitle: Festspiel in einem Aufzuge
+numberOfScenes: 4
+printed: 1826
+premiered: 1823-08-03
+formalia:
+  - gereimte fünfhebige Jamben
+editions:
+  - title: "Nützliches Theaterrequisit, besonders für mittlere und reisende Bühnen. Herausgegeben von E. Wehrmann und A. F. Oldenburg. Rathenow: Flick 1826, S. 31–42"
+    url: https://books.google.com/books?id=lxzgGy7gmxMC&pg=PA31
+cast:
+  - name: Der Schutzgeist Preußens.
+    gender: m
+  - name: Ein Einsiedler.
+    gender: m
+  - name: Ein Pilger.
+    gender: m
+  - name: Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Theater stellt eine einsame Felsengegend im Gebirge vor. In der Mitte des Hintergrundes eine alte gothische Kapelle, nebenbei eine alte Eiche. Rechts im Vorgrunde eine Einsiedlerhütte.
 ---
 slug: weidmann-abdalah-oder-keine-wohlthat-bleibt-unbelohnt
 author:
@@ -61610,7 +63235,7 @@ editions:
 comments:
   - "Die Erzählung [»Der Vaterfluch«](https://haab-digital.klassik-stiftung.de/viewer/resolver?urn=urn:nbn:de:gbv:32-1-10031832264) (geschrieben 1810, erschienen 1813) von Johann Jakob Willemer, die ein »Gegenstück zu Werners 29stem Februar« sein soll, meint eigentlich den »Vierundzwanzigsten Februar« von Werner."
 keywords:
-  - Schicksalstragödie
+  - Schicksalsdrama
 ids:
   dracor: ger000412
   wikidata: Q1199803
