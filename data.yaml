@@ -24317,6 +24317,8 @@ editions:
     url: https://books.google.com/books?id=Xe28sKYUFGsC&printsec=frontcover
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Vierzigster Jahrgang, für 1861. Berlin: Vereins-Buchhandlung 1861, S. 293–314"
     url: https://books.google.com/books?id=ZW9IAQAAMAAJ&pg=PA293
+ids:
+  weber: A020989
 comments:
   - 1861 unter dem Titel »Bei Leipzig«.
 cast:
@@ -28642,6 +28644,8 @@ formalia:
 editions:
   - title: "Franz v. Holbein's Theater. Zweiter Band. Rudolstadt: Verlag der Hof-Buch- und Kunsthandlung 1812, S. 291–328"
     url: https://books.google.com/books?id=rZU6AAAAcAAJ&pg=PA291
+ids:
+  weber: A020896
 cast:
   - name: Peter,
     role: ein verarmter Landmann.
@@ -30971,6 +30975,36 @@ cast:
     gender: m
 setting: Die Scene spielt auf einem Dorfe im Wirthshause.
 ---
+slug: kahlert-die-schwaetzerin
+author:
+  name: Kahlert, August
+  wikidata: Q1730382
+title: Die Schwätzerin
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Vierzehnter Jahrgang, für 1835. Berlin und Königsberg in der Neumark: Vereins-Buchhandlung 1835, S. 319–335"
+    url: https://books.google.com/books?id=Ups6AAAAcAAJ&pg=PA319
+cast:
+  - name: Der Baron.
+    gender: m
+  - name: Luzie,
+    role: seine Tochter.
+    gender: f
+  - name: Eugen,
+    role: sein Neffe.
+    gender: m
+  - name: Frau von Wangen.
+    gender: f
+  - name: Babette,
+    role: Luziens Kammermädchen.
+    gender: f
+setting: >-
+  Die Scene ist im Hause des Barons. (Modisch eingerichtetes Zimmer mit einer Mittelthüre im Hintergrunde, und zwei Seitenthüren. An der rechten Seitenwand nach dem Vorgrunde zu ein Kanapee, worauf eine Guitarre liegt. Gegenüber ein kleiner Toilettentisch, mit zwei Lichtern und einigen Tassen. Babette sitzt dabei und strickt.)
+---
 slug: kaibel-gefunden
 author:
   name: Kaibel, Karl Ludwig
@@ -32394,8 +32428,11 @@ editions:
     url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10577448-7
   - title: "Theodor Körner's sämmtliche Werke. Erste illustrirte Ausgabe. Zweiter Band. Dritte Auflage. Berlin: Grote 1877, S. 208–224"
     url: https://books.google.com/books?id=8wPiAAAAMAAJ&pg=PA208
+ids:
+  weber: A020727
 comments:
   - "»Dieses Singspiel ist nach der Composition des bey dem Königl. Seehandlungs-Institut in Berlin angestellten Herrn Hofraths J. P. Schmidt zu Berlin, Breslau, Dresden und Leipzig aufgeführt worden. Wer die Partitur dieser Musik zu haben wünscht, hat sich an den Componisten zu wenden.« ([Notiz unter dem Personenverzeichnis](https://books.google.com/books?id=wcRI5mAIVe8C&pg=PA114))"
+  - Uraufführung mit der Musik von Steinacker 1812, mit der Musik von Schmidt am 6. Dezember 1817.
 cast:
   - name: Gregorio Galvani,
     role: ein vornehmer Genueser.
@@ -33427,6 +33464,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechster Jahrgang. Leipzig: Kummer 1808, S. 1–71"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044920_00009.html
+ids:
+  weber: A020626
 comments:
   - Auch unter dem Titel »Die Entdeckung im Posthause«.
 keywords:
@@ -34224,6 +34263,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Erster Jahrgang. Berlin: La Garde 1803, S. 145–184"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044915_00177.html
+ids:
+  weber: A021199
 keywords:
   - Soldatenstück
 cast:
@@ -59324,6 +59365,54 @@ setting: >-
 location:
   wikidataId: Q220
 ---
+slug: voss-der-bankrott
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Der Bankrott
+subtitle: Posse in einem Akt nach einem Canefaß des Federici
+numberOfScenes: 15
+printed: 1805
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Schöne 1805"
+    url: https://books.google.com/books?id=8Uab99ID-G8C&printsec=frontcover
+comments:
+  - "Besprechung in: Neue Leipziger Literaturzeitung. 78. Stück (den 18. Junius 1806), [Sp. 1248](https://books.google.com/books?id=6MMzAQAAMAAJ&pg=RA1-PA1247)."
+cast:
+  - name: Bankier Frank.
+    gender: m
+  - name: Veit,
+    role: ein Schuhflicker.
+    gender: m
+  - name: Lotte,
+    role: seine Tochter.
+    gender: f
+  - name: Wilhelm,
+    role: ein Colporteur.
+    gender: m
+  - name: Ein Domestik des Bankiers.
+    gender: m
+  - name: Ein Gerichtsdiener.
+    gender: m
+  - group:
+      - name: Ein französischer Emigrant.
+        gender: m
+      - name: Ein Schauspieler.
+        gender: m
+      - name: Ein Buchhalter des Bankiers.
+        gender: m
+      - name: Ein Soldat.
+        gender: m
+      - name: Ein junges Mädchen.
+        gender: f
+      - name: Ein altes Weib.
+        gender: f
+    role: episodische Personen.
+setting: >-
+  Die Scene ist auf der Gasse. An einer Seite ein schönes Haus, an der andern die Boutike eines Altreiß mit der Ueberschrift: »Veit Schuhflicker«.
+---
 slug: voss-der-erste-april
 author:
   name: Voß, Julius von
@@ -59457,6 +59546,33 @@ cast:
 setting: >-
   Die Scene ist das Innre eines in der Eil befestigten Schoßhofes. (Die Scene ist das Innre eines Schloßhofes. Man sieht seitwärts das Schloß zum Theil. Im Hintergrunde oder auf der gegenüber liegenden Seite ein Thor mit dem Wachtgebäude. An der herumlaufenden Mauer ist eine darauf befindliche Kanone. Das Thor steht etwas auf. Die beiden Schildwachen schnarchen. Der Morgen beginnt zu grauen, und es wird während des Stücks allmählig Tag.)
 ---
+slug: voss-der-tabacksspinner-oder-auf-ehre-so-gehts
+author:
+  name: Voß, Julius von
+  wikidata: Q90626 
+title: Der Tabacksspinner oder Auf Ehre, so geht's
+subtitle: Posse in Einem Aufzug
+numberOfScenes: 10
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Neue Possen und Marionettenspiele. Zur Erschütterung des Zwerchfells. Herausgegeben von Julius v. Voß. Berlin: Schüppel 1826, S. 93–144"
+    url: https://books.google.com/books?id=FEam-XnZNz8C&pg=PA93
+cast:
+  - name: Tabacksspinner Sperling.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Christinchen.
+    gender: f
+  - name: Husarenunteroffizier Leichtfeld.
+    gender: m
+  - name: Strumpfwirker Baldrian.
+    gender: m
+setting: >-
+  Die Szene ist ein Zimmer mit altbürgerlichem Hausrath versehn, wobei ein Großvaterstuhl, und im Hintergrunde ein breiter Schrank, auf welchem Tassen und Gläser stehn, und Aepfel dazwischen liegen.
+---
 slug: voss-die-einquartierungspein
 author:
   name: Voß, Julius von
@@ -59553,6 +59669,35 @@ cast:
     gender: m
 setting: >-
   Zimmer des Herrn Schulz.
+---
+slug: voss-die-regierende-frau
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Die regierende Frau
+subtitle: Lustspiel in Einem Aufzug
+numberOfScenes: 8
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Neue Possen und Marionettenspiele. Zur Erschütterung des Zwerchfells. Herausgegeben von Julius v. Voß. Berlin: Schüppel 1826, S. 145–176"
+    url: https://books.google.com/books?id=FEam-XnZNz8C&pg=PA145
+cast:
+  - name: Der Schulrath.
+    gender: m
+  - name: Seine Gattin.
+    gender: f
+  - group:
+      - name: Der Kandidat.
+        gender: m
+      - name: Leonore.
+        gender: f
+    role: Kinder erster Ehe.
+  - name: Ein Kaufmann.
+    gender: m
+  - name: Ein Barbierbursch.
+    gender: m
 ---
 slug: voss-die-retraite-pour-les-dames
 author:
@@ -59674,6 +59819,34 @@ setting: >-
   Das Stück spielt zu Berlin im Frühling 1809, vor Ausbruch des neuen Krieges mit Oesterreich.
 location:
   wikidataId: Q64
+---
+slug: voss-die-weggelaufne-frau-professorin
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Die weggelaufne Frau Professorin
+subtitle: Posse in Einem Aufzuge
+numberOfScenes: 8
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Neue Possen und Marionettenspiele. Zur Erschütterung des Zwerchfells. Herausgegeben von Julius v. Voß. Berlin: Schüppel 1826, S. 177–210"
+    url: https://books.google.com/books?id=FEam-XnZNz8C&pg=PA177
+cast:
+  - name: Professor Jemling.
+    gender: m
+  - name: Seine Gattin.
+    gender: f
+  - group:
+      - name: Kaufmann Matzer,
+        gender: m
+      - name: Dessen Gattin,
+        gender: f
+    role: des Professors Schwiegereltern.
+  - name: Steffen,
+    role: Hausknecht.
+    gender: m
 ---
 slug: voss-die-weinachtsausstellung
 author:
@@ -59887,6 +60060,66 @@ cast:
     role: das neue junge Hausmädchen.
     gender: f
 ---
+slug: voss-orpheus-und-eurydize
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Orpheus und Eurydize
+subtitle: Lyrisches Schauspiel in Einem Akt und drei Szenen, wovon eine auf Erden, eine in der Hölle und eine am Eingang des Himmels spielt
+numberOfScenes: 16
+printed: 1811
+formalia:
+  - Knittelverse
+dictionaries:
+  - name: corvey
+    pages: S. 413–414
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=411"
+editions:
+  - title: "Travestieen und Burlesken, zur Darstellung im kleinen geselligen Verein. Von Julius v. Voß. Berlin: Duncker und Humblot 1811, S. 161–214"
+    url: https://books.google.com/books?id=o5YuAAAAYAAJ&pg=PA161
+comments:
+  - Die drei Szenen des einen Aktes sind in insgesamt 16 Szenen eingeteilt.
+cast:
+  - group:
+      - name: Orpheus,
+        role: Kastrat und Bühndirektor.
+        gender: m
+      - name: Eurydize,
+        role: seine Gattin, Primadonna.
+        gender: f
+      - name: Harlekin,
+        role: Bouffon der Truppe, und ein Theatermeister.
+        gender: m
+    role: Irdische.
+  - group:
+      - name: Der Teufel.
+        gender: m
+      - name: Eine Furie.
+        gender: f
+      - name: Zwei seiner Kammerherren.
+        isGroup: true
+        gender: m
+      - name: Vier in der Hölle anlangende Schatten.
+        isGroup: true
+        gender: u
+      - name: Der heilige Petrus.
+        gender: m
+    role: Ueberirdische.
+  - group:
+      - name: Ein Esel.
+        gender: u
+      - name: Verschiedene Hunde
+        isGroup: true
+        gender: u
+      - name: Der Felsen von Giebichenstein.
+        gender: u
+      - name: Der weimarsche Park und noch allerhand seltsame Erscheinungen.
+        isGroup: true
+        gender: u
+    role: Außerdem noch.
+setting: >-
+  Das Theater ist ein Theater.
+---
 slug: voss-wiedersehn-in-der-ferne
 author:
   name: Voß, Julius von
@@ -59919,6 +60152,47 @@ cast:
     gender: m
 setting: >-
   Schauplatz ein enges Zimmer, worin Kisten stehn.
+---
+slug: voss-wodan-und-der-deutsche-zeitgeist
+author:
+  name: Voß, Julius von
+  wikidata: Q90626 
+title: Wodan und der deutsche Zeitgeist
+subtitle: Spiel in Knittelreimen von Einem Aufzug
+numberOfScenes: 6
+printed: 1826
+formalia:
+  - Knittelverse
+editions:
+  - title: "Neuere Lustspiele von Julius von Voß. Vierter Band. Berlin: Schlesinger 1826, S. 191–214"
+    url: https://books.google.com/books?id=MZHJ02cw7X8C&pg=PA191
+cast:
+  - name: Wodan.
+    gender: m
+  - name: Der deutsche Zeitgeist.
+    gender: u
+  - name: Feldherr.
+    gender: m
+  - name: Minister.
+    gender: m
+  - name: Landtagsbote.
+    gender: m
+  - name: Kaufmann.
+    gender: m
+  - name: Güterbesitzer.
+    gender: m
+  - name: Bürger.
+    gender: m
+  - name: Bauer.
+    gender: m
+  - name: Philosoph.
+    gender: m
+  - name: Dichter.
+    gender: m
+  - name: Papierspekulant.
+    gender: m
+setting: >-
+  Der Schauplatz ist ein deutscher Eichenwald.
 ---
 slug: vulpius-bella-und-fernando-oder-die-satire
 author:
