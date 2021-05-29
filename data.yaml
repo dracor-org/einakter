@@ -12543,6 +12543,7 @@ keywords:
 ids:
   dracor: ger000455
   wikidata: Q52791146
+  weber: A021444
 cast:
   - name: Gadhi,
     role: ein Paria.
@@ -14470,6 +14471,51 @@ cast:
     gender: m
 setting: >-
   Die Scene ist ein Saal, der auf beiden Seiten zu Zimmern führt. Dem Schauspieler zur rechten, an der zweiten Coulisse, befindet sich ein Fenster, an der dritten die Thür zu Temperleins Zimmer, weiter vorn ein aufgeschlagener Toilettentisch. Zur linken, an der zweiten Coulisse, die Thür zu Sophiens Zimmer, vorn ein Tisch mit Schreibmaterialien, oben hängt ein Vogelbauer. Im Hintergrunde liegen auf einem Stuhle Temperleins Hut, Stock, Regenschirm und sein Kleid. Die Personen stehen in der vor jedem Auftritte vorgeschriebenen Ordnung; der erst benannte zur rechten Hand auf dem Theater.
+---
+slug: blum-der-baer-und-der-bassa
+author:
+  name: Blum, Carl
+  wikidata: Q110163
+title: Der Bär und der Bassa
+subtitle: Vaudeville-Burleske in einem Act. Nach dem Französischen des Scribe
+numberOfScenes: 15
+printed: 1824
+premiered: 1821-12-15
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Xavier-Boniface Saintine: [»L'ours et le pacha. Folie-vaudeville en un acte«](https://books.google.com/books?id=XSrkiK5Ypk4C&printsec=frontcover)"
+editions:
+  - title: "Vaudevilles, für deutsche Bühnen und gesellige Zirkel; nach dem Französischen bearbeitet von Carl Blum. Berlin: Duncker & Humblot 1824, S. 217–260"
+    url: https://books.google.com/books?id=kb_iLkuNFj0C&pg=PA217
+ids:
+  weber: A020702
+cast:
+  - name: Shahababaham,
+    role: Bassa.
+    gender: m
+  - name: Marocco,
+    role: Aufseher der Gärten des Bassa.
+    gender: m
+  - name: Roxelane,
+    role: Geliebte des Bassa.
+    gender: f
+  - name: Zetulbe,
+    role: ihr Mädchen.
+    gender: f
+  - name: Tristapatte,
+    role: Roxelanens Gemahl.
+    gender: m
+  - name: Tirsis,
+    role: dessen Freund.
+    gender: m
+  - name: Ali.
+    gender: m
+  - name: Sclavinnen und Gefolge des Bassa.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Theater stellt einen Garten in der Nähe des Serails vor. Rechts eine Menagerie mit vergoldeten Gittern, die sich nach dem Hintergrunde erstreckt. Der Garten ist hinten durch eine Art Mauer geschlossen, und vor dieser Mauer befindet sich ein Baum. Links im Vorgrunde der Thron des Bassa.
 ---
 slug: blum-der-schiffs-capitain-oder-die-unbefangenen
 author:
@@ -18064,6 +18110,8 @@ formalia:
 editions:
   - title: "Orphea Taschenbuch für 1824. Erster Jahrgang. Leipzig: Fleischer [1824], S. 335–367"
     url: https://books.google.com/books?id=qCFZAAAAcAAJ&pg=PA335
+ids:
+  weber: A021285
 comments:
   - "Auch unter den Titeln »Der neue Narziß. Dramatische Kleinigkeit in einem Aufzuge« (1823) und »Der Wunderquell« (1824), vgl. [Weber-Gesamtausgabe](https://weber-gesamtausgabe.de/de/A000288/Werke/A021285.html)."
   - "Besprechung in: Zeitung für die elegante Welt. Nr. 191 (Dienstags, den 30. September 1823), [Sp. 1530–1531](https://books.google.com/books?id=-oxEAAAAcAAJ&pg=PA1529)."
@@ -18471,6 +18519,37 @@ cast:
     gender: m
 setting: >-
   Ein Saal mit Mittel- und Seitenthüren.
+---
+slug: contessa-der-schatz
+author:
+  name: Contessa, Karl Wilhelm
+  wikidata: Q96771
+title: Der Schatz
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 13
+created: 1816
+printed: 1818
+premiered: 1817-06-13
+formalia:
+  - Verse
+editions:
+  - title: "Neueste deutsche Schaubühne, oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele für das Jahr 1818. Sechster Band. Augsburg und Leipzig: Jenisch und Stage [1818], S. 1–70"
+    url: https://books.google.com/books?id=dx9IAAAAcAAJ&pg=PA1
+  - title: "Almanach für Privatbühnen. Zweites Bändchen auf das Jahr 1818. Herausgegeben von Adolph Müllner. Leipzig: Göschen [1818], S. 55–144"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10104570_00077.html
+  - title: "C. W. Contessa's Schriften. Herausgegeben von E. von Houwald. Sechster Band. Leipzig: Göschen 1826, S. 93–174"
+    url: https://books.google.com/books?id=dBZVAAAAcAAJ&pg=PA93
+ids:
+  weber: A021314
+cast:
+  - name: Florinde.
+    gender: f
+  - name: Adelbert.
+    gender: m
+  - name: Lampe.
+    gender: m
+setting: >-
+  Ein Vorsaal. Zwei Thüren im Grunde, die eine freie Wand in der Mitte lassen. Eine Seitenthür.
 ---
 slug: contessa-ich-bin-mein-bruder
 author:
@@ -23153,6 +23232,85 @@ cast:
 setting: >-
   Der Schauplatz ist in einer elenden Hütte, der Wohnung der Sara. Die Handlung fängt mit anbrechendem Tage an.
 ---
+slug: goerner-das-lustspiel-ohne-titel
+author:
+  name: Görner, Karl August
+  wikidata: Q92110
+title: Das Lustspiel ohne Titel
+subtitle: Dramatische Scene in einem Aufzuge
+numberOfScenes: 6
+printed: 1827
+formalia:
+  - Alexandriner
+editions:
+  - title: "Lustspiele. Von C. A. Görner. Quedlinburg und Leipzig: Basse 1827, S. 75–103"
+    url: https://books.google.com/books?id=GnnklE2y4FAC&pg=PA75
+cast:
+  - name: Madame Wellen,
+    role: eine junge reiche Wittwe.
+    gender: f
+  - name: Herr Melcher,
+    role: ein alter reicher Privatmann.
+    gender: m
+  - name: Eine Magd.
+    gender: f
+---
+slug: goerner-das-salz-der-ehe
+author:
+  name: Görner, Karl August
+  wikidata: Q92110
+title: Das Salz der Ehe
+subtitle: Dramatischer Scherz in 1 Aufzuge
+numberOfScenes: 7
+printed: 1851
+premiered: 1848-04-08
+formalia:
+  - Prosa
+editions:
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. [Ohne Ort: ohne Jahr]"
+    url: https://books.google.com/books?id=tTLY5gmgCPsC&printsec=frontcover
+  - title: "Almanach dramatischer Bühnenspiele zur geselligen Unterhaltung für Stadt und Land von C. A. Görner, Hoftheater-Direktor in Neustrelitz. Erster Jahrgang. Breslau: Graß, Barth und Comp. 1851, S. 1–33"
+    url: https://books.google.com/books?id=qs5XqexzHX4C&pg=PA1
+cast:
+  - name: Heinrich Wolken,
+    role: Reinigungs-Sekretair.
+    gender: m
+  - name: Elise,
+    role: dessen Frau.
+    gender: f
+  - name: Onkel Schwätzer.
+    gender: m
+setting: >-
+  Niedliches, gemüthliches Zimmer mit einer Mittel- und zwei Seitenthüren; die Thüre links führt zur Küche. Rechts und links, in der ersten Coulisse ein Fenster; an den Fenstern kleine Tische, davor Stühle. Auf dem kleinen Tische rechts mehrere Zeitungen, auf dem Tische links einige Bücher, Nähzeug und ein weißes Damentaschentuch. In der Mitte der Bühne ein gedeckter Tisch, worauf Teller, Servietten, Löffel, Suppenlöffel, Gläser stehen (drei Kouverts), drei Stühle um den Tisch. Am Prospekt rechts ein Tisch, worauf ein Salz- und Pefferfaß, links ein Tisch, worauf ein Messerkorb steht, worin Messer, Gabeln und Löffel liegen, daneben steht eine Wasser- und Weinflasche. Das Mobiliar im Zimmer ist einfach aber geschmackvoll und neu.
+---
+slug: goerner-gaertner-und-gaertnerin
+author:
+  name: Görner, Karl August
+  wikidata: Q92110
+title: Gärtner und Gärtnerin
+subtitle: Spiel in Versen und in einem Aufzuge
+numberOfScenes: 14
+printed: 1827
+formalia:
+  - Alexandriner
+editions:
+  - title: "Lustspiele. Von C. A. Görner. Quedlinburg und Leipzig: Basse 1827, S. 105–148"
+    url: https://books.google.com/books?id=GnnklE2y4FAC&pg=PA105
+cast:
+  - name: Graf Plumps von Gleichen.
+    gender: m
+  - name: Franz,
+    role: dessen Sohn, Kammerjunker.
+    gender: m
+  - name: Marie,
+    role: eine junge Gärtnerin.
+    gender: f
+  - name: Jacob,
+    role: Gärtner.
+    gender: m
+setting: >-
+  Die Bühne stellt einen Garten mit mehreren Blumenbeeten vor.
+---
 slug: goethe-der-buergergeneral
 author:
   name: Goethe, Johann Wolfgang
@@ -26273,6 +26431,44 @@ setting: >-
   Zeit der Handlung: 11te September 1683. Ort: Meierei am Abhange des Kahlenberg's, nächst Wien, (jetzt Kahlenberger-Dörfel.)
 location:
   wikidataId: Q1721184
+---
+slug: heigel-so-sind-sie-gewesen-im-jahre-1498
+author:
+  name: Heigel, Cäsar Max
+  wikidata: Q1150012
+title: So sind sie gewesen (Im Jahre 1498.)
+subtitle: Eine historisch charakterische Posse in einem Aufzuge
+numberOfScenes: 11
+printed: 1812
+formalia:
+  - Prosa
+editions:
+  - title: "Die Zeitalter. Drey flüchtige Skizzen zu einem chronologischen Charakter-Gemählde. Wien: Wallishausser 1812, S. 3–34"
+    url: https://books.google.com/books?id=LuMVyQEACAAJ&pg=PA3
+cast:
+  - name: Ritter Romuald von Wiesenthal.
+    gender: m
+  - name: Jutta,
+    role: seine Schwester.
+    gender: f
+  - group:
+      - name: Otto
+        gender: m
+      - name: Ethelinde
+        gender: f
+    role: seine Kinder.
+  - name: Ritter Bero von Bärenburg.
+    gender: m
+  - name: Eckbert,
+    role: sein Sohn.
+    gender: m
+  - name: Ritter Pelegrin von Sinden.
+    gender: m
+  - name: Romualds und Pelegrins Reisige und Knappen.
+    isGroup: true
+    gender: u
+setting: >-
+  Burghof. Auf der einen Seite die gothische Burg, zum Theile erleuchtet, auf der andern Seite das Thor mit der Zugbrücke.
 ---
 slug: hell-clementine
 author:
@@ -31571,6 +31767,44 @@ cast:
     gender: m
 setting: Der Schauplatz ist in einer Alee vor dem Hause des Anselmo.
 ---
+slug: klaehr-die-pfirschendiebe
+author:
+  name: Klaehr, Carl Gottfried
+  wikidata: Q26720797
+title: Die Pfirschendiebe
+subtitle: Ein Lustspiel in einem Akt, in Versen
+numberOfScenes: 14
+printed: 1816
+formalia:
+  - Verse
+editions:
+  - title: "Theaterspiele von Klähr. Meissen: Goedsche 1816"
+    url: https://books.google.com/books?id=lmRBAQAAMAAJ&pg=RA2-PA1
+cast:
+  - name: Hanns Dünkelstolz,
+    role: ein reicher Müller.
+    gender: m
+  - name: Röschen,
+    role: seine Verwandte.
+    gender: f
+  - name: Bärbchen,
+    role: seine Mündel.
+    gender: m
+  - name: Michel Dümmling,
+    role: Hannsens Vetter und Nachbar.
+    gender: m
+  - name: August Held,
+    role: Husaren-Wachtmeister.
+    gender: m
+  - name: Wilhelm Kühn,
+    role: Feldwebel der Jäger.
+    gender: m
+  - name: Matz,
+    role: ein Bauerjunge.
+    gender: m
+setting: >-
+  Ländliche Gegend mit Hannsens Mühle; im Hintergrunde eine Anhöhe. Alleen von Obstbäumen umgeben die ganze Gegend. Vorne rechts eine Laube mit Tisch und Stühlen. (Das Stück spielt von Sonnenuntergang, bis der Mond aufgeht.)
+---
 slug: klebe-diess-haus-ist-zu-verkaufen
 author:
   name: Klebe, A.
@@ -32044,6 +32278,54 @@ cast:
 setting: "Ort der Handlung: Das Selkethal im Harzgebirge. Zeit: Das Jahr 1623."
 location:
   wikidataId: Q17127361
+---
+slug: klingemann-die-entdeckung-der-neuen-welt
+author:
+  name: Klingemann, August
+  wikidata: Q68143
+title: Die Entdeckung der neuen Welt
+subtitle: Vorspiel in einem Acte
+numberOfScenes: 1
+printed: 1811
+premiered: 1809-09-09
+formalia:
+  - Blankvers
+dictionaries:
+  - name: corvey
+    pages: S. 174–175
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=172"
+editions:
+  - title: "August Klingemann's dramatische Werke. Fünfter Werk. Wien: Grund 1820, S. 227–259"
+    url: https://books.google.com/books?id=ZgkPAAAAIAAJ&pg=PA227
+comments:
+  - "Vorspiel zu [»Columbus. Ein historisch-romantisches Schauspiel in fünf Acten«](https://books.google.com/books?id=ZgkPAAAAIAAJ&pg=PA261)."
+cast:
+  - name: Christoph Columbus,
+    role: Admiral.
+    gender: m
+  - group:
+      - name: Diego d'Arcada
+        gender: m
+      - name: Roland Ximenes
+        gender: m
+      - name: Pedro Margarita
+        gender: m
+    role: Unter-Befehlshaber.
+  - name: Porras,
+    role: Steuermann.
+    gender: m
+  - name: Martin,
+    role: ein Bootsmann.
+    gender: m
+  - name: Schiffsjunge.
+    gender: m
+  - name: Ein anderer Bootsmann.
+    gender: m
+  - name: Schiffsvolk.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Bühne stellt einen Theil des Verdecks auf dem Admiral-Schiffe Santa Maria vor. Man sieht in der Mitte den in die Höhe ragenden Mast, der oben durch die herabhängenden Coulissen, welche als Segel erscheinen, verdeckt wird. Tauwerk und Strick-Leitern ziehen sich herunter. Eine niedrige Gallerie schneidet das Theater vorn und hinten ab. Die Seiten-Coulissen und der Hintergrund sind Luft-Perspective. Es ist Nacht. Ein mattes Feuer brennt auf einer Pfanne. Matrosen klettern die Strick-Leitern auf und nieder.
 ---
 slug: klingemann-die-wittwe-von-ephesus
 author:
@@ -32608,6 +32890,7 @@ editions:
 ids:
   dracor: ger000520
   wikidata: Q104585885
+  weber: A020928
 cast:
   - name: Graf Holm,
     role: der Vater.
@@ -33819,6 +34102,8 @@ editions:
     url: https://books.google.com/books?id=QBYHc7V2b4YC&printsec=frontcover
   - title: "Theater von August v. Kotzebue. Sechsundzwanzigster Band. Rechtmäßige Original-Auflage. Leipzig: Kummer; Wien: Klang 1841, S. 3–26"
     url: https://books.google.com/books?id=2GoIAQAAIAAJ&pg=PA3
+ids:
+  weber: A020796
 keywords:
   - Ritterstück
 cast:
@@ -34034,6 +34319,7 @@ keywords:
 ids:
   dracor: ger000487
   wikidata: Q89212706
+  weber: A020790
 cast:
   - name: Der Graf von Hecht.
     gender: m
@@ -34726,6 +35012,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Dreizehnter Jahrgang. Leipzig: Hartmann 1815, S. 337–382"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044927_00375.html
+ids:
+  weber: A020763
 keywords:
   - Ehe
   - Moral
@@ -35337,6 +35625,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierter Jahrgang. Berlin: La Garde 1806, S. 209–266"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044918_00223.html
+ids:
+  weber: A020926
 comments:
   - »möglicherweise zwischen 1784 und 1787 bereits auf dem Revaler Liebhabertheater gegeben« (Kotzebue-Lexikon)
 keywords:
@@ -39950,6 +40240,8 @@ basedOn:
 editions:
   - title: "Neueste kleine Lustspiele und Possen. Von Carl Lebrün, Schauspieler. Mainz: Kupferberg 1820"
     url: https://books.google.com/books?id=qW76-5-qVIsC&pg=PA1
+ids:
+  weber: A021451
 cast:
   - name: Michel Lefont,
     role: Seemann.
@@ -51224,6 +51516,168 @@ cast:
     role: Lucindens Liebhaber.
 setting: Der Schauplatz ist in Lucindens Zimmer.
 ---
+slug: schiessler-der-ueber-uns
+author:
+  name: Schießler, Sebastian Willibald
+  wikidata: Q11835757
+title: Der über Uns
+subtitle: Dramatisches Spiel in einem Acte und in Alexandrinern
+numberOfScenes: 7
+printed: 1827
+formalia:
+  - Alexandriner
+editions:
+  - title: "Thalia. Almanach dramatischer Spiele für das Jahr 1827. Von S. W. Schiessler. Prag: Buchler, Stephani und Schlosser; Wien: Mayer; Freiburg im Breisg.: Herder 1827, S. 117–148"
+    url: https://books.google.com/books?id=pWpWAAAAcAAJ&pg=PA117
+cast:
+  - name: Der Herr.
+    gender: m
+  - name: Käthchen,
+    role: die Magd, seine Anverwandte.
+    gender: f
+  - name: Märten,
+    role: der Knecht.
+    gender: m
+  - name: Hanns,
+    role: der Dieb.
+    gender: m
+setting: >-
+  Die Handlung spielt in einem Garten; rechts ist ein großer Birnbaum, an ihm eine Rasenbank.
+---
+slug: schiessler-der-welt-ende
+author:
+  name: Schießler, Sebastian Willibald
+  wikidata: Q11835757
+title: Der Welt Ende
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 9
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Thalia. Almanach dramatischer Spiele für das Jahr 1826. Von S. W. Schiessler. Prag: Buchler und Stephani; Wien: Mayer; Freiburg im Breisg.: Herder 1826, S. 111–171"
+    url: https://books.google.com/books?id=umpWAAAAcAAJ&pg=PA111
+cast:
+  - name: Jonas Brummer,
+    role: ein reicher Wucherer.
+    gender: m
+  - name: Suschen,
+    role: dessen Mündel.
+    gender: f
+  - name: Friedrich Lustig,
+    role: ein reicher Magister.
+    gender: m
+  - name: Wilhelm Treue,
+    role: ein junger Fabrikherr.
+    gender: m
+  - name: Bonifacius Besenstiel,
+    role: Brummers Nachbar.
+    gender: m
+  - name: Hanns,
+    role: Hausknecht in Brummers Diensten.
+    gender: m
+  - name: Röse,
+    role: Magd in Brunners Diensten.
+    gender: f
+setting: >-
+  Die Szene spielt in einer kleinen Landstadt.
+---
+slug: schiessler-die-braeutigamsprobe
+author:
+  name: Schießler, Sebastian Willibald
+  wikidata: Q11835757
+title: Die Bräutigamsprobe
+subtitle: Posse in Einem Aufzgue
+numberOfScenes: 13
+printed: 1826
+formalia:
+  - Alexandriner
+editions:
+  - title: "Thalia. Almanach dramatischer Spiele für das Jahr 1826. Von S. W. Schiessler. Prag: Buchler und Stephani; Wien: Mayer; Freiburg im Breisg.: Herder 1826, S. 45–110"
+    url: https://books.google.com/books?id=umpWAAAAcAAJ&pg=PA45
+cast:
+  - name: Donna Anna Tirteafuera.
+    gender: f
+  - name: Antonella,
+    role: ihre Tochter.
+    gender: f
+  - name: Don Cratiano di Montebello,
+    role: ein armer Edelmann.
+    gender: m
+  - name: Don Manuel di Savedra,
+    role: sein Freund.
+    gender: m
+  - group:
+      - name: Don Pasqual,
+        gender: m
+      - name: Don Achatio,
+        gender: m
+      - name: Don Paphnutio,
+        gender: m
+    role: drei Landjunker.
+  - name: Drei andere Landjunker.
+    isGroup: true
+    gender: m
+setting: >-
+  Dorf. – Wirthshaus.
+---
+slug: schiessler-die-nachtigall
+author:
+  name: Schießler, Sebastian Willibald
+  wikidata: Q11835757
+title: Die Nachtigall
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 4
+printed: 1826
+formalia:
+  - Verse (gereimte Jamben)
+editions:
+  - title: "Thalia. Almanach dramatischer Spiele für das Jahr 1826. Von S. W. Schiessler. Prag: Buchler und Stephani; Wien: Mayer; Freiburg im Breisg.: Herder 1826, S. 1–44"
+    url: https://books.google.com/books?id=umpWAAAAcAAJ&pg=PA1
+cast:
+  - name: Graf Wilhelm von Bildau.
+    gender: m
+  - name: Benigne,
+    role: seine Tochter.
+    gender: f
+  - name: Baron Friedrich Scholl,
+    role: Obrister in Ruhestand.
+    gender: m
+  - name: Baron Christian Scholl,
+    role: Kammerherr.
+    gender: m
+  - name: Baron Wilhelm Scholl,
+    role: Kapitän, sein Sohn.
+    gender: m
+  - name: Franz,
+    role: Bildau's alter Diener.
+    gender: m
+setting: >-
+  Die Szene spielt auf dem Landgute des Grafen von Bildau. (Saal im Schlosse des Grafen.)
+---
+slug: schiessler-frauenlist
+author:
+  name: Schießler, Sebastian Willibald
+  wikidata: Q11835757
+title: Frauenlist
+subtitle: Burleske in Einem Aufzuge
+numberOfScenes: 5
+printed: 1826
+formalia:
+  - Alexandriner
+editions:
+  - title: "Thalia. Almanach dramatischer Spiele für das Jahr 1826. Von S. W. Schiessler. Prag: Buchler und Stephani; Wien: Mayer; Freiburg im Breisg.: Herder 1826, S. 172–203"
+    url: https://books.google.com/books?id=umpWAAAAcAAJ&pg=PA173
+cast:
+  - name: Der Mann.
+    gender: m
+  - name: Die Frau.
+    gender: f
+  - name: Der Philosoph.
+    gender: m
+setting: >-
+  Die Szene spielt in Arabien. (Großes arabisches Zelt.)
+---
 slug: schikaneder-thespis
 author:
   name: Schikaneder, Emanuel
@@ -57427,6 +57881,102 @@ cast:
     gender: m
 setting: Der Schauplatz ist in Damons Hause.
 ---
+slug: tenelli-das-duell-am-fenster
+author:
+  name: Millenet, Johann Heinrich
+  pseudonym: Tenelli, M.
+  wikidata: Q55123185
+title: Das Duell am Fenster
+subtitle: Lustspiel in 1 Akt (in Alexandrinern)
+numberOfScenes: 20
+printed: 1819
+formalia:
+  - Alexandriner
+editions:
+  - title: "Thalia. Beitrag für deutsche Bühnen von M. Tenelli. Berlin: Rücker 1819, S. 105–158"
+    url: https://books.google.com/books?id=yDJJAAAAcAAJ&pg=PA105
+cast:
+  - name: Baron Alberti.
+    gender: m
+  - name: Isabelle,
+    role: dessen Tochter.
+    gender: f
+  - name: Sophie,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Octavio,
+    role: Isabellens Geliebter.
+    gender: m
+  - name: Florville,
+    role: ein reisender Künstler (früher Soldat).
+    gender: m
+  - name: Johann,
+    role: dessen Diener.
+    gender: m
+  - name: Ein Notar.
+    gender: m
+  - group:
+      - name: Lazarill
+        gender: m
+      - name: Mendocio
+        gender: m
+    role: Alberti's Diener.
+setting: >-
+  Scene: Wirthshaus an der Italiänischen Grenze.
+---
+slug: tenelli-herr-rochus-pumpernickel-auf-eine-andere-manier
+author:
+  name: Millenet, Johann Heinrich
+  pseudonym: Tenelli, M.
+  wikidata: Q55123185
+title: Herr Rochus Pumpernickel auf eine andere Manier
+subtitle: Posse in einem Akt, dem Französischen nachgebildet
+numberOfScenes: 19
+printed: 1818
+formalia:
+  - Prosa
+editions:
+  - title: "Die Laren. Unterhaltungs-Schrift herausgegeben von M. Tenelli. Erster Band. Berlin: Rücker 1818, S. 211–368"
+    url: https://books.google.com/books?id=QpEFeFCYzD8C&pg=PA321
+  - title: "Thalia. Beitrag für deutsche Bühnen von M. Tenelli. Berlin: Rücker 1819, S. 1–48"
+    url: https://books.google.com/books?id=yDJJAAAAcAAJ&pg=PA1
+comments:
+  - "Im [Vorwort](https://books.google.com/books?id=yDJJAAAAcAAJ&pg=PP9) schreibt der Autor über Übersetzungen aus dem Französischen."
+cast:
+  - name: Herr von Rochus,
+    role: Pommerscher Edelmann.
+    gender: m
+  - name: Obrist von Starck,
+    role: Chef eines Husaren-Regiments.
+    gender: m
+  - name: Adelheid,
+    role: dessen Tochter.
+    gender: f
+  - group:
+      - name: Rittmeister Graf von Erlbach
+        gender: m
+      - name: Lieutenant von Waller
+        gender: m
+      - name: Lieutenant von Brandt
+        gender: m
+    role: Husar.-Offizir.
+  - name: Herr Fuchs,
+    role: Armee-Lieferant.
+    gender: f
+  - name: Madame Fuchs,
+    role: dessen Frau.
+    gender: f
+  - name: Tienchen,
+    role: Kammermädchen des Fräuleins.
+    gender: f
+  - name: Ein Adjutant.
+    gender: m
+  - name: Mehrere Offiziere.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Scene spielt in der Caserne einer kleinen Garnisonstadt unfern der Residenz.
+---
 slug: teutscher-fanny-oder-die-glueckliche-wiedervereinigung
 author:
   name: Teutscher, Marie Antonie
@@ -59323,6 +59873,50 @@ cast:
   - name: Die rothe Katharine.
     gender: f
 ---
+slug: voss-berlin-im-jahre-1724
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Berlin im Jahre 1724
+subtitle: Lustspiel in Einem Aufzug
+numberOfScenes: 12
+printed: 1824
+formalia:
+  - Prosa
+editions:
+  - title: "Auswahl neuer Lustspiele für das Königliche Hof-Theater in Berlin. Von Julius von Voß. Berlin: Schüppel 1824, S. 187–236"
+    url: https://books.google.com/books?id=fZYyAQAAMAAJ&pg=PA187
+comments:
+  - "Im selben Band sind auch folgende Zweiakter enthalten: [»Berlin im Jahre 1824«](https://books.google.com/books?id=fZYyAQAAMAAJ&pg=PA237) und [»Berlin im Jahre 1924«](https://books.google.com/books?id=fZYyAQAAMAAJ&pg=PA327)."
+  - "Bearbeitung von Cäsar Max Heigels [»Die Zeitalter. Drey flüchtige Skizzen zu einem chronologischen Charakter-Gemählde«](https://books.google.com/books?id=LuMVyQEACAAJ&printsec=frontcover) (1812); darin enthalten auch der Einakter [»So sind sie gewesen«](heigel-so-sind-sie-gewesen-im-jahre-1498)."
+cast:
+  - name: Hoppe,
+    role: Brauer in Berlin.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - group:
+      - name: Christian,
+        gender: m
+      - name: Katharine,
+        gender: f
+    role: seine Kinder.
+  - name: Doktor Hoppius.
+    gender: m
+  - name: Frau Curieux,
+    role: Bäckerwittwe von der französischen Kolonie.
+    gender: f
+  - name: Catin,
+    role: ihre Tochter.
+    gender: f
+  - name: Ein Postdammer großer Grenadier.
+    gender: m
+  - name: Liese,
+    role: Magd.
+    gender: f
+location:
+  wikidataId: Q64
+---
 slug: voss-coriolan
 author:
   name: Voß, Julius von
@@ -59364,6 +59958,37 @@ setting: >-
   Coriolans Wohnung in Rom.
 location:
   wikidataId: Q220
+---
+slug: voss-das-fraeulein-von-boren
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Das Fräulein von Boren
+subtitle: Lustspiel in Einem Aufzuge
+numberOfScenes: 6
+printed: 1826
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 376
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=374"
+editions:
+  - title: "Neuere Lustspiele von Julius von Voß. Vierter Band. Berlin: Schlesinger 1826, S. 131–172"
+    url: https://books.google.com/books?id=MZHJ02cw7X8C&pg=PA131
+cast:
+  - name: Die Domina eines Fräuleinstifts.
+    gender: f
+  - name: Frau von Haasenblum,
+    role: pensionirte immediat reichgräfliche Hofdame.
+    gender: f
+  - name: Caroline,
+    role: ihre Enkelin.
+    gender: f
+  - name: Kandidat Werthheim.
+    gender: m
+setting: >-
+  Die Scene ist ein ärmliches Zimmer, worin ein Stammbaum hängt.
 ---
 slug: voss-der-bankrott
 author:
@@ -59493,6 +60118,51 @@ setting: Die Handlung geht in Wien vor.
 location:
   wikidataId: Q1741
 ---
+slug: voss-der-juweelenhaendler
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Der Juweelenhändler
+subtitle: Lustspiel in Einem Aufzug
+numberOfScenes: 10
+printed: 1823
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 384
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=382"
+editions:
+  - title: "Neuere Lustspiele von Julius Voß. Berlin: Schlesinger 1823, S. 193–214"
+    url: https://books.google.com/books?id=myV00juc8V4C&pg=PA193
+keywords:
+  - Verkleidungsspiel
+  - Eheanbahnung
+cast:
+  - name: Der König von Dänemark.
+    gender: m
+  - name: Die Königin.
+    gender: f
+  - name: Prinzession.
+    gender: f
+  - name: Ihre Dame.
+    gender: f
+  - name: Ein Juweelenhändler.
+    gender: m
+  - name: Sechs Ritter.
+    isGroup: true
+    gender: m
+  - name: Kammerdiener.
+    isGroup: true
+    gender: m
+  - name: Leibwache.
+    isGroup: true
+    gender: m
+setting: >-
+  Schloß in Kopenhagen. Zeit, das sechszehnte Jahrhundert.
+location:
+  wikidataId: Q1748
+---
 slug: voss-der-kommandant-a-la-fanchon
 author:
   name: Voß, Julius von
@@ -59546,10 +60216,45 @@ cast:
 setting: >-
   Die Scene ist das Innre eines in der Eil befestigten Schoßhofes. (Die Scene ist das Innre eines Schloßhofes. Man sieht seitwärts das Schloß zum Theil. Im Hintergrunde oder auf der gegenüber liegenden Seite ein Thor mit dem Wachtgebäude. An der herumlaufenden Mauer ist eine darauf befindliche Kanone. Das Thor steht etwas auf. Die beiden Schildwachen schnarchen. Der Morgen beginnt zu grauen, und es wird während des Stücks allmählig Tag.)
 ---
+slug: voss-der-kriegsrath-von-coelln
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Der Kriegsrath von Cölln
+subtitle: Posse in einem Akt
+numberOfScenes: 17
+printed: 1808
+formalia:
+  - Prosa
+editions:
+  - title: "Farcen der Zeit von Julius Voß. Berlin: Weiß 1808"
+    url: https://books.google.com/books?id=AJvE2grPsrgC&pg=RA3-PA1
+comments:
+  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 205 (Dienstags, den 31. Julius 1810), [Sp. 693–694](https://books.google.com/books?id=4CBRAAAAYAAJ&pg=RA1-PA693)."
+cast:
+  - name: Herr Weitsorge,
+    role: ein reicher Gutbesitzer.
+    gender: m
+  - name: Malchen,
+    role: seine Tochter.
+    gender: f
+  - name: Ein Officier.
+    gender: m
+  - name: Ein Justizcommissarius.
+    gender: m
+  - name: Ein Domänenbeamter.
+    gender: m
+  - name: Ein Fremder.
+    gender: m
+  - name: Gretchen.
+    gender: f
+setting: >-
+  Die Scene ist ein Vorzimmer.
+---
 slug: voss-der-tabacksspinner-oder-auf-ehre-so-gehts
 author:
   name: Voß, Julius von
-  wikidata: Q90626 
+  wikidata: Q90626
 title: Der Tabacksspinner oder Auf Ehre, so geht's
 subtitle: Posse in Einem Aufzug
 numberOfScenes: 10
@@ -59630,6 +60335,59 @@ cast:
     gender: u
 setting: >-
   Das Stück spielt im sächsischen Gebirge um die Zeit der Schlacht bei Leipzig.
+---
+slug: voss-die-erfindung-des-schachspiels
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Die Erfindung des Schachspiels
+subtitle: Lustspiel in Einem Aufzug
+numberOfScenes: 7
+printed: 1826
+formalia:
+  - Prosa
+dictionaries:
+  - name: corvey
+    pages: S. 397
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=395"
+editions:
+  - title: "Neuere Lustspiele von Julius von Voß. Fünfter Band. Berlin: Schlesinger 1826, S. 229–262"
+    url: https://books.google.com/books?id=GcLxF47E1tYC&pg=PA229
+cast:
+  - name: Schach Azum von Persien.
+    gender: m
+  - name: Der Großvezier.
+    gender: m
+  - name: Der Mulla.
+    gender: m
+  - name: Der Eunuchenoberst.
+    gender: m
+  - name: Der Zeichendeuter.
+    gender: m
+  - name: Der Kalendermacher.
+    gender: m
+  - name: Iza,
+    role: eine schöne Czirkasserin im Harem.
+    gender: f
+  - name: Viele Hofbediente gewöhnlicher und seltsamer Art.
+    isGroup: true
+    gender: u
+  - name: Europäische Gesandte am Hof von Ispahan.
+    isGroup: true
+    gender: u
+  - name: Ali,
+    role: ein junger Kaufmann.
+    gender: m
+  - name: Morgiane,
+    role: seine Mutter.
+    gender: f
+  - name: Seine Dienerschaft u.s.w. u.s.w.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung begiebt sich zu Ispahan, man weiß nicht genau vor wie vielen Jahrhunderten. (Wohnung des Ali.)
+location:
+  wikidataId: Q42053
 ---
 slug: voss-die-nasen
 author:
@@ -60120,6 +60878,41 @@ cast:
 setting: >-
   Das Theater ist ein Theater.
 ---
+slug: voss-pigmalion-und-die-bildsaeulen
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Pigmalion und die Bildsäulen
+subtitle: Ästhetisch Kunstspiel in einem Aufzug
+numberOfScenes: 4
+printed: 1816
+formalia:
+  - Verse (gereimt)
+dictionaries:
+  - name: corvey
+    pages: S. 414
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=412"
+editions:
+  - title: "Possen und Marionettenspiele, zur Erheiterung in trüben Stunden von Julius von Voß. Berlin: Schüppel 1816, S. 109–130"
+    url: https://books.google.com/books?id=epUOyAEACAAJ&pg=PA109
+cast:
+  - name: Pigmalion,
+    role: Bildhauer.
+    gender: m
+  - name: Harlekin,
+    role: sein Bedienter.
+    gender: m
+  - name: Galathee,
+    role: seine Lieblingsstatue.
+    gender: f
+  - name: Venus.
+    gender: f
+  - name: Viele Bildsäulen.
+    isGroup: true
+    gender: u
+setting: >-
+  Szene: eine Bildhauerwerkstatt, mit angefangenen und vollendeten Statuen, Gefäßen, rohen Steinen, Arbeitzeug u.s.w. In der Mitte Galathee, rundumher Mars, Diana, Merkur, Apollon, die neun Musen, Neptun, Bachus, Plutus, Juno und Zeus. Alle auf kleinen Piedestallen.
+---
 slug: voss-wiedersehn-in-der-ferne
 author:
   name: Voß, Julius von
@@ -60156,7 +60949,7 @@ setting: >-
 slug: voss-wodan-und-der-deutsche-zeitgeist
 author:
   name: Voß, Julius von
-  wikidata: Q90626 
+  wikidata: Q90626
 title: Wodan und der deutsche Zeitgeist
 subtitle: Spiel in Knittelreimen von Einem Aufzug
 numberOfScenes: 6
@@ -63034,6 +63827,8 @@ formalia:
 editions:
   - title: "Schauspiele von Johanna Franul v. Weissenthurn, gebornen Grünberg, kaiserl. königl. Hofschauspielerin. Dritter Band. Wien: Degen 1810, S. 213–268"
     url: https://books.google.com/books?id=PM5gAAAAcAAJ&pg=PA213
+ids:
+  weber: A020741
 cast:
   - name: Madame Hain,
     role: Witwe.
