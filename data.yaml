@@ -3680,6 +3680,36 @@ setting: >-
 location:
   wikidataId: Q16869
 ---
+slug: anonym-das-bildniss
+author:
+  pseudonym: Anonym
+title: Das Bildniß
+subtitle: Schauspiel in Einem Aufzuge
+numberOfScenes: 12
+printed: 1815
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Taschenbuch auf das Jahr 1815. Dresden: Arnoldi 1815, S. 87–134"
+    url: https://books.google.com/books?id=y5xIAAAAcAAJ&pg=PA87
+cast:
+  - name: Herr Dubois,
+    role: ein Maler.
+    gender: m
+  - name: Frau Dubois.
+    gender: f
+  - name: Emilie.
+    gender: f
+  - name: Ein Oberster.
+    gender: m
+  - name: Ein Adjudant.
+    gender: m
+  - name: Mehrere Soldaten.
+    isGroup: true
+    gender: m
+setting: >-
+  Das Stück spielt in einer Gränzstadt während des jetzigen Krieges. (Eine Malerstube miz zwei Thüren. Emilie sizt an der Staffelei und arbeitet an einem Brustbilde, mehrere andere Gemälde stehen umgekehrt an den Wänden herum.)
+---
 slug: anonym-der-buchlade-oder-die-zeitung
 author:
   name: R., J. E.
@@ -5174,6 +5204,27 @@ setting: >-
   Die Handlung geht in Deutschland unweit des Teutoburger Waldes vor.
 location:
   wikidataId: Q109773
+---
+slug: anonym-der-roemische-kaiser
+author:
+  pseudonym: Anonym
+title: Der römische Kaiser
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 11
+printed: 1815
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatisches Taschenbuch auf das Jahr 1815. Dresden: Arnoldi 1815, S. 57–86"
+    url: https://books.google.com/books?id=y5xIAAAAcAAJ&pg=PA57
+cast:
+  - name: Ferdinand,
+    role: reisender Künstler.
+    gender: m
+  - name: Der Hausknecht.
+    gender: m
+setting: >-
+  Zimmer in einem Gasthofe, an der Wand hängt ein größeres und ein kleineres Bild.
 ---
 slug: anonym-der-schoene-geist
 author:
@@ -20335,6 +20386,66 @@ setting: >-
 location:
   wikidataId: Q90
 ---
+slug: dorsch-das-gitter
+author:
+  name: Dorsch, Franz Theodor Ludwig
+title: Das Gitter
+subtitle: Ein Lustspiel in Alexandrinern und einem Aufzuge
+numberOfScenes: 13
+printed: 1819
+formalia:
+  - Alexandriner
+editions:
+  - title: "Deutsches Theater für das Jahr 1819. Herausgegeben von Joseph August Adam. Sechster Band. Ausgsburg und Leipzig: Jenisch und Stage [1819], S. 167–208"
+    url: https://books.google.com/books?id=1VI6AAAAcAAJ&pg=PA167
+cast:
+  - name: Schlossermeister Stahl.
+    gender: m
+  - name: Hannchen,
+    role: seine Tochter.
+    gender: f
+  - name: Franz,
+    role: Schlosser-Geselle.
+    gender: m
+  - name: Zunftrichter Steinbock.
+    gender: m
+  - name: Conrad,
+    role: dessen Bedienter.
+    gender: m
+setting: >-
+  Das Stück spielt auf der Straße. Auf der einen Seite ist des Zunftrichters, auf der andern des Schlossers Haus, dessen Fenster mit eisernen Gittern versehen sind.
+---
+slug: dorsch-der-donnerschlag
+author:
+  name: Dorsch, Franz Theodor Ludwig
+title: Der Donnerschlag
+subtitle: Ein Lustspiel in Alexandrinern und einem Aufzuge
+numberOfScenes: 9
+printed: 1819
+premiered: 1819
+formalia:
+  - Alexandriner
+editions:
+  - title: "Deutsches Theater für das Jahr 1819. Herausgegeben von Joseph August Adam. Vierter Band. Augsburg und Leipzig: Jenisch und Stage 1819, S. 123–166"
+    url: https://books.google.com/books?id=ESdIAAAAcAAJ&pg=PA123
+keywords:
+  - Eheanbahnung
+  - Verstellspiel
+  - Theaterbetrieb
+cast:
+  - name: Gustav.
+    gender: m
+  - name: Wilhelmine.
+    gender: f
+  - name: Clärchen,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Franz,
+    role: Gustavs Bedienter.
+    gender: m
+setting: >-
+  Das Stück spielt im Zimmer eines Gasthofes, welches eine Mittelthüre und zwei Seitenthüren hat.
+---
 slug: dorsch-der-schrank
 author:
   name: Dorsch, Franz Theodor Ludwig
@@ -20366,6 +20477,38 @@ cast:
     gender: f
 setting: >-
   Die Handlung spielt im Zimmer des Kammermädchens. Im Hintergrunde ist ein kleiner Alkoven mit zurückgeschlagenen Vorhängen, und auf der andern Seite steht ein großer Kleiderschrank mit 2 Flügelthüren, welcher mehrere Kleider, Wäsche etc. enthält. Das Zimmer hat nur eine Thüre, und herumliegende Wäscheapparate etc. bezeichnen seine Bestimmung.
+---
+slug: dorsch-die-seltene-verwandtschaft
+author:
+  name: Dorsch, Franz Theodor Ludwig
+title: Die seltene Verwandtschaft
+subtitle: Ein Lustspiel in Versen und einem Aufzuge
+numberOfScenes: 9
+printed: 1819
+formalia:
+  - trochäische kreuzgereimte Verse
+editions:
+  - title: "Deutsches Theater für das Jahr 1819. Herausgegeben von Joseph August Adam. Sechster Band. Ausgsburg und Leipzig: Jenisch und Stage [1819], S. 105–136"
+    url: https://books.google.com/books?id=1VI6AAAAcAAJ&pg=PA105
+comments:
+  - "»Zum Grunde liegt die 25. Vetalgeschichte, in welcher der Vater die Tochter der Mutter ehelichen will, deren Tochter der Sohn des ersteren heiraten soll.« (Goedeke, Band XI/1, [S. 166](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/n179/mode/2up))"
+cast:
+  - name: Philipp Roth,
+    role: Vater, Bierbräuer.
+    gender: m
+  - name: Philipp Roth,
+    role: Sohn, Garde-Grenadier.
+    gender: m
+  - name: Gretchen,
+    role: Wirthin.
+    gender: f
+  - name: Kätchen,
+    role: ihre Tochter.
+    gender: f
+  - name: Schulmeister.
+    gender: m
+setting: >-
+  Die Handlung geht in Gretchens Hause vor.
 ---
 slug: droste-huelshoff-perdu
 author:
@@ -22280,6 +22423,89 @@ cast:
 setting: >-
   Die Szene stellt theils das Studierzimmer des Inspector Finzers vor. Theils die Pfarrwohnung des Hn. Pastor Bunkels. Die Handlung ist im Brandenburgischen.
 ---
+slug: feuchtersleben-der-kleine-liebesbothe
+author:
+  name: Feuchtersleben, Eduard von
+  wikidata: Q1290589
+title: Der kleine Liebesbothe
+subtitle: Ein Spiel in Alexandrinern und Einem Aufzuge
+numberOfScenes: 15
+printed: 1825
+formalia:
+  - Alexandriner
+editions:
+  - title: "[Ohne Ort] [1825]"
+    url: https://books.google.com/books?id=KNtJAAAAcAAJ&pg=PA1
+cast:
+  - name: Fritz,
+    role: Pächter.
+    gender: m
+  - name: Rosa,
+    role: seine Frau.
+    gender: f
+  - name: Carl,
+    role: sein Sohn, sieben Jahre alt.
+    gender: m
+setting: >-
+  Rechts Fritzens Haus, daran der Zaun seines Gartens, vor dem Hause ein großer Baum, links des Richters Haus, an das sich eine Gartenmauer reihet; im Hintergrunde eine ländliche Gegend.
+---
+slug: feuchtersleben-die-bergleute
+author:
+  name: Feuchtersleben, Eduard von
+  wikidata: Q1290589
+title: Die Bergleute
+subtitle: Ein Spiel in freyen Versen und Einem Acte
+numberOfScenes: 18
+printed: 1827
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Aurora. Taschenbuch für das Jahr 1827. Herausgegeben von Franz Gräffer. Vierter Jahrgang. Wien: Riedl [1827], S. 93–146"
+    url: https://books.google.com/books?id=Z6BIAAAAcAAJ&pg=PA93
+cast:
+  - name: Maria,
+    role: Sennerinn.
+    gender: f
+  - name: Hans,
+    role: Holzknecht.
+    gender: m
+  - name: Graf von Felseck,
+    role: Bergrath.
+    gender: m
+  - name: Anton,
+    role: Bergknappe, sein Diener.
+    gender: m
+setting: >-
+  Die Handlung spielt in Mariens Sennhütte, mit allen Geräthen einer Alpenwirthschaft, mit einem Mittel- und einem Seiteneingange links versehen.
+---
+slug: feuchtersleben-die-tante
+author:
+  name: Feuchtersleben, Eduard von
+  wikidata: Q1290589
+title: Die Tante
+subtitle: Ein Lustspiel in einem Acte
+numberOfScenes: 14
+printed: 1827
+formalia:
+  - Alexandriner
+editions:
+  - title: "Leitmeritz: Medau 1827"
+    url: https://books.google.com/books?id=vEd_oUrglY8C&printsec=frontcover
+cast:
+  - group:
+      - name: Gräfin Fanni von Grünau,
+        gender: f
+      - name: Gräfin Koppen,
+        role: ihre Tante,
+        gender: f
+    role: Beide unvermählt.
+  - name: Secretär Wolf.
+    gender: m
+  - name: Baron von Stern.
+    gender: m
+setting: >-
+  Der Tante Arbeitszimmer mit einer Flügelthür im Hintergrunde, und mit zwei Seitenfenstern, rechts vom Schauspieler in den Garten, links auf den Hauptplatz. Chatoullen, Hauben- und Bandschachteln stehen, einige schon vollgepackt, andere noch offen, auf Sophen, Tischen und Sesseln; Vormittags.
+---
 slug: feldmann-ahnenstoltz-in-der-klemme
 author:
   name: Feldmann, Leopold
@@ -23370,6 +23596,43 @@ cast:
     gender: m
   - name: Montan.
     gender: m
+---
+slug: genee-der-advokat-und-sein-sohn
+author:
+  name: Genée, Friedrich
+  wikidata: Q1459213
+title: "Der Advokat und sein Sohn, oder: Der erste Prozeß"
+subtitle: Lustspiel in einem Aufzuge, nach dem Französischen
+numberOfScenes: 20
+printed: 1837
+formalia:
+  - Prosa
+editions:
+  - title: "Berliner Theater-Almanach auf das Jahr 1837. Herausgegeben von Alexander Cosmar. Zweiter Jahrgang. Berlin: Bade 1837, S. 109–164"
+    url: https://books.google.com/books?id=c0E7AAAAcAAJ&pg=PA109
+cast:
+  - name: Doctor Duclos,
+    role: ein Advokat.
+    gender: m
+  - name: Alphons Duclos,
+    role: sein Sohn, Advokat.
+    gender: m
+  - name: Laurent,
+    role: Sekretair beim alten Duclos.
+    gender: m
+  - name: Lady Sidney,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Sir Arthur,
+    role: Baronet.
+    gender: m
+  - name: Mehrere junge Advokaten.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene spielt in Paris. (Das Theater stellt ein Zimmer des jungen Duclos vor. Mittel- und zwei Seitenthüren, die Thüre rechts führt in das Zimmer vom alten Duclos, links in die Bibliothek. Neben der Thüre rechts ist ein kleiner Tisch mit Büchern und Papieren. Links ein Schreibtisch worauf mehrere Bücher.)
+location:
+  wikidataId: Q90
 ---
 slug: genee-mamsell-bernard-oder-das-vaeterliche-ansehen
 author:
@@ -25266,6 +25529,60 @@ cast:
     gender: m
 setting: Die Scene ist im gemeinschaftlichen Saale eines Gasthauses.
 ---
+slug: guttenberg-die-bedraengten-oder-guter-rath-fuer-baares-geld
+author:
+  name: Guttenberg, Andreas Josef von
+  wikidata: Q94889736
+title: Die Bedrängten oder guter Rath für baares Geld
+subtitle: "Eine Posse in einem Aufzuge, als Gegenstück zu Herrn von Kotzebue's: Unglücklichen"
+numberOfScenes: 12
+printed: 1820
+formalia:
+  - Prosa
+editions:
+  - title: "Original-Theater für das Jahr 1820. Zusammengetragen von mehrern dramatischen Dichtern. Fünfter Band. Augsburg und Leipzig: Jenisch und Stage [1820], S. 191–244"
+    url: https://books.google.com/books?id=DSE7AAAAcAAJ&pg=PA191
+comments:
+  - "Gegenstück zu Kotzebues Einakter [»Die Unglücklichen«](kotzebue-die-ungluecklichen)."
+cast:
+  - name: Herr Mausedaus,
+    role: ein armer Abentheurer.
+    gender: m
+  - name: Fräulein Angelika von Pimperdix.
+    gender: f
+  - name: Jagdjunker von Champignon.
+    gender: m
+  - name: Kanzleirath Wadewitz.
+    gender: m
+  - name: Jeremias Donnerknall,
+    role: ein verabschiedeter Dragoner.
+    gender: m
+  - name: Emilia Galotti, eigentlich Jungfer Christel,
+    role: eine Comödiantin.
+    gender: f
+  - name: Herr Gradatim, genannt der kleine Schakespear,
+    role: Theater-Impressar.
+    gender: m
+  - name: Brande,
+    role: ein phantastischer junger Mensch.
+    gender: m
+  - name: Tallmann,
+    role: Polizei-Commissär.
+    gender: m
+  - name: Zwick,
+    role: ein Scheerenschleifer.
+    gender: m
+  - name: Ein Gassenjunge.
+    gender: m
+  - name: Mehrere Jäger und Jagdhunde des Herrn v. Champignon.
+    isGroup: true
+    gender: u
+  - name: Viele Bedrängte beiderlei Geschlechts.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung ist in einer entlegenen Vorstadt einer Residenz in der Wohnung des Scheerenschleifers. (Ein dürftig meublirtes Zimmer des Scheerenschleifers, mit einer kleinen Seitenthüre, welche zu dessen Kammer führt.)
+---
 slug: guttenberg-die-komoedie-ohne-titel
 author:
   name: Guttenberg, Andreas Josef von
@@ -27129,6 +27446,51 @@ cast:
 setting: >-
   Scene: eine kleine Stadt in Deutschland. (Die Bühne stellt ein Zimmer zu ebener Erde vor, das in einen Garten führt. – Mittelthüre und zwei Fenster im Hintergrunde, zwei Seitenthüren.)
 ---
+slug: hell-der-alte-comoediant-oder-die-legate
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Der alte Comödiant, oder die Legate
+subtitle: Lustspiel in einem Akte, nach Picard
+numberOfScenes: 26
+printed: 1806
+formalia:
+  - Prosa
+basedOn:
+  - "Louis-Benoît Picard: [»Le vieux comédien. Comédie en un acte, en prose«](https://books.google.com/books?id=mMo7AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Leipzig: Weigel 1806"
+    url: https://books.google.com/books?id=zXN8_jrlEiMC&printsec=frontcover
+  - title: "[Ohne Ort] 1807"
+    url: https://books.google.com/books?id=_yw7AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr Stein,
+    role: ehemals Schauspieler.
+    gender: m
+  - name: Mad. Stein,
+    role: seine Frau.
+    gender: f
+  - name: Justizcommissar Stein,
+    role: dessen Cousin.
+    gender: m
+  - name: Doctor Stein,
+    role: desgleichen.
+    gender: m
+  - name: August,
+    role: Justizcommiss. Steins Sohn.
+    gender: m
+  - name: Elise,
+    role: D. Steins Tochter.
+    gender: f
+  - name: Mad. Freude,
+    role: Schauspielerin.
+    gender: f
+  - name: Hanns,
+    role: Steins Bedienter.
+    gender: m
+setting: >-
+  Die Scene ist in Steins Hause in einer Landstadt. (Saal mit einer Mittel- und zwei Seitenthüren.)
+---
 slug: hell-der-beruf
 author:
   name: Hell, Theodor
@@ -27318,6 +27680,66 @@ cast:
     role: Kammermädchen.
     gender: f
 setting: Ein Zimmer mit zwei Seiten- und einer Mittelthür.
+---
+slug: hell-die-benefiz-vorstellung
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Die Benefiz-Vorstellung
+subtitle: Posse in Einem Akte mit fünf Verwandlungen. Nach dem Französischen
+numberOfScenes: 19
+printed: 1826
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Vergißmeinnicht aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Viertes Bändchen. Dresden und Leipzig: Arnoldi 1826, S. 1–95"
+    url: https://books.google.com/books?id=BQtOAAAAcAAJ&pg=PA1
+comments:
+  - "Auf dem Deckblatt des Sammelbandes mit dem Untertitel »Lustspiel in fünf Aufzügen«; das Stück enthält auch fünf »Aufzüge«; Untertitel auf der Titelseite »Posse in Einem Akte mit fünf Verwandlungen«. (5 + 4 + 3 + 4 + 3 = 19 Szenen)"
+cast:
+  - name: Flüsterleis,
+    role: ein alter Soufleur.
+    gender: m
+  - name: Frau Flüsterleis,
+    role: seine Frau.
+    gender: f
+  - name: Palmira,
+    role: ihre Tochter.
+    gender: f
+  - name: Theobald,
+    role: Commis bey der Assekuranz-Compagnie, ihr Liebhaber.
+    gender: m
+  - name: Schreydichaus,
+    role: tragischer Schauspieler.
+    gender: m
+  - name: Gambasnella,
+    role: berühmte Tänzerin.
+    gender: f
+  - name: Trillerhold,
+    role: ein Sänger.
+    gender: m
+  - name: Pudding,
+    role: ein Neuseeländer.
+    gender: m
+  - name: Unternull,
+    role: ein modischer Elegant.
+    gender: m
+  - name: Ein Regisseur.
+    gender: m
+  - name: Trillerholds Bedienter.
+    gender: m
+  - name: Gambasnella's Jokey.
+    gender: m
+  - name: Schreydichaus Bedienter.
+    gender: m
+  - name: Zwey tragische Schauspieler in römischer Kleidung.
+    isGroup: true
+    gender: m
+  - name: Sechs Comparsen desgleichen.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene: eine Hauptstadt. (Ein sehr einfach meublirtes Gemach.)
 ---
 slug: hell-drei-stockwerk-hoch-oder-das-lustspiel-auf-der-treppe
 author:
@@ -30227,6 +30649,51 @@ cast:
     gender: f
 setting: >-
   Kleine ländliche Gegend; im Hintergrunde Weinberge. Links ein Häuschen. Im Vordergrund eine Bank.
+---
+slug: houwald-der-schuldbrief
+author:
+  name: Houwald, Ernst von
+  wikidata: Q73607
+title: Der Schuld-Brief
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1820
+premiered: 1825-05-04
+formalia:
+  - Prosa
+editions:
+  - title: "Buch für Kinder gebildeter Stände. Zweites Bändchen. Leipzig: Göschen 1820, S. 231–320"
+    url: https://books.google.com/books?id=WZ8DAAAAYAAJ&pg=PA231
+  - title: "Theater für Kinder gebildeter Stände von Ernst von Houwald. Erster Band. Wien: Haykul 1827, S. 61–128"
+    url: https://books.google.com/books?id=59LpjsX2USsC&pg=PA61
+  - title: "Ernst von Houwalds sämmtliche Werke. Vierter Band. Leipzig: Göschen 1859, S. 371–412"
+    url: https://books.google.com/books?id=UB1TAAAAcAAJ&pg=PA371
+cast:
+  - name: Madame Hallmer,
+    role: eine Kaufmanns-Wittwe.
+    gender: f
+  - name: Kurt,
+    role: ihr Sohn.
+    gender: m
+  - name: Louise,
+    role: ihre Tochter.
+    gender: m
+  - name: Geizstängel,
+    role: Burgemeister und Krämer.
+    gender: m
+  - name: Kilian,
+    role: dessen Sohn.
+    gender: m
+  - name: Silbenreich,
+    role: Stadtschreiber.
+    gender: m
+  - name: Seibold,
+    role: Kommerzien-Rath.
+    gender: m
+  - name: Ein Jude.
+    gender: m
+setting: >-
+  Ein großes Zimmer im Hause der Mad. Hallmer.
 ---
 slug: houwald-die-freistatt
 author:
@@ -48654,6 +49121,50 @@ cast:
 setting: >-
   Die Scene ist in einem Gasthofe zu N.
 ---
+slug: ploetz-der-ruf-oder-die-journalisten
+author:
+  name: Plötz, Johann von
+  wikidata: Q94874028
+title: "Der Ruf, oder: Die Journalisten"
+subtitle: Lustspiel in Einem Aufzuge nach der Idee Scribe's
+numberOfScenes: 22
+printed: 1840
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Édouard-Joseph-Ennemond Mazères: [»Le charlatanisme. Comédie-vaudeville en un acte«](https://books.google.com/books?id=y29FXLpq7VUC&printsec=frontcover)"
+editions:
+  - title: "München: Franz 1840"
+    url: https://books.google.com/books?id=feA6AAAAcAAJ&printsec=frontcover
+  - title: "Beiträge zur deutschen Bühne von Johann von Plötz. Zweiter Band. München: Franz 1844,S. 177–255"
+    url: https://books.google.com/books?id=Kf07AQAAMAAJ&pg=PA177
+cast:
+  - name: Hofrath Dr. Hellwing,
+    role: Herausgeber einer Zeitschrift.
+    gender: m
+  - name: Dr. Feigenblatt,
+    role: sein Freund und Redakteur.
+    gender: m
+  - name: Dr. Willig,
+    role: ein junger Arzt.
+    gender: m
+  - name: Herr Anselm vom Schwachheim auf Heiterbrunn,
+    role: ein reicher Gutsbesitzer.
+    gender: m
+  - name: Doris,
+    role: seine Tochter.
+    gender: f
+  - name: Geheimeräthin von Gernberg.
+    gender: f
+  - group:
+      - name: Johann,
+        gender: m
+      - name: Franz,
+        gender: m
+    role: Bediente des Hofraths.
+setting: >-
+  Die Handlung spielt im Hause des Hofraths. (Elegantes Zimmer; neben der Thüre im Hintergrunde zu beiden Seiten ein Bücherschrank, im Vordergrunde ein Sekretair, an welchem zwei Personen gegenüber sitzen und arbeiten können, neben an ein Papierkorb, auf dem Schreibtische stehen Schiller's und Göthe's Büsten.)
+---
 slug: ploetz-die-gunst-der-kleinen-oder-die-hintertreppe
 author:
   name: Plötz, Johann von
@@ -57286,6 +57797,34 @@ setting: >-
 location:
   wikidataId: Q90
 ---
+slug: smidt-die-herausforderung
+author:
+  name: Smidt, Heinrich
+  wikidata: Q108339
+title: Die Herausforderung
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 24
+printed: 1837
+formalia:
+  - Prosa
+editions:
+  - title: "Berliner Theater-Almanach auf das Jahr 1837. Herausgegeben von Alexander Cosmar. Zweiter Jahrgang. Berlin: Bade 1837, S. 165–199"
+    url: https://books.google.com/books?id=c0E7AAAAcAAJ&pg=PA165
+cast:
+  - name: Assessor Weiß.
+    gender: m
+  - name: Julie,
+    role: dessen Gattin.
+    gender: f
+  - name: Hauptmann von Falkenau.
+    gender: m
+  - name: Maler Stern.
+    gender: m
+  - name: Hugo Maienthau.
+    gender: m
+setting: >-
+  Geschmackvoll meublirtes Zimmer mit Mittel- und Seitenthüren in dem Hause des Assessors.
+---
 slug: smidt-koenig-renes-tochter
 author:
   name: Smidt, Heinrich
@@ -57987,6 +58526,47 @@ cast:
     role: Bedienter des Sir Fäteston.
     gender: m
 setting: Zimmer bey Sir Williams.
+---
+slug: stawinsky-der-dreissigste-geburtstag
+author:
+  name: Stawinsky, Karl
+  wikidata: Q55126925
+title: Der dreissigste Geburtstag
+subtitle: Lustspiel in einem Aufzuge, nach dem Französischen
+numberOfScenes: 17
+printed: 1837
+formalia:
+  - Prosa
+editions:
+  - title: "Berliner Theater-Almanach auf das Jahr 1837. Herausgegeben von Alexander Cosmar. Zweiter Jahrgang. Berlin: Bade 1837, S. 201–250"
+    url: https://books.google.com/books?id=c0E7AAAAcAAJ&pg=PA201
+cast:
+  - name: Julius von Frohberg.
+    gender: m
+  - name: Policarp von Hohenstein.
+    gender: m
+  - name: Susanne,
+    role: eine alte Anverwandte.
+    gender: f
+  - name: Sir Belton,
+    role: ein Amerikaner.
+    gender: m
+  - name: Lady Belton,
+    role: seine Schwägerin.
+    gender: f
+  - name: von Alting,
+    role: Gutsbesitzer.
+    gender: m
+  - name: Aurelie,
+    role: seine Tochter.
+    gender: f
+  - name: Die Baronin von Lilienthal.
+    gender: f
+  - name: Gäste.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene: Frohbergs Landgut. (Gesellschafts-Saal auf Frohbergs Landgute mit der Aussicht auf den Park. Rechts und links Seitenthüren. Rechts, an der ersten Coulisse, ein Kamin, mit Vasen und einer Uhr geschmückt. Links ein Tisch, worauf Schreibgeräth.)
 ---
 slug: stawinsky-der-quaeker-und-die-taenzerin
 author:
@@ -59951,6 +60531,49 @@ cast:
     gender: m
 setting: >-
   Die Scene ist vor Märtens Hause, wie in den beyden vorigen Stücken.
+---
+slug: turteltaub-der-abenteurer
+author:
+  name: Turteltaub, Wilhelm
+  wikidata: Q17364138
+title: Der Abenteurer
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 21
+printed: 1844
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Blüthen von Dr. Wilh. Turteltaub. Lemberg: Piller 1844, S. 61–108"
+    url: https://books.google.com/books?id=4MZIAAAAcAAJ&pg=PA61
+comments:
+  - "Laut [»Nothgedrungene[r] Vorrede«](https://books.google.com/books?id=4MZIAAAAcAAJ&pg=PA63) gibt es eine französische Vorlage, allerdings kenne Turteltaub weder Autor noch Titel des Werkes."
+cast:
+  - name: von Erben,
+    role: gewesener Oberst.
+    gender: m
+  - name: Amalie,
+    role: seine Tochter.
+    gender: f
+  - name: Kunigunde,
+    role: ihre Erzieherin.
+    gender: f
+  - name: von Dorn,
+    role: Doctor Medicinae.
+    gender: m
+  - name: Trim,
+    role: Damenschneider.
+    gender: m
+  - name: Susanna,
+    role: sein Weib.
+    gender: f
+  - name: Groll,
+    role: Sekretair des Obersten.
+    gender: m
+  - name: Bediente.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Bühne stellt ein Zimmer in Trims Hause vor. Rechts vom Schauspieler eine Seitenthür die zum Arbeitszimmer, links eine Thüre die in Dorns Zimmer führt. Neben ihr ein Fenster. Der allgemeine Ein- und Ausgang durch die Mittelthüre. Tische und Sessel. Auf einem der Letztern hängt ein schwarzer Frack.
 ---
 slug: uhlich-apollo-unter-den-hirten
 author:
@@ -63473,6 +64096,209 @@ cast:
 setting: >-
   Das Theater stellt eine einsame Felsengegend im Gebirge vor. In der Mitte des Hintergrundes eine alte gothische Kapelle, nebenbei eine alte Eiche. Rechts im Vorgrunde eine Einsiedlerhütte.
 ---
+slug: weichselbaumer-achilles-auf-skyros
+author:
+  name: Weichselbaumer, Carl
+  wikidata: Q1040984
+title: Achilles auf Skyros
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1821
+formalia:
+  - Blankvers
+editions:
+  - title: "Original-Theater für das Jahr 1821. Zusammengetragen von mehrern dramatischen Dichtern. Dritter Band. Augsburg und Leipzig: Jenisch und Stage [1821], S. 107–160"
+    url: https://books.google.com/books?id=CrZHAAAAcAAJ&pg=PA107
+cast:
+  - name: Lykomedes,
+    role: König von Skyros.
+    gender: m
+  - name: Deidamia,
+    role: seine Tochter.
+    gender: f
+  - name: Achilles, unter dem Namen Pyrrha.
+    gender: m
+  - name: Odysseus,
+    role: König von Ithaka.
+    gender: m
+  - name: Arkas,
+    role: ein Diener des Königs von Skyros.
+    gender: m
+  - name: Thetis,
+    role: Gattin des Peleus und des Achilles Mutter.
+    gender: f
+  - name: Gespielinnen und Sklavinnen Deidamias.
+    isGroup: true
+    gender: f
+  - name: Gefolge des Königs von Skyros und Sklaven des Odysseus.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung geht vor auf der Insel Skyros. (Gegend am Meere neben dem Pallaste des Königs Lykomedes. Früher Morgen.)
+location:
+  wikidataId: Q208566
+---
+slug: weichselbaumer-cincinnatus
+author:
+  name: Weichselbaumer, Carl
+  wikidata: Q1040984
+title: Cincinnatus
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1819
+formalia:
+  - Blankvers
+editions:
+  - title: "Deutsches Theater für das Jahr 1819. Herausgegeben von Joseph August Adam. Sechster Band. Ausgsburg und Leipzig: Jenisch und Stage [1819], S. 137–166"
+    url: https://books.google.com/books?id=1VI6AAAAcAAJ&pg=PA137
+cast:
+  - name: Lucius Quintius Cincinnatus.
+    gender: m
+  - name: Racilia,
+    role: seine Gattin.
+    gender: f
+  - name: Cäso,
+    role: sein Sohn.
+    gender: m
+  - name: Lälius,
+    role: sein Sklave.
+    gender: m
+  - name: Senatoren, Lictoren und Volk.
+    isGroup: true
+    gender: u
+setting: >-
+  Feld vor der Hütte des Cincinnatus an der Tiber, jenseits erblickt man in der Entfernung einen Theil vom Rom.
+---
+slug: weichselbaumer-fabius-urtheil-oder-lucius-und-livia
+author:
+  name: Weichselbaumer, Carl
+  wikidata: Q1040984
+title: Fabius Urtheil, oder Lucius und Livia
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1819
+formalia:
+  - Prosa
+editions:
+  - title: "Deutsches Theater für das Jahr 1819. Herausgegeben von Joseph August Adam. Erster Band. Augsburg und Leipzig: Jenisch und Stage [1819], S. 103–128"
+    url: https://books.google.com/books?id=8lw6AAAAcAAJ&pg=PA103
+cast:
+  - name: Fabius Maximus,
+    role: Feldherr der Römer.
+    gender: m
+  - group:
+      - name: Hostilius
+        gender: m
+      - name: Servius
+        gender: m
+    role: römischer Ritter.
+  - group:
+      - name: Anjus
+        gender: m
+      - name: Lucius
+        gender: m
+    role: junge römische Krieger.
+  - name: Livia,
+    role: dessen Geliebte.
+    gender: f
+  - name: Liktoren und römische Krieger.
+    isGroup: true
+    gender: m
+setting: >-
+  Lager der Römer; im Vorgrunde das Gezelt des Fabius.
+---
+slug: weichselbaumer-pyrrhus-und-fabricius
+author:
+  name: Weichselbaumer, Carl
+  wikidata: Q1040984
+title: Pyrrhus und Fabricius
+subtitle: Ein Drama in einem Aufzuge
+numberOfScenes: 5
+printed: 1819
+formalia:
+  - Alexandriner
+editions:
+  - title: "Deutsches Theater für das Jahr 1819. Herausgegeben von Joseph August Adam. Sechster Band. Ausgsburg und Leipzig: Jenisch und Stage [1819], S. 79–104"
+    url: https://books.google.com/books?id=1VI6AAAAcAAJ&pg=PA79
+cast:
+  - name: Pyrrhus,
+    role: König von Epirus.
+    gender: m
+  - group:
+      - name: Cyneas,
+        gender: m
+      - name: Heraklit,
+        gender: m
+    role: dessen Vertraute und Heerführer.
+  - name: Fabricius,
+    role: Gesandter der Römer.
+    gender: m
+  - name: Ein Anführer der Leibwache des Königs von Epirus.
+    gender: m
+  - name: Edle Tarentiner, römische Ritter.
+    isGroup: true
+    gender: m
+setting: >-
+  Saal im Pallaste des Königs Pyrrhus in Tarent.
+location:
+  wikidataId: Q13498
+---
+slug: weichselbaumer-scipio-und-hannibal-vor-der-schlacht-bei-zama
+author:
+  name: Weichselbaumer, Carl
+  wikidata: Q1040984
+title: Scipio und Hannibal vor der Schlacht bei Zama
+subtitle: Eine dramatische Scene
+numberOfScenes: 1
+printed: 1819
+formalia:
+  - Blankvers
+editions:
+  - title: "Deutsches Theater für das Jahr 1819. Herausgegeben von Joseph August Adam. Vierter Band. Augsburg und Leipzig: Jenisch und Stage 1819, S. 167–182"
+    url: https://books.google.com/books?id=ESdIAAAAcAAJ&pg=PA167
+cast:
+  - name: Scipio,
+    role: Konsul und Feldherr der Römer in Afrika.
+    gender: m
+  - name: Hannibal,
+    role: Feldherr der Karthager.
+    gender: m
+setting: >-
+  Gezelt des Scipio.
+location:
+  wikidataId: Q1892445
+---
+slug: weichselbaumer-so-raecht-sich-fabius
+author:
+  name: Weichselbaumer, Carl
+  wikidata: Q1040984
+title: So rächt sich Fabius
+subtitle: Ein Schauspiel in einem Aufzug
+numberOfScenes: 1
+printed: 1821
+formalia:
+  - Prosa
+editions:
+  - title: "Original-Theater für das Jahr 1821. Zusammengetragen von mehrern dramatischen Dichtern. Sechster Band. Augsburg und Leipzig: Jenisch und Stage 1821, S. 227–250"
+    url: https://books.google.com/books?id=drlHAAAAcAAJ&pg=PA227
+comments:
+  - Keine eigene Szeneneinteilung, einige Orts- und Konfigurationswechsel.
+cast:
+  - name: Fabius Maximus,
+    role: Diktator und Feldherr der gegen Hannibal kämpfenden Armee.
+    gender: m
+  - name: Markus Minucius Rufus,
+    role: Befehlshaber der Reiterei.
+    gender: m
+  - name: Crassus, Licinius und andere Offiziere.
+    isGroup: true
+    gender: m
+  - name: Römisches und Kartaginensisches Heer.
+    isGroup: true
+    gender: m
+setting: >-
+  Römisches Lager.
+---
 slug: weidmann-abdalah-oder-keine-wohlthat-bleibt-unbelohnt
 author:
   name: Weidmann, Paul
@@ -66666,3 +67492,56 @@ cast:
     gender: m
 setting: >-
   Die Scene ist in einer großen Hauptstadt, im Hause des Herrn Flägelein.
+---
+slug: zschokke-die-sympathetische-kur
+author:
+  name: Zschokke, Heinrich
+  wikidata: Q66207
+title: Die sympathetische Kur
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 11
+printed: 1805
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [»L'amour médecin. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_AMOURMEDECIN.xml)"
+editions:
+  - title: "Molieres Lustspiele und Possen. Für die deutsche Bühne von Heinrich Zschokke. Dritter Band. Zürich: Geßner 1805, S. 121–162"
+    url: https://books.google.com/books?id=JsxFAQAAMAAJ&pg=PA121
+  - title: "[Ohne Ort] 1806"
+    url: https://books.google.com/books?id=66tSAAAAcAAJ&printsec=frontcover
+comments:
+  - "Im [Nachwort](https://books.google.com/books?id=JsxFAQAAMAAJ&pg=PA161): »Diese Posse [...] verfaßte der Dichter [Molière] binnen fünf Tagen für den König.«"
+  - Im Original drei Akte und mehrere Nebenfiguren.
+  - Auch mit dem Untertitel »Ein Lustspiel in einem Aufzuge. Von Molieres« (1806).
+keywords:
+  - Satire über Ärzte
+cast:
+  - name: Herr Baker,
+    role: ein Kaufmann.
+    gender: m
+  - name: Louise,
+    role: seine Tochter.
+    gender: f
+  - name: Lisette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Herr Salmsen.
+    gender: m
+  - name: Doktor Krik.
+    gender: m
+  - name: Doktor Krak.
+    gender: m
+  - name: Doktor Blau.
+    gender: m
+  - name: Doktor Roth.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+  - name: Johann,
+    role: Bedienter des Herrn Baker.
+    gender: m
+setting: >-
+  Die Scene ist im Hause des Herrn Baker, in Pyrmont.
+location:
+  wikidataId: Q556352
