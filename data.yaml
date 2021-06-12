@@ -14829,6 +14829,62 @@ cast:
 setting: >-
   Scene: Kronfeld's Landsitz. (Elegantes Zimmer in Kronfeld's Hause.)
 ---
+slug: blum-ein-abend-vor-de-potsdamer-thore
+author:
+  name: Blum, Carl
+  wikidata: Q110163
+title: Ein Abend vor dem Potsdamer Thore
+subtitle: Vaudeville-Posse in einem Aufzuge
+numberOfScenes: 16
+printed: 1830
+premiered: 1823-09-03
+formalia:
+  - Prosa
+editions:
+  - title: "Neue Theaterspiele, zunächst für die Königliche Schaubühne zu Berlin bearbeitet von Carl Blum. Berlin: Enslin 1830"
+    url: https://books.google.com/books?id=NR8Sdn4L-T0C&pg=RA1-PT1
+  - title: "Arien und Gesänge zum Vaudeville: Ein Stündchen vor dem Potsdamer Thore, in einem Akt. Berlin [ohne Jahr]."
+    url: https://books.google.com/books?id=lkQyEYmCqPgC&printsec=frontcover
+cast:
+  - name: Herr Kuntze,
+    role: ein Buchbinder.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Heinrich,
+    role: ihr Sohn.
+    gender: m
+  - name: Fiekchen,
+    role: ihre Magd.
+    gender: f
+  - name: Herr Hintze,
+    role: von der Thierarzneischule.
+    gender: m
+  - name: Lottchen,
+    role: ein Kind.
+    gender: f
+  - name: Lina,
+    role: ihre Wärterin.
+    gender: f
+  - name: Säbelknopf,
+    role: Unteroffizier vom Regiment Möllendorf.
+    gender: m
+  - name: Valentin aus Kyritz,
+    role: Rekrut.
+    gender: m
+  - name: Marie,
+    role: Magd.
+    gender: f
+  - name: Eine Kuchenbäckerin.
+    gender: f
+  - name: Mehrere Dienstmägde. Gäste u.s.w.
+    isGroup: true
+    gender: u
+setting: >-
+  Schauplatz: vor dem Potsdamer Thore. Das Jahr 1796. (Wirthshaus in der Allee. Bänke. Tische.)
+location:
+  wikidataId: Q1711
+---
 slug: blum-lisette-oder-borgen-macht-gluecklich
 author:
   name: Blum, Carl
@@ -25554,6 +25610,50 @@ setting: >-
 location:
   wikidataId: Q2079
 ---
+slug: guehery-die-kosacken
+author:
+  name: Guehery, Louis Amanley de
+  wikidata: Q95340914
+title: Die Kosacken
+subtitle: Lustspiel in gereimten Versen, in einem Akt
+numberOfScenes: 11
+printed: 1813
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Memel und Polangen (Dresden: Arnoldi) 1813"
+    url: https://books.google.com/books?id=8KVOAAAAcAAJ&printsec=frontcover
+  - title: "Dramatisches Taschenbuch auf das Jahr 1815. Dresden: Arnoldi 1815, S. 135–168"
+    url: https://books.google.com/books?id=y5xIAAAAcAAJ&pg=PA135
+comments:
+  - "Hinweis auf dem Titelblatt: »Nach einer wahren Anekdote aus dem jetzigen Kriege bearbeitet und mehr als hundert mal aufgeführt, mit Variationen, auf dem großen National-Kriegs-Theater in Rußland und Teutschland.«"
+keywords:
+  - Krieg
+cast:
+  - name: Uhle,
+    role: ein vormaliger Pachter.
+    gender: m
+  - name: Marthe,
+    role: dessen Frau.
+    gender: f
+  - name: Rose,
+    role: dessen Tochter.
+    gender: f
+  - name: Fritz,
+    role: ein Student, Rosens Verlobter.
+    gender: m
+  - name: Hase,
+    role: Nachtwächter eines nahen Dorfs.
+    gender: m
+  - name: Französische Soldaten.
+    isGroup: true
+    gender: m
+  - name: Kosacken.
+    isGroup: true
+    gender: m
+setting: >-
+  Das Stück spielt in Uhle's Wohnung, einem von der Landstraße entfernten Hause, an der russisch-preußischen Gränze.
+---
 slug: guelden-lord-pittel-oder-die-tochter-pharaonis
 author:
   name: Guelden, Johann Georg
@@ -30529,6 +30629,58 @@ cast:
 setting: >-
   In einem reinlichen Zimmer, mit altfränkischen Meubles und Portraits an den Wänden, sitzt Anna Maria rechts neben einem Tische und spinnt; links Euphrosine, die Brille auf der Nase, in einer Postille lesend; an der andern Seite des Tisches rechter Hand, auf der Erde, sitzt Karl Gut, und füttert einen unter dem Tische befindlichen, aber nicht sichtbaren alten Kater.
 ---
+slug: hinze-karl-und-louise-oder-der-vaterkuss
+author:
+  name: Hinze, Heimbert Paul Friedrich
+  wikidata: Q19210496
+title: Karl und Louise, oder Der Vaterkuß
+subtitle: Ländliches Schauspiel in Einem Akt; zur Feyer des Abschiedes von der Schleswiger Bühne, im Junny, 1812
+numberOfScenes: 6
+printed: 1815
+premiered: 1812-06
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatischer Almanach, für Freunde des Scherzes und froher Laune. Ein Neujahrsgeschenk auf 1815. von dem Schauspieler Heimbert Paul Friedrich Hinze. Altona und Flensburg: Vollmer [1815]"
+    url: https://books.google.com/books?id=WbBIAAAAcAAJ&pg=RA2-PA1
+cast:
+  - name: Alexander, Freyherr von der Schley,
+    role: Erbherr auf Sophienlund, General in königl. ***schen Diensten.
+    gender: m
+  - name: Sophie,
+    role: seine Gemahlin.
+    gender: f
+  - name: Mathilde,
+    role: seine Schwester.
+    gender: f
+  - group:
+      - name: Karl,
+        gender: m
+      - name: Louise,
+        gender: f
+    role: ihre Kinder.
+  - name: Zwey Generaladjudanten.
+    isGroup: true
+    gender: m
+  - name: Der Schulmeister des Dorfs.
+    gender: m
+  - name: Der Schulz des Dorfs.
+    gender: m
+  - name: Christel,
+    role: des Schulmeisters Sohn.
+    gender: m
+  - name: Lieschen,
+    role: des Schulzens Tochter.
+    gender: f
+  - name: Käthe,
+    role: eine alte Bäuerin.
+    gender: f
+  - name: Soldaten, Bauern, Bäuerinnen, Knaben und Mädchen des Dorfes.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Szene ist zur Sophienlund, einem Lustschlosse der Familie von der Schley. (Das Theater stellt eine ländliche, von Bergen und Bäumen reizend eingeschlossene Gegend vor; eine kriegerische Symphonie kündigt das Stück an.) (Es ist früher Morgen; marschfertige Soldaten, in kleinen Abtheilungen, ziehen über die Bühne, nach der linken Seite hin, hinter der Szene hört man, nach einer bekannten Melodie, folgender Strophen, doch ohne Musikbekleidung, singen.)
+---
 slug: hinze-kuenstlers-fegfeuer
 author:
   name: Hinze, Heimbert Paul Friedrich
@@ -30576,6 +30728,35 @@ cast:
     gender: f
 setting: >-
   Das Theater stellt das ärmliche Zimmer eines Schauspielers ausser Engagement vor; Kleidungsstücke liegen unordentlich umher zerstreut. Links steht ein Tisch, worauf Tücher, Bänder, Perlen, ein Barett und anderer theatralischer Apparat liegen, rechts ein Tisch, mit Papieren, Büchern und Rollen bepackt. An beyden Seiten sind Kabinetsthüren.
+---
+slug: hinze-oben-und-unten
+author:
+  name: Hinze, Heimbert Paul Friedrich
+  wikidata: Q19210496
+title: Oben und Unten
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 8
+printed: 1815
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatischer Almanach, für Freunde des Scherzes und froher Laune. Ein Neujahrsgeschenk auf 1815. von dem Schauspieler Heimbert Paul Friedrich Hinze. Altona und Flensburg: Vollmer [1815]"
+    url: https://books.google.com/books?id=WbBIAAAAcAAJ&pg=RA1-PA1
+cast:
+  - name: Mutter Trude,
+    role: harthörig.
+    gender: f
+  - name: Lieschen,
+    role: ihre Tochter.
+    gender: f
+  - name: Jan Peter,
+    role: ihr Vetter.
+    gender: m
+  - name: Magister Schubbiackius,
+    role: Kantor und Schulmeister.
+    gender: m
+setting: >-
+  Das Theater stellt eine ländliche Gegend vor, rechts ein reinliches Bauerhaus, neben der Thüre das Stubenfenster. Links ein breiter, schattiger Baum, darunter eine Bank. Im Hintergrunde ein Bach zwischen Gesträuchen.
 ---
 slug: hippel-der-mann-nach-der-uhr-oder-der-ordentliche-mann
 author:
@@ -35710,6 +35891,44 @@ setting: >-
   Der Schauplatz ist zu Hamburg.
 location:
   wikidataId: Q1055
+---
+slug: korntheuer-der-ist-der-rechte
+author:
+  name: Korntheuer, Friedrich Joseph
+  wikidata: Q27584803
+title: Der ist der Rechte!
+subtitle: Lustspiel in 1 Act
+numberOfScenes: 23
+printed: 1814
+premiered: 1820-04-28
+formalia:
+  - Prosa
+editions:
+  - title: "Brünner Theater-Taschenbuch auf das Jahr 1814. Brünn: Traßler 1814, S. 85–126"
+    url: https://books.google.com/books?id=15lIAAAAcAAJ&pg=PA85
+comments:
+  - "Analyse in: Julia Madeleine Thym: Friedrich Joseph Korntheuer. Ein Beitrag zu einem vergessenen Dramatiker des frühen 19. Jahrhunderts. Masterarbeit. Wien 2017, [S. 48–51](http://othes.univie.ac.at/49242/1/52009.pdf#page=54)."
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Herr Walm,
+    role: gewesener Kaufmann.
+    gender: m
+  - name: Frau v. Seppenheim,
+    role: verwittwete Justizräthin, seine Schwester.
+    gender: f
+  - name: Antonie,
+    role: ihre Tochter.
+    gender: f
+  - name: Herr Ball.
+    gender: m
+  - name: Herr v. Bingen.
+    gender: m
+  - name: Werden.
+    gender: m
+  - name: Charles,
+    role: Walm's Bedienter.
+    gender: m
 ---
 slug: kotzebue-baebbel-oder-aus-zwey-uebeln-das-kleinste
 author:
@@ -49199,7 +49418,7 @@ editions:
   - title: "Nützliches Theaterrequisit, besonders für mittlere und reisende Bühnen. Herausgegeben von E. Wehrmann und A. F. Oldenburg. Rathenow: Flick 1826, S. 19–30"
     url: https://books.google.com/books?id=lxzgGy7gmxMC&pg=PA19
 keywords:
-  - Allegorische Figuren
+  - allegorische Figuren
 cast:
   - name: Das alte Jahr.
     role: in Gestalt eines Greises.
@@ -50880,6 +51099,50 @@ cast:
 setting: >-
   Die Handlung spielt im Hause des Hofraths. (Elegantes Zimmer; neben der Thüre im Hintergrunde zu beiden Seiten ein Bücherschrank, im Vordergrunde ein Sekretair, an welchem zwei Personen gegenüber sitzen und arbeiten können, neben an ein Papierkorb, auf dem Schreibtische stehen Schiller's und Göthe's Büsten.)
 ---
+slug: ploetz-die-choleramanen
+author:
+  name: Plötz, Johann von
+  wikidata: Q94874028
+title: Die Choleramanen
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 29
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele von Johann von Plötz. München: Kranz 1835, S. 1–71"
+    url: https://books.google.com/books?id=LxU0jwUoAWsC&pg=PA1
+  - title: "Beiträge zur deutschen Bühne von Johann von Plötz. Erster Band. München: Franz 1845, S. 1–71"
+    url: https://books.google.com/books?id=hDtJAAAAcAAJ&pg=PA1
+comments:
+  - "In der Vorerinnerung: »Um der Handlung etwas mehr Interesse zu geben, ward ein Auftritt aus einem frühern Lustspiel von mir (der Landtag zu Krähwinkel in 5 Aufzügen), eingeschaltet.« ([S. V](https://books.google.com/books?id=hDtJAAAAcAAJ&pg=PP9))"
+cast:
+  - name: Nikolaus Staar,
+    role: Bürgermeister.
+    gender: m
+  - name: Seine Mutter.
+    gender: f
+  - name: Wilhelmine,
+    role: seine Tochter.
+    gender: f
+  - name: Muhme Morgenroth.
+    gender: f
+  - name: Muhme Brendel.
+    gender: f
+  - name: Sperling von Spatz,
+    role: Gemeindevertreter.
+    gender: m
+  - name: Doktor Treufels.
+    gender: m
+  - name: Marianne,
+    role: Magd.
+    gender: f
+  - name: Mehrere Dienstbothen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung spielt zu Krähwinkel im Hause des Bürgermeisters.
+---
 slug: ploetz-die-gunst-der-kleinen-oder-die-hintertreppe
 author:
   name: Plötz, Johann von
@@ -51273,6 +51536,33 @@ setting: >-
   Der Ort der Handlung ist an der italienischen Küste in Ober-Italien.
 location:
   wikidataId: Q4345530
+---
+slug: rabenalt-die-hochzeitsreise
+author:
+  name: Rabenalt, Karl Theodor
+title: Die Hochzeitsreise
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1816
+formalia:
+  - Prosa
+editions:
+  - title: "Neue deutsche Schaubühne oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Erster Band. Augsburg und Leipzig: Jenisch und Stage [1816], S. 209–254"
+    url: https://books.google.com/books?id=KSg7AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Madame Bollmann,
+    role: eine Wittwe.
+    gender: f
+  - name: Malchen,
+    role: ihre Nichte.
+    gender: f
+  - name: Herr Breitenschädel.
+    gender: m
+  - name: Theodor Wolde,
+    role: ein junger Mahler.
+    gender: m
+setting: >-
+  Die Handlung geht in einem Saale vor, links und rechts Seitenzimmer und Fenster. Im Hintergrunde eine Mittelthüre, auf einem Tische steht ein kleiner Waschkorb, und in einer Ecke ein moderner, großer Lehnsessel.
 ---
 slug: rahbek-die-matrone-von-ephesus
 author:
@@ -60163,6 +60453,36 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz stellte eine Loge vor, mit einer bequemen Aussicht, besonders auf die Rückwand des Parterrs.
+---
+slug: sonnleithner-der-goenner
+author:
+  name: Sonnleithner, Joseph
+  wikidata: Q86117
+title: Der Gönner
+subtitle: Ein Lustspiel in einem Act
+numberOfScenes: 15
+printed: 1815
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch für deutsche Schaubühnen, und Liebhabertheater. Erster Jahrgang. Wien: Wallishausser 1815, S. 5–68"
+    url: https://books.google.com/books?id=H1Iyr2TGGRIC&pg=PA5
+cast:
+  - name: Der Minister Lernau.
+    gender: m
+  - name: Pfeil,
+    role: ein Wirth.
+    gender: m
+  - name: Cathrinchen,
+    role: seine Tochter.
+    gender: f
+  - name: Ewald.
+    gender: m
+  - name: Dienerschaft des Grafen und des Wirths.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht in einem kleinen Städtchen an der Landtraße, in Pfeils Gasthofe vor. (Eine gemeinschaftliche Stube.)
 ---
 slug: sonnleithner-die-gartenmauer
 author:
@@ -69783,6 +70103,41 @@ cast:
     isGroup: true
     gender: u
 ---
+slug: wiese-die-bettler
+author:
+  name: Wiese, Sigismund
+  wikidata: Q55900898
+title: Die Bettler
+subtitle: Trauerspiel in einem Acte
+numberOfScenes: 2
+printed: 1837
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbücher für Drama, Dramaturgie und Theater. Herausgegeben von E. Willkomm und A. Fischer. 1. Band. Leipzig: Wunder 1837, S. 207–214"
+    url: https://books.google.com/books?id=6aFSAAAAcAAJ&pg=PA207
+cast:
+  - name: Hiob Lebrecht,
+    role: ein Lumpensammler.
+    gender: m
+  - group:
+      - name: Stephan
+        gender: m
+      - name: Anna
+        gender: f
+    role: seine Kinder.
+  - name: Frau Rollern.
+    gender: f
+  - name: Der Director eines Zuchthauses.
+    gender: m
+  - name: Ein Zuchmeister.
+    gender: m
+  - name: Häscher.
+    isGroup: true
+    gender: m
+setting: >-
+  Die armselige Dachkammer des Lumpensammlers in dem Hause der Frau Rollern. Ungewisses Mondlicht. Sturm.
+---
 slug: wilke-wallhaide
 author:
   name: Wilke, J. H.
@@ -70064,6 +70419,47 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist ein Zimmer mit einer Mittelthüre, einer Seitenthüre und einem Fenster.
+---
+slug: wolff-pflicht-um-pflicht
+author:
+  name: Wolff, Pius Alexander
+  wikidata: Q121270
+title: Pflicht um Pflicht
+subtitle: Schauspiel in Einem Akt
+numberOfScenes: 15
+printed: 1817
+premiered: 1814-05-25
+formalia:
+  - gereimte trochäische Verse
+dictionaries:
+  - name: corvey
+    pages: S. 479–480
+    url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=477"
+editions:
+  - title: "Almanach für Privatbühnen. Erstes Bändchen auf das Jahr 1817. Herausgegeben von Adolph Müllner. Leipzig: Göschen [1817], S. 91–152"
+    url: https://books.google.com/books?id=DWQ6AAAAcAAJ&pg=PA91
+ids:
+  weber: A021277
+comments:
+  - "Auch unter dem Titel »Pflicht um Pflicht, oder: Die großmüthigen Freunde« ([Theaterzettel Weimar](https://staatsarchive.thulb.uni-jena.de/receive/ThHStAW_archivesource_00021656))."
+  - "Besprechung in: Abend-Zeitung. Nr. 301 (Freitag, am 18. December, 1818), [unpag.](https://books.google.com/books?id=A0P1xXk9QqEC&pg=RA46-PT1)"
+keywords:
+  - Ritterstück
+  - Sklaverei
+  - Freundschaft
+cast:
+  - name: Achmet.
+    gender: m
+  - name: Hassan.
+    gender: m
+  - name: Hermann.
+    gender: m
+  - name: Ein Jude.
+    gender: m
+  - name: Zuleima.
+    gender: f
+setting: >-
+  Der Schauplatz ein einfacher Garten; im Hintergrunde eine Gitterthür mit der Aussicht auf die Stadt. Vorn auf jeder Seite ein kleines Haus, vor jedem eine Bank.
 ---
 slug: wolff-treue-siegt-in-liebesnetzen
 author:
