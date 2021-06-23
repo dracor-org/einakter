@@ -19989,6 +19989,38 @@ cast:
 setting: >-
   Das Stück spielt in einer Handelsstadt am Elbstrome gelegen. (Weinstube des Herrn Schwefelberg mit Tischen und dazu gehörigen Bänken.)
 ---
+slug: costenoble-das-blindekuhspiel
+author:
+  name: Costenoble, Karl Ludwig
+  wikidata: Q1732203
+title: Das Blindekuhspiel
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1811
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele von C. Costenoble. Ein Taschenbuch für 1811. Hamburg: Schmidt [1811], S. 215–310"
+    url: https://books.google.com/books?id=lx515clPwbUC&pg=PA215
+cast:
+  - name: Hauptmann Färber.
+    gender: m
+  - name: Wilhelmine,
+    role: seine Frau.
+    gender: f
+  - name: Advokat Olldiz.
+    gender: m
+  - name: Henriette,
+    role: seine Frau.
+    gender: f
+  - name: Musikdirektor Quendel.
+    gender: m
+  - name: Sara,
+    role: seine Frau.
+    gender: f
+setting: >-
+  Das Theater besteht aus drei Abtheilungen. In der Mitte erblickt man ein Wohnzimmer zwischen zwei kleinen Kabinetten. Ersteres hat eine gewöhnliche Mittelthür. Letztere haben jedes eine Art von Tapetenthür im Fond, nebst einer Seitenthür zum Wohnzimmer.
+---
 slug: costenoble-der-schiffbruch
 author:
   name: Costenoble, Karl Ludwig
@@ -20091,6 +20123,38 @@ cast:
   - name: Noch ein Bedienter der Fr. von Grottau.
     gender: m
 setting: Die Scene ist im Hause der Frau von Grottau.
+---
+slug: costenoble-die-kapitulation
+author:
+  name: Costenoble, Karl Ludwig
+  wikidata: Q1732203
+title: Die Kapitulation
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1816
+premiered: 1816-12-01
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele von C. Costenoble. Ein Taschenbuch für 1816. Hamburg: Hoffmann [1816], S. 223–281"
+    url: https://books.google.com/books?id=Vc16pw9xcXQC&pg=PA223
+cast:
+  - name: Siegfried Brummer.
+    gender: m
+  - name: Rose,
+    role: sein Mündel.
+    gender: f
+  - name: Blonde,
+    role: ihr Mädchen.
+    gender: f
+  - name: von Weiler,
+    role: Kapitain.
+    gender: m
+  - name: Simplicius Hühnchen,
+    role: ein Pachter.
+    gender: m
+setting: >-
+  Zimmer mit einer einzigen Thür bei Brummer. Linker Hand steht ein großer Kleiderschrank mit zwei Thüren, wovon nur eine geöffnet wird. Die Füße des Schrankes sind so hoch, daß ein Mensch sich darunter verbergen kann.
 ---
 slug: costenoble-die-terne
 author:
@@ -20234,6 +20298,87 @@ cast:
     gender: m
 setting: >-
   Großer gemeinschaftlicher Saal im goldenen Türken mit zwey Mittelthüren und vier Seitenthüren.
+---
+slug: costenoble-fehlgeschossen
+author:
+  name: Costenoble, Karl Ludwig
+  wikidata: Q1732203
+title: Fehlgeschossen!
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 9
+printed: 1811
+premiered: 1806-05-15
+formalia:
+  - kreuzgereimte Verse
+editions:
+  - title: "Dramatische Spiele von C. Costenoble. Ein Taschenbuch für 1811. Hamburg: Schmidt [1811], S. 311–360"
+    url: https://books.google.com/books?id=lx515clPwbUC&pg=PA311
+cast:
+  - name: Albert,
+    role: ein junger Drechsler.
+    gender: m
+  - name: Albertine,
+    role: seine Frau.
+    gender: f
+setting: >-
+  Alberts Werkstatt. An jeder Seite des Zimmers steht ein Kleiderschrank.
+---
+slug: costenoble-lottoglueck
+author:
+  name: Costenoble, Karl Ludwig
+  wikidata: Q1732203
+title: Lottoglück
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1816
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dramatische Spiele von C. Costenoble. Ein Taschenbuch für 1816. Hamburg: Hoffmann [1816], S. 153–221"
+    url: https://books.google.com/books?id=Vc16pw9xcXQC&pg=PA153
+cast:
+  - name: Barthel,
+    role: ein Töpfer.
+    gender: m
+  - name: Hanne,
+    role: seine Frau.
+    gender: f
+  - name: Schmuel,
+    role: ein Handelsjude.
+    gender: m
+  - name: Gottlieb,
+    role: Barthels Lehrjunge.
+    gender: m
+setting: >-
+  Ein bürgerliches Zimmer. Rechts steht ein Kleiderschrank und ein Spinnrad; links die Drehscheibe des Töpfers. Auf Bänken stehen verschiedene neue Töpferwaaren umher.
+---
+slug: costenoble-vatertreue
+author:
+  name: Costenoble, Karl Ludwig
+  wikidata: Q1732203
+title: Vatertreue
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1811
+formalia:
+  - Verse
+editions:
+  - title: "Dramatische Spiele von C. Costenoble. Ein Taschenbuch für 1811. Hamburg: Schmidt [1811], S. 1–70"
+    url: https://books.google.com/books?id=lx515clPwbUC&pg=PA1
+cast:
+  - name: Lasperg.
+    gender: m
+  - name: Döbel.
+    gender: m
+  - name: Auguste.
+    gender: f
+  - name: Herrmann,
+    role: ihr Sohn.
+    gender: f
+  - name: Sommer.
+    gender: m
+setting: >-
+  Straße. Nacht. Laternen brennen.
 ---
 slug: cremeri-die-ohnmachten-oder-heute-bleiben-wir-auf-der-gasse
 author:
@@ -24252,6 +24397,187 @@ setting: >-
 location:
   wikidataId: Q64
 ---
+slug: gebhard-anton-und-claerchen
+author:
+  name: Gebhard, Friedrich Albert
+  wikidata: Q55089235
+title: Anton und Clärchen
+subtitle: Eine ländliche Scene mit Gesang in einem Aufzuge
+numberOfScenes: 11
+printed: 1809
+formalia:
+  - Prosa
+editions:
+  - title: "Kleiner Beytrag für die Bühne. Leipzig: Rein 1809, S. 185–226"
+    url: https://books.google.com/books?id=VN5JAAAAcAAJ&pg=PA185
+comments:
+  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
+  - "Alle Titel im Band »Kleiner Beytrag für die Bühne« (1809) wurden vor dem Druck bereits in St. Petersburg aufgeführt."
+cast:
+  - name: Richard,
+    role: ein Bauer.
+    gender: m
+  - name: Anton,
+    role: sein Sohn.
+    gender: m
+  - name: Walter,
+    role: Schulz des Dorfs.
+    gender: m
+  - name: Anna,
+    role: sein Weib.
+    gender: f
+  - name: Clärchen,
+    role: seine Tochter.
+    gender: f
+  - name: Hauptmann eines Infanterie-Regiments.
+    gender: m
+  - name: Schulmeister des Dorfes.
+    gender: m
+  - name: Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Waldige Gegend; im Hintergrunde die Bauernhütte des alten Richarts; im Vordergrunde ein Lindenbaum, worunter eine Rasenbank angebracht ist. Anton allein; kommt mit heitrer Miene aus der Hütte.
+---
+slug: gebhard-der-avanturier
+author:
+  name: Gebhard, Friedrich Albert
+  wikidata: Q55089235
+title: Der Avanturier
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1809
+formalia:
+  - Prosa
+editions:
+  - title: "Kleiner Beytrag für die Bühne. Leipzig: Rein 1809, S. 227–280"
+    url: https://books.google.com/books?id=VN5JAAAAcAAJ&pg=PA227
+comments:
+  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
+  - "Alle Titel im Band »Kleiner Beytrag für die Bühne« (1809) wurden vor dem Druck bereits in St. Petersburg aufgeführt."
+cast:
+  - name: Frau v. Stammfort.
+    gender: f
+  - name: Amalie,
+    role: ihre Tochter.
+    gender: f
+  - name: Baron v. Whist.
+    gender: m
+  - name: Adolphi,
+    role: Gerichtshalter.
+    gender: m
+  - name: Hans Reck,
+    role: sein alt. Diener.
+    gender: m
+  - name: Ein Polizeyunterofficier.
+    gender: m
+  - name: Zwey Gerichtsdiener.
+    isGroup: true
+    gender: m
+  - name: Bediente der Frau v. Stammfort.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist auf einem Gute der Frau v. Stammfort. (Zimmer der Frau v. Stammfort. Es ist Morgen.)
+---
+slug: gebhard-die-heurathslustige-familie
+author:
+  name: Gebhard, Friedrich Albert
+  wikidata: Q55089235
+title: Die heurathslustige Familie
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1809
+formalia:
+  - Prosa
+editions:
+  - title: "Kleiner Beytrag für die Bühne. Leipzig: Rein 1809, S. 367–415"
+    url: https://books.google.com/books?id=VN5JAAAAcAAJ&pg=PA367
+comments:
+  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
+  - "Alle Titel im Band »Kleiner Beytrag für die Bühne« (1809) wurden vor dem Druck bereits in St. Petersburg aufgeführt."
+cast:
+  - name: Baron Kaupisch.
+    gender: m
+  - group:
+      - name: Marie,
+        gender: f
+      - name: Cätchen,
+        role: 10 Jahr alt,
+        gender: f
+    role: seine Töchter.
+  - name: August,
+    role: sein Sohn.
+    gender: m
+  - name: Fritz von Frohmuth.
+    gender: m
+  - name: Baron Heldrungen.
+    gender: m
+  - name: Frau Toll, von Tollbergshausen.
+    gender: f
+  - name: Minna Hof.
+    gender: f
+  - name: Albertine Rosen.
+    gender: f
+  - name: Lottchen,
+    role: Mariens Kammermädchen.
+    gender: m
+  - name: Witzig,
+    role: Bedienter von Fritz Frohmuth.
+    gender: m
+  - name: Schlau,
+    role: Bedienter des Baron August.
+    gender: m
+  - name: Musikanten und Tänzer.
+    isGroup: true
+    gender: u
+setting: >-
+  Gemeinschaftlicher großer Saal.
+---
+slug: gebhard-die-rueckkunft-der-soehne
+author:
+  name: Gebhard, Friedrich Albert
+  wikidata: Q55089235
+title: Die Rückkunft der Söhne
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 22
+printed: 1809
+formalia:
+  - Prosa
+editions:
+  - title: "Kleiner Beytrag für die Bühne. Leipzig: Rein 1809, S. 1–66"
+    url: https://books.google.com/books?id=VN5JAAAAcAAJ&pg=PA1
+comments:
+  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
+  - "Alle Titel im Band »Kleiner Beytrag für die Bühne« (1809) wurden vor dem Druck bereits in St. Petersburg aufgeführt."
+cast:
+  - name: General, Graf Landzowsky,
+    role: ausser Diensten.
+    gender: m
+  - group:
+      - name: Ferdinand
+        gender: m
+      - name: August
+        gender: m
+    role: "seine Söhne: Uhlanen-Officiere."
+  - group:
+      - name: Caroline
+        gender: f
+      - name: Therese
+        gender: f
+    role: ihre Cousine, im Hause des alten Grafen.
+  - name: von Rossinsky,
+    role: ein reicher Gutsbesitzer, in der Nähe des Grafen.
+    gender: m
+  - name: Laps,
+    role: ein alter Diener im Hause des Grafen.
+    gender: m
+  - name: Mehrere Bauern, Bäurin, Gäste etc.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene spielt auf einem Landguthe des Grafen. (Gräfliches Zimmer mit mehrern Seiten- und Mittelthüren. Es ist noch sehr früh. Caroline, im eleganten Negligee, kommt aus ihrem Schlafzimmer; sieht nach der Uhr.)
+---
 slug: gebler-das-bindband-oder-die-fuenf-theresen
 author:
   name: Gebler, Tobias Philipp von
@@ -26654,6 +26980,46 @@ cast:
 setting: >-
   Das Stück spielt in Uhle's Wohnung, einem von der Landstraße entfernten Hause, an der russisch-preußischen Gränze.
 ---
+slug: guehery-drei-freier-in-einem
+author:
+  name: Guehery, Louis Amanley de
+  wikidata: Q95340914
+title: Drei Freier in Einem
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 16
+printed: 1815
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Taschenbuch auf das Jahr 1815. Dresden: Arnoldi 1815, S. 169–246"
+    url: https://books.google.com/books?id=y5xIAAAAcAAJ&pg=PA169
+cast:
+  - name: von Droste,
+    role: ein Landedelmann.
+    gender: m
+  - name: Lieutenant von Droste,
+    role: sein Sohn.
+    gender: m
+  - name: von Braun.
+    gender: m
+  - name: Frau von Buchau,
+    role: verwitwet, dessen Schwester.
+    gender: f
+  - name: Julie,
+    role: deren Nichte.
+    gender: f
+  - name: Nanette,
+    role: ihre Jungfer.
+    gender: f
+  - name: Franz,
+    role: des Lieutenants Bedienter.
+    gender: m
+  - name: Friedrich,
+    role: des alten Droste Bedienter.
+    gender: m
+setting: >-
+  Zimmer des Lieutenants von Droste.
+---
 slug: guelden-lord-pittel-oder-die-tochter-pharaonis
 author:
   name: Guelden, Johann Georg
@@ -26941,6 +27307,54 @@ cast:
 setting: >-
   Die Handlung ist in einer entlegenen Vorstadt einer Residenz in der Wohnung des Scheerenschleifers. (Ein dürftig meublirtes Zimmer des Scheerenschleifers, mit einer kleinen Seitenthüre, welche zu dessen Kammer führt.)
 ---
+slug: guttenberg-die-freier-mit-hoelzernen-beinen
+author:
+  name: Guttenberg, Andreas Josef von
+  wikidata: Q94889736
+title: Die Freier mit hölzernen Beinen
+subtitle: Eine Karnevalsposse in einem Aufzuge
+numberOfScenes: 17
+printed: 1820
+formalia:
+  - Prosa
+editions:
+  - title: "Original-Theater für das Jahr 1820. Zusammengetragen von mehrern dramatischen Dichtern. Vierter Band. Augsburg und Leipzig: Jenisch und Stage [1820], S. 213–268"
+    url: https://books.google.com/books?id=VCU7AAAAcAAJ&pg=PA213
+cast:
+  - name: Hannibal von Hahnenklau,
+    role: ein Landedelmann.
+    gender: m
+  - name: Margaretha von Hahnenklau,
+    role: seine Gemahlin.
+    gender: f
+  - name: Fridoline,
+    role: deren Tochter.
+    gender: f
+  - name: Hanns Putz,
+    role: ein Student, Neffe des Hahnenklau.
+    gender: m
+  - name: Alexander von Schnautzenschnabel,
+    role: abgedankter Hauptmann eines Freibataillons.
+    gender: m
+  - name: Fritz Werder.
+    gender: m
+  - name: Jakob,
+    role: sein Bedienter.
+    gender: m
+  - name: Stichbrand,
+    role: der Dorfbarbier.
+    gender: m
+  - name: Justine,
+    role: Fridolinens Mädchen.
+    gender: f
+  - name: Ein kleiner Knabe.
+    gender: m
+  - name: Viele Bediente des Herrn von Hahnenklau.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Stück spielt auf dem Landgute des Herrn von Hahnenklau. (Das Theater stellt eine Gegend vor dem Hahnenklauischen Schlosse vor, welche zugleich den gemeinschaftlichen Weg ins Dorf bildet, allenfalls eine Allee. Das Schloß sieht man im Hintergrunde, weiter vorn umzingelt ein eisernes Gitter den Umfang des Schosses, dessen Mitte aus einem applikablen Thor mit zwei Flügeln besteht. Das ganze etwas antique und massiv. Im Vordergrund eine Rasenbank, auf welcher Fritz Werder ausgestreckt liegt und eine Pfeife Toback raucht. Jakob sitzt gegenüber auf einer steinernen Bank und raucht ebenfalls.)
+---
 slug: guttenberg-die-komoedie-ohne-titel
 author:
   name: Guttenberg, Andreas Josef von
@@ -26973,6 +27387,48 @@ cast:
     role: Bedienter bey Solners.
     gender: m
 setting: Die Scene ist im Hause der Wittwe Brandenstern.
+---
+slug: guttenberg-zwanzigtausend-thaler
+author:
+  name: Guttenberg, Andreas Josef von
+  wikidata: Q94889736
+title: Zwanzigtausend Thaler
+subtitle: Ein Lustspiel in einem Aufzuge. Frei nach dem Französischen des Dorvigny
+numberOfScenes: 19
+printed: 1820
+formalia:
+  - Prosa
+basedOn:
+  - Dorvigny
+editions:
+  - title: "Original-Theater für das Jahr 1820. Zusammengetragen von mehrern dramatischen Dichtern. Fünfter Band. Augsburg und Leipzig: Jenisch und Stage [1820], S. 79–126"
+    url: https://books.google.com/books?id=DSE7AAAAcAAJ&pg=PA79
+cast:
+  - name: Herr Eustachius Rübensee,
+    role: Stadtsyndikus.
+    gender: m
+  - name: Jungfer Hyacinte,
+    role: seine Schwester.
+    gender: f
+  - name: Amalie,
+    role: seine Tochter.
+    gender: f
+  - name: Clärchen,
+    role: ein Landmädchen, bei Rübensee im Dienste.
+    gender: f
+  - name: Fritz Schmuck,
+    role: ein junger Bauernbursche.
+    gender: m
+  - group:
+      - name: Herr Streit
+        gender: m
+      - name: Herr Angst
+        gender: m
+      - name: Herr Skrupel
+        gender: m
+    role: Advokaten.
+setting: >-
+  Die Handlung ist in einer Provinzialstadt im Hause des Stadtsyndikus. (Ein schön meublirtes Zimmer mit einer Mittelthüre und vier Seitenthüren. Im Vordergrund der Bühne ein Kanapee, vor welchem ein Tisch mit Schreibgeräthschaften steht.)
 ---
 slug: hafner-die-dramatische-unterhaltung-unter-guten-freunden
 author:
@@ -29758,6 +30214,45 @@ setting: >-
   Die Handlung geht in einer kleinen Stadt ohnweit Kölln vor. (Die Bühne stellt einen Garten dar. Links eine Mauer, rechts ein Pavillon. Vorn ein Bosket mit Gartenstühlen.)
 location:
   wikidataId: Q365
+---
+slug: hell-wer-nimmt-ein-loos
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Wer nimmt ein Loos?
+subtitle: Lustspiel in einem Acte, nach Duval
+numberOfScenes: 24
+printed: 1827
+premiered: 1821-09-02
+formalia:
+  - Prosa
+basedOn:
+  - "Alexandre Duval: [»Le jeune homme en loterie. Comédie en un acte et en prose«](https://books.google.com/books?id=hBnUpVUE0EQC&printsec=frontcover)"
+editions:
+  - title: "Taschenbuch dramatischer Blüthen für das Jahr 1827 von Georg Harrys. Dritter Jahrgang. Hannover: Helwing 1827, S. 71–161"
+    url: https://books.google.com/books?id=evczrp9yWo0C&pg=PA71
+comments:
+  - "Vorrede: »[...] ist eine überrheinische Novität, welche in ihrer Heimath sich eines ungewöhnlichen Beyfalls zu erfreuen hatte und dreyzehn Darstellungen in den ersten Monaten ihrer Erscheinung erlebte«. ([S. 4](https://books.google.com/books?id=evczrp9yWo0C&pg=PA4))"
+cast:
+  - name: Carl von Stelten.
+    gender: m
+  - name: Heinrich von Stelten,
+    role: sein Oheim (unter dem angenommenen Namen Bornstein).
+    gender: m
+  - name: Julie,
+    role: dessen Tochter, eine junge Wittwe.
+    gender: f
+  - name: Marthe,
+    role: Stelten's Haushälterin.
+    gender: f
+  - name: Ein junges Mädchen.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Scene: Ein Zimmer mit Cabinet in Stelten's Wohnung zu Wien.
+location:
+  wikidataId: Q1741
 ---
 slug: hell-zwei-jahre-verheirathet-oder-wer-ist-daran-schuld
 author:
@@ -42158,6 +42653,149 @@ cast:
 setting: >-
   Die Schaubühne stellet ein Meer an einer Seite vor, auf der andern einige Bäume und Häuser.
 ---
+slug: kupelwieser-der-falsche-bart
+author:
+  name: Kupelwieser, Joseph
+  wikidata: Q89961
+title: Der falsche Bart
+subtitle: Posse in einem Act
+numberOfScenes: 20
+printed: 1825
+premiered: 1824-10-06
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Lustspiele. Von J. Kupelwieser. Erstes Bändchen. Wien: Sollinger 1825, S. 95–127"
+    url: https://books.google.com/books?id=gihXAAAAcAAJ&pg=PA95
+cast:
+  - name: Der Oberst.
+    gender: m
+  - name: Derville,
+    role: Lieutenant, des Obersten Neffe.
+    gender: m
+  - name: Plock,
+    role: Stadtrichter.
+    gender: m
+  - name: Lischen,
+    role: seine Nichte.
+    gender: f
+  - name: Martial,
+    role: Sappeur.
+    gender: m
+  - name: Ein Officier.
+    gender: m
+  - name: Ein Unterofficier.
+    gender: m
+  - name: Soldaten, Bewohner des Städtchens.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht in einem, vom Feinde besetzten, Städtchen vor. (Freyer Platz in einem kleinen Städtchen; zur Rechten im Vordergrunde des Stadtrichters Haus mit einem vorragenden Balkon, unter dem Balkon befindet sich der Eingang in das Haus.)
+---
+slug: kupelwieser-der-polterabend
+author:
+  name: Kupelwieser, Joseph
+  wikidata: Q89961
+title: Der Polterabend
+subtitle: Posse in einem Act. Frey nach dem Französischen der Hrn. Desaugier, Benjamin und Revoli
+numberOfScenes: 14
+printed: 1825
+premiered: 1825-03-08
+formalia:
+  - Prosa
+basedOn:
+  - Benjamin Antier und Jean-Baptiste-Rose-Bonaventure Violet d'Épagny
+editions:
+  - title: "Kleine Lustspiele. Von J. Kupelwieser. Erstes Bändchen. Wien: Sollinger 1825, S. 41–93"
+    url: https://books.google.com/books?id=gihXAAAAcAAJ&pg=PA41
+cast:
+  - name: Struck,
+    role: privatisirend.
+    gender: m
+  - name: Hannchen,
+    role: seine Tochter erster Ehe.
+    gender: f
+  - name: Frau Margarethe,
+    role: Strucks Schwägerinn.
+    gender: f
+  - name: Kripp,
+    role: Negotiant.
+    gender: m
+  - name: Carl Tillner.
+    gender: m
+  - name: Niclas,
+    role: Strucks Gärtner.
+    gender: m
+setting: >-
+  Die Handlung spielt in Strucks Gartenhause, an dem entlegensten Ende einer Handelstadt, und beginnt Abends. (Altmodisches Zimmer in Strucks Gartenhause. Eine Mittel-, und zwey Seitenthüren. Zur linken im Vorgrunde ein Fenster, mit einem großen herabhängenden Vorhange. Abend.)
+---
+slug: kupelwieser-die-vier-braeute-oder-der-heiraths-candidat
+author:
+  name: Kupelwieser, Joseph
+  wikidata: Q89961
+title: Die vier Bräute oder der Heiraths-Candiat
+subtitle: Posse in einem Act
+numberOfScenes: 17
+printed: 1825
+premiered: 1825-05-04
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Lustspiele. Von J. Kupelwieser. Erstes Bändchen. Wien: Sollinger 1825, S. 1–39"
+    url: https://books.google.com/books?id=gihXAAAAcAAJ&pg=PA1
+cast:
+  - name: Herr Fruhmann.
+    gender: m
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - name: Madame Hellbach,
+    role: eine Schauspielerinn.
+    gender: f
+  - name: Herr Knorpel,
+    role: ein reicher Holzhändler.
+    gender: m
+  - name: Leon,
+    role: angehender Notar.
+    gender: m
+  - name: Tinchen,
+    role: Kammermädchen bey Fruhmann.
+    gender: f
+  - name: Thomas,
+    role: Knecht bey Fruhmann.
+    gender: m
+setting: >-
+  Scene: Gartenzimmer mit einer Mittel- und zwey Nebenthüren. An der Rückwand zwey große, offene Fenster, durch welche man die Aussicht in den, mit Bäumen besetzten, Hof hat.
+---
+slug: kupelwieser-liebesproben
+author:
+  name: Kupelwieser, Joseph
+  wikidata: Q89961
+title: Liebesproben
+subtitle: Lustspiel in Versen, in Einem Acte
+numberOfScenes: 16
+printed: 1825
+formalia:
+  - Alexandriner
+editions:
+  - title: "Kleine Lustspiele. Von J. Kupelwieser. Erstes Bändchen. Wien: Sollinger 1825, S. 129–171"
+    url: https://books.google.com/books?id=gihXAAAAcAAJ&pg=PA129
+cast:
+  - name: Frau von Thal,
+    role: eine junge Witwe.
+    gender: f
+  - name: Angelika,
+    role: ihre Cousine.
+    gender: f
+  - name: Herr von Burg.
+    gender: m
+  - name: Herr von Stein.
+    gender: m
+  - name: Herr von Salt.
+    gender: m
+setting: >-
+  Schauplatz: Der Landsitz der Frau von Thal.
+---
 slug: kurlaender-baron-fueret
 author:
   name: Kurländer, Franz August von
@@ -46384,7 +47022,7 @@ dictionaries:
   - name: dramenlexikon
     pages: S. 204–205
 editions:
-  - title: "G. E. Leßings Schrifften. Sechster Theil. Berlin: Voß 1755 S. 217–288"
+  - title: "G. E. Leßings Schrifften. Sechster Theil. Berlin: Voß 1755, S. 217–288"
     url: https://books.google.com/books?id=w11YzmVBRTMC&pg=PA217
 comments:
   - "1767 vom Autor zu einem Dreiakter umgearbeitet unter dem leicht geänderten Titel [»Der Misogyn«](https://books.google.com/books?id=GOEGWJMSPC4C&pg=PA261) (insgesamt 23 Auftritte)."
@@ -52232,6 +52870,38 @@ cast:
     gender: u
 setting: >-
   Die Handlung spielt in der Schweiz, auf dem Schlosse des Grafen; beginnt Nachmittags, und endet Abends. (Ein großer Vorsaal mit Mittel- und Seitenthüren. Im Vordergrunde ein Fortepiano. Gegenüber hängt ein weibliches Portrait.)
+---
+slug: pannasch-die-christnacht
+author:
+  name: Pannasch, Anton
+  wikidata: Q55134193
+title: Die Christnacht
+subtitle: Schauspiel in einem Akt
+numberOfScenes: 6
+printed: 1837
+formalia:
+  - Blankvers
+editions:
+  - title: "Taschenbuch dramatischer Originalien. Herausgegeben von Dr. Franck. Erster Jahrgang. Leipzig: Brockhaus 1837, S. 227–258"
+    url: https://books.google.com/books?id=Iu1kAAAAcAAJ&pg=PA227
+comments:
+  - "Besprechung in: Allgemeine Literatur-Zeitung. Nr. 113 (Junius 1838), [Sp. 301](https://books.google.com/books?id=PClRAAAAYAAJ&pg=RA2-PA301)."
+cast:
+  - name: Der Förster.
+    gender: m
+  - name: Die Försterin.
+    gender: f
+  - name: Ein Bader.
+    gender: m
+  - name: Eine alte Bäuerin.
+    gender: f
+  - name: Eine Magd.
+    gender: f
+  - name: Drei Wildschützen.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Scene spielt theils in des Försters Hause, theils auf der nahen, waldigen Gebirgshöhe. Sie beginnt spät Abend und endet Nachts. (Zimmer des Försters. Im Hintergrunde steht die Försterin, überbeugend vor einem Kinderbett, das mit Vorhängen umzogen ist. Im Vordergrunde, zur rechten Hand von der Bühne, steht ein Tisch mit einem Lichte und einigen Töpfen und Tassen, zur Linken ist ein Kamin, bei welchem die Magd das Feuer unterhält. Von Außen hört man es stürmen.)
 ---
 slug: pantke-die-jugend
 author:
@@ -59764,6 +60434,89 @@ cast:
 setting: >-
   Die Scene auf dem Landgut einer Gräfinn.
 ---
+slug: schmid-der-blumenkranz
+author:
+  name: Schmid, Christoph von
+  wikidata: Q68202
+title: Der Blumenkranz
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1833
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele für Familienkreise. Zweites Bändchen. St. Gallen: Litteratur-Comptoir 1839, S. 3–42"
+    url: https://books.google.com/books?id=wmWj8TE6e3cC&pg=PA3
+  - title: "Gesammelte Schriften des Verfassers der Ostereier, Christoph von Schmid. Originalausgabe von letzter Hand. Achtzehntes Bändchen. Augsburg: Wolff 1844, S. 97–142"
+    url: https://books.google.com/books?id=dyZNAAAAcAAJ&pg=PA97
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau von Birkenthal.
+    gender: f
+  - group:
+      - name: Karl,
+        role: ungefähr neun Jahre alt,
+        gender: m
+      - name: Lotte,
+        role: acht Jahre alt,
+        gender: f
+    role: ihre Kinder.
+  - name: Waldau,
+    role: ein Jäger.
+    gender: m
+  - name: Fritz,
+    role: dessen Sohn, etwa zehn Jahre alt.
+    gender: m
+  - name: Hannchen,
+    role: ein Hirtenmädchen von etwa zwölf Jahren.
+    gender: f
+setting: >-
+  Der Schauplatz stellt eine angenehme Waldgegend vor. Auf einer Seite des Vordergrundes steht eine große Eiche, in deren dickem Stamme ein kleines länglicht rundes Gemählde eingefügt ist, die heilige Margaretha vorstellend – etwa nach Raphaels berühmtem Gemählde, wovon es verschiedene Kupferstiche giebt; auf der andern Seite des Vordergrundes, doch etwas mehr zurück, ein Fels mit einem kleinen Brünnlein, das aus einer Röhre hevorquillt, und sich in ein Felsenbecken ergießt; im Hintergrunde eine steinerne Bank, von  blühenden Gesträuchen beschattet. In der Ferne können die Ruinen eines alten Schlosses sichtbar seyn, das über einen waldigen Hügel hervorragt.
+---
+slug: schmid-die-erdbeeren
+author:
+  name: Schmid, Christoph von
+  wikidata: Q68202
+title: Die Erdbeeren
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1833
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele für Familienkreise. Von dem Verfasser der Ostereyer. Erstes Bändchen. Augsburg: Wolff 1833, S. 1–62"
+    url: https://books.google.com/books?id=DeddAAAAcAAJ&pg=PA1
+  - title: "Gesammelte Schriften des Verfassers der Ostereier, Christoph von Schmid. Originalausgabe von letzter Hand. Achtzehntes Bändchen. Augsburg: Wolff 1844, S. 13–56"
+    url: https://books.google.com/books?id=dyZNAAAAcAAJ&pg=PA13
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr von Waldengrund.
+    gender: m
+  - group:
+      - name: Karl,
+        role: 12 bis 14 Jahre alt,
+        gender: m
+      - name: Sophie,
+        role: 8 bis 10 Jahre alt,
+        gender: f
+      - name: Franz,
+        role: 5 bis 6 Jahre alt,
+        gender: m
+    role: seine Kinder.
+  - name: Martin,
+    role: ein Greis.
+    gender: m
+  - name: Jakob,
+    role: ein armer Mann.
+    gender: m
+  - name: Liese,
+    role: ein Köhlermädchen, von etwa 10 bis 12 Jahren.
+    gender: f
+setting: >-
+  Der Schauplatz ist ein freyer Platz zwischen Felsen, Gebüschen und Tannenbäumen, mit einer Aussicht ins Gebirg. Unter einem der Bäume befindet sich eine ländliche Bank.
+---
 slug: schmid-die-parodie
 author:
   name: Schmid, Christian Heinrich
@@ -64478,6 +65231,35 @@ cast:
   - name: Eduard,
     role: Theodors Vetter.
     gender: m
+---
+slug: steigentesch-die-zeichen-der-ehe
+author:
+  name: Steigentesch, August Ernst von
+  wikidata: Q761203
+title: Die Zeichen der Ehe
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1808
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele von Freyherrn von Steigentesch. Erster Theil. Wien und Triest: Geistinger 1808, S. 227–278"
+    url: https://books.google.com/books?id=npio_unowQwC&pg=PA227
+comments:
+  - "Spätere Ausgaben auch als Dreiakter mit zwei zusätzlichen Figuren, in: Taschenbuch auf das Jahr 1811. Von Aug. Freyh. v. Steigentesch. Wien und Triest: Geistinger [1811], [S. 65–180](https://books.google.com/books?id=U6ZxrxF7eYsC&pg=PA65), sowie in: Theater von A. Frhrn. v. Steigentesch. Erster Band. Wien: Haykul 1828, [S. 3–72](https://books.google.com/books?id=zy-kEVxSh3UC&pg=PA3)."
+cast:
+  - name: Oberkammerherr, Graf v. Milden.
+    gender: m
+  - name: Amalie,
+    role: seine Frau.
+    gender: f
+  - name: Luise,
+    role: Gräfin v. Milden, Witwe.
+    gender: f
+  - name: Baron von Dolft.
+    gender: m
+setting: >-
+  Ein gemeinschaftliches Zimmer mit zwei Seitenthüren.
 ---
 slug: steigentesch-liebe-neckt
 author:
@@ -73707,6 +74489,43 @@ cast:
     gender: m
 setting: >-
   Die armselige Dachkammer des Lumpensammlers in dem Hause der Frau Rollern. Ungewisses Mondlicht. Sturm.
+---
+slug: wilhelm-der-regen
+author:
+  name: Wilhelm, L.
+title: Der Regen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1820
+formalia:
+  - Alexandriner
+editions:
+  - title: "Original-Theater für das Jahr 1820. Zusammengetragen von mehrern dramatischen Dichtern. Sechster Band. Augsburg und Leipzig: Jenisch und Stage [1820], S. 161–212"
+    url: https://books.google.com/books?id=PCE7AAAAcAAJ&pg=PA161
+cast:
+  - name: Walter,
+    role: ein Maler.
+    gender: m
+  - name: Julchen,
+    role: seine Tochter.
+    gender: f
+  - name: Frau Sturm,
+    role: ihre Tante.
+    gender: f
+  - name: Ernst Düster,
+    role: Walters Hausfreund.
+    gender: m
+  - name: August Heiter,
+    role: ein Juwelenhändler.
+    gender: m
+  - name: Hagel,
+    role: sein Freund.
+    gender: m
+  - name: Mörsel,
+    role: ein Apotheker.
+    gender: m
+setting: >-
+  Kurze Strasse. – Zur Seite eine Apotheke. – Julie im Heraustreten mit dem ihr nachfolgenden Apotheker. – Den Anfang der Rede spricht dieser noch hinter der Scene.
 ---
 slug: wilke-wallhaide
 author:
