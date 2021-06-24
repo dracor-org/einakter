@@ -716,6 +716,8 @@ editions:
     url: https://books.google.com/books?id=Ymo6AAAAcAAJ&printsec=frontcover
   - title: "Leipzig: Reclam [ca. 1868]"
     url: https://nbn-resolving.de/urn:nbn:de:hbz:6:1-214497
+comments:
+  - "Eine »außerordentlich beliebte Posse« (Peter Sprengel: Geschichte der deutschsprachigen Literatur 1830–1870: Vormärz–Nachmärz. (= Geschichte der deutschen Literatur von den Anfängen bis zur Gegenwart; Band 8.) München: C.H. Beck 2020, [S. 585](https://books.google.com/books?id=XVYBEAAAQBAJ&pg=PA585))."
 keywords:
   - Eheanbahnung
   - Handwerker
@@ -2716,6 +2718,97 @@ cast:
     gender: f
 setting: Die Scene ist in einer Provinzial-Stadt.
 ---
+slug: anonym-das-freudenfest-einer-dorfgemeinde-in-hungarn
+author:
+  pseudonym: Anonym
+title: Das Freudenfest einer Dorfgemeinde in Hungarn
+subtitle: Ein ländliches Gemälde in einem Aufzuge
+numberOfScenes: 11
+printed: 1800
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 298
+editions:
+  - title: "Wien 1800"
+    url: https://books.google.com/books?id=v5BIAAAAcAAJ&printsec=frontcover
+comments:
+  - "Hinweis auf dem Titelblatt: »Bey der Ankunft Ihrer kaiserl. Hoheit der durchlauchtigsten Frau Erzherzogin ALEXANDRA PAULOWNA.«"
+  - Datierung des Erstdrucks (bei Wallishausser) unsicher.
+cast:
+  - name: Der Gutsherr des Dorfes.
+    gender: m
+  - name: Seine Gemahlin.
+    gender: f
+  - name: Mari,
+    role: ihre Tochter.
+    gender: f
+  - name: v. Zetkowicz,
+    role: ihr Liebhaber, ein junger Edelmann.
+    gender: m
+  - name: Mathias Kyhary,
+    role: ein alter reicher Ochsenhändler.
+    gender: m
+  - name: Lise,
+    role: sein Weib.
+    gender: f
+  - name: Stephan Kyhary,
+    role: sein Sohn, Richter des Dorfes.
+    gender: m
+  - name: Anne,
+    role: dessen Weib.
+    gender: f
+  - group:
+      - name: Karl
+        gender: m
+      - name: Lenne
+        gender: m
+    role: ihre Kinder.
+  - name: Franz Gassarovics,
+    role: ein reicher Weinhändler.
+    gender: m
+  - name: Sophie,
+    role: dessen Weib.
+    gender: f
+  - group:
+      - name: Joseph
+        gender: m
+      - name: Katherl
+        gender: m
+    role: ihre Kinder.
+  - name: Tofonylay,
+    role: ein alter Invaliden-Officier, und Freund des alten Kyhary.
+    gender: m
+  - name: Rasoditsch,
+    role: der Notarius des Dorfes.
+    gender: m
+  - name: Jarray,
+    role: der Kantor des Dorfes.
+    gender: m
+  - name: Peter Jelenky,
+    role: ein Bauer.
+    gender: m
+  - name: Agnes,
+    role: sein Weib.
+    gender: f
+  - name: Anton,
+    role: ein Bauernjunge.
+    gender: m
+  - name: Rose,
+    role: Mädchen der Mari.
+    gender: f
+  - name: Hans Stoffel,
+    role: ein alter Hussar des Gutsherrn.
+    gender: m
+  - name: Viele Bauern, Bäuerinnen, Kinder und Musikanten.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht in einem Dorfe unweit der Hauptstadt Pest vor.
+location:
+  wikidataId: Q210205
+---
 slug: anonym-das-gedicht-oder-das-fruehstueck-der-academisten
 author:
   pseudonym: Anonym
@@ -3718,7 +3811,7 @@ printed: 1764
 formalia:
   - Prosa
 basedOn:
-  - "Germain François Poullain de Saint-Foix: »Le derviche. Comédie en un acte«"
+  - "Germain François Poullain de Saint-Foix: [»Le derviche. Comédie en un acte«](https://books.google.com/books?id=0wQUAAAAQAAJ&pg=PA175)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 21, S. 108
@@ -3726,7 +3819,7 @@ editions:
   - title: "Die Colonie […] und Der Dervisch […] beyde aus dem Französischen. Hamburg: Meiners 1764, S. 53–72"
     url: https://books.google.com/books?id=21RZAAAAcAAJ&pg=PA53
 comments:
-  - Weitere Übersetzung [1768 (Wichmann)](wichmann-der-dervisch).
+  - "Weitere Übersetzung: [Wichmann 1768](wichmann-der-dervisch)."
 cast:
   - name: Osmin.
     gender: m
@@ -5771,45 +5864,6 @@ cast:
   - name: Gefolge des Cadis.
     isGroup: true
     gender: u
----
-slug: wichmann-der-vermeynte-nebenbuhler
-author:
-  name: Wichmann, Christian August
-  wikidata: Q55675821
-title: Der vermeynte Nebenbuhler
-subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen
-numberOfScenes: 13
-printed: 1768
-formalia:
-  - Prosa
-basedOn:
-  - "Germain François Poullain de Saint-Foix: »Le rival supposé. Comédie en 1 acte«"
-dictionaries:
-  - name: bibliographia
-    pages: 1. Abteilung, Band 2, S. 880; 2. Abteilung, Band 22, S. 458, und Band 23, S. 185
-editions:
-  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Dritter Theil. Leipzig: Fritsch 1768, S. 1–28"
-    url: https://books.google.com/books?id=HI1NAAAAcAAJ&pg=PA1
-  - title: "Neue Sammlung zum Vergnügen und Unterricht. Sechstes Stück. Wien: Gräffer 1768, S. 3–37"
-    url: https://books.google.com/books?id=C1ITSsTaqpoC&pg=PA3
-cast:
-  - name: Der König von Arragonien.
-    gender: m
-  - name: Don Friedrich,
-    role: des Königs Liebling.
-    gender: m
-  - name: Don Felix,
-    role: Vater der Donna Leonora.
-    gender: m
-  - name: Donna Leonora.
-    gender: f
-  - name: Florine,
-    role: Kammermädchen der Donna Leonora.
-    gender: f
-setting: Der Schauplatz ist auf einem Schlosse des Don Felix, fünf Meilen von
-    Saragossa.
-location:
-  wikidataId: Q10305
 ---
 slug: anonym-der-von-der-liebe-betrogene-philosoph
 author:
@@ -10151,7 +10205,7 @@ premiered: 1801-12-12
 formalia:
   - Prosa
 basedOn:
-  - "François-Pierre-Auguste Léger, René de Chazet und Jean-Michel-Pascal Buhan: [»Il faut un état, ou La revue de l'an six. Proverbe en un acte, en prose, et en vaudevilles«](https://books.google.com/books?id=e7NoAAAAcAAJ&printsec=frontcove)r"
+  - "François-Pierre-Auguste Léger, René de Chazet und Jean-Michel-Pascal Buhan: [»Il faut un état, ou La revue de l'an six. Proverbe en un acte, en prose, et en vaudevilles«](https://books.google.com/books?id=e7NoAAAAcAAJ&printsec=frontcover)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 34, S. 32
@@ -26100,6 +26154,7 @@ editions:
     url: https://books.google.com/books?id=ksE6AAAAcAAJ&pg=PA131
 comments:
   - "Autorschaft ermittelt via Goedeke, Band XI/1, [S. 493–494](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/n509/mode/2up)."
+  - "Von Carl Malß zu dem Zweiakter [»Das Stelldichein im Tivoli, oder Schuster und Schneider als Nebenbuhler«](https://books.google.com/books?id=7TFdAAAAcAAJ&printsec=frontcover) (1832) adaptiert."
 cast:
   - name: Splitt,
     role: ein Dichter.
@@ -48695,7 +48750,7 @@ editions:
   - title: "Komisches Theater der Teutschen. Aeltere und mittlere Zeit. Herausgegeben von W. C. S. Mylius. Erster Band. Berlin: Maurer 1783"
     url: https://digitale-bibliothek-mv.de/viewer/image/PPN1002179165/315/
 comments:
-  - "Basiert auf Johann Elias Schlegel: [»Die stumme Schönheit« (1747)](schlegel-die-stumme-schoenheit)."
+  - "Basiert auf Johann Elias Schlegels Einakter [»Die stumme Schönheit« (1747)](schlegel-die-stumme-schoenheit)."
 cast:
   - name: Reinhard.
     gender: m
@@ -49222,6 +49277,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zwanzigster Jahrgang, für 1841. Berlin: Vereins-Buchhandlung 1841, S. 329–362"
     url: https://books.google.com/books?id=5ps6AAAAcAAJ&pg=PA329
+keywords:
+  - Theaterbetrieb
 cast:
   - group:
       - name: Karl.
@@ -60882,7 +60939,7 @@ comments:
     Original, das in Versen geschrieben ist«. – Titel sollte ursprünglich »Die
     Bildsäule« lauten.
   - 1762 auch unter dem Titel »Die Stumme Schönheit. Ein Lustspiel in Versen«.
-  - "1783 von Johann Karl Lotich adaptiert unter dem Titel [»Der glükliche Tausch«](lotich-der-gluekliche-tausch)."
+  - "1783 von Johann Karl Lotich adaptiert für seinen Einakter [»Der glükliche Tausch«](lotich-der-gluekliche-tausch)."
 keywords:
   - Rolle der Frau
   - Generationenkonflikt
@@ -74379,6 +74436,12 @@ dictionaries:
 editions:
   - title: "Leipzig: Crusius 1780"
     url: https://books.google.com/books?id=hRZaAAAAcAAJ&printsec=frontcover
+  - title: "Der Kinderfreund. Ein Wochenblatt. Zehnter Theil. Dritte verbesserte Auflage. Reutlingen: Grözinger 1791, S. 69–135"
+    url: https://books.google.de/books?id=uvQ6AQAAMAAJ&pg=RA1-PA69
+comments:
+  - Auch mit dem Untertitel »Schauspiel in Einem Aufzuge« (1791).
+keywords:
+  - Kindertheater
 cast:
   - name: Herr Hastig,
     role: ein wohlhabender Guthsbesitzer.
@@ -75195,25 +75258,6 @@ cast:
     gender: u
 setting: Die Handlung geht in einem Saale des Hofes vor.
 ---
-slug: wichmann-der-dervisch
-author:
-  name: Wichmann, Christian August
-  wikidata: Q55675821
-title: Der Dervisch
-subtitle: Ein Lustspiel in einem Aufzuge
-printed: 1768
-formalia:
-  - Prosa
-basedOn:
-  - "Germain François Poullain de Saint-Foix: »Le derviche. Comédie en un acte«"
-dictionaries:
-  - name: bibliographia
-    pages: 2. Abteilung, Band 23, S. 185
-editions:
-  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Vierter Theil. Leipzig: Fritsch 1768, S. 251–270"
-comments:
-  - Weitere Übersetzung [1764 (anonym)](anonym-der-dervisch).
----
 slug: werner-der-vierundzwanzigste-februar
 author:
   name: Werner, Zacharias
@@ -75676,6 +75720,64 @@ cast:
     gender: f
 setting: >-
   In Scharlottens Stube.
+---
+slug: wichmann-der-dervisch
+author:
+  name: Wichmann, Christian August
+  wikidata: Q55675821
+title: Der Dervisch
+subtitle: Ein Lustspiel in einem Aufzuge
+printed: 1768
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Le derviche. Comédie en un acte«](https://books.google.com/books?id=0wQUAAAAQAAJ&pg=PA175)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 23, S. 185
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Vierter Theil. Leipzig: Fritsch 1768, S. 251–270"
+comments:
+  - "Weitere Übersetzung: [Anonym 1764](anonym-der-dervisch)."
+---
+slug: wichmann-der-vermeynte-nebenbuhler
+author:
+  name: Wichmann, Christian August
+  wikidata: Q55675821
+title: Der vermeynte Nebenbuhler
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen
+numberOfScenes: 13
+printed: 1768
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: »Le rival supposé. Comédie en 1 acte«"
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 2, S. 880; 2. Abteilung, Band 22, S. 458, und Band 23, S. 185
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Dritter Theil. Leipzig: Fritsch 1768, S. 1–28"
+    url: https://books.google.com/books?id=HI1NAAAAcAAJ&pg=PA1
+  - title: "Neue Sammlung zum Vergnügen und Unterricht. Sechstes Stück. Wien: Gräffer 1768, S. 3–37"
+    url: https://books.google.com/books?id=C1ITSsTaqpoC&pg=PA3
+cast:
+  - name: Der König von Arragonien.
+    gender: m
+  - name: Don Friedrich,
+    role: des Königs Liebling.
+    gender: m
+  - name: Don Felix,
+    role: Vater der Donna Leonora.
+    gender: m
+  - name: Donna Leonora.
+    gender: f
+  - name: Florine,
+    role: Kammermädchen der Donna Leonora.
+    gender: f
+setting: Der Schauplatz ist auf einem Schlosse des Don Felix, fünf Meilen von
+    Saragossa.
+location:
+  wikidataId: Q10305
 ---
 slug: wichmann-die-cabale
 author:
@@ -76239,6 +76341,33 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist ein Hayn: zur Rechten eine Sommerlaube; zur Linken, etwas entfernet, zween Altare.
+---
+slug: zawitzer-arkatastor-und-illiane-oder-so-wird-grausamkeit-bestraft
+author:
+  name: Zawitzer, Franz
+title: "Arkatastor und Illiane, oder: So wird Grausamkeit bestraft"
+subtitle: Ein Original-Melodrama in einem Aufzuge
+numberOfScenes: 1
+printed: 1778
+premiered: 1779-10-14
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 184–185
+editions:
+  - title: "Wien: Schmidt 1778"
+    url: https://books.google.com/books?id=R1JZAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Arkatastor.
+    role: Ein Prinz auf einer spanischen Küste.
+    gender: m
+  - name: Illiane.
+    role: Seine Gemahlin, mit ihrem Kinde.
+    gender: f
+  - name: Toantes.
+    role: Ein Vertrauter des Arkatastors.
+    gender: m
 ---
 slug: zay-die-unsichtbaren-liebhaber-auf-der-probe
 author:
