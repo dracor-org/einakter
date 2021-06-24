@@ -3574,7 +3574,7 @@ author:
   pseudonym: Anonym
 title: Der betrogene Kadi
 subtitle: Ein Nachspiel von einer Handlung
-numberOfScenes: 25
+numberOfScenes: 28
 printed: 1749
 premiered: 1747
 formalia:
@@ -3583,9 +3583,12 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 371–372
 editions:
-  - title: "Schauspiele, welche auf der Schönemannschen Schaubühne aufgeführt worden. Vierter Theil. Braunschweig und Leipzig 1749"
+  - title: "Schauspiele, welche auf der von Sr. Königl. Majestät in Preussen und von Ihro Hochfürstl. Durchl. zu Braunschweig und Lüneburg privilegirten Schönemannischen Schaubühne aufgeführet werden. Vierter Theil. Braunschweig und Leipzig 1749"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB000147E100000000
 comments:
   - Reinhart Meyer bringt Johann Tompson (1693–1768) als Verfasser ins Spiel.
+keywords:
+  - Eheanbahnung
 cast:
   - name: Der Kadi.
     gender: m
@@ -4357,6 +4360,41 @@ cast:
     gender: f
   - name: Frank,
     role: Bergheims Sekretair.
+    gender: m
+---
+slug: anonym-der-hausknecht-oder-der-laecherliche-zwey-kampf
+author:
+  pseudonym: Anonym
+title: Der Hausknecht oder Der lächerliche Zwey-Kampf
+subtitle: Ein Lustspiel in Versen. Aus dem Holländischen des Herrn A. Leeuw übersetzt
+numberOfScenes: 9
+printed: 1748
+premiered: 1748-12-02
+formalia:
+  - Alexandriner
+basedOn:
+  - "Adriaan Leeuw: [»Broershert. Kluchtspel«](https://books.google.com/books?id=8k5bAAAAQAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 14, S. 58–59, und Band 16, S. 64
+editions:
+  - title: "Hamburg: Martini 1748"
+    url: https://books.google.com/books?id=ZG1WAAAAcAAJ&printsec=frontcover
+comments:
+  - "Auf Theaterzetteln auch mit den Untertiteln »ein lustiges Nachspiel in Versen« (Nürnberg 1760) und »Lustspiel, in Versen und einer Handlung« (Nürnberg 1768)."
+  - "1740 in Hamburg bereits auf Holländisch aufgeführt, 1750 von Schönemanns Truppe auf Deutsch."
+cast:
+  - name: Herr von Leonhard,
+    role: ein alter Edelmann.
+    gender: m
+  - name: Fläulein Clare,
+    role: dessen Tochter.
+    gender: f
+  - name: Herr von Silbermann,
+    role: deren Geliebter.
+    gender: m
+  - name: Steffen,
+    role: Herr von Leonhards Hausknecht.
     gender: m
 ---
 slug: anonym-der-herr-gevatter-oder-der-sanftmuethige-ehemann
@@ -5734,9 +5772,10 @@ cast:
     isGroup: true
     gender: u
 ---
-slug: anonym-der-vermeynte-nebenbuhler
+slug: wichmann-der-vermeynte-nebenbuhler
 author:
-  pseudonym: Anonym
+  name: Wichmann, Christian August
+  wikidata: Q55675821
 title: Der vermeynte Nebenbuhler
 subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen
 numberOfScenes: 13
@@ -5747,12 +5786,12 @@ basedOn:
   - "Germain François Poullain de Saint-Foix: »Le rival supposé. Comédie en 1 acte«"
 dictionaries:
   - name: bibliographia
-    pages: 2. Abteilung, Band 22, S. 458
+    pages: 1. Abteilung, Band 2, S. 880; 2. Abteilung, Band 22, S. 458, und Band 23, S. 185
 editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Dritter Theil. Leipzig: Fritsch 1768, S. 1–28"
+    url: https://books.google.com/books?id=HI1NAAAAcAAJ&pg=PA1
   - title: "Neue Sammlung zum Vergnügen und Unterricht. Sechstes Stück. Wien: Gräffer 1768, S. 3–37"
     url: https://books.google.com/books?id=C1ITSsTaqpoC&pg=PA3
-comments:
-  - "1768 auch von Christian August Wichmann unter dem Titel »Der vermeynte Nebenbu[h]ler. Ein Lustspiel in einem Aufzuge« übersetzt (noch mal in 1. Abt. nachschauen, I/2, S. 880; außerdem II/23, S. 185)."
 cast:
   - name: Der König von Arragonien.
     gender: m
@@ -11787,13 +11826,15 @@ editions:
     url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10118150-0
   - title: "Neue verbesserte und rechtmässige Auflage. Berlin: Voss 1793"
     url: https://books.google.com/books?id=Ri5dAAAAcAAJ&printsec=frontcover
+  - title: "Hannover: Wehrhahn 2021"
+    url: https://www.wehrhahn-verlag.de/public/index.php?ID_Section=3&ID_Product=1413
 comments:
   - Einakterhinweis im Untertitel erst im Neudruck 1793.
   - Alternative Schreibung »Die Mahler«.
 keywords:
   - Heimkehr-Motiv
   - Künstler
-  - Satire auf Kunstkritike
+  - Satire auf Kunstkritiker
 cast:
   - name: Glimour.
     gender: m
@@ -12693,6 +12734,8 @@ editions:
     url: https://books.google.com/books?id=2owuAAAAYAAJ&printsec=frontcover
   - title: "Sämmtliche Werke von Michael Beer. Leipzig: Brockhaus 1835, S. 233–284"
     url: https://books.google.com/books?id=nFU6AAAAcAAJ&pg=PA233
+comments:
+  - "Goethes Besprechung in: Ueber Kunst und Alterthum. Fünften Bandes erstes Heft. Stuttgard: Cotta 1824, [S. 101–108](https://books.google.com/books?id=wetNAAAAcAAJ&pg=PA101)."
 keywords:
   - Judentum
 ids:
@@ -14241,6 +14284,8 @@ dictionaries:
 editions:
   - title: "Stendal: Franzen und Grosse 1780"
     url: https://books.google.com/books?id=exFaAAAAcAAJ&printsec=frontcover
+comments:
+  - "Besprechung in: Almanach der deutschen Musen auf das Jahr 1781. Leipzig: Weygand [1781], [S. 99](https://www.digitale-sammlungen.de/de/view/bsb10104565?page=115)."
 keywords:
   - Judentum
   - Antisemitismus
@@ -14774,8 +14819,13 @@ basedOn:
 editions:
   - title: "Vaudevilles, für deutsche Bühnen und gesellige Zirkel; nach dem Französischen bearbeitet von Carl Blum. Berlin: Duncker & Humblot 1824, S. 217–260"
     url: https://books.google.com/books?id=kb_iLkuNFj0C&pg=PA217
+comments:
+  - "Im [Vorwort](https://books.google.com/books?id=kb_iLkuNFj0C&pg=PP7) kurze Abhandlung über die Gattung ›Vaudeville‹."
 ids:
   weber: A020702
+keywords:
+  - Verkleidungsspiel
+  - Orient
 cast:
   - name: Shahababaham,
     role: Bassa.
@@ -17520,7 +17570,7 @@ editions:
   - title: "Wien: Trattner 1770"
     url: https://books.google.com/books?id=Rm5D1jrjNrcC&printsec=frontcover
 comments:
-  - Weitere Übersetzung [1762 (Ekhof)](ekhof-l-isle-deserte-die-wueste-insel).
+  - "Weitere Übersetzung: [Ekhof (1762)](ekhof-l-isle-deserte-die-wueste-insel)."
 cast:
   - name: Ferdinand.
     gender: m
@@ -18512,6 +18562,8 @@ basedOn:
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1831. Von F. I. Castelli. Sechzehnter Jahrgang. Wien: Wallishausser 1831, S. 109–194"
     url: https://books.google.com/books?id=26c7AAAAcAAJ&pg=PA109
+comments:
+  - "Weitere Übersetzung: [Krickeberg 1830](krickeberg-wer-traegt-die-schuld)."
 cast:
   - name: Murthen,
     role: Banquier.
@@ -22639,7 +22691,7 @@ editions:
   - title: "[Hamburg]: Spieringk 1762"
     url: https://books.google.com/books?id=xkK2p0z3MSIC&printsec=frontcover
 comments:
-  - Weitere Übersetzung [1770 (Bursay)](bursay-die-wueste-insel).
+  - "Weitere Übersetzung: [Bursay 1770](bursay-die-wueste-insel)."
 cast:
   - name: Ferdinand.
     gender: m
@@ -24401,6 +24453,8 @@ basedOn:
 editions:
   - title: "Den Bühnen gegenüber als Manuscript gedruckt. Hamburg: Verlags-Comptoir 1849"
     url: https://books.google.com/books?id=z76vj0sSQMUC&pg=PA175
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Zweite Auflage. Hamburg: Verlags-Comptoir 1856"
+    url: https://books.google.com/books?id=fMNKAAAAcAAJ&printsec=frontcover
 comments:
   - "[Theaterzettel](https://www.stadttheater.uni-hamburg.de/node/27369) zur Aufführung in Hamburg 1843 (unter dem Titel »Der Pariser in Corsica, oder: Die Blutrache«)."
 cast:
@@ -24414,7 +24468,7 @@ cast:
     role: sein Neffe, ein Pariser.
     gender: m
   - name: Leoni.
-    gender: f
+    gender: m
   - name: Rinaldo.
     gender: m
   - name: Ein Corporal der Gensd'armerie.
@@ -31105,6 +31159,47 @@ setting: >-
 location:
   wikidataId: Q15979
 ---
+slug: hensler-die-fledermaus
+author:
+  name: Hensler, Karl Friedrich
+  wikidata: Q1731074
+title: Die Fledermaus
+subtitle: Ein Lustspiel in einem Aufzuge. Nach Langbeins Feyerabend bearbeitet
+numberOfScenes: 20
+printed: 1802
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Schmidt 1802"
+    url: https://books.google.com/books?id=_GtUAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Moriz v. Albing,
+    role: ein schlesischer Landedelmann, vormahls Kapitän im siebenjährigen Kriege.
+    gender: m
+  - name: Kunigunde v. Pips,
+    role: seine Gemahlin seit gestern.
+    gender: f
+  - name: Wilhelmine,
+    role: seine Tochter erster Ehe.
+    gender: f
+  - name: Obrist v. Welau,
+    role: sein Gutsnachbar.
+    gender: m
+  - name: Baron Reichard,
+    role: Offizier.
+    gender: m
+  - name: Buxer,
+    role: ein Invalide bey dem Kapitän in Diensten.
+    gender: m
+  - name: Matthis,
+    role: ein alter Büchsenspanner auf dem Schlosse.
+    gender: m
+  - name: Mehrere Jäger und Bediente.
+    isGroup: true
+    gender: u
+setting: >
+  Die Handlung geschieht auf des Kapitäns altem Schlosse. (Ein alter Saal im Schlosse des Kapitäns.)
+---
 slug: hensler-die-schoene-ungarin-oder-das-pasquill
 author:
   name: Hensler, Karl Friedrich
@@ -32702,11 +32797,12 @@ editions:
     url: https://books.google.com/books?id=tg-7CIIVMccC&printsec=frontcover
   - title: "Wien: Wallishausser 1802"
     url: https://books.google.com/books?id=WHYyAQAAMAAJ&printsec=frontcover
-  - title: "Wien: Wallishausser 1802"
-    url: https://books.google.com/books?id=zYWkPpJUej0C&printsec=frontcover
+  - title: "Deutsche Schaubühne seit Lessing und Schröder bis auf die neueste Zeit. Neuntes Bändchen. Wien: Schade 1825, S. 5–35"
+    url: https://books.google.com/books?id=MCpMUvCcTXAC&pg=PA5
 ids:
   dracor: ger000482
   wikidata: Q79349104
+  weber: A021103
 cast:
   - name: Gürge.
     gender: m
@@ -33104,6 +33200,9 @@ editions:
     url: https://books.google.com/books?id=TUX0OAr7mRIC&pg=PA155
 comments:
   - "Im Vorwort: »nach einer wahren Geschichte, die sich in London, Spittlefields, zugetragen und im 2ten Theile der choice collection of moral tales et essays, Menz et Francfort 1787 unter dem Titel ›fortune thrown away‹ enthalten ist« ([S. VI](https://books.google.com/books?id=TUX0OAr7mRIC&pg=PP8))."
+keywords:
+  - Lotterie
+  - Armut
 cast:
   - name: Kaspar,
     role: ein armer Taglöhner.
@@ -33698,6 +33797,8 @@ editions:
     url: https://books.google.com/books?id=59LpjsX2USsC&pg=PA61
   - title: "Ernst von Houwalds sämmtliche Werke. Vierter Band. Leipzig: Göschen 1859, S. 371–412"
     url: https://books.google.com/books?id=UB1TAAAAcAAJ&pg=PA371
+keywords:
+  - Judentum
 cast:
   - name: Madame Hallmer,
     role: eine Kaufmanns-Wittwe.
@@ -42787,6 +42888,8 @@ basedOn:
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band I, No. 6. Berlin: Cosmar und Krause 1830, S. 81–94"
     url: https://books.google.com/books?id=dWRcAAAAcAAJ&pg=PA81
+comments:
+  - "Weitere Übersetzung: [Castelli 1831](castelli-zwey-jahre-nach-der-hochzeit-oder-an-wem-ist-die-schuld)."
 cast:
   - name: Haller,
     role: Banquier.
@@ -45560,7 +45663,7 @@ printed: 1743
 formalia:
   - Prosa
 basedOn:
-  - "Ludvig Holberg: »Det Arabiske Pulver«"
+  - "Ludvig Holberg: [»Det Arabiske Pulver«](https://books.google.com/books?id=0eUpAAAAYAAJ&pg=PP258)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 12, S. 252–254
@@ -52843,6 +52946,32 @@ setting: >-
 location:
   wikidataId: Q1530
 ---
+slug: mylius-der-kuss-oder-das-ganz-neu-musikalische-schaefer-spiel
+author:
+  name: Mylius, Christlob
+  wikidata: Q109405
+title: Der Kuß, oder Das ganz neu musikalische Schäfer-Spiel
+subtitle: So in einer Comödie aufgeführt
+numberOfScenes: 1
+printed: 1748
+formalia:
+  - Verse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 14, S. 169
+editions:
+  - title: "Franckfurth und Leipzig 1748"
+    url: https://books.google.com/books?id=cDRJAAAAcAAJ&printsec=frontcover
+comments:
+  - "Kein Einakterhinweis im Druck, wird aber bei [Elise Marie Mayer (1920)](http://d-nb.info/364993499) als Einakter behandelt."
+cast:
+  - name: Thyrsis.
+    gender: m
+  - name: Phillis.
+    gender: f
+  - name: Damon.
+    gender: m
+---
 slug: nabehl-jugend-streiche
 author:
   name: Nabehl
@@ -55523,6 +55652,9 @@ editions:
   - title: "Theater der Deutschen. Sechszehnter Theil. Königsberg und Leipzig: Kanter 1776, S. 285–316"
     url: https://books.google.com/books?id=nIBv19WIppMC&pg=PA285
 comments:
+  - "Kurze Analyse in: Helmut Jenzsch: [Jüdische Figuren in deutschen Bühnentexten des 18. Jahrhunderts. Eine systematische Darstellung auf dem Hintergrund der Bestrebungen zur bürgerlichen Gleichstellung der Juden, nebst einer Bibliographie nachgewiesener Bühnentexte mit Judenfiguren der Aufklärung.](http://d-nb.info/751098779) Hamburg, Univ., Diss. 1974, S. 122."
+keywords:
+  - Judentum
   - Soldatenstück
 cast:
   - name: Der General Feldmarschall von *.
@@ -63418,6 +63550,8 @@ editions:
 comments:
   - "Ausführliche Analyse des Einakters in: Johannes Birgfeld: Medienrevolution und gesellschaftlicher Wandel. Das Unterhaltungstheater als Reflexionsmedium von Modernisierungsprozessen. In: Das Unterhaltungsstück um 1800. Literaturhistorische Konfigurationen – Signaturen der Moderne. Zur Geschichte des Theaters als Reflexionsmedium von Gesellschaft, Politik und Ästhetik. Hrsg. von Johannes Birgfeld und Claude D. Conter. [Laatzen]: Wehrhahn 2007, S. 81–117."
   - "Sehr kurze Besprechung in: Allgemeine deutsche Bibliothek. Des neun und neunzigsten Bandes erstes Stück. Berlin und Stettin: Nicolai 1791, [S. 123](https://books.google.com/books?id=KSiC4e1Aze4C&pg=PA123)."
+keywords:
+  - Judentum
 cast:
   - name: Wiesenberg.
     gender: m
@@ -64649,8 +64783,8 @@ editions:
   - title: "Leipzig: Reclam [1869]"
     url: https://nbn-resolving.de/urn:nbn:de:hbz:6:1-211505
 comments:
-  - 1813 unter dem Titel »Die Judenschule« (unter dem Pseudonym Samson Eidechs) uraufgeführt.
-  - "Es wurden mehrere Gegenstücke geschrieben: Julius von Voß: [»Euer Verkehr: Posse in einem Aufzuge. Gegenstück zur Judenschule oder Unserm Verkehr, von Herrn Dr. Sessa«](voss-euer-verkehr) (1817); Simon Höchheimer: [»Der Spiegel für Israeliten. Ein Gegenstück zu der Posse: ›Unser Verkehr‹«](http://resolver.staatsbibliothek-berlin.de/SBB00003C5B00000000) (1817); [»Aaron in der Klemme oder der Bräutigam als Braut. Ein Schauspiel mit Ernst und Scherz in drei Aufzügen«](https://books.google.com/books?id=JBXoCYDsOEUC&printsec=frontcover) (1818); Carl Friedrich Solbrig: [»Die Judenschaft in der Klemme. Eine Posse in einem Akt. Seitenstück zu: Unser Verkehr«](solbrig-die-judenschaft-in-der-klemme) (1819); J. Treuherz jun. (Hrsg.): [»Die Verlobung oder Der Bräutigam im Felleisen. Fastnachts-Posse in jüdischer Mundart in einem Aufzuge. Ein Seitenstück zu Unser Verkehr«](anonym-die-verlobung-oder-der-braeutigam-im-felleisen) (1833)."
+  - 1813 unter dem Titel »Die Judenschule« (mit dem Pseudonym Samson Eidechs als Verfasserangabe) uraufgeführt.
+  - "Es wurden mehrere Gegenstücke geschrieben, als Einakter: Julius von Voß: [»Euer Verkehr: Posse in einem Aufzuge. Gegenstück zur Judenschule oder Unserm Verkehr, von Herrn Dr. Sessa«](voss-euer-verkehr) (1817); Carl Friedrich Solbrig: [»Die Judenschaft in der Klemme. Eine Posse in einem Akt. Seitenstück zu: Unser Verkehr«](solbrig-die-judenschaft-in-der-klemme) (1819); J. Treuherz jun. (Hrsg.): [»Die Verlobung oder Der Bräutigam im Felleisen. Fastnachts-Posse in jüdischer Mundart in einem Aufzuge. Ein Seitenstück zu Unser Verkehr«](anonym-die-verlobung-oder-der-braeutigam-im-felleisen) (1833).– Als Dreiakter: [»Aaron in der Klemme oder der Bräutigam als Braut. Ein Schauspiel mit Ernst und Scherz in drei Aufzügen«](https://books.google.com/books?id=JBXoCYDsOEUC&printsec=frontcover) (1818). – Als Vierakter: Simon Höchheimer: [»Der Spiegel für Israeliten. Ein Gegenstück zu der Posse: ›Unser Verkehr‹«](http://resolver.staatsbibliothek-berlin.de/SBB00003C5B00000000) (1817)."
 keywords:
   - Judentum
   - Antisemitismus
@@ -65048,6 +65182,7 @@ comments:
   - In jüdischer Mundart verfasst.
   - "Nach Julius von Voß: »Böse Beispiele verderben gute Sitten. Jüdischer Schwank, als Sprüchwortspiel behandelt«, in: [Fünf und zwanzig dramatische Spiele. Nach deutschen Sprüchwörtern. Berlin: Schüppel 1822, S. 363–371](https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PA363)."
   - "Expliziter Hinweis auf Einaktigkeit auf dem Deckblatt der Ausgabe 1865."
+  - "Besprechung in: Abend-Zeitung. Nr. 123 (Dienstag, am 24. Mai 1825), [S. 492](https://books.google.de/books?id=rEJEAAAAcAAJ&pg=RA1-PA492)."
 keywords:
   - Judentum
 cast:
@@ -69797,6 +69932,7 @@ editions:
 comments:
   - "Im selben Band sind auch folgende Zweiakter enthalten: [»Berlin im Jahre 1824«](https://books.google.com/books?id=fZYyAQAAMAAJ&pg=PA237) und [»Berlin im Jahre 1924«](https://books.google.com/books?id=fZYyAQAAMAAJ&pg=PA327)."
   - "Bearbeitung von Cäsar Max Heigels [»Die Zeitalter. Drey flüchtige Skizzen zu einem chronologischen Charakter-Gemählde«](https://books.google.com/books?id=LuMVyQEACAAJ&printsec=frontcover) (1812); darin enthalten auch der Einakter [»So sind sie gewesen«](heigel-so-sind-sie-gewesen-im-jahre-1498)."
+  - "Dirk Sangmeister zufolge ([doi:10.3726/92161_362](https://doi.org/10.3726/92161_362), 2018, S. 365) ist Voß' Werk eine Adaption von Carl Meisls »1722, 1822, 1922« (Titel nach der UA 1822 geändert zu [»1723, 1823, 1923«](https://books.google.com/books?id=cGRlAAAAcAAJ&printsec=frontcover))."
 cast:
   - name: Hoppe,
     role: Brauer in Berlin.
@@ -72843,6 +72979,10 @@ dictionaries:
 editions:
   - title: "Wien: Trattner 1771"
     url: https://books.google.com/books?id=umpUAAAAcAAJ&printsec=frontcover
+keywords:
+  - Krieg
+  - Religion
+  - Orient
 cast:
   - name: Abdalah,
     role: Großvizir.
@@ -72991,6 +73131,9 @@ dictionaries:
 editions:
   - title: "Wien: Trattner 1773"
     url: https://books.google.com/books?id=-yJVAAAAcAAJ&printsec=frontcover
+keywords:
+  - Selbstmord
+  - Lotterie
 cast:
   - name: Joseph von Wagviel,
     role: ein Beamter.
