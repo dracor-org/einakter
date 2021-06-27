@@ -4178,7 +4178,7 @@ editions:
   - title: "Leipzig: Lankische Buchhandlung 1762"
     url: https://books.google.com/books?id=6uR2O4YcRfwC&printsec=frontcover
 comments:
-  - Weitere Übersetzungen [1766](weiskern-die-wirkung-der-rechtschaffenheit) (»Die Wirkung der Rechtschaffenheit«, Friedrich Wilhelm Weiskern), 1768 (»Der Finanzpacht«, Christian August Wichmann) und [1778](meissner-der-finanzpachter) (August Gottlieb Meißner).
+  - "Weitere Übersetzungen: [Weiskern 1766](weiskern-die-wirkung-der-rechtschaffenheit), [Wichmann 1768](wichmann-der-finanzpachter) und [Meißner 1778](meissner-der-finanzpachter)."
 cast:
   - name: Alcimon.
     gender: m
@@ -4831,6 +4831,8 @@ editions:
 comments:
   - Auch unter den Titeln »Der Liebhaber als ein Schriftsteller und Bedienter. Ein Lustspiel von einer Handlung« (1755), »Der Liebhaber, als Autor und Diener. Ein Lustspiel […] in einem Aufzuge« (1759) und »Der Liebhaber, als ein Schriftsteller und Bedienter. Eine Comödie […] in einem Ackte« (1767).
   - "Weitere Übersetzung: [Anonym 1789](anonym-autor-und-diener-aus-liebe)."
+  - Vgl. [14. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb014.html)
+    der »Hamburgischen Dramaturgie«.
 keywords:
   - Verkleidungsspiel
   - Eheanbahnung
@@ -5750,12 +5752,12 @@ created: 1760
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»Le dénouement imprévu«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DENOUEMENTIMPREVU.xml)"
+  - "Marivaux: [»Le dénouement imprévu. Comédie d'un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DENOUEMENTIMPREVU.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 313
 comments:
-  - 1749 auch von Johann Christian Krüger unter dem Titel [»Le Denouement imprévu. Der unvermuthete Ausgang. Ein Lustspiel in einer Handlung«](krueger-le-denouement-imprevu-der-unvermuthete-ausgang) übersetzt.
+  - "Weitere Übersetzung: [Krüger 1749](krueger-le-denouement-imprevu-der-unvermuthete-ausgang)."
   - Datierung ungewiß, von Meyer ins Jahr 1760 einsortiert.
 cast:
   - name: Reichenau,
@@ -8973,7 +8975,7 @@ cast:
   - name: Schwager,
     role: von Sturms Bedienter.
     gender: m
-setting: >
+setting: >-
   Schauplatz: Saal bey von Sturm.
 ---
 slug: anonym-die-unvermuthete-wiederkunft
@@ -9141,7 +9143,7 @@ cast:
       - name: Grippeau,
         gender: m
     role: zwey Nachtwächter.
-setting: >
+setting: >-
   Der Schauplatz ist in und vor Herr Severins Hause.
 ---
 slug: anonym-die-verlobung-oder-der-braeutigam-im-felleisen
@@ -12054,6 +12056,43 @@ setting: >-
 location:
   wikidataId: Q2256
 ---
+slug: baermann-die-briefe
+author:
+  name: Bärmann, Georg Nikolaus
+  wikidata: Q1505487
+title: Die Briefe
+subtitle: Ein Nachspiel in einem Act
+numberOfScenes: 9
+printed: 1822
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dolch und Maske. Ein Jahrsgeschenk für die deutsche Bühne. Von G. N. Bärmann. Erste Gabe. Bremen: Heyse 1822, S. 289–319"
+cast:
+  - name: Peter Kalbe,
+    role: ein reicher Krämer.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Margarethe,
+    role: seine Tochter.
+    gender: f
+  - name: Ludwig Saale.
+    gender: m
+  - name: Flaming,
+    role: ein Wechsler, dessen Oheim.
+    gender: m
+  - name: Trenkner,
+    role: ein Goldschmied.
+    gender: m
+  - name: Tobias Schwarze,
+    role: Kalbe's Rechnungsführer.
+    gender: m
+  - name: Ein Laufbursche.
+    gender: m
+setting: >-
+  Die Scene ist in einem Landstädtchen im Hause des Peter Kalbe.
+---
 slug: baermann-die-hoehle-auf-lampedusa
 author:
   name: Bärmann, Georg Nikolaus
@@ -12163,6 +12202,33 @@ cast:
   - name: Ein Kammermädchen.
     gender: f
 setting: Die Handlung ereignet sich in einer mittleren Stadt Norddeutschlands.
+---
+slug: baermann-welcher-ist-mein-vetter
+author:
+  name: Bärmann, Georg Nikolaus
+  wikidata: Q1505487
+title: Welcher ist mein Vetter?
+subtitle: Ein Lustspiel in einem Act. (Zwanglos nach dem Französischen des J. Pain.)
+numberOfScenes: 12
+printed: 1822
+formalia:
+  - Prosa
+basedOn:
+  - "Joseph Pain: [»Amour et mystère, ou Lequel est mon cousin ? Comédie en un acte, mêlée de vaudevilles«](https://books.google.com/books?id=CLhoAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dolch und Maske. Ein Jahrsgeschenk für die deutsche Bühne. Von G. N. Bärmann. Erste Gabe. Bremen: Heyse 1822, S. 245–287"
+    url:
+cast:
+  - name: Antonie von Waldern.
+    gender: f
+  - name: Victor.
+    gender: m
+  - name: Felix.
+    gender: m
+setting: >-
+  Die Scene ist auf Antoniens Schloße, in der Nähe von Meißen. (Das Theater stellt ein großes Zimmer eines alten gothischen Schlosses vor. Im Hintergrunde der Haupteingang. Demselben zu beiden Seiten hängen an der Wand zwei Gemälde in Lebensgröße, wovon das Eine leicht aufzurollen oder wegzuschieben ist, indem es den Eingang zu einem Kabinete verbirgt. Rechts und links zwei Thüren einander gegenüber. Ueber der Einen derselben ist ein ovales Fenster. – Schreibzeug auf dem Tische.)
+location:
+  wikidataId: Q8738
 ---
 slug: baermann-zum-benefiz
 author:
@@ -12609,7 +12675,9 @@ editions:
   - title: "Berliner Theater-Almanach auf das Jahr 1841. Herausgegeben von Alexander Cosmar. Sechster Jahrgang. Berlin: Bade 1841, S. 1–58"
     url: https://books.google.com/books?id=1VI7AAAAcAAJ&pg=PA1
 comments:
-  - Auch mit dem Untertitel »in 1 Akt«."
+  - "Auch mit dem Untertitel »in 1 Akt«."
+keywords:
+  - Französische Revolution
 cast:
   - name: Annibal,
     role: ein armer Maler.
@@ -15300,7 +15368,7 @@ printed: 1770
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»L'heritier de village. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
+  - "Marivaux: [»L'heritier de village. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 29
@@ -18964,7 +19032,7 @@ cast:
     gender: m
   - name: Ein Schuster.
     gender: m
-setting: >
+setting: >-
   Das Theater ein Zimmer.
 ---
 slug: claudius-juliane-duerrbach
@@ -22273,6 +22341,52 @@ cast:
 setting: >-
   Die Scene ist der Garten eines dem Marchese gehörigen Schlosses in Wälschland. Auf der einen Seite eine Weinlaube, in der Nähe des Haus der Gärtnerinn.
 ---
+slug: eckardt-wer-wird-sie-kriegen
+author:
+  name: Eckardt, Friedrich
+  wikidata: Q21660249
+title: Wer wird sie kriegen?
+subtitle: Ein Lustspiel in einem Aufzuge. Von einem Soldaten
+numberOfScenes: 11
+printed: 1780
+premiered: 1781-05-05
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 403
+editions:
+  - title: "Wien: Gräffer 1780"
+    url: https://nbn-resolving.org/urn:nbn:de:bvb:384-uba002492-2
+keywords:
+  - Soldatenstück
+cast:
+  - name: Buschdorf,
+    role: Beamter.
+    gender: m
+  - name: Albert,
+    role: sein Sohn, Husarenlieutenant.
+    gender: m
+  - name: Veit,
+    role: Dorfrichter.
+    gender: m
+  - name: Grethe,
+    role: eine Bäurinn.
+    gender: f
+  - name: Therese,
+    role: ihre Tochter.
+    gender: f
+  - name: Ferbius,
+    role: Kantor.
+    gender: m 
+  - name: Röber,
+    role: Husarenkorporal.
+    gender: m 
+  - name: Noch ein Husar.
+    gender: m
+setting: >-
+  Der Schauplatz ist im Vorsaal eines herrschaftlichen Schlosses an der Gränze.
+---
 slug: eckartshausen-der-hofrath
 author:
   name: Eckartshausen, Karl von
@@ -22463,7 +22577,7 @@ cast:
   - name: Peter,
     role: Siegmunds Diener.
     gender: m
-setting: >
+setting: >-
   Siegmunds Comtoirstube.
 ---
 slug: ehrimfeld-die-liebhaber-im-verborgenen-oder-die-doppelte-beschaemung
@@ -23386,7 +23500,7 @@ cast:
     gender: m
   - name: Ein Kutscher.
     gender: m
-setting: >
+setting: >-
   Die Bühne ist eine Wirthsstube.
 ---
 slug: ernst-der-arzt
@@ -24578,6 +24692,140 @@ setting: >-
 location:
   wikidataId: Q1055
 ---
+slug: frohberg-rosalie-oder-sie-besinnt-sich-anders
+author:
+  name: Friedländer, Rebecca
+  pseudonym: Regina Frohberg
+  wikidata: Q1297391
+title: "Rosalie oder: Sie besinnt sich anders"
+subtitle: Ein Lustspiel in einem Akte. Nach dem Französischen
+numberOfScenes: 21
+printed: 1818
+formalia:
+  - Prosa
+editions:
+  - title: "Theater von Regina Frohberg. Zweites Bändchen. Wiesbaden: Schellenberg 1818, S. 185–256"
+    url: https://books.google.com/books?id=B5xmAAAAcAAJ&pg=PA185
+cast:
+  - name: Rosalie,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Der Baron,
+    role: ihr Vater.
+    gender: m
+  - name: Graf Strahlenheim,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Der Chevalier von Rosenduft.
+    gender: m
+  - name: Henriette.
+    role: Rosaliens Kammermädchen.
+    gender: f
+setting: >-
+  Die Scene spielt in Rosaliens Hause.
+---
+slug: frohberg-das-unvermuthete-zusammentreffen-oder-so-raecht-sich-eine-deutsche
+author:
+  name: Friedländer, Rebecca
+  pseudonym: Regina Frohberg
+  wikidata: Q1297391
+title: "Das unvermuthete Zusammentreffen oder: So rächt sich eine Deutsche"
+subtitle: Ein Lustspiel in einem Akte. Nach einem französischen Vaudeville
+numberOfScenes: 28
+printed: 1818
+premiered: 1815-11
+formalia:
+  - Prosa
+editions:
+  - title: "Theater von Regina Frohberg. Zweites Bändchen. Wiesbaden: Schellenberg 1818, S. 113–184"
+    url: https://books.google.com/books?id=B5xmAAAAcAAJ&pg=PA113
+cast:
+  - name: Valcour,
+    role: französischer Husaren-Offizier.
+    gender: m
+  - name: Baron Lindhelm,
+    role: deutscher Dragoner-Officier.
+    gender: m
+  - name: Amalie,
+    role: Baronin von Waldenheim, eine junge Wittwe.
+    gender: f
+  - name: Theresine Ventori,
+    role: eine Italienerin.
+    gender: f
+  - name: Frau Hilmerich,
+    role: Gastwirthin.
+    gender: f
+  - name: Jean,
+    role: Valcour's Bedienter.
+    gender: m
+  - name: Philipp,
+    role: Lohnbedienter.
+    gender: m
+  - name: Franz,
+    role: Bedienter der Signora.
+    gender: m
+  - name: Ihre Gesellschaftsdame.
+    gender: f
+  - name: Ein Notarius.
+    gender: m
+setting: >-
+  Diese Scene spielt in Straßburg im Gasthof zur Ewigkeit.
+location:
+  wikidataId: Q6602
+---
+slug: frohberg-der-geschaeftige
+author:
+  name: Friedländer, Rebecca
+  pseudonym: Regina Frohberg
+  wikidata: Q1297391
+title: Der Geschäftige
+subtitle: "Ein Lustspiel in einem Aufzuge. Nach: Il veut tout faire, von Collin d'Harleville, frei bearbeitet"
+numberOfScenes: 30
+printed: 1817
+premiered: 1812-12-07
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-François Collin d'Harleville: [»Il veut tout faire. Comédie épisodique, en un acte et en vers«](https://books.google.com/books?id=lUCJb35aKSgC&printsec=frontcover)"
+editions:
+  - title: "Wiesbaden: Schellenberg 1817"
+    url: https://books.google.com/books?id=q6-vu1QSHzQC&printsec=frontcover
+  - title: "Theater von Regina Frohberg. Erstes Bändchen. Wiesbaden: Schellenberg 1818"
+    url: http://data.onb.ac.at/rep/108915A5
+cast:
+  - name: Grünau,
+    role: reicher Kapitalist und Gutsbesitzer.
+    gender: m
+  - name: Madam Wendborn,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Major Lilien.
+    gender: m
+  - name: Hainberg.
+    gender: m
+  - name: Freibach.
+    gender: m
+  - name: Müller.
+    gender: m
+  - name: Ein Musikus.
+    gender: m
+  - name: Jacob,
+    role: Grünaus Pachter.
+    gender: m
+  - name: Frau Wallroth,
+    role: Grünaus Haushälterin.
+    gender: f
+  - group:
+      - name: Franz,
+        gender: m
+      - name: Wilhelm,
+        gender: m
+    role: Grünaus Bedienten.
+  - name: Ein fremder Bedienter.
+    gender: m
+setting: >-
+  Die Scene geht in Grünaus Hause vor.
+---
 slug: gaensberger-campaspe-oder-die-wahl-der-liebe
 author:
   name: Gänsberger, Joseph Franz
@@ -24939,6 +25187,42 @@ cast:
 setting: >-
   Die Scene spielt auf einem Landguthe des Grafen. (Gräfliches Zimmer mit mehrern Seiten- und Mittelthüren. Es ist noch sehr früh. Caroline, im eleganten Negligee, kommt aus ihrem Schlafzimmer; sieht nach der Uhr.)
 ---
+slug: gebhard-die-schmarotzer
+author:
+  name: Gebhard, Friedrich Albert
+  wikidata: Q55089235
+title: Die Schmarotzer
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1826
+premiered: 1822-03-15
+formalia:
+  - Prosa
+editions:
+  - title: "Beitrag dramatischer Spiele. Von Friedrich Albert Gebhard. Erster Band. Quedlinburg und Leipzig: Basse 1826, S. 57–108"
+    url: https://books.google.com/books?id=f4Uyx-1_PagC&pg=PA57
+cast:
+  - name: Herr Gernau.
+    gender: m
+  - name: Marie,
+    role: seine Gattin.
+    gender: f
+  - name: Graf Hochhinauf,
+    role: Geheimer-Ober-Finanzrath.
+    gender: m
+  - name: Major von Springborn.
+    gender: m
+  - name: Ritter von Schmalzbauch,
+    role: ein reicher Gutsbesitzer.
+    gender: m
+  - name: Kaufmann Walther.
+    gender: m
+  - name: Peter,
+    role: Gernau's alter Diener.
+    gender: m
+setting: >-
+  Scene: Gernau's Wohnung. (Das Theater stellt ein elegantes Gesellschaftszimmer vor, durch dessen offene Mittelthür man in den Speisesaal sieht, wo ein gedeckter Tisch mit fünf Couverts steht.)
+---
 slug: gebler-das-bindband-oder-die-fuenf-theresen
 author:
   name: Gebler, Tobias Philipp von
@@ -25202,6 +25486,7 @@ editions:
     url: https://books.google.com/books?id=L-5DAQAAIAAJ&pg=PA381
 comments:
   - Auch unter dem Titel »Das Band. Ein Schauspiel in einem Aufzuge« (1769).
+  - "Auch mit dem Untertitel »Ein kleines Tagslustspiel für Kinder. In einem Akte«."
 cast:
   - name: Galathee.
     gender: f
@@ -28161,7 +28446,7 @@ cast:
   - name: Wilhelm,
     role: ein Aufwärter.
     gender: m
-setting: >
+setting: >-
   Die Handlung geschieht in einer hannövrischen Stadt.
 ---
 slug: hagemann-die-unrechtmaessige-vermaehlung
@@ -31252,7 +31537,7 @@ cast:
   - name: Mehrere Jäger und Bediente.
     isGroup: true
     gender: u
-setting: >
+setting: >-
   Die Handlung geschieht auf des Kapitäns altem Schlosse. (Ein alter Saal im Schlosse des Kapitäns.)
 ---
 slug: hensler-die-schoene-ungarin-oder-das-pasquill
@@ -35281,7 +35566,7 @@ cast:
     isGroup: true
     gender: u
 setting: >-
-  Hohe Felsstücke, über welche oben ein eisernes Gitter hinläuft, bilden eine Schlucht; im Hintergrunde im Thurm.
+  Hohe Felsstücke, über welche oben ein eisernes Gitter hinläuft, bilden eine Schlucht; im Hintergrunde ein Thurm.
 ---
 slug: jacobi-der-neujahrstag-auf-dem-lande
 author:
@@ -35542,6 +35827,41 @@ cast:
     gender: m
   - name: Fischer.
     gender: m
+---
+slug: jelpke-ein-schaeferspiel-ohne-liebe
+author:
+  name: Jelpke, Johann Wilhelm
+  wikidata: Q976452
+title: Ein Schäferspiel Ohne Liebe
+numberOfScenes: 9
+printed: 1747
+premiered: 1747
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 13, S. 475
+editions:
+  - title: "Braunschweig 1747"
+    url: https://books.google.com/books?id=_hhVAAAAcAAJ&printsec=frontcover
+comments:
+  - "Kein Einakterhinweis im Druck, wird aber bei [Elise Marie Mayer (1920)](http://d-nb.info/364993499) als Einakter behandelt."
+cast:
+  - name: Pyhllis.
+    role: Eine junge Schäferin.
+    gender: f
+  - group:
+      - name: Damoet.
+        gender: m
+      - name: Lycidas.
+        gender: m
+    role: Schäfer.
+  - group:
+      - name: Fidelio.
+        gender: m
+      - name: Alexis.
+        gender: m
+    role: Zweene junge Schäfer.
 ---
 slug: jester-das-duell-oder-das-junge-ehepaar
 author:
@@ -36782,6 +37102,8 @@ formalia:
 editions:
   - title: "Theaterspiele von Klähr. Meissen: Goedsche 1816"
     url: https://books.google.com/books?id=lmRBAQAAMAAJ&pg=RA2-PA1
+comments:
+  - "Auch mit dem Untertitel »Eine gereimte Posse, in einem Akt«."
 cast:
   - name: Hanns Dünkelstolz,
     role: ein reicher Müller.
@@ -39719,7 +40041,9 @@ editions:
 comments:
   - Im Druck kein Einakterhinweis. – Bezeichnung »Historisches Trauerspiel in Einer Abtheilung« auf dem [Theaterzettel Weimar 1834](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00029745/006536.tif).
   - Basiert auf der [Sage vom Graf von Gleichen](https://de.wikipedia.org/wiki/Der_Graf_von_Gleichen_(Sage)).
-  - »Seitenhieb« Goethes [»Stella«](https://dracor.org/id/ger000126) (laut Kotzebue-Lexikon).
+  - »Seitenhieb« auf Goethes [»Stella«](https://dracor.org/id/ger000126) (laut Kotzebue-Lexikon).
+  - "»erzdummes Ding von Kotzebue« (Johann Diederich Gries an Bernhard Rudolf Abeken, [8. März 1815](https://books.google.de/books?id=sniWDwAAQBAJ&newbks&lpg=PP22))"
+  - "»eine elende Burleske« (Zeitschrift für die historische Theologie, Leipzig 1844, [S. 127, Fn. 2](https://books.google.de/books?id=sP9SAAAAcAAJ&pg=RA3-PA127))"
 cast:
   - name: Ritter Hans Graf von Gleichen.
     gender: m
@@ -43123,7 +43447,7 @@ printed: 1749
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»Le réunion des amours«](https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_REUNIONDESAMOURS.xml)."
+  - "Marivaux: [»Le réunion des amours«](https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_REUNIONDESAMOURS.xml)."
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 334–335
@@ -43160,12 +43484,16 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»Le Dénouement imprévu«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DENOUEMENTIMPREVU.xml)"
+  - "Marivaux: [»Le dénouement imprévu. Comédie d'un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DENOUEMENTIMPREVU.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 332
 editions:
   - title: "Marivaux: Sammlung einiger Lustspiele. 2. Theil. 1749, S. 463–510"
+comments:
+  - "Weitere Übersetzung: [Anonym 1760](anonym-der-unerwartete-ausgang)."
+  - Vgl. [73. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb073.html)
+    der »Hamburgischen Dramaturgie«.
 cast:
   - name: Herr Argante.
     gender: m
@@ -43202,7 +43530,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»L'heritier de village. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
+  - "Marivaux: [»L'heritier de village. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 13, S. 477–478
@@ -43246,7 +43574,7 @@ printed: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
+  - "Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 13, S. 479
@@ -47890,7 +48218,7 @@ cast:
     gender: m
   - name: Dromo.
     gender: m
-setting: >
+setting: >-
   Die Scene ist ein Grabmahl, in dessen Vertiefung zwey Särge, der eine verdeckt, der andere offen; von einer aus der Mitte des Gewölbes herabhangenden Lampe nur kaum erleuchtet.
 ---
 slug: lessing-ohne-harleckin
@@ -48030,12 +48358,15 @@ author:
 title: Der Vatersegen
 subtitle: Drama in einem Act
 numberOfScenes: 12
+created: 1822
 printed: 1830
 formalia:
   - Prosa
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Acht und zwanzigster Jahrgang. Hamburg: Hoffmann und Campe 1830, S. 277–338"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044942_00295.html
+  - title: "August Lewald's gesammelte Schriften. In einer Auswahl. Vierter Band. Leipzig: Brockhaus 1844, S. 92–127"
+    url: https://books.google.de/books?id=fHlAMxqjeAkC&pg=PA92
 cast:
   - name: Freiberg.
     gender: m
@@ -48157,8 +48488,8 @@ premiered: 1757
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
-  - "Pierre Carlet de Marivaux: [»L'île de la raison«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDELARAISON.xml)"
+  - "Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
+  - "Marivaux: [»L'île de la raison«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDELARAISON.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 112–113
@@ -48520,6 +48851,48 @@ setting: >-
   Scene: Im Schlosse Hermilly bei Chambery. (Salon, – Thür im Hintergrunde; zwei Seitenthüren; ein Tisch mit Schreibzeug.)
 location:
   wikidataId: Q165090
+---
+slug: loegler-der-neujahrsmorgen
+author:
+  name: Lögler, Benedikt
+  wikidata: Q55679052
+title: Der Neujahrsmorgen
+subtitle: Ein Schauspiel für Privatbühnen in einem Aufzuge
+numberOfScenes: 10
+printed: 1820
+formalia:
+  - Prosa
+editions:
+  - title: "Original-Theater für das Jahr 1820. Zusammengetragen von mehrern dramatischen Dichtern. Erster Band. Augsburg und Leipzig: Jenisch und Stage [1820], S. 221–243"
+    url: https://books.google.com/books?id=aSU7AAAAcAAJ&pg=PA221
+cast:
+  - name: Der Major eines Infanterieregiments.
+    gender: m
+  - name: Thomas Meier,
+    role: ein Leineweber.
+    gender: m
+  - name: Gertrude,
+    role: sein Weib.
+    gender: f
+  - name: Franz Nikel,
+    role: ein Bauer.
+    gender: m
+  - group:
+      - name: Peter
+        gender: m
+      - name: Jakob
+        gender: m
+    role: seine Söhne.
+  - name: Der Nachtwächter.
+    gender: m
+  - name: Zwei Soldaten.
+    isGroup: true
+    gender: m
+  - name: Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist in einem Dorfe.
 ---
 slug: loeper-so-gehts-wenn-man-dem-gesinde-die-aufsicht-der-kinder-ueberlaesst
 author:
@@ -49627,7 +50000,7 @@ cast:
   - name: Paul,
     role: von Lindaus Bedienter.
     gender: m
-setting: >
+setting: >-
   Die Handlung geschieht im Birkenfeldischen Garten.
 ---
 slug: martini-die-prachtsuechtige
@@ -50971,7 +51344,7 @@ editions:
   - title: "A. G. Meißners sämmtliche Werke. Zweyter Band. Zweyter Theil. Wien: Doll 1813, S. 53–80"
     url: https://books.google.com/books?id=2wo-AQAAMAAJ&pg=PA53
 comments:
-  - Weitere Übersetzungen [1762](anonym-der-finanzpachter) (anonym), [1766](weiskern-die-wirkung-der-rechtschaffenheit) (»Die Wirkung der Rechtschaffenheit«, Friedrich Wilhelm Weiskern) und 1768 (»Der Finanzpacht«, Christian August Wichmann).
+  - "Weitere Übersetzungen: [Anonym 1762](anonym-der-finanzpachter), [Weiskern 1766](weiskern-die-wirkung-der-rechtschaffenheit) und [Wichmann 1768](wichmann-der-finanzpachter)."
   - Im [Vorbericht (1813)](https://books.google.com/books?id=2wo-AQAAMAAJ&pg=PA3) werden aus dem Französischen übersetzte Dramen besprochen; Mylius habe Meißner zu seinen Übersetzungen ermuntert.
 cast:
   - name: Alcimon.
@@ -51428,7 +51801,7 @@ printed: 1793
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»L'épreuve. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_EPREUVE.xml)"
+  - "Marivaux: [»L'épreuve. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_EPREUVE.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 32, S. 416–417
@@ -54522,6 +54895,58 @@ setting: >-
 location:
   wikidataId: Q244
 ---
+slug: perchtold-johann-die-geraubte-ehefrau
+author:
+  name: Perchtold, Johann
+  wikidata: Q95324420
+title: Die geraubte Ehefrau
+subtitle: Ein Drama in einem Aufzuge
+numberOfScenes: 18
+printed: 1778
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 139–140
+editions:
+  - title: "Frankfurt und Leipzig 1778"
+    url: https://books.google.com/books?id=MC-8bMMoeagC&printsec=frontcover
+cast:
+  - name: Graf Schaalberg,
+    role: Obrister.
+    gender: m
+  - name: Gräfinn Sophie,
+    role: dessen Gemahlinn.
+    gender: f
+  - name: Baron Haßfeld.
+    gender: m
+  - name: Lottchen,
+    role: der Gräfinn Kammermädchen.
+    gender: f
+  - name: Flink,
+    role: Bedienter der Gräfinn.
+    gender: m
+  - name: Herr Lister,
+    role: Verwalter des Baron Haßfeld.
+    gender: m
+  - name: Frau Lister.
+    gender: f
+  - name: Heinrich,
+    role: ein alter Bedienter des Baron Haßfeld.
+    gender: m
+  - name: Fritz,
+    role: neuangenommener Bedienter des Baron Haßfeld.
+    gender: m
+  - name: Ein Officier.
+    gender: m
+  - name: Ein redender Soldat.
+    gender: m
+  - name: Wache.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung geht auf einem Landgut des Baron Haßfeld vor.
+---
 slug: perinet-der-lizitirte-braeutigam-oder-die-grossmama-wider-ihren-willen
 author:
   name: Perinet, Joachim
@@ -54753,6 +55178,9 @@ editions:
     url: https://books.google.com/books?id=S0ZXAAAAcAAJ&pg=PA1
 comments:
   - "Frühestes Aufführungsdatum via [Nachricht von der im Jahre 1758. von Herrn Felix Berner errichteten jungen Schauspieler-Gesellschaft. Wien: Jahn 1786, S. 4–5](http://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/1938922)."
+  - "Besprechung in: Bibliothek der schönen Wissenschaften und der freyen Künste. Achten Bandes zweytes Stück. Leipzig: Dyck 1762, [S. 344](https://books.google.de/books?id=eoRdAAAAcAAJ&pg=RA1-PA344)"
+  - Vgl. [14. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb014.html)
+    der »Hamburgischen Dramaturgie« (Lessing referenziert es als »Der Eremit«).
 cast:
   - name: Theodor,
     role: ein Einsiedler.
@@ -54787,6 +55215,9 @@ dictionaries:
 editions:
   - title: "Franckfurt am Mayn: Garbe 1761"
     url: https://books.google.com/books?id=I4pXfT2aYMAC&printsec=frontcover
+comments:
+  - Vgl. [14. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb014.html)
+    der »Hamburgischen Dramaturgie«.
 keywords:
   - Geld
   - Selbstmord
@@ -55015,7 +55446,7 @@ printed: 1764
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
+  - "Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 21, S. 159
@@ -58140,6 +58571,150 @@ cast:
 setting: >-
   Bauernzimmer. Mittelthür, mit großen Fenstern zu beiden Seiten. Seitenthüren. Ueber der Mittelthür das Bild eines Bauernburschen. Großer Lehnsessel, Spinnrad, Tisch- und Speiseschrank.
 ---
+slug: ritter-der-betrogene-entfuehrer
+author:
+  name: Ritter, Heinrich Ludwig
+  wikidata: Q95635327
+title: Der betrogene Entführer
+subtitle: Lustspiel in 1 Aufzuge
+numberOfScenes: 20
+printed: 1818
+formalia:
+  - Prosa
+editions:
+  - title: "Possen und Lustspiele für die deutsche Bühne von Heinrich Ludwig Ritter. Erstes Bändchen. Meine Stiefkinder. Heidelberg: Engelmann 1818, S. 53–104"
+    url: https://books.google.com/books?id=bYVIAAAAcAAJ&hl&pg=PA53
+comments:
+  - "Hinweis nach der Titelseite: »Die Vorrede folgt im zweiten Bändchen.«"
+  - "Besprechung in: Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 63 (1818), [Sp. 119–120](https://books.google.com/books?id=qrp1hDcH0c0C&pg=RA1-PA119)."
+cast:
+  - name: Advokat Gänsekiel.
+    gender: m
+  - name: Eleonore,
+    role: seine Schwester.
+    gender: f
+  - name: Assessor Mondschein.
+    gender: m
+  - name: Frohberg,
+    role: ein junger Offizier.
+    gender: m
+  - name: Fastag,
+    role: Gastwirth zur leeren Schüssel.
+    gender: m
+  - name: Heinrich,
+    role: Frohbergs Bediente.
+    gender: m
+setting: >-
+  Die Handlung geht in einer Provinzialstadt, im Gasthof zur leeren Schüssel vor. (Ein gemeinschaftlicher Saal, auf jeder Seite zwei Thüren; rechts mit den Nro. 1 und 2, links 3 und 4. Im Hintergrunde eine Mittelthür, in der vorderen Kulisse ein Kamin, gegenüber ein Tisch mit Schreibzeug und einem Lichte.)
+---
+slug: ritter-der-weibermagistrat-zu-klatschhausen
+author:
+  name: Ritter, Heinrich Ludwig
+  wikidata: Q95635327
+title: Der Weibermagistrat zu Klatschhausen
+subtitle: Lustspiel in 1 Aufzuge
+numberOfScenes: 21
+printed: 1818
+formalia:
+  - Prosa
+editions:
+  - title: "Possen und Lustspiele für die deutsche Bühne von Heinrich Ludwig Ritter. Erstes Bändchen. Meine Stiefkinder. Heidelberg: Engelmann 1818, S. 1–52"
+    url: https://books.google.com/books?id=bYVIAAAAcAAJ&pg=PA1
+comments:
+  - "Hinweis nach der Titelseite: »Die Vorrede folgt im zweiten Bändchen.«"
+  - "Besprechung in: Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 63 (1818), [Sp. 119–120](https://books.google.com/books?id=qrp1hDcH0c0C&pg=RA1-PA119)."
+cast:
+  - name: Oberbürgermeister Dickkopf.
+    gender: m
+  - name: Sybille,
+    role: seine Frau.
+    gender: f
+  - name: Assessor Strumpf.
+    gender: m
+  - name: Amtsactuarius Krizler.
+    gender: m
+  - name: Amtsverweser Greif.
+    gender: m
+  - name: Advocat Elster.
+    gender: m
+  - name: Assessorin Strumpf.
+    gender: f
+  - name: Aktuarin Krizler.
+    gender: f
+  - name: Die Amtsverweserin.
+    gender: f
+  - name: Advokatin Elster.
+    gender: f
+  - name: Landbaumeisterin Schwindel.
+    gender: f
+  - name: Siegmund,
+    role: ein junger Rechtsgelehrter.
+    gender: m
+  - name: Pauline Rose,
+    role: Nichte des Oberbürgermeisters.
+    gender: f
+  - group:
+      - name: Kathrine,
+        gender: f
+      - name: Madlene,
+        gender: f
+    role: Dienstmägde.
+  - name: Sechs junge Männer aus der Stadt.
+    isGroup: true
+    gender: m
+setting: >-
+  In einer beliebigen Gegend Deutschlands. (Die Bühne stellt ein geräumiges Rathszimmer vor, im Hintergrund Tische mit grünen Tüchern und große Lehnstühle, zu beyden Seiten Thüren von anstoßenden Zimmern.)
+---
+slug: ritter-die-magnetisirte-verlobung
+author:
+  name: Ritter, Heinrich Ludwig
+  wikidata: Q95635327
+title: Die magnetisirte Verlobung
+subtitle: Posse in 1 Aufzuge
+numberOfScenes: 14
+printed: 1818
+formalia:
+  - Prosa
+editions:
+  - title: "Possen und Lustspiele für die deutsche Bühne von Heinrich Ludwig Ritter. Erstes Bändchen. Meine Stiefkinder. Heidelberg: Engelmann 1818, S. 105–146"
+    url: https://books.google.com/books?id=bYVIAAAAcAAJ&pg=PA105
+comments:
+  - "Hinweis nach der Titelseite: »Die Vorrede folgt im zweiten Bändchen.«"
+  - "Besprechung in: Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 63 (1818), [Sp. 119–120](https://books.google.com/books?id=qrp1hDcH0c0C&pg=RA1-PA119)."
+keywords:
+  - Magnetismus
+cast:
+  - name: Soporito,
+    role: ein umherziehender Magnetiseur.
+    gender: m
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - name: Tienchen,
+    role: Emiliens Stubenmädchen.
+    gender: f
+  - name: Doktor Würgengel.
+    gender: m
+  - name: Eduard,
+    role: dessen Sohn.
+    gender: m
+  - name: Pfiff,
+    role: Eduards Diener.
+    gender: m
+  - name: Rüppel,
+    role: ein entlaufener Barbiergesell, Soporito's Schüler.
+    gender: m
+  - name: Ein Bucklichter.
+    gender: m
+  - name: Ein Blinder.
+    gender: m
+  - name: Ein Lahmer.
+    gender: m
+  - name: Ein Stotterer.
+    gender: m
+setting: >-
+  Die Scene spielt in einem geräumigen Saale; zur einen Seite stehen mehrere Bänke, auf der entgegengesetzten ein großer Armstuhl und andere Stühle.
+---
 slug: robert-blind-und-lahm
 author:
   name: Robert, Ludwig
@@ -58439,6 +59014,8 @@ dictionaries:
 editions:
   - title: "Nützliche Erinnerungen für Mitglieder von Privattheatern. Nebst vier Lustspielen für Liebhabertheater. Halberstadt: Groß 1798. Anhang, S. 125–168"
     url: https://books.google.com/books?id=LsNKAAAAcAAJ&pg=RA1-PA125
+  - title: "Lustspiele für Privattheater. Reuttlingen: Typographische Gesellschaft 1807, S. 91–124"
+    url: https://books.google.de/books?id=mKpIAAAAcAAJ&pg=PA91
 cast:
   - name: Kommerzienrath Benedikt.
     gender: m
@@ -58954,7 +59531,7 @@ premiered: 1759-02-27
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»L'école des mères. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ECOLEDESMERES.xml)"
+  - "Marivaux: [»L'école des mères. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ECOLEDESMERES.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 273
@@ -60751,6 +61328,8 @@ editions:
 comments:
   - Auch unter dem Titel »Der Triumph der vergangenen Zeit. Lustspiel in einem Aufzug und in Prosa. Aus dem Französischen des Le Grand« (1753).
   - "Weitere Übersetzungen: [»Die schöne Rosette« (1780, Gärtner)](gaertner-die-schoene-rosette), [»Die schöne Nanette« (1781, anonym)](anonym-die-schoene-nanette)."
+  - Vgl. [5. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb005.html)
+    der »Hamburgischen Dramaturgie«.
 cast:
   - name: Cleon,
     role: Leanders Vater, ein alter Liebhaber der Frau Roquentin.
@@ -62448,6 +63027,8 @@ basedOn:
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band I, No. 2. Berlin: Cosmar und Krause 1830, S. 17–31"
     url: https://books.google.com/books?id=dWRcAAAAcAAJ&pg=PA17
+comments:
+  - "In dem Stück geht es um einen Alexander, dessen Rückkehr aus russischer Gefangenschaft erwartet wird. Er taucht im Personenverzeichnis nicht auf, tritt aber im letzten Auftritt in Erscheinung (stumme Figur)."
 cast:
   - name: Raimund,
     role: praktischer Arzt.
@@ -63755,7 +64336,7 @@ premiered: 1782-11-25
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carlet de Marivaux: [»L'épreuve. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_EPREUVE.xml)"
+  - "Marivaux: [»L'épreuve. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_EPREUVE.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 308
@@ -73595,7 +74176,7 @@ editions:
   - title: "[Wien]: Kraus [1766]"
     url: https://books.google.com/books?id=-TxOAAAAcAAJ&printsec=frontcover
 comments:
-  - Weitere Übersetzungen [1762](anonym-der-finanzpachter) (anonym), 1768 (»Der Finanzpacht«, Christian August Wichmann) und [1778](meissner-der-finanzpachter) (August Gottlieb Meißner).
+  - "Weitere Übersetzungen: [Anonym 1762](anonym-der-finanzpachter), [Wichmann 1768](wichmann-der-finanzpachter) und [Meißner 1778](meissner-der-finanzpachter)."
 cast:
   - name: Alcimon.
     gender: m
@@ -75726,7 +76307,8 @@ author:
   name: Wichmann, Christian August
   wikidata: Q55675821
 title: Der Dervisch
-subtitle: Ein Lustspiel in einem Aufzuge
+subtitle: Ein Lustspiel in einem Aufzuge, das am 15 September 1755 vorgestellt worden
+numberOfScenes: 10
 printed: 1768
 formalia:
   - Prosa
@@ -75736,9 +76318,58 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 23, S. 185
 editions:
-  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Vierter Theil. Leipzig: Fritsch 1768, S. 251–270"
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Vierter und letzter Theil. Leipzig: Fritsch 1768, S. 251–270"
 comments:
   - "Weitere Übersetzung: [Anonym 1764](anonym-der-dervisch)."
+cast:
+  - name: Osmin.
+    gender: m
+  - name: Achmet.
+    gender: m
+  - name: Selim.
+    gender: m
+  - name: Fatime.
+    gender: f
+  - name: Sechs junge Mädchen.
+    isGroup: true
+    gender: f
+setting: >-
+  Der Schauplatz ist auf einer einsamen Insel.
+---
+slug: wichmann-der-finanzpachter
+author:
+  name: Wichmann, Christian August
+  wikidata: Q55675821
+title: Der Finanzpachter
+subtitle: Ein Lustspiel in einem Aufzuge, das am 20 Julius 1761 von den französischen Komödianten zum erstenmale aufgeführt worden
+numberOfScenes: 14
+printed: 1768
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: »Le financier. Comédie en un acte«"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 23, S. 185
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Vierter und letzter Theil. Leipzig: Fritsch 1768, S. 271–296"
+comments:
+  - "Weitere Übersetzungen: [Anonym 1762](anonym-der-finanzpachter), [Weiskern 1766](weiskern-die-wirkung-der-rechtschaffenheit) und [Meißner 1778](meissner-der-finanzpachter)."
+cast:
+  - name: Alcimon.
+    gender: m
+  - name: Der Marquis.
+    gender: m
+  - name: Der Ritter.
+    gender: m
+  - name: Geront.
+    gender: m
+  - name: Henriette.
+    gender: f
+  - name: Frontin.
+    gender: m
+setting: >-
+  Der Schauplatz ist auf Alcimons Schlosse.
 ---
 slug: wichmann-der-vermeynte-nebenbuhler
 author:
