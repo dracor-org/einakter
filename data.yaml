@@ -2257,16 +2257,16 @@ cast:
   - name: Der Genius Vindebonens.
     gender: m
   - name: Das deutsche Schauspiel.
-    gender: u
+    gender: f
   - name: Das Französische Schauspiel.
-    gender: u
+    gender: f
   - name: Der Patriotismus.
-    gender: u
+    gender: m
   - name: Das Vorurtheil Vindebonens,
     role: als petit maitre gekleidet.
-    gender: u
+    gender: m
   - name: Die Kritik.
-    gender: u
+    gender: f
   - name: Gefolge des Vorurtheils, worunter die Unwissenheit und die Eitelkeit
     isGroup: true
     gender: u
@@ -4179,6 +4179,8 @@ editions:
     url: https://books.google.com/books?id=6uR2O4YcRfwC&printsec=frontcover
 comments:
   - "Weitere Übersetzungen: [Weiskern 1766](weiskern-die-wirkung-der-rechtschaffenheit), [Wichmann 1768](wichmann-der-finanzpachter) und [Meißner 1778](meissner-der-finanzpachter)."
+  - Vgl. [20. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb020.html)
+    der »Hamburgischen Dramaturgie«.
 cast:
   - name: Alcimon.
     gender: m
@@ -5712,6 +5714,7 @@ editions:
     url: https://books.google.com/books?id=6ZVIAAAAcAAJ&printsec=frontcover
 comments:
   - Bei Meyer selber Titel und Verlagsort bei anderem Verlag und Jahr (Cnobloch 1795), vgl. 2. Abteilung, Band 33, S. 319.
+  - "Autor ist möglicherweise Georg Friedrich Treitschke (vgl. [S. 198](http://www.donjuanarchiv.at/fileadmin/DJA/Forschung/Zentraleuropa/Bibliotheken_und_Sammlungen/Schlossbibliothek_Radenin_Katalog_2_1963.pdf))."
 cast:
   - name: Graf Bork,
     role: General.
@@ -7661,6 +7664,44 @@ cast:
     isGroup: true
     gender: m
 ---
+slug: anonym-die-probe-in-der-vestung-oder-der-stumme-liebhaber
+author:
+  pseudonym: Anonym
+title: Die Probe in der Vestung oder der stumme Liebhaber
+subtitle: Ein Lustspiel in einem Ackte
+numberOfScenes: 17
+premiered: 1771-10-30
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 24, S. 269
+comments:
+  - Nur Manuskript.
+  - "Besprechung in: Ueber die Hamburgische Bühne. An den Herrn Professor S. in G. Erstes und zweytes Schreiben. Hamburg, Berlin und Leipzig 1771, [S. 165–166](https://books.google.com/books?id=NwtfYLEQOwcC&pg=PA165)."
+cast:
+  - name: Der Kommendant.
+    gender: m
+  - name: Amalia,
+    role: seine Tochter.
+    gender: f
+  - name: Lelio.
+    gender: m
+  - name: Nerine,
+    role: Amaliens Kammermädchen.
+    gender: f
+  - name: Ein Corporal.
+    gender: m
+  - name: Ein Lieutenant.
+    gender: m
+  - name: Ein Officier.
+    gender: m
+  - name: Soldaten.
+    isGroup: true
+    gender: m
+setting: >-
+  Der Schauplatz ist auf der Gaße. Gegen Schluße, des 9ten Auftrittes wird die Mittel-Gardine aufgezogen und man sieht die Hauptwache.
+---
 slug: anonym-die-probe-oder-der-landpfarrer-in-der-residenz
 author:
   pseudonym: Anonym
@@ -8540,6 +8581,49 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist ein offener Platz vor Dormins Wohnung.
+---
+slug: anonym-die-grands-von-frankreich-in-ihrer-wahren-gestalt
+author:
+  pseudonym: Anonym
+title: Die Grands von Frankreich in ihrer wahren Gestalt
+subtitle: Ein Banditenspiel in einem Act
+numberOfScenes: 6
+printed: 1814
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dornenstiche für Napoleon und Hieronymus Buonaparte und einige ihrer ehemaligen Staatsdiener. Cölln: Hammer 1814, S. 1–38"
+    url: https://books.google.com/books?id=AO5YAAAAcAAJ&pg=PA1
+cast:
+  - name: Bonaparte,
+    role: Lieutenant.
+    gender: m
+  - name: Vandamme,
+    role: Barbier.
+    gender: m
+  - name: Davoust,
+    role: Fleischhauer.
+    gender: n
+  - name: Ney,
+    role: Tabackshändler.
+    gender: m
+  - name: Marion,
+    role: Ney's Gemahlin, eine Waschfrau.
+    gender: f
+  - name: Hieronymus,
+    role: Krämer.
+    gender: m
+  - name: Ein Küchenmeister.
+    gender: m
+  - name: Arian.
+    gender: m
+  - name: Drei Preußl. Jäger. Ein Grenadier. Viele Soldaten.
+    isGroup: true
+    gender: m
+setting: >-
+  Der Schauplatz ist im Böhmischen Waldgebirge, hart an der Sächsischen Gränze.
+location:
+  wikidataId: Q39193
 ---
 slug: anonym-die-gratien
 author:
@@ -12588,6 +12672,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Neunter Jahrgang, für 1830. Berlin: Vereinsbuchhandlung 1830, S. 209–238"
     url: https://books.google.com/books?id=ksE6AAAAcAAJ&pg=PA209
+comments:
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.de/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Theodor.
     gender: m
@@ -12676,8 +12762,6 @@ editions:
     url: https://books.google.com/books?id=1VI7AAAAcAAJ&pg=PA1
 comments:
   - "Auch mit dem Untertitel »in 1 Akt«."
-keywords:
-  - Französische Revolution
 cast:
   - name: Annibal,
     role: ein armer Maler.
@@ -15537,6 +15621,8 @@ editions:
     url: https://books.google.com/books?id=ivFYAAAAcAAJ&printsec=frontcover
 comments:
   - "Auch unter dem Titel »Es ist Friede! (gestrichen: Die Friedensfeyer) Ländliches Schauspiel in einem Aufzuge« (undat. Ms.)."
+keywords:
+  - Krieg
 cast:
   - name: Der Oberste von Biederau,
     role: in sächsischen Diensten.
@@ -17734,6 +17820,40 @@ cast:
 setting: >-
   Die Scene ist ein Zimmer in Herrn von Rillers Landhause, mit zwei Seiten- und einer Mittelthüre, zur Rechten ein Tisch mit Schreibgeräthe, zur Linken ein Queridon mit Büchern.
 ---
+slug: castelli-das-anekdotenbuechlein
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Das Anekdotenbüchlein
+subtitle: Lustspiel in einem Akte. Nach dem Französischen der Herren Scribe und Delavigne
+numberOfScenes: 18
+printed: 1828
+premiered: 1827-04-17
+formalia:
+  - Prosa
+basedOn:
+  - Eugène Scribe und Germain Delavigne
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1828. Von I. F. Castelli. Dreyzehnter Jahrgang. Wien: Wallishausser [1828], S. 99–156"
+comments:
+  - Auf Theaterzetteln auch mit zusätzlich genannten Nebenfiguren ([München 1834](https://books.google.com/books?id=hSpDAAAAcAAJ&pg=PA81), [Hamburg 1832](https://www.stadttheater.uni-hamburg.de/system/files/1832-12-21_0.pdf)."
+cast:
+  - name: Gräfinn Eugenia von Surrakin.
+    gender: f
+  - name: Emile de Vergigny,
+    role: ein französischer Offizier.
+    gender: m
+  - name: Leonard Valbelle,
+    role: ein Mahler.
+    gender: m
+  - name: Peteroff,
+    role: Haushofmeister der Gräfinn.
+    gender: m
+setting: >-
+  Die Handlung ist in der Gegend von Wilna. (Die Bühne stellt einen sehr eleganten Salon vor, mit einer Mittel- und zwey Seitenthüren. Zur Rechten ein Tisch, zur Linken ein Stehspiegel und eine vollständige elegante Toilette. Ein Stickrahmen an der Seite.)
+location:
+  wikidataId: Q216
+---
 slug: castelli-das-fruehstueck
 author:
   name: Castelli, Ignaz Franz
@@ -17767,6 +17887,49 @@ cast:
     gender: m
 setting: >-
   Die Bühne ist in der Mitte getheilt, und stellt zwey ärmliche Zimmer vor, welche durch eine Thüre Communikation haben. Zur Linken ist Kohls Zimmer, in welchen ein Tisch und ein paar Stühle stehen, rechts Links Zimmer, worinn auch ein Tisch, ein Piano-Forte, und zwey Stühle sich befinden.
+---
+slug: castelli-der-alte-juengling
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Der alte Jüngling
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen.
+numberOfScenes: 18
+printed: 1817
+premiered: 1815-11-02
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1817. Von I. F. Castelli. Zweyter Jahrgang. Wien: Wallishausser 1817, S. 203–260"
+cast:
+  - name: Herr von Blindstein,
+    role: ein Mann von 60 Jahren.
+    gender: m
+  - name: Holm,
+    role: sein Neffe.
+    gender: m
+  - name: Just,
+    role: Holms Bedienter, gegenwärtig in Blindsteins Diensten.
+    gender: m
+  - name: Frau von Merlen,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Doctor Leiche.
+    gender: m
+  - name: Fritz Baff,
+    role: ein junger Stutzer, Blindsteins Freund.
+    gender: m
+  - name: Maus,
+    role: ein Häscher.
+    gender: m
+  - name: Abraham Geldpreß,
+    role: Wucherer.
+    gender: m
+  - name: Stichweit,
+    role: ein Schneider.
+    gender: m
+setting: >-
+  Die Scene spielt in einem Gasthofe, in der Wohnung des Herrn von Blindstein. (Die Bühne stellt einen sehr prächtig dekorirten Saal vor. Zur Rechten ist eine Thüre. En face im Hintergrunde ein Kamin mit einem Spiegel ober demselben. Vor dem Spiegel steht eine Vase, und verschiedenes schönes Kaffeh- und Theegeschirr. Zur Linken mehrere Lehnstühle, ein Sekretär, und ein Queridon. Im Hintergrunde eine Thüre.)
 ---
 slug: castelli-der-ehemann-als-liebhaber-oder-der-liebhaber-als-ehemann
 author:
@@ -17923,6 +18086,7 @@ formalia:
 editions:
   - title: "Taschenbuch für Schauspieler und Schauspielfreunde auf das Jahr 1821. Herausgegeben von Lembert. Wien: Tendler und von Manstein 1821, S. 64–74"
     url: https://books.google.com/books?id=w51mAAAAcAAJ&pg=PA64
+  - title: "Dramatisches Sträußchen für das Jahr 1828. Von I. F. Castelli. Dreyzehnter Jahrgang. Wien: Wallishausser [1828], S. 245–259"
   - title: "I. F. Castelli's sämmtliche Werke. Vollständige Ausgabe letzter Hand, in strenger Auswahl. Dreizehntes Bändchen. Wien: Pichler 1845, S. 103–114"
     url: https://books.google.com/books?id=OIc-AQAAMAAJ&pg=PA103
   - title: "I. F. Castelli's Theater. Vollständige Ausgabe letzter Hand, in strenger Auswahl. Zweites Bändchen. Zweite vermehrte Auflage. Wien: Mayer 1848, S. 103–114"
@@ -17955,6 +18119,7 @@ basedOn:
 editions:
   - title: "Taschenbuch für Schauspieler und Schauspielfreunde auf das Jahr 1822. Herausgegeben von Lembert. Wien: Tendler und von Manstein 1822, S. 212–232"
     url: https://books.google.com/books?id=HMtmoptrRWkC&pg=PA212
+  - title: "Dramatisches Sträußchen für das Jahr 1828. Von I. F. Castelli. Dreyzehnter Jahrgang. Wien: Wallishausser [1828], S. 211–244"
 keywords:
   - Eheanbahnung
   - Verkleidungsspiel
@@ -18314,11 +18479,12 @@ basedOn:
 editions:
   - title: "Wien: Wallishausser 1805"
     url: https://books.google.com/books?id=yLdTAAAAcAAJ&printsec=frontcover
+  - title: "Dramatisches Sträußchen für das Jahr 1825. Von I. F. Castelli. Zehnter Jahrgang. Wien: Wallishausser [1825], S. 197–252"
   - title: "I. F. Castelli's Theater. Vollständige Ausgabe letzter Hand, in strenger Auswahl. Zweites Bändchen. Zweite vermehrte Auflage. Wien: Mayer 1848, S. 173–208"
     url: https://books.google.com/books?id=gHjfAAAAMAAJ&pg=PA173
 comments:
   - "Weitere Übersetzungen: [Bonafont 1816](bonafont-betrug-fuer-betrug-oder-bedientenstreiche) (unter dem Titel »Betrug für Betrug oder Bedientenstreiche«), [Bonafont 1826](bonafont-list-um-list) (unter dem Titel »List um List«)."
-  - "1826 unter dem Titel »Fünf sind Zwei, oder: Domestikenstreiche« (1826)."
+  - "Später auch unter dem Titel »Fünf sind Zwei oder Domestikenstreiche« (1825)."
 keywords:
   - Verstellspiel
   - Verkleidungsspiel
@@ -18668,6 +18834,113 @@ setting: >-
   Die Scene ist zu Marseille. (Die Bühne stellt einen niederen Salon vor, welcher ein Comptoir bildet, rückwärts offen ist, und den Hafen erblicken läßt. Zur Rechten des Zusehers eine Thür, welche in das Innere des Hauses führt; zur Linken die allgemeine Eingangsthür. Rechts ein Schreibtisch, links ein Schirm. Eine Wanduhr ober dem Kamin, welcher sich an der Seite des Schreibtisches befindet. Von außen mehrere Tonnen und Ballen, welche zum Einschiffen bereit stehen.)
 location:
   wikidataId: Q23482
+---
+slug: castelli-verlegenheiten-und-auswege
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Verlegenheiten und Auswege
+subtitle: Eine Posse in einem Aufzuge. Frey nach dem Französischen
+numberOfScenes: 20
+printed: 1817
+premiered: 1817-02-18
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1817. Von I. F. Castelli. Zweyter Jahrgang. Wien: Wallishausser 1817, S. 261–318"
+comments:
+  - "Uraufgeführt in Brünn unter dem Titel »Fasching-Dienstag, oder: Verlegenheit und Auswege«."
+cast:
+  - name: Herr Wulst,
+    role: Kaufmann in einer Provinzialstadt.
+    gender: m
+  - name: Thekla,
+    role: seine Schwester.
+    gender: f
+  - name: Erich,
+    role: sein Sohn, ein junger Mahler.
+    gender: m
+  - name: Rosine,
+    role: Theklas Tochter.
+    gender: f
+  - name: Herr Rostmann,
+    role: Inhaber des Hauses, in welchem Erich wohnt.
+    gender: m
+  - name: Moritz,
+    role: Erichs Diener.
+    gender: m
+  - name: Eustach,
+    role: Hausmeister.
+    gender: m
+  - name: Piller,
+    role: ein Student.
+    gender: m
+  - group:
+      - name: Ein Musikmeister.
+        gender: m
+      - name: Ein Tanzmeister.
+        gender: m
+      - name: Ein Schneider.
+        gender: m
+      - name: Ein Schuster.
+        gender: m
+    role: Erichs Gläubiger.
+  - name: Ein Traiteur.
+    gender: m
+  - name: Einige Aufwärter.
+    isGroup: true
+    gender: m
+  - name: Verwandte des Herrn Wulst.
+    isGroup: true
+    gender: u
+  - name: Erichs Nachbarn.
+    isGroup: true
+    gender: u
+  - name: Zwey Tapeziergesellen.
+    isGroup: true
+    gender: m
+  - name: Ein Hausknecht.
+    gender: m
+setting: >-
+  Die Scene ist in Erichs Zimmer in der Hauptstadt. (Die Bühne stellt ein karg meublirtes Zimmer vor. Ein runder Tisch steht in der Mitte, auf welchen Handzeichnungen, Pallete, Pinsel und anderes Mahlergeräthe unordentlich umherliegen. Im Vordergrunde ein Lehnstuhl und ein anderer Sessel.) (An den Scenen zur rechten und linken Seite sind mehrere Bilder aufgestellt, wovon zwey sich durch ihre Größe vor den übrigen auszeichnen. Das erste stellt den Cincinnatus vor, wie er die römischen Gesandten empfängt, das andere den verwundeten Bayard. Ein kleines Gemählde zeigt mehrere musikalische Instrumente. Gegenüber von dem Bilde Bayards, welches noch unvollendet ist, steht eine, mit einem Teppich überdeckte, und mit Trophäen gezierte Tragbahre, eine Leiter steht neben dieser.) (Im Hintergrunde ein Feldbett mit einer gesteppten Bettdecke und Vorhänge von Taft. Ein Polster liegt auf der Decke.) (Zwey Fußgestelle, auf deren einem die Büste des Epaminondas steht, auf dem andern Fußgestell liest man das Wort: Themistocles, aber es steht keine Büste darauf.) (Zur Linken des Zusehers eine Kabinetsthüre, zur Rechten ein Fenster mit taftnen Vorhängen.) (Zwey Violinen, eine Flöte und eine Guittare sind aufgehangen.)
+---
+slug: castelli-wahnsinn
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Wahnsinn
+subtitle: Ein Drama in einem Aufzuge. Als Seitenstück zur Nina. Nach dem Französischen le delir frey bearbeitet
+numberOfScenes: 16
+printed: 1817
+premiered: 1816-07-19
+formalia:
+  - Prosa
+basedOn:
+  - "Jacques-Antoine de Révéroni Saint-Cyr: [»Le délire ou Les suites d'une erreur. Comédie en un acte, en prose mêlée d'ariettes«](https://books.google.com/books?id=6P1Rukvvpq8C&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1817. Von I. F. Castelli. Zweyter Jahrgang. Wien: Wallishausser 1817, S. 101–140"
+cast:
+  - name: Wilsen.
+    gender: m
+  - name: Louise,
+    role: dessen Gemahlinn.
+    gender: f
+  - name: Frau von Salden,
+    role: seine Schwester.
+    gender: f
+  - name: Trollstein.
+    gender: m
+  - name: George,
+    role: sein Jockey.
+    gender: m
+  - name: Frau Marthe,
+    role: eine Pächterinn.
+    gender: f
+  - name: Jakob,
+    role: Gärtner in Frau von Saldens Diensten.
+    gender: m
+setting: >-
+  Das Theater stellt einen Theil des Schloßparks der Frau von Salden vor. Zur Linken schlängelt sich der Arm eines Flusses durch eine blumichte Wiese. Weiter entfernt steht eine Gruppe von Thränenweiden. Dem Zuseher näher, hart am Flusse, steht eine Urne auf einem Postamente. Hinter dieser Urne führt ein hölzerner Steg über den Fluß. Im Hintergrunde Gesträuch. Zur Rechten ein Pavillon, zu dessen erhabner Thüre einige Stufen führen. Weiter entfernt ein anderer Pavillon in Form einer Hütte.
 ---
 slug: castelli-zwey-jahre-nach-der-hochzeit-oder-an-wem-ist-die-schuld
 author:
@@ -22321,6 +22594,8 @@ dictionaries:
 editions:
   - title: "Prag: Gerle 1783"
     url: https://books.google.com/books?id=o-tKAAAAcAAJ&printsec=frontcover
+comments:
+  - "Besprechung in: Allgemeine deutsche Bibliothek. Des sechs und funfzigsten Bandes erstes Stück. Berlin und Stettin: Nicolai 1783, [S. 120–121](https://books.google.de/books?id=xnpNAAAAcAAJ&pg=PA120)."
 keywords:
   - Rache
 cast:
@@ -22378,10 +22653,10 @@ cast:
     gender: f
   - name: Ferbius,
     role: Kantor.
-    gender: m 
+    gender: m
   - name: Röber,
     role: Husarenkorporal.
-    gender: m 
+    gender: m
   - name: Noch ein Husar.
     gender: m
 setting: >-
@@ -26338,6 +26613,7 @@ editions:
 comments:
   - "Nicht identisch mit Krickebergs Einakter [»Das Heiraths-Gesuch«](krickeberg-das-heiraths-gesuch) (1828)."
   - "Autorschaft ermittelt via Goedeke, Band XI/1, [S. 493–494](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/n509/mode/2up)."
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 254](https://books.google.de/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Kanzleidirector Strohgarten.
     gender: m
@@ -26440,6 +26716,7 @@ editions:
 comments:
   - "Autorschaft ermittelt via Goedeke, Band XI/1, [S. 493–494](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/n509/mode/2up)."
   - "Von Carl Malß zu dem Zweiakter [»Das Stelldichein im Tivoli, oder Schuster und Schneider als Nebenbuhler«](https://books.google.com/books?id=7TFdAAAAcAAJ&printsec=frontcover) (1832) adaptiert."
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.de/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Splitt,
     role: ein Dichter.
@@ -27278,6 +27555,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Zehnter Jahrgang, für 1831. Berlin: Vereins-Buchhandlung 1831, S. 291–324"
     url: https://books.google.com/books?id=ocE6AAAAcAAJ&pg=PA291
+comments:
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 254](https://books.google.de/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Alphons X.,
     role: König von Spanien.
@@ -27899,6 +28178,53 @@ cast:
   - name: Ein Aufwärter im Gasthofe.
     gender: m
 setting: Die Scene ist im gemeinschaftlichen Saale eines Gasthauses.
+---
+slug: guttenberg-der-ehrentag
+author:
+  name: Guttenberg, Andreas Josef von
+  wikidata: Q94889736
+title: Der Ehrentag
+subtitle: Ein Original Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1821
+formalia:
+  - Prosa
+editions:
+  - title: "Original-Theater für das Jahr 1821. Zusammengetragen von mehrern dramatischen Dichtern. Erster Band. Augsburg und Leipzig: Jenisch und Stage [1821], S. 217–244"
+    url: https://books.google.com/books?id=yCA7AAAAcAAJ&pg=PA217
+cast:
+  - name: Bergmann,
+    role: ein Pächter.
+    gender: m
+  - name: Konrad,
+    role: dessen Sohn.
+    gender: m
+  - name: Maria,
+    role: dessen Braut.
+    gender: f
+  - name: Pfau,
+    role: eine Färberswittwe.
+    gender: f
+  - name: Froß,
+    role: Seidenweber.
+    gender: m
+  - name: Springer,
+    role: Sattelmeister.
+    gender: m
+  - name: Wendel,
+    role: Schulmeister.
+    gender: m
+  - name: Schröterin,
+    role: eine arme Wittwe.
+    gender: f
+  - group:
+      - name: Nickel, und
+        gender: m
+      - name: Kunz,
+        gender: m
+    role: zwei Bauren.
+setting: >-
+  Ein Zimmer. Bergmann sitzt an einem Tische, hat ein Körbchen mit Blumen vor sich, und bindet einen Kranz; ein schon fertiger Kranz hängt an seiner Seite mit einem Zwirnsfaden an der Wand.
 ---
 slug: guttenberg-die-bedraengten-oder-guter-rath-fuer-baares-geld
 author:
@@ -29971,6 +30297,7 @@ author:
 title: William Ratcliff
 subtitle: Tragödie in einem Akte
 numberOfScenes: 17
+created: 1821
 printed: 1823
 premiered: 1888-03-21
 formalia:
@@ -29985,6 +30312,8 @@ editions:
 ids:
   wikidata: Q21552749
   dracor: ger000446
+keywords:
+  - Schicksalsdrama
 cast:
   - name: Mac-Gregor,
     role: Schottischer Laird.
@@ -33474,6 +33803,9 @@ editions:
     url: https://books.google.com/books?id=lJo5AAAAMAAJ&pg=RA1-PA371
   - title: "Halle: Niemeyer 1928"
     url: http://www.zeno.org/nid/20005071747
+comments:
+  - Vgl. [22. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb022.html)
+    der »Hamburgischen Dramaturgie«.
 ids:
   dracor: ger000359
   wikidata: Q51393766
@@ -33935,6 +34267,10 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Neunter Jahrgang, für 1830. Berlin: Vereinsbuchhandlung 1830, S. 51–90"
     url: https://books.google.com/books?id=ksE6AAAAcAAJ&pg=PA51
+  - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 61–68"
+    url: https://books.google.de/books?id=ILxLAQAAMAAJ&pg=PA61
+comments:
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.de/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Der Regisseur.
     gender: m
@@ -34020,8 +34356,12 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Neunter Jahrgang, für 1830. Berlin: Vereinsbuchhandlung 1830, S. 239–266"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10111804_00243.html
+  - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 41–46"
+    url: https://books.google.de/books?id=ILxLAQAAMAAJ&pg=PA41
   - title: "Theater von Karl von Holtei. Ausgabe letzter Hand in sechs Bänden. Fünfter Band. Breslau: Trewendt 1867, S. 125–152"
     url: https://books.google.com/books?id=whOHwwEACAAJ&pg=PA125
+comments:
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.de/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - group:
       - name: Severus,
@@ -34056,6 +34396,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zwölfter Jahrgang. Zwölfter Jahrgang, für 1833. Berlin: Vereins-Buchhandlung 1833, S. 133–176"
     url: https://books.google.com/books?id=H5s6AAAAcAAJ&pg=PA133
+  - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 77–86"
+    url: https://books.google.de/books?id=ILxLAQAAMAAJ&pg=PA77
 comments:
   - "Besprechung in: Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26.December 1834), [S. 521](https://books.google.com/books?id=MLZJAQAAMAAJ&pg=PA521)."
 cast:
@@ -46622,7 +46964,7 @@ title: Der alte Jüngling
 subtitle: Posse in einem Act. Frei dem Französischen nachgebildet
 numberOfScenes: 18
 printed: 1820
-premiered: 1815-11-02
+premiered: 1821-08-28
 formalia:
   - Prosa
 editions:
@@ -48367,6 +48709,8 @@ editions:
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044942_00295.html
   - title: "August Lewald's gesammelte Schriften. In einer Auswahl. Vierter Band. Leipzig: Brockhaus 1844, S. 92–127"
     url: https://books.google.de/books?id=fHlAMxqjeAkC&pg=PA92
+keywords:
+  - Französische Revolution
 cast:
   - name: Freiberg.
     gender: m
@@ -48955,6 +49299,9 @@ dictionaries:
 editions:
   - title: "Johann Friedrich Löwens Schriften. Vierter Theil. Hamburg: Bock 1766, S. 339–367"
     url: https://books.google.com/books?id=gPEIN0zMk_MC&pg=PA339
+comments:
+  - Vgl. [29. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb029.html)
+    der »Hamburgischen Dramaturgie«.
 cast:
   - name: Bertha,
     role: Wittwe des Königs Dagobert.
@@ -49048,6 +49395,8 @@ editions:
     url: https://books.google.com/books?id=hCNVAAAAcAAJ&printsec=frontcover
 comments:
   - Auch unter den Titeln »Die neue Agnese, ein Nachspiel in einem Akte« und »Die neue Agnese. Eine neue Comödie in einem Aufzuge«.
+  - Vgl. [10. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb010.html)
+    der »Hamburgischen Dramaturgie«.
 keywords:
   - Rolle der Frau
   - Eheanbahnung
@@ -52316,6 +52665,61 @@ cast:
 setting: >-
   Die Handlung geht in Amerika auf einer wüsten unfruchtbaren Insel vor, und dauert von Frühmorgens bis Mittag. (Eine wüste Insel – die Aussicht in das ofne Meer, wo man noch Trümmer eines gescheiterten Schiffs in der Ferne erblickt; Rechts ist eine schlechte bretterne Hütte errichtet, in welcher Ines mit ihren Knaben schlummert; – die Bühne ist anfangs Dunkel, wird aber mit dem Gang des Stücks mit jedem Auftritt Heller.)
 ---
+slug: moriz-epimenides-in-baiern
+author:
+  name: Lange, Moriz
+title: Epimenides in Baiern
+subtitle: Vorspiel in einem Aufzuge
+numberOfScenes: 17
+created: 1818
+printed: 1820
+formalia:
+  - Verse
+editions:
+  - title: "Original-Theater für das Jahr 1820. Zusammengetragen von mehrern dramatischen Dichtern. Zweiter Band. Augsburg und Leipzig: Jenisch und Stage [1820], S. 1–38"
+    url: https://books.google.com/books?id=eiU7AAAAcAAJ&pg=PA1
+comments:
+  - "Hinweis, warum das Stück nicht aufgeführt wurde, [im Vorwort](https://books.google.com/books?id=eiU7AAAAcAAJ&pg=PA2)."
+cast:
+  - name: Der Genius von Baiern.
+    gender: m
+  - name: Das Schicksal.
+    gender: u
+  - name: Chronos.
+    gender: m
+  - name: Apoll.
+    gender: m
+  - name: Epimenides,
+    role: aus Creta.
+    gender: m
+  - name: Otto,
+    role: sein Sohn.
+    gender: m
+  - name: Emma,
+    role: seine Tochter.
+    gender: f
+  - name: Felix,
+    role: ein Pächter.
+    gender: m
+  - name: Fritz,
+    role: sein Sohn.
+    gender: m
+  - name: Mariane,
+    role: seine Tochter.
+    gender: f
+  - name: Eine Truppe Schauspieler.
+    isGroup: true
+    gender: u
+  - name: Ein Chor von Landleuten.
+    isGroup: true
+    gender: u
+  - name: Gute und böse Traumgestalten.
+    isGroup: true
+    gender: u
+  - name: Die neun Musen.
+    isGroup: true
+    gender: f
+---
 slug: moritz-blunt-oder-der-gast
 author:
   name: Moritz, Karl Philipp
@@ -52323,12 +52727,15 @@ author:
 title: Blunt oder der Gast
 subtitle: Ein Schauspiel in einem Aufzuge
 numberOfScenes: 5
+created: 1780
 printed: 1781
 formalia:
   - Prosa
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 448
+  - name: dramenlexikon
+    pages: S. 222–223
 editions:
   - title: "Berlin: Wever 1781"
     url: https://books.google.com/books?id=jBZaAAAAcAAJ&printsec=frontcover
@@ -52337,6 +52744,7 @@ keywords:
 comments:
   - Fünf Schauplatzwechsel (= Anzahl Szenen).
   - "Inspiriert von George Lillo: [»The fatal curiosity. A tragedy«](https://books.google.com/books?id=MK1bAAAAQAAJ&printsec=frontcover)."
+  - "1780 als Fragment gedruckt ([»Journalfassung«](https://www.hs-augsburg.de/~harsch/germanica/Chronologie/18Jh/Moritz/mor_bl00.html)). Vgl. dazu auch Olaf Rippe: Dramatische Aufklärung. Anagnorisis und Motive der (Selbst-) Erkenntnis in Tragödien des 18. Jahrhunderts. Marburg: Tectum 2009, S. 189."
 ids:
   wikidata: Q105729385
   dracor: ger000528
@@ -53671,6 +54079,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Neunter Jahrgang, für 1830. Berlin: Vereinsbuchhandlung 1830, S. 91–130"
     url: https://books.google.com/books?id=ksE6AAAAcAAJ&pg=PA91
+comments:
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.de/books?id=ccs9AQAAMAAJ&pg=PA253)."
 keywords:
   - Russland
   - Zar
@@ -64706,6 +65116,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Zehnter Jahrgang, für 1831. Berlin: Vereins-Buchhandlung 1831, S. 1–62"
     url: https://books.google.com/books?id=ocE6AAAAcAAJ&pg=PA1
+comments:
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253–254](https://books.google.de/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Hofrath Rosenring,
     role: ein berühmter Dichter.
@@ -65266,6 +65678,42 @@ cast:
 setting: >-
   Ein Gelehrten-Zimmer.
 ---
+slug: seidel-das-geheimniss
+author:
+  name: Seidel, Karl August Gottlieb
+  wikidata: Q94905083
+title: Das Geheimniß
+subtitle: Ein Schauspiel für die Jugend. In einem Aufzuge
+numberOfScenes: 6
+printed: 1791
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 451
+editions:
+  - title: "Schauspiele für die Jugend. Von C. A. Seidel. Zweites Bändchen. Weißenfels und Leipzig: Severin 1791, S. 119–146"
+cast:
+  - name: Frau Moßdorf.
+    gender: f
+  - group:
+      - name: Friederike
+        gender: f
+      - name: Karl
+        gender: m
+      - name: Henriette
+        gender: f
+    role: ihre Kinder.
+  - group:
+      - name: Mariane
+        gender: f
+      - name: Ludwig
+        gender: m
+    role: Wizleben.
+  - name: Barbara,
+    role: eine Trödlerin.
+    gender: f
+---
 slug: seidel-der-fromme-betrug
 author:
   name: Seidel, Karl August Gottlieb
@@ -65739,6 +66187,8 @@ basedOn:
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XVI, No. 121. Berlin: Hayn 1847"
     url: https://books.google.com/books?id=pbFKAAAAcAAJ&pg=PA1
+comments:
+  - Im Personenverzeichnis fehlt die Figur Ebn Jahia (Arzt).
 keywords:
   - Ritterstück
 cast:
@@ -72803,7 +73253,7 @@ printed: 1775
 formalia:
   - Prosa
 basedOn:
-  - "Louis-Jérôme Gohier: »Le couronnement d'un Roi. Essai allégorique en un acte et en prose, par un avocat au Parlement de Bretagne«"
+  - "Louis-Jérôme Gohier: [»Le couronnement d'un Roi. Essai allégorique en un acte et en prose, par un avocat au Parlement de Bretagne«](https://books.google.com/books?id=jFxoAAAAcAAJ&printsec=frontcover)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 190–191
@@ -73581,7 +74031,7 @@ printed: 1821
 formalia:
   - Prosa
 editions:
-  - title: "Original-Theater für das Jahr 1821. Zusammengetragen von mehrern dramatischen Dichtern. Sechster Band. Augsburg und Leipzig: Jenisch und Stage 1821, S. 227–250"
+  - title: "Original-Theater für das Jahr 1821. Zusammengetragen von mehrern dramatischen Dichtern. Sechster Band. Augsburg und Leipzig: Jenisch und Stage [1821], S. 227–250"
     url: https://books.google.com/books?id=drlHAAAAcAAJ&pg=PA227
 comments:
   - Keine eigene Szeneneinteilung, einige Orts- und Konfigurationswechsel.
@@ -76557,6 +77007,10 @@ editions:
     url: https://books.google.com/books?id=-FJlAAAAcAAJ&pg=PA233
 comments:
   - "»(Zuerst aufgeführt auf dem Hof-Theater zu Braunschweig, unter Leitung des verstorbenen General-Directors Dr. Klingemann).«"
+  - "Besprechung in: Repertorium der gesammten deutschen Literatur. Sechster Band. Leipzig: Brockhaus 1835, [S. 481](https://books.google.de/books?id=MtRGAAAAcAAJ&pg=PA481)."
+keywords:
+  - Selbstmord
+  - Rache
 cast:
   - name: Max Szalantinsky,
     role: Oberst eines Cavallerie-Regiments unter Sobiesky.
@@ -77024,6 +77478,49 @@ cast:
     gender: f
 setting: >-
   Der Schauplatz, ein deutsche Stadt. Zimmer in Sophiens Hause mit einer Haupt- und Nebenthür und einem Fenster. Auf dem Tische Schreibzeug und Papier, Spiegel an der Wand. Handschuhe und Shawl auf einem Stuhle.
+---
+slug: ziegler-vierzehn-tage-nach-dem-schusse
+author:
+  name: Ziegler, Friedrich Wilhelm
+  wikidata: Q89747
+title: Vierzehn Tage nach dem Schusse
+subtitle: "Original-Lustspiel in einem Acte. Fortsetzung des Lustspiels: Die vier Temperamente"
+numberOfScenes: 22
+printed: 1839
+formalia:
+  - Prosa
+editions:
+  - title: "Sämmtliche dramatische Werke von F. W. Ziegler. Erster Band. Wien: Lechner 1839, S. 137–166"
+    url: https://www.digitale-sammlungen.de/de/view/bsb10123939?page=143
+cast:
+  - name: Herr von Lammer.
+    gender: m
+  - name: Konstanze,
+    role: seine Frau.
+    gender: f
+  - name: Herr von Sieborn.
+    gender: m
+  - name: Helene,
+    role: seine Braut.
+    gender: f
+  - name: Herr von Funk.
+    gender: m
+  - name: Herr von Rollberg.
+    gender: m
+  - name: Ambros,
+    role: Verwalter.
+    gender: m
+  - name: Lisette,
+    role: seine Tochter.
+    gender: f
+  - name: Wachtelkönig,
+    role: Amtschreiber.
+    gender: m
+  - name: Puliz,
+    role: Waldjäger.
+    gender: m
+setting: >-
+  Der Ort der Handlung, wie in dem Lustspiele: »Die vier Temperamente.«
 ---
 slug: zimdar-man-hat-der-beispiele
 author:
