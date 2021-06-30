@@ -14070,7 +14070,7 @@ editions:
   - title: "Moliere's Lustspiele übersetzt von Wolf Grafen Baudissin. Zweiter Band. Leipzig: Hirzel 1866, S. 305–350"
     url: https://de.wikisource.org/wiki/Die_erzwungene_Heirath
 comments:
-  - "Einakterhinweis im Untertitel erst 1771: »Die erzwungene Heyrath. Eine Comödie des Moliere in einem Akte«, allerdings ist nicht klar, ob es sich dabei um die Übersetzung von Bierling handelt."
+  - "Einakterhinweis [im Inhaltsverzeichnis](https://books.google.com/books?id=_yVt17c2OPkC&pg=PP9) (1752)."
   - Auch unter dem Titel »Die Zwangsheirat«.
   - Bei Meyer ist von Friedrich *Samuel* Bierling die Rede, wahrscheinlich identisch mit Friedrich Immanuel Bierling, vgl. [Leipziger Literaturzeitung 1831](https://books.google.com/books?id=enbtu3MUrkgC&pg=PA2187).
 cast:
@@ -18919,6 +18919,8 @@ basedOn:
   - "Jacques-Antoine de Révéroni Saint-Cyr: [»Le délire ou Les suites d'une erreur. Comédie en un acte, en prose mêlée d'ariettes«](https://books.google.com/books?id=6P1Rukvvpq8C&printsec=frontcover)"
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1817. Von I. F. Castelli. Zweyter Jahrgang. Wien: Wallishausser 1817, S. 101–140"
+comments:
+  - "Nach dem Personenverzeichnis folgen »Charakteristik und Costüme der handelnden Personen« (S. 103–104)."
 cast:
   - name: Wilsen.
     gender: m
@@ -25687,6 +25689,81 @@ cast:
 setting: >-
   Die Handlung gehet vor in dem Rosenheimischen Garten, nahe beym Gartenhaus.
 ---
+slug: gehe-das-gastmahl-zu-rudolstadt
+author:
+  name: Gehe, Eduard Heinrich
+  wikidata: Q1288681
+title: Das Gastmahl zu Rudolstadt
+subtitle: Drama in Einem Aufzuge
+numberOfScenes: 15
+printed: 1837
+premiered: 1836-10-22
+formalia:
+  - Prosa
+editions:
+  - title: "Bunzlau: Appun 1837, S. 117–148"
+    url: https://books.google.com/books?id=3TlT0Kmm2zsC&pg=PA117
+keywords:
+  - Krieg
+  - Rolle der Frau
+cast:
+  - name: Catharina,
+    role: verwittwete Gräfin von Schwarzburg.
+    gender: f
+  - group:
+      - name: Günther,
+        gender: m
+      - name: Heinrich,
+        gender: m
+    role: ihre Söhne. Günther 10 Jahr, Heinrich 8 Jahr alt.
+  - name: Herzog Alba.
+    gender: m
+  - name: Herzog Heinrich von Braunschweig.
+    gender: m
+  - name: Wiprecht,
+    role: Schultheiß von Rudolstadt.
+    gender: m
+  - name: Engelbrecht,
+    role: Kammerknecht der Gräfin Schwarzburg.
+    gender: m
+  - name: Gertrud,
+    role: Kammerfrau der Gräfin.
+    gender: f
+  - name: Ein Ritter aus Albas Heere.
+    gender: m
+  - name: Bewaffnete Bürger aus Rudolstadt.
+    isGroup: true
+    gender: u
+setting: >-
+  Zeit der Handlung 1547. (Halle im Schlosse zu Rudolstadt. Gertrud, Engelbrecht und andere Rudolstädter sind versammelt.)
+location:
+  wikidataId: Q517107
+---
+slug: gehe-die-romantischen
+author:
+  name: Gehe, Eduard Heinrich
+  wikidata: Q1288681
+title: Die Romantischen
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 11
+printed: 1836
+formalia:
+  - Alexandriner
+editions:
+  - title: "Vermischte Schriften von Eduard Gehe. Zweiter Theil. Bunzlau: Appun 1836, S. 65–96"
+    url: https://books.google.com/books?id=dXDlYhULrhQC&pg=PA65
+cast:
+  - name: Baron Wall.
+    gender: m
+  - name: Rosalie,
+    role: dessen Gattin.
+    gender: f
+  - name: Saint Romain,
+    role: ein Offizier.
+    gender: m
+setting: >-
+  Das Stück spielt an der französischen Grenze. (Ein Zimmer mit zwei Tischen, einer Haupt- und zwei Seitenthüren. Rosalie an dem einen Tische lesend, Wall an dem andern.)
+---
 slug: geisler-der-schwaezer
 author:
   name: Geisler, Adam Friedrich
@@ -28004,6 +28081,8 @@ dictionaries:
 editions:
   - title: "Frankfurt am Mayn: Eichenberg 1781"
     url: https://books.google.com/books?id=PtBUAAAAcAAJ&printsec=frontcover
+keywords:
+  - Ehestandsszene
 cast:
   - name: Herr von Gutherzheim.
     gender: m
@@ -47875,6 +47954,8 @@ printed: 1833
 premiered: 1832-07-22
 formalia:
   - Prosa
+basedOn:
+  - "Louis-Sébastien Mercier: [»La brouette du vinaigrier. Drame en trois acte«](https://books.google.com/books?id=RlxXAAAAcAAJ&printsec=frontcover)"
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Ein und Dreißigster Jahrgang. Hamburg: Hoffmann & Campe 1833, S. 291–364"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044945_00315.html
@@ -68495,10 +68576,117 @@ cast:
 setting: >-
   Der Schauplatz stellet eine waldige Gegend vor. Rechter Hand sieht man die Thüre, die in Thomsons Hütte führet. Daneben ist eine Rasenbank.
 ---
+slug: thale-das-freudenfest
+author:
+  name: Decker, Karl von
+  pseudonym: Adalbert vom Thale
+  wikidata: Q90485
+title: Das Freudenfest
+subtitle: Geburtstagsspiel in einem Akt, mit Gesang und Tanz
+numberOfScenes: 3
+printed: 1823
+premiered: 1821-01-27
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Geburtstagsspiele und andre kleine dramatische Dichtungen. Für Familienkreise niedergeschrieben von Adalbert vom Thale. Zweites Bändchen. Berlin und Posen: Mittler 1823, S. 1–21"
+    url: https://books.google.com/books?id=LytEAQAAMAAJ&pg=PA1
+cast:
+  - name: Die Fee.
+    gender: f
+  - name: Der Schulmeister.
+    gender: m
+  - name: Gärtner.
+    gender: m
+  - name: Gärtner-Mädchen.
+    gender: f
+  - name: Winzer.
+    gender: m
+  - name: Winzer-Mädchen.
+    gender: f
+  - name: Bauer.
+    gender: m
+  - name: Bauer-Mädchen.
+    gender: f
+  - name: Soldat.
+    gender: m
+  - name: Braut.
+    gender: f
+setting: >-
+  Szene: Der Hain der Fee.
+---
+slug: thale-das-konzert-zu-muenchen
+author:
+  name: Decker, Karl von
+  pseudonym: Adalbert vom Thale
+  wikidata: Q90485
+title: Das Konzert zu München
+subtitle: Dramatische Kleinigkeit in einem Akte
+numberOfScenes: 6
+printed: 1823
+formalia:
+  - Prosa
+editions:
+  - title: "Geburtstagsspiele und andre kleine dramatische Dichtungen. Für Familienkreise niedergeschrieben von Adalbert vom Thale. Zweites Bändchen. Berlin und Posen: Mittler 1823, S. 151–181"
+    url: https://books.google.com/books?id=LytEAQAAMAAJ&pg=PA151
+cast:
+  - name: Der Onkel.
+    gender: m
+  - name: Der Neffe.
+    gender: m
+  - name: Die Schwester.
+    gender: f
+  - name: Die Braut.
+    gender: f
+setting: >-
+  Versammlungszimmer in des Onkels Hause, mit einem Kabinet. Elegant meublirt. Im Hintergrunde ein Fortepiano.
+---
+slug: thale-der-hagelschlag
+author:
+  name: Decker, Karl von
+  pseudonym: Adalbert vom Thale
+  wikidata: Q90485
+title: Der Hagelschlag
+subtitle: Original-Lustspiel in einem Aufzuge
+numberOfScenes: 35
+printed: 1823
+premiered: 1821-09-20
+formalia:
+  - Prosa
+editions:
+  - title: "Geburtstagsspiele und andre kleine dramatische Dichtungen. Für Familienkreise niedergeschrieben von Adalbert vom Thale. Zweites Bändchen. Berlin und Posen: Mittler 1823, S. 23–150"
+    url: https://books.google.com/books?id=LytEAQAAMAAJ&pg=PA23
+cast:
+  - name: Amtsrath Buller.
+    gender: m
+  - name: Stella,
+    role: seine Tochter.
+    gender: f
+  - name: Adelgunde,
+    role: seine Nichte.
+    gender: f
+  - name: Flammenschwerd,
+    role: Husarenlieutenant.
+    gender: m
+  - name: Weichmann,
+    role: Kandidat der Theologie, sein Freund.
+    gender: m
+  - name: Quick,
+    role: Husar, in des Lieutenants Diensten.
+    gender: m
+  - name: Mamsell Schneidemeissel,
+    role: Wirthschafterin in des Amtsraths Hause.
+    gender: f
+  - name: Bär,
+    role: ein alter Diener des Amtsraths.
+    gender: m
+setting: >-
+  Die Handlung geht auf dem Landgute des Amtsraths vor. (Gesellschaftszimmer in des Amtsraths Hause, mit zwei Mittel- und zwei Seitenthüren.)
+---
 slug: thale-guten-morgen-vielliebchen
 author:
   name: Decker, Karl von
-  pseudonym: Thale, Adalbert vom
+  pseudonym: Adalbert vom Thale
   wikidata: Q90485
 title: Guten Morgen, Vielliebchen!
 subtitle: Lustspiel in einem Akt
@@ -73495,13 +73683,17 @@ author:
 title: Der Großpapa
 subtitle: Lustspiel in einem Akt
 numberOfScenes: 18
-printed: 1822
+printed: 1820
 premiered: 1817
 formalia:
   - Prosa
 editions:
+  - title: "Hortensia. Sammlung dramatischer, lyrischer und epigrammatischer Gedichte von Kurt Waller. Brünn: Traßler 1820, S. 1–31"
+    url: https://books.google.de/books?id=_zhXAAAAcAAJ&pg=PA1
   - title: "Jahrbuch deutscher Nachspiele. Erster Jahrgang, für 1822. Herausgegeben von Carl von Holtei. Breslau: Graß, Barth & Co.; Leipzig: Barth [1822], S. 221–295"
     url: https://books.google.com/books?id=BmdIAQAAMAAJ&pg=PA221
+comments:
+  - Erstdruck 1820 mit nur 15 Szenen.
 cast:
   - name: Herr von Hain,
     role: ein alter Landedelmann.
