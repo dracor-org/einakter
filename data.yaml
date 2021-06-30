@@ -13889,6 +13889,57 @@ cast:
 setting: >-
   Der Schauplatz ist auf einem Landgute. (Ein Salon, wodurch man in den Garten sieht. Vor einem Spiegel à la Psyche ein Pianoforte, und eine Guitarre. Hinter dem Spiegel ein Sessel, näher im Vordergrund ein Gueridon. Beym Aufzug des Vorhangs spielen die Schwestern Federball.)
 ---
+slug: biedenfeld-so-sind-sie-zu-bagdad
+author:
+  name: Biedenfeld, Ferdinand von
+  wikidata: Q1405946
+title: So sind sie zu Bagdad
+subtitle: Dramatische Erzählung in 1 Akt, nach Rougemont
+numberOfScenes: 17
+printed: 1815
+formalia:
+  - Prosa
+basedOn:
+  - Michel-Nicolas Balisson de Rougemont
+editions:
+  - title: "Unterhaltungen für müssige Stunden. Zum  Besten der armen Kehler und der im letzten Feldzug schwer verwundeten Bädischen Soldaten u. Landwehrmänner. Herausgegeben von Frhrn. von Biedenfeld. Erstes Bändchen. Carlsruhe: Braun 1815, S. 33–88"
+    url: https://books.google.com/books?id=QrBIAAAAcAAJ&pg=PA31
+cast:
+  - name: Harun al Raschid,
+    role: Kalide von Bagdad.
+    gender: m
+  - name: Giaffar,
+    role: sein Vezier.
+    gender: m
+  - name: Kaled,
+    role: ein armer Schuhmacher in Bagdad.
+    gender: m
+  - name: Osmin-Kaled,
+    role: ein Kaufmann.
+    gender: m
+  - name: Assan-Kaled,
+    role: ein Bonvivant.
+    gender: m
+  - name: Agar-Kaled,
+    role: ein Philosoph.
+    gender: m
+  - name: Nadir-Kaled,
+    role: ein Arzt.
+    gender: m
+  - name: Rustaff,
+    role: ein alter Schuhmacher.
+    gender: m
+  - name: Agely,
+    role: seine Tochter.
+    gender: f
+  - name: Stumme, Schwarze, Hofleute, Leibwache, Sklaven des Kalifen.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Stück spielt in Bagdad im Pallaste des Kalifen. (Es ist Morgen bey Sonnen-Aufgang. Schöner Eintritts-Saal im Pallaste des Kalifen.)
+location:
+  wikidataId: Q1530
+---
 slug: biedenfeld-wie-man-sein-glueck-macht
 author:
   name: Biedenfeld, Ferdinand von
@@ -13999,7 +14050,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 16, S. 58–59
 editions:
-  - title: "Des Herrn Moliere sämmtliche Lustspiele. Dritter Theil. Hamburg: Herold 1752, S. 5–36"
+  - title: "Des Herrn Moliere sämmtliche Lustspiele. Nach einer freyen und sorgfältigen Uebersetzung. Dritter Theil. Hamburg: Herold 1752, S. 5–36"
     url: https://books.google.com/books?id=ZES-sTjaAL8C&pg=PA5
 comments:
   - Hinweis auf Einaktigkeit im Untertitel in der Ausgabe 1752 nur [im Inhaltsverzeichnis](https://books.google.com/books?id=ZES-sTjaAL8C&pg=PA1).
@@ -14065,7 +14116,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 16, S. 45–46
 editions:
-  - title: "Des Herrn Moliere sämmtliche Lustspiele. Zweyter Theil. Hamburg: Herold 1752, S. 193–228"
+  - title: "Des Herrn Moliere sämmtliche Lustspiele. Nach einer freyen und sorgfältigen Uebersetzung. Zweyter Theil. Hamburg: Herold 1752, S. 193–228"
     url: https://books.google.com/books?id=_yVt17c2OPkC&pg=PA192-IA1
   - title: "Moliere's Lustspiele übersetzt von Wolf Grafen Baudissin. Zweiter Band. Leipzig: Hirzel 1866, S. 305–350"
     url: https://de.wikisource.org/wiki/Die_erzwungene_Heirath
@@ -14104,6 +14155,62 @@ cast:
   - name: Ein Lackey der Dorimene.
     gender: m
 setting: Der Schauplatz ist auf der Straße.
+---
+slug: bierling-die-graefinn-von-escarbagnas
+author:
+  name: Bierling, Friedrich Immanuel
+  wikidata: Q96439747
+title: "Die Gräfinn von Escarbagnas. In Deutschland: von Karfunkelstein"
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 20
+printed: 1752
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [»La comtesse d'Escarbagnas. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_COMTESSEESCARBAGNAS.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 16, S. 44
+editions:
+  - title: "Des Herrn Moliere sämmtliche Lustspiele. Nach einer freyen und sorgfältigen Uebersetzung. Vierter Theil. Hamburg: Herold 1752, S. 355–388"
+    url: https://books.google.com/books?id=7AU6AAAAcAAJ&pg=PA355
+comments:
+  - "Einakterhinweis [im Inhaltsverzeichnis](https://books.google.com/books?id=7AU6AAAAcAAJ&pg=PA1) (1752)."
+  - Bei Meyer ist von Friedrich *Samuel* Bierling die Rede, wahrscheinlich identisch mit Friedrich Immanuel Bierling, vgl. [Leipziger Literaturzeitung 1831](https://books.google.com/books?id=enbtu3MUrkgC&pg=PA2187).
+cast:
+  - name: Die Gräfinn von Karfunkelstein.
+    gender: f
+  - name: Der Graf,
+    role: Sohn der Gräfinn.
+    gender: m
+  - name: Cleantes,
+    role: ein Burggraf, der Julia Liebhaber.
+    gender: m
+  - name: Julia,
+    role: des Cleantes Geliebte.
+    gender: f
+  - name: Herr Theobaldus, (Monsieur Tibaudier,)
+    role: ein Rath, und der Gräfinn Liebhaber.
+    gender: m
+  - name: Herr Harpin,
+    role: ein Steuer-Einnehmer, und der Gräfinn zweyter Liebhaber.
+    gender: m
+  - name: Herr Mag. Bobinet,
+    role: des Grafens Präceptor.
+    gender: m
+  - name: Susanna,
+    role: der Gräfinn Cammermädchen.
+    gender: f
+  - name: Hännschen,
+    role: des Herrn Theobaldus Lackey.
+    gender: m
+  - name: Kricket,
+    role: der Gräfinn Lackey.
+    gender: m
+setting: >-
+  Der Schauplatz ist zu Angouleme.
+location:
+  wikidataId: Q134346
 ---
 slug: bierling-die-laecherlichen-precioesen
 author:
@@ -18707,6 +18814,8 @@ editions:
     url: https://books.google.com/books?id=1NuUYHbjz-UC&pg=PA229
   - title: "I. F. Castelli's sämmtliche Werke. Zwölftes Bändchen. Wien: Pichler 1845, S. 49–100"
     url: https://books.google.com/books?id=fW9KAAAAcAAJ&pg=PA49
+ids:
+  weber: A021178
 cast:
   - name: Valincour,
     role: ein französischer Cavallerie-Officier.
@@ -19520,6 +19629,8 @@ editions:
     url: https://books.google.com/books?id=h1suAAAAYAAJ&pg=PA1
   - title: "Wien: Wallishausser 1809"
     url: https://books.google.com/books?id=l5FBAAAAcAAJ&printsec=frontcover
+ids:
+  weber: A020379
 comments:
   - "Contessa schrieb eine Fortsetzung unter dem Titel [»Der Talisman. Eine Kleinigkeit«](https://books.google.com/books?id=DwZMAQAAMAAJ&pg=PA205) (1806)."
 cast:
@@ -19581,6 +19692,8 @@ editions:
     url: https://books.google.com/books?id=h1suAAAAYAAJ&pg=PA73
   - title: "C. W. Contessa's Schriften. Herausgegeben von E. von Houwald. Zweiter Band. Leipzig: Göschen 1826, S. 69–140"
     url: https://books.google.com/books?id=DwZMAQAAMAAJ&pg=PA69
+ids:
+  weber: A021511
 cast:
   - name: Bertram.
     gender: m
@@ -19651,6 +19764,8 @@ editions:
     url: https://books.google.com/books?id=KtIzZ7ptdugC&pg=PA231
   - title: "C. W. Contessa's Schriften. Herausgegeben von E. von Houwald. Dritter Band. Leipzig: Göschen 1826, S. 205–282"
     url: https://books.google.com/books?id=jEtTAAAAcAAJ&pg=PA205
+ids:
+  weber: A021371
 cast:
   - name: Albert.
     gender: m
@@ -30777,6 +30892,8 @@ basedOn:
 editions:
   - title: "Dramatisches Vergißmeinnicht für das Jahr 1825 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Zweites Bändchen. Dresden: Arnoldi 1824"
     url: https://books.google.com/books?id=2wpOAAAAcAAJ&pg=RA1-PA1
+ids:
+  weber: A021339
 comments:
   - "Fälschlicherweise wurde auch Giovanni Girauds dreiaktigem Lustspiel [»L'ajo nell'imbarazzo«](https://books.google.com/books?id=XxOzQ6bNSHUC&printsec=frontcover) als Vorlage angegeben."
 cast:
@@ -31090,6 +31207,8 @@ basedOn:
 editions:
   - title: "Bühne der Ausländer, herausgegeben von Theodor Hell. Dritter Band. Dresden: Arnoldi 1820, S. 1–47"
     url: https://books.google.com/books?id=WplJAQAAMAAJ&pg=PA1
+ids:
+  weber: A021348
 comments:
   - Weitere Übersetzung [Herzenskron 1819](herzenskron-der-gang-ins-irrenhaus).
 cast:
@@ -38741,6 +38860,8 @@ editions:
     url: https://books.google.com/books?id=qs8WAAAAQAAJ&pg=PA236
   - title: "Theodor Körner's sämmtliche Werke. Erste illustrierte Ausgabe. Zweiter Band. Dritte Auflage. Berlin: Grote 1877, S. 142–156"
     url: https://books.google.com/books?id=8wPiAAAAMAAJ&pg=PA142
+ids:
+  weber: A020940
 comments:
   - Theaterzettel der Aufführung [Weimar 9. Dezember 1812](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00041525/003475.tif).
   - Eine Beschreibung des Manuksripts in [Deutsche Dichtung. Zehnter Band. Berlin Haack 1891, S. 294–297](https://books.google.com/books?id=0zo8AQAAIAAJ&pg=PA294).
@@ -38822,6 +38943,8 @@ editions:
     url: https://books.google.com/books?id=qs8WAAAAQAAJ&pg=PA257
   - title: "Theodor Körner's sämmtliche Werke. Erste illustrirte Ausgabe. Zweiter Band. Dritte Auflage. Berlin: Grote 1877, S. 175–190"
     url: https://books.google.com/books?id=8wPiAAAAMAAJ&pg=PA175
+ids:
+  weber: A021213
 comments:
   - "Auch unter dem Titel »Der Vetter aus Bremen oder: Die drei Schulmeister. Lustspiel in einem Aufzuge« ([Theaterzettel Weimar 1816](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00040187/003964.tif))."
   - Auch mit dem Untertitel [»Lustspiel in 1 Akt von Th. Körner. Für das Kindertheater bearbeitet«](https://skd-online-collection.skd.museum/Details/Index/476128) (1875).
@@ -39519,6 +39642,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Eilfter Jahrgang. Leipzig: Hartmann 1813, S. 197–258"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044925_00215.html
+ids:
+  weber: A020816
 keywords:
   - Heimkehr-Motiv
   - Eheanbahnung
@@ -40243,6 +40368,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierzehnter Jahrgang. Leipzig: Hartmann 1816, S. 193–266"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044928_00205.html
+ids:
+  weber: A021054
 cast:
   - name: Herr von Guldenring.
     gender: m
@@ -40499,6 +40626,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Achter Jahrgang. Leipzig: Hartmann 1810, S. 189–256"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044922_00201.html
+ids:
+  weber: A020432
 cast:
   - name: Der Mann.
     gender: m
@@ -40897,6 +41026,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Fünfter Jahrgang. Berlin: La Garde 1807, S. 1–40"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044919_00007.html
+ids:
+  weber: A020682
 comments:
   - Auch unter dem Titel [»Der Ehemann in der Falle. Ein Lustspiel in Versen und in 1 Akte«](https://nbn-resolving.de/urn:nbn:de:hbz:061:2-48225) aufgeführt.
 keywords:
@@ -41257,6 +41388,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierzehnter Jahrgang. Leipzig: Hartmann 1816, S. 65–134"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044928_00073.html
+ids:
+  weber: A020800
 comments:
   - Laut Kotzebue-Lexikon ist es nicht ganz klar, ob Georges Duval das Stück ins Französische [»Une journée à Versailles. Comédie en trois actes et en prose«](https://books.google.com/books?id=qclHAQAAMAAJ&printsec=frontcover) (EA am 20. Dezember 1814 in Paris; Erstdruck 1815) übertrug oder Kotzebue Duvals Dreiakter ins Deutsche.
 keywords:
@@ -60569,6 +60702,39 @@ setting: >-
 location:
   wikidataId: Q1055
 ---
+slug: schall-das-heiligthum
+author:
+  name: Schall, Carl
+  wikidata: Q1732794
+title: Das Heiligthum
+subtitle: Vorspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1817
+premiered: 1809-03-10
+formalia:
+  - Prosa
+editions:
+  - title: "Breslau: Holäufer 1817"
+    url: https://books.google.com/books?id=Sn0DVTxqMb8C&printsec=frontcover
+cast:
+  - name: Die Baronin.
+    gender: f
+  - name: Der Baron,
+    role: ihr Onkel.
+    gender: m
+  - name: Der General.
+    gender: m
+  - name: Der Major.
+    gender: m
+  - name: Der Schulz.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung geht in Schlesien, auf dem Gute der Baronin vor.
+location:
+  wikidataId: Q81720
+---
 slug: schall-das-kinderspiel-oder-die-vernuenftigen-leute
 author:
   name: Schall, Carl
@@ -66912,6 +67078,8 @@ basedOn:
 editions:
   - title: "Wien: Pichler 1805"
     url: https://books.google.com/books?id=LNRVJuukSvQC&printsec=frontcover
+ids:
+  weber: A021198
 cast:
   - name: Dietmann,
     role: ein reicher Kaufmann aus Hamburg.
@@ -68641,6 +68809,50 @@ cast:
 setting: >-
   Versammlungszimmer in des Onkels Hause, mit einem Kabinet. Elegant meublirt. Im Hintergrunde ein Fortepiano.
 ---
+slug: thale-das-stueck-ohne-titel
+author:
+  name: Decker, Karl von
+  pseudonym: Adalbert vom Thale
+  wikidata: Q90485
+title: Das Stück ohne Titel oder der Vetter aus Samos
+subtitle: Halb Lustspiel, halb Posse in einer Abtheilung
+numberOfScenes: 30
+printed: 1822
+formalia:
+  - Prosa
+editions:
+  - title: "Geburtstagsspiele und andre kleine dramatische Dichtungen. Für Familienkreise niedergeschrieben von Adalbert vom Thale. Erstes Bändchen. Berlin und Posen: Mittler 1822, S. 49–122"
+    url: https://books.google.com/books?id=EitEAQAAMAAJ&pg=PA49
+cast:
+  - name: Omicron,
+    role: ein Kaufmann.
+    gender: m
+  - name: Tau,
+    role: sein Neffe.
+    gender: m
+  - group:
+      - name: Alpha
+        gender: m
+      - name: Beta
+        gender: f
+      - name: Gamma
+        gender: f
+    role: seine Mündel.
+  - name: Delta,
+    role: eine junge Waise.
+    gender: f
+  - name: Frau Sigma,
+    role: Wirthschafterin.
+    gender: f
+  - name: Epsilon,
+    role: ein Knabe in Omicron's Diensten.
+    gender: m
+  - name: Rho,
+    role: in Tau's Diensten.
+    gender: m
+setting: >-
+  Die Handlung geschieht in einer kleinen Landstadt, zwischen Griechenland und Berlin. – Der Schauplatz ist ein Zimmer in Omicron's Hause.
+---
 slug: thale-der-hagelschlag
 author:
   name: Decker, Karl von
@@ -68683,6 +68895,40 @@ cast:
 setting: >-
   Die Handlung geht auf dem Landgute des Amtsraths vor. (Gesellschaftszimmer in des Amtsraths Hause, mit zwei Mittel- und zwei Seitenthüren.)
 ---
+slug: thale-die-passagier-stube
+author:
+  name: Decker, Karl von
+  pseudonym: Adalbert vom Thale
+  wikidata: Q90485
+title: Die Passagier-Stube
+subtitle: Vorspiel in einer Abtheilung
+numberOfScenes: 10
+printed: 1822
+formalia:
+  - Verse
+editions:
+  - title: "Geburtstagsspiele und andre kleine dramatische Dichtungen. Für Familienkreise niedergeschrieben von Adalbert vom Thale. Erstes Bändchen. Berlin und Posen: Mittler 1822, S. 15–48"
+    url: https://books.google.com/books?id=EitEAQAAMAAJ&pg=PA15
+comments:
+  - "Auf [S. 47–48](https://books.google.com/books?id=EitEAQAAMAAJ&pg=PA47) Hinweise für Kostüme."
+cast:
+  - name: Der Wirth zum goldnen Anker,
+    role: Posthalter.
+    gender: m
+  - name: Ephraim Prellfuchs,
+    role: Lotterie-Einnehmer.
+    gender: m
+  - name: Peter Frohsinn.
+    gender: m
+  - name: Kontentia.
+    gender: f
+  - name: Wittwe Neidhardt.
+    gender: f
+  - name: Ein Bettler.
+    gender: m
+setting: >-
+  Szene: Passagier-Stube im Wirthshause.
+---
 slug: thale-guten-morgen-vielliebchen
 author:
   name: Decker, Karl von
@@ -68711,6 +68957,36 @@ cast:
     role: Soldat.
     gender: m
 setting: "Scene: Gartensaal, mit Glasthüre."
+---
+slug: thale-vergangenheit-gegenwart-zukunft
+author:
+  name: Decker, Karl von
+  pseudonym: Thale, Adalbert vom
+  wikidata: Q90485
+title: Vergangenheit, Gegenwart, Zukunft
+subtitle: Vorspiel in einer Abtheilung
+numberOfScenes: 2
+printed: 1822
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Geburtstagsspiele und andre kleine dramatische Dichtungen. Für Familienkreise niedergeschrieben von Adalbert vom Thale. Erstes Bändchen. Berlin und Posen: Mittler 1822, S. 1–14"
+    url: https://books.google.com/books?id=EitEAQAAMAAJ&pg=PA1
+comments:
+  - "Auf [S. 14](https://books.google.com/books?id=EitEAQAAMAAJ&pg=PA14) Hinweise für Kostüme."
+keywords:
+  - allegorische Figuren
+cast:
+  - name: Die Vergangenheit.
+    gender: u
+  - name: Die Gegenwart.
+    gender: u
+  - name: Die Zukunft.
+    gender: u
+  - name: Die Freude.
+    gender: u
+setting: >-
+  Ein mit Eichenlaub- und Blumen-Guirlanden festlich geschmückter Saal. Im Hintergrunde ein Altar, mit dem Namenszuge der Gefeierten und dem Jahrestage des Festes bezeichnet, und mit Blumen-Festons behangen. Auf dem Altar brennt ein Opfer-Feuer. In der Mitte, der Szene gegenüber, der erhöhte Sessel der Gefeierten, mit Blumen geziert.
 ---
 slug: thiard-jakob-splin-oder-der-vernuenftige-narr
 author:
@@ -70680,6 +70956,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Nachspiele. Erster Jahrgang, für 1822. Herausgegeben von Carl von Holtei. Breslau: Graß, Barth & Co.; Leipzig: Barth [1822], S. 1–32"
     url: https://books.google.com/books?id=BmdIAQAAMAAJ&pg=PA1
+ids:
+  weber: A021506
 comments:
   - "Aufführungsbesprechung in: Abend-Zeitung. Nr. 35 (Mittwoch, am 11. Februar, 1818), [unpag.](https://books.google.com/books?id=C59TAAAAcAAJ&pg=PP154)"
 cast:
@@ -70966,6 +71244,8 @@ basedOn:
 editions:
   - title: "Kleine Dramatische Spiele für stehende Bühnen und Privat-Theater von Wilhelm Vogel, ehemaliger Hofschauspiel-Direktor in Karlsruhe. Aarau: Sauerländer 1818, S. 267–334"
     url: https://books.google.com/books?id=OC9EAQAAMAAJ&pg=PA267
+ids:
+  weber: A021232
 cast:
   - name: Herr Ernst.
     gender: m
