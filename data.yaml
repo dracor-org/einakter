@@ -15462,6 +15462,47 @@ setting: >-
 location:
   wikidataId: Q1711
 ---
+slug: blum-herr-von-ich
+author:
+  name: Blum, Carl
+  wikidata: Q110163
+title: Herr von Ich
+subtitle: Lustspiel in einem Aufzuge, frei nach dem Französischen des Delongchamps
+numberOfScenes: 20
+printed: 1826
+premiered: 1826-10-10
+formalia:
+  - Prosa
+basedOn:
+  - Charles de Longchamps
+editions:
+  - title: "(Als Manuscript gedruckt und Eigenthum des Verfassers.) Berlin 1826"
+    url: https://books.google.com/books?id=7CqwyvC5n2gC&printsec=frontcover
+  - title: "Neue Bühnenspiele, nach dem Englischen, Französischen und Italienischen; für das deutsche Theater frei bearbeitet von Carl Blum. Berlin: Enslin 1829"
+keywords:
+  - Eheanbahnung
+  - Hypochonder
+cast:
+  - name: Herr von Ich.
+    gender: m
+  - name: Herr Bertram.
+    gender: m
+  - name: Madame Bertram.
+    gender: f
+  - name: Marie,
+    role: ihre Tochter.
+    gender: f
+  - name: Doktor Mohr.
+    gender: m
+  - name: Julius,
+    role: Neffe des Herrn von Ich.
+    gender: m
+  - name: Kaspar,
+    role: Bedienter des Herrn von Ich.
+    gender: m
+setting: >-
+  Ein großer Saal, im Hintergrunde Glasthüren. Eine Seitenthüre, welche nach dem Zimmer des Herrn von Ich führt. Ihr gegenüber auf der andern Seite ein Fenster. Im Vordergrunde ein Pianoforte, ein großer Lehnstuhl; ein Barometer, ein Thermometer und Ventilator sind zweckmäßig angebracht.
+---
 slug: blum-gaenserich-und-gaenschen
 author:
   name: Blum, Carl
@@ -24247,6 +24288,50 @@ cast:
 setting: >-
   Zimmer im Hause des Barons mit einer Mittel- und zwei Seitenthüren.
 ---
+slug: feldmann-das-gastmahl-zu-luxenhain
+author:
+  name: Feldmann, Leopold
+  wikidata: Q88371
+title: Das Gastmahl zu Luxenhain
+subtitle: Original-Lustspiel in Einem Aufzuge
+numberOfScenes: 11
+printed: 1849
+formalia:
+  - Prosa
+editions:
+  - title: "Als Manuscript gedruckt. München: Deschler 1849"
+    url: https://books.google.com/books?id=iFFt3OdC178C&printsec=frontcover
+cast:
+  - name: Mahner,
+    role: Hofrath.
+    gender: m
+  - name: Marie,
+    role: dessen Nichte.
+    gender: f
+  - name: Herr von Leer,
+    role: Accessist.
+    gender: m
+  - name: Baron Windsack,
+    role: dessen Freund.
+    gender: m
+  - name: Ausberger,
+    role: Spekulant.
+    gender: m
+  - name: Stockmeier,
+    role: Gerichtsdiener.
+    gender: m
+  - name: Joseph,
+    role: Kellner.
+    gender: m
+  - name: Steinberg,
+    role: ein Gast.
+    gender: m
+  - name: Mehrere männliche und weibliche Gäste. Diener.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung beginnt Morgens und endet Abends. (Gastzimmer des Luxenhain'schen Hotels mit einer Mittel- und mehreren Seitenthüren, rechts ein Fenster, zu beiden Seiten Tische mit Zeitung.)
+---
 slug: feldmann-der-dreissigste-november
 author:
   name: Feldmann, Leopold
@@ -24361,6 +24446,42 @@ cast:
     gender: m
 setting: >-
   Scene: Vorzimmer im Hôtel.
+---
+slug: foerg-das-urtheil-des-paris
+author:
+  name: Förg, Karl Ignaz
+title: Das Urtheil des Paris
+subtitle: Eine mit Musick vermischte Parodie in einem Aufzuge
+numberOfScenes: 5
+printed: 1780
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 409
+editions:
+  - title: "München: Vötter [ca. 1780]"
+    url: https://books.google.com/books?id=eqLrKLla9cEC&printsec=frontcover
+cast:
+  - name: Harlekin,
+    role: als Paris.
+    gender: m
+  - name: Colombine,
+    role: als Venus.
+    gender: f
+  - group:
+      - name: Juno
+        gender: f
+      - name: Pallas
+        gender: f
+    role: zwo verunglückte Kommediantinnen.
+  - name: Krispin,
+    role: als Merkur in der Kleidung eines Postillions.
+    gender: m
+setting: >-
+  Der Schauplatz ist eine weite Ebene an dem Fuße des Berges Ida. Auf einer Seite siehet man einen Wasserfall von dem Felsen in den vorbeyfliessenden Bach herabstürzen, und auf der andern zeiget sich ein Lustwäldgen. In der Gegend siehet man Schäfchen weiden.
+location:
+  wikidataId: Q1127771
 ---
 slug: foerster-die-wette
 author:
@@ -50201,6 +50322,45 @@ cast:
 setting: >-
   Die Handlung geschieht auf dem Gute des Herrn von Roststaub. (Vorzimmer auf Roststaubs Landhause, mit einer durch einen Vorhang bekleideten Mittel- und zwei Seitenthüren. Das Ameublement ist im Geschmacke, ungefähr des 14ten Jahrhunderts, contrastirend mit der neumodischen Tapezerie u. dergl. der jetzigen Zeit. Rechts ein hoher Schirm.)
 ---
+slug: maltitz-taube-rabe-geist
+author:
+  name: Maltitz, Apollonius von
+  wikidata: Q4780410
+title: Taube, Rabe, Geist
+subtitle: Lustspiel in einem Aufzuge und in Versen
+numberOfScenes: 10
+printed: 1843
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Einfälle von A. v. Maltitz. Zweiter Theil. München: Franz 1843, S. 261–317"
+    url: https://books.google.com/books?id=qXmkOU120xsC&pg=PA261
+cast:
+  - name: Der Graf.
+    gender: m
+  - name: Die Gräfin.
+    gender: f 
+  - name: Fräulein Selma,
+    role: Freundin der Gräfin.
+    gender: f
+  - name: Rosalba,
+    role: der Gräfin Tochter erster Ehe.
+    gender: f
+  - name: Alfred,
+    role: Rosalba's Geliebter.
+    gender: f
+  - name: Bernhard,
+    role: Selma's Bruder.
+    gender: m
+  - name: Till,
+    role: Schornsteinfeger.
+    gender: m
+  - name: Gäste. Bediente.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist in einem Landhause nahe der Hauptstadt.
+---
 slug: maria-das-lustspiel
 author:
   name: Maria, Franz
@@ -61608,6 +61768,30 @@ setting: >-
 location:
   wikidataId: Q156080
 ---
+slug: schink-althaea
+author:
+  name: Schink, Johann Friedrich
+  wikidata: Q15873118
+title: Althäa
+subtitle: Ein Melodrama in einem Aufzuge
+numberOfScenes: 1
+printed: 1782
+formalia:
+  - Prosa
+editions:
+  - title: "Zum Behuf des Teutschen Teaters von J. Fr. Schink. Erster Beitrag. Graz: Widmanstätten 1782, 339–354"
+    url: https://haab-digital.klassik-stiftung.de/viewer/resolver?urn=urn:nbn:de:gbv:32-1-10012386809
+cast:
+  - name: Althäa.
+    gender: f
+  - name: Meleager,
+    role: ihr Sohn.
+    gender: m
+  - name: Ein Soldat.
+    gender: m
+setting: >-
+  Die Szene ist eine schauerige Gegend, ein Wald voll entlaubter Bäume, mit Felsen gegattet; am Himmel hangen schwarze Wolken, die vom Sturm hin- und hergetrieben werden, nur hier und da blikt ein Stern; der Tag graut; die Witterung ist kalt und wild; in der Tiefe des Waldes ist ein Scheiterhaufen aufgerichtet, an der Seite ein Grabmal.
+---
 slug: schink-der-orang-outang
 author:
   name: Schink, Johann Friedrich
@@ -69253,6 +69437,37 @@ cast:
 setting: >-
   Die Handlung ist auf des Grafen Landgut. (Gartensaal. Im Hintergrunde eine Glasthüre, durch welche man in den Garten sieht. Zwei Seitenthüren. Vorne ein Tisch mit Schreibzeug.)
 ---
+slug: thuemmel-die-geschwister
+author:
+  name: Thümmel, Moritz August von
+  wikidata: Q70443
+title: Die Geschwister
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1804
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Scenen zum geselligen Vergnügen. Von August v. Thümmel. Ertes Bändchen. Coburg und Leipzig: Sinner 1804, S. 83–124"
+    url: https://books.google.com/books?id=vJBIAAAAcAAJ&pg=PA83
+keywords:
+  - Eheanbahnung
+cast:
+  - name: Advocat Berger.
+    gender: m
+  - name: Louise,
+    role: seine Schwester.
+    gender: f
+  - name: Baron Ygelstern.
+    gender: m
+  - name: Pastor Friedhelm.
+    gender: m
+  - name: Moses,
+    role: ein Jude.
+    gender: m
+setting: >-
+  Wohnstube des Advocat Berger. Alles zeigt von großer Armuth; Ordnung und Reinlichkeit herrscht aber dabei überall. Berger sitzt auf der einen Seite an einem großen Tische, der voll beschriebener Papiere liegt und schreibt. Acten stehen stoßweise neben dem Tische. Louise sitzt auf der andern Seite an einem kleinen Tischchen und näht.
+---
 slug: thumb-neuburg-alte-zeit-oder-die-aristokraten
 author:
   name: Thumb-Neuburg, Karl Konrad von
@@ -69599,6 +69814,68 @@ cast:
 setting: Die Scene ist in Berlin.
 location:
   wikidataId: Q64
+---
+slug: tieck-niobe
+author:
+  name: Tieck, Ludwig
+  wikidata: Q57239
+title: Niobe
+subtitle: Versuch eines kleinen Dramas in einem Aufzuge
+numberOfScenes: 6
+created: 1790
+printed: 1987
+formalia:
+  - Verse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 240
+editions:
+  - title: "Achim Hölter: Ludwig Tieck und der Niobe-Stoff. Ein ungedrucktes Drama aus dem Nachlaß. In: Euphorion. Zeitschrift für Literaturgeschichte. Band 81, Heft 3 (1987), S. 263–276"
+comments:
+  - Die sechs Konfigurationswechsel sind im Manuskript nicht als Szenen ausgewiesen.
+cast:
+  - name: Niobe.
+    gender: f
+  - group:
+      - name: Agathon.
+        gender: m
+      - name: Hyakinthos.
+        gender: m
+      - name: Narkissos.
+        gender: m
+      - name: Polymethis.
+        gender: m
+      - name: Lygnos.
+        gender: m
+      - name: Perietes.
+        gender: m
+      - name: Gyges.
+        gender: m
+    role: Söhne der Niobe.
+  - group:
+      - name: Danae.
+        gender: f
+      - name: Psyche.
+        gender: f
+      - name: Briseis.
+        gender: f
+      - name: Helena.
+        gender: f
+      - name: Leukothoe.
+        gender: f
+      - name: Panthea.
+        gender: f
+      - name: Dejanire.
+        gender: f
+    role: Töchter der Niobe.
+  - name: Pandaros,
+    role: ein Seher, Niobens Freund.
+    gender: m
+  - name: Diener.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene: Eine schöne grüne Ebne.
 ---
 slug: tiessen-der-fluss-der-vergessenheit
 author:
