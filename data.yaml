@@ -4196,6 +4196,37 @@ cast:
     gender: m
 setting: Die Vorstellung geschieht auf Alcimons Landguthe.
 ---
+slug: anonym-der-freiwillige-jaeger
+author:
+  pseudonym: Anonym
+title: Der freiwillige Jäger
+subtitle: Vorspiel in einem Akt
+numberOfScenes: 8
+printed: 1816
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Lustspiele und Possen für Privattheater und Familienzirkel. Erstes Bändchen. Glogau: Günter 1816, S. 1–13"
+    url: https://books.google.com/books?id=qVC92gTlNOkC&pg=PA1
+cast:
+  - name: Michel,
+    role: ein wohlhabender Bauer.
+    gender: m
+  - name: Anne,
+    role: sein Weib.
+    gender: f
+  - name: Röse,
+    role: seine Tochter.
+    gender: f
+  - name: Jäger Martin,
+    role: sein Vetter, unter dem freiwilligen Jäger-Corps.
+    gender: m
+  - name: Mehrere Bauern und Bäuerinnen, worunter auch der Schulze des Dorfes.
+    isGroup: true
+    gender: u
+setting: >-
+  Eine reinliche Bauernstube.
+---
 slug: anonym-der-gefuerstete-schuster
 author:
   pseudonym: Anonym
@@ -5786,6 +5817,31 @@ cast:
     role: von Birtens Bedienter.
     gender: m
 setting: Die Handlung ist auf Reichenaus Landgute.
+---
+slug: anonym-der-unsichtbare
+author:
+  pseudonym: Anonym
+title: Der Unsichtbare
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 13
+printed: 1816
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Lustspiele und Possen für Privattheater und Familienzirkel. Erstes Bändchen. Glogau: Günter 1816, S. 15–41"
+    url: https://books.google.com/books?id=qVC92gTlNOkC&hl&pg=PA15
+cast:
+  - name: Früh,
+    role: ein alter Gärtner.
+    gender: m
+  - name: Rosalie,
+    role: seine Pflegetochter.
+    gender: f
+  - name: Stephan,
+    role: Gärtnerbursche.
+    gender: m
+  - name: Lieutenant di Sposetti.
+    gender: m
 ---
 slug: anonym-der-unverschwiegene
 author:
@@ -11398,6 +11454,57 @@ setting: >-
   Links ein Kamin, vorne, rechts und links, ein alter Schreibtisch, mit allem
   nöthigen Geräthe.)
 ---
+slug: anonym-zwey-worte-oder-die-nacht-im-walde
+author:
+  pseudonym: Anonym
+title: Zwey Worte, oder die Nacht im Walde
+subtitle: Ein Lustspiel mit Gesang in einem Aufzuge. Nach dem Französischen des Herrn Marsolier. Die Musik ist von d'Alayrac
+numberOfScenes: 18
+printed: 1807
+premiered: 1807-11-07
+formalia:
+  - Prosa
+  - Verse
+basedOn:
+  - "Benoît-Joseph Marsollier des Vivetières: [»Deux mots, ou Une nuit dans la forêt. Opéra-comique en un acte«](https://books.google.com/books?id=MB_anQAACAAJ&printsec=frontcover)"
+editions:
+  - title: "Wien: Wallishausser 1807"
+    url: https://books.google.com/books?id=P5FHAAAAcAAJ&printsec=frontcover
+  - title: "Wien: Wallishausser 1808"
+    url: https://books.google.com/books?id=KNSFnNjUV-sC&printsec=frontcover
+comments:
+  - "Zuerst wahrscheinlich [in Weimar](https://staatsarchive.thulb.uni-jena.de/receive/ThHStAW_opus_00000296). – Auch mit dem Untertitel »Oper in einem Aufzuge« (z.B. [Theaterzettel Bremen 1819](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1756657))."
+ids:
+  weber: A020488
+cast:
+  - group:
+      - name: Valbelle,
+        role: Offizier.
+        gender: m
+      - name: La France,
+        role: sein Kammerdiener.
+        gender: m
+    role: Reisende.
+  - name: Die Wirthinn.
+    gender: f
+  - name: Rose,
+    role: ein junges Mädchen, im Dienste der Wirthinn.
+    gender: f
+  - name: Lafleur, und Valbelles, Kutscher.
+    isGroup: true
+    gender: m
+  - name: Vier Räuber.
+    isGroup: true
+    gender: m
+  - name: Streifwache.
+    isGroup: true
+    gender: m
+  - name: Holzhauer und Köhler.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung geht in einem schlechten im Walde gelegenen Gasthause vor.
+---
 slug: armbruster-armuth-und-gutherzigkeit
 author:
   name: Armbruster, Johann Michael
@@ -14839,6 +14946,36 @@ cast:
 setting: >-
   Der Schauplatz ist eine Bauernstube.
 ---
+slug: bluemner-die-seltsame-wette
+author:
+  name: Blümner, Heinrich
+  wikidata: Q1596769
+title: Die seltsame Wette
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 16
+printed: 1812
+premiered: 1810-09-19
+formalia:
+  - Prosa
+basedOn:
+  - "François-Benoît Hoffman: [»Le roman d'une heure ou La folle gageure. Comédie en un acte et en prose«](https://books.google.com/books?id=VVA6AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Leipzig: Tauchnitz 1812"
+    url: https://books.google.com/books?id=NmlkAAAAcAAJ&printsec=frontcover
+comments:
+  - "Im Druck anonym. Auf [Weimarer Theaterzettel](https://staatsarchive.thulb.uni-jena.de/receive/ThHStAW_opus_00002213) ist als Übersetzer Blümner angegeben."
+  - "Weitere Übersetzung: [Hassaureck 1809](hassaureck-der-kurze-roman-oder-die-naerrische-wette)."
+cast:
+  - name: Constanze von Dallwig.
+    gender: f
+  - name: Lisette,
+    role: ihr Mädchen.
+    gender: f
+  - name: Baron Nordeck.
+    gender: m
+setting: >-
+  Schauplatz: Zimmer mit einer Mittelthüre. Dem Zuschauer zur Rechten eine Seitenthüre, links ein practicables Fenster.
+---
 slug: bluemner-die-spanische-wand
 author:
   name: Blümner, Heinrich
@@ -18015,6 +18152,33 @@ setting: >-
   Die Handlung ist in der Gegend von Wilna. (Die Bühne stellt einen sehr eleganten Salon vor, mit einer Mittel- und zwey Seitenthüren. Zur Rechten ein Tisch, zur Linken ein Stehspiegel und eine vollständige elegante Toilette. Ein Stickrahmen an der Seite.)
 location:
   wikidataId: Q216
+---
+slug: castelli-das-flaeschchen-koellnerwasser-oder-denkschrift-eines-husarenoffiziers
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: "Das Fläschchen Köllnerwasser, oder: Denkschrift eines Husarenoffiziers"
+subtitle: Lustspiel in einem Acte. Nach Scribe
+numberOfScenes: 15
+printed: 1823
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Mélesville: [»Mémoires d'un colonel de hussards. Comédie en un acte, mêlée de vaudevilles«](https://books.google.com/books?id=8vMSzQEACAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1823. Von I. F. Castelli. Achter Jahrgang. Wien: Wallishausser [1823], S. 177–220"
+cast:
+  - name: Gustav de Montemart,
+    role: Oberst.
+    gender: m
+  - name: Mathilde,
+    role: seine Gattinn.
+    gender: f
+  - name: Leon,
+    role: Lieutenant.
+    gender: m
+setting: >-
+  Die Bühne stellt das Innere eines Gefängnisses in Gestalt eines runden Thurmes vor. Bey der ersten Coulisse rechts ein vergittertes Fenster. Bey der zweyten die Eingangsthüre. Im Hintergrunde ein großes Fenster, durch welches man die Terrasse sehen kann, auf welcher die Gefangenen spazieren gehen. Zur Linken bey der ersten Coulisse eine geheime Thüre, bey der zweyten ein hohes vergittertes Kappfensterchen. Neben dem Fenster im Hintergrunde eine Thüre, welche in Gustav's Schlafkammer führt.
 ---
 slug: castelli-das-fruehstueck
 author:
@@ -28360,7 +28524,7 @@ cast:
   - name: Der Frau Magisterin ihre Magd.
     gender: f
 setting: >-
-  Der Schauplatz ist in einer grossen Stadt, in dem Zimmer der Frau Gutherzheim.
+  Der Schauplatz ist in einer grossen Stadt, in dem Zimmer der Frau von Gutherzheim.
 ---
 slug: guenderrode-marianne
 author:
@@ -30113,6 +30277,40 @@ cast:
     role: junge Bäuerinnen.
 setting: >-
   Das Theater stellt eine ländliche Gegend, im Grunde eine Bauernhütte vor.
+---
+slug: hassaureck-der-kurze-roman-oder-die-naerrische-wette
+author:
+  name: Hassaureck, Franz Joseph
+  wikidata: Q95217725
+title: Der kurze Roman, oder die närrische Wette
+subtitle: Ein Lustspiel in einem Akt
+numberOfScenes: 16
+printed: 1809
+premiered: 1809-03-06
+formalia:
+  - Prosa
+basedOn:
+  - "François-Benoît Hoffman: [»Le roman d'une heure ou La folle gageure. Comédie en un acte et en prose«](https://books.google.com/books?id=VVA6AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen. Ein Taschenbuch auf das Jahr 1809. Von Castelli und Hassaureck. Wien: Wallishausser 1809, S. 87–140"
+    url: https://books.google.com/books?id=xgKY5bGphO4C&pg=PA87
+  - title: "Neue Bibliothek kleiner Theaterstücke für Privat-Gesellschaften. Ein Pendant zu der deutschen Schaubühne. Zweiter Theil. Augsburg und Leipzig: Jenisch und Stage [1818], S. 45–86"
+    url: https://books.google.com/books?id=HSw7AAAAcAAJ&pg=PA45
+comments:
+  - "Weitere Übersetzung: [Blümner 1812](bluemner-die-seltsame-wette)."
+cast:
+  - name: Pauline,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Lisette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Valourt.
+    gender: m
+setting: >-
+  Die Szene spielt in Paris, in Paulinens Wohnung.
+location:
+  wikidataId: Q90
 ---
 slug: hassaureck-die-spanische-wand
 author:
@@ -32313,6 +32511,42 @@ setting: >-
   Die Handlung geschieht in einem Städtchen, einige Poststazionen von Wien, und dauert einen Nachmittag.
 location:
   wikidataId: Q1741
+---
+slug: hensler-kasper-gruenzinger
+author:
+  name: Hensler, Karl Friedrich
+  wikidata: Q1731074
+title: Kasper Grünzinger
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 17
+printed: 1799
+premiered: 1799-01-23
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Schmidt 1799"
+    url: https://books.google.com/books?id=mweGSRq2P2oC&printsec=frontcover
+cast:
+  - name: Kasper Grünzinger,
+    role: ein wohlhabender Weinbauer.
+    gender: m
+  - name: Margareth,
+    role: sein Weib.
+    gender: f
+  - name: Rosine,
+    role: seine Tochter.
+    gender: f
+  - name: Guthmann,
+    role: ein reicher Wirth zu Brunn, Rosinens Taufpathe.
+    gender: m
+  - name: Steffel,
+    role: ein Hauerbursche, Rosinens Liebhaber.
+    gender: m
+  - name: Lisel,
+    role: Kasperls Muhme.
+    gender: f
+setting: >-
+  Die Handlung geht vor in Grünzingen, einem Dorfe in Oesterreich. (Die Bühne stellt einen ländlichen Garten vor mit einem Zaun. Auf einer Seite Kasperls Haus, vor demselben ein hoher Baum mit einem ländlichen Tisch und Stühlen. Auf der andern Seite die Thüre in die Presse, vor derselben Butten, Wannen und dergl. In der Entfernung sieht man das Dorf, und unter den Bauerhütten das Schloß des Dorfherrn hervorragen.)
 ---
 slug: hensler-lorenz-konau
 author:
@@ -52924,8 +53158,6 @@ cast:
     gender: m
 setting: >-
   Schauplaz, Försterwohnung auf der rauhen würtenbergischen Alp. Zeit, 1528.
-location:
-  wikidataId: Q159589
 ---
 slug: miersch-kuenstler-glueck
 author:
@@ -54360,6 +54592,97 @@ cast:
     gender: u
 setting: >-
   Eine sehr einfache Stube, mit einer Seitenthüre und einem Fenster. Beinahe in der Mitte ein Tisch, worauf ein Messing-Leuchter und eine Rumflasche mit einem Stückchen Licht, ein Punschnapf und einige Gläser, ein altes Schreibzeug und einige Spielkarten. Am Tische ein Bett. Zwei alte Rohrstühle, Hieber, Rappiere, Fecht-Handschuh und einige lange Pfeifen stehen unordentlich umher oder hängen an der Wand. Rechts an der Wand hängt Wahlbachs Mantel und Hut, sein Rock über einen Stuhl.
+---
+slug: nestroy-judith-und-holofernes
+author:
+  name: Nestroy, Johann
+  wikidata: Q44862
+title: Judith und Holofernes
+subtitle: Travestie in einem Akt
+numberOfScenes: 24
+printed: 1891
+premiered: 1849-03-13
+formalia:
+  - Prosa
+editions:
+  - title: "Johann Nestroy's Gesammelte Werke. Herausgegeben von Vincenz Chiavacci und Ludwig Ganghofer. Siebenter Band. Stuttgart: Bonz 1891, S. 239–259"
+    url: https://books.google.com/books?id=wYYtAAAAYAAJ&pg=RA2-PA239
+comments:
+  - "Uraufführung anonym."
+  - "In der Forschung wird darüber diskutiert, ob das Stück antisemitisch ist oder nicht (vgl. etwa Jürgen Hein: Judenthematik im Wiener Volkstheater. In: Conditio Judaica. Teil 1: Judentum, Antisemitismus und deutschsprachige Literatur vom 18. Jahrhundert bis zum Ersten Weltkrieg. Hrsg. von Hans Otto Horch und Horst Denkler. Tübingen 1988, S. 164–186 ([doi:10.1515/9783110276213.164](https://doi.org/10.1515/9783110276213.164)); dort auch Zusammenfassung der verschiedenen Positionen inkl. Quellen)."
+keywords:
+  - Judentum
+ids:
+  dracor: ger000441
+  wikidata: Q1711097
+cast:
+  - name: Holofernes,
+    role: Feldherr der Assyrier.
+    gender: m
+  - group:
+      - name: Idun,
+        gender: m
+      - name: Chalkol,
+        gender: m
+      - name: Zepho,
+        gender: m
+    role: Hauptleute der Assyrier.
+  - name: Achior,
+    role: des Holofernes Kämmerling.
+    gender: m
+  - name: Ein Herold.
+    gender: m
+  - name: Der Gesandte von Mesopotamien.
+    gender: m
+  - name: Oberpriester des Baal.
+    gender: m
+  - name: Erster Baalpriester.
+    gender: m
+  - name: Zweiter Baalpriester.
+    gender: m
+  - name: Jojakim,
+    role: der Hohepriester in Bethulien.
+    gender: m
+  - name: Joab,
+    role: sein Sohn, Volontär in der hebräischen Armee.
+    gender: m
+  - name: Judith,
+    role: seine Tochter, Witwe.
+    gender: f
+  - name: Mirza,
+    role: Magd in Jojakims Hause.
+    gender: f
+  - group:
+      - name: Assad,
+        gender: m
+      - name: Daniel
+        role: (blind und stumm), Assads Bruder,
+        gender: m
+      - name: Ammon,
+        role: Schuster,
+        gender: m
+      - name: Hosea,
+        gender: f
+      - name: Nabal,
+        gender: m
+      - name: Ben,
+        gender: m
+      - name: Nazael,
+        gender: m
+      - name: Heman,
+        role: Schneider,
+        gender: m
+      - name: Nathan,
+        gender: m
+      - name: Bachel,
+        role: Assads Weib,
+        gender: f
+      - name: Sara,
+        role: Ammons Weib,
+        gender: f
+    role: Einwohner von Bethulien.
+setting: >-
+  Die Handlung geht teils im Lager des Holofernes, teils in Bethulien vor.
 ---
 slug: nolte-die-erbschaft
 author:
@@ -58453,6 +58776,57 @@ cast:
 setting: >-
   Schauplaz, ein großer Saal, in der Mitte ein Vorhang.
 ---
+slug: reinhard-der-pasquillant-oder-es-lebe-friedrich-der-grosse
+author:
+  name: Reinhard, Bernhard Heinrich Karl
+title: "Der Pasquillant, oder: Es lebe Friedrich der Große!"
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1792
+premiered: 1792-10-11
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 197–198
+editions:
+  - title: "Braunschweig: Schröder 1792"
+    url: https://books.google.com/books?id=DF5IAAAAcAAJ&printsec=frontcover
+comments:
+  - "Einakterhinweis in einem undatierten Manuskript (vgl. Meyer) sowie in der Ankündigung zur Hamburger Aufführung [in der Hamburgischen Theaterzeitung](https://books.google.com/books?id=c5CKmsbkzdgC&pg=PA672); Untertitel im Druck »Ein Schauspiel in zwei Aufzügen« (10 + 7 Szenen)."
+cast:
+  - name: Der Fürst.
+    gender: m
+  - name: General de Fourberie.
+    gender: m
+  - name: Obristlieutenant und Flügeladjudant, v. Maar.
+    gender: m
+  - name: Fähnrich Edelschwerdt.
+    gender: m
+  - name: Geheimer Rath von Seltenstern.
+    gender: m
+  - name: Kammerjunker von Stachel.
+    gender: m
+  - name: Maitre d'Hôtel Qualm.
+    gender: m
+  - name: Major Edelschwerdt,
+    role: in Pension.
+    gender: m
+  - name: Karoline,
+    role: seine Gattinn.
+    gender: f
+  - group:
+      - name: Karl,
+        gender: m
+      - name: Wilhelm,
+        gender: m
+    role: seine Söhne.
+  - name: Wetter,
+    role: ein alter Invalid mit einem Bein.
+    gender: m
+setting: >-
+  Die Wohnung des Majors Edelschwerdt.
+---
 slug: reinhard-der-willkommne-gast
 author:
   name: Reinhard, Bernhard Heinrich Karl
@@ -60148,6 +60522,45 @@ cast:
       - name: Herr Unfried.
         gender: m
     role: Vettern von diesem Hause.
+---
+slug: roemer-der-genius-der-zeit
+author:
+  name: Roemer, Georg Christian
+  wikidata: Q60844854
+title: Der Genius der Zeit
+subtitle: Vorspiel in 1 Akt
+numberOfScenes: 1
+printed: 1797
+premiered: 1797-01-18
+formalia:
+  - Verse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 427
+editions:
+  - title: "Mannheim: Kurfürstliche Hof- und Akademie-Buchdruckerey 1797"
+    url: https://books.google.com/books?id=CPZXAAAAcAAJ&printsec=frontcover
+keywords:
+  - allegorische Figuren
+cast:
+  - name: Die Priester.
+    isGroup: true
+    gender: m
+  - name: Das Volk.
+    isGroup: true
+    gender: u
+  - name: Die Krieger.
+    isGroup: true
+    gender: m
+  - name: Eine Stimme.
+    gender: u
+  - name: Der Genius der Zeit.
+    gender: u
+  - name: Schlußchor.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist in einem prächtig erleuchteten Tempel, in dessen Mitte ein erhabener Altar steht, auf welchem Siegeszeichen ausgestellt sind. Den Altar umgeben unmittelbar Kinder mit Blumenkränzen. Rechts steht der Genius der Zeit, links die Muse der Geschichte; weiter zurück Priester, dann Volk, endlich gewaffnete Krieger.
 ---
 slug: roemer-die-freunde-auf-der-probe
 author:
