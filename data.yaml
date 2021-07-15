@@ -2276,6 +2276,46 @@ setting: >-
 location:
   wikidataId: Q105261
 ---
+slug: anonym-auch-weiber-tragen-sporn
+author:
+  name: F. B.
+  pseudonym: Anonym
+title: Auch Weiber tragen Sporn
+subtitle: Posse in einem Akte
+numberOfScenes: 16
+printed: 1801
+formalia:
+  - Prosa
+editions:
+  - title: "Pilsen und Leipzig: Morgensäuler [1801]"
+    url: https://books.google.com/books?id=jn86AAAAcAAJ&printsec=frontcover
+comments:
+  - "[Laut Goedeke](https://books.google.com/books?id=ltk4AQAAMAAJ&pg=PA1075) ist der Autor F. W. Schütz."
+cast:
+  - name: Baron von Funkenstern.
+    gender: m
+  - name: Amalie,
+    role: seine Gattinn.
+    gender: f
+  - name: Baronesse von Lindenheim.
+    gender: f
+  - name: Ritter von Giebs.
+    gender: m
+  - name: Lisette,
+    role: Kammermädchen.
+    gender: f
+  - group:
+      - name: Johann,
+        gender: m
+      - name: Franz,
+        gender: m
+    role: Bediente.
+  - name: Franziska,
+    role: Mädchen der Baronesse.
+    gender: f
+setting: >-
+  Zimmer des Barons.
+---
 slug: anonym-autor-und-diener-aus-liebe
 author:
   pseudonym: Anonym
@@ -14701,6 +14741,56 @@ setting: >-
 location:
   wikidataId: Q656
 ---
+slug: birnbaum-der-heerbann
+author:
+  name: Birnbaum, Johann Michael Franz
+  wikidata: Q111873
+title: Der Heerbann
+subtitle: In einem Akte
+numberOfScenes: 16
+printed: 1816
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Adalbert von Babenberg. Ein dramatisches Gedicht von F. M. Birnbaum. Erster Band. Bamberg und Leipzig: Kunz 1816, S. 17–100"
+    url: https://books.google.com/books?id=9W86AAAAcAAJ&pg=PA17
+cast:
+  - name: Ein Hauptmann des Heerbanns.
+    gender: m
+  - group:
+      - name: Thüringer
+        isGroup: true
+        gender: m
+      - name: Sachsen
+        isGroup: true
+        gender: m
+      - name: Schwaben
+        isGroup: true
+        gender: m
+      - name: Rheinfranken
+        isGroup: true
+        gender: m
+      - name: Bayern
+        isGroup: true
+        gender: m
+    role: freye Glieder des Heerbanns.
+  - name: Zwey Lehensleute aus der königlichen Leibwache.
+    isGroup: true
+    gender: m
+  - name: Zwey Bürger der Stadt Babenberg.
+    isGroup: true
+    gender: u
+  - name: Ein Tyroler im bayrischen Heere.
+    gender: m
+  - name: Ein Herold.
+    gender: m
+  - name: Ein Trompeter.
+    gender: m
+  - name: Ein alter Minnesänger.
+    gender: m
+setting: >-
+  Die Zeit der Handlung fällt in die Regierung Ludwigs IV. des Kindes, Königs der Deutschen, in den Herbst des Jahres 905, der Schauplatz ist vor dem Schlosse des Grafen Adalbert von Babenberg Markgrafen in Ostfranken.
+---
 slug: bischoff-der-judenfeind
 author:
   name: Bischoff, L. C. H.
@@ -18256,6 +18346,40 @@ cast:
     gender: m
 setting: >-
   Die Scene spielt in einem Gasthofe, in der Wohnung des Herrn von Blindstein. (Die Bühne stellt einen sehr prächtig dekorirten Saal vor. Zur Rechten ist eine Thüre. En face im Hintergrunde ein Kamin mit einem Spiegel ober demselben. Vor dem Spiegel steht eine Vase, und verschiedenes schönes Kaffeh- und Theegeschirr. Zur Linken mehrere Lehnstühle, ein Sekretär, und ein Queridon. Im Hintergrunde eine Thüre.)
+---
+slug: castelli-der-buckelige-liebhaber
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Der buckelige Liebhaber
+subtitle: Posse in einem Aufzuge, nach einem französischen Vaudeville
+numberOfScenes: 19
+printed: 1823
+premiered: 1822-01-28
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe, Mélesville und Max Raoul: [»L'amant bossu. Comédie-vaudeville en un acte«](https://books.google.com/books?id=B-hKAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1823. Von I. F. Castelli. Achter Jahrgang. Wien: Wallishausser [1823], S. 1–54"
+cast:
+  - name: Herr von Plin,
+    role: ein reicher Gutsbesitzer.
+    gender: m
+  - name: Adamine,
+    role: seine Nichte.
+    gender: f
+  - name: Friedrich Holst.
+    gender: m
+  - name: Frau von Merdan.
+    gender: f
+  - name: Kätchen,
+    role: Adaminens Mädchen.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung spielt auf Plins Landgute, drey Meilen von der Hauptstadt. (Die Bühne stellt einen zierlichen Gartensalon vor, von allen Seiten offen. Man sieht durch diese Oeffnung in den Garten.)
 ---
 slug: castelli-der-ehemann-als-liebhaber-oder-der-liebhaber-als-ehemann
 author:
@@ -53553,6 +53677,38 @@ cast:
 setting: >-
   Der Schauplatz ist in Töffel's Hause.
 ---
+slug: muechler-das-zerbrochne-bein
+author:
+  name: Müchler, Karl
+  wikidata: Q1374429
+title: Das zerbrochne Bein
+subtitle: Posse in Einem Aufzuge
+numberOfScenes: 13
+printed: 1823
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Bühnenspiele von Karl Müchler. Berlin: Petri 1823, S. 1–44"
+    url: https://books.google.com/books?id=mapIAAAAcAAJ&pg=PA1
+cast:
+  - name: Gertrud,
+    role: Schwankwirthin.
+    gender: f
+  - name: Lieschen,
+    role: ihre Tochter.
+    gender: f
+  - name: Martha,
+    role: Wittwe.
+    gender: f
+  - name: Schnabel,
+    role: Dorfbader.
+    gender: m
+  - name: Heinrich,
+    role: dessen Sohn.
+    gender: m
+setting: >-
+  Die Scene ist vor der Thüre der Schänke; es befindet sich vor derselben ein großer Tisch, auf welchem eine Kanne und mehrere Gläser stehen. (An der Seite ist ein Gebüsch, in welchem einige größere Bäume sich zeigen.)
+---
 slug: muechler-das-verauctionirte-serail
 author:
   name: Müchler, Karl
@@ -53665,6 +53821,37 @@ cast:
 setting: >-
   Der Schauplatz stellt ein Zimmer in Kolbens Wohnung vor, das mit verschiedenen Bildsäulen, Vasen und dergleichen verziert ist.
 ---
+slug: muechler-der-kranke-im-hospital
+author:
+  name: Müchler, Karl
+  wikidata: Q1374429
+title: Der Kranke im Hospital
+subtitle: Posse in Einem Aufzuge
+numberOfScenes: 9
+printed: 1823
+formalia:
+  - Alexandriner
+editions:
+  - title: "Kleine Bühnenspiele von Karl Müchler. Berlin: Petri 1823, S. 45–86"
+    url: https://books.google.com/books?id=mapIAAAAcAAJ&pg=PA45
+cast:
+  - name: Grobhaus.
+    role: Krankenwärter in einem Hospital.
+    gender: m
+  - name: Schepper.
+    role: Chirurgus.
+    gender: m
+  - name: Sophie.
+    gender: f
+  - name: Anton.
+    role: Ihr Bruder.
+    gender: m
+  - name: Paul.
+    role: Ein Kranker.
+    gender: m
+setting: >-
+  Die Scene zeigt einen Krankensaal des Hospitals.
+---
 slug: muechler-der-scharlachmantel
 author:
   name: Müchler, Karl
@@ -53705,6 +53892,81 @@ cast:
     role: in Diensten des Herrn von Mansfeld.
 setting: >-
   Die Handlung geschieht im Schlosse des Herrn von Mansfeld. (Der Schauplatz stellt einen Saal vor; auf der einen Seite desselben erblickt man eine Thür, mit einem kleinen Gitter davor.)
+---
+slug: muechler-der-selbstmord
+author:
+  name: Müchler, Karl
+  wikidata: Q1374429
+title: Der Selbstmord
+subtitle: Posse in Einem Aufzuge
+numberOfScenes: 11
+printed: 1823
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Bühnenspiele von Karl Müchler. Berlin: Petri 1823, S. 87–126"
+    url: https://books.google.com/books?id=mapIAAAAcAAJ&pg=PA87
+cast:
+  - name: Hauptmann von Körber.
+    gender: m
+  - name: Frau von Hellberg.
+    gender: f
+  - name: Julie.
+    gender: f
+  - name: Rath Burgheim.
+    gender: m
+  - name: Johann,
+    role: sein Bedienter.
+    gender: m
+setting: >-
+  Der Schauplatz ist auf dem Lande, im Hause des Hauptmanns von Körber, in einem Saal.
+---
+slug: muechler-husarenliebe-oder-die-heirath-auf-den-husch
+author:
+  name: Müchler, Karl
+  wikidata: Q1374429
+title: Husarenliebe oder die Heirath auf den Husch
+subtitle: Lustspiel mit Gesang in Einem Aufzuge
+numberOfScenes: 27
+printed: 1823
+formalia:
+  - Prosa
+  - Verse
+editions:
+  - title: "Kleine Bühnenspiele von Karl Müchler. Berlin: Petri 1823, S. 173–250"
+    url: https://books.google.com/books?id=mapIAAAAcAAJ&pg=PA173
+cast:
+  - name: Baron von Buchwald,
+    role: Husarenoberste.
+    gender: m
+  - name: Frau von Lilienstern,
+    role: Wittwe.
+    gender: f
+  - name: Röschen,
+    role: ihre Kammerzofe.
+    gender: f
+  - name: Frank,
+    role: Wachtmeister.
+    gender: m
+  - name: Taps,
+    role: Gärtner der Frau von Lilienstern.
+    gender: m
+  - name: Fräulein von Bergheim.
+    gender: f
+  - name: Mehrere junge Damen, Freundinnen der Frau von Lilienstern.
+    isGroup: true
+    gender: f
+  - name: Biering,
+    role: Unteroffizier.
+    gender: m
+  - name: Bauern und Bäuerinnen.
+    isGroup: true
+    gender: m
+  - name: Ein Husar,
+    role: Ordonanz des Obersten.
+    gender: m
+setting: >-
+  Die Scene spielt jenseits des Rheins auf dem Gute der Frau von Lilienstern.
 ---
 slug: muechler-was-kuemmerts-mich
 author:
@@ -56992,6 +57254,48 @@ cast:
     gender: f
 setting: >-
   Sehr elegant möblirter Salon; eine Thür rechts führt nach Kronthal's Wohnung, eine gleiche links nach den Zimmern des Justizraths; Flurthür im Hintergrunde.
+---
+slug: plank-die-stadtprobe
+author:
+  name: Plank, Beda
+  wikidata: Q813791
+title: Die Stadtprobe
+subtitle: Eine Farse in einem Aufzuge
+numberOfScenes: 13
+created: 1770
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 24, S. 149–150
+comments:
+  - Nur als Manuskript, undatiert. Von Meyer ins Jahr 1770 einsortiert.
+cast:
+  - name: Rural,
+    role: ein Landiunker.
+    gender: m
+  - name: Matthias,
+    role: sein Bedienter.
+    gender: m
+  - name: Lisl,
+    role: seine Köchin.
+    gender: f
+  - name: Hans,
+    role: sein Kutscher.
+    gender: m
+  - group:
+      - name: Urban,
+        gender: m
+      - name: Windfels,
+        gender: m
+    role: zween schmarozzer.
+  - name: Rotell (?),
+    role: ein alter Kleider Sammler.
+    gender: m
+  - name: Barbier.
+    gender: m
+  - name: Friseur.
+    gender: m
 ---
 slug: platen-der-thurm-mit-sieben-pforten
 author:
@@ -78206,6 +78510,41 @@ cast:
   - name: Einige andre Personen.
     isGroup: true
     gender: u
+---
+slug: wichmann-die-menschen
+author:
+  name: Wichmann, Christian August
+  wikidata: Q55675821
+title: Die Menschen
+subtitle: Ein Lustspiel mit untermengten Tänzen in einem Aufzuge, das am 27 Junius 1753 auf dem Königl. französischen Theater zum erstenmale vorgestellt worden
+numberOfScenes: 1
+printed: 1768
+formalia:
+  - Prosa
+basedOn:
+  - "Germain François Poullain de Saint-Foix: [»Les hommes. Comédie-ballet en un acte«](https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/../documents/SAINT-FOIX_HOMMES.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 23, S. 185
+editions:
+  - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Vierter und letzter Theil. Leipzig: Fritsch 1768, S. 207–232"
+    url: https://books.google.com/books?id=G77TROATSrAC&printsec=frontcover
+comments:
+  - "Nach dem Personenverzeichnis: Brief »An das Fräulein von B***« (S. 209–210) sowie »Vorbericht des Verfassers« über Tänze »heut zu Tage« (S. 211)."
+cast:
+  - group:
+      - name: Mercur.
+        gender: m
+      - name: Prometheus.
+        gender: m
+      - name: Die Thorheit.
+        gender: u
+    role: Spielende Personen.
+  - name: Tanzende Personen von unterschiedlichem Charakter.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist auf der Erde.
 ---
 slug: wiese-die-bettler
 author:
