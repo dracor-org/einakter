@@ -3174,6 +3174,57 @@ setting: >-
 location:
   wikidataId: Q64
 ---
+slug: anonym-das-liebhabertheater-oder-die-schreckensnacht
+author:
+  pseudonym: Anonym
+title: Das Liebhabertheater oder die Schreckensnacht
+subtitle: Posse in einem Act. Dem Liebhabertheater zu H........g gewidmet
+numberOfScenes: 6
+printed: 1836
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Stuttgart 1836"
+comments:
+  - "»Motto: Thoren hätten wir wohl, wir hätten Fratzen die Menge, / Leider helfen sie nur selbst zur Komödie nichts! / Schiller.«"
+cast:
+  - name: Bock,
+    role: ein Weinwirth.
+    gender: m
+  - name: Dessen Frau.
+    gender: f
+  - name: Kannegießer,
+    role: Schullehrer.
+    gender: m
+  - name: Dessen Frau.
+    gender: f
+  - name: Kaninchen,
+    role: dessen Tochter.
+    gender: f
+  - group:
+      - name: Dreher,
+        gender: m
+      - name: Sattler,
+        gender: m
+      - name: Einige Bürger,
+        isGroup: true
+        gender: u
+    role: Schauspieler an dem Liebhabertheater.
+  - name: Braun,
+    role: ein fremder Schauspieler.
+    gender: m
+  - group:
+      - name: Mamsell Witzig,
+        gender: f
+      - name: Mamsell Nachtigall,
+        gender: f
+    role: Schauspielerinnen an dem Liebhabertheater.
+  - name: Mehrere Studenten.
+    isGroup: true
+    gender: m
+setting: >-
+  Der Schauplatz ist Anfangs bei Kannegießer, nachher bei Bock.
+---
 slug: anonym-das-missbindniss-oder-der-verkannte-hofmeister
 author:
   pseudonym: Anonym
@@ -3566,6 +3617,40 @@ setting: >-
   Der Schauplatz ist zu Neapel in des Don Astolfo Hause.
 location:
   wikidataId: Q2634
+---
+slug: anonym-der-aufschub
+author:
+  pseudonym: Anonym
+title: Der Aufschub
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1824
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach dramatischer Spiele für die Jugend. Augsburg: Engelbrecht 1824, S. 21–70"
+    url: https://books.google.com/books?id=nrxPAAAAcAAJ&pg=PA21
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr Frohmann,
+    role: ein reicher Partikulier.
+    gender: m
+  - group:
+      - name: Fritz,
+        gender: m
+      - name: Karl,
+        gender: m
+      - name: Albertine,
+        gender: m
+    role: seine Kinder.
+  - name: Suschen Redlich.
+    gender: f
+  - name: Martin,
+    role: ein Schuhmacher-Lehrling.
+    gender: m
+setting: >-
+  Ein Zimmer in Frohmanns Hause mit einer Seiten-Thüre, die in ein Nebengemach führt. Rechts in demselben steht ein Tisch, auf welchem Schulhefte, Bücher und Spielsachen durcheinander liegen. An der andern Seite ein Nebentisch.
 ---
 slug: anonym-der-augenarzt-ein-opfer-seiner-kunst
 author:
@@ -6936,7 +7021,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Thomas L'Affichard: »La famille. Comédie en un acte«"
+  - "Thomas L'Affichard: [»La famille. Comédie en un acte«](https://books.google.com/books?id=94IUAAAAQAAJ&pg=PA1)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 250
@@ -10330,6 +10415,46 @@ cast:
 setting: >-
   Die Vorstellung ist in dem Hauß der Frau Gertraude.
 ---
+slug: anonym-ist-er-von-familie
+author:
+  pseudonym: Anonym
+title: Ist er von Familie?
+subtitle: "Eine neue Comödie nach dem französischen Stücke: Die Familie, des Herrn l'Affichard, in einem Aufzuge"
+premiered: 1767-05-14
+formalia:
+  - Prosa
+basedOn:
+  - "Thomas L'Affichard: [»La famille. Comédie en un acte«](https://books.google.com/books?id=94IUAAAAQAAJ&pg=PA1)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 22, S. 196
+comments:
+  - Vgl. [17. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb017.html)
+    der »Hamburgischen Dramaturgie«.
+cast:
+  - name: Der Graf,
+    role: Dorantens Vater.
+    gender: m
+  - name: Dorant, unter dem Namen Lisander,
+    role: Licastens Vater.
+    gender: m
+  - name: Die Gräfin,
+    role: zwote Gemahlin des Grafen, und Melitens Mutter.
+    gender: f
+  - name: Melite,
+    role: Tochter der Gräfin aus ihrer ersten Ehe, von Licasten geliebt.
+    gender: f
+  - name: Licast.
+    gender: m
+  - name: Röschen,
+    role: Melitens Kammermägdchen.
+    gender: f
+  - name: Hännschen,
+    role: Lisanders Bedienter.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+---
 slug: anonym-julchens-heyrath
 author:
   pseudonym: Anonym
@@ -11012,6 +11137,58 @@ cast:
     gender: m
 setting: >-
   Der Schauplatz ist in dem Walde, in welchen sich Salomon nach seiner letzten Niederlage über die Donau geflüchtet hatte.
+---
+slug: anonym-saturns-geburtsfeyer
+author:
+  pseudonym: Anonym
+title: Saturns Geburtsfeyer
+subtitle: Ein allegorisches Vorspiel mit Gesängen und Tänzen in einem Aufzuge
+printed: 1791
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 271–272
+editions:
+  - title: "Leipzig: Kindel 1791"
+comments:
+  - »Die Musick zu den Gesängen ist von dem Churfürstlich-Sächsischen Capellmeister, Herrn Schuster.«
+cast:
+  - name: Saturn.
+    gender: m
+  - name: Die Hofnung,
+    role: seine Tochter.
+    gender: f
+  - name: Aeskulap.
+    role: sein Hausarzt.
+    gender: m
+  - name: Merkur.
+    gender: m
+  - name: Charon,
+    role: Bootsmann.
+    gender: m
+  - name: Erast.
+    role: ein betagter Fabrikant.
+    gender: m
+  - name: Emil.
+    role: sein Sohn, ein junger Soldat.
+    gender: m
+  - name: Innozenzie,
+    role: seine Geliebte.
+    gender: m
+  - name: Robert Fröhlich,
+    role: ein blühender, ländlicher Knabe.
+    gender: m
+  - name: Megäre,
+    role: eine betagte Dame in Fesseln.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+  - name: Theilnehmer in Chören und Tänzen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene, erst in Saturns Zimmer, dann in seinem kleinen Elysium, das ein kleiner Fluß umgiebt.
 ---
 slug: anonym-sganarells-reise-in-das-land-der-philosophen
 author:
@@ -12493,6 +12670,42 @@ cast:
     gender: f
 setting: "Schauplatz: Schneiders Zimmer mit Seitenthüren."
 ---
+slug: baeuerle-der-freund-in-der-noth
+author:
+  name: Bäuerle, Adolf
+  wikidata: Q361119
+title: Der Freund in der Noth
+subtitle: Lustspiel in einem Act
+numberOfScenes: 22
+printed: 1820
+premiered: 1818-04-22
+formalia:
+  - Prosa
+editions:
+  - title: "Komisches Theater von Adolf Bäuerle. Erster Band. Pesth: Hartleben 1820"
+    url: https://books.google.com/books?id=bGAHAAAAQAAJ&pg=RA2-PA1
+comments:
+  - "[Im Vorwort](https://books.google.com/books?id=bGAHAAAAQAAJ&pg=RA2-PA3) werden die Orte genannt, in denen das Stück aufgeführt wurde."
+cast:
+  - name: Wilmer,
+    role: ein Bürger.
+    gender: m
+  - name: Wilhelm,
+    role: sein Neffe.
+    gender: m
+  - name: Lenchen,
+    role: eine Waise, führt seine Wirthschaft.
+    gender: f
+  - name: Zweckerl,
+    role: ein armer Mehlspeismacher.
+    gender: m
+  - name: Christl,
+    role: eine schwäbische Magd.
+    gender: f
+  - name: Stiller,
+    role: ein armer Bürger.
+    gender: m
+---
 slug: baeuerle-die-gespensterfamilie
 author:
   name: Bäuerle, Adolf
@@ -12505,8 +12718,8 @@ premiered: 1820-04-14
 formalia:
   - Prosa
 editions:
-  - title: "Pesth: Hartleben 1821"
-    url: https://books.google.com/books?id=mcNRAAAAcAAJ&pg=PA1
+  - title: "Komisches Theater von Adolf Bäuerle. Dritter Band. Pesth: Hartleben 1821"
+    url: https://books.google.com/books?id=YgNFAAAAIAAJ&pg=RA1-PA1
 comments:
   - Zum ersten Mal auf dem Liebhabertheater in Leopoldstadt aufgeführt.
 keywords:
@@ -12553,6 +12766,50 @@ cast:
     isGroup: true
     gender: m
 ---
+slug: baeuerle-die-schlimme-liesel
+author:
+  name: Bäuerle, Adolf
+  wikidata: Q361119
+title: Die schlimme Liesel
+subtitle: Lustspiel in einem Act
+numberOfScenes: 20
+printed: 1826
+premiered: 1823-12-18
+formalia:
+  - Prosa
+editions:
+  - title: "Komisches Theater von Adolf Bäuerle. Sechster Band. Pesth: Hartleben 1826"
+    url: https://books.google.com/books?id=htc9AQAAMAAJ&pg=RA2-PA1
+cast:
+  - name: Runzelmann,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Elisabeth,
+    role: seine Schwester.
+    gender: f
+  - name: Christoph,
+    role: sein Bedienter.
+    gender: m
+  - name: Wirth,
+    role: ein Landkrämer.
+    gender: m
+  - name: Babett,
+    role: seine Tochter.
+    gender: f
+  - name: Rauterl,
+    role: ein Juwelier.
+    gender: m
+  - name: Winter,
+    role: Regimentsfeldscher.
+    gender: m
+  - name: Sechs Musikanten.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Stück spielt in Wien.
+location:
+  wikidataId: Q1741
+---
 slug: baeuerle-kinder-und-narren-reden-die-wahrheit
 author:
   name: Bäuerle, Adolf
@@ -12590,6 +12847,56 @@ cast:
     role: im Dienst des Obersten.
     gender: m
 setting: Die Handlung spielt in des Barons Hause.
+---
+slug: baeuerle-staberls-wiedergenesung
+author:
+  name: Bäuerle, Adolf
+  wikidata: Q361119
+title: Staberls Wiedergenesung
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 24
+printed: 1820
+premiered: 1815-09-13
+formalia:
+  - Prosa
+editions:
+  - title: "Komisches Theater von Adolf Bäuerle. Erster Band. Pesth: Hartleben 1820"
+    url: https://books.google.com/books?id=bGAHAAAAQAAJ&pg=RA5-PA1
+cast:
+  - name: Eduard Heiter,
+    role: Besitzer eines Landhauses in Herrnhals.
+    gender: m
+  - name: Friederike,
+    role: seine Tochter.
+    gender: f
+  - name: Staberl,
+    role: ein Parapluiemacher, sein Nachbar.
+    gender: m
+  - name: Ursula,
+    role: seine Frau, vorher Tandlerinn am Spittlberg.
+    gender: f
+  - name: Gustav Rieder,
+    role: ein junger Mahler, sein Miethsmann.
+    gender: m
+  - name: Jodokus Schwarzblattel,
+    role: ein verarmter Balsamfabrikant.
+    gender: m
+  - name: Peterl,
+    role: sein Sohn.
+    gender: m
+  - name: Gretchen,
+    role: Staberls Verwandte.
+    gender: f
+  - name: Joseph Redlich,
+    role: Bindermeister aus der Stadt.
+    gender: m
+  - name: Meister Toloysky,
+    role: ein Schwerfeger.
+    gender: m
+setting: >-
+  Das Stück spielt auf dem Lande, in Herrnhals unweit Wien in Staberls (Ignaz Schusters) kleinem Landhause, und währt vom frühen Morgen bis gegen Abend.
+location:
+  wikidataId: Q1741
 ---
 slug: bahr-der-glueckliche-morgen
 author:
@@ -13611,7 +13918,7 @@ printed: 1777
 formalia:
   - Prosa
 basedOn:
-  - "Thomas L'Affichard: »La famille. Comédie en un acte«"
+  - "Thomas L'Affichard: [»La famille. Comédie en un acte«](https://books.google.com/books?id=94IUAAAAQAAJ&pg=PA1)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 463–464
@@ -14058,7 +14365,7 @@ formalia:
 basedOn:
   - "Michel-Nicolas Balisson de Rougemont: [»Les parens de circonstance. Comédie en un acte, mêlée de vaudevilles«](https://books.google.com/books?id=rOSXvAEACAAJ&printsec=frontcover)"
 editions:
-  - title: "Unterhaltungen für müssige Stunden. Zum  Besten der armen Kehler und der im letzten Feldzug schwer verwundeten Bädischen Soldaten u. Landwehrmänner. Herausgegeben von Frhrn. von Biedenfeld. Erstes Bändchen. Carlsruhe: Braun 1815, S. 33–88"
+  - title: "Unterhaltungen für müssige Stunden. Zum Besten der armen Kehler und der im letzten Feldzug schwer verwundeten Bädischen Soldaten u. Landwehrmänner. Herausgegeben von Frhrn. von Biedenfeld. Erstes Bändchen. Carlsruhe: Braun 1815, S. 33–88"
     url: https://books.google.com/books?id=QrBIAAAAcAAJ&pg=PA31
 comments:
   - "Auch unter dem Titel »Die Vettern von Bagdad. Lustspiel in einem Aufzuge« ([Theaterzettel Weimar 1816](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00040103/003997.tif))."
@@ -34555,6 +34862,547 @@ cast:
 setting: >-
   Einfaches Zimmer, an dessen rechter Seite ein Pianoforte steht; auf demselben ein Körbchen mit Blumen; links ein Tisch mit einem blühenden Rosenstocke. Es ist Abend.
 ---
+slug: hoelder-beth-und-arbeit-gott-hilft-alle-zeit
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Beth' und arbeit, Gott hilft alle Zeit
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 7
+printed: 1838
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisirte Sprüchwörter zur schauspielmässigen Darstellung eingerichtet. Ein lehrreicher Spiegel für die Jugend, der sie in verschiedenen Abschnitten ihre Lebens handelnd darstellt. Von Luise Hölder. München: Jaquet 1838, S. 81–110"
+    url: https://books.google.com/books?id=I5g6AAAAcAAJ&pg=PA81
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau von Hohenau.
+    gender: f
+  - group:
+      - name: Otto,
+        gender: m
+      - name: Ottmar,
+        gender: m
+      - name: Florestine,
+        gender: f
+      - name: Luise,
+        gender: f
+    role: ihre Kinder.
+  - name: Stein,
+    role: ein Landmann.
+    gender: m
+  - name: Marie,
+    role: seine Frau.
+    gender: f
+  - group:
+      - name: Röschen,
+        gender: f
+      - name: Georg,
+        gender: m
+    role: deren Kinder.
+  - name: Ein Landhändler.
+    gender: m
+setting: >-
+  Der Schauplatz stellt eine freie Gegend vor.
+---
+slug: hoelder-das-bestrafte-verbrechen
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Das bestrafte Verbrechen
+subtitle: Schauspiel in einem Akt
+numberOfScenes: 4
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele zum Nutzen und Vergnügen der Jugend. Geeignet, in einem Zimmer oder Garten, ohne besondere Vorbereitung, aufgeführt zu werden. Von Louise Hölder. Wien: Gerold 1835, S. 155–168"
+    url: https://books.google.com/books?id=pWkHAAAAQAAJ&pg=PA155
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Karl,
+        gender: m
+      - name: Anton,
+        gender: m
+      - name: Elise,
+        gender: f
+      - name: Bertha,
+        gender: f
+    role: Geschwister.
+  - group:
+      - name: Oskar,
+        gender: m
+      - name: Emilie,
+        gender: f
+    role: ihre Freunde.
+---
+slug: hoelder-das-gespenst
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Das Gespenst
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 5
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele zum Nutzen und Vergnügen der Jugend. Geeignet, in einem Zimmer oder Garten, ohne besondere Vorbereitung, aufgeführt zu werden. Von Louise Hölder. Wien: Gerold 1835, S. 47–60"
+    url: https://books.google.com/books?id=pWkHAAAAQAAJ&pg=PA47
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau Huldreich.
+    gender: f
+  - group:
+      - name: Marie,
+        gender: f
+      - name: Julchen,
+        gender: f
+    role: ihre Kinder.
+  - group:
+      - name: Karl,
+        gender: m
+      - name: Rieckchen,
+        gender: f
+    role: Bekannte des Hauses.
+setting: >-
+  Ein Kinderzimmer. Verschiedenes Puppengeräthe liegt umher.
+---
+slug: hoelder-der-schwarzkuenstler
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Der Schwarzkünstler
+subtitle: Schauspiel in einem Akt
+numberOfScenes: 18
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele zum Nutzen und Vergnügen der Jugend. Geeignet, in einem Zimmer oder Garten, ohne besondere Vorbereitung, aufgeführt zu werden. Von Louise Hölder. Wien: Gerold 1835, S. 169–208"
+    url: https://books.google.com/books?id=pWkHAAAAQAAJ&pg=PA169
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau von Richard.
+    gender: f
+  - group:
+      - name: Gustav,
+        gender: m
+      - name: Klärchen,
+        gender: f
+    role: ihre Kinder.
+  - group:
+      - name: Robert,
+        gender: m
+      - name: Heinrich,
+        gender: m
+      - name: Emma,
+        gender: f
+      - name: Julchen,
+        gender: f
+    role: deren Gespielen.
+  - name: Georg,
+    role: Gärtner im Richard'schen Hause.
+    gender: m
+  - name: Hannchen,
+    role: Stubenmädchen daselbst.
+    gender: f
+setting: >-
+  Ein Gartensaal. Stühle stehen unordentlich um einen Tisch, auf welchem Karten, Schaumünzen und Würfel bunt durch einander liegen.
+---
+slug: hoelder-die-arbeitsamen-kinder
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Die arbeitsamen Kinder
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 7
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele zum Nutzen und Vergnügen der Jugend. Geeignet, in einem Zimmer oder Garten, ohne besondere Vorbereitung, aufgeführt zu werden. Von Louise Hölder. Wien: Gerold 1835, S. 61–84"
+    url: https://books.google.com/books?id=pWkHAAAAQAAJ&pg=PA61
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau von Hold.
+    gender: f
+  - group:
+      - name: Louise,
+        gender: f
+      - name: Therese.
+        gender: f
+      - name: Florentine,
+        gender: f
+    role: ihre Töchter.
+  - name: Delphine,
+    role: deren Gespielin.
+    gender: f
+  - name: Justine,
+    role: eine arme Frau.
+    gender: f
+  - group:
+      - name: Lieschen,
+        gender: f
+      - name: Gretchen,
+        gender: f
+    role: ihr Kinder.
+setting: >-
+  Ein Zimmer im Hause der Frau v. Hold.
+---
+slug: hoelder-die-bestraften-wildfaenge
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Die bestraften Wildfänge
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 4
+printed: 1821
+formalia:
+  - Prosa
+editions:
+  - title: "Neues Kinder-Theater zur Unterhaltung und Belehrung durch Beispiele von Luise Hölder. Erstes Bändchen. Nürnberg: Bauer und Rapse 1821, S. 49–86"
+    url: https://books.google.com/books?id=AstDAQAAMAAJ&pg=PA49
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau von Rotheim.
+    gender: f
+  - group:
+      - name: Louise.
+        gender: f
+      - name: Sophie.
+        gender: f
+      - name: Caroline.
+        gender: f
+      - name: Alexander.
+        gender: m
+      - name: Otto.
+        gender: m
+      - name: Anton.
+        gender: m
+    role: Geschwister.
+  - group:
+      - name: Agnese.
+        gender: f
+      - name: Mathilde.
+        gender: f
+      - name: Albert.
+        gender: m
+    role: Ihre Freunde.
+setting: >-
+  Der Schauplatz ist in einem großen Zimmer.
+---
+slug: hoelder-die-modedamen
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Die Modedamen
+subtitle: Lustspiel in einem Act
+numberOfScenes: 8
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele zum Nutzen und Vergnügen der Jugend. Geeignet, in einem Zimmer oder Garten, ohne besondere Vorbereitung, aufgeführt zu werden. Von Louise Hölder. Wien: Gerold 1835, S. 29–46"
+    url: https://books.google.com/books?id=pWkHAAAAQAAJ&pg=PA29
+keywords:
+  - Kindertheater
+cast:
+  - name: Aurora.
+    gender: f
+  - name: Antonie.
+    gender: f
+  - name: Julius.
+    gender: m
+  - name: Hulda,
+    role: Aurora's Freundin.
+    gender: f
+setting: >-
+  Ein Wohnzimmer.
+---
+slug: hoelder-die-morgenstunde-hat-gold-im-munde
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Die Morgenstunde / Hat Gold im Munde
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 8
+printed: 1838
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisirte Sprüchwörter zur schauspielmässigen Darstellung eingerichtet. Ein lehrreicher Spiegel für die Jugend, der sie in verschiedenen Abschnitten ihre Lebens handelnd darstellt. Von Luise Hölder. München: Jaquet 1838, S. 255–276"
+    url: https://books.google.com/books?id=I5g6AAAAcAAJ&pg=PA255
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau von Rosenau.
+    gender: f
+  - group:
+      - name: Albert,
+        gender: m
+      - name: Alexander,
+        gender: m
+      - name: Klärchen,
+        gender: f
+      - name: Auguste,
+        gender: f
+      - name: Jettchen,
+        gender: f
+    role: Kinder der Frau von Rosenau.
+  - group:
+      - name: Mathilde,
+        gender: f
+      - name: Elise,
+        gender: f
+    role: ihre Freundinnen.
+  - name: Hannchen,
+    role: Dienstmädchen.
+    gender: f
+setting: >-
+  Ein Wohnzimmer im Hause der Frau von Rosenau.
+---
+slug: hoelder-die-neugierige-pauline
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Die neugierige Pauline
+subtitle: Schauspiel in einem Akt
+numberOfScenes: 17
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele zum Nutzen und Vergnügen der Jugend. Geeignet, in einem Zimmer oder Garten, ohne besondere Vorbereitung, aufgeführt zu werden. Von Louise Hölder. Wien: Gerold 1835, S. 105–132"
+    url: https://books.google.com/books?id=pWkHAAAAQAAJ&pg=PA105
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau von List.
+    gender: f
+  - group:
+      - name: Anton,
+        gender: m
+      - name: Pauline,
+        gender: f
+    role: ihre Kinder.
+  - name: Ernst,
+    role: Neffe der Fr. v. List.
+    gender: m
+  - name: Justine,
+    role: Paulinens Aufseherin.
+    gender: f
+  - name: Jakob,
+    role: ein Bedienter.
+    gender: m
+setting: >-
+  Ein Wohnzimmer im Hause der Frau v. List. Zur Seite ein behangener Tisch.
+---
+slug: hoelder-die-versaeumte-lustreise
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Die versäumte Lustreise
+subtitle: Schauspiel in einem Akt
+numberOfScenes: 9
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele zum Nutzen und Vergnügen der Jugend. Geeignet, in einem Zimmer oder Garten, ohne besondere Vorbereitung, aufgeführt zu werden. Von Louise Hölder. Wien: Gerold 1835, S. 239–254"
+    url: https://books.google.com/books?id=pWkHAAAAQAAJ&pg=PA239
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau von Lehrbach,
+    role: Erzieherin.
+    gender: f
+  - group:
+      - name: Elise,
+        gender: f
+      - name: Korinne,
+        gender: f
+      - name: Marie,
+        gender: f
+      - name: Ferdinand,
+        gender: m
+    role: ihre Zöglinge.
+  - name: Johann,
+    role: ein Diener.
+    gender: m
+setting: >-
+  Ein Wohnzimmer.
+---
+slug: hoelder-was-der-mensch-werth-ist-widerfaehrt-ihm
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: "Was der Mensch werth ist, widerfährt ihm. Oder: Es ist nichts so klar gesponnen, / Es kommt doch endlich an die Sonnen"
+subtitle: Schauspiel in einem Akt
+numberOfScenes: 29
+printed: 1838
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisirte Sprüchwörter zur schauspielmässigen Darstellung eingerichtet. Ein lehrreicher Spiegel für die Jugend, der sie in verschiedenen Abschnitten ihre Lebens handelnd darstellt. Von Luise Hölder. München: Jaquet 1838, S. 39–80"
+    url: https://books.google.com/books?id=I5g6AAAAcAAJ&pg=PA39
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau von Solm.
+    gender: f
+  - group:
+      - name: Käthchen,
+        gender: f
+      - name: Therese,
+        gender: f
+      - name: Mathilde,
+        gender: f
+      - name: Leopold,
+        gender: m
+    role: ihre Kinder.
+  - name: Thekla,
+    role: Mathildens Freundin.
+    gender: f
+  - name: Julie,
+    role: Käthchens Vertraute.
+    gender: f
+  - name: Georg,
+    role: Sohn des Gärtners.
+    gender: m
+  - group:
+      - name: Augustin,
+        gender: m
+      - name: Toni,
+        gender: m
+    role: Bettelsänger.
+---
+slug: hoelder-was-man-in-frueher-jugend-treibt-auch-spaeter-gerne-hangen-bleibt
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Was man in früher Jugend treibt / Auch später gerne hangen bleibt
+subtitle: Schauspiel in einem Akt. Fortsetzung. Nach einem Zeitraum von vier Jahren
+numberOfScenes: 17
+printed: 1838
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisirte Sprüchwörter zur schauspielmässigen Darstellung eingerichtet. Ein lehrreicher Spiegel für die Jugend, der sie in verschiedenen Abschnitten ihre Lebens handelnd darstellt. Von Luise Hölder. München: Jaquet 1838, S. 277–306"
+    url: https://books.google.com/books?id=I5g6AAAAcAAJ&pg=PA277
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Alexander,
+        gender: m
+      - name: Albert,
+        gender: m
+      - name: Klärchen,
+        gender: f
+      - name: Auguste,
+        gender: f
+      - name: Jettchen,
+        gender: f
+    role: Kinder der Frau von Rosenau.
+  - name: Mathilde,
+    role: deren Freundin.
+    gender: f
+  - name: Elise,
+    role: Mathildens Schwester.
+    gender: f
+---
+slug: hoelder-wer-hoch-steht-der-sehe-wohl-zu-dass-er-nicht-falle
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Wer hoch steht, der sehe wohl zu, dass er nicht falle
+subtitle: Schauspiel in einem Akt. (Fortsetzung.)
+numberOfScenes: 22
+printed: 1838
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisirte Sprüchwörter zur schauspielmässigen Darstellung eingerichtet. Ein lehrreicher Spiegel für die Jugend, der sie in verschiedenen Abschnitten ihre Lebens handelnd darstellt. Von Luise Hölder. München: Jaquet 1838, S. 111–154"
+    url: https://books.google.com/books?id=I5g6AAAAcAAJ&pg=PA111
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau von Hohenau.
+    gender: f
+  - group:
+      - name: Ottmar,
+        gender: m
+      - name: Luise,
+        gender: f
+      - name: Florestine,
+        gender: f
+      - name: Otto,
+        gender: m
+    role: ihre Kinder.
+  - group:
+      - name: Adolph,
+        gender: m
+      - name: Alexandrine,
+        gender: f
+      - name: Herrmann,
+        gender: m
+    role: Freunde der jungen Hohenau.
+  - group:
+      - name: Eugen,
+        gender: m
+      - name: Bertha,
+        gender: f
+    role: Kinder der Frau von Erlach.
+  - name: Röschen Stein,
+    role: Dienstmädchen bei Frau v. Hohenau.
+    gender: f
+---
+slug: hoelder-zuerst-gethan-hernach-bedacht-hat-manchen-in-gross-leid-gebracht
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Zuerst gethan, hernach bedacht, / Hat Manchen in gross Leid gebracht
+subtitle: Vorspiel in einem Akt. Fortsetzung
+numberOfScenes: 5
+printed: 1838
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisirte Sprüchwörter zur schauspielmässigen Darstellung eingerichtet. Ein lehrreicher Spiegel für die Jugend, der sie in verschiedenen Abschnitten ihre Lebens handelnd darstellt. Von Luise Hölder. München: Jaquet 1838, S. 307–318"
+    url: https://books.google.com/books?id=I5g6AAAAcAAJ&pg=PA307
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Alexander,
+        gender: m
+      - name: Albert,
+        gender: m
+      - name: Auguste,
+        gender: f
+      - name: Klärchen,
+        gender: f
+      - name: Jettchen,
+        gender: f
+    role: Geschwister.
+  - group:
+      - name: Mathilde,
+        gender: f
+      - name: Elise,
+        gender: f
+    role: deren Freundinnen.
+setting: >-
+  Ein Vorzimmer in Frau von Rosenaus Hause.
+---
 slug: hoffmann-das-lotterieloos
 author:
   name: Hoffmann, Eduard Johann Christoph
@@ -34656,6 +35504,33 @@ cast:
     gender: f
 setting: >-
   Das Theater stellt eine Straße vor, an einer Seite steht das Haus der Rosette. (Die Handlung fängt Abends an und dauert bis in die Nacht.)
+---
+slug: hoffmann-thaliens-ruekkehr-zu-ihren-lieben
+author:
+  name: Hoffmann, Leopold Alois
+  wikidata: Q23726779
+title: Thaliens Rükkehr Zu Ihren Lieben
+subtitle: Ein Prolog mit Musik in einem Aufzug. Bey Gelegenheit der Wiedereröffnung des Königl. Nationaltheaters in Prag den 26 Decemb. 1786
+printed: 1786
+premiered: 1786-12-26
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 416
+editions:
+  - title: "Prag: Diesbach 1786"
+cast:
+  - name: Jupiter,
+    role: der Vater der Götter.
+    gender: m
+  - name: Thalie,
+    role: die Muse der Schauspielkunst.
+    gender: f
+  - name: Der Genius von Prag.
+    gender: u
+setting: >-
+  Die Scene ist ein dunkler Hain von Eichen, Tannen, und anderen Bäumen dicht verwachsen, rechts ein in die Scene sich hinein ergiessender Strom, links eine Felsen Anhöhe, es ist Mondenschein. Thalie liegt an einer Stuffe dieser Felsen Anhöhe in tiefem schlummer, an ihrer Seite liegt die Maske, und der Hohlspiegel.
 ---
 slug: hoffmann-wie-doch-die-zeit-vergeht
 author:
@@ -45390,7 +46265,7 @@ printed: 1811
 formalia:
   - Prosa
 basedOn:
-  - Jean-François Collin d'Harleville
+  - "Jean-François Collin d'Harleville: [»Monsieur de Crac dans son petit castel, ou Les gascons. Comédie en un acte en vers, avec un vaudeville et un divertissement«](https://books.google.com/books?id=b3NXAAAAcAAJ&printsec=frontcover)"
 editions:
   - title: "Almanach Dramatischer Spiele für Gesellschaftstheater. Wien und Triest: Geistinger 1811, S. 107–154"
     url: https://books.google.com/books?id=VTJJAAAAcAAJ&pg=PA107
@@ -50383,13 +51258,21 @@ title: "Die neue Gurli oder: Die Prophezeiung"
 subtitle: Lustspiel in einem Aufzuge
 numberOfScenes: 11
 printed: 1806
+premiered: 1813-11-14
 formalia:
   - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 154
 editions:
+  - title: "Eine Szene aus dem Lustspiele: Die neue Gurli, oder die Prophezeiung. [Entspricht dem 8. und 9. Auftritt.] In: Zeitung für die elegante Welt. Nr. 61 (Dienstags, den 21. May 1805), Sp. 481–484"
+    url: https://books.google.com/books?id=gz8GPAvgsnwC&pg=PA481
   - title: "Marionetten-Theater oder Sammlung lustiger und kurzweiliger Actionen für kleine und große Puppen. Leipzig: Voß 1806, S. 125–194"
     url: https://books.google.com/books?id=u5UqAAAAMAAJ&pg=PA125
 comments:
+  - "Mahlmann als Herausgeber der Sammlung von 1806 gilt gemeinhin auch als Autor dieses Stücks. Allerdings finden sich auch Hinweise darauf, dass es von Josef Alois Gleich verfasst wurde (vgl. etwa Goedeke, Band XI/2, [S. 112](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungAusDenQuellen-2-11-2/page/n124/mode/2up))."
   - "Gurli ist eine Figur aus August von Kotzebues [»Die Indianer in England«](https://dracor.org/id/ger000057) (1789)."
+  - "Hinweis in der Fußnote zum Teilabdruck in der »Zeitung für die elegante Welt«: »Es hat nur einen Akt, und eignet sich daher zu einem Nachspiele.« ([Sp. 481](https://books.google.com/books?id=gz8GPAvgsnwC&pg=PA481))"
 keywords:
   - Marionettentheater
   - Puppentheater
@@ -51242,6 +52125,43 @@ cast:
   - name: Heinrich,
     role: dessen Bedienter.
     gender: m
+---
+slug: mauricio-der-raub-der-sabinnerinnen
+author:
+  name: Mauricio
+title: Der Raub der Sabinnerinnen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1820
+formalia:
+  - Prosa
+editions:
+  - title: "Original-Theater für das Jahr 1820. Zusammengetragen von mehrern dramatischen Dichtern. Erster Band. Augsburg und Leipzig: Jenisch und Stage [1820], S. 177–220"
+    url: https://books.google.com/books?id=aSU7AAAAcAAJ&pg=PA177
+cast:
+  - name: Oberbaurath von Weis.
+    gender: m
+  - name: Frau von Pirnbach,
+    role: dessen Schwester.
+    gender: f
+  - name: Sabine,
+    role: ihre Tochter.
+    gender: f
+  - name: Auguste Wagner,
+    role: Sabinens Freundin.
+    gender: f
+  - group:
+      - name: Husaren-Lieutenant von Rainfild
+        gender: m
+      - name: Justiz-Commissär Bender
+        gender: m
+    role: Universitäts-Freunde.
+  - name: Baron von Hamstern.
+    gender: m
+  - name: Ein junger Savoyarde.
+    gender: m
+setting: >-
+  Schreibstube des Justiz-Commissärs Bender. Bender steht vom Tisch auf, auf dem noch zwei Lichter brennen, und packt die Akten zusammen.
 ---
 slug: mauvillon-das-kammermaedchen
 author:
@@ -57960,6 +58880,40 @@ setting: >-
 location:
   wikidataId: Q4345530
 ---
+slug: putlitz-seine-frau
+author:
+  name: Putlitz, Gustav zu
+  wikidata: Q1555838
+title: Seine Frau!
+subtitle: Original-Lustspiel in einem Aufzuge
+numberOfScenes: 24
+printed: 1850
+premiered: 1855-04-27
+formalia:
+  - Prosa
+editions:
+  - title: "Als Manuscript gedruckt. Berlin: Gubitz 1850"
+    url: https://books.google.com/books?id=Rf5ZpgAa1WcC&printsec=frontcover
+cast:
+  - name: Gerhard von Nordeck.
+    gender: m
+  - name: Obrist Dochfeld.
+    gender: m
+  - name: Helene.
+    gender: f
+  - group:
+      - name: Franz,
+        gender: m
+      - name: Lisette,
+        role: seine Frau.
+        gender: f
+    role: in Nordeck's Diensten.
+  - name: Erdmann,
+    role: des Obristen Diener.
+    gender: m
+setting: >-
+  Ein Zimmer in Gerhard's Schloß. Altfränkisch meublirt. Mittelthür. Rechts und links, vom Zuschauer aus angenommen, Seitenthüren. Links in der ersten Coulisse ein altmodischer Kamin, Spiegel darüber. Auf dem Gesims Cigarrenbecher u.s.w. Rechts und links im Vordergrund runde Tische auf Rollen. Auf dem Tisch rechts eine Klingel. Fauteuils u.s.w.
+---
 slug: rabenalt-die-hochzeitsreise
 author:
   name: Rabenalt, Karl Theodor
@@ -62623,6 +63577,40 @@ cast:
     gender: m
 setting: >-
   Die Szene ist eine schauerige Gegend, ein Wald voll entlaubter Bäume, mit Felsen gegattet; am Himmel hangen schwarze Wolken, die vom Sturm hin- und hergetrieben werden, nur hier und da blikt ein Stern; der Tag graut; die Witterung ist kalt und wild; in der Tiefe des Waldes ist ein Scheiterhaufen aufgerichtet, an der Seite ein Grabmal.
+---
+slug: schink-das-angebinde
+author:
+  name: Schink, Johann Friedrich
+  wikidata: Q15873118
+title: Das Angebinde
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1821
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele von Johann Friedrich Schink. Halle: Renger 1821, S. 265–327"
+    url: https://books.google.com/books?id=hW7Q0QWyYrsC&pg=PA265
+cast:
+  - name: Edler von Alpen.
+    gender: m
+  - name: Jakobine,
+    role: seine Frau.
+    gender: f
+  - name: Ulrich,
+    role: sein Sohn.
+    gender: m
+  - name: Professor von Alpen,
+    role: sein Bruder.
+    gender: m
+  - name: Karolina Grivelli,
+    role: italiänische Sängerin und Improvisatrice.
+    gender: f
+  - name: Johann,
+    role: Bedienter.
+    gender: m
+setting: >-
+  Die Handlung ereignet sich in einer großen deutschen Stadt. (Ein Saal mit einer Mittel- und Seitenthür, links ihr gegenuber, eine Vertiefung mit Vorhängen, wie ein Alkoven.)
 ---
 slug: schink-der-orang-outang
 author:
@@ -67333,6 +68321,45 @@ setting: >-
 location:
   wikidataId: Q207239
 ---
+slug: sievers-die-komische-ehe-oder-sie-werden-ihre-eigene-nebenbuhler
+author:
+  name: Sievers, Georg Ludwig Peter
+  wikidata: Q1505250
+title: "Die komische Ehe, oder: Sie werden ihre eigene Nebenbuhler"
+subtitle: Lustspiel in einem Aufzuge. Nach dem Französischen frei bearbeitet
+numberOfScenes: 18
+printed: 1802
+formalia:
+  - Prosa
+basedOn:
+  - "Pigault-Lebrun: [»Rivaux d'eux-mêmes. Comédie en un acte et en prose«](https://books.google.com/books?id=j8c7AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Leipzig: Rein 1802"
+    url: https://books.google.com/books?id=lW0yAQAAMAAJ&printsec=frontcover
+comments:
+  - "Besprechung in: Englische Miscellen. Eilfter Band. Herausgegeben von Johann Christian Hüttner. Tübingen: Cotta 1803, [unpag.](https://books.google.com/books?id=ZQxP2Ztx4IUC&pg=PT10)"
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 71 (den 23 März 1804), [Sp. 566–567](https://books.google.com/books?id=KctaAAAAcAAJ&pg=PA565)."
+cast:
+  - name: Graf von Erlach.
+    gender: m
+  - name: Die Gräfinn von Erlach,
+    role: seine Gemahlinn.
+    gender: f
+  - name: Baron von Löwen,
+    role: Freund und Reisegesellschafter des Grafen.
+    gender: m
+  - name: Lisette,
+    role: Kammerjungfer der Gräfinn.
+    gender: f
+  - name: Tipp,
+    role: Gastwirth.
+    gender: m
+  - name: Jakob,
+    role: ein alter tauber Aufwärter im Wirthshause.
+    gender: m
+setting: >-
+  Die Szene ist im Wirthshause eines Dorfs, welches nahe an der Heerstraße, drei Meilen vor der Residenz, liegt. Das Theater stellt einen gemeinschaftlichen Saal mit Nebenzimmern vor.
+---
 slug: sievers-die-schatzgraeber
 author:
   name: Sievers, Georg Ludwig Peter
@@ -67367,6 +68394,43 @@ cast:
     gender: u
 setting: >-
   Eine kurze Bauernstube.
+---
+slug: sievers-hans-von-krikkrak-oder-eine-luege-ist-der-andern-werth
+author:
+  name: Sievers, Georg Ludwig Peter
+  wikidata: Q1505250
+title: "Hans von Krikkrak, oder: Eine Lüge ist der andern werth"
+subtitle: "Posse in einem Aufzuge. Nach dem Französischen des: Monsieur de Crac dans son petit castel, ou les Gascons, par J. F. Collin-Harville frei bearbeitet"
+numberOfScenes: 26
+printed: 1802
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-François Collin d'Harleville: [»Monsieur de Crac dans son petit castel, ou Les gascons. Comédie en un acte en vers, avec un vaudeville et un divertissement«](https://books.google.com/books?id=b3NXAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Leipzig: Rein 1802"
+    url: https://books.google.com/books?id=hv5HAAAAcAAJ&printsec=frontcover
+comments:
+  - "Besprechung in: Englische Miscellen. Eilfter Band. Herausgegeben von Johann Christian Hüttner. Tübingen: Cotta 1803, [unpag.](https://books.google.com/books?id=ZQxP2Ztx4IUC&pg=PT10)"
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 71 (den 23 März 1804), [Sp. 567](https://books.google.com/books?id=KctaAAAAcAAJ&pg=PA567)."
+cast:
+  - name: Breitenbach.
+    gender: m
+  - name: Fräulein von Krikkrak.
+    gender: f
+  - name: Herr von Mengen.
+    gender: m
+  - name: Hauptmann von Habicht.
+    gender: m
+  - name: Krikkrak.
+    gender: m
+  - name: Peter.
+    gender: m
+  - name: Jaques.
+    gender: m
+  - name: Bauern.
+    isGroup: true
+    gender: m
 ---
 slug: smidt-der-findling
 author:
@@ -72514,6 +73578,40 @@ cast:
     gender: m
 setting: >-
   Die Scene ist auf Trautmanns Guthe. (Ein Zimmer.)
+---
+slug: vogel-general-moreau-oder-die-drei-gaertner
+author:
+  name: Vogel, Wilhelm
+  wikidata: Q61971934
+title: General Moreau oder die drei Gärtner
+subtitle: Ein Schauspiel in einem Akt. (Nach einer wahren, im J. 1803 vorgefallenen Anekdote.)
+numberOfScenes: 12
+printed: 1818
+premiered: 1818
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Dramatische Spiele für stehende Bühnen und Privat-Theater von Wilhelm Vogel, ehemaliger Hofschauspiel-Direktor in Karlsruhe. Aarau: Sauerländer 1818, S. 103–174"
+    url: https://books.google.com/books?id=OC9EAQAAMAAJ&pg=PA103
+comments:
+  - "Kurze Besprechung in: Leipziger Literatur-Zeitung. Nr. 131 (Am 27. des May 1819), [Sp. 1043](https://books.google.com/books?id=Pd5aAAAAcAAJ&pg=PA1043)."
+cast:
+  - name: General Moreau.
+    gender: m
+  - name: Marquis d'Alton.
+    gender: m
+  - group:
+      - name: Louis,
+        role: ein junger Gärtner,
+        gender: m
+      - name: Babet,
+        role: ein Landmädchen,
+        gender: f
+    role: in Moreau's Diensten.
+setting: >-
+  Die Szene ist auf Moreau's Gut, unfern Paris. (Ein schöner Garten, in der Tiefe ein palastähnliches Haus mit einer großen Mittelthüre, zu der man auf einigen Stufen gelangt. Das Haus nimmt die ganze Breite des Theaters ein. Vorn zu beiden Seiten Lauben, die mit Tischen und Stühlen versehen sind.)
+location:
+  wikidataId: Q90
 ---
 slug: vogel-vier-schildwachen-auf-einem-posten
 author:
@@ -79023,6 +80121,50 @@ cast:
   - name: "[Mathurin, gestrichen, stattdessen:] Hani (?)"
     role: ein Mühlpursch.
     gender: m
+---
+slug: wuerkert-die-pruefung
+author:
+  name: Würkert, Friedrich Ludwig
+  wikidata: Q1875214
+title: Die Prüfung
+subtitle: Trauerspiel in einem Act
+numberOfScenes: 11
+printed: 1821
+premiered: 1821-09-14
+formalia:
+  - Verse
+editions:
+  - title: "Dramatische Dichtungen von Friedrich Ludwig Würkert. Leipzig: Baumgärtner 1821, S. 1–46"
+    url: https://books.google.com/books?id=XleG3pWvbhwC&pg=PA1
+cast:
+  - name: Nushirvan,
+    role: König von Persien.
+    gender: m
+  - group:
+      - name: Omar,
+        gender: m
+      - name: Machmud,
+        gender: m
+    role: Veziere des Reichs.
+  - name: Ullo,
+    role: Vertrauter des Königs.
+    gender: m
+  - group:
+      - name: Zaide
+        role: (Christin),
+        gender: f
+      - name: Fatime,
+        gender: f
+    role: persische Jungfrauen.
+  - name: Ein Knabe.
+    gender: m
+  - name: Soldaten und Gefolge.
+    isGroup: true
+    gender: m
+setting: >-
+  Der Ort der Handlung ist Ispahan, ehemalige Residenzstadt Persiens.
+location:
+  wikidataId: Q42053
 ---
 slug: zabuesnig-abels-tod
 author:
