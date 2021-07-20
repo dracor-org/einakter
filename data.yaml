@@ -17538,6 +17538,45 @@ cast:
 setting: >-
   Das Theater stellet einen Garten vor. Hier und da stehen einzelne Bäume. Es ist Nacht und um 10 Uhr.
 ---
+slug: bretzner-rosemunde
+author:
+  name: Bretzner, Christoph Friedrich
+  wikidata: Q86383
+title: Rosemunde
+subtitle: Ein Melodram in Einem Akt
+numberOfScenes: 11
+printed: 1780
+premiered: 1781-07-24
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 393
+editions:
+  - title: "Litteratur- und Theater-Zeitung. Des Dritten Jahrganges Erster Theil. No. V (Berlin, den 29. Januar 1780), S. 65–79"
+    url: https://gdz.sub.uni-goettingen.de/id/PPN556490444_0003?tify={%22pages%22:[66],%22view%22:%22toc%22}
+  - title: "Brünn: Swoboda [1781]"
+    url: https://books.google.com/books?id=fLNHAAAAcAAJ&printsec=frontcover
+comments:
+  - »Die Musik von J. Ch. Kaffka.«
+cast:
+  - name: Alboin,
+    role: König der Langobarden.
+    gender: m
+  - name: Rosemunde,
+    role: Tochter Kunimunds, Königs der Gepiden.
+    gender: f
+  - name: Falisco,
+    role: Prinz, Verlobter der Rosemunde.
+    gender: m
+  - name: Der Geist von Rosemunds Vater.
+    gender: m
+  - name: Soldaten.
+    isGroup: true
+    gender: m
+setting: >-
+  Das Theater ist eine wüste Gegend; auf einer Seite Wald; auf der andern ein Fels, von welchem ein Wasserfall herunterstürzt. Rosemunde liegt an der Seite des Felsen. Es ist Nacht und Mondschein.
+---
 slug: broeckelmann-die-hautboisten
 author:
   name: Bröckelmann, Wilhelm
@@ -18280,7 +18319,7 @@ comments:
   - Bei Meyer fälschlich unter dem Titel »Die keusche Johanna«.
   - "Besprechung in: Journal aller Romane und Schauspiele. Viertes Stück. Leipzig: Schneider 1784, [S. 92–93](https://books.google.com/books?id=2zi5EmbSDjwC&pg=RA4-PA92)."
 keywords:
-  - Pornographie
+  - Pornografie
   - Vergewaltigung
   - Bibelparodie
 cast:
@@ -18333,7 +18372,7 @@ editions:
   - title: "Kanthariden. Rom bei Giovanni Tassoni (= Berlin: Himburg) 1788, S. 105–136"
     url: https://books.google.com/books?id=ygZOAAAAcAAJ&pg=RA2-PA105
 keywords:
-  - Pornographie
+  - Pornografie
   - untragischer Ausgang
 comments:
   - Die historische Figur [Valeria Messalina](https://de.wikipedia.org/wiki/Valeria_Messalina) war die dritte Frau des römische Kaisers Claudius und wird in den Quellen als Nymphomanin beschrieben.
@@ -18363,6 +18402,45 @@ cast:
     isGroup: true
     gender: m
 setting: Zimmer in Messalinens Pallast.
+---
+slug: bueschel-julus-und-rhea
+author:
+  name: Büschel, Johann Gabriel Bernhard
+  wikidata: Q23531388
+title: Julus und Rhea
+subtitle: Ein musikalisches Drama in einem Akt
+numberOfScenes: 1
+printed: 1779
+formalia:
+  - Verse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 236
+editions:
+  - title: "Strasburg 1779"
+    url: https://books.google.com/books?id=XB6qxAjg17wC&printsec=frontcover
+  - title: "Paphos: Amors Druckerey 1784"
+    url: https://books.google.com/books?id=9NpaAAAAcAAJ&printsec=frontcover
+comments:
+  - "Auch mit dem Untertitel »Ein Duodrama mit Musik« (1784)."
+keywords:
+  - Pornografie
+cast:
+  - name: Julus Askanius.
+    gender: m
+  - name: Rhea Sylvia.
+    gender: f
+  - name: Grazien.
+    isGroup: true
+    gender: f
+  - name: Nymphen.
+    isGroup: true
+    gender: f
+  - name: Genii.
+    isGroup: true
+    gender: u
+setting: >-
+  Eine einsame angenehme Gegend – im Hintergrund ein Felsen von dem das Wasser sich in einen kleinen Bach herabstürzt und eine Cascade formirt – vorn eine kleine anmuthige Grotte, in welcher Rhea liegt.
 ---
 slug: buri-der-kohlenbrenner
 author:
@@ -35825,6 +35903,36 @@ cast:
 setting: >-
   Die Handlung geschieht auf Waldheim, einem einsamen Waldschloß des Baron von Strohmburg. (Altmodisch aber reich meublirtes Zimmer. Links der allgemeine Aus- und Eingang; rechts eine Thür, die in's Innere des Schlosses führt. Ein Fortepiano, eine Elektrisirmaschine, Bücher, Musikalien, Gemälde und allerlei Kunstsachen. Im Hintergrunde zwei offene Fenster, durch welche man in den Garten sieht. Auf beiden Seiten des Vorgrundes Tisch und Stühle.)
 ---
+slug: holtei-das-akademische-erinnrungsfest
+author:
+  name: Holtei, Karl von
+  wikidata: Q66388
+title: Das akademische Erinn'rungsfest
+subtitle: Ein Vorspiel in einem Aufzuge
+numberOfScenes: 5
+printed: 1823
+premiered: 1822-11-07
+formalia:
+  - Blankvers
+editions:
+  - title: "Festspiele, Prologe und Theaterreden von Karl von Holtei. Breslau: Graß, Barth und Komp. 1823, S. 143–164"
+    url: https://books.google.com/books?id=LttJAAAAcAAJ&pg=PA143
+  - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 377–380"
+    url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA377
+comments:
+  - "Der Autor schreibt im Vorwort 1845: »An diesem kleinen Dramolet ist wohl nichts Bemerkenswerthes, als daß es in Breslau, zur Mitfeier eines Festes von dem es den Titel führt, am Abend vor dem Feste ersonnen, ausgeführt und aufs Papier geworfen, während der darauf folgenden Stunde in Rollen ausgeschrieben und vor Eintritt der Nacht vertheilt, am nächsten Morgen probirt und Abends aufgeführt wurde, wobei der Verfasser, weil Niemand seine flüchtige Handschrift zu lesen vermochte, den Soufleur machte.« (S. 377)"
+cast:
+  - name: Luise.
+    gender: f
+  - name: Der Rath,
+    role: ihr Vater.
+    gender: m
+  - name: Freimund,
+    role: Student.
+    gender: m
+  - name: Der alte Freimund.
+    gender: m
+---
 slug: holtei-der-dichter-im-versammlungszimmer-oder-das-fantastische-lustspiel
 author:
   name: Holtei, Karl von
@@ -35955,6 +36063,46 @@ cast:
 setting: >-
   Ort der Handlung: Schloß des Grafen v. Altberg. Finsterer Saal auf einem alten Bergschloße, durch eine Ampel erleuchtet. Im Vordergrunde zu beiden Seiten Sessel und Tische, worauf Armleuchter mit Kerzen.
 ---
+slug: holtei-die-koenigslinde-oder-der-dritte-august
+author:
+  name: Holtei, Karl von
+  wikidata: Q66388
+title: Die Königslinde oder der dritte August
+subtitle: Festspiel in einem Aufzuge
+numberOfScenes: 6
+printed: 1823
+premiered: 1819-08-03
+formalia:
+  - Blankvers
+editions:
+  - title: "Festspiele, Prologe und Theaterreden von Karl von Holtei. Breslau: Graß, Barth und Komp. 1823, S. 57–104"
+    url: https://books.google.com/books?id=LttJAAAAcAAJ&pg=PA57
+  - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 368–373"
+    url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA368
+comments:
+  - "Der Autor schreibt im Vorwort 1845: »Das Festspiel ›die Königslinde‹ ist der erste dramatische Versuch, mit welchem es mir gelang, auf die Bretter zu kommen.« (S. 368)"
+cast:
+  - name: Walter,
+    role: Dorfprediger.
+    gender: m
+  - name: Wilhelmine,
+    role: seine Tochter.
+    gender: f
+  - name: Fritz,
+    role: sein Sohn.
+    gender: m
+  - name: Ziegenhals,
+    role: Amtmann.
+    gender: m
+  - name: Michel,
+    role: sein Knecht.
+    gender: m
+  - name: Freiwald,
+    role: ein junger Förster.
+    gender: m
+setting: >-
+  Scene: Ein freier Platz, links im Mittelgrunde eine Pfarrwohnung mit einem Giebelfensterchen, vor derselben eine schöne kräftige Linde, unter dieser ein Tisch.
+---
 slug: holtei-margarethe
 author:
   name: Holtei, Karl von
@@ -35985,6 +36133,50 @@ cast:
     gender: f
 setting: >-
   Kleine ländliche Gegend; im Hintergrunde Weinberge. Links ein Häuschen. Im Vordergrund eine Bank.
+---
+slug: holtei-schwur-und-erfuellung
+author:
+  name: Holtei, Karl von
+  wikidata: Q66388
+title: Schwur und Erfüllung
+subtitle: Festspiel in einem Aufzuge
+numberOfScenes: 7
+printed: 1823
+premiered: 1822-08-15
+formalia:
+  - Blankvers
+editions:
+  - title: "Festspiele, Prologe und Theaterreden von Karl von Holtei. Breslau: Graß, Barth und Komp. 1823, S. 111–142"
+    url: https://books.google.com/books?id=LttJAAAAcAAJ&pg=PA111
+  - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 373–377"
+    url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA373
+comments:
+  - "Der Autor schreibt im Vorwort 1845: »Von vielen schwachen Arbeiten ist diese wohl eine der schwächsten [...].« (S. 373)"
+cast:
+  - name: Friedrich,
+    role: ein alter Förster im Rosenthale zwischen Leipzig und Merseburg.
+    gender: m
+  - name: Eleonore,
+    role: seine Frau.
+    gender: f
+  - name: Elisabeth,
+    role: ihre Tochter.
+    gender: f
+  - name: Ehrenberg,
+    role: ein Dorfschulze.
+    gender: m
+  - name: Kilian,
+    role: ein junger reicher Bauer.
+    gender: m
+  - name: Ein freiwilliger Jäger.
+    gender: m
+  - name: Vier Jäger.
+    isGroup: true
+    gender: m
+setting: >-
+  Das Stück spielt am 15. Oktober des Jahres 1813.
+location:
+  wikidataId: Q2167253
 ---
 slug: holtei-stanislaus-oder-die-wunderbare-rettung
 author:
@@ -51876,6 +52068,42 @@ cast:
   - name: Ein Lohnbedienter.
     gender: m
 setting: Das Stück spielt in einem Saale des Gasthauses zur Meerkatze.
+---
+slug: marsano-der-spessart
+author:
+  name: Marsano, Wilhelm von
+  wikidata: Q1664045
+title: Der Spessart
+subtitle: Trauerspiel in einem Act
+numberOfScenes: 8
+printed: 1825
+premiered: 1825-02-07
+formalia:
+  - Blankvers
+editions:
+  - title: "Prag: Kronberger und Weber 1825"
+    url: https://books.google.com/books?id=_Kc7AAAAcAAJ&printsec=frontcover
+comments:
+  - "Laut Goedeke folgt das Stück »den Bahnen der Schicksalsdramatiker« (Goedeke, Band III/2, [S. 853](https://books.google.com/books?id=LgY-AQAAIAAJ&pg=PA853))."
+keywords:
+  - Schicksalsdrama
+cast:
+  - name: Meyer,
+    role: Förster.
+    gender: m
+  - name: Maria,
+    role: sein Weib.
+    gender: f
+  - name: Ida,
+    role: ihre Tochter.
+    gender: f
+  - name: Walter,
+    role: Forstadjunkt auf einer benachbarten Försterei.
+    gender: m
+setting: >-
+  Die Handlung spielt im Spessart, in dem Hause des Försters. (Ländliche Stube im Forsthause. Mehrere Gewehre hängen an der Wand. Auf dem Fensterbrett stehen Blumen. Heftiges Gewitter draußen. Später Abend. Maria sitzt am Spinnrade. Ida steht am Fenster.)
+location:
+  wikidataId: Q182470
 ---
 slug: marsano-die-helden
 author:
@@ -80175,7 +80403,7 @@ subtitle: Ein Duodrama in einer Handlung nach Gäßners Erzählungen
 numberOfScenes: 6
 printed: 1779
 formalia:
-  - Prosa
+  - Blankvers
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 340–341
