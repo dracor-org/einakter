@@ -17258,6 +17258,54 @@ cast:
 setting: >-
   Die Scene ist im Garten.
 ---
+slug: brandes-ino
+author:
+  name: Brandes, Johann Christian
+  wikidata: Q112511
+title: Ino
+subtitle: Melodrama in einem Aufzuge
+numberOfScenes: 12
+created: 1777
+printed: 1779
+premiered: 1779-08-04
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 471–472
+editions:
+  - title: "Leipzig: Schwickert 1779"
+    url: https://books.google.com/books?id=gqqnZ5vuERgC&printsec=frontcover
+  - title: "[Ohne Ort: ohne Verlag] 1781"
+    url: https://books.google.com/books?id=rqcx7qS__csC&printsec=frontcover
+  - title: "Leipzig: Dyk 1790"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0000D87F00000000
+  - title: "Melodramen. Pilsen und Klattau: Morgensäuler 1791, S. 75–107"
+    url: https://books.google.com/books?id=myN_F21a1rYC&pg=PA75
+ids:
+  dracor: ger000177
+  wikidata: Q52087857
+cast:
+  - name: Ino,
+    role: Tochter des Kadmus, Königs in Theben.
+    gender: f
+  - name: Athamas,
+    role: deren Gemahl, König der Orchomenier.
+    gender: m
+  - group:
+      - name: Learch,
+        gender: m
+      - name: Melicert,
+        gender: m
+    role: deren Söhne.
+  - name: Juno.
+    gender: f
+  - name: Nereiden und Tritonen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist ein Theil des molurischen Felsen.
+---
 slug: braun-die-herrlichkeit-im-traume-oder-der-lyrant-als-fuerst
 author:
   name: Braun, Johann Adam
@@ -18765,6 +18813,37 @@ cast:
     gender: m
 setting: >-
   Die Handlung spielt auf Plins Landgute, drey Meilen von der Hauptstadt. (Die Bühne stellt einen zierlichen Gartensalon vor, von allen Seiten offen. Man sieht durch diese Oeffnung in den Garten.)
+---
+slug: castelli-der-diener-seines-nebenbuhlers
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Der Diener seines Nebenbuhlers
+subtitle: Lustspiel in einem Act
+numberOfScenes: 23
+printed: 1820
+premiered: 1820
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1820. Von I. F. Castelli. Fünfter Jahrgang. Wien: Wallishausser [1820], S. 223–269"
+cast:
+  - name: Baron v. Bornstorf.
+    gender: m
+  - name: Rosalie,
+    role: seine Tochter.
+    gender: f
+  - name: Oberst v. Pfahlen.
+    gender: m
+  - name: Rittmeister v. Horstig.
+    gender: m
+  - name: Franz,
+    role: Diener bey Bornstorf.
+    gender: m
+  - name: Ein Gerichtskommissär.
+    gender: m
+setting: >-
+  Die Scene ist in einer Provinzstadt. (Die Bühne stellt einen Saal mit einer Mittel- und zwey Seitenthüren vor. Durch die Mittelthüre sieht man in den Garten.)
 ---
 slug: castelli-der-ehemann-als-liebhaber-oder-der-liebhaber-als-ehemann
 author:
@@ -56003,6 +56082,34 @@ cast:
 setting: >-
   Eine sehr einfache Stube, mit einer Seitenthüre und einem Fenster. Beinahe in der Mitte ein Tisch, worauf ein Messing-Leuchter und eine Rumflasche mit einem Stückchen Licht, ein Punschnapf und einige Gläser, ein altes Schreibzeug und einige Spielkarten. Am Tische ein Bett. Zwei alte Rohrstühle, Hieber, Rappiere, Fecht-Handschuh und einige lange Pfeifen stehen unordentlich umher oder hängen an der Wand. Rechts an der Wand hängt Wahlbachs Mantel und Hut, sein Rock über einen Stuhl.
 ---
+slug: nesselrode-dirimel-und-laura
+author:
+  name: Nesselrode zu Hugenboett, F. G. von
+  wikidata: Q60843635
+title: Dirimel und Laura
+subtitle: Ein Melodram in einem Aufzug
+numberOfScenes: 3
+printed: 1784
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 117–118
+editions:
+  - title: "München: Strobl 1784"
+    url: https://books.google.com/books?id=FNg6AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Dirimel.
+    gender: m
+  - name: Laura.
+    gender: f
+  - name: Cäsar,
+    role: Laurens Vater.
+    gender: m
+  - name: Mariane,
+    role: Dirimels Schwester.
+    gender: f
+---
 slug: nestroy-judith-und-holofernes
 author:
   name: Nestroy, Johann
@@ -68256,6 +68363,51 @@ cast:
 setting: >-
   Das Theater ist der Länge nach getheilt. Rechts auf der Bühne das Attelier des Bildhauers, worin mehrere Büsten und Statüen zerstreut herumstehen, ganz nach vorn ein großer Schrank; im Hintergrunde eine Thür, welche nach dem Innern des Hauses führt, in der Seitenwand links eine Glasthüre zum allgemeinen Ausgang mit einem Vorhange und praktikabeln Fenster. Das Entree links hat ebenfalls eine Seitenthüre und eine Thür im Hintergrunde, die auf die Straße führt.
 ---
+slug: seipp-die-tobacksdose
+author:
+  name: Seipp, Christoph
+  wikidata: Q60838146
+title: Die Tobacksdose
+subtitle: Eine Anekdote fürs Theater
+numberOfScenes: 9
+printed: 1780
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 480, Band 28, S. 198–199, und Band 30, S. 35 und S. 200
+editions:
+  - title: "[Innsbruck:] Wagner 1780"
+    url: https://books.google.com/books?id=Q1ZZAAAAcAAJ&printsec=frontcover
+  - title: "Potsdam 1781"
+    url: https://books.google.com/books?id=Ml42r9mdGDQC&printsec=frontcover
+  - title: "Ein Bändchen Theaterstückchen zu betrachten als eine Zugabe zu den Hauptstücken der Ostermesse 1787. Preßburg: Mahler 1787, S. 63–100"
+    url: https://books.google.com/books?id=Vp6eNk3d0msC&pg=PA63
+comments:
+  - Auch unter den Titeln »Die Tobacksdose, oder Die Leberwurst. Lustspiel, in einem Aufzuge« (Frankfurt am Main 1782), »Die Tabaksdose, oder Das Point d'Honneur. Anekdote für das Theater in 1 Akt« (Luzern 1787) und »Die Tabaksdose. Lustspiel in 1 A.« (Mannheim 1788).
+cast:
+  - name: Obrist St. Oreil.
+    gender: m
+  - name: Sophie,
+    role: seine Tochter.
+    gender: f
+  - name: Madame Pleincoeur.
+    gender: f
+  - name: Karl,
+    role: Lieutenant, ihr ältrer Sohn.
+    gender: m
+  - name: Luise,
+    role: ihre Tochter.
+    gender: f
+  - name: Anton,
+    role: ihr jüngrer Sohn.
+    gender: m
+  - name: Gäste des Obristen beyderley Geschlechts.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung geht vor in einer kleinen französischen Vestung.
+---
 slug: sessa-die-luftschiffer
 author:
   name: Sessa, Karl Borromäus Alexander
@@ -73221,6 +73373,62 @@ setting: >-
   Das Theater stellet einen durchaus mit aller Pracht ausgezierten Hochzeitsaal
   vor, in der Mitte steht eine herrliche bedekte Tafel, an welcher die Götter,
   Peleus und Thetis sitzen.
+---
+slug: uno-die-pappeln
+author:
+  pseudonym: Uno
+  wikidata: Q107650718
+title: Die Pappeln
+subtitle: Lustspiel in einem Act
+numberOfScenes: 10
+printed: 1824
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dramatische Beiträge von Uno. Erstes Bändchen. Leipzig: Herbig 1824, S. 185–266"
+cast:
+  - name: Tobias Klee,
+    role: Großhändler.
+    gender: m
+  - name: Julius,
+    role: dessen Sohn.
+    gender: m
+  - name: Tritonius,
+    role: Professor.
+    gender: m
+  - name: Clara,
+    role: dessen Tochter.
+    gender: f
+  - name: Specks,
+    role: Advocat.
+    gender: m
+setting: >-
+  Garten, zu zwey Häusern gehörig, von denen man die Hintergebäude sieht, deren Thüren in den Garten führen. Den Häusern gegenüber, sieht man zum Theil einen großen Apfelbaum.
+---
+slug: uno-freund-sturm
+author:
+  pseudonym: Uno
+  wikidata: Q107650718
+title: Freund Sturm
+subtitle: Dramatische Kleinigkeit in einem Act
+numberOfScenes: 8
+printed: 1824
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Beiträge von Uno. Erstes Bändchen. Leipzig: Herbig 1824, S. 267–326"
+cast:
+  - name: Carl von Freudenberg.
+    gender: m
+  - name: Amalie,
+    role: dessen Gattin.
+    gender: f
+  - name: Ein Bothe.
+    gender: m
+  - name: Ein Gärtner.
+    gender: m
+setting: >-
+  Das Theater stellt einen geschmackvollen Gartensalon vor, durch dessen geöffnete Thüren man in die Anlagen des Gartens sieht.
 ---
 slug: vaders-das-examen
 author:
