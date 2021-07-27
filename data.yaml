@@ -18986,6 +18986,91 @@ cast:
     gender: f
 setting: Die Scene ist auf dem Lande. (Die Bühne stellt ein Dorf vor.)
 ---
+slug: castelli-der-rasttag
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Der Rasttag
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen des Bouilly
+numberOfScenes: 16
+printed: 1818
+premiered: 1818-11-19
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Nicolas Bouilly: [»Le séjour militaire. Opéra-comique en un acte«](https://gallica.bnf.fr/ark:/12148/btv1b10071114r/f2.item)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1818. Von I. F. Castelli. Dritter Jahrgang. Wien: Wallishausser [1818], S. 83–144"
+cast:
+  - name: Baron von Saint-Eugene,
+    role: Oberst des neunten Dragoner-Regiments.
+    gender: m
+  - name: Doricourt,
+    role: Kapitän des neunten Dragoner-Regiments.
+    gender: m
+  - group:
+      - name: Desparmont,
+        gender: m
+      - name: Dorainval,
+        gender: m
+    role: Lieutenants des neunten Dragoner-Regiments.
+  - group:
+      - name: Courville,
+        gender: m
+      - name: Duvallon,
+        gender: m
+    role: Unter-Lieutenants des neunten Dragoner-Regiments.
+  - name: Emma,
+    role: Doricourts Gemahlinn.
+    gender: f
+  - name: Frau Polz,
+    role: eine junge deutsche Wittwe, Wirthinn.
+    gender: f
+  - name: Florian,
+    role: ihr Oberkellner.
+    gender: m
+  - name: Ein Postillon.
+    gender: m
+  - name: Mehrere Aufwärter.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung geht in dem Städtchen Saverne, 10 Meilen von Straßburg vor. (Die Bühne stellt einen Wirthshaus-Saal vor, von welchem mehrere Thüren in Nebengemächer führen. Zur Linken des Zusehers ist eine Glasthüre mit einem seidenen Vorhang. Im Saale selbst liegen mehrere Tornister und Mantelsäcke, auf welchen man Nro. 9 erblickt; verschiedene Instrumente-Futterale, Degen, Säbel, Mäntel, Rappire u.s.w. umher. In der Mitte des Saals steht ein halbrunder Tisch, und auf demselben Wein und verschiedene kalte Speisen.)
+location:
+  wikidataId: Q22741
+---
+slug: castelli-der-sie
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Der Sie
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 21
+printed: 1818
+premiered: 1818-06-18
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1818. Von I. F. Castelli. Dritter Jahrgang. Wien: Wallishausser [1818], S. 261–316"
+cast:
+  - name: Frau v. Lahn.
+    gender: f
+  - name: Brigitte,
+    role: ihre Tochter.
+    gender: f
+  - name: Herr v. Anker.
+    gender: m
+  - name: Julius,
+    role: sein Sohn.
+    gender: m
+  - name: Spitz,
+    role: dessen Diener.
+    gender: m
+  - name: Johann.
+    gender: m
+setting: >-
+  Die Handlung spielt in einem Gasthofe in der Hauptstadt.
+---
 slug: castelli-der-soldat-ganz-allein
 author:
   name: Castelli, Ignaz Franz
@@ -19043,6 +19128,37 @@ cast:
   - name: Frau Ursula.
     gender: f
 setting: Die Scene ist 4 Meilen von der Hauptstadt.
+---
+slug: castelli-die-beyden-ehen
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Die beyden Ehen
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen des Etienne
+numberOfScenes: 20
+printed: 1818
+premiered: 1827-11-24
+formalia:
+  - Prosa
+basedOn:
+  - "Charles-Guillaume Étienne: [»Les deux maris. Opéra-comique en un acte«](https://books.google.com/books?id=BWBoAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1818. Von I. F. Castelli. Dritter Jahrgang. Wien: Wallishausser [1818], S. 145–192"
+cast:
+  - name: Drohm.
+    gender: m
+  - name: Sophie,
+    role: seine Frau.
+    gender: f
+  - name: Meller.
+    gender: m
+  - name: Marie,
+    role: seine Frau.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Scene spielt bey Drohm.
 ---
 slug: castelli-die-ehemaenner-als-junggesellen
 author:
