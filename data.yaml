@@ -1153,6 +1153,42 @@ setting: >-
 location:
   wikidataId: Q1726
 ---
+slug: angely-der-zweikampf-im-dritten-stock
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: Der Zweikampf im dritten Stock
+subtitle: Posse in 1 Akt nach dem Französischen von Angely (Manuscript)
+premiered: 1832-10-02
+comments:
+  - "Vermutlich ungedruckt. Alternative Titel: »Das Duell« (Aufführung Berlin 1832), »Ein Zweikampf« (Aufführung Wien 1856), »Das Duell im dritten Stock« (Aufführung Weimar 1858)."
+  - "[Theaterzettel Oldenburg 1834](https://digital.lb-oldenburg.de/ihd/periodical/pageview/398902)"
+  - "Besprechung in: Der Sammler. Ein Unterhaltungsblatt für alle Stände. No. 126 (Wien, Montag den 8. August 1842), [S. 525](https://books.google.com/books?id=yz5qjns4-doC&pg=PA525)."
+cast:
+  - name: Sebastian Krümel,
+    role: Registrator.
+    gender: m
+  - name: Sein Frau.
+    gender: f
+  - name: Caroline,
+    role: seine Tochter.
+    gender: f
+  - name: Julius Karl,
+    role: deren Liebhaber, Supernumerarius.
+    gender: m
+  - name: Amandus H***
+    role: aus der Provinz.
+    gender: m
+  - name: Ludwig,
+    role: ein Knabe.
+    gender: m
+  - name: Ein Hausknecht.
+    gender: m
+setting: >-
+  Scene: Belin, Krümmels Wohnung.
+location:
+  wikidataId: Q64
+---
 slug: angely-die-beiden-eifersuechtigen
 author:
   name: Angely, Louis
@@ -9164,6 +9200,47 @@ cast:
   - name: Adam,
     role: ein Bedienter.
     gender: m
+---
+slug: anonym-die-unbedachtsahme-verbindung
+author:
+  pseudonym: Anonym
+title: Die Unbedachtsahme Verbindung
+subtitle: Ein Lust-Spiehl von einer Handlung. Aus dem Französischen des Herrn Devaux
+numberOfScenes: 24
+created: 1753
+premiered: 1754
+formalia:
+  - Prosa
+basedOn:
+  - "François-Antoine Devaux: [»Les engagements indiscrets. Comédie en un acte et en prose«](https://books.google.com/books?id=oyxMAAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 17, S. 119–120
+comments:
+  - "Manuskript im ›Nachlass Conrad Ekhof‹ der Forschungsbibliothek Gotha, Signatur: [Chart. B 1654](http://kalliope-verbund.info/DE-611-HS-3410561)."
+cast:
+  - name: Araminte,
+    role: Muhme der Gräfin.
+    gender: f
+  - name: die Gräfin,
+    role: LiebHaberin des Valere.
+    gender: f
+  - name: Dorante,
+    role: Ohheim des Valere.
+    gender: m
+  - name: Valere,
+    role: Liebhaber der Gräfin.
+    gender: m
+  - name: Finette,
+    role: Bediente der Gräfin.
+    gender: f
+  - name: Frontin,
+    role: Bedienter des Dorante.
+    gender: m
+setting: >-
+  Der Schau Platz ist zu Paris in Frau Araminte Hause.
+location:
+  wikidataId: Q90
 ---
 slug: anonym-die-unbesonnenheit
 author:
@@ -18737,6 +18814,41 @@ cast:
 setting: >-
   Die Bühne ist in der Mitte getheilt, und stellt zwey ärmliche Zimmer vor, welche durch eine Thüre Communikation haben. Zur Linken ist Kohls Zimmer, in welchen ein Tisch und ein paar Stühle stehen, rechts Links Zimmer, worinn auch ein Tisch, ein Piano-Forte, und zwey Stühle sich befinden.
 ---
+slug: castelli-das-kammermaedchen
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Das Kammermädchen
+subtitle: Lustspiel in einem Act. Frey nach Longchamps
+numberOfScenes: 21
+printed: 1820
+premiered: 1820-08-20
+formalia:
+  - Prosa
+basedOn:
+  - Charles de Longchamps
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1820. Von I. F. Castelli. Fünfter Jahrgang. Wien: Wallishausser [1820], S. 165–222"
+cast:
+  - name: Herr v. Brank,
+    role: Onkel und Vormund der
+    gender: m
+  - group:
+      - name: Julie und
+        gender: f
+      - name: Jenny
+        gender: f
+    role: Schwestern.
+  - name: Brause.
+    gender: m
+  - name: Waller.
+    gender: m
+  - name: Max,
+    role: Brank's Pathe und Brause's Diener.
+    gender: m
+setting: >-
+  Die Handlung spielt auf Brank's Landgute, eine [M]eile von der Hauptstadt. (Die Bühne stellt einen Theil eines Parks vor. Im Hintergrunde ein Schloß. Zur Linken, im Vordergrunde, ein dichtes Bosquett, zur Rechten eine Gruppe von Bäumen.)
+---
 slug: castelli-der-alte-juengling
 author:
   name: Castelli, Ignaz Franz
@@ -18948,6 +19060,49 @@ cast:
     gender: m
 setting: Die Handlung geschieht auf dem Landgute des Herrn von Lieven.
 ---
+slug: castelli-der-einsiedler-im-lerchenwalde-oder-die-geheimnissvolle-laube
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: "Der Einsiedler im Lerchenwalde, oder: Die geheimnißvolle Laube"
+subtitle: Lustspiel in einem Acte. Nach einem französischen Vaudeville der Herren Theaulon und Capelle
+numberOfScenes: 18
+printed: 1821
+premiered: 1820-12-29
+formalia:
+  - Prosa
+basedOn:
+  - "Emmanuel Théaulon und Pierre Capelle: [»L'ermite de Saint-Avelle, ou Le berceau mystérieux. Vaudeville en un acte«](https://books.google.com/books?id=A-pKAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1821. Von I. F. Castelli. Sechster Jahrgang. Wien: Wallishausser [1821], S. 213–266"
+comments:
+  - "Besprechung in: Dramaturgische Blätter für Hamburg. No. 44. Hamburg: Hoffmann und Campe 1821, [S. 358](https://books.google.com/books?id=E8Zk3Nm_hkcC&pg=PA358)."
+cast:
+  - name: Berthold,
+    role: der Einsiedler im Lerchenwalde.
+    gender: m
+  - name: Ritter Kilian von Krudenau.
+    gender: m
+  - name: Adelheid,
+    role: seine Mündel.
+    gender: f
+  - name: Max,
+    role: sein Knappe.
+    gender: m
+  - name: Ritter Roger von Roggingen.
+    gender: m
+  - name: Veronica,
+    role: eine Bäuerinn.
+    gender: f
+  - name: Lise,
+    role: deren Tochter.
+    gender: f
+  - name: Mehrere Bauernmädchen.
+    isGroup: true
+    gender: f
+setting: >-
+  Die Handlung spielt im funfzehnten Jahrhundert. (Die Bühne stellt eine angenehme, aber eingeschlossene und stark verwachsene waldige Gegend vor. Den Hintergrund bilden Felsen, welche mit Gesträuchen und Bäumen bewachsen sind. Zwischen diesen Felsen fließt ein kleiner Fluß dahin. Auf einem Hügel zur Linken steht eine Einsiedeley, mit einem Glockenthürmchen. Vor der Einsiedeley ein kleines, anmuthiges Blumengärtchen. Man gelangt zu diesem mittelst eines kleinen, hölzernen Steges: gegen die Bühne zu ist eine Zaunthüre, mit einem Glockenzuge versehen, dessen Glocke in die Einsiedeley geht. Den Vordergrund bildet ein anmuthiges, aber nicht zu dichtes Wäldchen von Lerchenbäumen. Zur Rechten bilden alte Lerchenbäume durch ihre Verzweigungen eine Art von Laube, so, daß der Eingang derselben im Angesicht des Publicums ist; der Ausgang aber durch verschiedene Geflechte in den Hintergrund führt. Eine Rasenbank steht in der Laube.) (Sonnenaufgang.)
+---
 slug: castelli-der-kuss-durch-einen-wechsel
 author:
   name: Castelli, Ignaz Franz
@@ -18985,6 +19140,100 @@ cast:
     role: sein Weib.
     gender: f
 setting: Die Scene ist auf dem Lande. (Die Bühne stellt ein Dorf vor.)
+---
+slug: castelli-der-prinz-kommt
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Der Prinz kommt!
+subtitle: Lustspiel in einem Acte. Nach dem Französischen des Rougemout
+numberOfScenes: 22
+printed: 1821
+premiered: 1820-03-14
+formalia:
+  - Prosa
+basedOn:
+  - Michel-Nicolas Balisson de Rougemont
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1821. Von I. F. Castelli. Sechster Jahrgang. Wien: Wallishausser [1821], S. 1–62"
+comments:
+  - "Besprechung in: Carinthia. Ein Wochenblatt für Vaterlandskunde, Belehrung und Unterhaltung. Zwanzigster Jahrgang. Nr. 22 (Klagenfurt, Sonnabend den 29. Mai 1830), [S. 92](https://books.google.com/books?id=7HpEAAAAcAAJ&pg=PA92)."
+cast:
+  - group:
+      - name: Christian Durmann,
+        role: Kaufmann.
+        gender: m
+      - name: Peter Durmann,
+        role: pensionirter Lieutenant.
+        gender: m
+    role: Brüder.
+  - name: Elise,
+    role: Tochter Christians.
+    gender: f
+  - name: Robert,
+    role: Sohn Peters.
+    gender: m
+  - name: Der Mautheinnehmer des Städtchens.
+    gender: m
+  - name: Cäcilie,
+    role: seine Frau.
+    gender: f
+  - name: Der Syndicus.
+    gender: m
+  - name: Clarisse,
+    role: seine Frau.
+    gender: f
+  - name: Anton,
+    role: Gärtner bey Christian.
+    gender: m
+  - name: Laurent,
+    role: Koch bey Christian.
+    gender: m
+  - group:
+      - name: Joseph,
+        gender: m
+      - name: Veit,
+        gender: m
+    role: Bediente bey Christian.
+  - name: Ein Jäger des Prinzen.
+    gender: m
+  - name: Einwohner des Städtchens.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene spielt in einem kleinen Städtchen Deutschlands, im Schlosse des Kaufmanns Durmann. (Die Bühne stellt einen Salon vor, mit zwey Seiten- und einer Mittelthüre. Die letztere hat Glasfenster, und führt in den Garten.)
+---
+slug: castelli-der-quaelende-zweifel
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Der quälende Zweifel
+subtitle: Drama in 1 Akt
+premiered: 1836-05-30
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe: [»Estelle, ou Le père et la fille. Comédie-vaudeville en un acte«](https://books.google.com/books?id=k6jW_2K9S1kC&printsec=frontcover)"
+comments:
+  - Ungedruckt. (Personenverzeichnis erschlossen aus dem französischen Original und der Besprechung in »Bohemia«.)
+  - "Auch mit dem Untertitel »Schauspiel in einem Aufzuge«."
+  - "Besprechung in: Der Sammler. Nr 68 (Dinstag, den 7. Juny 1836), [S. 272](https://books.google.com/books?id=27paAAAAcAAJ&pg=PA272)"
+  - "Besprechung in: Bohemia, ein Unterhaltungsblatt. Nro. 127 (Den 21. Oktober 1836), [unpag.](https://books.google.com/books?id=G7peAAAAcAAJ&pg=PP543)"
+  - "Besprechung in: Wiener Zeitschrift für Kunst, Literatur, Theater und Mode. Nr. 145 (Sonnabend, den 3. December 1836), [S. 1159](https://books.google.com/books?id=DB65XzBV95YC&pg=PA1159)."
+cast:
+  - name: Herr von Soligni,
+    role: ein in Ruhestand versetzter General.
+    gender: m
+  - name: Irene,
+    role: seine Tochter.
+    gender: f
+  - name: Raymond de Bussières.
+    gender: m
+  - name: Fumichon,
+    role: Notar.
+    gender: m
+  - name: Bedienter.
+    gender: m
 ---
 slug: castelli-der-rasttag
 author:
@@ -19052,6 +19301,8 @@ formalia:
   - Prosa
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1818. Von I. F. Castelli. Dritter Jahrgang. Wien: Wallishausser [1818], S. 261–316"
+comments:
+  - "Rezension in Ludwig Börnes »Dramaturgischen Blättern«, Nachträge, Nr. 18, [S. 520](https://archive.org/details/LudwigBrneSmtlicheSchriftenBd1/page/n549/mode/2up)."
 cast:
   - name: Frau v. Lahn.
     gender: f
@@ -19101,6 +19352,48 @@ cast:
     gender: m
 setting: >-
   Die Bühne stellt das Innere einer Redoute vor, Waffen stehen in Bündeln beysammen, Fahnen, Trommeln, Trompeten u.s.w. liegen und stehen umher.
+---
+slug: castelli-der-weibertausch
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Der Weibertausch
+subtitle: Lustspiel in einem Acte. Nach dem Französischen der Herren Dartois und Achille
+numberOfScenes: 22
+printed: 1821
+premiered: 1821-05-01
+formalia:
+  - Prosa
+basedOn:
+  - "Armand d'Artois und Achille d'Artois: [»Les troqueurs. Opéra-comique en un acte«](https://books.google.com/books?id=6ldoAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1821. Von I. F. Castelli. Sechster Jahrgang. Wien: Wallishausser [1821], S. 164–212"
+cast:
+  - name: Der Gutsherr.
+    gender: m
+  - group:
+      - name: Etienne,
+        gender: m
+      - name: Robert,
+        gender: m
+    role: Bauern.
+  - name: Tiennette,
+    role: Etienne's Weib.
+    gender: f
+  - name: Catharine,
+    role: Roberts Weib.
+    gender: f
+  - name: Fanchette,
+    role: Etienne's und Tienettens Pathe.
+    gender: m
+  - name: Paul,
+    role: ein Gärtnerbursch.
+    gender: m
+  - name: Landleute.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist auf einem Dorfe. (Die Bühne stellt einen Platz im Dorfe vor. Links Robert's, rechts Etiennes's Haus. An der Seite des Letzteren eine Art Laube, welche durch eine Treillage gebildet wird. Im Hintergrunde ein altes Schloß.)
 ---
 slug: castelli-die-beyden-duennen
 author:
@@ -19160,6 +19453,52 @@ cast:
 setting: >-
   Die Scene spielt bey Drohm.
 ---
+slug: castelli-die-bittsteller
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Die Bittsteller
+subtitle: Lustspiel in einem Act. Nach Melesville
+numberOfScenes: 23
+printed: 1820
+premiered: 1823
+formalia:
+  - Prosa
+basedOn:
+  - "Mélesville und Gabriel de Lurieu: [»Les solliciteurs et les fous. Comédie en un acte et en prose«](https://books.google.com/books?id=l7hoAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1820. Von I. F. Castelli. Fünfter Jahrgang. Wien: Wallishausser [1820], S. 105–164"
+cast:
+  - name: Graf Balbados,
+    role: Gouverneuer von Valenzia.
+    gender: m
+  - name: Ernestine,
+    role: seine Tochter.
+    gender: f
+  - name: Alpheas,
+    role: ein berühmter Arzt.
+    gender: m
+  - name: Alonzo de Lara,
+    role: Obrist.
+    gender: m
+  - name: Don Joseph Cartado de las Toresillas.
+    gender: m
+  - name: Die Marquise Aurora de Stella.
+    gender: f
+  - name: Inigo Balbuena,
+    role: Arzt.
+    gender: m
+  - name: Fabrizio,
+    role: Diener des Grafen.
+    gender: m
+  - name: Bediente, Bittsteller.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene geht in Valenzia, im Pallaste des Gouverneurs vor. (Die Bühne stellt einen Saal im Pallaste des Gouverneurs vor.)
+location:
+  wikidataId: Q8818
+---
 slug: castelli-die-ehemaenner-als-junggesellen
 author:
   name: Castelli, Ignaz Franz
@@ -19204,6 +19543,51 @@ setting: >-
 location:
   wikidataId: Q6602
 ---
+slug: castelli-die-hoelzerne-uhr
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Die hölzerne Uhr
+subtitle: Drama in einem Act, nach Bernard-Valville
+numberOfScenes: 15
+printed: 1819
+premiered: 1819-03-11
+formalia:
+  - Prosa
+basedOn:
+  - "François Bernard-Valville: [»L'horloge de bois, ou Un trait d'humanité. Comédie en un acte, mêlée de vaudevilles«](https://books.google.com/books?id=z86jT4Aww30C&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1819. Von I. F. Castelli. Vierter Jahrgang. Wien: Wallishausser [1819], S. 219–252"
+keywords:
+  - Soldatenstück
+  - Krieg
+cast:
+  - name: Laramee,
+    role: ein alter invalider Soldat.
+    gender: m
+  - name: Eloi,
+    role: ein Schmid, hinkend und einäugig.
+    gender: m
+  - name: Thomas,
+    role: Lamaree's Knecht.
+    gender: m
+  - name: Diego,
+    role: ein junger spanischer Soldat.
+    gender: m
+  - name: Marzelline,
+    role: Laramee's zweytes Weib.
+    gender: f
+  - name: Nikoline,
+    role: Eloi's Weib.
+    gender: f
+  - name: Ein französischer Korporal.
+    gender: m
+  - name: Vier französische Soldaten.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Scene spielt in einem Dorfe an der Gränze von Frankreich gegen Spanien. (Die Bühne stellt ein Bauernzimmer vor. Gegen den Hintergrund zu ist ein Fenster. Zur Rechten des Schauspielers steht eine Wanduhr mit einem Guguck auf einem hölzernen Kasten, in welchem die Uhrgewichte eingesperrt sind. Dieser Uhrkasten muß so hoch seyn, daß er einen Menschen einschließen kann. In der Mitte dieses Uhrkastens ist ein rundes Loch, so groß, daß man eine Hand durchstecken kann. Ein Speiseschrank steht gegenüber, im Vordergrunde ein Tisch und Stühle.)
+---
 slug: castelli-die-junge-tante
 author:
   name: Castelli, Ignaz Franz
@@ -19236,6 +19620,46 @@ cast:
     gender: m
 setting: >-
   Die Handlung auf dem Schlosse des Freyherrn vor. Ein Salon mit einer Mittel- und zwey Seitenthüren, dann einem Fenster zur Rechten.
+---
+slug: castelli-die-papageye
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Die Papageye
+subtitle: Lustspiel in einem Act. Nach dem Französischen Vaudeville les Perroquets de la mère Philippe
+numberOfScenes: 18
+printed: 1820
+premiered: 1819-09-05
+formalia:
+  - Prosa
+basedOn:
+  - "Armand d'Artois und Achille d'Artois: [»Les perroquets de la mère Philippe. Vaudeville en un acte«](https://books.google.com/books?id=0Tc-AAAAIAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1820. Von I. F. Castelli. Fünfter Jahrgang. Wien: Wallishausser [1820], S. 59–104"
+comments:
+  - "Titelvariante: »Die Papageie«."
+cast:
+  - name: Baronin v. Steinberg.
+    gender: f
+  - name: Frau v. Arden.
+    gender: f
+  - name: Marie,
+    role: ihre Tochter.
+    gender: f
+  - name: Rose,
+    role: ein Landmädchen.
+    gender: f
+  - name: Robert Grell,
+    role: Major.
+    gender: m
+  - name: Hermann,
+    role: sein Neffe, Rittmeister bey den Dragonern.
+    gender: m
+  - name: Niklas,
+    role: ein Bauernbursch.
+    gender: m
+setting: >-
+  Das Handlung ist auf dem Lande. (Die Bühne stellt einen sehr abgelegenen Theil eines Parks vor. Der Hintergrund ist durch eine Mauer geschlossen, woran drey Bäume stehen. Im Vordergrunde auf jeder Seite eine Laube. Hinten eine Thür, welche in den daranstoßenden Wald führt.)
 ---
 slug: castelli-die-puppe
 author:
@@ -19453,7 +19877,7 @@ editions:
   - title: "Dramatisches Sträußchen für das Jahr 1822. Von F. I. Castelli. Siebenter Jahrgang. Wien: Wallishausser [1822], S. 161–204"
     url: https://books.google.com/books?id=QR7oVxccvSgC&pg=PA161
 comments:
-  - Seitenstück zu Castellis Einakter »Die Papageye«.
+  - Seitenstück zu Castellis Einakter [»Die Papageye«](castelli-die-papageye).
 cast:
   - name: Fernando,
     role: Sohn des Grafen von Hermosa.
@@ -19492,6 +19916,66 @@ setting: >-
   Die Scene ist in den Gebirgen von Alen-Tejo. (Die Bühne stellt einen eingezäunten Platz vor. Im Hintergrunde zur Linken ist ein Loch im Zaun. Zur Rechten der Ausgang. Im Hintergrunde ein Felsen, welcher die ganze Bühne beherrscht. – Weiter vorne ein reichverzierter großer Taubenschlag mit verschiedenen Gattungen von Tauben.)
 location:
   wikidataId: Q26824
+---
+slug: castelli-die-zeche-oder-gastwirth-und-buergermeister-in-einer-person
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: "Die Zeche, oder: Gastwirth und Bürgermeister in einer Person"
+subtitle: Eine Krähwinkliade in einem Acte, nach einer wahren Anecdote
+numberOfScenes: 17
+printed: 1819
+premiered: 1819-02-19
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1819. Von I. F. Castelli. Vierter Jahrgang. Wien: Wallishausser [1819], S. 127–174"
+cast:
+  - name: Herr Casimir Buxer,
+    role: Bürgermeister und Gastwirth.
+    gender: m
+  - name: Käthchen,
+    role: seine Tochter.
+    gender: f
+  - name: Herr Quirin Kupfer,
+    role: Barbier und Winkelschreiber.
+    gender: m
+  - name: Joseph,
+    role: dessen Sohn, Postillon.
+    gender: m
+  - name: Van der Böhlen,
+    role: ein junger niederländischer Mahler.
+    gender: m
+  - group:
+      - name: Der Gerichtsdiener.
+        gender: m
+      - name: Brunner,
+        role: ein Fleischer.
+        gender: m
+      - name: Steibel,
+        role: ein Handschuhmacher.
+        gender: m
+      - name: Mohr,
+        role: ein Rauchfangkehrer.
+        gender: m
+      - name: Schleifer,
+        role: ein Schlosser.
+        gender: m
+      - name: Pumer,
+        role: ein Tischler.
+        gender: m
+      - name: Schmal,
+        role: ein Schneider.
+        gender: m
+    role: Magistrats-Räthe.
+  - name: Männer und Weiber.
+    isGroup: true
+    gender: u
+  - name: Aufwärter.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung geht in einer kleinen Stadt in Deutschland vor. (Die Bühne stellt einen Wirthshaussaal vor, auf einer Seite steht ein großer länglichrunder Tisch mit einem alten durchlöcherten Teppich bedeckt, rund herum hohe alte Stühle, auf dem Tisch liegen mehrere Schriften, ein Tintenfaß steht daneben. Ueber einen Stuhl neben dem Tische hängt ein sehr abgetragener schwarzer Rock, darauf liegt ein kleiner dreyeckigter Hut, und darangelehnt ist ein Stock mit einem messingenen Knopfe. – Auf der andern Seite steht ein kleiner Tisch, darauf Kannen, Teller und mehrere Wirthshausgeräthschaften, daneben Wirthshausstühle.)
 ---
 slug: castelli-domesticken-streiche
 author:
@@ -19754,6 +20238,96 @@ setting: >-
 location:
   wikidataId: Q316891
 ---
+slug: castelli-hochzeit-fatalitaeten
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Hochzeit-Fatalitäten
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 27
+printed: 1823
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1823. Von I. F. Castelli. Achter Jahrgang. Wien: Wallishausser [1823], S. 55–122"
+comments:
+  - "Anmerkung unter dem Titel: »Ist in Wien nicht aufgeführt worden.« Auch in Castellis Memoiren heißt es: [»Nie gegeben.«](https://books.google.com/books?id=8NvzYLJfALQC&pg=PA229)"
+cast:
+  - name: Erasmus Bibergall,
+    role: Apotheker.
+    gender: m
+  - name: Purz,
+    role: sein Neffe, erster und einziger Subject.
+    gender: m
+  - name: Frau Hülse,
+    role: Amtmannswitwe.
+    gender: f
+  - name: Bevchen,
+    role: ihre Tochter.
+    gender: f
+  - name: Carl Schell,
+    role: Husarenrittmeister.
+    gender: m
+  - name: Kautz,
+    role: sein Diener.
+    gender: m
+  - name: Lene,
+    role: Magd im Wirthshause zum goldenen Eiszapfen.
+    gender: f
+  - name: Ein Korporal.
+    gender: m
+  - name: Ein Tambur.
+    gender: m
+  - name: Vier Soldaten.
+    isGroup: true
+    gender: m
+  - name: Hochzeitgäste.
+    isGroup: true
+    gender: u
+  - name: Regimentsmusik.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Szene spielt in einer Provinzstadt. (Die Bühne stellt einen großen Platz in einer Provinzstadt vor. Links im Vordergrunde ist Bibergalls Haus. Zu ebener Erde dieses Hauses befindet sich dessen Apotheke, auf deren Laden Galenus und Hypokrates abgebildet sind; ober dem Laden befindet sich eine Tafel mit der Aufschrift: »Für den Tod ist kein Kraut gewachsen.« Zur Rechten das Wirthshaus zum goldenen Eiszapfen, ebenfalls mit einem Schilde und mit der Ueberschrift: »Johann Schreibauf, Gastgeber, beherbergt zu Fuß und zu Pferde, gibt Kost Mittags und Abends und Ball. – Hochzeiten bittet er einige Tage voraus zu bestellen.«)
+---
+slug: castelli-narrheit-und-narredey
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Narrheit und Narredey
+subtitle: Lustspiel in einem Act, nach Desaugiers
+numberOfScenes: 23
+printed: 1819
+premiered: 1819-05-29
+formalia:
+  - Prosa
+basedOn:
+  - Marc-Antoine-Madeleine Désaugiers
+editions:
+  - title: "Dramatisches Sträußchen für das Jahr 1819. Von I. F. Castelli. Vierter Jahrgang. Wien: Wallishausser [1819], S. 175–218"
+comments:
+  - "Besprechung in: Wiener Zeitschrift für Kunst, Literatur, Theater und Mode. 68 (Dinstag, den 8. Juny 1819), [S. 556](https://books.google.com/books?id=sGA-ebQLOCwC&pg=PA556)."
+cast:
+  - name: Doktor Groll
+    role: (hält eine Narrenanstalt.)
+    gender: m
+  - name: Lorchen,
+    role: seine Tochter.
+    gender: f
+  - name: Eduard Flaus.
+    gender: m
+  - name: Ocularius,
+    role: Professor der Physik (närrisch.)
+    gender: m
+  - name: Peter,
+    role: des Doktors Diener.
+    gender: m
+  - name: Mehrere Diener und Mägde.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist in der Haupstadt. (Ein Salon mit einer vergitterten Kabinethsthüre zur Linken.)
+---
 slug: castelli-raphael
 author:
   name: Castelli, Ignaz Franz
@@ -19771,6 +20345,7 @@ editions:
     url: https://books.google.com/books?id=fW9KAAAAcAAJ&pg=PA101
 comments:
   - Laut [Werkverzeichnis](https://books.google.com/books?id=8NvzYLJfALQC&pg=PA221) mehrfach aufgeführt, Datum der Erstaufführung unklar.
+  - "Rezension in Ludwig Börnes »Dramaturgischen Blättern«, Nachträge, Nr. 2, [S. 506–507](https://archive.org/details/LudwigBrneSmtlicheSchriftenBd1/page/n535/mode/2up)."
 cast:
   - name: Fürst Augustin Chigi.
     gender: m
@@ -22365,6 +22940,39 @@ cast:
   - name: Der Ahnherr.
     gender: m
 ---
+slug: dalberg-die-eheliche-vergeltung
+author:
+  name: Dalberg, Wolfgang Heribert von
+  wikidata: Q214611
+title: Die eheliche Vergeltung
+subtitle: Eine Folge der ehelichen Probe, in einem Aufzuge
+premiered: 1792-03-06
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 91–92
+comments:
+  - Nur Manuskript.
+  - Fortsetzung von Dalbergs »Die eheliche Probe«.
+cast:
+  - name: Treumund,
+    role: Ehegerichtsrath.
+    gender: m
+  - name: Mariane,
+    role: seine Frau.
+    gender: f
+  - name: Dormann,
+    role: Vater.
+    gender: m
+  - name: Joseph Dormann,
+    role: sein Sohn, Offizier.
+    gender: m
+  - name: Antonie.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+---
 slug: dalberg-die-eheliche-versoehnung
 author:
   name: Dalberg, Wolfgang Heribert von
@@ -22647,6 +23255,38 @@ cast:
     gender: f
 setting: >-
   Zimmer mit Mittel- und Seitenthüren. – Nacht. Es schlägt 3 Uhr. – Die Mittelthüre geht auf.
+---
+slug: dilg-der-korb
+author:
+  name: Dilg, Mathias
+title: Der Korb
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 19
+printed: 1809
+premiered: 1805-04-25
+formalia:
+  - Prosa
+editions:
+  - title: "[Augsburg: Bolling] 1809"
+    url: https://books.google.com/books?id=6SY7AAAAcAAJ&printsec=frontcover
+comments:
+  - "Im Druck nur als Zweiakter (11 + 8 Szenen). Einakterhinweis lediglich auf einem [Hamburger Theaterzettel 1832](https://www.stadttheater.uni-hamburg.de/node/22169 ). Das Personenverzeichnis des gedruckten Zweiakters stimmt mit demjenigen auf dem Theaterzettel überein."
+cast:
+  - name: von Ehrenthal,
+    role: Stadt-Direktor.
+    gender: m
+  - name: Lieutenant Werden.
+    gender: m
+  - name: Steffen,
+    role: ein Hausknecht.
+    gender: m
+  - name: Grettchen,
+    role: Mädchen im Dienste des Stadt-Direktors.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Straße, rechts der Stadt-Direktors-Wohnung.
 ---
 slug: doering-der-schulmeister-und-seine-frau
 author:
@@ -35956,6 +36596,7 @@ editions:
     url: https://books.google.com/books?id=mG1WAAAAcAAJ&pg=PA9
 comments:
   - 1826 lautet der Untertitel »Original-Lustspiel in einem Aufzuge«.
+  - "Rezension in Ludwig Börnes »Dramaturgischen Blättern«, Nachträge, Nr. 1, [S. 506](https://archive.org/details/LudwigBrneSmtlicheSchriftenBd1/page/n535/mode/2up)."
 cast:
   - name: Gretchen,
     role: ein Bauernmädchen.
@@ -36128,6 +36769,78 @@ cast:
   - name: Der alte Freimund.
     gender: m
 ---
+slug: holtei-das-liederspiel-oder-der-schottische-mantel
+author:
+  name: Holtei, Karl von
+  wikidata: Q66388
+title: Das Liederspiel oder der schottische Mantel
+subtitle: Ein Spiel mit Liedern in einem Act
+numberOfScenes: 12
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach für Privat-Bühnen von Karl von Holtei. Erster Jahrgang. Riga und Leipzig: Frantzen 1839, S. 1–43"
+    url: https://books.google.com/books?id=Gu1LxKya5MkC&pg=PA1
+  - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 86–94"
+    url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA86
+  - title: "Zweite Auflage. Berlin: Bloch 1861"
+    url: https://books.google.com/books?id=jJY6AAAAcAAJ&printsec=frontcover
+comments:
+  - "Vorwort (1845): »Mancherlei eben so feindselige, als unbegründete Aeußerungen gegen meine Liederspiele und gegen diese Gattung überhaupt, veranlaßten mich zu dieser halb polemischen, halb lyrischen Arbeit.«"
+cast:
+  - name: Rosalie,
+    role: Wittwe.
+    gender: f
+  - name: Reinhard,
+    role: Officier.
+    gender: m
+  - name: Gründlich,
+    role: Professor der Aesthetik.
+    gender: m
+  - name: Herr Feder,
+    role: ein armer Magister.
+    gender: m
+  - name: Ein Kammermädchen.
+    gender: f
+setting: >-
+  Scene: Rosaliens Zimmer.
+---
+slug: holtei-der-berliner-droschkenkutscher
+author:
+  name: Holtei, Karl von
+  wikidata: Q66388
+title: Der Berliner Droschkenkutscher
+subtitle: Possenspiel in einem Akt
+numberOfScenes: 7
+printed: 1845
+formalia:
+  - Prosa
+editions:
+  - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 55–61"
+    url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA55
+  - title: "Theater von Karl von Holtei. Ausgabe letzter Hand in sechs Bänden. Vierter Band. Breslau: Trewendt 1867, S. 149–178"
+    url: https://books.google.com/books?id=0TqoZMOqDkYC&pg=PA149
+cast:
+  - name: Amtsrath Kirbel.
+    gender: m
+  - name: Wilhelm,
+    role: sein Sohn.
+    gender: m
+  - name: Evchen,
+    role: ein Kammermädchen.
+    gender: f
+  - name: Ein Kellner im Hôtel de Brandebourg.
+    gender: m
+  - name: Ein Aufseher,
+    role: der privilegierten Droschkenanstalt.
+    gender: m
+  - name: Adam,
+    role: Droschkenkutscher.
+    gender: m
+setting: >-
+  Scene: Zimmer im Gasthofe.
+---
 slug: holtei-der-dichter-im-versammlungszimmer-oder-das-fantastische-lustspiel
 author:
   name: Holtei, Karl von
@@ -36297,6 +37010,89 @@ cast:
     gender: m
 setting: >-
   Scene: Ein freier Platz, links im Mittelgrunde eine Pfarrwohnung mit einem Giebelfensterchen, vor derselben eine schöne kräftige Linde, unter dieser ein Tisch.
+---
+slug: holtei-dreiunddreissig-minuten-in-grueneberg-oder-der-halbe-weg
+author:
+  name: Holtei, Karl von
+  wikidata: Q66388
+title: "Dreiunddreissig Minuten in Grüneberg oder: der halbe Weg"
+subtitle: Possenspiel in einem Act
+numberOfScenes: 15
+printed: 1839
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach für Privat-Bühnen von Karl von Holtei. Erster Jahrgang. Riga und Leipzig: Frantzen 1839, S. 213–248"
+    url: https://books.google.com/books?id=Gu1LxKya5MkC&pg=PA213
+  - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 110–116"
+    url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA110
+comments:
+  - "Auch mit dem Untertitel »Posse mit Gesang in 1 Akt« (1861)."
+cast:
+  - name: Jeremias Klagesanft,
+    role: Klempner aus Breßlau.
+    gender: m
+  - name: Rosaura Klagesanft,
+    role: Wittwe aus Berlin.
+    gender: f
+  - name: Trine,
+    role: Dienstmädchen in Grüneberg.
+    gender: f
+setting: >-
+  Scene: Ein kleines Wirthshauszimmer.
+---
+slug: holtei-hans-juerge
+author:
+  name: Holtei, Karl von
+  wikidata: Q66388
+title: Hans Jürge
+subtitle: Schauspiel in einem Act
+numberOfScenes: 15
+printed: 1839
+premiered: 1833-01-05
+formalia:
+  - Prosa
+basedOn:
+  - "Jean-Toussaint Merle, Antoine Simonnin und Ferdinand Laloue: [»Le conscrit. Vaudeville en un acte«](https://books.google.com/books?id=8cBoAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Almanach für Privat-Bühnen von Karl von Holtei. Erster Jahrgang. Riga und Leipzig: Frantzen 1839, S. 45–95"
+    url: https://books.google.com/books?id=Gu1LxKya5MkC&pg=PA45
+comments:
+  - "Später (1845) zu einem [»Drama in drei Theilen«](https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA131) umgearbeitet."
+cast:
+  - name: Der Reichsbaron.
+    gender: m
+  - name: Karl,
+    role: Jägerbursch.
+    gender: m
+  - name: Vater Born,
+    role: ein Pachter.
+    gender: m
+  - name: Marthe,
+    role: dessen Weib.
+    gender: f
+  - name: Anne,
+    role: beider Tochter.
+    gender: f
+  - name: Hansjürge,
+    role: Knecht.
+    gender: m
+  - name: Eine Magd.
+    gender: f
+  - name: Ein Unterofficier.
+    gender: m
+  - name: Erster Soldat.
+    gender: m
+  - name: Zweiter Soldat.
+    gender: m
+  - name: Soldaten.
+    isGroup: true
+    gender: m
+  - name: Bauern.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Schauspiel spielt in der letzten Hälfte des vorigen Jahrhunderts. (Scene: (im Dorfe); dem Schauspieler links das Vordertheil von Borns Pachterwohnung; nicht weit vom Hause ein praktikabler Brunnen mit Gebüsch, (hinter welches man sich verstecken kann); vor demselben einige Steine; ein Eimer dabei etc.)
 ---
 slug: holtei-margarethe
 author:
@@ -36521,6 +37317,7 @@ editions:
     url: https://books.google.com/books?id=My0WAAAAYAAJ&pg=PA117
 comments:
   - Eine einaktige Parodie zu dem Trauerspiel schrieb Stephan Schütze 1824 unter dem Titel [»Die Heimkehr. Lustspiel in einem Act«](schuetze-die-heimkehr).
+  - "Rezension in Ludwig Börnes »Dramaturgischen Blättern«, Nr. 48, [S. 387–393](https://archive.org/details/LudwigBrneSmtlicheSchriftenBd1/page/n415/mode/2up)."
 keywords:
   - Schicksalsdrama
   - Heimkehr-Motiv
@@ -50535,7 +51332,7 @@ editions:
     url: https://books.google.com/books?id=3-KU9RGHUdsC&pg=PA576
 comments:
   - "Fragment geblieben, vgl. Monika Fick, Lessing-Handbuch, 2. Auflage, Stuttgart und Weimar: Metzler 2004, [S. 312](https://books.google.com/books?id=3kq3DQAAQBAJ&pg=PA312)."
-  - "Bearbeitungen: [Rahbek 1790](rahbek-die-matrone-von-ephesus), Klingemann 1818."
+  - "Bearbeitungen: [Rahbek 1790](rahbek-die-matrone-von-ephesus), [Klingemann 1818](klingemann-die-wittwe-von-ephesus)."
 cast:
   - name: Antiphila.
     gender: f
@@ -52159,6 +52956,29 @@ cast:
   - name: Madame Vinck.
     gender: f
 setting: Die Bühne selbst ist der Orte der Handlung.
+---
+slug: marinelli-die-reise-ist-nahe-oder-die-dankbaren-schauspieler
+author:
+  name: Marinelli, Karl von
+  wikidata: Q1733642
+title: Die Reise ist nahe, oder die dankbaren Schauspieler
+subtitle: Ein Vorspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1780
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 445
+editions:
+  - title: "Wien: Schulz [ca. 1780]"
+    url: https://books.google.com/books?id=FG5VAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Alle Schauspieler, und Schauspielerinnen der Menningerischen Gesellschaft unter ihren eigenen Namen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Bühne selbst ist der Ort der Handlung.
 ---
 slug: marinelli-die-ueberschwemmung
 author:
@@ -59391,6 +60211,42 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht in einem Saale vor, links und rechts Seitenzimmer und Fenster. Im Hintergrunde eine Mittelthüre, auf einem Tische steht ein kleiner Waschkorb, und in einer Ecke ein moderner, großer Lehnsessel.
+---
+slug: rahbek-der-vertraute
+author:
+  name: Rahbek, Knud Lyne
+  wikidata: Q1357343
+title: Der Vertraute
+subtitle: Ein Schauspiel in einem Aufzuge. Aus dem Dänischen
+numberOfScenes: 7
+printed: 1794
+premiered: 1784-07-20
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 127–128, und Band 33, S. 228
+editions:
+  - title: "Grätz 1798"
+    url: https://books.google.com/books?id=sIFHAAAAcAAJ&printsec=frontcover
+comments:
+  - "Laut Meyer wohl keine Übersetzung, sondern »ursprünglich deutsch von Rahbek«."
+cast:
+  - name: Kammerdorf.
+    gender: m
+  - name: Graf von Wallensberg,
+    role: Kammerherr.
+    gender: m
+  - name: Pauline Eichfeld.
+    gender: f
+  - name: Ein Französischer Kellner.
+    gender: m
+  - name: Ein Deutscher Kellner.
+    gender: m
+setting: >-
+  Die Scene ist in Berlin auf Kammerdorfs Zimmer in einer Auberge. Da er eben von der Reise gekommen ist, so liegen Pistolen, Mantel. u. dgl. im Zimmer; er ist in Reisetracht.
+location:
+  wikidataId: Q64
 ---
 slug: rahbek-die-matrone-von-ephesus
 author:
@@ -71831,6 +72687,33 @@ cast:
     gender: m
 setting: >-
   Die Handlung ist auf des Grafen Landgut. (Gartensaal. Im Hintergrunde eine Glasthüre, durch welche man in den Garten sieht. Zwei Seitenthüren. Vorne ein Tisch mit Schreibzeug.)
+---
+slug: thienemann-der-todte-mann
+author:
+  name: Thienemann, Karl
+  wikidata: Q20243317
+title: Der todte Mann
+subtitle: Ein Lustspiel in einem Aufzuge in Versen
+numberOfScenes: [liegt noch nicht vor]
+printed: 1816
+premiered: 1817-07-18
+formalia:
+  - Verse
+editions:
+  - title: "Dramatische Kleeblätter. Nürnberg 1816, [Seitenzahlen noch nicht ermittelt]"
+comments:
+  - "Rezension in Ludwig Börnes »Dramaturgischen Blättern«, Nachträge, Nr. 29, [S. 530](https://archive.org/details/LudwigBrneSmtlicheSchriftenBd1/page/n559/mode/2up)."
+cast:
+  - name: Von Werden,
+    role: Husaren-Rittmeister.
+    gender: m
+  - name: Louise,
+    role: seine Frau.
+    gender: f
+  - name: Baron von Lieben.
+    gender: m
+setting: >-
+  [Druck liegt noch nicht vor.]
 ---
 slug: thuemmel-die-geschwister
 author:
