@@ -717,7 +717,7 @@ editions:
   - title: "Leipzig: Reclam [ca. 1868]"
     url: https://nbn-resolving.de/urn:nbn:de:hbz:6:1-214497
 comments:
-  - "Eine »außerordentlich beliebte Posse« (Peter Sprengel: Geschichte der deutschsprachigen Literatur 1830–1870: Vormärz–Nachmärz. (= Geschichte der deutschen Literatur von den Anfängen bis zur Gegenwart; Band 8.) München: C.H. Beck 2020, [S. 585](https://books.google.com/books?id=XVYBEAAAQBAJ&pg=PA585))."
+  - "Eine »außerordentlich beliebte Posse« (Peter Sprengel: Geschichte der deutschsprachigen Literatur 1830–1870: Vormärz–Nachmärz. (= Geschichte der deutschen Literatur von den Anfängen bis zur Gegenwart; Band 8.) München: C. H. Beck 2020, [S. 585](https://books.google.com/books?id=XVYBEAAAQBAJ&pg=PA585))."
 keywords:
   - Eheanbahnung
   - Handwerker
@@ -6614,6 +6614,60 @@ cast:
   - name: Merlin.
     gender: m
 ---
+slug: anonym-die-alliirten-vor-leipzig-am-18-october-1813
+author:
+  pseudonym: Anonym
+title: Die Alliirten vor Leipzig am 18. October 1813
+subtitle: Ein kriegerisches Gemälde in I Akt. Zur Feier des Tages der Erlösung von den Galliern
+numberOfScenes: 1
+printed: 1814
+formalia:
+  - Blankvers
+editions:
+  - title: "Erfurt: Müller 1814"
+    url: https://books.google.com/books?id=e6ZOAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Adjutant.
+    gender: m
+  - name: Feldprediger.
+    gender: m
+  - name: Husar.
+    gender: m
+  - name: Jäger.
+    gender: m
+  - name: Kürassier.
+    gender: m
+  - name: Dragoner.
+    gender: m
+  - name: Nationalkosak.
+    gender: m
+  - name: Kosak.
+    gender: m
+  - name: Uhlane.
+    gender: m
+  - name: Grenadier.
+    gender: m
+  - name: Musketier.
+    gender: m
+  - name: Kanonier.
+    gender: m
+  - name: Landwehrmann.
+    gender: m
+  - name: Eine Schildwacht.
+    gender: m
+  - name: Eine Patrouille.
+    gender: m
+  - name: Marketenderin.
+    gender: f
+  - name: Fritz,
+    role: ihr Sohn.
+    gender: m
+  - name: Russische, Preußische und Oesterreichische Soldaten aller Waffen.
+    isGroup: true
+    gender: m
+setting: >-
+  Waldgegend. Soldaten von allen Waffen haben sich gelagert und bilden verschiedene Gruppen. Einige sitzen beim Feuer und kochen, andere spielen Karte und würfeln auf einer Trommel. Ein Marketenderwagen, an dessen rechter Seite ein Feldtisch, auf welchem die Victualien des Marketenders aufgestellt sind. Soldaten drängen sich von allen Seiten nach dem Wagen. Der Hintergrund ist mit ab- und zueilenden Kriegern angefüllt, welche ebenfalls zum Feueranmachen Gruppen bilden, während andere Holz zutragen. Einen wachthabenden Musketier sieht man mit gemessenen Schritten am Ende der Bühne auf und abschreiten.
+---
 slug: anonym-die-arme-frau
 author:
   pseudonym: Anonym
@@ -9768,6 +9822,25 @@ cast:
     gender: m
 setting: Der Schauplatz ist in Belisens und Aramintens Hause.
 ---
+slug: anonym-die-versteigerung
+author:
+  pseudonym: Anonym
+title: Die Versteigerung
+subtitle: Lustspiel in Versen und Einem Akte
+numberOfScenes: 4
+printed: 1845
+formalia:
+  - Alexandriner
+editions:
+  - title: Als Manuscript gedruckt. [Stuttgart 1845]
+comments:
+  - "Ort und Jahr laut [WLB Stuttgart](https://wlb.ibs-bw.de/aDISWeb/app?service=direct/0/Home/$DirectLink&sp=SOPAC00&sp=SAKSWB-IdNr1115241796)."
+cast:
+  - name: Der Baron.
+    gender: m
+  - name: Die Baronin.
+    gender: m
+---
 slug: anonym-die-verwandlung
 author:
   pseudonym: Anonym
@@ -11575,6 +11648,62 @@ setting: >-
 location:
   wikidataId: Q3758
 ---
+slug: anonym-vosculo-von-barcelona-und-greif-von-kasan
+author:
+  pseudonym: Anonym
+title: Vosculo von Barcelona und Greif von Kasan oder die beiden Taschenspieler in Krähwinkel
+subtitle: Quodlibet in 1 Akt
+numberOfScenes: 1
+printed: 1828
+premiered: 1828-06-01
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Cosmar und Krause 1828"
+    url: https://books.google.com/books?id=6F1_kKMVCdcC&printsec=frontcover
+comments:
+  - "Goedeke, Band XI/1, [S. 603](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/n619/mode/2up), vermutet, dass Cosmar selbst der Autor sein könnte."
+cast:
+  - name: Nicolaus Staar,
+    role: Bürgermeister.
+    gender: m
+  - name: Der Vicekirchenvorsteher,
+    role: sein Bruder.
+    gender: m
+  - name: Tinchen,
+    role: seine Enkelin.
+    gender: f
+  - group:
+      - name: Morgenroth
+        gender: f
+      - name: Brendel
+        gender: f
+    role: Muhmen.
+  - group:
+      - name: Der Edle von Spatz
+        gender: m
+      - name: Otto Bellmann
+        gender: m
+    role: Literaten.
+  - group:
+      - name: Vosculo von Barcelona
+        gender: m
+      - name: Greif von Kasan
+        gender: m
+    role: Taschenspieler.
+  - group:
+      - name: Rindfleisch
+        gender: m
+      - name: Kirschkuchen
+        gender: m
+    role: Dichter.
+  - name: Claus,
+    role: Rathsdiener.
+    gender: m
+  - name: Kinder. Dichter. Menschen.
+    isGroup: true
+    gender: u
+---
 slug: anonym-walsafi-kadi-von-balsora
 author:
   pseudonym: Anonym
@@ -11862,7 +11991,7 @@ editions:
   - title: "Wien: Wallishausser 1808"
     url: https://books.google.com/books?id=KNSFnNjUV-sC&printsec=frontcover
 comments:
-  - "Zuerst wahrscheinlich [in Weimar](https://staatsarchive.thulb.uni-jena.de/receive/ThHStAW_opus_00000296). – Auch mit dem Untertitel »Oper in einem Aufzuge« (z.B. [Theaterzettel Bremen 1819](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1756657))."
+  - "Zuerst wahrscheinlich [in Weimar](https://staatsarchive.thulb.uni-jena.de/receive/ThHStAW_opus_00000296). – Auch mit dem Untertitel »Oper in einem Aufzuge« (z. B. [Theaterzettel Bremen 1819](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1756657))."
 ids:
   weber: A020488
 cast:
@@ -16773,7 +16902,7 @@ author:
   name: Böcklin von Böcklinsau, Franz Friedrich Siegmund August
   wikidata: Q59535732
 title: Der Pedant
-subtitle: Ein Lustspiel in einem Aufzuge von F.V.B.Z.B.
+subtitle: Ein Lustspiel in einem Aufzuge von F. V. B. Z. B.
 numberOfScenes: 16
 printed: 1776
 formalia:
@@ -24987,6 +25116,39 @@ cast:
 setting: >-
   Ein schlecht meublirtes Zimmer, links ein Vorhang-Bett: rechts ein Tisch mit einer Kanne und ein Buch darauf.
 ---
+slug: eberwein-das-osterwasser
+author:
+  name: Eberwein, Julius
+  wikidata: Q23560864
+title: Das Osterwasser
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 24
+printed: 1833
+formalia:
+  - Prosa
+editions:
+  - title: "Weygand: Leipzig 1833"
+comments:
+  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 175 (Montag, 24. Juni 1833), [S. 721](https://books.google.com/books?id=iTxaAAAAcAAJ&pg=PA721)."
+cast:
+  - name: Der Wirth zum goldenen Reiter.
+    gender: m
+  - name: Die Wirthin.
+    gender: f
+  - name: Rose,
+    role: ihre Tochter.
+    gender: f
+  - name: Rike,
+    role: eine Nachbarin.
+    gender: f
+  - name: Ein Reisender.
+    gender: m
+  - name: Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Bühne stellt einen freien Platz in einem Dorfe vor. Rechts der Gasthof zum Reiter, vor demselben Tisch und Bank mit hölzernen Geräthschaften, die da abtrocknen sollen, hinter demselben eine Leiter. Links ein Brunnen. Im Hintergrund ein Wegweiser.
+---
 slug: eckardt-der-fleissige-schuster
 author:
   name: Eckardt, Friedrich
@@ -26155,6 +26317,57 @@ cast:
     role: ein Feldwebel.
     gender: m
 setting: Die Scene ist in einem Lustholze, ganz nahe bey Geusens Wohnung.
+---
+slug: erath-der-schulmeister-in-der-klemme
+author:
+  name: Erath, Carl Julius
+  wikidata: Q60830617
+title: Der Schulmeister in der Klemme
+subtitle: Ein Schwank in Versen in einem Akte
+numberOfScenes: 4
+printed: 1843
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Wiesensteig: Schmid 1843"
+cast:
+  - name: Schulmeister Rettig.
+    gender: m
+  - name: Rathsam,
+    role: dessen Freund.
+    gender: m
+  - name: Niklas Brommer,
+    role: ein Kaufmann.
+    gender: m
+  - name: Heinrich Grünrock,
+    role: Gastwirth zum blauen Bock.
+    gender: m
+  - name: Lisette,
+    role: dessen Frau.
+    gender: f
+  - name: Stolzbein,
+    role: Rentmeister und Gastwirth zum goldenen Stern.
+    gender: m
+  - name: Chlotilde,
+    role: dessen Nichte.
+    gender: f
+  - name: Inspektor Rothhaas.
+    gender: m
+  - name: Vicarius Dolter.
+    gender: m
+  - group:
+      - name: Kleinsorg
+        gender: m
+      - name: Witzbold
+        gender: m
+      - name: Mäulein
+        gender: m
+    role: Stadträthe.
+  - name: Hans,
+    role: ein Diener.
+    gender: m
+setting: >-
+  Zimmer im Gasthaus zum blauen Bock worin der Schulmeister auf- und abgehend spricht.
 ---
 slug: erdmann-graf-strandorf
 author:
@@ -28927,6 +29140,91 @@ cast:
     isGroup: true
     gender: u
 setting: "Schauplatz: die Wohnung des Verwalters."
+---
+slug: giesebrecht-der-traum-in-der-michaelisnacht
+author:
+  name: Giesebrecht, Karl
+  wikidata: Q1731245
+title: Der Traum in der Michaelisnacht
+subtitle: Spiel in einem Aufzuge. Zu Rosalindens Geburtstage den 29sten September 1805
+numberOfScenes: 1
+printed: 1805
+formalia:
+  - Verse
+editions:
+  - title: "Dramatische Studien von Karl Giesebrecht. Bremen: Heyne 1809, S. 223–268"
+keywords:
+  - allegorische Figuren
+cast:
+  - name: Genius der Freude.
+    gender: u
+  - name: Sidonie.
+    gender: f
+  - name: Liane.
+    gender: f
+  - name: Cleone.
+    gender: f
+  - name: Iduna.
+    gender: f
+  - name: Cäcilie.
+    gender: f
+  - name: Melanie.
+    gender: f
+  - name: Wanderer.
+    gender: m
+  - name: Nymphe.
+    gender: f
+  - name: Vergangenheit.
+    gender: u
+  - name: Göttin des Glücks mit ihrem Gefolge.
+    isGroup: true
+    gender: u
+setting: >-
+  Eine lachende Frühlingsgegend, im Hintergrunde ein Blumenhügel, auf dessen Spitze ein kleiner Tempel steht. Der Genius der Freude flattert vom Hügel herab, und tritt als Prolog vor.
+---
+slug: giesebrecht-eifersucht-an-allen-ecken
+author:
+  name: Giesebrecht, Karl
+  wikidata: Q1731245
+title: Eifersucht an allen Ecken
+subtitle: Lustspiel in einem Aufzuge. Nach Moliere's cocu imaginaire
+numberOfScenes: 24
+printed: 1809
+formalia:
+  - Alexandriner
+basedOn:
+  - "Molière: [»Sganarelle, ou Le cocu imaginaire. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_SGANARELLE.xml)"
+editions:
+  - title: "Dramatische Studien von Karl Giesebrecht. Bremen: Heyne 1809, S. 155–222"
+comments:
+  - "Weitere Übersetzung: [Wilhelmi (1805)](wilhelmi-stanislaus-hornkopf)."
+cast:
+  - name: Bertram,
+    role: ein angesehener Bürger.
+    gender: m
+  - name: Julie,
+    role: seine Tochter.
+    gender: f
+  - name: Walther,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Lammfried.
+    gender: m
+  - name: Brigitte,
+    role: seine Frau.
+    gender: f
+  - name: Ein Vetter Brigittens.
+    gender: m
+  - name: Der alte Worth.
+    gender: m
+  - name: Lisette,
+    role: Juliens Mädchen.
+    gender: f
+  - name: Johann,
+    role: in Walthers Diensten.
+    gender: m
+setting: >-
+  Die Scene ist eine Straße.
 ---
 slug: giesecke-laendliches-dankopfer
 author:
@@ -32673,6 +32971,52 @@ setting: >-
 location:
   wikidataId: Q90
 ---
+slug: harrys-koenig-und-schauspieler
+author:
+  name: Harrys, Georg
+  wikidata: Q15811725
+title: König und Schauspieler
+subtitle: In einem Akte. Freie Bearbeitung eines französischen Vaudeville
+numberOfScenes: 12
+printed: 1833
+premiered: 1833-11-20
+formalia:
+  - Prosa
+basedOn:
+  - "Léon-Lévy Brunswick: [»Le roi de Prusse et le comédien. Comédie-vaudeville en un acte«](https://books.google.com/books?id=m7loAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "(Als Manuscript gedruckt.) Hannover: Telgener 1833"
+cast:
+  - name: Der König.
+    gender: m
+  - name: Stollbach,
+    role: Schauspieler.
+    gender: m
+  - name: Hofrath Niedermannersteinschwanschwuingen.
+    gender: m
+  - name: Gräfin von Polsen.
+    gender: f
+  - name: Marie,
+    role: ihre Pflegetochter.
+    gender: f
+  - name: Flock,
+    role: Koch im Dienste der Gräfin.
+    gender: m
+  - name: Officiere des Königs.
+    isGroup: true
+    gender: m
+  - name: Österreichische Officiere und Soldaten.
+    isGroup: true
+    gender: m
+  - name: Gäste.
+    isGroup: true
+    gender: u
+  - name: Diener.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Stück spielt in Österreich auf dem Schlosse der Gräfin. Zeit: Ende 1778. (Ein Pavillon, mit der Aussicht auf den Garten. Rechts und links Seitenthüren. Tische zu beiden Seiten.)
+---
 slug: hartmann-die-dankbare-tochter-oder-die-einquartirung
 author:
   name: Hartmann, Andreas Gottlieb
@@ -33481,6 +33825,43 @@ cast:
     gender: m
 setting: >-
   Scene: eine kleine Stadt in Deutschland. (Die Bühne stellt ein Zimmer zu ebener Erde vor, das in einen Garten führt. – Mittelthüre und zwei Fenster im Hintergrunde, zwei Seitenthüren.)
+---
+slug: hell-das-strudelkoepfchen
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Das Strudelköpfchen
+subtitle: Lustspiel in 1 Aufzug
+numberOfScenes: 27
+printed: 1808
+formalia:
+  - Prosa
+basedOn:
+  - "Charles-Guillaume Étienne: [»La jeune femme colère. Comédie en un acte«](https://books.google.com/books?id=AYAGjcPsWA8C&printsec=frontcover)"
+editions:
+  - title: "Leipzig: Hinrichs 1808"
+    url: https://books.google.com/books?id=uqUyAQAAMAAJ&printsec=frontcover
+comments:
+  - "Hinweis auf Einaktigkeit etwa auf [Berliner Theaterzettel 1824](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=84386432X)."
+cast:
+  - name: Major von Goldner.
+    gender: m
+  - name: Bertha,
+    role: seine Gattin.
+    gender: f
+  - name: Rittmeister von Schirel,
+    role: ihr Bruder.
+    gender: m
+  - name: Johann,
+    role: des Majors alter Bedienter.
+    gender: m
+  - name: Hanne,
+    role: seine Frau.
+    gender: f
+  - name: Ein kleiner Jokei.
+    gender: m
+setting: >-
+  Die Scene ist auf des Majors Landgute. (Das Theater stellt einen geschmackvoll möblirten Saal vor. Rechts ein Camin, auf welchem Bücher liegen und Blumentöpfe stehen, an der Seite eine Klingelschnur. Eine Guitarre lehnt an ihm; weiter hinten steht eine Toilette, sie ist offen, hat aber ein verschloßnes Fach, worin ein Kamm und das Gemälde einer Dame liegen; auf ihr steht eine Klingel. Zur linken Hand befindet sich ein Clavier, auf welchem Musikalien liegen. Auf einem andern Tische sind Zeichengeräthschaften. Nicht weit von der Toilette an einem Stuhle lehnt ein Strickrahmen.)
 ---
 slug: hell-der-alte-comoediant-oder-die-legate
 author:
@@ -38401,7 +38782,7 @@ editions:
   - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 77–86"
     url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA77
 comments:
-  - "Besprechung in: Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26.December 1834), [S. 521](https://books.google.com/books?id=MLZJAQAAMAAJ&pg=PA521)."
+  - "Besprechung in: Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26. December 1834), [S. 521](https://books.google.com/books?id=MLZJAQAAMAAJ&pg=PA521)."
 cast:
   - name: Der Hofrath.
     gender: m
@@ -39982,7 +40363,7 @@ editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zwölfter Jahrgang. Zwölfter Jahrgang, für 1833. Berlin: Vereins-Buchhandlung 1833, S. 225–246"
     url: https://books.google.com/books?id=H5s6AAAAcAAJ&pg=PA225
 comments:
-  - "Besprechung in: Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26.December 1834), [S. 522](https://books.google.com/books?id=MLZJAQAAMAAJ&pg=PA522)."
+  - "Besprechung in: Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26. December 1834), [S. 522](https://books.google.com/books?id=MLZJAQAAMAAJ&pg=PA522)."
 cast:
   - name: Giulia,
     role: Fürstin von Tarent.
@@ -58245,6 +58626,43 @@ cast:
 setting: >-
   Die Handlung geht auf einem von der Poststraße etwas entlegenen Dorfe vor.
 ---
+slug: mueller-von-koenigswinter-in-der-kur
+author:
+  name: Müller von Königswinter, Wolfgang
+  wikidata: Q87848
+title: In der Kur
+subtitle: Schwank in einem Akt
+numberOfScenes: 21
+printed: 1850
+premiered: 1864-09-26
+formalia:
+  - Prosa
+editions:
+  - title: "Den Bühnen gegenüber Manuskript. [Leipzig circa 1850]"
+  - title: "Dramatische Werke von Wolfgang Müller von Königswinter. Erster Band. Berlin: Lipperheide 1872, S. 55–96"
+    url: https://books.google.com/books?id=N7X9icMcsMUC&pg=PA55
+comments:
+  - "Ort und Jahr laut [WLB Stuttgart](https://wlb.ibs-bw.de/aDISWeb/app?service=direct/0/Home/$DirectLink&sp=SOPAC00&sp=SAKSWB-IdNr1103560573)."
+  - "⚠️ Stück wahrscheinlich nach 1850 entstanden, vgl. [Vorwort](https://books.google.de/books?id=N7X9icMcsMUC&pg=PP5)."
+cast:
+  - name: Sombert,
+    role: Amtmann.
+    gender: m
+  - name: Philippine,
+    role: seine Schwester.
+    gender: f
+  - name: Karl,
+    role: Assessor, sein Neffe.
+    gender: m
+  - name: Klara,
+    role: dessen Frau.
+    gender: f
+  - name: Paul Freund,
+    role: ein Schauspieler.
+    gender: m
+setting: >-
+  Das Stück spielt in einem Badeorte. (Ein hübsch möblirter Salon mit Sopha's, Sesseln, Stühlen, Tischen. Die Thüre zum Korridor ist in der Mitte der hintern Wand. Rechts die Thüren zu den Zimmern Philippinens nach hinten und Somberts nach vorne; links diejenigen zu den Zimmern Clara's hinten und Karls vorne.)
+---
 slug: mueller-was-ists
 author:
   name: Müller, Johann Heinrich Friedrich
@@ -63434,6 +63852,72 @@ cast:
 setting: >-
   Die dürftig eingerichtete Wohnung des Major Edelschwerd.
 ---
+slug: reinhardt-alte-liebe-rostet-nicht
+author:
+  name: Reinhardt, Friederike
+  pseudonym: Lina Reinhardt
+  wikidata: Q18916763
+title: Alte Liebe rostet nicht
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 9
+printed: 1835
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dramatische Kleinigkeiten von Lina Reinhardt. Sechs leicht ausführliche Lustspiele jedes in einem Akte, für gesellige Kreise. Nürnberg: Zeh 1835, S. 63–92"
+    url: https://books.google.com/books?id=KOw6AAAAcAAJ&pg=PA63
+cast:
+  - name: Hedwig Sommer,
+    role: Schauspielerin.
+    gender: f
+  - group:
+      - name: Justitzrath Gärtner
+        gender: m
+      - name: Criminal-Assessor Stölzner
+        gender: m
+    role: zwei alte Jungesellen.
+  - name: Fritz Seibold,
+    role: des Justitzraths Neffe.
+    gender: m
+  - name: Sara Säuberlich,
+    role: eine betagte Jungfrau.
+    gender: f
+setting: >-
+  Scene: ein anständiges Zimmer.
+---
+slug: reinhardt-das-probejahr
+author:
+  name: Reinhardt, Friederike
+  pseudonym: Lina Reinhardt
+  wikidata: Q18916763
+title: Das Probejahr
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 8
+printed: 1835
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dramatische Kleinigkeiten von Lina Reinhardt. Sechs leicht ausführliche Lustspiele jedes in einem Akte, für gesellige Kreise. Nürnberg: Zeh 1835, S. 93–128"
+    url: https://books.google.com/books?id=KOw6AAAAcAAJ&pg=PA93
+cast:
+  - name: Martin van der Mule,
+    role: "reicher Kaufmann. (Mann von 40 Jahren) Er erscheint bis zur letzten Scene in anständiger Frauenkleidung: dunkelfarbigem Kapot, Haube mit grünem Bande, angebundenen Locken."
+    gender: m
+  - name: Peter Ueberbeck,
+    role: sein Handelsfreund. Mit holländ. Kostüm.
+    gender: m
+  - name: Max Sausewind,
+    role: Commis in v. d. Mule's Diensten.
+    gender: m
+  - name: Christiane Ehrenfried,
+    role: Pfarrerstochter, jetzt Gesellschafterin der Dmll. v. d. Mule.
+    gender: f
+  - name: Katahrine,
+    role: ihre alte Magd, einstige Wärterin.
+    gender: f
+setting: >-
+  Scene: Zimmer eines Landhauses.
+---
 slug: reinhardt-der-gutgemeinte-irrthum
 author:
   name: Reinhardt, Friederike
@@ -63444,7 +63928,7 @@ subtitle: Lustspiel in einem Akte
 numberOfScenes: 16
 printed: 1835
 formalia:
-  - fünfhebige jambische gereimte Verse
+  - gereimte Verse
 editions:
   - title: "Dramatische Kleinigkeiten von Lina Reinhardt. Sechs leicht ausführliche Lustspiele jedes in einem Akte, für gesellige Kreise. Nürnberg: Zeh 1835, S. 35–62"
     url: https://books.google.com/books?id=KOw6AAAAcAAJ&pg=PA35
@@ -63472,6 +63956,104 @@ cast:
     gender: f
 setting: >-
   Die Scene ein Garten, im Vordergrunde eine Laube in derselben der Tisch zum Frühstück bereitet.
+---
+slug: reinhardt-der-pelzrock
+author:
+  name: Reinhardt, Friederike
+  pseudonym: Lina Reinhardt
+  wikidata: Q18916763
+title: Der Pelzrock. Nach einem Gedicht von St. Schütze
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 6
+printed: 1835
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dramatische Kleinigkeiten von Lina Reinhardt. Sechs leicht ausführliche Lustspiele jedes in einem Akte, für gesellige Kreise. Nürnberg: Zeh 1835, S. 161–183"
+    url: https://books.google.com/books?id=KOw6AAAAcAAJ&pg=PA161
+cast:
+  - name: Ein Pachtamtmann.
+    gender: m
+  - name: Dessen Frau.
+    gender: f
+  - group:
+      - name: Hektor
+        role: (Student)
+        gender: m
+      - name: Aurora
+        gender: f
+    role: deren Kinder.
+  - name: Katharine,
+    role: ein reiches Landmädchen, Hektors Braut.
+    gender: f
+  - name: Ein Handelsjude.
+    gender: m
+  - name: Ein Kellner.
+    gender: m
+setting: >-
+  Scene. Ein Wirthszimmer.
+---
+slug: reinhardt-der-st-hubertus-brunnen
+author:
+  name: Reinhardt, Friederike
+  pseudonym: Lina Reinhardt
+  wikidata: Q18916763
+title: Der St. Hubertus-Brunnen
+subtitle: Lustpiel in einem Akte
+numberOfScenes: 7
+printed: 1835
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dramatische Kleinigkeiten von Lina Reinhardt. Sechs leicht ausführliche Lustspiele jedes in einem Akte, für gesellige Kreise. Nürnberg: Zeh 1835, S. 3–34"
+    url: https://books.google.com/books?id=KOw6AAAAcAAJ&pg=PA3
+cast:
+  - name: Prinzessin Elisabeth.
+    gender: f
+  - name: Prinz Adelbert,
+    role: präsumirter Verlobter der Prinzessin.
+    gender: m
+  - name: Clara von Waldheim,
+    role: Hofdame.
+    gender: f
+  - name: Marquis d'Oleander,
+    role: Vertrauter des Prinzen.
+    gender: m
+setting: >-
+  Die Scene: waldige Gegend mit Felsen, an deren Einem eine Grotte, deren Gestein vorspringt. Dahinter Gehölz. Einige Stiegen hinunter ein Brunnen. An der andern Seite eine, am Felsen angebrachte Moosbank.
+---
+slug: reinhardt-die-braut-des-echos
+author:
+  name: Reinhardt, Friederike
+  pseudonym: Lina Reinhardt
+  wikidata: Q18916763
+title: Die Braut des Echo's
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 12
+printed: 1835
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dramatische Kleinigkeiten von Lina Reinhardt. Sechs leicht ausführliche Lustspiele jedes in einem Akte, für gesellige Kreise. Nürnberg: Zeh 1835, S. 129–160"
+    url: https://books.google.com/books?id=KOw6AAAAcAAJ&pg=PA129
+cast:
+  - name: Graf Benno.
+    gender: m
+  - name: Peter Campano,
+    role: Schloßverwalter.
+    gender: m
+  - name: Isabelle,
+    role: Wirthschafterin.
+    gender: f
+  - name: Lilli,
+    role: Ihre Nichte, und Campano's Mündel.
+  - name: Gespielinnen derselben.
+    isGroup: true
+    gender: f
+setting: >-
+  Die Scene: Platz vor einem alterthümlichen Schlosse in den Pyrenäen. Rechts ein anderes kleineres Haus, links Wald.
+location:
+  wikidataId: Q12431
 ---
 slug: reinhold-die-eheleute-vor-der-hochzeit-oder-sie-sind-zu-hause
 author:
@@ -66060,6 +66642,46 @@ setting: >-
   Die Scene spielt nahe bei Hamburg, auf Horsts kleinem Landgute. (Zimmer im Landhause der Horstischen Familie. In der Mitte ein gedeckter Tisch mit zwei Couverten.)
 location:
   wikidataId: Q1055
+---
+slug: schaden-die-brieftaube-oder-der-sturm-auf-wittenberg-im-jahre-1814
+author:
+  name: Schaden, Adolf von
+  wikidata: Q16632372
+title: Die Brieftaube, oder Der Sturm auf Wittenberg im Jahre 1814
+subtitle: Original-Lustspiel in einem Akte
+numberOfScenes: 11
+printed: 1825
+premiered: 1825-02-24
+formalia:
+  - Prosa
+editions:
+  - title: "Leipzig: Kollmann 1825"
+  - title: "Phantasiestücke und Schwänke in des sammetnen und drolligen Breughels Manier. Herausgegeben von Adolph von Schaden. Leipzig: Kollmann 1825, S. 177–244"
+    url: https://books.google.com/books?id=KrA7AAAAcAAJ&pg=PA177
+cast:
+  - name: Zacharias Mickel,
+    role: Handelsmann und Rathsherr zu Wittenberg.
+    gender: m
+  - name: Ladoiska von Rosen,
+    role: dessen Mündel.
+    gender: f
+  - name: Lenchen,
+    role: deren Kammerjungfer.
+    gender: f
+  - name: Van der Brugg,
+    role: preußischer Husaren-Rittmeister und französischer Kriegsgefangener zu Wittenberg.
+    gender: m
+  - name: Matz,
+    role: dessen Reitknecht.
+    gender: m
+  - name: Lutz,
+    role: Mickels Hausknecht.
+    gender: m
+  - name: Fritz,
+    role: Mickels Ladenbürschchen.
+    gender: m
+setting: >-
+  Die Handlung beginnt am 12. Januar 1814 spät Abends und endet gegen Mitternacht.
 ---
 slug: schall-das-heiligthum
 author:
@@ -80160,6 +80782,40 @@ cast:
 setting: >-
   Die Scene ist im Haus des Präsidenten.
 ---
+slug: wagner-der-harfenspieler-oder-der-glueckliche-abend
+author:
+  name: Wagner, Johann Jakob
+  pseudonym: W.
+  wikidata: Q87344575
+title: Der Harfenspieler oder der glückliche Abend
+subtitle: Ein rührendes Lustspiel in einem Aufzuge. Nach einer Erzählung bearbeitet von W.
+numberOfScenes: 8
+printed: 1791
+formalia:
+  - Prosa
+editions:
+  - title: "Abendmuße zweyer Freunde. Erstes Bändchen. Leipzig: Reinicke 1791, S. 111–149"
+    url: https://digitale.bibliothek.uni-halle.de/vd18/content/pageview/10634106
+comments:
+  - "Untertitel im Inhaltsverzeichnis: »ein Nachspiel«."
+  - Fehlt bei Meyer?
+cast:
+  - name: Valentin.
+    gender: m
+  - name: Rosine,
+    role: seine Frau.
+    gender: f
+  - name: Luise,
+    role: seine Schwester.
+    gender: f
+  - name: Fritz,
+    role: sein Sohn.
+    gender: m
+  - name: Ein Fremder.
+    gender: m
+setting: >-
+  Der Schauplatz zeigt in sanfter Abenddämmerung eine ländliche Gegend mit Valentins Hütte und einer großen Linde, unter welcher Rosine Fritzen auf ihrem Schooße haltend sitzet.
+---
 slug: wagner-der-wohlthaetige-unbekannte
 author:
   name: Wagner, Heinrich Leopold
@@ -84125,6 +84781,49 @@ cast:
     gender: m
 setting: >-
   Kurze Strasse. – Zur Seite eine Apotheke. – Julie im Heraustreten mit dem ihr nachfolgenden Apotheker. – Den Anfang der Rede spricht dieser noch hinter der Scene.
+---
+slug: wilhelmi-stanislaus-hornkopf
+author:
+  name: Wilhelmi, August Gustav
+title: Stanislaus Hornkopf
+subtitle: "Lustspiel in einem Aufzuge, in Knittelversen. Frei nach dem Französischen: Le cocu imaginaire des Moliere"
+numberOfScenes: 21
+printed: 1805
+formalia:
+  - Verse
+basedOn:
+  - "Molière: [»Sganarelle, ou Le cocu imaginaire. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_SGANARELLE.xml)"
+editions:
+  - title: "Rostock und Leipzig: Stiller 1805"
+    url: https://books.google.com/books?id=3OCle_mcrY8C&printsec=frontcover
+comments:
+  - "Weitere Übersetzung: [Giesebrecht (1809)](giesebrecht-eifersucht-an-allen-ecken)."
+  - "Der Autor widmet sein Werk Kotzebue, dessen Übersetzung der »Ècole des femmes« ihn zu seiner eigenen Molière-Übersetzung inspiriert habe."
+cast:
+  - name: Liborius Grasmann.
+    gender: m
+  - name: Clarissa,
+    role: seine Tochter.
+    gender: f
+  - name: Siegfried Helmberg.
+    gender: m
+  - name: Stanislaus Hornkopf.
+    gender: m
+  - name: Mathilde,
+    role: dessen Frau.
+    gender: f
+  - name: Ein Anverwandter derselben.
+    gender: m
+  - name: Maximilian Kurzsalm.
+    gender: m
+  - name: Jacob,
+    role: Helmbergs Diener.
+    gender: m
+  - name: Mariane,
+    role: Clarissens Kammerfrau.
+    gender: f
+setting: >-
+  Die Scene ist eine offene Straße im Städtchen Horridoh; vorn Grasmann, gegen über Hornkopfs Haus.
 ---
 slug: wilke-wallhaide
 author:
