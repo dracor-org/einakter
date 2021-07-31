@@ -14674,6 +14674,48 @@ cast:
     gender: m
 setting: Die Handlung geht in dem Hause des Herrn Hieronymus vor sich.
 ---
+slug: bierling-critik-der-frauen-schule
+author:
+  name: Bierling, Friedrich Immanuel
+  wikidata: Q96439747
+title: Critik der Frauen-Schule
+subtitle: Ein Lustspiel in einer Handlung
+numberOfScenes: 8
+printed: 1752
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [»La critique de l'école des femmes. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_CRITIQUEECOLEDESFEMMES.xml)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 16, S. 35–36
+editions:
+  - title: "Des Herrn Moliere sämmtliche Lustspiele. Nach einer freyen und sorgfältigen Uebersetzung. Zweyter Theil. Hamburg: Herold 1752, S. 89–132"
+    url: https://books.google.com/books?id=_yVt17c2OPkC&pg=PA88-IA1
+comments:
+  - "Einakterhinweis nur im [Inhaltsverzeichnis](https://books.google.com/books?id=_yVt17c2OPkC&pg=PP9) (1752)."
+  - Bei Meyer ist von Friedrich Samuel Bierling die Rede, wahrscheinlich identisch mit Friedrich Immanuel Bierling, vgl. [Leipziger Literaturzeitung 1831](https://books.google.com/books?id=enbtu3MUrkgC&pg=PA2187).
+cast:
+  - name: Urania.
+    gender: f
+  - name: Elise.
+    gender: f
+  - name: Ein Marquis.
+    gender: m
+  - name: Dorantes,
+    role: oder der Ritter.
+    gender: m
+  - name: Lysidas,
+    role: ein Poet.
+    gender: m
+  - name: Galopin,
+    role: ein Lackey.
+    gender: m
+setting: >-
+  Der Schauplatz ist zu Paris, in der Urania Hause.
+location:
+  wikidataId: Q90
+---
 slug: bierling-der-sicilier-oder-die-liebe-ein-maler
 author:
   name: Bierling, Friedrich Immanuel
@@ -16314,6 +16356,41 @@ cast:
     gender: f
 setting: >-
   Scene: auf dem Gute der Frau von Eichen. (Garten hinter dem Schlosse. Links im Vorgrunde der Eingang in das Schloß, neben diesem ein eleganter Pavillon. Gartenstühle, Tische etc. in neuestem Geschmacke. Ein Tischchen links im Vorgrunde, auf ihm eine Blumenvase. Arbeitskörbchen etc.)
+---
+slug: blum-wer-traegt-die-schuld
+author:
+  name: Blum, Carl
+  wikidata: Q110163
+title: Wer trägt die Schuld?
+subtitle: Lustspiel in 1 Akt
+numberOfScenes: 17
+printed: 1844
+premiered: 1830-03-25
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Mélesville: [»La seconde année, ou À qui la faute? Comédie-vaudeville en un acte«](https://books.google.com/books?id=CJfCXy8_s-YC&pg=PA371)"
+editions:
+  - title: "Almanach für Freunde der Schauspielkunst auf das Jahr 1843. Achter Jahrgang. Berlin: Sittenfeld 1844"
+    url: https://books.google.com/books?id=LZHOTBG5bDIC&pg=RA1-PA1
+comments:
+  - "Weitere Übersetzungen: [Krickeberg (1830)](krickeberg-wer-traegt-die-schuld) und [Castelli (1831)](castelli-zwey-jahre-nach-der-hochzeit-oder-an-wem-ist-die-schuld)."
+cast:
+  - name: Gleichen,
+    role: Banquier.
+    gender: m
+  - name: Caroline,
+    role: seine Frau.
+    gender: f
+  - name: Graf Waldow.
+    gender: m
+  - name: Martin,
+    role: Gleichen's Kassirer.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung spielt in einer großen Stadt; fängt Morgens 9 Uhr an, und endigt Abends. (Ein reiches, elegantes Zimmer. In der Mitte des Hintergrundes ein Kamin, zu beiden Seiten desselben zwei Thüren. Die Thüre zur Rechten des Schauspielers führt auswärts. Zwei Seitenthüren; die zur Linken führt zu Carolinens Zimmer, die andere in ein Cabinet. Neben der ersten Seitenthüre ein Spiegel, neben der andern ein elegantes Bureau, worauf Papier etc.)
 ---
 slug: bock-der-adel-des-herzens-oder-die-ausgeschlagne-erbschaft
 author:
@@ -21090,7 +21167,7 @@ editions:
   - title: "Dramatisches Sträußchen für das Jahr 1831. Von F. I. Castelli. Sechzehnter Jahrgang. Wien: Wallishausser 1831, S. 109–194"
     url: https://books.google.com/books?id=26c7AAAAcAAJ&pg=PA109
 comments:
-  - "Weitere Übersetzung: [Krickeberg 1830](krickeberg-wer-traegt-die-schuld)."
+  - "Weitere Übersetzungen: [Blum 1830](blum-wer-traegt-die-schuld) und [Krickeberg 1830](krickeberg-wer-traegt-die-schuld)."
 cast:
   - name: Murthen,
     role: Banquier.
@@ -23898,6 +23975,95 @@ cast:
 setting: >-
   Straße, rechts der Stadt-Direktors-Wohnung.
 ---
+slug: doering-der-kaisersitz
+author:
+  name: Döring, Georg
+  wikidata: Q3568258
+title: Der Kaisersitz
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1833
+formalia:
+  - Blankvers
+editions:
+  - title: "Tage der Vorzeit. Dramatisches Gedicht in vier Darstellungen aus der Geschichte der freien Stadt Frankfurt. Von Georg Döring. Frankfurt am Main: Sauerländer 1833, S. 51–140"
+    url: https://books.google.com/books?id=udViAAAAcAAJ&pg=PA51
+cast:
+  - name: Carl der Große.
+    gender: m
+  - name: Pipin,
+    role: sein Sohn aus erster Ehe.
+    gender: m
+  - name: Carl der jüngere,
+    role: sein Sohn aus zweiter Ehe.
+    gender: m
+  - group:
+      - name: Thassilo,
+        role: Herzog von Baiern,
+        gender: m
+      - name: Teudelinde,
+        role: seine Tochter,
+        gender: f
+    role: gefangen an Carls Hofe.
+  - name: Der Erzbischoff von Mainz.
+    gender: m
+  - name: Der Bischoff von Worms.
+    gender: m
+  - name: Der Bischoff von Speyer.
+    gender: m
+  - name: Der Abt von Fulda.
+    gender: m
+  - name: Der Schuldtheiß von Frankfurt.
+    gender: m
+  - name: Schöffen von Frankfurt.
+    isGroup: true
+    gender: m
+  - name: Nantcarius,
+    role: kaiserlicher Kammervogt.
+    gender: m
+  - group:
+      - name: Niedgau,
+        gender: m
+      - name: Maingau,
+        gender: m
+      - name: Rheingau.
+        gender: m
+    role: Die Grafen vom
+  - name: Reichsmarschalk.
+    gender: m
+  - name: Herzoge und Große des Reichs.
+    isGroup: true
+    gender: m
+  - name: Geistliche Reichsstände.
+    isGroup: true
+    gender: m
+  - name: Alcuin,
+    role: Carls Hofgelehrter.
+    gender: m
+  - name: Eginhard,
+    role: Kanzler des Kaisers.
+    gender: m
+  - name: Mehemet Abdallah,
+    role: Gesandter des Kalifen Harun Al Raschid.
+    gender: m
+  - name: Gesandter der griechischen Kaiserin Irene.
+    gender: m
+  - name: Bocholt,
+    role: ein Sachsenanführer.
+    gender: m
+  - name: Ein Knabe.
+    gender: m
+  - name: Sachsen.
+    isGroup: true
+    gender: u
+  - name: Frauen und Edelknaben vom Hofe der Kaiserin, Spielleute, Trabanten, Wachen, Volk. Araber im Geleite Mehemet Abdallah's. Griechen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist das kaiserliche Kammergut Frankfurt.
+location:
+  wikidataId: Q1794
+---
 slug: doering-der-schulmeister-und-seine-frau
 author:
   name: Döring, Georg
@@ -23932,6 +24098,40 @@ cast:
     role: Zwei Musikanten.
 setting: >-
   Zimmer des Schulmeisters mit zwei Seitenthüren und einem Eingange im Hintergrunde; neben diesem zwei Fenster, von denen eins paktikabel.
+---
+slug: doering-die-gruendung
+author:
+  name: Döring, Georg
+  wikidata: Q3568258
+title: Die Gründung
+subtitle: Geschichtlich-romantisches Vorspiel in einem Aufzuge
+numberOfScenes: 5
+printed: 1833
+formalia:
+  - Blankvers
+editions:
+  - title: "Tage der Vorzeit. Dramatisches Gedicht in vier Darstellungen aus der Geschichte der freien Stadt Frankfurt. Von Georg Döring. Frankfurt am Main: Sauerländer 1833, S. 9–50"
+    url: https://books.google.com/books?id=udViAAAAcAAJ&pg=PA9
+cast:
+  - name: Siegbert,
+    role: ein Frankenanführer.
+    gender: m
+  - name: Richar,
+    role: sein Untergebener.
+    gender: m
+  - name: Ein Götzenpriester.
+    gender: m
+  - name: Christianus,
+    role: ein Mönch.
+    gender: m
+  - name: Adalberg,
+    role: eine fränkische Jungfrau.
+    gender: f
+  - name: Fränkische Krieger und Jungfrauen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Scene ist eine offene Gegend am Maine. Nicht ganz im Hintergrunde, in der Mitte der Bühne, erhebt sich auf einer Erhöhung ein Kreuz, von rohen Baumästen zusammengefügt.
 ---
 slug: doering-die-vier-tanten
 author:
@@ -25272,7 +25472,7 @@ premiered: 1752
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»L'Ecole des meres«](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ECOLEDESMERES.xml)"
+  - "Marivaux: [»L'école des mères. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ECOLEDESMERES.xml)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 16, S. 372–374
@@ -27599,6 +27799,41 @@ cast:
 setting: >-
   Die Scene geht in Grünaus Hause vor.
 ---
+slug: fuerst-lauschet-nicht
+author:
+  name: Fürst, Nikolai Nathan
+  wikidata: Q92345456
+title: Lauschet nicht!
+subtitle: Original-Lustspiel in einem Aufzuge
+numberOfScenes: 6
+printed: 1823
+formalia:
+  - Prosa
+editions:
+  - title: "Vermischte Schriften von Nicolay Fürst. Zweyter Theil. Wien: Armbruster 1823, S. 93–118"
+    url: https://books.google.com/books?id=NHBMAAAAcAAJ&pg=RA1-PA93
+cast:
+  - name: Baron Jelder.
+    gender: m
+  - name: Baronin Jelder,
+    role: seine Frau.
+    gender: f
+  - name: Wernhold,
+    role: sein Secretär.
+    gender: m
+  - name: Franz,
+    role: Bedienter des Baron.
+    gender: m
+  - name: Actuarius.
+    gender: m
+  - name: Gerichtsschreiber.
+    gender: m
+  - name: Wache.
+    isGroup: true
+    gender: m
+setting: >-
+  Zimmer mit einer Seitenthür.
+---
 slug: gaensberger-campaspe-oder-die-wahl-der-liebe
 author:
   name: Gänsberger, Joseph Franz
@@ -28750,6 +28985,77 @@ cast:
     gender: u
 setting: >-
   Die Handlung geschieht auf dem Lande, unweit der Residenz.
+---
+slug: giftschuetz-archangel
+author:
+  name: Giftschütz, A.
+  wikidata: Q94990683
+title: Archangel
+subtitle: Dramatische Kleinigkeit in einem Act
+numberOfScenes: 23
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten von A. Giftschütz. Wien: Sollinger 1834, S. 1–32"
+    url: https://books.google.com/books?id=fsxYAAAAcAAJ&pg=PA1
+cast:
+  - name: Wright,
+    role: pensonirter Hauptmann.
+    gender: m
+  - name: Jenny,
+    role: dessen Tochter.
+    gender: f
+  - name: Rovesburry.
+    gender: m
+  - name: Turner.
+    gender: m
+  - name: Matoff,
+    role: ein Russe.
+    gender: m
+  - name: James,
+    role: Turner's Bedienter.
+    gender: m
+setting: >-
+  Die Handlung spielt in London. (Eine Scheidewand zweier Häuser theilt das Theater in 2 Zimmer, wovon jenes des Hauptmanns Wright eine Hinterthür und ein Fenster an der Seite hat. Die Einrichtung desselben ist sehr einfach und besteht nur aus einem Tischchen und ein paar Stühlen. – Turner's Zimmer hat eine Hinter- und eine Seitenthür. – Die Einrichtung desselben ist geschmackvoll. Im Vordergrunde ein Tisch.)
+location:
+  wikidataId: Q84
+---
+slug: giftschuetz-die-lockspeise
+author:
+  name: Giftschütz, A.
+  wikidata: Q94990683
+title: Die Lockspeise
+subtitle: Dramatische Kleinigekti in einem Act
+numberOfScenes: 17
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten von A. Giftschütz. Wien: Sollinger 1834, S. 33–60"
+    url: https://books.google.com/books?id=fsxYAAAAcAAJ&pg=PA33
+cast:
+  - name: Pächter Holm.
+    gender: m
+  - name: Malchen,
+    role: seine Tochter.
+    gender: f
+  - name: Bucher,
+    role: Magister.
+    gender: m
+  - name: Jacob,
+    role: ein Bauer.
+    gender: m
+  - name: Peter,
+    role: in Holms Diensten.
+    gender: m
+  - name: Wohlmann,
+    role: Capitain.
+    gender: m
+  - name: Ein Unterofficier.
+    gender: m
+setting: >-
+  Die Handlung spielt in einem deutschen Dorfe, unweit der französischen Gränze, zu Anfang dieses Jahrhunderts.
 ---
 slug: glassbrenner-ein-page-des-regenten
 author:
@@ -30936,6 +31242,52 @@ cast:
     role: Bedienter bey Solners.
     gender: m
 setting: Die Scene ist im Hause der Wittwe Brandenstern.
+---
+slug: guttenberg-qui-pro-quo-oder-der-mann-der-alles-weiss
+author:
+  name: Guttenberg, Andreas Josef von
+  wikidata: Q94889736
+title: "Qui pro Quo; oder Der Mann, der alles weiß"
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 29
+printed: 1803
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1803"
+    url: https://books.google.com/books?id=P5NAI0gPoUMC&printsec=frontcover
+cast:
+  - name: Herr von Vollmar.
+    gender: m
+  - name: Euphrosine,
+    role: seine Tochter.
+    gender: f
+  - name: Frau Mertens,
+    role: ihre Erzieherin.
+    gender: f
+  - name: Eduard von Wannfeld,
+    role: als Kellner verkleidet, Euphrosinens Liebhaber.
+    gender: m
+  - name: Franz,
+    role: sein Bedienter.
+    gender: m
+  - name: Kammerrath von Birken.
+    gender: m
+  - name: August von Birken,
+    role: sein Sohn, Euphrosinens bestimmter Bräutigam.
+    gender: m
+  - name: Der Wirth im schwarzen Anker.
+    gender: m
+  - name: Mehrere Aufwärter.
+    isGroup: true
+    gender: m
+  - name: Ein Notar.
+    gender: m
+  - name: Zwey Sesselträger.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung ist theils im gemeinschaftlichen Saale des Gasthofes, theils in dem dazu gehörigen Garten.
 ---
 slug: guttenberg-zwanzigtausend-thaler
 author:
@@ -33747,6 +34099,8 @@ basedOn:
 editions:
   - title: "Dramatisches Vergißmeinnicht auf das Jahr 1848 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Fünfundzwanzigstes Bändchen. Dresden und Leipzig: Arnoldi 1848"
     url: https://books.google.com/books?id=_KP9Q28E-0EC&pg=RA2-PA1
+comments:
+  - "Weitere Übersetzung: [Riese (1850)](riese-ein-zimmer-zu-zwei-betten)."
 cast:
   - name: Etienne Eperlan.
     gender: m
@@ -47531,7 +47885,7 @@ editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band I, No. 6. Berlin: Cosmar und Krause 1830, S. 81–94"
     url: https://books.google.com/books?id=dWRcAAAAcAAJ&pg=PA81
 comments:
-  - "Weitere Übersetzung: [Castelli 1831](castelli-zwey-jahre-nach-der-hochzeit-oder-an-wem-ist-die-schuld)."
+  - "Weitere Übersetzungen: [Blum 1830](blum-wer-traegt-die-schuld) und [Castelli 1831](castelli-zwey-jahre-nach-der-hochzeit-oder-an-wem-ist-die-schuld)."
 cast:
   - name: Haller,
     role: Banquier.
@@ -52624,9 +52978,81 @@ cast:
     role: Der Charitas Liebhaber.
     gender: m
 ---
+slug: lewald-das-heimliche-gericht
+author:
+  name: Lewald, August
+  pseudonym: Kurt Waller
+  wikidata: Q99351
+title: Das heimliche Gericht
+subtitle: Schwank in einem Akte
+numberOfScenes: 14
+printed: 1820
+formalia:
+  - Prosa
+editions:
+  - title: "Hortensia. Sammlung dramatischer, lyrischer und epigrammatischer Gedichte von Kurt Waller. Brünn: Traßler 1820, S. 33–66"
+    url: https://books.google.com/books?id=_zhXAAAAcAAJ&pg=PA33
+cast:
+  - name: Hofrath, Schnitzelbein.
+    gender: m
+  - name: Nanine,
+    role: seine Nichte und Mündel.
+    gender: f
+  - name: Mamsell du Levant,
+    role: im Hause des Hofraths.
+    gender: f
+  - name: Raschmann,
+    role: "unter dem angenommenen Namen: Dunkel."
+    gender: m
+  - name: Der junge Raschmann aus Frankfurt am Main.
+    gender: m
+  - name: Ein Polizey-Sergeant.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+---
+slug: lewald-der-grosspapa
+author:
+  name: Lewald, August
+  pseudonym: Kurt Waller
+  wikidata: Q99351
+title: Der Großpapa
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 18
+printed: 1820
+premiered: 1817
+formalia:
+  - Prosa
+editions:
+  - title: "Hortensia. Sammlung dramatischer, lyrischer und epigrammatischer Gedichte von Kurt Waller. Brünn: Traßler 1820, S. 1–31"
+    url: https://books.google.com/books?id=_zhXAAAAcAAJ&pg=PA1
+  - title: "Jahrbuch deutscher Nachspiele. Erster Jahrgang, für 1822. Herausgegeben von Carl von Holtei. Breslau: Graß, Barth & Co.; Leipzig: Barth [1822], S. 221–295"
+    url: https://books.google.com/books?id=BmdIAQAAMAAJ&pg=PA221
+comments:
+  - Erstdruck 1820 mit nur 15 Szenen.
+cast:
+  - name: Herr von Hain,
+    role: ein alter Landedelmann.
+    gender: m
+  - group:
+      - name: Luise,
+        gender: f
+      - name: Karl,
+        gender: m
+    role: seine Enkel.
+  - name: Herr von Mühlen.
+    gender: m
+  - name: Adelheid von Randen.
+    gender: f
+  - name: Ein Diener.
+    gender: m
+setting: >-
+  Das Theater ist in zwei ungleiche Hälften getheilt. Die größere stellt einen Gartensaal, die kleinere eine Bibliothek vor. Die Fenster gehen bis auf die Erde, wie solches in Gartenhäusern gewöhnlich ist. Der Saal hat drei Thüren, eine die in den Garten, eine die in die Szene und eine die in die Bibliothek führt.
+---
 slug: lewald-der-liebe-list-und-rache
 author:
   name: Lewald, August
+  pseudonym: Kurt Waller
   wikidata: Q99351
 title: Der Liebe List und Rache
 subtitle: "Lustspiel in 1 Akt und in Alexandrinern, von Lewald, genannt: Kurt Waller"
@@ -56243,6 +56669,46 @@ cast:
 setting: >-
   Das Stück spielt in der Nähe des Hengspergischen Schlosses und im Schlosse selbst. Die Handlung fällt in die Zeit der Kreutzzüge.
 ---
+slug: meyer-der-tempel-aeskulaps
+author:
+  name: Meyer, Franz Anton von
+  wikidata: Q60836828
+title: "Der Tempel Aeskulaps, oder: Was ist des größten Opfers werth?"
+subtitle: Drama in einem Aufzuge
+numberOfScenes: 14
+printed: 1819
+formalia:
+  - Alexandriner
+editions:
+  - title: "Prag 1819"
+    url: https://books.google.com/books?id=pjVgAAAAcAAJ&printsec=frontcover
+comments:
+  - "Besprechung in: Beilage zum Hesperus. Nr. 12 (März 1819), [S. 62–63](https://books.google.com/books?id=92BEAAAAcAAJ&pg=RA1-PA62)."
+cast:
+  - group:
+      - name: Zeus
+        gender: m
+      - name: Hermes
+        gender: m
+    role: als Wanderer.
+  - group:
+      - name: Philemon und
+        gender: m
+      - name: Baucis
+        gender: f
+    role: ein altes armes Ehepaar.
+  - name: Aret,
+    role: ihr Sohn.
+    gender: m
+  - name: Narcissa,
+    role: seine Braut.
+    gender: f
+  - name: Nachbarn und Nachbarinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Schauplatz ist in der Hütte Philemons. Auf der einen Seite des Eingangs sieht man seine Hausgötter, von schlechtem Holze geschnitzt, und auf einem alten Tische steht ein tönerner, mit Blumen bekränzter Aschenkrug. Das Costume ist altgriechisch.
+---
 slug: meyer-der-verstellte-blinde
 author:
   name: Meyer, Friedrich Ludwig Wilhelm
@@ -56456,6 +56922,54 @@ cast:
     gender: m
 setting: >-
   Ein Saal.
+---
+slug: meyer-eine-stunde-im-vorzimmer-oder-die-hintertreppe
+author:
+  name: Meyer, Heinrich
+  wikidata: Q94841807
+title: "Eine Stunde im Vorzimmer, oder: Die Hintertreppe"
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 26
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele zur geselligen Unterhaltung auf dem Lande auf das Jahr 1834. Erstes Bändchen. Wismar: Schmidt und v. Cossel 1834, S. 1–78"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18016233&childpid=18016238
+cast:
+  - group:
+      - name: Don Matthias de Colibrados,
+        gender: m
+      - name: Ferando Moralez,
+        gender: m
+    role: Sollicitanten.
+  - name: Rosine,
+    role: Putzmacherin, des Moralez Geliebte.
+    gender: f
+  - name: Basilio Tordesillas,
+    role: Barbier, ein Valencianer.
+    gender: m
+  - group:
+      - name: Don Pizarro,
+        role: geheimer Secretair,
+        gender: m
+      - name: Inez,
+        role: Kammerjungfer,
+        gender: f
+      - name: Guzman,
+        role: Kammerdiener,
+        gender: m
+      - name: Pedrillo,
+        role: Jäger,
+        gender: m
+      - name: Gregorio,
+        role: Thürhüter,
+        gender: m
+    role: im Pallaste des Staatsministers Grafen von Olivarez.
+setting: >-
+  Der Schauplatz ist in Madrid, im Pallaste des Grafen von Olivarez. (Großer Vorsaal mit einer Mittelthür und zwei Seitenthüren. An der einen Seite das Cabinet des Ministers, an der andern das Zimmer des Secretairs. Rechts ein Schreibtisch mit verschiedenen Schriften, links ein Spieltisch; an den Wänden mehrere Stühle und Lehnsessel. Neben der Mittelthür ein großes Repositorium, mit vielen Convoluten.)
+location:
+  wikidataId: Q2807
 ---
 slug: meyer-ein-gestaendniss-oder-der-artikel-213-des-buergerlichen-gesetzbuchs
 author:
@@ -62085,6 +62599,48 @@ cast:
     gender: f
 setting: Die Handlung ist in einem kleinen Städtgen in Willibalds Hause.
 ---
+slug: razumovsky-die-befreundeten-nebenbuhler
+author:
+  name: Razumovsky, L. G.
+title: Die befreundeten Nebenbuhler
+subtitle: Original-Lustspiel in einem Act
+numberOfScenes: 12
+printed: 1850
+formalia:
+  - Prosa
+editions:
+  - title: "Als Manuscript gedruckt. Gotha: Stollberg 1850"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=17865757&childpid=17865759
+cast:
+  - name: Walther,
+    role: Edler von Walthershausen, Banquier.
+    gender: m
+  - name: Graf Fritz von Blankenau.
+    gender: m
+  - name: Baron von Schade.
+    gender: m
+  - name: Herr von Milden.
+    gender: m
+  - name: Albert Rott,
+    role: Buchhalter.
+    gender: m
+  - name: Schmai,
+    role: ein Sensal.
+    gender: m
+  - name: Andreas,
+    role: Kammerdiener.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+  - name: Elvira,
+    role: Walthers Nichte.
+    gender: f
+  - name: Flora,
+    role: deren Kammerjungfer.
+    gender: f
+setting: >-
+  Großer eleganter Salon mit einer Mittelthüre und zwei Seitenthüren. Rechts vom Zuschauer ein Tisch, links ein Kanapee.
+---
 slug: reck-fanfan-oder-die-milchbrueder
 author:
   name: Reck, Johann Jakob Christian von
@@ -62877,6 +63433,45 @@ cast:
     gender: m
 setting: >-
   Die dürftig eingerichtete Wohnung des Major Edelschwerd.
+---
+slug: reinhardt-der-gutgemeinte-irrthum
+author:
+  name: Reinhardt, Friederike
+  pseudonym: Lina Reinhardt
+  wikidata: Q18916763
+title: Der gutgemeinte Irrthum
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 16
+printed: 1835
+formalia:
+  - fünfhebige jambische gereimte Verse
+editions:
+  - title: "Dramatische Kleinigkeiten von Lina Reinhardt. Sechs leicht ausführliche Lustspiele jedes in einem Akte, für gesellige Kreise. Nürnberg: Zeh 1835, S. 35–62"
+    url: https://books.google.com/books?id=KOw6AAAAcAAJ&pg=PA35
+cast:
+  - name: Räthlich,
+    role: verwittwete Professorin, ältliche Frau.
+    gender: f
+  - name: Clärchen,
+    role: Mädchen von 18 Jahren, ihr verwandt.
+    gender: f
+  - name: Gottlob Stille,
+    role: Student, in ihrem Hause wohnend.
+    gender: m
+  - group:
+      - name: Franz Herold
+        gender: m
+      - name: Herrmann Rasch
+        gender: m
+    role: ebenfalls Studenten. Stille's Bekannte.
+  - name: Margarethe,
+    role: betagte Köchin der Professorin.
+    gender: f
+  - name: Sophie,
+    role: Stubenmädchen.
+    gender: f
+setting: >-
+  Die Scene ein Garten, im Vordergrunde eine Laube in derselben der Tisch zum Frühstück bereitet.
 ---
 slug: reinhold-die-eheleute-vor-der-hochzeit-oder-sie-sind-zu-hause
 author:
@@ -63805,6 +64400,73 @@ cast:
     gender: u
 setting: >-
   Bauernzimmer. Mittelthür, mit großen Fenstern zu beiden Seiten. Seitenthüren. Ueber der Mittelthür das Bild eines Bauernburschen. Großer Lehnsessel, Spinnrad, Tisch- und Speiseschrank.
+---
+slug: riese-ein-zimmer-zu-zwei-betten
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Ein Zimmer zu zwei Betten
+subtitle: Burleske-Scene in Einem Aufzuge, nach dem Französischen
+numberOfScenes: 3
+printed: 1850
+formalia:
+  - Prosa
+basedOn:
+  - "Varin und Lefèvre: [»Une chambre à deux lits. Pochade en un acte, mêlée de couplets«](https://books.google.com/books?id=KlNUAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Das Theater des Auslandes. In Bearbeitungen von W. Friedrich. Zweiter Band. Hamburg: Verlags-Comptoir 1850, S. 239–245"
+    url: https://books.google.com/books?id=VNAWJ0ybex8C&pg=PA239
+comments:
+  - "Weitere Übersetzung: [Hell (1848)](hell-ein-zimmer-mit-zwei-betten)."
+cast:
+  - name: Isidor.
+    gender: m
+  - name: Ciprian.
+    gender: m
+  - name: Ein Conducteur.
+    gender: m
+  - name: Ein Kellner.
+    gender: m
+setting: >-
+  Scene: Ein Zimmer im Wirthshause. In der Mitte ein Camin. Zu jeder Seite des Camins ein Gardinenbett, mit dem Kopfende zur Mitte. Vor jedem Bette ein Stuhl. Auf dem Camin zwei Waschschüsseln mit Wassergüssen, Gläsern etc. – Links, erste Coulisse, ein Fenster. Rechts, erste Coulisse, eine Thür, – Im Vordergrunde ein Tisch.
+---
+slug: riese-major-haudegen
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Major Haudegen
+subtitle: Schwank in einem Aufzuge. Nach Lefranc
+numberOfScenes: 17
+printed: 1846
+premiered: 1844-10-26
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Labiche, Auguste Lefranc und Paul Jessé: [»Le major Cravachon. Comédie-vaudeville en un acte«](https://books.google.com/books?id=sAJfAAAAcAAJ&pg=PA1)"
+editions:
+  - title: "Dramatisches Allerlei. Bühnenspiele in Uebersetzung und Bearbeitung von W. Friedrich. Erster Jahrgang. Berlin: Springer 1846, S. 189–232"
+    url: https://books.google.com/books?id=RxdVAAAAcAAJ&pg=PA189
+cast:
+  - name: Major von Haudegen,
+    role: Commandant eines Staatsgefängnisses.
+    gender: m
+  - name: Nina,
+    role: seine Tochter.
+    gender: f
+  - name: Anna von Braus.
+    gender: f
+  - name: von Schwingen.
+    gender: m
+  - name: Bock,
+    role: ein junger Kaufmann.
+    gender: m
+  - name: Christian,
+    role: Diener des Majors.
+    gender: m
+setting: >-
+  Salon. Mittelthür. Rechts: 1ste Coulisse, Seitenthür. 2te Coulisse: Kamin mit Spiegel und Setzuhr. Links: zwei Seitenthüren. Einige Rappire an der Wand. Ein Tisch mit Schreibmaterialien rechts.
 ---
 slug: ritter-der-betrogene-entfuehrer
 author:
@@ -72526,7 +73188,7 @@ cast:
   - name: Justizrath von Gutherz.
     gender: m
   - name: Emilie,
-    role: seine Gemahlinn.
+    role: seine Gemahlin.
     gender: f
   - name: Baron Wind.
     gender: m
@@ -72537,7 +73199,7 @@ cast:
     role: Bedienter des Justizraths.
     gender: m
 setting: >-
-  Die Handlung geht in Emiliens Zimmer in den Frühstunden vor sich.
+  Die Handlung geht in Emiliens Zimmer, in den Frühstunden vor sich. (In dem Zimmer steht eine Kommode mit Schubfächern und ein Toilettentisch mit einem Kästchen und einigen Auszügen.)
 ---
 slug: sprickmann-das-missverstaendniss
 author:
@@ -76643,6 +77305,47 @@ cast:
 setting: >-
   Wilder Wald. Link das Haus des Oberförsters. Ueber der Thür ein Hirschgeweih.
 ---
+slug: vincke-kunigunde
+author:
+  name: Vincke, Gisbert von
+  wikidata: Q1527213
+title: Kunigunde
+subtitle: Trauerspiel in einem Aufzug, nach der schlesischen Volkssage bearbeitet
+numberOfScenes: 21
+printed: 1835
+formalia:
+  - Blankvers
+editions:
+  - title: "Dramatische Versuche von G. von V. Bielefeld: Velhagen 1835, S. 121–169"
+    url: https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/2481784
+comments:
+  - "Hinweis im [Vorwort](https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/2481657): Dieser Einakter gehöre zu den Erstlingswerken des Autors."
+keywords:
+  - Ritterstück
+  - Selbstmord
+cast:
+  - name: Kunigunde,
+    role: Gräfinn von Kynast.
+    gender: f
+  - name: Graf Albert von der Warten.
+    gender: m
+  - name: Walther,
+    role: Minnesänger.
+    gender: m
+  - name: Folko,
+    role: Burgvogt.
+    gender: m
+  - name: Reisige des Grafen.
+    isGroup: true
+    gender: m
+  - name: Diener Kunigundens.
+    isGroup: true
+    gender: u
+setting: >-
+  Ort der Handlung: Burg Kynast.
+location:
+  wikidataId: Q511254
+---
 slug: vogel-das-seltene-rezept
 author:
   name: Vogel, Wilhelm
@@ -79748,44 +80451,6 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht in einer englischen Seestadt im Gasthofe, nahe am Hafen vor. (Die Bühne stellt ein Zimmer im Gasthofe vor. Die Mittelthüre führt nach der Treppe, die Seitenthüre in ein Kabinet – links ein Fenster, das die Aussicht nach den Garten öffnet – an der Wand ein großer Spiegel.)
----
-slug: waller-der-grosspapa
-author:
-  name: Lewald, August
-  pseudonym: Kurt Waller
-  wikidata: Q99351
-title: Der Großpapa
-subtitle: Lustspiel in einem Akt
-numberOfScenes: 18
-printed: 1820
-premiered: 1817
-formalia:
-  - Prosa
-editions:
-  - title: "Hortensia. Sammlung dramatischer, lyrischer und epigrammatischer Gedichte von Kurt Waller. Brünn: Traßler 1820, S. 1–31"
-    url: https://books.google.com/books?id=_zhXAAAAcAAJ&pg=PA1
-  - title: "Jahrbuch deutscher Nachspiele. Erster Jahrgang, für 1822. Herausgegeben von Carl von Holtei. Breslau: Graß, Barth & Co.; Leipzig: Barth [1822], S. 221–295"
-    url: https://books.google.com/books?id=BmdIAQAAMAAJ&pg=PA221
-comments:
-  - Erstdruck 1820 mit nur 15 Szenen.
-cast:
-  - name: Herr von Hain,
-    role: ein alter Landedelmann.
-    gender: m
-  - group:
-      - name: Luise,
-        gender: f
-      - name: Karl,
-        gender: m
-    role: seine Enkel.
-  - name: Herr von Mühlen.
-    gender: m
-  - name: Adelheid von Randen.
-    gender: f
-  - name: Ein Diener.
-    gender: m
-setting: >-
-  Das Theater ist in zwei ungleiche Hälften getheilt. Die größere stellt einen Gartensaal, die kleinere eine Bibliothek vor. Die Fenster gehen bis auf die Erde, wie solches in Gartenhäusern gewöhnlich ist. Der Saal hat drei Thüren, eine die in den Garten, eine die in die Szene und eine die in die Bibliothek führt.
 ---
 slug: walz-einwilligung-wider-willen
 author:
