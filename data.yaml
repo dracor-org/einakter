@@ -18957,6 +18957,48 @@ cast:
 setting: >-
   Eine einsame angenehme Gegend – im Hintergrund ein Felsen von dem das Wasser sich in einen kleinen Bach herabstürzt und eine Cascade formirt – vorn eine kleine anmuthige Grotte, in welcher Rhea liegt.
 ---
+slug: buessel-zapolyas-der-strenge-oder-omar-und-fatme
+author:
+  name: Büssel, Alois Josef
+  wikidata: Q55901971
+title: "Zapolyas der Strenge, oder: Omar und Fatme"
+subtitle: Ein lyrisches Drama in einem Act
+numberOfScenes: 15
+printed: 1823
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dramatische Blüthen. Bamberg und Würzburg: Goebhardt 1823"
+cast:
+  - name: Ladislaus Zapolyas,
+    role: Graf und Statthalter auf der Trentsin.
+    gender: m
+  - name: Rosina,
+    role: seine Gemahlin.
+    gender: f
+  - name: Stephan,
+    role: sein Sohn.
+    gender: m
+  - name: Omar,
+    role: der Sohn eines Pascha.
+    gender: m
+  - name: Fatme,
+    role: dessen Braut.
+    gender: f
+  - name: Mahmud,
+    role: ein junger Muselmann.
+    gender: m
+  - name: Viele Muselmänner.
+    isGroup: true
+    gender: m
+  - name: Ungarische Jünglinge und Mädchen.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Handlung spielt auf Trentsin in Ungarn. (Ein glänzender Saal mit Ahnenbildern ausgeschmückt. Das Uebrige der Umgebungen nach ungarischem Costüme.)
+location:
+  wikidataId: Q678465
+---
 slug: buri-der-kohlenbrenner
 author:
   name: Buri, Ludwig Ysenburg von
@@ -21042,6 +21084,31 @@ setting: >-
   Die Scene ist das Palais des Fürsten, das kleine Farnese genannt. (Die Bühne stellt das Attelier eines Mahlers vor.)
 location:
   wikidataId: Q1126723
+---
+slug: castelli-sie-liebt-ihn-nicht-weil-sie-ihn-liebt
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Sie liebt ihn nicht, weil sie ihn liebt
+subtitle: Ein Lustspiel in einem Act
+numberOfScenes: 12
+printed: 1812
+formalia:
+  - Prosa
+editions:
+  - title: "Selam. Ein Almanach für Freunde des Mannigfaltigen auf das Jahr 1812. Von I. F. Castelli. Wien: Strauss [1812], S. 133–176"
+cast:
+  - name: Julie Selling.
+    gender: f
+  - name: Cäcilie,
+    role: ihr Mädchen.
+    gender: f
+  - name: Halm.
+    gender: m
+  - name: Sporberg.
+    gender: m
+setting: >-
+  Die Handlung geht auf Juliens Landhause vor. (Die Bühne stellt einen Saal mit einer Mittel- und zwey Seitenthüren vor.)
 ---
 slug: castelli-uniform-und-schlafrock
 author:
@@ -33741,6 +33808,42 @@ setting: >-
 location:
   wikidataId: Q12431
 ---
+slug: hell-bekommen-oder-geben
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Bekommen oder geben?
+subtitle: Lustspiel in Einem Aufzuge. Nach dem Französischen des Dumanoir
+numberOfScenes: 15
+printed: 1849
+formalia:
+  - Prosa
+basedOn:
+  - "Dumanoir: [»Le code des femmes. Comédie en un acte, mêlée de couplets«](https://books.google.com/books?id=zVNcAAAAcAAJ&pg=PA1)"
+editions:
+  - title: "Dramatisches Vergißmeinnicht auf das Jahr 1849 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Sechsundzwanzigstes Bändchen. Dresden und Leipzig: Arnoldi 1849"
+cast:
+  - name: Paul Fauvel.
+    gender: m
+  - name: Emma,
+    role: seine Frau.
+    gender: f
+  - name: Mignonet,
+    role: Advocat.
+    gender: m
+  - name: Romain,
+    role: Paul's Bedienter.
+    gender: m
+  - name: Louchon,
+    role: dessen Vetter.
+    gender: m
+  - name: Ein Kammermädchen.
+    gender: f
+setting: >-
+  Scene: Paris. (Die Bühne stellt ein Zimmer vor. Rechts und links Thüren. Kamin links vorn. Stühle. Rechts vorn ein Gueridon.)
+location:
+  wikidataId: Q90
+---
 slug: hell-camilla-oder-bruder-und-schwester
 author:
   name: Hell, Theodor
@@ -34291,6 +34394,45 @@ cast:
 setting: >-
   Scene: eine Hauptstadt. (Ein sehr einfach meublirtes Gemach.)
 ---
+slug: hell-die-praesidentin
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Die Präsidentin
+subtitle: Lustspiel in einem Akte. Nach dem Französischen der Ancelot
+numberOfScenes: 15
+printed: 1839
+formalia:
+  - Prosa
+basedOn:
+  - "Virginie Ancelot: [»Le chateau de ma nièce. Comédie en un acte, en prose«](https://books.google.com/books?id=GVdcAAAAcAAJ&pg=PA1)"
+editions:
+  - title: "Dramatisches Vergißmeinnicht auf das Jahr 1839 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Sechszehntes Bändchen. Dresden und Leipzig: Arnoldi 1839, S. 115–174"
+cast:
+  - name: Der Marquis von Stainville.
+    gender: m
+  - name: Herr von Lussan.
+    gender: m
+  - name: Der Chevalier Dalby.
+    gender: m
+  - name: Gombaud,
+    role: Kammerdiener der Präsidentin.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+  - name: Die Präsidentin von Lamorinière.
+    gender: f
+  - name: Die Gräfin von Surgis,
+    role: ihre Nichte.
+    gender: f
+  - name: Margarethe von Lussan,
+    role: Schwester des Herrn v. Lussan.
+    gender: m
+setting: >-
+  Die Handlung geht im Jahre 1743 im Schlosse der Gräfin Surgis, 6 Meilen von Paris, vor. (Die Bühne stellt einen Salon dar. Mittelthür. Seitenthüren. Ein Tisch mit Schreibgeräth rechts. Ein Lehnstuhl links.)
+location:
+  wikidataId: Q90
+---
 slug: hell-die-unzertrennlichen
 author:
   name: Hell, Theodor
@@ -34422,6 +34564,44 @@ setting: >-
   Die Scene spielt vor einem der Thore Londons, ohnweit des Narrenhauses, Bedlam genannt.
 location:
   wikidataId: Q831377
+---
+slug: hell-eine-homoeopathische-kur
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Eine homöopathische Kur
+subtitle: Lustspiel in einem Akte. Nach Fournier und Bieville
+numberOfScenes: 21
+printed: 1839
+formalia:
+  - Prosa
+basedOn:
+  - "Edmond de Biéville und Narcisse Fournier: [»L'homéopathie. Comédie-vaudeville en un acte«]()"
+editions:
+  - title: "Dramatisches Vergißmeinnicht auf das Jahr 1839 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Sechszehntes Bändchen. Dresden und Leipzig: Arnoldi 1839, S. 175–226"
+cast:
+  - name: Frau von Bergen,
+    role: eine junge Witwe.
+    gender: f
+  - name: Karl von Andorf,
+    role: ihr Cousin.
+    gender: m
+  - name: William White,
+    role: homöopathischer Arzt.
+    gender: m
+  - group:
+      - name: Marie,
+        role: Kammerfrau
+        gender: f
+      - name: Klaus,
+        role: Bedienter
+        gender: m
+    role: der Frau von Bergen.
+  - name: Bediente.
+    isGroup: true
+    gender: u
+setting: >-
+  Die Bühne stellt einen Salon dar. Thüren im Hintergrunde und an den Seiten. Ein Kamin rechts. Eben da weiter vor ein Tisch mit Schreibgeräthen.
 ---
 slug: hell-ein-guter-ruf
 author:
@@ -37331,6 +37511,37 @@ cast:
 setting: >-
   Der Schauplatz stellt eine freie Gegend vor.
 ---
+slug: hoelder-brigitte-oder-sie-faellt-mit-der-thuer-zum-haus-hinein
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Brigitte, oder sie fällt mit der Thür zum Haus hinein
+subtitle: Schauspiel in einem Akt
+numberOfScenes: 6
+printed: 1822
+formalia:
+  - Prosa
+editions:
+  - title: "Neues Kinder-Theater zur Unterhaltung und Belehrung durch Beispiele von Luise Hölder. Zweites Bändchen. Nürnberg: Bauer und Raspe 1822, S. 135–159"
+    url: https://books.google.com/books?id=AstDAQAAMAAJ&pg=RA1-PA135
+comments:
+  - "Kommentar unter dem Personenverzeichnis: »Fortsetzung der [Neugierigen](https://books.google.com/books?id=AstDAQAAMAAJ&pg=PA9) im ersten Bändchen.«"
+keywords:
+  - Kindertheater
+cast:
+  - name: Brigitte.
+    gender: f
+  - name: Pauline.
+    gender: f
+  - name: Elise.
+    gender: f
+  - name: Minchen.
+    gender: f
+  - name: Reinhard.
+    gender: m
+  - name: Christoph.
+    gender: m
+---
 slug: hoelder-das-bestrafte-verbrechen
 author:
   name: Hölder, Luise
@@ -37439,6 +37650,43 @@ cast:
     gender: f
 setting: >-
   Ein Gartensaal. Stühle stehen unordentlich um einen Tisch, auf welchem Karten, Schaumünzen und Würfel bunt durch einander liegen.
+---
+slug: hoelder-der-ungezogene-knabe-oder-beispiel-einer-schlechten-erziehung
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Der ungezogene Knabe, oder Beispiel einer schlechten Erziehung
+subtitle: Schauspiel in einem Akt
+numberOfScenes: 21
+printed: 1822
+formalia:
+  - Prosa
+editions:
+  - title: "Neues Kinder-Theater zur Unterhaltung und Belehrung durch Beispiele von Luise Hölder. Zweites Bändchen. Nürnberg: Bauer und Raspe 1822, S. 39–99"
+    url: https://books.google.com/books?id=AstDAQAAMAAJ&pg=RA1-PA39
+keywords:
+  - Kindertheater
+cast:
+  - name: Frau Irrbach.
+    gender: f
+  - name: Hänschen,
+    role: ihr Sohn.
+    gender: m
+  - group:
+      - name: Nikolaus,
+        gender: m
+      - name: Erhard,
+        gender: m
+    role: seine Schulfreunde.
+  - name: Rosine,
+    role: Erhards Schwester.
+    gender: f
+  - name: Herr Haurich,
+    role: ein Kaufmann.
+    gender: m
+  - name: Lore,
+    role: ein Dienstmädchen.
+    gender: f
 ---
 slug: hoelder-die-arbeitsamen-kinder
 author:
@@ -37708,6 +37956,53 @@ cast:
       - name: Toni,
         gender: m
     role: Bettelsänger.
+---
+slug: hoelder-was-haenschen-nicht-lernt-lernt-hans-nimmermehr
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Was Hänschen nicht lernt, lernt Hans nimmermehr
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 5
+printed: 1822
+formalia:
+  - Prosa
+editions:
+  - title: "Neues Kinder-Theater zur Unterhaltung und Belehrung durch Beispiele von Luise Hölder. Zweites Bändchen. Nürnberg: Bauer und Raspe 1822, S. 101–133"
+    url: https://books.google.com/books?id=AstDAQAAMAAJ&pg=RA1-PA101
+comments:
+  - "Kommentar unter dem Personenverzeichnis: »Fortsetzung des [ungezogenen Knaben](hoelder-der-ungezogene-knabe-oder-beispiel-einer-schlechten-erziehung), nach einem Zeitraum von vier Jahren.«"
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr Hole,
+    role: ein Lehrer.
+    gender: m
+  - group:
+      - name: Adolph,
+        gender: m
+      - name: Erhard,
+        gender: m
+      - name: Nikolaus,
+        gender: m
+      - name: Albrecht,
+        gender: m
+      - name: Christian,
+        gender: m
+      - name: Heinrich,
+        gender: m
+      - name: Johann,
+        gender: m
+      - name: Gottlieb und
+        gender: m
+    role: seine Schüler.
+  - name: Verschiedene andere Knaben.
+    isGroup: true
+    gender: m
+  - name: Hans.
+    gender: m
+setting: >-
+  Ein Schulzimmer, worin mehrere Knaben versammelt sind. Einige schreiben, andere richten ihre Aufmerksamkeit auf ein Buch, das sie vor sich liegen haben.
 ---
 slug: hoelder-was-man-in-frueher-jugend-treibt-auch-spaeter-gerne-hangen-bleibt
 author:
@@ -56493,6 +56788,43 @@ cast:
 setting: >-
   Ein geschmackvoll möblirtes Zimmer.
 ---
+slug: meisl-die-heimath-des-glueckes
+author:
+  name: Meisl, Carl
+  wikidata: Q1308773
+title: Die Heimath des Glückes
+subtitle: Allegorisches Spiel in einem Akte
+numberOfScenes: 4
+printed: 1829
+premiered: 1828-02-12
+formalia:
+  - Verse
+  - Prosa
+editions:
+  - title: "Taschenbuch des k. k. privilegirten Theaters in der Leopoldstadt für das Jahr 1829. Sechzehnter Jahrgang. Wien: Gerold [1829], S. 17–36"
+    url: https://books.google.com/books?id=jhVaAAAAcAAJ&pg=PA17
+cast:
+  - name: Das Glück.
+    gender: u
+  - name: Das Verdienst.
+    gender: u
+  - name: Bastian,
+    role: ein Landmann.
+    gender: m
+  - name: Lischen,
+    role: seine Tochter.
+    gender: f
+  - name: Thomas,
+    role: ihr Bräutigam.
+    gender: f
+  - name: Der Schulmeister.
+    gender: m
+  - name: Landleute beyderley Geschlechts, Kinder.
+    isGroup: true
+    gender: u
+setting: >-
+  Wolkengegend.
+---
 slug: meisl-die-heirath-durch-die-gueter-lotterie
 author:
   name: Meisl, Carl
@@ -64982,6 +65314,46 @@ cast:
     gender: u
 setting: >-
   Bauernzimmer. Mittelthür, mit großen Fenstern zu beiden Seiten. Seitenthüren. Ueber der Mittelthür das Bild eines Bauernburschen. Großer Lehnsessel, Spinnrad, Tisch- und Speiseschrank.
+---
+slug: riese-ein-unbekannter-beschuetzer
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Ein unbekannter Beschützer
+subtitle: Lustspiel in Einem Aufzuge nach Scribe
+numberOfScenes: 16
+printed: 1850
+formalia:
+  - Prosa
+basedOn:
+  - Eugène Scribe
+editions:
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Hamburg: Verlags-Comptoir 1850"
+    url: https://books.google.com/books?id=-fBAZdzR5rgC&printsec=frontcover
+cast:
+  - name: Lord Albert Clavering,
+    role: Mitglied des Parlaments.
+    gender: m
+  - name: Lord Primerose.
+    gender: m
+  - name: Helene,
+    role: eine junge Malerin.
+    gender: f
+  - name: Crosby,
+    role: Gemäldehändler.
+    gender: m
+  - name: Durocher,
+    role: Maler.
+    gender: m
+  - name: Ein Diener.
+    gender: m
+  - name: Ein Jockey.
+    gender: m
+setting: >-
+  Scene: Ein Landgut in der Nähe von London. (Salon in einem Gartenhause. Mittelthür mit Aussicht in den Garten. Seitenthüren. Links ein Tisch, darauf ein Kästchen und eine Klingel. Rechts eine Staffelei mit einem kleinen Gemälde – daneben ein Tisch mit Malergeräth.)
+location:
+  wikidataId: Q84
 ---
 slug: riese-ein-zimmer-zu-zwei-betten
 author:
