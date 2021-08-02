@@ -6515,6 +6515,44 @@ cast:
     role: dessen Bedienter.
     gender: m
 ---
+slug: anonym-die-broschueren-gegen-die-juden-oder-die-rache
+author:
+  pseudonym: A.....i, C. R.
+title: Die Broschüren gegen die Juden oder Die Rache
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 10
+printed: 1816
+formalia:
+  - Prosa
+editions:
+  - title: "Frankfurt am Main 1816"
+comments:
+  - "Seitenstück zu [»Unser Verkehr«](sessa-unser-verkehr)."
+  - "Besprechung in: Leipziger Literatur-Zeitung. Nr. 133 (Am 31. des May 1816), [Sp. 1064](https://books.google.com/books?id=dou-7StcS4MC&pg=PA1063)."
+  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 225 (December 1817), [Sp. 416](https://books.google.com/books?id=2ZcFAAAAQAAJ&pg=RA1-PA415): »dass aber über Streitgegenstände durch ein Lustspiel nichts entschieden werden könne, bestätigt sich auch hier«."
+  - Der 9. Auftritt ist nicht markiert; auf S. 50 beginnt theoretisch nach »(führt seine Frau am Arme ab.)« ein neuer Auftritt; der 10. Auftritt beginnt dann auf S. 53.
+  - "Das Impressum Frankfurt am Main ist fiktiv, der Band ist bei Kunz in Bamberg erschienen (vgl. Karl Klaus Walther: Carl Friedrich Kunz. Ein literarischer Unternehmer aus Bamberg. Bamberg 1994, S. 24)."
+keywords:
+  - Judentum
+cast:
+  - name: Der Bürgermeister.
+    gender: m
+  - name: Dessen Frau.
+    gender: f
+  - name: Herr Mayer,
+    role: ein reicher Jude.
+    gender: m
+  - name: Walter.
+    gender: m
+  - group:
+      - name: Itzig.
+        gender: m
+      - name: Moses.
+        gender: m
+    role: Handelsjuden.
+setting: >-
+  Die Handlung ist in einem Land-Städtchen nahe einer großen Stadt.
+---
 slug: anonym-die-haushaelterin
 author:
   pseudonym: Anonym
@@ -8925,13 +8963,15 @@ numberOfScenes: 24
 printed: 1789
 formalia:
   - Prosa
+basedOn:
+  - "Madame Rozet und Françoise-Cécile Falconnet: [»L'heureuse rencontre. Comédie en un acte et en prose«](https://books.google.com/books?id=0z46AAAAcAAJ&printsec=frontcover)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 30, S. 396
 editions:
   - title: "[Ohne Ort: ohne Verlag] 1789"
 comments:
-  - "Vorlage unklar. Weitere Übersetzung: [Anonym 1772](anonym-die-glueckliche-zusammenkunft-1772)."
+  - "Weitere Übersetzung: [Anonym 1772](anonym-die-glueckliche-zusammenkunft-1772)."
 cast:
   - name: Dormin,
     role: ein Pfachter.
@@ -9204,6 +9244,8 @@ numberOfScenes: 24
 printed: 1772
 formalia:
   - Prosa
+basedOn:
+  - "Madame Rozet und Françoise-Cécile Falconnet: [»L'heureuse rencontre. Comédie en un acte et en prose«](https://books.google.com/books?id=0z46AAAAcAAJ&printsec=frontcover)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 480–481
@@ -9211,7 +9253,7 @@ editions:
   - title: "Frankfurt am Mayn: Andreä 1772"
     url: https://books.google.com/books?id=XSNVAAAAcAAJ&printsec=frontcover
 comments:
-  - "»Vorlage: unklar.« (Meyer) – Weitere Übersetzung: [Anonym 1789](anonym-die-glueckliche-zusammenkunft-1789)."
+  - "Weitere Übersetzung: [Anonym 1789](anonym-die-glueckliche-zusammenkunft-1789)."
 cast:
   - name: Vincent.
     gender: m
@@ -9658,7 +9700,7 @@ editions:
     url: https://www.nli.org.il/en/books/NNL_ALEPH003152747/NLI
 comments:
   - "Seitenstück zu Karl Borromäus Alexander Sessa: [»Unser Verkehr. Eine Posse in einem Akte«](sessa-unser-verkehr)."
-  - "Als Herausgeber wird ›J. Treuherz jun.‹ genannt. In der Kurzrezension in den [Blättern für literarische Unterhaltung, Nr. 186 (5. Juli 1834), S. 770](https://books.google.com/books?id=XhdBAQAAMAAJ&pg=PA770) heißt es: »Der Verf. muß ein Jude sein«."
+  - "Als Herausgeber wird ›J. Treuherz jun.‹ genannt. In der Kurzrezension in den [Blättern für literarische Unterhaltung, Nr. 186 (5. Juli 1834), S. 770](https://books.google.com/books?id=XhdBAQAAMAAJ&pg=PA770), heißt es: »Der Verf. muß ein Jude sein«."
 keywords:
   - Judentum
 cast:
@@ -28114,6 +28156,61 @@ cast:
 setting: >-
   Zimmer mit einer Seitenthür.
 ---
+slug: gabriel-roeschen
+author:
+  name: Gabriel, Wilhelm
+  wikidata: Q94837762
+title: Röschen
+subtitle: Lustspiel in einem Act
+numberOfScenes: 11
+printed: 1824
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Versuche von Wilhelm Gabriel. Breslau: Gosohorsky 1824, S. 1–45"
+cast:
+  - name: Baron von Reich.
+    gender: m
+  - name: Gräfin von Stahl,
+    role: dessen Schwester.
+    gender: f
+  - group:
+      - name: Eduard,
+        gender: m
+      - name: Helene,
+        gender: f
+    role: ihre Kinder.
+  - name: Carl von Reich.
+    gender: m
+setting: >-
+  Die Scene ist in einem Gebirgsdorfe. (Romantische Gegend. Im Hintergrunde Berge. Im Vordergrunde, links vom Schauspieler, Gebüsch. Rechts ein Bauernhaus, neben welchem sich eine Gartenthür befindet. Vor dem Hause ein ländlicher Tisch.)
+---
+slug: gabriel-sie-faengt-sich-in-den-eignen-netzen
+author:
+  name: Gabriel, Wilhelm
+  wikidata: Q94837762
+title: Sie fängt sich in den eignen Netzen
+subtitle: Lustspiel in einem Act
+numberOfScenes: 7
+printed: 1824
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Versuche von Wilhelm Gabriel. Breslau: Gosohorsky 1824, S. 46–80"
+cast:
+  - name: Walter,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Mathilde,
+    role: seine Tochter.
+    gender: f
+  - name: Heinrich.
+    gender: m
+  - name: Graf von Bresen.
+    gender: m
+setting: >-
+  Die Scene ist in einem Wohnzimmer mit einer Mittel- und Seitenthür.
+---
 slug: gaensberger-campaspe-oder-die-wahl-der-liebe
 author:
   name: Gänsberger, Joseph Franz
@@ -38482,6 +38579,35 @@ setting: >-
   Ort der Handlung: Wien. (Elegantes Zimmer. Links an einem Fenster steht ein sehr modern gekleidet und frisirtes Brustbild mit wächsernem Gesichte, wie sie in den Ausstellkasten der Modehandlungen üblich sind. Im Hintergrund eine Mittelthür, und auf beiden Seiten Glaskasten mit Kleidern und modernen Kopfzeugen. In der Ecke rechts ein hoher Perückenstock mit einer Haarbeutel-Perücke, und ein kleinerer mit einer blonden Damen-Tour. In der Ecke links auf zwei Stöcken mittelmäßiger Höhe, eine moderne schwarze und braune Herrn-Perücke. Mehrere Stühle, Requisiten für Friseur- und Putzarbeiten liegen auf den Tischen.)
 location:
   wikidataId: Q1741
+---
+slug: holbein-die-verraetherin
+author:
+  name: Holbein, Franz Ignaz von
+  wikidata: Q1447416
+title: Die Verrätherin
+subtitle: "Original-Lustspiel in einem Aufzuge, als Seitenstück des Original-Lustspiels: »Der Verräther«"
+numberOfScenes: 11
+printed: 1840
+premiered: 1836-08-05
+formalia:
+  - Prosa
+editions:
+  - title: "Als Manuscript gedruckt. Hannover: Telgener [1840]"
+    url: https://books.google.com/books?id=URQmJiP1R6IC&printsec=frontcover
+comments:
+  - "Seitenstück zu Holbeins Einakter [»Der Verräther«](holbein-der-verraether)."
+  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 330 (Mittwoch, 25. November 1840), [S. 1331](https://books.google.com/books?id=6jxaAAAAcAAJ&lpg=PA1331&ots=xRV3JlYZ3F&pg=PA1331)."
+cast:
+  - name: Amalie Mehrenbach.
+    gender: f
+  - name: Karl Thauring.
+    gender: m
+  - name: Banquier Vollwerth.
+    gender: m
+setting: >-
+  Ort der Handlung: Berlin. (Elegantes Zimmer, mit einer Mittelthüre. Rechts und links in der ersten Coulisse eine Seitenthüre. Die Thüre rechts ist mit zwei Eisenstangen und großen Vorhängschlössern verschlossen. Im Vorgrund links ein großer Ankleidespiegel. Im Proscenium rechts ein Tisch. Mehrere Stühle.)
+location:
+  wikidataId: Q64
 ---
 slug: holbein-die-wittwe-und-der-wittwer-oder-treue-bis-in-den-tod
 author:
@@ -65355,6 +65481,37 @@ setting: >-
 location:
   wikidataId: Q84
 ---
+slug: riese-ein-weisser-othello
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Ein weißer Othello
+subtitle: Possenspiel in Einem Acte nach Brisebarre's »Un Tigre du Bengale«
+numberOfScenes: 21
+printed: 1849
+formalia:
+  - Prosa
+basedOn:
+  - "Édouard Brisebarre und Marc-Michel: [»Un tigre du Bengale. Comédie mêlée en un acte«](https://nbn-resolving.de/urn:nbn:de:hbz:5:1-16791)"
+editions:
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Hamburg: Verlags-Comptoir 1849"
+    url: https://books.google.com/books?id=wx7fsHc05GkC&printsec=frontcover
+cast:
+  - name: Mohr,
+    role: Rentier.
+    gender: m
+  - name: Clorinde,
+    role: seine Frau.
+    gender: f
+  - name: Zahrt.
+    gender: f
+  - name: Meta,
+    role: Köchin.
+    gender: f
+setting: >-
+  Scene: Eine große Stadt.
+---
 slug: riese-ein-zimmer-zu-zwei-betten
 author:
   name: Riese, Friedrich Wilhelm
@@ -72842,7 +72999,7 @@ editions:
     url: https://nbn-resolving.de/urn:nbn:de:hbz:6:1-211505
 comments:
   - 1813 unter dem Titel »Die Judenschule« (mit dem Pseudonym Samson Eidechs als Verfasserangabe) uraufgeführt.
-  - "Es wurden mehrere Gegenstücke geschrieben, als Einakter: Julius von Voß: [»Euer Verkehr: Posse in einem Aufzuge. Gegenstück zur Judenschule oder Unserm Verkehr, von Herrn Dr. Sessa«](voss-euer-verkehr) (1817); Carl Friedrich Solbrig: [»Die Judenschaft in der Klemme. Eine Posse in einem Akt. Seitenstück zu: Unser Verkehr«](solbrig-die-judenschaft-in-der-klemme) (1819); J. Treuherz jun. (Hrsg.): [»Die Verlobung oder Der Bräutigam im Felleisen. Fastnachts-Posse in jüdischer Mundart in einem Aufzuge. Ein Seitenstück zu Unser Verkehr«](anonym-die-verlobung-oder-der-braeutigam-im-felleisen) (1833).– Als Dreiakter: [»Aaron in der Klemme oder der Bräutigam als Braut. Ein Schauspiel mit Ernst und Scherz in drei Aufzügen«](https://books.google.com/books?id=JBXoCYDsOEUC&printsec=frontcover) (1818). – Als Vierakter: Simon Höchheimer: [»Der Spiegel für Israeliten. Ein Gegenstück zu der Posse: ›Unser Verkehr‹«](http://resolver.staatsbibliothek-berlin.de/SBB00003C5B00000000) (1817)."
+  - "Es wurden mehrere Gegenstücke geschrieben, als Einakter: C. R. A.....i: [»Die Broschüren gegen die Juden oder Die Rache«](anonym-die-broschueren-gegen-die-juden-oder-die-rache) (1816); Julius von Voß: [»Euer Verkehr: Posse in einem Aufzuge. Gegenstück zur Judenschule oder Unserm Verkehr, von Herrn Dr. Sessa«](voss-euer-verkehr) (1817); Carl Friedrich Solbrig: [»Die Judenschaft in der Klemme. Eine Posse in einem Akt. Seitenstück zu: Unser Verkehr«](solbrig-die-judenschaft-in-der-klemme) (1819); J. Treuherz jun. (Hrsg.): [»Die Verlobung oder Der Bräutigam im Felleisen. Fastnachts-Posse in jüdischer Mundart in einem Aufzuge. Ein Seitenstück zu Unser Verkehr«](anonym-die-verlobung-oder-der-braeutigam-im-felleisen) (1833).– Als Dreiakter: [»Aaron in der Klemme oder der Bräutigam als Braut. Ein Schauspiel mit Ernst und Scherz in drei Aufzügen«](https://books.google.com/books?id=JBXoCYDsOEUC&printsec=frontcover) (1818). – Als Vierakter: Simon Höchheimer: [»Der Spiegel für Israeliten. Ein Gegenstück zu der Posse: ›Unser Verkehr‹«](http://resolver.staatsbibliothek-berlin.de/SBB00003C5B00000000) (1817)."
 keywords:
   - Judentum
   - Antisemitismus
