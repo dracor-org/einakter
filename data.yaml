@@ -2437,6 +2437,43 @@ setting: >-
 location:
   wikidataId: Q7333847
 ---
+slug: anonym-bock-und-kaufmann-oder-wer-ist-der-aergste-schelm
+author:
+  pseudonym: Anonym
+title: "Bock und Kaufmann, oder: Wer ist der ärgste Schelm?"
+subtitle: Posse in einem Akt
+numberOfScenes: 5
+printed: 1844
+formalia:
+  - Prosa
+editions:
+  - title: "Stuttgart: Wachendorf 1844"
+comments:
+  - "Vor der ersten Szene steht ein ca. einseitiges »Vorspiel«; nach der fünften und letzten Szene folgt ein kurzes »Finale«. Kein Personenverzeichnis vorhanden, Liste der Figuren in der Reihenfolge ihres Auftretens."
+cast:
+  - name: Jörg.
+    gender: m
+  - name: Michel.
+    gender: m
+  - name: Bocksbock.
+    gender: m
+  - name: Doktor.
+    gender: m
+  - name: Lehrjunge.
+    gender: m
+  - name: Horn,
+    role: Kleiderkünstler.
+    gender: m
+  - name: Zimmer,
+    role: Kaufmann.
+    gender: m
+  - name: Gassenjodel.
+    gender: m
+  - name: Der oberste Teufel.
+    gender: m
+setting: >-
+  Zimmer des Schneider Bocksbock zu Bartholomähäh.
+---
 slug: anonym-brando
 author:
   pseudonym: Anonym
@@ -8955,10 +8992,10 @@ setting: Die Scene ist in dem Gesellschafts-Saal, welcher an eine verschlossene
 ---
 slug: anonym-die-glueckliche-zusammenkunft-1789
 author:
-  name: E..., F. A.
+  name: E., F. A.
   pseudonym: Anonym
 title: Die glückliche Zusammenkunft
-subtitle: Ein Lustspiel in einem Aufzug aus dem Französischen
+subtitle: Ein Lustspiel in einem Aufzug aus dem Französischen von F. A. E.
 numberOfScenes: 24
 printed: 1789
 formalia:
@@ -11291,6 +11328,40 @@ cast:
     role: Veits Bruder.
     gender: m
 setting: Die Handlung ist in einem Elsassischen Dorfe.
+---
+slug: anonym-minna-oder-das-unschuldige-maedchen
+author:
+  pseudonym: Anonym
+title: Minna oder Das unschuldige Mädchen
+subtitle: Ein Nachspiel in einem Aufzug. Von dem Uebersetzer der glücklichen Zusammenkunft
+numberOfScenes: 16
+printed: 1799
+formalia:
+  - Prosa
+editions:
+  - title: "[Düsseldorf: Schreiner] 1799"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0000E7A000000003
+comments:
+  - "Vielleicht ist mit der übersetzten »glücklichen Zusammenkunft« [die Ausgabe von 1789](anonym-die-glueckliche-zusammenkunft-1789) gemeint, die als Urheber »F. A. E.« angegeben hatte.«"
+  - "Ort und Verlag ermittelt über die [Metadaten](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN755410459&view=overview-info) der Staatsbibliothek zu Berlin."
+cast:
+  - name: Herr von Oliban,
+    role: Stadtrichter, Oheim des jungen Eduard.
+    gender: m
+  - name: Frau von Haricour,
+    role: eine Wittib von etlichen dreißig Jahren.
+    gender: f
+  - name: Minna,
+    role: ihre Tochter, ein unschuldiges Mädchen von 16 Jahren.
+    gender: f
+  - name: Frau Pernelle,
+    role: eine Wittib von mittlerem Alter.
+    gender: f
+  - name: Ludwig,
+    role: der alte Gärtner der Frau von Haricour.
+    gender: m
+setting: >-
+  Der Schauplatz ist der Garten, hinter der Frau von Haricour ihrem Hause. (Das Theater stellet einen angenehmen Garten vor mit etlichen hohen Bäumen. Rechter Hand eine große doppelte Glaßthür der Eingang in einen Sommersaal, hintenher der Eingang in eine Allee, welche an der Frau von Haricour Wohnhauß stöst. Linker Hand eine Thür, welche auf die Straß führet: ganz vorn eine Sommer-Laube, mit einer Raßenbanck. Im Grunde des Theaters eine kleine Thür, wodurch man in des Gärtners Zimmer geht: es ist Nacht, der Vollmond scheint durch die Bäum, und macht den ganzen Garten hell.)
 ---
 slug: anonym-orleans-hoellenfahrt
 author:
@@ -22481,7 +22552,7 @@ cast:
     isGroup: true
     gender: u
 setting: >-
-  Die Scene spielt in England, im Schlosse zu Windsor, 1662. (Großer Saal mit einer Gallerie. Im Hintergrunde der Haupteingang. Rechts und links eine Seitenthür. Im Vorgrunde ein Tisch mti einer Decke, auf demselben die nöthigen Schreibmaterialien.)
+  Die Scene spielt in England, im Schlosse zu Windsor, 1662. (Großer Saal mit einer Gallerie. Im Hintergrunde der Haupteingang. Rechts und links eine Seitenthür. Im Vorgrunde ein Tisch mit einer Decke, auf demselben die nöthigen Schreibmaterialien.)
 location:
   wikidataId: Q42646
 ---
@@ -27001,6 +27072,58 @@ cast:
     gender: f
 setting: >-
   Zimmer in Frau v. Fuchs Hause.
+---
+slug: feldmann-die-kirschen
+author:
+  name: Feldmann, Leopold
+  wikidata: Q88371
+title: Die Kirschen
+subtitle: Original-Lustspiel in Einem Akte
+numberOfScenes: 24
+printed: 1841
+premiered: 1842-04-20
+formalia:
+  - Prosa
+editions:
+  - title: "Als Manuscript gedruckt. München 1841"
+  - title: "Deutsche Original-Lustspiele von L. Feldmann. Wien: Wallishausser 1845, S. 65–101"
+    url: https://books.google.com/books?id=SaXdxHk30WkC&pg=PA65
+cast:
+  - name: Frau v. Rosenperg,
+    role: eine junge Wittwe.
+    gender: f
+  - name: v. Sturmband,
+    role: Uhlanen-Rittmeister.
+    gender: m
+  - name: Joseph Zimmtstängel,
+    role: ehemaliger Kaufmann, Wittwer.
+    gender: m
+  - name: Kaspar Zimmtstängel,
+    role: dessen Bruder.
+    gender: m
+  - name: v. Mühlenheim,
+    role: Banquier.
+    gender: m
+  - name: Fritz,
+    role: dessen Comptoir-Junge.
+    gender: m
+  - name: Lisette,
+    role: Kammermädchen bei Frau v. Rosenperg.
+    gender: f
+  - name: Philipp,
+    role: Bediente bei Frau v. Rosenperg.
+    gender: m
+  - name: Johann,
+    role: Bediente bei Joseph Zimmstängel.
+    gender: m
+  - name: Carl,
+    role: Bediente bei v. Mühlenheim.
+    gender: m
+  - name: Mehrere Bediente.
+    isGroup: true
+    gender: u
+setting: >-
+  Handlung in einer deutschen Residenzstadt. (Zimmer in Frau von Rosenperg's Hause.)
 ---
 slug: fellner-lederer-der-chargenverkauf
 authors:
@@ -34700,6 +34823,35 @@ cast:
 setting: >-
   Die Bühne stellt einen Salon dar. Thüren im Hintergrunde und an den Seiten. Ein Kamin rechts. Eben da weiter vor ein Tisch mit Schreibgeräthen.
 ---
+slug: hell-eine-laune
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Eine Laune
+subtitle: Häusliche Scene in einem Aufzuge, nach dem Französischen des Alfred de Musset
+numberOfScenes: 8
+printed: 1849
+formalia:
+  - Prosa
+basedOn:
+  - "Alfred de Musset: [»Un caprice. Comédie«](https://books.google.com/books?id=KWIRAAAAYAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Vergißmeinnicht auf das Jahr 1849 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Sechsundzwanzigstes Bändchen. Dresden und Leipzig: Arnoldi 1849"
+comments:
+  - "Auch von Zerline Gabillon übersetzt ([Wien: Rosner 1878](https://books.google.com/books?id=ac3hlW8MhtMC&printsec=frontcover))."
+cast:
+  - name: Graf von Chavigny.
+    gender: m
+  - name: Mathilde,
+    role: seine Frau.
+    gender: f
+  - name: Frau von Lery.
+    gender: f
+  - name: Ein Diener.
+    gender: m
+setting: >-
+  Scene: Mathilde's Zimmer.
+---
 slug: hell-ein-guter-ruf
 author:
   name: Hell, Theodor
@@ -38671,6 +38823,40 @@ cast:
 setting: >-
   Die Handlung geschieht auf Waldheim, einem einsamen Waldschloß des Baron von Strohmburg. (Altmodisch aber reich meublirtes Zimmer. Links der allgemeine Aus- und Eingang; rechts eine Thür, die in's Innere des Schlosses führt. Ein Fortepiano, eine Elektrisirmaschine, Bücher, Musikalien, Gemälde und allerlei Kunstsachen. Im Hintergrunde zwei offene Fenster, durch welche man in den Garten sieht. Auf beiden Seiten des Vorgrundes Tisch und Stühle.)
 ---
+slug: holm-die-brautfahrt
+author:
+  name: Holm, Ferdinand
+title: Die Brautfahrt
+subtitle: Lustspiel in Alexandrinern und in einem Aufzuge
+numberOfScenes: 9
+printed: 1829
+formalia:
+  - Alexandriner
+editions:
+  - title: "Lustspiele von Ferdinand Holm. Nürnberg: Campe 1829, S. 135–172"
+cast:
+  - name: Baronin Strahl.
+    gender: f
+  - name: Adolphine,
+    role: ihre Nichte.
+    gender: f
+  - group:
+      - name: Baron Strahl,
+        role: ihr Neffe.
+        gender: m
+      - name: Stein.
+        gender: m
+    role: Beide Husaren-Officiere von verschiedenen Regimentern.
+  - name: Johann,
+    role: Bedienter des Barons.
+    gender: m
+  - name: Die Wirthin.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Zimmer in einem Gasthause mit einer Mittel- und zwei Seitenthüren.
+---
 slug: holtei-bettelstab-und-lorbeerbaum-oder-zwanzig-jahre-nach-dem-tode
 author:
   name: Holtei, Karl von
@@ -41791,6 +41977,54 @@ cast:
     gender: f
 setting: >-
   Scene. Im Freien.
+---
+slug: kannengiesser-die-vierbeinigten-philosophen
+author:
+  name: Kannengießer, Hans Franz
+  wikidata: Q107753887
+title: Die vierbeinigten Philosophen
+subtitle: Ein Trauerspiel in einem Act
+numberOfScenes: 11
+printed: 1802
+formalia:
+  - Prosa
+editions:
+  - title: "Heimberg 1802"
+keywords:
+  - untragischer Ausgang
+  - Tiere
+ids:
+  wikidata: Q107822636
+cast:
+  - name: Packan,
+    role: ein Bullenbeisser.
+    gender: m
+  - name: Fiffi,
+    role: ein Schooshund.
+    gender: m
+  - group:
+      - name: Philax
+        gender: m
+      - name: Wachtel
+        gender: m
+    role: Privatpersonen.
+  - name: Herr von Albern.
+    gender: m
+  - name: Ein vornehmer Bürger.
+    gender: m
+  - name: Ein Schlachter.
+    gender: m
+  - name: Ein Krüger.
+    gender: m
+  - name: Ein Jude.
+    gender: m
+  - name: Ein Jäger, mit Jägern und Häschern.
+    isGroup: true
+    gender: m
+  - name: Der Schinder Hannes.
+    gender: m
+setting: >-
+  Das Stück spielt Anfangs auf der Straße in Halberna und endigt in der Polizey-Stube daselbst.
 ---
 slug: karnowitz-merlin-ein-dragoner
 author:
@@ -48648,6 +48882,7 @@ editions:
     url: https://books.google.com/books?id=elBcAAAAcAAJ&pg=PA137
 comments:
   - "Anmerkung im [Anhang](https://books.google.com/books?id=elBcAAAAcAAJ&pg=PA150): »Das Stück spielt. Gerade eine Stunde.«"
+  - "Weitere Übersetzung: [Meyer 1834](meyer-philipp)."
 cast:
   - name: Fräulein von Harville.
     gender: f
@@ -57326,6 +57561,39 @@ cast:
 setting: >-
   Die Handlung geht vor in einem Zimmer des Octavius.
 ---
+slug: meyer-das-carneval-zu-schoepfendorf
+author:
+  name: Meyer, Heinrich
+  wikidata: Q94841807
+title: Das Carneval zu Schöpfendorf
+subtitle: Eine Fastnachtsposse in einem Aufzuge
+numberOfScenes: 16
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele zur geselligen Unterhaltung auf dem Lande auf das Jahr 1834. Erstes Bändchen. Wismar: Schmidt und v. Cossel 1834, S. 181–251"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18016233&childpid=18016328
+cast:
+  - name: Herr Ostermann Froschpfeffer,
+    role: Strumpfwirker aus Simpelhausen.
+    gender: m
+  - name: Sandstaub,
+    role: ein Prokurator.
+    gender: m
+  - name: Madame Sandstaub.
+    gender: f
+  - name: Sabine,
+    role: deren Tochter.
+    gender: f
+  - name: Husarenrittmeister von Rosenfeld.
+    gender: m
+  - name: Schnauzbart,
+    role: ein Husar, des Rittmeisters Bursche.
+    gender: m
+setting: >-
+  Der Schauplatz ist ein Saal in des Prokurators Hause. (Ein Saal mit zwei Seitenthüren. Hinten ein Kamin in einer Nische.)
+---
 slug: meyer-das-portefeuille
 author:
   name: Meyer, Friedrich Albrecht Anton
@@ -57507,6 +57775,35 @@ cast:
     gender: m
 setting: >-
   Das Stück spielt in der Nähe des Hengspergischen Schlosses und im Schlosse selbst. Die Handlung fällt in die Zeit der Kreutzzüge.
+---
+slug: meyer-der-liebe-zorn
+author:
+  name: Meyer, Heinrich
+  wikidata: Q94841807
+title: Der Liebe Zorn
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1835
+premiered: 1822-11-02
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele zur geselligen Unterhaltung auf dem Lande auf das Jahr 1835. Zweiter Jahrgang. Wismar: Schmitz und v. Cossel 1835, S. 1–79"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18063010&childpid=18063022
+cast:
+  - name: Graf Hubert.
+    gender: m
+  - name: Baron Rudolf.
+    gender: m
+  - name: Lord Smoke.
+    gender: m
+  - name: Paul,
+    role: Marqueur.
+    gender: m
+setting: >-
+  Der Schauplatz ist zu Wiesbaden. (Das Theater ist ein Saal mit einer Mittelthür im Kurhause. An den Koulissen mehre mit Nummern versehene Seitenthüren; zwischen denen, sowohl wie an der Hinterwand, mehre Tische und Stühle stehen.)
+location:
+  wikidataId: Q1721
 ---
 slug: meyer-der-tempel-aeskulaps
 author:
@@ -57977,6 +58274,51 @@ cast:
     gender: u
 setting: Der Schauplatz ist der geheiligte Hayn von der Gaue Nehestät.
 ---
+slug: meyer-philipp
+author:
+  name: Meyer, Heinrich
+  wikidata: Q94841807
+title: Philipp
+subtitle: Ein Drama in einem Aufzuge
+numberOfScenes: 22
+printed: 1834
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe, Mélesville und Jean-François Bayard: [»Philipp. Comédie-vaudeville en un acte«](https://books.google.com/books?id=ZDVMAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Dramatische Spiele zur geselligen Unterhaltung auf dem Lande auf das Jahr 1834. Erstes Bändchen. Wismar: Schmidt und v. Cossel 1834, S. 253–362"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18016233&childpid=18016364
+comments:
+  - "Im Vorwort: »›Philipp‹ hat auf dem Theater de Madame zu Paris über 100 Vorstellungen nach einander erlebt« ([S. IV](http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18016233&childpid=18016238))."
+  - "Weitere Übersetzung: [Krickeberg 1831](krickeberg-philipp)."
+cast:
+  - name: Fräulein von Harville.
+    gender: f
+  - name: Mathilde,
+    role: ihre Nichte.
+    gender: f
+  - name: Herr von Beauvoisis.
+    gender: m
+  - name: Friedrich,
+    role: im Hause des Fräuleins erzogen.
+    gender: m
+  - group:
+      - name: Philipp,
+        role: Haushofmeister,
+        gender: m
+      - name: Joseph,
+        role: Diener.
+        gender: m
+    role: des Fräuleins von Harville.
+  - name: Mehre Diener, des Fräuleins von Harville.
+    isGroup: true
+    gender: m
+setting: >-
+  Der Schauplatz ist zu Paris, im Hause des Fräuleins von Harville. (Das Theater stellt einen schönen Saal, mit einer Mittelthür und mehren Seitenthüren vor. Die Thür zur Rechten des Schauspielers führt in Mathildens, die zur Linken in Friedrichs Zimmer. Rechts im Vordergrunde ein großer runder Tisch vor einem Sopha, auf welchem eine Kassette, Schreibzeug und dergleichen mehr stehen. Links ein Armsessel.)
+location:
+  wikidataId: Q90
+---
 slug: meyer-schroeder-die-uebereilung
 authors:
   - name: Meyer, Friedrich Ludwig Wilhelm
@@ -58102,6 +58444,43 @@ cast:
     gender: m
 setting: >-
   Schauplaz, Försterwohnung auf der rauhen würtenbergischen Alp. Zeit, 1528.
+---
+slug: meyer-zwei-koerbe-und-doch-eine-heirath
+author:
+  name: Meyer, Heinrich
+  wikidata: Q94841807
+title: Zwei Körbe, und doch eine Heirath
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele zur geselligen Unterhaltung auf dem Lande auf das Jahr 1835. Zweiter Jahrgang. Wismar: Schmitz und v. Cossel 1835, S. 81–142"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18063010&childpid=18063143
+cast:
+  - name: Felix Stern,
+    role: Verwalter einer großen Herrschaft in der Gegend von Mainz.
+    gender: m
+  - name: Caroline,
+    role: seine Frau.
+    gender: f
+  - name: Nannette,
+    role: seine Schwester.
+    gender: f
+  - name: Robert,
+    role: eines reichen Pächters Sohn, aus Schlesien.
+    gender: m
+  - group:
+      - name: Paul,
+        gender: m
+      - name: Claus,
+        gender: m
+      - name: Veit,
+        gender: m
+    role: Bauern.
+setting: >-
+  Die Handlung ist in Stern's Hause. (Die Bühne bleibt unverändert. Im Hintergrunde derselben ist eine Glasthür mit zwei Seitenfenstern, welche in's Freie führt; auf der linken und rechten Seite der Koulissen zwei andere Thüren, durch welche man in's Innere des Hauses gelangt. Möbeln und Verzierungen des Zimmers wie bei reichen Leuten auf dem Lande.) (Späte Nacht, gegen Tagesanbruch. Ganz herabgebrannte Lichter auf dem Tisch.)
 ---
 slug: miersch-kuenstler-glueck
 author:
@@ -67211,6 +67590,55 @@ cast:
     gender: m
 setting: >-
   Die Handlung beginnt am 12. Januar 1814 spät Abends und endet gegen Mitternacht.
+---
+slug: schaden-theodor-koerners-tod-oder-das-gefecht-bei-gadebusch
+author:
+  name: Schaden, Adolf von
+  wikidata: Q16632372
+title: Theodor Körner's Tod oder das Gefecht bei Gadebusch
+subtitle: Ein dramatisches Gedicht in einem Aufzuge. In einer freien Versart bearbeitet
+numberOfScenes: 10
+printed: 1817
+formalia:
+  - Verse
+editions:
+  - title: "Berlin: Schmidt 1817"
+  - title: "[Ohne Ort: ohne Verlag] [1821]"
+    url: https://books.google.com/books?id=0vh4brXzGdoC&printsec=frontcover
+comments:
+  - "In der Vorrede diskutiert der Autor mögliche Einwände gegen die Wahl seines Sujets. Außerdem empfiehlt er Friedrich Kinds [»Die Körners-Eiche«](https://books.google.com/books?id=wJJOAAAAcAAJ&printsec=frontcover) als Nachspiel zu seinem Stück."
+cast:
+  - name: Theodor Körner,
+    role: Lieutenant im Lützow'schen Freikorps.
+    gender: m
+  - name: Graf Hardenberg,
+    role: Volontaire-Offizier in Kaiserlich Russischen Diensten.
+    gender: m
+  - name: Werner,
+    role: ein alter preußischer Wachtmeister.
+    gender: m
+  - name: Soklow,
+    role: ein russischer Freiwilliger.
+    gender: m
+  - name: Amalie von Lilienfeld,
+    role: eine Edelfrau.
+    gender: f
+  - name: Karl,
+    role: ihr dreyjähriges Söhnchen.
+    gender: m
+  - name: Lützow'sche Jäger.
+    isGroup: true
+    gender: m
+  - name: Russische Jäger.
+    isGroup: true
+    gender: m
+  - name: Franzosen.
+    isGroup: true
+    gender: m
+setting: >-
+  Zeit der Handlung – der 26ste August 1813. (Die Bühne stellt einen freien Platz in einer wilden waldigten Gegend vor. Rechts im Vordergrunde steht eine alte Eiche; links liegt eine lange gefällte Tanne an der Erde. – Nacht. – Heftiges Gewitter – Donner und Blitz. – Man hört nach einer Pause tiefer im Walde von vielen Männerstimmen den folgenden, mit Trompeten und Hörnern begleiteten Gesang singen. Der Schall der Stimmen muß sich dem Schauplatze allmählig mehr und mehr zu nähern scheinen. Der letzte Vers wird dicht hinter den Scenen gesungen.)
+location:
+  wikidataId: Q506665
 ---
 slug: schall-das-heiligthum
 author:
@@ -77124,6 +77552,37 @@ setting: >-
   Ein Garten mit einem Gitter hinten, durch das man ein Haus erblickt, welches
   der Sekretair bewohnt. Cyprians und Barbara's Haus befindet sich rechts im
   Garten, links Lauben, Gebüsch etc.
+---
+slug: toepfer-die-blonden-locken
+author:
+  name: Töpfer, Carl
+  wikidata: Q16650514
+title: Die blonden Locken
+subtitle: Dramatisches Spiel in Versen
+numberOfScenes: 11
+printed: 1826
+formalia:
+  - Alexandriner
+editions:
+  - title: "Deutsche Schaubühne seit Lessing und Schröder bis auf die neueste Zeit. Drey und zwanzigsten Bändchen. Wien: Schade 1826, S. 139–186"
+    url: https://books.google.com/books?id=4nhVAAAAcAAJ&pg=PA139
+comments:
+  - "Einakterhinweis erst auf Theaterzetteln (z. B. [Oldenburg 1838](https://digital.lb-oldenburg.de/ihd/periodical/pageview/399377))."
+cast:
+  - name: Adolph.
+    gender: m
+  - name: August.
+    gender: m
+  - name: Der Wirth zum wilden Pferde.
+    gender: m
+  - name: Ein fremder Herr.
+    gender: m
+  - name: Eine fremde Dame.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Das Zimmer im Gasthause mit einer Thüre links, rechts ein Fenster.
 ---
 slug: toepfer-die-weisse-piquesche
 author:
