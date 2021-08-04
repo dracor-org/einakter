@@ -12424,6 +12424,47 @@ cast:
 setting: >-
   Die Handlung geht im Zimmer der Fräulein von Seauer vor.
 ---
+slug: arresto-der-plan
+author:
+  name: Arresto, Christlieb Georg Heinrich
+  wikidata: Q15444801
+title: Der Plan
+subtitle: Lustspiel in einem Aufzug
+numberOfScenes: 12
+printed: 1804
+formalia:
+  - Prosa
+editions:
+  - title: "Hamburg: Kratzsch und Wettach 1804"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18129612
+comments:
+  - "Kurze Erwähnung in: Jahrbuch für Theater und Theaterfreunde herausgegeben von C. Lebrün. Erster Jahrgang. Hamburg: Perthes, Besser und Mauke 1841, [S. 240](https://books.google.com/books?id=tilGAAAAcAAJ&pg=PA240)."
+keywords:
+  - Soldatenstück
+cast:
+  - name: Oberst von Reitz.
+    gender: m
+  - name: Lieutenant Gustav von Reitz,
+    role: sein Sohn.
+    gender: m
+  - name: Sophie von Horfeld,
+    role: seine Nichte.
+    gender: f
+  - name: Hans Kohl,
+    role: Dorfschulze.
+    gender: m
+  - name: Gretchen,
+    role: seine Tochter.
+    gender: f
+  - name: Michel,
+    role: ihr Bräutigam.
+    gender: m
+  - name: Hauer,
+    role: ein alter Husar.
+    gender: m
+setting: >-
+  Die Handlung ist auf einem Dorfe in dem Hause des Schulzen.
+---
 slug: ast-ein-missverstand-aus-dem-andern
 author:
   name: Ast, Johann Christian
@@ -16372,6 +16413,59 @@ cast:
     gender: u
 setting: >-
   Ort der Handlung: die Insel Amaranthe. (Wald. Im Hintergrunde dicht verwachsenes Gesträuch. Links vom Zuschauer im Vordergrunde ein Baum und Rasen. Rechts ein Tisch von den Jägern aufgeschlagen, mit Speisen und Getränken besetzt.)
+---
+slug: blum-die-maentel-oder-der-schneider-in-lissabon
+author:
+  name: Blum, Carl
+  wikidata: Q110163
+title: "Die Mäntel, oder: der Schneider in Lissabon"
+subtitle: Lustspiel in einem Aufzuge, frei nach Scribe
+numberOfScenes: 19
+printed: 1825
+premiered: 1826-10-10
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe, Antoine-François Varner und Henri Dupin: [»Les manteaux. Comédie-vaudeville en deux actes«](https://books.google.com/books?id=GCtVvgAACAAJ&printsec=frontcover)"
+editions:
+  - title: "Lustsp. in 2 Akten. Berlin: Bloch [nach 1825]"
+  - title: "Als Manuskript gedruckt und Eigenthum des Verfassers. Lustspiel in zwei Akten. Berlin 1826"
+    url: https://books.google.com/books?id=B-PBpT8BE98C&printsec=frontcover
+  - title: "Neue Bühnenspiele, nach dem Englischen, Französischen und Italienischen; für das deutsche Theater frei bearbeitet von Carl Blum. Berlin: Enslin 1828"
+  - title: "Lustsp. in 1 Akt. 2. Aufl. Berlin: Bloch 1864"
+  - title: "Lustspiel in zwei Aufzügen. Leipzig: Reclam [1877]"
+    url: https://books.google.com/books?id=xuR0UoLPoUMC&printsec=frontcover
+comments:
+  - "8 + 11 Szenen."
+  - "Aufführung als Einakter: [Berlin 1848](http://www.zeitreisen.de/1848/theater/august48.htm#18480816)."
+  - "Aufführungen als Zweiakter: [Glogau 1826](https://digitalcollections.nypl.org/items/9e2b7c80-21c3-0134-2e75-00505686a51c), [Weimar 1827](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00033674/005463.tif), [Düsseldorf 1836](http://digital.ub.uni-duesseldorf.de/id/3140313), [München 1845](https://books.google.com/books?id=Wy5DAAAAcAAJ&pg=PP271), [Weimar 1847](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00049012/008308.tif), [Weimar 1858](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00046601/0099061.tif)."
+  - "Besprechung als Einakter in: Die Biene. No. 54 (Sonnabend, den 6. October 1827), [S. 863](https://books.google.com/books?id=7czuq-VVLaEC&pg=PA863)."
+  - "Besprechung als Zweiakter in: Jenaische Allgemeine Literatur-Zeitung. Num. 135 (Juli 1828), [Sp. 120](https://books.google.com/books?id=gI1IAQAAMAAJ&pg=RA2-PA119)."
+  - "Besprechung als Zweiakter in: Blätter für literarische Unterhaltung. Nr. 103 (Dienstag, 13. April 1830), [S. 409](https://books.google.com/books?id=wBRBAQAAMAAJ&pg=PA409)."
+  - "Besprechung ohne Angabe der Aktanzahl in: Sundine. Fünfter Jahrgang. No. 47 (Stralsund, den 24. November 1831), [S. 376](https://books.google.com/books?id=KBRJAAAAcAAJ&pg=PA376)."
+  - "Das Stück erschien 1833 und 1840 in der tschechischen Übersetzung von Jan Nepomuk Štěpánek (»Třináctý plášt. Weselohra we 2 gednánjch«), vgl. Goedeke, Band XI/1, [S. 471](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/n487/mode/2up)."
+cast:
+  - name: Franciscus,
+    role: Schneider.
+    gender: m
+  - name: Brigitte.
+    gender: f
+  - name: Balthasar,
+    role: Haushofmeister.
+    gender: m
+  - name: Anna,
+    role: seine Mündel.
+    gender: f
+  - name: James,
+    role: englischer Soldat.
+    gender: m
+  - name: Verschworne.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene: Lissabon. (Zimmerchen in einem obern Stockwerke, vielleicht zwei, höchstens drei Coulissen tief. Eine Mittelthüre. Links vom Zuschauer, in der ersten, oder besser in der zweiten Coulisse, eine versteckte Tapetenthüre. Ein Tischchen mit Nähzeug im Vorgrunde.)
+location:
+  wikidataId: Q597
 ---
 slug: blum-die-novize
 author:
@@ -41995,18 +42089,19 @@ keywords:
   - Tiere
 ids:
   wikidata: Q107822636
+  dracor: ger000543
 cast:
   - name: Packan,
     role: ein Bullenbeisser.
-    gender: m
+    gender: u
   - name: Fiffi,
     role: ein Schooshund.
-    gender: m
+    gender: u
   - group:
       - name: Philax
-        gender: m
+        gender: u
       - name: Wachtel
-        gender: m
+        gender: u
     role: Privatpersonen.
   - name: Herr von Albern.
     gender: m
@@ -57631,6 +57726,30 @@ setting: >-
 location:
   wikidataId: Q1741
 ---
+slug: meyer-der-brief-ohne-unterschrift
+author:
+  name: Meyer, Heinrich
+  wikidata: Q94841807
+title: Der Brief ohne Unterschrift
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele zur geselligen Unterhaltung auf dem Lande auf das Jahr 1835. Zweiter Jahrgang. Wismar: Schmitz und v. Cossel 1835, S. 143–210"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18063010&childpid=18063231
+cast:
+  - name: Baronin Bertha von Roosen.
+    gender: f
+  - name: Major Eduard von Stein.
+    gender: m
+  - name: Walther,
+    role: ein alter Diener im Hause der Baronin.
+    gender: m
+setting: >-
+  Der Schausplatz ist im Hause der Baronin. (Ein elegantes Zimmer im Hause der Baronin.)
+---
 slug: meyer-der-brief-und-das-armband
 author:
   name: Meyer, Heinrich
@@ -57775,6 +57894,64 @@ cast:
     gender: m
 setting: >-
   Das Stück spielt in der Nähe des Hengspergischen Schlosses und im Schlosse selbst. Die Handlung fällt in die Zeit der Kreutzzüge.
+---
+slug: meyer-der-herr-gevatter
+author:
+  name: Meyer, Heinrich
+  wikidata: Q94841807
+title: Der Herr Gevatter
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 22
+printed: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele zur geselligen Unterhaltung auf dem Lande auf das Jahr 1835. Zweiter Jahrgang. Wismar: Schmitz und v. Cossel 1835, S. 211–284"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18063010&childpid=18063336
+cast:
+  - name: Herr Ahlers,
+    role: ein Mann der von seinen Renten lebt.
+    gender: m
+  - name: Wagner,
+    role: ein Seiden-Fabrikant.
+    gender: m
+  - name: Madam Saaler,
+    role: seine Schwiegermutter.
+    gender: f
+  - name: Graf Holder.
+    gender: m
+  - name: Frau von Linden,
+    role: die Frau eines Bankiers.
+    gender: f
+  - group:
+      - name: Madam Werner,
+        gender: f
+      - name: Madam Bellmann,
+        gender: f
+    role: Nachbarinnen.
+  - name: Madam Pampel,
+    role: Hebamme.
+    gender: f
+  - name: Karl,
+    role: Jäger der Frau von Linden.
+    gender: m
+  - name: Peter,
+    role: Diener, des Grafen Holder.
+    gender: m
+  - name: Eine Kammerfrau, des Grafen Holder.
+    gender: f
+  - name: Zwei Diener der Frau von Linden.
+    isGroup: true
+    gender: m
+  - name: Ein Ladenbursche des Herrn Wagner.
+    gender: m
+  - name: Mehre Verwandte und Verwandtinnen des Herrn und der Madam Wagner.
+    isGroup: true
+    gender: f
+setting: >-
+  Der Schauplatz ist zu Hamburg in des Fabrikanten Wagner's Hause. (Das Theater stellt ein Hinterzimmer in Herrn Wagners Hause vor, mit mehren großen Glasfenstern und einer Glasthür, durch welche man in den Laden, und durch diesen auf die Straße sieht. An den Koulissen eine Thür rechts, und zwei Thüren links. Auf den Tischen und Stühlen liegt eine Menge Kinderzeug umher.)
+location:
+  wikidataId: Q1055
 ---
 slug: meyer-der-liebe-zorn
 author:
@@ -63317,6 +63494,43 @@ setting: >-
 location:
   wikidataId: Q4345530
 ---
+slug: putlitz-ein-hausmittel
+author:
+  name: Putlitz, Gustav zu
+  wikidata: Q1555838
+title: Ein Hausmittel
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1849
+premiered: 1848-02-19
+formalia:
+  - Prosa
+editions:
+  - title: "Als Manuscript gedruckt. Berlin 1848"
+    url: https://books.google.com/books?id=bMJTAAAAcAAJ&printsec=frontcover
+  - title: "Almanach für Freunde der Schauspielkunst auf das Jahr 1849. Begründet von L. Wolff; fortgesetzt von A. Heinrich. Dreizehnter Jahrgang. Berlin: Selbstverlag des Herausgebers 1849"
+    url: https://books.google.com/books?id=6MhKAAAAcAAJ&pg=RA1-PA1
+comments:
+  - "Hinweis auf der Titelseite unter dem Namen des Autors: »Verfasser der Lustspiele: ›Adrienne Lecouvreur, oder: Das Pfand der blauen Schleife,‹ ›Badekuren,‹ ›Familienzwist und Frieden.‹« Darunter werden einige Theater gelistet, an denen das Stück bereits aufgeführt wurde."
+cast:
+  - name: Ferdinand von Werten,
+    role: Majoratsherr.
+    gender: m
+  - name: Adolph von Werten,
+    role: Assessor.
+    gender: m
+  - name: Charlotte,
+    role: dessen Frau.
+    gender: f
+  - name: Mollerini,
+    role: Virtuose.
+    gender: m
+  - name: Marie,
+    role: Köchin bei Adolph.
+    gender: f
+setting: >-
+  Der Schauplatz ist ein elegant möblirtes Zimmer in Adolph's Hause. Zwei Mittelthüren. Rechts eine Seitenthür, die in Charlottens Zimmer führt. Links eine andere Seitenthür. Rechts ein Schreibtisch. Links ein Sopha. Zwischen den Mittelthüren ein Tisch mit Büchern und Cartons. In der Ecke ein kleiner Tisch mit einer weißen Decke. Bilder an den Wänden.
+---
 slug: putlitz-seine-frau
 author:
   name: Putlitz, Gustav zu
@@ -65700,6 +65914,43 @@ cast:
 setting: >-
   Die Handlung spielt in einem Garten. (Ein Garten. Im Hintergrunde desselben ein Gartenhaus mit einem von Säulen getragenen, offenen Portale, zu welchem Stufen hinaufführen. Links im Hintergrunde eine ziemlich hohe Taxushecke. In der Ferne sieht man die Thürme und Häuser einer Stadt.)
 ---
+slug: riese-der-haessliche
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Der Häßliche
+subtitle: Schwank in einem Act, nach Dumanoir
+numberOfScenes: 21
+printed: 1847
+premiered: 1844-12-04
+formalia:
+  - Prosa
+basedOn:
+  - Dumanoir
+editions:
+  - title: "Hamburg: Verlags-Comptoir 1847"
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Zweite Auflage. Hamburg: Verlags-Comptoir 1854"
+    url: https://books.google.com/books?id=oK5jswEEj9IC&printsec=frontcover
+cast:
+  - name: Frau von Salm.
+    gender: f
+  - name: Agnes,
+    role: ihre Tochter.
+    gender: f
+  - name: Grauen,
+    role: ihr Schwiegersohn.
+    gender: m
+  - name: Frau von Berg.
+    gender: f
+  - name: Hermann von Brandt.
+    gender: m
+  - name: Joseph,
+    role: ein Diener.
+    gender: m
+setting: >-
+  Salon. Mittelthür. Vier Seitenthüren. – Rechts ein Kamin, worauf eine Karaffe, Glas und Zuckerglas. – Links ein Secretair. Vorn ein Tisch mit einem Teppich bedeckt. Links nach vorn ein kleiner Tisch.
+---
 slug: riese-der-nachbar-im-omnibus
 author:
   name: Riese, Friedrich Wilhelm
@@ -65735,6 +65986,46 @@ cast:
     gender: m
 setting: >-
   Salon. – Mittelthür. – Seitenthüren, rechts (zweite Coulisse) und links (dritte Coulisse). – Links (zweite Coulisse) ein bedeckter Tisch mit Schreibmaterial. – Vorn ein kleiner Tisch. – Zu beiden Seiten der Mittelthüre Canapee's.
+---
+slug: riese-der-persische-shawl
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Der persische Shawl
+subtitle: Scherzspiel in Einem Acte, von Alexander Dumas
+numberOfScenes: 20
+printed: 1850
+premiered: 1850-05-16
+formalia:
+  - Prosa
+basedOn:
+  - "Alexandre Dumas und Eugène Nus: [»Le cachemire vert. Comédie en un acte«](https://books.google.com/books?id=p1BSAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Hamburg: Verlags-Comptoir 1850"
+    url: https://books.google.com/books?id=GvRb97tb4wEC&printsec=frontcover
+cast:
+  - name: Conrad von Francarville,
+    role: Marinecapitain.
+    gender: m
+  - name: Anna Wilkins,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Pacifique,
+    role: Brigadier der Gendarmerie.
+    gender: m
+  - name: Jean,
+    role: Kellner im Gasthofe.
+    gender: m
+  - name: Ein Hausmädchen im Gasthofe.
+    gender: f
+  - name: Gendarmen.
+    isGroup: true
+    gender: m
+setting: >-
+  Scene: Calais. (Wirthshaussaal in Calais. Mittelthür. Rechts davon ein Fenster. Seitenthüren. Vorn, rechts, ein Camin, mit Spiegel, darüber. Links, ein Tisch mit Schreibzeug. Lehnsessel etc.)
+location:
+  wikidataId: Q6454
 ---
 slug: riese-der-weg-durchs-fenster
 author:
@@ -65775,6 +66066,74 @@ cast:
     gender: u
 setting: >-
   Ländliche Gegend. Links, erste Coulisse, ein Pavillon, mit einer Thür im Erdgeschosse, und einem von steinernen Säulen gestützten Balcon, der die ganze erste Etage umgiebt, und sich um die Ecke zieht. – An den Pavillon stößt die Mauer des Parks. – Rechts, der Eingang (Thorweg) zu einem Pachthofe, nahe davor ein Baum, unter diesem ein Rasensitz. – Im Hintergrunde: die Landstraße.
+---
+slug: riese-die-memoiren-zweier-neuvermaehlten
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Die Memoiren zweier Neuvermählten
+subtitle: Lustspiel in Einem Aufzuge, nach Clairville
+numberOfScenes: 15
+printed: 1850
+formalia:
+  - Prosa
+basedOn:
+  - "Adolphe d'Ennery und Clairville: [»Les mémoires de deux jeunes mariées. Comédie-vaudeville en un acte«](https://books.google.com/books?id=rlkl67wUIbUC&printsec=frontcover)"
+editions:
+  - title: "Den Bühnen gegenüber als Manuscript. Hamburg: Verlags-Comptoir 1850"
+    url: https://books.google.com/books?id=d5pm1vIr9BMC&printsec=frontcover
+cast:
+  - name: Ernst Stark.
+    gender: m
+  - name: Mathilde,
+    role: seine Frau.
+    gender: f
+  - name: Oscar Flatter.
+    gender: m
+  - name: Ein Diener.
+    gender: m
+setting: >-
+  Scene: Ein Salon. Mittelthür, zum Garten führend. Seitenthüren. Rechts, vor der ersten Coulisse, ein Damensecretair. Links ein kleiner Tisch mit Liqueurgläsern und einer Flasche.
+---
+slug: riese-die-schauspielerin
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Die Schauspielerin
+subtitle: Lustspiel in einem Aufzuge, nach Fournier
+numberOfScenes: 15
+printed: 1847
+premiered: 1845-03-03
+formalia:
+  - Prosa
+basedOn:
+  - "Narcisse Fournier: [»Tridate, ou Comédie et tragedie. Comédie-vaudeville en un acte«](https://books.google.com/books?id=UU5cAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Das Theater des Auslandes. Erster Band. Hamburg: Verlags-Comptoir 1847, S. 99–114"
+    url: https://books.google.com/books?id=ccNKAAAAcAAJ&printsec=frontcover
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Zweite Auflage. Hamburg: Verlags-Comptoir 1854"
+    url: https://books.google.com/books?id=-Oq4h7R-CrQC&printsec=frontcover
+  - title: "Fünfte Auflage. Berlin: Bloch [1869]"
+    url: https://books.google.com/books?id=yGi7Mfp2WTgC&printsec=frontcover
+cast:
+  - name: Françoise Dumesnil,
+    role: Schauspielerin.
+    gender: f
+  - name: Louise,
+    role: ihre Pathe.
+    gender: f
+  - name: Dupuis,
+    role: Gerichtsschreiber in einer kleinen Stadt.
+    gender: m
+  - name: Alfred,
+    role: sein Sohn.
+    gender: m
+setting: >-
+  Scene: Paris. – Zeit: 1750. (Ein Salon im Roccoco-Styl. – Mittelthür. – Seitenthür, links. – Rechts ein Fenster, eine Toilette, Sessel, worauf mehrere Costüme hingeworfen. – Ein Schreibtisch.)
+location:
+  wikidataId: Q90
 ---
 slug: riese-die-weibliche-schildwache
 author:
@@ -65819,6 +66178,88 @@ cast:
     gender: u
 setting: >-
   Bauernzimmer. Mittelthür, mit großen Fenstern zu beiden Seiten. Seitenthüren. Ueber der Mittelthür das Bild eines Bauernburschen. Großer Lehnsessel, Spinnrad, Tisch- und Speiseschrank.
+---
+slug: riese-die-zerbrochene-tasse
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Die zerbrochene Tasse
+subtitle: Lustspiel in einem Aufzuge. Nach Vermond
+numberOfScenes: 23
+printed: 1855
+premiered: 1850-01-01
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Guinot und Lubize: [»La tasse cassée. Comédie-vaudeville en un acte«](https://books.google.com/books?id=c1BSAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Hamburg: Verlags-Comptoir 1855"
+    url: https://books.google.com/books?id=If5Ri-iYvNwC&printsec=frontcover
+comments:
+  - "Später auch von F. Lichterfeld übersetzt ([Berlin: Hayn 1859](https://books.google.com/books?id=lwc-AQAAMAAJ&printsec=frontcover))."
+cast:
+  - name: Dupré,
+    role: Advokat.
+    gender: m
+  - name: Roland,
+    role: Rentier.
+    gender: m
+  - name: Isidor,
+    role: Musiker und Notenschreiber.
+    gender: m
+  - name: Madame Darville,
+    role: Wittwe.
+    gender: f
+  - name: Florine,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Ein Diener.
+    gender: m
+setting: >-
+  Salon. Mittelthür. Links erste Coulisse, ein Schreibtisch. Seitenthür in der zweiten Coulisse. Rechts in der ersten Coulisse eine Seitenthür, in der zweiten Coulisse ein Fenster, vor welchem ein kleiner Tisch mit einem Thee-Service von Porcellan.
+---
+slug: riese-doctor-robin
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Doctor Robin
+subtitle: Lustspiel in 1 Akt. Nach dem französischen des Premarey
+numberOfScenes: 16
+printed: 1847
+formalia:
+  - Prosa
+basedOn:
+  - "Jules de Prémaray: [»Le docteur Robin. Comédie-vaudeville en un acte«](https://books.google.com/books?id=21lSAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Wolff's Almanach für Freunde der Schauspielkunst auf das Jahr 1846. Fortgesetzt von A. Heinrich. Eilfter Jahrgang. Berlin 1847"
+    url: https://books.google.com/books?id=0106AAAAcAAJ&pg=RA1-PA1
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Dritte Auflage. Hamburg: Verlags-Comptoir 1859"
+    url: https://books.google.com/books?id=ujFvgBFkQnMC&printsec=frontcover
+comments:
+  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 350 (Donnerstag, 16. December 1847), [S. 1397](https://books.google.com/books?id=t2sDAAAAYAAJ&pg=PA1397)."
+cast:
+  - name: Garrick.
+    gender: m
+  - name: Jackson,
+    role: Fabrikant.
+    gender: m
+  - name: Mary,
+    role: seine Tochter.
+    gender: f
+  - name: Sir Arthur,
+    role: Advokat, ihr Verlobter.
+    gender: m
+  - name: Edith,
+    role: Kammerfrau.
+    gender: f
+  - name: Diener.
+    gender: m
+setting: >-
+  Scene: London. (Ein Salon. Mittelthüren und Seitenthüren. Links ein Tisch, worauf Schreibmaterialien, eine leere Weinflasche und zwei Gläser.)
+location:
+  wikidataId: Q84
 ---
 slug: riese-ein-unbekannter-beschuetzer
 author:
@@ -65921,6 +66362,86 @@ cast:
 setting: >-
   Scene: Ein Zimmer im Wirthshause. In der Mitte ein Camin. Zu jeder Seite des Camins ein Gardinenbett, mit dem Kopfende zur Mitte. Vor jedem Bette ein Stuhl. Auf dem Camin zwei Waschschüsseln mit Wassergüssen, Gläsern etc. – Links, erste Coulisse, ein Fenster. Rechts, erste Coulisse, eine Thür, – Im Vordergrunde ein Tisch.
 ---
+slug: riese-fraeulein-gattin
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Fräulein Gattin
+subtitle: Lustspiel in einem Act, nach Lefranc
+numberOfScenes: 18
+printed: 1847
+premiered: 1847-09-04
+formalia:
+  - Prosa
+basedOn:
+  - "Auguste Lefranc und Eugène Labiche: [»Mademoiselle ma femme. Comédie mêlée de couplets«](https://books.google.com/books?id=rZjSr5XqnxkC&printsec=frontcover)"
+editions:
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Hamburg: Verlags-Comptoir 1847"
+    url: https://books.google.com/books?id=qqxc5yvLpxMC&printsec=frontcover
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Zweite Auflage. Hamburg: Verlags-Comptoir 1854"
+    url: https://books.google.com/books?id=u3hAVnQEMiAC&printsec=frontcover
+cast:
+  - name: Eduard von Sallanches.
+    gender: m
+  - name: Henriette,
+    role: seine Frau.
+    gender: f
+  - name: von Noirmont.
+    gender: m
+  - name: Frau von Noirmont.
+    gender: f
+  - name: Herr von Jaquet.
+    gender: m
+  - group:
+      - name: Jean,
+        gender: m
+      - name: Pierre,
+        gender: m
+    role: Diener.
+setting: >-
+  Scene: Im Bade zu Aix, nahe bei Marseille. (Ein Saal im Wirthshause. – Mittelthür. – Seitenthüren rechts und links in der dritten Coulisse und in der zweiten Coulisse rechts. Links in der ersten Coulisse eine Balconthür, daneben ein Camin. Weiter nach vorne ein kleiner Schreibtisch, worauf eine Zeitung. Rechts ein Canapee.)
+location:
+  wikidataId: Q47465
+---
+slug: riese-koeck-und-guste
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Köck und Guste
+subtitle: Vaudeville-Posse in einem Aufzug. Frei nach dem Französischen des Paul de Kock. Seitenstück zu »Der Platzregen als Eheprocurator«
+numberOfScenes: 16
+printed: 1846
+premiered: 1843-11-09
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Allerlei. Bühnenspiele in Uebersetzung und Bearbeitung von W. Friedrich. Erster Jahrgang. Berlin: Springer 1846, S. 233–271"
+    url: https://books.google.com/books?id=RxdVAAAAcAAJ&pg=PA233
+cast:
+  - name: Registrator Punzel.
+    gender: m
+  - name: Aspasia,
+    role: verwittw. Hauptmännin Dürfeld, seine Schwester.
+    gender: f
+  - name: Bisam,
+    role: Parfümeur.
+    gender: m
+  - name: Guste,
+    role: Kinderwärterin.
+    gender: f
+  - name: Köck,
+    role: Gefreiter.
+    gender: m
+  - name: Nachbarn. Soldaten.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene: Berlin. (Ein Entrée-Zimmer. – Mittelthür. – Links vom Zuschauer, ein Alkoven, mit Gardinen davor. An der Wand daneben, ein Kleiderhalter, mit den Kleidern des Kindermädchens. – Vor dem Alkoven eine Wiege. – Rechts, zwei Seitenthüren, dazwischen eine Commode mit Leuchtern und einer Lichtscheere. – Im Hintergrunde rechts, ein Schrank.)
+location:
+  wikidataId: Q64
+---
 slug: riese-major-haudegen
 author:
   name: Riese, Friedrich Wilhelm
@@ -65957,6 +66478,156 @@ cast:
     gender: m
 setting: >-
   Salon. Mittelthür. Rechts: 1ste Coulisse, Seitenthür. 2te Coulisse: Kamin mit Spiegel und Setzuhr. Links: zwei Seitenthüren. Einige Rappire an der Wand. Ein Tisch mit Schreibmaterialien rechts.
+---
+slug: riese-nur-hindernisse
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Nur Hindernisse!
+subtitle: Schwank in einem Act, nach Brisebarre
+numberOfScenes: 18
+printed: 1847
+premiered: 1847-08-28
+formalia:
+  - Prosa
+basedOn:
+  - Édouard Brisebarre
+editions:
+  - title: "Hamburg: Verlags-Comptoir [1847]"
+    url: https://books.google.com/books?id=OIsUJNoanggC&printsec=frontcover
+cast:
+  - name: Louise von Fontanil.
+    gender: f
+  - name: Fanny,
+    role: ihre Nichte.
+    gender: f
+  - name: Hector von Champagnac.
+    gender: m
+  - name: Charles von Bligny.
+    gender: m
+  - name: Fleury,
+    role: Gärtner.
+    gender: m
+setting: >-
+  Ein Salon. Rechts in der ersten Coulisse ein Fenster. Mittelthür. Seitenthüren in den zweiten Coulissen. Links ein Tisch, worauf Schreibmaterialien. Sessel.
+---
+slug: riese-reich-an-liebe
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Reich an Liebe
+subtitle: Posse in Einem Act, frei nach dem Französischen
+numberOfScenes: 19
+printed: 1848
+formalia:
+  - Prosa
+editions:
+  - title: "Hamburg: Verlags-Comptoir 1848"
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Zweite Auflage. Hamburg: Verlags-Comptoir 1855"
+    url: https://books.google.com/books?id=2GJIAQAAMAAJ&printsec=frontcover
+cast:
+  - name: Seestern,
+    role: Beamter.
+    gender: m
+  - name: Böller,
+    role: Hauptmann außer Diensten.
+    gender: m
+  - name: Hermine,
+    role: seine Frau.
+    gender: f
+  - name: Madam Leopoldine Böller,
+    role: seine Schwägerin, Witwe.
+    gender: f
+  - name: Schwindel,
+    role: Ball-Commissär.
+    gender: m
+  - name: Alfred,
+    role: ein junger Maler.
+    gender: m
+  - name: Franz,
+    role: Kellner.
+    gender: m
+  - name: Gäste. Kellner.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene: Gastzimmer bei einem Restaurateur.
+---
+slug: riese-ueberraschungen
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Ueberraschungen
+subtitle: Lustspiel in einem Aufzuge. Nach Scribe
+numberOfScenes: 16
+printed: 1852
+premiered: 1848
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe: [»Les surprises. Comédie-vaudeville en un acte«](https://books.google.com/books?id=7dDB1OxsmsMC&printsec=frontcover)"
+editions:
+  - title: "Den Bühnen gegenüber als Manuscript gedruckt. Hamburg: Verlags-Comptoir 1852"
+    url: https://books.google.com/books?id=epkbxfEEfRwC&printsec=frontcover
+cast:
+  - name: Frau von Eschen.
+    gender: f
+  - name: Mathilde,
+    role: ihre Enkelin.
+    gender: f
+  - name: Herr von Merlin.
+    gender: m
+  - name: Woldemar,
+    role: ein junger Maler.
+    gender: m
+  - name: Nanette,
+    role: Kammermädchen.
+    gender: f
+  - name: Gäste. Diener.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene: Schloß der Frau von Eschen. (Salon. – Mittelfenster, zu einem Balkon führend, durch welches man auf den Garten blickt. – Zu beiden Seiten des Fensters eine Thür. – Seitenthüren in den Coulissen. – Rechts im Vordergrunde ein Tisch. Links ein kleiner Tisch, mit einer Guitarre.)
+---
+slug: riese-zwei-herren-und-ein-diener
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Zwei Herren und ein Diener
+subtitle: Vaudeville-Burleske in Einem Aufzuge, nach Goldoni und Varin
+numberOfScenes: 22
+printed: 1850
+formalia:
+  - Prosa
+basedOn:
+  - "Carlo Goldoni: [»Il servitore di due padroni. Commedia di tre atti in prosa«](https://books.google.com/books?id=P40BAAAAYAAJ&pg=PA69)"
+editions:
+  - title: "Den Bühnen gegenüber als Manuscript. Hamburg: Verlags-Comptoir 1850"
+    url: https://books.google.com/books?id=31eGBUsVk98C&pg=PA201
+  - title: "Fünfte Auflage. Berlin: Bloch [1874]"
+cast:
+  - name: Leopold Frey,
+    role: ein Maler.
+    gender: m
+  - name: Lorenz,
+    role: sein Diener.
+    gender: m
+  - name: Brummer.
+    gender: m
+  - name: Pauline,
+    role: eine junge Wittwe, seine Nichte.
+    gender: f
+  - name: Lisette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Ein Kellner.
+    gender: m
+setting: >-
+  Scene: Ein Gasthof in einem Badeort. (Ein Vorzimmer mit verschiedenen numerirten Seitenthüren. Rechts das Zimmer Frey's, Nr. 6 bezeichnet. Links, Nr. 4, das Zimmer Brummers. Mittelthür, mit Aussicht nach dem Garten. – Tische – Stühle – ein Mantelträger.)
 ---
 slug: ritter-der-betrogene-entfuehrer
 author:
@@ -67805,6 +68476,55 @@ cast:
     gender: m
 setting: >-
   Garten, hinten eine Mauer, vorn in der Mitte ein Apfelbaum, seitwärts eine Rasenbank. Der Rittmeister im Ueberrock, runden Hut und bunten Halstuch, in Pantalons und Schuhen, klettert von außen an der Mauer hinauf, und sieht sich im Garten nach allen Seiten um.
+---
+slug: scheerer-der-seltne-schmaus-oder-die-gluekklichen
+author:
+  name: Scheerer, Joachim Gottfried Wilhelm
+  wikidata: Q23062460
+title: "Der seltne Schmaus, oder: Die Glükklichen"
+subtitle: "Posse in einem Akte. Gegenstükk zu Kozebues: Unglükklichen"
+numberOfScenes: 13
+printed: 1808
+formalia:
+  - Prosa
+editions:
+  - title: "Linz: Kastner 1808"
+    url: https://books.google.com/books?id=TkZIAAAAcAAJ&printsec=frontcover
+comments:
+  - "Gegenstück zu Kotzebues Einakter [»Die Unglücklichen«](kotzebue-die-ungluecklichen)."
+cast:
+  - name: Hinkebein,
+    role: ein Rezensent.
+    gender: m
+  - name: Monsieur Rembrand,
+    role: ein Maler und Gemäldehändler.
+    gender: m
+  - name: Gabriel,
+    role: ein Geisterseher.
+    gender: m
+  - name: Sieber,
+    role: ein deutscher Sprachmeister.
+    gender: m
+  - name: Faßdorf,
+    role: ein relegirter Student.
+    gender: m
+  - name: Leopard,
+    role: ein Schauspieler.
+    gender: m
+  - name: Madame Krebs.
+    gender: f
+  - name: Demoiselle Mondsucht.
+    gender: f
+  - name: Baron von Markow.
+    gender: m
+  - name: Major Ribnizz,
+    role: des Barons Freund, verabschiedet.
+    gender: m
+  - name: Niklas,
+    role: ein alter Diener.
+    gender: m
+setting: >-
+  Die Scene ist im allgemeinen Zimmer eines Gasthofes, wo der Baron wohnt.
 ---
 slug: scheibe-der-eifersuechtige-schaefer-oder-der-fehler-der-liebe
 author:
