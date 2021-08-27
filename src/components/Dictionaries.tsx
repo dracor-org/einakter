@@ -2,12 +2,17 @@ import React from 'react';
 import {Dict} from '../types';
 
 type DictName =
-  'bibliographia' | 'corvey' | 'dramenlexikon' | 'iffland' | 'kotzebue';
+  'bibliographia' | 'boerne' | 'corvey' | 'dramenlexikon' | 'iffland' |
+  'kotzebue';
 
 const dicts = {
   bibliographia: {
     title: 'Bibliographia dramatica et dramaticorum',
     url: 'https://www.degruyter.com/view/mvw/BDD-B'
+  },
+  boerne: {
+    title: 'Ludwig Börne: Dramaturgische Blätter (1818–1828)',
+    url: 'https://archive.org/details/LudwigBrneSmtlicheSchriftenBd1/page/n231/mode/2up'
   },
   corvey: {
     title: 'Die Dramen der Fürstlichen Bibliothek Corvey, 1805–1832',
