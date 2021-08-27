@@ -137,6 +137,8 @@ export default function Details () {
                           {member.name}
                           {member.role && (<i> {member.role}</i> )}
                           {member.gender && ` (${member.gender})`}
+                          {' '}
+                          {member.isGroup && groupIcon}
                         </li>
                       ))}
                       </ul>

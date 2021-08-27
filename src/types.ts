@@ -2,6 +2,7 @@ export interface CastGroupMember {
   name: string
   gender?: string
   role?: string
+  isGroup?: boolean
 }
 
 export interface CastMember {
