@@ -40,6 +40,7 @@ export default function Details () {
     numberOfScenes,
     premiered,
     printed,
+    reviews,
     setting,
     location,
     basedOn,
@@ -64,6 +65,20 @@ export default function Details () {
                   {comments.map((c, i) => (
                     <li key={`comment-${i}`}>
                       <ReactMarkdown>{c}</ReactMarkdown>
+                    </li>
+                  ))}
+                </ul>
+              </td>
+            </tr>
+          )}
+          {reviews && (
+            <tr>
+              <th>Reviews</th>
+              <td>
+                <ul>
+                  {reviews.map((r, i) => (
+                    <li key={`review-${i}`}>
+                      <ReactMarkdown>{r}</ReactMarkdown>
                     </li>
                   ))}
                 </ul>

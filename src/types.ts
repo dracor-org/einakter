@@ -58,6 +58,7 @@ export interface Play {
   numberOfScenes?: number
   premiered?: string | number
   printed?: number
+  reviews?: string[]
   setting?: string
   location?: {
     wikidataId: string
