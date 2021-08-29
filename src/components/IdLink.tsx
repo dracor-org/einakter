@@ -1,9 +1,18 @@
 import React from 'react';
 
-const urlBases = {
-  dracor: 'https://dracor.org/id/',
-  wikidata: 'https://www.wikidata.org/wiki/',
-  weber: 'http://weber-gesamtausgabe.de/',
+const sites = {
+  dracor: {
+    url: 'https://dracor.org/id/',
+    title: 'DraCor.org',
+  },
+  wikidata: {
+    url: 'https://www.wikidata.org/wiki/',
+    title: 'Wikidata',
+  },
+  weber: {
+    url: 'http://weber-gesamtausgabe.de/',
+    title: 'Weber Gesamtausgabe',
+  },
 }
 
 interface Props {
@@ -15,7 +24,11 @@ interface Props {
 
 const IdLink = ({id, type, text, className = ''}: Props) => {
   return (
-    <a href={`${urlBases[type]}${id}`} className={className}>
+    <a
+      href={`${sites[type].url}${id}`}
+      className={className}
+      title={sites[type].title}
+    >
       {text ? text : id}
     </a>
   );
