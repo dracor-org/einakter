@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React, {useEffect, useContext} from 'react';
 import {useLocation, useParams} from "react-router-dom";
 import {Table} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
@@ -8,14 +8,15 @@ import Dictionaries from './Dictionaries';
 import Years from './Years';
 import IdLink from './IdLink';
 import BasedOn from './BasedOn';
+import {EinakterContext} from '../context';
 import {CastMember, Play} from '../types';
-import data from '../data.json';
 
 const groupIcon = <FontAwesomeIcon icon="users" size="sm" title="Group"/>;
 
 export default function Details () {
   const { id } = useParams<{id: string}>();
   const { pathname } = useLocation();
+  const { plays: data } = useContext(EinakterContext);
 
   const play: Play | undefined = data.find((p: Play) => p.slug === id);
 
