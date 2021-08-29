@@ -7,6 +7,7 @@ import Authors from './Authors';
 import Dictionaries from './Dictionaries';
 import Years from './Years';
 import IdLink from './IdLink';
+import BasedOn from './BasedOn';
 import {CastMember, Play} from '../types';
 import data from '../data.json';
 
@@ -185,13 +186,7 @@ export default function Details () {
             <tr>
               <th>Based on</th>
               <td>
-                <ul>
-                  {basedOn.map(text => (
-                    <li key={text}>
-                      <ReactMarkdown>{text}</ReactMarkdown>
-                    </li>
-                  ))}
-                </ul>
+                <BasedOn refs={basedOn}/>
               </td>
             </tr>
           )}
