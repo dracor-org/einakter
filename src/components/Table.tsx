@@ -4,6 +4,7 @@ import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import {Link} from 'react-router-dom';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
+import IdLink from './IdLink';
 import {Play} from '../types';
 import data from '../data.json';
 
@@ -35,7 +36,7 @@ function formatKeywords (_: string, play: Play) {
 function formatWikidata (id: any | undefined) {
   return id ? (
     <small>
-      <a href={`https://www.wikidata.org/wiki/${id}`}>{id}</a>
+      <IdLink id={id} type="wikidata"/>
     </small>
   ) : <i/>; // we need to return an element to avoid a typescript error
 }

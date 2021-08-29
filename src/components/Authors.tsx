@@ -1,4 +1,5 @@
 import React from 'react';
+import IdLink from './IdLink';
 import {Author} from '../types';
 
 interface Props {
@@ -16,9 +17,7 @@ const Authors = ({authors}: Props) => {
           {author.wikidata && (
             <small>
               {' '}
-              <a href={`https://www.wikidata.org/wiki/${author.wikidata}`}>
-                {author.wikidata}
-              </a>
+              <IdLink id={author.wikidata} type="wikidata"/>
             </small>
           )}
           {' '}

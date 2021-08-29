@@ -6,6 +6,7 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
 import Dictionaries from './Dictionaries';
 import Years from './Years';
+import IdLink from './IdLink';
 import {CastMember, Play} from '../types';
 import data from '../data.json';
 
@@ -102,9 +103,19 @@ export default function Details () {
               <th>Links</th>
               <td>
                 <ul>
-                  {ids.dracor && <li>DraCor: <a href={`https://dracor.org/id/${ids.dracor}`}>{ids.dracor}</a></li>}
-                  {ids.wikidata && <li>Wikidata: <a href={`https://www.wikidata.org/wiki/${ids.wikidata}`}>{ids.wikidata}</a></li>}
-                  {ids.weber && <li>Weber-Gesamtausgabe: <a href={`http://weber-gesamtausgabe.de/${ids.weber}`}>{ids.weber}</a></li>}
+                  {ids.dracor && (
+                    <li>DraCor: <IdLink id={ids.dracor} type="dracor"/></li>
+                  )}
+                  {ids.wikidata && (
+                    <li>
+                     Wikidata: <IdLink id={ids.wikidata} type="wikidata"/>
+                    </li>
+                  )}
+                  {ids.weber && (
+                    <li>
+                      Weber-Gesamtausgabe: <IdLink id={ids.weber} type="weber"/>
+                    </li>
+                  )}
                 </ul>
               </td>
             </tr>
@@ -166,9 +177,7 @@ export default function Details () {
             <tr>
               <th>Location</th>
               <td>
-                <a href={`https://www.wikidata.org/wiki/${location.wikidataId}`}>
-                  {location.wikidataId}
-                </a>
+                <IdLink id={location.wikidataId} type="wikidata"/>
               </td>
             </tr>
           )}
