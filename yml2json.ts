@@ -29,7 +29,9 @@ const plays = data.map((p: Play) => {
   const numberOfCharacters = countCharacters(p);
   const authors = p.author ? [p.author] : p.authors || [];
   const basedOn = p.basedOn?.map((ref) => map[ref as string] || ref) || [];
-  return {...p, authors, normalizedYear, numberOfCharacters, basedOn}
+  const play = {...p, authors, normalizedYear, numberOfCharacters};
+  if (basedOn.length > 0) play.basedOn = basedOn;
+  return play;
 });
 
 writeFileSync('./data.json', JSON.stringify(plays));
