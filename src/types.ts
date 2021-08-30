@@ -41,7 +41,8 @@ export interface Play {
   slug: string
   title: string
 
-  basedOn?: string[]
+  basedOn?: (string | OriginalPlay)[]
+  basedOnLanguage?: string
   cast?: CastMember[]
   comments?: string[]
   created?: number
@@ -69,4 +70,21 @@ export interface Play {
     wikidataId?: string
   }
   subtitle?: string
+}
+
+export interface OriginalPlay {
+  id: string
+  author?: Author
+  authors?: Author[]
+  title: string
+  subtitle?: string
+  language?: string
+  created?: number
+  printed?: number
+  premiered?: string | number
+  fulltextUrl?: string
+  ids?: {
+    dracor?: string
+    wikidata?: string
+  }
 }
