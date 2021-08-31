@@ -23027,8 +23027,8 @@ formalia:
 editions:
   - title: "Dramatische Dichtungen betrübten und spaßhaften Inhalts von C. A. Cossmann Paderano. Berlin: Schmidt 1826, S. 49–90"
     url: https://books.google.com/books?id=P76jp5KBUiAC&pg=PA48-IA1
-keywords:
-  - Mit einem Vorspiel (S. 50–56) und einem Epilog (S. 90).
+comments:
+  - Mit einem Vorspiel (S. 51–56) und einem Epilog (S. 90).
 cast:
   - name: Napoleon Bonaparte.
     gender: m
@@ -27234,6 +27234,48 @@ cast:
     gender: f
 setting: >-
   Zimmer in Frau v. Fuchs Hause.
+---
+slug: feldmann-die-freie-wahl
+author:
+  name: Feldmann, Leopold
+  wikidata: Q88371
+title: Die freie Wahl
+subtitle: Original-Lustspiel in Einem Akte
+numberOfScenes: 15
+printed: 1842
+premiered: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Als Manuscript gedruckt. München 1842"
+    url: https://nbn-resolving.de/urn:nbn:de:hebis:30:1-151857
+  - title: "Deutsche Original-Lustspiele von L. Feldmann. Wien: Wallishausser 1845, S. 163–198"
+    url: https://books.google.com/books?id=SaXdxHk30WkC&pg=PA163
+cast:
+  - name: Waller,
+    role: Privatier.
+    gender: m
+  - name: Jeannette,
+    role: seine Nichte.
+    gender: f
+  - name: Leonhard,
+    role: sein Neffe.
+    gender: m
+  - name: Marianne,
+    role: Haushälterin des Waller.
+    gender: f
+  - name: Alberto,
+    role: Kunstreiter.
+    gender: m
+  - name: Corintha.
+    gender: f
+  - name: Victor,
+    role: ein kleiner Knabe.
+    gender: m
+  - name: Ein Diener.
+    gender: m
+setting: >-
+  Ein modern meublirtes Zimmer.
 ---
 slug: feldmann-die-kirschen
 author:
@@ -36664,6 +36706,46 @@ cast:
 setting: >-
   Die Handlung spielt auf dem Lande unweit der Residenz. (Ländliche Gegend.)
 ---
+slug: herzenskron-die-bittsteller-in-verwirrung
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Die Bittsteller in Verwirrung
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 30
+printed: 1833
+premiered: 1833-05-28
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Kleinigkeiten. Von Herzenskron. Dritter Band. Wien: Tendler 1833, S. 129–174"
+    url: https://books.google.com/books?id=AYK_sifhhOoC&pg=PA129
+comments:
+  - "Auch unter dem Titel »Die Supplicanten in Verwirrung«."
+cast:
+  - name: Hamster,
+    role: Güter-Regent des Grafen Flurbach.
+    gender: m
+  - name: Julie,
+    role: seine Nichte.
+    gender: f
+  - name: Frau v. Rosenau,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Herr v. Limburg,
+    role: ein Landedelmann, heimlich mit ihr vermählt.
+    gender: m
+  - name: Eugen v. Freythal.
+    gender: m
+  - name: Herr Allwig,
+    role: Hamsters Freund und Eugen's Oheim.
+    gender: m
+  - name: Franz,
+    role: Bedienter bey Hamster.
+    gender: m
+setting: >-
+  Die Handlung geht in Hamster's Wohnung, in der Herrschaftskanzley vor. (Das Theater stellt Hamsters Arbeitszimmer vor. Links ein Camin, rechts ein Schreibpult; Schriften u.s.w. liegen umher. In der Mitte ist der Haupteingang; links führt eine Thüre in die Wohnzimmer, rechts in die Kanzelleyen. Auf jeder Seite im Vordergrunde, dem Zuschauer gegenüber, befindet sich eine Thüre. Auf der einen liest man: Treppe Nr. 1, auf der andern Treppe Nr. 2.)
+---
 slug: herzenskron-die-landparthie-nach-weidling-am-bach
 author:
   name: Herzenskron, Hermann
@@ -37644,6 +37726,41 @@ cast:
     gender: m
 setting: >-
   Das Theater stellt ein sehr elegantes Zimmer vor, mit zwey Seiten- und einer Mittelthüre. Linker Hand ist ein Fenster, welches geöffnet werden kann; daneben ein Tisch mit Schreibmaterialien. Auf dem Tisch rechts ein Papagoy.
+---
+slug: hinze-die-erben
+author:
+  name: Hinze, Heimbert Paul Friedrich
+  wikidata: Q19210496
+title: Die Erben
+subtitle: Lustspiel in Einem Akt
+numberOfScenes: 9
+printed: 1798
+formalia:
+  - Prosa
+editions:
+  - title: "Hannover: Ritscher 1798"
+    url: https://books.google.com/books?id=9hBVwAEACAAJ&printsec=frontcover
+  - title: "Grätz 1799"
+    url: https://books.google.com/books?id=gqR8OTVMdTYC&printsec=frontcover
+cast:
+  - name: Arnold.
+    gender: m
+  - name: Gretchen,
+    role: seine Tochter.
+    gender: f
+  - name: Martin,
+    role: ein junger Bauer.
+    gender: m
+  - name: Flick,
+    role: Gerichtsdiener.
+    gender: m
+  - name: Magdalene.
+    gender: f
+  - name: Bauern.
+    isGroup: true
+    gender: u
+setting: >-
+  Eine reinliche Dorfstube mit zwey Thüren. Gretchen, in Trauer, sitzt und strickt; Martin, neben ihr, auf einer kleinen Bank, hält ein aufgeschlagnes Gesangbuch vor sich. Auf dem Tische brennt ein Licht. Es ist Abend.
 ---
 slug: hinze-ein-streich-zum-todtlachen
 author:
@@ -69507,6 +69624,100 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht in der Wohnung des Judenrichters vor.
+---
+slug: schilling-die-eisenbahn
+author:
+  name: Schilling, August
+  wikidata: Q16720252
+title: Die Eisenbahn
+subtitle: Dramatische Kleinigkeit in Einem Akte
+numberOfScenes: 5
+printed: 1842
+premiered: 1841-11-12
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Contouren von August Schilling. Prag, Leitmeritz und Teplitz: Medau 1842, S. 3–35"
+    url: https://books.google.com/books?id=XLrRWQyvz-YC&pg=PA3
+reviews:
+  - "Der Wanderer im Gebiete der Kunst und Wissenschaft, Industrie und Gewerbe, Theater und Geselligkeit. Achtundzwanzigster Jahrgang. No. 274 (Mittwoch, den 17. November 1841), [S. 1103](https://books.google.com/books?id=H3BMAAAAcAAJ&pg=PA1103)."
+cast:
+  - name: Michl,
+    role: ein junger Pächter.
+    gender: m
+  - name: Gretchen,
+    role: seine Verlobte.
+    gender: f
+  - name: Ein Fremder.
+    gender: m
+  - name: Der Nachbar.
+    gender: m
+  - name: Ein Page.
+    gender: m
+setting: >-
+  Die Handlung spielt in der Nähe eines Stationsdorfes der Eisenbahn. (Bauernstube mit einer Thüre und einem Fenster auf die Straße.)
+---
+slug: schilling-die-nebenbuhlerin
+author:
+  name: Schilling, August
+  wikidata: Q16720252
+title: Die Nebenbuhlerin
+subtitle: Dramatisches Gedicht in einem Akte
+numberOfScenes: 11
+printed: 1852
+premiered: 1844
+formalia:
+  - Alexandriner
+editions:
+  - title: "Album dramatischer Spiele von Dr. August Schilling. Leitmeritz: Medau 1852, S. 177–211"
+    url: https://books.google.com/books?id=f6eJK86EWvAC&pg=PA177
+cast:
+  - name: Der Mann.
+    gender: m
+  - name: Die Frau.
+    gender: f
+  - name: Der Cousin.
+    gender: m
+  - name: Das Stubenmädchen.
+    gender: f
+  - name: Ein Hausmeister.
+    gender: m
+setting: >-
+  Die Handlung spielt in einer großen Residenzstadt. (Ein eleganter Salon mit einer Mittel- und einer Seitenthüre. – Ein Diwan. Eine Uhr, deren Zeiger auf 5 steht.)
+---
+slug: schilling-jurist-und-poet
+author:
+  name: Schilling, August
+  wikidata: Q16720252
+title: Jurist und Poet
+subtitle: Schwank in 1 Act und Alexandrinern
+numberOfScenes: 5
+printed: 1850
+premiered: 1847-01-21
+formalia:
+  - Alexandriner
+editions:
+  - title: "Das Veilchen. Ein Taschenbuch für Freunde einer gemüthlichen und erheiternden Lectüre. Drey und Dreysigster Jahrgang. Wien: Riedl 1850, S. 1–56"
+    url: https://books.google.com/books?id=VF47AAAAcAAJ&pg=PA1
+  - title: "Album dramatischer Spiele von Dr. August Schilling. Leitmeritz: Medau 1852, S. 213–249"
+    url: https://books.google.com/books?id=f6eJK86EWvAC&pg=PA213
+cast:
+  - name: Gustav von Wangenheim,
+    role: Advocat.
+    gender: m
+  - name: Emil Bönhase,
+    role: Poet.
+    gender: m
+  - name: Oberförster von Wurzbach,
+    role: Gustav Oheim.
+    gender: m
+  - name: Rosa,
+    role: seine Tochter.
+    gender: f
+  - name: Ein Lohnlakai.
+    gender: m
+setting: >-
+  Ort der Handlung: Eine große Stadt. (Ziemlich dürftiges Zimmer des Poeten Emil Bönhase. Eine Mittel- und eine Seitenthüre.) (Ringsherum verschiedene Attribute eines literarischen Junggesellen, dem es deutlich an Geld gebricht. Zeitungen, Bücher, ein Schreibtisch, ein Stuhl mit drei Füßen, Tabakpfeifen, Cigarren, Rauchrequisiten, Feuerzeug, ein schwarzes eisernes Öflein mit einer Röhre durchs ganze Zimmer. Auf dem Ofen des Poeten Bönhase Gypsbüste, mit einem Lorbeerkranz geziert; an der Wand Rappiere und Raufhandschuhe, am Boden liegt zerstreut ein Spiel Karten und ein Glacéhandschuh; auf einem Seitentische grüne Römer, eine leere Bouteille und ein Leuchter mit einer Kerze.)
 ---
 slug: schink-althaea
 author:
