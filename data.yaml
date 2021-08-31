@@ -390,6 +390,48 @@ setting: >-
   Seite Sopha, Stühle, runder Theetisch mit Thee-Service und Blumen, auf der
   andern ein Glasschrank.
 ---
+slug: alvensleben-der-dumme-streich
+author:
+  name: Alvensleben, Ludwig von
+  pseudonym: Gustav Sellen
+  wikidata: Q1875246
+title: Der dumme Streich
+subtitle: Original-Lustspiel in einem Aufzuge
+numberOfScenes: 12
+created: 1832
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Manuskript [ca. 1832]"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18171140
+  - title: "Dramatische Blüthen in Mittheilungen deutscher Dichter. 5. Bdch. Braunschweig: Busse 1834"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 243 (Montag, 31. August 1835), [S. 1002](https://books.google.com/books?id=kRhBAQAAMAAJ&pg=PA1002)."
+cast:
+  - name: Paulmann,
+    role: Justizamtmann.
+    gender: m
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - name: Pinsel,
+    role: Amtsschreiber.
+    gender: m
+  - name: Eugenio,
+    role: ein junger Dichter.
+    gender: m
+  - name: Ferdinand,
+    role: dessen Freund.
+    gender: m
+  - name: Ein Amtsdiener.
+    gender: m
+  - name: Bauern.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene: das Guth des Justizamtmanns.
+---
 slug: andre-der-alte-freyer
 author:
   name: André, Johann
@@ -51026,6 +51068,37 @@ setting: >-
 location:
   wikidataId: Q71
 ---
+slug: kurlaender-die-uiberlisteten
+author:
+  name: Kurländer, Franz August von
+  wikidata: Q55122987
+title: Die Uiberlisteten
+subtitle: Ein Lustspiel in einem Aufzuge. Aus dem Französischen des Bèlin übersetzt
+numberOfScenes: 15
+printed: 1806
+premiered: 1811-11-12
+formalia:
+  - Prosa
+basedOn:
+  - "Louis François Marie Bellin de La Liborlière: [»La cloison, ou Beaucoup de peine pour rien. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/LIBORLIERE_CLOISON.xml)"
+editions:
+  - title: "Wien: Pichler 1806"
+    url: https://books.google.com/books?id=p79SXasfdC0C&printsec=frontcover
+  - title: "Almanach Dramatischer Spiele für Gesellschaftstheater. Wien und Triest: Geistinger 1811, S. 69–106"
+    url: https://books.google.com/books?id=VTJJAAAAcAAJ&pg=PA69
+comments:
+  - "Untertitel im Druck auch »Die Ueberlisteten. Eine dramatische Kleinigkeit« (1811)."
+cast:
+  - name: Hr. v. Dorn.
+    gender: m
+  - name: Louise,
+    role: seine Nichte.
+    gender: f
+  - name: Wilhelm Flock.
+    gender: m
+setting: >-
+  Die Handlung spielt in einem Gasthofe. (Ein großes Zimmer, rechts eine Bretterwand mit Spalier überdeckt; eine Thür im Hintergrunde links, ein Tisch mit Schreibgeräthe, im Hintergrunde ein anderer mit einer Guitarre.)
+---
 slug: kurlaender-eine-stunde-in-karlsbad
 author:
   name: Kurländer, Franz August von
@@ -71762,6 +71835,34 @@ cast:
     gender: m
 setting: Zimmer bei Dillert.
 ---
+slug: schmidt-vorwaerts
+author:
+  name: Schmidt, Friedrich Ludwig
+  wikidata: Q16471530
+title: Vorwärts!
+subtitle: Lustspiel in einem Aufzuge. Dargestellt auf dem großen Theater zu Hamburg bei höchster Anwesenheit des Durchlauchtigsten Fürsten Blücher von Wahlstatt
+numberOfScenes: 7
+printed: 1816
+formalia:
+  - Prosa
+editions:
+  - title: "Hamburg: Langhoff 1816"
+cast:
+  - name: Vater Blume.
+    gender: m
+  - name: Lebrecht,
+    role: sein Sohn.
+    gender: m
+  - name: Der Pachter.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Marie,
+    role: ihre Tochter.
+    gender: f
+setting: >-
+  Gegend vor einem freundlichen Dorfe. Vom Zuschauer links des Bauern, rechts des Pachters Wohnung.
+---
 slug: schmieder-misstraun-und-neckerei-oder-die-verkleidung
 author:
   name: Schmieder, Heinrich Gottlieb
@@ -78943,6 +79044,54 @@ cast:
     gender: m
 setting: >-
   Ein bürgerliches aber freundliches Wohnzimmer. Rechts ein Fenster, daneben ein hölzerner Ständer, auf welchem der Reihe nach verschiedene Pfeifen stehen. Ein gefüllter Tabackskasten. Stahl, Stein und Schwamm befinden sich ebenfalls auf demselben. Gegenüber ein großer Schrank, mit Damengarderobe angefüllt. Auf einem Stuhle liegt Näherei.
+---
+slug: toepfer-preussens-15ter-october
+author:
+  name: Töpfer, Carl
+  wikidata: Q16650514
+title: Preußens 15ter October
+subtitle: Festspiel mit Gesang in Einem Akt. Musik vom Kapellmeister Franz Gläser
+numberOfScenes: 12
+printed: 1841
+premiered: 1840-10-15
+formalia:
+  - Prosa
+  - Verse
+editions:
+  - title: "Lustspiele von Dr. Carl Töpfer. Vierter Band. Berlin: Dunker und Humblot 1842, S. 1–30"
+    url: https://books.google.com/books?id=FdM03v2XW7wC&pg=PA1
+cast:
+  - name: Der Amtmann.
+    gender: m
+  - name: Marie,
+    role: seine Gattin.
+    gender: f
+  - name: Emilie,
+    role: ihre Tochter.
+    gender: f
+  - name: Der Pfarrer.
+    gender: m
+  - name: Werning,
+    role: Bildhauer.
+    gender: m
+  - name: Holm,
+    role: Architekt.
+    gender: m
+  - name: Künstler.
+    gender: m
+  - name: Tobias,
+    role: Invalid.
+    gender: m
+  - name: Ein Bauer.
+    gender: m
+  - name: Arbeiter.
+    isGroup: true
+    gender: m
+  - name: Landleute beiderlei Geschlechts.
+    isGroup: true
+    gender: u
+setting: >-
+  Eine romantische Dorfgegend, der Tag graut, Landleute beiderlei Geschlechts, die mit Sensen und Rechen zur Arbeit ziehen wollen.
 ---
 slug: toepfer-strauss-und-lanner
 author:
