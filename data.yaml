@@ -9488,7 +9488,7 @@ printed: 1767
 formalia:
   - Prosa
 basedOn:
-  - "Barthélemy-Christophe Fagan: »L'étourderie. Comédie en un acte et en prose«"
+  - fagan-l-etourderie
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 22, S. 228
@@ -16186,7 +16186,7 @@ premiered: 1821-12-15
 formalia:
   - Prosa
 basedOn:
-  - "Eugène Scribe und Xavier-Boniface Saintine: [»L'ours et le pacha. Folie-vaudeville en un acte«](https://books.google.com/books?id=XSrkiK5Ypk4C&printsec=frontcover)"
+  - scribe-saintine-l-ours-et-le-pacha
 editions:
   - title: "Vaudevilles, für deutsche Bühnen und gesellige Zirkel; nach dem Französischen bearbeitet von Carl Blum. Berlin: Duncker & Humblot 1824, S. 217–260"
     url: https://books.google.com/books?id=kb_iLkuNFj0C&pg=PA217
@@ -24244,7 +24244,7 @@ premiered: 1837-10-05
 formalia:
   - Prosa
 basedOn:
-  - Fagon
+  - fagan-l-etourderie
 editions:
   - title: "Theater von Dr. Römer. Zweyter Band. Wien: Mausberger 1838, S. 153–180"
     url: https://books.google.com/books?id=pYmt1Cg93TkC&pg=PA153
@@ -24267,7 +24267,7 @@ cast:
   - name: Jacob,
     role: Hellmuth's Bedienter.
     gender: m
-setting: >
+setting: >-
   Die Handlung begibt sich auf Herrn von Hellmuth's Landgute. (Garten mit einer Rasenbank; zur Seite ein Gebüsch.)
 ---
 slug: deinhardstein-die-verschleierte-dame
@@ -29040,7 +29040,7 @@ premiered: 1770-06-16
 formalia:
   - Prosa
 basedOn:
-  - "Charles-François Panard und Barthélemy-Christophe Fagan: »L'étourderie. Comédie en un acte et en prose«"
+  - fagan-l-etourderie
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 67–68
@@ -38928,7 +38928,8 @@ editions:
     url: https://books.google.com/books?id=URQmJiP1R6IC&printsec=frontcover
 comments:
   - "Seitenstück zu Holbeins Einakter [»Der Verräther«](holbein-der-verraether)."
-  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 330 (Mittwoch, 25. November 1840), [S. 1331](https://books.google.com/books?id=6jxaAAAAcAAJ&lpg=PA1331&ots=xRV3JlYZ3F&pg=PA1331)."
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 330 (Mittwoch, 25. November 1840), [S. 1331](https://books.google.com/books?id=6jxaAAAAcAAJ&pg=PA1331)."
 cast:
   - name: Amalie Mehrenbach.
     gender: f
@@ -45892,7 +45893,7 @@ comments:
   - Im Druck kein Einakterhinweis. – Bezeichnung »Historisches Trauerspiel in Einer Abtheilung« auf dem [Theaterzettel Weimar 1834](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00029745/006536.tif).
   - Basiert auf der [Sage vom Graf von Gleichen](https://de.wikipedia.org/wiki/Der_Graf_von_Gleichen_(Sage)).
   - »Seitenhieb« auf Goethes [»Stella«](https://dracor.org/id/ger000126) (laut Kotzebue-Lexikon).
-  - "»erzdummes Ding von Kotzebue« (Johann Diederich Gries an Bernhard Rudolf Abeken, [8. März 1815](https://books.google.com/books?id=sniWDwAAQBAJ&newbks&lpg=PP22))"
+  - "»erzdummes Ding von Kotzebue« (Johann Diederich Gries an Bernhard Rudolf Abeken, [8. März 1815](https://books.google.com/books?id=COaTDwAAQBAJ&pg=PA13))"
   - "»eine elende Burleske« (Zeitschrift für die historische Theologie, Leipzig 1844, [S. 127, Fn. 2](https://books.google.com/books?id=sP9SAAAAcAAJ&pg=RA3-PA127))"
 cast:
   - name: Ritter Hans Graf von Gleichen.
@@ -51920,7 +51921,7 @@ printed: 1743
 formalia:
   - Prosa
 basedOn:
-  - "Ludvig Holberg: [»Det Arabiske Pulver«](https://books.google.com/books?id=0eUpAAAAYAAJ&pg=PP258)"
+  - holberg-det-arabiske-pulver
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 12, S. 252–254
