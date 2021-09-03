@@ -62,3 +62,10 @@ author IDs in `data.yaml` and adds it to `src/authors.json`.
 
 Update [`locations.json`](src/locations.json). This fetches coordinates for
 new location IDs in `data.yaml` and adds them to `src/locations.json`.
+
+## License
+
+The code of this project is licensed under the MIT License.
+
+The data files (data.yaml, originals.yaml) are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
