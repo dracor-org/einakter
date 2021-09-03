@@ -37,9 +37,11 @@ ids:
   wikidata: Q1219041
 ---
 id: scribe-saintine-l-ours-et-le-pacha
-author:
-  name: Eugène Scribe
-  wikidata: Q319261
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Saintine
+    wikidata: Q1399502
 title: L'ours et le pacha
 subtitle: Folie-vaudeville en un acte
 language: fre

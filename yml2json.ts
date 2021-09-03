@@ -20,7 +20,8 @@ interface Map<T> {
   [id: string]: T
 }
 const map: Map<OriginalPlay> = originals.reduce((acc, o) => {
-  acc[o.id as string] = o;
+  const authors = o.author ? [o.author] : o.authors || [];
+  acc[o.id as string] = {...o, authors, author: undefined};
   return acc;
 }, {} as Map<OriginalPlay>);
 

@@ -32,6 +32,7 @@ const Original = ({data}: Props) => {
   const {
     id,
     author,
+    authors = [],
     title,
     subtitle,
     ids,
@@ -47,14 +48,19 @@ const Original = ({data}: Props) => {
   
   return (
     <>
-      {author?.name}
-      {author?.wikidata && (
+      {authors.length > 0 && authors.map((a, i) => (
         <>
-          {' '}
-          <IdLink id={author.wikidata} type="wikidata"/>
+          {i > 0 && ', '}
+          {a.name}
+          {a.wikidata && (
+            <>
+              {' '}
+              <IdLink id={a.wikidata} type="wikidata"/>
+            </>
+          )}
         </>
-      )}
-      {author && ': '}
+      ))}
+      {authors.length > 0 && ': '}
       {fulltextUrl ? (
         <a href={fulltextUrl} title="Full text">
          {title}
