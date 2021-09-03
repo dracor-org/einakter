@@ -31,7 +31,6 @@ const Original = ({data}: Props) => {
 
   const {
     id,
-    author,
     authors = [],
     title,
     subtitle,
