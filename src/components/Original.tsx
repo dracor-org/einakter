@@ -2,7 +2,7 @@ import React, {useContext} from 'react';
 import {Link, useParams} from "react-router-dom";
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
-import {OriginalPlay} from '../types';
+import {OriginalPlay, Author} from '../types';
 
 function getYear(ref: OriginalPlay) {
   const years = [];
