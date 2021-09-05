@@ -547,8 +547,6 @@ printed: 1771
 premiered: 1774-05-21
 formalia:
   - Prosa
-basedOn:
-  - "Carmontelle: »Le deuil«"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 281–282
@@ -558,6 +556,7 @@ editions:
     url: https://books.google.com/books?id=f1_5uxwMtRYC&printsec=frontcover
 comments:
   - Auch unter dem Titel »Der Wittwer. Ein Original-Lustspiel in einem Aufzuge« (1791).
+  - "Laut Meyer war die Vorlage Carmontelles »Le deuil« aus den [»Proverbes dramatiques«](https://fr.wikisource.org/wiki/Proverbes_dramatiques), der Titel findet sich dort allerdings nicht. Gemeint ist evtl. [»Le veuf«](https://fr.wikisource.org/wiki/Proverbes_dramatiques/Le_Veuf), das allerdings nur drei Figuren und zwei Szenen hat – wenn überhaupt, handelt es sich also um eine freie Bearbeitung."
 cast:
   - name: Damon,
     role: der Wittwer.
@@ -592,7 +591,7 @@ printed: 1772
 formalia:
   - Prosa
 basedOn:
-  - "Charles Palissot de Montenoy: [»Le barbier de Bagdad. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PALISSOT_BARBIERDEBAGDAD.xml)"
+  - palissot-de-montenoy-le-barbier-de-bagdad
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 25, S. 20
@@ -5125,6 +5124,43 @@ cast:
     role: Bruder der Rosette.
     gender: m
 ---
+slug: anonym-der-laecherliche-irrthum-oder-die-entfuehrung
+author:
+  pseudonym: Anonym
+title: Der Lächerliche Irrthum, Oder Die Entführung
+subtitle: Ein Lustspiel von einer Handlung
+numberOfScenes: 25
+printed: 1761
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 20, S. 53
+editions:
+  - title: "Breslau: Pietsch 1761"
+    url: http://digital.wlb-stuttgart.de/purl/kxp175130888X
+cast:
+  - name: Frau Antonette,
+    role: eine reiche Wittwe.
+    gender: f
+  - name: Leonore,
+    role: ihre Stief-Tochter.
+    gender: f
+  - name: Herr Gebhard,
+    role: ein Wittwer.
+    gender: m
+  - name: Liebhold,
+    role: sein Stief-Sohn.
+    gender: m
+  - name: Peter,
+    role: der Frau Antonette Kutscher.
+    gender: m
+  - name: Catharine,
+    role: Mädgen der Leonore.
+    gender: f
+setting: >-
+  Der Schauplatz ist ausser der Stadt neben einem Gartenhause der Frau Antonette. (Die Handlung fängt gegen Abend an, und dauert bis es finster ist.)
+---
 slug: anonym-der-liebhaber-ein-schriftsteller-und-ein-lackey
 author:
   pseudonym: Anonym
@@ -6837,8 +6873,7 @@ printed: 1771
 formalia:
   - Prosa
 basedOn:
-  - "Simon-Nicolas-Henri Linguet: »Intermède de l'écolier magicien«"
-  - cervantes-cueva
+  - cervantes-la-cueva-de-salamanca
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 274–275
@@ -14554,7 +14589,7 @@ printed: 1782
 formalia:
   - Prosa
 basedOn:
-  - cervantes-cueva
+  - cervantes-la-cueva-de-salamanca
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 211–212
@@ -20553,7 +20588,7 @@ premiered: 1819-09-05
 formalia:
   - Prosa
 basedOn:
-  - "Armand d'Artois und Achille d'Artois: [»Les perroquets de la mère Philippe. Vaudeville en un acte«](https://books.google.com/books?id=0Tc-AAAAIAAJ&printsec=frontcover)"
+  - d-artois-d-artois-des-perroquets-de-la-mere-philippe
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1820. Von I. F. Castelli. Fünfter Jahrgang. Wien: Wallishausser [1820], S. 59–104"
 comments:
@@ -27447,6 +27482,41 @@ cast:
 setting: >-
   Scene: Vorzimmer im Hôtel.
 ---
+slug: floto-das-sonntagsraeuschchen
+author:
+  name: Floto, Wilhelm
+  wikidata: Q1557949
+title: Das Sonntagsräuschchen
+subtitle: Original-Lustspiel in einem Act
+numberOfScenes: 21
+printed: 1846
+premiered: 1849-08-05
+formalia:
+  - Prosa
+editions:
+  - title: "Braunschweig: Sievers & Comp. 1846"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18150190
+comments:
+  - "Der Einakter »wurde auf fast sämmtlichen deutschen Bühnen aufgeführt und hat sich fortwährend auf dem Repertoir erhalten« (ADB 7 [1878], [S. 133](https://www.deutsche-biographie.de/pnd116630795.html))."
+reviews:
+  - "Deutscher Theater-Correspondent. XIV. Jahrgang, Nr. 5 (München, Sonntag den 7. Februar 1869), [unpag.](https://books.google.com/books?id=v2hLAAAAcAAJ&pg=PT4): »ein stets gerne gesehenes Lustspiel, insbesondere da es unserem Nestor der Komik, Hrn. Pichler (Commerzienrath Andrée), stets auf's Neue Gelegenheit gibt, durch sein natürliches, einfaches Spiel die Lachmuskeln des Auditoriums in beständiger Bewegung zu halten«"
+cast:
+  - name: Commerzienrath Andree.
+    gender: m
+  - name: Caroline,
+    role: dessen Tochter.
+    gender: f
+  - name: Fritz Förster,
+    role: dessen Neffe, Student.
+    gender: m
+  - name: Graf von Bergen.
+    gender: m
+  - name: Konrad,
+    role: Bediente des Commmerzienraths.
+    gender: m
+setting: >-
+  Die Handlung spielt in einer deutschen Provinzialstadt. (Wohnzimmer im Andree'schen Hause. In der Mitte und an jeder Seite eine Thür. Im Vordergrunde an jeder Seite ein Sessel. An der Seite rechts ein Tisch, worauf ein Licht und eine Klingel befindlich.) (Es ist Abend.)
+---
 slug: foerg-das-urtheil-des-paris
 author:
   name: Förg, Karl Ignaz
@@ -32078,6 +32148,50 @@ cast:
     role: Bedienter bey Solners.
     gender: m
 setting: Die Scene ist im Hause der Wittwe Brandenstern.
+---
+slug: guttenberg-die-verwechslung
+author:
+  name: Guttenberg, Andreas Josef von
+  wikidata: Q94889736
+title: Die Verwechslung
+subtitle: Ein Lustspiel in einem Akt
+numberOfScenes: 16
+printed: [1800]
+premiered: 1806-07-12
+formalia:
+  - Prosa
+editions:
+  - title: "Augsburg: Stage [1800]"
+    url: https://books.google.com/books?id=UonZhLgvKw0C&printsec=frontcover
+reviews:
+  - "Wiener Theater-Zeitung. Nro. 4 (Den 22. July 1806). [S. 53–55](https://books.google.com/books?id=kSXfo3GfiloC&pg=PA53)."
+cast:
+  - name: Kommerzienrath von Rendau.
+    gender: m
+  - name: Charlotte,
+    role: seine Tochter.
+    gender: f
+  - name: Jungfer Schwarz,
+    role: ihre Hofmeisterinn.
+    gender: f
+  - name: Oberamtmann von Billenbach.
+    gender: m
+  - name: Gottfried von Billenbach,
+    role: dessen Sohn.
+    gender: m
+  - name: Falk,
+    role: Gottfrieds Reitknecht.
+    gender: m
+  - name: Fritz Rose,
+    role: eines reichen Banquiers Sohn.
+    gender: m
+  - name: Louis,
+    role: sein Bedienter.
+    gender: m
+  - name: Ein Bedienter des Kommerzienraths.
+    gender: m
+setting: >-
+  Offene Straße in der Stadt.
 ---
 slug: guttenberg-qui-pro-quo-oder-der-mann-der-alles-weiss
 author:
@@ -39887,6 +40001,45 @@ setting: >-
   Abgelegene Straße Warschau's. Nacht. Sturm.
 location:
   wikidataId: Q270
+---
+slug: hottinger-die-ueberraschungen
+author:
+  name: Hottinger, Johann Jakob
+  wikidata: Q1694884
+title: Die Ueberraschungen
+subtitle: Nachspiel in einem Aufzug
+numberOfScenes: 11
+printed: 1811
+formalia:
+  - Prosa
+editions:
+  - title: "Rüdger Maneß. Ein vaterländisches Schauspiel in drey Aufzügen. Winterthur: Steiner 1811, S. 129–163"
+    url: https://books.google.com/books?id=I5U6AAAAcAAJ&pg=PA129
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Zehnter Band. Augsburg und Leipzig: Stage [1813], S. S. 269–293"
+    url: https://books.google.com/books?id=Ni87AAAAcAAJ&pg=PA269
+  - title: "Schauspiele für die Jugend von J. J. Hottinger. Zweite Ausgabe. Winterthur: Steiner 1845, S. 294–319"
+    url: https://books.google.com/books?id=G8HaDMq00z4C&pg=PA295
+cast:
+  - name: Gerlach,
+    role: Amtmann auf einem Dorfe.
+    gender: m
+  - name: August,
+    role: des Amtmanns Sohn.
+    gender: m
+  - name: Ernst,
+    role: des Pfarrers Sohn.
+    gender: m
+  - name: Hiller,
+    role: Amtsschreiber.
+    gender: m
+  - name: Peter,
+    role: des Amtmanns alter Diener.
+    gender: m
+  - name: Mehrere Knaben im Dorfe.
+    isGroup: true
+    gender: m
+setting: >-
+  Das Theater stellt ein gewöhnliches Zimmer mit zwey Seitenthüren vor; den ganzen Hintergrund deckt ein großer Vorhang, der niedergelassen ist.
 ---
 slug: houwald-der-schuldbrief
 author:
@@ -60522,7 +60675,7 @@ printed: 1780
 formalia:
   - Prosa
 basedOn:
-  - "Charles Palissot de Montenoy: [»Le barbier de Bagdad. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PALISSOT_BARBIERDEBAGDAD.xml)"
+  - palissot-de-montenoy-le-barbier-de-bagdad
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 449
@@ -74228,6 +74381,55 @@ cast:
 setting: >-
   Wirthstube. Abend.
 ---
+slug: seemann-dulk-die-waende
+authors:
+  - name: Seemann, Otto
+    wikidata: Q29892109
+  - name: Dulk, Albert
+    wikidata: Q89664
+title: Die Wände
+subtitle: Eine politische Comödie in Einem Acte
+numberOfScenes: 9
+printed: 1848
+formalia:
+  - Verse
+editions:
+  - title: "Königsberg: Pfitzer und Heilmann 1848"
+  - title: "Der deutsche Michel. Revolutionskomödien der Achtundvierziger. Herausgegeben von Horst Denkler. Stuttgart: Reclam 1971, S. 172–208"
+    url: http://www.zeno.org/nid/20004710266
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 12 (Sonnabend, 13. Januar 1849), [S. 45–46](https://books.google.com/books?id=KloFAAAAQAAJ&pg=PA45)."
+ids:
+  dracor: ger000459
+  wikidata: Q51459425
+cast:
+  - name: Hans Volk.
+    gender: m
+  - name: Theodor,
+    role: sein Verwalter.
+    gender: m
+  - name: Doctor Censur.
+    gender: m
+  - name: Doctor Polisëi.
+    gender: m
+  - name: Kriechel,
+    role: Gewissensrath.
+    gender: m
+  - name: Gensedarm,
+    role: Chirurgus.
+    gender: m
+  - name: Aufrecht,
+    role: Volk's Freund.
+    gender: m
+  - name: Chor der Wände.
+    isGroup: true
+    gender: u
+  - name: Diener.
+    isGroup: true
+    gender: u
+setting: >-
+  Scene. Ein Zimmer mit Steinwänden, auf beiden Seiten Karyatiden. Hans Volk liegt in Decken gehüllt, eine Schlafmütze auf dem Haupte, auf einem Bette und schläft. Aufrecht und Kriechel im Gespräch. Aufrecht spricht durchgehends mit starker Stimme.
+---
 slug: seibt-gabriele-montalto
 author:
   name: Seibt, Karl Heinrich von
@@ -78963,6 +79165,58 @@ cast:
     gender: m
 setting: >-
   Eine freundliche Dorf-Gegend. Im Hintergrunde ziehen sich Hügel bis zu dem herzoglichen Landschlosse hin, welches ganz in der Ferne sichtbar ist. Auf der linken Seiten vorn befindet sich Blei's Wirthshaus, mit einer Bank vor der Thür. Gegenüber steht ein Tisch mit Bänken, welche für Gäste bestimmt sind. Ein Theil des Wirths-Gartens nimmt die Seite der Scene hinter dem Hause ein.
+---
+slug: toepfer-ein-stuendchen-in-pyrmont
+author:
+  name: Töpfer, Carl
+  wikidata: Q16650514
+title: Ein Stündchen in Pyrmont
+subtitle: Lustspiel in einem Aufzuge nach dem Französischen des Scribe
+numberOfScenes: 19
+printed: 1841
+premiered: 1822-10-30
+formalia:
+  - Prosa
+basedOn:
+  - scribe-de-courcy-saintine-les-eaux-du-mont-d-or
+editions:
+  - title: "Als Manuscript gedruckt. [Ohne Ort: ohne Jahr]"
+    url: https://books.google.com/books?id=BNu1wXDrSWIC&printsec=frontcover
+  - title: "Lustspiele von Dr. Carl Töpfer. Vierter Band. Berlin: Dunvker und Humblot 1841, S. 195–258"
+    url: https://books.google.com/books?id=jw8QAAAAYAAJ&pg=PA195
+  - title: "Lustspiele von Dr. Carl Töpfer. Vierter Band. Berlin: Dunker und Humblot 1842, S. 195–258"
+    url: https://books.google.com/books?id=FdM03v2XW7wC&pg=PA195
+cast:
+  - name: Kaufmann Berstein.
+    gender: m
+  - name: Madame Berstein,
+    role: seine Frau.
+    gender: f
+  - group:
+      - name: Leontine,
+        gender: f
+      - name: Adele,
+        role: 13 Jahr alt,
+        gender: f
+    role: seine Töchter.
+  - name: Doktor Gräber.
+    gender: m
+  - name: Adolph,
+    role: sein Sohn.
+    gender: m
+  - name: Barren,
+    role: Seidenhändler.
+    gender: m
+  - name: Franz,
+    role: Aufwärter im Bade.
+    gender: m
+  - name: Badegäste.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Theater stellt das Innere des Bade-Salons zu Pyrmont vor. Einrichtung höchst elegant. Ein Fortepiano, Spiegel etc.
+location:
+  wikidataId: Q556352
 ---
 slug: toepfer-lasst-mich-lesen
 author:

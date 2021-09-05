@@ -1,6 +1,19 @@
 # This work is licensed under a Creative Commons Attribution 4.0 International
 # License (https://creativecommons.org/licenses/by/4.0/)
 ---
+id: d-artois-d-artois-des-perroquets-de-la-mere-philippe
+authors:
+  - name: Achille d'Artois
+    wikidata: Q17620926
+  - name: Armand d'Artois
+    wikidata: Q18736302
+title: Les perroquets de la mère Philippe
+subtitle: Vaudeville en un acte
+language: fre
+printed: 1818
+premiered: 1818-06-10
+fulltextUrl: https://books.google.com/books?id=ukM6AAAAcAAJ&printsec=frontcover
+---
 id: fagan-l-etourderie
 author:
   name: Barthélemy-Christophe Fagan
@@ -31,10 +44,36 @@ subtitle: Comédie en un acte, en prose
 language: fre
 printed: 1660
 premiered: 1659
-fulltextUrl: http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_PRECIEUSESRIDICULES.xml
+fulltextUrl: https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_PRECIEUSESRIDICULES.xml
 ids:
   dracor: fre001021
   wikidata: Q1219041
+---
+id: palissot-de-montenoy-le-barbier-de-bagdad
+author:
+  name: Charles Palissot de Montenoy
+  wikidata: Q687
+title: Le barbier de Bagdad
+subtitle: Comédie en un acte
+language: fre
+printed: 1763
+fulltextUrl: https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/PALISSOT_BARBIERDEBAGDAD.xml
+ids:
+  dracor: fre001095
+---
+id: scribe-de-courcy-saintine-les-eaux-du-mont-d-or
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Frédéric de Courcy
+    wikidata: Q3090302
+  - name: Saintine
+    wikidata: Q1399502
+title: Les eaux du Mont-d'Or
+subtitle: Vaudeville en un acte
+language: fre
+premiered: 1822-07-25
+fulltextUrl: https://books.google.com/books?id=eftCAQAAMAAJ&pg=RA12-PA1
 ---
 id: scribe-saintine-l-ours-et-le-pacha
 authors:
@@ -50,12 +89,12 @@ fulltextUrl: https://books.google.com/books?id=XSrkiK5Ypk4C&printsec=frontcover
 ids:
   wikidata: Q107000378
 ---
-id: cervantes-cueva
+id: cervantes-la-cueva-de-salamanca
 author:
   name: Miguel de Cervantes
   wikidata: Q5682
 title: Entremés de La Cueva de Salamanca
+language: spa
 printed: 1615
 ids:
   wikidata: Q5966386
-language: spa
