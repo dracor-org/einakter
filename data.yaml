@@ -9600,6 +9600,61 @@ setting: >-
   Die Handlung geht in des Herrn von Rosenheim Garten vor. In der Entfernung
   sieht man ein Lusthaus.
 ---
+slug: anonym-die-ungluecklichen-komoedianten 
+author:
+  pseudonym: Anonym
+title: Die unglücklichen Komödianten
+subtitle: Lustspiel in einem Aufzug. Seitenstück zu den Unglücklichen des Herrn von Kotzebue
+numberOfScenes: 13
+printed: 1801
+formalia:
+  - Prosa
+editions:
+  - title: Berlin 1801
+  - title: "Martin Schneider (Hrsg.): Der Hamburger Theaterskandal von 1801. Eine Quellendokumentation zur politischen Ästhetik des Theaters um 1800. Frankfurt/M.: Lang 2017, S. 151–180"
+comments:
+  - "Seitenstück zu Kotzebues Einakter [»Die Unglücklichen«](kotzebue-die-ungluecklichen), vgl. auch [Scheerer: Der seltne Schmaus, oder: Die Glükklichen](scheerer-der-seltne-schmaus-oder-die-gluekklichen) (1808) und [Guttenberg: Die Bedrängten oder guter Rath für baares Geld](guttenberg-die-bedraengten-oder-guter-rath-fuer-baares-geld) (1820)."
+  - "Laut Martin Schneider wurde das Stück nie aufgeführt, »sondern war eher eine Art Flug- und Schmähschrift gegen die damalige Hamburger Direktion« (Mail vom 09.08.2021)."
+keywords:
+  - Theaterbetrieb
+  - Erbe
+  - Geld
+  - Die Unglücklichen
+cast:
+  - name: Peter Falk,
+    role: ehemaliger Schauspieldirektor, jezt Besitzer eines bedeutenden Landguts
+    gender: m
+  - group:
+      - name: Eulenspiegel,
+        gender: m
+      - name: Laars,
+        gender: m
+      - name: Lämmerhans,
+        gender: m
+      - name: Stegmeister,
+        gender: m
+      - name: Herzberg,
+        gender: m
+    role: Schauspieler und Schauspieldirektoren.
+  - group:
+      - name: Madame Johanna Lämmerhans,
+        gender: f
+      - name: Madame Stegmeister,
+        gender: f
+    role: Schauspielerinnen.
+  - group:
+      - name: Kürschner,
+        gender: m
+      - name: Arrestant,
+        gender: m
+    role: Schauspieler.
+    isGroup: true
+  - name: Senf,
+    role: Peter Falk's Bedienter.
+    gender: m 
+setting: >-
+  Das Stück spielt in Westphalen, auf dem Landgute Peter Falk's.
+---
 slug: anonym-die-unschuld-in-ketten-oder-der-willkommne-fuerst
 author:
   pseudonym: Anonym
@@ -32029,6 +32084,8 @@ editions:
     url: https://books.google.com/books?id=DSE7AAAAcAAJ&pg=PA191
 comments:
   - "Gegenstück zu Kotzebues Einakter [»Die Unglücklichen«](kotzebue-die-ungluecklichen)."
+keywords:
+  - Die Unglücklichen
 cast:
   - name: Herr Mausedaus,
     role: ein armer Abentheurer.
@@ -32115,6 +32172,42 @@ cast:
     gender: u
 setting: >-
   Das Stück spielt auf dem Landgute des Herrn von Hahnenklau. (Das Theater stellt eine Gegend vor dem Hahnenklauischen Schlosse vor, welche zugleich den gemeinschaftlichen Weg ins Dorf bildet, allenfalls eine Allee. Das Schloß sieht man im Hintergrunde, weiter vorn umzingelt ein eisernes Gitter den Umfang des Schosses, dessen Mitte aus einem applikablen Thor mit zwei Flügeln besteht. Das ganze etwas antique und massiv. Im Vordergrund eine Rasenbank, auf welcher Fritz Werder ausgestreckt liegt und eine Pfeife Toback raucht. Jakob sitzt gegenüber auf einer steinernen Bank und raucht ebenfalls.)
+---
+slug: guttenberg-die-freunde-nach-der-mode
+author:
+  name: Guttenberg, Andreas Josef von
+  wikidata: Q94889736
+title: Die Freunde nach der Mode
+subtitle: Lustspiel in einem Aufzuge. Frey nach dem Französischen
+numberOfScenes: 15
+printed: 1806
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Pichler 1806"
+    url: https://books.google.com/books?id=P2xUAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Rath Blank.
+    gender: m
+  - name: Die Räthinn.
+    gender: f
+  - name: Herr von Hoplipop,
+    role: ein reicher Güterbesitzer.
+    gender: m
+  - name: Herr von Gugelschmaus,
+    role: ein reicher Pächter.
+    gender: m
+  - name: Herr Glatt,
+    role: ein reicher Krämer.
+    gender: m
+  - name: Junker von Firleglanz,
+    role: Hoplipops Neffe.
+    gender: m
+  - name: Fritz,
+    role: Bedienter beym Rath.
+    gender: m
+setting: >-
+  Die Scene ist im Hause des Raths. (Ein schön meublirtes Zimmer im Hause des Raths.)
 ---
 slug: guttenberg-die-komoedie-ohne-titel
 author:
@@ -33488,6 +33581,45 @@ cast:
     gender: m
 setting: >-
   Ort der Handlung: Ein adeliches Gut, in der Nähe einer Provinzialstadt. (Die Bühne stellt das Innere eines Parks vor. – Im Hintergrunde ein Gitterthor. An der einen Seite desselben ein Gartenhaus mit einer Rasenbank neben dem Eingange; an der andern Seite eine Scheune. Über der Scheune ein Heuboden mit zwey offenen Thüren. Im Giebel eine Winde, die bis in die Mitte des Heubodens herabhängt.) (Wenn der Vorhang in die Höhe gezogen, ist ein starkes Gewitter, vom Platzregen begleitet, in voller Wirkung. – In einiger Entfernung hört man die Peitsche eines Fuhrmanns und das Antreiben der Pferde. – Das Gewitter läßt allmählich nach.)
+---
+slug: harrys-der-buehnendilettant
+author:
+  name: Harrys, Georg
+  wikidata: Q15811725
+title: Der Bühnendilettant
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 18
+printed: 1837
+premiered: 1836-11-07
+formalia:
+  - Prosa
+editions:
+  - title: "Manuskript [ca. 1836]"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18150293
+reviews:
+  - "Thalia. Norddeutsche Theater-Zeitung, Kunst- und schönwissenschaftliches Unterhaltungs-Blatt. Zweiter Jahrgang (1837), No. 49, [Sp. 392](https://books.google.com/books?id=aodEAAAAcAAJ&pg=PA391)."
+cast:
+  - name: General von Thornburg,
+    role: außer Dienst.
+    gender: m
+  - group:
+      - name: Carl,
+        gender: m
+      - name: Antoinette,
+        gender: f
+    role: seine Kinder.
+  - name: von Schmalen,
+    role: ein reicher Elegant.
+    gender: m
+  - name: Rittmeister von Siegmuth.
+    gender: m
+  - name: Margarethe,
+    role: in Thornburgs Diensten.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Das Stück spielt auf Thornburg's Landgute, in der Nähe der Residenz.
 ---
 slug: harrys-der-reiche-kuenstler-und-der-arme-millionair
 author:
@@ -48292,6 +48424,7 @@ keywords:
   - Westindien
   - Erbe
   - Geld
+  - Die Unglücklichen
 cast:
   - name: Peter Falk.
     gender: m
@@ -68990,6 +69123,8 @@ editions:
     url: https://books.google.com/books?id=TkZIAAAAcAAJ&printsec=frontcover
 comments:
   - "Gegenstück zu Kotzebues Einakter [»Die Unglücklichen«](kotzebue-die-ungluecklichen)."
+keywords:
+  - Die Unglücklichen
 cast:
   - name: Hinkebein,
     role: ein Rezensent.
@@ -73726,6 +73861,32 @@ cast:
     gender: u
 setting: >-
   Die Scene ist eine ländliche Gegend, mit einem Wirthshause.
+---
+slug: schuetze-der-goldene-regen
+author:
+  name: Schütze, Stephan
+  wikidata: Q2343847
+title: Der goldene Regen
+subtitle: Ein ländliches Spiel in Einem Akt
+numberOfScenes: 6
+printed: 1816
+formalia:
+  - Verse
+editions:
+  - title: "Der Wintergarten. Herausgegeben von St. Schütze. Erster Band. Frankfurt am Mayn: Wilmans 1816, S. 55–94"
+    url: https://books.google.com/books?id=IHk7AAAAcAAJ&pg=PA55
+cast:
+  - name: Röschen,
+    role: eine Gärtnerstochter.
+    gender: f
+  - name: Adolph,
+    role: ein Schäfer.
+    gender: m
+  - name: Wilhelm,
+    role: ein Soldat.
+    gender: m
+setting: >-
+  Scene: ländliche Gegend, auf der Seite eine armselige Hütte, in der Mitte ein Baum.
 ---
 slug: schuetze-der-koenig-von-gestern
 author:
@@ -83159,6 +83320,58 @@ cast:
     gender: m
 setting: >-
   Das Theater stellt einen ländlichen mit Bäumen besetzten Platz vor.
+---
+slug: wagenseil-die-hausfreude
+author:
+  name: Wagenseil, Christian Jakob
+  wikidata: Q1080444
+title: Die Hausfreude
+subtitle: Ein ländliches Schauspiel mit Gesang in einem Akt. Neu bearbeitet. (Vom Verfasser auch in Musick gesetzt.)
+numberOfScenes: 5
+printed: 1814
+formalia:
+  - Prosa
+editions:
+  - title: "Gedichte und Prosaische Aufsätzee von C. J. Wagenseil. Herausgegeben als Opfer auf den Altar des Vaterlandes. Kempten: Kösel 1814, S. 43–66"
+    url: https://books.google.com/books?id=SbnY0MT2-H4C&pg=PA43
+comments:
+  - "Erstfassung (Kempten: Dannheimer 1807) mit dem Untertitel »Ein ländliches Vorspiel mit Gesängen«."
+cast:
+  - name: Sigmund,
+    role: ein Pächter.
+    gender: m
+  - name: Friderike,
+    role: seine Frau.
+    gender: f
+  - name: Ludwig,
+    role: sein Sohn erster Ehe.
+    gender: m
+  - name: Lottchen,
+    role: seine Tochter erster Ehe.
+    gender: f
+  - name: Karl,
+    role: ihr Verlobter.
+    gender: m
+  - group:
+      - name: Lisette,
+        gender: f
+      - name: Malchen,
+        gender: f
+      - name: Sophie,
+        gender: f 
+      - name: Marie,
+        gender: f
+    role: Sigmunds Zwillingskinder zweyter Ehe.
+  - name: Hartwig,
+    role: ein Landmann, Karls Vater.
+    gender: m
+  - name: Der Pfarrer des Orts.
+    gender: m 
+  - name: Mehrere Bauern, Bäuerinnen und Kinder.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Theater stellt einen ländlichen mit Bäumen besetzen Platz vor. An beyden Seiten stehen Blumenstöcke auf Geländern. An der rechten Seite ein gedeckter Tisch.
 ---
 slug: wagenseil-die-liebe-fuer-den-kaiser
 author:
