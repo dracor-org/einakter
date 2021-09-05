@@ -600,7 +600,6 @@ editions:
     url: https://books.google.com/books?id=kg86AAAAcAAJ&printsec=frontcover
 comments:
   - "Gehört zu den Stücken »aus Frankfurter Druckereien«, die »abwechselnd André oder Faber zugeschrieben [werden], ohne daß eine Begründung oder Quelle geliefert würde«. (Meyer)"
-  - "Weitere Übersetzung: [1780 (Mylius)](mylius-der-barbier-von-bagdad)."
 cast:
   - name: Der Cadi.
     gender: m
@@ -18208,6 +18207,40 @@ cast:
     gender: m
 setting: Der Schauplatz ist in dem Zimmer der Frau Lisban.
 ---
+slug: breitenstein-die-proberollen
+author:
+  name: Breitenstein, Leopold
+title: Die Proberollen
+subtitle: Lustspiel in einem Aufzuge
+premiered: 1808-11-27
+dictionaries:
+  - name: boerne
+    pages: Nachträge, Nr. 21, S. 524
+    url: https://archive.org/details/LudwigBrneSmtlicheSchriftenBd1/page/n553/mode/2up
+editions:
+  - title: "Manuskript ohne Verfasserangabe. Mannheim 1807"
+comments:
+  - "Theaterzettel: [Karlsruhe 1814](https://digital.blb-karlsruhe.de/blbtheater/periodical/titleinfo/3004805), [Weimar 1815](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00040399/003884.tif), [Karlsruhe 1825](https://digital.blb-karlsruhe.de/blbtheater/periodical/titleinfo/3047816)."
+cast:
+  - name: Blum,
+    role: ein Schauspiel-Director.
+    gender: m
+  - name: Fräulein Sabine.
+    gender: f
+  - name: Miedl,
+    role: ihre Magd.
+    gender: f
+  - name: Madam Jearette,
+    role: französische Gouvernante.
+    gender: f
+  - name: Ein Kadet.
+    gender: m
+  - name: Eine Jüdin.
+    gender: f
+  - name: Madam Schell,
+    role: Schauspielerin.
+    gender: f
+---
 slug: bretzner-das-concert
 author:
   name: Bretzner, Christoph Friedrich
@@ -19163,6 +19196,70 @@ cast:
     isGroup: true
     gender: u
 setting: Die Scene ist auf Lindheim, im Hannoverischen.
+---
+slug: buerger-wunsch-und-erhoerung
+author:
+  name: Bürger, Georg Gottfried
+title: Wunsch und Erhörung
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 10
+printed: 1796
+premiered: 1796-01-01
+formalia:
+  - Prosa
+editions:
+  - title: "[Temeswar:] Jonas 1796"
+    url: https://books.google.com/books?id=APjBr7SUZ5cC&printsec=frontcover
+cast:
+  - name: Hofrath v. Treuenfels.
+    gender: m
+  - name: Wilhelmine,
+    role: seine Nichte.
+    gender: f
+  - name: Karl,
+    role: sein Sohn.
+    gender: m
+  - name: Hauptmann v. Grünthal.
+    gender: m
+  - name: Oberförster Birkmeyer.
+    gender: m
+  - name: Die Oberförsterin.
+    gender: f
+  - name: Amtsinspektor Graumann.
+    gender: m
+  - name: Die Amtsinspektorin.
+    gender: f
+  - name: Zachäus Reimschmid,
+    role: Schulmeister.
+    gender: m
+  - name: Michel Krüger,
+    role: Dorfschulz.
+    gender: m
+  - group:
+      - name: Gürge,
+        gender: m
+      - name: Wastel,
+        gender: m
+      - name: Peter,
+        gender: m
+      - name: Hanns,
+        gender: m
+    role: Bauern.
+  - group:
+      - name: Lenchen,
+        gender: f
+      - name: Nantchen,
+        gender: f
+      - name: Röschen,
+        gender: f
+      - name: Hanchen,
+        gender: f
+    role: Bäuerinnen.
+  - name: Philipp,
+    role: ein alter Bedienter des Hofraths.
+    gender: m
+setting: >-
+  Die Handlung geht vor in einer ländlichen Wohnung. (Zimmer.)
 ---
 slug: bueschel-die-keusche-susanna
 author:
@@ -60944,8 +61041,6 @@ dictionaries:
 editions:
   - title: "Theater-Journal für Deutschland. Funfzehndes Stück. Gotha: Ettinger 1780, S. 3–40"
     url: https://books.google.com/books?id=7lM7AAAAcAAJ&pg=PA3
-comments:
-  - "Weitere Übersetzung: [1772 (André/Faber)](andre-faber-der-balbier-von-bagdad)."
 cast:
   - name: Sulamith.
     gender: f
@@ -88679,3 +88774,43 @@ setting: >-
   Die Scene ist im Hause des Herrn Baker, in Pyrmont.
 location:
   wikidataId: Q556352
+---
+slug: zschokke-eifersucht-in-allen-ekken
+author:
+  name: Zschokke, Heinrich
+  wikidata: Q66207
+title: Eifersucht in allen Ekken
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 20
+printed: 1806
+formalia:
+  - Prosa
+basedOn:
+  - "Molière: [»Sganarelle, ou Le cocu imaginaire. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_SGANARELLE.xml)"
+editions:
+  - title: "Molieres Lustspiele und Possen. Für die deutsche Bühne von Heinrich Zschokke. Fünfter Band. Zürich: Geßner 1806, S. 123–174"
+    url: https://books.google.com/books?id=YwY6AAAAcAAJ&pg=PA123
+comments:
+  - "Hinweis im Nachwort: »Die Fabel, die ganze Intrigue des Stüks ist aus einem ältern italienischen Stük entlehnt. Es heißt: Il ritratto, ove Arlechino cornuto per opinione.« ([S. 172](https://books.google.com/books?id=YwY6AAAAcAAJ&pg=PA172))"
+cast:
+  - name: Acciserath Bär.
+    gender: m
+  - name: Justine,
+    role: seine Tochter.
+    gender: f
+  - name: Rosette,
+    role: ihr Kammermädchen.
+    gender: f
+  - name: Lindorf.
+    gender: m
+  - name: Herr Heinz,
+    role: ein Kaufmann, Bärs Nachbar.
+    gender: m
+  - name: Sibille,
+    role: seine Frau.
+    gender: f
+  - name: Tobias,
+    role: Lindorfs Bedienter.
+    gender: m
+setting: >-
+  Die Scene ist auf einem freien Platz, zwischen den Landhäusern des Acciseraths Bär und Herrn Heinzes.
