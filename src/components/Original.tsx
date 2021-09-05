@@ -44,11 +44,11 @@ const Original = ({data}: Props) => {
   const others = plays.filter((p) => p.basedOn?.find(
     (r: OriginalPlay) => r.id === id && p.slug !== currentId
   ));
-  
+
   return (
     <>
       {authors.length > 0 && authors.map((a, i) => (
-        <>
+        <span key={a.name}>
           {i > 0 && ', '}
           {a.name}
           {a.wikidata && (
@@ -57,7 +57,7 @@ const Original = ({data}: Props) => {
               <IdLink id={a.wikidata} type="wikidata"/>
             </>
           )}
-        </>
+        </span>
       ))}
       {authors.length > 0 && ': '}
       {fulltextUrl ? (
