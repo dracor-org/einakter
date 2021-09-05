@@ -9600,7 +9600,7 @@ setting: >-
   Die Handlung geht in des Herrn von Rosenheim Garten vor. In der Entfernung
   sieht man ein Lusthaus.
 ---
-slug: anonym-die-ungluecklichen-komoedianten 
+slug: anonym-die-ungluecklichen-komoedianten
 author:
   pseudonym: Anonym
 title: Die unglücklichen Komödianten
@@ -9651,7 +9651,7 @@ cast:
     isGroup: true
   - name: Senf,
     role: Peter Falk's Bedienter.
-    gender: m 
+    gender: m
 setting: >-
   Das Stück spielt in Westphalen, auf dem Landgute Peter Falk's.
 ---
@@ -42671,6 +42671,47 @@ cast:
 setting: >-
   Das Stück spielt Anfangs auf der Straße in Halberna und endigt in der Polizey-Stube daselbst.
 ---
+slug: kapf-die-schwaden
+authors:
+  - name: Kapf, Friedrich
+  - name: Kapf, Gottlieb
+title: Die Schwaden
+subtitle: Ein bergmännisches Schauspiel in Einem Aufzuge, nebst Liedern für Bergleute
+numberOfScenes: 10
+printed: 1798
+formalia:
+  - Prosa
+editions:
+  - title: "Breslau und Leipzig: Gehr und Compagnie 1798"
+    url: https://books.google.com/books?id=2clDAAAAcAAJ&pg=PR1
+comments:
+  - "In der [Vorrede](https://books.google.com/books?id=2clDAAAAcAAJ&pg=PR9) erläutert Gottlieb Kapf, dass es sich bei dem Einakter um eine Vorlage seines verstorbenen Bruders Friedrich handelt, die er herausgibt und bearbeitet."
+cast:
+  - name: Der Bergmeister.
+    gender: m
+  - name: Der Steiger,
+    role: Meyer.
+    gender: m
+  - name: Gretchen,
+    role: seine Tochter.
+    gender: f
+  - name: Friz,
+    role: ein junger Bergmann.
+    gender: m
+  - group:
+      - name: Görge,
+        gender: m
+      - name: Franz,
+        gender: m
+    role: Bergleute.
+  - name: Der Chirurg Büchner.
+    gender: m
+  - name: Heinrich,
+    role: des Bergmeisters Bedienter.
+    gender: m
+setting: >-
+  Eine ländliche, mit Bäumen besetzte, Gegend, in deren Mitte ein Häuschen, und im Hintergrunde ein ansteigendes Gebirge, an dessen Fuße das Mundloch eines Stollens. (Morgendämmerung.)
+---
 slug: karnowitz-merlin-ein-dragoner
 author:
   name: Karnowitz
@@ -42871,6 +42912,48 @@ cast:
     role: Cleants Bedienter.
     gender: m
 setting: Die Handlung geht in dem Hause des Orgons vor.
+---
+slug: kettel-drei-frauen-und-keine
+author:
+  name: Kettel, Johann Georg
+  wikidata: Q55124978
+title: Drei Frauen und keine
+subtitle: Posse in einem Akte, nach Varin und Desvergers frei bearbeitet
+numberOfScenes: 18
+printed: 1838
+premiered: 1835-09-02
+formalia:
+  - Prosa
+basedOn:
+  - "Varin und Desvergers: [»Les femmes d'emprunt. Comédie-vaudeville en un acte«](https://books.google.com/books?id=23lLAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Almanach für Freunde der Schauspielkunst auf das Jahr 1837. Herausgegeben von L. Wolff, Soufleur des Königl. Theaters. Berlin: Sittenfeld 1838, S. 253–311"
+    url: https://books.google.com/books?id=D8hKAAAAcAAJ&pg=PA253
+cast:
+  - name: Hammerschlag,
+    role: Besitzer einer Eisenhütte in Stevermark.
+    gender: m
+  - name: Fritz Flott,
+    role: Theaterdichter, sein Neffe.
+    gender: m
+  - name: Madame Anders,
+    role: Wittwe; Strickereihändlerin.
+    gender: f
+  - name: Toni,
+    role: ihr Sohn, 8 Jahr alt.
+    gender: m
+  - name: Therese,
+    role: Stickermamsell.
+    gender: f
+  - name: Madame Kolbe.
+    gender: f
+  - name: Franz Bernold,
+    role: Goldarbeiter.
+    gender: m
+setting: >-
+  Ort der Handlung: Wien. (Zimmer bei Madame Anders. Im Hintergrunde zwei Thüren. Die vom Schauspieler rechts führt in Flott's Gemach und ist mit einem großen eisernen Riegel versperrt; die zur Linken dient zum allgemeinen Eingang; zwischen beiden steht eine Komode, worauf mehrere Pappschachteln. Am zweiten Seitenflügel rechts eine Kabinetsthür, links ein Fenster. Im Vordergrunde rechts ein Tisch mit Schreibgeräthe, links ein Stickrahmen.)
+location:
+  wikidataId: Q1741
 ---
 slug: kind-das-lustspiel-auf-der-treppe
 author:
@@ -54928,6 +55011,52 @@ cast:
 setting: Der Schauplatz ist zu Antiochien, im kayserlichen Pallaste.
 location:
   wikidataId: Q200441
+---
+slug: lichtenstein-die-arme-molly
+author:
+  name: Lichtenstein, Karl August von
+  wikidata: Q126021
+title: Die arme Molly
+subtitle: Vaudeville in einen Aufzuge. Frei nach dem Französischen bearbeitet und mit der dazu eingerichteten Musik verschiedener Tonsetzer
+printed: 1826
+premiered: 1826-06-15
+editions:
+  - title: "Arien und Gesänge aus: Die arme Molly, Vaudeville in einem Aufzuge. Berlin 1826"
+    url: https://books.google.com/books?id=9EqXplOaBxAC&printsec=frontcover
+reviews:
+  - "Allgemeine musikalische Zeitung. No. 29 (Den 19. July 1826), [Sp. 474](https://books.google.com/books?id=wQcVAAAAQAAJ&pg=PA473)."
+cast:
+  - name: Gräfin von Wendheim.
+    gender: f
+  - name: Eugen, Graf von Wendheim,
+    role: ihr Neffe.
+    gender: m
+  - name: Marcel,
+    role: ein blinder Dorf-Musikant.
+    gender: m
+  - name: Molly,
+    role: seine Pflegetochter.
+    gender: f
+  - name: Frischmuth,
+    role: Gastwirth.
+    gender: m
+  - name: Frau Abendbrod,
+    role: eine Wittwe, seine Verlobte.
+    gender: f
+  - name: Wespe,
+    role: Barbierer, Schreiblehrer und Zollvisitator.
+    gender: m
+  - group:
+      - name: Bärchen,
+        gender: m
+      - name: Suschen,
+        gender: m
+    role: Landmädchen.
+  - name: Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Ort der Handlung: Ein von der Gräfin Wendheim gekauftes Landgut.
 ---
 slug: liebenau-miltons-muse
 author:
@@ -68656,6 +68785,42 @@ cast:
   - name: Peter Enderle.
     gender: m
 ---
+slug: salchner-die-heimliche-ueberfahrt
+author:
+  name: Salchner, M.
+title: Die heimliche Ueberfahrt
+subtitle: Lustspiel in einem Akte. Erster dramatischer Versuch des M. Salchner, Gemeiner bey dem 1ten Linien Infanterie Regiment König. Nach einer wahren Begebenheit im preußischen Feldzuge 1806
+numberOfScenes: 15
+printed: 1819
+formalia:
+  - Prosa
+editions:
+  - title: "München 1819"
+    url: https://books.google.com/books?id=wt46AAAAcAAJ&pg=PR1
+cast:
+  - name: Stephan,
+    role: Stadtfischer und Bürgermeister.
+    gender: m
+  - name: Therese,
+    role: seine Tochter.
+    gender: f
+  - group:
+      - name: Martin,
+        gender: m
+      - name: Veit,
+        gender: m
+    role: Fischer und Nachbarn Stephans.
+  - name: Franz,
+    role: Martins Sohn.
+    gender: m
+  - name: Kasper,
+    role: Veit's Sohn.
+    gender: m
+  - name: Lieutenant Stromberg.
+    gender: m
+setting: >-
+  Die Handlung spielt in Stephans Hause.
+---
 slug: salomon-zeneide
 author:
   name: Salomon, Johann Jakob
@@ -80430,6 +80595,44 @@ cast:
 setting: >-
   Das Theater stellt einen geschmackvollen Gartensalon vor, durch dessen geöffnete Thüren man in die Anlagen des Gartens sieht.
 ---
+slug: unzer-die-drossel
+author:
+  name: Unzer, Johann Christoph
+  wikidata: Q18957711
+title: Die Drossel
+subtitle: "Ein Schauspiel. Nach der Erzählung des la Fontaine: le faucon"
+numberOfScenes: 14
+printed: 1775
+premiered: 1778-08-05
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 187–188
+editions:
+  - title: "Hamburg 1775"
+  - title: "Schauspiele von J. C. U. Hamburg: Herold 1782"
+    url: https://books.google.com/books?id=5b7s_CBnmkQC&pg=RA2-PA1
+  - title: "Wien: Jahn 1788"
+    url: https://books.google.com/books?id=s2tUAAAAcAAJ&printsec=frontcover
+  - title: "Johann Christoph Unzer's, der Arzeneiwissenschaft Doktors, Professors der Naturgeschichte und Naturlehre zu Altona, hinterlassene Schriften, poetischen Inhalts. Zweites Bändchen. Altona: Hammerich 1811, S. 191–218"
+    url: https://books.google.com/books?id=UPUOAAAAYAAJ&pg=RA2-PA191
+comments:
+  - "Einakterhinweis auf Theaterzetteln ([Hamburg 1778](https://www.stadttheater.uni-hamburg.de/node/32039), [Mannheim 1786](https://books.google.com/books?id=241KAAAAcAAJ&pg=PA83))."
+cast:
+  - name: Wallheim.
+    gender: m
+  - name: Adolph.
+    gender: m
+  - name: Gustav.
+    gender: m
+  - name: Baronesse.
+    gender: f
+  - name: Luzie.
+    gender: f
+setting: >-
+  Stube eines Bauerhauses, worinn schlechtes Hausgeräth, eine Drossel im Bauer, der Baronesse Bildniß.
+---
 slug: vaders-das-examen
 author:
   name: Vaders, August Wilhelm
@@ -83358,7 +83561,7 @@ cast:
       - name: Malchen,
         gender: f
       - name: Sophie,
-        gender: f 
+        gender: f
       - name: Marie,
         gender: f
     role: Sigmunds Zwillingskinder zweyter Ehe.
@@ -83366,7 +83569,7 @@ cast:
     role: ein Landmann, Karls Vater.
     gender: m
   - name: Der Pfarrer des Orts.
-    gender: m 
+    gender: m
   - name: Mehrere Bauern, Bäuerinnen und Kinder.
     isGroup: true
     gender: u
