@@ -16365,15 +16365,18 @@ title: Der Oberst
 subtitle: Lustspiel in einem Aufzuge, frei nach dem Französischen des Scribe bearbeitet
 numberOfScenes: 19
 printed: 1826
+premiered: 1823-03-12
 formalia:
   - Prosa
 basedOn:
-  - Eugène Scribe
+  - "Eugène Scribe und Germain Delavigne: [»Le colonel. Comédie-vaudeville en un acte«](https://books.google.com/books?id=RDER-n64Wa0C&printsec=frontcover)"
 editions:
   - title: "Vaudevilles, für deutsche Bühnen und gesellige Zirkel; nach dem Französischen bearbeitet von Carl Blum. Zweiter Band. Berlin: Duncker und Humblot 1826, S. 1–46"
     url: https://books.google.com/books?id=xDNJAAAAcAAJ&pg=PA1
-comments:
-  - "Besprechung in: Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 44 (1826), [Sp. 352](https://books.google.com/books?id=7IVIAQAAMAAJ&pg=RA1-PA351)."
+  - title: "Der Obrist. Lustspiel in einem Aufzuge. Manuskript [ca. 1828]"
+    url: https://nbn-resolving.org/urn:nbn:de:bvb:70-dtl-0000016664
+reviews:
+  - "Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 44 (1826), [Sp. 352](https://books.google.com/books?id=7IVIAQAAMAAJ&pg=RA1-PA351)."
 cast:
   - name: Herr von Floricourt.
     gender: m
@@ -32843,6 +32846,58 @@ cast:
 setting: >-
   Die Handlung geschieht in einer hannövrischen Stadt.
 ---
+slug: hagemann-die-martinsgaense
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Die Martinsgänse
+subtitle: Nachspiel
+numberOfScenes: 18
+printed: 1798
+premiered: 1799-05-29
+formalia:
+  - Prosa
+editions:
+  - title: "Eisenach: Wittekindt 1798"
+    url: https://books.google.com/books?id=_YlmI20dwtEC&printsec=frontcover
+comments:
+  - "Einakterhinweis »Lustspiel in einem Aufzuge« auf Theaterzetteln: [Hamburg 1799/1812](https://www.stadttheater.uni-hamburg.de/node/12017), [Weimar 1800](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00049901/001797.tif)."
+reviews:
+  - "Nachtrag zu den im zweyten Bande der Gemeinnützigen Unterhaltungen vom vorigen Jahr aufgezeichneten Bemerkungen über das hiesige Schauspiel. Halberstadt 1802, [S. 32](https://books.google.com/books?id=tVBB9p0a2SQC&pg=PA32)."
+cast:
+  - name: Kühnow,
+    role: Prediger eines Marktfleckens.
+    gender: m
+  - name: Marthe,
+    role: seine Frau.
+    gender: f
+  - name: Friderici,
+    role: ein Schauspieldirektor.
+    gender: m
+  - name: Hans,
+    role: ein Bauer.
+    gender: m
+  - group:
+      - name: Peter.
+        gender: m
+      - name: Wilhelm.
+        gender: m
+    role: Aufwärter in einem Gasthofe.
+  - group:
+      - name: Görge.
+        gender: m
+      - name: Ehrlich.
+        gender: m
+    role: Bauern.
+  - group:
+      - name: Anne.
+        gender: f
+      - name: Margarethe.
+        gender: f
+    role: Ihre Weiber.
+setting: >-
+  Szene. Wohnzimmer des Prediger Kühnow, mit einer Mittelthür und zwo Seitenkammern. Alles verräth Armuth, aber Reinlichkeit. Mitten in der Stube steht ein runder Tisch mit einer bunten Decke, auf dem Tisch ein Krug Bier und ein Glas. Am Ofen hängen ein paar Tücher, ein Kragen und eine Binde zum Trocknen. (Zeit. Beinahe schon Dämmerung. Ehe die Kommenden eintreten, wird einige Mal an die Thür geklopft.)
+---
 slug: hagemann-die-unrechtmaessige-vermaehlung
 author:
   name: Hagemann, Friedrich Gustav
@@ -33209,6 +33264,39 @@ cast:
     gender: u
 setting: >-
   Das Theater stellt eine Strecke Felder vor, auf denen die Saaten stehn. In der Ferne ein Dorf. (Die Handlung beginnt mit Sonnenaufgang, und dauert eine Stunde.)
+---
+slug: halbe-bauernstolz
+author:
+  name: Halbe, Johann August
+  wikidata: Q95635825
+title: Bauernstolz
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 18
+printed: 1806
+formalia:
+  - Prosa
+editions:
+  - title: "Hamburg 1806"
+  - title: "Prag 1806"
+  - title: "[Ohne Ort: ohne Verlag] 1807"
+    url: https://books.google.com/books?id=Cy07AAAAcAAJ&printsec=frontcover
+cast:
+  - name: Peters,
+    role: Dorfschulze.
+    gender: m
+  - name: Lieschen,
+    role: seine Tochter.
+    gender: f
+  - name: Waldau,
+    role: herrschaftlicher Jäger.
+    gender: m
+  - name: Hans Schmunzel,
+    role: ein reicher Bauer.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Ländliche Gegend; auf der einen Seite ein Edelhof; gegenüber des Schulzen Haus neben andern Bauernhäusern; in der Mitte des Plazes eine Rasenbank unter einer hohen dickbelaubten Linde, an die verschiedene Jagdgewehre gestützt sind.
 ---
 slug: halirsch-hanns-sachs
 author:
@@ -36717,6 +36805,57 @@ setting: >-
   Das Stück spielt in Perleberg, in Rose's Wohnung. (Eine Stube mit einem Fenster. – Schreibpult, Stühle, ein Lehnstuhl, in der Ecke ein großer Reisekoffer, an der Wand hängen zwei Pistolen.)
 location:
   wikidataId: Q498540
+---
+slug: herrmann-der-obrist-von-16-jahren
+author:
+  name: Herrmann, Bernhard Anton
+  wikidata: Q55123021
+title: Der Obrist von 16 Jahren
+subtitle: Lustspiel in einem Act, frei nach dem Französischen
+numberOfScenes: 23
+printed: 1838
+premiered: 1837-12-08
+formalia:
+  - Prosa
+basedOn:
+  - "Mélesville, Gabriel de Lurieu und Ange-Jean-Robert Eustache Angel: [»Un colonel d'autrefois. Comédie-vaudeville en un acte«](https://books.google.com/books?id=87loAAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "Als Manuscript für die Bühnen gedruckt. [Hamburg:] Wörmer [um 1838]"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18170061
+comments:
+  - "Theaterzettel: [Hamburg 1838](https://www.stadttheater.uni-hamburg.de/system/files/1838-01-06.pdf)."
+cast:
+  - name: Julius von Créqui,
+    role: Obrist, 16 Jahr alt.
+    gender: m
+  - name: Lefaucheux,
+    role: Major im Regimente Beaujolais.
+    gender: m
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - group:
+      - name: August von Blangay,
+        gender: m
+      - name: Heinrich von Blangay,
+        gender: m
+    role: Lieutenants.
+  - name: Flochard,
+    role: Julius Hofmeister.
+    gender: m
+  - name: Brind'amour,
+    role: Sergeant.
+    gender: m
+  - name: Beaujéu,
+    role: Korporal.
+    gender: m
+  - name: Offiziere. Soldaten. Diener.
+    isGroup: true
+    gender: m
+setting: >-
+  Ort der Handlung: Lille im Jahre 1769. (Das Theater stellt eine Vorhalle in der Citadelle vor; links ein Balconfenster, mit einem Balcon, der nach dem Hofe der Citadelle hinausgeht. – Auf derselben Seite eine Thüre mit der Ueberschrift: Waffensaal. Im Hintergrunde der Haupteingang, durch ein Gitter (von halber Mannshöhe) geschlossen. Auf der rechten Seite Emiliens Zimmer; in der nächsten Coulisse des Majors Zimmer; in der letzten Coulisse eine Thüre, die zu dem Gefängnißzimmer führt, über welches ein Fenster mit eisernen Stäben. Vorne rechts steht ein Harfenfutteral, ein Stickrahmen mit Tapisserie-Arbeit, und mehrere Kartons. Links ein Tisch.)
+location:
+  wikidataId: Q648
 ---
 slug: herrmann-die-liebe-im-ersten-und-im-dritten-stock
 author:
@@ -40974,6 +41113,40 @@ cast:
     gender: m
 setting: >-
   Ein Bauernhof. Rechts das Wohnhaus des Pachters mit einer Holztreppe, unter welcher sich eine Thüre und eine kleine Bank befinden. Vom Hause gegen den Hintergrund ziehen sich einige Blumenbeeten bis zu einem Zaunthürchen, welche in den Küchengarten führt. An den Blumenbeeten stehen zwei Gieskannen, und ein Kirschbaum, an welchem eine Leiter gelehnt ist, die linke Seite und der Hintertheil des Hofes sind mit einer Mauer eingeschlossen, über welche benachbarte Häuser des Dorfes und Bäume hervorragen. An dieser Seite befindet sich ein Ziehbrunnen, und im Vordergrunde ein Rosenstrauch, an welchem eine Bank, und ein Schubkarren stehen. Das Hauptthor im Hintergrunde gewährt die Aussicht in eine reizende Landschaft. Ein Karren mit zwei Rädern in der Mitte ist am bequemsten.
+---
+slug: hutt-der-buchstab
+author:
+  name: Hutt, Johann
+  wikidata: Q88788189
+title: Der Buchstab
+subtitle: Eine poetische Kleinigkeit
+numberOfScenes: 6
+printed: 1812
+formalia:
+  - Alexandriner
+editions:
+  - title: "Hutt Lustspiele. Zweytes Bändchen. Wien: Degen 1812, S. 1–30"
+    url: https://books.google.com/books?id=yqFJxgEACAAJ&pg=RA1-PA1
+comments:
+  - "In Verzeichnissen auch mit dem Untertitel »Lustsp. in 1 Abth.« (vgl. Tagebuch der deutschen Bühnen. Herausgegegebn von Karl Theodor Winkler. Dresden 1824, [S. 125](https://books.google.com/books?id=Td_kGUdSw44C&pg=PA125))."
+  - "Grillparzer habe ein ähnliches Lustspiel geplant (vgl. Emil Kuh: Zwei Dichter Oesterreichs. Pest: Heckenast 1872, [S. 20](https://books.google.com/books?id=D21BAAAAYAAJ&pg=PA20))."
+reviews:
+  - "Allgemeine Theaterzeitung und Unterhaltungsblatt für Freunde der Kunst, Literatur und des geselligen Lebens. Nr. 126 (Wien, Sonnabend, den 19. October 1822), [S. 502](https://books.google.com/books?id=GMVLAAAAcAAJ&pg=PA502)."
+cast:
+  - group:
+      - name: Flachs
+        gender: m
+      - name: Fuchs
+        gender: m
+    role: Kaufleute.
+  - name: Röschen,
+    role: Flachsens Ziehtochter.
+    gender: f
+  - name: Frank,
+    role: Handlungsdiener bey Fuchs.
+    gender: m
+setting: >-
+  Scene. Zimmer bey Flachs, mit Mittel- und Seitenthüren.
 ---
 slug: hutt-der-rechte-weg
 author:
@@ -51092,6 +51265,35 @@ cast:
 setting: >-
   Zimmer bei Krähe, mit zwei Seiten- und einer Mittelthür, rechts ein Schreibtisch, links eine Frauen-Toilette.
 ---
+slug: kurlaender-der-pflegesohn
+author:
+  name: Kurländer, Franz August von
+  wikidata: Q55122987
+title: Der Pflegesohn
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 28
+printed: 1832
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele oder dramatischer Almanach für das Jahr 1832. Von F. A. von Kurländer. Zwei und zwanzigster Jahrgang. Leipzig: Baumgärtner 1832, S. 165–248"
+cast:
+  - name: Baronin Soldenhaus.
+    gender: f
+  - name: Auguste von Soldenhaus,
+    role: ihre Nichte.
+    gender: f
+  - name: Isidor,
+    role: der Baronin Pflegesohn.
+    gender: m
+  - name: Alfred von Lindheim.
+    gender: m
+  - name: Michel,
+    role: Bedienter.
+    gender: m
+setting: >-
+  Gartensaal mit Mittel- und Seitenthüren. Links ein Fenster, worauf mehrere Blumentöpfe stehen. Ein Notenpult mit einer Flöte auf der einen Seite der Bühne, auf der andern Seite ein Schreibtisch.
+---
 slug: kurlaender-der-philosophische-bediente
 author:
   name: Kurländer, Franz August von
@@ -51229,6 +51431,39 @@ cast:
     gender: m
 setting: >-
   Scene: Ein Garten, rechts Michels Wohnung, gegenüber ein eisernes Gitter.
+---
+slug: kurlaender-der-ungluecksvogel
+author:
+  name: Kurländer, Franz August von
+  wikidata: Q55122987
+title: Der Unglücksvogel
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1832
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele oder dramatischer Almanach für das Jahr 1832. Von F. A. von Kurländer. Zwei und zwanzigster Jahrgang. Leipzig: Baumgärtner 1832, S. 105–164"
+cast:
+  - name: Allant,
+    role: Kaufmann.
+    gender: m
+  - name: Marie,
+    role: seine Tochter.
+    gender: f
+  - name: Fritz Thalheim,
+    role: unter dem Namen Heller.
+    gender: m
+  - name: Christoph Muffel.
+    gender: m
+  - name: Auer,
+    role: Gerichtsdiener.
+    gender: m
+  - name: Thomas,
+    role: Handlungsdiener bei Allant.
+    gender: m
+setting: >-
+  Zimmer bei Allant.
 ---
 slug: kurlaender-der-verwundete-liebhaber
 author:
@@ -60606,7 +60841,7 @@ premiered: 1864-09-26
 formalia:
   - Prosa
 editions:
-  - title: "Den Bühnen gegenüber Manuskript. [Leipzig circa 1850]"
+  - title: "Den Bühnen gegenüber Manuskript. [Leipzig ca. 1850]"
   - title: "Dramatische Werke von Wolfgang Müller von Königswinter. Erster Band. Berlin: Lipperheide 1872, S. 55–96"
     url: https://books.google.com/books?id=N7X9icMcsMUC&pg=PA55
 comments:
@@ -72843,7 +73078,7 @@ printed: 1839
 formalia:
   - Prosa
 basedOn:
-  - "Mélesville, Gabriel de Lurieu und Ange-Jean-Robert Eustache Angel: [»Un Colonel d'autrefois. Comédie-vaudeville en un acte«](https://books.google.com/books?id=87loAAAAcAAJ&printsec=frontcover)"
+  - "Mélesville, Gabriel de Lurieu und Ange-Jean-Robert Eustache Angel: [»Un colonel d'autrefois. Comédie-vaudeville en un acte«](https://books.google.com/books?id=87loAAAAcAAJ&printsec=frontcover)"
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band IX, No. 68. Berlin: Hayn 1839, S. 1163–1176"
     url: https://books.google.com/books?id=pd_3fqU7r3AC&pg=PA1163
@@ -80298,6 +80533,44 @@ cast:
     gender: m
 setting: >-
   Die Scene ist vor Märtens Hause, wie in den beyden vorigen Stücken.
+---
+slug: treitschke-nachtigall-und-rabe
+author:
+  name: Treitschke, Georg Friedrich
+  wikidata: Q78038
+title: Nachtigall und Rabe
+subtitle: Schäferspiel mit Gesang in einem Aufzuge. Frey nach Lafontaine und Etienne. Musik von Joseph Weigl
+premiered: 1818-04-20
+basedOn:
+  - Lafontaine und Etienne
+dictionaries:
+  - name: boerne
+    pages: Nachträge, Nr. 47, S. 385–387
+    url: https://archive.org/details/LudwigBrneSmtlicheSchriftenBd1/page/n413/mode/2up
+editions:
+  - title: "Gesänge zu dem Schäferspiele: Nachtigall und Raabe, in einem Aufzuge. [Ca. 1818]"
+    url: https://books.google.com/books?id=A4gFTFLIx7MC&printsec=frontcover
+  - title: "Arien und Gesänge von: Nachtigall und Rabe. Schäferspiel in einem Aufzuge, frei nach Lafontaine und Etienne. Berlin 1819"
+    url: http://www.donjuanarchiv.at/de/sammlungen/biblioteca-ernestea-sezzatense/deutschland/nachtigall-und-rabe/bild/3.html
+  - title: "Nachtigall und Rabe. Ein Schäferspiel nach Lafontaine und Etienne. In Musik gesetzt und für das Piano-Forte eingerichtet von Hrn. Joseph Weigl. Wien: k.-k. Hoftheater-Musik-Verlag [ca. 1819]"
+    url: https://nbn-resolving.de/urn:nbn:de:bsz:31-53943
+ids:
+  weber: A020622
+cast:
+  - name: Der Amtmann des Dorfes.
+    gender: m
+  - name: Lukas,
+    role: Pachter.
+    gender: m
+  - name: Phillis,
+    role: seine Tochter.
+    gender: f
+  - name: Damon,
+    role: ein junger Hirte.
+    gender: m
+  - name: Chor von Hirten und Landleuten.
+    isGroup: true
+    gender: u
 ---
 slug: truetzschler-der-neujahrstag
 author:
