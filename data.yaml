@@ -35590,6 +35590,38 @@ cast:
 setting: >-
   Scene in Rouen. (Die Bühne stellt einen Saal in einem Hotel garni vor. Eingangsthüre im Hintergrunde. Thüren mit Nummern, seitwärts rechts und links. Rechts weiter hin ein Fenster, das auf einen Balkon geht. Zwischen diesem und der Seitenthür ein Schreibepult. An der Thür links ein Tisch mit Schreibegeräthe.)
 ---
+slug: hell-ihr-bild
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Ihr Bild
+subtitle: Lustspiel in Einem Aufzuge. Nach Scribe und Sauvage
+numberOfScenes: 17
+printed: 1847
+formalia:
+  - Prosa
+basedOn:
+  - "Eugène Scribe und Thomas Sauvage: [»L'image. Comédie-vaudeville en un acte«](https://books.google.com/books?id=ezJMXqiWPDwC&printsec=frontcover)"
+editions:
+  - title: "Dramatisches Vergißmeinnicht auf das Jahr 1847 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Vierundzwanzigstes Bändchen. Dresden und Leipzig: Arnoldi 1847"
+cast:
+  - name: Der Baron von Kerandal,
+    role: Bankier.
+    gender: m
+  - name: Leopold,
+    role: ein junger Maler.
+    gender: m
+  - name: Pierre Mauclerc,
+    role: Parkwächter.
+    gender: m
+  - name: Madeleine,
+    role: Bäuerin.
+    gender: f
+setting: >-
+  Scene: Bretagne, im Schlosse Kerandal ohnweit des Meeres. (Ein Saal zu ebner Erde in einem alten Schlosse. Seitenthüren. Große Fenster gehen auf Gebüschgruppen, durch welche man das Meer in der Ferne erblickt.)
+location:
+  wikidataId: Q12130
+---
 slug: hell-koeningin-von-frankreich
 author:
   name: Hell, Theodor
@@ -49856,6 +49888,50 @@ setting: Die Handlung geschieht in der Nähe des Kärtnerthors. (Tiefe Strasse.)
 location:
   wikidataId: Q1741
 ---
+slug: krueger-der-durch-die-liebe-gewitzigte-arlequin
+author:
+  name: Krüger, Johann Christian
+  wikidata: Q109643
+title: Arlequin poli par l'Amour. Der durch die Liebe gewitzigte Arlequin
+subtitle: Ein Lustspiel, in einer Handlung. Aus dem Französischen des Herrn von Marivaux übersetzt
+numberOfScenes: 22
+printed: 1747
+formalia:
+  - Prosa
+basedOn:
+  - "Marivaux: [»Arlequin poli par l'amour. Comédie«](https://books.google.com/books?id=bhA6AAAAcAAJ&printsec=frontcover)"
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 13, S. 477
+editions:
+  - title: "Sammlung einiger Lustspiele aus dem Französischen des Herrn von Marivaux übersetzt. Hannover: Gercke 1747, S. 269–310"
+cast:
+  - name: Die Fee.
+    gender: f
+  - name: Trivelin,
+    role: ein Bedienter der Fee.
+    gender: m
+  - name: Arlequin,
+    role: ein junger Mensch, welchen die Fee entführt hat.
+    gender: m
+  - name: Silvia,
+    role: eine Schäferinn, Geliebte des Arlequin.
+    gender: f
+  - name: Ein Schäfer,
+    role: der in Silviam verliebt ist.
+    gender: m
+  - name: Eine andre Schäferinn,
+    role: Anverwandtinn der Silvia.
+    gender: f
+  - name: Eine Bande Tänzer und Sänger.
+    isGroup: true
+    gender: u
+  - name: Einige unterirrdische Geister.
+    isGroup: true
+    gender: u
+setting: >-
+  Der Garten der Fee wird vorgestellt.
+---
 slug: krueger-der-teufel-ein-baerenhaeuter
 author:
   name: Krüger, Johann Christian
@@ -59594,6 +59670,34 @@ cast:
 setting: >-
   Ort der Handlung: Eine Universitätstadt. Gesellschaftzimmer in v. Hain's Hause.
 ---
+slug: moerike-die-pruefung
+author:
+  name: Mörike, Karl
+  wikidata: Q55675056
+title: Die Prüfung
+subtitle: Ein Schauspiel in einem Akt für Kinder zur Feier des Geburts- oder Namensfestes einer geliebten Mutter
+numberOfScenes: 7
+printed: 1840
+formalia:
+  - Blankvers
+editions:
+  - title: "Stuttgart: Friz [1840]"
+    url: http://nbn-resolving.org/urn:nbn:de:hebis:30:4-77569
+cast:
+  - name: Emma.
+    gender: f
+  - name: Johanna,
+    role: ihre Schwester.
+    gender: f
+  - name: Charitas,
+    role: ein Genius.
+    gender: m
+  - name: Dina,
+    role: ein fremdes, kleines Mädchen.
+    gender: f
+setting: >-
+  Die Scene ist ein Garten oder Saal. Im Hintergrunde ein Ruhebette; neben demselben ein Stuhl. In der Mitte ein rundes Tischchen mit einem Tuche behangen; auf demselben eine Schale mit brennendem Spiritus. Seitwärts ein Tischchen mit Materialien zum Zeichnen.
+---
 slug: moeser-die-tugend-auf-der-schaubuehne
 author:
   name: Möser, Justus
@@ -65459,6 +65563,64 @@ cast:
     gender: u
 setting: >-
   Der Schauplatz ist vor dem Pachthofe.
+---
+slug: reinbeck-die-kosaken-in-der-schweitz
+author:
+  name: Reinbeck, Georg
+  wikidata: Q1505724
+title: Die Kosaken in der Schweitz
+subtitle: Schauspiel in einem Aufzuge, zur Geburts-Feier Seiner Majestät des Kaisers und Selbstherrschers aller Reussen Paul I.
+numberOfScenes: 10
+printed: 1799
+premiered: 1799-09-20
+formalia:
+  - Prosa
+editions:
+  - title: "St. Petersburg: Breitkopf 1799"
+    url: https://books.google.com/books?id=5ZATAAAAQAAJ&printsec=frontcover
+comments:
+  - "Laut [Widmungstext](https://books.google.com/books?id=5ZATAAAAQAAJ&pg=PA5) ein »Gelegenheitsstück«."
+reviews:
+  - "Revision der Literatur in den drey letzten Quinquennien des achtzehnten Jahrhunderts in Ergänzungsblättern zur Allgemeinen Literatur-Zeitung dieses Zeitraums. Zweyten Jahrgangs Zweyter Band (1802). Num. 133, [S. 439](https://books.google.com/books?id=qJQFAAAAQAAJ&pg=RA1-PA439)."
+cast:
+  - name: Meiners,
+    role: Besitzer eines Schweitzer-Gehöfts.
+    gender: m
+  - name: Luise,
+    role: seine Tochter.
+    gender: f
+  - name: Henry,
+    role: ein Emigrant, ihr Gatte.
+    gender: m
+  - name: Wilhelm,
+    role: ihr fünfjähriger Sohn.
+    gender: m
+  - name: d'Ormond,
+    role: französischer Kapitain.
+    gender: m
+  - name: Villot,
+    role: französischer Serschant.
+    gender: m
+  - name: Renaud,
+    role: französischer Soldat.
+    gender: m
+  - name: Dalbert,
+    role: ein Schweitzer Städter.
+    gender: m
+  - group:
+      - name: Fedor Iwanowitsch,
+        gender: m
+      - name: Gegor Petrowitsch,
+        gender: m
+    role: Kosacken-Offiziere.
+  - name: Zwei Piket Kosacken.
+    isGroup: true
+    gender: m
+  - name: Ein Piket Franzosen.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung fällt in einem Schweitzer-Thale vor. Links strömt von einem Felsen ein Bach herab; am Fusse des Felsens liegt das Gehöft mit Bäumen beschattet, doch so, dass zwischen dem Hause und dem Felsen ein Weg geht. Zu rechten steht eine Laube; im Hintergrunde ist die Aussicht durch Alpen begränzt. Der Zugang ist durch Felsen.
 ---
 slug: reinbeck-die-rueckkehr
 author:
