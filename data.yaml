@@ -6472,6 +6472,59 @@ cast:
 setting: >-
   Das Theater stellt eine Barbierstube vor.
 ---
+slug: anonym-die-beiden-loizerolles-und-maximilian-rospierre
+author:
+  name: Fr.....n, Carl
+  pseudonym: Anonym
+title: Die beiden Loizerolles und Maximilian Robespierre
+subtitle: Dramatisches Gedicht in fünf Acten. Nebst einem Vorspiel in einem Act
+numberOfScenes: 9
+printed: 1838
+formalia:
+  - Verse
+editions:
+  - title: "Freiburg: Wagner 1838, S. 1–28"
+cast:
+  - name: Ludwig XVI.,
+    role: König von Frankreich.
+    gender: m
+  - name: Marie Antoinette von Oestreich,
+    role: Königin von Frankreich.
+    gender: f
+  - name: Ludwig
+    role: der Dauphin.
+    gender: m
+  - name: Madame Elisabeth,
+    role: Schwester des Königs.
+    gender: f
+  - name: Joly,
+    role: Großsiegelbewahrer.
+    gender: m
+  - name: Zeremonienmeister.
+    gender: m
+  - name: Joseph Loizerolle.
+    gender: m
+  - name: Franz,
+    role: dessen Sohn.
+    gender: m
+  - name: Ludwig Cazotte.
+    gender: m
+  - name: Maximilian Robespierre.
+    gender: m
+  - name: Camille Desmoulins.
+    gender: m
+  - name: Lasource.
+    gender: m
+  - name: Olivia.
+    gender: f
+  - name: Minister. Hofleute. Offiziere. Gefolge des Königs und der Königin. Wachen. Volk.
+    isGroup: true
+    gender: u
+setting: >-
+  Ort der Handlung: Paris. Zeit: das Jahr 1792 vom 25. Juli bis 10. August.
+location:
+  wikidataId: Q90
+---
 slug: anonym-die-beyden-officiere
 author:
   pseudonym: Anonym
@@ -27059,6 +27112,46 @@ setting: >-
 location:
   wikidataId: Q90
 ---
+slug: eugen-der-zerbrochene-Wagen
+author:
+  name: Eugen, Wilhelm
+title: Der zerbrochene Wagen
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 18
+printed: 1811
+formalia:
+  - Prosa
+editions:
+  - title: "Regensburg: Augustin 1811"
+    url: https://books.google.com/books?id=lIc6AAAAcAAJ&printsec=frontcover
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Vierzehnter Band. Augsburg und Leipzig: Stage [1813], S. 273–302"
+    url: https://books.google.com/books?id=2S87AAAAcAAJ&pg=PA273
+cast:
+  - name: Der Fürst.
+    gender: m
+  - name: Sein Kammerherr.
+    gender: m
+  - name: Der Amtmann.
+    gender: m
+  - name: Marie,
+    role: seine Frau.
+    gender: f
+  - group:
+      - name: Fritz,
+        gender: m
+      - name: Anton,
+        gender: m
+    role: Mariens Kinder erster Ehe.
+  - name: Robert,
+    role: ein gemeiner Soldat.
+    gender: m
+  - name: Ein Page des Fürsten.
+    gender: m
+  - name: Ein Gerichtsdiener.
+    gender: m
+setting: >-
+  Die Handlung geht auf einem fürstlichen Dorfe vor. (Freye Gegend, im Hintergrunde das Amthaus, zur Seite rechts eine Rasenbank.)
+---
 slug: faber-die-drey-brueder-als-nebenbuhler
 author:
   name: Faber, Johann Heinrich
@@ -28806,6 +28899,35 @@ cast:
     gender: m
 setting: >-
   Die Scene ist in einem Wohnzimmer mit einer Mittel- und Seitenthür.
+---
+slug: gabriel-taeuschung-fuer-taeuschung
+author:
+  name: Gabriel, Wilhelm
+  wikidata: Q94837762
+title: Täuschung für Täuschung
+subtitle: Lustspiel in einem Act
+numberOfScenes: 11
+printed: 1824
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Versuche von Wilhelm Gabriel. Breslau: Gosohorsky 1824, S. 81–128"
+cast:
+  - name: Der Oheim.
+    gender: m
+  - name: Elise.
+    gender: f
+  - name: Constanze.
+    gender: f
+  - name: Eduard.
+    gender: m
+  - name: Baron von Holm.
+    gender: m
+  - name: Hannchen,
+    role: Elisens Kammermädchen.
+    gender: f
+setting: >-
+  Die Scene ist in einem Zimmer mit zwei Mittelthüren und einer Seitenthüre. Letzterer gegenüber ein Fenster, neben welchem sich ein Schränkchen mit Pfeifen befindet.
 ---
 slug: gaensberger-campaspe-oder-die-wahl-der-liebe
 author:
@@ -32121,6 +32243,49 @@ cast:
   - name: Ein Aufwärter im Gasthofe.
     gender: m
 setting: Die Scene ist im gemeinschaftlichen Saale eines Gasthauses.
+---
+slug: guttenberg-der-arzt-und-das-mittel
+author:
+  name: Guttenberg, Andreas Josef von
+  wikidata: Q94889736
+title: Der Arzt und das Mittel
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 20
+printed: 1802
+formalia:
+  - Prosa
+editions:
+  - title: "Leipzig und Augsburg: Stage [1802]"
+    url: https://books.google.com/books?id=1zFJAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Regierungsrath von Wiesenthal.
+    gender: m
+  - name: Juliane,
+    role: seine Gemahlinn zweiter Ehe.
+    gender: f
+  - name: Moritz,
+    role: sein Sohn erster Ehe.
+    gender: m
+  - name: Kammerjunker von Itzenblitz.
+    gender: m
+  - name: Advokat Wenzelstrauch.
+    gender: m
+  - name: Adelheit von Schöneich,
+    role: seine Nichte.
+    gender: f
+  - name: Ein Unbekannter.
+    gender: m
+  - name: Hanns,
+    role: ein alter Bedienter des Regierungsraths.
+    gender: m
+  - name: Meister Knall,
+    role: ein Kaminfeger.
+    gender: m
+  - name: Franziska,
+    role: Mädchen der Juliane.
+    gender: f
+setting: >-
+  Die Handlung ist in einem gemeinschaftlichen Saale im Hause des Regierungsraths, bei welchem der Advokat mit seiner Nichte in der Miethe wohnt. (Gemeinschaftlicher Saal, mit einem Kamin. Regierungsrath von Wiesenthal kömmt zur Mittelthüre herein, geht rechts zu einem Seitenzimmer, öfnet die Thüre, und ruft hinein.)
 ---
 slug: guttenberg-der-ehrentag
 author:
@@ -42226,6 +42391,42 @@ cast:
         gender: m
     role: Zweene junge Schäfer.
 ---
+slug: jerrmann-die-drei-huete
+author:
+  name: Jerrmann, Eduard
+  wikidata: Q103315
+title: Die drei Hüte
+subtitle: Boudoir-Gemälde aus den Zeiten Ludwig XV. Lustspiel in 1 Act und in Alexandrinern. (Frei nach dem Französischen.)
+numberOfScenes: 20
+printed: 1835
+formalia:
+  - Alexandriner
+editions:
+  - title: "Köln: Büschler & Comp. 1835"
+    url: https://books.google.com/books?id=YTDOmOwh38MC&printsec=frontcover
+cast:
+  - name: Der Marschall von Frankreich.
+    role: (50 Jahr.)
+    gender: m
+  - name: Der Obrist.
+    role: (40 Jahr.)
+    gender: m
+  - name: Eduard Merwal,
+    role: Unterlieutenant und Vetter der Frau des Obristen. (22 Jahr.)
+    gender: m
+  - name: Die Gemahlin des Marschalls.
+    role: (40 Jahr.)
+    gender: f
+  - name: Marie,
+    role: die Frau des Obristen. (20 Jahr.)
+    gender: f
+  - name: Ein Bedienter im Hause des Obristen.
+    gender: m
+setting: >-
+  Die Handlung findet zu Versailles statt, im Jahr 1760. (Die Scene stellt Mariens Schlafzimmer vor. Mittelthür zum allgemeinen Eingang. Rechts ein Seitenzimmer. Links eine Thür, welche nach einer geheimen Treppen führt. Rechts im Hintergrunde ein Fenster und Balcon. Rechts im Vorgrunde ein Canapée. Links eine Toilette und 2 Armstühle. Neben dem Bette im Hintergrunde steht eine Harfe, deren Kasten rechts etwas hinter dem Canapée steht. Beim Aufrollen des Vorhangs ist Marie vor der Toilette beschäftigt, ihre Coiffure zu ordnen.)
+location:
+  wikidataId: Q621
+---
 slug: jester-das-duell-oder-das-junge-ehepaar
 author:
   name: Jester, Friedrich Ernst
@@ -51610,6 +51811,46 @@ cast:
 setting: >-
   Die Handlung spielt in der Residenz, auf Blüthenau's und Warding's Zimmer.
 ---
+slug: kurlaender-die-charade
+author:
+  name: Kurländer, Franz August von
+  wikidata: Q55122987
+title: Die Charade
+subtitle: Lustspiel in 1 Aufzug
+numberOfScenes: 26
+printed: 1818
+premiered: 1818-03-30
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiel in zwey Acten. Almanach dramatischer Spiele für Gesellschafts-Theater. Von Franz August von Kurländer. Achter Jahrgang. Wien: Wallishausser 1818, S. 221–284"
+    url: https://books.google.com/books?id=SC9JAAAAcAAJ&pg=PA221
+comments:
+  - "Im Druck nur als Zweiakter (13 + 13 Szenen). Als Einakter aufgeführt: [Berlin 1818](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=767210581), [Wien 1819](https://books.google.com/books?id=sGA-ebQLOCwC&pg=PA145). Als Zweiakter: [Weimar 1818](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00038675/004237.tif), [Dresden 1819](https://books.google.com/books?id=3mM5AAAAIAAJ&pg=PA626), [Karlsruhe 1820](https://digital.blb-karlsruhe.de/blbtheater/periodical/titleinfo/3985070)."
+ids:
+  weber: A021335
+cast:
+  - name: Kaufmann Walter.
+    gender: m
+  - name: Antonie,
+    role: seine Frau.
+    gender: f
+  - name: Röschen,
+    role: seine Schwester.
+    gender: f
+  - name: Baron Dornau.
+    gender: m
+  - name: Heinrich von Alfeld,
+    role: sein Neffe.
+    gender: m
+  - name: Girandelli,
+    role: ein Feuerwerker.
+    gender: m
+  - name: Bedienter.
+    gender: m
+setting: >-
+  Garten. Im Hintergrunde ein kleiner Tempel. Rechts und links Lauben mit Bänken.
+---
 slug: kurlaender-die-folgen-des-maskenballs
 author:
   name: Kurländer, Franz August von
@@ -59905,6 +60146,32 @@ cast:
 setting: >-
   Ort der Handlung: Eine Universitätstadt. Gesellschaftzimmer in v. Hain's Hause.
 ---
+slug: miller-der-kirschbaum
+author:
+  name: Miller, Johann Martin
+  wikidata: Q216127
+title: Der Kirschbaum
+subtitle: In einem Aufzuge
+printed: 1785
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 274
+editions:
+  - title: "Ernst Ludwig Sartorius (Hrsg.): Theater für die Jugend. 3. Band. Frankfurt/M. 1785, S. 139–148"
+cast:
+  - name: Der Vater.
+    gender: m
+  - group:
+      - name: Carl,
+        gender: m
+      - name: Fritz,
+        gender: m
+    role: dessen Söhne.
+setting: >-
+  Der Schauplatz ist in einem Garten.
+---
 slug: moerike-die-pruefung
 author:
   name: Mörike, Karl
@@ -61529,6 +61796,38 @@ cast:
     role: Dirimels Schwester.
     gender: f
 ---
+slug: nestroy-der-zetteltraeger-papp
+author:
+  name: Nestroy, Johann
+  wikidata: Q44862
+title: Der Zettelträger Papp
+subtitle: Dramatische Kleinigkeit für drei Komiker in einem Akt
+numberOfScenes: 3
+printed: 1910
+premiered: 1827-12-15
+formalia:
+  - Prosa
+editions:
+  - title: "Zwei unbekannte Stücke Johann Nestroy's. Aus den Manuskripten herausgegeben und eingeleitet von Dr. Fritz Brukner. Wien: Knepler 1910, S. 17–34"
+  - title: "Johann Nestroy Stücke 1. Herausgegeben von Friedrich Walla. Wien und München: Jugend und Volk 1979, S. 91–106"
+comments:
+  - "Auch mit dem Untertitel »Vorspiel«."
+keywords:
+  - Theaterbetrieb
+ids:
+  wikidata: Q15805236
+cast:
+  - name: Der Haushofmeister einer reichen Dame.
+    gender: m
+  - name: Andres,
+    role: Bedienter im Hause.
+    gender: m
+  - name: Nicodemus Papp,
+    role: Zettelträger einer reisenden Schauspieler Gesellschaft.
+    gender: m
+setting: >-
+  Vorzimmer, in der Mitte der allgemeine Eingang, links der Eingang in die Zimmer der gnädigen Frau.
+---
 slug: nestroy-judith-und-holofernes
 author:
   name: Nestroy, Johann
@@ -61684,6 +61983,41 @@ cast:
     gender: f
 setting: >-
   Ein nicht sehr elegant meublirtes Zimmer. – Herr von Gleich sitzt in einem Lehnstuhl vor einem Tische und spielt Patience.
+---
+slug: oberkamp-des-kriegers-heimkehr
+author:
+  name: Oberkamp, Karl von
+  wikidata: Q19214999
+title: Des Kriegers Heimkehr
+subtitle: Ein Spiel in Versen in Einem Akte
+numberOfScenes: 7
+printed: 1814
+premiered: 1814-10-30
+formalia:
+  - Verse
+editions:
+  - title: "Regensburg: Augustin 1814"
+    url: https://books.google.com/books?id=8qVOAAAAcAAJ&printsec=frontcover
+comments:
+  - "Hinweis auf der Titelseite: »Aufgeführt auf dem Theater zu Regensburg am 30sten October 1814 zur Feyer des Jahrestages der Schlacht bey Hanau, und zum Beßten der hinterlassenen Wittwen und Waisen der in dieser Schlacht gebliebenen Krieger abgedruckt.«"
+cast:
+  - name: Germania,
+    role: als Prolog.
+    gender: f
+  - name: Georg,
+    role: ein alter Bauer.
+    gender: m
+  - name: Margarethe,
+    role: seine Tochter.
+    gender: f
+  - name: Hanns,
+    role: bairischer Soldat.
+    gender: m
+  - name: Joseph,
+    role: östreichischer Soldat.
+    gender: m
+setting: >-
+  Die Scene ist in einem Zimmer Eines der beßern, Zeichen der Wohlhabenheit tragenden Bauernhäuser.
 ---
 slug: ochsenheimer-das-manuscript
 author:
@@ -64849,6 +65183,34 @@ cast:
     gender: m
 setting: >-
   Die Scene ist ein Grabmahl, in dessen Vertiefung zwey Särge; der eine verdeckt, der andere offen; von einer aus der Mitte des Gewölbes herabhangenden Lampe nur kaum erleuchtet.
+---
+slug: rambach-die-brueder
+author:
+  name: Rambach, Friedrich Eberhard
+  wikidata: Q100583
+title: Die Brüder
+subtitle: Ein Schauspiel in einem Akt
+numberOfScenes: 12
+printed: 1798
+formalia:
+  - Prosa
+editions:
+  - title: "Leipzig: Dyk 1798"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0000E58100000000
+comments:
+  - "Widmung auf der Titelseite: »An meinen Bruder Dr. J. J. Rambach, Arzt in Hamburg.«"
+cast:
+  - group:
+      - name: Telasko
+        gender: m
+      - name: Kusko
+        gender: m
+    role: Brüder.
+  - name: Narine,
+    role: Sklavinn.
+    gender: f
+setting: >-
+  Scene. Busch. – Hinten die Mauer eines Landhauses. Nacht, Wetterleuchten, und entfernte zuweilen sich nähernde Donner.
 ---
 slug: rambach-margot-oder-das-misverstaendniss
 author:
@@ -71329,6 +71691,43 @@ setting: >-
   Der Schauplatz ist zu Venedig in des Damis Hause.
 location:
   wikidataId: Q641
+---
+slug: schlegel-die-entfuehrte-dose
+author:
+  name: Schlegel, Johann Elias
+  wikidata: Q67322
+title: Die entführte Dose
+subtitle: Ein Lustspiel in einem Aufzuge
+created: 1740
+printed: 1762
+premiered: 1740
+formalia:
+  - sechsfüßige Jamben
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 20, S. 313
+editions:
+  - title: "Joh. Elias Schlegels Werke. Zweyter Theil. Herausgegeben von Johann Heinrich Schlegeln. Kopenhagen und Leipzig: Mummische Buchhandlung 1762, S. 619–635"
+    url: https://books.google.com/books?id=m5TUtgEACAAJ&pg=PA619
+  - title: "Joh. Elias Schlegels Werke. Zweyther Theil. Herausgegeben von Johann Heinrich Schlegeln. Kopenhagen und Leipzig: Prost und Rothe 1773, S. 619–635"
+    url: https://books.google.com/books?id=whQuAAAAYAAJ&pg=PA619
+comments:
+  - "Hinweis auf Einaktigkeit im Vorwort: »ein Lustspiel in einem Aufzuge« ([S. 621](https://books.google.com/books?id=m5TUtgEACAAJ&pg=PA621))."
+  - Nach der Niederschrift um 1740 in Leipzig aufgeführt. Gedruckt nur als Fragment, teils mit Inhaltsbeschreibungen für die fehlenden Szenen.
+cast:
+  - name: Foppendorf.
+    gender: m
+  - name: Glocke,
+    role: Vertrauter Foppendorfs.
+    gender: m
+  - name: Dratmann.
+    gender: m
+  - group:
+      - name: Charlottchen,
+        gender: f
+      - name: Christine,
+        gender: f
+    role: zwo Schwestern von ungleichen Jahren.
 ---
 slug: schlegel-die-grazien
 author:
