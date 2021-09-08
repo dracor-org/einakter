@@ -643,6 +643,8 @@ dictionaries:
 editions:
   - title: "Frankfurt und Leipzig: Eßlinger 1772"
     url: https://books.google.com/books?id=plUAvwEACAAJ&printsec=frontcover
+keywords:
+  - mehraktige Varianten
 comments:
   - "Gehört zu den Stücken »aus Frankfurter Druckereien«, die »abwechselnd André oder Faber zugeschrieben [werden], ohne daß eine Begründung oder Quelle geliefert würde«. (Meyer)"
   - "Auch als Zweiakter übersetzt ([von Moritz von Brahm, 1775](https://books.google.com/books?id=42TK8I6ceuQC&printsec=frontcover)): »Der Diener der Nebenbuhler seines Herrn. – Ein Lustspiel in zween Aufzügen. Nach dem Französischen des le Sage.«"
@@ -3720,6 +3722,8 @@ editions:
     url: https://books.google.com/books?id=he9YAAAAcAAJ&pg=PA115
 comments:
   - "1783 auch als [Zweiakter von Karl Lotich](https://books.google.com/books?id=YCM7AAAAcAAJ&printsec=frontcover)."
+keywords:
+  - mehraktige Varianten
 cast:
   - name: Don Astolfo Anselmi.
     gender: m
@@ -4086,6 +4090,32 @@ cast:
     isGroup: true
     gender: f
 setting: Das Theater ist eine wüste Insel.
+---
+slug: anonym-der-doppelte-libehaber
+author:
+  pseudonym: Anonym
+title: Der doppelte Liebhaber
+subtitle: Posse in einem Act. Nach dem Französischen
+numberOfScenes: 11
+printed: 1824
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch des kaiserl. königl. privil. Leopoldstädter Theaters für das Jahr 1824. Herausgegeben von Carl Meisl. Eilfter Jahrgang. Wien: Sollinger 1824, S. 177–229"
+    url: https://books.google.com/books?id=8hRaAAAAcAAJ&pg=PA177
+cast:
+  - name: Der Bruder.
+    gender: m
+  - name: Seine Tochter.
+    gender: f
+  - name: Ihre alte Tante.
+    gender: f
+  - name: Der Liebhaber der Tochter.
+    gender: f
+  - name: Sein Bedienter.
+    gender: m
+setting: >-
+  Ort: Ein Garten, links ein Gartenhaus mit einem Fenster im ersten Stock – nicht weit davon ein Apfelbaum – viele Rosenhecken etc. etc.
 ---
 slug: anonym-der-duell
 author:
@@ -8780,7 +8810,8 @@ comments:
   - Offenbar nicht gedruckt.
   - Laut [Hamburger Theaterzettel](https://www.stadttheater.uni-hamburg.de/) gibt es eine Übersetzung (Neubearbeitung?) von Friedrich Ludwig Schröder.
   - Unklar, ob es sich bei dem Stück [»Die Trauer, ein Lustspiel in einem Aufzuge«](franke-die-trauer) (undat.) von Christian Wilhelm Franke um eine Bearbeitung handelt.
-  - "Besprechung in: Morgenblatt für gebildete Stände. Nro. 178 (Diensttag, 26. Julius, 1808), [S. 711](https://books.google.com/books?id=gs8NMFIjPY4C&pg=PA711)."
+reviews:
+  - "Morgenblatt für gebildete Stände. Nro. 178 (Diensttag, 26. Julius, 1808), [S. 711](https://books.google.com/books?id=gs8NMFIjPY4C&pg=PA711)."
 cast:
   - name: Pirante,
     role: Timantens Vater.
@@ -9307,8 +9338,8 @@ dictionaries:
     pages: 2. Abteilung, Band 25, S. 216
 editions:
   - title: "Schauspiele. Erstes Stück. Leipzig: Büschel 1773, S. 5–96"
-comments:
-  - "Besprechung in [Magazin der deutschen Critik, Zweyten Bandes Erster Theil (1773), S. 285–288](https://books.google.com/books?id=awxMAAAAcAAJ&pg=RA1-PA285)."
+reviews:
+  - "Magazin der deutschen Critik. Zweyten Bandes Erster Theil (1773), [S. 285–288](https://books.google.com/books?id=awxMAAAAcAAJ&pg=RA1-PA285)."
 cast:
   - name: Herr von Mildbach.
     gender: m
@@ -10617,7 +10648,8 @@ editions:
 comments:
   - "Das Stück hat ein fast identisches Figurenverzeichnis mit [»Der König kömmt«](anonym-der-koenig-koemmt). Es handelt sich um eine nur leicht überarbeitete Version: drei zusätzliche Auftritte am Anfang, danach alles wortwörtlich – bis auf ganz wenige Ausnahmen – wie die frühere Version. Einzige Abweichung zum Personenverzeichnis: »Fürst« statt »König«. Unklar, ob Originalautor&#042;in und Bearbeiter&#042;in identisch sind."
   - Laut Meyer könnten die Initialen hinweisen auf Frdr. Wilh. Weisker oder W. Frdr. Wucherer.
-  - "Besprechung in: Allgemeine Literatur-Zeitung, Numero 12 (Mittwochs, den 10. Januar 1798), [Sp. 95–96](https://books.google.com/books?id=RbuD3p--INcC&pg=PA95)."
+reviews:
+  - "Allgemeine Literatur-Zeitung, Numero 12 (Mittwochs, den 10. Januar 1798), [Sp. 95–96](https://books.google.com/books?id=RbuD3p--INcC&pg=PA95)."
 cast:
   - name: Der Fürst.
     gender: m
@@ -10707,8 +10739,8 @@ dictionaries:
 editions:
   - title: "Breßlau: Gutsch 1772"
     url: https://books.google.com/books?id=IyNVAAAAcAAJ&printsec=frontcover
-comments:
-  - "Kurze Besprechung in: Almanach der deutschen Musen auf das Jahr 1773. Leipzig: Schwickert [1773], [S. 73](https://books.google.com/books?id=7Fk6AAAAcAAJ&pg=RA3-PA73)."
+reviews:
+  - "Almanach der deutschen Musen auf das Jahr 1773. Leipzig: Schwickert [1773], [S. 73](https://books.google.com/books?id=7Fk6AAAAcAAJ&pg=RA3-PA73)."
 cast:
   - name: Fanny,
     role: die Mutter.
@@ -12430,6 +12462,27 @@ cast:
 setting: >-
   Die Szene ist in einer grossen deutschen Stadt, zur Zeit der allgemeinen Theurung im Jahr 1771.
 ---
+slug: arminius-die-bekehrung
+author:
+  name: Arminius
+  pseudonym: Anonym
+title: Die Bekehrung
+subtitle: Ein Schwank in einem Aufzuge
+numberOfScenes: 1
+printed: 1833
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Taschenbuch vom k. k. privilegirten Theater in der Leopoldstadt für das Jahr 1833. Herausgegeben von Franz Fitzinger. Zwanzigster Jahrgang. Wien 1833, S. 154–174"
+    url: https://books.google.com/books?id=3zhbg045LJUC&pg=PA154
+cast:
+  - name: Marianne.
+    gender: f
+  - name: Franz.
+    gender: m
+setting: >-
+  Die Scene ist in einem Flecken in der Schweitz. (Ein Gasthof. Wirthschaftsgebäude. Freyer Platz vor dem Hause mit Tisch und Bänken. Im Hintergrund Alpen.)
+---
 slug: arnstein-das-billett
 author:
   name: Arnstein, Benedikt
@@ -13033,8 +13086,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth [1824], S. 1–41"
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA1
-comments:
-  - "Besprechung in: Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 378–379](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA378)."
+reviews:
+  - "Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 378–379](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA378)."
 cast:
   - name: Arnulf,
     role: König von Baiern.
@@ -13642,7 +13695,8 @@ editions:
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA43
 comments:
   - "Zur (Erst-?)aufführung in Berlin vgl. [Goedeke](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA461)."
-  - "Besprechung in: Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 379](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA379)."
+reviews:
+  - "Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 379](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA379)."
 cast:
   - name: Herr von Helm,
     role: ein reicher Edelmann.
@@ -13788,8 +13842,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Neunter Jahrgang, für 1830. Berlin: Vereinsbuchhandlung 1830, S. 209–238"
     url: https://books.google.com/books?id=ksE6AAAAcAAJ&pg=PA209
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Theodor.
     gender: m
@@ -13831,8 +13885,8 @@ formalia:
 editions:
   - title: "Berliner Theater-Almanach auf das Jahr 1838. Herausgegeben von Alexander Cosmar. Dritter Jahrgang. Berlin: Bade [1838], S. 199–246"
     url: https://books.google.com/books?id=m0E7AAAAcAAJ&pg=PA199
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 7 (Januar 1838), [Sp. 56](https://books.google.com/books?id=OtBaAAAAcAAJ&pg=PA55)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 7 (Januar 1838), [Sp. 56](https://books.google.com/books?id=OtBaAAAAcAAJ&pg=PA55)."
 keywords:
   - Verwechslungsspiel
 cast:
@@ -13918,8 +13972,8 @@ formalia:
 editions:
   - title: "Lustspiele von Bauernfeld. Wien; Sollinger; Leipzig: Liebeskind 1833, S. 217–282"
     url: https://books.google.com/books?id=j6UyAQAAMAAJ&pg=PA217
-comments:
-  - "Besprechung in: Der Sammler. Nr. 145 (Dinstag, den 4. December, 1832), [S. 580](https://books.google.com/books?id=PbpaAAAAcAAJ&pg=PA580)."
+reviews:
+  - "Der Sammler. Nr. 145 (Dinstag, den 4. December, 1832), [S. 580](https://books.google.com/books?id=PbpaAAAAcAAJ&pg=PA580)."
 cast:
   - name: Die Baronin,
     role: eine Witwe.
@@ -14056,7 +14110,7 @@ editions:
     url: https://books.google.com/books?id=2owuAAAAYAAJ&printsec=frontcover
   - title: "Sämmtliche Werke von Michael Beer. Leipzig: Brockhaus 1835, S. 233–284"
     url: https://books.google.com/books?id=nFU6AAAAcAAJ&pg=PA233
-comments:
+reviews:
   - "Goethes Besprechung in: Ueber Kunst und Alterthum. Fünften Bandes erstes Heft. Stuttgard: Cotta 1824, [S. 101–108](https://books.google.com/books?id=wetNAAAAcAAJ&pg=PA101)."
 keywords:
   - Judentum
@@ -14381,6 +14435,8 @@ editions:
     url: https://books.google.com/books?id=Ln0FAQAAIAAJ&pg=RA1-PA1
 comments:
   - "Auch als dreiaktiges »Originallustspiel« ([Wesel: Becker 1843](https://books.google.com/books?id=3BEGb_RFti0C&printsec=frontcover))."
+keywords:
+  - mehraktige Varianten
 cast:
   - name: Herr Hirschtödter,
     role: Manufacturwaarenhändler in einer kleinen Stadt.
@@ -14621,7 +14677,9 @@ editions:
     url: https://books.google.com/books?id=ocE6AAAAcAAJ&pg=PA63
 comments:
   - Die Autorin gewann mit dem Einakter 1827 in einem Wettbewerb von F. W. Gubitz den ersten Preis (vgl. dessen [Erlebnisse](https://books.google.com/books?id=2pVOAAAAcAAJ&pg=PA229)).
-  - Besprechungen in [Literatur-Blatt. Redigirt von Dr. Wolfgang Wenzel. No. 97 (23. September 1831), S. 385–386](https://books.google.com/books?id=6u8IAQAAIAAJ&pg=PA936-IA69), und [Jenaische Allgemeine Literatur-Zeitung. No. 152 (August 1831), Sp. 254](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253).
+reviews:
+  - "Literatur-Blatt. Redigirt von Dr. Wolfgang Wenzel. No. 97 (23. September 1831), [S. 385–386](https://books.google.com/books?id=6u8IAQAAIAAJ&pg=PA936-IA69)."
+  - "Jenaische Allgemeine Literatur-Zeitung. No. 152 (August 1831), [Sp. 254](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Christian Fürchtegott Gellert,
     role: Professor in Leipzig.
@@ -15813,8 +15871,8 @@ dictionaries:
 editions:
   - title: "Stendal: Franzen und Grosse 1780"
     url: https://books.google.com/books?id=exFaAAAAcAAJ&printsec=frontcover
-comments:
-  - "Besprechung in: Almanach der deutschen Musen auf das Jahr 1781. Leipzig: Weygand [1781], [S. 99](https://www.digitale-sammlungen.de/de/view/bsb10104565?page=115)."
+reviews:
+  - "Almanach der deutschen Musen auf das Jahr 1781. Leipzig: Weygand [1781], [S. 99](https://www.digitale-sammlungen.de/de/view/bsb10104565?page=115)."
 keywords:
   - Judentum
   - Antisemitismus
@@ -16290,8 +16348,8 @@ basedOn:
 editions:
   - title: "Vaudevilles, für deutsche Bühnen und gesellige Zirkel; nach dem Französischen bearbeitet von Carl Blum. Zweiter Band. Berlin: Duncker und Humblot 1826, S. 99–158"
     url: https://books.google.com/books?id=xDNJAAAAcAAJ&pg=PA99
-comments:
-  - "Besprechung in: Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 44 (1826), [Sp. 352](https://books.google.com/books?id=7IVIAQAAMAAJ&pg=RA1-PA351)."
+reviews:
+  - "Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 44 (1826), [Sp. 352](https://books.google.com/books?id=7IVIAQAAMAAJ&pg=RA1-PA351)."
 cast:
   - name: Blancheflour,
     role: Herzogin von Metz.
@@ -16332,8 +16390,8 @@ formalia:
 editions:
   - title: "Vaudevilles, für deutsche Bühnen und gesellige Zirkel; nach dem Französischen bearbeitet von Carl Blum. Zweiter Band. Berlin: Duncker und Humblot 1826, S. 215–294"
     url: https://books.google.com/books?id=xDNJAAAAcAAJ&pg=PA215
-comments:
-  - "Besprechung in: Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 44 (1826), [Sp. 352](https://books.google.com/books?id=7IVIAQAAMAAJ&pg=RA1-PA351)."
+reviews:
+  - "Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 44 (1826), [Sp. 352](https://books.google.com/books?id=7IVIAQAAMAAJ&pg=RA1-PA351)."
 cast:
   - name: Canonicus Ignatz Schuster,
     role: reicher Gutsbesitzer.
@@ -16535,8 +16593,8 @@ basedOn:
 editions:
   - title: "Vaudevilles, für deutsche Bühnen und gesellige Zirkel; nach dem Französischen bearbeitet von Carl Blum. Zweiter Band. Berlin: Duncker und Humblot 1826, S. 47–98"
     url: https://books.google.com/books?id=xDNJAAAAcAAJ&pg=PA47
-comments:
-  - "Besprechung in: Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 44 (1826), [Sp. 352](https://books.google.com/books?id=7IVIAQAAMAAJ&pg=RA1-PA351)."
+reviews:
+  - "Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 44 (1826), [Sp. 352](https://books.google.com/books?id=7IVIAQAAMAAJ&pg=RA1-PA351)."
 cast:
   - name: Graf von St. Phar.
     gender: m
@@ -19341,7 +19399,8 @@ comments:
   - Parodie der biblischen Erzählung »Susanna im Bade«, in der Daniel kein Prophet, sondern Susannas heimlicher Geliebter ist.
   - Verfasserschaft nicht abschließend geklärt. Auch Karl Riesbeck wird als Autor ins Spiel gebracht.
   - Bei Meyer fälschlich unter dem Titel »Die keusche Johanna«.
-  - "Besprechung in: Journal aller Romane und Schauspiele. Viertes Stück. Leipzig: Schneider 1784, [S. 92–93](https://books.google.com/books?id=2zi5EmbSDjwC&pg=RA4-PA92)."
+reviews:
+  - "Journal aller Romane und Schauspiele. Viertes Stück. Leipzig: Schneider 1784, [S. 92–93](https://books.google.com/books?id=2zi5EmbSDjwC&pg=RA4-PA92)."
 keywords:
   - Pornografie
   - Vergewaltigung
@@ -20111,8 +20170,8 @@ basedOn:
   - "Emmanuel Théaulon und Pierre Capelle: [»L'ermite de Saint-Avelle, ou Le berceau mystérieux. Vaudeville en un acte«](https://books.google.com/books?id=A-pKAAAAcAAJ&printsec=frontcover)"
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1821. Von I. F. Castelli. Sechster Jahrgang. Wien: Wallishausser [1821], S. 213–266"
-comments:
-  - "Besprechung in: Dramaturgische Blätter für Hamburg. No. 44. Hamburg: Hoffmann und Campe 1821, [S. 358](https://books.google.com/books?id=E8Zk3Nm_hkcC&pg=PA358)."
+reviews:
+  - "Dramaturgische Blätter für Hamburg. No. 44. Hamburg: Hoffmann und Campe 1821, [S. 358](https://books.google.com/books?id=E8Zk3Nm_hkcC&pg=PA358)."
 cast:
   - name: Berthold,
     role: der Einsiedler im Lerchenwalde.
@@ -20199,7 +20258,8 @@ editions:
 comments:
   - Auch unter dem Titel »Der Kuß durch Anweisung«.
   - "Auch unter dem Titel »Der Kuß nach Sicht« ([Hamburg 1827](https://www.stadttheater.uni-hamburg.de/node/20011))."
-  - "Besprechung in [Morgenblatt für gebildete Stände. No. 242. Freitag, 8. October 1824, S. 968](https://books.google.com/books?id=GO8cAQAAMAAJ&pg=PA968)."
+reviews:
+  - "Morgenblatt für gebildete Stände. No. 242 (Freitag, 8. October 1824), [S. 968](https://books.google.com/books?id=GO8cAQAAMAAJ&pg=PA968)."
 cast:
   - name: Frau von Hellwald.
     gender: f
@@ -20282,8 +20342,8 @@ basedOn:
   - Michel-Nicolas Balisson de Rougemont
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1821. Von I. F. Castelli. Sechster Jahrgang. Wien: Wallishausser [1821], S. 1–62"
-comments:
-  - "Besprechung in: Carinthia. Ein Wochenblatt für Vaterlandskunde, Belehrung und Unterhaltung. Zwanzigster Jahrgang. Nr. 22 (Klagenfurt, Sonnabend den 29. Mai 1830), [S. 92](https://books.google.com/books?id=7HpEAAAAcAAJ&pg=PA92)."
+reviews:
+  - "Carinthia. Ein Wochenblatt für Vaterlandskunde, Belehrung und Unterhaltung. Zwanzigster Jahrgang. Nr. 22 (Klagenfurt, Sonnabend den 29. Mai 1830), [S. 92](https://books.google.com/books?id=7HpEAAAAcAAJ&pg=PA92)."
 cast:
   - group:
       - name: Christian Durmann,
@@ -20343,9 +20403,10 @@ basedOn:
 comments:
   - Ungedruckt. (Personenverzeichnis erschlossen aus dem französischen Original und der Besprechung in »Bohemia«.)
   - "Auch mit dem Untertitel »Schauspiel in einem Aufzuge«."
-  - "Besprechung in: Der Sammler. Nr 68 (Dinstag, den 7. Juny 1836), [S. 272](https://books.google.com/books?id=27paAAAAcAAJ&pg=PA272)"
-  - "Besprechung in: Bohemia, ein Unterhaltungsblatt. Nro. 127 (Den 21. Oktober 1836), [unpag.](https://books.google.com/books?id=G7peAAAAcAAJ&pg=PP543)"
-  - "Besprechung in: Wiener Zeitschrift für Kunst, Literatur, Theater und Mode. Nr. 145 (Sonnabend, den 3. December 1836), [S. 1159](https://books.google.com/books?id=DB65XzBV95YC&pg=PA1159)."
+reviews:
+  - "Der Sammler. Nr. 68 (Dinstag, den 7. Juny 1836), [S. 272](https://books.google.com/books?id=27paAAAAcAAJ&pg=PA272)."
+  - "Bohemia, ein Unterhaltungsblatt. Nro. 127 (Den 21. Oktober 1836), [unpag.](https://books.google.com/books?id=G7peAAAAcAAJ&pg=PP543)"
+  - "Wiener Zeitschrift für Kunst, Literatur, Theater und Mode. Nr. 145 (Sonnabend, den 3. December 1836), [S. 1159](https://books.google.com/books?id=DB65XzBV95YC&pg=PA1159)."
 cast:
   - name: Herr von Soligni,
     role: ein in Ruhestand versetzter General.
@@ -20470,8 +20531,9 @@ editions:
   - title: "I. F. Castelli's Theater. Vollständige Ausgabe letzter Hand, in strenger Auswahl. Zweites Bändchen. Zweite vermehrte Auflage. Wien: Mayer 1848, S. 103–114"
     url: https://books.google.com/books?id=gHjfAAAAMAAJ&pg=PA103
 comments:
-  - "Besprechung in: Zeitung für die elegante Welt. Nr. 241 (9. December 1820), [Sp. 1922](https://books.google.com/books?id=xYZEAAAAcAAJ&pg=PA1921)."
   - Auch mit dem Untertitel »Ein komisches Zwischenspiel in einem Auftritte. Nach einer Anekdote« (1845).
+reviews:
+  - "Zeitung für die elegante Welt. Nr. 241 (9. December 1820), [Sp. 1922](https://books.google.com/books?id=xYZEAAAAcAAJ&pg=PA1921)."
 keywords:
   - Monodrama
 cast:
@@ -20844,8 +20906,8 @@ basedOn:
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1822. Von F. I. Castelli. Siebenter Jahrgang. Wien: Wallishausser [1822], S. 205–268"
     url: https://books.google.com/books?id=QR7oVxccvSgC&pg=PA205
-comments:
-  - "Besprechung in: Beilage zum literarischen Conversations-Blatt, 1822. [No. 2 (12. Januar 1822)](https://books.google.com/books?id=taNSAAAAcAAJ&pg=PA40-IA2)."
+reviews:
+  - "Beilage zum literarischen Conversations-Blatt, 1822. No. 2 (12. Januar 1822), [unpag.](https://books.google.com/books?id=taNSAAAAcAAJ&pg=PA40-IA2)"
 cast:
   - name: Baron Frickholm,
     role: Gutsbesitzer.
@@ -20962,8 +21024,8 @@ formalia:
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1822. Von F. I. Castelli. Siebenter Jahrgang. Wien: Wallishausser [1822], S. 93–160"
     url: https://books.google.com/books?id=QR7oVxccvSgC&pg=PA93
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 73 (April 1822), [Sp. 87](https://books.google.com/books?id=Naq_s_Q2T4QC&pg=PA87)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 73 (April 1822), [Sp. 87](https://books.google.com/books?id=Naq_s_Q2T4QC&pg=PA87)."
 cast:
   - name: Albert Dorn.
     gender: m
@@ -21226,8 +21288,8 @@ formalia:
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1835. Von I. F. Castelli. Zwanzigster Jahrgang. Wien: Wallishausser [1835], S. 129–204"
     url: https://books.google.com/books?id=PTr9kJXOFHcC&pg=PA129
-comments:
-  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 241 (Sonntag, 28. August 1836), [S. 1017](https://books.google.com/books?id=6z1aAAAAcAAJ&pg=PA1017)."
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 241 (Sonntag, 28. August 1836), [S. 1017](https://books.google.com/books?id=6z1aAAAAcAAJ&pg=PA1017)."
 cast:
   - name: Reisig,
     role: ein junger Mahler.
@@ -21376,8 +21438,9 @@ editions:
     url: https://books.google.com/books?id=WplJAQAAMAAJ&pg=RA2-PA1
   - title: "Dramatisches Sträußchen für das Jahr 1829. Vierzehnter Jahrgang. Wien: Wallishausser [1829], S. 213–288"
     url: https://books.google.com/books?id=rhBnAAAAcAAJ&pg=PA213
-comments:
-  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 103 (13. Aril 1830), [S. 410](https://books.google.com/books?id=TTtaAAAAcAAJ&pg=PA410), und Allgemeines Repertorium der neuesten in- und ausländischen Literatur für 1821. Zweyter Band. Leipzig: Cnobloch; Wien: Heubner 1821, [S. 98–99](https://books.google.com/books?id=sh1xa30zIVsC&pg=PA98)."
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 103 (Dienstag, 13. April 1830), [S. 410](https://books.google.com/books?id=TTtaAAAAcAAJ&pg=PA410)."
+  - "Allgemeines Repertorium der neuesten in- und ausländischen Literatur für 1821. Zweyter Band. Leipzig: Cnobloch; Wien: Heubner 1821, [S. 98–99](https://books.google.com/books?id=sh1xa30zIVsC&pg=PA98)."
 ids:
   weber: A021067
 cast:
@@ -21545,8 +21608,8 @@ basedOn:
   - Marc-Antoine-Madeleine Désaugiers
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1819. Von I. F. Castelli. Vierter Jahrgang. Wien: Wallishausser [1819], S. 175–218"
-comments:
-  - "Besprechung in: Wiener Zeitschrift für Kunst, Literatur, Theater und Mode. 68 (Dinstag, den 8. Juny 1819), [S. 556](https://books.google.com/books?id=sGA-ebQLOCwC&pg=PA556)."
+reviews:
+  - "Wiener Zeitschrift für Kunst, Literatur, Theater und Mode. 68 (Dinstag, den 8. Juny 1819), [S. 556](https://books.google.com/books?id=sGA-ebQLOCwC&pg=PA556)."
 cast:
   - name: Doktor Groll
     role: (hält eine Narrenanstalt.)
@@ -21942,7 +22005,8 @@ ids:
   weber: A021285
 comments:
   - "Auch unter den Titeln »Der neue Narziß. Dramatische Kleinigkeit in einem Aufzuge« (1823) und »Der Wunderquell« (1824), vgl. [Weber-Gesamtausgabe](https://weber-gesamtausgabe.de/de/A000288/Werke/A021285.html)."
-  - "Besprechung in: Zeitung für die elegante Welt. Nr. 191 (Dienstags, den 30. September 1823), [Sp. 1530–1531](https://books.google.com/books?id=-oxEAAAAcAAJ&pg=PA1529)."
+reviews:
+  - "Zeitung für die elegante Welt. Nr. 191 (Dienstags, den 30. September 1823), [Sp. 1530–1531](https://books.google.com/books?id=-oxEAAAAcAAJ&pg=PA1529)."
 cast:
   - name: Der Pächter.
     gender: m
@@ -22401,8 +22465,9 @@ editions:
   - title: "C. W. Contessa's Schriften. Herausgegeben von E. von Houwald. Achter Band. Leipzig: Göschen 1826, S. 79–180"
     url: https://books.google.com/books?id=pAZMAQAAMAAJ&pg=PA79
 comments:
-  - "Kurze Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 76 (April 1826), [Sp. 126](https://books.google.com/books?id=9uCuYCN8Id4C&pg=PA125)."
   - 1872 ins Tschechische übersetzt ([»Quartetto. Veselohra v jednom jednáni«](https://www.archivndknihovna.cz/Record/ARCHIVND.8931)).
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 76 (April 1826), [Sp. 126](https://books.google.com/books?id=9uCuYCN8Id4C&pg=PA125)."
 cast:
   - name: Hofrath Wunder.
     gender: m
@@ -22543,8 +22608,8 @@ editions:
     url: https://books.google.com/books?id=6QhTAAAAcAAJ&pg=PA55
   - title: "C. W. Contessa's Schriften. Herausgegeben von E. von Houwald. Erster Band. Leipzig: Göschen 1826, S. 321–372"
     url: https://books.google.com/books/about/Schriften.html?id=OnI6AAAAcAAJ&pg=PA321
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 98 (May 1816), [Sp. 305](https://books.google.com/books?id=6M1aAAAAcAAJ&pg=PA305)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 98 (May 1816), [Sp. 305](https://books.google.com/books?id=6M1aAAAAcAAJ&pg=PA305)."
 cast:
   - name: Bertram.
     gender: m
@@ -23089,8 +23154,8 @@ formalia:
 editions:
   - title: "Berliner Theater-Almanach auf das Jahr 1838. Herausgegeben von Alexander Cosmar. Dritter Jahrgang. Berlin: Bade [1838], S. 45–110"
     url: https://books.google.com/books?id=m0E7AAAAcAAJ&pg=PA45
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 7 (Januar 1838), [Sp. 56](https://books.google.com/books?id=OtBaAAAAcAAJ&pg=PA55)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 7 (Januar 1838), [Sp. 56](https://books.google.com/books?id=OtBaAAAAcAAJ&pg=PA55)."
 cast:
   - name: Freiherr von Mosen.
     gender: m
@@ -23635,7 +23700,8 @@ comments:
   - Fortsetzung des Einakters [»Das Bauerngut«](treitschke-das-bauerngut) (Treitschke 1799).
   - Es gibt einen Einakter mit demselben Titel von [Schütz (1800)](schuetz-die-katze-laesst-das-mausen-nicht), der ebenfalls eine (eigenständige) Fortsetzung des »Bauernguts« ist.
   - Costenoble hat aber auch unter dem Titel »Das unglückliche Rencontre« eine Fortsetzung des »Bauernguts« geschrieben, sie blieb ungedruckt und wurde am 23. April 1800 in Altona aufgeführt (vgl. Goedeke, Band XI/2, [S. 74](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungAusDenQuellen-2-11-2/page/n85/mode/2up)) – ist sie eventuell die Basis für Costenobles »Die Katze läßt das Mausen nicht«?
-  - "Besprechung in: Ergänzungsblätter zur Allgemeinen Literatur-Zeitung. August 1813, [Sp. 686](https://books.google.com/books?id=LvtndK_fRnEC&pg=PA685)."
+reviews:
+  - "Ergänzungsblätter zur Allgemeinen Literatur-Zeitung. August 1813, [Sp. 686](https://books.google.com/books?id=LvtndK_fRnEC&pg=PA685)."
 keywords:
   - Die beiden Billets
 cast:
@@ -24483,8 +24549,8 @@ formalia:
 editions:
   - title: "Dramatische Dichtungen von Deinhardstein. Wien: Wallishausser 1816, S. 139–164"
     url: https://books.google.com/books?id=KX46AAAAcAAJ&pg=RA1-PA139
-comments:
-  - "Besprechung in: Dramaturgisches Wochenblatt in nächster Beziehung auf die königlichen Schauspiele zu Berlin. Nr. 4 (Sonnabends, am 27. Januar 1816), [S. 29](https://books.google.com/books?id=OPO1xTTai1wC&pg=PA29)."
+reviews:
+  - "Dramaturgisches Wochenblatt in nächster Beziehung auf die königlichen Schauspiele zu Berlin. Nr. 4 (Sonnabends, am 27. Januar 1816), [S. 29](https://books.google.com/books?id=OPO1xTTai1wC&pg=PA29)."
 cast:
   - name: Karoline von Erlen.
     gender: f
@@ -24832,8 +24898,9 @@ formalia:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Ein u. Zwanzigster Jahrgang. Leipzig: Kummer 1823, S. 279–324"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044935_00295.html
-comments:
-  - "Besprechung in: Leipziger Literatur-Zeitung. Nr. 101 (23. des April. 1823), [Sp. 807–808](https://books.google.com/books?id=y1RxUHE9XE0C&pg=PA807), und Heidelberger Jahrbücher der Literatur, Nro. 74 (1822), [S. 1175](https://books.google.com/books?id=pOdaAAAAQAAJ&pg=PA1175)."
+reviews:
+  - "Leipziger Literatur-Zeitung. Nr. 101 (23. des April. 1823), [Sp. 807–808](https://books.google.com/books?id=y1RxUHE9XE0C&pg=PA807)."
+  - "Heidelberger Jahrbücher der Literatur, Nro. 74 (1822), [S. 1175](https://books.google.com/books?id=pOdaAAAAQAAJ&pg=PA1175)."
 cast:
   - name: Fabian Bitterfrost,
     role: Schulmeister im Städtchen X.
@@ -25760,8 +25827,8 @@ formalia:
   - Prosa
 editions:
   - title: "Weygand: Leipzig 1833"
-comments:
-  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 175 (Montag, 24. Juni 1833), [S. 721](https://books.google.com/books?id=iTxaAAAAcAAJ&pg=PA721)."
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 175 (Montag, 24. Juni 1833), [S. 721](https://books.google.com/books?id=iTxaAAAAcAAJ&pg=PA721)."
 cast:
   - name: Der Wirth zum goldenen Reiter.
     gender: m
@@ -25878,8 +25945,8 @@ dictionaries:
 editions:
   - title: "Prag: Gerle 1783"
     url: https://books.google.com/books?id=o-tKAAAAcAAJ&printsec=frontcover
-comments:
-  - "Besprechung in: Allgemeine deutsche Bibliothek. Des sechs und funfzigsten Bandes erstes Stück. Berlin und Stettin: Nicolai 1783, [S. 120–121](https://books.google.com/books?id=xnpNAAAAcAAJ&pg=PA120)."
+reviews:
+  - "Allgemeine deutsche Bibliothek. Des sechs und funfzigsten Bandes erstes Stück. Berlin und Stettin: Nicolai 1783, [S. 120–121](https://books.google.com/books?id=xnpNAAAAcAAJ&pg=PA120)."
 keywords:
   - Rache
 cast:
@@ -26014,8 +26081,8 @@ formalia:
 editions:
   - title: "München: Lentner 1800"
     url: https://books.google.com/books?id=qF5IAAAAcAAJ&printsec=frontcover
-comments:
-  - Besprechung in Allgemeine Literatur-Zeitung, [Nr. 304, Sp. 191–192 (27. October 1801)](https://books.google.com/books?id=04IFAAAAQAAJ&pg=PA191).
+reviews:
+  - "Allgemeine Literatur-Zeitung. Nr. 304 (27. October 1801), [Sp. 191–192](https://books.google.com/books?id=04IFAAAAQAAJ&pg=PA191)."
 keywords:
   - Eheanbahnung
   - Tiere
@@ -27820,8 +27887,8 @@ formalia:
 editions:
   - title: "Eurynome. Dramatisches Taschenbuch für das Jahr 1837. Von Dr. W. Foerster. Breslau: Friedländer [1837], S. 283–328"
     url: https://books.google.com/books?id=vTEe-A8xo4sC&pg=PA283
-comments:
-  - "Kurze Besprechung in: Repertorium der gesammten deutschen Literatur. Herausgegeben im Vereine mit mehreren Gelehrten von Dr. E. G. Gersdorf. Elfter Band. Leipzig: Brockhaus 1837, [S. 372](https://books.google.com/books?id=q-8EAAAAQAAJ&pg=PA372)."
+reviews:
+  - "Repertorium der gesammten deutschen Literatur. Herausgegeben im Vereine mit mehreren Gelehrten von Dr. E. G. Gersdorf. Elfter Band. Leipzig: Brockhaus 1837, [S. 372](https://books.google.com/books?id=q-8EAAAAQAAJ&pg=PA372)."
 cast:
   - name: Baron von Sternhoff.
     gender: m
@@ -27934,8 +28001,8 @@ formalia:
 editions:
   - title: "Taschenbuch dramatischer Originalien. Herausgegeben von Dr. Franck. Erster Jahrgang. Leipzig: Brockhaus 1837, S. 157–226"
     url: https://books.google.com/books?id=Iu1kAAAAcAAJ&pg=PA157
-comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Nr. 113 (Junius 1838), [Sp. 300–301](https://books.google.com/books?id=PClRAAAAYAAJ&pg=RA2-PA299)."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Nr. 113 (Junius 1838), [Sp. 300–301](https://books.google.com/books?id=PClRAAAAYAAJ&pg=RA2-PA299)."
 cast:
   - name: Herr von Wallberg.
     gender: m
@@ -27988,8 +28055,8 @@ formalia:
 editions:
   - title: "Taschenbuch dramatischer Originalien. Dritter Jahrgang. Herausgegeben von Dr. Franck. Leipzig: Brockhaus 1839, S. 359–440"
     url: https://books.google.com/books?id=IbM4AQAAMAAJ&pg=PA359
-comments:
-  - "Besprechung in: Literarische Zeitung. No. 47 (Berlin, den 21. November 1838), [Sp. 892](https://books.google.com/books?id=ELEvAQAAMAAJ&pg=PA891)."
+reviews:
+  - "Literarische Zeitung. No. 47 (Berlin, den 21. November 1838), [Sp. 892](https://books.google.com/books?id=ELEvAQAAMAAJ&pg=PA891)."
 cast:
   - name: Herr von Raoule,
     role: ein reicher Particulier.
@@ -28032,8 +28099,8 @@ formalia:
 editions:
   - title: "Taschenbuch dramatischer Originalien. Herausgegeben von Dr. Franck. Erster Jahrgang. Leipzig: Brockhaus 1837, S. 259–301"
     url: https://books.google.com/books?id=Iu1kAAAAcAAJ&pg=PA259
-comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Nr. 113 (Junius 1838), [Sp. 301](https://books.google.com/books?id=PClRAAAAYAAJ&pg=RA2-PA301)."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Nr. 113 (Junius 1838), [Sp. 301](https://books.google.com/books?id=PClRAAAAYAAJ&pg=RA2-PA301)."
 cast:
   - name: Kanzleidirector Einig.
     gender: m
@@ -29129,8 +29196,9 @@ editions:
   - title: "Kleiner Beytrag für die Bühne. Leipzig: Rein 1809, S. 185–226"
     url: https://books.google.com/books?id=VN5JAAAAcAAJ&pg=PA185
 comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
   - "Alle Titel im Band »Kleiner Beytrag für die Bühne« (1809) wurden vor dem Druck bereits in St. Petersburg aufgeführt."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
 cast:
   - name: Richard,
     role: ein Bauer.
@@ -29171,8 +29239,9 @@ editions:
   - title: "Kleiner Beytrag für die Bühne. Leipzig: Rein 1809, S. 227–280"
     url: https://books.google.com/books?id=VN5JAAAAcAAJ&pg=PA227
 comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
   - "Alle Titel im Band »Kleiner Beytrag für die Bühne« (1809) wurden vor dem Druck bereits in St. Petersburg aufgeführt."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
 cast:
   - name: Frau v. Stammfort.
     gender: f
@@ -29212,8 +29281,9 @@ editions:
   - title: "Kleiner Beytrag für die Bühne. Leipzig: Rein 1809, S. 367–415"
     url: https://books.google.com/books?id=VN5JAAAAcAAJ&pg=PA367
 comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
   - "Alle Titel im Band »Kleiner Beytrag für die Bühne« (1809) wurden vor dem Druck bereits in St. Petersburg aufgeführt."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
 cast:
   - name: Baron Kaupisch.
     gender: m
@@ -29266,8 +29336,9 @@ editions:
   - title: "Kleiner Beytrag für die Bühne. Leipzig: Rein 1809, S. 1–66"
     url: https://books.google.com/books?id=VN5JAAAAcAAJ&pg=PA1
 comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
   - "Alle Titel im Band »Kleiner Beytrag für die Bühne« (1809) wurden vor dem Druck bereits in St. Petersburg aufgeführt."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Num. 36 (Dienstags, den 6. Februar 1810), [Sp. 285–286](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA285)."
 cast:
   - name: General, Graf Landzowsky,
     role: ausser Diensten.
@@ -30609,6 +30680,8 @@ comments:
   - Erste Fassung in einem Akt (1768/69, Erstdruck 1909), zweite Fassung in drei Akten (1769, diese dann 1776 in Weimar uraufgeführt), weitere Fassungen in zwei Akten, Erstdruck der überarbeiteten Version 1787.
   - "Von Johann Friedrich Ernst Albrecht unter dem Titel [»Alle strafbar. Ein Lustspiel in zwei Akten«](https://books.google.com/books?id=fflKAAAAcAAJ&printsec=frontcover) (1795) bearbeitet."
   - "Ausführlicher Vergleich der verschiedenen Fassungen in: Döll 1909, [S. 164–171](https://archive.org/details/goethesmitschuld00dl/page/164/mode/2up)."
+keywords:
+  - mehraktige Varianten
 ids:
   dracor: ger000178
   wikidata: Q1214841
@@ -30679,7 +30752,8 @@ editions:
 comments:
   - "Nicht identisch mit Krickebergs Einakter [»Das Heiraths-Gesuch«](krickeberg-das-heiraths-gesuch) (1828)."
   - "Autorschaft ermittelt via Goedeke, Band XI/1, [S. 493–494](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/n509/mode/2up)."
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 254](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 254](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Kanzleidirector Strohgarten.
     gender: m
@@ -30779,10 +30853,13 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Neunter Jahrgang, für 1830. Berlin: Vereinsbuchhandlung 1830, S. 131–208"
     url: https://books.google.com/books?id=ksE6AAAAcAAJ&pg=PA131
+keywords:
+  - mehraktige Varianten
 comments:
   - "Autorschaft ermittelt via Goedeke, Band XI/1, [S. 493–494](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/n509/mode/2up)."
   - "Von Carl Malß zu dem Zweiakter [»Das Stelldichein im Tivoli, oder Schuster und Schneider als Nebenbuhler«](https://books.google.com/books?id=7TFdAAAAcAAJ&printsec=frontcover) (1832) adaptiert."
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Splitt,
     role: ein Dichter.
@@ -30875,6 +30952,30 @@ dictionaries:
 comments:
   - "Manuskript im ›Nachlass Conrad Ekhof‹ der Forschungsbibliothek Gotha, Signatur: [Chart. B 1614](http://kalliope-verbund.info/DE-611-HS-3410363)."
   - "Weitere Übersetzungen: [Anonym 1759](anonym-die-comoedie-aus-dem-stegreif) und [Jünger 1794](juenger-die-komoedie-aus-dem-stegreife)."
+cast:
+  - name: Der Graf.
+    gender: m
+  - name: Die Gräfin.
+    gender: f
+  - name: Isabelle,
+    role: ihre Tochter.
+    gender: f
+  - name: Lisette,
+    role: das Kammermädgen.
+    gender: f
+  - name: Damis.
+    gender: m
+  - name: Erast,
+    role: sein Sohn.
+    gender: m
+  - name: Frontin,
+    role: Erastens Bedienter.
+    gender: m
+  - name: Lucas,
+    role: des Grafen Gärtner.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
 ---
 slug: gotter-die-maskerade-oder-die-dreyfache-heyrath
 author:
@@ -31622,8 +31723,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Zehnter Jahrgang, für 1831. Berlin: Vereins-Buchhandlung 1831, S. 291–324"
     url: https://books.google.com/books?id=ocE6AAAAcAAJ&pg=PA291
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 254](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 254](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Alphons X.,
     role: König von Spanien.
@@ -31722,8 +31823,9 @@ editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Sechster Jahrgang, für 1827. Berlin: Vereinsbuchhandlung 1827, S. 241–278"
     url: https://books.google.com/books?id=KnwHAAAAQAAJ&pg=PA241
 comments:
-  - "Besprechung in: Leipziger Literatur-Zeitung. Nr. 235 (Am 14. des September 1827), [Sp. 1875](https://books.google.com/books?id=3O5q9lzrgEcC&pg=PA1875)."
   - Vermutlich nach einer französischen Vorlage.
+reviews:
+  - "Leipziger Literatur-Zeitung. Nr. 235 (Am 14. des September 1827), [Sp. 1875](https://books.google.com/books?id=3O5q9lzrgEcC&pg=PA1875)."
 cast:
   - name: Herr von Montesquieu.
     gender: m
@@ -31812,8 +31914,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Achter Jahrgang, für 1829. Berlin: Vereinsbuchhandlung 1829, S. 83–128"
     url: https://books.google.com/books?id=3Jo6AAAAcAAJ&pg=PA83
-comments:
-  - "Besprechung in: Morgenblatt für gebildete Stände. No. 134 (Mittwoch, 4. Juni 1828), [S. 535–536](https://books.google.com/books?id=HLNCIaNnLHIC&pg=PA535)."
+reviews:
+  - "Morgenblatt für gebildete Stände. No. 134 (Mittwoch, 4. Juni 1828), [S. 535–536](https://books.google.com/books?id=HLNCIaNnLHIC&pg=PA535)."
 cast:
   - name: Albrecht Dürer.
     gender: m
@@ -33580,11 +33682,12 @@ editions:
   - title: "Leipzig: Brockhaus 1839"
     url: https://books.google.com/books?id=jURNDoJTjcoC&printsec=frontcover
 comments:
-  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 208 (Sonntag, 26. Juli 1840), [S. 839–840](https://books.google.com/books?id=KpcKAAAAYAAJ&pg=PA839)."
-  - "Besprechung in: Zeitung für die elegante Welt. Nr. 132 (Freitags den 9. Juli 1841), [S. 527](https://books.google.com/books?id=YIxEAAAAcAAJ&pg=PA527)."
   - "Franz Grillparzer gewidmet ([S. 3](https://books.google.com/books?id=jURNDoJTjcoC&pg=PA3))."
   - "Fälschlicherweise wird auch Anton von Hake als Autor angegeben (vgl. [hier](http://de.palacdrulity.pl/308-2/))."
   - "Analyse in: Magdalena Żółtowska-Sikora: Adolf von Hake und sein dichterisches Talent, [http://palacdrulity.pl/](http://de.palacdrulity.pl/kleine-virtuelle-bibliothek/#von_Hake)."
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 208 (Sonntag, 26. Juli 1840), [S. 839–840](https://books.google.com/books?id=KpcKAAAAYAAJ&pg=PA839)."
+  - "Zeitung für die elegante Welt. Nr. 132 (Freitags den 9. Juli 1841), [S. 527](https://books.google.com/books?id=YIxEAAAAcAAJ&pg=PA527)."
 cast:
   - name: Syphax,
     role: König der Masässyler.
@@ -33621,8 +33724,8 @@ formalia:
 editions:
   - title: "Rudolstadt: Klüger 1809"
     url: https://books.google.com/books?id=yCxIAAAAcAAJ&pg=PA1
-comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 42 (Dienstags, den 13. Februar 1810), [Sp. 336](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA335)."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Num. 42 (Dienstags, den 13. Februar 1810), [Sp. 336](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA335)."
 cast:
   - name: Herr Beckmann,
     role: Kaufmann.
@@ -34979,8 +35082,8 @@ basedOn:
 editions:
   - title: "Dramatisches Vergißmeinnicht aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Erstes Bändchen. Dresden: Arnoldi 1823, S. 105–194"
     url: https://books.google.com/books?id=8bI73bci0oAC&pg=PA105
-comments:
-  - "Besprechung in: Eos. Zeitschrift aus Baiern. Nr. 160 (Montag den 6. Oktober 1823), [S. 640](http://opacplus.bsb-muenchen.de/title/6561887/ft/bsb10859372?page=674)."
+reviews:
+  - "Eos. Zeitschrift aus Baiern. Nr. 160 (Montag den 6. Oktober 1823), [S. 640](http://opacplus.bsb-muenchen.de/title/6561887/ft/bsb10859372?page=674)."
 cast:
   - name: Caroline von Blumenfeld,
     role: eine junge Wittwe.
@@ -35396,8 +35499,8 @@ formalia:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Land. Neunzehnter Jahrgang. Leipzig: Kummer 1821, S. 245–308"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044933_00263.html
-comments:
-  - "Kurze Besprechung in Literarisches Conversations-Blatt, Nr. 36 (13. Februar 1823), [S. 142](https://books.google.com/books?id=uhhBAQAAMAAJ&pg=PA142)."
+reviews:
+  - "Literarisches Conversations-Blatt, Nr. 36 (13. Februar 1823), [S. 142](https://books.google.com/books?id=uhhBAQAAMAAJ&pg=PA142)."
 cast:
   - name: Friedrich.
     gender: m
@@ -35522,8 +35625,8 @@ formalia:
 editions:
   - title: "Dramatisches Vergißmeinnicht für das Jahr 1829 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Sechstes Bändchen. Dresden und Leipzig: Arnoldi 1829, S. 121–200"
     url: https://books.google.com/books?id=MwtOAAAAcAAJ&dq&pg=PA121
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 104 (Juni 1829), [Sp. 352](https://books.google.com/books?id=t-NLAQAAMAAJ&pg=RA1-PA351)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 104 (Juni 1829), [Sp. 352](https://books.google.com/books?id=t-NLAQAAMAAJ&pg=RA1-PA351)."
 cast:
   - name: Herr von Verneuil.
     gender: m
@@ -35830,7 +35933,8 @@ editions:
     url: https://books.google.com/books?id=nAtOAAAAcAAJ&pg=RA3-PA1
 comments:
   - "Weitere Übersetzungen: [Kurländer 1837](kurlaender-geliebt-seyn-oder-sterben), [Ribics 1843](ribics-geliebt-seyn-oder-sterben)."
-  - "Besprechung in: Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 5 (1837), [Sp. 40](https://books.google.com/books?id=DtBaAAAAcAAJ&pg=PA39)."
+reviews:
+  - "Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 5 (1837), [Sp. 40](https://books.google.com/books?id=DtBaAAAAcAAJ&pg=PA39)."
 cast:
   - name: Bonnivet,
     role: Notar aus Paris.
@@ -36735,7 +36839,8 @@ editions:
     url: https://books.google.com/books?id=X21VAAAAcAAJ&printsec=frontcover
 comments:
   - "Parodie auf Goethes »Die Leiden des jungen Werthers«."
-  - "Besprechung in: Julius W. Braun: Goethe im Urtheile seiner Zeitgenossen. Berlin: Luckhardt 1883, [S. 254–258](https://books.google.com/books?id=dZdBAAAAIAAJ&pg=PA254)."
+reviews:
+  - "Julius W. Braun: Goethe im Urtheile seiner Zeitgenossen. Berlin: Luckhardt 1883, [S. 254–258](https://books.google.com/books?id=dZdBAAAAIAAJ&pg=PA254)."
 cast:
   - name: Lorenz Konau,
     role: ein Buchbinder und Bürgerworthalter.
@@ -37102,6 +37207,47 @@ cast:
 setting: >-
   Gustav's Zimmer.
 ---
+slug: herrmann-eine-raeubergeschichte
+author:
+  name: Herrmann, Bernhard Anton
+  wikidata: Q55123021
+title: Eine Räubergeschichte
+subtitle: Posse in einem Act, nach Siraudin und Fontaine
+numberOfScenes: 15
+printed: 1847
+formalia:
+  - Prosa
+basedOn:
+  - "Paul Siraudin: [»Une histoire de voleurs. Comédie-vaudeville en un acte«](https://books.google.com/books?id=yCnXOwmsYeAC&printsec=frontcover)"
+editions:
+  - title: "Heitere Bühnenspiele in freien Bearbeitungen und Uebersetzungen nach dem Französischen von B. A. Herrmann. Hamburg: Bernhard 1847, S. 407–449"
+    url: https://books.google.com/books?id=3j9IAQAAMAAJ&pg=PA407
+cast:
+  - name: Ein Unbekannter.
+    gender: m
+  - name: Frau von Roselle.
+    gender: f
+  - name: Emma von Berneuil,
+    role: eine junge Wittwe, ihre Nichte.
+    gender: f
+  - name: Arthur von Roselle,
+    role: ihr Cousin.
+    gender: m
+  - name: Ninette.
+    gender: f
+  - name: Franz,
+    role: Diener.
+    gender: m
+  - name: Ein Diener.
+    gender: m
+  - name: Bauern.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Stück spielt auf dem Schlosse der Frau von Roselle in den Pyrenäen. (Saal mit Mittel- und Seitenthüren; rechts an der dritten Koulisse ein Fenster; links ein Arbeitstisch für Damen.)
+location:
+  wikidataId: Q12431
+---
 slug: herrl-der-faschingsstreich
 author:
   name: Herrl, Johann Joseph von
@@ -37164,8 +37310,8 @@ formalia:
 editions:
   - title: "Dramatische Kleinigkeiten. Von Herzenskron. Dritter Band. Wien: Tendler 1833, S. 87–128"
     url: https://books.google.com/books?id=AYK_sifhhOoC&pg=PA87
-comments:
-  - "Besprechung in: Münchener Politische Zeitung. Nro. 225. Freitag, 20. September 1833, [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
+reviews:
+  - "Münchener Politische Zeitung. Nro. 225 (Freitag, 20. September 1833), [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
 cast:
   - name: Herr von Molk.
     gender: m
@@ -37489,9 +37635,9 @@ formalia:
 editions:
   - title: "Dramatische Kleinigkeiten. Von Herzenskron. Dritter Band. Wien: Tendler 1833, S. 175–215"
     url: https://books.google.com/books?id=AYK_sifhhOoC&pg=PA175
-comments:
-  - "Besprechung in: Münchener Politische Zeitung. Nro. 225. Freitag, 20. September 1833, [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
-  - "Besprechung in: Der Sammler. Nr. 93 (Dinstag den 4. August 1829), [S. 372](https://books.google.com/books?id=c8BaAAAAcAAJ&pg=PA372)."
+reviews:
+  - "Münchener Politische Zeitung. Nro. 225 (Freitag, 20. September 1833), [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
+  - "Der Sammler. Nr. 93 (Dinstag den 4. August 1829), [S. 372](https://books.google.com/books?id=c8BaAAAAcAAJ&pg=PA372)."
 cast:
   - name: Herr von Plutzerl,
     role: ein reicher Kaufmann.
@@ -37747,8 +37893,8 @@ basedOn:
 editions:
   - title: "Dramatische Kleinigkeiten. Von Herzenskron. Dritter Band. Wien: Tendler 1833, S. 45–86"
     url: https://books.google.com/books?id=AYK_sifhhOoC&pg=PA45
-comments:
-  - "Besprechung in: Münchener Politische Zeitung. Nro. 225. Freitag, 20. September 1833, [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
+reviews:
+  - "Münchener Politische Zeitung. Nro. 225 (Freitag, 20. September 1833), [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
 cast:
   - name: Julius von Derville,
     role: Schiffs-Capitän.
@@ -37905,8 +38051,8 @@ formalia:
 editions:
   - title: "Dramatische Kleinigkeiten. Von Herzenskron. Dritter Band. Wien: Tendler 1833, S. 5–44"
     url: https://books.google.com/books?id=AYK_sifhhOoC&pg=PA5
-comments:
-  - "Besprechung in: Münchener Politische Zeitung. Nro. 225. Freitag, 20. September 1833, [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
+reviews:
+  - "Münchener Politische Zeitung. Nro. 225 (Freitag, 20. September 1833), [S. 1805](https://books.google.com/books?id=Vz5EAAAAcAAJ&pg=PA1805)."
 cast:
   - name: Frau von Langer,
     role: Gutsbesitzerinn.
@@ -38233,6 +38379,7 @@ author:
   wikidata: Q23710566
 title: Der Arrestant
 subtitle: Ein Lustspiel
+numberOfScenes: 20
 created: 1779
 formalia:
   - Prosa
@@ -38241,6 +38388,34 @@ dictionaries:
     pages: 2. Abteilung, Band 27, S. 498
 comments:
   - "War ursprünglich ein Einakter, in Hamburg von Schröder wegen Überlänge (über 1 Stunde Lesezeit) in zwei Akte geteilt (mit 9 bzw. 11 Szenen) und so 1779 aufgeführt ([und 1781 gedruckt](https://books.google.com/books?id=Gr767B_irCwC&printsec=frontcover)). Vom Verfasser selbst 1780 in drei Akte geteilt [und gedruckt](https://books.google.com/books?id=gfhqnxpKbdAC&printsec=frontcover) (12 + 9 + 12 Szenen). Vgl. die [Vorrede](https://books.google.com/books?id=gfhqnxpKbdAC&pg=PA3) in der dreiaktigen Ausgabe 1780. Vgl. außerdem Litteratur- und Theater-Zeitung. No. XLIX (4. December 1779), [S. 773–776](https://books.google.com/books?id=uo_PIM1A14kC&pg=PA773)."
+keywords:
+  - mehraktige Varianten
+cast:
+  - name: Obrister von Scharf.
+    gender: m
+  - name: Fräulein Amalia,
+    role: seine Tochter.
+    gender: f
+  - name: General von Scharf,
+    role: des Obristen Bruder.
+    gender: m
+  - name: Baron Sterningen,
+    role: als Tabuletträger.
+    gender: m
+  - name: Hauptmann Sturm.
+    gender: m
+  - name: Himmelwetter,
+    role: ein Husar.
+    gender: m
+  - name: Louise,
+    role: Amaliens Kammermädchen.
+    gender: f
+  - name: Johann und Philipp,
+    role: Bediente.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Scene ist ein Zimmer eines Hotels neben an ein Kabinet.
 ---
 slug: heyne-der-stammbaum
 author:
@@ -39913,7 +40088,8 @@ editions:
     url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA362
 comments:
   - "Nachspiel zu [»Lorbeerbaum und Bettelstab, oder: Drei Winter eines deutschen Dichters. Schauspiel in drei Akten«](https://books.google.com/books?id=P0P1mzIAqCsC&printsec=frontcover), auch als »(Vierter Akt.) bezeichnet (1840, [S. 125](https://books.google.com/books?id=P0P1mzIAqCsC&pg=PA125), und 1845, [S. 362](https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA362))«."
-  - "Besprechung in: Die Theaterstücke der Weltlitteratur ihrem Inhalte nach wiedergegeben. Berlin, Leipzig, Budapest: Fried & Cie. 1892, [S. 261](https://books.google.com/books?id=439NAAAAYAAJ&pg=PA261)."
+reviews:
+  - "Die Theaterstücke der Weltlitteratur ihrem Inhalte nach wiedergegeben. Berlin, Leipzig, Budapest: Fried & Cie. 1892, [S. 261](https://books.google.com/books?id=439NAAAAYAAJ&pg=PA261)."
 cast:
   - name: Präsident Eduard von Grund.
     gender: m
@@ -40080,8 +40256,8 @@ editions:
     url: https://books.google.com/books?id=ksE6AAAAcAAJ&pg=PA51
   - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 61–68"
     url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA61
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Der Regisseur.
     gender: m
@@ -40171,8 +40347,8 @@ editions:
     url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA41
   - title: "Theater von Karl von Holtei. Ausgabe letzter Hand in sechs Bänden. Fünfter Band. Breslau: Trewendt 1867, S. 125–152"
     url: https://books.google.com/books?id=whOHwwEACAAJ&pg=PA125
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - group:
       - name: Severus,
@@ -40211,7 +40387,8 @@ editions:
     url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA396
 comments:
   - "Im [Vorwort](https://books.google.com/books?id=RNJ8ykaXWkQC&pg=PP9) erklärt der Autor, weshalb das Stück nicht aufgeführt wurde."
-  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 129 (Mittwoch, 6. Juni 1827), [S. 516](https://books.google.com/books?id=HxtaAAAAcAAJ&pg=PA516)."
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 129 (Mittwoch, 6. Juni 1827), [S. 516](https://books.google.com/books?id=HxtaAAAAcAAJ&pg=PA516)."
 cast:
   - name: Hofrath Leser.
     gender: m
@@ -40426,8 +40603,8 @@ editions:
     url: https://books.google.com/books?id=H5s6AAAAcAAJ&pg=PA133
   - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 77–86"
     url: https://books.google.com/books?id=ILxLAQAAMAAJ&pg=PA77
-comments:
-  - "Besprechung in: Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26. December 1834), [S. 521](https://books.google.com/books?id=MLZJAQAAMAAJ&pg=PA521)."
+reviews:
+  - "Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26. December 1834), [S. 521](https://books.google.com/books?id=MLZJAQAAMAAJ&pg=PA521)."
 cast:
   - name: Der Hofrath.
     gender: m
@@ -40755,7 +40932,8 @@ editions:
     url: https://books.google.com/books?id=DK9IAAAAcAAJ&printsec=frontcover
 comments:
   - "Ermittlung des Autors via [Tschechische Theaterenzyklopädie](http://de.encyklopedie.idu.cz/index.php/Huber,_Leopold). Wurde in der Forschung auch Franz Xaver Huber zugeschrieben, vgl. Susanne Zantrop: Kolonialphantasien im vorkolonialen Deutschland (1770–1870). Berlin: Erich Schmidt 1999, [S. 301](https://books.google.com/books?id=aM2NNt_6Uw8C&pg=PA301)."
-  - "Besprechung in: Wiener allgemeine Theaterzeitung und Unterhaltungsblatt für Freunde der Kunst, Literatur und des geselligen Lebens 131. Sonnabend, den 31. October 1818, [S. 523](https://anno.onb.ac.at/cgi-content/anno?aid=thz&datum=18181031&seite=3) (dort auch der Hinweis, dass der Einakter von Kotzebues Dreiakter »Die Negersclaven« inspiriert sei)."
+reviews:
+  - "Wiener allgemeine Theaterzeitung und Unterhaltungsblatt für Freunde der Kunst, Literatur und des geselligen Lebens. Nr. 131 (Sonnabend, den 31. October 1818), [S. 523](https://anno.onb.ac.at/cgi-content/anno?aid=thz&datum=18181031&seite=3) (dort auch der Hinweis, dass der Einakter von Kotzebues Dreiakter »Die Negersclaven« inspiriert sei)."
 keywords:
   - Amerika
   - Sklaverei
@@ -41531,8 +41709,8 @@ editions:
     url: https://books.google.com/books?id=5Dw7AAAAcAAJ&printsec=frontcover
   - title: "Wien: Wallishausser 1801"
     url: https://books.google.com/books?id=f1JjAAAAcAAJ&printsec=frontcover
-comments:
-  - "Besprechung in: Neue Allgemeine Deutsche Bibliothek. Sieben und funfzigsten Bandes Zweytes Stück. Sechstes Heft. Berlin und Stettin: Nicolai 1801, [S. 347](https://books.google.com/books?id=G2FLAAAAcAAJ&pg=PA347)."
+reviews:
+  - "Neue Allgemeine Deutsche Bibliothek. Sieben und funfzigsten Bandes Zweytes Stück. Sechstes Heft. Berlin und Stettin: Nicolai 1801, [S. 347](https://books.google.com/books?id=G2FLAAAAcAAJ&pg=PA347)."
 cast:
   - group:
       - name: Friedrich Wernau,
@@ -42027,7 +42205,8 @@ editions:
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA145
 comments:
   - "Hinweis auf Einaktigkeit (»Lustspiel in einem Acte«) in: Allgemeines Repertorium der neuesten in- und ausländischen Literatur für 1824. Zweiter Band. Zweites Stück. Leipzig: Cnobloch 1824, [S. 113](https://books.google.com/books?id=nudMAAAAcAAJ&pg=PA113)."
-  - "Besprechung in: Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 380](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA380)."
+reviews:
+  - "Literatur-Blatt. Nr. 95 (Freitag den 26. November 1824), [S. 380](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA380)."
 cast:
   - name: Rosa.
     gender: f
@@ -42050,8 +42229,8 @@ formalia:
 editions:
   - title: "Berliner Theater-Almanach auf das Jahr 1839. Herausgegeben von Alexander Cosmar. Vierter Jahrgang. Berlin: Bade [1839], S. 261–310"
     url: https://books.google.com/books?id=uEE7AAAAcAAJ&pg=PA261
-comments:
-  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 113 (Dienstag, 23. April 1839), [S. 458](https://books.google.com/books?id=PS1RAQAAMAAJ&pg=PA458)."
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 113 (Dienstag, 23. April 1839), [S. 458](https://books.google.com/books?id=PS1RAQAAMAAJ&pg=PA458)."
 cast:
   - name: Kramer,
     role: ein Thierarzt.
@@ -42086,8 +42265,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zwölfter Jahrgang. Zwölfter Jahrgang, für 1833. Berlin: Vereins-Buchhandlung 1833, S. 225–246"
     url: https://books.google.com/books?id=H5s6AAAAcAAJ&pg=PA225
-comments:
-  - "Besprechung in: Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26. December 1834), [S. 522](https://books.google.com/books?id=MLZJAQAAMAAJ&pg=PA522)."
+reviews:
+  - "Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26. December 1834), [S. 522](https://books.google.com/books?id=MLZJAQAAMAAJ&pg=PA522)."
 cast:
   - name: Giulia,
     role: Fürstin von Tarent.
@@ -43938,6 +44117,8 @@ editions:
     url: http://www.deutschestextarchiv.de/kleist_krug_1811
 comments:
   - Von Goethe für die Weimarer Uraufführung zum Dreiakter umgearbeitet. Bearbeitung als Einakter von [Friedrich Ludwig Schmidt 1824](schmidt-der-zerbrochene-krug). Zahlreiche Opernbearbeitungen und Verfilmungen.
+keywords:
+  - mehraktige Varianten
 ids:
   dracor: ger000363
   wikidata: Q486602
@@ -44517,8 +44698,8 @@ formalia:
 editions:
   - title: "F. A. von Kurländers dramatischer Almanach für das Jahr 1838. Herausgegeben von C. W. Koch. Acht und zwanzigster Jahrgang. Leipzig: Baumgärtner 1838, S. 143–196"
     url: https://books.google.com/books?id=EDFJAAAAcAAJ&pg=PA143
-comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Nr. 18 (Januar 1838), [Sp. 140–141](https://books.google.com/books?id=PClRAAAAYAAJ&pg=PA139)."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Nr. 18 (Januar 1838), [Sp. 140–141](https://books.google.com/books?id=PClRAAAAYAAJ&pg=PA139)."
 cast:
   - name: Baron Kollmar.
     gender: m
@@ -44586,6 +44767,50 @@ cast:
 setting: >-
   Zimmer in des Schulmeisters Hause. Auf der einen Seite hängt eine schwarze Tafel, aud der andern und im Hintergrunde verschiedene Instrumente.
 ---
+slug: koch-der-blaue-mantel
+author:
+  name: Koch, Karl Wilhelm
+  wikidata: Q59341083
+title: Der blaue Mantel
+subtitle: Posse in Einem Acte
+numberOfScenes: 24
+printed: 1830
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch vom kaiserl. königl. privil. Theater in der Leopoldstadt für das Jahr 1830. Herausgegeben von Carl Meisl. Wien: Stöckholzer von Hirschfeld 1830, S. 211–253"
+    url: https://books.google.com/books?id=rBVaAAAAcAAJ&pg=PA211
+cast:
+  - name: Major von Droll,
+    role: Gutsbesitzer.
+    gender: m
+  - name: Carl,
+    role: sein Sohn.
+    gender: m
+  - name: Linchen,
+    role: seine Tochter, 13 Jahre alt.
+    gender: f
+  - name: Minna,
+    role: seine Mündel.
+    gender: f
+  - name: Krack,
+    role: sein Diener, ehemahls Wachtmeister.
+    gender: m
+  - name: Frau Schlick,
+    role: Haushälterinn.
+    gender: f
+  - name: Goldhaas,
+    role: Pächter, ehemals Schulmeister.
+    gender: m
+  - group:
+      - name: Spitz,
+        gender: m
+      - name: Maus,
+        gender: m
+    role: Bauern.
+setting: >-
+  Prächtiger, rückwärts mit einer Mauer und einem Gitter geschlossener Garten. Im Hintergrunde ein frey stehender Baum. Rechts im Vordergrunde ein Flügel des Schlosses mit einer Eingangsthür. Links vorn ein Arbeitstisch, an welchem Linchen und Minna, mit Nähterey beschäftiget, sitzen. Etwas von ihnen entfernt haspelt Frau Schlick Zwirn ab.
+---
 slug: koch-der-erbe
 author:
   name: Koch, Karl Wilhelm
@@ -44601,8 +44826,8 @@ basedOn:
 editions:
   - title: "F. A. von Kurländers dramatischer Almanach für das Jahr 1838. Herausgegeben von C. W. Koch. Acht und zwanzigster Jahrgang. Leipzig: Baumgärtner 1838, S. 197–251"
     url: https://books.google.com/books?id=EDFJAAAAcAAJ&pg=PA197
-comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Nr. 18 (Januar 1838), [Sp. 141](https://books.google.com/books?id=PClRAAAAYAAJ&pg=PA141)."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Nr. 18 (Januar 1838), [Sp. 141](https://books.google.com/books?id=PClRAAAAYAAJ&pg=PA141)."
 cast:
   - name: Roger,
     role: Schlossermeister.
@@ -44715,8 +44940,8 @@ formalia:
 editions:
   - title: "Von Karl Koch, deutschem Schauspieler. Hamburg: Kratzsch 1803"
     url: https://books.google.com/books?id=ZE5WAAAAcAAJ&pg=PA1
-comments:
-  - "Besprechung in: Der Freimüthige. Berlinische Zeitung für gebildete, unbefangene Leser. No. 173 (Montags, den 31sten Oktober 1803), [S. 692](https://books.google.com/books?id=PAxfAAAAcAAJ&pg=PA692)."
+reviews:
+  - "Der Freimüthige. Berlinische Zeitung für gebildete, unbefangene Leser. No. 173 (Montags, den 31sten Oktober 1803), [S. 692](https://books.google.com/books?id=PAxfAAAAcAAJ&pg=PA692)."
 cast:
   - name: Milord Westri.
     gender: m
@@ -44735,6 +44960,40 @@ cast:
     gender: m
 setting: >-
   Saal im Gasthofe, rechts und links zwey nummerirte Seitenthüren. Im Hintergrunde ein Balkon, der die Aussicht nach dem Wasser hat. Auf jeder Seite ein Tisch nebst Stühlen.
+---
+slug: koch-die-chiffre
+author:
+  name: Koch, Karl Wilhelm
+  wikidata: Q59341083
+title: Die Chiffre
+subtitle: Lustspiel in einem Act
+numberOfScenes: 18
+printed: 1827
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch des kaiserl. königl. privil. Leopoldstädter Theaters für das Jahr 1827. Herausgegeben von Carl Meisl. Vierzehnter Jahrgang. Wien: Hirschfeld 1827, S. 23–80"
+    url: https://books.google.com/books?id=OnGlJWyj6lcC&pg=PA23
+reviews:
+  - "Allgemeine Theaterzeitung und Unterhaltungsblatt für Freunde der Kunst, Literatur und des geselligen Lebens. Nr. 11 (Wien, Donnerstag den 25. Jänner 1827), [S. 48](https://books.google.com/books?id=GZk95JhbLNwC&pg=PA48)."
+cast:
+  - name: Baron von Dillenhorst.
+    gender: m
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - name: Chevalier Charles de Grabois,
+    role: sein Neffe.
+    gender: m
+  - name: Graf Guido von Sonnenschild.
+    gender: m
+  - name: Lorenz,
+    role: dessen Reitknecht.
+    gender: m
+  - name: Ein Bedienter Dillenhorst's.
+    gender: m
+setting: >-
+  Die Handlung geht auf dem Landsitze des Baron's vor. (Prächtiger Garten mit Statuen und exotischen Gewächsen. Links der Eingang in denselben, rechts jener in das Schloß. Im Vordergrunde eine Laube, worinnen ein elegantes Arbeitstischchen steht. Emilie, in einfacher Hauskleidung ist eben mit der Vollendung eines Tabaksbeutels beschäftigt, worauf der Buchstabe G gearbeitet ist, der Baron steht ihr zur Seite, ein Paar Blumentöpfe begießend.)
 ---
 slug: koch-die-invaliden
 author:
@@ -44794,7 +45053,8 @@ editions:
     url: https://books.google.com/books?id=ZE5WAAAAcAAJ&pg=RA1-PA1
 comments:
   - "Laut Vorwort schrieb Koch diesen Einakter, weil sich Zuschauerinnen über seinen Einakter [»Der Weiberfeind«](koch-der-weiberfeind) beschwert haben."
-  - "Besprechung in: Der Freimüthige. Berlinische Zeitung für gebildete, unbefangene Leser. No. 173 (Montags, den 31sten Oktober 1803), [S. 692](https://books.google.com/books?id=PAxfAAAAcAAJ&pg=PA692)."
+reviews:
+  - "Der Freimüthige. Berlinische Zeitung für gebildete, unbefangene Leser. No. 173 (Montags, den 31sten Oktober 1803), [S. 692](https://books.google.com/books?id=PAxfAAAAcAAJ&pg=PA692)."
 cast:
   - name: Major von Moorstein,
     role: Onkel.
@@ -44920,6 +45180,44 @@ cast:
     gender: m
 setting: >-
   Die Handlung spielt auf dem Schlosse Hornfelds. (Das Theater stellt einen Gartensalon mit vier Seitenthüren vor. In der Mitte des Hintergrundes befindet sich ein Kamin. Rechts die letzte Seitenthür führt in den Garten, und bildet zugleich den Haupteingang. Die Erste leitet in die Zimmer der Frau von Lindheim, die letzte Thür links führt in das Appartement des Herrn von Hornfeld – die Erste in ein Cabinet. – Auf der Bühne rechts befindet sich ein Tisch mit Büchern, zwischen den beiden Thüren links ein Piano.)
+---
+slug: koch-mutter-und-tochter-oder-die-entfuehrung
+author:
+  name: Koch, Karl Wilhelm
+  wikidata: Q59341083
+title: Mutter und Tochter, oder die Entführung
+subtitle: Posse in Einem Acte
+numberOfScenes: 19
+printed: 1831
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch vom kaiserl. königl. priv. Theater in der Leopoldstadt für das Jahr 1831. Herausgegeben von Max. Karl Baldamus. Achtzehnter Jahrgang. Wien 1831, S. 21–75"
+    url: https://books.google.com/books?id=uhVaAAAAcAAJ&pg=PA21
+cast:
+  - name: Frau v. Fächerl.
+    gender: f
+  - name: Eulalia,
+    role: ihre Tochter.
+    gender: f
+  - name: Grimmer,
+    role: ihr Schwager, ein Holzhändler.
+    gender: m
+  - name: Jacob,
+    role: ihr Bediente.
+    gender: m
+  - name: Herr von Schwindel.
+    gender: m
+  - name: Flink,
+    role: sein Bediente.
+    gender: m
+  - name: Ein Gerichtsdiener.
+    gender: m
+  - name: Wachen.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung geht auf Frau v. Fächerls Landhause, nahe an einer Stadt vor. (Ein Garten, in welchem alles, sehr vernachläßigt aussieht. Einigen darin angebrachten Statuen fehlen Kopf oder Arme. Das im Hintergrund zu sehende Lusthaus ist halb eingestürzt. Im Vordergrunde rechts ist der Eingang ins Schloß mit einem Fenster. Das Ganze hat ein verwildertes Ansehen. – In einem Vogelbauer erblickt man einen Papagey.)
 ---
 slug: koellner-werdenau-das-maltheser-kreuz
 author:
@@ -45868,6 +46166,49 @@ cast:
     role: Walm's Bedienter.
     gender: m
 ---
+slug: korntheuer-onkel-und-neffe-als-nebenbuhler
+author:
+  name: Korntheuer, Friedrich Joseph
+  wikidata: Q27584803
+title: Onkel und Neffe als Nebenbuhler
+subtitle: Lustspiel in einem Acte, frey nach dem Französischen des Le Grand
+numberOfScenes: 23
+printed: 1828
+premiered: 1823-06-05
+formalia:
+  - Prosa
+basedOn:
+  - "Marc-Antoine Legrand: [»L'aveugle clair-voyant. Comédie«](https://books.google.com/books?id=FcgFAAAAQAAJ&pg=PA59)"
+editions:
+  - title: "Taschenbuch des kaiserl. königl. privil. Leopoldstädter-Theaters, für das Jahr 1828. Herausgegeben von C. J. Metzger. Fünfzehnter Jahrgang. Wien: von Hirschfeld 1828, S. 145–182"
+    url: https://books.google.com/books?id=xEM9aCC5YmEC&pg=PA145
+cast:
+  - name: Frau von Walten,
+    role: eine junge Witwe.
+    gender: f
+  - name: Frau von Walten,
+    role: ihre Tante.
+    gender: f
+  - name: Baron Halz,
+    role: Oberstwachtmeister, Bräutigam der jungen Witwe.
+    gender: m
+  - name: Karl,
+    role: sein Neffe.
+    gender: m
+  - name: Herr von Senf.
+    gender: m
+  - name: Minchen,
+    role: Mädchen der jungen Witwe.
+    gender: f
+  - name: Fabian,
+    role: Halz's Reitknecht.
+    gender: m
+  - name: Sprungmann,
+    role: Notarius.
+    gender: m
+setting: >-
+  Zimmer.
+---
 slug: kotzebue-baebbel-oder-aus-zwey-uebeln-das-kleinste
 author:
   name: Kotzebue, August von
@@ -46182,8 +46523,8 @@ editions:
     url: https://books.google.com/books?id=I586AAAAcAAJ&pg=PA1
   - title: "Neue Auflage. Leipzig: Kummer 1826"
     url: https://books.google.com/books?id=aMA6AAAAcAAJ&printsec=frontcover
-comments:
-  - "Besprechung in: Neue Allgemeine Deutsche Bibliothek. Neun und sechzigsten Bandes Zweytes Stück. Sechstes Heft. Berlin und Stettin: Nicolai 1802, [S. 377–378](https://books.google.com/books?id=07IEAAAAYAAJ&pg=PA377)."
+reviews:
+  - "Neue Allgemeine Deutsche Bibliothek. Neun und sechzigsten Bandes Zweytes Stück. Sechstes Heft. Berlin und Stettin: Nicolai 1802, [S. 377–378](https://books.google.com/books?id=07IEAAAAYAAJ&pg=PA377)."
 keywords:
   - Aberglaube
   - Eheanbahnung
@@ -50340,6 +50681,7 @@ comments:
 keywords:
   - Ehe
   - Heimkehr-Motiv
+  - mehraktige Varianten
 cast:
   - name: Wilhelm Rabe,
     role: ein Pachter.
@@ -50912,7 +51254,8 @@ editions:
     url: https://books.google.com/books?id=ITBJAAAAcAAJ&pg=PA141
 comments:
   - "Auch unter dem Titel »Der Haushofmeister, oder: Das Geheimniß« (Hamburg 1831)."
-  - "Besprechung in: Der Sammler. Nr. 130 (Sonnabend, den 30. October 1830), [S. 522](https://books.google.com/books?id=CisxAugR6YQC&pg=PA522)."
+reviews:
+  - "Der Sammler. Nr. 130 (Sonnabend, den 30. October 1830), [S. 522](https://books.google.com/books?id=CisxAugR6YQC&pg=PA522)."
 cast:
   - name: Fräulein von Hartville.
     gender: f
@@ -51021,8 +51364,8 @@ basedOn:
 editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1837. Von F. A. von Kurländer. Sieben und zwanzigster Jahrgang. Leipzig: Baumgärtner 1837, S. 1–81"
     url: https://books.google.com/books?id=9zBJAAAAcAAJ&pg=PA1
-comments:
-  - "Besprechung in: Der Telegraph, österreichisches Conversationsblatt. No. 35 (Donnerstag den 24. März 1836), [S. 139–140](https://books.google.com/books?id=1kRbAAAAcAAJ&pg=PA139)."
+reviews:
+  - "Der Telegraph, österreichisches Conversationsblatt. No. 35 (Donnerstag den 24. März 1836), [S. 139–140](https://books.google.com/books?id=1kRbAAAAcAAJ&pg=PA139)."
 cast:
   - name: Herr von Senange.
     gender: m
@@ -51161,8 +51504,8 @@ basedOn:
 editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1825, von F. A. von Kurländer. Funfzehnter Jahrgang. Leipzig: Baumgärter [1825], S. 1–68"
     url: https://books.google.com/books?id=4DFJAAAAcAAJ&pg=PA1
-comments:
-  - "Besprechung in: Literatur-Blatt. Nr. 13 (Dienstag, den 15. Februar 1825), [S. 52](https://books.google.com/books?id=fOwIAQAAIAAJ&pg=RA2-PA200-IA52)."
+reviews:
+  - "Literatur-Blatt. Nr. 13 (Dienstag, den 15. Februar 1825), [S. 52](https://books.google.com/books?id=fOwIAQAAIAAJ&pg=RA2-PA200-IA52)."
 cast:
   - name: Baron Rebe.
     gender: m
@@ -51265,7 +51608,8 @@ editions:
     url: https://books.google.com/books?id=aFjS1D006UMC&pg=PA299
 comments:
   - Laut dem Vorwort nach einem französischen Vaudeville.
-  - "Besprechung in: Zeitung für die elegante Welt. Nr. 43 (Donnerstags den 1. März 1821), [Sp. 342](https://books.google.com/books?id=GvkTN_fqMkIC&pg=PA341)."
+reviews:
+  - "Zeitung für die elegante Welt. Nr. 43 (Donnerstags den 1. März 1821), [Sp. 342](https://books.google.com/books?id=GvkTN_fqMkIC&pg=PA341)."
 cast:
   - name: König.
     gender: m
@@ -51344,7 +51688,8 @@ editions:
     url: https://books.google.com/books?id=aFjS1D006UMC&pg=PA229
 comments:
   - Laut dem Vorwort nach einem französischen Vaudeville.
-  - "Besprechung in: Zeitung für die elegante Welt. Nr. 43 (Donnerstags den 1. März 1821), [Sp. 342](https://books.google.com/books?id=GvkTN_fqMkIC&pg=PA341)."
+reviews:
+  - "Zeitung für die elegante Welt. Nr. 43 (Donnerstags den 1. März 1821), [Sp. 342](https://books.google.com/books?id=GvkTN_fqMkIC&pg=PA341)."
 cast:
   - name: Baron Werthen,
     role: Gutsbesitzer.
@@ -51384,8 +51729,8 @@ formalia:
 editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1825, von F. A. von Kurländer. Funfzehnter Jahrgang. Leipzig: Baumgärter [1825], S. 185–248"
     url: https://books.google.com/books?id=4DFJAAAAcAAJ&pg=PA185
-comments:
-  - "Besprechung in: Literatur-Blatt. Nr. 13 (Dienstag, den 15. Februar 1825), [S. 52](https://books.google.com/books?id=fOwIAQAAIAAJ&pg=RA2-PA200-IA52)."
+reviews:
+  - "Literatur-Blatt. Nr. 13 (Dienstag, den 15. Februar 1825), [S. 52](https://books.google.com/books?id=fOwIAQAAIAAJ&pg=RA2-PA200-IA52)."
 cast:
   - name: Schwalbe,
     role: Chirurgus zu Plundershausen.
@@ -51452,8 +51797,8 @@ basedOn:
 editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1825, von F. A. von Kurländer. Funfzehnter Jahrgang. Leipzig: Baumgärter [1825], S. 249–312"
     url: https://books.google.com/books?id=4DFJAAAAcAAJ&pg=PA249
-comments:
-  - "Besprechung in: Literatur-Blatt. Nr. 13 (Dienstag, den 15. Februar 1825), [S. 52](https://books.google.com/books?id=fOwIAQAAIAAJ&pg=RA2-PA200-IA52)."
+reviews:
+  - "Literatur-Blatt. Nr. 13 (Dienstag, den 15. Februar 1825), [S. 52](https://books.google.com/books?id=fOwIAQAAIAAJ&pg=RA2-PA200-IA52)."
 cast:
   - name: Krähe,
     role: Hauseigenthümer in der Jägerzeil.
@@ -51516,8 +51861,8 @@ formalia:
 editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1825, von F. A. von Kurländer. Funfzehnter Jahrgang. Leipzig: Baumgärter [1825], S. 69–124"
     url: https://books.google.com/books?id=4DFJAAAAcAAJ&pg=PA69
-comments:
-  - "Besprechung in: Literatur-Blatt. Nr. 13 (Dienstag, den 15. Februar 1825), [S. 52](https://books.google.com/books?id=fOwIAQAAIAAJ&pg=RA2-PA200-IA52)."
+reviews:
+  - "Literatur-Blatt. Nr. 13 (Dienstag, den 15. Februar 1825), [S. 52](https://books.google.com/books?id=fOwIAQAAIAAJ&pg=RA2-PA200-IA52)."
 cast:
   - name: Chevalier Paul,
     role: gewesener Bedienter.
@@ -51797,8 +52142,8 @@ formalia:
 editions:
   - title: "Almanach dramatischer Spiele für Gesellschaftstheater. Von F. A. von Kurländer. Erster Jahrgang. Wien und Triest: Geistinger 1811, S. 261–304"
     url: https://books.google.com/books?id=HS47AAAAcAAJ&pg=PA261
-comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 92 (Mittwochs, den 3. April 1811), [Sp. 735–736](https://books.google.com/books?id=AyJRAAAAYAAJ&pg=PA735)."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Num. 92 (Mittwochs, den 3. April 1811), [Sp. 735–736](https://books.google.com/books?id=AyJRAAAAYAAJ&pg=PA735)."
 cast:
   - name: Der Prinz von ***.
     gender: m
@@ -52077,8 +52422,8 @@ formalia:
 editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1825, von F. A. von Kurländer. Funfzehnter Jahrgang. Leipzig: Baumgärter [1825], S. 125–184"
     url: https://books.google.com/books?id=4DFJAAAAcAAJ&pg=PA125
-comments:
-  - "Besprechung in: Literatur-Blatt. Nr. 13 (Dienstag, den 15. Februar 1825), [S. 52](https://books.google.com/books?id=fOwIAQAAIAAJ&pg=RA2-PA200-IA52)."
+reviews:
+  - "Literatur-Blatt. Nr. 13 (Dienstag, den 15. Februar 1825), [S. 52](https://books.google.com/books?id=fOwIAQAAIAAJ&pg=RA2-PA200-IA52)."
 cast:
   - name: Der Graf.
     gender: m
@@ -52221,8 +52566,9 @@ editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1830. Zwanzigster Jahrgang. Leipzig: Baumgärtner 1830, S. 283–344"
     url: https://books.google.com/books?id=CzBJAAAAcAAJ&pg=PA283
 comments:
-  - "Besprechung in: Wiener Zeitschrift für Kunst, Literatur, Theater und Mode. 153 (Dinstag, den 22. December 1829), [S. 1261](https://books.google.com/books?id=YRQQOF92NNkC&pg=PA1261)."
   - "Vorlage unklar (laut [Vorrede](https://books.google.com/books?id=CzBJAAAAcAAJ&pg=PR3) ein französisches Liederspiel)."
+reviews:
+  - "Wiener Zeitschrift für Kunst, Literatur, Theater und Mode. 153 (Dinstag, den 22. December 1829), [S. 1261](https://books.google.com/books?id=YRQQOF92NNkC&pg=PA1261)."
 cast:
   - name: Herr von Neufels.
     gender: m
@@ -52263,7 +52609,8 @@ editions:
     url: https://books.google.com/books?id=9zBJAAAAcAAJ&pg=PA199
 comments:
   - "Weitere Übersetzungen: [Hell 1836](hell-geliebt-oder-todt), [Ribics 1843](ribics-geliebt-seyn-oder-sterben)."
-  - "Besprechung in: Blätter für literarische Unterhaltung, 87 (Dienstag 28. März 1837), [S. 350](https://books.google.com/books?id=JT5aAAAAcAAJ&l&pg=PA350)."
+reviews:
+  - "Blätter für literarische Unterhaltung, 87 (Dienstag 28. März 1837), [S. 350](https://books.google.com/books?id=JT5aAAAAcAAJ&l&pg=PA350)."
 cast:
   - name: Bohldorf.
     gender: m
@@ -52512,7 +52859,8 @@ editions:
     url: https://books.google.com/books?id=aFjS1D006UMC&pg=PA145
 comments:
   - Laut dem Vorwort nach einem französischen Vaudeville.
-  - "Besprechung in: Zeitung für die elegante Welt. Nr. 43 (Donnerstags den 1. März 1821), [Sp. 342](https://books.google.com/books?id=GvkTN_fqMkIC&pg=PA341)."
+reviews:
+  - "Zeitung für die elegante Welt. Nr. 43 (Donnerstags den 1. März 1821), [Sp. 342](https://books.google.com/books?id=GvkTN_fqMkIC&pg=PA341)."
 cast:
   - name: Baron Ehrenhof.
     gender: m
@@ -52582,8 +52930,8 @@ basedOn:
 editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1828. Von F. A. von Kurländer. Achtzehnter Jahrgang. Leipzig: Baumgärtner [1828], S. 193–248"
     url: https://books.google.com/books?id=3y9JAAAAcAAJ&pg=PA193
-comments:
-  - "Besprechung in: Zeitung für die elegante Welt. Nr. 8 (Sonnabends den 10. Januar 1829), [Sp. 63](https://books.google.com/books?id=tY5EAAAAcAAJ&pg=PA63)."
+reviews:
+  - "Zeitung für die elegante Welt. Nr. 8 (Sonnabends den 10. Januar 1829), [Sp. 63](https://books.google.com/books?id=tY5EAAAAcAAJ&pg=PA63)."
 cast:
   - name: Raimund Müller,
     role: gewesener Buchhändler.
@@ -53039,7 +53387,8 @@ editions:
     url: https://books.google.com/books?id=1n86AAAAcAAJ&pg=PA1
 comments:
   - Einakter-Trauerspiel [mit demselben Titel](pfeffel-damon-und-pythias) von Pfeffel (1769).
-  - "Besprechung in: Jakob Baechtold: Geschichte der Deutschen Literatur in der Schweiz. Frauenfeld: Huber 1892, [S. 520](https://books.google.com/books?id=lzRcAAAAcAAJ&pg=PA520)."
+reviews:
+  - "Jakob Baechtold: Geschichte der Deutschen Literatur in der Schweiz. Frauenfeld: Huber 1892, [S. 520](https://books.google.com/books?id=lzRcAAAAcAAJ&pg=PA520)."
 keywords:
   - Freundschaft
   - untragischer Ausgang
@@ -53079,8 +53428,8 @@ dictionaries:
 editions:
   - title: "Dramatische und andere Gedichte von ***. Zürich: Füeßlin und Compagnie 1768, S. 27–58"
     url: https://books.google.com/books?id=1n86AAAAcAAJ&pg=PA27
-comments:
-  - "Besprechung in: Jakob Baechtold: Geschichte der Deutschen Literatur in der Schweiz. Frauenfeld: Huber 1892, [S. 520](https://books.google.com/books?id=lzRcAAAAcAAJ&pg=PA520)."
+reviews:
+  - "Jakob Baechtold: Geschichte der Deutschen Literatur in der Schweiz. Frauenfeld: Huber 1892, [S. 520](https://books.google.com/books?id=lzRcAAAAcAAJ&pg=PA520)."
 cast:
   - name: Frau von Reichlieb,
     role: eine Wittwe.
@@ -53117,8 +53466,8 @@ dictionaries:
 editions:
   - title: "Dramatische und andere Gedichte von ***. Zürich: Füeßlin und Compagnie 1768, S. 59–86"
     url: https://books.google.com/books?id=1n86AAAAcAAJ&pg=PA59
-comments:
-  - "Besprechung in: Jakob Baechtold: Geschichte der Deutschen Literatur in der Schweiz. Frauenfeld: Huber 1892, [S. 520](https://books.google.com/books?id=lzRcAAAAcAAJ&pg=PA520)."
+reviews:
+  - "Jakob Baechtold: Geschichte der Deutschen Literatur in der Schweiz. Frauenfeld: Huber 1892, [S. 520](https://books.google.com/books?id=lzRcAAAAcAAJ&pg=PA520)."
 cast:
   - name: Nomares,
     role: Befehlshaber auf einer von Wilden bewohnten Insel.
@@ -53139,6 +53488,76 @@ cast:
     gender: u
 setting: >-
   Der Schauplatz ist eine mit Bäumen besetzte Gegend. Auf der einen Seite zeigt sich ein Theil der Wohnung des Nomares nebst einem bedeckten Gange. In der hintern Vertiefung erblickt man das Meer.
+---
+slug: langer-das-wirthshaus-zu-neumarket
+author:
+  name: Langer, Johann
+  wikidata: Q1598849
+title: Das Wirthshaus zu Neumarket
+subtitle: Ein Lustspiel in einem Act. Nach einer Erzählung bearbeitet
+numberOfScenes: 14
+printed: 1820
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch vom kaiserl. königl. privilegirten Theater in der Leopoldstadt. Siebenter Jahrgang.  Wien 1820, S. 1–35"
+    url: https://books.google.com/books?id=oRRaAAAAcAAJ&pg=RA1-PA1
+cast:
+  - name: Graf Rochester.
+    gender: m
+  - name: William,
+    role: dessen Diener.
+    gender: m
+  - name: Pächter Hamilton.
+    gender: m
+  - name: Dessen Frau.
+    gender: f
+  - name: Toms,
+    role: ihr Sohn.
+    gender: m
+  - name: Pastor Wilke.
+    gender: m
+  - name: Fanny,
+    role: seine Tochter.
+    gender: f
+  - name: Richard.
+    gender: m
+setting: >-
+  Straße im Dorfe, an der Seite das Wirthshaus, Rochester als Wirth gekleidet. William.
+---
+slug: langer-der-geburtstag
+author:
+  name: Langer, Johann
+  wikidata: Q1598849
+title: Der Geburtstag
+subtitle: Kleines Drama in einem Act
+numberOfScenes: 6
+printed: 1822
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Taschenbuch des kaiserl. königl. privil. Leopoldstädter-Theaters für das Jahr 1822. Herausgegeben von Carl Meisl. Neunter Jahrgang. Wien: Schmid 1822, S. 203–222"
+    url: https://books.google.com/books?id=1hRaAAAAcAAJ&pg=PA203
+comments:
+  - Stumme Dienerfigur nicht im Personenverzeichnis.
+keywords:
+  - Kindertheater
+cast:
+  - name: Die Mutter.
+    gender: f
+  - group:
+      - name: Carl,
+        role: Officier,
+        gender: m
+      - name: Emilie,
+        gender: f
+      - name: Antoin,
+        gender: m
+    role: ihre Kinder.
+  - name: Herr Wille.
+    gender: m
+setting: >-
+  Zimmer mit Mittel und Seitenthüre.
 ---
 slug: laub-das-arabische-pulver
 author:
@@ -53165,6 +53584,7 @@ comments:
 keywords:
   - Alchemie
   - Reichtum
+  - mehraktige Varianten
 cast:
   - name: Herr Gernereich.
     gender: m
@@ -53990,6 +54410,9 @@ editions:
     url: https://books.google.com/books?id=PW9jAAAAcAAJ&pg=PA1
 comments:
   - "Vorbericht: »Die Karaktere des Heldenspielers Wolkenbruch und des Signors Heldenreich sind nicht von mir; die erste Szene ist aus einem alten Manuskripte, dessen Verfasser nicht genannt war; doch ist sie bedeutend geändert. Die leztere erschien als Fragment in der ehmaligen Leipziger Theaterzeitung. Der geniale Verfasser – in dem ich einen recht werthen Freund – Herr Arresto – zu erkennen glaube – möge mir diesen Diebstahl verzeihen. Sollte ich ihn dadurch vielleicht vermögen, sein niedliches Lustspiel ›die Theaterentreprise,‹ von dem er uns nur eine Probe gab, der theatralischen Welt zu schenken, so würde ich mich herzlich freuen.« ([S. 3](https://books.google.com/books?id=PW9jAAAAcAAJ&pg=PA3))"
+  - "Auch unter dem Titel »Empfehlungsbriefe, oder: Der Schauspieler wider Willen in einer dritten Manier. Posse in einem Aufzuge« (Theaterzettel [Hamburg 1818](https://www.stadttheater.uni-hamburg.de/system/files/1818-05-27.pdf))."
+reviews:
+  - "Beilage zur Abend-Zeitung. Nr. 168 (Donnerstag, am 16. Juli, 1818), [unpag.](https://books.google.com/books?id=SZxTAAAAcAAJ&pg=PA47)"
 cast:
   - name: Der Schauspieldirector.
     gender: m
@@ -55360,6 +55783,8 @@ editions:
     url: https://books.google.com/books?id=oJpZAAAAcAAJ&pg=RA1-PA1
 comments:
   - Später umgearbeitet zu [»Die Physiognomistinn ohne es zu wissen. Ein Lustspiel in drey Aufzügen«](https://books.google.com/books?id=--5YAAAAcAAJ&pg=PA1) (1778).
+keywords:
+  - mehraktige Varianten
 cast:
   - name: Florian.
     gender: m
@@ -55733,7 +56158,8 @@ editions:
     url: https://books.google.com/books?id=Iu1kAAAAcAAJ&pg=PA133
 comments:
   - "»Anmerkung: – Die Erscheinung einer Unbekannten von wunderbarer Schönheit, deren Spur Milton als Jüngling lange suchte und nie wieder fand, und welche in ihm die erste Idee zu seinem epischen Gedichte ›Das verlorne Paradie‹ hervorrief, erzählt er selbst in seiner VII. lateinischen Elegie.« ([S. 156](https://books.google.com/books?id=Iu1kAAAAcAAJ&pg=PA156))"
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Nr. 113 (Junius 1838), [Sp. 299](https://books.google.com/books?id=PClRAAAAYAAJ&pg=RA2-PA299)."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Nr. 113 (Junius 1838), [Sp. 299](https://books.google.com/books?id=PClRAAAAYAAJ&pg=RA2-PA299)."
 cast:
   - name: Lady Monk,
     role: Gemahlin des Generals Monk.
@@ -56173,6 +56599,45 @@ cast:
 setting: >-
   Der Schauplatz ist in einem Dorfe.
 ---
+slug: loegler-kaiser-heinrich-der-vogler
+author:
+  name: Lögler, Benedikt
+  wikidata: Q55679052
+title: Kaiser Heinrich der Vogler
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 15
+printed: 1813
+formalia:
+  - Prosa
+editions:
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Drey- und zwanzigster Band. Augsburg und Leipzig: Stage [1813], S. 1–32"
+    url: https://books.google.com/books?id=_yc7AAAAcAAJ&pg=PA1
+cast:
+  - name: Heinrich der Vogler,
+    role: deutscher Kaiser.
+    gender: m
+  - name: Helene,
+    role: seine Tochter.
+    gender: f
+  - name: Ritter Werner von Altenburg.
+    gender: m
+  - name: Albrecht,
+    role: sein Sohn.
+    gender: m
+  - name: Ritter Edmund von Bärau.
+    gender: m
+  - name: Ritter Winfried von Wollstein.
+    gender: m
+  - name: Noch zwei Ritter.
+    isGroup: true
+    gender: m
+  - name: Ein Knappe.
+    gender: m
+setting: >-
+  Wüste Gegend im Böhmerwalde. Hinter dichten Gesträuchen sind die Thürme einer Veste sichtbar, deren Thore und Zugbrücke weiter vorwärts – doch hinter Gebüschen noch größtentheils verborgen – den untern Theil des Prospekts ausmachen. Die Zugbrücke wird herabgelassen, und Ritter Albrecht kömmt mit einem Jagdspieß und einer Armbrust eilig aus dem Thor über die Zugbrücke.
+location:
+  wikidataId: Q157290
+---
 slug: loeper-so-gehts-wenn-man-dem-gesinde-die-aufsicht-der-kinder-ueberlaesst
 author:
   name: Loeper, Christian Philipp Gabriel
@@ -56515,6 +56980,77 @@ setting: >-
 location:
   wikidataId: Q1741
 ---
+slug: lucks-der-neunzehnte-april
+author:
+  name: Lucks, Johann
+title: Der neunzehnte April
+subtitle: Festspiel in 1 Akt
+numberOfScenes: 8
+printed: 1842
+formalia:
+  - Blankvers
+editions:
+  - title: "Almanach der vereinigten k. k. priv. Theater an der Wien und in der Leopoldstadt, den verehrten Theater-Gönnern zum neuen Jahre gewidmet von Johann Lucks, Souffleur der vereinigten Theater. Wien 1842, S. 5–24"
+    url: https://books.google.com/books?id=UuJMAAAAYAAJ&pg=PA5
+cast:
+  - name: Der Gutsherr.
+    gender: m
+  - name: Der Haushofmeister.
+    gender: m
+  - group:
+      - name: Ludovika,
+        gender: m
+      - name: Clementine,
+        gender: f
+      - name: Marianne,
+        gender: f
+      - name: Franz,
+        gender: m
+      - name: Anna,
+        gender: f
+      - name: Karl,
+        gender: m
+      - name: Ludwig,
+        gender: m
+      - name: Johann,
+        gender: f
+    role: Landleute.
+  - name: Bauern. Bäuerinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Herrschaftlicher Park. (Im Vordergrunde Baumreihen, durch Blumenketten verbunden, der Hintergrund ist durch Gebüsche bedeckt. Ganz hinten auf einer Höhe das herrschaftliche Schloß mit weiter Aussicht. Die Scene wird nur durch einzelne Papierlaternen und Windlichter erhellt.)
+---
+slug: lucks-oesterreichs-schoenster-tag
+author:
+  name: Lucks, Johann
+title: Oesterreich's schönster Tag
+subtitle: Festspiel in 1 Act
+numberOfScenes: 1
+printed: 1841
+formalia:
+  - Verse
+editions:
+  - title: "Almanach der vereinigten k k. priv. Theater an der Wien und in der Leopoldstadt, den verehrten Theater-Gönnern zum neuen Jahre gewidmet von Johann Lucks, Souffleur der vereinigten Theater. Wien 1841, S. 5–14"
+    url: https://books.google.com/books?id=QSX4GV_bH0UC&pg=PA5
+cast:
+  - name: Der Genius Oesterreich's.
+    gender: u
+  - name: Ein Greis.
+    gender: m
+  - name: Eine Bürgerin.
+    gender: f
+  - name: Ein Knabe.
+    gender: m
+  - name: Sprecher der Provinzen.
+    isGroup: true
+    gender: u
+  - name: Bürger, Bürgerinnen, Volk.
+    isGroup: true
+    gender: u
+setting: >-
+  Ein Eichenhain. In der Mitte der Bühne erhebt sich nach hinten zu im deutschen Styl ein steinerner Altar, auf welchen die Büste des Kaisers steht. Zu beiden Seiten des Altars erblickt man, indem während einer feierlichen Introduction der Vorhang aufgeht, in einen Halbkreis die Sprecher der verschiedenen Provinzen in National-Tracht. Bürger und Bürgerinnen in festlicher Kleidung.
+---
 slug: luedemann-der-mystiker-oder-die-schuld
 author:
   name: Lüdemann, Wilhelm von
@@ -56686,7 +57222,8 @@ editions:
     url: https://books.google.com/books?id=16YOgZuMThcC&pg=PA148
 comments:
   - "Untertitel »ein Trauerspiel in einem Aufzuge« nur im Inhaltsverzeichnis (1806); auf dem Deckblatt im Band nur noch »Trauerspiel für Marionetten«."
-  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 178 (Sonntag, 27. Juni 1841), [S. 723](https://books.google.com/books?id=RKkiAQAAMAAJ&pg=PA723)."
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 178 (Sonntag, 27. Juni 1841), [S. 723](https://books.google.com/books?id=RKkiAQAAMAAJ&pg=PA723)."
 keywords:
   - Marionettentheater
   - Puppentheater
@@ -58090,8 +58627,8 @@ editions:
     url: https://books.google.com/books?id=15lIAAAAcAAJ&pg=PA127
   - title: "Der kleine Proteus. Dramatische Aufgabe in einem Akt. Nach einem, im k. k. Hoftheater zu Wien gegebenem Lustspiele dieses Titels bearbeitet. In: Spenden für Freunde des Scherzes. Von A. Albini. Berlin: Hold 1827, S. 315–348"
     url: https://books.google.com/books?id=I-POreazhqkC&pg=PA315
-comments:
-  - "Besprechung in: Der Sammler. 49 (Samstag, den 26. März 1814), [S. 196](https://books.google.com/books?id=IUdgiLbZib8C&pg=PA196)."
+reviews:
+  - "Der Sammler. 49 (Samstag, den 26. März 1814), [S. 196](https://books.google.com/books?id=IUdgiLbZib8C&pg=PA196)."
 keywords:
   - Vater-Tochter-Konflikt
 cast:
@@ -58129,8 +58666,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Nachspiele. Herausgegeben von Karl von Holtei. Dritter Jahrgang, für 1824. Breslau: Graß, Barth & Co.; Leipzig: Barth [1824], S. 199–288"
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA199
-comments:
-  - "Besprechung in: Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 380](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA380)."
+reviews:
+  - "Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 380](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA380)."
 cast:
   - name: Christine,
     role: Pächterin, Wittwe.
@@ -58162,7 +58699,8 @@ editions:
     url: https://books.google.com/books?id=9JZIAAAAcAAJ&pg=PA1
 comments:
   - Fehler bei der Nummerierung der Auftritte, nach 10 folgt 13. Insgesamt daher nur 22 statt 24 Auftritte.
-  - "Besprechung in: Literatur-Blatt. No. 120 (Montag, 27. November 1837), [S. 480](https://books.google.com/books?id=RC0xZq8Zu1QC&pg=PA480)."
+reviews:
+  - "Literatur-Blatt. No. 120 (Montag, 27. November 1837), [S. 480](https://books.google.com/books?id=RC0xZq8Zu1QC&pg=PA480)."
 keywords:
   - Ehestandsszene
 cast:
@@ -58407,6 +58945,54 @@ cast:
     gender: m
 setting: >-
   Park.
+---
+slug: meisl-der-bund-der-dreyen
+author:
+  name: Meisl, Carl
+  wikidata: Q1308773
+title: Der Bund der Dreyen
+subtitle: Eine Allegorie in freyen Versen mit Chören und einem damit verbundenen Divertissement, in einem Aufzuge
+numberOfScenes: 6
+printed: 1815
+formalia:
+  - Verse
+editions:
+  - title: "Theatralisches Taschenbuch vom K. K. p. Theater in der Leopoldstadt. Zweyter Jahrgang. Wien 1815, S. 45–70"
+    url: https://books.google.com/books?id=zIpKAAAAcAAJ&pg=PA47
+keywords:
+  - allegorische Figuren
+cast:
+  - name: Austria.
+    gender: u
+  - name: Ruthenia (Rußland).
+    gender: u
+  - name: Borussia.
+    gender: u
+  - name: Der Schatten Rudolphs von Habsburg.
+    gender: m
+  - name: Der Schatten Peter des Großen.
+    gender: m
+  - name: Der Schatten Friedrichs des II.
+    gender: m
+  - name: Das Verhängniß.
+    gender: u
+  - name: Der Genius Europens.
+    gender: u
+  - name: Der Ehrgeiz.
+    gender: u
+  - name: Chor von Bewaffneten.
+    isGroup: true
+    gender: m
+  - name: Gefolge des Ehrgeizes.
+    isGroup: true
+    gender: u
+  - name: Winzer und Winzerinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Eine rauhe, schneebedeckte Gegend, rechts das brennende Moskau zum Theile noch sichtbar. Beym Aufgange der Cortine hört man entfernte Trommeln, Kanonenschüsse, Trompeten. Fliehende Krieger schleichen halb leblos über die Bühne.
+location:
+  wikidataId: Q649
 ---
 slug: meisl-der-fluegelmann-oder-er-muss-sie-heirathen
 author:
@@ -58726,6 +59312,56 @@ cast:
 setting: >-
   Zimmer des Pflegers.
 ---
+slug: meisl-die-weihe-des-hauses
+author:
+  name: Meisl, Carl
+  wikidata: Q1308773
+title: Die Weihe des Hauses
+subtitle: Gelegenheitsstück in einem Aufzuge
+numberOfScenes: 7
+printed: 1825
+premiered: 1823-10-03
+formalia:
+  - Verse
+editions:
+  - title: "Taschenbuch des kaiserl. königl. privil. Leopoldstädter Theaters für das Jahr 1825. Herausgegeben von Carl Meisl. Zwölfter Jahrgang. Wien: von Haykul 1825, S. 145–163"
+    url: https://books.google.com/books?id=-xRaAAAAcAAJ&pg=PA145
+keywords:
+  - allegorische Figuren
+cast:
+  - name: Apollo.
+    gender: m
+  - name: Thespis.
+    gender: m
+  - name: Ein Jüngling.
+    gender: m
+  - name: Ein Mädchen.
+    gender: f
+  - group:
+      - name: Die Grazie,
+        gender: f
+      - name: Der Tanz,
+        gender: u
+      - name: Das Lustspiel,
+        gender: u
+      - name: Die Satire,
+        gender: u
+      - name: Die Posse,
+        gender: u
+      - name: Die Parodie,
+        gender: u
+      - name: Das Melodram,
+        gender: u
+    role: personifizirt.
+  - name: Priester.
+    isGroup: true
+    gender: m
+  - name: Jungfrauen.
+    isGroup: true
+    gender: f
+setting: >-
+  Eine rauhe Gegend.
+---
 slug: meisl-er-ist-mein-mann
 author:
   name: Meisl, Carl
@@ -58770,6 +59406,39 @@ cast:
 setting: >-
   Paulinens Schlafgemach mit einem Bette. Es ist Abend, auf dem offenen Fenster brennen Kerzen.
 ---
+slug: meisl-meine-frau-ist-ein-engel
+author:
+  name: Meisl, Carl
+  wikidata: Q1308773
+title: Meine Frau ist ein Engel
+subtitle: Eine Kleinigkeit, in freien Versen, und in einem Akte
+numberOfScenes: 6
+printed: 1834
+premiered: 1818-08-11
+formalia:
+  - Verse
+editions:
+  - title: "Taschenbuch des k. k. privilegirten Theaters in der Leopoldstadt für das Jahr 1834. Herausgegeben von Carl Meisl und D. F. Reiberstorffer. Wien 1834, S. 195–212"
+    url: https://books.google.com/books?id=clNFY-L1BxEC&pg=PA195
+comments:
+  - "Dieselben Figuren wie in Meisl Einakter [»Meine Frau ist ein Satan«](meisl-meine-frau-ist-ein-satan)."
+cast:
+  - name: Lindau.
+    gender: m
+  - name: Emilie,
+    role: seine Gattin.
+    gender: f
+  - name: Holm.
+    gender: m
+  - name: Friedrich,
+    role: Bedienter.
+    gender: m
+  - name: Mehrere Gäste.
+    isGroup: true
+    gender: u
+setting: >-
+  Ein gemeinschaftliches Zimmer.
+---
 slug: meisl-meine-frau-ist-ein-satan
 author:
   name: Meisl, Carl
@@ -58782,8 +59451,10 @@ premiered: 1818-08-11
 formalia:
   - Verse
 editions:
-  - title: "Taschenbuch vom k. k. privilegirten Theater in der Leopoldstadt für das Jahr 1835. Herausgegeben von Carl Meisl und D. F. Keiberstorffer. Zwey und zwanzigster Jahrgang. Wien: Wollzeile 1835, S. 221–240"
+  - title: "Taschenbuch vom k. k. privilegirten Theater in der Leopoldstadt für das Jahr 1835. Herausgegeben von Carl Meisl und D. F. Reiberstorffer. Zwey und zwanzigster Jahrgang. Wien 1835, S. 221–240"
     url: https://books.google.com/books?id=hsuMTwW2P4gC&pg=PA221
+comments:
+  - "Dieselben Figuren wie in Meisl Einakter [»Meine Frau ist ein Engel«](meisl-meine-frau-ist-ein-engel)."
 cast:
   - name: Lindau.
     gender: m
@@ -58808,7 +59479,7 @@ premiered: 1832-02-12
 formalia:
   - Verse
 editions:
-  - title: "Taschenbuch vom k. k. privilegirten Theater in der Leopoldstadt für das Jahr 1835. Herausgegeben von Carl Meisl und D. F. Keiberstorffer. Zwey und zwanzigster Jahrgang. Wien: Wollzeile 1835, S. 205–219"
+  - title: "Taschenbuch vom k. k. privilegirten Theater in der Leopoldstadt für das Jahr 1835. Herausgegeben von Carl Meisl und D. F. Reiberstorffer. Zwey und zwanzigster Jahrgang. Wien 1835, S. 205–219"
     url: https://books.google.com/books?id=hsuMTwW2P4gC&pg=PA205
 comments:
   - "Quelle für das Datum der Erstaufführung: [Allgemeine Theaterzeitung, 20. Februar 1832](https://books.google.com/books?id=Gj2lqw9GvwAC&pg=PA143)."
@@ -59409,8 +60080,8 @@ formalia:
 editions:
   - title: "Prag 1819"
     url: https://books.google.com/books?id=pjVgAAAAcAAJ&printsec=frontcover
-comments:
-  - "Besprechung in: Beilage zum Hesperus. Nr. 12 (März 1819), [S. 62–63](https://books.google.com/books?id=92BEAAAAcAAJ&pg=RA1-PA62)."
+reviews:
+  - "Beilage zum Hesperus. Nr. 12 (März 1819), [S. 62–63](https://books.google.com/books?id=92BEAAAAcAAJ&pg=RA1-PA62)."
 cast:
   - group:
       - name: Zeus
@@ -60183,6 +60854,52 @@ cast:
     role: dessen Söhne.
 setting: >-
   Der Schauplatz ist in einem Garten.
+---
+slug: mirani-das-lustspiel-auf-der-bruecke
+author:
+  name: Mirani, Johann Heinrich
+  wikidata: Q89548911
+title: Das Lustspiel auf der Brücke
+subtitle: Posse in einem Act. Nach dem Böhmischen des Professors W. Klitzpera
+numberOfScenes: 6
+printed: 1838
+formalia:
+  - Prosa
+basedOn:
+  - "Václav Kliment Klicpera: [»Veselohra na mostě. Fraška v jednom jednání«](http://kramerius5.nkp.cz/uuid/uuid:7b966bd0-fcb2-11e2-9439-005056825209)"
+editions:
+  - title: "Taschenbuch für das k. k. privilegirte Theater in der Leopoldstadt auf das Jahr 1838. Herausgegben von Carl Meisl und August Schmidt. Fünf und zwanzigster Jahrgang. Wien: Ludwig 1838, S. 211–250"
+    url: https://books.google.com/books?id=XRZaAAAAcAAJ&pg=PA211
+cast:
+  - name: Damian Bitter,
+    role: ein Hopfenhändler.
+    gender: m
+  - name: Eva,
+    role: sein Weib.
+    gender: f
+  - name: Hanns Hecht,
+    role: ein Fischer.
+    gender: m
+  - name: Röschen,
+    role: seine Braut.
+    gender: f
+  - name: Bonifazius Ferl,
+    role: ein Schullehrer.
+    gender: m
+  - name: Ein Lieutenant,
+    role: der Landestruppen.
+    gender: m
+  - name: Ein Posten,
+    role: derselben.
+    gender: m
+  - name: Ein Posten,
+    role: der Feinde.
+    gender: m
+  - name: Soldaten.
+    isGroup: true
+    gender: m
+setting: >-
+  Eine im Hintergrund mit Weiden bewachsene Gegend. Über die Länge des Theaters strömt ein Fluß, der sich links im Vordergrunde verliert. Über den Fluß eine breite hölzerne Brücke. Links auf der Brücke steht der Feindliche, rechts der Landes Posten. – Der Waffenstillstand geht zu Ende.
 ---
 slug: moerike-die-pruefung
 author:
@@ -61780,6 +62497,41 @@ cast:
 setting: >-
   Eine sehr einfache Stube, mit einer Seitenthüre und einem Fenster. Beinahe in der Mitte ein Tisch, worauf ein Messing-Leuchter und eine Rumflasche mit einem Stückchen Licht, ein Punschnapf und einige Gläser, ein altes Schreibzeug und einige Spielkarten. Am Tische ein Bett. Zwei alte Rohrstühle, Hieber, Rappiere, Fecht-Handschuh und einige lange Pfeifen stehen unordentlich umher oder hängen an der Wand. Rechts an der Wand hängt Wahlbachs Mantel und Hut, sein Rock über einen Stuhl.
 ---
+slug: naphtali-erste-liebe-oder-die-erinnerungen-aus-der-kindheit
+author:
+  name: Naphtali, Th.
+title: Erste Liebe oder die Erinnerungen aus der Kindheit
+subtitle: Vaudeville in einem Akt. Aus dem Französischen
+numberOfScenes: 18
+printed: 1837
+formalia:
+  - Prosa
+basedOn:
+  - "Eugéne Scribe: [»Les premières amours, ou Les souvenirs d'enfance. Comédie-vaudeville«](https://books.google.com/books?id=jS3xiHlWZ-oC&printsec=frontcover)"
+editions:
+  - title: "Theater von M. Scribe und dessen Mitarbeitern. In einer Auswahl des Besten. Aus dem Französischen. Zweites Bändchen. Berlin: Kuhr 1837, S. 1–88"
+    url: https://books.google.com/books?id=747do5qG-VIC&pg=PA1
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 77 (April 1838), [Sp. 136](https://books.google.com/books?id=zJkFAAAAQAAJ&pg=RA1-PA135)."
+comments:
+  - 1826 auch von Lichtenstein für die Bühne (Berlin) bearbeitet.
+cast:
+  - name: Herr Derviere.
+    gender: m
+  - name: Emmeline,
+    role: seine Tochter.
+    gender: f
+  - name: Karl,
+    role: ihr Vetter.
+    gender: m
+  - name: Rinville.
+    gender: m
+  - name: Lapierre,
+    role: Dervieres Bedienter.
+    gender: m
+setting: >-
+  Das Stück spielt in der Franche-Comté, im Derviereschen Hause. (Die Bühne stellt einen Saal vor, mit einer Thür im Hintergrunde und zwei Seitenthüren.)
+---
 slug: nesselrode-dirimel-und-laura
 author:
   name: Nesselrode zu Hugenboett, F. G. von
@@ -62168,8 +62920,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Neunter Jahrgang, für 1830. Berlin: Vereinsbuchhandlung 1830, S. 91–130"
     url: https://books.google.com/books?id=ksE6AAAAcAAJ&pg=PA91
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
 keywords:
   - Russland
   - Zar
@@ -62274,8 +63026,8 @@ formalia:
 editions:
   - title: "Dramatische Desserts für das Jahr 1837. Herausgegeben von E. M. Oettinger. Hamburg [1837], S. 127–167"
     url: https://sammlungen.ulb.uni-muenster.de/um/periodical/pageview/1994418
-comments:
-  - "Besprechung in: Repertorium der gesammten deutschen Literatur. Elfter Band. Leipzig: Brockhaus 1837, [S. 372–373](https://books.google.com/books?id=q-8EAAAAQAAJ&pg=PA372)."
+reviews:
+  - "Repertorium der gesammten deutschen Literatur. Elfter Band. Leipzig: Brockhaus 1837, [S. 372–373](https://books.google.com/books?id=q-8EAAAAQAAJ&pg=PA372)."
 cast:
   - name: Emilie von Berg,
     role: eine junge Wittwe.
@@ -62436,6 +63188,51 @@ cast:
     gender: u
 setting: >-
   Die Szene ist ein Zimmer im gräfischen Schloße. (Garderobenzimmer. Mit einer Mittel- und zwei Seiten-Thüren. Auf Tischen, Stühlen und an den Wänden liegen Kleider, Toiletten, Theater-Utensilien, eine Perücke, eine Trommel u.s.w. in buntem Gemische herum.)
+---
+slug: pabst-die-genien-oesterreichs-oder-die-sylvester-nacht
+author:
+  name: Pabst, Gustav
+title: "Die Genien Oesterreichs, oder: Die Sylvester-Nacht"
+subtitle: Allegorisches Gelegenheitsspiel mit Tableaux in Einem Acte
+numberOfScenes: 3
+printed: 1831
+premiered: 1831-12-31
+formalia:
+  - Verse
+editions:
+  - title: "Wien: Stöckholzer von Hirschfeld 1831/32"
+    url: https://books.google.com/books?id=NQlkAAAAcAAJ&printsec=frontcover
+  - title: "Taschenbuch vom k. k. privilegirten Theater in der Leopoldstadt für das Jahr 1833. Herausgegeben von Franz Fitzinger. Zwanzigster Jahrgang. Wien 1833, S. 193–211"
+    url: https://books.google.com/books?id=3zhbg045LJUC&pg=PA193
+comments:
+  - Nach den drei Szenen folgen noch drei Tableaus mit Deklamationen.
+keywords:
+  - allegorische Figuren
+cast:
+  - name: Das alte Jahr.
+    gender: u
+  - name: Das neue Jahr.
+    gender: u
+  - name: Die Treue.
+    gender: u
+  - name: Die Eintracht.
+    gender: u
+  - name: Der Friede.
+    gender: u
+  - name: Das Glück.
+    gender: u
+  - name: Der Ruhm.
+    gender: u
+  - name: Die Tapferkeit.
+    gender: u
+  - name: Florian,
+    role: ein Kohlenbrenner.
+    gender: m
+  - name: Peter,
+    role: sein Vetter.
+    gender: m
+setting: >-
+  Tugendgeister im Tempel der Treue. (Eine waldige Gegend. Es ist Nacht. Im Hintergrunde eine Höhle, deren Eingang mit Gestrippe verwachsen ist. Das alte Jahr, in der Gestalt eines Greises, gestützt auf einen Pilgerstab und in einem aschgrauen Gewande, erscheint von der Seite.)
 ---
 slug: paedodes-casperle-als-freiwerber
 author:
@@ -62802,8 +63599,8 @@ formalia:
 editions:
   - title: "Taschenbuch dramatischer Originalien. Herausgegeben von Dr. Franck. Erster Jahrgang. Leipzig: Brockhaus 1837, S. 227–258"
     url: https://books.google.com/books?id=Iu1kAAAAcAAJ&pg=PA227
-comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Nr. 113 (Junius 1838), [Sp. 301](https://books.google.com/books?id=PClRAAAAYAAJ&pg=RA2-PA301)."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Nr. 113 (Junius 1838), [Sp. 301](https://books.google.com/books?id=PClRAAAAYAAJ&pg=RA2-PA301)."
 cast:
   - name: Der Förster.
     gender: m
@@ -63363,7 +64160,8 @@ comments:
   - Auch unter dem Titel »Incle und Yariko. Trauerspiel« (Wien 1773).
   - Unter dem Titel »Yariko« erschien [1777 (anonym)](anonym-yariko) eine weitere – nicht identische – Bearbeitung des Stoffs.
   - 1807 von Alois Gleis zu einem Singspiel in einem Aufzug bearbeitet.
-  - "Besprechung in: Theaterchronick. Herausgegeben von Christian Heinrich Schmid. Gießen: Krieger 1772, [S. 216–225](https://books.google.com/books?id=otRVAAAAcAAJ&pg=PA216)."
+reviews:
+  - "Theaterchronick. Herausgegeben von Christian Heinrich Schmid. Gießen: Krieger 1772, [S. 216–225](https://books.google.com/books?id=otRVAAAAcAAJ&pg=PA216)."
 keywords:
   - Sklaverei
 cast:
@@ -63679,10 +64477,11 @@ editions:
     url: https://books.google.com/books?id=S0ZXAAAAcAAJ&pg=PA1
 comments:
   - "Frühestes Aufführungsdatum via [Nachricht von der im Jahre 1758. von Herrn Felix Berner errichteten jungen Schauspieler-Gesellschaft. Wien: Jahn 1786, S. 4–5](http://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/1938922)."
-  - "Besprechung in: Bibliothek der schönen Wissenschaften und der freyen Künste. Achten Bandes zweytes Stück. Leipzig: Dyck 1762, [S. 344](https://books.google.com/books?id=eoRdAAAAcAAJ&pg=RA1-PA344)."
   - Vgl. [14. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb014.html)
     der »Hamburgischen Dramaturgie« (Lessing referenziert es als »Der Eremit«).
   - "»It is the most untragic tragedy imaginable.« (Robert R. Heitner: German Tragedy in the Age of Enlightenment. A Study in the Development of Original Tragedies, 1724–1768. Berkeley und Los Angeles 1963, [S. 294](https://books.google.com/books?id=m6FaspyrZe4C&pg=PA294))"
+reviews:
+  - "Bibliothek der schönen Wissenschaften und der freyen Künste. Achten Bandes zweytes Stück. Leipzig: Dyck 1762, [S. 344](https://books.google.com/books?id=eoRdAAAAcAAJ&pg=RA1-PA344)."
 keywords:
   - untragischer Ausgang
 cast:
@@ -64780,7 +65579,9 @@ editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Fünfter Jahrgang, für 1826. Berlin: Vereinsbuchhandlung 1826, S. 243–297"
     url: https://books.google.com/books?id=PcE6AAAAcAAJ&pg=PA243
 comments:
-  - "Wird zur Aufführung auf Privatbühnen empfohlen, vgl. die Besprechung in: Literarisches Conversations-Blatt. Nr. 265, 17. November 1825, [S. 1059](https://books.google.com/books?id=vutHt4bGhHwC&pg=PA1059)."
+  - "Wird zur Aufführung auf Privatbühnen empfohlen, vgl. die Besprechung im Literarischen Conversations-Blatt."
+reviews:
+  - "Literarisches Conversations-Blatt. Nr. 265 (17. November 1825), [S. 1059](https://books.google.com/books?id=vutHt4bGhHwC&pg=PA1059)."
 cast:
   - name: Julie.
     gender: f
@@ -65009,9 +65810,10 @@ editions:
   - title: "Breslau: Schulz 1832"
     url: https://books.google.com/books?id=1dxJAAAAcAAJ&printsec=frontcover
 comments:
-  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 144. Freitag, 24. Mai 1833, [S. 594](https://books.google.com/books?id=pOMaAAAAYAAJ&pg=PA594)."
-  - "Eine »gewissenlos[e]« Kopie von Müllners Vierakter »Die Schuld« und Houwalds Zweiakter »Der Leuchtthurm« (vgl. ebd.)."
+  - "Eine »gewissenlos[e]« Kopie von Müllners Vierakter »Die Schuld« und Houwalds Zweiakter »Der Leuchtthurm« (vgl. die Besprechung in den Blättern für literarische Unterhaltung)."
   - "Fehler im Druck: Nach dem 7. folgt der 9. Auftritt, es sind also insgesamt nur 8 Auftritte."
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 144 (Freitag, 24. Mai 1833), [S. 594](https://books.google.com/books?id=pOMaAAAAYAAJ&pg=PA594)."
 keywords:
   - Schicksalsdrama
   - tragischer Ausgang
@@ -65877,7 +66679,8 @@ editions:
 comments:
   - Laut Vorwort des Autors ein heiterer Gegenentwurf zu Müllners Einakter [»Der neun und zwanzigste Februar«](muellner-der-neun-und-zwanzigste-februar) bzw. der alternativen Version »Der Wahn«.
   - Das Motto vor dem Drama ist ein Auszug aus Kotzebues Einakter [»Der arme Poet«](kotzebue-der-arme-poet).
-  - "Besprechung in: Besondere Beylage zur Wiener-Moden-Zeitung 19. Sonnabend, den 11. May 1816, [S. 188](https://books.google.com/books?id=ScWfNHbfbW4C&hl&pg=PA188)."
+reviews:
+  - "Besondere Beylage zur Wiener-Moden-Zeitung. Nr. 19 (Sonnabend, den 11. May 1816), [S. 188](https://books.google.com/books?id=ScWfNHbfbW4C&hl&pg=PA188)."
 ids:
   dracor: ger000527
   wikidata: Q105605657
@@ -66405,6 +67208,8 @@ editions:
     url: https://books.google.com/books?id=DF5IAAAAcAAJ&printsec=frontcover
 comments:
   - "Einakterhinweis in einem undatierten Manuskript (vgl. Meyer) sowie in der Ankündigung zur Hamburger Aufführung [in der Hamburgischen Theaterzeitung](https://books.google.com/books?id=c5CKmsbkzdgC&pg=PA672); Untertitel im Druck »Ein Schauspiel in zwei Aufzügen« (10 + 7 Szenen)."
+keywords:
+  - mehraktige Varianten
 cast:
   - name: Der Fürst.
     gender: m
@@ -66748,9 +67553,10 @@ editions:
     url: https://books.google.com/books?id=qJ9DAQAAMAAJ&printsec=frontcover
 comments:
   - "Weitere Übersetzung: [Anonym (1808)](anonym-sie-sind-zu-hause)."
-  - "Reinholds Bearbeitung ist einigen Quellen zufolge nach Louis-Benoît Picards Fünfakter [»La noce sans mariage«](https://books.google.com/books?id=2nxLAAAAcAAJ&printsec=frontcover) (vgl. etwa [ADB](https://www.deutsche-biographie.de/sfz49872.html)). Schon die Namensgleichheit der Figuren mit dem Libretto von Désaugiers zeigt aber, dass das nicht zu stimmn scheint."
-  - "Besprechung in der Allgemeinen Literatur-Zeitung, September 1813, Nr. 227, [Sp. 144](https://books.google.com/books?id=VogFAAAAQAAJ&pg=PA143)."
-  - "Theaterzettel zur [Aufführung 1809 in Bremen](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1687934)."
+  - "Reinholds Bearbeitung ist einigen Quellen zufolge nach Louis-Benoît Picards Fünfakter [»La noce sans mariage«](https://books.google.com/books?id=2nxLAAAAcAAJ&printsec=frontcover) (vgl. etwa [ADB](https://www.deutsche-biographie.de/sfz49872.html)). Schon die Namensgleichheit der Figuren mit dem Libretto von Désaugiers zeigt aber, dass das nicht zu stimmen scheint."
+  - "Theaterzettel: [Bremen 1809](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1687934)."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Nr. 227 (September 1813), [Sp. 144](https://books.google.com/books?id=VogFAAAAQAAJ&pg=PA143)."
 cast:
   - name: Valsain,
     role: ein junger Offizier, Geliebter der Madame de Solange.
@@ -67778,8 +68584,8 @@ editions:
     url: https://books.google.com/books?id=j9b0iqt0g-AC&pg=PA41
   - title: "Den Bühnen gegenüber als Manuscript gedruckt. Zweite Auflage. Hamburg: Verlags-Comptoir [ohne Jahr]."
     url: https://books.google.com/books?id=hGt51MOh5fwC&pg=PA1
-comments:
-  - "Besprechung in: Der Sammler. Ein Unterhaltungsblatt für alle Ständen. 38. Jahrgang, No. 14 (24. Jänner 1846), [S. 55](https://books.google.com/books?id=erxaAAAAcAAJ&pg=PA55)."
+reviews:
+  - "Der Sammler. Ein Unterhaltungsblatt für alle Ständen. 38. Jahrgang, No. 14 (24. Jänner 1846), [S. 55](https://books.google.com/books?id=erxaAAAAcAAJ&pg=PA55)."
 cast:
   - name: Mutter Anton.
     gender: f
@@ -67861,8 +68667,8 @@ editions:
     url: https://books.google.com/books?id=0106AAAAcAAJ&pg=RA1-PA1
   - title: "Den Bühnen gegenüber als Manuscript gedruckt. Dritte Auflage. Hamburg: Verlags-Comptoir 1859"
     url: https://books.google.com/books?id=ujFvgBFkQnMC&printsec=frontcover
-comments:
-  - "Besprechung in: Blätter für literarische Unterhaltung. Nr. 350 (Donnerstag, 16. December 1847), [S. 1397](https://books.google.com/books?id=t2sDAAAAYAAJ&pg=PA1397)."
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 350 (Donnerstag, 16. December 1847), [S. 1397](https://books.google.com/books?id=t2sDAAAAYAAJ&pg=PA1397)."
 cast:
   - name: Garrick.
     gender: m
@@ -68270,7 +69076,8 @@ editions:
     url: https://books.google.com/books?id=bYVIAAAAcAAJ&hl&pg=PA53
 comments:
   - "Hinweis nach der Titelseite: »Die Vorrede folgt im zweiten Bändchen.«"
-  - "Besprechung in: Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 63 (1818), [Sp. 119–120](https://books.google.com/books?id=qrp1hDcH0c0C&pg=RA1-PA119)."
+reviews:
+  - "Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 63 (1818), [Sp. 119–120](https://books.google.com/books?id=qrp1hDcH0c0C&pg=RA1-PA119)."
 cast:
   - name: Advokat Gänsekiel.
     gender: m
@@ -68306,7 +69113,8 @@ editions:
     url: https://books.google.com/books?id=bYVIAAAAcAAJ&pg=PA1
 comments:
   - "Hinweis nach der Titelseite: »Die Vorrede folgt im zweiten Bändchen.«"
-  - "Besprechung in: Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 63 (1818), [Sp. 119–120](https://books.google.com/books?id=qrp1hDcH0c0C&pg=RA1-PA119)."
+reviews:
+  - "Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 63 (1818), [Sp. 119–120](https://books.google.com/books?id=qrp1hDcH0c0C&pg=RA1-PA119)."
 cast:
   - name: Oberbürgermeister Dickkopf.
     gender: m
@@ -68364,7 +69172,8 @@ editions:
     url: https://books.google.com/books?id=bYVIAAAAcAAJ&pg=PA105
 comments:
   - "Hinweis nach der Titelseite: »Die Vorrede folgt im zweiten Bändchen.«"
-  - "Besprechung in: Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 63 (1818), [Sp. 119–120](https://books.google.com/books?id=qrp1hDcH0c0C&pg=RA1-PA119)."
+reviews:
+  - "Ergänzungsblätter zur Jenaischen Allgemeinen Literatur-Zeitung. Num. 63 (1818), [Sp. 119–120](https://books.google.com/books?id=qrp1hDcH0c0C&pg=RA1-PA119)."
 keywords:
   - Magnetismus
 cast:
@@ -68417,7 +69226,8 @@ editions:
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA71
 comments:
   - Begleitet von einem [»Vorbericht über das Metrum des folgenden Lustspiels«](https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA73), worin es um das angemessene Metrum für das Lustspiel geht; unter anderem werden Kotzebues Werke erwähnt und Goethes Einakter »Die Mitschuldigen«.
-  - "Besprechung in: Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 379–380](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA379)."
+reviews:
+  - "Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 379–380](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA379)."
 keywords:
   - Eheanbahnung
   - Verstellspiel
@@ -68681,6 +69491,41 @@ cast:
     gender: f
 setting: >-
   Die Scene ist im Wirthshause.
+---
+slug: rochlitz-jedem-das-seine
+author:
+  name: Rochlitz, Friedrich
+  wikidata: Q71502
+title: Jedem das Seine
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 12
+printed: 1803
+premiered: 1800
+formalia:
+  - Prosa
+editions:
+  - title: "Züllichau und Freystadt: Darnmann 1803"
+    url: https://books.google.com/books?id=TMdIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Helm,
+    role: Hauptmann.
+    gender: m
+  - name: Moriz,
+    role: Lieutenant.
+    gender: m
+  - name: Hedwig Meerheim,
+    role: Tante.
+    gender: f
+  - name: Wilhelmine Meerheim,
+    role: Nichte.
+    gender: f
+  - name: Lorchen,
+    role: des Wirths Tochter, 9 bis 10 Jahr.
+    gender: f
+  - name: Aufwärter.
+    gender: m
+setting: >-
+  Die Scene im Hotel.
 ---
 slug: rochlitz-laermen-um-nichts
 author:
@@ -70021,8 +70866,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Vierter Jahrgang, für 1825. Berlin: Vereinsbuchhandlung 1825, S. 271–319"
     url: https://books.google.com/books?id=ppo6AAAAcAAJ&pg=PA271
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 98 (May 1825), [Sp. 304](https://books.google.com/books?id=orVFAAAAcAAJ&pg=RA1-PA303)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 98 (May 1825), [Sp. 304](https://books.google.com/books?id=orVFAAAAcAAJ&pg=RA1-PA303)."
 cast:
   - name: Graf von Kaiserkron,
     role: Justizminister.
@@ -70744,7 +71589,8 @@ editions:
 comments:
   - "Entstehungsdatum laut Tadeusz Krzeszowiak: Freihaustheater in Wien 1787–1801. Wien, Köln, Weimar: Böhlau 2009, [S. 487](https://books.google.com/books?id=KCfiAi64LqgC&pg=PA487)."
   - Datum des Erstdrucks nicht bekannt, bei Meyer findet man nur Titel, Autor und das Datum der Uraufführung.
-  - "Besprechung in: August Lewald's gesammelte Schriften. In einer Auswahl. Fünfter Band. Leipzig: Brockhaus 1844, [S. 151–152](https://books.google.com/books?id=-95iAAAAcAAJ&pg=PA151)."
+reviews:
+  - "August Lewald's gesammelte Schriften. In einer Auswahl. Fünfter Band. Leipzig: Brockhaus 1844, [S. 151–152](https://books.google.com/books?id=-95iAAAAcAAJ&pg=PA151)."
 cast:
   - name: Sebastian Schmalz,
     role: ein Schuhmachermeister.
@@ -70776,6 +71622,42 @@ cast:
       - name: Hansel
         gender: m
     role: Kinder des Schustermeisters.
+---
+slug: schikaneder-das-portrait-des-vaters
+author:
+  name: Schikaneder, Carl Joseph
+  wikidata: Q55127607
+title: Das Portrait des Vaters
+subtitle: Ein theatralisches Gemählde in einem Aufzuge
+numberOfScenes: 12
+printed: 1818
+formalia:
+  - Verse
+editions:
+  - title: "Taschenbuch vom kaiserl. königl. privilegirten Theater in der Leopoldstadt. Fünfter Jahrgang. Wien 1818, S. 33–62"
+    url: https://books.google.com/books?id=gRRaAAAAcAAJ&pg=PA33
+cast:
+  - name: Herr Arnbach.
+    gender: m
+  - name: Frau Arnbach.
+    gender: f
+  - group:
+      - name: Rosine
+        gender: f
+      - name: Nanette
+        gender: f
+    role: ihre Kinder.
+  - name: Anton,
+    role: ein junger Pächter eines kleinen Häuschens.
+    gender: m
+  - name: Herr Hartmund,
+    role: ein Geldmäkler.
+    gender: m
+  - name: Johann,
+    role: sein Diener.
+    gender: m
+setting: >-
+  Zimmer im Schlosse des Hartmund.
 ---
 slug: schikaneder-thespis
 author:
@@ -72391,6 +73273,36 @@ cast:
 setting: >-
   Der Schauplatz ist auf einem freyen Platz, nahe an der Kirchhofmauer, die eine praktikable Thür hat, auf der einen Seite im Winkel steht ausserhalb der Mauer eine große Linde, an deren Fuß ein Grab Hügel ist. Vorne Links stehen zwey schlechte Bauernhütten. Vor der einen einige Bäume unter denen Tisch und Bänke sind.
 ---
+slug: schletzer-liebeswuth
+author:
+  name: Schletzer, Mathias
+title: Liebeswuth
+subtitle: Burleskes Trauerspiel in einem Act. Aus dem Französischen frey übersetzt
+numberOfScenes: 7
+printed: 1824
+formalia:
+  - Alexandriner
+editions:
+  - title: "Taschenbuch des kaiserl. königl. privil. Leopoldstädter Theaters für das Jahr 1824. Herausgegeben von Carl Meisl. Eilfter Jahrgang. Wien: Sollinger 1824, S. 161–176"
+    url: https://books.google.com/books?id=8hRaAAAAcAAJ&pg=PA161
+cast:
+  - name: Brankas,
+    role: Traiteur, Restaurateur.
+    gender: m
+  - name: Zephirine,
+    role: Pefferkuchenkrämerinn.
+    gender: f
+  - name: Furio,
+    role: Stiefelputzer.
+    gender: m
+  - name: Montmort,
+    role: Koch, Vertrauter des Brankas.
+    gender: m
+setting: >-
+  Scene: ein öffentlicher Platz von Paris.
+location:
+  wikidataId: Q90
+---
 slug: schlosser-das-missverstaendnis
 author:
   name: Schlosser, Johann Ludwig
@@ -72487,7 +73399,8 @@ editions:
     url: https://sammlungen.ulb.uni-muenster.de/um/periodical/pageview/1994460
 comments:
   - "Vorlage: Johann Wolfgang Goethes Singspiel [»Scherz, List und Rache«](https://books.google.com/books?id=g7ICKXE76f0C&printsec=frontcover)."
-  - "Besprechung in: Repertorium der gesammten deutschen Literatur. Elfter Band. Leipzig: Brockhaus 1837, [S. 373](https://books.google.com/books?id=q-8EAAAAQAAJ&pg=PA373)."
+reviews:
+  - "Repertorium der gesammten deutschen Literatur. Elfter Band. Leipzig: Brockhaus 1837, [S. 373](https://books.google.com/books?id=q-8EAAAAQAAJ&pg=PA373)."
 cast:
   - name: Lothschlag,
     role: ein Quacksalber.
@@ -72809,8 +73722,8 @@ basedOn:
 editions:
   - title: "Leipzig: Rein 1804"
     url: https://books.google.com/books?id=2oxHAAAAcAAJ&pg=PA3
-comments:
-  - "Besprechung in: Intelligenzblatt der Allgem. Literatur-Zeitung. Num. 8 (Sonnabends den 12ten Januar 1805), [Sp. 64](https://books.google.com/books?id=J4QFAAAAQAAJ&pg=PA63). In dieser Besprechung wird das Stück für Privattheater empfohlen."
+reviews:
+  - "Intelligenzblatt der Allgem. Literatur-Zeitung. Num. 8 (Sonnabends den 12ten Januar 1805), [Sp. 64](https://books.google.com/books?id=J4QFAAAAQAAJ&pg=PA63). In dieser Besprechung wird das Stück für Privattheater empfohlen."
 cast:
   - name: Mariane.
     gender: f
@@ -72960,6 +73873,8 @@ editions:
     url: https://books.google.com/books?id=n-QXAAAAYAAJ&pg=RA1-PA89
 comments:
   - Hierbei handelt sich um eine Bühnenbearbeitung von [Kleists Einakter](kleist-der-zerbrochne-krug) (1808), der etwas gekürzt und dessen Ende etwas bearbeitet wurde, um es, wie [im Vorwort](https://books.google.com/books?id=n-QXAAAAYAAJ&pg=PP9) erläutert, »für die Bühne zu gewinnen«. Kleists Einakter wurde mehrfach für die Bühne bearbeitet (u.a. von Goethe als Dreiakter für die Uraufführung in Weimar 1808).
+keywords:
+  - mehraktige Varianten
 cast:
   - name: Walter,
     role: Gerichtsrath.
@@ -74421,8 +75336,8 @@ formalia:
 editions:
   - title: "Heidelberg: Engelmann 1814"
     url: https://books.google.com/books?id=fmpkAAAAcAAJ&printsec=frontcover
-comments:
-  - "Besprechung in: Deutsche Blätter, No. 186 (20. September 1814), [S. 184](https://books.google.com/books?id=XvlFAAAAcAAJ&pg=PA184)."
+reviews:
+  - "Deutsche Blätter, No. 186 (20. September 1814), [S. 184](https://books.google.com/books?id=XvlFAAAAcAAJ&pg=PA184)."
 cast:
   - name: Marbod.
     role: Heerführer der Markmannen.
@@ -74554,7 +75469,8 @@ editions:
     url: https://books.google.com/books?id=6XMyAQAAMAAJ&pg=PP5
 comments:
   - "Ausführliche Analyse des Einakters in: Johannes Birgfeld: Medienrevolution und gesellschaftlicher Wandel. Das Unterhaltungstheater als Reflexionsmedium von Modernisierungsprozessen. In: Das Unterhaltungsstück um 1800. Literaturhistorische Konfigurationen – Signaturen der Moderne. Zur Geschichte des Theaters als Reflexionsmedium von Gesellschaft, Politik und Ästhetik. Hrsg. von Johannes Birgfeld und Claude D. Conter. [Laatzen]: Wehrhahn 2007, S. 81–117."
-  - "Sehr kurze Besprechung in: Allgemeine deutsche Bibliothek. Des neun und neunzigsten Bandes erstes Stück. Berlin und Stettin: Nicolai 1791, [S. 123](https://books.google.com/books?id=KSiC4e1Aze4C&pg=PA123)."
+reviews:
+  - "Allgemeine deutsche Bibliothek. Des neun und neunzigsten Bandes erstes Stück. Berlin und Stettin: Nicolai 1791, [S. 123](https://books.google.com/books?id=KSiC4e1Aze4C&pg=PA123)."
 keywords:
   - Judentum
 cast:
@@ -75135,8 +76051,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von Carl v. Holtei. Zehnter Jahrgang, für 1831. Berlin: Vereins-Buchhandlung 1831, S. 1–62"
     url: https://books.google.com/books?id=ocE6AAAAcAAJ&pg=PA1
-comments:
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253–254](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 152 (August 1831), [Sp. 253–254](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
 cast:
   - name: Hofrath Rosenring,
     role: ein berühmter Dichter.
@@ -75389,6 +76305,7 @@ comments:
 keywords:
   - Sklaverei
   - Christensklaven
+  - mehraktige Varianten
 cast:
   - name: Hassan,
     role: ein Türk und Einwohner von Smyrna.
@@ -75831,8 +76748,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zwölfter Jahrgang. Zwölfter Jahrgang, für 1833. Berlin: Vereins-Buchhandlung 1833, S. 99–131"
     url: https://books.google.com/books?id=H5s6AAAAcAAJ&pg=PA99
-comments:
-  - "Besprechung in: Allgemeine Theaterzeitung und Originalblatt für Kunst, Literatur und geselliges Leben. Herausgeber und Redakteur: Adolf Bäuerle. Nr. 147 (Donnerstag den 9. Dezember 1830), [S. 602](https://books.google.com/books?id=7m4-AQAAMAAJ&pg=PA602)."
+reviews:
+  - "Allgemeine Theaterzeitung und Originalblatt für Kunst, Literatur und geselliges Leben. Herausgeber und Redakteur: Adolf Bäuerle. Nr. 147 (Donnerstag den 9. Dezember 1830), [S. 602](https://books.google.com/books?id=7m4-AQAAMAAJ&pg=PA602)."
 cast:
   - name: Leonhard,
     role: plastischer Künstler.
@@ -75983,7 +76900,8 @@ editions:
     url: https://books.google.com/books?id=xHpSUNoKyBwC&pg=PA289
 comments:
   - Erstdruck posthum 1824, genaues Entstehungsdatum bisher nicht ermittelt, terminus ante quem ist 1813, Sessas Todesjahr.
-  - "Besprechung in: Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 380](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA380)."
+reviews:
+  - "Literatur-Blatt, Nr. 95 (Freitag den 26. November 1824), [S. 380](https://books.google.com/books?id=r-6QYkQym3gC&pg=PA380)."
 keywords:
   - Eheanbahnung
   - Verkleidungsspiel
@@ -76279,9 +77197,9 @@ basedOn:
 editions:
   - title: "Leipzig: Rein 1802"
     url: https://books.google.com/books?id=lW0yAQAAMAAJ&printsec=frontcover
-comments:
-  - "Besprechung in: Englische Miscellen. Eilfter Band. Herausgegeben von Johann Christian Hüttner. Tübingen: Cotta 1803, [unpag.](https://books.google.com/books?id=ZQxP2Ztx4IUC&pg=PT10)"
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung. Num. 71 (den 23 März 1804), [Sp. 566–567](https://books.google.com/books?id=KctaAAAAcAAJ&pg=PA565)."
+reviews:
+  - "Englische Miscellen. Eilfter Band. Herausgegeben von Johann Christian Hüttner. Tübingen: Cotta 1803, [unpag.](https://books.google.com/books?id=ZQxP2Ztx4IUC&pg=PT10)"
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 71 (den 23 März 1804), [Sp. 566–567](https://books.google.com/books?id=KctaAAAAcAAJ&pg=PA565)."
 cast:
   - name: Graf von Erlach.
     gender: m
@@ -76543,7 +77461,8 @@ comments:
   - In jüdischer Mundart verfasst.
   - "Nach Julius von Voß: »Böse Beispiele verderben gute Sitten. Jüdischer Schwank, als Sprüchwortspiel behandelt«, in: [Fünf und zwanzig dramatische Spiele. Nach deutschen Sprüchwörtern. Berlin: Schüppel 1822, S. 363–371](https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PA363)."
   - "Expliziter Hinweis auf Einaktigkeit auf dem Deckblatt der Ausgabe 1865."
-  - "Besprechung in: Abend-Zeitung. Nr. 123 (Dienstag, am 24. Mai 1825), [S. 492](https://books.google.com/books?id=rEJEAAAAcAAJ&pg=RA1-PA492)."
+reviews:
+  - "Abend-Zeitung. Nr. 123 (Dienstag, am 24. Mai 1825), [S. 492](https://books.google.com/books?id=rEJEAAAAcAAJ&pg=RA1-PA492)."
 keywords:
   - Judentum
 cast:
@@ -76577,8 +77496,8 @@ editions:
 ids:
   wikidata: Q105525766
   dracor: ger000526
-comments:
-  - "Besprechung in: Literarisches Wochenblatt von August v. Kotzebue, 3r Band, No. 7 (Januar 1819), [S. 50](https://books.google.com/books?id=37JFAAAAcAAJ&pg=PA50)."
+reviews:
+  - "Literarisches Wochenblatt von August v. Kotzebue. 3r Band, No. 7 (Januar 1819), [S. 50](https://books.google.com/books?id=37JFAAAAcAAJ&pg=PA50)."
 cast:
   - name: Der Dorfschulmeister.
     gender: m
@@ -76620,8 +77539,9 @@ editions:
 comments:
   - "Seitenstück zu Karl Borromäus Alexander Sessa: [»Unser Verkehr. Eine Posse in einem Akte«](sessa-unser-verkehr)."
   - "Die auf der Titelseite angegebene erste Deklamation des Stücks am 25.12.1811 steht eventuell im Widerspruch zum Erscheinungsdatum des Vorlagenstücks »Unser Verkehr« (Erstdruck 1813); vielleicht war Solbrig der Inhalt anderweitig bekannt oder die Datumsangabe ist fehlerhaft."
-  - "Besprechung in: Jenaische Allgemeine Literatur-Zeitung, Num. 177 (September 1819), [Sp. 454](https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00188532/JALZ_1819_Bd3_0228.tif): »eine grobe Versündigung gegen alle ästhetischen, politischen und moralischen Grundsätze«."
-  - "Besprechung in: Literarisches Wochenblatt von August v. Kotzebue, 3r Band, No. 7 (Januar 1819), [S. 50](https://books.google.com/books?id=37JFAAAAcAAJ&pg=PA50): »alles das ist so mit gemeinem Schimpfen verbrämt, daß es selbst Juden-Feinde anekeln muß«."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung, Num. 177 (September 1819), [Sp. 454](https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00188532/JALZ_1819_Bd3_0228.tif): »eine grobe Versündigung gegen alle ästhetischen, politischen und moralischen Grundsätze«."
+  - "Literarisches Wochenblatt von August v. Kotzebue, 3r Band, No. 7 (Januar 1819), [S. 50](https://books.google.com/books?id=37JFAAAAcAAJ&pg=PA50): »alles das ist so mit gemeinem Schimpfen verbrämt, daß es selbst Juden-Feinde anekeln muß«."
 keywords:
   - Judentum
   - Geld
@@ -76795,7 +77715,8 @@ editions:
     url: https://books.google.com/books?id=NsNHAAAAcAAJ&pg=PA1
 comments:
   - "Laut Vorwort »ein Versuch, die Antike zu behandeln« ([S. VI](https://books.google.com/books?id=NsNHAAAAcAAJ&pg=PR6))."
-  - "Besprechung in: Leipziger Literatur-Zeitung. Nr. 326 (29. des December 1824), [Sp. 2601–2603](https://books.google.com/books?id=dRYbBuD8_2oC&pg=PA2601)."
+reviews:
+  - "Leipziger Literatur-Zeitung. Nr. 326 (29. des December 1824), [Sp. 2601–2603](https://books.google.com/books?id=dRYbBuD8_2oC&pg=PA2601)."
 cast:
   - name: Aëdon,
     role: verwitwete Königin von Theben.
@@ -76834,9 +77755,10 @@ editions:
   - title: "Dramatische Gedichte, von Dr. Karl Sondershausen. Zweites Bändchen. Altenburg: Literatur-Comptoir 1823, S. 141–238"
     url: https://books.google.com/books?id=NsNHAAAAcAAJ&pg=PA141
 comments:
-  - "Besprechung in: Leipziger Literatur-Zeitung. Nr. 326 (29. des December 1824), [Sp. 2605–2606](https://books.google.com/books?id=dRYbBuD8_2oC&pg=PA2605)."
   - "Laut Vorwort ([S. VIII](https://books.google.com/books?id=NsNHAAAAcAAJ&pg=PR8)) inspiriert von der Erzählung »Die Macht der Tonkunst«, nach der französischen Vorlage von Nodier, abgedruckt im Morgenblatt [Nro. 169 (1819)](https://mdz-nbn-resolving.de/view:bsb10531679_00073_u001); davor auch bereits im Morgenblatt [Nro. 181 (1809)](https://books.google.com/books?id=iA6EDdf5OU0C&pg=PA722)."
-  - "[Theaterzettel Weimar 11. Dezember 1820](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00037693/004602.tif) (Uraufführung)"
+  - "Theaterzettel: [Weimar 11. Dezember 1820](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00037693/004602.tif) (Uraufführung)."
+reviews:
+  - "Leipziger Literatur-Zeitung. Nr. 326 (29. des December 1824), [Sp. 2605–2606](https://books.google.com/books?id=dRYbBuD8_2oC&pg=PA2605)."
 cast:
   - name: Educations-Rath Schall.
     gender: m
@@ -77312,6 +78234,7 @@ setting: >-
 slug: spengel-die-diaet-oder-mit-woelfen-muss-man-heulen
 author:
   name: Spengel, Heinrich Ludwig
+  wikidata: Q108353267
 title: Die Diät oder mit Wölfen muß man heulen
 subtitle: Ein Lustspiel in einem Aufzuge, frei aus dem Französischen übersetzt
 numberOfScenes: 16
@@ -77345,6 +78268,42 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht bei Herrn Mattenfeld in einem Saale vor.
+---
+slug: spengel-ein-schelmenstreich
+author:
+  name: Spengel, Heinrich Ludwig
+  wikidata: Q108353267
+title: Ein Schelmenstreich (Le fripon orgireilleux.)
+subtitle: Ein Lustspiel in einem Aufzuge, (aus dem Französischen frei übersetzt)
+numberOfScenes: 14
+printed: 1813
+formalia:
+  - Prosa
+basedOn:
+  - "Carmontelle: [»Le fripon orgueilleux. Quatre-vingt-onzieme proverbe«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CARMONTELLE_FRIPONORGUEILLEUX.xml)"
+editions:
+  - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Sechster Band. Augsburg und Leipzig: Stage [1813], S. 1–34"
+    url: https://books.google.com/books?id=lS47AAAAcAAJ&pg=PA1
+cast:
+  - name: Graf von Sternheim,
+    role: Minister.
+    gender: m
+  - name: Baronesse Schönthal,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Baron von Walbrecht,
+    role: der Vater.
+    gender: m
+  - name: Baron Wilhelm,
+    role: sein Sohn.
+    gender: m
+  - name: Finanzrath Fels.
+    gender: m
+  - name: Louis,
+    role: Bedienter der Baronesse.
+    gender: m
+setting: >-
+  Die Handlung geht bei der Baronesse Schönthal in einem Saale vor.
 ---
 slug: spiess-der-schauspieler-von-stettin
 author:
@@ -77838,8 +78797,8 @@ formalia:
 editions:
   - title: "Lustspiele von Freyherrn von Steigentesch. Zweyter Theil. Wien und Triest: Geistinger 1809, S. 291–352"
     url: https://books.google.com/books?id=3L1RAAAAcAAJ&pg=PA291
-comments:
-  - "Besprechung in: Zeitung für die elegante Welt. Nr. 44 (Freitags, den 3. März 1809), [Sp. 351–352](https://books.google.com/books?id=K4lEAAAAcAAJ&pg=PA351)."
+reviews:
+  - "Zeitung für die elegante Welt. Nr. 44 (Freitags, den 3. März 1809), [Sp. 351–352](https://books.google.com/books?id=K4lEAAAAcAAJ&pg=PA351)."
 cast:
   - name: Elise.
     gender: f
@@ -78085,6 +79044,50 @@ setting: >-
   Ort der Handlung: Leipzig. Zeit: Jahr 1773. (Die Scene ist ein kleines, ärmliches Dachstübchen.)
 location:
   wikidataId: Q2079
+---
+slug: stein-die-zurueckkunft-des-fuersten
+author:
+  name: Stein, Karl
+  wikidata: Q55193372
+title: Die Zurückkunft des Fürsten
+subtitle: Lustspiel in einem Act
+numberOfScenes: 13
+printed: 1805
+premiered: 1805-03-18
+formalia:
+  - Prosa
+editions:
+  - title: "Historisch-romantische Gemälde in dramatischer Form. Posen und Leipzig: Kühn 1805"
+comments:
+  - "Theaterzettel: [Weimar 1805](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00046527/002449.tif)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 196 (den 20. August, 1806), [Sp. 343](https://books.google.com/books?id=MsxaAAAAcAAJ&pg=PA343)."
+cast:
+  - name: Herr von Werneck,
+    role: Gutsbesitzer.
+    gender: m
+  - group:
+      - name: Louise
+        gender: f
+      - name: Fritz,
+        role: 10 Jahr alt
+        gender: m
+    role: seine Kinder.
+  - name: Rittmeister von Ehrau.
+    gender: m
+  - name: Unteroffizier Berger.
+    gender: m
+  - name: Evchen,
+    role: Louisens Kammermädchen.
+    gender: f
+  - group:
+      - name: Peter
+        gender: m
+      - name: Michel
+        gender: m
+    role: Bediente des Herrn von Werneck.
+setting: >-
+  Der Ort der Handlung ist das Gut des Herrn von Werneck, nahe bei der Residenz, an der Landstraße.
 ---
 slug: stein-garrick
 author:
@@ -78666,6 +79669,85 @@ cast:
   - name: Ein Jäger.
     gender: m
 setting: Ein großes Vorzimmer.
+---
+slug: stern-die-luftschifferinn
+author:
+  name: Stern, Johann Moritz
+  wikidata: Q108429833
+title: Die Luftschifferinn
+subtitle: Dramatische Kleinigkeit in einem Aufzuge
+numberOfScenes: 9
+printed: 1823
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch des kaiserl. königl. privil. Leopoldstädter Theaters für das Jahr 1823. Herausgegeben von Carl Meisl. Zehnter Jahrgang. Wien: Sollinger 1823, S. 129–150"
+    url: https://books.google.com/books?id=S2F1BDUmmmoC&pg=PA129
+cast:
+  - name: Baron Höring.
+    gender: m
+  - name: Plunder,
+    role: Haushofmeister.
+    gender: m
+  - group:
+    - name: Georg,
+      role: dessen Sohn
+      gender: m
+    - name: Konrad und Andre
+      isGroup: true
+      gender: u
+    role: Bediente des Barons.
+  - name: Linda.
+    gender: f
+setting: >-
+  Die Handlung geht auf dem Landgute des Barons vor, zwey Meilen von der Residenz, dauert ungefähr eine Stunde. (Ein Garten mit Perspective, links gegen den Hintergrund zu eine Laube. – Im Vordergrund ist Georg beschäftigt, auf eine Warnungstafel zu schreiben.)
+---
+slug: stern-itzigs-liebschaft
+author:
+  name: Holzschuher, Heinrich
+  pseudonym: Itzig Feitel Stern
+  wikidata: Q1385498
+title: Itzigs Liebschaft
+subtitle: Lustspiel in einem Act
+numberOfScenes: 22
+printed: 1827
+formalia:
+  - Prosa
+editions:
+  - title: "Augsburg: [Kranzfelder] 1827"
+    url: https://books.google.com/books?id=-BpZAAAAcAAJ&printsec=frontcover
+comments:
+  - "Die Autorschaft hinter dem Pseudonym ›Itzig Feitel Stern‹ ist umstritten, vgl. den [Wikipedia-Artikel zu Heinrich Holzschuher](https://de.wikipedia.org/wiki/Heinrich_Holzschuher)."
+keywords:
+  - Judentum
+  - Antisemitismus
+cast:
+  - name: Johann,
+    role: ein Schäfflermeister.
+    gender: m
+  - name: Dorothea,
+    role: sein Weib.
+    gender: f
+  - name: Schmul Rindskopf.
+    gender: m
+  - name: Rebecka,
+    role: seine Frau.
+    gender: f
+  - name: Itzig,
+    role: deren Sohn.
+    gender: m
+  - name: Meyerle,
+    role: deren Knecht.
+    gender: m
+  - name: David Löw Drachenfels,
+    role: ein jüdischer Schöngeist.
+    gender: m
+  - name: Frommele.
+    gender: m
+  - name: Herschle.
+    gender: m
+setting: >-
+  Die Handlung ist vom I. bis VII. Auftritt in Johannes Zimmer, vom VIII. bis XX. vor Johannes Hause auf der Strasse, und vom XXI. bis zum Schluß in Schmul Rindskopfs Wohnung.
 ---
 slug: stoll-amors-bild
 author:
@@ -80310,7 +81392,8 @@ editions:
     url: https://books.google.com/books?id=X9pbAAAAcAAJ&pg=PA217
 comments:
   - 1873 mit dem Untertitel »Schwank in einem Aufzuge«.
-  - "Besprechung in: Deutsche Jahrbücher für Wissenschaft und Kunst. No. 7 (10. Januar 1842), [S. 28](https://books.google.com/books?id=j0RbAAAAcAAJ&pg=PA28)."
+reviews:
+  - "Deutsche Jahrbücher für Wissenschaft und Kunst. No. 7 (10. Januar 1842), [S. 28](https://books.google.com/books?id=j0RbAAAAcAAJ&pg=PA28)."
 cast:
   - name: Der König.
     gender: m
@@ -80365,7 +81448,8 @@ editions:
     url: https://books.google.com/books?id=G9pbAAAAcAAJ&pg=PA225
 comments:
   - "Zunächst 1833 als Zweiakter (1. Akt: 7 Auftritte; 2. Akt: 12 Auftritte; Personen wie im Einakter); erst ab 1873 als Einakter gedruckt."
-  - "Besprechung in: Der Sammler. Nr. 46 (Dinstag, den 16. April 1839), [S. 184](https://books.google.com/books?id=xbtaAAAAcAAJ&pg=PA184)."
+reviews:
+  - "Der Sammler. Nr. 46 (Dinstag, den 16. April 1839), [S. 184](https://books.google.com/books?id=xbtaAAAAcAAJ&pg=PA184)."
 keywords:
   - mehraktige Varianten
 cast:
@@ -81338,6 +82422,8 @@ editions:
     url: https://books.google.com/books?id=JJJTAAAAcAAJ&pg=PA259
 comments:
   - Auch aufgeführt als »Lust-Spiel In drey Aufzügen mit Arien und Tänzen« (1770).
+keywords:
+  - mehraktige Varianten
 cast:
   - name: Der Gouverneur, über die Wilden.
     gender: m
@@ -82222,8 +83308,8 @@ formalia:
 editions:
   - title: "Kleine Dramatische Spiele für stehende Bühnen und Privat-Theater von Wilhelm Vogel, ehemaliger Hofschauspiel-Direktor in Karlsruhe. Aarau: Sauerländer 1818, S. 103–174"
     url: https://books.google.com/books?id=OC9EAQAAMAAJ&pg=PA103
-comments:
-  - "Kurze Besprechung in: Leipziger Literatur-Zeitung. Nr. 131 (Am 27. des May 1819), [Sp. 1043](https://books.google.com/books?id=Pd5aAAAAcAAJ&pg=PA1043)."
+reviews:
+  - "Leipziger Literatur-Zeitung. Nr. 131 (Am 27. des May 1819), [Sp. 1043](https://books.google.com/books?id=Pd5aAAAAcAAJ&pg=PA1043)."
 cast:
   - name: General Moreau.
     gender: m
@@ -82564,8 +83650,8 @@ formalia:
 editions:
   - title: "Theaterpossen nach dem Leben von Julius Voß und Adolph von Schaden. Erster Band. Neue vermehrte Ausgabe. Berlin: Petri 1821, S. 119–156"
     url: https://books.google.com/books?id=OatIAAAAcAAJ&pg=PA119
-comments:
-  - "Besprechung in: Leipziger Literatur-Zeitung. 284 (Am 15. des November 1819), [Sp. 2267](https://books.google.com/books?id=GQIbAAAAYAAJ&pg=PA2267)."
+reviews:
+  - "Leipziger Literatur-Zeitung. 284 (Am 15. des November 1819), [Sp. 2267](https://books.google.com/books?id=GQIbAAAAYAAJ&pg=PA2267)."
 cast:
   - name: Herr D. Streicher,
     role: magnetischer Arzt.
@@ -82605,8 +83691,8 @@ formalia:
 editions:
   - title: "Berlin: Schöne 1805"
     url: https://books.google.com/books?id=8Uab99ID-G8C&printsec=frontcover
-comments:
-  - "Besprechung in: Neue Leipziger Literaturzeitung. 78. Stück (den 18. Junius 1806), [Sp. 1248](https://books.google.com/books?id=6MMzAQAAMAAJ&pg=RA1-PA1247)."
+reviews:
+  - "Neue Leipziger Literaturzeitung. 78. Stück (den 18. Junius 1806), [Sp. 1248](https://books.google.com/books?id=6MMzAQAAMAAJ&pg=RA1-PA1247)."
 cast:
   - name: Bankier Frank.
     gender: m
@@ -82883,8 +83969,8 @@ formalia:
 editions:
   - title: "Farcen der Zeit von Julius Voß. Berlin: Weiß 1808"
     url: https://books.google.com/books?id=AJvE2grPsrgC&pg=RA3-PA1
-comments:
-  - "Besprechung in: Allgemeine Literatur-Zeitung. Num. 205 (Dienstags, den 31. Julius 1810), [Sp. 693–694](https://books.google.com/books?id=4CBRAAAAYAAJ&pg=RA1-PA693)."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Num. 205 (Dienstags, den 31. Julius 1810), [Sp. 693–694](https://books.google.com/books?id=4CBRAAAAYAAJ&pg=RA1-PA693)."
 cast:
   - name: Herr Weitsorge,
     role: ein reicher Gutbesitzer.
@@ -83074,7 +84160,9 @@ editions:
     url: https://books.google.com/books?id=OatIAAAAcAAJ&pg=PA1
 comments:
   - "Meisls Original [»Die Damenhüte im Theater«](meisl-die-damenhuete-im-theater) im Wiener Dialekt."
-  - "Besprechung in: Leipziger Literatur-Zeitung. 284 (Am 15. des November 1819), [Sp. 2267](https://books.google.com/books?id=GQIbAAAAYAAJ&pg=PA2267)."
+  - "Analyse in: Masayasu Iwai: Julius von Voß' Posse *Die Damenhüte im Berliner Theater* als ein Beispiel der Adaptionspraxis um 1800. In: Annie Bourguignon, Konrad Harrer, Franz Hintereder-Emde (Hg.): Zwischen Kanon und Unterhaltung. Interkulturelle und intermediale Aspekte von hoher und niederer Literatur. Berlin: Frank & Timme 2016, [S. 223–235](https://books.google.com/books?id=jEe1CwAAQBAJ&pg=PA223)."
+reviews:
+  - "Leipziger Literatur-Zeitung. 284 (Am 15. des November 1819), [Sp. 2267](https://books.google.com/books?id=GQIbAAAAYAAJ&pg=PA2267)."
 cast:
   - name: Herr Walter,
     role: ein bemittelter Privatmann, sonst Wirth einer Ausspannung.
@@ -84709,6 +85797,8 @@ comments:
   - "Deutscher Einakterhinweis im Untertitel erst 1783; Untertitel der Erstausgabe 1775 lautete nur »eine Familien-Scene«."
   - "Vorlage: »Eine Anekdote aus dem Leben Montesqiueus, aus Journalen bekannt.« (Meyer)"
   - 1777 auch »in drey Aufzügen« publiziert.
+keywords:
+  - mehraktige Varianten
 cast:
   - name: Karl Robert,
     role: Vater.
@@ -88505,6 +89595,8 @@ editions:
     url: https://books.google.com/books?id=HI1NAAAAcAAJ&pg=PA145
 comments:
   - Ursprünglich als Dreiakter geplant.
+keywords:
+  - mehraktige Varianten
 cast:
   - name: Die Cabale.
     gender: f
@@ -88710,7 +89802,8 @@ editions:
     url: https://books.google.com/books?id=-FJlAAAAcAAJ&pg=PA233
 comments:
   - "»(Zuerst aufgeführt auf dem Hof-Theater zu Braunschweig, unter Leitung des verstorbenen General-Directors Dr. Klingemann).«"
-  - "Besprechung in: Repertorium der gesammten deutschen Literatur. Sechster Band. Leipzig: Brockhaus 1835, [S. 481](https://books.google.com/books?id=MtRGAAAAcAAJ&pg=PA481)."
+reviews:
+  - "Repertorium der gesammten deutschen Literatur. Sechster Band. Leipzig: Brockhaus 1835, [S. 481](https://books.google.com/books?id=MtRGAAAAcAAJ&pg=PA481)."
 keywords:
   - Selbstmord
   - Rache
@@ -88858,8 +89951,8 @@ editions:
   - title: "Theater zum Gebrauch junger Standespersonen weiblichen Geschlechts. 2. Theil. 1780, S. 47–72"
   - title: "Der Frau Gräfinn von Genlis Erziehungstheater für junge Frauenzimmer. Aus dem Französischen. Zweyter Band. Leipzig: Crusius 1780, S. 85–128"
     url: https://books.google.com/books?id=PJxmAAAAcAAJ&pg=PA85
-comments:
-  - "Besprechung in: Magazin der neuern französischen Litteratur. Herausgegeben von Wilhelm Gottlieb Becker. Erster Band. Sechstes Stück. Leipzig: Breitkopf 1780, [S. 561](https://books.google.com/books?id=E81LAAAAcAAJ&pg=PA561)."
+reviews:
+  - "Magazin der neuern französischen Litteratur. Herausgegeben von Wilhelm Gottlieb Becker. Erster Band. Sechstes Stück. Leipzig: Breitkopf 1780, [S. 561](https://books.google.com/books?id=E81LAAAAcAAJ&pg=PA561)."
 cast:
   - name: Cecilie,
     role: eine angehende Nonne.
@@ -89007,7 +90100,8 @@ ids:
   weber: A021277
 comments:
   - "Auch unter dem Titel »Pflicht um Pflicht, oder: Die großmüthigen Freunde« ([Theaterzettel Weimar](https://staatsarchive.thulb.uni-jena.de/receive/ThHStAW_archivesource_00021656))."
-  - "Besprechung in: Abend-Zeitung. Nr. 301 (Freitag, am 18. December, 1818), [unpag.](https://books.google.com/books?id=A0P1xXk9QqEC&pg=RA46-PT1)"
+reviews:
+  - "Abend-Zeitung. Nr. 301 (Freitag, am 18. December, 1818), [unpag.](https://books.google.com/books?id=A0P1xXk9QqEC&pg=RA46-PT1)"
 keywords:
   - Ritterstück
   - Sklaverei
