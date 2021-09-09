@@ -15035,8 +15035,9 @@ editions:
   - title: "Winterabende. Eine Sammlung dramatischer Beyträge für leichte Unterhaltung und Darstellung bestimmt. Dritter Theil. Bamberg und Würzburg: Goebhardt 1822, S. 259–311"
     url: https://books.google.com/books?id=L4tIAAAAcAAJ&pg=RA2-PA259
 comments:
-  - "Besprechung der Dresdner Aufführung vom 2. April 1818 in: Carl-Maria-von-Weber-Gesamtausgabe. Digitale Edition. [http://weber-gesamtausgabe.de/A030252](http://weber-gesamtausgabe.de/A030252)."
   - "Weitere Übersetzung: [Blum 1817](blum-der-schiffs-capitain-oder-die-unbefangenen)."
+ids:
+  weber: A021142
 cast:
   - name: von Walborn.
     gender: m
@@ -15981,8 +15982,9 @@ basedOn:
 editions:
   - title: "Familientheater nach neuen französischen Lieblingsstücken. Erstes Bändchen. Leipzig: Göschen 1808, S. 125–195"
     url: https://books.google.com/books?id=lJ4-AAAAYAAJ&pg=RA1-PA125
-comments:
-  - "Besprechungen in: [Zeitung für die elegante Welt. Nr. 89 (3. Juni 1808), Sp. 711](https://books.google.com/books?id=94hEAAAAcAAJ&pg=PA711), und [Morgenblatt für gebildete Stände. Nro. 254 (22. Oktober 1808), S. 1013](https://books.google.com/books?id=P6YcAQAAMAAJ&pg=PA1013)."
+reviews:
+  - "Zeitung für die elegante Welt. Nr. 89 (3. Juni 1808), [Sp. 711](https://books.google.com/books?id=94hEAAAAcAAJ&pg=PA711)."
+  - "Morgenblatt für gebildete Stände. Nro. 254 (22. Oktober 1808), [S. 1013](https://books.google.com/books?id=P6YcAQAAMAAJ&pg=PA1013)."
 keywords:
   - Eheanbahnung
 cast:
@@ -35179,7 +35181,7 @@ title: Der Beruf
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 15
 printed: 1805
-premiered: 1807
+premiered: 1806-09-22
 formalia:
   - Prosa
 editions:
@@ -35187,6 +35189,8 @@ editions:
     url: https://books.google.com/books?id=TZgyAQAAMAAJ&printsec=frontcover
 comments:
   - Auch unter dem Titel »Der Beruf zur Kunst«.
+ids:
+  weber: A020818
 cast:
   - name: Held.
     gender: m
@@ -39974,7 +39978,9 @@ editions:
     url: https://books.google.com/books?id=EyU7AAAAcAAJ&pg=PA129
 comments:
   - "Nach Gellerts [»Die Wittwe. Ein Mährchen«](https://de.wikisource.org/wiki/Die_Wittwe), das den Stoff der Matrone von Ephesus behandelt."
-  - "Besprechungen in: Heidelberger Jahrbücher der Literatur. Nro. 78 (1821), [S. 1235](https://books.google.com/books?id=FaNNAAAAcAAJ&pg=PA1235), und Zeitung für die elegante Welt, Nr. 240 (7. December 1821), [Sp. 1918](https://books.google.com/books?id=8oBHAAAAYAAJ&pg=PA1917)."
+reviews:
+  - "Heidelberger Jahrbücher der Literatur. Nro. 78 (1821), [S. 1235](https://books.google.com/books?id=FaNNAAAAcAAJ&pg=PA1235)."
+  - "Zeitung für die elegante Welt. Nr. 240 (7. December 1821), [Sp. 1918](https://books.google.com/books?id=8oBHAAAAYAAJ&pg=PA1917)."
 keywords:
   - Parodie
 cast:
@@ -41433,6 +41439,8 @@ comments:
   - "Vorlage zur Vertonung von [Leo Blech (1902)](https://de.wikipedia.org/wiki/Das_war_ich!)."
 reviews:
   - "Didaskalia oder Blätter für Geist, Gemüth und Publizität. Nro. 353 (Montag, 19. Dezember 1825), [ohne Pag.](https://books.google.com/books?id=YVFEAAAAcAAJ&pg=RA40-PA3)"
+ids:
+  weber: A021179
 cast:
   - name: Der Pächter.
     gender: m
@@ -43813,6 +43821,8 @@ editions:
     url: https://books.google.com/books?id=KtIzZ7ptdugC&pg=PA329
 comments:
   - "Untertitel im [Inhaltsverzeichnis](https://books.google.com/books?id=KtIzZ7ptdugC&pg=PP15): »Dramatisches Idyll in Einem Akt«"
+ids:
+  weber: A020999
 cast:
   - name: Röschen,
     role: Landmädchen.
@@ -44851,8 +44861,9 @@ editions:
   - title: "F. A. von Kurländers dramatischer Almanach für das Jahr 1839. Fortgesetzt von C. W. Koch. Neun und zwanzigster Jahrgang. Leipzig: Baumgärtner 1839, S. 161–217"
     url: https://books.google.com/books?id=LDFJAAAAcAAJ&pg=PA161
 comments:
-  - "Kurzbesprechung in [Repertorium der gesammten deutschen Literatur. Neunzehnter Band. Leipzig: Brockhaus 1839, S. 79](https://books.google.com/books?id=3I0CAAAAYAAJ&pg=PA79)."
   - Aufführung [Hamburg 9. August 1841](https://www.stadttheater.uni-hamburg.de/node/26623).
+reviews:
+  - "Repertorium der gesammten deutschen Literatur. Neunzehnter Band. Leipzig: Brockhaus 1839, [S. 79](https://books.google.com/books?id=3I0CAAAAYAAJ&pg=PA79)."
 cast:
   - name: Baron v. Felsenthal,
     role: Vormund.
@@ -44886,8 +44897,8 @@ formalia:
 editions:
   - title: "F. A. von Kurländers dramatischer Almanach für das Jahr 1839. Fortgesetzt von C. W. Koch. Neun und zwanzigster Jahrgang. Leipzig: Baumgärtner 1839, S. 281–336"
     url: https://books.google.com/books?id=LDFJAAAAcAAJ&pg=PA281
-comments:
-  - "Kurzbesprechung in [Repertorium der gesammten deutschen Literatur. Neunzehnter Band. Leipzig: Brockhaus 1839, S. 79](https://books.google.com/books?id=3I0CAAAAYAAJ&pg=PA79)."
+reviews:
+  - "Repertorium der gesammten deutschen Literatur. Neunzehnter Band. Leipzig: Brockhaus 1839, [S. 79](https://books.google.com/books?id=3I0CAAAAYAAJ&pg=PA79)."
 cast:
   - name: Weber,
     role: Gutsbesitzer.
@@ -46652,6 +46663,8 @@ keywords:
   - Flucht
   - Heimkehr-Motiv
   - Rührstück
+ids:
+  weber: A021245
 cast:
   - name: Dom Fernando de Oliva.
     gender: m
@@ -57047,7 +57060,9 @@ editions:
     url: https://books.google.com/books?id=H5s6AAAAcAAJ&pg=PA177
 comments:
   - Parodie auf Müllners Schicksalsdrama »Die Schuld«.
-  - "Besprechungen in: Jenaische Allgemeine Literatur-Zeitung. Num. 4 (Januar 1834), [Sp. 32](https://books.google.com/books?id=1RRIAQAAMAAJ&pg=PA31), und Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26. December 1834), [S. 521–522](https://books.google.com/books?id=ugUbAAAAYAAJ&pg=PA521)."
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 4 (Januar 1834), [Sp. 32](https://books.google.com/books?id=1RRIAQAAMAAJ&pg=PA31)."
+  - "Literatur-Blatt. Redigirt von Dr. Wolfgang Menzel. No. 131 (Freitag, 26. December 1834), [S. 521–522](https://books.google.com/books?id=ugUbAAAAYAAJ&pg=PA521)."
 keywords:
   - Schicksalsdrama
   - Parodie
@@ -61942,6 +61957,8 @@ editions:
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10104570_00307.html
   - title: "Müllner's Dramatische Werke. Siebenter Theil. Braunschweig: Vieweg 1828, S. 105–164"
     url: https://books.google.com/books?id=yEQJAQAAMAAJ&pg=RA1-PA105
+ids:
+  weber: A021258
 cast:
   - name: Fritz.
     gender: m
@@ -76913,7 +76930,8 @@ editions:
     url: https://books.google.com/books?id=ppo6AAAAcAAJ&pg=PA129
 comments:
   - Erstdruck posthum 1825, genaues Entstehungsdatum bisher nicht ermittelt, terminus ante quem ist 1813, Sessas Todesjahr.
-  - "Kurzbesprechung in [Leipziger Literatur-Zeitung für das Jahr 1825. Erstes Halbjahr. No. 137 (7. Juni 1825). Leipzig: Breitkopf und Härtel 1825, S. 1091](https://books.google.com/books?id=cV8gAQAAMAAJ&pg=PA1091)."
+reviews:
+  - "Leipziger Literatur-Zeitung für das Jahr 1825. Erstes Halbjahr. No. 137 (7. Juni 1825). Leipzig: Breitkopf und Härtel 1825, [S. 1091](https://books.google.com/books?id=cV8gAQAAMAAJ&pg=PA1091)."
 cast:
   - name: Frau Hedwig,
     role: eine Bauerswittwe.
@@ -78635,8 +78653,8 @@ editions:
     url: https://books.google.com/books?id=7mJlAAAAcAAJ&pg=RA3-PA1
   - title: "Lustspiele von Freyherrn von Steigentesch. Wien und Triest: Geistinger 1808, S. 1–52"
     url: https://books.google.com/books?id=aURhAAAAcAAJ&pg=PA1
-comments:
-  - "Besprechung der Wiener Aufführung in: Kritisches Journal der K. K. Hof- und priv. Vorstadttheater. Ersten Bandes erstes Heft 1799, [S. 32–37](https://books.google.com/books?id=90w_gkLCMJgC&pg=RA1-PA32)."
+reviews:
+  - "Kritisches Journal der K. K. Hof- und priv. Vorstadttheater. Ersten Bandes erstes Heft 1799, [S. 32–37](https://books.google.com/books?id=90w_gkLCMJgC&pg=RA1-PA32)."
 cast:
   - name: Anton Waller.
     gender: m
@@ -82787,8 +82805,8 @@ editions:
     url: https://books.google.com/books?id=BmdIAQAAMAAJ&pg=PA1
 ids:
   weber: A021506
-comments:
-  - "Aufführungsbesprechung in: Abend-Zeitung. Nr. 35 (Mittwoch, am 11. Februar, 1818), [unpag.](https://books.google.com/books?id=C59TAAAAcAAJ&pg=PP154)"
+reviews:
+  - "Abend-Zeitung. Nr. 35 (Mittwoch, am 11. Februar, 1818), [unpag.](https://books.google.com/books?id=C59TAAAAcAAJ&pg=PP154)"
 cast:
   - name: Oberförster Wolf.
     gender: m
@@ -84294,8 +84312,10 @@ editions:
   - title: "Julius von Voß Lustspiele. Erster Band. Berlin: Schmidt 1807"
     url: https://books.google.com/books?id=JREzAQAAMAAJ&pg=RA3-PA1
 comments:
-  - "Besprechungen in: Jenaische Allgemeine Literatur-Zeitung. Num. 114 (den 16 May, 1808), [Sp. 300–301](https://books.google.com/books?id=vXNIAQAAMAAJ&pg=PA299), und Allgemeine Literatur-Zeitung. Num. 311 (Mittwochs, den 15. November 1809), [Sp. 584](https://books.google.com/books?id=hSBRAAAAYAAJ&pg=PA583)."
   - "[Hinweis](https://books.google.com/books?id=JREzAQAAMAAJ&pg=RA3-PA5) unter dem Personenverzeichnis: »Die deutschen Bühnen werden bestens ersucht, dies Stück nicht zu geben.«"
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 114 (den 16 May, 1808), [Sp. 300–301](https://books.google.com/books?id=vXNIAQAAMAAJ&pg=PA299)."
+  - "Allgemeine Literatur-Zeitung. Num. 311 (Mittwochs, den 15. November 1809), [Sp. 584](https://books.google.com/books?id=hSBRAAAAYAAJ&pg=PA583)."
 keywords:
   - untragischer Ausgang
 cast:
@@ -90036,10 +90056,11 @@ editions:
     url: https://books.google.com/books?id=BmdIAQAAMAAJ&pg=PA33
 comments:
   - "Untertitel der Hamburger Auführung 1821: »Parodie des Stückes gleiches Namens, in einem Aufzuge«."
-  - "Besprechungen via Weber-Gesamtausgabe: [A020954](http://weber-gesamtausgabe.de/A020954)."
 keywords:
   - Tiere
   - Parodie
+ids:
+  weber: A020954
 cast:
   - name: Madam Walter,
     role: eine Schauspielerin.
