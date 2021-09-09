@@ -9,7 +9,7 @@ import {Play} from '../types';
 import data from '../data.json';
 
 function formatAuthor (_: string, play: Play) {
-  return <Authors authors={play.authors || []}/>;
+  return <Authors authors={play.authors || []} withLink/>;
 }
 
 function formatTitle (_: string, play: Play) {

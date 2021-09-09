@@ -4,9 +4,10 @@ import {Author} from '../types';
 
 interface Props {
   authors: Author[]
+  withLink?: boolean
 };
 
-const Authors = ({authors}: Props) => {
+const Authors = ({authors, withLink}: Props) => {
   return (
     <>
       {authors.map((author, i) => (
@@ -14,7 +15,7 @@ const Authors = ({authors}: Props) => {
           {i > 0 && ' · '}
           {author.name}
           {author.pseudonym && (<i> ({author.pseudonym})</i>)}
-          {author.wikidata && (
+          {(withLink && author.wikidata) && (
             <small>
               {' '}
               <IdLink id={author.wikidata} type="wikidata"/>
