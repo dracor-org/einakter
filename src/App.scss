@@ -71,8 +71,10 @@ td ul:last-child, td p:last-child {
 .author-info-container {
   display: flex;
   gap: 1em;
-  justify-content: flex-end;
   margin: 1em 0;
+  @media (min-width: 768px) {
+    justify-content: flex-end;
+  }
 }
 
 .author-info {
