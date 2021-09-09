@@ -1,9 +1,10 @@
 import React, {useEffect, useContext} from 'react';
 import {useLocation, useParams} from "react-router-dom";
-import {Table} from 'react-bootstrap';
+import {Table, Row, Col} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
+import AuthorInfo from './AuthorInfo';
 import Dictionaries from './Dictionaries';
 import Years from './Years';
 import IdLink from './IdLink';
@@ -51,13 +52,28 @@ export default function Details () {
 
   return (
     <div className="details">
-      <hgroup>
-        <h2>
-          <Authors authors={authors}/>
-        </h2>
-        <h1>{title}</h1>
-        {subtitle && <h3>{subtitle}</h3>}
-      </hgroup>
+      <Row>
+        <Col>
+          <hgroup>
+            <h2>
+              <Authors authors={authors}/>
+            </h2>
+            <h1>{title}</h1>
+            {subtitle && <h3>{subtitle}</h3>}
+          </hgroup>
+        </Col>
+        <Col>
+          <div className="author-info-container">
+            {authors.filter(a => Boolean(a.wikidata)).map(a => (
+              <AuthorInfo
+                key={a.wikidata}
+                fullname={a.name || ''}
+                wikidataId={a.wikidata || ''}
+              />
+            ))}
+          </div>
+        </Col>
+      </Row>
       <Table>
         <tbody>
           {comments && (
