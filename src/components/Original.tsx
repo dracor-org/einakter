@@ -3,7 +3,7 @@ import {Link, useParams} from "react-router-dom";
 import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
-import {OriginalPlay, Author} from '../types';
+import {OriginalPlay} from '../types';
 
 function getYear(ref: OriginalPlay) {
   const years = [];
