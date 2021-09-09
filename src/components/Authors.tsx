@@ -21,7 +21,6 @@ const Authors = ({authors, withLink}: Props) => {
               <IdLink id={author.wikidata} type="wikidata"/>
             </small>
           )}
-          {' '}
         </span>
       ))}
     </>

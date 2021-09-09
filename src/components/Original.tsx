@@ -1,5 +1,6 @@
 import React, {useContext} from 'react';
 import {Link, useParams} from "react-router-dom";
+import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
 import {OriginalPlay, Author} from '../types';
@@ -97,15 +98,11 @@ const Original = ({data}: Props) => {
             {others.map((play) => (
               <li key={play.slug}>
                 <Link to={`/${play.slug}`}>
-                  {play.authors.length > 0 && play.authors.map(
-                    (a: Author, i: number) => (
-                      <span key={a.name}>
-                        {i > 0 && ' · '}
-                        {a.name}
-                      </span>
-                    )
+                  {play.authors.length > 0 && (
+                    <>
+                      <Authors authors={play.authors}/>{': '}
+                    </>
                   )}
-                  {play.authors.length > 0 && ': '}
                   {play.title}
                   {play.subtitle && `. ${play.subtitle}`}
                   {play.normalizedYear && ` (${play.normalizedYear})`}
