@@ -87,6 +87,43 @@ printed: 1724
 premiered: 1724-05-02
 fulltextUrl: http://holbergsskrifter.dk/holberg-public/view?docId=skuespill%2FDet_Arabiske_Pulver%2FDet_Arabiske_Pulver.page;toc.depth=1;brand=&chunk.id=start
 ---
+id: klicpera-veselohra-na-moste
+author:
+  name: Václav Kliment Klicpera
+  wikidata: Q1970213
+title: Veselohra na mostě
+subtitle: Fraška v jednom jednání
+language: cze
+created: 1826
+printed: 1828
+fulltextUrl: http://kramerius5.nkp.cz/uuid/uuid:7b966bd0-fcb2-11e2-9439-005056825209
+---
+id: moliere-la-comtesse-d-escarbagnas
+author:
+  name: Molière
+  wikidata: Q687
+title: La comtesse d'Escarbagnas
+subtitle: Comédie
+language: fre
+premiered: 1671-12-02
+fulltextUrl: https://books.google.com/books?id=E6liAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000998
+  wikidata: Q3207682
+---
+id: moliere-le-bourgeois-gentilhomme
+author:
+  name: Molière
+  wikidata: Q687
+title: Le bourgeois gentilhomme
+subtitle: Comédie-ballet
+language: fre
+premiered: 1670-10-14
+fulltextUrl: https://books.google.com/books?id=yZ1pAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000997
+  wikidata: Q1054372
+---
 id: moliere-le-sicilien-ou-l-amour-peintre
 author:
   name: Molière
@@ -169,6 +206,16 @@ fulltextUrl: http://www.theatre-classique.fr/pages/programmes/edition.php?t=../d
 ids:
   dracor: fre001324
 ---
+id: shishkov-blagodeyanii-priobretayut-serdtsa
+author:
+  name: Александр Семёнович Шишков
+  wikidata: Q2522179
+title: Благодеянии приобретают сердца
+subtitle: Драма в одном действии
+language: rus
+printed: 1770
+fulltextUrl: https://kp.rusneb.ru/item/material/5fcf8bab991f3b9142343501
+---
 id: scribe-de-courcy-saintine-les-eaux-du-mont-d-or
 authors:
   - name: Eugène Scribe
@@ -220,3 +267,15 @@ premiered: 1820-02-10
 fulltextUrl: https://books.google.com/books?id=XSrkiK5Ypk4C&printsec=frontcover
 ids:
   wikidata: Q107000378
+---
+id: scribe-varner-theobald-ou-le-retour-de-russie
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Antoine-François Varner
+    wikidata: Q2853471
+title: Théobald, ou Le retour de Russie
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1829-02-12
+fulltextUrl: https://books.google.com/books?id=WRddAAAAcAAJ&printsec=frontcover
