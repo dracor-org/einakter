@@ -64,7 +64,8 @@ const Original = ({data}: Props) => {
       {fulltextUrl ? (
         <a href={fulltextUrl} title="Full text">
          {title}
-         {subtitle && `. ${subtitle}`}
+         {(subtitle && !title.match(/[.!?]\s*$/)) && '.'}
+         {subtitle && ` ${subtitle}`}
         </a>
       ) : (
         <span>
@@ -104,7 +105,8 @@ const Original = ({data}: Props) => {
                     </>
                   )}
                   {play.title}
-                  {play.subtitle && `. ${play.subtitle}`}
+                  {(play.subtitle && !play.title.match(/[.!?]\s*$/)) && '.'}
+                  {play.subtitle && ` ${play.subtitle}`}
                   {play.normalizedYear && ` (${play.normalizedYear})`}
                 </Link>
               </li>
