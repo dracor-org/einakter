@@ -2664,14 +2664,14 @@ printed: 1755
 formalia:
   - Prosa
 basedOn:
-  - "Florent Carton dit Dancourt: [»Colin-Maillard. Comédie«](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DANCOURT_COLIN-MAILLARD.xml)"
+  - dancourt-colin-maillard
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 17, S. 349–350
 editions:
   - title: "Danzig 1755. Ms."
 comments:
-  - Weitere Übersetzungen 1760 (Ekhof) und [1778 (Romanus)](romanus-die-blinde-kuh).
+  - "Meyer: »[…] durchweg hochdeutsch. Vgl. dazu die Fassung von [Ekhof, 1760](https://books.google.com/books?id=ffcq2hDpTeIC&printsec=frontcover) (mit niederdeutschen Passagen).«"
 keywords:
   - Eheanbahnung
   - Geld
@@ -3409,14 +3409,12 @@ printed: 1745
 formalia:
   - Prosa
 basedOn:
-  - "Germain François Poullain de Saint-Foix: [»L'Oracle. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAINT-FOIX_ORACLE.xml)"
+  - saint-foix-l-oracle
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 13, S. 57
 editions:
   - title: "Hamburg: Nottebohm 1745"
-comments:
-  - Weitere Übersetzungen [1750](schlegel-das-orakel) (Schlegel) und [1752](anonym-das-orakel-1752) (anonym).
 cast:
   - name: Die Oberzauberin.
     gender: f
@@ -3437,14 +3435,12 @@ printed: 1752
 formalia:
   - Prosa
 basedOn:
-  - "Germain François Poullain de Saint-Foix: [»L'Oracle. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAINT-FOIX_ORACLE.xml)"
+  - saint-foix-l-oracle
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 15, S. 431
 editions:
   - title: "Schönemann: Schaubühne. 5. Theil. Braunschweig und Leipzig 1752 (?)"
-comments:
-  - Weitere Übersetzungen [1745](anonym-das-orakel-1745) (anonym) und [1750](schlegel-das-orakel) (Schlegel).
 cast:
   - name: Souveraine,
     role: eine Zauberin.
@@ -7624,13 +7620,12 @@ premiered: 1779-11-30
 formalia:
   - Prosa
 basedOn:
-  - "Sébastien-Roch Nicolas de Chamfort: [»La jeune indienne. Comédie en un acte et en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CHAMFORT_LAJEUNEINDIENNE.xml)"
+  - chamfort-la-jeune-indienne
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 196
 comments:
   - Manuskript zu einer Mannheimer Aufführung.
-  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1766 (Walz)](walz-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn) und [1818 (Vogel)](vogel-die-junge-indianerin).
 keywords:
   - Sklaverei
 cast:
@@ -7662,13 +7657,12 @@ created: 1768
 formalia:
   - Prosa
 basedOn:
-  - "Sébastien-Roch Nicolas de Chamfort: [»La jeune indienne. Comédie en un acte et en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CHAMFORT_LAJEUNEINDIENNE.xml)"
+  - chamfort-la-jeune-indienne
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 22, S. 441
 comments:
   - Nur als Manuskript.
-  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1766 (Walz)](walz-die-junge-indianerin), [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin) und [1818 (Vogel)](vogel-die-junge-indianerin).
 keywords:
   - Sklaverei
 cast:
@@ -8510,15 +8504,13 @@ premiered: 1781-11-10
 formalia:
   - Prosa
 basedOn:
-  - "Marc-Antoine LeGrand: [»Le triomphe du temps. Divertissement comique«](https://books.google.com/books?id=2E9aAAAAcAAJ&printsec=frontcover)"
+  - legrand-le-triomphe-du-temps-passe
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 38
 editions:
   - title: "Wien 1781"
     url: https://books.google.com/books?id=9eWGxd0EfOwC&printsec=frontcover
-comments:
-  - "Weitere Übersetzungen: [»Der Sieg der vergangenen Zeit« (1746, Schlegel)](schlegel-der-sieg-der-vergangenen-zeit), [»Die schöne Rosette« (1780, Gärtner)](gaertner-die-schoene-rosette)."
   - Auch unter dem Titel »Nannette im Eichenthale« aufgeführt (Graz 1791).
 cast:
   - name: Franz Tettler,
@@ -11279,12 +11271,12 @@ premiered: 1759-02-26
 formalia:
   - Prosa
 basedOn:
-  - "Barthélemy-Christophe Fagan: [»La pupille. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/FAGAN_PUPILLE.xml)"
+  - fagan-la-pupille
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 198
 comments:
-  - Weitere Übersetzungen 1746 unter dem Titel [»Das Mündel. Ein Nachspiel aus dem Französischen des Herrn Fagan«](https://books.google.com/books?id=ESNeAAAAcAAJ&pg=PA187) und [1766 (Romanus)](romanus-das-muendel).
+  - "Textgrundlage evtl. identisch mit der gedruckten Version [1746 (anonym)](anonym-das-muendel), trotz des leicht anderen Titels »Das Mündel«."
 cast:
   - name: Arist.
     gender: m
@@ -29015,15 +29007,13 @@ premiered: 1780-04-03
 formalia:
   - Prosa
 basedOn:
-  - "Marc-Antoine LeGrand: [»Le triomphe du temps. Divertissement comique«](https://books.google.com/books?id=2E9aAAAAcAAJ&printsec=frontcover)"
+  - legrand-le-triomphe-du-temps-passe
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 233 und S. 393
 editions:
   - title: "Leipzig: Dyk 1782"
     url: https://books.google.com/books?id=fm5UAAAAcAAJ&printsec=frontcover
-comments:
-  - "Weitere Übersetzungen: [»Der Sieg der vergangenen Zeit« (1746, Schlegel)](schlegel-der-sieg-der-vergangenen-zeit), [»Die schöne Nanette« (1781, anonym)](anonym-die-schoene-nanette)."
 cast:
   - name: Kleon,
     role: Franzens Vater, ein alter Liebhaber der Frau Schaal.
@@ -47650,7 +47640,7 @@ premiered: 1794-05-28
 formalia:
   - Prosa
 basedOn:
-  - "Barthélemy-Christophe Fagan: [»La pupille. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/FAGAN_PUPILLE.xml)"
+  - fagan-la-pupille
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 33, S. 417–418
@@ -61594,7 +61584,7 @@ printed: 1781
 formalia:
   - Prosa
 basedOn:
-  - "Karl von Müller-Friedberg: [»La prise de Sainte Lucie. Drame en un acte«](https://books.google.com/books?id=V7vSxwEACAAJ&printsec=frontcover)"
+  - mueller-friedberg-la-prise-de-sainte-lucie
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 114–115
@@ -61603,7 +61593,6 @@ editions:
     url: https://books.google.com/books?id=j746AAAAcAAJ&printsec=frontcover
 comments:
   - Auch unter dem Titel »Die Eroberung von Sant Lucia, […] in einer Abhandlung« (Theaterzettel).
-  - "Weitere Übersetzungen: [»Die Eroberung von St. Lucie«](schmidt-die-eroberung-von-st-lucie) (1781, Schmidt) und [»Blanford und Charlotte oder die Eroberung von St. Lucie«](valentini-blanford-und-charlotte-oder-die-eroberung-von-st-lucie) (1782, Valentini)."
 cast:
   - name: Ludwig Blanford,
     role: ein Franzose, der sich zu St. Lucia haushäblich niedergelassen.
@@ -64677,15 +64666,13 @@ printed: 1766
 formalia:
   - Prosa
 basedOn:
-  - "Sébastien-Roch Nicolas de Chamfort: [»La jeune indienne. Comédie en un acte et en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CHAMFORT_LAJEUNEINDIENNE.xml)"
+  - chamfort-la-jeune-indienne
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 22, S. 119–120
 editions:
   - title: "Theatralische Belustigungen. Nach Französischen Mustern. Zwote Sammlung. Frankfurt und Leipzig: Garbe 1766, S. 95–134"
     url: https://books.google.com/books?id=ekbR2ZqA0K0C&pg=PA95
-comments:
-  - Weitere Übersetzungen [1766 (Walz)](walz-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn), [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin) und [1818 (Vogel)](vogel-die-junge-indianerin).
 keywords:
   - Sklaverei
 cast:
@@ -67607,13 +67594,11 @@ premiered: 1759-07-27
 formalia:
   - Alexandriner
 basedOn:
-  - "Germain François Poullain de Saint-Foix: [»L'Oracle. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAINT-FOIX_ORACLE.xml)"
-  - "Christian Fürchtegott Gellert: »Das Orakel«"
+  - saint-foix-l-oracle
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 272
 comments:
-  - Saint-Foix' Einakter wurde bereits [1745](anonym-das-orakel-1745) und [1752](anonym-das-orakel-1752) (beide anonym) sowie [1750](schlegel-das-orakel) (von Schlegel) übersetzt.
   - Nicht identisch mit »Das Orakel. Festspiel in einem Aufzuge, und in Versen; zur Feyer der Geburt Sr. Königlichen Hoheit des Erbprinzen« (1816).
 cast:
   - name: Die Ober-Zauberin.
@@ -69856,31 +69841,31 @@ cast:
 setting: >-
   Zimmer im Hause des Konferenzraths. An beiden Seiten sind zwey Kabinetthüren.
 ---
-slug: romanus-das-muendel
+slug: anonym-das-muendel
 author:
-  name: Romanus, Karl Franz
-  wikidata: Q84561647
+  name: Anonym
 title: Das Mündel
 subtitle: Ein Lustspiel von einer Handlung, aus dem Französischen des Herrn Fagan
 numberOfScenes: 21
-printed: 1766
-premiered: 1769
+printed: 1746
 formalia:
   - Prosa
 basedOn:
-  - "Barthélemy-Christophe Fagan: [»La pupille. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/FAGAN_PUPILLE.xml)"
+  - fagan-la-pupille
 dictionaries:
   - name: bibliographia
-    pages: 2. Abteilung, Band 22, S. 128–129
+    pages: 2. Abteilung, Band 13, S. 226, und Band 22, S. 128–129
 editions:
+  - title: "Sammlung einiger Schriften zum Zeitvertreibe des Geschmacks. Erster Band, drittes Stück. Leipzig: Weidmann 1746, S. 187–233"
+    url: https://books.google.com/books?id=ESNeAAAAcAAJ&pg=PA187
   - title: "Wien: Krauß 1767"
     url: https://books.google.com/books?id=H9ZUAAAAcAAJ&printsec=frontcover
   - title: "Gesammelte Schriften zum Vergnügen und Unterricht. Zweytes Stück. Wien: Trattner 1769, S. 3–55"
     url: https://books.google.com/books?id=SlxlAAAAcAAJ&pg=PA3
 comments:
-  - Weitere Übersetzungen 1746 unter dem Titel [»Das Mündel. Ein Nachspiel aus dem Französischen des Herrn Fagan«](https://books.google.com/books?id=ESNeAAAAcAAJ&pg=PA187) und [1759 (anonym)](anonym-la-pupille-die-muendel).
+  - "Die Version [1759 (anonym)](anonym-la-pupille-die-muendel) mit dem leicht anderen Titel »Die Mündel« könnte identisch mit dieser sein."
   - Hinweis auf Einaktigkeit (»von einer Handlung«) erst im Druck 1767.
-  - Meyer hält die Zuschreibung der Überetzung für nicht gesichert.
+  - Meyer (Band 22, S. 129) kritisiert zurecht die Vermutung, dass Karl Franz Romanus (geb. 1731) der Übersetzer sei.
 cast:
   - name: Arist.
     gender: m
@@ -70010,15 +69995,13 @@ premiered: 1779-09-26
 formalia:
   - Prosa
 basedOn:
-  - "Florent Carton dit Dancourt: [»Colin-Maillard. Comédie«](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DANCOURT_COLIN-MAILLARD.xml)"
+  - dancourt-colin-maillard
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 146
 editions:
   - title: "[Ohne Ort: ohne Verlag] 1778"
     url: https://books.google.com/books?id=GxlYAAAAcAAJ&printsec=frontcover
-comments:
-  - Weitere Übersetzung [1755 (anonym)](anonym-colin-maillard-die-blinde-kuh).
 keywords:
   - Eheanbahnung
   - Geld
@@ -72348,15 +72331,13 @@ premiered: 1752-07-18
 formalia:
   - Prosa
 basedOn:
-  - "Germain François Poullain de Saint-Foix: [»L'Oracle. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAINT-FOIX_ORACLE.xml)"
+  - saint-foix-l-oracle
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 15, S. 84
 editions:
   - title: "Des Herrn von Saintfoix Theatralische Werke. Aus dem Französischen übersetzt. Erster Theil. Leipzig: Wendler 1750, S. 1–24"
     url: https://books.google.com/books?id=3YxNAAAAcAAJ&pg=PA1
-comments:
-  - Weitere Übersetzungen [1745](anonym-das-orakel-1745) und [1752](anonym-das-orakel-1752) (beide anonym).
 cast:
   - name: Die Feye,
     role: Souveraine.
@@ -72418,7 +72399,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Marc-Antoine LeGrand: [»Le triomphe du temps. Divertissement comique«](https://books.google.com/books?id=2E9aAAAAcAAJ&printsec=frontcover)"
+  - legrand-le-triomphe-du-temps-passe
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 13, S. 308, und Band 16, S. 335–336
@@ -72426,7 +72407,6 @@ editions:
   - title: "[Das Buch ohne Titel.] [Hamburg] 1746"
 comments:
   - Auch unter dem Titel »Der Triumph der vergangenen Zeit. Lustspiel in einem Aufzug und in Prosa. Aus dem Französischen des Le Grand« (1753).
-  - "Weitere Übersetzungen: [»Die schöne Rosette« (1780, Gärtner)](gaertner-die-schoene-rosette), [»Die schöne Nanette« (1781, anonym)](anonym-die-schoene-nanette)."
   - Vgl. [5. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb005.html)
     der »Hamburgischen Dramaturgie«.
 cast:
@@ -73925,15 +73905,13 @@ premiered: 1781-08-25
 formalia:
   - Prosa
 basedOn:
-  - "Karl von Müller-Friedberg: [»La prise de Sainte Lucie. Drame en un acte«](https://books.google.com/books?id=V7vSxwEACAAJ&printsec=frontcover)"
+  - mueller-friedberg-la-prise-de-sainte-lucie
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 135
 editions:
   - title: "Wien 1781"
     url: https://books.google.com/books?id=4M5UAAAAcAAJ&printsec=frontcover
-comments:
-  - "Weitere Übersetzungen: [»Die Eroberung von Sant Lucia«](mueller-friedberg-die-eroberung-von-sant-lucia) (1781, Müller-Friedberg) und [»Blanford und Charlotte oder die Eroberung von St. Lucie«](valentini-blanford-und-charlotte-oder-die-eroberung-von-st-lucie) (1782, Valentini)."
 cast:
   - name: Ludwig Blanford,
     role: Franzose, zu St. Lucie satzhaft.
@@ -82683,15 +82661,13 @@ printed: 1782
 formalia:
   - Prosa
 basedOn:
-  - "Karl von Müller-Friedberg: [»La prise de Sainte Lucie. Drame en un acte«](https://books.google.com/books?id=V7vSxwEACAAJ&printsec=frontcover)"
+  - mueller-friedberg-la-prise-de-sainte-lucie
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 325
 editions:
   - title: "Offenbach am Main: Weiß und Brede 1782"
     url: https://books.google.com/books?id=CVtZAAAAcAAJ&printsec=frontcover
-comments:
-  - "Weitere Übersetzungen: [»Die Eroberung von Sant Lucia«](mueller-friedberg-die-eroberung-von-sant-lucia) (1781, Müller-Friedberg) und [»Die Eroberung von St. Lucie«](schmidt-die-eroberung-von-st-lucie) (1781, Schmidt)."
 cast:
   - name: Ludwig Blanford,
     role: ein französischer Kaufmann zu St. Lucie.
@@ -83136,12 +83112,10 @@ printed: 1818
 formalia:
   - Alexandriner
 basedOn:
-  - "Sébastien-Roch Nicolas de Chamfort: [»La jeune indienne. Comédie en un acte et en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CHAMFORT_LAJEUNEINDIENNE.xml)"
+  - chamfort-la-jeune-indienne
 editions:
   - title: "Kleine Dramatische Spiele für stehende Bühnen und Privat-Theater von Wilhelm Vogel, ehemaliger Hofschauspiel-Direktor in Karlsruhe. Aarau: Sauerländer 1818, S. 53–102"
     url: https://books.google.com/books?id=OC9EAQAAMAAJ&pg=PA53
-comments:
-  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1766 (Walz)](walz-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn) und [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin).
 keywords:
   - Sklaverei
 cast:
@@ -86083,15 +86057,13 @@ premiered: 1767-12-01
 formalia:
   - Prosa
 basedOn:
-  - "Sébastien-Roch Nicolas de Chamfort: [»La jeune indienne. Comédie en un acte et en vers«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CHAMFORT_LAJEUNEINDIENNE.xml)"
+  - chamfort-la-jeune-indienne
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 22, S. 145–146
 editions:
   - title: "Sammlung einiger französischer Lustspiele für das deutsche Theater. Bremen: Cramer 1766"
     url: https://books.google.com/books?id=itZUAAAAcAAJ&pg=PA1
-comments:
-  - Weitere Übersetzungen [1766 (Pfeffel)](pfeffel-die-junge-indianerin), [1768 (anonym, Manuskript)](anonym-die-junge-indianerinn), [1779 (anonym, Manuskript zu einer Mannheimer Aufführung)](anonym-die-junge-indianerin) und [1818 (Vogel)](vogel-die-junge-indianerin).
 keywords:
   - Sklaverei
 cast:

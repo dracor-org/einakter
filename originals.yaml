@@ -21,6 +21,31 @@ printed: 1615
 ids:
   wikidata: Q5966386
 ---
+id: chamfort-la-jeune-indienne
+author:
+  name: Sébastien-Roch Nicolas de Chamfort
+  wikidata: Q347891
+title: La jeune indienne
+subtitle: Comédie en un acte et en vers
+language: fre
+premiered: 1764-04-30
+fulltextUrl: https://books.google.com/books?id=ojns9Zbmfr4C&printsec=frontcover
+ids:
+  dracor: fre000288
+  wikidata: Q19184054
+---
+id: dancourt-colin-maillard
+author:
+  name: Florent Carton dit Dancourt
+  wikidata: Q2437020
+title: Colin-Maillard
+subtitle: Comédie
+language: fre
+premiered: 1701-10-28
+fulltextUrl: https://books.google.com/books?id=madXAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000433
+---
 id: d-artois-d-artois-des-perroquets-de-la-mere-philippe
 authors:
   - name: Achille d'Artois
@@ -66,6 +91,18 @@ printed: 1741
 premiered: 1741-10
 fulltextUrl: https://books.google.com/books?id=cfBPqmW2gYYC&printsec=frontcover
 ---
+id: fagan-la-pupille
+author:
+  name: Barthélemy-Christophe Fagan
+  wikidata: Q2885943
+title: La pupille
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1734-06-05
+fulltextUrl: https://books.google.com/books?id=toMUAAAAQAAJ&printsec=frontcover
+ids:
+  dracor: fre000613
+---
 id: fagan-l-etourderie
 author:
   name: Barthélemy-Christophe Fagan
@@ -97,6 +134,16 @@ language: cze
 created: 1826
 printed: 1828
 fulltextUrl: http://kramerius5.nkp.cz/uuid/uuid:7b966bd0-fcb2-11e2-9439-005056825209
+---
+id: legrand-le-triomphe-du-temps-passe
+author:
+  name: Marc-Antoine Legrand
+  wikidata: Q3287662
+title: Le triomphe du temps passé
+language: fre
+printed: 1725
+premiered: 1716-12-30
+fulltextUrl: https://books.google.com/books?id=Vl1bAAAAQAAJ&pg=PA295
 ---
 id: moliere-la-comtesse-d-escarbagnas
 author:
@@ -151,6 +198,16 @@ ids:
   dracor: fre001021
   wikidata: Q1219041
 ---
+id: mueller-friedberg-la-prise-de-sainte-lucie
+author:
+  name: Karl von Müller-Friedberg
+  wikidata: Q1230748
+title: La prise de Sainte Lucie
+subtitle: Drame en un acte
+language: fre
+printed: 1781
+fulltextUrl: https://books.google.com/books?id=pPo_AAAAcAAJ&printsec=frontcover
+---
 id: palissot-de-montenoy-le-barbier-de-bagdad
 author:
   name: Charles Palissot de Montenoy
@@ -193,6 +250,19 @@ subtitle: Comédie en un acte
 language: fre
 premiered: 1761-07-20
 fulltextUrl: https://books.google.com/books?id=fnsUAAAAQAAJ&printsec=frontcover
+---
+id: saint-foix-l-oracle
+author:
+  name: Germain François Poullain de Saint-Foix
+  wikidata: Q2036986
+title: L'Oracle
+subtitle: Comédie en un acte et en prose
+language: fre
+printed: 1740
+premiered: 1740-03-22
+fulltextUrl: https://books.google.com/books?id=_4wFUtoZmHAC&printsec=frontcover
+ids:
+  dracor: fre001306
 ---
 id: saurin-les-moeurs-du-temps
 author:
