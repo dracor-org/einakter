@@ -3399,6 +3399,47 @@ cast:
 setting: >-
   Die Scene ist auf dem Landgute des Herrn von Dornfeld.
 ---
+slug: anonym-das-muendel
+author:
+  pseudonym: Anonym
+title: Das Mündel
+subtitle: Ein Lustspiel von einer Handlung, aus dem Französischen des Herrn Fagan
+numberOfScenes: 21
+printed: 1746
+formalia:
+  - Prosa
+basedOn:
+  - fagan-la-pupille
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 13, S. 226, und Band 22, S. 128–129
+editions:
+  - title: "Sammlung einiger Schriften zum Zeitvertreibe des Geschmacks. Erster Band, drittes Stück. Leipzig: Weidmann 1746, S. 187–233"
+    url: https://books.google.com/books?id=ESNeAAAAcAAJ&pg=PA187
+  - title: "Wien: Krauß 1767"
+    url: https://books.google.com/books?id=H9ZUAAAAcAAJ&printsec=frontcover
+  - title: "Gesammelte Schriften zum Vergnügen und Unterricht. Zweytes Stück. Wien: Trattner 1769, S. 3–55"
+    url: https://books.google.com/books?id=SlxlAAAAcAAJ&pg=PA3
+comments:
+  - "Die Version [1759 (anonym)](anonym-la-pupille-die-muendel) mit dem leicht anderen Titel »Die Mündel« könnte identisch mit dieser sein."
+  - Hinweis auf Einaktigkeit (»von einer Handlung«) erst im Druck 1767.
+  - Meyer (Band 22, S. 129) kritisiert zurecht die Vermutung, dass Karl Franz Romanus (geb. 1731) der Übersetzer sei.
+cast:
+  - name: Arist.
+    gender: m
+  - name: Charlotte.
+    gender: f
+  - name: Orgon,
+    role: Arists Freund.
+    gender: m
+  - name: Der Marquis,
+    role: Orgons Neffe.
+    gender: m
+  - name: Lisette,
+    role: Charlottens Kammermädchen.
+    gender: f
+setting: Der Schauplatz ist in Arists Stube.
+---
 slug: anonym-das-orakel-1745
 author:
   pseudonym: Anonym
@@ -10523,7 +10564,7 @@ setting: >-
 ---
 slug: anonym-er-geht-in-die-falle
 author:
-  name: Anonym
+  pseudonym: Anonym
 title: Er geht in die Falle
 subtitle: Lustspiel in einem Aufzuge
 numberOfScenes: 18
@@ -69840,47 +69881,6 @@ cast:
     gender: f
 setting: >-
   Zimmer im Hause des Konferenzraths. An beiden Seiten sind zwey Kabinetthüren.
----
-slug: anonym-das-muendel
-author:
-  name: Anonym
-title: Das Mündel
-subtitle: Ein Lustspiel von einer Handlung, aus dem Französischen des Herrn Fagan
-numberOfScenes: 21
-printed: 1746
-formalia:
-  - Prosa
-basedOn:
-  - fagan-la-pupille
-dictionaries:
-  - name: bibliographia
-    pages: 2. Abteilung, Band 13, S. 226, und Band 22, S. 128–129
-editions:
-  - title: "Sammlung einiger Schriften zum Zeitvertreibe des Geschmacks. Erster Band, drittes Stück. Leipzig: Weidmann 1746, S. 187–233"
-    url: https://books.google.com/books?id=ESNeAAAAcAAJ&pg=PA187
-  - title: "Wien: Krauß 1767"
-    url: https://books.google.com/books?id=H9ZUAAAAcAAJ&printsec=frontcover
-  - title: "Gesammelte Schriften zum Vergnügen und Unterricht. Zweytes Stück. Wien: Trattner 1769, S. 3–55"
-    url: https://books.google.com/books?id=SlxlAAAAcAAJ&pg=PA3
-comments:
-  - "Die Version [1759 (anonym)](anonym-la-pupille-die-muendel) mit dem leicht anderen Titel »Die Mündel« könnte identisch mit dieser sein."
-  - Hinweis auf Einaktigkeit (»von einer Handlung«) erst im Druck 1767.
-  - Meyer (Band 22, S. 129) kritisiert zurecht die Vermutung, dass Karl Franz Romanus (geb. 1731) der Übersetzer sei.
-cast:
-  - name: Arist.
-    gender: m
-  - name: Charlotte.
-    gender: f
-  - name: Orgon,
-    role: Arists Freund.
-    gender: m
-  - name: Der Marquis,
-    role: Orgons Neffe.
-    gender: m
-  - name: Lisette,
-    role: Charlottens Kammermädchen.
-    gender: f
-setting: Der Schauplatz ist in Arists Stube.
 ---
 slug: romanus-das-tarocspiel
 author:
