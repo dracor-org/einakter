@@ -102,10 +102,6 @@ function Table () {
   
   const { SearchBar } = Search;
   
-  const total = data.reduce((sum: number, play: Play) => {
-    return sum + (play.numberOfCharacters || 0);
-  }, 0);
-
   return (
     <ToolkitProvider
       keyField='slug'
