@@ -4,9 +4,11 @@ import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import {Link} from 'react-router-dom';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
+import Statistics from './Statistics';
 import IdLink from './IdLink';
 import {Play} from '../types';
 import data from '../data.json';
+import authors from '../authors.json';
 
 function formatAuthor (_: string, play: Play) {
   return <Authors authors={play.authors || []} withLink/>;
@@ -114,13 +116,9 @@ function Table () {
       {
         props => (
           <div>
-            <br/>
+            <Statistics plays={data} authors={authors} />
             <SearchBar { ...props.searchProps } />
             <span className="counter">
-              Database currently containing {data.length} one-act plays
-              {' '}
-              featuring {total} characters
-              {' '}
               <a href="data.json" className="download" download="einakter.json">
                 <FontAwesomeIcon icon="download" title="Download JSON"/>
               </a>

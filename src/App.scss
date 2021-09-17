@@ -144,3 +144,28 @@ td ul:last-child, td p:last-child {
     }
   }
 }
+
+.statistics {
+  margin-top: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  table {
+    max-width: 600px;
+    @media (max-width: 768px) {
+      max-width: 100%;
+    }
+  }
+  th {
+    font-weight: normal;
+  }
+  td {
+    text-align: right;
+  }
+  caption {
+    caption-side: top;
+    text-align: right;
+    cursor: pointer;
+    color: #212529;
+  }
+}
