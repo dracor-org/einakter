@@ -20,13 +20,6 @@ interface AuthorData {
   }
 };
 
-interface AuthorStats {
-  total: number
-  male: number
-  female: number
-  anonymus: number
-}
-
 interface Props {
   authors: AuthorData
   plays: Play[]
@@ -35,17 +28,30 @@ interface Props {
 const Statistics = ({authors = {}, plays = []}: Props) => {
   const [expanded, setExpanded] = useState(false);
 
-  const authorStats = plays.reduce((stats: AuthorStats, play: Play, ) => {
-    stats.total += play.authors?.length || 0;
+  // find non-anonymous authors without IDs
+  const names: {[id: string]: number} = {};
+  plays.forEach((play: Play) => {
     play.authors?.forEach(a => {
-      stats.total++;
-      if (a.pseudonym === 'Anonym') stats.anonymus++;
       const info = authors[a.wikidata || ''];
-      if (info?.gender === 'female') stats.female++;
-      if (info?.gender === 'male') stats.male++;
+      if (!info && a.pseudonym !== 'Anonym') {
+        if (a.name) names[a.name] = names[a.name] ? names[a.name] + 1 : 1;
+      }
     });
-    return stats;
-  }, {total: 0, male: 0, female: 0, anonymus: 0});
+  });
+
+  const authorsWithoutId = Object.keys(names).length;
+  const authorsWikidata = Object.keys(authors).length;
+  const authorsTotal = authorsWikidata + authorsWithoutId;
+  const authorsMale =
+    Object.values(authors).filter(a => a.gender === 'male').length;
+  const authorsFemale =
+    Object.values(authors).filter(a => a.gender === 'female').length;
+
+  const anonymous = plays.filter(p => {
+    return !p.authors
+      || p.authors.length === 0
+      || p.authors.find(a => a.pseudonym === 'Anonym')
+  }).length
 
   const numCharacters = plays.reduce((num: number, p: Play) => {
     p.cast?.forEach(member => {
@@ -86,14 +92,14 @@ const Statistics = ({authors = {}, plays = []}: Props) => {
           <tr>
             <th>Authors</th>
             <td>
-              {authorStats.total}
+              {authorsTotal}
               <br/>
-              <small>m: {authorStats.male}, f: {authorStats.female}</small>
+              <small>m: {authorsMale}, f: {authorsFemale}</small>
             </td>
           </tr>
           <tr>
             <th>Plays published anonymously</th>
-            <td>{authorStats.anonymus}</td>
+            <td>{anonymous}</td>
           </tr>
           <tr>
             <th>Plays translated/adapted from other languages</th>
