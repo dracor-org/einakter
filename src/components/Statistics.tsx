@@ -94,7 +94,11 @@ const Statistics = ({authors = {}, plays = []}: Props) => {
             <td>
               {authorsTotal}
               <br/>
-              <small>m: {authorsMale}, f: {authorsFemale}</small>
+              <small>
+                Wikidata: {authorsWikidata},
+                male: {authorsMale},
+                female: {authorsFemale}
+              </small>
             </td>
           </tr>
           <tr>
