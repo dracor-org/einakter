@@ -114,12 +114,12 @@ function Table () {
           <div>
             <Statistics plays={data} authors={authors} />
             <SearchBar { ...props.searchProps } />
-            <span className="counter">
-              <a href="data.json" className="download" download="einakter.json">
+            <span className="download">
+              <a href="data.json" download="einakter.json">
                 <FontAwesomeIcon icon="download" title="Download JSON"/>
               </a>
               {' '}
-              <a href="data.csv" className="download" download="einakter.csv">
+              <a href="data.csv" download="einakter.csv">
                 <FontAwesomeIcon icon="file-csv" title="Download CSV"/>
               </a>
             </span>

@@ -36,15 +36,12 @@ td ul:last-child, td p:last-child {
   margin-bottom: 0;
 }
 
-.counter {
-  float: right;
-  font-size: 90%;
-}
-
 .download {
-  display: inline-block;
-  margin-left: 1.5em;
-  color: black;
+  float: right;
+  & > a {
+    display: inline-block;
+    margin-left: 1.5em;
+  }
 }
 
 .locations-map h1 {
