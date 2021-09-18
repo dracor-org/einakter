@@ -34,9 +34,15 @@ try {
   console.log(error);
 }
 
-const authorIds = data
-  .filter((p) => p.author?.wikidata)
-  .map((p) => p.author?.wikidata)
+const plays = data.map((p: Play) => {
+  const authors = p.author ? [p.author] : p.authors || [];
+  const play = {...p, authors};
+  return play;
+});
+
+const authorIds = plays
+  .map(p => p.authors.filter(a => a.wikidata).map(a => a.wikidata))
+  .flat()
   .filter((id, index, self) => self.indexOf(id) === index);
 
 const endpoint = 'https://query.wikidata.org/sparql';

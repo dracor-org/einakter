@@ -85,6 +85,17 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q94839946": {
+    "name": "Johann Heinrich Faber",
+    "gnd": "116358416",
+    "birth": {
+      "date": "1722-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1791-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q76070": {
     "name": "Louis Angely",
     "gnd": "116311118",
@@ -1447,17 +1458,6 @@
     "death": {},
     "gender": "male"
   },
-  "Q94839946": {
-    "name": "Johann Heinrich Faber",
-    "gnd": "116358416",
-    "birth": {
-      "date": "1722-01-01T00:00:00Z"
-    },
-    "death": {
-      "date": "1791-01-01T00:00:00Z"
-    },
-    "gender": "male"
-  },
   "Q21543464": {
     "name": "Johann Friedrich Facius",
     "gnd": "122002636",
@@ -1515,6 +1515,21 @@
       "date": "1882-03-26T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male"
+  },
+  "Q55679629": {
+    "name": "Joseph Fellner",
+    "gnd": "101729951X",
+    "birth": {
+      "date": "1792-11-15T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1873-05-19T00:00:00Z",
+      "place": "Graz",
+      "placeId": "http://www.wikidata.org/entity/Q13298"
     },
     "gender": "male"
   },
@@ -4031,6 +4046,22 @@
     },
     "gender": "male"
   },
+  "Q213877": {
+    "name": "Friedrich Ludwig Schröder",
+    "gnd": "118610813",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Ludwig%20Schr%C3%B6der%20%281744-1816%29.jpg",
+    "birth": {
+      "date": "1744-11-03T00:00:00Z",
+      "place": "Schwerin",
+      "placeId": "http://www.wikidata.org/entity/Q1709"
+    },
+    "death": {
+      "date": "1816-09-03T00:00:00Z",
+      "place": "Rellingen",
+      "placeId": "http://www.wikidata.org/entity/Q542849"
+    },
+    "gender": "male"
+  },
   "Q95634795": {
     "name": "Karl Gottfried Miersch",
     "gnd": "100846467",
@@ -5620,22 +5651,6 @@
     },
     "gender": "male"
   },
-  "Q213877": {
-    "name": "Friedrich Ludwig Schröder",
-    "gnd": "118610813",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Ludwig%20Schr%C3%B6der%20%281744-1816%29.jpg",
-    "birth": {
-      "date": "1744-11-03T00:00:00Z",
-      "place": "Schwerin",
-      "placeId": "http://www.wikidata.org/entity/Q1709"
-    },
-    "death": {
-      "date": "1816-09-03T00:00:00Z",
-      "place": "Rellingen",
-      "placeId": "http://www.wikidata.org/entity/Q542849"
-    },
-    "gender": "male"
-  },
   "Q94529703": {
     "name": "Friedrich Wilhelm Schütz",
     "gnd": "1037047656",
@@ -5737,6 +5752,38 @@
       "placeId": "http://www.wikidata.org/entity/Q4191"
     },
     "gender": "male"
+  },
+  "Q29892109": {
+    "name": "Otto Seemann",
+    "gnd": "1043871454",
+    "birth": {
+      "date": "1825-02-28T00:00:00Z",
+      "place": "Herford",
+      "placeId": "http://www.wikidata.org/entity/Q3971"
+    },
+    "death": {
+      "date": "1901-09-20T00:00:00Z",
+      "place": "Hannover",
+      "placeId": "http://www.wikidata.org/entity/Q1715"
+    },
+    "gender": "male"
+  },
+  "Q89664": {
+    "name": "Albert Dulk",
+    "gnd": "118869345",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Pfann%20Albert%20Dulk%201867.jpg",
+    "birth": {
+      "date": "1819-06-17T00:00:00Z",
+      "place": "Königsberg",
+      "placeId": "http://www.wikidata.org/entity/Q4120832"
+    },
+    "death": {
+      "date": "1884-10-29T00:00:00Z",
+      "place": "Stuttgart",
+      "placeId": "http://www.wikidata.org/entity/Q1022"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q1731509": {
     "name": "Karl Heinrich Seibt",
