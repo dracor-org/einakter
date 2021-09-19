@@ -2851,8 +2851,8 @@ editions:
     url: https://books.google.com/books?id=mo5H99To8x8C&printsec=frontcover
   - title: "Neue Sammlung Deutscher Schauspiele. Vierten Jahrgangs Zwölfter Band. Grätz 1799"
     url: https://books.google.com/books?id=9ZwoaTU261MC&pg=RA2-PA1
-comments:
-  - Rezension des Stücks in der Allgemeinen Literatur-Zeitung, [Nr. 373, Sp. 751–752 (31. Dezember 1800)](https://books.google.com/books?id=fzQCAAAAYAAJ&pg=PA751).
+reviews:
+  - "Allgemeine Literatur-Zeitung. Numero 373 (Mittwochs, den 31. December 1800), [Sp. 751–752](https://books.google.com/books?id=fzQCAAAAYAAJ&pg=PA751)."
 keywords:
   - Judentum
 cast:
@@ -10572,7 +10572,7 @@ printed: 1804
 formalia:
   - Prosa
 basedOn:
-  - "Jean Galbert de Campistron: [»Le jaloux désabusé. Comédie«](https://books.google.com/books?id=DJ1fAAAAcAAJ&printsec=frontcover)"
+  - campistron-le-jaloux-desabuse
 dictionaries:
   - name: bibliographia
     pages: 1. Abteilung, Band 3, S. 1229
@@ -10581,8 +10581,9 @@ editions:
     url: https://books.google.com/books?id=7yk7AAAAcAAJ&printsec=frontcover
   - title: "Leipzig: Baumgärtner [1804]"
     url: https://books.google.com/books?id=LYRKAQAAMAAJ&pg=RA1-PP1
-comments:
-  - "Rezensionen in: Neue Leipziger Literaturzeitung. 91. Stück (16. Julius 1804), [Sp. 1447–1448](https://books.google.com/books?id=FgFQAAAAYAAJ&pg=PA1447), und Jenaische Allgemeine Literatur-Zeitung. Num. 252 (22 October, 1805), Sp. [151](https://books.google.com/books?id=DLTcLKrcK5kC&pg=PA151)."
+reviews:
+  - "Neue Leipziger Literaturzeitung. 91. Stück (16. Julius 1804), [Sp. 1447–1448](https://books.google.com/books?id=FgFQAAAAYAAJ&pg=PA1447)."
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 252 (22 October, 1805), [Sp. 151](https://books.google.com/books?id=DLTcLKrcK5kC&pg=PA151)."
 keywords:
   - Eheanbahnung
   - Geld
@@ -41473,7 +41474,7 @@ setting: >-
 slug: hutt-der-buchstab
 author:
   name: Hutt, Johann
-  wikidata: Q88788189
+  wikidata: Q94524283
 title: Der Buchstab
 subtitle: Eine poetische Kleinigkeit
 numberOfScenes: 6
@@ -46139,7 +46140,7 @@ location:
 slug: korntheuer-der-ist-der-rechte
 author:
   name: Korntheuer, Friedrich Joseph
-  wikidata: Q27584803
+  wikidata: Q18222561
 title: Der ist der Rechte!
 subtitle: Lustspiel in 1 Act
 numberOfScenes: 23
@@ -46177,7 +46178,7 @@ cast:
 slug: korntheuer-onkel-und-neffe-als-nebenbuhler
 author:
   name: Korntheuer, Friedrich Joseph
-  wikidata: Q27584803
+  wikidata: Q18222561
 title: Onkel und Neffe als Nebenbuhler
 subtitle: Lustspiel in einem Acte, frey nach dem Französischen des Le Grand
 numberOfScenes: 23
@@ -60860,7 +60861,7 @@ setting: >-
 slug: mirani-das-lustspiel-auf-der-bruecke
 author:
   name: Mirani, Johann Heinrich
-  wikidata: Q89548911
+  wikidata: Q55680226
 title: Das Lustspiel auf der Brücke
 subtitle: Posse in einem Act. Nach dem Böhmischen des Professors W. Klitzpera
 numberOfScenes: 6
@@ -82517,7 +82518,8 @@ setting: >-
 ---
 slug: uno-die-pappeln
 author:
-  pseudonym: Uno
+  name: Uno
+  pseudonym: Anonym
   wikidata: Q107650718
 title: Die Pappeln
 subtitle: Lustspiel in einem Act
