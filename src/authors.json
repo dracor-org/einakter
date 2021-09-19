@@ -1961,7 +1961,8 @@
     "name": "A. Giftschütz",
     "gnd": "121437140",
     "birth": {},
-    "death": {}
+    "death": {},
+    "gender": "male"
   },
   "Q72840": {
     "name": "Adolf Glaßbrenner",
@@ -2874,11 +2875,6 @@
     },
     "gender": "male"
   },
-  "Q88788189": {
-    "name": "Hutt, Johann (BLKÖ)",
-    "birth": {},
-    "death": {}
-  },
   "Q215115": {
     "name": "August Wilhelm Iffland",
     "gnd": "118555324",
@@ -3242,6 +3238,7 @@
       "place": "Prag",
       "placeId": "http://www.wikidata.org/entity/Q1085"
     },
+    "gender": "male",
     "ambiguous": true
   },
   "Q1530950": {
@@ -3332,10 +3329,22 @@
     },
     "gender": "male"
   },
-  "Q27584803": {
-    "name": "Korntheuer, Friedrich Joseph",
-    "birth": {},
-    "death": {}
+  "Q18222561": {
+    "name": "Friedrich Josef Korntheuer",
+    "gnd": "136423248",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Josef%20Korntheuer%20Litho.jpg",
+    "birth": {
+      "date": "1779-02-15T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1829-06-28T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q57242": {
     "name": "August von Kotzebue",
@@ -3492,7 +3501,8 @@
     "name": "Johann Georg  Laub",
     "gnd": "102183295",
     "birth": {},
-    "death": {}
+    "death": {},
+    "gender": "male"
   },
   "Q94619074": {
     "name": "Joseph Laudes",
@@ -4105,10 +4115,21 @@
     },
     "gender": "male"
   },
-  "Q89548911": {
-    "name": "Mirani, Johann Heinrich (BLKÖ)",
-    "birth": {},
-    "death": {}
+  "Q55680226": {
+    "name": "Johann Heinrich Mirani",
+    "gnd": "1023317834",
+    "birth": {
+      "date": "1802-04-25T00:00:00Z",
+      "place": "Prag",
+      "placeId": "http://www.wikidata.org/entity/Q1085"
+    },
+    "death": {
+      "date": "1873-09-20T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q55675056": {
     "name": "Karl Mörike",
@@ -4286,6 +4307,7 @@
   },
   "Q106405456": {
     "name": "Franz Alois Mussik",
+    "gnd": "1044769327",
     "birth": {
       "date": "1779-08-14T00:00:00Z",
       "place": "Prag",
@@ -4293,7 +4315,8 @@
     },
     "death": {
       "date": "1848-01-13T00:00:00Z"
-    }
+    },
+    "gender": "male"
   },
   "Q2572238": {
     "name": "Wilhelm Christhelf Sigmund Mylius",
