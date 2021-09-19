@@ -58,6 +58,12 @@ Generates CSV file `data.csv` from [`data.yaml`](data.yaml).
 Update [`authors.json`](src/authors.json). This fetches author data for new
 author IDs in `data.yaml` and adds it to `src/authors.json`.
 
+To update existing IDs they can be passed as arguments:
+
+```bash
+yarn authors Q123 Q4566
+```
+
 ### `yarn locations`
 
 Update [`locations.json`](src/locations.json). This fetches coordinates for

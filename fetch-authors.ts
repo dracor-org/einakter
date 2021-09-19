@@ -40,6 +40,8 @@ const plays = data.map((p: Play) => {
   return play;
 });
 
+const argv = process.argv.slice(2);
+
 const authorIds = plays
   .map(p => p.authors.filter(a => a.wikidata).map(a => a.wikidata))
   .flat()
@@ -52,11 +54,11 @@ async function fetchAuthors () {
   for(let i = 0; i < authorIds.length; i++) {
     const id = authorIds[i];
     const author = authors[id as string];
-    if (author) {
+    if (author && !argv.includes(id as string)) {
       console.log(`${id} (${author.name}) exists`);
       results[id as string] = author;
     } else {
-    const sparql = `
+      const sparql = `
 SELECT ?author ?authorLabel ?birthDate ?deathDate ?gender ?genderLabel
   ?birthPlace ?birthPlaceLabel ?birthCoord
   ?deathPlace ?deathPlaceLabel ?deathCoord
