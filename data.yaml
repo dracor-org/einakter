@@ -31336,7 +31336,7 @@ editions:
   - title: "Wien 1770"
     url: https://books.google.com/books?id=yCNVAAAAcAAJ&printsec=frontcover
 comments:
-  - Erster Einakter in Gottscheds Sammlung.
+  - Erster Einakter in Gottscheds »Deutscher Schaubühne«.
   - 1746 unter dem Titel »Die Widerwillige«.
 keywords:
   - Eheanbahnung
@@ -53547,6 +53547,7 @@ editions:
     url: https://books.google.com/books?id=1hRaAAAAcAAJ&pg=PA203
 comments:
   - Stumme Dienerfigur nicht im Personenverzeichnis.
+  - "Nicht identisch mit Langers Drama desselben Titels (aber in zwei Aufzügen) aus dem Jahr 1817, das erschienen ist in: Taschenbuch vom kaiserl. königl. privilegirten Theater in der Leopoldstadt. Vierter Jahrgang. Wien: Geistinger 1817, [S. 1–12](https://books.google.com/books?id=dBRaAAAAcAAJ&pg=PA1)."
 keywords:
   - Kindertheater
 cast:
@@ -80465,6 +80466,34 @@ setting: >-
 location:
   wikidataId: Q64
 ---
+slug: thienemann-band-und-halstuch
+author:
+  name: Thienemann, Karl
+  wikidata: Q20243317
+title: Band und Halstuch
+subtitle: Ein Lustspiel in einem Akt
+numberOfScenes: 10
+printed: 1816
+premiered: 1814
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dramatische Kleeblätter. Nürnberg: Stein 1816, S. 41–96"
+    url: https://gdz.sub.uni-goettingen.de/id/PPN177001263X?tify={%22pages%22:[53]}
+reviews:
+  - "Iris. Unterhaltungsblatt für Freunde des Schönen u. Nützlichen. Nro. 4 (Mittwoch, 5. Januar 1825), [S. 16](https://books.google.com/books?id=zLHsAAAAMAAJ&pg=PA16)."
+cast:
+  - name: Michel,
+    role: ein junger Bauer.
+    gender: m
+  - name: Lischen,
+    role: ein Bauernmädchen.
+    gender: f
+  - name: Der Schulmeister.
+    gender: m
+setting: >-
+  Freye Gegend; auf einer Seite Michels, auf der andern Lischens Wohnung.
+---
 slug: thienemann-der-friedenstoerer
 author:
   name: Thienemann, Karl
@@ -80493,12 +80522,12 @@ author:
   name: Thienemann, Karl
   wikidata: Q20243317
 title: Der todte Mann
-subtitle: Ein Lustspiel in einem Aufzuge in Versen
-numberOfScenes:
+subtitle: Ein Lustspiel in einem Akt in Versen
+numberOfScenes: 9
 printed: 1816
 premiered: 1817-07-18
 formalia:
-  - Verse
+  - gereimte Verse
 dictionaries:
   - name: boerne
     pages: Nachträge, Nr. 29, S. 530
@@ -80507,20 +80536,71 @@ dictionaries:
     pages: Nachträge, Nr. 61, S. 568
     url: https://archive.org/details/LudwigBrneSmtlicheSchriftenBd1/page/n597/mode/2up
 editions:
-  - title: "Dramatische Kleeblätter. Nürnberg 1816, [Seitenzahlen noch nicht ermittelt]"
-comments:
-  - ⚠️ Anzahl Szenen noch nachtragen!
+  - title: "Dramatische Kleeblätter. Nürnberg: Stein 1816, S. 97–156"
+    url: https://gdz.sub.uni-goettingen.de/id/PPN177001263X?tify={%22pages%22:[109]}
 cast:
   - name: Von Werden,
-    role: Husaren-Rittmeister.
+    role: Husarenrittmeister.
     gender: m
-  - name: Louise,
+  - name: Luise,
     role: seine Frau.
     gender: f
   - name: Baron von Lieben.
     gender: m
 setting: >-
-  [Druck liegt noch nicht vor.]
+  Freye Gegend. Im Hintergrunde ein Garten mit einem geschmackvollen Spalier, links ein Pavillon.
+---
+slug: thienemann-die-beyden-vettern
+author:
+  name: Thienemann, Karl
+  wikidata: Q20243317
+title: Die beyden Vettern
+subtitle: Ein Lustspiel in einem Akt in Versen. Frey nach dem Französischen
+numberOfScenes: 12
+printed: 1816
+premiered: 1816
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dramatische Kleeblätter. Nürnberg: Stein 1816, S. 157–224"
+    url: https://gdz.sub.uni-goettingen.de/id/PPN177001263X?tify={%22pages%22:[169]}
+reviews:
+  - "Journal für Literatur, Luxus und Mode. Ein und dreißigster Band. Jahrgang 1816. Junius 1816, [S. 384](https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00215117/JLM_1816_0416.tif)."
+cast:
+  - name: Gustav.
+    gender: m
+  - name: Emilie.
+    gender: f
+  - name: Laura.
+    gender: f
+setting: >-
+  Zimmer mit einer Mittelthür. Im Hintergrunde ein Armsessel. Vorn rechts ein Klavier; daneben ein Tisch und Sessel. Links ein Tisch und Sessel; diesem etwas zurück steht ein Ankleid-Spiegel.
+---
+slug: thienemann-liebe-und-glaube
+author:
+  name: Thienemann, Karl
+  wikidata: Q20243317
+title: Liebe und Glaube
+subtitle: Ein Schauspiel in einem Akt
+numberOfScenes: 7
+printed: 1816
+premiered: 1816-10-16
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Dramatische Kleeblätter. Nürnberg: Stein 1816, S. 1–39"
+    url: https://gdz.sub.uni-goettingen.de/id/PPN177001263X?tify={%22pages%22:[13]}
+cast:
+  - name: Harald,
+    role: König.
+    gender: m
+  - name: Alboin.
+    gender: m
+  - name: Lisbertha,
+    role: sein Weib, Haralds Schwester.
+    gender: f
+setting: >-
+  Wald von hohem Gebirg umschlossen. Auf einem der Berge ein hölzernes Götzenbild. Vorn eine Hütte, davor ein Kreuz.
 ---
 slug: thuemmel-die-geschwister
 author:
