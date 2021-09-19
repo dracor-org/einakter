@@ -4705,6 +4705,37 @@ cast:
     role: Nichte Tarabottos.
     gender: f
 ---
+slug: anonym-der-grossmuethige-wider-willen
+author:
+  name: P–z–i, Michael Johann Edlen von
+  pseudonym: Anonym
+title: Der Großmüthige wider Willen
+subtitle: Posse in einem Act
+numberOfScenes: 10
+printed: 1819
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch vom kaiserl. königl. privilegirten Theater in der Leopoldstadt. Sechster Jahrgang. Wien 1819, S. 1–18"
+    url: https://books.google.com/books?id=jxRaAAAAcAAJ&pg=PA1
+cast:
+  - name: Grünn.
+    gender: m
+  - name: Minchen,
+    role: seine Tochter.
+    gender: f
+  - name: Anastasius Pumpf,
+    role: ein reicher Landjunker.
+    gender: m
+  - name: System,
+    role: sein Hofmeister.
+    gender: m
+  - name: Karl Brav,
+    role: ein Dichter.
+    gender: m
+setting: >-
+  Grünns Zimmer.
+---
 slug: anonym-der-gute-christian
 author:
   pseudonym: Anonym
@@ -16197,7 +16228,7 @@ premiered: 1807-11-07
 formalia:
   - Prosa
 basedOn:
-  - "Louis François Marie Bellin de La Liborlière: [»La cloison, ou Beaucoup de peine pour rien. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/LIBORLIERE_CLOISON.xml)"
+  - bellin-de-la-liborliere-la-cloison
 editions:
   - title: "Familientheater nach neuen französischen Lieblingsstücken. Erstes Bändchen. Leipzig: Göschen 1808, S. 1–58"
     url: https://books.google.com/books?id=lJ4-AAAAYAAJ&pg=PA1
@@ -16968,6 +16999,46 @@ cast:
     gender: f
 setting: >-
   Scene: auf dem Gute der Frau von Eichen. (Garten hinter dem Schlosse. Links im Vorgrunde der Eingang in das Schloß, neben diesem ein eleganter Pavillon. Gartenstühle, Tische etc. in neuestem Geschmacke. Ein Tischchen links im Vorgrunde, auf ihm eine Blumenvase. Arbeitskörbchen etc.)
+---
+slug: blum-magister-quadrat
+author:
+  name: Blum, Carl
+  wikidata: Q110163
+title: Magister Quadrat
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 22
+premiered: 1823-11-05
+formalia:
+  - Prosa
+basedOn:
+  - "Mélesville: [»Le précepteur dans l'embarras. Comédie-vaudeville en un acte, imitée de l'italien«](https://books.google.com/books?id=IBY6AAAAcAAJ&printsec=frontcover)"
+editions:
+  - title: "[Ohne Ort: ca. 1834]"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18267063
+reviews:
+  - "Originalien aus dem Gebiete der Wahrheit, Kunst, Laune und Phantasie. No. 141 (1823), [Sp. 1128](https://books.google.com/books?id=UH5EAAAAcAAJ&pg=PA1127)."
+comments:
+  - "1826 auch von Wilhelm Vogel für die Bühne bearbeitet."
+cast:
+  - name: Baron Werder.
+    gender: m
+  - name: Heinrich,
+    role: sein Sohn.
+    gender: m
+  - name: Magister Quadrat,
+    role: Hofmeister.
+    gender: m
+  - name: Julie von Drost,
+    role: heimlich mit Heinrich vermählt.
+    gender: f
+  - name: Gretchen,
+    role: ein Bauermädchen.
+    gender: f
+  - name: Elias,
+    role: Bursche im Hause des Barons.
+    gender: m
+setting: >-
+  Scene auf dem Guthe des Barons.
 ---
 slug: blum-wer-traegt-die-schuld
 author:
@@ -30543,6 +30614,85 @@ cast:
 setting: >-
   Die Bühne stellt einen Garten mit mehreren Blumenbeeten vor.
 ---
+slug: goethe-das-jahrmarktsfest-zu-plundersweilern
+author:
+  name: Goethe, Johann Wolfgang
+  wikidata: Q5879
+title: Das Jahrmarktsfest zu Plundersweilern
+subtitle: Ein Schönbartspiel in einem Akt
+numberOfScenes: 1
+printed: 1789
+premiered: 1778-10-20
+formalia:
+  - Verse
+editions:
+  - title: "Für die Aufführung bearbeitet von Emil Pohl. Berlin: Büxenstein 1867"
+    url: https://lccn.loc.gov/2010657741
+comments:
+  - Einakterhinweis erst im Druck von 1867.
+  - "Das Drama wird auch in der Forschung als Einakter bezeichnet (vgl. z.B. Peter Höyng: Die Geburt der Theaterzensur aus dem Geiste bürgerlicher Moral. Unwillkommene Thesen zur Theaterzensur im 18. Jahrhundert? In: Zensur im Jahrhundert der Aufklärung. Geschichte – Theorie – Praxis. Herausgegeben von Wilhelm Haefs und York-Gothart Mix. Göttingen: Wallstein 2006, S. 99–119, hier [S. 111](https://books.google.com/books?id=1wpJSI5O0GsC&pg=PA111).)"
+ids:
+  dracor: ger000536
+  wikidata: Q1678697
+cast:
+  - name: Der Marktschreier.
+    gender: m
+  - name: Der Doctor.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+  - name: Tyroler.
+    gender: m
+  - name: Tyrolerin.
+    gender: f
+  - name: Bauer.
+    gender: m
+  - name: Nürnberger.
+    gender: m
+  - name: Ein Fräulein.
+    gender: f
+  - name: Wagenschmierer.
+    gender: m
+  - name: Pfefferkuchenhändlerin.
+    gender: f
+  - name: Eine Gouvernante.
+    gender: f
+  - name: Der Pfarrer.
+    gender: m
+  - name: Zigeunerhauptmann.
+    gender: m
+  - name: Zigeunerbube.
+    gender: m
+  - name: Der Amtmann.
+    gender: m
+  - name: Die Amtmännin.
+    gender: f
+  - name: Bänkelsängerin.
+    gender: f
+  - name: Deren Mann.
+    gender: m
+  - name: Marmotte.
+    gender: m
+  - name: Zitherspielbub.
+    gender: m
+  - name: Schweinemetzger.
+    gender: m
+  - name: Ochsenhändler.
+    gender: m
+  - name: Milchmädchen.
+    gender: f
+  - name: Hanswurst.
+    gender: m
+  - name: Bärenführer.
+    gender: m
+  - name: Soldaten.
+    isGroup: true
+    gender: m
+  - name: Gerichtsdiener.
+    gender: m
+  - name: Magd.
+    gender: f
+---
 slug: goethe-der-buergergeneral
 author:
   name: Goethe, Johann Wolfgang
@@ -35367,7 +35517,7 @@ premiered: 1825-01-28
 formalia:
   - Prosa
 basedOn:
-  - Mélesville
+  - "Mélesville: [»Le précepteur dans l'embarras. Comédie-vaudeville en un acte, imitée de l'italien«](https://books.google.com/books?id=IBY6AAAAcAAJ&printsec=frontcover)"
 editions:
   - title: "Dramatisches Vergißmeinnicht für das Jahr 1825 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Zweites Bändchen. Dresden: Arnoldi 1824"
     url: https://books.google.com/books?id=2wpOAAAAcAAJ&pg=RA1-PA1
@@ -42997,6 +43147,39 @@ cast:
 setting: >-
   Die Scene ist in Walter's einsam in einem Walde belegenem Hause: ein Zimmer mit einer Mittel- und zwei Seitenthüren. An den Wänden hängen Schießgewehre, Jagdtaschen, mehrere Säbel und Degen. Rechts vom Zuschauer im Vordergrunde ein Fenster; links im Hintergrunde ein Kamin, in welchem in den ersten Scenen das Feuer von Zeit zu Zeit hell auflodert. Winterabend nach 6 Uhr.
 ---
+slug: juergensen-kuenstlerstolz
+author:
+  name: Jürgensen, Wilhelm
+  wikidata: Q94809491
+title: Künstlerstolz
+subtitle: Lustspiel in einem Act
+numberOfScenes: 6
+printed: 1826
+formalia:
+  - Alexandriner
+editions:
+  - title: "Ruinen und Blüthen. Herausgegeben von Winfried. Altona: Busch 1826, S. 67–102"
+reviews:
+  - "Ergänzungsblätter zur Allgemeinen Literatur-Zeitung. Nr. 35 (März 1827), [Sp. 276](https://books.google.com/books?id=3tTjAAAAMAAJ&pg=PA275)."
+comments:
+  - "Anmerkung im Vorwort des Bands: »Von dem reinen Ertrage dieser Sammlung sind vier Fünftheile zur Unterstützung der, durch Wasserfluthen verarmten, Bewohner der Herzogthümer Schleswig und Holstein bestimmt; [...]« (S. III)"
+  - "Anmerkung auf der Titelseite: »(Ein Stück, welches seines Inhalts wegen, die Darstellung auf der öffentlichen Bühne nicht erwartet. Anmerk. d. Verf.)« (S. 67)"
+keywords:
+  - Theaterbetrieb
+  - Eheanbahnung
+  - Verkleidungsspiel
+cast:
+  - name: Seltig,
+    role: ein Schauspieler.
+    gender: m
+  - name: Mathilde,
+    role: seine Tochter.
+    gender: f
+  - name: Freiherr von Thalheim.
+    gender: m
+setting: >-
+  Scene: Seltig's Wohnung. Ein großes, geschmachvoll eingerichtetes Zimmer mit zwei Mittel- und zwei Seitenthüren; im Vordergrunde rechts und links ein Tisch; auf jedem Tisch brennen zwei Lichter.
+---
 slug: juergensen-warum
 author:
   name: Jürgensen, Wilhelm
@@ -43109,6 +43292,38 @@ cast:
     gender: m
 setting: >-
   Die Handlung geht im Hause des Orgons vor. (Ein Saal mit einer Pendeluhr; an den Fenstern sind Vorhänge und Fensterläden angebracht.)
+---
+slug: kachler-zwey-maenner-auf-einmahl
+author:
+  name: Kachler, Johann
+  wikidata: Q21517205
+title: Zwey Männer auf einmahl
+subtitle: Ein Lustspiel in einem Acte
+numberOfScenes: 30
+printed: 1817
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch vom kaiserl. königl. privilegirten Theater in der Leopoldstadt. Vierter Jahrgang. Wien: Geistinger 1817, S. 13–58"
+    url: https://books.google.com/books?id=dBRaAAAAcAAJ&pg=PA13
+reviews:
+  - "Wiener allgemeine Theaterzeitung. Nr. 63 (Dienstag, 27. May 1817), [S. 249–250](http://anno.onb.ac.at/cgi-content/anno?aid=thz&datum=18170527&seite=1)."
+comments:
+  - "Der Einakter könne »eben so gut: Viel Unsinn auf ein Mahl! heißen« (Wiener allgemeine Theaterzeitung). Laut dieser Besprechung sei das Stück von Kotzebues Dramen inspiriert, eine Aufführung sei nicht bekannt."
+cast:
+  - name: Wehlers,
+    role: vormahls Kaufmann.
+    gender: m
+  - name: Lukrezia,
+    role: seine Schwester.
+    gender: f
+  - name: Luise,
+    role: seine Tochter.
+    gender: f
+  - name: Stiller.
+    gender: m
+setting: >-
+  Zimmer mit zwey Kabinetten und einem practicablen Fenster.
 ---
 slug: kaffka-der-transport
 author:
@@ -52463,7 +52678,7 @@ premiered: 1811-11-12
 formalia:
   - Prosa
 basedOn:
-  - "Louis François Marie Bellin de La Liborlière: [»La cloison, ou Beaucoup de peine pour rien. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/LIBORLIERE_CLOISON.xml)"
+  - bellin-de-la-liborliere-la-cloison
 editions:
   - title: "Wien: Pichler 1806"
     url: https://books.google.com/books?id=p79SXasfdC0C&printsec=frontcover
@@ -59709,6 +59924,37 @@ cast:
   - name: Wandurno.
     gender: m
 ---
+slug: menner-ists-gefaellig
+author:
+  name: Menner, Joseph Stephan von
+  wikidata: Q94692398
+title: Ist's gefällig
+subtitle: Eine dramatische Kleinigkeit in einem Aufzuge
+numberOfScenes: 8
+printed: 1819
+premiered: 1817-05-30
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch vom kaiserl. königl. privilegirten Theater in der Leopoldstadt. Sechster Jahrgang. Wien 1819, S. 19–33"
+    url: https://books.google.com/books?id=jxRaAAAAcAAJ&pg=PA19
+cast:
+  - name: Professor Laune.
+    gender: m
+  - name: Julie,
+    role: seine Gemahlinn.
+    gender: f
+  - name: Fiskal Plank.
+    gender: m
+  - group:
+      - name: Marie
+        gender: f
+      - name: Johann
+        gender: m
+    role: in Diensten der Professors.
+setting: >-
+  Studierstube des Professors mit einem Schreibepult, worauf verschiedene Schriften und Bücher liegen.
+---
 slug: metternich-die-freudenthraenen-oder-die-dankbaren-kinder
 author:
   name: Metternich, Kaspar
@@ -60872,7 +61118,7 @@ formalia:
 basedOn:
   - klicpera-veselohra-na-moste
 editions:
-  - title: "Taschenbuch für das k. k. privilegirte Theater in der Leopoldstadt auf das Jahr 1838. Herausgegben von Carl Meisl und August Schmidt. Fünf und zwanzigster Jahrgang. Wien: Ludwig 1838, S. 211–250"
+  - title: "Taschenbuch für das k. k. privilegirte Theater in der Leopoldstadt auf das Jahr 1838. Herausgegeben von Carl Meisl und August Schmidt. Fünf und zwanzigster Jahrgang. Wien: Ludwig 1838, S. 211–250"
     url: https://books.google.com/books?id=XRZaAAAAcAAJ&pg=PA211
 cast:
   - name: Damian Bitter,
