@@ -115,6 +115,16 @@ printed: 1741
 premiered: 1741-10
 fulltextUrl: https://books.google.com/books?id=cfBPqmW2gYYC&printsec=frontcover
 ---
+id: duval-shakespeare-amoureux-ou-la-piece-a-l-etude
+author:
+  name: Alexandre Duval
+  wikidata: Q767332
+title: Shakespeare amoureux, ou La pièce à l'étude
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1804-01-02
+fulltextUrl: https://books.google.com/books?id=BCRu97gniZIC&printsec=frontcover
+---
 id: fagan-la-pupille
 author:
   name: Barthélemy-Christophe Fagan
@@ -136,6 +146,46 @@ subtitle: Comédie en un acte et en prose
 language: fre
 premiered: 1737-07-18
 fulltextUrl: https://books.google.com/books?id=Y5gTAAAAQAAJ&printsec=frontcover
+---
+id: florian-le-bon-menage-ou-la-suite-des-deux-billets
+author:
+  name: Jean-Pierre Claris de Florian
+  wikidata: Q551740
+title: Le bon ménage, ou La suite des deux billets
+subtitle: Comédie en un acte et en prose
+language: fre
+printed: 1783
+premiered: 1782-12-28
+fulltextUrl: https://books.google.com/books?id=Ksk7AAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000645
+---
+id: florian-les-deux-billets
+author:
+  name: Jean-Pierre Claris de Florian
+  wikidata: Q551740
+title: Les deux billets
+subtitle: Comédie en un acte et en prose
+language: fre
+printed: 1780
+premiered: 1779-02-09
+fulltextUrl: https://books.google.com/books?id=CF9CAAAAYAAJ&printsec=frontcover
+ids:
+  dracor: fre000647
+  wikidata: Q6529417
+---
+id: florian-les-jumeaux-de-bergame
+author:
+  name: Jean-Pierre Claris de Florian
+  wikidata: Q551740
+title: Les jumeaux de Bergame
+subtitle: Comédie en un acte et en prose
+language: fre
+printed: 1782
+premiered: 1782-08-06
+fulltextUrl: https://books.google.com/books?id=Nmby1A23RREC&printsec=frontcover
+ids:
+  dracor: fre000649
 ---
 id: holberg-det-arabiske-pulver
 author:
@@ -168,6 +218,41 @@ language: fre
 printed: 1725
 premiered: 1716-12-30
 fulltextUrl: https://books.google.com/books?id=Vl1bAAAAQAAJ&pg=PA295
+---
+id: legrand-l-usurier-gentilhomme
+author:
+  name: Marc-Antoine Legrand
+  wikidata: Q3287662
+title: L'usurier gentilhomme
+language: fre
+premiered: 1713-09-11
+fulltextUrl: https://books.google.com/books?id=V1BaAAAAcAAJ&printsec=frontcover
+---
+id: le-sage-d-orneval-les-amours-de-nanterre
+authors:
+  - name: Alain-René Le Sage
+    wikidata: Q267962
+  - name: Jacques-Philippe d'Orneval
+    wikidata: Q11927097
+title: Les amours de Nanterre
+subtitle: Opéra comique
+language: fre
+printed: 1763
+premiered: 1718
+fulltextUrl: https://cdm21047.contentdm.oclc.org/digital/collection/Ancien/id/6389
+ids:
+  dracor: fre000522
+---
+id: marmontel-silvain
+author:
+  name: Jean-François Marmontel
+  wikidata: Q379923
+title: Silvain
+subtitle: Comédie en un acte, mêlée d'ariettes
+language: fre
+printed: 1770
+premiered: 1770-02-19
+fulltextUrl: https://books.google.com/books?id=owL_7AP-DEQC&printsec=frontcover
 ---
 id: moliere-la-comtesse-d-escarbagnas
 author:

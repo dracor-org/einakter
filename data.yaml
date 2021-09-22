@@ -38,6 +38,7 @@ setting: >-
 slug: adam-der-abenteurer-oder-so-prellt-man-gecken
 author:
   name: Adam, Joseph August
+  wikidata: Q108612799
 title: Der Abenteurer, oder So prellt man Gecken
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 17
@@ -75,6 +76,7 @@ setting: >-
 slug: adam-der-sekretaer
 author:
   name: Adam, Joseph August
+  wikidata: Q108612799
 title: Der Sekretär
 subtitle: Eine Familienscene in einem Aufzuge
 numberOfScenes: 6
@@ -97,6 +99,7 @@ setting: >-
 slug: adam-die-citation
 author:
   name: Adam, Joseph August
+  wikidata: Q108612799
 title: Die Citation
 subtitle: Eine Posse in einem Aufzuge
 numberOfScenes: 14
@@ -128,6 +131,7 @@ setting: >-
 slug: adam-ehrlich-waehrt-am-laengsten
 author:
   name: Adam, Joseph August
+  wikidata: Q108612799
 title: Ehrlich währt am längsten
 subtitle: Eine Familien-Scene in einem Aufzuge
 numberOfScenes: 12
@@ -10423,7 +10427,7 @@ printed: 1797
 formalia:
   - Prosa
 basedOn:
-  - "Jean-Pierre Claris de Florian: [»Les jumeaux de Bergame. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/FLORIAN_JUMEAUXDEBERGAME.xml)"
+  - florian-les-jumeaux-de-bergame
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 34, S. 303
@@ -15995,6 +15999,7 @@ setting: >-
 slug: biwancko-der-thronerbe
 author:
   name: Biwancko, Joseph Ignatz
+  wikidata: Q108562244
 title: Der Thronerbe
 subtitle: Ein Drama in einem Aufzuge
 numberOfScenes: 5
@@ -18410,6 +18415,7 @@ setting: Der Schauplatz ist in dem Zimmer der Frau Lisban.
 slug: breitenstein-die-proberollen
 author:
   name: Breitenstein, Leopold
+  wikidata: Q108613011
 title: Die Proberollen
 subtitle: Lustspiel in einem Aufzuge
 premiered: 1808-11-27
@@ -19190,6 +19196,7 @@ setting: >-
 slug: brumbey-die-heyrath
 author:
   name: Brumbey, Karl Wilhelm
+  wikidata: Q108613082
 title: Die Heyrath
 subtitle: Eine Comödie in Einem Ackte
 numberOfScenes: 15
@@ -19400,6 +19407,7 @@ setting: Die Scene ist auf Lindheim, im Hannoverischen.
 slug: buerger-wunsch-und-erhoerung
 author:
   name: Bürger, Georg Gottfried
+  wikidata: Q108613167
 title: Wunsch und Erhörung
 subtitle: Ein Schauspiel in einem Aufzuge
 numberOfScenes: 10
@@ -23454,6 +23462,7 @@ location:
 slug: cossmann-der-schoene-bund
 author:
   name: Cossmann, Conrad August
+  wikidata: Q108613226
 title: Der schöne Bund
 subtitle: Schauspiel in einem Akte
 numberOfScenes: 19
@@ -23523,6 +23532,7 @@ location:
 slug: cossmann-liebe-und-kaffe
 author:
   name: Cossmann, Conrad August
+  wikidata: Q108613226
 title: Liebe und Kaffe
 subtitle: Lustspiel in einem Akte
 numberOfScenes: 15
@@ -24845,6 +24855,7 @@ setting: >-
 slug: dilg-der-korb
 author:
   name: Dilg, Mathias
+  wikidata: Q108613300
 title: Der Korb
 subtitle: Lustspiel in einem Aufzuge
 numberOfScenes: 19
@@ -25413,6 +25424,7 @@ setting: >-
 slug: dunkel-nach-mitternacht
 author:
   name: Dunkel, Theodor
+  wikidata: Q108613337
 title: Nach Mitternacht
 subtitle: Schwank in einem Akt. Nach dem Französischen
 numberOfScenes: 7
@@ -25439,6 +25451,7 @@ location:
 slug: dunkel-ritter-und-knecht
 author:
   name: Dunkel, Theodor
+  wikidata: Q108613337
 title: Ritter und Knecht
 subtitle: Lustspiel in einem Akt. Frei nach dem Französischen des D'épagny
 numberOfScenes: 18
@@ -26339,7 +26352,7 @@ premiered: 1777
 formalia:
   - Prosa
 basedOn:
-  - "Alain-René Le Sage und Jacques-Philippe d'Orneval: [»Les amours de Nanterre. Opéra comique«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DORNEVALLESAGE_AMOURSDENANTERRE.xml)"
+  - le-sage-d-orneval-les-amours-de-nanterre
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 421
@@ -26358,7 +26371,7 @@ premiered: 1752
 formalia:
   - Prosa
 basedOn:
-  - "Marc-Antoine LeGrand: [»L'Usurier gentilhomme«](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/LEGRAND_USURIERGENTILHOMME.xml)"
+  - legrand-l-usurier-gentilhomme
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 16, S. 92–93
@@ -27234,6 +27247,7 @@ setting: >-
 slug: ernst-der-arzt
 author:
   name: Ernst, Carl
+  wikidata: Q108613352
 title: Der Arzt
 subtitle: Lustspiel in einem Akte. Nach Scribe und Bayard, frei bearbeitet
 numberOfScenes: 17
@@ -27564,6 +27578,37 @@ cast:
 setting: >-
   Die Handlung spielt in Mariens Sennhütte, mit allen Geräthen einer Alpenwirthschaft, mit einem Mittel- und einem Seiteneingange links versehen.
 ---
+slug: feuchtersleben-die-fremden
+author:
+  name: Feuchtersleben, Eduard von
+  wikidata: Q1290589
+title: Die Fremden
+subtitle: Lustspiel in Einem Acte
+numberOfScenes: 10
+printed: 1826
+formalia:
+  - Alexandriner
+editions:
+  - title: "Aurora. Taschenbuch für das Jahr 1826. Herausgegeben von Franz Graeffer. Dritter Jahrgang. Wien: Riedl 1826, S. 147–182"
+    url: https://books.google.com/books?id=kZ9IAAAAcAAJ&pg=PA147
+cast:
+  - name: Gräfinn Fanni von Grünau,
+    role: unvermählt.
+    gender: f
+  - name: Maria van der Mihr,
+    role: Generals-Gattinn, ihre Muhme.
+    gender: f
+  - name: Blum,
+    role: Secretär bey Fanni's Vater.
+    gender: m
+  - name: Graf von Lindenberg.
+    gender: m
+  - name: Miller,
+    role: sein Reise-Arzt.
+    gender: m
+setting: >-
+  Das Stück spielt in einer Provincial-Stadt, im Hause des alten Grafen von Grünau, Abends, kurz vor Anfang eines Balles. Fanni's Toilett-Zimmer mit zwey Seiten- und zwey Mittel-Flügelthüren, durch mehrere Armleuchter glänzend beleuchtet. Rechts steht der große Toilett-Spiegel, im Hintergrunde reihen sich modische Armstühle, mit den geschmackvollsten Masken belegt. Links schließen sich an die Kleiderkasten Tischchen an, worauf Larven, Helme, Sandalen u.s.w. liegen; über dem Ruhebette links hängt der Glockenzug.
+---
 slug: feuchtersleben-die-tante
 author:
   name: Feuchtersleben, Eduard von
@@ -27807,6 +27852,40 @@ cast:
 setting: >-
   Handlung in einer deutschen Residenzstadt. (Zimmer in Frau von Rosenperg's Hause.)
 ---
+slug: feldmann-ursprung-des-korbgebens
+author:
+  name: Feldmann, Leopold
+  wikidata: Q88371
+title: Ursprung des Korbgebens
+subtitle: Dramatische Kleinigkeit. Nach einer Anekdote in Einem Akt
+numberOfScenes: 7
+printed: 1844
+premiered: 1844-09-10
+formalia:
+  - Prosa
+editions:
+  - title: "Als Manuscript gedruckt. München 1844"
+    url: https://books.google.com/books?id=LJY9FhVl7esC&printsec=frontcover
+  - title: "Deutsche Original-Lustspiele von L. Feldmann. II. Wien: Wallishausser 1847, S. 195–213"
+    url: https://books.google.com/books?id=r4NXAAAAcAAJ&pg=PA195
+reviews:
+  - "Das Vaterland. Belletristisch-commercielle Zeitschrift. Nro. 99 (Raab, Donnerstag den 22. August 1844), [S. 396](https://books.google.com/books?id=PgxSAAAAcAAJ&pg=PA396)."
+cast:
+  - name: Hahn,
+    role: Revierföster.
+    gender: m
+  - name: Anna,
+    role: dessen Frau.
+    gender: f
+  - name: Röschen,
+    role: deren Tochter.
+    gender: f
+  - name: Franz Weidmann,
+    role: Forstgehülfe.
+    gender: m
+setting: >-
+  Wald mit einem freundlichen Forsthause. In der Nähe des Hauses befindet sich ein Tisch auf dem Teller und Bestecke, noch ungeordnet, stehen. Röschen und Franz im Gespräche.
+---
 slug: fellner-lederer-der-chargenverkauf
 authors:
   - name: Fellner
@@ -27919,6 +27998,7 @@ setting: >-
 slug: foerg-das-urtheil-des-paris
 author:
   name: Förg, Karl Ignaz
+  wikidata: Q108613503
 title: Das Urtheil des Paris
 subtitle: Eine mit Musick vermischte Parodie in einem Aufzuge
 numberOfScenes: 5
@@ -29083,6 +29163,7 @@ setting: >-
 slug: gaensberger-campaspe-oder-die-wahl-der-liebe
 author:
   name: Gänsberger, Joseph Franz
+  wikidata: Q108613537
 title: Campaspe oder die Wahl der Liebe
 subtitle: Ein Schauspiel in einem Aufzug
 numberOfScenes: 11
@@ -31339,6 +31420,50 @@ setting: >-
 location:
   wikidataId: Q64
 ---
+slug: gotter-medea
+author:
+  name: Gotter, Friedrich Wilhelm
+  wikidata: Q70356
+title: Medea
+subtitle: Melodram in 1 Akt
+numberOfScenes: 10
+printed: 1775
+premiered: 1775-05-01
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 108–110
+editions:
+  - title: "Gotha: Ettinger 1775"
+    url: https://books.google.com/books?id=9TJdAAAAcAAJ&printsec=frontcover
+  - title: "Wien 1778"
+    url: https://books.google.com/books?id=uDTF10CJB5gC&printsec=frontcover
+comments:
+  - "Einakterhinweis nicht im Druck; den Untertitel »Drama in 1 Aufzug« findet man unter anderem in Zeitungen, vgl. etwa Allgemeine Preußische Staats-Zeitung. No. 232 (Berlin, Sonntag den 22sten August 1830), [S. 1776](https://books.google.com/books?id=B4RNAAAAcAAJ&pg=PA1776)."
+  - "Auch mit dem Untertitel »Melodram in 1 Akt« (vgl. Meyer)."
+  - "Untertitel im Druck »ein mit Musik vermischtes Drama« (1775 und 1778)."
+ids:
+  dracor: ger000246
+  wikidata: Q3853644
+cast:
+  - name: Medea.
+    gender: f
+  - name: Ihre Söhne.
+    isGroup: true
+    gender: m
+  - name: Deren Hofmeisterin.
+    gender: f
+  - name: Jason.
+    gender: m
+  - name: Kreusa.
+    gender: f
+  - name: Gefolg.
+    isGroup: true
+    gender: u
+setting: >-
+  Das Theater stellt einen offenen korinthischen Säulengang im Pallaste des Kreon vor; hinten die Aussicht auf eine prächtige Stadt; zur Seite eine mit Stufen versehene Thür.
+---
 slug: gotter-trunkner-mund-wahrer-mund
 author:
   name: Gotter, Friedrich Wilhelm
@@ -31381,6 +31506,50 @@ cast:
     role: Bedienter des Assessors.
     gender: m
 setting: Das Theater stellt einen Gesellschaftsaal im Hause des Assessors vor.
+---
+slug: gotter-walder
+author:
+  name: Gotter, Friedrich Wilhelm
+  wikidata: Q70356
+title: Walder
+subtitle: Ein ländliches Schauspiel mit Gesang in einem Aufzuge
+numberOfScenes: 17
+printed: 1778
+formalia:
+  - Prosa
+basedOn:
+  - marmontel-silvain
+editions:
+  - title: "Gotha: Ettinger 1778"
+    url: https://books.google.com/books?id=RyUcxaDCD3EC&printsec=frontcover
+comments:
+  - "Hinweis auf dem Titelblatt: »Der Inhalt ist aus Marmontels Silvain genommen, die Musik von Hrn. Georg Benda.«"
+cast:
+  - name: Walder.
+    gender: m
+  - name: Sophie,
+    role: dessen Frau.
+    gender: f
+  - group:
+      - name: Dorchen,
+        gender: f
+      - name: Hannchen,
+        gender: f
+    role: ihre Kinder.
+  - name: Dolmon,
+    role: Vater.
+    gender: m
+  - name: Dolmon,
+    role: Sohn.
+    gender: m
+  - name: Christel,
+    role: ein junger Bauer.
+    gender: m
+  - name: Jäger.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Scene ist vor einem Bauerhause, dem ein kleines Holz gegen über liegt.
 ---
 slug: gotter-zwey-onkels-fuer-einen
 author:
@@ -31692,6 +31861,64 @@ setting: >-
   Kolchis. Wilde Gegend mit Felsen und Bäumen, im Hintergrunde das Meer. Am Gestade desselben ein Altar von unbehauenen Steinen zusammengesetzt, auf dem die kolossale Bildsäule eines nackten, bärtigen Mannes steht, der in seiner Rechten eine Keule, um die Schultern ein goldenes Widderfell trägt. Links an den Scenen des Mittelgrundes der Eingang eines Hauses mit Stufen und rohen Säulen. Tagesanbruch.
 location:
   wikidataId: Q183150
+---
+slug: grillparzer-die-schreibfeder
+author:
+  name: Grillparzer, Franz
+  wikidata: Q154438
+title: Die Schreibfeder
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 15
+created: 1809
+formalia:
+  - Prosa
+editions:
+  - title: "Grillparzers Sämmtliche Werke. Vierte Ausgabe in sechzehn Bänden. Neunter Band. Stuttgart: Cotta 1887, S. 217–258"
+    url: https://books.google.com/books?id=LFIPAQAAIAAJ&pg=PA217
+cast:
+  - name: Franz Moser,
+    role: Bürger in einer Provinzialstadt.
+    gender: m
+  - name: Hannchen,
+    role: seine Tochter.
+    gender: f
+  - name: Peter Moser,
+    role: sein Bruder, Kaufmann.
+    gender: m
+  - name: Wilhelm Brand,
+    role: in Peter Mosers Hause erzogen.
+    gender: m
+  - name: Wittwe Müller.
+    gender: f
+setting: >-
+  Zimmer bei Franz Moser.
+---
+slug: grillparzer-wer-ist-schuldig
+author:
+  name: Grillparzer, Franz
+  wikidata: Q154438
+title: Wer ist schuldig?
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 10
+created: 1811
+formalia:
+  - Alexandriner
+editions:
+  - title: "Grillparzers Sämmtliche Werke. Vierte Ausgabe in sechzehn Bänden. Neunter Band. Stuttgart: Cotta 1887, S. 259–294"
+    url: https://books.google.com/books?id=LFIPAQAAIAAJ&pg=PA259
+cast:
+  - name: Holl.
+    gender: m
+  - name: Marie,
+    role: seine Frau.
+    gender: f
+  - name: Jeanette,
+    role: Kammermädchen.
+    gender: f
+  - name: Der Gärtner.
+    gender: m
+setting: >-
+  Garten. Rechts eine Laube, gegenübe ein Piedestal mit einer Vase darauf. Gartenstühle umher. Tagesanbruch.
 ---
 slug: grossmann-das-angebinde
 author:
@@ -33869,6 +34096,7 @@ location:
 slug: hanf-alle-strafbar
 author:
   name: Hanf, Friedrich
+  wikidata: Q108613581
 title: Alle strafbar!
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 19
@@ -34413,6 +34641,44 @@ cast:
     gender: u
 setting: >-
   Das Stück spielt in Österreich auf dem Schlosse der Gräfin. Zeit: Ende 1778. (Ein Pavillon, mit der Aussicht auf den Garten. Rechts und links Seitenthüren. Tische zu beiden Seiten.)
+---
+slug: harrys-sohn-oder-braut
+author:
+  name: Harrys, Georg
+  wikidata: Q15811725
+title: Sohn oder Braut
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 21
+printed: 1835
+premiered: 1834-12-26
+formalia:
+  - Prosa
+editions:
+  - title: "Als Manuscript gedruckt. Hannover: Telgener 1835"
+    url: https://books.google.com/books?id=wwE_3CDtLHsC&printsec=frontcover
+comments:
+  - "Laut Theaterzettel [Hamburg 1834](https://www.stadttheater.uni-hamburg.de/node/23425) »nach dem Französischen«."
+cast:
+  - name: Gilbert,
+    role: Rittmeister in französischen Diensten.
+    gender: m
+  - name: Radix,
+    role: früher Vorsteher einer Erziehungs-Anstalt.
+    gender: m
+  - name: Caroline,
+    role: seine Nichte.
+    gender: f
+  - name: Wahlberg.
+    gender: m
+  - name: Gabriele,
+    role: eine junge Waise.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Ort der Handlung: Lauterburg am Rhein, im Radix'schen Hause. – Zeit: 1815. (Die Bühne stellt ein anständiges, bürgerliches Wohnzimmer vor. Im Hintergrunde eine Thür, die nach dem Garten führt. Links eine Thür; mehr nach vorn ein Kamin, worüber ein Spiegel. Rechts ein Fenster mit der Aussicht auf den Garten. An derselben Seite ein Tisch mit Schreibzeug, mehre Stühle u.s.w.)
+location:
+  wikidataId: Q22435
 ---
 slug: hartmann-die-dankbare-tochter-oder-die-einquartirung
 author:
@@ -38331,6 +38597,8 @@ formalia:
 editions:
   - title: "Den Bühnen gegenüber als Manuscript gedruckt. Berlin: Litfaß 1849"
     url: https://books.google.com/books?id=p5hNaHHJ3dsC&printsec=frontcover
+comments:
+  - "Wohl auch unter dem Titel »Fröhliche Weihnachten«."
 cast:
   - name: Cornelius Heidenreich,
     role: Kaufmann.
@@ -38452,7 +38720,7 @@ premiered: 1753
 formalia:
   - Prosa
 basedOn:
-  - "Alain-René Le Sage und Jacques-Philippe d'Orneval: [»Les amours de Nanterre. Opéra comique«](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DORNEVALLESAGE_AMOURSDENANTERRE.xml)"
+  - le-sage-d-orneval-les-amours-de-nanterre
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 16, S. 387–388
@@ -38625,7 +38893,7 @@ premiered: 1783-07-09
 formalia:
   - Prosa
 basedOn:
-  - "Jean-Pierre Claris de Florian: [»Les deux billets. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/FLORIAN_DEUXBILLETS.xml)"
+  - florian-les-deux-billets
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 490–491
@@ -38709,7 +38977,7 @@ printed: 1784
 formalia:
   - Prosa
 basedOn:
-  - "Jean-Pierre Claris de Florian: [»Le bon ménage, ou La suite des deux billets. Comédie en un acte et en prose«](https://books.google.com/books?id=Ksk7AAAAcAAJ&printsec=frontcover)"
+  - florian-le-bon-menage-ou-la-suite-des-deux-billets
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 29, S. 162–163
@@ -39774,11 +40042,11 @@ numberOfScenes: 6
 printed: 1822
 formalia:
   - gereimte Verse
-basedOn:
-  - "Laut [Vorwort](https://books.google.com/books?id=TUX0OAr7mRIC&pg=PP7) nach einem gleichnamigen Gedicht von Döring."
 editions:
   - title: "Almanach dramatischer Spiele zur gesellschaftlichen Unterhaltung. Von Eduard Hoffmann. Neustadt a. d. Orla: Wagner [1822], S. 1–20"
     url: https://books.google.com/books?id=TUX0OAr7mRIC&pg=PA1
+comments:
+  - "Basiert laut [Vorwort](https://books.google.com/books?id=TUX0OAr7mRIC&pg=PP7) auf einem [gleichnamigen Gedicht](https://books.google.com/books?id=kNsliont794C&pg=PA338) von Döring."
 cast:
   - name: Steffen,
     role: ein reicher Bauer.
@@ -39806,7 +40074,7 @@ printed: 1822
 formalia:
   - jambische gereimte Verse
 basedOn:
-  - "Jean-Pierre Claris de Florian: [»Les jumeaux de Bergame. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/FLORIAN_JUMEAUXDEBERGAME.xml)"
+  - florian-les-jumeaux-de-bergame
 editions:
   - title: "Almanach dramatischer Spiele zur gesellschaftlichen Unterhaltung. Von Eduard Hoffmann. Neustadt a. d. Orla: Wagner [1822], S. 113–154"
     url: https://books.google.com/books?id=TUX0OAr7mRIC&pg=PA113
@@ -43686,6 +43954,7 @@ location:
 slug: keller-die-nationaltracht-oder-fort-mit-dem-plunder-nach-deutschland
 author:
   name: Keller, Heinrich
+  wikidata: Q94911670
 title: Die Nationaltracht, oder Fort mit dem Plunder nach Deutschland!
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 13
@@ -43739,6 +44008,7 @@ setting: >-
 slug: keller-lieber-heute-als-morgen
 author:
   name: Keller, Heinrich
+  wikidata: Q94911670
 title: Lieber heute, als morgen
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 15
@@ -43787,6 +44057,7 @@ setting: >-
 slug: kepner-der-zerstreute
 author:
   name: Kepner, Johann Friedrich
+  wikidata: Q94932439
 title: Der Zerstreute
 subtitle: Ein original-Lustspiel in einem Aufzuge
 numberOfScenes: 10
@@ -51282,6 +51553,42 @@ cast:
 setting: >-
   Schauplatz: Der Landsitz der Frau von Thal.
 ---
+slug: kurlaender-abracadabra
+author:
+  name: Kurländer, Franz August von
+  wikidata: Q55122987
+title: Abracadabra
+subtitle: Eine Posse in einem Aufzuge
+numberOfScenes: 15
+printed: 1814
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele für Gesellschaftstheater. Von Franz August von Kurländer. Vierter Jahrgang. Wien und Triest: Geistinger 1814, S. 167–227"
+    url: https://books.google.com/books?id=nTJJAAAAcAAJ&pg=PA167
+cast:
+  - name: Bonaventura Stutzig.
+    gender: m
+  - name: Dorothea,
+    role: seine Frau.
+    gender: f
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - name: Thomas Kain.
+    gender: m
+  - name: Eugen,
+    role: sein Sohn.
+    gender: m
+  - name: Kilian Schund,
+    role: Quacksalber.
+    gender: m
+  - name: Hans,
+    role: Stutzigs Gärtner.
+    gender: m
+setting: >-
+  Scene: Stutzigs Garten mit einer Nische worin ein Tisch und eine Bank steht, gegen über eine Rasenbank und ein steinerner Tisch.
+---
 slug: kurlaender-baron-fueret
 author:
   name: Kurländer, Franz August von
@@ -55273,6 +55580,35 @@ cast:
 setting: >-
   Ort der Handlung: Ein Zimmer mit einer Mittel-Thüre und zwei Seiten-Thüren auf dem Schlosse des Barons.
 ---
+slug: lebrun-shakespeare
+author:
+  name: Lebrun, Karl August
+  wikidata: Q125304
+title: Shakespeare
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 11
+printed: 1818
+premiered: 1819-07-27
+formalia:
+  - Alexandriner
+basedOn:
+  - duval-shakespeare-amoureux-ou-la-piece-a-l-etude
+editions:
+  - title: "Neue kleine Lustspiele und Possen. Von Carl Lebrün, Schauspieler. Mainz: Kupferberg 1818"
+    url: https://books.google.com/books?id=Gsw6AAAAcAAJ&pg=RA3-PA5
+comments:
+  - "Einakterhinweis erst auf Theaterzetteln ([Hamburg 1819](https://www.stadttheater.uni-hamburg.de/node/15649))."
+  - "Untertitel im Druck »Ein Spiel in Versen« (1818)."
+cast:
+  - name: Clara,
+    role: eine junge Schauspielerin.
+    gender: f
+  - name: Anna,
+    role: ihre Kammerjungfer.
+    gender: f
+  - name: Shakespeare.
+    gender: m
+---
 slug: lebrun-vater-dominique-oder-sauer-ist-suess
 author:
   name: Lebrun, Karl August
@@ -55666,6 +56002,42 @@ cast:
     gender: m
 setting: >-
   Das Stück spielt in einer Residenz, in und vor dem Hause des Baron Linden. (Straße. Im Hintergrunde das Haus des Barons.)
+---
+slug: lenz-vier-treppen-hoch
+author:
+  name: Lenz, Johann Reinhold von
+  wikidata: Q22676991
+title: Vier Treppen hoch
+subtitle: Lustspiel in einem Aufzuge, nach dem Französischen
+numberOfScenes: 14
+printed: 1825
+premiered: 1827-01-16
+formalia:
+  - Prosa
+editions:
+  - title: "Caritas. Ein Taschenbuch zum Besten der Unterstützungs-Casse des Frauen-Vereins zu Riga herausgegeben von Dr. Karl Ludwig Grave. Riga: Häcker 1825, S. 93–162"
+    url: http://hdl.handle.net/10062/14642
+cast:
+  - name: Eduard Meil,
+    role: Maler.
+    gender: m
+  - name: August Lust,
+    role: Musiker.
+    gender: m
+  - name: Fritz Ritter,
+    role: angehender Arzt.
+    gender: m
+  - name: Karoline,
+    role: eine junge Waise.
+    gender: f
+  - name: Hühnerfeind,
+    role: Hauseigenthümer, Mützen- und Strumpf-Fabrikant.
+    gender: m
+  - name: Doktor Frank,
+    role: Professor der Arzeneikunde.
+    gender: m
+setting: >-
+  Das Theater: Eine Dachstube vier Treppen hoch. Haupteingangsthüre im Hintergrunde, in der Mitte mit einem kleinen Guckfensterchen. Seitenthüren rechts und links, im Vorgrunde rechts ein Fenster, links ein Kamin. Ein großes Gemälde auf der Staffelei.
 ---
 slug: leo-der-eheteufel
 author:
@@ -59740,6 +60112,8 @@ dictionaries:
 editions:
   - title: "Leipzig: Dyk 1778"
     url: https://books.google.com/books?id=rhtYAAAAcAAJ&printsec=frontcover
+  - title: "A. G. Meißners sämmtliche Werke. Erster Band. Wien: Doll 1813, S. 241–286"
+    url: https://books.google.com/books?id=nityOeAAvm8C&pg=PA241
 comments:
   - "[Notiz](https://books.google.com/books?id=rhtYAAAAcAAJ&pg=PP2) nach dem Personenverzeichnis: »Ein Frauenzimmer von männlichem Geiste, und sicher durch Kenntniß mehr als Einer Sprache der Nachbarschaft der besten männlichen Schriftsteller würdig, ist die eigentliche Uebersetzerinn dieser französischen Plaisanterie. Einige Aenderungen im Dialog, und die sehr leichte Uebertragung auf deutschen Grund und Boden schreiben sich von mir her. – Eine Freyheit, die ich mich nicht gewagt hätte, wenn ich nicht von ihr selbst dazu berechtigt worden wäre. – Der französische Autor ist unbekannt. Meißner.«"
 cast:
@@ -69281,6 +69655,8 @@ editions:
   - title: "Den Bühnen gegenüber als Manuscript. Hamburg: Verlags-Comptoir 1850"
     url: https://books.google.com/books?id=31eGBUsVk98C&pg=PA201
   - title: "Fünfte Auflage. Berlin: Bloch [1874]"
+comments:
+  - "Auch mit dem Untertitel »Posse mit Gesang in einem Akt«."
 cast:
   - name: Leopold Frey,
     role: ein Maler.
@@ -71231,6 +71607,63 @@ cast:
     gender: m
 setting: >-
   Die Scene ist im allgemeinen Zimmer eines Gasthofes, wo der Baron wohnt.
+---
+slug: scheerer-die-brieftasche-oder-wer-ist-schuldig
+author:
+  name: Scheerer, Joachim Gottfried Wilhelm
+  wikidata: Q23062460
+title: "Die Brieftasche, oder: Wer ist schuldig?"
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 23
+printed: 1808
+formalia:
+  - Prosa
+editions:
+  - title: "Linz: Kastner 1808"
+    url: https://books.google.com/books?id=5m9HAAAAcAAJ&printsec=frontcover
+cast:
+  - name: von Thüring,
+    role: Obrister der Kavallerie.
+    gender: m
+  - name: Karoline,
+    role: seine Gemahlin.
+    gender: f
+  - name: David,
+    role: ein alter Diener.
+    gender: m
+setting: >-
+  Die Scene ist in einem Städtchen, eine Meile von der Residenz. Die Handlung beginnt des Morgens und endigt gegen Abend.
+---
+slug: scheerer-die-schildwache
+author:
+  name: Scheerer, Joachim Gottfried Wilhelm
+  wikidata: Q23062460
+title: Die Schildwache
+subtitle: Ein Lustspiel in einem Aufzuge. Nach einer wahren Anekdote bearbeitet von *** 1805
+numberOfScenes: 9
+printed: 1808
+formalia:
+  - Prosa
+editions:
+  - title: "Linz: Kastner 1808"
+    url: https://books.google.com/books?id=DsdHAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Der Fürst.
+    gender: m
+  - name: Der Hauptmann von der Wache.
+    gender: m
+  - name: August Blanker,
+    role: Gardist.
+    gender: m
+  - name: Frau Marthe.
+    gender: f
+  - name: Christine.
+    gender: f
+  - name: Eine Wache.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Handlung spielt sich in einer deutschen Residenzstadt.
 ---
 slug: scheibe-der-eifersuechtige-schaefer-oder-der-fehler-der-liebe
 author:
@@ -82855,6 +83288,7 @@ formalia:
   - gereimte Verse
 editions:
   - title: "Dramatische Beiträge von Uno. Erstes Bändchen. Leipzig: Herbig 1824, S. 185–266"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0002FF2B00010191
 cast:
   - name: Tobias Klee,
     role: Großhändler.
@@ -82876,7 +83310,8 @@ setting: >-
 ---
 slug: uno-freund-sturm
 author:
-  pseudonym: Uno
+  name: Uno
+  pseudonym: Anonym
   wikidata: Q107650718
 title: Freund Sturm
 subtitle: Dramatische Kleinigkeit in einem Act
@@ -82886,6 +83321,7 @@ formalia:
   - Prosa
 editions:
   - title: "Dramatische Beiträge von Uno. Erstes Bändchen. Leipzig: Herbig 1824, S. 267–326"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0002FF2B00010273
 cast:
   - name: Carl von Freudenberg.
     gender: m
@@ -83409,7 +83845,7 @@ ids:
 cast:
   - name: Herr Ernst.
     gender: m
-  - name: Frank
+  - name: Frank,
     role: sein Kammerdiener.
     gender: m
   - name: Walter,
@@ -88592,7 +89028,7 @@ premiered: 1770-09-25
 formalia:
   - Prosa
 basedOn:
-  - "Jean-François Marmontel: »Sylvain. Comédie en un acte, mêlée d'ariettes«"
+  - marmontel-silvain
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 224–225
@@ -90147,6 +90583,7 @@ cast:
 slug: wimmer-der-kinderspiegel
 author:
   name: Wimmer, Franz Xaver
+  wikidata: Q108572720
 title: Der Kinderspiegel
 subtitle: Ein Familiengemälde in einer Handlung
 printed: 1785
@@ -90536,6 +90973,7 @@ setting: >-
 slug: zawitzer-arkatastor-und-illiane-oder-so-wird-grausamkeit-bestraft
 author:
   name: Zawitzer, Franz
+  wikidata: Q108607528
 title: "Arkatastor und Illiane, oder: So wird Grausamkeit bestraft"
 subtitle: Ein Original-Melodrama in einem Aufzuge
 numberOfScenes: 1
@@ -90554,8 +90992,10 @@ cast:
     role: Ein Prinz auf einer spanischen Küste.
     gender: m
   - name: Illiane.
-    role: Seine Gemahlin, mit ihrem Kinde.
+    role: Seine Gemahlin mit
     gender: f
+  - name: ihrem Kinde.
+    gender: u
   - name: Toantes.
     role: Ein Vertrauter des Arkatastors.
     gender: m
@@ -90623,6 +91063,278 @@ cast:
 setting: >-
   Die Handlung geht in einer spanischen Provinzstadt vor.
 ---
+slug: ziegler-achtzehn-tausend-thaler
+author:
+  name: Ziegler, Friedrich Wilhelm
+  wikidata: Q89747
+title: Achtzehn Tausend Thaler
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 13
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Sämmtliche dramatische Werke von F. W. Ziegler. Sechszehnter Band. Wien: Lechner 1834, S. 113–163"
+    url: https://books.google.com/books?id=Sh9srIsOWikC&pg=PA113
+cast:
+  - name: Van der Hort,
+    role: ein Kaufmann.
+    gender: m
+  - name: Wilhelm,
+    role: sein Sohn.
+    gender: m
+  - name: Nantchen,
+    role: seine Mündel.
+    gender: f
+  - name: Elias Trippel,
+    role: sein Buchhalter.
+    gender: m
+  - name: Susanna,
+    role: sein Haushälterinn.
+    gender: f
+  - name: Ein Collecteur.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+setting: >-
+  Ein Zimmer bey Van der Hort mit 2 Thüren, wovon die eine in den Garten geht.
+---
+slug: ziegler-amphitrio
+author:
+  name: Ziegler, Friedrich Wilhelm
+  wikidata: Q89747
+title: Amphitrio
+subtitle: Drama in einem Aufzuge
+numberOfScenes: 8
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Sämmtliche dramatische Werke von F. W. Ziegler. Vierzehnter Band. Wien: Lechner 1834, S. 155–189"
+    url: https://books.google.com/books?id=Yy5rOXmkUnoC&pg=PA155
+keywords:
+  - Tiere
+cast:
+  - name: Der Markgraf von M.
+    gender: m
+  - name: Der Forstmeister.
+    gender: m
+  - name: Der Oberjäger.
+    gender: m
+  - name: Jäger.
+    gender: m
+  - name: Michel Starr,
+    role: ein Bauer.
+    gender: m
+  - name: Nickel Hums,
+    role: seine Nachbar.
+    gender: m
+  - name: Georg Walff,
+    role: Richter.
+    gender: m
+  - name: Michels Weib und Kind.
+    isGroup: true
+    gender: u
+  - name: Bauern.
+    isGroup: true
+    gender: u
+---
+slug: ziegler-das-blutopfer
+author:
+  name: Ziegler, Friedrich Wilhelm
+  wikidata: Q89747
+title: Das Blutopfer
+subtitle: Drama in einem Aufzuge (Nach einer russischen Anecdote.)
+numberOfScenes: 8
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Sämmtliche dramatische Werke von F. W. Ziegler. Siebenzehnter Band. Wien: Lechner 1834, S. 161–175"
+    url: https://books.google.com/books?id=g65SaH2fXGMC&pg=PA161
+comments:
+  - In der letzten Szene ersticht sich Iwan, damit der kranke Sohn des Zaren sein Blut trinken kann, auf dass er geheilt werde.
+keywords:
+  - tragischer Ausgang
+cast:
+  - name: Der Czaar.
+    gender: m
+  - name: Der Fürst R***.
+    gender: m
+  - name: Der Graf P.
+    gender: m
+  - name: Der Leibmedicus.
+    gender: m
+  - name: Mehrere Aerzte.
+    isGroup: true
+    gender: m
+  - name: Kammerherren.
+    isGroup: true
+    gender: m
+  - name: Officiere.
+    isGroup: true
+    gender: m
+  - group:
+      - name: Corporal,
+        gender: m
+      - name: Iwan,
+        gender: m
+      - name: Theodor,
+        gender: m
+    role: Reiter auf der Wache.
+  - name: Iwanowitz,
+    role: Iwans Sohn.
+    gender: m
+  - name: Iwans Weib.
+    gender: f
+  - name: Mehrere Reiter auf der Wache.
+    isGroup: true
+    gender: m
+setting: >-
+  Kabinet.
+---
+slug: ziegler-die-kaution
+author:
+  name: Ziegler, Friedrich Wilhelm
+  wikidata: Q89747
+title: Die Kaution
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Sämmtliche dramatische Werke von F. W. Ziegler. Achtzehnter Band. Wien: Lechner 1834, S. 155–191"
+    url: https://books.google.com/books?id=0mVmuW98XuMC&pg=PA155
+cast:
+  - name: Obrist von Werther.
+    gender: m
+  - name: Sophie,
+    role: seine Tochter.
+    gender: f
+  - name: Ludwig von Werther,
+    role: weitläufiger Verwandter des Obrist.
+    gender: m
+  - name: Karl von Diesen,
+    role: Lieutenant.
+    gender: m
+  - name: Christian,
+    role: Bedienter des Obristen.
+    gender: m
+setting: >-
+  Die Handlung spielt im Hause des Obristen.
+---
+slug: ziegler-die-schleichwege
+author:
+  name: Ziegler, Friedrich Wilhelm
+  wikidata: Q89747
+title: Die Schleichwege
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 25
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Sämmtliche dramatische Werke von F. W. Ziegler. Siebenzehnter Band. Wien: Lechner 1834, S. 107–160"
+    url: https://books.google.com/books?id=g65SaH2fXGMC&pg=PA107
+cast:
+  - name: Madame Hohenberg.
+    gender: f
+  - name: Lottchen,
+    role: ihre Stieftochter.
+    gender: f
+  - name: Agnes,
+    role: ihr Mädchen.
+    gender: f
+  - name: Stram,
+    role: Secretair.
+    gender: m
+  - name: Reinhardt,
+    role: Galanteriehändler.
+    gender: m
+  - name: Rose,
+    role: ein Schneider.
+    gender: m
+  - name: Magnus,
+    role: Bedienter bey Madam Hohenberg.
+    gender: m
+setting: >-
+  Die Handlung spielt in Berlin. (Zimmer im Hause der Madam Hohenberg.)
+location:
+  wikidataId: Q64
+---
+slug: ziegler-es-bleibt-beym-alten
+author:
+  name: Ziegler, Friedrich Wilhelm
+  wikidata: Q89747
+title: Es bleibt beym Alten
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Sämmtliche dramatische Werke von F. W. Ziegler. Achtzehnter Band. Wien: Lechner 1834, S. 121–154"
+    url: https://books.google.com/books?id=0mVmuW98XuMC&pg=PA121
+cast:
+  - name: Fabrizius,
+    role: ein Kaufmann, welcher nun in Ruhe lebt.
+    gender: m
+  - group:
+      - name: Johanna,
+        gender: f
+      - name: Charlotte,
+        gender: f
+    role: seine Töchter.
+  - name: Licentiat Rasor,
+    role: Johannen bestimmt.
+    gender: m
+  - name: Kaufmann Finger,
+    role: Charlotten bestimmt.
+    gender: m
+setting: >-
+  Die Handlung bey Fabrizius.
+---
+slug: ziegler-stumme-liebe
+author:
+  name: Ziegler, Friedrich Wilhelm
+  wikidata: Q89747
+title: Stumme Liebe
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1799
+premiered: 1799-10-30
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1799"
+    url: https://books.google.com/books?id=UeK_-gmOPFQC&printsec=frontcover
+  - title: "Wien: Wallishausser 1802"
+    url: https://books.google.com/books?id=RjCpZ-3MUxkC&printsec=frontcover
+  - title: "Sämmtliche dramatische Werke von F. W. Ziegler. Zehnter Band. Wien: Hirschfeld 1824, S. 246–284"
+    url: https://books.google.com/books?id=RVQ7AAAAcAAJ&pg=PA247
+cast:
+  - name: Graf von Ulenberg,
+    role: General.
+    gender: m
+  - name: Julie,
+    role: seine Tochter.
+    gender: f
+  - name: Baronin von Gosenstein.
+    gender: f
+  - name: Graf von Asperg.
+    gender: m
+  - name: Herr von Kronschild,
+    role: ein Mahler.
+    gender: m
+  - name: Johann,
+    role: ein Jäger.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+setting: >-
+  Die Handlung geht auf dem Gute des Grafen Asperg vor. (Gartensaal.)
+---
 slug: ziegler-vierzehn-tage-nach-dem-schusse
 author:
   name: Ziegler, Friedrich Wilhelm
@@ -90630,10 +91342,12 @@ author:
 title: Vierzehn Tage nach dem Schusse
 subtitle: "Original-Lustspiel in einem Acte. Fortsetzung des Lustspiels: Die vier Temperamente"
 numberOfScenes: 22
-printed: 1839
+printed: 1824
 formalia:
   - Prosa
 editions:
+  - title: "Sämmtliche dramatische Werke von F. W. Ziegler. Erster Band. Wien: Hirschfeld 1824, S. 207–251"
+    url: https://books.google.com/books?id=Gm5MAAAAcAAJ&pg=PA207
   - title: "Sämmtliche dramatische Werke von F. W. Ziegler. Erster Band. Wien: Lechner 1839, S. 137–166"
     url: https://www.digitale-sammlungen.de/de/view/bsb10123939?page=143
 cast:
