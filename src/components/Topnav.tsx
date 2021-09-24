@@ -21,7 +21,7 @@ function Topnav () {
       <Navbar.Brand href="/">Einakter</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
-        <Nav className="mr-auto">
+        <Nav>
           <Nav.Link href="/about" active={isActive('/about')}>
             <Trans>About</Trans>
           </Nav.Link>
@@ -32,7 +32,7 @@ function Topnav () {
             <Trans>Originals</Trans>
           </Nav.Link>
         </Nav>
-        <Nav className="ml-auto">
+        <Nav>
           {locales.map((locale) => (
             <span
               key={locale}
