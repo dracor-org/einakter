@@ -1,19 +1,23 @@
-import React, {useEffect} from 'react';
+import React, {useEffect, useContext} from 'react';
 import {useLocation, useParams} from "react-router-dom";
-import {Table} from 'react-bootstrap';
+import {Table, Row, Col} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
+import AuthorInfo from './AuthorInfo';
 import Dictionaries from './Dictionaries';
 import Years from './Years';
+import IdLink from './IdLink';
+import BasedOn from './BasedOn';
+import {EinakterContext} from '../context';
 import {CastMember, Play} from '../types';
-import data from '../data.json';
 
 const groupIcon = <FontAwesomeIcon icon="users" size="sm" title="Group"/>;
 
 export default function Details () {
   const { id } = useParams<{id: string}>();
   const { pathname } = useLocation();
+  const { plays: data } = useContext(EinakterContext);
 
   const play: Play | undefined = data.find((p: Play) => p.slug === id);
 
@@ -40,6 +44,7 @@ export default function Details () {
     numberOfScenes,
     premiered,
     printed,
+    reviews,
     setting,
     location,
     basedOn,
@@ -47,13 +52,28 @@ export default function Details () {
 
   return (
     <div className="details">
-      <hgroup>
-        <h2>
-          <Authors authors={authors}/>
-        </h2>
-        <h1>{title}</h1>
-        {subtitle && <h3>{subtitle}</h3>}
-      </hgroup>
+      <Row>
+        <Col>
+          <hgroup>
+            <h2>
+              <Authors authors={authors}/>
+            </h2>
+            <h1>{title}</h1>
+            {subtitle && <h3>{subtitle}</h3>}
+          </hgroup>
+        </Col>
+        <Col>
+          <div className="author-info-container">
+            {authors.filter(a => Boolean(a.wikidata)).map(a => (
+              <AuthorInfo
+                key={a.wikidata}
+                fullname={a.name || ''}
+                wikidataId={a.wikidata || ''}
+              />
+            ))}
+          </div>
+        </Col>
+      </Row>
       <Table>
         <tbody>
           {comments && (
@@ -64,6 +84,20 @@ export default function Details () {
                   {comments.map((c, i) => (
                     <li key={`comment-${i}`}>
                       <ReactMarkdown>{c}</ReactMarkdown>
+                    </li>
+                  ))}
+                </ul>
+              </td>
+            </tr>
+          )}
+          {reviews && (
+            <tr>
+              <th>Reviews</th>
+              <td>
+                <ul>
+                  {reviews.map((r, i) => (
+                    <li key={`review-${i}`}>
+                      <ReactMarkdown>{r}</ReactMarkdown>
                     </li>
                   ))}
                 </ul>
@@ -87,9 +121,19 @@ export default function Details () {
               <th>Links</th>
               <td>
                 <ul>
-                  {ids.dracor && <li>DraCor: <a href={`https://dracor.org/id/${ids.dracor}`}>{ids.dracor}</a></li>}
-                  {ids.wikidata && <li>Wikidata: <a href={`https://www.wikidata.org/wiki/${ids.wikidata}`}>{ids.wikidata}</a></li>}
-                  {ids.weber && <li>Weber-Gesamtausgabe: <a href={`http://weber-gesamtausgabe.de/${ids.weber}`}>{ids.weber}</a></li>}
+                  {ids.dracor && (
+                    <li>DraCor: <IdLink id={ids.dracor} type="dracor"/></li>
+                  )}
+                  {ids.wikidata && (
+                    <li>
+                     Wikidata: <IdLink id={ids.wikidata} type="wikidata"/>
+                    </li>
+                  )}
+                  {ids.weber && (
+                    <li>
+                      Weber-Gesamtausgabe: <IdLink id={ids.weber} type="weber"/>
+                    </li>
+                  )}
                 </ul>
               </td>
             </tr>
@@ -122,6 +166,8 @@ export default function Details () {
                           {member.name}
                           {member.role && (<i> {member.role}</i> )}
                           {member.gender && ` (${member.gender})`}
+                          {' '}
+                          {member.isGroup && groupIcon}
                         </li>
                       ))}
                       </ul>
@@ -149,9 +195,7 @@ export default function Details () {
             <tr>
               <th>Location</th>
               <td>
-                <a href={`https://www.wikidata.org/wiki/${location.wikidataId}`}>
-                  {location.wikidataId}
-                </a>
+                <IdLink id={location.wikidataId} type="wikidata"/>
               </td>
             </tr>
           )}
@@ -159,13 +203,7 @@ export default function Details () {
             <tr>
               <th>Based on</th>
               <td>
-                <ul>
-                  {basedOn.map(text => (
-                    <li key={text}>
-                      <ReactMarkdown>{text}</ReactMarkdown>
-                    </li>
-                  ))}
-                </ul>
+                <BasedOn refs={basedOn}/>
               </td>
             </tr>
           )}

@@ -4,11 +4,14 @@ import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import {Link} from 'react-router-dom';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
+import Statistics from './Statistics';
+import IdLink from './IdLink';
 import {Play} from '../types';
 import data from '../data.json';
+import authors from '../authors.json';
 
 function formatAuthor (_: string, play: Play) {
-  return <Authors authors={play.authors || []}/>;
+  return <Authors authors={play.authors || []} withLink/>;
 }
 
 function formatTitle (_: string, play: Play) {
@@ -35,7 +38,7 @@ function formatKeywords (_: string, play: Play) {
 function formatWikidata (id: any | undefined) {
   return id ? (
     <small>
-      <a href={`https://www.wikidata.org/wiki/${id}`}>{id}</a>
+      <IdLink id={id} type="wikidata"/>
     </small>
   ) : <i/>; // we need to return an element to avoid a typescript error
 }
@@ -99,10 +102,6 @@ function Table () {
   
   const { SearchBar } = Search;
   
-  const total = data.reduce((sum: number, play: Play) => {
-    return sum + (play.numberOfCharacters || 0);
-  }, 0);
-
   return (
     <ToolkitProvider
       keyField='slug'
@@ -113,18 +112,14 @@ function Table () {
       {
         props => (
           <div>
-            <br/>
+            <Statistics plays={data} authors={authors} />
             <SearchBar { ...props.searchProps } />
-            <span className="counter">
-              Database currently containing {data.length} one-act plays
-              {' '}
-              featuring {total} characters
-              {' '}
-              <a href="data.json" className="download" download="einakter.json">
+            <span className="download">
+              <a href="data.json" download="einakter.json">
                 <FontAwesomeIcon icon="download" title="Download JSON"/>
               </a>
               {' '}
-              <a href="data.csv" className="download" download="einakter.csv">
+              <a href="data.csv" download="einakter.csv">
                 <FontAwesomeIcon icon="file-csv" title="Download CSV"/>
               </a>
             </span>

@@ -8,7 +8,7 @@ import About from './components/About';
 import Map from './components/Map';
 import './icons';
 
-import './App.css';
+import './App.scss';
 
 function App () {
   return (

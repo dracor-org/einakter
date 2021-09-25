@@ -58,7 +58,20 @@ Generates CSV file `data.csv` from [`data.yaml`](data.yaml).
 Update [`authors.json`](src/authors.json). This fetches author data for new
 author IDs in `data.yaml` and adds it to `src/authors.json`.
 
+To update existing IDs they can be passed as arguments:
+
+```bash
+yarn authors Q123 Q4566
+```
+
 ### `yarn locations`
 
 Update [`locations.json`](src/locations.json). This fetches coordinates for
 new location IDs in `data.yaml` and adds them to `src/locations.json`.
+
+## License
+
+The code of this project is licensed under the MIT License.
+
+The data files (data.yaml, originals.yaml) are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

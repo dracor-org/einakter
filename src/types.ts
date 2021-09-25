@@ -2,6 +2,7 @@ export interface CastGroupMember {
   name: string
   gender?: string
   role?: string
+  isGroup?: boolean
 }
 
 export interface CastMember {
@@ -40,7 +41,8 @@ export interface Play {
   slug: string
   title: string
 
-  basedOn?: string[]
+  basedOn?: (string | OriginalPlay)[]
+  basedOnLanguage?: string
   cast?: CastMember[]
   comments?: string[]
   created?: number
@@ -58,6 +60,7 @@ export interface Play {
   numberOfScenes?: number
   premiered?: string | number
   printed?: number
+  reviews?: string[]
   setting?: string
   location?: {
     wikidataId: string
@@ -67,4 +70,21 @@ export interface Play {
     wikidataId?: string
   }
   subtitle?: string
+}
+
+export interface OriginalPlay {
+  id: string
+  author?: Author
+  authors?: Author[]
+  title: string
+  subtitle?: string
+  language?: string
+  created?: number
+  printed?: number
+  premiered?: string | number
+  fulltextUrl?: string
+  ids?: {
+    dracor?: string
+    wikidata?: string
+  }
 }
