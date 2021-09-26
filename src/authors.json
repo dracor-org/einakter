@@ -120,6 +120,12 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q108662563": {
+    "name": "J. E. R.",
+    "gnd": "142117870",
+    "birth": {},
+    "death": {}
+  },
   "Q3167933": {
     "name": "Johann Michael Armbruster",
     "gnd": "115602348",
@@ -2270,6 +2276,17 @@
     },
     "gender": "male"
   },
+  "Q55844025": {
+    "name": "Anton Gubitz",
+    "gnd": "116908270",
+    "birth": {
+      "date": "1821-11-25T00:00:00Z"
+    },
+    "death": {
+      "date": "1857-12-04T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q95340914": {
     "name": "Louis Amanley de Guehery",
     "gnd": "133547221",
@@ -3573,6 +3590,22 @@
     },
     "gender": "male"
   },
+  "Q1733174": {
+    "name": "Karl Theodor von Küstner",
+    "gnd": "116611316",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Theodor%20K%C3%BCstner.JPG",
+    "birth": {
+      "date": "1784-11-26T00:00:00Z",
+      "place": "Leipzig",
+      "placeId": "http://www.wikidata.org/entity/Q2079"
+    },
+    "death": {
+      "date": "1864-10-28T00:00:00Z",
+      "place": "Leipzig",
+      "placeId": "http://www.wikidata.org/entity/Q2079"
+    },
+    "gender": "male"
+  },
   "Q89961": {
     "name": "Joseph Kupelwieser",
     "gnd": "134672275",
@@ -4345,6 +4378,13 @@
     },
     "gender": "male"
   },
+  "Q108663043": {
+    "name": "Ritter von Morenbach",
+    "gnd": "1044474505",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q215781": {
     "name": "Karl Philipp Moritz",
     "gnd": "118584162",
@@ -4646,6 +4686,24 @@
     },
     "gender": "male"
   },
+  "Q108662973": {
+    "name": "Theophil Pädodes",
+    "gnd": "1157563325",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
+  "Q108662929": {
+    "name": "Johann Carl Wilhelm Palm",
+    "gnd": "124600344",
+    "birth": {
+      "date": "1771-01-01T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "death": {},
+    "gender": "male"
+  },
   "Q55134193": {
     "name": "Anton Pannasch",
     "gnd": "116022760",
@@ -4671,6 +4729,13 @@
     },
     "gender": "male"
   },
+  "Q108662760": {
+    "name": "Georg Pape",
+    "gnd": "1056094850",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q30541298": {
     "name": "Karl Michael von Pauerspach",
     "gnd": "11859205X",
@@ -4682,6 +4747,13 @@
     "death": {
       "date": "1802-08-09T00:00:00Z"
     },
+    "gender": "male"
+  },
+  "Q108662713": {
+    "name": "Karl Payer",
+    "gnd": "1045762865",
+    "birth": {},
+    "death": {},
     "gender": "male"
   },
   "Q55858581": {
@@ -4795,6 +4867,13 @@
     },
     "gender": "male"
   },
+  "Q108662662": {
+    "name": "Friedrich Pitt",
+    "gnd": "1157463916",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q813791": {
     "name": "Beda Plank",
     "gnd": "100656234",
@@ -4897,6 +4976,21 @@
     "death": {},
     "gender": "male"
   },
+  "Q55903671": {
+    "name": "Johann Protkhe",
+    "gnd": "1035754681",
+    "birth": {
+      "date": "1750-01-01T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1791-01-01T00:00:00Z",
+      "place": "Linz",
+      "placeId": "http://www.wikidata.org/entity/Q41329"
+    },
+    "gender": "male"
+  },
   "Q94887961": {
     "name": "Christian Leopold Julius Pulvermacher",
     "gnd": "1046208098",
@@ -4926,6 +5020,13 @@
       "place": "Groß Pankow",
       "placeId": "http://www.wikidata.org/entity/Q370074"
     },
+    "gender": "male"
+  },
+  "Q108662518": {
+    "name": "Karl Theodor Rabenalt",
+    "gnd": "1220463256",
+    "birth": {},
+    "death": {},
     "gender": "male"
   },
   "Q1357343": {
@@ -5019,6 +5120,17 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q108658184": {
+    "name": "Johann Jakob Christian von Reck",
+    "gnd": "115375228",
+    "birth": {
+      "date": "1756-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1797-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q3129467": {
     "name": "Heinrich August Ottokar Reichard",
     "gnd": "116397306",
@@ -5064,6 +5176,19 @@
       "date": "1849-01-01T00:00:00Z",
       "place": "Stuttgart",
       "placeId": "http://www.wikidata.org/entity/Q1022"
+    },
+    "gender": "male"
+  },
+  "Q108658115": {
+    "name": "Bernhard Heinrich Karl Reinhard",
+    "gnd": "123123194",
+    "birth": {
+      "date": "1760-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1799-01-01T00:00:00Z",
+      "place": "Breslau",
+      "placeId": "http://www.wikidata.org/entity/Q1799"
     },
     "gender": "male"
   },
@@ -5752,6 +5877,13 @@
     },
     "gender": "male"
   },
+  "Q108657987": {
+    "name": "Carl Friedrich Schmidt",
+    "gnd": "1028287143",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q214659": {
     "name": "Louis Schneider",
     "gnd": "116836709",
@@ -6370,6 +6502,18 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q108657889": {
+    "name": "Gottlob Benjamin Straube",
+    "gnd": "14287616X",
+    "birth": {
+      "place": "Breslau",
+      "placeId": "http://www.wikidata.org/entity/Q1799"
+    },
+    "death": {
+      "date": "1773-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q55123185": {
     "name": "Johann Heinrich Millenet",
     "gnd": "117042196",
@@ -6406,6 +6550,13 @@
       "place": "Mainz",
       "placeId": "http://www.wikidata.org/entity/Q1720"
     },
+    "gender": "male"
+  },
+  "Q108657855": {
+    "name": "Johann Thiard",
+    "gnd": "115695222",
+    "birth": {},
+    "death": {},
     "gender": "male"
   },
   "Q55126793": {
@@ -6475,6 +6626,15 @@
       "place": "Berlin",
       "placeId": "http://www.wikidata.org/entity/Q64"
     },
+    "gender": "male"
+  },
+  "Q108657819": {
+    "name": "Johann Alexander Tießen",
+    "gnd": "140386785",
+    "birth": {
+      "date": "1733-01-01T00:00:00Z"
+    },
+    "death": {},
     "gender": "male"
   },
   "Q60843664": {
