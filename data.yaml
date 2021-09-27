@@ -2542,15 +2542,13 @@ printed: 1789
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Cérou: [»L'amant auteur et valet. Comédie en un acte et en prose«](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/CEROU_AMANTAUTEUR.xml)"
+  - cerou-l-amant-auteur-et-valet
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 30, S. 330–331
 editions:
   - title: "Pägnia. Ein Buch zur Unterhaltung. Zweyte Sammlung. Leipzig: Schneider 1789, S. 37–110"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb10116001.html?pageNo=43
-comments:
-  - "Weitere Übersetzung: [Anonym 1752](anonym-der-liebhaber-ein-schriftsteller-und-ein-lackey)."
 cast:
   - name: Baronesse v. Hochheim,
     role: eine junge Wittwe.
@@ -3349,7 +3347,7 @@ printed: 1780
 formalia:
   - Prosa
 basedOn:
-  - "Jean-Baptiste Rousseau: [»Le café. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/ROUSSEAUJB_CAFE.xml)"
+  - rousseau-le-cafe
 editions:
   - title: "Zwey Lustspiele von einem Akt. Aus dem Französischen des Herrn Johann Baptist Rousseau übersezt. Nordhausen: Groß 1780, S. 51–108"
     url: https://books.google.com/books?id=ahBaAAAAcAAJ&pg=PA51
@@ -5312,7 +5310,7 @@ premiered: 1741-11-01
 formalia:
   - Prosa
 basedOn:
-  - "Noël Lebreton de Hauteroche: [»Le cocher supposé. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/HAUTEROCHE_COCHERSUPPOSE.xml)"
+  - hauteroche-le-cocher-suppose
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 11, S. 356, und Band 19, S. 189, und Band 20, S. 199–200
@@ -5396,7 +5394,7 @@ premiered: 1752
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Cérou: [»L'amant auteur et valet. Comédie en un acte et en prose«](http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/CEROU_AMANTAUTEUR.xml)"
+  - cerou-l-amant-auteur-et-valet
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 17, S. 408, und Band 18, S. 152–154
@@ -5405,7 +5403,6 @@ editions:
     url: https://books.google.com/books?id=KN63ibLRsdAC&printsec=frontcover
 comments:
   - Auch unter den Titeln »Der Liebhaber als ein Schriftsteller und Bedienter. Ein Lustspiel von einer Handlung« (1755), »Der Liebhaber, als Autor und Diener. Ein Lustspiel […] in einem Aufzuge« (1759) und »Der Liebhaber, als ein Schriftsteller und Bedienter. Eine Comödie […] in einem Ackte« (1767).
-  - "Weitere Übersetzung: [Anonym 1789](anonym-autor-und-diener-aus-liebe)."
   - Vgl. [14. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb014.html)
     der »Hamburgischen Dramaturgie«.
 keywords:
@@ -7186,7 +7183,7 @@ printed: 1745
 formalia:
   - Prosa
 basedOn:
-  - "Jean-Baptiste Rousseau: [»Le café. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/ROUSSEAUJB_CAFE.xml)"
+  - rousseau-le-cafe
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 13, S. 25–26
@@ -7508,7 +7505,7 @@ printed: 1742
 formalia:
   - Prosa
 basedOn:
-  - "Michel Guyot de Merville: [»Le consentement forcé. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/GUYOTDEMERVILLE_CONSENTEMENTFORCE.xml)"
+  - guyot-de-merville-le-consentement-force
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 12, S. 31, und Band 20, S. 183–184
@@ -7517,7 +7514,6 @@ editions:
     url: https://books.google.com/books?id=PBhaAAAAcAAJ&pg=PA183
 comments:
   - 1762 unter dem Titel »Die erzwungene Einwilligung, ein Lustspiel aus dem Französischen des Herrn Guyot de Merville«.
-  - "Weitere Übersetzungen: [1768 (Walz)](walz-einwilligung-wider-willen) und [1771 (Gebler)](gebler-die-abgenoethigte-einwilligung)."
 cast:
   - name: Orgon.
     gender: m
@@ -8585,13 +8581,12 @@ premiered: 1785-11-27
 formalia:
   - Prosa
 basedOn:
-  - "Pierre-Germain Parisau: [»Le repentir de Figaro. Comédie en un acte, en prose«](https://books.google.com/books?id=wrhoAAAAcAAJ&printsec=frontcover)"
+  - parisau-le-repentir-de-figaro
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 29, S. 184
 comments:
   - Nur Manuskript.
-  - "Weitere Übersetzungen: [Schröder 1785](schroeder-figaros-reue), [Oliva 1786](oliva-figaros-reue-nach-der-hochzeit)."
 cast:
   - name: Der Graf Almaviva.
     gender: m
@@ -17977,14 +17972,12 @@ printed: 1816
 formalia:
   - Prosa
 basedOn:
-  - "Jean-Baptiste Dubois: [»Marton et Frontin, ou Assaut de valets. Comédie en un acte, en prose«](https://books.google.com/books?id=dxFGj_gOT44C&printsec=frontcover)"
+  - dubois-marton-et-frontin-ou-assaut-de-valets
 editions:
   - title: "Neue deutsche Schaubühne oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Zwölfter Band. Augsburg und Leipzig: Jenisch und Stage [1816], S. 119–166"
     url: https://books.google.com/books?id=Hyo7AAAAcAAJ&pg=PA119
   - title: "Thalia. Sammlung neuer Schauspiele von C. Bonafont. Erstes Bändchen. Augsburg und Leipzig 1816, S. 119–166"
     url: https://books.google.com/books?id=5Xc6AAAAcAAJ&pg=RA1-PA119
-comments:
-  - "Weitere Übersetzungen: [Castelli 1804](castelli-domesticken-streiche) (unter dem Titel »Domesticken-Streiche«), [Bonafont 1826](bonafont-list-um-list) (unter dem Titel »List um List«)."
 keywords:
   - Verstellspiel
   - Verkleidungsspiel
@@ -18175,13 +18168,12 @@ printed: 1826
 formalia:
   - Prosa
 basedOn:
-  - "Jean-Baptiste Dubois: [»Marton et Frontin, ou Assaut de valets. Comédie en un acte, en prose«](https://books.google.com/books?id=dxFGj_gOT44C&printsec=frontcover)"
+  - dubois-marton-et-frontin-ou-assaut-de-valets
 editions:
   - title: "Thaliens Spenden für Bühnen und Privattheater von C. Ph. Bonafont. Zweiter Band. Leipzig: Kaiser 1826, S. 1–50"
     url: https://books.google.com/books?id=qAU-AQAAMAAJ&l&pg=PA1
 comments:
   - "Hinweis unter dem Personenverzeichnis: »Dieses kleine, nur zwei Personen erfordernde Bühnenspiel, eignet sich vorzüglich für Gesellschaftstheater uns selbst zur Darstellung in einem Salon, wo mit Hülfe einiger sogenannte spanische Wände, eine Art von Theater leicht eingerichtet werden kann.«"
-  - "Weitere Übersetzungen: [Castelli 1804](castelli-domesticken-streiche) (unter dem Titel »Domesticken-Streiche«), [Bonafont 1816](bonafont-betrug-fuer-betrug-oder-bedientenstreiche) (unter dem Titel »Betrug für Betrug oder Bedientenstreiche«)."
 keywords:
   - Verstellspiel
   - Verkleidungsspiel
@@ -18434,7 +18426,7 @@ premiered: 1775-01-28
 formalia:
   - Prosa
 basedOn:
-  - "François-Armand Huguet, dit Armand: [»Le cri de la nature. Comédie en vers et en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/ARMAND_CRINATURE.xml)"
+  - armand-le-cri-de-la-nature
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 77–78
@@ -21646,7 +21638,7 @@ premiered: 1804-08-27
 formalia:
   - Prosa
 basedOn:
-  - "Jean-Baptiste Dubois: [»Marton et Frontin, ou Assaut de valets. Comédie en un acte, en prose«](https://books.google.com/books?id=dxFGj_gOT44C&printsec=frontcover)"
+  - dubois-marton-et-frontin-ou-assaut-de-valets
 editions:
   - title: "Wien: Wallishausser 1805"
     url: https://books.google.com/books?id=yLdTAAAAcAAJ&printsec=frontcover
@@ -21654,7 +21646,6 @@ editions:
   - title: "I. F. Castelli's Theater. Vollständige Ausgabe letzter Hand, in strenger Auswahl. Zweites Bändchen. Zweite vermehrte Auflage. Wien: Mayer 1848, S. 173–208"
     url: https://books.google.com/books?id=gHjfAAAAMAAJ&pg=PA173
 comments:
-  - "Weitere Übersetzungen: [Bonafont 1816](bonafont-betrug-fuer-betrug-oder-bedientenstreiche) (unter dem Titel »Betrug für Betrug oder Bedientenstreiche«), [Bonafont 1826](bonafont-list-um-list) (unter dem Titel »List um List«)."
   - "Später auch unter dem Titel »Fünf sind Zwei oder Domestikenstreiche« (1825)."
 keywords:
   - Verstellspiel
@@ -25520,7 +25511,7 @@ printed: 1842
 formalia:
   - Prosa
 basedOn:
-  - "Emmanuel Théaulon und Stephen Arnoult: [»Une visite nocturne ou Cartouche. Comédie-vaudeville en un acte«](https://books.google.com/books?id=32rB2JAqMosC&printsec=frontcover)"
+  - theaulon-arnoult-une-visite-nocturne-ou-cartouche
 editions:
   - title: "Berliner Theater-Almanach. Herausgegeben von Alexander Cosmar. Siebenter Jahrgang. Berlin: Bade 1842, S. 1–42"
     url: https://books.google.com/books?id=7VI7AAAAcAAJ&pg=PA1
@@ -25768,7 +25759,7 @@ printed: 1842
 formalia:
   - Prosa
 basedOn:
-  - "Lockroy und Auguste Anicet-Bourgeois: [»Passé minuit. Vaudeville en un acte«](https://books.google.com/books?id=c4E_AAAAcAAJ&printsec=frontcover)"
+  - lockroy-anicet-bourgeois-passe-minuit
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band X, No. 74. Berlin: Hayn 1842, S. 1273–1281"
     url: https://books.google.com/books?id=7hqR4A5fSvcC&pg=PA1273
@@ -26020,7 +26011,7 @@ premiered: 1785-09-13
 formalia:
   - Prosa
 basedOn:
-  - "Joseph Patrat: [»Le fou raisonnable, ou L'anglois. Comédie«](https://books.google.com/books?id=c1dbAAAAQAAJ&printsec=frontcover)"
+  - patrat-le-fou-raisonnable-ou-l-anglois
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 29, S. 399–400
@@ -29961,15 +29952,13 @@ premiered: 1771-10-05
 formalia:
   - Prosa
 basedOn:
-  - "Michel Guyot de Merville: [»Le consentement forcé. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/GUYOTDEMERVILLE_CONSENTEMENTFORCE.xml)"
+  - guyot-de-merville-le-consentement-force
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 331
 editions:
   - title: "Wien: Trattner 1771"
     url: https://books.google.com/books?id=NJ0yAQAAMAAJ&printsec=frontcover
-comments:
-  - "Weitere Übersetzungen: [1742 (anonym)](anonym-die-erzwungene-einwilligung) und [1768 (Walz)](walz-einwilligung-wider-willen)."
 cast:
   - name: Herr von Lindthal;
     role: Vater.
@@ -47116,7 +47105,7 @@ premiered: 1823-06-05
 formalia:
   - Prosa
 basedOn:
-  - "Marc-Antoine Legrand: [»L'aveugle clair-voyant. Comédie«](https://books.google.com/books?id=FcgFAAAAQAAJ&pg=PA59)"
+  - legrand-l-aveugle-clair-voyant
 editions:
   - title: "Taschenbuch des kaiserl. königl. privil. Leopoldstädter-Theaters, für das Jahr 1828. Herausgegeben von C. J. Metzger. Fünfzehnter Jahrgang. Wien: von Hirschfeld 1828, S. 145–182"
     url: https://books.google.com/books?id=xEM9aCC5YmEC&pg=PA145
@@ -49704,7 +49693,7 @@ premiered: 1804-11-17
 formalia:
   - Prosa
 basedOn:
-  - "Jean-Nicolas Bouilly: [»Zoë ou la pauvre petite. Opéra en un acte«](https://books.google.com/books?id=apk9hxNtKRIC&printsec=frontcover)"
+  - bouilly-zoe-ou-la-pauvre-petite
 dictionaries:
   - name: kotzebue
     pages: S. 108–109
@@ -55923,11 +55912,11 @@ printed: 1822
 premiered: 1821-10-20
 formalia:
   - Prosa
+basedOn:
+  - picard-radet-la-maison-en-loterie
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zwanzigster Jahrgang. Leipzig: Kummer 1822, S. 1–54"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044934_00009.html
-comments:
-  - "Nach dem Französischen des Louis-Benoît Picard: [»La maison en lotérie. Comédie en un acte, mêlée de couplets«](https://books.google.com/books?id=lotJAQAAMAAJ&pg=PA1) (vgl. [Goedeke](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA390))."
 cast:
   - name: Vortheil,
     role: Notar.
@@ -61250,15 +61239,13 @@ printed: 1779
 formalia:
   - Prosa
 basedOn:
-  - "Marc-Antoine Legrand: [»L'aveugle clair-voyant. Comédie«](https://books.google.com/books?id=FcgFAAAAQAAJ&pg=PA59)"
+  - legrand-l-aveugle-clair-voyant
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 286
 editions:
   - title: "Olla Potrida. Drittes Stück. Berlin: Wever 1779, S. 191–221"
     url: https://books.google.com/books?id=NLMvabe-U6sC&pg=RA1-PA191
-comments:
-  - "Weitere Übersetzungen: [1752 (Suabe)](suabe-der-sehende-blinde), [1777 (Seyfried)](seyfried-der-sehende-blinde)."
 cast:
   - name: Damon,
     role: ein Seeofficier.
@@ -64237,14 +64224,12 @@ premiered: 1785-11-27
 formalia:
   - Prosa
 basedOn:
-  - "Pierre-Germain Parisau: [»Le repentir de Figaro. Comédie en un acte, en prose«](https://books.google.com/books?id=wrhoAAAAcAAJ&printsec=frontcover)"
+  - parisau-le-repentir-de-figaro
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 29, S. 445
 editions:
   - title: "[Ohne Ort: ohne Verlag] 1786"
-comments:
-  - "Weitere Übersetzungen: [Anonym 1785](anonym-die-reue-des-figaro), [Schröder 1785](schroeder-figaros-reue)."
 cast:
   - name: Graf Almaviva.
     gender: m
@@ -74280,15 +74265,13 @@ printed: 1785
 formalia:
   - Prosa
 basedOn:
-  - "Joseph Patrat: [»Le fou raisonnable, ou L'anglois. Comédie«](https://books.google.com/books?id=c1dbAAAAQAAJ&printsec=frontcover)"
+  - patrat-le-fou-raisonnable-ou-l-anglois
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 29, S. 295
 editions:
   - title: "Theatralische Sammlung. Zwölfter Band. Wien: Jahn 1791, S. 313–352"
     url: https://books.google.com/books?id=ZRo-aW9HI0oC&pg=PA313
-comments:
-  - "Weitere Übersetzung: [Thiard 1790](thiard-jakob-splin-oder-der-vernuenftige-narr)."
 keywords:
   - Eheanbahnung
   - Geld
@@ -76500,7 +76483,7 @@ premiered: 1784-07-01
 formalia:
   - Prosa
 basedOn:
-  - "Joseph Patrat: [»Le fou raisonnable, ou L'anglois. Comédie«](https://books.google.com/books?id=c1dbAAAAQAAJ&printsec=frontcover)"
+  - patrat-le-fou-raisonnable-ou-l-anglois
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 29, S. 464–465
@@ -76742,13 +76725,12 @@ premiered: 1786
 formalia:
   - Prosa
 basedOn:
-  - "Pierre-Germain Parisau: [»Le repentir de Figaro. Comédie en un acte, en prose«](https://books.google.com/books?id=wrhoAAAAcAAJ&printsec=frontcover)"
+  - parisau-le-repentir-de-figaro
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 29, S. 298
 comments:
   - Nur Manuskript.
-  - "Weitere Übersetzungen: [Anonym 1785](anonym-die-reue-des-figaro), [Oliva 1786](oliva-figaros-reue-nach-der-hochzeit)."
 cast:
   - name: Graf Almaviva.
     gender: m
@@ -78166,14 +78148,12 @@ premiered: 1764-02-22
 formalia:
   - Prosa
 basedOn:
-  - "Marc-Antoine Legrand: [»L'aveugle clair-voyant. Comédie«](https://books.google.com/books?id=FcgFAAAAQAAJ&pg=PA59)"
+  - legrand-l-aveugle-clair-voyant
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 560
 editions:
   - title: "Dresden: Hilscher 1777"
-comments:
-  - "Weitere Übersetzungen: [1752 (Suabe)](suabe-der-sehende-blinde), [1779 (Meyer)](meyer-der-verstellte-blinde)."
 keywords:
   - Verkleidungsspiel
   - Liebesprobe
@@ -80941,7 +80921,7 @@ premiered: 1753-05-10
 formalia:
   - Verse
 basedOn:
-  - "Marc-Antoine Legrand: [»L'aveugle clair-voyant. Comédie«](https://books.google.com/books?id=FcgFAAAAQAAJ&pg=PA59)"
+  - legrand-l-aveugle-clair-voyant
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 16, S. 163–165
@@ -80952,7 +80932,6 @@ editions:
 comments:
   - Einakterhinweis »Eine Comödie aus dem Franz. in einem Aufzuge« im Untertitel erst ab 1767.
   - Ab 1764 auch als Zweiakter.
-  - "Weitere Übersetzungen: [1777 (Seyfried)](seyfried-der-sehende-blinde), [1779 (Meyer)](meyer-der-verstellte-blinde)."
 keywords:
   - Verkleidungsspiel
   - Liebesprobe
@@ -81379,15 +81358,13 @@ printed: 1790
 formalia:
   - Prosa
 basedOn:
-  - "Joseph Patrat: [»Le fou raisonnable, ou L'anglois. Comédie«](https://books.google.com/books?id=c1dbAAAAQAAJ&printsec=frontcover)"
+  - patrat-le-fou-raisonnable-ou-l-anglois
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 31, S. 239
 editions:
   - title: "Gräz und Leipzig: Ferstl 1790, S. 131–171"
     url: https://books.google.com/books?id=datIAAAAcAAJ&pg=PA131
-comments:
-  - "Weitere Übersetzung: [Schletter 1785](schletter-jaques-splin-oder-wohl-gut-dass-ich-mich-gestern-nicht-erschossen-habe)."
 keywords:
   - Eheanbahnung
   - Geld
@@ -87250,7 +87227,7 @@ premiered: 1770-04-24
 formalia:
   - Prosa
 basedOn:
-  - "Michel Guyot de Merville: [»Le consentement forcé. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/GUYOTDEMERVILLE_CONSENTEMENTFORCE.xml)"
+  - guyot-de-merville-le-consentement-force
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 23, S. 168–169
@@ -87260,7 +87237,6 @@ editions:
 comments:
   - Auch unter dem Titel »Die Einwilligung wider Willen. Ein Lustspiel in einem Aufzuge« (Hamburg 1788), nur 19 Auftritte, Personen umbenannt (Baron Derbiz, Baron Veltheim, Carl von Veltheim, Clarisse von Baudem, Lieschen).
   - "1793 anonym auch als Zweiakter unter dem Titel [»Die Einwilligung wider Willen; oder: Verzeihen ist süßer als Strafen. Lustspiel in zwey Akten«](https://books.google.com/books?id=BeBo3n4lCJcC&printsec=frontcover)."
-  - "Weitere Übersetzungen: [1742 (anonym)](anonym-die-erzwungene-einwilligung) und [1771 (Gebler)](gebler-die-abgenoethigte-einwilligung)."
 keywords:
   - mehraktige Varianten
 cast:

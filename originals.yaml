@@ -11,6 +11,19 @@ language: ita
 printed: 1774
 fulltextUrl: https://books.google.com/books?id=GjLW7i6ECHcC&pg=PA125
 ---
+id: armand-le-cri-de-la-nature
+author:
+  name: François-Armand Huguet, dit Armand
+  wikidata: Q2861745
+title: Le cri de la nature
+subtitle: Comédie en vers et en un acte
+language: fre
+printed: 1771
+premiered: 1769-10-20
+fulltextUrl: https://books.google.com/books?id=gKXDM1Asaa8C&printsec=frontcover
+ids:
+  dracor: fre000055
+---
 id: bellin-de-la-liborliere-la-cloison
 author:
   name: Louis François Marie Bellin de La Liborlière
@@ -24,6 +37,16 @@ fulltextUrl: https://books.google.com/books?id=YlI6AAAAcAAJ&printsec=frontcover
 ids:
   dracor: fre000889
 ---
+id: bouilly-zoe-ou-la-pauvre-petite
+author:
+  name: Jean-Nicolas Bouilly
+  wikidata: Q1355203
+title: Zoë ou la pauvre petite
+subtitle: Opéra en un acte
+language: fre
+premiered: 1800-07-03
+fulltextUrl: https://books.google.com/books?id=apk9hxNtKRIC&printsec=frontcover
+---
 id: campistron-le-jaloux-desabuse
 author:
   name: Jean Galbert de Campistron
@@ -34,6 +57,18 @@ language: fre
 printed: 1710
 premiered: 1709-12-13
 fulltextUrl: https://books.google.com/books?id=rrcFAAAAQAAJ&pg=RA3-PP5
+---
+id: cerou-l-amant-auteur-et-valet
+author:
+  name: Pierre Cérou
+  wikidata: Q3384589
+title: L'amant auteur et valet
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1740-02-08
+fulltextUrl: https://books.google.com/books?id=HT8PAAAAQAAJ&printsec=frontcover
+ids:
+  dracor: fre000284
 ---
 id: cervantes-la-cueva-de-salamanca
 author:
@@ -114,6 +149,17 @@ language: fre
 printed: 1741
 premiered: 1741-10
 fulltextUrl: https://books.google.com/books?id=cfBPqmW2gYYC&printsec=frontcover
+---
+id: dubois-marton-et-frontin-ou-assaut-de-valets
+author:
+  name: Jean-Baptiste Dubois
+  wikidata: Q98823920
+title: Marton et Frontin, ou Assaut de valets
+subtitle: Comédie en un acte, en prose
+language: fre
+printed: 1804
+premiered: 1804-01-15
+fulltextUrl: https://books.google.com/books?id=dxFGj_gOT44C&printsec=frontcover
 ---
 id: dumanoir-mallian-turiaf-le-pendu
 authors:
@@ -200,6 +246,30 @@ fulltextUrl: https://books.google.com/books?id=Nmby1A23RREC&printsec=frontcover
 ids:
   dracor: fre000649
 ---
+id: guyot-de-merville-le-consentement-force
+author:
+  name: Michel Guyot de Merville
+  wikidata: Q41795958
+title: Le consentement forcé
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1738-08-13
+fulltextUrl: https://books.google.com/books?id=AD86AAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000754
+---
+id: hauteroche-le-cocher-suppose
+author:
+  name: Noël Lebreton de Hauteroche
+  wikidata: Q3345844
+title: Le cocher supposé
+subtitle: Comédie
+language: fre
+premiered: 1680-04-08
+fulltextUrl: https://books.google.com/books?id=fMSBpHHElUIC&pg=PA247
+ids:
+  dracor: fre000759
+---
 id: holberg-det-arabiske-pulver
 author:
   name: Ludvig Holberg
@@ -221,6 +291,16 @@ language: cze
 created: 1826
 printed: 1828
 fulltextUrl: http://kramerius5.nkp.cz/uuid/uuid:7b966bd0-fcb2-11e2-9439-005056825209
+---
+id: legrand-l-aveugle-clair-voyant
+author:
+  name: Marc-Antoine Legrand
+  wikidata: Q3287662
+title: L'aveugle clair-voyant
+subtitle: Comédie
+language: fre
+premiered: 1716-09-18
+fulltextUrl: https://books.google.com/books?id=FcgFAAAAQAAJ&pg=PA59
 ---
 id: legrand-le-triomphe-du-temps-passe
 author:
@@ -255,6 +335,18 @@ premiered: 1718
 fulltextUrl: https://cdm21047.contentdm.oclc.org/digital/collection/Ancien/id/6389
 ids:
   dracor: fre000522
+---
+id: lockroy-anicet-bourgeois-passe-minuit
+authors:
+  - name: Lockroy
+    wikidata: Q444663
+  - name: Auguste Anicet-Bourgeois
+    wikidata: Q255324
+title: Passé minuit
+subtitle: Vaudeville en un acte
+language: fre
+premiered: 1839-06-10
+fulltextUrl: https://books.google.com/books?id=c4E_AAAAcAAJ&printsec=frontcover
 ---
 id: marmontel-silvain
 author:
@@ -379,6 +471,39 @@ fulltextUrl: https://www.theatre-classique.fr/pages/programmes/edition.php?t=../
 ids:
   dracor: fre001095
 ---
+id: parisau-le-repentir-de-figaro
+author:
+  name: Pierre-Germain Parisau
+  wikidata: Q3383083
+title: Le repentir de Figaro
+subtitle: Comédie en un acte, en prose
+language: fre
+premiered: 1784-06-28
+fulltextUrl: https://books.google.com/books?id=wrhoAAAAcAAJ&printsec=frontcover
+---
+id: patrat-le-fou-raisonnable-ou-l-anglois
+author:
+  name: Joseph Patrat
+  wikidata: Q3185458
+title: Le fou raisonnable, ou L'anglois
+subtitle: Comédie
+language: fre
+printed: 1781
+premiered: 1781-07-09
+fulltextUrl: https://books.google.com/books?id=c1dbAAAAQAAJ&printsec=frontcover
+---
+id: picard-radet-la-maison-en-loterie
+authors:
+  - name: Louis-Benoît Picard
+    wikidata: Q347261
+  - name: Jean-Baptiste Radet
+    wikidata: Q3164390
+title: La maison en lotérie
+subtitle: Comédie en un acte, mêlée de couplets
+language: fre
+premiered: 1817-12-08
+fulltextUrl: https://books.google.com/books?id=lotJAQAAMAAJ&pg=PA1
+---
 id: poisson-l-impromptu-de-campagne
 author:
   name: Philippe Poisson
@@ -388,6 +513,19 @@ subtitle: Comédie en vers et en un acte
 language: fre
 premiered: 1733-12-21
 fulltextUrl: https://books.google.com/books?id=5GoDg0C-liMC&printsec=frontcover
+---
+id: rousseau-le-cafe
+author:
+  name: Jean-Baptiste Rousseau
+  wikidata: Q471026
+title: Le café
+subtitle: Comédie en un acte
+language: fre
+printed: 1695
+premiered: 1694-08-02
+fulltextUrl: https://books.google.com/books?id=pwA6AAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre001256
 ---
 id: rozet-falconnet-l-heureuse-rencontre
 authors:
@@ -521,6 +659,18 @@ subtitle: Comédie-vaudeville en un acte
 language: fre
 premiered: 1829-02-12
 fulltextUrl: https://books.google.com/books?id=WRddAAAAcAAJ&printsec=frontcover
+---
+id: theaulon-arnoult-une-visite-nocturne-ou-cartouche
+authors:
+  - name: Emmanuel Théaulon
+    wikidata: Q2733401
+  - name: Stephen Arnoult
+    wikidata: Q19631344
+title: Une visite nocturne ou Cartouche
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1839-06-20
+fulltextUrl: https://books.google.com/books?id=32rB2JAqMosC&printsec=frontcover
 ---
 id: theaulon-le-marin-ou-les-deux-ingenues
 author:
