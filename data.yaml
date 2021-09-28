@@ -1278,7 +1278,7 @@ title: Der Zweikampf im dritten Stock
 subtitle: Posse in 1 Akt nach dem Französischen von Angely (Manuscript)
 premiered: 1832-10-02
 comments:
-  - "Vermutlich ungedruckt. Alternative Titel: »Das Duell« (Aufführung Berlin 1832), »Ein Zweikampf« (Aufführung Wien 1856), »Das Duell im dritten Stock« (Aufführung Weimar 1858)."
+  - "Ungedruckt. Alternative Titel: »Das Duell« (Aufführung Berlin 1832), »Ein Zweikampf« (Aufführung Wien 1856), »Das Duell im dritten Stock« (Aufführung Weimar 1858)."
   - "[Theaterzettel Oldenburg 1834](https://digital.lb-oldenburg.de/ihd/periodical/pageview/398902)"
 reviews:
   - "Der Sammler. Ein Unterhaltungsblatt für alle Stände. No. 126 (Wien, Montag den 8. August 1842), [S. 525](https://books.google.com/books?id=yz5qjns4-doC&pg=PA525)."
@@ -2958,57 +2958,6 @@ cast:
   - name: Thalia.
     gender: f
 ---
-slug: anonym-das-cassino
-author:
-  name: H.**, J.**
-  pseudonym: Anonym
-title: Das Cassino
-subtitle: Ein Sittengemählde in einem Act
-numberOfScenes: 12
-printed: 1799
-formalia:
-  - Prosa
-dictionaries:
-  - name: bibliographia
-    pages: 1. Abteilung, Band 1, S. 5
-editions:
-  - title: "Berlin: Schöne 1799"
-    url: https://books.google.com/books?id=mo5H99To8x8C&printsec=frontcover
-  - title: "Neue Sammlung Deutscher Schauspiele. Vierten Jahrgangs Zwölfter Band. Grätz 1799"
-    url: https://books.google.com/books?id=9ZwoaTU261MC&pg=RA2-PA1
-reviews:
-  - "Allgemeine Literatur-Zeitung. Numero 373 (Mittwochs, den 31. December 1800), [Sp. 751–752](https://books.google.com/books?id=fzQCAAAAYAAJ&pg=PA751)."
-keywords:
-  - Judentum
-cast:
-  - name: Kaufmann Schmidt.
-    gender: m
-  - name: Julchen,
-    role: seine Tochter.
-    gender: f
-  - name: Senator Bornwald,
-    role: Julchens Liebhaber.
-    gender: m
-  - name: Baruch,
-    role: ein jüdischer Banquieur.
-    gender: m
-  - name: Frau Moses,
-    role: dessen Schwester.
-    gender: f
-  - group:
-      - name: Ephraim,
-        gender: m
-      - name: Sarchen,
-        gender: f
-    role: ihre Kinder.
-  - name: Davidsohn,
-    role: ein junger Jude.
-    gender: m
-  - name: Louise,
-    role: Hausmädchen bei Baruch.
-    gender: f
-setting: Die Scene ist in einer Provinzial-Stadt.
----
 slug: anonym-das-freudenfest-einer-dorfgemeinde-in-hungarn
 author:
   pseudonym: Anonym
@@ -4671,6 +4620,60 @@ cast:
     gender: u
 setting: >-
   Eine reinliche Bauernstube.
+---
+slug: anonym-der-galante-gaertner-oder-der-liebhaber-ein-gaertner
+author:
+  pseudonym: Anonym
+title: Der galante Gärtner, Oder der Liebhaber ein Gärtner
+subtitle: Ein Lustspiel von einem Aufzuge. Aus dem Französischen des Herrn Dancourt übersetzt
+numberOfScenes: 25
+printed: 1762
+formalia:
+  - Prosa
+basedOn:
+  - dancourt-le-galant-jardinier
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 20, S. 192–193
+editions:
+  - title: "Des Herrn Dancourt sämmtliche Lustspiele. Zweyter Band. Breslau und Leipzig: Pietsch 1762, S. 239–294"
+    url: https://books.google.com/books?id=7gL2LrP6yOwC&pg=PA239
+cast:
+  - name: Hr. Buschmann.
+    gender: m
+  - name: Fr. Buschmann.
+    gender: f
+  - name: Lucile,
+    role: ihre Tochter.
+    gender: f
+  - name: Hr. Sauermann.
+    gender: m
+  - name: Hr. Beffert.
+    gender: m
+  - name: Hr. Orgon.
+    gender: m
+  - name: Leander,
+    role: sein Sohn, Lucilens Liebhaber.
+    gender: m
+  - name: Lukas,
+    role: der Gärtner.
+    gender: m
+  - name: Mieke,
+    role: sein Weib.
+    gender: f
+  - name: Bergmann,
+    role: Leanders Diener.
+    gender: m
+  - name: Marton,
+    role: Lucilens Mädchen.
+    gender: f
+  - name: eine Zigeunerin.
+    gender: f
+  - name: ein Küchenjunge.
+    gender: f
+  - name: Masken.
+    isGroup: true
+    gender: u
 ---
 slug: anonym-der-gefuerstete-schuster
 author:
@@ -12394,6 +12397,36 @@ cast:
   - name: Lisette,
     role: in Pommers Diensten.
     gender: f
+---
+slug: anonym-wer-kann-rathen
+author:
+  pseudonym: Anonym
+title: Wer kann rathen?
+subtitle: Ein Nachspiel in einem Aufzuge, aus dem Französischen der Frau von Genlis
+numberOfScenes: 8
+printed: 1808
+formalia:
+  - Prosa
+basedOn:
+  - "Félicité de Genlis: [»A bon entendeur, salut. Proverbe«](https://books.google.com/books?id=7HzbXC-ABLIC&pg=PA191)"
+editions:
+  - title: "Lüneburg: Herold und Wahlstab 1808"
+    url: https://books.google.com/books?id=R8lIAAAAcAAJ&printsec=frontcover
+comments:
+  - "Laut dem Vorwort »liegt eine wahre Geschichte dabei zum Grunde«."
+  - "Untertitel auch »Ein Sprichwortspiel« ([S. 7](https://books.google.com/books?id=R8lIAAAAcAAJ&pg=PA7))."
+cast:
+  - name: Der Graf.
+    gender: m
+  - name: Die Wirthinn.
+    gender: f
+  - name: Lafrance,
+    role: des Grafen Diener.
+    gender: m
+  - name: Rose.
+    gender: f
+setting: >-
+  Der Schauplatz ist in einem Wirthshaus mitten im Walde. (Das Theater ist ein Zimmer mit einem Fenster, worinn ein Bette und ein Kamin.)
 ---
 slug: anonym-wie-du-mir-so-ich-dir
 author:
@@ -27435,6 +27468,50 @@ cast:
     gender: m
 setting: Die Scene ist in einem Lustholze, ganz nahe bey Geusens Wohnung.
 ---
+slug: engel-stratonice
+author:
+  name: Engel, Johann Jakob
+  wikidata: Q71442
+title: Stratonice
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1803
+formalia:
+  - Prosa
+editions:
+  - title: "J. J. Engel's Schriften. Sechster Band. Schauspiele. Zweiter Theil. Berlin: Mylius 1803, S. 161–194"
+    url: https://books.google.com/books?id=02w5AAAAMAAJ&pg=PA161
+  - title: "J. J. Engel's Schriften. Sechster Band. Schauspiele. Zweiter Theil. Berlin: Mylius 1844, S. 87–104"
+    url: https://books.google.com/books?id=5dtiAAAAcAAJ&pg=PA87
+  - title: "J. J. Engel's Schriften. Neue Ausgabe. Fünfter Band. Schauspiele. Zweiter Theil. Berlin: Mylius 1851, S. 87–104"
+    url: https://books.google.com/books?id=SthLAQAAMAAJ&pg=RA1-PA87
+reviews:
+  - "Lexikon deutscher Dichter und Prosaisten. Herausgegeben von Karl Heinrich Jördens. Erster Band. A–F. Leipzig: Weidmann 1806, [S. 465](https://books.google.com/books?id=7MdTAAAAcAAJ&pg=PA465)."
+comments:
+  - "Einaktermarkierung nur [im Inhaltsverzeichnis](https://books.google.com/books?id=02w5AAAAMAAJ&pg=PP7) (1803), Untertitel auf dem Deckblatt nur »Ein Schauspiel«."
+  - "Unvollendet, vgl. Jördens: »Leider ist dieß, in der Manier von Lessings Philotas, einem Stück, das Engel sehr schätzte, gearbeitete Schauspiel unvollendet. Bloß fünf Auftritte waren bei seinem Tode ausgearbeitet; von drei folgenden fand sich wenigstens der Entwurf, vom Uebrigen gar nichts. Aber dem Kenner ist es auch als Bruchstück schätzbar. Der Stoff ist bekannt genug, und mehrmals von bildenden Künstlern, von Dichtern, und auch für das Theater bearbeitet worden.«"
+cast:
+  - name: Seleukus,
+    role: König von Syrien.
+    gender: f
+  - name: Antiochus,
+    role: sein Sohn und Thronfolger.
+    gender: m
+  - name: Stratonice,
+    role: Braut des Königs, Tochter des gefangenen Demetrius.
+    gender: f
+  - name: Telesilla,
+    role: Vertraute der Stratonice.
+    gender: f
+  - name: Erasistratus,
+    role: Leibarzt des Königs.
+    gender: m
+  - name: Eumenetes,
+    role: ein Sclave.
+    gender: m
+setting: >-
+  Scene: ein Zimmer im Pallast des Seleukus.
+---
 slug: erath-der-schulmeister-in-der-klemme
 author:
   name: Erath, Carl Julius
@@ -35430,6 +35507,60 @@ setting: >-
 location:
   wikidataId: Q36036
 ---
+slug: heidemann-das-cassino
+author:
+  name: Heidemann, Theophil Albrecht
+  pseudonym: H.**, J.**
+  wikidata: Q94909730
+title: Das Cassino
+subtitle: Ein Sittengemählde in einem Act
+numberOfScenes: 12
+printed: 1799
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 1, S. 5
+editions:
+  - title: "Berlin: Schöne 1799"
+    url: https://books.google.com/books?id=mo5H99To8x8C&printsec=frontcover
+  - title: "Neue Sammlung Deutscher Schauspiele. Vierten Jahrgangs Zwölfter Band. Grätz 1799"
+    url: https://books.google.com/books?id=9ZwoaTU261MC&pg=RA2-PA1
+  - title: "Beiträge für die deutsche Bühne von Karl Albrecht. Berlin: Schöne 1809"
+reviews:
+  - "Allgemeine Literatur-Zeitung. Numero 373 (Mittwochs, den 31. December 1800), [Sp. 751–752](https://books.google.com/books?id=fzQCAAAAYAAJ&pg=PA751)."
+  - "Zeitung für die elegante Welt. Nr. 165 (Sonnabends den 19. August 1809), [Sp. 1318–1319](https://books.google.com/books?id=8ey9nynPUroC&pg=PA1317)."
+keywords:
+  - Judentum
+cast:
+  - name: Kaufmann Schmidt.
+    gender: m
+  - name: Julchen,
+    role: seine Tochter.
+    gender: f
+  - name: Senator Bornwald,
+    role: Julchens Liebhaber.
+    gender: m
+  - name: Baruch,
+    role: ein jüdischer Banquieur.
+    gender: m
+  - name: Frau Moses,
+    role: dessen Schwester.
+    gender: f
+  - group:
+      - name: Ephraim,
+        gender: m
+      - name: Sarchen,
+        gender: f
+    role: ihre Kinder.
+  - name: Davidsohn,
+    role: ein junger Jude.
+    gender: m
+  - name: Louise,
+    role: Hausmädchen bei Baruch.
+    gender: f
+setting: Die Scene ist in einer Provinzial-Stadt.
+---
 slug: heidemann-das-dicke-halstuch
 author:
   name: Heidemann, August Wilhelm
@@ -36923,12 +37054,10 @@ printed: 1848
 formalia:
   - Prosa
 basedOn:
-  - "Adolphe d'Ennery und Gustave Lemoine: [»L'article 213, ou, Le mari doit protection. Comédie-vaudeville en un acte«](https://books.google.com/books?id=UfkZD5gVDFcC&printsec=frontcover)"
+  - d-ennery-lemoine-l-article-213
 editions:
   - title: "Dramatisches Vergißmeinnicht auf das Jahr 1848 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Fünfundzwanzigstes Bändchen. Dresden und Leipzig: Arnoldi 1848"
     url: https://books.google.com/books?id=_KP9Q28E-0EC&pg=RA3-PA1
-comments:
-  - "Weitere Übersetzung: [Meyer 1847](meyer-ein-gestaendniss-oder-der-artikel-213-des-buergerlichen-gesetzbuchs)."
 cast:
   - name: Folling,
     role: Kaufmann.
@@ -40564,6 +40693,39 @@ setting: >-
 location:
   wikidataId: Q90
 ---
+slug: hofmann-die-angebinde-oder-familienliebe
+author:
+  name: Hofmann, Kitty
+  wikidata: Q95697290
+title: Die Angebinde oder Familienliebe
+subtitle: Dramolet in einem Akte. Zur Aufführung für Kinder geordnet
+numberOfScenes: 10
+printed: 1824
+formalia:
+  - Prosa
+editions:
+  - title: "Theater für Kinder. Von Kitty Hofmann, gebornen von Blei. Kaschau: Wigand 1824, S. 11–28"
+    url: https://martin-opitz-bibliothek.de/de/elektronischer-lesesaal?action=book&bookId=0257778
+keywords:
+  - Kindertheater
+cast:
+  - name: Die Großmutter.
+    gender: f
+  - group:
+      - name: Oskar
+        gender: m
+      - name: Denis
+        gender: m
+    role: Ihre Enkeln.
+  - name: Friedrich,
+    role: ihr alter Diener.
+    gender: m
+  - name: Görge,
+    role: ein Bauernknabe.
+    gender: m
+setting: >-
+  Ein Vorzimmer.
+---
 slug: holbein-das-preisgedicht
 author:
   name: Holbein, Franz Ignaz von
@@ -40862,6 +41024,7 @@ setting: >-
 slug: holm-die-brautfahrt
 author:
   name: Holm, Ferdinand
+  wikidata: Q108678919
 title: Die Brautfahrt
 subtitle: Lustspiel in Alexandrinern und in einem Aufzuge
 numberOfScenes: 9
@@ -42895,6 +43058,58 @@ cast:
 setting: >-
   Die Handlung geht in einem entlegenen Dorfe vor.
 ---
+slug: iffland-liebe-und-wille
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Liebe und Wille
+subtitle: Ein ländliches Gespräch in einer Handlung
+numberOfScenes: 6
+printed: 1811
+formalia:
+  - Prosa
+dictionaries:
+  - name: iffland
+    pages: S. 161–164
+editions:
+  - title: "Theater von Aug. Wilh. Iffland. Erste vollständige Ausgabe. Dreiundzwanzigster Band. Wien: Klang 1843, S. 299–314"
+    url: https://books.google.com/books?id=aQd7mN90joYC&pg=PA299
+comments:
+  - "Auf dem Titelblatt: »Zum Besten der Hinterlassenen derer, welche im Kampf für das Vaterland geblieben sind.«"
+cast:
+  - name: Gerhard Faber,
+    role: Müller.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - group:
+      - name: Heinrich,
+        gender: m
+      - name: Sophie,
+        gender: f
+    role: deren Kinder.
+  - group:
+      - name: Jakob Wernau,
+        gender: m
+      - name: Walter,
+        gender: m
+      - name: Johanna,
+        role: seine Frau,
+        gender: f
+      - name: Berthold,
+        role: Schmied,
+        gender: m
+      - name: Wilhelm,
+        gender: m
+    role: Landleute.
+  - name: Der Verwalter.
+    gender: m
+  - name: Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Freier Platz am Ende des Dorfes, vor der Wohnung des Müllers.
+---
 slug: iffland-liussan-fuerst-von-garisene
 author:
   name: Iffland, Wilhelm August
@@ -43881,6 +44096,7 @@ setting: >-
 slug: jung-das-vaterherz
 author:
   name: Jung, J. W.
+  wikidata: Q108678898
 title: Das Vaterherz
 subtitle: Ein Schauspiel in einem Aufzug
 numberOfScenes: 10
@@ -44280,7 +44496,7 @@ cast:
 setting: >-
   Das Stück spielt Anfangs auf der Straße in Halberna und endigt in der Polizey-Stube daselbst.
 ---
-slug: kapf-die-schwaden
+slug: kapf-kapf-die-schwaden
 authors:
   - name: Kapf, Friedrich
   - name: Kapf, Gottlieb
@@ -45610,6 +45826,48 @@ cast:
 setting: >-
   Das Stück spielt im zehnten Jahrhundert. (Die Bühne ist durch einen steinernen Bogenpfeiler in zwey Theile getrennt; so daß man rechts eine gothische Schlafhalle sieht, welche ganz dunkel ist, und wozu die Thür durch die Mittelwand führt; in der Halle selbst befindet sich ein Tisch, ein Stuhl und eine Ruhebank; zur Seite ist noch eine eiserne verschlossene Thür. Den linken Theil des Theaters bildet ein gothischer Saal, an dessen Wänden Harnische, Schwerter, Armbrüste und Streitäxte hängen; vorn steht ebenfalls ein Tisch mit Stühlen.)
 ---
+slug: klingemann-neujahrsfeyer
+author:
+  name: Klingemann, August
+  wikidata: Q68143
+title: Neujahrsfeyer
+subtitle: Vorspiel in einem Acte; dargestellt auf dem Braunschweiger Theater am 1ten Januar 1815
+numberOfScenes: 2
+printed: 1819
+premiered: 1815-01-01
+formalia:
+  - Verse
+dictionaries:
+  - name: bibliographia
+    pages: 1. Abteilung, Band 2, S. 435
+editions:
+  - title: "August Klingemann's dramatische Werke. Dritter Band. Wien: Grund 1819, S. 197–218"
+    url: https://books.google.com/books?id=9wgPAAAAIAAJ&pg=PA197
+cast:
+  - name: Der Bauer.
+    gender: m
+  - name: Der Bürger.
+    gender: m
+  - name: Der Krieger.
+    gender: m
+  - name: Der Dichter.
+    gender: m
+  - name: Das Mädchen.
+    gender: f
+  - name: Der Jüngling.
+    gender: m
+  - name: Der Astrolog.
+    gender: m
+  - name: Eine alte Frau.
+    gender: f
+  - name: Ein Genius.
+    gender: m
+  - name: Die zwölf Horen des Tages.
+    isGroup: true
+    gender: f
+setting: >-
+  Eine kurze ländliche Gegend. (Zu beyden Seiten stehen der Reihe nach: rechts der Bauer; links der Bürger; rechts der Krieger; links der Dichter; darauf das Mädchen und der Jüngling, dann der Astrolog und in der Mitte die alte Frau.)
+---
 slug: koch-das-gespenst
 author:
   name: Koch, Karl Wilhelm
@@ -45857,6 +46115,7 @@ location:
 slug: koch-der-weiberfeind
 author:
   name: Koch, Karl
+  wikidata: Q108678885
 title: Der Weiberfeind
 subtitle: Schauspiel in einem Aufzuge
 numberOfScenes: 17
@@ -45969,6 +46228,7 @@ setting: >-
 slug: koch-die-maennerfeindin
 author:
   name: Koch, Karl
+  wikidata: Q108678885
 title: Die Männerfeindin
 subtitle: Schauspiel in einem Aufzuge
 numberOfScenes: 12
@@ -48288,6 +48548,7 @@ comments:
   - Untertitel mit Einakterhinweis »Komisches Intermezzo in einem Aufzuge« auf Theaterzetteln ([Bremen 1822](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1701223)).
 keywords:
   - Eheanbahnung
+  - Monodrama
 cast:
   - name: Der Hagestolz.
     gender: m
@@ -51227,9 +51488,20 @@ setting: >-
 location:
   wikidataId: Q1028
 ---
+slug: krenner-das-haus-im-walde
+author:
+  name: Krenner, Leopold
+  wikidata: Q108678869
+title: Das Haus im Walde
+subtitle: Charakteristisches Gemälde in 1 Akt nach de la Motte-Fouqué
+premiered: 1817-06-19
+comments:
+  - "Laut Goedeke, Band XI/2, [S. 232](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungAusDenQuellen-2-11-2/page/n243/mode/2up), ungedruckt."
+---
 slug: krenner-die-gefaehrlichen-proben
 author:
   name: Krenner, Leopold
+  wikidata: Q108678869
 title: Die gefährlichen Proben
 subtitle: Ein Original-Lustspiel in einem Akte
 numberOfScenes: 16
@@ -54398,6 +54670,7 @@ setting: Der Schauplatz ist in Clarissens Hause.
 slug: la-roche-damon-und-pythias
 author:
   name: La Roche, David
+  wikidata: Q108678796
 title: Damon und Pythias
 subtitle: Ein Trauerspiel in einem Aufzuge
 numberOfScenes: 8
@@ -54441,6 +54714,7 @@ location:
 slug: la-roche-man-fuerchtet-sich-oft-vor-seinem-eigenen-schatten
 author:
   name: La Roche, David
+  wikidata: Q108678796
 title: Man fürchtet sich oft vor seinem eigenen Schatten
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 14
@@ -54479,6 +54753,7 @@ setting: Der Schauplatz ist in dem Hause der Frau von Reichlieb.
 slug: la-roche-nomares
 author:
   name: La Roche, David
+  wikidata: Q108678796
 title: Nomares
 subtitle: Ein Trauerspiel in einem Aufzuge
 numberOfScenes: 10
@@ -57234,6 +57509,7 @@ setting: >-
 slug: liebenau-miltons-muse
 author:
   name: Liebenau, G. H.
+  wikidata: Q108678737
 title: Miltons Muse
 subtitle: Dramatisches Gedicht in einem Aufzuge
 numberOfScenes: 9
@@ -57414,6 +57690,7 @@ cast:
 slug: lindheimer-das-wandernde-koerbchen
 author:
   name: Lindheimer, Friedrich
+  wikidata: Q108678681
 title: Das wandernde Körbchen
 subtitle: Ein Lustspiel in einem Act
 numberOfScenes: 15
@@ -57450,6 +57727,7 @@ setting: >-
 slug: lindheimer-die-cremonseser-geige
 author:
   name: Lindheimer, Friedrich
+  wikidata: Q108678681
 title: Die Cremoneser Geige
 subtitle: Lustspiel in einem Akt
 numberOfScenes: 16
@@ -57493,6 +57771,7 @@ setting: >-
 slug: lindheimer-garrick
 author:
   name: Lindheimer, Friedrich
+  wikidata: Q108678681
 title: Garrick
 subtitle: Eine Posse in einem Aufzuge
 numberOfScenes: 14
@@ -57533,6 +57812,7 @@ setting: >-
 slug: lindheimer-hagestolz-und-liebe
 author:
   name: Lindheimer, Friedrich
+  wikidata: Q108678681
 title: Hagestolz und Liebe
 subtitle: Ein komisches Lustspiel in einem Aufzuge
 numberOfScenes: 7
@@ -57564,6 +57844,7 @@ cast:
 slug: lindheimer-julie-von-loewenstein
 author:
   name: Lindheimer, Friedrich
+  wikidata: Q108678681
 title: Julie von Löwenstein
 subtitle: Ein sentimentales Lustspiel in einem Aufzuge
 numberOfScenes: 11
@@ -57602,6 +57883,7 @@ setting: >-
 slug: loebell-intrigue-aus-dem-stegreif
 author:
   name: Loebell, Isidor Sigmund
+  wikidata: Q108678649
 title: Intrigue aus dem Stegreif
 subtitle: Lustspiel in einem Akt. Nach dem Französischen des Lemaitre
 numberOfScenes: 21
@@ -57609,7 +57891,7 @@ printed: 1845
 formalia:
   - Prosa
 basedOn:
-  - "Édouard Lemaître: [»Le cadet de famille, ou L'intrigue impromptu. Comédie-vaudeville en un acte«](https://books.google.com/books?id=sH8_AAAAcAAJ&pg=PP3)"
+  - lemaitre-le-cadet-de-famille
 editions:
   - title: "Als Manuscript gedruckt. Berlin: Sittenfeld 1845"
     url: https://books.google.com/books?id=ieoSmGL5FJUC&printsec=frontcover
@@ -58216,6 +58498,7 @@ setting: >-
 slug: luetjendorf-trennung-aus-stolz-oder-die-wirkung-einer-scene-im-deutschen-hausvater
 author:
   name: Lütjendorf, Karl Friedrich August Freiherr von
+  wikidata: Q60843035
 title: Trennung aus Stolz oder die Wirkung einer Scene im deutschen Hausvater
 subtitle: Ein Schauspiel in einem Aufzuge von K. F. A. Frhn. v. L–f
 numberOfScenes: 14
@@ -58970,6 +59253,7 @@ setting: >-
 slug: martin-liebe-wirkt-schnell
 author:
   name: Martin, Karl Christian
+  wikidata: Q108678592
 title: Liebe wirkt schnell
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 20
@@ -59014,6 +59298,7 @@ cast:
 slug: martin-weder-wittwe-noch-jungfer
 author:
   name: Martin, Karl Christian
+  wikidata: Q108678592
 title: Weder Wittwe noch Jungfer
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 19
@@ -59159,6 +59444,7 @@ location:
 slug: mathesius-die-herrschaft-der-weiber
 author:
   name: Mathesius, Siegmund Immanuel
+  wikidata: Q108678531
 title: Die Herrschaft der Weiber
 subtitle: Ein Nachspiel in Einem Aufzug
 numberOfScenes: 13
@@ -60994,6 +61280,7 @@ setting: >-
 slug: meyer-der-eifersuechtige-wider-willen
 author:
   name: Meyer, Ludwig
+  wikidata: Q94915614
 title: Der Eifersüchtige wider Willen
 subtitle: Lustspiel in einem Akt, nach dem Französischen
 numberOfScenes: 17
@@ -61317,6 +61604,7 @@ location:
 slug: meyer-die-ankunft-der-deutschen-aus-amerika
 author:
   name: Meyer, Carl Johann Albrecht
+  wikidata: Q108678433
 title: Die Ankunft der Deutschen aus Amerika
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 15
@@ -61491,6 +61779,7 @@ location:
 slug: meyer-ein-gestaendniss-oder-der-artikel-213-des-buergerlichen-gesetzbuchs
 author:
   name: Meyer, Ludwig
+  wikidata: Q94915614
 title: "Ein Gestaendniss, oder: Der Artikel 213 des bürgerlichen Gesetzbuchs"
 subtitle: Lustspiel in einem Act. Von Dennery und Lemoine
 numberOfScenes: 19
@@ -61498,12 +61787,10 @@ printed: 1847
 formalia:
   - Prosa
 basedOn:
-  - "Adolphe d'Ennery und Gustave Lemoine: [»L'article 213, ou, Le mari doit protection. Comédie-vaudeville en un acte«](https://books.google.com/books?id=UfkZD5gVDFcC&printsec=frontcover)"
+  - d-ennery-lemoine-l-article-213
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XVI, No. 128. Berlin: Hayn 1847"
     url: https://books.google.com/books?id=sbFKAAAAcAAJ&printsec=frontcover
-comments:
-  - "Weitere Übersetzung: [Hell 1848](hell-paragraph-213-oder-der-ehemann-ist-seiner-frau-schutz-schuldig)."
 keywords:
   - Ehestandsszene
 cast:
@@ -62188,6 +62475,7 @@ setting: >-
 slug: moriz-epimenides-in-baiern
 author:
   name: Lange, Moriz
+  wikidata: Q108678771
 title: Epimenides in Baiern
 subtitle: Vorspiel in einem Aufzuge
 numberOfScenes: 17
@@ -66774,6 +67062,7 @@ location:
 slug: proepper-die-verlornen-soehne
 author:
   name: Pröpper, P. J. von
+  wikidata: Q108678240
 title: Die verlornen Söhne
 subtitle: Ein Schauspiel in einem Akte
 numberOfScenes: 19
@@ -75157,6 +75446,7 @@ comments:
   - Theaterzettel [Karlsruhe, 19. Dezember 1834](https://digital.blb-karlsruhe.de/blbtheater/periodical/titleinfo/3057446).
 keywords:
   - Eheanbahnung
+  - Monodrama
 cast:
   - name: Zurlering.
     gender: m
@@ -87219,6 +87509,7 @@ setting: >-
 slug: walz-einwilligung-wider-willen
 author:
   name: Walz, Gottlieb
+  wikidata: Q108673470
 title: Die Einwilligung wider Willen
 subtitle: In einem Aufzuge. Von Merville
 numberOfScenes: 21
@@ -87258,6 +87549,7 @@ cast:
 slug: walz-die-junge-indianerin
 author:
   name: Walz, Gottlieb
+  wikidata: Q108673470
 title: Die junge Indianerin
 subtitle: Ein Lustspiel in einem Aufzuge. Vom Herrn de Chamfort
 numberOfScenes: 10
@@ -91136,6 +91428,8 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 508
 editions:
+  - title: "Theater zum Gebrauche junger Standespersonen weiblichen Geschlechts. Aus dem Französischen der Gräfinn von Genlis übersetzt. Erster Theil. Hamburg: Virchaux und Compagnie 1780, S. 39–56"
+    url: https://resolver.sub.uni-hamburg.de/kitodo/PPN1040058949
   - title: "[Ohne Ort] 1780"
     url: https://books.google.com/books?id=CB9IAAAAcAAJ&printsec=frontcover
 cast:
