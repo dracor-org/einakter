@@ -198,6 +198,19 @@ printed: 1834
 premiered: 1834-06-04
 fulltextUrl: https://books.google.com/books?id=n8jBnJJJSLYC&printsec=frontcover
 ---
+id: dumersan-aubertin-zoe-ou-l-effet-au-porteur
+authors:
+  - name: Théophile Marion Dumersan
+    wikidata: Q2066224
+  - name: Martial Aubertin
+    wikidata: Q3295226
+title: Zoé, ou L'effet au porteur
+subtitle: Comédie en un acte, mêlée de couplets
+language: fre
+printed: 1821
+premiered: 1820-12-28
+fulltextUrl: https://books.google.com/books?id=F2BoAAAAcAAJ&printsec=frontcover
+---
 id: duval-shakespeare-amoureux-ou-la-piece-a-l-etude
 author:
   name: Alexandre Duval
@@ -355,6 +368,19 @@ language: fre
 printed: 1844
 premiered: 1843-12-30
 fulltextUrl: https://books.google.com/books?id=sH8_AAAAcAAJ&pg=PP3
+---
+id: le-sage-crispin-rival-de-son-maitre
+author:
+  name: Alain-René Le Sage
+  wikidata: Q267962
+title: Crispin rival de son maître
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1707-03-15
+fulltextUrl: https://books.google.com/books?id=7VM6AAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000879
+  wikidata: Q5186056
 ---
 id: le-sage-d-orneval-les-amours-de-nanterre
 authors:
@@ -608,16 +634,6 @@ fulltextUrl: http://www.theatre-classique.fr/pages/programmes/edition.php?t=../d
 ids:
   dracor: fre001324
 ---
-id: shishkov-blagodeyanii-priobretayut-serdtsa
-author:
-  name: Александр Семёнович Шишков
-  wikidata: Q2522179
-title: Благодеянии приобретают сердца
-subtitle: Драма в одном действии
-language: rus
-printed: 1770
-fulltextUrl: https://kp.rusneb.ru/item/material/5fcf8bab991f3b9142343501
----
 id: scribe-de-courcy-saintine-les-eaux-du-mont-d-or
 authors:
   - name: Eugène Scribe
@@ -669,6 +685,20 @@ printed: 1821
 premiered: 1821-01-10
 fulltextUrl: https://books.google.com/books?id=-JMTAAAAQAAJ&printsec=frontcover
 ---
+id: scribe-saintine-de-courcy-le-beau-narcisse
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Saintine
+    wikidata: Q1399502
+  - name: Frédéric de Courcy
+    wikidata: Q3090302
+title: Le beau narcisse
+subtitle: Vaudeville en un acte
+language: fre
+premiered: 1820-12-09
+fulltextUrl: https://books.google.com/books?id=_L9oAAAAcAAJ&printsec=frontcover
+---
 id: scribe-saintine-l-ours-et-le-pacha
 authors:
   - name: Eugène Scribe
@@ -694,6 +724,27 @@ subtitle: Comédie-vaudeville en un acte
 language: fre
 premiered: 1829-02-12
 fulltextUrl: https://books.google.com/books?id=WRddAAAAcAAJ&printsec=frontcover
+---
+id: semyonov-udacha-ot-neudachi-ili-prikljuchenie-v-zhidovskoj-korchme
+author:
+  name: Пётр Николаевич Семёнов
+  wikidata: Q28500538
+title: Удача от неудачи или Приключение в жидовской корчме
+subtitle: Опера в одном действии (Vaudeville)
+language: rus
+printed: 1818
+premiered: 1817-01-16
+fulltextUrl: https://books.google.com/books?id=0mxpAAAAcAAJ&printsec=frontcover
+---
+id: shishkov-blagodeyanii-priobretayut-serdtsa
+author:
+  name: Александр Семёнович Шишков
+  wikidata: Q2522179
+title: Благодеянии приобретают сердца
+subtitle: Драма в одном действии
+language: rus
+printed: 1770
+fulltextUrl: https://kp.rusneb.ru/item/material/5fcf8bab991f3b9142343501
 ---
 id: theaulon-arnoult-une-visite-nocturne-ou-cartouche
 authors:
