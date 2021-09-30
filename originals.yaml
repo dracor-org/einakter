@@ -11,6 +11,19 @@ language: ita
 printed: 1774
 fulltextUrl: https://books.google.com/books?id=GjLW7i6ECHcC&pg=PA125
 ---
+id: armand-le-cri-de-la-nature
+author:
+  name: François-Armand Huguet, dit Armand
+  wikidata: Q2861745
+title: Le cri de la nature
+subtitle: Comédie en vers et en un acte
+language: fre
+printed: 1771
+premiered: 1769-10-20
+fulltextUrl: https://books.google.com/books?id=gKXDM1Asaa8C&printsec=frontcover
+ids:
+  dracor: fre000055
+---
 id: bellin-de-la-liborliere-la-cloison
 author:
   name: Louis François Marie Bellin de La Liborlière
@@ -24,6 +37,16 @@ fulltextUrl: https://books.google.com/books?id=YlI6AAAAcAAJ&printsec=frontcover
 ids:
   dracor: fre000889
 ---
+id: bouilly-zoe-ou-la-pauvre-petite
+author:
+  name: Jean-Nicolas Bouilly
+  wikidata: Q1355203
+title: Zoë ou la pauvre petite
+subtitle: Opéra en un acte
+language: fre
+premiered: 1800-07-03
+fulltextUrl: https://books.google.com/books?id=apk9hxNtKRIC&printsec=frontcover
+---
 id: campistron-le-jaloux-desabuse
 author:
   name: Jean Galbert de Campistron
@@ -34,6 +57,18 @@ language: fre
 printed: 1710
 premiered: 1709-12-13
 fulltextUrl: https://books.google.com/books?id=rrcFAAAAQAAJ&pg=RA3-PP5
+---
+id: cerou-l-amant-auteur-et-valet
+author:
+  name: Pierre Cérou
+  wikidata: Q3384589
+title: L'amant auteur et valet
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1740-02-08
+fulltextUrl: https://books.google.com/books?id=HT8PAAAAQAAJ&printsec=frontcover
+ids:
+  dracor: fre000284
 ---
 id: cervantes-la-cueva-de-salamanca
 author:
@@ -70,6 +105,18 @@ fulltextUrl: https://books.google.com/books?id=madXAAAAcAAJ&printsec=frontcover
 ids:
   dracor: fre000433
 ---
+id: dancourt-le-galant-jardinier
+author:
+  name: Florent Carton dit Dancourt
+  wikidata: Q2437020
+title: Le galant jardinier
+subtitle: Comédie
+language: fre
+premiered: 1704-11-10
+fulltextUrl: https://books.google.com/books?id=JFU6AAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000452
+---
 id: d-artois-d-artois-des-perroquets-de-la-mere-philippe
 authors:
   - name: Achille d'Artois
@@ -93,6 +140,18 @@ language: fre
 premiered: 1784-09-07
 fulltextUrl: https://books.google.com/books?id=Xl8GAAAAQAAJ&printsec=frontcover
 ---
+id: d-ennery-lemoine-l-article-213
+authors:
+  - name: Adolphe d'Ennery
+    wikidata: Q137819
+  - name: Gustave Lemoine
+    wikidata: Q16947548
+title: L'article 213, ou, Le mari doit protection
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1846-11-16
+fulltextUrl: https://books.google.com/books?id=UfkZD5gVDFcC&printsec=frontcover
+---
 id: desaugiers-les-epoux-avant-le-mariage
 author:
   name: Marc-Antoine-Madeleine Désaugiers
@@ -114,6 +173,43 @@ language: fre
 printed: 1741
 premiered: 1741-10
 fulltextUrl: https://books.google.com/books?id=cfBPqmW2gYYC&printsec=frontcover
+---
+id: dubois-marton-et-frontin-ou-assaut-de-valets
+author:
+  name: Jean-Baptiste Dubois
+  wikidata: Q98823920
+title: Marton et Frontin, ou Assaut de valets
+subtitle: Comédie en un acte, en prose
+language: fre
+printed: 1804
+premiered: 1804-01-15
+fulltextUrl: https://books.google.com/books?id=dxFGj_gOT44C&printsec=frontcover
+---
+id: dumanoir-mallian-turiaf-le-pendu
+authors:
+  - name: Dumanoir
+    wikidata: Q1396138
+  - name: Julien de Mallian
+    wikidata: Q18197671
+title: Turiaf-le-pendu
+subtitle: Comédie en un acte, mêlée de chant
+language: fre
+printed: 1834
+premiered: 1834-06-04
+fulltextUrl: https://books.google.com/books?id=n8jBnJJJSLYC&printsec=frontcover
+---
+id: dumersan-aubertin-zoe-ou-l-effet-au-porteur
+authors:
+  - name: Théophile Marion Dumersan
+    wikidata: Q2066224
+  - name: Martial Aubertin
+    wikidata: Q3295226
+title: Zoé, ou L'effet au porteur
+subtitle: Comédie en un acte, mêlée de couplets
+language: fre
+printed: 1821
+premiered: 1820-12-28
+fulltextUrl: https://books.google.com/books?id=F2BoAAAAcAAJ&printsec=frontcover
 ---
 id: duval-shakespeare-amoureux-ou-la-piece-a-l-etude
 author:
@@ -187,6 +283,30 @@ fulltextUrl: https://books.google.com/books?id=Nmby1A23RREC&printsec=frontcover
 ids:
   dracor: fre000649
 ---
+id: guyot-de-merville-le-consentement-force
+author:
+  name: Michel Guyot de Merville
+  wikidata: Q41795958
+title: Le consentement forcé
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1738-08-13
+fulltextUrl: https://books.google.com/books?id=AD86AAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000754
+---
+id: hauteroche-le-cocher-suppose
+author:
+  name: Noël Lebreton de Hauteroche
+  wikidata: Q3345844
+title: Le cocher supposé
+subtitle: Comédie
+language: fre
+premiered: 1680-04-08
+fulltextUrl: https://books.google.com/books?id=fMSBpHHElUIC&pg=PA247
+ids:
+  dracor: fre000759
+---
 id: holberg-det-arabiske-pulver
 author:
   name: Ludvig Holberg
@@ -209,6 +329,16 @@ created: 1826
 printed: 1828
 fulltextUrl: http://kramerius5.nkp.cz/uuid/uuid:7b966bd0-fcb2-11e2-9439-005056825209
 ---
+id: legrand-l-aveugle-clair-voyant
+author:
+  name: Marc-Antoine Legrand
+  wikidata: Q3287662
+title: L'aveugle clair-voyant
+subtitle: Comédie
+language: fre
+premiered: 1716-09-18
+fulltextUrl: https://books.google.com/books?id=FcgFAAAAQAAJ&pg=PA59
+---
 id: legrand-le-triomphe-du-temps-passe
 author:
   name: Marc-Antoine Legrand
@@ -228,6 +358,30 @@ language: fre
 premiered: 1713-09-11
 fulltextUrl: https://books.google.com/books?id=V1BaAAAAcAAJ&printsec=frontcover
 ---
+id: lemaitre-le-cadet-de-famille
+author:
+  name: Édouard Lemaître
+  wikidata: Q20089676
+title: Le cadet de famille, ou L'intrigue impromptu
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1844
+premiered: 1843-12-30
+fulltextUrl: https://books.google.com/books?id=sH8_AAAAcAAJ&pg=PP3
+---
+id: le-sage-crispin-rival-de-son-maitre
+author:
+  name: Alain-René Le Sage
+  wikidata: Q267962
+title: Crispin rival de son maître
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1707-03-15
+fulltextUrl: https://books.google.com/books?id=7VM6AAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000879
+  wikidata: Q5186056
+---
 id: le-sage-d-orneval-les-amours-de-nanterre
 authors:
   - name: Alain-René Le Sage
@@ -243,6 +397,18 @@ fulltextUrl: https://cdm21047.contentdm.oclc.org/digital/collection/Ancien/id/63
 ids:
   dracor: fre000522
 ---
+id: lockroy-anicet-bourgeois-passe-minuit
+authors:
+  - name: Lockroy
+    wikidata: Q444663
+  - name: Auguste Anicet-Bourgeois
+    wikidata: Q255324
+title: Passé minuit
+subtitle: Vaudeville en un acte
+language: fre
+premiered: 1839-06-10
+fulltextUrl: https://books.google.com/books?id=c4E_AAAAcAAJ&printsec=frontcover
+---
 id: marmontel-silvain
 author:
   name: Jean-François Marmontel
@@ -253,6 +419,32 @@ language: fre
 printed: 1770
 premiered: 1770-02-19
 fulltextUrl: https://books.google.com/books?id=owL_7AP-DEQC&printsec=frontcover
+---
+id: marsollier-nina-ou-la-folle-par-amour
+author:
+  name: Benoît-Joseph Marsollier
+  wikidata: Q818099
+title: Nina, ou La folle par amour
+subtitle: Comédie en un acte, en prose, mêlée d'ariettes
+language: fre
+printed: 1786
+premiered: 1786-05-15
+fulltextUrl: https://books.google.com/books?id=0ZITAAAAQAAJ&printsec=frontcover
+ids:
+  wikidata: Q7037829
+---
+id: melesville-theaulon-l-ami-bontems-ou-la-maison-de-mon-oncle
+authors:
+  - name: Mélesville
+    wikidata: Q2660806
+  - name: Emmanuel Théaulon
+    wikidata: Q2733401
+title: L'ami Bontems, ou La maison de mon oncle
+subtitle: Vaudeville en un acte
+language: fre
+printed: 1827
+premiered: 1827-10-05
+fulltextUrl: https://books.google.com/books?id=kz46AAAAcAAJ&printsec=frontcover
 ---
 id: moliere-la-comtesse-d-escarbagnas
 author:
@@ -317,6 +509,17 @@ language: fre
 printed: 1781
 fulltextUrl: https://books.google.com/books?id=pPo_AAAAcAAJ&printsec=frontcover
 ---
+id: nanteuil-les-maris-garcons
+author:
+  name: Charles Nanteuil
+  wikidata: Q48658501
+title: Les maris garçons
+subtitle: Comédie en un acte et en prose, mêlée d'ariettes
+language: fre
+printed: 1806
+premiered: 1806-07-15
+fulltextUrl: https://books.google.com/books?id=oY21nJwr44oC&printsec=frontcover
+---
 id: palissot-de-montenoy-le-barbier-de-bagdad
 author:
   name: Charles Palissot de Montenoy
@@ -329,6 +532,39 @@ fulltextUrl: https://www.theatre-classique.fr/pages/programmes/edition.php?t=../
 ids:
   dracor: fre001095
 ---
+id: parisau-le-repentir-de-figaro
+author:
+  name: Pierre-Germain Parisau
+  wikidata: Q3383083
+title: Le repentir de Figaro
+subtitle: Comédie en un acte, en prose
+language: fre
+premiered: 1784-06-28
+fulltextUrl: https://books.google.com/books?id=wrhoAAAAcAAJ&printsec=frontcover
+---
+id: patrat-le-fou-raisonnable-ou-l-anglois
+author:
+  name: Joseph Patrat
+  wikidata: Q3185458
+title: Le fou raisonnable, ou L'anglois
+subtitle: Comédie
+language: fre
+printed: 1781
+premiered: 1781-07-09
+fulltextUrl: https://books.google.com/books?id=c1dbAAAAQAAJ&printsec=frontcover
+---
+id: picard-radet-la-maison-en-loterie
+authors:
+  - name: Louis-Benoît Picard
+    wikidata: Q347261
+  - name: Jean-Baptiste Radet
+    wikidata: Q3164390
+title: La maison en lotérie
+subtitle: Comédie en un acte, mêlée de couplets
+language: fre
+premiered: 1817-12-08
+fulltextUrl: https://books.google.com/books?id=lotJAQAAMAAJ&pg=PA1
+---
 id: poisson-l-impromptu-de-campagne
 author:
   name: Philippe Poisson
@@ -338,6 +574,19 @@ subtitle: Comédie en vers et en un acte
 language: fre
 premiered: 1733-12-21
 fulltextUrl: https://books.google.com/books?id=5GoDg0C-liMC&printsec=frontcover
+---
+id: rousseau-le-cafe
+author:
+  name: Jean-Baptiste Rousseau
+  wikidata: Q471026
+title: Le café
+subtitle: Comédie en un acte
+language: fre
+printed: 1695
+premiered: 1694-08-02
+fulltextUrl: https://books.google.com/books?id=pwA6AAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre001256
 ---
 id: rozet-falconnet-l-heureuse-rencontre
 authors:
@@ -385,16 +634,6 @@ fulltextUrl: http://www.theatre-classique.fr/pages/programmes/edition.php?t=../d
 ids:
   dracor: fre001324
 ---
-id: shishkov-blagodeyanii-priobretayut-serdtsa
-author:
-  name: Александр Семёнович Шишков
-  wikidata: Q2522179
-title: Благодеянии приобретают сердца
-subtitle: Драма в одном действии
-language: rus
-printed: 1770
-fulltextUrl: https://kp.rusneb.ru/item/material/5fcf8bab991f3b9142343501
----
 id: scribe-de-courcy-saintine-les-eaux-du-mont-d-or
 authors:
   - name: Eugène Scribe
@@ -433,6 +672,33 @@ language: fre
 premiered: 1830-01-12
 fulltextUrl: https://books.google.com/books?id=CJfCXy8_s-YC&pg=PA371
 ---
+id: scribe-melesville-le-secretaire-et-le-cuisinier
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Mélesville
+    wikidata: Q2660806
+title: Le secrétaire et le cuisinier
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1821
+premiered: 1821-01-10
+fulltextUrl: https://books.google.com/books?id=-JMTAAAAQAAJ&printsec=frontcover
+---
+id: scribe-saintine-de-courcy-le-beau-narcisse
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Saintine
+    wikidata: Q1399502
+  - name: Frédéric de Courcy
+    wikidata: Q3090302
+title: Le beau narcisse
+subtitle: Vaudeville en un acte
+language: fre
+premiered: 1820-12-09
+fulltextUrl: https://books.google.com/books?id=_L9oAAAAcAAJ&printsec=frontcover
+---
 id: scribe-saintine-l-ours-et-le-pacha
 authors:
   - name: Eugène Scribe
@@ -458,3 +724,47 @@ subtitle: Comédie-vaudeville en un acte
 language: fre
 premiered: 1829-02-12
 fulltextUrl: https://books.google.com/books?id=WRddAAAAcAAJ&printsec=frontcover
+---
+id: semyonov-udacha-ot-neudachi-ili-prikljuchenie-v-zhidovskoj-korchme
+author:
+  name: Пётр Николаевич Семёнов
+  wikidata: Q28500538
+title: Удача от неудачи или Приключение в жидовской корчме
+subtitle: Опера в одном действии (Vaudeville)
+language: rus
+printed: 1818
+premiered: 1817-01-16
+fulltextUrl: https://books.google.com/books?id=0mxpAAAAcAAJ&printsec=frontcover
+---
+id: shishkov-blagodeyanii-priobretayut-serdtsa
+author:
+  name: Александр Семёнович Шишков
+  wikidata: Q2522179
+title: Благодеянии приобретают сердца
+subtitle: Драма в одном действии
+language: rus
+printed: 1770
+fulltextUrl: https://kp.rusneb.ru/item/material/5fcf8bab991f3b9142343501
+---
+id: theaulon-arnoult-une-visite-nocturne-ou-cartouche
+authors:
+  - name: Emmanuel Théaulon
+    wikidata: Q2733401
+  - name: Stephen Arnoult
+    wikidata: Q19631344
+title: Une visite nocturne ou Cartouche
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1839-06-20
+fulltextUrl: https://books.google.com/books?id=32rB2JAqMosC&printsec=frontcover
+---
+id: theaulon-le-marin-ou-les-deux-ingenues
+author:
+  name: Emmanuel Théaulon
+  wikidata: Q2733401
+title: Le marin, ou Les deux ingénues
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1815
+premiered: 1815-07-26
+fulltextUrl: https://books.google.com/books?id=kz46AAAAcAAJ&printsec=frontcover
