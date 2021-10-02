@@ -3625,7 +3625,7 @@ printed: 1779
 formalia:
   - Prosa
 basedOn:
-  - "Pierre-François Godard de Beauchamps: »Le portrait. Comédie«"
+  - beauchamps-le-portrait
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 38 und S. 204
@@ -3633,7 +3633,6 @@ editions:
   - title: "Wien 1779"
     url: https://books.google.com/books?id=qobNPU74nCQC&printsec=frontcover
 comments:
-  - Weitere Übersetzung [1789 (Schulz)](schulz-das-portrait).
   - "Nicht identisch mit der gleichnamigen Übersetzung nach Carmontelle: [1770 (anonym)](anonym-das-portrait-1770)."
 cast:
   - name: Baron Schieferthal,
@@ -6150,7 +6149,7 @@ printed: 1778
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»La dispute. Comédie en un acte, en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DISPUTE.xml)"
+  - marivaux-la-dispute
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 39
@@ -6328,12 +6327,11 @@ created: 1760
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»Le dénouement imprévu. Comédie d'un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DENOUEMENTIMPREVU.xml)"
+  - marivaux-le-denouement-imprevu
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 313
 comments:
-  - "Weitere Übersetzung: [Krüger 1749](krueger-le-denouement-imprevu-der-unvermuthete-ausgang)."
   - Datierung ungewiß, von Meyer ins Jahr 1760 einsortiert.
 cast:
   - name: Reichenau,
@@ -7547,15 +7545,13 @@ printed: 1749
 formalia:
   - Prosa
 basedOn:
-  - "Desmarres: [»Merlin dragon, ou La Dragonne. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DESMARES_MERLINDRAGON.xml)"
+  - desmarres-merlin-dragon-ou-la-dragonne
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 361
 editions:
   - title: "Drey Lustspiele aus dem Französischen übersetzt. Nebst Einem Singspiele von J. E. R. Frankfurt und Leipzig 1749"
     url: https://gdz.sub.uni-goettingen.de/id/PPN633663778?tify={"pages":[69]}
-comments:
-  - "Weitere Übersetzung: [Karnowitz 1758](karnowitz-merlin-ein-dragoner)."
 cast:
   - name: Herr von Kargheim,
     role: Treuhertz Vater.
@@ -12317,20 +12313,18 @@ author:
   pseudonym: Anonym
 title: Warte ein bißchen, du kannst lange warten
 subtitle: Lustspiel in einem Aufzuge
-numberOfScenes: 16
+numberOfScenes: 18
 printed: 1757
 formalia:
   - Prosa
 basedOn:
-  - "Jean-François Regnard und Charles Dufresny: [»Attendez-moi sous l'orme. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_ATTENDEZSOUSLORME.xml)"
+  - regnard-dufresny-attendez-moi-sous-l-orme
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 18, S. 459
 editions:
   - title: "Des Herrn Regnard sämtliche theatralische Werke aus dem Französischen übersetzt. Erster Theil. Berlin: Nicolai 1757, S. 275–308"
-    url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=RA1-PA275
-comments:
-  - Weitere Übersetzung [1762 (Kretschmann)](kretschmann-warte-unter-der-ulme-auf-mich).
+    url: https://books.google.com/books?id=Fo5NAAAAcAAJ&pg=PA275
 keywords:
   - Tugendprobe
   - Eheanbahnung
@@ -15641,7 +15635,7 @@ printed: 1752
 formalia:
   - Prosa
 basedOn:
-  - "Molière: [»La critique de l'école des femmes. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_CRITIQUEECOLEDESFEMMES.xml)"
+  - moliere-la-critique-de-l-ecole-des-femmes
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 16, S. 35–36
@@ -16639,7 +16633,7 @@ premiered: 1809-08-15
 formalia:
   - Prosa
 basedOn:
-  - "Jean-Nicolas Bouilly: [»Haine aux femmes. Comédie en un acte, mêlée de vaudevilles«](https://books.google.com/books?id=-iBaAAAAcAAJ&printsec=frontcover)"
+  - bouilly-haine-aux-femmes
 editions:
   - title: "Familientheater nach neuen französischen Lieblingsstücken. Zweites Bändchen. Leipzig: Göschen 1809, S. 55–118"
     url: https://books.google.com/books?id=dKE-AAAAYAAJ&pg=PA55
@@ -17455,7 +17449,7 @@ printed: 1770
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»L'heritier de village. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
+  - marivaux-l-heritier-de-village
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 29
@@ -18362,15 +18356,13 @@ premiered: 1770-12-15
 formalia:
   - Prosa
 basedOn:
-  - "Sébastien-Roch Nicolas de Chamfort: [»Le marchand de Smyrne. Comédie en un acte et en prose«](https://books.google.com/books?id=dQ1bAAAAQAAJ&printsec=frontcover)"
+  - chamfort-le-marchand-de-smyrne
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 34–35
 editions:
   - title: "Wien: Trattner 1770"
     url: https://books.google.com/books?id=iDkoj3Mx_qwC&printsec=frontcover
-comments:
-  - Weitere Übersetzung [1770 (Schwan)](schwan-der-kaufmann-von-smyrna).
 keywords:
   - Sklaverei
   - Christensklaven
@@ -21966,7 +21958,7 @@ premiered: 1808-11-09
 formalia:
   - Alexandriner
 basedOn:
-  - "Jean-Nicolas Bouilly: [»Haine aux femmes. Comédie en un acte, mêlée de vaudevilles«](https://books.google.com/books?id=-iBaAAAAcAAJ&printsec=frontcover)"
+  - bouilly-haine-aux-femmes
 editions:
   - title: "Dramatisches Sträußchen. Ein Taschenbuch auf das Jahr 1809. Von Castelli und Hassaureck. Wien: Wallishausser 1809, S. 1–86"
     url: https://books.google.com/books?id=xgKY5bGphO4C&pg=PA1
@@ -23186,7 +23178,7 @@ printed: 1835
 formalia:
   - Prosa
 basedOn:
-  - "Varin, Étienne Arago und Desvergers: [»Théophile, ou Ma vocation. Comédie-vaudeville en un acte«](https://books.google.com/books?id=bTdgAAAAcAAJ&printsec=frontcover)"
+  - varin-arago-desvergers-theophile-ou-ma-vocation
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band VII, No. 54. Berlin: Hayn 1835, S. 923–932"
     url: https://books.google.com/books?id=pd_3fqU7r3AC&pg=PA923
@@ -26784,7 +26776,7 @@ premiered: 1752
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»L'école des mères. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ECOLEDESMERES.xml)"
+  - marivaux-l-ecole-des-meres
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 16, S. 372–374
@@ -30711,11 +30703,9 @@ printed: 1809
 formalia:
   - Alexandriner
 basedOn:
-  - "Molière: [»Sganarelle, ou Le cocu imaginaire. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_SGANARELLE.xml)"
+  - moliere-sganarelle-ou-le-cocu-imaginaire
 editions:
   - title: "Dramatische Studien von Karl Giesebrecht. Bremen: Heyne 1809, S. 155–222"
-comments:
-  - "Weitere Übersetzung: [Wilhelmi (1805)](wilhelmi-stanislaus-hornkopf)."
 cast:
   - name: Bertram,
     role: ein angesehener Bürger.
@@ -44547,13 +44537,12 @@ created: 1758
 formalia:
   - Prosa
 basedOn:
-  - "Desmarres: [»Merlin dragon, ou La Dragonne. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DESMARES_MERLINDRAGON.xml)"
+  - desmarres-merlin-dragon-ou-la-dragonne
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 104–105
 comments:
   - "Manuskript im ›Nachlass Conrad Ekhof‹ der Forschungsbibliothek Gotha, Signatur: [Chart. B 1652](http://kalliope-verbund.info/DE-611-HS-3410562)."
-  - "Weitere Übersetzung [J. E. R. 1749](anonym-die-erzwungene-heirath-oder-merlin-ein-dragoner)."
 cast:
   - name: Der Herr de la Serre,
     role: Vater des Ximanders.
@@ -44753,7 +44742,7 @@ premiered: 1835-09-02
 formalia:
   - Prosa
 basedOn:
-  - "Varin und Desvergers: [»Les femmes d'emprunt. Comédie-vaudeville en un acte«](https://books.google.com/books?id=23lLAAAAcAAJ&printsec=frontcover)"
+  - varin-desvergers-les-femmes-d-emprunt
 editions:
   - title: "Almanach für Freunde der Schauspielkunst auf das Jahr 1837. Herausgegeben von L. Wolff, Soufleur des Königl. Theaters. Berlin: Sittenfeld 1838, S. 253–311"
     url: https://books.google.com/books?id=D8hKAAAAcAAJ&pg=PA253
@@ -51588,15 +51577,13 @@ printed: 1762
 formalia:
   - Prosa
 basedOn:
-  - "Jean-François Regnard und Charles Dufresny: [»Attendez-moi sous l'orme. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/REGNARD_ATTENDEZSOUSLORME.xml)"
+  - regnard-dufresny-attendez-moi-sous-l-orme
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 20, S. 279–280
 editions:
   - title: "Fünf ausgesuchte deutsche Lustspiele. Berlin: Pauli 1762, S. 313–344"
     url: http://resolver.staatsbibliothek-berlin.de/SBB0000BCCD00050000
-comments:
-  - Weitere Übersetzung [1757 (anonym)](anonym-warte-ein-bisschen-du-kannst-lange-warten).
 keywords:
   - Tugendprobe
   - Eheanbahnung
@@ -51686,13 +51673,12 @@ premiered: 1830-10-04
 formalia:
   - Prosa
 basedOn:
-  - "Eugène Scribe, Mélesville und Jean-François Bayard: [»Philipp. Comédie-vaudeville en un acte«](https://books.google.com/books?id=ZDVMAAAAcAAJ&printsec=frontcover)"
+  - scribe-melesville-bayard-philipp
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. Band II, No. 10. Berlin: Hayn 1831, S. 137–150"
     url: https://books.google.com/books?id=elBcAAAAcAAJ&pg=PA137
 comments:
-  - "Anmerkung im [Anhang](https://books.google.com/books?id=elBcAAAAcAAJ&pg=PA150): »Das Stück spielt. Gerade eine Stunde.«"
-  - "Weitere Übersetzung: [Meyer 1834](meyer-philipp)."
+  - "Anmerkung im [Anhang](https://books.google.com/books?id=elBcAAAAcAAJ&pg=PA150): »Das Stück spielt: Gerade eine Stunde.«"
 cast:
   - name: Fräulein von Harville.
     gender: f
@@ -51820,7 +51806,7 @@ printed: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»Arlequin poli par l'amour. Comédie«](https://books.google.com/books?id=bhA6AAAAcAAJ&printsec=frontcover)"
+  - marivaux-arlequin-poli-par-l-amour
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 13, S. 477
@@ -51954,7 +51940,7 @@ printed: 1749
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»Le réunion des amours«](https://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_REUNIONDESAMOURS.xml)."
+  - marivaux-le-reunion-des-amours
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 334–335
@@ -51991,14 +51977,13 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»Le dénouement imprévu. Comédie d'un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_DENOUEMENTIMPREVU.xml)"
+  - marivaux-le-denouement-imprevu
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 332
 editions:
   - title: "Marivaux: Sammlung einiger Lustspiele. 2. Theil. 1749, S. 463–510"
 comments:
-  - "Weitere Übersetzung: [Anonym 1760](anonym-der-unerwartete-ausgang)."
   - Vgl. [73. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb073.html)
     der »Hamburgischen Dramaturgie«.
 cast:
@@ -52037,7 +52022,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»L'heritier de village. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_HERITIERDEVILLAGE.xml)"
+  - marivaux-l-heritier-de-village
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 13, S. 477–478
@@ -52081,15 +52066,13 @@ printed: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
+  - marivaux-l-ile-des-esclaves
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 13, S. 479
 editions:
   - title: "Marivaux: Sammlung einiger Lustspiele. 1. Theil. 1747, S. 311–360"
     url: https://books.google.com/books?id=I3dHAAAAcAAJ&pg=PA311
-comments:
-  - Weitere Übersetzung [1764 (Pfeffel)](pfeffel-die-sclaven-insel).
 keywords:
   - Sklaverei
 cast:
@@ -56584,7 +56567,7 @@ premiered: 1834
 formalia:
   - Prosa
 basedOn:
-  - "Varin, Étienne Arago und Desvergers: [»Théophile, ou Ma vocation. Comédie-vaudeville en un acte«](https://books.google.com/books?id=bTdgAAAAcAAJ&printsec=frontcover)"
+  - varin-arago-desvergers-theophile-ou-ma-vocation
 editions:
   - title: "Almanach dramatischer Spiele für das Jahr 1836. Zweiter Jahrgang. Wien: Tendler [1836], S. 223–289"
     url: https://books.google.com/books?id=SQwdTUyIyoUC&pg=PA223
@@ -56623,7 +56606,7 @@ premiered: 1819-12-18
 formalia:
   - Prosa
 basedOn:
-  - "Mélesville: [»Les deux secrets. Comédie en un acte, en prose«](https://books.google.com/books?id=x3TRoGZT7KkC&printsec=frontcover)"
+  - melesville-les-deux-secrets
 editions:
   - title: "Taschenbuch für Schauspieler und Schauspielfreunde auf das Jahr 1821. Herausgegeben von Lembert. Wien: Tendler und von Manstein 1821, S. 90–147"
     url: https://books.google.com/books?id=w51mAAAAcAAJ&pg=PA90
@@ -57556,8 +57539,8 @@ premiered: 1757
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
-  - "Marivaux: [»L'île de la raison«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDELARAISON.xml)"
+  - marivaux-l-ile-des-esclaves
+  - marivaux-l-ile-de-la-raison-ou-les-petits-hommes
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 112–113
@@ -61696,7 +61679,7 @@ printed: 1793
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»L'épreuve. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_EPREUVE.xml)"
+  - marivaux-l-epreuve
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 32, S. 416–417
@@ -61953,13 +61936,12 @@ printed: 1834
 formalia:
   - Prosa
 basedOn:
-  - "Eugène Scribe, Mélesville und Jean-François Bayard: [»Philipp. Comédie-vaudeville en un acte«](https://books.google.com/books?id=ZDVMAAAAcAAJ&printsec=frontcover)"
+  - scribe-melesville-bayard-philipp
 editions:
   - title: "Dramatische Spiele zur geselligen Unterhaltung auf dem Lande auf das Jahr 1834. Erstes Bändchen. Wismar: Schmidt und v. Cossel 1834, S. 253–362"
     url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18016233&childpid=18016364
 comments:
   - "Im Vorwort: »›Philipp‹ hat auf dem Theater de Madame zu Paris über 100 Vorstellungen nach einander erlebt« ([S. IV](http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18016233&childpid=18016238))."
-  - "Weitere Übersetzung: [Krickeberg 1831](krickeberg-philipp)."
 cast:
   - name: Fräulein von Harville.
     gender: f
@@ -66102,7 +66084,7 @@ printed: 1764
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»L'île des esclaves«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ILEDESESCLAVES.xml)"
+  - marivaux-l-ile-des-esclaves
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 21, S. 159
@@ -70924,6 +70906,7 @@ formalia:
   - Prosa
 basedOn:
   - shishkov-blagodeyanii-priobretayut-serdtsa
+  - chamfort-le-marchand-de-smyrne
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 385
@@ -70931,7 +70914,7 @@ editions:
   - title: "Riga: Hartknoch 1771"
     url: https://books.google.com/books?id=K2tVAAAAcAAJ&pg=PA1
 comments:
-  - "Grundgerüst übernommen aus Sébastien-Roch Nicolas de Chamforts »Le marchand de Smyrne«, das ebenfalls mehrfach als Einakter übersetzt wurde: [Brahm 1770](brahm-der-sklavenhaendler-von-smyrna), [Schwan 1770](schwan-der-kaufmann-von-smyrna)."
+  - "Grundgerüst übernommen aus Sébastien-Roch Nicolas de Chamforts »Le marchand de Smyrne«."
   - "Die Vorlage stammt laut [»Almanach der deutschen Musen auf das Jahr 1772«, S. 154,](https://books.google.com/books?id=8WBeAAAAcAAJ&pg=PA154) vom russischen Schauspieler »Mitrewsky« aus St. Petersburg, wurde aber neben Schischkow auch [Vladimir I. Lukin](http://lib.pushkinskijdom.ru/Default.aspx?tabid=1139) zugeschrieben."
 keywords:
   - Krieg
@@ -71407,7 +71390,7 @@ premiered: 1759-02-27
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»L'école des mères. Comédie en un acte«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_ECOLEDESMERES.xml)"
+  - marivaux-l-ecole-des-meres
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 19, S. 273
@@ -73861,7 +73844,7 @@ printed: 1750
 formalia:
   - Prosa
 basedOn:
-  - "Germain François Poullain de Saint-Foix: [»Le silphe. Comédie en un acte et en prose«](https://books.google.com/books?id=xcs7AAAAcAAJ&printsec=frontcover)"
+  - saint-foix-le-silphe
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 15, S. 84
@@ -76975,7 +76958,7 @@ premiered: 1782-11-25
 formalia:
   - Prosa
 basedOn:
-  - "Marivaux: [»L'épreuve. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MARIVAUX_EPREUVE.xml)"
+  - marivaux-l-epreuve
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 308
@@ -77445,7 +77428,7 @@ premiered: 1790-09-19
 formalia:
   - Prosa
 basedOn:
-  - "Pierre-François Godard de Beauchamps: »Le portrait. Comédie«"
+  - beauchamps-le-portrait
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 30, S. 473
@@ -77453,7 +77436,6 @@ editions:
   - title: "Leipzig: Schneider 1789"
     url: https://books.google.com/books?id=9NzcQB0z1CYC&printsec=frontcover
 comments:
-  - Weitere Übersetzung [1779 (anonym)](anonym-das-portrait-1779).
   - "Nicht identisch mit der gleichnamigen Übersetzung nach Carmontelle: [1770 (anonym)](anonym-das-portrait-1770)."
 cast:
   - name: Von Waldkirch.
@@ -77597,7 +77579,7 @@ printed: 1777
 formalia:
   - Prosa
 basedOn:
-  - "Noël Lebreton de Hauteroche: [»Le souper mal apprêté. Comédie«](https://books.google.com/books?id=BOy9SMG9io4C&printsec=frontcover)"
+  - hauteroche-le-souper-mal-apprete
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 557
@@ -77646,7 +77628,7 @@ printed: 1770
 formalia:
   - Prosa
 basedOn:
-  - "Sébastien-Roch Nicolas de Chamfort: [»Le marchand de Smyrne. Comédie en un acte et en prose«](https://books.google.com/books?id=dQ1bAAAAQAAJ&printsec=frontcover)"
+  - chamfort-le-marchand-de-smyrne
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 179–183
@@ -77656,7 +77638,6 @@ editions:
 reviews:
   - "Almanach der deutschen Musen auf das Jahr 1771, [S. 152](https://books.google.com/books?id=52BeAAAAcAAJ&pg=PA152)."
 comments:
-  - Weitere Übersetzung [1770 (Brahm)](brahm-der-sklavenhaendler-von-smyrna).
   - 1771 von Schwan auch als Operette unter dem Titel »Der Kaufmann von Smyrna, ein Operette in einem Aufzuge – Die Musik ist von Herrn G. Vogler«.
   - 1790 von Schwan auch als Singspiel unter dem Titel »Der Sclavenhändler ein Singspiel in zwei Aufzügen. – In Musik gesezt von Peter Ritter«.
 keywords:
@@ -91189,12 +91170,11 @@ printed: 1805
 formalia:
   - Verse
 basedOn:
-  - "Molière: [»Sganarelle, ou Le cocu imaginaire. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_SGANARELLE.xml)"
+  - moliere-sganarelle-ou-le-cocu-imaginaire
 editions:
   - title: "Rostock und Leipzig: Stiller 1805"
     url: https://books.google.com/books?id=3OCle_mcrY8C&printsec=frontcover
 comments:
-  - "Weitere Übersetzung: [Giesebrecht (1809)](giesebrecht-eifersucht-an-allen-ecken)."
   - "Der Autor widmet sein Werk Kotzebue, dessen Übersetzung der »Ècole des femmes« ihn zu seiner eigenen Molière-Übersetzung inspiriert habe."
 cast:
   - name: Liborius Grasmann.
@@ -92450,7 +92430,7 @@ printed: 1806
 formalia:
   - Prosa
 basedOn:
-  - "Molière: [»Sganarelle, ou Le cocu imaginaire. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_SGANARELLE.xml)"
+  - moliere-sganarelle-ou-le-cocu-imaginaire
 editions:
   - title: "Molieres Lustspiele und Possen. Für die deutsche Bühne von Heinrich Zschokke. Fünfter Band. Zürich: Geßner 1806, S. 123–174"
     url: https://books.google.com/books?id=YwY6AAAAcAAJ&pg=PA123
