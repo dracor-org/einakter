@@ -2,20 +2,9 @@
   text-align: center;
 }
 
-.page {
-  padding-top: 1em;
-}
-
-.details hgroup {
-  margin: 1em 0;
-}
-
-.details hgroup h1 {
-  margin-bottom: .3rem;
-}
-
 h1 {
   font-size: 1.5em;
+  margin: 1em 0 0.5em;
 }
 
 h2 {
@@ -25,6 +14,14 @@ h2 {
 h3 {
   font-size: 1.1em;
   font-weight: normal;
+}
+
+// author/title headings
+hgroup {
+  margin: 1em 0;
+  h1 {
+    margin: 0 0 0.3rem;
+  }
 }
 
 tr.dates > td > span {
@@ -42,10 +39,6 @@ td ul:last-child, td p:last-child {
     display: inline-block;
     margin-left: 1.5em;
   }
-}
-
-.locations-map h1 {
-  margin: 1em 0 .5em;
 }
 
 .leaflet-container {

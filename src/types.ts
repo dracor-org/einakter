@@ -82,9 +82,11 @@ export interface OriginalPlay {
   created?: number
   printed?: number
   premiered?: string | number
+  normalizedYear?: number
   fulltextUrl?: string
   ids?: {
     dracor?: string
     wikidata?: string
   }
+  numTranslations?: number
 }

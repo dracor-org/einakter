@@ -16,12 +16,17 @@ try {
   console.log(error);
 }
 
+originals.forEach(o => {
+  o.normalizedYear = normalizeYear(o);
+  o.authors = o.author ? [o.author] : o.authors || [];
+  delete o.author;
+});
+
 interface Map<T> {
   [id: string]: T
 }
 const map: Map<OriginalPlay> = originals.reduce((acc, o) => {
-  const authors = o.author ? [o.author] : o.authors || [];
-  acc[o.id as string] = {...o, authors, author: undefined};
+  acc[o.id as string] = o;
   return acc;
 }, {} as Map<OriginalPlay>);
 
@@ -36,3 +41,4 @@ const plays = data.map((p: Play) => {
 });
 
 writeFileSync('./data.json', JSON.stringify(plays));
+writeFileSync('./src/originals.json', JSON.stringify(originals));
