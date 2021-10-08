@@ -4,6 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Topnav from './components/Topnav';
 import Table from './components/Table';
 import Details from './components/Details';
+import OriginalDetails from './components/OriginalDetails';
 import About from './components/About';
 import Map from './components/Map';
 import Originals from './components/Originals';
@@ -28,6 +29,9 @@ function App () {
           </Route>
           <Route path="/locations">
             <Map/>
+          </Route>
+          <Route path="/originals/:originalId">
+            <OriginalDetails/>
           </Route>
           <Route path="/originals">
             <Originals/>

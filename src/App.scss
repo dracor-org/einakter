@@ -2,14 +2,6 @@
   text-align: center;
 }
 
-.details hgroup {
-  margin: 1em 0;
-}
-
-.details hgroup h1 {
-  margin: 0 0 0.3rem;
-}
-
 h1 {
   font-size: 1.5em;
   margin: 1em 0 0.5em;
@@ -22,6 +14,14 @@ h2 {
 h3 {
   font-size: 1.1em;
   font-weight: normal;
+}
+
+// author/title headings
+hgroup {
+  margin: 1em 0;
+  h1 {
+    margin: 0 0 0.3rem;
+  }
 }
 
 tr.dates > td > span {
