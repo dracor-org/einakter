@@ -13,6 +13,7 @@ function Topnav () {
         <Nav className="mr-auto">
           <Nav.Link href="/about">About</Nav.Link>
           <Nav.Link href="/locations">Locations</Nav.Link>
+          <Nav.Link href="/originals">Originals</Nav.Link>
         </Nav>
         <Nav className="ml-auto">
           <Nav.Link
