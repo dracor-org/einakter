@@ -88,4 +88,5 @@ export interface OriginalPlay {
     dracor?: string
     wikidata?: string
   }
+  numTranslations?: number
 }

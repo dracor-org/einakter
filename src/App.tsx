@@ -6,6 +6,7 @@ import Table from './components/Table';
 import Details from './components/Details';
 import About from './components/About';
 import Map from './components/Map';
+import Originals from './components/Originals';
 import './icons';
 
 import './App.scss';
@@ -27,6 +28,9 @@ function App () {
           </Route>
           <Route path="/locations">
             <Map/>
+          </Route>
+          <Route path="/originals">
+            <Originals/>
           </Route>
           <Route path="/:id">
             <Details/>

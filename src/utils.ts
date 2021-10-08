@@ -1,6 +1,18 @@
-import {Play} from './types';
+import {Play, OriginalPlay} from './types';
 
-export function normalizeYear (play: Play) {
+export const languages: any = {
+  cze: 'Czech',
+  dan: 'Danish',
+  eng: 'English',
+  fre: 'French',
+  ger: 'German',
+  ita: 'Italian',
+  lat: 'Latin',
+  rus: 'Russian',
+  spa: 'Spanish',
+}
+
+export function normalizeYear (play: Play | OriginalPlay) {
   const {premiered: p, printed, created} = play;
   const premiered: number = parseInt(p as string);
   const published = (premiered && printed)
