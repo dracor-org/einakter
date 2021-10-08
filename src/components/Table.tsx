@@ -3,6 +3,7 @@ import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import {Link} from 'react-router-dom';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {Helmet} from 'react-helmet';
 import Authors from './Authors';
 import Statistics from './Statistics';
 import IdLink from './IdLink';
@@ -103,39 +104,44 @@ function Table () {
   const { SearchBar } = Search;
   
   return (
-    <ToolkitProvider
-      keyField='slug'
-      data={data}
-      columns={columns}
-      search
-    >
-      {
-        props => (
-          <div>
-            <Statistics plays={data} authors={authors} />
-            <SearchBar { ...props.searchProps } />
-            <span className="download">
-              <a href="data.json" download="einakter.json">
-                <FontAwesomeIcon icon="download" title="Download JSON"/>
-              </a>
-              {' '}
-              <a href="data.csv" download="einakter.csv">
-                <FontAwesomeIcon icon="file-csv" title="Download CSV"/>
-              </a>
-            </span>
-            <br/>
-            <BootstrapTable
-              { ...props.baseProps }
-              bootstrap4
-              defaultSorted={[
-                { dataField: 'normalizedYear', order: 'asc' }
-              ]}
-              defaultSortDirection="asc"
-            />
-          </div>
-        )
-      }
-    </ToolkitProvider>
+    <>
+      <Helmet>
+        <title>Einakter</title>
+      </Helmet>
+      <ToolkitProvider
+        keyField='slug'
+        data={data}
+        columns={columns}
+        search
+      >
+        {
+          props => (
+            <div>
+              <Statistics plays={data} authors={authors} />
+              <SearchBar { ...props.searchProps } />
+              <span className="download">
+                <a href="data.json" download="einakter.json">
+                  <FontAwesomeIcon icon="download" title="Download JSON"/>
+                </a>
+                {' '}
+                <a href="data.csv" download="einakter.csv">
+                  <FontAwesomeIcon icon="file-csv" title="Download CSV"/>
+                </a>
+              </span>
+              <br/>
+              <BootstrapTable
+                { ...props.baseProps }
+                bootstrap4
+                defaultSorted={[
+                  { dataField: 'normalizedYear', order: 'asc' }
+                ]}
+                defaultSortDirection="asc"
+              />
+            </div>
+          )
+        }
+      </ToolkitProvider>
+    </>
   );
 }
 

@@ -2,6 +2,7 @@ import React, {useEffect, useContext} from 'react';
 import {useLocation, useParams} from "react-router-dom";
 import {Table, Row, Col} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
+import {Helmet} from "react-helmet";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
 import AuthorInfo from './AuthorInfo';
@@ -50,8 +51,14 @@ export default function Details () {
     basedOn,
   } = play;
 
+  const authorNames = authors.map(a => a.pseudonym || a.name || '').join(' · ');
+  const pageTitle = authorNames ? `${authorNames}: ${title}` : title;
+
   return (
     <div className="details">
+      <Helmet>
+        <title>Einakter: {pageTitle}</title>
+      </Helmet>
       <Row>
         <Col>
           <hgroup>

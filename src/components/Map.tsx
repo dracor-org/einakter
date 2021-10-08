@@ -1,4 +1,5 @@
 import React from 'react';
+import {Helmet} from "react-helmet";
 import {MapContainer, TileLayer, Marker} from 'react-leaflet';
 import SettingsPopup from './SettingsPopup';
 
@@ -31,6 +32,10 @@ const markers = Object.entries(locations).map(([k, l]) => (
 const SettingsMap = () => {
   return (
     <div className="locations-map">
+      <Helmet>
+        <title>Einakter: Locations</title>
+      </Helmet>
+
       <h1>Locations</h1>
 
       <p>
