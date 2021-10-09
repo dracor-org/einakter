@@ -44,9 +44,9 @@
     "json": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2json.ts && cp ./data.json ./src/ && cp ./data.json ./public/",
     "authors": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-authors.ts",
     "locations": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-locations.ts",
-    "start": "yarn csv && yarn json && react-scripts start",
-    "build": "yarn csv && yarn json && react-scripts build",
-    "test": "yarn csv && yarn json && react-scripts test",
+    "start": "yarn compile && yarn csv && yarn json && react-scripts start",
+    "build": "yarn compile && yarn csv && yarn json && react-scripts build",
+    "test": "yarn compile && yarn csv && yarn json && react-scripts test",
     "extract": "lingui extract",
     "compile": "lingui compile",
     "eject": "react-scripts eject"
