@@ -7,6 +7,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.9",
+    "@lingui/react": "^3.12.1",
     "@testing-library/jest-dom": "5.11.5",
     "@testing-library/react": "11.1.0",
     "@testing-library/user-event": "12.1.10",
@@ -64,6 +65,8 @@
     ]
   },
   "devDependencies": {
+    "@lingui/cli": "^3.12.1",
+    "@lingui/macro": "^3.12.1",
     "@types/js-yaml": "4.0.0",
     "axios": "^0.21.1",
     "ts-node": "^9.0.0"
