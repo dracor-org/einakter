@@ -1,5 +1,6 @@
 import React, {useContext} from 'react';
 import {Link, useParams} from "react-router-dom";
+import {Trans} from '@lingui/macro';
 import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
@@ -86,7 +87,7 @@ const Original = ({data}: Props) => {
       {others.length > 0 && (
         <>
           <p style={{margin: '.8em 0 .3em', fontStyle: 'italic'}}>
-            Other one-act translations:
+            <Trans>Other one-act translations</Trans>:
           </p>
           <ul>
             {others.map((play) => (

@@ -2,6 +2,7 @@ import React from 'react';
 import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import {Link} from 'react-router-dom';
+import {t} from '@lingui/macro';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {Helmet} from 'react-helmet';
 import Authors from './Authors';
@@ -47,7 +48,7 @@ function formatWikidata (id: any | undefined) {
 function Table () {
   const columns = [{
     dataField: 'authors[0].name',
-    text: 'Author',
+    text: t`Author`,
     formatter: formatAuthor,
     filterValue: (cell: string | undefined, play: Play) => {
       if (cell === undefined) return 'Anonym';
@@ -57,7 +58,7 @@ function Table () {
     sort: true
   }, {
     dataField: 'title',
-    text: 'Title',
+    text: t`Title`,
     formatter: formatTitle,
     filterValue: (_: string, play: Play) => {
       let text = `${play.title} ${play.subtitle} ${play.setting}`;
@@ -68,15 +69,15 @@ function Table () {
     sort: true
   }, {
     dataField: 'numberOfCharacters',
-    text: 'Characters',
+    text: t`Characters`,
     sort: true
   }, {
     dataField: 'numberOfScenes',
-    text: 'Scenes',
+    text: t`Scenes`,
     sort: true
   }, {
     dataField: 'normalizedYear',
-    text: 'Year (normalized)',
+    text: t`Year (normalized)`,
     sort: true,
     sortFunc: (a: number, b: number, order: string) => {
       if (!a) {
@@ -96,7 +97,7 @@ function Table () {
     sort: false
   }, {
     dataField: 'keywords',
-    text: 'Keywords',
+    text: t`Keywords`,
     formatter: formatKeywords,
     sort: false
   }]
@@ -121,11 +122,11 @@ function Table () {
               <SearchBar { ...props.searchProps } />
               <span className="download">
                 <a href="data.json" download="einakter.json">
-                  <FontAwesomeIcon icon="download" title="Download JSON"/>
+                  <FontAwesomeIcon icon="download" title={t`Download JSON`}/>
                 </a>
                 {' '}
                 <a href="data.csv" download="einakter.csv">
-                  <FontAwesomeIcon icon="file-csv" title="Download CSV"/>
+                  <FontAwesomeIcon icon="file-csv" title={t`Download CSV`}/>
                 </a>
               </span>
               <br/>

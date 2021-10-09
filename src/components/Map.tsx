@@ -1,5 +1,6 @@
 import React from 'react';
 import {Helmet} from "react-helmet";
+import {Trans, t} from '@lingui/macro';
 import {MapContainer, TileLayer, Marker} from 'react-leaflet';
 import SettingsPopup from './SettingsPopup';
 
@@ -33,10 +34,10 @@ const SettingsMap = () => {
   return (
     <div className="locations-map">
       <Helmet>
-        <title>Einakter: Locations</title>
+        <title>Einakter: {t`Locations`}</title>
       </Helmet>
 
-      <h1>Locations</h1>
+      <h1><Trans>Locations</Trans></h1>
 
       <p>
         This map shows all plot locations extractable from the setting

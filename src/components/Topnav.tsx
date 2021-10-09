@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import { useLocation } from 'react-router-dom';
+import {Trans} from '@lingui/macro';
 import {faGithub} from '@fortawesome/free-brands-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 
@@ -19,13 +20,13 @@ function Topnav () {
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
           <Nav.Link href="/about" active={isActive('/about')}>
-            About
+            <Trans>About</Trans>
           </Nav.Link>
           <Nav.Link href="/locations" active={isActive('/locations')}>
-            Locations
+            <Trans>Locations</Trans>
           </Nav.Link>
           <Nav.Link href="/originals" active={isActive('/originals')}>
-            Originals
+            <Trans>Originals</Trans>
           </Nav.Link>
         </Nav>
         <Nav className="ml-auto">

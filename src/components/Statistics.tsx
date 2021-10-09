@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import {Trans, t} from '@lingui/macro';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {Play} from '../types';
 
@@ -69,48 +70,61 @@ const Statistics = ({authors = {}, plays = []}: Props) => {
       <table className="table table-sm table-dark">
         <caption
           onClick={() => setExpanded(!expanded)}
-          title={expanded ? 'Hide' : 'Show more'}
+          title={expanded ? t`Hide` : t`Show more`}
         >
           {expanded ? (
             <>
-              {`Statistics `}
+              <Trans>Statistics</Trans>{' '}
               <FontAwesomeIcon icon="caret-down" title="Hide"/>
             </>
           ) : (
             <>
-              {`Database currently containing ${plays.length} one-act plays `}
-              {`featuring ${numCharacters} characters `}
-              <FontAwesomeIcon icon="caret-up" title="Show more"/>
+              <Trans>
+                Database currently containing {plays.length} one-act plays
+                featuring {numCharacters} characters
+              </Trans>
+              {' '}
+              <FontAwesomeIcon icon="caret-up" title={t`Show more`}/>
             </>
           )}
         </caption>
         <tbody style={{display: expanded ? 'table-row-group' : 'none'}}>
           <tr>
-            <th>One-act plays</th>
+            <th>
+              <Trans>One-act plays</Trans>
+            </th>
             <td>{plays.length}</td>
           </tr>
           <tr>
-            <th>Authors</th>
+            <th>
+              <Trans>Authors</Trans>
+            </th>
             <td>
               {authorsTotal}
               <br/>
               <small>
                 Wikidata: {authorsWikidata},
-                male: {authorsMale},
-                female: {authorsFemale}
+                <Trans>male</Trans>: {authorsMale},
+                <Trans>female</Trans>: {authorsFemale}
               </small>
             </td>
           </tr>
           <tr>
-            <th>Plays published anonymously</th>
+            <th>
+              <Trans>Plays published anonymously</Trans>
+            </th>
             <td>{anonymous}</td>
           </tr>
           <tr>
-            <th>Plays translated/adapted from other languages</th>
+            <th>
+              <Trans>Plays translated/adapted from other languages</Trans>
+            </th>
             <td>{plays.filter(p => p.basedOn?.length).length}</td>
           </tr>
           <tr>
-            <th>Characters</th>
+            <th>
+              <Trans>Characters</Trans>
+            </th>
             <td>{numCharacters}</td>
           </tr>
         </tbody>
