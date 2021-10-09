@@ -47,6 +47,8 @@
     "start": "yarn csv && yarn json && react-scripts start",
     "build": "yarn csv && yarn json && react-scripts build",
     "test": "yarn csv && yarn json && react-scripts test",
+    "extract": "lingui extract",
+    "compile": "lingui compile",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
