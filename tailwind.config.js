@@ -10,9 +10,6 @@ module.exports = {
           100: '#aef',
           200: '#08f',
         }
-      },
-      fontFamily: {
-        body: ['Rubik']
       }
     },
   },
