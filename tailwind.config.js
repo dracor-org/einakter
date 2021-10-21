@@ -3,6 +3,13 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      colors: {
+        primary: '#1f2448',
+        secondary: {
+          100: '#aef',
+          200: '#08f',
+        }
+      },
       fontFamily: {
         body: ['Rubik']
       }
