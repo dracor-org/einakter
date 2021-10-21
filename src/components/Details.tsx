@@ -56,7 +56,7 @@ export default function Details () {
   const pageTitle = authorNames ? `${authorNames}: ${title}` : title;
 
   return (
-    <div className="details">
+    <div className="details p-4">
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>

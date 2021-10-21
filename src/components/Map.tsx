@@ -32,7 +32,7 @@ const markers = Object.entries(locations).map(([k, l]) => (
 
 const SettingsMap = () => {
   return (
-    <div className="locations-map">
+    <div className="locations-map p-4">
       <Helmet>
         <title>Einakter: {t`Locations`}</title>
       </Helmet>
