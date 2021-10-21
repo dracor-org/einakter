@@ -7,7 +7,7 @@ const Content = lazy(() => importMDX('../about.mdx'));
 
 export default function About () {
   return (
-    <div className="page">
+    <div className="page p-4">
       <Helmet>
         <title>Einakter: {t`About`}</title>
       </Helmet>
