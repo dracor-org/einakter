@@ -32,7 +32,7 @@ function formatWikidata (id: any | undefined) {
   ) : <i/>; // we need to return an element to avoid a typescript error
 }
 
-function Table () {
+function Originals () {
   const {plays, originals} = useContext(EinakterContext);
 
   const numbers: {[id: string]: number} = {}
@@ -108,7 +108,7 @@ function Table () {
   const { SearchBar } = Search;
   
   return (
-    <>
+    <div className="p-4">
       <Helmet>
         <title>Einakter: Originals</title>
       </Helmet>
@@ -137,8 +137,8 @@ function Table () {
           )
         }
       </ToolkitProvider>
-    </>
+    </div>
   );
 }
 
-export default Table;
+export default Originals;
