@@ -9,3 +9,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Rubik';
 }
+
+@layer base {
+  body {
+    @apply bg-neutral-100;
+  }
+  th {
+   @apply text-left; 
+  }
+  tr:nth-child(odd) {
+   @apply bg-neutral-200;
+  }
+  a {
+    @apply text-secondary-200;
+  }
+}
