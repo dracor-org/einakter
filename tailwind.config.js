@@ -9,6 +9,10 @@ module.exports = {
         secondary: {
           100: '#aef',
           200: '#08f',
+        },
+        neutral: {
+          100: '#ebf0f7',
+          200: '#1f244809',
         }
       }
     },
