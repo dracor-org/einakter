@@ -43,7 +43,7 @@ const OriginalDetails = () => {
   const pageTitle = authorNames ? `${authorNames}: ${title}` : title;
 
   return (
-    <>
+    <div className="p-4">
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
@@ -129,7 +129,7 @@ const OriginalDetails = () => {
           )}
         </tbody>
       </Table>
-    </>
+    </div>
   );
 };
 
