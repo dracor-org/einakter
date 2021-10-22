@@ -18,7 +18,7 @@ function Topnav () {
 
   return (
     <Navbar className="flex p-4 bg-primary text-white uppercase font-medium" bg="dark" variant="dark" expand="lg" sticky="top">
-      <Navbar.Brand href="/">
+      <Navbar.Brand href="/" className="z-0">
         <img
           src="/DONE.svg"
           width="170"
@@ -28,13 +28,25 @@ function Topnav () {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav" className="flex flex-grow -ml-28">
         <Nav className="flex m-auto gap-8">
-          <Nav.Link href="/about" active={isActive('/about')}>
+          <Nav.Link
+            href="/about"
+            active={isActive('/about')}
+            className="text-white"
+          >
             <Trans>About</Trans>
           </Nav.Link>
-          <Nav.Link href="/locations" active={isActive('/locations')}>
+          <Nav.Link
+            href="/locations"
+            active={isActive('/locations')}
+            className="text-white"
+          >
             <Trans>Locations</Trans>
           </Nav.Link>
-          <Nav.Link href="/originals" active={isActive('/originals')}>
+          <Nav.Link
+            href="/originals"
+            active={isActive('/originals')}
+            className="text-white"
+          >
             <Trans>Originals</Trans>
           </Nav.Link>
         </Nav>
@@ -52,6 +64,7 @@ function Topnav () {
           <Nav.Link
             href="https://github.com/dracor-org/einakter"
             title="Einakter Github"
+            className="text-white"
           >
             <FontAwesomeIcon className="scale-0 sm:scale-100" icon={faGithub} size="3x"/>
             <span className="block sm:hidden">Einakter Github</span>
