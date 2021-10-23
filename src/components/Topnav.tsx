@@ -6,8 +6,7 @@ import {useLingui} from "@lingui/react";
 import {Trans} from '@lingui/macro';
 import {faGithub} from '@fortawesome/free-brands-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
-
-const locales = ['en', 'de', 'tr'];
+import {locales, setLocale} from '../i18n';
 
 function Topnav () {
   const location = useLocation();
@@ -39,10 +38,7 @@ function Topnav () {
               key={locale}
               style={{cursor: 'pointer'}}
               className={`nav-link${locale === i18n.locale ? ' active' : ''}`}
-              onClick={() => {
-                i18n.activate(locale);
-                sessionStorage.setItem('lang', locale);
-              }}
+              onClick={() => setLocale(locale)}
             >
               {locale}
             </span>
