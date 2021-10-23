@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-09 02:27+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Language: de\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/About.tsx:12 src/components/Topnav.tsx:24
+msgid "About"
+msgstr "Über"
+
+#: src/components/Originals.tsx:59 src/components/Table.tsx:51
+msgid "Author"
+msgstr "Autor"
+
+#: src/components/Statistics.tsx:100
+msgid "Authors"
+msgstr "Autoren"
+
+#: src/components/Details.tsx:231
+msgid "Based on"
+msgstr "Basierend auf"
+
+#: src/components/Statistics.tsx:126 src/components/Table.tsx:72
+msgid "Characters"
+msgstr "Personen"
+
+#: src/components/Details.tsx:90
+msgid "Comments"
+msgstr "Kommentare"
+
+#: src/components/Statistics.tsx:82
+msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
+msgstr "Die Datenbank enthält derzeit {0} Einakter mit {numCharacters} Personen"
+
+#: src/components/Details.tsx:121 src/components/OriginalDetails.tsx:93
+msgid "Dates"
+msgstr "Daten"
+
+#: src/components/Details.tsx:241
+msgid "Dictionaries"
+msgstr "Wörterbücher"
+
+#: src/components/Table.tsx:129
+msgid "Download CSV"
+msgstr "CSV herunterladen"
+
+#: src/components/Table.tsx:125
+msgid "Download JSON"
+msgstr "JSON herunterladen"
+
+#: src/components/Details.tsx:178
+msgid "Dramatis personae"
+msgstr "Dramatis personae"
+
+#: src/components/Details.tsx:162
+msgid "Editions"
+msgstr "Ausgaben"
+
+#: src/components/Details.tsx:251
+msgid "Formalia"
+msgstr "Formalia"
+
+#: src/components/OriginalDetails.tsx:121
+msgid "Full text"
+msgstr "Volltext"
+
+#: src/components/Statistics.tsx:73
+msgid "Hide"
+msgstr "Verbergen"
+
+#: src/components/Details.tsx:265 src/components/Table.tsx:100
+msgid "Keywords"
+msgstr "Stichwörter"
+
+#: src/components/OriginalDetails.tsx:61 src/components/Originals.tsx:98
+msgid "Language"
+msgstr "Sprache"
+
+#: src/components/Details.tsx:138 src/components/OriginalDetails.tsx:102
+msgid "Links"
+msgstr "Links"
+
+#: src/components/About.tsx:14
+msgid "Loading..."
+msgstr "Wird geladen…"
+
+#: src/components/Details.tsx:221
+msgid "Location"
+msgstr "Ort"
+
+#: src/components/Map.tsx:37 src/components/Map.tsx:40
+#: src/components/Topnav.tsx:27
+msgid "Locations"
+msgstr "Orte"
+
+#: src/components/Details.tsx:31
+msgid "No such play"
+msgstr "Kein Einakter gefunden"
+
+#: src/components/Details.tsx:130
+msgid "Number of Scenes"
+msgstr "Anzahl der Szenen"
+
+#: src/components/Originals.tsx:104
+msgid "Number of translations"
+msgstr "Anzahl der Übersetzungen"
+
+#: src/components/Statistics.tsx:94
+msgid "One-act plays"
+msgstr "Einakter"
+
+#: src/components/OriginalDetails.tsx:20
+msgid "Original not found"
+msgstr "Kein Original gefunden"
+
+#: src/components/Originals.tsx:116 src/components/Topnav.tsx:30
+msgid "Originals"
+msgstr "Originale"
+
+#: src/components/Original.tsx:89
+msgid "Other one-act translations"
+msgstr "Andere Einakter-Übersetzungen"
+
+#: src/components/Statistics.tsx:114
+msgid "Plays published anonymously"
+msgstr "Anonym veröffentlichte Stücke"
+
+#: src/components/Statistics.tsx:120
+msgid "Plays translated/adapted from other languages"
+msgstr "Aus anderen Sprachen übersetzte Stücke"
+
+#: src/components/Details.tsx:106
+msgid "Reviews"
+msgstr "Rezensionen"
+
+#: src/components/Table.tsx:76
+msgid "Scenes"
+msgstr "Szenen"
+
+#: src/components/Table.tsx:122
+msgid "Search"
+msgstr "Suche"
+
+#: src/components/Details.tsx:213
+msgid "Setting"
+msgstr "Ort der Handlung"
+
+#: src/components/Statistics.tsx:73 src/components/Statistics.tsx:87
+msgid "Show more"
+msgstr "Mehr anzeigen"
+
+#: src/components/Statistics.tsx:77
+msgid "Statistics"
+msgstr "Statistik"
+
+#: src/components/Map.tsx:43
+msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
+msgstr "Diese Karte zeigt alle Orte, die sich aus den Ortsangaben zu Beginn eines Stückes extrahieren lassen. Grenzen und Name werden von OpenStreetMap bereitgestellt und sind daher hinsichtlich der Stücke ahistorisch."
+
+#: src/components/Originals.tsx:69 src/components/Table.tsx:61
+msgid "Title"
+msgstr "Titel"
+
+#: src/components/OriginalDetails.tsx:69
+msgid "Translations"
+msgstr "Übersetzungen"
+
+#: src/components/Originals.tsx:78 src/components/Table.tsx:80
+msgid "Year (normalized)"
+msgstr "Jahr (normalisiert)"
+
+#: src/components/AuthorInfo.tsx:124
+msgid "b."
+msgstr "geb."
+
+#: src/components/AuthorInfo.tsx:125
+msgid "d."
+msgstr "gest."
+
+#: src/components/Statistics.tsx:108
+msgid "female"
+msgstr "weiblich"
+
+#: src/components/Statistics.tsx:107
+msgid "male"
+msgstr "männlich"

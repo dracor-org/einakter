@@ -1,4 +1,5 @@
 import React, {useEffect, useState} from 'react';
+import {Trans} from '@lingui/macro';
 import axios from 'axios';
 import IdLink from './IdLink';
 import {formatYear} from './Years';
@@ -120,8 +121,8 @@ WHERE {
             <IdLink id={wikidataId} type="wikidata"/>
           </p>
         )}
-        {birth.length > 0 && <p>b. {birth.join(', ')}</p>}
-        {death.length > 0 && <p>d. {death.join(', ')}</p>}
+        {birth.length > 0 && <p><Trans>b.</Trans> {birth.join(', ')}</p>}
+        {death.length > 0 && <p><Trans>d.</Trans> {death.join(', ')}</p>}
       </span>
     </div>
   );

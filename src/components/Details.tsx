@@ -3,6 +3,7 @@ import {useLocation, useParams} from "react-router-dom";
 import {Table, Row, Col} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
 import {Helmet} from "react-helmet";
+import {Trans} from '@lingui/macro';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
 import AuthorInfo from './AuthorInfo';
@@ -27,7 +28,7 @@ export default function Details () {
   }, [pathname]);
 
   if (!play) {
-    return <strong>No such play</strong>;
+    return <strong><Trans>No such play</Trans></strong>;
   }
   
   const {
@@ -85,7 +86,9 @@ export default function Details () {
         <tbody>
           {comments && (
             <tr>
-              <th>Comments</th>
+              <th>
+                <Trans>Comments</Trans>
+              </th>
               <td>
                 <ul>
                   {comments.map((c, i) => (
@@ -99,7 +102,9 @@ export default function Details () {
           )}
           {reviews && (
             <tr>
-              <th>Reviews</th>
+              <th>
+                <Trans>Reviews</Trans>
+              </th>
               <td>
                 <ul>
                   {reviews.map((r, i) => (
@@ -112,20 +117,26 @@ export default function Details () {
             </tr>
           )}
           <tr className="dates">
-            <th>Dates</th>
+            <th>
+              <Trans>Dates</Trans>
+            </th>
             <td>
               <Years written={created} premiere={premiered} print={printed}/>
             </td>
           </tr>
           {numberOfScenes && (
             <tr>
-              <th>Number of Scenes</th>
+              <th>
+                <Trans>Number of Scenes</Trans>
+              </th>
               <td>{numberOfScenes}</td>
             </tr>
           )}
           {ids && (
             <tr>
-              <th>Links</th>
+              <th>
+                <Trans>Links</Trans>
+              </th>
               <td>
                 <ul>
                   {ids.dracor && (
@@ -147,7 +158,9 @@ export default function Details () {
           )}
           {editions && (
             <tr>
-              <th>Editions</th>
+              <th>
+                <Trans>Editions</Trans>
+              </th>
               <td>
                 <ul>
                   {editions.map(e => (
@@ -161,7 +174,9 @@ export default function Details () {
           )}
           {cast && (
             <tr>
-              <th>Dramatis personae</th>
+              <th>
+                <Trans>Dramatis personae</Trans>
+              </th>
               <td>
                 <ul>
                   {cast.map((c: CastMember) => c.group ? (
@@ -194,13 +209,17 @@ export default function Details () {
           )}
           {setting && (
             <tr>
-              <th>Setting</th>
+              <th>
+                <Trans>Setting</Trans>
+              </th>
               <td>{setting}</td>
             </tr>
           )}
           {location?.wikidataId && (
             <tr>
-              <th>Location</th>
+              <th>
+                <Trans>Location</Trans>
+              </th>
               <td>
                 <IdLink id={location.wikidataId} type="wikidata"/>
               </td>
@@ -208,7 +227,9 @@ export default function Details () {
           )}
           {basedOn && (
             <tr>
-              <th>Based on</th>
+              <th>
+                <Trans>Based on</Trans>
+              </th>
               <td>
                 <BasedOn refs={basedOn}/>
               </td>
@@ -216,7 +237,9 @@ export default function Details () {
           )}
           {dictionaries && (
             <tr>
-              <th>Dictionaries</th>
+              <th>
+                <Trans>Dictionaries</Trans>
+              </th>
               <td>
                 <Dictionaries dictionaries={dictionaries}/>
               </td>
@@ -224,7 +247,9 @@ export default function Details () {
           )}
           {formalia && (
             <tr>
-              <th>Formalia</th>
+              <th>
+                <Trans>Formalia</Trans>
+              </th>
               <td>
                 <ul>
                   {formalia.map(text => (
@@ -236,7 +261,9 @@ export default function Details () {
           )}
           {keywords && (
             <tr>
-              <th>Keywords</th>
+              <th>
+                <Trans>Keywords</Trans>
+              </th>
               <td>
                 <ul>
                   {keywords.map(k => (

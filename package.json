@@ -7,6 +7,8 @@
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.9",
+    "@lingui/detect-locale": "^3.12.1",
+    "@lingui/react": "^3.12.1",
     "@testing-library/jest-dom": "5.11.5",
     "@testing-library/react": "11.1.0",
     "@testing-library/user-event": "12.1.10",
@@ -43,9 +45,11 @@
     "json": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2json.ts && cp ./data.json ./src/ && cp ./data.json ./public/",
     "authors": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-authors.ts",
     "locations": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-locations.ts",
-    "start": "yarn csv && yarn json && react-scripts start",
-    "build": "yarn csv && yarn json && react-scripts build",
-    "test": "yarn csv && yarn json && react-scripts test",
+    "start": "yarn compile && yarn csv && yarn json && react-scripts start",
+    "build": "yarn compile && yarn csv && yarn json && react-scripts build",
+    "test": "yarn compile && yarn csv && yarn json && react-scripts test",
+    "extract": "lingui extract",
+    "compile": "lingui compile",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -64,6 +68,8 @@
     ]
   },
   "devDependencies": {
+    "@lingui/cli": "^3.12.1",
+    "@lingui/macro": "^3.12.1",
     "@types/js-yaml": "4.0.0",
     "axios": "^0.21.1",
     "ts-node": "^9.0.0"

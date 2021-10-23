@@ -1,5 +1,6 @@
 import React, {useContext} from 'react';
 import {Link, useParams} from "react-router-dom";
+import {Trans} from '@lingui/macro';
 import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
@@ -35,7 +36,8 @@ const Original = ({data}: Props) => {
   const year = getYear(data);
 
   const others = plays.filter((p) => p.basedOn?.find(
-    (r: OriginalPlay) => r.id === id && p.slug !== currentId
+    (r: OriginalPlay | string) => 
+      typeof r !== 'string' && r.id === id && p.slug !== currentId
   ));
 
   return (
@@ -85,13 +87,13 @@ const Original = ({data}: Props) => {
       {others.length > 0 && (
         <>
           <p style={{margin: '.8em 0 .3em', fontStyle: 'italic'}}>
-            Other one-act translations:
+            <Trans>Other one-act translations</Trans>:
           </p>
           <ul>
             {others.map((play) => (
               <li key={play.slug}>
                 <Link to={`/${play.slug}`}>
-                  {play.authors.length > 0 && (
+                  {(play.authors && play.authors.length > 0) && (
                     <>
                       <Authors authors={play.authors}/>{': '}
                     </>

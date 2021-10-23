@@ -1,6 +1,7 @@
 import React, {useContext} from 'react';
 import {Link, useParams} from "react-router-dom";
 import {Helmet} from "react-helmet";
+import {Trans} from '@lingui/macro';
 import {Table} from 'react-bootstrap';
 import Authors from './Authors';
 import IdLink from './IdLink';
@@ -16,7 +17,7 @@ const OriginalDetails = () => {
   const original = originals.find(o => o.id === originalId);
 
   if (!original) {
-    return <h1>Original not found</h1>;
+    return <h1><Trans>Original not found</Trans></h1>;
   }
 
   const translations = plays.filter(p => p.basedOn?.find(
@@ -56,19 +57,23 @@ const OriginalDetails = () => {
       <Table>
         <tbody>
           <tr>
-            <th>Language</th>
+            <th>
+              <Trans>Language</Trans>
+            </th>
             <td>
-              {languages[language] || language}
+              {languages[language as string] || language}
             </td>
           </tr>
           <tr>
-            <th>Translations</th>
+            <th>
+              <Trans>Translations</Trans>
+            </th>
             <td>
               <ul>
                 {translations.map(play => (
                   <li key={play.slug}>
                     <Link to={`/${play.slug}`}>
-                      {play.authors.length > 0 && (
+                      {(play.authors && play.authors.length > 0) && (
                         <>
                           <Authors authors={play.authors}/>{': '}
                         </>
@@ -84,14 +89,18 @@ const OriginalDetails = () => {
             </td>
           </tr>
           <tr className="dates">
-            <th>Dates</th>
+            <th>
+              <Trans>Dates</Trans>
+            </th>
             <td>
               <Years written={created} premiere={premiered} print={printed}/>
             </td>
           </tr>
           {ids && (
             <tr>
-              <th>Links</th>
+              <th>
+                <Trans>Links</Trans>
+              </th>
               <td>
                 <ul>
                   {ids.dracor && (
@@ -108,7 +117,9 @@ const OriginalDetails = () => {
           )}
           {fulltextUrl && (
             <tr>
-              <th>Full text</th>
+              <th>
+                <Trans>Full text</Trans>
+              </th>
               <td>
                 <a href={fulltextUrl}>
                   {fulltextUrl}

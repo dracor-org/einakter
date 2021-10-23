@@ -1,6 +1,7 @@
 import React, {useContext} from 'react';
 import {Link} from 'react-router-dom';
 import {Helmet} from 'react-helmet';
+import {Trans, t} from '@lingui/macro';
 import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import Authors from './Authors';
@@ -55,7 +56,7 @@ function Table () {
 
   const columns = [{
     dataField: 'authors[0].name',
-    text: 'Author',
+    text: t`Author`,
     formatter: formatAuthor,
     filterValue: (cell: string | undefined, play: Play) => {
       if (cell === undefined) return 'Anonym';
@@ -65,7 +66,7 @@ function Table () {
     sort: true
   }, {
     dataField: 'title',
-    text: 'Title',
+    text: t`Title`,
     formatter: formatTitle,
     filterValue: (_: string, play: Play) => {
       let text = `${play.title} ${play.subtitle}`;
@@ -74,7 +75,7 @@ function Table () {
     sort: true
   }, {
     dataField: 'normalizedYear',
-    text: 'Year (normalized)',
+    text: t`Year (normalized)`,
     sort: true,
     sortFunc: (a: number, b: number, order: string) => {
       if (!a) {
@@ -94,13 +95,13 @@ function Table () {
     sort: false
   }, {
     dataField: 'language',
-    text: 'Language',
+    text: t`Language`,
     formatter: (code: string) => languages[code] || code,
     filterValue: (code: string) => languages[code] || code,
     sort: true
   }, {
     dataField: 'numTranslations',
-    text: 'Number of translations',
+    text: t`Number of translations`,
     sort: true
   }]
   
@@ -111,7 +112,9 @@ function Table () {
       <Helmet>
         <title>Einakter: Originals</title>
       </Helmet>
-      <h1>Originals</h1>
+      <h1>
+        <Trans>Originals</Trans>
+      </h1>
       <ToolkitProvider
         keyField='id'
         data={data}
@@ -121,7 +124,7 @@ function Table () {
         {
           props => (
             <div>
-              <SearchBar { ...props.searchProps } />
+              <SearchBar { ...props.searchProps } placeholder={t`Search`} />
               <BootstrapTable
                 { ...props.baseProps }
                 bootstrap4
