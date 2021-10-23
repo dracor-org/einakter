@@ -58,7 +58,7 @@ const OriginalDetails = () => {
           <tr>
             <th>Language</th>
             <td>
-              {languages[language] || language}
+              {languages[language as string] || language}
             </td>
           </tr>
           <tr>
@@ -68,7 +68,7 @@ const OriginalDetails = () => {
                 {translations.map(play => (
                   <li key={play.slug}>
                     <Link to={`/${play.slug}`}>
-                      {play.authors.length > 0 && (
+                      {(play.authors && play.authors.length > 0) && (
                         <>
                           <Authors authors={play.authors}/>{': '}
                         </>
