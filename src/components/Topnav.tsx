@@ -1,13 +1,17 @@
 import React from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-import { useLocation } from 'react-router-dom';
+import {useLocation} from 'react-router-dom';
+import {useLingui} from "@lingui/react";
 import {Trans} from '@lingui/macro';
 import {faGithub} from '@fortawesome/free-brands-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 
+const locales = ['en', 'de', 'tr'];
+
 function Topnav () {
   const location = useLocation();
+  const {i18n} = useLingui();
 
   const isActive = (path: string) => {
     return location.pathname.startsWith(path);
@@ -30,6 +34,19 @@ function Topnav () {
           </Nav.Link>
         </Nav>
         <Nav className="ml-auto">
+          {locales.map((locale) => (
+            <span
+              key={locale}
+              style={{cursor: 'pointer'}}
+              className={`nav-link${locale === i18n.locale ? ' active' : ''}`}
+              onClick={() => {
+                i18n.activate(locale);
+                sessionStorage.setItem('lang', locale);
+              }}
+            >
+              {locale}
+            </span>
+          ))}
           <Nav.Link
             href="https://github.com/dracor-org/einakter"
             title="Einakter Github"
