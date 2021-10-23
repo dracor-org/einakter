@@ -124,7 +124,7 @@ function Table () {
         {
           props => (
             <div>
-              <SearchBar { ...props.searchProps } />
+              <SearchBar { ...props.searchProps } placeholder={t`Search`} />
               <BootstrapTable
                 { ...props.baseProps }
                 bootstrap4

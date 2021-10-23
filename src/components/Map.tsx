@@ -40,10 +40,12 @@ const SettingsMap = () => {
       <h1><Trans>Locations</Trans></h1>
 
       <p>
-        This map shows all plot locations extractable from the setting
-        information at the beginning of a play. Denominations and demarcations
-        on the map are provided by OpenStreetMap and are therefore ahistorical
-        in relation to the time of action and creation of a play.
+        <Trans>
+          This map shows all plot locations extractable from the setting
+          information at the beginning of a play. Denominations and demarcations
+          on the map are provided by OpenStreetMap and are therefore ahistorical
+          in relation to the time of action and creation of a play.
+        </Trans>
       </p>
 
       <MapContainer

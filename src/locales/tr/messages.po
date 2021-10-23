@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: \n"
 
 #: src/components/About.tsx:12
-#: src/components/Topnav.tsx:23
+#: src/components/Topnav.tsx:24
 msgid "About"
 msgstr ""
 
@@ -106,7 +106,7 @@ msgstr ""
 
 #: src/components/Map.tsx:37
 #: src/components/Map.tsx:40
-#: src/components/Topnav.tsx:26
+#: src/components/Topnav.tsx:27
 msgid "Locations"
 msgstr ""
 
@@ -131,7 +131,7 @@ msgid "Original not found"
 msgstr ""
 
 #: src/components/Originals.tsx:116
-#: src/components/Topnav.tsx:29
+#: src/components/Topnav.tsx:30
 msgid "Originals"
 msgstr ""
 
@@ -155,6 +155,10 @@ msgstr ""
 msgid "Scenes"
 msgstr ""
 
+#: src/components/Table.tsx:122
+msgid "Search"
+msgstr ""
+
 #: src/components/Details.tsx:213
 msgid "Setting"
 msgstr ""
@@ -166,6 +170,10 @@ msgstr ""
 
 #: src/components/Statistics.tsx:77
 msgid "Statistics"
+msgstr ""
+
+#: src/components/Map.tsx:43
+msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr ""
 
 #: src/components/Originals.tsx:69
