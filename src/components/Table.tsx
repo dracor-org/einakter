@@ -118,7 +118,7 @@ function Table () {
       >
         {
           props => (
-            <div>
+            <div className="p-4">
               <Statistics plays={data} authors={authors} />
               <SearchBar { ...props.searchProps } placeholder={t`Search`}/>
               <span className="download">
