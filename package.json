@@ -47,7 +47,7 @@
     "json": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2json.ts && cp ./data.json ./src/ && cp ./data.json ./public/",
     "authors": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-authors.ts",
     "locations": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-locations.ts",
-    "start": "yarn compile && yarn csv && yarn json && craco start",
+    "start": "TAILWIND_MODE=watch yarn compile && yarn csv && yarn json && craco start",
     "build": "yarn compile && yarn csv && yarn json && craco build",
     "test": "yarn compile && yarn csv && yarn json && craco test",
     "extract": "lingui extract",
