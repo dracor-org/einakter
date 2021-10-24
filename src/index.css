@@ -4,23 +4,35 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-family: 'Rubik';
-}
-
 @layer base {
   body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Rubik';
     @apply bg-neutral-100;
   }
-  th {
-   @apply text-left; 
+
+  h1 {
+    @apply text-2xl mb-3;
   }
+
   tr:nth-child(odd) {
    @apply bg-neutral-200;
   }
+
+  th {
+   @apply text-left align-bottom p-2;
+  }
+  
+  td {
+    @apply p-2
+  }
+
   a {
     @apply text-secondary-200;
+  }
+
+  input {
+    @apply shadow appearance-none border rounded py-2 px-3 text-gray-700 mb-4
   }
 }
