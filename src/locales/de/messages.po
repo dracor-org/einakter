@@ -15,39 +15,39 @@ msgstr ""
 
 #: src/components/About.tsx:12 src/components/Topnav.tsx:24
 msgid "About"
-msgstr "Über"
+msgstr "Über das Projekt"
 
 #: src/components/Originals.tsx:59 src/components/Table.tsx:51
 msgid "Author"
-msgstr "Autor"
+msgstr "Autor*in"
 
 #: src/components/Statistics.tsx:100
 msgid "Authors"
-msgstr "Autoren"
+msgstr "Autor*innen"
 
 #: src/components/Details.tsx:231
 msgid "Based on"
-msgstr "Basierend auf"
+msgstr "Vorlage"
 
 #: src/components/Statistics.tsx:126 src/components/Table.tsx:72
 msgid "Characters"
-msgstr "Personen"
+msgstr "Figuren"
 
 #: src/components/Details.tsx:90
 msgid "Comments"
-msgstr "Kommentare"
+msgstr "Zusatzinformationen"
 
 #: src/components/Statistics.tsx:82
 msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
-msgstr "Die Datenbank enthält derzeit {0} Einakter mit {numCharacters} Personen"
+msgstr "Die Datenbank enthält derzeit {0} Einakter mit {numCharacters} Figuren"
 
 #: src/components/Details.tsx:121 src/components/OriginalDetails.tsx:93
 msgid "Dates"
-msgstr "Daten"
+msgstr "Erscheinungsdaten"
 
 #: src/components/Details.tsx:241
 msgid "Dictionaries"
-msgstr "Wörterbücher"
+msgstr "In Nachschlagewerken"
 
 #: src/components/Table.tsx:129
 msgid "Download CSV"
@@ -59,7 +59,7 @@ msgstr "JSON herunterladen"
 
 #: src/components/Details.tsx:178
 msgid "Dramatis personae"
-msgstr "Dramatis personae"
+msgstr "Personenverzeichnis"
 
 #: src/components/Details.tsx:162
 msgid "Editions"
@@ -67,7 +67,7 @@ msgstr "Ausgaben"
 
 #: src/components/Details.tsx:251
 msgid "Formalia"
-msgstr "Formalia"
+msgstr "Formale Aspekte"
 
 #: src/components/OriginalDetails.tsx:121
 msgid "Full text"
@@ -79,7 +79,7 @@ msgstr "Verbergen"
 
 #: src/components/Details.tsx:265 src/components/Table.tsx:100
 msgid "Keywords"
-msgstr "Stichwörter"
+msgstr "Schlagwörter"
 
 #: src/components/OriginalDetails.tsx:61 src/components/Originals.tsx:98
 msgid "Language"
@@ -87,7 +87,7 @@ msgstr "Sprache"
 
 #: src/components/Details.tsx:138 src/components/OriginalDetails.tsx:102
 msgid "Links"
-msgstr "Links"
+msgstr "In anderen Projekten"
 
 #: src/components/About.tsx:14
 msgid "Loading..."
@@ -100,7 +100,7 @@ msgstr "Ort"
 #: src/components/Map.tsx:37 src/components/Map.tsx:40
 #: src/components/Topnav.tsx:27
 msgid "Locations"
-msgstr "Orte"
+msgstr "Handlungsorte"
 
 #: src/components/Details.tsx:31
 msgid "No such play"
@@ -108,11 +108,11 @@ msgstr "Kein Einakter gefunden"
 
 #: src/components/Details.tsx:130
 msgid "Number of Scenes"
-msgstr "Anzahl der Szenen"
+msgstr "Anzahl Szenen"
 
 #: src/components/Originals.tsx:104
 msgid "Number of translations"
-msgstr "Anzahl der Übersetzungen"
+msgstr "Anzahl Übersetzungen"
 
 #: src/components/Statistics.tsx:94
 msgid "One-act plays"
@@ -124,7 +124,7 @@ msgstr "Kein Original gefunden"
 
 #: src/components/Originals.tsx:116 src/components/Topnav.tsx:30
 msgid "Originals"
-msgstr "Originale"
+msgstr "Originalstücke"
 
 #: src/components/Original.tsx:89
 msgid "Other one-act translations"
@@ -152,7 +152,7 @@ msgstr "Suche"
 
 #: src/components/Details.tsx:213
 msgid "Setting"
-msgstr "Ort der Handlung"
+msgstr "Handlungsort"
 
 #: src/components/Statistics.tsx:73 src/components/Statistics.tsx:87
 msgid "Show more"
@@ -164,7 +164,7 @@ msgstr "Statistik"
 
 #: src/components/Map.tsx:43
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
-msgstr "Diese Karte zeigt alle Orte, die sich aus den Ortsangaben zu Beginn eines Stückes extrahieren lassen. Grenzen und Name werden von OpenStreetMap bereitgestellt und sind daher hinsichtlich der Stücke ahistorisch."
+msgstr "Diese Karte zeigt alle Handlungsorte, die sich aus den Angaben zum Schauplatz eines Stückes extrahieren ließen. Ortsnamen und Ländergrenzen kommen von OpenStreetMap und können daher ahistorisch sein."
 
 #: src/components/Originals.tsx:69 src/components/Table.tsx:61
 msgid "Title"
