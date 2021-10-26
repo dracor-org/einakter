@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-09 02:27+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Language: ru\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/About.tsx:12 src/components/Topnav.tsx:24
+msgid "About"
+msgstr "О проекте"
+
+#: src/components/Originals.tsx:59 src/components/Table.tsx:51
+msgid "Author"
+msgstr "Автор"
+
+#: src/components/Statistics.tsx:100
+msgid "Authors"
+msgstr "Авторы"
+
+#: src/components/Details.tsx:231
+msgid "Based on"
+msgstr "Основано на"
+
+#: src/components/Statistics.tsx:126 src/components/Table.tsx:72
+msgid "Characters"
+msgstr "Персонажи"
+
+#: src/components/Details.tsx:90
+msgid "Comments"
+msgstr "Комментарий"
+
+#: src/components/Statistics.tsx:82
+msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
+msgstr "На сегодня база данных содержит {0} одноактных пьес, в которых суммарно насчитывается {numCharacters} персонажей"
+
+#: src/components/Details.tsx:121 src/components/OriginalDetails.tsx:93
+msgid "Dates"
+msgstr "Датировка"
+
+#: src/components/Details.tsx:241
+msgid "Dictionaries"
+msgstr "В справочниках"
+
+#: src/components/Table.tsx:129
+msgid "Download CSV"
+msgstr "Скачать CSV"
+
+#: src/components/Table.tsx:125
+msgid "Download JSON"
+msgstr "Скачать JSON"
+
+#: src/components/Details.tsx:178
+msgid "Dramatis personae"
+msgstr "Действующие лица"
+
+#: src/components/Details.tsx:162
+msgid "Editions"
+msgstr "Издания"
+
+#: src/components/Details.tsx:251
+msgid "Formalia"
+msgstr "Форма произведения"
+
+#: src/components/OriginalDetails.tsx:121
+msgid "Full text"
+msgstr "Полный текст"
+
+#: src/components/Statistics.tsx:73
+msgid "Hide"
+msgstr "Скрыть"
+
+#: src/components/Details.tsx:265 src/components/Table.tsx:100
+msgid "Keywords"
+msgstr "Ключевые слова"
+
+#: src/components/OriginalDetails.tsx:61 src/components/Originals.tsx:98
+msgid "Language"
+msgstr "Язык"
+
+#: src/components/Details.tsx:138 src/components/OriginalDetails.tsx:102
+msgid "Links"
+msgstr "Ссылки на другие проекты"
+
+#: src/components/About.tsx:14
+msgid "Loading..."
+msgstr "Загружается..."
+
+#: src/components/Details.tsx:221
+msgid "Location"
+msgstr "Место действия"
+
+#: src/components/Map.tsx:37 src/components/Map.tsx:40
+#: src/components/Topnav.tsx:27
+msgid "Locations"
+msgstr "Места действия"
+
+#: src/components/Details.tsx:31
+msgid "No such play"
+msgstr "Пьеса не найдена"
+
+#: src/components/Details.tsx:130
+msgid "Number of Scenes"
+msgstr "Число сцен"
+
+#: src/components/Originals.tsx:104
+msgid "Number of translations"
+msgstr "Число переводов"
+
+#: src/components/Statistics.tsx:94
+msgid "One-act plays"
+msgstr "Одноактные пьесы"
+
+#: src/components/OriginalDetails.tsx:20
+msgid "Original not found"
+msgstr "Оригинал не найден"
+
+#: src/components/Originals.tsx:116 src/components/Topnav.tsx:30
+msgid "Originals"
+msgstr "Оригиналы"
+
+#: src/components/Original.tsx:89
+msgid "Other one-act translations"
+msgstr "Другие одноактные переводы"
+
+#: src/components/Statistics.tsx:114
+msgid "Plays published anonymously"
+msgstr "Пьесы, опубликованные анонимно"
+
+#: src/components/Statistics.tsx:120
+msgid "Plays translated/adapted from other languages"
+msgstr "Пьесы, переведенные с других языков"
+
+#: src/components/Details.tsx:106
+msgid "Reviews"
+msgstr "Рецензии"
+
+#: src/components/Table.tsx:76
+msgid "Scenes"
+msgstr "Сцены"
+
+#: src/components/Table.tsx:122
+msgid "Search"
+msgstr "Поиск"
+
+#: src/components/Details.tsx:213
+msgid "Setting"
+msgstr "Антураж и место действия"
+
+#: src/components/Statistics.tsx:73 src/components/Statistics.tsx:87
+msgid "Show more"
+msgstr "Показать больше"
+
+#: src/components/Statistics.tsx:77
+msgid "Statistics"
+msgstr "Статистика"
+
+#: src/components/Map.tsx:43
+msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
+msgstr "На этой карте показаны все географические объекты, которые можно извлечь из описания места действия в пьесе. Границы на карте получены из OpenStreetMap и поэтому неисторичны по отношению ко времени действия и написания пьесы."
+
+#: src/components/Originals.tsx:69 src/components/Table.tsx:61
+msgid "Title"
+msgstr "Название"
+
+#: src/components/OriginalDetails.tsx:69
+msgid "Translations"
+msgstr "Переводы"
+
+#: src/components/Originals.tsx:78 src/components/Table.tsx:80
+msgid "Year (normalized)"
+msgstr "Год (нормализованный)"
+
+#: src/components/AuthorInfo.tsx:124
+msgid "b."
+msgstr "род."
+
+#: src/components/AuthorInfo.tsx:125
+msgid "d."
+msgstr "ум."
+
+#: src/components/Statistics.tsx:108
+msgid "female"
+msgstr "женский"
+
+#: src/components/Statistics.tsx:107
+msgid "male"
+msgstr "мужской"
