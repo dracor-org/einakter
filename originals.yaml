@@ -576,6 +576,39 @@ language: fre
 premiered: 1716-07-07
 fulltextUrl: https://books.google.com/books?id=dotQAAAAcAAJ&pg=PA1
 ---
+id: dorvigny-christophe-le-rond
+author:
+  name: Dorvigny
+  wikidata: Q3037277
+title: Christophe le rond
+subtitle: Comédie en un acte
+language: fre
+printed: 1782
+premiered: 1782-01-02
+fulltextUrl: https://books.google.com/books?id=jvg_AAAAcAAJ&printsec=frontcover
+---
+id: dorvigny-janot-ou-les-battus-paient-a-l-amende
+author:
+  name: Dorvigny
+  wikidata: Q3037277
+title: Janot, ou Les battus paient à l'amende
+subtitle: Comédie-proverbe
+language: fre
+premiered: 1779-06-06
+fulltextUrl: https://books.google.com/books?id=Fl1oAAAAcAAJ&printsec=frontcover
+ids:
+  - dracor: fre000049
+---
+id: dorvigny-la-fete-de-campagne
+author:
+  name: Dorvigny
+  wikidata: Q3037277
+title: La fête de campagne, ou L'intendant comédien malgré lui
+subtitle: Comédie-épisodique en un acte, en prose et en vers
+language: fre
+premiered: 1784-01-01
+fulltextUrl: https://books.google.com/books?id=cMesS4QlMkYC&printsec=frontcover
+---
 id: dorvigny-on-fait-ce-qu-on-peut-non-pas-ce-qu-on-veut
 author:
   name: Dorvigny
@@ -801,6 +834,16 @@ language: lat
 printed: 1757
 fulltextUrl: https://books.google.com/books?id=7jZBPewmJE0C&pg=PA147
 ---
+id: fuzelier-momus-fabuliste-ou-les-noces-de-vulcain
+author:
+  name: Louis Fuzelier
+  wikidata: Q3261972
+title: Momus fabuliste, ou Les noces de Vulcain
+subtitle: Comédie
+language: fre
+premiered: 1719-09-26
+fulltextUrl: https://books.google.com/books?id=Ds1NAAAAcAAJ&printsec=frontcover
+---
 id: guyot-de-merville-le-consentement-force
 author:
   name: Michel Guyot de Merville
@@ -948,6 +991,16 @@ subtitle: Comédie
 language: fre
 premiered: 1726-03-26
 fulltextUrl: https://books.google.com/books?id=-o9LV9BiFqIC&pg=PA419
+---
+id: leeuw-broershert
+author:
+  name: Adriaan Leeuw
+  wikidata: Q109276230
+title: Broershert
+subtitle: Kluchtspel
+language: dut
+printed: 1668
+fulltextUrl: https://books.google.com/books?id=cepoAAAAcAAJ&printsec=frontcover
 ---
 id: legrand-l-aveugle-clair-voyant
 author:
@@ -1512,6 +1565,24 @@ language: fre
 premiered: 1784-06-28
 fulltextUrl: https://books.google.com/books?id=wrhoAAAAcAAJ&printsec=frontcover
 ---
+id: passow-den-uventede-forlibelse-eller-cupido-philosoph
+author:
+  name: Anna Catharina von Passow
+  wikidata: Q435357
+title: Den uventede Forlibelse, eller Cupido Philosoph
+subtitle: Et Original Efterstykke udi et Optog
+language: dan
+printed: 1757
+---
+id: passow-elskovs-eller-kierligheds-feyl
+author:
+  name: Anna Catharina von Passow
+  wikidata: Q435357
+title: Elskovs- eller Kierligheds-Feyl
+subtitle: Et original Hyrde-Stykke udi een Act
+language: dan
+printed: 1757
+---
 id: patrat-la-resolution-inutile-ou-les-deguisemens-amoureux
 author:
   name: Joseph Patrat
@@ -1772,6 +1843,18 @@ fulltextUrl: http://www.theatre-classique.fr/pages/programmes/edition.php?t=../d
 ids:
   dracor: fre001324
 ---
+id: scribe-bayard-camilla-ou-la-soeur-et-le-frere
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Jean-François Bayard
+    wikidata: Q2074119
+title: Camilla, ou La soeur et le frère
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1832-12-12
+fulltextUrl: https://books.google.com/books?id=9hpHAQAAMAAJ&pg=PA1
+---
 id: scribe-bayard-la-frontiere-de-savoie
 authors:
   - name: Eugène Scribe
@@ -1784,6 +1867,17 @@ language: fre
 printed: 1834
 premiered: 1834-08-20
 fulltextUrl: https://books.google.com/books?id=w1BcAAAAcAAJ&printsec=frontcover
+---
+id: scribe-brulay-le-gastronome-sans-argent
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Brulay
+title: Le gastronome sans argent
+subtitle: Vaudeville en un acte
+language: fre
+premiered: 1821-03-10
+fulltextUrl: https://books.google.com/books?id=VS8UAAAAQAAJ&pg=PA1
 ---
 id: scribe-de-courcy-saintine-les-eaux-du-mont-d-or
 authors:
@@ -1798,6 +1892,30 @@ subtitle: Vaudeville en un acte
 language: fre
 premiered: 1822-07-25
 fulltextUrl: https://books.google.com/books?id=eftCAQAAMAAJ&pg=RA12-PA1
+---
+id: scribe-delavigne-le-colonel
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Germain Delavigne
+    wikidata: Q1513808
+title: Le colonel
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1821-01-29
+fulltextUrl: https://books.google.com/books?id=RDER-n64Wa0C&printsec=frontcover
+---
+id: scribe-delavigne-l-heritiere
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Germain Delavigne
+    wikidata: Q1513808
+title: L'héritière
+subtitle: Comédie-vaudeville
+language: fre
+premiered: 1823-12-20
+fulltextUrl: https://books.google.com/books?id=AlR98LaBBPgC&printsec=frontcover
 ---
 id: scribe-delestre-poirson-une-visite-a-bedlam
 authors:
@@ -1823,6 +1941,19 @@ subtitle: Comédie-vaudeville en un acte
 language: fre
 premiered: 1835-03-10
 fulltextUrl: https://books.google.com/books?id=TDOF2d-HMBgC&printsec=frontcover
+---
+id: scribe-duport-le-chaperon
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Paul Duport
+    wikidata: Q19629451
+title: Le chaperon
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1832
+premiered: 1832-02-06
+fulltextUrl: https://books.google.com/books?id=MgBVAAAAcAAJ&printsec=frontcover
 ---
 id: scribe-duport-le-quaker-et-la-danseuse
 authors:
@@ -1916,6 +2047,32 @@ language: fre
 premiered: 1844-07-31
 fulltextUrl: https://books.google.com/books?id=7dDB1OxsmsMC&printsec=frontcover
 ---
+id: scribe-mazeres-le-charlatanisme
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Édouard-Joseph-Ennemond Mazères
+    wikidata: Q5980791
+title: Le charlatanisme
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1825-05-10
+fulltextUrl: https://books.google.com/books?id=y29FXLpq7VUC&printsec=frontcover
+---
+id: scribe-mazeres-nombret-saint-laurent-le-coiffeur-et-le-perruquier
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Édouard-Joseph-Ennemond Mazères
+    wikidata: Q5980791
+  - name: Charles Nombret Saint-Laurent
+    wikidata: Q18578324
+title: Le coiffeur et le perruquier
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1824-01-26
+fulltextUrl: https://books.google.com/books?id=lD5oFsWjHjYC&printsec=frontcover
+---
 id: scribe-mazeres-vatel-ou-le-petit-fils-d-un-grand-homme
 authors:
   - name: Eugène Scribe
@@ -1943,6 +2100,21 @@ printed: 1830
 premiered: 1830-04-19
 fulltextUrl: https://books.google.com/books?id=ZDVMAAAAcAAJ&printsec=frontcover
 ---
+id: scribe-melesville-l-amant-bossu
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Mélesville
+    wikidata: Q2660806
+  - name: Max Raoul
+    wikidata: Q23901734
+title: L'amant bossu
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1821
+premiered: 1821-10-22
+fulltextUrl: https://books.google.com/books?id=B-hKAAAAcAAJ&printsec=frontcover
+---
 id: scribe-melesville-l-ambassadeur
 authors:
   - name: Eugène Scribe
@@ -1954,6 +2126,19 @@ subtitle: Comédie-vaudeville
 language: fre
 premiered: 1826-07-10
 fulltextUrl: https://books.google.com/books?id=nEw9AAAAYAAJ&printsec=frontcover
+---
+id: scribe-melesville-la-petite-soeur
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Mélesville
+    wikidata: Q2660806
+title: La petite sœur
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1821
+premiered: 1821-06-06
+fulltextUrl: https://books.google.com/books?id=hjg6AAAAcAAJ&printsec=frontcover
 ---
 id: scribe-melesville-la-seconde-annee-ou-a-qui-la-faute
 authors:
@@ -1967,6 +2152,31 @@ language: fre
 premiered: 1830-01-12
 fulltextUrl: https://books.google.com/books?id=CJfCXy8_s-YC&pg=PA371
 ---
+id: scribe-melesville-le-bon-papa-ou-la-proposition-de-mariage
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Mélesville
+    wikidata: Q2660806
+title: Le bon papa, ou La proposition de mariage
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1822
+premiered: 1822-12-02
+fulltextUrl: https://books.google.com/books?id=iehKAAAAcAAJ&printsec=frontcover
+---
+id: scribe-melesville-le-menteur-veridique
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Mélesville
+    wikidata: Q2660806
+title: Le menteur véridique
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1823-04-24
+fulltextUrl: https://books.google.com/books?id=J3at_GsVayEC&printsec=frontcover
+---
 id: scribe-melesville-le-secretaire-et-le-cuisinier
 authors:
   - name: Eugène Scribe
@@ -1979,6 +2189,58 @@ language: fre
 printed: 1821
 premiered: 1821-01-10
 fulltextUrl: https://books.google.com/books?id=-JMTAAAAQAAJ&printsec=frontcover
+---
+id: scribe-melesville-le-vampire
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Mélesville
+    wikidata: Q2660806
+title: Le vampire
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1820
+premiered: 1820-06-15
+fulltextUrl: https://books.google.com/books?id=8HHoZ2YY3fEC&pg=RA5-PA1
+---
+id: scribe-melesville-memoires-d-un-colonel-de-hussards
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Mélesville
+    wikidata: Q2660806
+title: Mémoires d'un colonel de hussards
+subtitle: Comédie en un acte, mêlée de vaudevilles
+language: fre
+printed: 1822
+premiered: 1822-02-21
+fulltextUrl: https://books.google.com/books?id=8vMSzQEACAAJ&printsec=frontcover
+---
+id: scribe-melesville-valerie
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Mélesville
+    wikidata: Q2660806
+title: Valérie
+subtitle: Comédie en trois actes et en prose
+language: fre
+printed: 1822
+premiered: 1822-12-21
+fulltextUrl: https://books.google.com/books?id=lPNKAAAAcAAJ&printsec=frontcover
+---
+id: scribe-moreau-de-commagny-philibert-marie
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Charles-François-Jean-Baptiste Moreau de Commagny
+    wikidata: Q18398233
+title: Philibert marié
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1822
+premiered: 1821-12-26
+fulltextUrl: https://books.google.com/books?id=B0c6AAAAcAAJ&printsec=frontcover
 ---
 id: scribe-saintine-de-courcy-le-beau-narcisse
 authors:
@@ -2007,6 +2269,32 @@ premiered: 1820-02-10
 fulltextUrl: https://books.google.com/books?id=XSrkiK5Ypk4C&printsec=frontcover
 ids:
   wikidata: Q107000378
+---
+id: scribe-sauvage-l-image
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Thomas Sauvage
+    wikidata: Q3525549
+title: L'image
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1845-04-17
+fulltextUrl: https://books.google.com/books?id=ezJMXqiWPDwC&printsec=frontcover
+---
+id: scribe-varner-dupin-les-manteaux
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Antoine-François Varner
+    wikidata: Q2853471
+  - name: Henri Dupin
+    wikidata: Q3131020
+title: Les manteaux
+subtitle: Comédie-vaudeville en deux actes
+language: fre
+premiered: 1826-02-20
+fulltextUrl: https://books.google.com/books?id=GCtVvgAACAAJ&printsec=frontcover
 ---
 id: scribe-varner-la-pensionnaire-mariee
 authors:
@@ -2045,6 +2333,20 @@ subtitle: Comédie-vaudeville en un acte
 language: fre
 premiered: 1829-02-12
 fulltextUrl: https://books.google.com/books?id=WRddAAAAcAAJ&printsec=frontcover
+---
+id: scribe-varner-ymbert-l-homme-automate
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Antoine-François Varner
+    wikidata: Q2853471
+  - name: Jean-Gilbert Ymbert
+    wikidata: Q18117978
+title: L'homme automate
+subtitle: Folie-parade, mêlée de couplets
+language: fre
+premiered: 1820-05-10
+fulltextUrl: https://books.google.com/books?id=K5Q4AQAAIAAJ&pg=RA1-PA1
 ---
 id: semyonov-udacha-ot-neudachi-ili-prikljuchenie-v-zhidovskoj-korchme
 author:
@@ -2177,3 +2479,18 @@ subtitle: Comédie en un acte, en prose
 language: fre
 printed: 1793
 premiered: 1793-02-21
+---
+id: voltaire-l-indiscret
+author:
+  name: Voltaire
+  wikidata: Q9068
+title: L'indiscret
+subtitle: Comédie en un acte
+language: fre
+created: 1724
+printed: 1725
+premiered: 1725-08-18
+fulltextUrl: https://books.google.com/books?id=VbtdAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre001427
+  wikidata: Q19180164
