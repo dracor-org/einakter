@@ -5,7 +5,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.0\n"
-"Language: de\n"
+"Language: fr\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: \n"
@@ -15,181 +15,181 @@ msgstr ""
 
 #: src/components/About.tsx:12 src/components/Topnav.tsx:24
 msgid "About"
-msgstr "Über das Projekt"
+msgstr "A propos de ce projet"
 
 #: src/components/Originals.tsx:59 src/components/Table.tsx:51
 msgid "Author"
-msgstr "Autor*in"
+msgstr "Auteur.rice"
 
 #: src/components/Statistics.tsx:100
 msgid "Authors"
-msgstr "Autor*innen"
+msgstr "Auteurs.rices"
 
 #: src/components/Details.tsx:231
 msgid "Based on"
-msgstr "Vorlage"
+msgstr "Texte de base"
 
 #: src/components/Statistics.tsx:126 src/components/Table.tsx:72
 msgid "Characters"
-msgstr "Figuren"
+msgstr "Personnages"
 
 #: src/components/Details.tsx:90
 msgid "Comments"
-msgstr "Zusatzinformationen"
+msgstr "Informations complémentaires"
 
 #: src/components/Statistics.tsx:82
 msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
-msgstr "Die Datenbank enthält derzeit {0} Einakter mit {numCharacters} Figuren"
+msgstr "La base de données comporte actuellement {0} pièces en 1 Acte pour un total de {numCharacters} personnages"
 
 #: src/components/Details.tsx:121 src/components/OriginalDetails.tsx:93
 msgid "Dates"
-msgstr "Erscheinungsdaten"
+msgstr "Dates de parution"
 
 #: src/components/Details.tsx:241
 msgid "Dictionaries"
-msgstr "In Nachschlagewerken"
+msgstr "Références"
 
 #: src/components/Table.tsx:129
 msgid "Download CSV"
-msgstr "CSV herunterladen"
+msgstr "Télécharger le fichier CSV"
 
 #: src/components/Table.tsx:125
 msgid "Download JSON"
-msgstr "JSON herunterladen"
+msgstr "Télécharger le fichier JSON"
 
 #: src/components/Details.tsx:178
 msgid "Dramatis personae"
-msgstr "Personenverzeichnis"
+msgstr "Dramatis personae"
 
 #: src/components/Details.tsx:162
 msgid "Editions"
-msgstr "Ausgaben"
+msgstr "Editions"
 
 #: src/components/Details.tsx:251
 msgid "Formalia"
-msgstr "Formale Aspekte"
+msgstr "Aspects formels"
 
 #: src/components/OriginalDetails.tsx:121
 msgid "Full text"
-msgstr "Volltext"
+msgstr "Texte intégral"
 
 #: src/components/Statistics.tsx:73
 msgid "Hide"
-msgstr "Verbergen"
+msgstr "Cacher"
 
 #: src/components/Details.tsx:265 src/components/Table.tsx:100
 msgid "Keywords"
-msgstr "Schlagwörter"
+msgstr "Mots-clefs"
 
 #: src/components/OriginalDetails.tsx:61 src/components/Originals.tsx:98
 msgid "Language"
-msgstr "Sprache"
+msgstr "Langue"
 
 #: src/components/Details.tsx:138 src/components/OriginalDetails.tsx:102
 msgid "Links"
-msgstr "In anderen Projekten"
+msgstr "Liens vers d'autres projets"
 
 #: src/components/About.tsx:14
 msgid "Loading..."
-msgstr "Wird geladen..."
+msgstr "En cours de chargement..."
 
 #: src/components/Details.tsx:221
 msgid "Location"
-msgstr "Ort"
+msgstr "Lieu"
 
 #: src/components/Map.tsx:37 src/components/Map.tsx:40
 #: src/components/Topnav.tsx:27
 msgid "Locations"
-msgstr "Handlungsorte"
+msgstr "Lieux"
 
 #: src/components/Details.tsx:31
 msgid "No such play"
-msgstr "Kein Einakter gefunden"
+msgstr "Aucune pièce correspondante"
 
 #: src/components/Details.tsx:130
 msgid "Number of Scenes"
-msgstr "Anzahl Szenen"
+msgstr "Nombre de scènes"
 
 #: src/components/Originals.tsx:104
 msgid "Number of translations"
-msgstr "Anzahl Übersetzungen"
+msgstr "Nombre de traductions"
 
 #: src/components/Statistics.tsx:94
 msgid "One-act plays"
-msgstr "Einakter"
+msgstr "Pièces en 1 Acte"
 
 #: src/components/OriginalDetails.tsx:20
 msgid "Original not found"
-msgstr "Kein Original gefunden"
+msgstr "Aucun original n'a été trouvé"
 
 #: src/components/Originals.tsx:116 src/components/Topnav.tsx:30
 msgid "Originals"
-msgstr "Originalstücke"
+msgstr "Pièces originales"
 
 #: src/components/Original.tsx:89
 msgid "Other one-act translations"
-msgstr "Andere Einakter-Übersetzungen"
+msgstr "Autres traductions de pièces en 1 Acte"
 
 #: src/components/Statistics.tsx:114
 msgid "Plays published anonymously"
-msgstr "Anonym veröffentlichte Stücke"
+msgstr "Pièces publiées anonymement"
 
 #: src/components/Statistics.tsx:120
 msgid "Plays translated/adapted from other languages"
-msgstr "Aus anderen Sprachen übersetzte Stücke"
+msgstr "Pièces traduites ou adaptées d'autres langues"
 
 #: src/components/Details.tsx:106
 msgid "Reviews"
-msgstr "Rezensionen"
+msgstr "Compte rendus critiques"
 
 #: src/components/Table.tsx:76
 msgid "Scenes"
-msgstr "Szenen"
+msgstr "Scènes"
 
 #: src/components/Table.tsx:122
 msgid "Search"
-msgstr "Suche"
+msgstr "Recherche"
 
 #: src/components/Details.tsx:213
 msgid "Setting"
-msgstr "Handlungsort"
+msgstr "Lieu"
 
 #: src/components/Statistics.tsx:73 src/components/Statistics.tsx:87
 msgid "Show more"
-msgstr "Mehr anzeigen"
+msgstr "Plus de résultats"
 
 #: src/components/Statistics.tsx:77
 msgid "Statistics"
-msgstr "Statistik"
+msgstr "Statistiques"
 
 #: src/components/Map.tsx:43
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
-msgstr "Diese Karte zeigt alle Handlungsorte, die sich aus den Angaben zum Schauplatz eines Stückes extrahieren ließen. Ortsnamen und Ländergrenzen kommen von OpenStreetMap und können daher ahistorisch sein."
+msgstr "Cette carte présente tous les lieux où se déroule l'action; elle s'appuie sur les informations qu'il est possible d'extraire de l'information fournie au début de chaque pièce. Les noms de lieux et les frontières entre les pays proviennent de manière générique d'OpenStreetMap et n'ont pas de relation historique directe avec l'époque et l'action de chaque pièce."
 
 #: src/components/Originals.tsx:69 src/components/Table.tsx:61
 msgid "Title"
-msgstr "Titel"
+msgstr "Titre"
 
 #: src/components/OriginalDetails.tsx:69
 msgid "Translations"
-msgstr "Übersetzungen"
+msgstr "Traductions"
 
 #: src/components/Originals.tsx:78 src/components/Table.tsx:80
 msgid "Year (normalized)"
-msgstr "Jahr (normalisiert)"
+msgstr "Année (normalisée)"
 
 #: src/components/AuthorInfo.tsx:124
 msgid "b."
-msgstr "geb."
+msgstr "né.e"
 
 #: src/components/AuthorInfo.tsx:125
 msgid "d."
-msgstr "gest."
+msgstr "mort.e"
 
 #: src/components/Statistics.tsx:108
 msgid "female"
-msgstr "weiblich"
+msgstr "féminin"
 
 #: src/components/Statistics.tsx:107
 msgid "male"
-msgstr "männlich"
+msgstr "masculin"
