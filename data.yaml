@@ -3821,7 +3821,7 @@ printed: 1778
 formalia:
   - Prosa
 basedOn:
-  - "Francesco Albergati Capacelli: [»Il pomo. Commedia d'un atto solo«](https://books.google.com/books?id=tg5kAAAAcAAJ&pg=PA135)"
+  - albergati-capacelli-il-pomo
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 19–20
@@ -4769,7 +4769,7 @@ printed: 1775
 formalia:
   - Prosa
 basedOn:
-  - "Giovan Battista Fagiuoli: [»Il traditor fedele. Scherzo scenico«](https://books.google.com/books?id=brVX5B1UXNoC&pg=PA363)"
+  - fagiuoli-il-traditor-fedele
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 50–51
@@ -7714,7 +7714,7 @@ premiered: 1780-01-07
 formalia:
   - Prosa
 basedOn:
-  - "Francesco Albergati Capacelli: [»La paura. Commedia di un atto solo«](https://books.google.com/books?id=3FtDAAAAYAAJ&pg=PA235)"
+  - albergati-capacelli-la-paura
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 26–27
@@ -7770,7 +7770,7 @@ premiered: 1747
 formalia:
   - Alexandriner
 basedOn:
-  - "Philippe Poisson: »Le mariage fait par lettre de change. Comédie en vers et en un acte, avec un divertissement«"
+  - poisson-le-mariage-fait-par-lettre-de-change
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 262, und Band 19, S. 178–179
@@ -10931,14 +10931,14 @@ printed: 1778
 premiered: 1779-07-22
 formalia:
   - Prosa
-basedOn:
-  - "François-Thomas-Marie de Baculard d'Arnaud: [»Fanni, ou l'heureux repentir. Histoire angloise«](https://books.google.com/books?id=cM85AAAAcAAJ&printsec=frontcover)"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 25
 editions:
   - title: "Mannheim: Schwan 1778"
     url: https://books.google.com/books?id=wxtYAAAAcAAJ&printsec=frontcover
+comments:
+  - "Im Untertitel wird suggeriert, dass direkt der Roman von François-Thomas-Marie de Baculard d'Arnaud als Vorlage diente: [»Fanni, ou l'heureux repentir. Histoire angloise«](https://books.google.com/books?id=cM85AAAAcAAJ&printsec=frontcover) (1764). Auf Basis dieses Romans gab es bereits eine Dramatisierung eines M[onsieur] de B... Desgagniers in Genf: [»Fanni, ou l'heureux repentir. Drame, en trois actes, et en vers libres«](https://books.google.com/books?id=-sTnWY0a7lMC&printsec=frontcover) (1774), es ist aber unklar, ob diese für den deutschsprachigen Einakter eine Rolle spielte."
 cast:
   - name: Fanny,
     role: die Tochter des
@@ -11094,11 +11094,10 @@ title: Isabella und Gertraude oder Die erdichtete Luft-Geister
 subtitle: Lust-Spiel In einem Aufzuge Aus dem Französischen des Herrn Favart in das Teutsche übersetzet
 numberOfScenes: 14
 printed: 1767
-premiered: 1765-08-14
 formalia:
   - prosa
 basedOn:
-  - "Charles-Simon Favart: [»Isabelle et Gertrude, ou Les sylphes supposés. Comédie en un acte, meslée d'arietes«](https://books.google.com/books?id=nS6QvgAACAAJ&printsec=frontcover)"
+  - favart-isabelle-et-gertrude-ou-les-sylphes-supposes
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 22, S. 54–55 und S. 196
@@ -11367,7 +11366,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Charles-Simon Favart: »La chercheuse d'esprit. Opéra-comique«"
+  - favart-la-chercheuse-d-esprit
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 299–300
@@ -22122,7 +22121,7 @@ premiered: 1829-04-26
 formalia:
   - Prosa
 basedOn:
-  - "Pierre Carmouche: [»La robe et l'uniforme. Comédie en un acte, mêlée de couplets«](https://books.google.com/books?id=IDVMAAAAcAAJ&printsec=frontcover)"
+  - carmouche-de-courcy-saint-georges-la-robe-et-l-uniforme
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1831. Von F. I. Castelli. Sechzehnter Jahrgang. Wien: Wallishausser 1831, S. 195–243"
     url: https://books.google.com/books?id=26c7AAAAcAAJ&pg=PA195
@@ -34319,7 +34318,7 @@ printed: 1787
 formalia:
   - Prosa
 basedOn:
-  - "Charles-Simon Favart: [»Les moissonneurs. Comédie en trois actes et en vers meslée d'ariettes«](https://books.google.com/books?id=0ZZLAAAAcAAJ&printsec=frontcover)"
+  - favart-les-moissonneurs
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 30, S. 97
@@ -58095,7 +58094,7 @@ premiered: 1767-04-28
 formalia:
   - Prosa
 basedOn:
-  - "Charles-Simon Favart: [»Isabelle et Gertrude, ou Les sylphes supposés. Comédie en un acte, meslée d'arietes«](https://books.google.com/books?id=nS6QvgAACAAJ&printsec=frontcover)"
+  - favart-isabelle-et-gertrude-ou-les-sylphes-supposes
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 23, S. 100–101
@@ -72146,6 +72145,8 @@ formalia:
 editions:
   - title: "Lustspiele von Karl Schall. Erste Sammlung. Breslau: Holäufer 1817"
     url: https://books.google.com/books?id=VqZmAAAAcAAJ&pg=RA2-PA1
+ids:
+  weber: A020662
 cast:
   - name: Rosalinde.
     gender: f
