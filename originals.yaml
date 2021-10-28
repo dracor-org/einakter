@@ -105,15 +105,6 @@ fulltextUrl: https://books.google.com/books?id=gKXDM1Asaa8C&printsec=frontcover
 ids:
   dracor: fre000055
 ---
-id: desgagniers-fanni-ou-l-heureux-repentir
-author:
-  name: "M[onsieur] de B... Desgagniers"
-title: Fanni, ou l'heureux repentir
-subtitle: Drame, en trois actes, et en vers libres
-language: fre
-printed: 1774
-fulltextUrl: https://books.google.com/books?id=-sTnWY0a7lMC&printsec=frontcover
----
 id: baron-les-enlevements
 author:
   name: Michel Baron
@@ -636,6 +627,19 @@ printed: 1821
 premiered: 1821-04-23
 fulltextUrl: https://books.google.com/books?id=alA6AAAAcAAJ&printsec=frontcover
 ---
+id: d-ennery-lemoine-la-mere-de-famille
+authors:
+  - name: Adolphe d'Ennery
+    wikidata: Q137819
+  - name: Gustave Lemoine
+    wikidata: Q16947548
+title: La mère de famille
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1846
+premiered: 1846-01-21
+fulltextUrl: https://books.google.com/books?id=oEZSAAAAcAAJ&printsec=frontcover
+---
 id: d-ennery-lemoine-l-article-213
 authors:
   - name: Adolphe d'Ennery
@@ -711,6 +715,16 @@ subtitle: Comédie
 language: fre
 premiered: 1716-07-07
 fulltextUrl: https://books.google.com/books?id=dotQAAAAcAAJ&pg=PA1
+---
+id: dieulafoy-defiance-et-malice-ou-le-prete-rendu
+author:
+  name: Michel Dieulafoy
+  wikidata: Q15523817
+title: Défiance et malice, ou Le prêté rendu
+subtitle: Comédie en un acte et en vers
+language: fre
+premiered: 1801-09-04
+fulltextUrl: https://books.google.com/books?id=IRU6AAAAcAAJ&printsec=frontcover
 ---
 id: dorvigny-christophe-le-rond
 author:
@@ -949,6 +963,16 @@ subtitle: Comédie en trois actes et en vers meslée d'ariettes
 language: fre
 premiered: 1768-01-27
 fulltextUrl: https://books.google.com/books?id=0ZZLAAAAcAAJ&printsec=frontcover
+---
+id: florian-le-bon-fils
+author:
+  name: Jean-Pierre Claris de Florian
+  wikidata: Q551740
+title: Le bon fils
+subtitle: Comédie en trois actes
+language: fre
+premiered: 1785-11-01
+fulltextUrl: https://books.google.com/books?id=e5hChsXMveYC&pg=PA61
 ---
 id: florian-le-bon-menage-ou-la-suite-des-deux-billets
 author:
@@ -1215,6 +1239,28 @@ language: dut
 printed: 1668
 fulltextUrl: https://books.google.com/books?id=cepoAAAAcAAJ&printsec=frontcover
 ---
+id: legrand-la-famille-extravagante
+author:
+  name: Marc-Antoine Legrand
+  wikidata: Q3287662
+title: La famille extravagante
+subtitle: Comédie en un acte
+language: fre
+premiered: 1709-06-07
+fulltextUrl: https://books.google.com/books?id=ZFlaAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000867
+---
+id: legrand-la-fleuve-d-oubly
+author:
+  name: Marc-Antoine Legrand
+  wikidata: Q3287662
+title: La fleuve d'oubly
+subtitle: Comédie
+language: fre
+premiered: 1722
+fulltextUrl: https://books.google.com/books?id=eUE0AAAAMAAJ&pg=RA1-PA373
+---
 id: legrand-l-aveugle-clair-voyant
 author:
   name: Marc-Antoine Legrand
@@ -1318,6 +1364,26 @@ subtitle: Vaudeville en un acte
 language: fre
 premiered: 1839-06-10
 fulltextUrl: https://books.google.com/books?id=c4E_AAAAcAAJ&printsec=frontcover
+---
+id: marin-julie-ou-le-triomphe-de-l-amitie
+author:
+  name: François-Louis Claude Marin
+  wikidata: Q3083492
+title: Julie, ou Le triomphe de l'amitié
+subtitle: Comédie en prose & en trois actes
+language: fre
+premiered: 1762-03-03
+fulltextUrl: https://books.google.com/books?id=MQ2NpNQn3IMC&printsec=frontcover
+---
+id: marin-l-amante-ingenue
+author:
+  name: François-Louis Claude Marin
+  wikidata: Q3083492
+title: L'amante ingénue
+subtitle: Comédie en un acte et en prose
+language: fre
+printed: 1765
+fulltextUrl: https://books.google.com/books?id=VUxbAAAAQAAJ&pg=PA203
 ---
 id: marivaux-arlequin-poli-par-l-amour
 author:
@@ -1810,6 +1876,19 @@ ids:
   dracor: fre001024
   wikidata: Q3481105
 ---
+id: moreau-de-commagny-sewrin-le-comedien-d-etampes
+authors:
+  - name: Charles-François-Jean-Baptiste Moreau de Commagny
+    wikidata: Q18398233
+  - name: Sewrin
+    wikidata: Q3480860
+title: Le comédien d'Étampes
+subtitle: Comédie en un acte, mêlée de couplets
+language: fre
+printed: 1821
+premiered: 1821-06-23
+fulltextUrl: https://books.google.com/books?id=iBKX-8YV0aQC&printsec=frontcover
+---
 id: mueller-friedberg-la-prise-de-sainte-lucie
 author:
   name: Karl von Müller-Friedberg
@@ -1975,6 +2054,18 @@ language: fre
 printed: 1807
 premiered: 1807-12-12
 fulltextUrl: https://books.google.com/books?id=E_dRWXM37hYC&printsec=frontcover
+---
+id: plautus-aulularia
+author:
+  name: Plautus
+  wikidata: Q47160
+title: Aulularia
+language: lat
+premiered: -190
+fulltextUrl: http://www.thelatinlibrary.com/plautus/aulularia.shtml
+ids:
+  dracor: rom000014
+  wikidata: Q1234585
 ---
 id: poisson-le-mariage-fait-par-lettre-de-change
 author:
@@ -2487,6 +2578,18 @@ printed: 1824
 premiered: 1824-12-14
 fulltextUrl: https://books.google.com/books?id=zY1LAAAAcAAJ&printsec=frontcover
 ---
+id: scribe-varner-les-deux-maris-ou-monsieur-rigaud
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Antoine-François Varner
+    wikidata: Q2853471
+title: Les deux maris, ou Monsieur Rigaud
+subtitle: Comédie en un acte, mêlée de vaudevilles
+language: fre
+premiered: 1819-02-03
+fulltextUrl: https://books.google.com/books?id=ZXg_AAAAcAAJ&pg=PA127
+---
 id: scribe-lemoine-une-femme-qui-se-jette-par-la-fenetre
 authors:
   - name: Eugène Scribe
@@ -2858,6 +2961,19 @@ language: rus
 printed: 1818
 premiered: 1817-01-16
 fulltextUrl: https://books.google.com/books?id=0mxpAAAAcAAJ&printsec=frontcover
+---
+id: sewrin-vizentini-rataplan-ou-le-petit-tambour
+authors:
+  - name: Sewrin
+    wikidata: Q3480860
+  - name: Augustin Vizentini
+    wikidata: Q24248476
+title: Rataplan, ou Le petit tambour
+subtitle: Vaudeville-anecdote en un acte
+language: fre
+printed: 1822
+premiered: 1822-02-25
+fulltextUrl: https://books.google.com/books?id=PMRoAAAAcAAJ&printsec=frontcover
 ---
 id: shakespeare-the-tempest
 author:
