@@ -115,6 +115,17 @@ language: fre
 premiered: 1685-07-06
 fulltextUrl: https://books.google.com/books?id=oYxjAAAAcAAJ&pg=PA97
 ---
+id: barthe-les-fausses-infidelites
+author:
+  name: Nicolas Thomas Barthe
+  wikidata: Q3340819
+title: Les fausses infidelités
+subtitle: Comédie en un acte et en vers
+language: fre
+printed: 1768
+premiered: 1768-01-25
+fulltextUrl: https://books.google.com/books?id=a7MebXGSKjAC&printsec=frontcover
+---
 id: bayard-de-wailly-moiroud-et-compagnie
 authors:
   - name: Jean-François Bayard
@@ -386,6 +397,18 @@ language: fre
 printed: 1740
 fulltextUrl: https://books.google.com/books?id=0HcjFXC-l6oC&printsec=frontcover
 ---
+id: collet-de-messine-l-isle-deserte
+author:
+  name: Jean-Baptiste Collet de Messine
+  wikidata: Q35524403
+title: L'isle déserte
+subtitle: Comédie en un acte et en vers
+language: fre
+premiered: 1758-08-23
+fulltextUrl: https://books.google.com/books?id=gzY6AAAAcAAJ&pg=PA1
+ids:
+  wikidata: Q108571286
+---
 id: d-allainval-le-mari-curieux
 author:
   name: Léonor Soulas d'Allainval
@@ -588,6 +611,18 @@ language: fre
 printed: 1780
 fulltextUrl: https://books.google.com/books?id=SKTCqzc2GLQC&pg=PA59
 ---
+id: de-genlis-la-cloison
+author:
+  name: Félicité de Genlis
+  wikidata: Q55037230
+title: La cloison
+subtitle: Comédie en un acte
+language: fre
+printed: 1781
+fulltextUrl: https://books.google.com/books?id=Rd3YWlOhcD4C&pg=PA339
+ids:
+  dracor: fre000689
+---
 id: de-genlis-la-colombe
 author:
   name: Félicité de Genlis
@@ -662,6 +697,16 @@ language: fre
 printed: 1808
 premiered: 1808-01-07
 fulltextUrl: https://books.google.com/books?id=IVloAAAAcAAJ&printsec=frontcover
+---
+id: desfontaines-lavallee-la-bergere-des-alpes
+author:
+  name: Desfontaines-Lavallée
+  wikidata: Q3024383
+title: La bergère des Alpes
+subtitle: Comédie en un acte et en vers libres
+language: fre
+premiered: 1765-12-15
+fulltextUrl: https://books.google.com/books?id=51J9UB74w_YC&printsec=frontcover
 ---
 id: desmarres-merlin-dragon-ou-la-dragonne
 author:
@@ -911,6 +956,16 @@ premiered: 1734-06-05
 fulltextUrl: https://books.google.com/books?id=toMUAAAAQAAJ&printsec=frontcover
 ids:
   dracor: fre000613
+---
+id: fagan-les-originaux
+author:
+  name: Barthélemy-Christophe Fagan
+  wikidata: Q2885943
+title: Les originaux
+subtitle: Comédie, en un acte et en prose
+language: fre
+premiered: 1737-07-18
+fulltextUrl: https://books.google.com/books?id=Y5gTAAAAQAAJ&printsec=frontcover
 ---
 id: fagan-l-etourderie
 author:
@@ -1229,6 +1284,16 @@ language: fre
 premiered: 1726-03-26
 fulltextUrl: https://books.google.com/books?id=-o9LV9BiFqIC&pg=PA419
 ---
+id: laus-de-boissy-la-course-ou-les-jockeys
+author:
+  name: Louis de Laus de Boissy
+  wikidata: Q3263508
+title: La course ou Les jockeys
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1776-08-24
+fulltextUrl: https://books.google.com/books?id=idM82g4FGPsC&printsec=frontcover
+---
 id: leeuw-broershert
 author:
   name: Adriaan Leeuw
@@ -1260,6 +1325,16 @@ subtitle: Comédie
 language: fre
 premiered: 1722
 fulltextUrl: https://books.google.com/books?id=eUE0AAAAMAAJ&pg=RA1-PA373
+---
+id: legrand-la-metamorphose-amoureuse
+author:
+  name: Marc-Antoine Legrand
+  wikidata: Q3287662
+title: La métamorphose amoureuse
+subtitle: Comédie
+language: fre
+premiered: 1712
+fulltextUrl: https://books.google.com/books?id=qLALj3m_XZIC&pg=PA309
 ---
 id: legrand-l-aveugle-clair-voyant
 author:
@@ -1944,6 +2019,18 @@ fulltextUrl: https://www.theatre-classique.fr/pages/programmes/edition.php?t=../
 ids:
   dracor: fre001095
 ---
+id: panard-fagan-les-petits-comediens
+authors:
+  - name: Charles-François Panard
+    wikidata: Q2958057
+  - name: Barthélemy-Christophe Fagan
+    wikidata: Q2885943
+title: Les petits comédiens
+subtitle: Opéra-comique en un acte
+language: fre
+premiered: 1731
+fulltextUrl: https://books.google.com/books?id=260QKybvO84C&printsec=frontcover
+---
 id: parisau-le-repentir-de-figaro
 author:
   name: Pierre-Germain Parisau
@@ -2088,6 +2175,18 @@ language: fre
 premiered: 1733-12-21
 fulltextUrl: https://books.google.com/books?id=5GoDg0C-liMC&printsec=frontcover
 ---
+id: pont-de-veyle-le-somnambule
+author:
+  name: Antoine de Ferriol de Pont-de-Veyle
+  wikidata: Q2856864
+title: Le somnambule
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1739-01-19
+fulltextUrl: https://books.google.com/books?id=CQ9bAAAAQAAJ&printsec=frontcover
+ids:
+  dracor: fre000565
+---
 id: regnard-dufresny-attendez-moi-sous-l-orme
 authors:
   - name: Jean-François Regnard
@@ -2102,6 +2201,19 @@ premiered: 1694-05-19
 fulltextUrl: https://books.google.com/books?id=F7E5AAAAcAAJ&printsec=frontcover
 ids:
   dracor: fre001204
+---
+id: regnard-la-critique-du-legataire
+author:
+  name: Jean-François Regnard
+  wikidata: Q732695
+title: La critique du légataire
+subtitle: Comédie en un acte et en prose
+language: fre
+printed: 1708
+premiered: 1708-02-19
+fulltextUrl: https://books.google.com/books?id=h19fAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre001216
 ---
 id: regnard-la-serenade
 author:
@@ -2961,6 +3073,19 @@ language: rus
 printed: 1818
 premiered: 1817-01-16
 fulltextUrl: https://books.google.com/books?id=0mxpAAAAcAAJ&printsec=frontcover
+---
+id: sewrin-gersin-la-lecon-de-danse-et-d-equitation
+authors:
+  - name: Sewrin
+    wikidata: Q3480860
+  - name: Nicolas Gersin
+    wikidata: Q19721415
+title: La leçon de danse et d'equitation
+subtitle: Comédie en un acte, mêlée de couplets
+language: fre
+printed: 1822
+premiered: 1821-12-13
+fulltextUrl: https://books.google.com/books?id=8sRoAAAAcAAJ&printsec=frontcover
 ---
 id: sewrin-vizentini-rataplan-ou-le-petit-tambour
 authors:
