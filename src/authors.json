@@ -1538,6 +1538,12 @@
     "death": {},
     "gender": "male"
   },
+  "Q108896469": {
+    "name": "Wilhelm Eugen",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q21543464": {
     "name": "Johann Friedrich Facius",
     "gnd": "122002636",
@@ -1762,6 +1768,21 @@
       "date": "1895-04-30T00:00:00Z",
       "place": "Wiesbaden",
       "placeId": "http://www.wikidata.org/entity/Q1721"
+    },
+    "gender": "male"
+  },
+  "Q108822170": {
+    "name": "Wilhelm Fricke",
+    "gnd": "1038506530",
+    "birth": {
+      "date": "1809-01-01T00:00:00Z",
+      "place": "Bremen",
+      "placeId": "http://www.wikidata.org/entity/Q24879"
+    },
+    "death": {
+      "date": "1887-01-01T00:00:00Z",
+      "place": "Bremen",
+      "placeId": "http://www.wikidata.org/entity/Q24879"
     },
     "gender": "male"
   },
@@ -2541,6 +2562,12 @@
       "place": "Hannover",
       "placeId": "http://www.wikidata.org/entity/Q1715"
     },
+    "gender": "male"
+  },
+  "Q108896511": {
+    "name": "Friedrich Hegrad",
+    "birth": {},
+    "death": {},
     "gender": "male"
   },
   "Q764620": {
@@ -5657,19 +5684,6 @@
     },
     "gender": "male"
   },
-  "Q55913027": {
-    "name": "Johann Andreas Schachtner",
-    "gnd": "100398782",
-    "birth": {
-      "date": "1731-01-01T00:00:00Z",
-      "place": "Dingolfing",
-      "placeId": "http://www.wikidata.org/entity/Q225909"
-    },
-    "death": {
-      "date": "1795-01-01T00:00:00Z"
-    },
-    "gender": "male"
-  },
   "Q16632372": {
     "name": "Adolf von Schaden",
     "gnd": "117093467",
@@ -7367,6 +7381,22 @@
     },
     "gender": "male"
   },
+  "Q154010": {
+    "name": "Christoph Martin Wieland",
+    "gnd": "118632477",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Weimar%20Anna%20Amalia%20Bibliothek%40C.M.%20Wieland.JPG",
+    "birth": {
+      "date": "1733-09-05T00:00:00Z",
+      "place": "Biberach an der Riß",
+      "placeId": "http://www.wikidata.org/entity/Q16069"
+    },
+    "death": {
+      "date": "1813-01-20T00:00:00Z",
+      "place": "Weimar",
+      "placeId": "http://www.wikidata.org/entity/Q3955"
+    },
+    "gender": "male"
+  },
   "Q55900898": {
     "name": "Sigismund Wiese",
     "gnd": "11758004X",
@@ -7506,6 +7536,21 @@
       "date": "1827-01-01T00:00:00Z",
       "place": "Bratislava",
       "placeId": "http://www.wikidata.org/entity/Q1780"
+    },
+    "gender": "male"
+  },
+  "Q57558706": {
+    "name": "Johann Gottlieb Ziehnert",
+    "gnd": "120509636",
+    "birth": {
+      "date": "1780-03-05T00:00:00Z",
+      "place": "Quohren",
+      "placeId": "http://www.wikidata.org/entity/Q2123613"
+    },
+    "death": {
+      "date": "1856-04-07T00:00:00Z",
+      "place": "Schlettau",
+      "placeId": "http://www.wikidata.org/entity/Q57939"
     },
     "gender": "male"
   },

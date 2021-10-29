@@ -1062,6 +1062,8 @@ editions:
     url: https://books.google.com/books?id=hmU6AAAAcAAJ&pg=RA5-PA1
   - title: "Vaudevilles und Lustspiele von L. Angely. Zweiter Band. Berlin: Klemann 1842, S. 131–195"
     url: https://books.google.com/books?id=C_HO9ppvaQ0C&pg=PA131
+comments:
+  - "Angelys Übersetzung wurde 1866 von Franz von Suppè zur Operette »Tantalusqualen« umgearbeitet."
 cast:
   - name: Schmeckebein.
     gender: m
@@ -4794,41 +4796,6 @@ cast:
 setting: >-
   Der Schauplatz ist eine Gegend von Häusern, wo der Aspasia ihres auch zu sehen
   ist.
----
-slug: anonym-der-glueckliche-betrug
-author:
-  pseudonym: Anonym
-title: Der glückliche Betrug
-subtitle: Singspiel in einem Aufzuge
-created: 1800
-dictionaries:
-  - name: bibliographia
-    pages: 2. Abteilung, Band 18, S. 218
-comments:
-  - "Es ist bisher nur eine Zusammenfassung der Handlung des einaktigen Singspiels bekannt ([ohne Ort: ohne Jahr](https://books.google.com/books?id=lfR2voH8W4EC&pg=PP5))."
-  - "Datierung ungewiss, wahrscheinlich letztes Jahrzehnt des 18. Jahrhunderts, [das MDZ datiert auf »ca. 1800«](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00054933-4)."
-keywords:
-  - untreue Ehefrau
-cast:
-  - name: Isabella,
-    role: Herzogin von Benevent, Gemahlin.
-    gender: f
-  - name: Bertrand,
-    role: Herzog von Benevent.
-    gender: m
-  - name: Ormond,
-    role: ein Höfling.
-    gender: m
-  - name: Baton,
-    role: Vertrauter Ormonds.
-    gender: m
-  - name: Tarabotto.
-    gender: m
-  - name: Demetrius.
-    gender: m
-  - name: Nisa,
-    role: Nichte Tarabottos.
-    gender: f
 ---
 slug: anonym-der-grossmuethige-wider-willen
 author:
@@ -27652,6 +27619,7 @@ location:
 slug: eugen-der-zerbrochene-wagen
 author:
   name: Eugen, Wilhelm
+  wikidata: Q108896469
 title: Der zerbrochene Wagen
 subtitle: Ein Schauspiel in einem Aufzuge
 numberOfScenes: 18
@@ -29083,6 +29051,42 @@ cast:
     isGroup: true
     gender: u
 setting: "Scene: Park eines Landsitzes in der Nähe der Residenz."
+---
+slug: fricke-die-kranken
+author:
+  name: Fricke, Wilhelm
+  wikidata: Q108822170
+title: Die Kranken
+subtitle: Lustspiel in 1 Akte
+numberOfScenes: 16
+printed: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele von Wilhelm Fricke. München: Franz 1834, S. 1–52"
+    url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18323028
+cast:
+  - name: Herr von Wandel.
+    gender: m
+  - name: Frau von Wandel.
+    gender: f
+  - name: Elise,
+    role: deren Tochter.
+    gender: f
+  - name: Doktor Almers.
+    gender: m
+  - name: Frau von Schönfeld.
+    gender: f
+  - name: Herr von Reichenbach.
+    gender: m
+  - name: Eduard Baum,
+    role: ein junger Kaufmann.
+    gender: m
+  - name: Anton,
+    role: Bedienter des Herrn von Wandel.
+    gender: m
+setting: >-
+  Zimmer im Hause des Herrn von Wandel. (Rechts eine Seitenthüre, links ein Fenster.)
 ---
 slug: friedrich-aetsch-aetsch-oder-die-pruefungen
 author:
@@ -33993,6 +33997,42 @@ cast:
 setting: >-
   Szene. Wohnzimmer des Prediger Kühnow, mit einer Mittelthür und zwo Seitenkammern. Alles verräth Armuth, aber Reinlichkeit. Mitten in der Stube steht ein runder Tisch mit einer bunten Decke, auf dem Tisch ein Krug Bier und ein Glas. Am Ofen hängen ein paar Tücher, ein Kragen und eine Binde zum Trocknen. (Zeit. Beinahe schon Dämmerung. Ehe die Kommenden eintreten, wird einige Mal an die Thür geklopft.)
 ---
+slug: hagemann-die-rothkoepfe-oder-der-schoene-wilhelm
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Die Rothköpfe oder der schöne Wilhelm
+subtitle: Posse in einem Aufzuge
+numberOfScenes: 21
+printed: 1801
+formalia:
+  - Prosa
+editions:
+  - title: "Gustav Hagemanns Neuester Beitrag zum deutschen Theater. Breslau und Leipzig: Korn 1801, S. 1–67"
+cast:
+  - name: Herr Nonnemann,
+    role: ein Schiffskapitän.
+    gender: m
+  - name: Madam Hühnchen,
+    role: eine Gastwirthin.
+    gender: f
+  - name: Jungfer Ebbe.
+    gender: f
+  - group:
+      - name: Wilhelm,
+        gender: m
+      - name: Gregor,
+        gender: m
+    role: Aufwärter.
+  - name: Simson,
+    role: ein Matrose.
+    gender: m
+  - name: Monsieur Kukuk,
+    role: ein Theaterfriseur.
+    gender: m
+setting: >-
+  Allgemeines Gastzimmer bey Madam Hühnchen. (Verschiedene Tische stehn an den Seiten mit den nöthigen Stühlen an den Wänden und Fenstern. Durch eine Flügelthür kann man ins Billardzimmer sehn. An der Hauptthür hängt eine Armenbüchse, nach dem löblichen Gebrauche mancher niedersächsischen Städte.)
+---
 slug: hagemann-die-unrechtmaessige-vermaehlung
 author:
   name: Hagemann, Friedrich Gustav
@@ -35434,6 +35474,7 @@ location:
 slug: hegrad-die-braut-aus-wien-oder-der-braeutigam-in-verlengenheit
 author:
   name: Hegrad, Friedrich
+  wikidata: Q108896511
 title: "Die Braut aus Wien; oder der Bräutigam in Verlegenheit"
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 12
@@ -42320,7 +42361,8 @@ cast:
 ---
 slug: huber-macht-solche-stiftungen-lieben-leute
 author:
-  name: Huber
+  name: Huber, Joseph Karl
+  wikidata: Q27149951
 title: Macht solche Stiftungen lieben Leute
 subtitle: Ein Originallustspiel in einem Aufzuge, von dem Verfaßer des Englischen Kaspers
 numberOfScenes: 13
@@ -57054,6 +57096,8 @@ editions:
 comments:
   - "Fragment geblieben, vgl. Monika Fick, Lessing-Handbuch, 2. Auflage, Stuttgart und Weimar: Metzler 2004, [S. 312](https://books.google.com/books?id=3kq3DQAAQBAJ&pg=PA312)."
   - "Bearbeitungen: [Rahbek 1790](rahbek-die-matrone-von-ephesus), [Klingemann 1818](klingemann-die-wittwe-von-ephesus)."
+keywords:
+  - Fragment
 cast:
   - name: Antiphila.
     gender: f
@@ -57179,6 +57223,8 @@ editions:
 comments:
   - Fragment.
   - Im Druck »Vor diesem!« statt wie bei Lessing »Vor diesen!« – Diese Verhochdeutschung des sächsischen Dativs geht auf Karl Lessing zurück.
+keywords:
+  - Fragment
 cast:
   - name: Wilibald.
     gender: m
@@ -71890,48 +71936,6 @@ setting: >-
   Der Schauplatz, ein Zimmer im Hause der Madame Ehrenpreis zu Berlin.
 location:
   wikidataId: Q64
----
-slug: schachtner-geistlichs-schaefergedicht-oder-der-gute-hirt
-author:
-  name: Schachtner, Johann Andreas
-  wikidata: Q55913027
-title: "Geistliches Schäfergedicht, Oder: Der gute Hirt"
-subtitle: Ein Singspiel von einer Abhandlung
-numberOfScenes: 1
-printed: 1756
-formalia:
-  - Verse
-dictionaries:
-  - name: bibliographia
-    pages: 2. Abteilung, Band 18, S. 173, und Band 21, S. 412–413
-editions:
-  - title: "Salzburg: Mayr [1756]"
-    url: https://books.google.com/books?id=Hg-ub8IBW3AC&printsec=frontcover
-  - title: "Johann Andree Schachtners, H. S. H. T. Poetischer Versuch in zerschiedenen Arten von Gedichten. Augsburg und Innsburgg: Wolff 1765, S. 289–306"
-    url: https://books.google.com/books?id=kEYxHBE9ucQC&pg=PA289
-comments:
-  - "Die [Vorrede](https://books.google.com/books?id=kEYxHBE9ucQC&pg=PP13) in der Ausgabe von 1765 stammt von Johann Christoph Gottsched."
-  - "Zur Datierung des Erstdrucks: Meyer schreibt »ca. 1755«. [Peter Ward Jones 1991, S. 6](https://books.google.com/books?id=lv5AAAAAMAAJ&printsec=frontcover), schreibt »1756«."
-keywords:
-  - allegorische Figuren
-cast:
-  - name: Die Gnade GOttes;
-    role: als der gute Hirt.
-    gender: u
-  - group:
-      - name: Der Glaube;
-        gender: u
-      - name: Die Vernunft;
-        gender: u
-    role: als zween ihm untergebene Schäfer.
-  - name: Der Willen,
-    role: als das verlohrne Schaf.
-    gender: u
-  - name: In dem Chor. Die fünf Sinne; als die untergebene Heerde der beeden Schäfer, des Glaubens, und der Vernunft.
-    isGroup: true
-    gender: u
-setting: >-
-  Der Schauplatz ist auf freyem Felde, welches einer Seits an eine verwildete Waldung stosset.
 ---
 slug: schaden-der-gast-in-hamburg
 author:
@@ -91066,6 +91070,44 @@ cast:
 setting: >-
   Der Schauplatz ist auf der Erde.
 ---
+slug: wieland-la-philosophie-endormie
+author:
+  name: Wieland, Christoph Martin
+  wikidata: Q154010
+title: La Philosophie endormie
+subtitle: Eine Conversation en Pot-Pourri / Eine philosophische Farce in einem Aufzug
+numberOfScenes: 4
+printed: 1778
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Der Teutsche Merkur vom Jahr 1778. Erstes Vierteljahr. Weimar [1778], S. 3–30"
+    url: https://books.google.com/books?id=1RxJAAAAcAAJ&pg=PA3
+  - title: "Wielands auserlesene Gedichte. Siebenter Band. Neue verbesserte Ausgabe. Leipzig: Weidmann 1787, S. 219–256"
+    url: https://www.digitale-sammlungen.de/de/view/bsb10123332?page=225
+  - title: "Wieland's Werke. Neunundzwanzigster Theil. Singspiele. – Lustspiele. – Cantaten. – Kleinere Gedichte. Berlin: Hempel [1879], S. 175–191"
+    url: https://books.google.de/books?id=14YbRZh4wnEC&pg=PA175
+comments:
+  - "Hinweis auf Einaktigkeit noch nicht in der Erstausgabe im »Teutschen Merkur«, sondern erst in späteren, überarbeiteten Ausgaben. Anmerkung auf dem Titelblatt der Hempel'schen Ausgabe: »Hier abgedruckt nach dem Wortlaut in Wieland's auserlesenen Gedichten, VII. Band, Leipzig 1787, welcher von dem ursprünglichen Text im Teutschen Merkur, 1778, mehrfach abweicht. Die bisherigen Ausgaben der ›Werke‹ haben diese Veränderungen Wieland's nicht berücksichtigt.«"
+cast:
+  - name: La Philosophie endormie.
+    gender: f
+  - name: Der Milord.
+    gender: m
+  - name: Der Marquis.
+    gender: m
+  - name: Der Chevalier.
+    gender: m
+  - name: Der Baron von Trutenhahn.
+    gender: m
+  - name: Der Abbé Fatras.
+    gender: m
+  - name: Verschiedne Herren in schwarzen Sammthosen als stumme Personen.
+    isGroup: true
+    gender: m
+setting: >-
+  Die Scene ist ein Sâl, an den ein Boudoir stösst, wovon die Thüre etwas mehr als halb offen ist. Die Philos. Endormie liegt im boudoir auf einer Bergere, in einer so eleganten attitude als man sich einbilden kann.
+---
 slug: wiese-die-bettler
 author:
   name: Wiese, Sigismund
@@ -92076,6 +92118,206 @@ cast:
     gender: m
 setting: >-
   Der Ort der Handlung, wie in dem Lustspiele: »Die vier Temperamente.«
+---
+slug: ziehnert-das-aerntefest
+author:
+  name: Ziehnert, Johann Gottlieb
+  wikidata: Q57558706
+title: Das Aerntefest
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1812
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele. Zu belehrender Unterhaltung der Jugend, von Amadeus Ziehnert. Erstes Bändchen. Neustadt an der Orla: Wagner 1812, S. 1–20"
+comments:
+  - "Inhaltsangabe laut Vorrede (S. VI): »Das Aerntefest. Zur Geburtfeier der Eltern und Lehrer; beabsichtiget, die noch herrschenden Vorurtheile und Nachlässigkeiten bei Gewittern zu verdrängen.«"
+cast:
+  - group:
+      - name: Wilhelm,
+        role: Oberschnitter.
+        gender: m
+      - name: Auguste,
+        role: deßen Schwester, Schnitterin.
+        gender: f
+      - name: Ferdinand,
+        gender: Schnitter.
+        role: m
+      - name: Daniel,
+        role: Schnitter.
+        gender: m
+      - name: Karl,
+        role: Jäger.
+        gender: m
+      - name: Franz,
+        role: Gärtner.
+        gender: m
+      - name: Juliane,
+        role: Gärtnerin.
+        gender: f
+    role: auf Frohbergs Gütern.
+  - name: Eduard Werner,
+    role: ein Reisender.
+    gender: m
+  - name: Schnitter und Schnitterinnen.
+    isGroup: true
+    gender: u
+setting: >-
+  Ein freies Feld, seitwärts Wald. Schnitter und Schnitterinnen beschäftigt.
+---
+slug: ziehnert-das-raethsel
+author:
+  name: Ziehnert, Johann Gottlieb
+  wikidata: Q57558706
+title: Das Räthsel
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 8
+printed: 1812
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele. Zu belehrender Unterhaltung der Jugend, von Amadeus Ziehnert. Erstes Bändchen. Neustadt an der Orla: Wagner 1812, S. 61–74"
+comments:
+  - "Inhaltsangabe laut Vorrede (S. VII): »Das Räthsel. Zur Geburtfeier eines Bruders oder einer Schwester, stellt freundlich-nekkende Gutmüthigkeit in romantischem Gewande dar.«"
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Emma
+        gender: f
+      - name: Lidia
+        gender: f
+      - name: Mally
+        gender: f
+      - name: Gustav
+        gender: m
+    role: Geschwister.
+  - name: August,
+    role: ihr Vetter.
+    gender: m
+  - name: Mehrere erwachsene Personen und Kinder.
+    isGroup: true
+    gender: u
+setting: >-
+  Zimmer.
+---
+slug: ziehnert-die-einquartirung
+author:
+  name: Ziehnert, Johann Gottlieb
+  wikidata: Q57558706
+title: Die Einquartirung
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 14
+printed: 1812
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele. Zu belehrender Unterhaltung der Jugend, von Amadeus Ziehnert. Erstes Bändchen. Neustadt an der Orla: Wagner 1812, S. 75–94"
+comments:
+  - "Inhaltsangabe laut Vorrede (S. VI–VII): »Die Einquartirung, vielleicht das gelungenste, zeigt deutlich die oft aussergewöhnlichen Folgen der Gefälligkeit und edeln Dreistigkeit.«"
+keywords:
+  - Kindertheater
+cast:
+  - name: Marie,
+    role: Bäuerin.
+    gender: f
+  - name: Karl,
+    role: ihr Pflegsohn.
+    gender: m
+  - name: Der Richter des Dorfs.
+    gender: m
+  - name: Ein Hauptmann.
+    gender: m
+  - name: Ein Unteroffizier.
+    gender: m
+  - name: Ein Bettler.
+    gender: m
+  - name: Mehrere Dorfknaben.
+    isGroup: true
+    gender: m
+setting: >-
+  Dorfgegend, seitwärts im Hintergrunde das Gemeinde Häuschen.
+---
+slug: ziehnert-die-loewenritter
+author:
+  name: Ziehnert, Johann Gottlieb
+  wikidata: Q57558706
+title: Die Löwenritter
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1812
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele. Zu belehrender Unterhaltung der Jugend, von Amadeus Ziehnert. Erstes Bändchen. Neustadt an der Orla: Wagner 1812, S. 39–60"
+comments:
+  - "Inhaltsangabe laut Vorrede (S. VI–VII): »Die Löwenritter zeigen, wie viel übelgewählte Lektüre der Jugend schaden; welche Nachtheile Possen und Verläumdung mit sich führen, und welchen Vortheil ernster Fleis und Herzensgüte geben können. Die in denselben vorkommenden französischen und lateinischen Stellen können von einem Knaben und Offiziers nicht ciceronianisch sein. Ihre Uebersetzung beizufügen, hielt ich um vielen, dieser Sprachen ganz unkundigen Leser willen nicht überflüssig.«"
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr von Burghain.
+    gender: m
+  - group:
+      - name: Kurt
+        gender: m
+      - name: Ferdinand
+        gender: m
+      - name: Adolph
+        gender: m
+      - name: Herrmann
+        gender: m
+      - name: Lieschen
+        gender: f
+    role: dessen Kinder.
+  - name: Major von Adlerstein.
+    gender: m
+  - name: Ein Feldarzt.
+    gender: m
+setting: >-
+  Lehrstube der Knaben mit einigen Tischchen, auf welchen Bücher und Papier umherliegen. Mehrere Thüren.
+---
+slug: ziehnert-muth-und-frohsinn
+author:
+  name: Ziehnert, Johann Gottlieb
+  wikidata: Q57558706
+title: Muth und Frohsinn
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 21
+printed: 1812
+formalia:
+  - Prosa
+editions:
+  - title: "Kleine Schauspiele. Zu belehrender Unterhaltung der Jugend, von Amadeus Ziehnert. Erstes Bändchen. Neustadt an der Orla: Wagner 1812, S. 21–38"
+comments:
+  - "Inhaltsangabe laut Vorrede (S. VI): »Muth und Frohsinn. Ein Karakterentwurf. Frohsinn, Melancholie, Muth, Feigheit und Eigensinn mit ihren Folgen einigermasen anschaulich zu machen, ist die Absicht dieses Stücks.«"
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr von Sonneburg.
+    gender: m
+  - group:
+      - name: Fritz
+        gender: m
+      - name: Leberecht
+        gender: m
+      - name: Konrad
+        gender: m
+      - name: Moritz
+        gender: m
+      - name: Gotthold
+        gender: m
+    role: Knaben von fast gleichem Alter in einer Erziehungsanstalt.
+  - group:
+      - name: Jettchen
+        gender: f
+      - name: Margarethe
+        gender: f
+    role: ebendaselbst.
+  - name: Ein Invalide.
+    gender: m
+setting: >-
+  Garten mit einer Laube, Rasenbänke und Blumenbeeten. Im Hintergrunde eine Thür auf die Straße.
 ---
 slug: zimdar-man-hat-der-beispiele
 author:
