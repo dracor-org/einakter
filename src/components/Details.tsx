@@ -47,8 +47,7 @@ export default function Details () {
     premiered,
     printed,
     reviews,
-    setting,
-    location,
+    settings,
     basedOn,
   } = play;
 
@@ -207,21 +206,33 @@ export default function Details () {
               </td>
             </tr>
           )}
-          {setting && (
+          {settings?.length && (
             <tr>
               <th>
                 <Trans>Setting</Trans>
               </th>
-              <td>{setting}</td>
+              <td>
+                <ul>
+                  {settings.map((s) => (
+                    <li key={s.description}>{s.description}</li>
+                  ))}
+                </ul>
+              </td>
             </tr>
           )}
-          {location?.wikidataId && (
+          {settings?.find((s) => s.location?.wikidataId) && (
             <tr>
               <th>
                 <Trans>Location</Trans>
               </th>
               <td>
-                <IdLink id={location.wikidataId} type="wikidata"/>
+                <ul>
+                  {settings?.filter((s) => s.location?.wikidataId).map((s) => (
+                    <li key={s.location.wikidataId as string}>
+                      <IdLink id={s.location.wikidataId as string} type="wikidata"/>
+                    </li>
+                  ))}
+                </ul>
               </td>
             </tr>
           )}
