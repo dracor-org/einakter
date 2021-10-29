@@ -17,8 +17,13 @@ try {
 }
 
 const locationIds = data
-  .filter((p) => p.location?.wikidataId)
-  .map((p) => p.location?.wikidataId)
+  // find plays with wikidata ID
+  .filter((p) => p.settings?.find((s) => s.location?.wikidataId))
+  // extract wikidata IDs
+  .map((p) => p.settings?.filter((s) => s.location?.wikidataId).map(
+    (s) => s.location?.wikidataId)
+  ).flat()
+  // remove duplicates
   .filter((id, index, self) => self.indexOf(id) === index);
 
 const endpoint = 'https://query.wikidata.org/sparql';
