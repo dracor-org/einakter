@@ -61,7 +61,8 @@ function Table () {
     text: t`Title`,
     formatter: formatTitle,
     filterValue: (_: string, play: Play) => {
-      let text = `${play.title} ${play.subtitle} ${play.setting}`;
+      const settings = play.settings?.map((s) => s.description).join(' ');
+      let text = `${play.title} ${play.subtitle} ${settings}`;
       play.keywords?.forEach(k => text += ` ${k}`);
       play.cast?.forEach(c => text += ` ${c.name}`)
       return text;

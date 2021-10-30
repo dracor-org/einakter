@@ -40,6 +40,9 @@ const cols = [
 
 const lines = data.map((p: Play) => {
   const num = countCharactersByGender(p);
+  const locationId = p.settings?.find(
+    (s) => s.location?.wikidataId
+  )?.location.wikidataId;
   const play: {[index: string]: any} = {
     ...p,
     normalizedYear: normalizeYear(p),
@@ -58,8 +61,8 @@ const lines = data.map((p: Play) => {
     dracorID: p.ids?.dracor ? `https://dracor.org/id/${p.ids.dracor}` : '',
     wikidataID: p.ids?.wikidata
       ? `http://wikidata.org/entity/${p.ids.wikidata}` : '',
-    locationID: p.location?.wikidataId
-      ? `http://wikidata.org/entity/${p.location.wikidataId}` : '',
+    locationID: locationId
+      ? `http://wikidata.org/entity/${locationId}` : '',
   };
   const line = cols.map(col => {
     const value: string = play[col] || '';
