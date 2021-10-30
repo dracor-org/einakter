@@ -32,12 +32,7 @@ function NavItem ({href, className, children}: NavItemProps) {
 
 function Topnav () {
   const [showNav, setShowNav] = useState(false);
-  const location = useLocation();
   const {i18n} = useLingui();
-
-  const isActive = (path: string) => {
-    return location.pathname.startsWith(path);
-  }
 
   return (
     <nav className="flex items-center justify-between flex-wrap p-4 bg-primary text-white font-medium">
