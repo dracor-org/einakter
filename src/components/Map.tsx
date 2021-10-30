@@ -1,36 +1,46 @@
-import React from 'react';
+import React, {useContext} from 'react';
 import {Helmet} from "react-helmet";
 import {Trans, t} from '@lingui/macro';
 import {MapContainer, TileLayer, Marker} from 'react-leaflet';
+import {EinakterContext} from '../context';
 import SettingsPopup from './SettingsPopup';
 
-import data from '../data.json';
 import coords from '../locations.json';
 
 const loc: {[index: string]: any} = {...coords};
 
-const locations: {[index: string]: any} = {};
-
-data.forEach((p) => {
-  const id = p.location?.wikidataId;
-  if (id) {
-    if (!locations[id]) {
-      locations[id] = {
-        coords: loc[id],
-        plays: []
-      };
-    }
-    locations[id].plays.push(p);
-  }
-});
-
-const markers = Object.entries(locations).map(([k, l]) => (
-  <Marker position={l.coords} key={k}>
-    <SettingsPopup plays={l.plays}/>
-  </Marker>
-));
-
 const SettingsMap = () => {
+  const {plays} = useContext(EinakterContext);
+
+  const locations: {[index: string]: any} = {};
+
+  plays.forEach((p) => {
+    p.settings?.filter((s) => s.location?.wikidataId).forEach((s) => {
+      const id = s.location?.wikidataId;
+      if (id) {
+        if (!locations[id]) {
+          locations[id] = {
+            coords: loc[id],
+            settings: []
+          };
+        }
+        locations[id].settings.push({
+          authors: p.authors,
+          title: p.title,
+          slug: p.slug,
+          year: p.normalizedYear,
+          setting: s.description,
+        });
+      }
+    });
+  });
+
+  const markers = Object.entries(locations).map(([k, l]) => (
+    <Marker position={l.coords} key={k}>
+      <SettingsPopup settings={l.settings}/>
+    </Marker>
+  ));
+
   return (
     <div className="locations-map">
       <Helmet>
