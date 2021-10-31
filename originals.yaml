@@ -555,6 +555,17 @@ printed: 1827
 premiered: 1827-03-20
 fulltextUrl: https://books.google.com/books?id=DD5MAAAAcAAJ&printsec=frontcover
 ---
+id: d-artois-la-dame-des-belles-cousines
+author:
+  name: Achille d'Artois
+  wikidata: Q17620926
+title: La dame des belles cousines
+subtitle: Vaudeville en un acte
+language: fre
+printed: 1823
+premiered: 1823-05-17
+fulltextUrl: https://books.google.com/books?id=tRpodLm3AJ8C&printsec=frontcover
+---
 id: d-artois-varner-dupin-le-bourgeois-de-paris
 authors:
   - name: Armand d'Artois
@@ -698,6 +709,19 @@ printed: 1808
 premiered: 1808-01-07
 fulltextUrl: https://books.google.com/books?id=IVloAAAAcAAJ&printsec=frontcover
 ---
+id: desaugiers-valori-le-mariage-extravagant
+authors:
+  - name: Marc-Antoine-Madeleine Désaugiers
+    wikidata: Q3287646
+  - name: Henri Zozime de Valori
+    wikidata: Q55671926
+title: Le mariage extravagant
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1812
+premiered: 1812-09-08
+fulltextUrl: https://books.google.com/books?id=Sso5AAAAcAAJ&printsec=frontcover
+---
 id: desfontaines-lavallee-la-bergere-des-alpes
 author:
   name: Desfontaines-Lavallée
@@ -792,7 +816,7 @@ language: fre
 premiered: 1779-06-06
 fulltextUrl: https://books.google.com/books?id=Fl1oAAAAcAAJ&printsec=frontcover
 ids:
-  - dracor: fre000049
+  dracor: fre000049
 ---
 id: dorvigny-la-fete-de-campagne
 author:
@@ -1002,12 +1026,13 @@ author:
   name: Charles-Simon Favart
   wikidata: Q981902
 title: La chercheuse d'esprit
-subtitle: Opéra-comique
+subtitle: Opéra comique
 language: fre
+printed: 1741
 premiered: 1741-02-20
-fulltextUrl: https://books.google.com/books?id=BzWb5IXfXscC&printsec=frontcover
+fulltextUrl: https://books.google.com/books?id=HDibCvgvSMAC&printsec=frontcover
 ids:
-  - wikidata: Q3207321
+  wikidata: Q3207321
 ---
 id: favart-les-moissonneurs
 author:
@@ -1124,6 +1149,18 @@ subtitle: Comédie
 language: fre
 premiered: 1719-09-26
 fulltextUrl: https://books.google.com/books?id=Ds1NAAAAcAAJ&printsec=frontcover
+---
+id: gersin-de-lurieu-la-chercheuse-d-esprit
+authors:
+  - name: Nicolas Gersin
+    wikidata: Q19721415
+  - name: Gabriel de Lurieu
+    wikidata: Q41796207
+title: La chercheuse d'esprit
+subtitle: Opéra-comique de Favart, mis en vaudeville
+language: fre
+premiered: 1822-03-13
+fulltextUrl: https://books.google.com/books?id=3WtfAAAAcAAJ&printsec=frontcover
 ---
 id: guyot-de-merville-le-consentement-force
 author:
@@ -1439,6 +1476,29 @@ subtitle: Vaudeville en un acte
 language: fre
 premiered: 1839-06-10
 fulltextUrl: https://books.google.com/books?id=c4E_AAAAcAAJ&printsec=frontcover
+---
+id: longchamps-a-t-il-perdu
+author:
+  name: Charles de Longchamps
+  wikidata: Q21936814
+title: A-t-il perdu ?
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1818-11-02
+fulltextUrl: https://books.google.com/books?id=LOxKAAAAcAAJ&printsec=frontcover
+---
+id: longchamps-laloue-l-egoiste-par-regime
+authors:
+  - name: Charles de Longchamps
+    wikidata: Q21936814
+  - name: Ferdinand Laloue
+    wikidata: Q17628189
+title: L'égoïste par régime
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1826
+premiered: 1826-04-08
+fulltextUrl: https://books.google.com/books?id=1kU6AAAAcAAJ&printsec=frontcover
 ---
 id: marin-julie-ou-le-triomphe-de-l-amitie
 author:
@@ -2000,7 +2060,7 @@ id: pain-amour-et-mystere-ou-lequel-est-mon-cousin
 author:
   name: Joseph Pain
   wikidata: Q24046187
-title: Amour et mystère, ou Lequel est mon cousin ?
+title: Amour et mystère, ou Lequel est mon cousin ?
 subtitle: Comédie en un acte, mêlée de vaudevilles
 language: fre
 printed: 1807
@@ -2252,6 +2312,19 @@ ids:
   dracor: fre001218
   wikidata: Q107179493
 ---
+id: rougemont-dumersan-la-visite-du-prince-ou-le-militaire-et-le-financier
+authors:
+  - name: Michel-Nicolas Balisson de Rougemont
+    wikidata: Q3308793
+  - name: Théophile Marion Dumersan
+    wikidata: Q2066224
+title: La visite du prince, ou Le militaire et le financier
+subtitle: Comédie-vaudeville en un acte et en prose
+language: fre
+printed: 1819
+premiered: 1819-11-25
+fulltextUrl: https://books.google.com/books?id=5k06AAAAcAAJ&printsec=frontcover
+---
 id: rougemont-le-discours-de-rentree
 author:
   name: Michel-Nicolas Balisson de Rougemont
@@ -2494,6 +2567,18 @@ fulltextUrl: http://www.theatre-classique.fr/pages/programmes/edition.php?t=../d
 ids:
   dracor: fre001324
 ---
+id: sauvage-de-lurieu-fich-tong-khan-ou-l-orphelin-de-la-tartarie
+authors:
+  - name: Thomas Sauvage
+    wikidata: Q3525549
+  - name: Gabriel de Lurieu
+    wikidata: Q41796207
+title: Fich-Tong-Khan, ou L'orphelin de la Tartarie
+subtitle: Parade chinoise en un acte
+language: fre
+premiered: 1835-03-03
+fulltextUrl: https://books.google.com/books?id=wIHZUXqmgCIC&printsec=frontcover
+---
 id: scribe-bayard-camilla-ou-la-soeur-et-le-frere
 authors:
   - name: Eugène Scribe
@@ -2543,6 +2628,19 @@ subtitle: Vaudeville en un acte
 language: fre
 premiered: 1822-07-25
 fulltextUrl: https://books.google.com/books?id=eftCAQAAMAAJ&pg=RA12-PA1
+---
+id: scribe-delavigne-la-vieille
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Germain Delavigne
+    wikidata: Q1513808
+title: La vieille
+subtitle: Opéra-comique en un acte
+language: fre
+printed: 1826
+premiered: 1826-03-14
+fulltextUrl: https://books.google.com/books?id=Ik86AAAAcAAJ&printsec=frontcover
 ---
 id: scribe-delavigne-le-colonel
 authors:
@@ -2604,6 +2702,19 @@ subtitle: Comédie-vaudeville
 language: fre
 premiered: 1821-04-27
 fulltextUrl: https://books.google.com/books?id=Uxc6AAAAcAAJ&printsec=frontcover
+---
+id: scribe-dupin-les-grisettes
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Henri Dupin
+    wikidata: Q3131020
+title: Les grisettes
+subtitle: Vaudeville, en un acte
+language: fre
+printed: 1823
+premiered: 1823-08-08
+fulltextUrl: https://books.google.com/books?id=cvJKAAAAcAAJ&printsec=frontcover
 ---
 id: scribe-duport-le-chaperon
 authors:
@@ -2861,7 +2972,7 @@ authors:
     wikidata: Q319261
   - name: Mélesville
     wikidata: Q2660806
-title: La seconde année, ou À qui la faute?
+title: La seconde année, ou À qui la faute ?
 subtitle: Comédie-vaudeville en un acte
 language: fre
 premiered: 1830-01-12
@@ -3186,6 +3297,20 @@ language: fre
 printed: 1834
 premiered: 1834-04-02
 fulltextUrl: https://books.google.com/books?id=23lLAAAAcAAJ&printsec=frontcover
+---
+id: varin-desvergers-laurencin-georgette
+authors:
+  - name: Varin
+    wikidata: Q2960378
+  - name: Desvergers
+    wikidata: Q3024751
+  - name: Laurencin
+    wikidata: Q19544960
+title: Georgette
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1834-11-18
+fulltextUrl: https://books.google.com/books?id=0XY8GimGhSQC&printsec=frontcover
 ---
 id: varin-desvergers-les-femmes-d-emprunt
 authors:
