@@ -27,19 +27,21 @@ interface Props {
 
 const SettingsPopup = ({settings}: Props) => {
   return (
-    <Popup className="foo">
+    <Popup>
+      <div className="max-h-52 overflow-scroll" >
       {settings.map((s) => (
-        <div className="popup-location" key={s.slug}>
-          <p>
+        <div className="mb-4" key={s.slug}>
+          <div className="mb-1">
             {s.authors && renderAuthors(s.authors)}
             {s.authors && ', '}
             <Link to={`/${s.slug}`}>{s.title}</Link>
             {'. '}
             {s.year}
-          </p>
-          <p><em>{s.setting}</em></p>
+          </div>
+          <div><em>{s.setting}</em></div>
         </div>
       ))}
+      </div>
     </Popup>
   );
 };
