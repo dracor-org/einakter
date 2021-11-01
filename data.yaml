@@ -1329,7 +1329,7 @@ cast:
   - name: Ein Hausknecht.
     gender: m
 settings:
-  - description: "Scene: Belin, Krümmels Wohnung."
+  - description: "Scene: Berlin, Krümels Wohnung."
     location:
       wikidataId: Q64
 ---
@@ -1690,9 +1690,9 @@ cast:
     gender: f
 settings:
   - description: "Scene: Berlin."
-  - description: Zimmer in Schnibbecken's Hause.
     location:
       wikidataId: Q64
+  - description: Zimmer in Schnibbecken's Hause.
 ---
 slug: angely-die-wittwe-und-ihr-mann
 author:
@@ -23365,7 +23365,7 @@ printed: 1808
 formalia:
   - Verse
 basedOn:
-  - Alphonse de Launay
+  - de-launay-vasary-le-parleur-contrarie
 editions:
   - title: "Das Räthsel und der unterbrochne Schwätzer. Zwei Lustspiele von C. W. Contessa. Berlin: Realschulbuchhandlung 1808, S. 73–153"
     url: https://books.google.com/books?id=h1suAAAAYAAJ&pg=PA73
@@ -23884,7 +23884,7 @@ premiered: 1840-02-15
 formalia:
   - Prosa
 basedOn:
-  - Amable de Saint-Hilaire
+  - saint-hilaire-revue-et-corrigee
 editions:
   - title: "Dramatischer Salon von Alexander Cosmar. Berlin: Klemann 1842, S. 243–312"
     url: https://books.google.com/books?id=lgKtZEbqapAC&pg=PA243
@@ -23909,7 +23909,9 @@ cast:
     gender: f
 settings:
   - description: >-
-      Die Scene spietl in einer Stadt des südlichen Deutschlands. (Das Theater stellt einen kleinen Saal mit der Aussicht auf einen Garten dar. Im Hintergrunde eine Glasthür, aus welcher man auf einen Perron tritt. Rechts im Vordergrunde, auf einer in grader Richtung hervorspringenden, dem Publikum ganz sichtbaren Wand, eine Thür, deren oberer Theil aus einem Drahtgeflecht besteht. Hinter diesem Gitter grüne Gardinen zum Zuziehen. Durch diese Thür, welche ein kleines Kabinet verschließt, sieht man auf einem Repositorium Zwiebeln, Blumen und Säckchen mit daran befindlichen Zetteln. Links im Vordergrunde ein Tisch mit Schreibmaterialien, daneben ein Armstuhl.)
+      Die Scene spielt in einer Stadt des südlichen Deutschlands.
+  - description: >-
+      Das Theater stellt einen kleinen Saal mit der Aussicht auf einen Garten dar. Im Hintergrunde eine Glasthür, aus welcher man auf einen Perron tritt. Rechts im Vordergrunde, auf einer in grader Richtung hervorspringenden, dem Publikum ganz sichtbaren Wand, eine Thür, deren oberer Theil aus einem Drahtgeflecht besteht. Hinter diesem Gitter grüne Gardinen zum Zuziehen. Durch diese Thür, welche ein kleines Kabinet verschließt, sieht man auf einem Repositorium Zwiebeln, Blumen und Säckchen mit daran befindlichen Zetteln. Links im Vordergrunde ein Tisch mit Schreibmaterialien, daneben ein Armstuhl.
 ---
 slug: cosmar-drei-frauen-auf-einmal
 author:
@@ -26507,7 +26509,7 @@ printed: 1779
 formalia:
   - Prosa
 basedOn:
-  - Carmontelle
+  - carmontelle-le-trompeur-favorable
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 241–242
@@ -26555,7 +26557,7 @@ printed: 1778
 formalia:
   - Prosa
 basedOn:
-  - Carmontelle
+  - carmontelle-le-boiteux
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 27, S. 77
@@ -34192,7 +34194,7 @@ printed: 1820
 formalia:
   - Prosa
 basedOn:
-  - Dorvigny
+  - dorvigny-nitouche-et-guignolet
 editions:
   - title: "Original-Theater für das Jahr 1820. Zusammengetragen von mehrern dramatischen Dichtern. Fünfter Band. Augsburg und Leipzig: Jenisch und Stage [1820], S. 79–126"
     url: https://books.google.com/books?id=DSE7AAAAcAAJ&pg=PA79
@@ -37825,7 +37827,7 @@ printed: 1840
 formalia:
   - Prosa
 basedOn:
-  - Frères Cogniard
+  - freres-cogniard-tronquette-la-somnambule
 editions:
   - title: "Dramatisches Vergißmeinnicht auf das Jahr 1840 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Siebenzehntes Bändchen. Dresden und Leipzig: Arnoldi 1840"
     url: https://books.google.com/books?id=PSo6AAAAcAAJ&pg=RA1-PA1
@@ -39690,7 +39692,7 @@ premiered: 1825-09-21
 formalia:
   - Prosa
 basedOn:
-  - Moreau und Sewrin
+  - moreau-de-commagny-sewrin-le-comedien-d-etampes
 editions:
   - title: "Dramatische Kleinigkeiten. Von Herzenskron. Zweyter Band. Wien: Tendler und von Manstein 1828, S. 189–244"
     url: https://books.google.com/books?id=1WxWAAAAcAAJ&pg=PA189
@@ -47236,7 +47238,7 @@ premiered: 1834-02-08
 formalia:
   - Prosa
 basedOn:
-  - Mélesville
+  - melesville-varner-l-art-de-payer-ses-dettes
 editions:
   - title: "C. W. Koch's dramatische Beiträge für das k. k. Hofburgtheater in Wien. Wien: Wallishausser 1836, S. 149–212"
     url: https://books.google.com/books?id=ZMtIAAAAcAAJ&pg=RA149
@@ -47276,7 +47278,7 @@ printed: 1841
 formalia:
   - Prosa
 basedOn:
-  - Jean-François Bayard
+  - bayard-emile-ou-six-tetes-dans-un-chapeau
 editions:
   - title: "F. A. von Kurländers dramatischer Almanach für das Jahr 1841. Fortgesetzt von C. W. Koch. Einunddreißigster Jahrgang. Leipzig: Baumgärtner 1841, S. 143–209"
     url: https://books.google.com/books?id=oyqxfWuOkBIC&pg=PA143
@@ -49181,14 +49183,14 @@ printed: 1808
 premiered: 1807-11-16
 formalia:
   - Prosa
-basedOn:
-  - Soldatenstück
 dictionaries:
   - name: kotzebue
     pages: S. 41–42
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechster Jahrgang. Leipzig: Kummer 1808, S. 267–333"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044920_00283.html
+keywords:
+  - Soldatenstück
 cast:
   - name: Jeremias Edler von Holzbock,
     role: Vormund der
@@ -53616,13 +53618,14 @@ premiered: 1830-10-07
 formalia:
   - Prosa
 basedOn:
-  - Eugène Scribe
+  - scribe-melesville-bayard-philipp
 editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1831. Von F. A. von Kurländer. Ein und zwanzigster Jahrgang. Leipzig: Baumgärtner 1831, S. 141–236"
     url: https://books.google.com/books?id=ITBJAAAAcAAJ&pg=PA141
 comments:
   - "Auch unter dem Titel »Der Haushofmeister, oder: Das Geheimniß« (Hamburg 1831)."
 reviews:
+  - "Aus dem Burgtheater. 1818–1837. Tagebuchblätter des weil. k. k. Hofschauspielers u. Regisseurs Carl Ludwig Costenoble. Zweiter Band. 7. October 1830. Wien: Konegen 1889, [S. 26–27](https://books.google.com/books?id=ysJLAAAAYAAJ&pg=PA26)."
   - "Der Sammler. Nr. 130 (Sonnabend, den 30. October 1830), [S. 522](https://books.google.com/books?id=CisxAugR6YQC&pg=PA522)."
 cast:
   - name: Fräulein von Hartville.
