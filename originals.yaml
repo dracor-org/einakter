@@ -31,6 +31,18 @@ language: ita
 printed: 1775
 fulltextUrl: https://books.google.com/books?id=3FtDAAAAYAAJ&pg=PA235
 ---
+id: ancelot-decomberousse-la-consigne
+authors:
+  - name: Jacques-François Ancelot
+    wikidata: Q1677861
+  - name: Alexis Decomberousse
+    wikidata: Q17708941
+title: La consigne
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1833-06-10
+fulltextUrl: https://books.google.com/books?id=2EtTAAAAcAAJ&pg=PA1
+---
 id: ancelot-decomberousse-le-dernier-de-la-famille
 authors:
   - name: Jacques-François Ancelot
@@ -162,6 +174,19 @@ language: fre
 printed: 1832
 premiered: 1832-04-02
 fulltextUrl: https://books.google.com/books?id=NltoAAAAcAAJ&printsec=frontcover
+---
+id: bayard-varner-le-mari-d-une-muse
+authors:
+  - name: Jean-François Bayard
+    wikidata: Q2074119
+  - name: Antoine-François Varner
+    wikidata: Q2853471
+title: Le mari d'une muse
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1834
+premiered: 1834-02-06
+fulltextUrl: https://books.google.com/books?id=BFxoAAAAcAAJ&printsec=frontcover
 ---
 id: beauchamps-le-portrait
 author:
@@ -627,12 +652,36 @@ fulltextUrl: https://books.google.com/books?id=VTs6AAAAcAAJ&printsec=frontcover
 id: de-beaunoir-fanfan-et-colas
 author:
   name: Madame de Beaunoir
-  wikidata: Q2893251
+  wikidata: Q88229238
 title: Fanfan et Colas
 subtitle: Comédie en un acte et en prose
 language: fre
 premiered: 1784-09-07
 fulltextUrl: https://books.google.com/books?id=Xl8GAAAAQAAJ&printsec=frontcover
+---
+id: de-beaunoir-les-amis-du-jour
+author:
+  name: De Beaunoir
+  wikidata: Q2893251
+title: Les amis du jour
+subtitle: Comédie en un acte et en prose
+language: fre
+printed: 1786
+premiered: 1786-09-01
+fulltextUrl: https://books.google.com/books?id=CAJTWs18nAkC&printsec=frontcover
+---
+id: decomberousse-brisebarre-le-chapeau-gris-ou-les-obstacles
+authors:
+  - name: Alexis Decomberousse
+    wikidata: Q17708941
+  - name: Édouard Brisebarre
+    wikidata: Q1287510
+title: Le chapeau gris ou Les obstacles
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1847
+premiered: 1847-07-15
+fulltextUrl: https://books.google.com/books?id=UEhSAAAAcAAJ&printsec=frontcover
 ---
 id: de-genlis-a-bon-entendeur-salut
 author:
@@ -1225,6 +1274,44 @@ language: fre
 premiered: 1822-03-13
 fulltextUrl: https://books.google.com/books?id=3WtfAAAAcAAJ&printsec=frontcover
 ---
+id: goldoni-il-servitore-di-due-padroni
+author:
+  name: Carlo Goldoni
+  wikidata: Q165534
+title: Il servitore di due padroni
+subtitle: Commedia
+language: ita
+created: 1745
+premiered: 1746
+fulltextUrl: https://books.google.com/books?id=3H5NmtMQLJUC&pg=RA1-PA177
+ids:
+  dracor: ita000080
+  wikidata: Q769831
+---
+id: goldoni-la-donna-di-garbo
+author:
+  name: Carlo Goldoni
+  wikidata: Q165534
+title: La donna di garbo
+subtitle: Commedia
+language: ita
+premiered: 1742
+fulltextUrl: https://books.google.com/books?id=H_wFAAAAQAAJ&pg=PA3
+ids:
+  wikidata: Q3822132
+---
+id: goldoni-l-avaro
+author:
+  name: Carlo Goldoni
+  wikidata: Q165534
+title: L'avaro
+subtitle: Commedia di un' atto solo in prosa
+language: ita
+premiered: 1756
+fulltextUrl: https://books.google.com/books?id=eXZeAAAAcAAJ&pg=PA233
+ids:
+  wikidata: Q3818875
+---
 id: guyot-de-merville-le-consentement-force
 author:
   name: Michel Guyot de Merville
@@ -1748,6 +1835,16 @@ fulltextUrl: https://books.google.com/books?id=0ZITAAAAQAAJ&printsec=frontcover
 ids:
   wikidata: Q7037829
 ---
+id: marsollier-une-matinee-de-catinat-ou-le-tableau
+author:
+  name: Benoît-Joseph Marsollier
+  wikidata: Q818099
+title: Une matinée de Catinat, ou Le tableau
+subtitle: Opéra en un acte
+language: fre
+premiered: 1800-10-01
+fulltextUrl: https://books.google.com/books?id=mcHz_AUSZHAC&printsec=frontcover
+---
 id: melesville-carmouche-ourika-ou-la-petite-negresse
 authors:
   - name: Mélesville
@@ -1857,6 +1954,19 @@ language: fre
 printed: 1830
 premiered: 1830-12-14
 fulltextUrl: https://books.google.com/books?id=pI5LAAAAcAAJ&printsec=frontcover
+---
+id: melesville-raoul-recette-pour-marier-sa-fille
+authors:
+  - name: Mélesville
+    wikidata: Q2660806
+  - name: Max Raoul
+    wikidata: Q23901734
+title: Recette pour marier sa fille
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1827
+premiered: 1826-12-27
+fulltextUrl: https://books.google.com/books?id=Db9oAAAAcAAJ&printsec=frontcover
 ---
 id: melesville-quinze-jours-de-sagesse-ou-les-secrets
 author:
@@ -2739,6 +2849,19 @@ language: fre
 premiered: 1821-01-29
 fulltextUrl: https://books.google.com/books?id=RDER-n64Wa0C&printsec=frontcover
 ---
+id: scribe-delavigne-le-vieux-garcon-et-la-petite-fille
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Germain Delavigne
+    wikidata: Q1513808
+title: Le vieux garçon et la petite fille
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1822
+premiered: 1822-05-24
+fulltextUrl: https://books.google.com/books?id=u-hKAAAAcAAJ&printsec=frontcover
+---
 id: scribe-delavigne-l-heritiere
 authors:
   - name: Eugène Scribe
@@ -2800,6 +2923,20 @@ language: fre
 printed: 1823
 premiered: 1823-08-08
 fulltextUrl: https://books.google.com/books?id=cvJKAAAAcAAJ&printsec=frontcover
+---
+id: scribe-dupin-varner-la-mansarde-des-artistes
+authors:
+  - name: Eugène Scribe
+    wikidata: Q319261
+  - name: Henri Dupin
+    wikidata: Q3131020
+  - name: Antoine-François Varner
+    wikidata: Q2853471
+title: La mansarde des artistes
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1824-04-02
+fulltextUrl: https://books.google.com/books?id=BQ9Dxz6wVTEC&printsec=frontcover
 ---
 id: scribe-duport-le-chaperon
 authors:
@@ -2885,6 +3022,16 @@ language: fre
 printed: 1824
 premiered: 1824-12-14
 fulltextUrl: https://books.google.com/books?id=zY1LAAAAcAAJ&printsec=frontcover
+---
+id: scribe-la-protegee-sans-le-savoir
+author:
+  name: Eugène Scribe
+  wikidata: Q319261
+title: La protégée sans le savoir
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1846-12-05
+fulltextUrl: https://books.google.com/books?id=JNoPAAAAYAAJ&printsec=frontcover
 ---
 id: scribe-varner-les-deux-maris-ou-monsieur-rigaud
 authors:
@@ -3367,6 +3514,17 @@ language: fre
 printed: 1815
 premiered: 1815-07-26
 fulltextUrl: https://books.google.com/books?id=kz46AAAAcAAJ&printsec=frontcover
+---
+id: vanbrugh-the-country-house
+author:
+  name: John Vanbrugh
+  wikidata: Q333398
+title: The Country House
+subtitle: A Farce
+language: eng
+printed: 1715
+premiered: 1705
+fulltextUrl: https://books.google.com/books?id=pvA_AAAAYAAJ&pg=PA89
 ---
 id: varin-arago-desvergers-theophile-ou-ma-vocation
 authors:

@@ -2801,10 +2801,14 @@
     "name": "Heimbert Paul Friedrich Hinze",
     "gnd": "100499635",
     "birth": {
-      "date": "1771-01-01T00:00:00Z"
+      "date": "1771-01-01T00:00:00Z",
+      "place": "Braunschweig",
+      "placeId": "http://www.wikidata.org/entity/Q2773"
     },
     "death": {
-      "date": "1840-12-01T00:00:00Z"
+      "date": "1840-12-01T00:00:00Z",
+      "place": "Lübeck",
+      "placeId": "http://www.wikidata.org/entity/Q2843"
     },
     "gender": "male"
   },
