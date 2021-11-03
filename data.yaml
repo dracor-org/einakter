@@ -10376,7 +10376,7 @@ printed: 1782
 formalia:
   - Prosa
 basedOn:
-  - "Bernard-Joseph Saurin: [»L'orpheline légué. Comédie en trois actes, en vers libres«](https://books.google.com/books?id=li9MAAAAcAAJ&printsec=frontcover)"
+  - saurin-l-orpheline-leguee
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 201
@@ -10418,11 +10418,13 @@ subtitle: Die vermeinten Hehler. Ein Lustspiel in einem Aufzug nach dem französ
 premiered: 1788-12-21
 formalia:
   - Prosa
+basedOn:
+  - Michel-Jean Sedaine
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 30, S. 185 und S. 188
 comments:
-  - Nur Manuskript. Bei Meyer fälschlicherweise(?) unter dem Titel »Die vermeinten Hehler«.
+  - Nur Manuskript. Bei Meyer fälschlicherweise unter dem Titel »Die vermeinten Hehler«.
 cast:
   - name: von Neuenstein.
     gender: m
@@ -11389,7 +11391,7 @@ printed: 1772
 formalia:
   - Prosa
 basedOn:
-  - "Bernard-Joseph Saurin: [»Le mariage de Julie. Comédie en un acte et en prose«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SAURIN_MARIAGEDEJULIE.xml)"
+  - saurin-le-mariage-de-julie
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 453–454
@@ -30277,7 +30279,7 @@ premiered: 1812-12-07
 formalia:
   - Prosa
 basedOn:
-  - "Jean-François Collin d'Harleville: [»Il veut tout faire. Comédie épisodique, en un acte et en vers«](https://books.google.com/books?id=lUCJb35aKSgC&printsec=frontcover)"
+  - collin-d-harleville-il-veut-tout-faire
 editions:
   - title: "Wiesbaden: Schellenberg 1817"
     url: https://books.google.com/books?id=q6-vu1QSHzQC&printsec=frontcover
@@ -31805,7 +31807,7 @@ premiered: 1846
 formalia:
   - Prosa
 basedOn:
-  - "Emmanuel Théaulon: [»Un page du régent, ou Le piége. Comédie-vaudeville en un acte«](https://books.google.com/books?id=pARsibbXnYgC&printsec=frontcover)"
+  - theaulon-un-page-du-regent-ou-le-piege
 editions:
   - title: "Berliner Theater-Almanach auf das Jahr 1840. Herausgegeben von Alexander Cosmar. Fünfter Jahrgang. Berlin: Bade [1840], S. 59–96"
     url: https://books.google.com/books?id=4EE7AAAAcAAJ&pg=PA59
@@ -31907,14 +31909,14 @@ numberOfScenes: 6
 printed: 1775
 formalia:
   - Prosa
-basedOn:
-  - "François-Thomas-Marie de Baculard d'Arnaud: »Anne Bell«"
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 106–107
 editions:
   - title: "Offenbach und Frankfurt: Weiß 1775"
     url: https://books.google.com/books?id=42xVAAAAcAAJ&printsec=frontcover
+comments:
+  - "Nach der Erzählung von François-Thomas-Marie de Baculard d'Arnaud: [»Anne Bell. Histoire anglaise«](https://books.google.com/books?id=gt1eAAAAcAAJ&printsec=frontcover) (1769)."
 keywords:
   - Armut
   - Selbstmord
@@ -32685,7 +32687,7 @@ premiered: 1773-02-08
 formalia:
   - Prosa
 basedOn:
-  - "Michel-Jean Sedaine: [»La gageure imprévue. Comédie, en prose, et en un acte«](https://books.google.com/books?id=9OCq8WNhoacC&printsec=frontcover)"
+  - sedaine-la-gageure-imprevue
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 88–89
@@ -54416,7 +54418,7 @@ printed: 1816
 formalia:
   - Prosa
 basedOn:
-  - "Marc-Antoine-Madeleine Désaugiers und Michel-Joseph Gentil de Chavagnac: [»Les deux voisines, ou Les prêtés rendus. Comédie en un acte, en vers«](https://books.google.com/books?id=Vco5AAAAcAAJ&printsec=frontcover)."
+  - desaugiers-gentil-de-chavagnac-les-deux-voisines-ou-les-pretes-rendus
 editions:
   - title: "Almanach Dramatischer Spiele für Gesellschaftstheater. Von Franz August von Kurländer. Sechster Jahrgang. Wien und Triest: Geistinger 1816, S. 145–226"
     url: https://books.google.com/books?id=xzJJAAAAcAAJ&pg=PA145
@@ -54645,7 +54647,7 @@ printed: 1811
 formalia:
   - Prosa
 basedOn:
-  - "Jean-François Collin d'Harleville: [»Monsieur de Crac dans son petit castel, ou Les gascons. Comédie en un acte en vers, avec un vaudeville et un divertissement«](https://books.google.com/books?id=b3NXAAAAcAAJ&printsec=frontcover)"
+  - collin-d-harleville-monsieur-de-crac-dans-son-petit-castel-ou-les-gascons
 editions:
   - title: "Almanach Dramatischer Spiele für Gesellschaftstheater. Wien und Triest: Geistinger 1811, S. 107–154"
     url: https://books.google.com/books?id=VTJJAAAAcAAJ&pg=PA107
@@ -81081,7 +81083,7 @@ printed: 1802
 formalia:
   - Prosa
 basedOn:
-  - "Jean-François Collin d'Harleville: [»Monsieur de Crac dans son petit castel, ou Les gascons. Comédie en un acte en vers, avec un vaudeville et un divertissement«](https://books.google.com/books?id=b3NXAAAAcAAJ&printsec=frontcover)"
+  - collin-d-harleville-monsieur-de-crac-dans-son-petit-castel-ou-les-gascons
 editions:
   - title: "Leipzig: Rein 1802"
     url: https://books.google.com/books?id=hv5HAAAAcAAJ&printsec=frontcover
