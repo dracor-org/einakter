@@ -3,6 +3,7 @@ import {Play, OriginalPlay} from './types';
 export const languages: any = {
   cze: 'Czech',
   dan: 'Danish',
+  dut: 'Dutch',
   eng: 'English',
   fre: 'French',
   ger: 'German',
