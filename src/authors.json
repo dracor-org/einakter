@@ -1070,10 +1070,14 @@
     "name": "Johann Friedrich Cordes",
     "gnd": "14379017X",
     "birth": {
-      "date": "1759-01-01T00:00:00Z"
+      "date": "1759-01-01T00:00:00Z",
+      "place": "Dedesdorf",
+      "placeId": "http://www.wikidata.org/entity/Q1182184"
     },
     "death": {
-      "date": "1827-01-01T00:00:00Z"
+      "date": "1827-01-10T00:00:00Z",
+      "place": "Oldenburg",
+      "placeId": "http://www.wikidata.org/entity/Q2936"
     },
     "gender": "male",
     "ambiguous": true
@@ -5986,7 +5990,9 @@
     "name": "Heinrich Gottlieb Schmieder",
     "gnd": "115594361",
     "birth": {
-      "date": "1763-06-03T00:00:00Z"
+      "date": "1763-06-03T00:00:00Z",
+      "place": "Dresden",
+      "placeId": "http://www.wikidata.org/entity/Q1731"
     },
     "death": {
       "date": "1815-01-01T00:00:00Z",
