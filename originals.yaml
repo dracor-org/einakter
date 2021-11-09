@@ -91,6 +91,14 @@ language: fre
 premiered: 1835-12-23
 fulltextUrl: https://books.google.com/books?id=VIdkAAAAcAAJ&printsec=frontcover
 ---
+id: anonyme-comedie-a-la-grecque
+author:
+  name: Anonyme
+title: Comédie à la Grecque
+language: fre
+printed: 1764
+fulltextUrl: https://books.google.com/books?id=aE1CP7EcPCkC&printsec=frontcover
+---
 id: antier-decomberousse-les-tours-de-notre-dame
 authors:
   - name: Benjamin Antier
@@ -2865,6 +2873,16 @@ language: fre
 premiered: 1740-03-22
 fulltextUrl: https://books.google.com/books?id=o5CyEfJgaXUC&printsec=frontcover
 ---
+id: saint-jory-arlequin-en-deuil-de-lui-meme
+author:
+  name: Louis Rustaing de Saint-Jory
+  wikidata: Q84407653
+title: Arlequin en deuil de lui-même
+subtitle: Comédie d'un acte
+language: fre
+premiered: 1721
+fulltextUrl: https://books.google.com/books?id=oQaTHyuvjO4C&pg=PA213
+---
 id: saint-hilaire-revue-et-corrigee
 author:
   name: Amable de Saint-Hilaire
@@ -3736,6 +3754,18 @@ language: fre
 printed: 1834
 premiered: 1834-04-02
 fulltextUrl: https://books.google.com/books?id=23lLAAAAcAAJ&printsec=frontcover
+---
+id: varin-boyer-rue-de-la-lune
+authors:
+  - name: Varin
+    wikidata: Q2960378
+  - name: Louis Boyer
+    wikidata: Q107282560
+title: Rue de la lune
+subtitle: Vaudeville en un acte
+language: fre
+premiered: 1843-02-14
+fulltextUrl: https://books.google.com/books?id=_PRZOv49G2EC&printsec=frontcover
 ---
 id: varin-desvergers-laurencin-georgette
 authors:

@@ -222,7 +222,7 @@ editions:
     url: https://books.google.com/books?id=osZHAAAAcAAJ&printsec=frontcover
 keywords:
   - Eheanbahnung
-  - Spiel-im-Spiel
+  - Spiel im Spiel
 cast:
   - name: Der alte Wittekind,
     role: Kaufmann.
@@ -297,6 +297,31 @@ cast:
 settings:
   - description: >-
       Ein Zimmer der Gräfin.
+---
+slug: albrecht-maennertreue-oder-so-sind-sie-alle
+author:
+  name: Albrecht, Johann Friedrich Ernst
+  wikidata: Q124680
+title: Männertreue oder So sind sie alle
+subtitle: Lustspiel in einem Akt
+premiered: 1814
+reviews:
+  - "Leipziger Kunstblatt, insbesondere für Theater und Musik. No. 8 (Dienstag, den 16. September 1817), [S. 36](https://books.google.com/books?id=P3JvPLsSrh4C&pg=PA36)."
+  - "Der Sammler. Ein Unterhaltungsblatt für alle Stände. No. 101 (26. Juny 1841), [S. 407](https://books.google.com/books?id=cZqEoznn6cQC&pg=PA407)."
+ids:
+  weber: A021227
+cast:
+  - name: Herr Meyer,
+    role: ein practisirender Arzt.
+    gender: m
+  - name: Mariane,
+    role: seine Frau.
+    gender: f
+  - name: Mamsell Kruse.
+    gender: f
+  - name: Johann,
+    role: Bedienter.
+    gender: m
 ---
 slug: alexander-die-verpfaendung
 author:
@@ -3942,6 +3967,26 @@ settings:
   - description: >-
       Das Stück spielt in den ersten Scenen im fürstlichen Garten, hernach aber im Hause der Frau Wahlen.
 ---
+slug: anonym-der-alte-kranke-herr
+author:
+  pseudonym: Anonym
+title: Der alte, kranke Herr
+subtitle: Probescenen einer noch ungedruckten Posse in einem Aufzuge
+numberOfScenes: 4
+printed: 1793
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 278
+editions:
+  - title: "Annalen des Theaters. Erstes Bändchen. Hamburg: Treder 1793, S. 107–111"
+keywords:
+  - Fragment
+settings:
+  - description: >-
+      Die Scene auf einem Landgut des Herrn von Rosenfeld.
+---
 slug: anonym-der-apfel
 author:
   pseudonym: Anonym
@@ -5314,6 +5359,20 @@ cast:
     isGroup: true
     gender: m
 ---
+slug: anonym-der-klaetscher
+author:
+  pseudonym: Anonym
+title: Der Klätscher
+subtitle: Schauspiel von einem Aufzuge, aus dem Französischen des Herrn Voltär übersetzt
+premiered: 1741-08-30
+basedOn:
+  - voltaire-l-indiscret
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 11, S. 355
+comments:
+  - "Unklar, ob identisch mit der Übersetzung [»Der Klätscher«/»Der Unverschwiegene«](anonym-der-unverschwiegene) (gedruckt 1746/1766)."
+---
 slug: anonym-der-kranke-in-verlegenheit
 author:
   pseudonym: Anonym
@@ -6127,6 +6186,18 @@ settings:
   - description: >-
       Zimmer in des Canzleyraths Hause, mit zwey Mittelthüren und einer Seitenthüre. Abend.
 ---
+slug: anonym-der-sich-selbst-betraurende-ehemann
+author:
+  pseudonym: Anonym
+title: Der sich selbst betraurende Ehemann
+subtitle: Eine Comödie des Ritters St. Jory, von einem Aufzuge
+premiered: 1741-10-05
+basedOn:
+  - saint-jory-arlequin-en-deuil-de-lui-meme
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 11, S. 323
+---
 slug: anonym-der-sicilianer-oder-amor-ein-mahler
 author:
   pseudonym: Anonym
@@ -6540,6 +6611,8 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 13, S. 216
 editions:
+  - title: "Sammlung einiger Schriften zum Zeitvertreibe des Geschmacks. Erster Band, Erstes Stück. Leipzig: Weidmann 1746, S. 1–41"
+    url: https://books.google.com/books?id=AiNeAAAAcAAJ&pg=PA1
   - title: "Des Herrn Arouet von Voltaire sämmtliche Schauspiele, nebst den dazu gehörigen Schriften, aus dem Französischen von verschiedenen Federn übersetzet. Erster Band. Nürnberg: Raspe 1766, S. 139–176"
     url: https://books.google.com/books?id=-yY6AAAAcAAJ&pg=PA139
 comments:
@@ -7380,6 +7453,38 @@ settings:
       Die Schaubühne stellet einen Saal in einer Caffeeschenke vor.
   - description: >-
       Die Begebenheit hebt sich vor Abend an, und dauret bis nach Mitternacht.
+---
+slug: anonym-die-comoedie-ala-grecque
+author:
+  pseudonym: Anonym
+title: Die Comödie ALA GRECQUE
+subtitle: Eine neue Comödie in einem Ackt, aus dem Französischen übersetzt
+premiered: 1765-12-06
+basedOn:
+  - anonyme-comedie-a-la-grecque
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 21, S. 267–268
+comments:
+  - Es ist kein Druck überliefert. Die Informationen stammen von einem Hamburger Theaterzettel (vgl. Meyer).
+cast:
+  - name: Der Baron von Pierricourt.
+    gender: m
+  - name: Die Baroneßinn,
+    role: seine Gemahlin.
+    gender: f
+  - name: Fräulein Julchen,
+    role: ihre Tochter.
+    gender: f
+  - name: Leander,
+    role: Julchens Liebhaber.
+    gender: m
+  - name: Lisette,
+    role: der Baroneßin Kammermädchen.
+    gender: f
+  - name: Pasquin,
+    role: Leanders Bedienter.
+    gender: m
 ---
 slug: anonym-die-comoedie-aus-dem-stegreif
 author:
@@ -13533,8 +13638,6 @@ basedOn:
 editions:
   - title: "Dr. G. N. Bärmann's Theater. Zweiter Theil. Mainz: Kupferberg 1838"
     url: https://books.google.com/books?id=JAgzAQAAMAAJ&pg=RA3-PA1
-comments:
-  - Als Manuskript auch von Johann Reinhold von Lenz unter dem Titel »Alte Sünden. Lustspiel in einem Aufzuge« ([Aufführung Hamburg 1844](https://www.stadttheater.uni-hamburg.de/node/28223)). (Verlinkung in unsere Datenbank?)
 cast:
   - name: Ortsrichter Wurzel.
     gender: m
@@ -18207,6 +18310,46 @@ cast:
     gender: m
 settings:
   - description: Die Bühne stellt ein Wohnzimmer vor.
+---
+slug: boernstein-die-wallstrasse-oder-ein-stockwerk-zu-tief
+author:
+  name: Börnstein, Heinrich
+  wikidata: Q87331
+title: "Die Wallstraße, oder: Ein Stockwerk zu tief"
+subtitle: "Posse in einem Aufzuge nach dem Französischen Vaudeville: Rue de la lune"
+printed: 1843
+premiered: 1843-05-27
+basedOn:
+  - varin-boyer-rue-de-la-lune
+editions:
+  - title: "Als Manuscript gedruckt. Leipzig: Sturm und Koppe 1843"
+comments:
+  - "Theaterzettel [Hamburg 1843](https://www.stadttheater.uni-hamburg.de/node/27457)."
+  - "Auch unter dem Titel »Hohe Brücke und tiefer Graben oder: Ein Stockwerk zu tief. Posse in einem Akt« ([Weimar 1844](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00052725/007876.tif), auch im Manuskriptdruck Leipzig 1843, dort jedoch [handschriftlich korrigiert](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=877364605) zu »Die Wallstraße oder Ein Stockwerk zu tief«)."
+cast:
+  - name: Giacomo Antonio Grinzinger,
+    role: Natursänger.
+    gender: m
+  - name: Aline,
+    role: seine Frau.
+    gender: f
+  - name: Herr von Kälberstich,
+    role: Rentier.
+    gender: m
+  - name: Eglantine,
+    role: seine Gemahlin.
+    gender: f
+  - name: Nannette,
+    role: ihr Dienstmädchen.
+    gender: f
+  - name: Leo Hell,
+    role: Litterat.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung geht in Wien vor, in einem Hause, das zugleich Eingänge vom »tiefen Graben« und von »der hohen Brücke« hat.
+    location:
+      wikidataId: Q1741
 ---
 slug: boesenberg-die-amerikanische-waise
 author:
@@ -25525,12 +25668,51 @@ cast:
   - name: Der Ahnherr.
     gender: m
 ---
+slug: dalberg-die-eheliche-probe
+author:
+  name: Dalberg, Wolfgang Heribert von
+  wikidata: Q214611
+title: Die eheliche Probe
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 14
+premiered: 1788-11-06
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 388
+reviews:
+  - "Hamburgische Theaterzeitung. Nro. 34 (Sonnabend, den 25sten August, 1792), [S. 535–536](https://books.google.com/books?id=c5CKmsbkzdgC&pg=PA535)."
+comments:
+  - "Nur Manuskript. Es wird sowohl eine englische ([Aphra Behn](https://archive.org/details/wolfgangheriber01alafgoog/page/n107/mode/2up)?) als auch eine französische Vorlage (vgl. Hamburgische Theaterzeitung) vermutet."
+  - "Theaterzettel: [Weimar 1793](https://staatsarchive.thulb.uni-jena.de/receive/ThHStAW_performance_00026248)."
+  - "Fortgesetzt in [»Die eheliche Vergeltung«](dalberg-die-eheliche-vergeltung)."
+cast:
+  - name: Doktor Treumund,
+    role: Ehegerichtsrath.
+    gender: m
+  - name: Mariane,
+    role: seine Frau.
+    gender: f
+  - name: Henriette,
+    role: seine Tochter aus erster Ehe.
+    gender: f
+  - name: Lindhelm,
+    role: Schreiber und Praktikant in des Doktors Hause.
+    gender: m
+  - name: Dormann,
+    role: Kaufmann, des Doktors Freund.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+---
 slug: dalberg-die-eheliche-vergeltung
 author:
   name: Dalberg, Wolfgang Heribert von
   wikidata: Q214611
 title: Die eheliche Vergeltung
 subtitle: Eine Folge der ehelichen Probe, in einem Aufzuge
+numberOfScenes: 12
 premiered: 1792-03-06
 formalia:
   - Prosa
@@ -25539,7 +25721,7 @@ dictionaries:
     pages: 2. Abteilung, Band 32, S. 91–92
 comments:
   - Nur Manuskript.
-  - Fortsetzung von Dalbergs »Die eheliche Probe«.
+  - "Fortsetzung von Dalbergs [»Die eheliche Probe«](dalberg-die-eheliche-probe), fortgesetzt in [»Die eheliche Versöhnung«](dalberg-die-eheliche-versoehnung)."
 cast:
   - name: Treumund,
     role: Ehegerichtsrath.
@@ -25564,6 +25746,7 @@ author:
   wikidata: Q214611
 title: Die eheliche Versöhnung
 subtitle: Eine Folge der ehelichen Vergeltung. Lustspiel in einem Aufzuge
+numberOfScenes: 17
 premiered: 1793-02-26
 formalia:
   - Prosa
@@ -25571,7 +25754,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 32, S. 346
 comments:
-  - Nur Manuskript.
+  - "Nur Manuskript. Fortsetzung von [»Die eheliche Vergeltung«](dalberg-die-eheliche-vergeltung)."
 cast:
   - name: Treumund,
     role: Ehegerichts-Rath.
@@ -41876,7 +42059,7 @@ editions:
 comments:
   - "Im Vorwort: »nach einer wahren Geschichte, die sich in London, Spittlefields, zugetragen und im 2ten Theile der choice collection of moral tales et essays, Menz et Francfort 1787 unter dem Titel ›fortune thrown away‹ enthalten ist« ([S. VI](https://books.google.com/books?id=TUX0OAr7mRIC&pg=PP8))."
 keywords:
-  - Lotterie
+  - Lotto
   - Armut
 cast:
   - name: Kaspar,
@@ -49604,7 +49787,7 @@ editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Neunter Jahrgang. Leipzig: Hartmann 1811, S. 265–325"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044923_00281.html
 keywords:
-  - Kriegsinvalide
+  - Kriegsinvaliden
   - Eheanbahnung
   - Tugendprobe
   - Krieg
@@ -51155,7 +51338,7 @@ editions:
   - title: "Theater von August v. Kotzebue. Dreiunddreißigster Band. Rechtmäßige Original-Auflage. Leipzig: Kummer; Wien: Klang 1841, S. 3–26"
     url: https://books.google.com/books?id=Rp4r0AgKWWAC&pg=PA3
 comments:
-  - Auch unter dem Titel »Das Geständnis«.
+  - "Auch unter dem Titel »Das Geständnis«. – Womöglich auch unter dem Titel »Der Klausner« aufgeführt ([Wien 1806](https://lhwei.gbv.de/DB=2/XMLPRS=N/PPN?PPN=751342793))."
   - Untertitel 1841 »Ein Lustspiel in gereimten Versen in einem Aufzuge«.
 keywords:
   - Ehebruch
@@ -58568,6 +58751,42 @@ cast:
   - name: Kasper,
     role: Bedienter des Doktors.
     gender: m
+---
+slug: lenz-alte-suenden
+author:
+  name: Lenz, Johann Reinhold von
+  wikidata: Q22676991
+title: Alte Sünden
+subtitle: Lustspiel in einem Akt
+premiered: 1844-09-27
+basedOn:
+  - melesville-dumanoir-les-vieux-peches
+comments:
+  - "Theaterzettel: [Hamburg 1845](https://www.stadttheater.uni-hamburg.de/node/28223)."
+cast:
+  - name: Girard.
+    gender: m
+  - name: Die Marquise von Champagnolles.
+    gender: f
+  - name: Oscar,
+    role: ihr Neffe.
+    gender: m
+  - name: Ninette,
+    role: Tänzerin der großen Oper in Paris.
+    gender: f
+  - name: Hilarion,
+    role: Bedienter Girard's.
+    gender: m
+  - name: Ein Notar.
+    gender: m
+  - name: Freunde und Nachbarn der Marquise und Girard's.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Handlung geht vor auf dem Schlosse Girard's im Departement Lot-et-Garonne.
+    location:
+      wikidataId: Q12578
 ---
 slug: lenz-der-stellvertreter
 author:
@@ -80453,7 +80672,7 @@ editions:
   - title: "Prag: Gröbl 1784"
     url: https://books.google.com/books?id=Wv9HAAAAcAAJ&printsec=frontcover
 keywords:
-  - Heimkehrmotiv
+  - Heimkehr-Motiv
   - untreue Frau
 cast:
   - name: Raimund,
@@ -86441,7 +86660,7 @@ editions:
     url: https://books.google.com/books?id=Q8JXAAAAcAAJ&pg=PA387
 keywords:
   - Verkleidungsspiel
-  - Vater-Tochter-Beziehung
+  - Vater-Tochter-Konflikt
   - Eheanbahnung
 cast:
   - name: Herr von Reichenhard,
@@ -87809,6 +88028,47 @@ cast:
   - name: Eine Magd.
     gender: f
 ---
+slug: voss-der-apfel-faellt-nicht-weit-vom-stamm
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: "Der Apfel fällt nicht weit vom Stamm; oder: Wie die Alten sungen zwitscherten die Jungen"
+subtitle: Sprüchwortspiel in Einem Aufzug
+numberOfScenes: 9
+printed: 1822
+editions:
+  - title: "Fünf und zwanzig dramatische Spiele. Nach deutschen Sprüchwörtern zur Unterhaltung für frohe Zirkel bearbeitet von Julius Voß. Berlin: Schüppel 1822, S. 27–45"
+    url: https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PA27
+comments:
+  - "Es handelt sich nur um die Skizze zu einem Drama. Voß schreibt [im Vorwort](https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PP7), dass diese als Vorlage zur weiteren Ausarbeitung oder zum Extemporieren dienen könne."
+keywords:
+  - Sprichwort
+  - Fragment
+cast:
+  - name: Advocat.
+    gender: m
+  - name: Seine Gattin.
+    gender: f
+  - name: Ihr Sohn,
+    role: Referendarius.
+    gender: m
+  - name: Luise,
+    role: ihre Tochter.
+    gender: f
+  - name: Eine Doktorwittwe,
+    role: funfzig Jahre alt.
+    gender: f
+  - name: Ein Kaufmann,
+    role: in demselben Alter.
+    gender: m
+  - group:
+      - name: Ein junger Maler,
+        gender: m
+      - name: Henriette,
+        role: dessen Schwester,
+        gender: f
+    role: mit dem Advokaten in einem Hause wohnend.
+---
 slug: voss-der-bankrott
 author:
   name: Voß, Julius von
@@ -88791,6 +89051,23 @@ settings:
   - description: >-
       Backstube.
 ---
+slug: voss-es-ist-nicht-alles-gold-was-glaenzt
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Es ist nicht alles Gold was glänzt
+subtitle: Sprüchwortspiel in Einer Handlung
+numberOfScenes: 7
+printed: 1822
+editions:
+  - title: "Fünf und zwanzig dramatische Spiele. Nach deutschen Sprüchwörtern zur Unterhaltung für frohe Zirkel bearbeitet von Julius Voß. Berlin: Schüppel 1822, S. 338–350"
+    url: https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PA338
+comments:
+  - "Es handelt sich nur um die Skizze zu einem Drama. Voß schreibt [im Vorwort](https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PP7), dass diese als Vorlage zur weiteren Ausarbeitung oder zum Extemporieren dienen könne."
+keywords:
+  - Sprichwort
+  - Fragment
+---
 slug: voss-euer-verkehr
 author:
   name: Voß, Julius von
@@ -88816,7 +89093,7 @@ keywords:
   - Judentum
   - Antisemitismus
   - Theaterbetrieb
-  - Spiel-im-Spiel
+  - Spiel im Spiel
 cast:
   - name: Graf Weithufen,
     role: bankrotter Güterbesitzer.
@@ -88920,6 +89197,38 @@ cast:
     role: dessen Freund.
     gender: m
 ---
+slug: voss-jung-gefreit-hat-niemand-gereut
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Jung gefreit, hat Niemand gereut
+subtitle: Sprüchwortspiel in Einem Aufzug
+numberOfScenes: 6
+printed: 1822
+editions:
+  - title: "Fünf und zwanzig dramatische Spiele. Nach deutschen Sprüchwörtern zur Unterhaltung für frohe Zirkel bearbeitet von Julius Voß. Berlin: Schüppel 1822, S. 69–90"
+    url: https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PA69
+comments:
+  - "Es handelt sich nur um die Skizze zu einem Drama. Voß schreibt [im Vorwort](https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PP7), dass diese als Vorlage zur weiteren Ausarbeitung oder zum Extemporieren dienen könne."
+keywords:
+  - Sprichwort
+  - Fragment
+cast:
+  - name: Frau von Schönau,
+    role: Majorswittwe.
+    gender: f
+  - name: Amalie,
+    role: ihre sechszehnjährige Tochter.
+    gender: f
+  - name: Lieutenant von Rosenfeld.
+    gender: m
+  - name: Herr von Jagdberg,
+    role: Landedelmann und Wittwer in seinen besten Jahren.
+    gender: m
+settings:
+  - description: >-
+      Szene: ein Zimmer der Frau von Schönau.
+---
 slug: voss-keine-rose-ohne-dornen
 author:
   name: Voß, Julius von
@@ -88992,6 +89301,39 @@ cast:
 settings:
   - description: >-
       Das Stück spielt in Michels Wohnung.
+---
+slug: voss-man-muss-das-eisen-schmieden-weil-es-warm-ist
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Man muß das Eisen schmieden, weil es warm ist
+subtitle: Sprüchwortspiel in Einem Aufzug
+numberOfScenes: 11
+printed: 1822
+editions:
+  - title: "Fünf und zwanzig dramatische Spiele. Nach deutschen Sprüchwörtern zur Unterhaltung für frohe Zirkel bearbeitet von Julius Voß. Berlin: Schüppel 1822, S. 207–227"
+    url: https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PA207
+comments:
+  - "Es handelt sich nur um die Skizze zu einem Drama. Voß schreibt [im Vorwort](https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PP7), dass diese als Vorlage zur weiteren Ausarbeitung oder zum Extemporieren dienen könne."
+keywords:
+  - Sprichwort
+  - Fragment
+cast:
+  - name: Der Präsident.
+    gender: m
+  - name: Die Präsidentin.
+    gender: f
+  - name: Deren Sohn,
+    role: Rath.
+    gender: m
+  - name: Helene,
+    role: Gesellschaftsfräulein der Präsidentin.
+    gender: f
+  - name: Ein Hauptmann,
+    role: ihr Vetter.
+    gender: m
+  - name: Ein Notar.
+    gender: m
 ---
 slug: voss-man-soll-die-wurst-nach-der-speckseite-werfen
 author:
@@ -89202,6 +89544,151 @@ cast:
 settings:
   - description: >-
       Die Szene des Kossäten Stube.
+---
+slug: voss-wenn-die-katze-nicht-zu-hause-ist-springen-die-maeuse-auf-tisch-und-bank
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Wenn die Katze nicht zu Hause ist, springen die Mäuse auf Tisch und Bank
+subtitle: Sprüchwortspiel in Einem Aufzug
+numberOfScenes: 11
+printed: 1822
+editions:
+  - title: "Fünf und zwanzig dramatische Spiele. Nach deutschen Sprüchwörtern zur Unterhaltung für frohe Zirkel bearbeitet von Julius Voß. Berlin: Schüppel 1822, S. 91–139"
+    url: https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PA91
+comments:
+  - "Es handelt sich nur um die Skizze zu einem Drama. Voß schreibt [im Vorwort](https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PP7), dass diese als Vorlage zur weiteren Ausarbeitung oder zum Extemporieren dienen könne."
+keywords:
+  - Sprichwort
+  - Fragment
+cast:
+  - name: Frau Katt,
+    role: Wittwe eines Würzkrämers.
+    gender: f
+  - group:
+      - name: Aennchen,
+        gender: f
+      - name: Lieschen,
+        gender: f
+    role: ihre Stieftöchter.
+  - group:
+      - name: Musjeh Philipp,
+        gender: m
+      - name: Musjeh Hans,
+        gender: m
+    role: Ladendiener, Brüder.
+  - name: Haase,
+    role: Kuchenbäcker, der Mädchen Vormund.
+    gender: m
+  - name: Marie ,
+    role: die alte Magd.
+    gender: f
+settings:
+  - description: >-
+      Szene: ein Zimmer, im Hintergrund mit Fenstern nach der Straße; zur Seite eine Glasthüre, die nach dem Laden führt, und gegenüber eine andere.
+---
+slug: voss-wer-das-kreutz-hat-segnet-sich
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Wer das Kreutz hat, segnet sich
+subtitle: Sprüchwortspiel in Einem Aufzug
+numberOfScenes: 10
+printed: 1822
+editions:
+  - title: "Fünf und zwanzig dramatische Spiele. Nach deutschen Sprüchwörtern zur Unterhaltung für frohe Zirkel bearbeitet von Julius Voß. Berlin: Schüppel 1822, S. 228–260"
+    url: https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PA228
+comments:
+  - "Es handelt sich nur um die Skizze zu einem Drama. Voß schreibt [im Vorwort](https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PP7), dass diese als Vorlage zur weiteren Ausarbeitung oder zum Extemporieren dienen könne."
+keywords:
+  - Sprichwort
+  - Fragment
+cast:
+  - name: Buchdrucker Lamm.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Röschen,
+    role: deren Tochter.
+    gender: f
+  - name: Buchbinder Märtens.
+    gender: m
+  - name: Liebhold,
+    role: sein Vetter, ein Buchdruckergehülfe.
+    gender: m
+settings:
+  - description: >-
+      Zimmer wo Ballen Papier liegen.
+---
+slug: voss-wer-gut-schmeert-gut-faehrt
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Wer gut schmeert, gut fährt
+subtitle: Sprüchwortspiel in einer Handlung
+numberOfScenes: 7
+printed: 1822
+editions:
+  - title: "Fünf und zwanzig dramatische Spiele. Nach deutschen Sprüchwörtern zur Unterhaltung für frohe Zirkel bearbeitet von Julius Voß. Berlin: Schüppel 1822, S. 192–206"
+    url: https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PA192
+comments:
+  - "Es handelt sich nur um die Skizze zu einem Drama. Voß schreibt [im Vorwort](https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PP7), dass diese als Vorlage zur weiteren Ausarbeitung oder zum Extemporieren dienen könne."
+keywords:
+  - Sprichwort
+  - Fragment
+cast:
+  - name: Konsistorialrath Wend.
+    gender: m
+  - name: Kandidat Hillner.
+    gender: m
+  - name: Frau Loring,
+    role: Wittwe eines Kaufmanns.
+    gender: f
+  - name: Juliane,
+    role: ihre Tochter.
+    gender: f
+  - name: Röschen,
+    role: ihr Mädchen.
+    gender: f
+settings:
+  - description: >-
+      Szene im Garten der Frau Loring.
+---
+slug: voss-wie-der-mann-ist-wird-ihm-die-wurst-gebraten
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Wie der Mann ist, wird ihm die Wurst gebraten
+subtitle: Sprüchwortspiel in Einem Aufzug
+numberOfScenes: 3
+printed: 1822
+editions:
+  - title: "Fünf und zwanzig dramatische Spiele. Nach deutschen Sprüchwörtern zur Unterhaltung für frohe Zirkel bearbeitet von Julius Voß. Berlin: Schüppel 1822, S. 46–55"
+    url: https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PA46
+comments:
+  - "Es handelt sich nur um die Skizze zu einem Drama. Voß schreibt [im Vorwort](https://books.google.com/books?id=yk9ZAAAAcAAJ&pg=PP7), dass diese als Vorlage zur weiteren Ausarbeitung oder zum Extemporieren dienen könne."
+keywords:
+  - Sprichwort
+  - Fragment
+cast:
+  - name: Ein Garkoch.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Seine Tochter.
+    gender: f
+  - name: Stephan,
+    role: ein Tischlergesell.
+    gender: m
+  - name: Martin,
+    role: ein Schustergesell.
+    gender: m
+  - name: Noch mehr Gesellen.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Szene: Ein Speisezimmer.
 ---
 slug: voss-wiedersehn-in-der-ferne
 author:
@@ -91105,7 +91592,7 @@ editions:
     url: https://books.google.com/books?id=-yJVAAAAcAAJ&printsec=frontcover
 keywords:
   - Selbstmord
-  - Lotterie
+  - Lotto
 cast:
   - name: Joseph von Wagviel,
     role: ein Beamter.
