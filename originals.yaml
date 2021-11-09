@@ -1,6 +1,17 @@
 # This work is licensed under a Creative Commons Attribution 4.0 International
 # License (https://creativecommons.org/licenses/by/4.0/)
 ---
+id: alain-l-epreuve-reciproque
+author:
+  name: Robert Alain
+title: L'épreuve réciproque
+subtitle: Comédie
+language: fre
+premiered: 1711
+fulltextUrl: https://books.google.com/books?id=uWoSnfH2glQC&printsec=frontcover
+ids:
+  dracor: fre000009
+---
 id: albergati-capacelli-il-pomo
 author:
   name: Francesco Albergati Capacelli
@@ -30,6 +41,18 @@ subtitle: Commedia di un atto solo
 language: ita
 printed: 1775
 fulltextUrl: https://books.google.com/books?id=3FtDAAAAYAAJ&pg=PA235
+---
+id: albitte-dugard-mon-voisin-d-omnibus
+authors:
+  - name: Gustave Albitte
+    wikidata: Q3121098
+  - name: Louis Dugard
+    wikidata: Q108607347
+title: Mon voisin d'omnibus
+subtitle: Vaudeville en un acte
+language: fre
+premiered: 1846-07-18
+fulltextUrl: https://books.google.com/books?id=9DdgAAAAcAAJ&printsec=frontcover
 ---
 id: ancelot-decomberousse-la-consigne
 authors:
@@ -91,6 +114,22 @@ language: fre
 premiered: 1835-12-23
 fulltextUrl: https://books.google.com/books?id=VIdkAAAAcAAJ&printsec=frontcover
 ---
+id: anonimo-entremes-del-melonar-y-la-respondona
+author:
+  name: Anónimo
+title: Entremés del melonar, y la respondona
+language: spa
+printed: 1700
+fulltextUrl: http://www.cervantesvirtual.com/nd/ark:/59851/bmc5d9d5
+---
+id: anonimo-entremes-de-los-bunuelos
+author:
+  name: Anónimo
+title: Entremés de los buñuelos
+language: spa
+printed: 1723
+fulltextUrl:  http://www.cervantesvirtual.com/nd/ark:/59851/bmcw39j2
+---
 id: anonyme-comedie-a-la-grecque
 author:
   name: Anonyme
@@ -145,6 +184,15 @@ language: fre
 printed: 1768
 premiered: 1768-01-25
 fulltextUrl: https://books.google.com/books?id=a7MebXGSKjAC&printsec=frontcover
+---
+id: bastide-le-desenchantement-inespere
+author:
+  name: Jean-François de Bastide
+  wikidata: Q3165946
+title: Le désenchantement inespéré
+subtitle: Comédie morale
+language: fre
+printed: 1749
 ---
 id: bayard-de-wailly-moiroud-et-compagnie
 authors:
@@ -228,6 +276,18 @@ subtitle: Comédie en un acte, mêlée de vaudevilles
 language: fre
 premiered: 1800
 fulltextUrl: https://books.google.com/books?id=z86jT4Aww30C&printsec=frontcover
+---
+id: biancolelli-romagnesi-arlequin-hulla-et-la-revue-des-theatres
+authors:
+  - name: Pierre-François Biancolelli
+    wikidata: Q737646
+  - name: Jean-Antoine Romagnesi
+    wikidata: Q517188
+title: Arlequin Hulla, et la revue des théâtres
+subtitle: Comédie, en un acte
+language: fre
+premiered: 1728-03-01
+fulltextUrl: https://books.google.com/books?id=XRk6AAAAcAAJ&printsec=frontcover
 ---
 id: biehl-tvistigheden-eller-critique-over-den-listige-optraekkerske
 author:
@@ -335,6 +395,19 @@ language: fre
 printed: 1819
 premiered: 1819-09-30
 fulltextUrl: https://books.google.com/books?id=dlVoAAAAcAAJ&printsec=frontcover
+---
+id: brisebarre-marc-michel-un-tigre-du-bengale
+authors:
+  - name: Édouard Brisebarre
+    wikidata: Q1287510
+  - name: Marc-Michel
+    wikidata: Q2386999
+title: Un tigre du Bengale
+subtitle: Comédie mêlée de chants, en un acte
+language: fre
+printed: 1849
+premiered: 1849-09-12
+fulltextUrl: https://books.google.com/books?id=m1BSAAAAcAAJ&printsec=frontcover
 ---
 id: brunswick-lherie-un-tissu-d-horreurs
 authors:
@@ -510,6 +583,7 @@ author:
 title: Entremés de La Cueva de Salamanca
 language: spa
 printed: 1615
+fulltextUrl: http://www.cervantesvirtual.com/nd/ark:/59851/bmc2z148
 ids:
   wikidata: Q5966386
 ---
@@ -545,6 +619,40 @@ subtitle: Hyperdrame
 language: fre
 printed: 1740
 fulltextUrl: https://books.google.com/books?id=0HcjFXC-l6oC&printsec=frontcover
+---
+id: colle-la-verite-dans-le-vin
+author:
+  name: Charles Collé
+  wikidata: Q2404425
+title: La vérité dans le vin, ou les désagrémens de la galanterie
+subtitle: Comédie en un acte et en prose
+language: fre
+printed: 1768
+premiered: 1747
+fulltextUrl: https://books.google.com/books?id=Ess7AAAAcAAJ&printsec=frontcover
+---
+id: colle-la-veuve
+author:
+  name: Charles Collé
+  wikidata: Q2404425
+title: La veuve
+subtitle: Comédie en un acte et en prose
+language: fre
+created: 1756
+printed: 1764
+premiered: 1771-11-29
+fulltextUrl: https://books.google.com/books?id=Cs07AAAAcAAJ&printsec=frontcover
+---
+id: colle-le-galant-escroc
+author:
+  name: Charles Collé
+  wikidata: Q2404425
+title: Le galant escroc
+subtitle: Comédie en un acte et en prose
+language: fre
+created: 1753
+printed: 1767
+fulltextUrl: https://books.google.com/books?id=WyFaAAAAcAAJ&printsec=frontcover
 ---
 id: collet-de-messine-l-isle-deserte
 author:
@@ -890,6 +998,18 @@ printed: 1821
 premiered: 1821-04-23
 fulltextUrl: https://books.google.com/books?id=alA6AAAAcAAJ&printsec=frontcover
 ---
+id: d-ennery-clairville-les-memoires-de-deux-jeunes-mariees
+authors:
+  - name: Adolphe d'Ennery
+    wikidata: Q137819
+  - name: Clairville
+    wikidata: Q1740388
+title: Les mémoires de deux jeunes mariées
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1843-12-10
+fulltextUrl: https://books.google.com/books?id=rlkl67wUIbUC&printsec=frontcover
+---
 id: d-ennery-lemoine-la-mere-de-famille
 authors:
   - name: Adolphe d'Ennery
@@ -1025,6 +1145,15 @@ language: fre
 premiered: 1801-09-04
 fulltextUrl: https://books.google.com/books?id=IRU6AAAAcAAJ&printsec=frontcover
 ---
+id: dodd-gallic-gratitude-or-the-frenchman-in-india
+author:
+  name: James Solas Dodd
+  wikidata: Q18576379
+title: Gallic Gratitude; or, The Frenchman in India
+subtitle: A Comedy in Two Acts
+language: eng
+premiered: 1779-04-30
+---
 id: dorvigny-christophe-le-rond
 author:
   name: Dorvigny
@@ -1141,6 +1270,18 @@ printed: 1834
 premiered: 1834-06-04
 fulltextUrl: https://books.google.com/books?id=n8jBnJJJSLYC&printsec=frontcover
 ---
+id: dumas-nus-le-cachemire-vert
+authors:
+  - name: Alexandre Dumas
+    wikidata: Q38337
+  - name: Eugène Nus
+    wikidata: Q28028099
+title: Le cachemire vert
+subtitle: Comédie en un acte
+language: fre
+premiered: 1849-12-15
+fulltextUrl: https://books.google.com/books?id=p1BSAAAAcAAJ&printsec=frontcover
+---
 id: dumersan-aubertin-zoe-ou-l-effet-au-porteur
 authors:
   - name: Théophile Marion Dumersan
@@ -1154,6 +1295,18 @@ printed: 1821
 premiered: 1820-12-28
 fulltextUrl: https://books.google.com/books?id=F2BoAAAAcAAJ&printsec=frontcover
 ---
+id: dumersan-merle-jocrisse-chef-de-brigands
+authors:
+  - name: Théophile Marion Dumersan
+    wikidata: Q2066224
+  - name: Jean-Toussaint Merle
+    wikidata: Q3170056
+title: Jocrisse chef de brigands
+subtitle: Melodrame comique en un acte
+language: fre
+premiered: 1815-09-14
+fulltextUrl: https://books.google.com/books?id=AV5oAAAAcAAJ&printsec=frontcover
+---
 id: dupin-varner-monsieur-barbe-bleue-ou-le-cabinet-mysterieux
 authors:
   - name: Henri Dupin
@@ -1166,6 +1319,16 @@ language: fre
 printed: 1823
 premiered: 1823-11-27
 fulltextUrl: https://books.google.com/books?id=k1loAAAAcAAJ&printsec=frontcover
+---
+id: duval-le-souper-imprevu-ou-le-chanoine-de-milan
+author:
+  name: Alexandre Duval
+  wikidata: Q767332
+title: Le souper imprévu, ou Le chanoine de Milan
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1796-09-16
+fulltextUrl: https://books.google.com/books?id=JgJHhI51k-sC&printsec=frontcover
 ---
 id: duval-les-projets-de-mariage
 author:
@@ -1234,6 +1397,17 @@ language: fre
 printed: 1807
 premiered: 1807-11-28
 fulltextUrl: https://books.google.com/books?id=MtBiZ4hHiacC&printsec=frontcover
+---
+id: etienne-une-heure-de-mariage
+author:
+  name: Charles-Guillaume Étienne
+  wikidata: Q2277482
+title: Une heure de mariage
+subtitle: Comédie en un acte, mêlée de chants
+language: fre
+printed: 1804
+premiered: 1804-03-20
+fulltextUrl: https://books.google.com/books?id=_jhaAAAAcAAJ&printsec=frontcover
 ---
 id: fagan-la-pupille
 author:
@@ -1375,6 +1549,16 @@ fulltextUrl: https://books.google.com/books?id=Nmby1A23RREC&printsec=frontcover
 ids:
   dracor: fre000649
 ---
+id: fournier-tiridate-ou-comedie-et-tragedie
+author:
+  name: Narcisse Fournier
+  wikidata: Q258897
+title: Tiridate, ou Comédie et tragédie
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1841-04-15
+fulltextUrl: https://books.google.com/books?id=UU5cAAAAcAAJ&printsec=frontcover
+---
 id: framery-l-indienne
 author:
   name: Nicolas-Étienne Framery
@@ -1498,6 +1682,29 @@ language: fre
 premiered: 1794-10-31
 fulltextUrl: https://books.google.com/books?id=9lxoAAAAcAAJ&printsec=frontcover
 ---
+id: guillet-un-quart-d-heure-de-silence
+author:
+  name: Pierre Guillet
+title: Un quart-d'heure de silence
+subtitle: Opéra en un acte
+language: fre
+printed: 1804
+premiered: 1804-06-09
+fulltextUrl: https://books.google.com/books?id=iAbDFwdn19QC&printsec=frontcover
+---
+id: guinot-lubize-la-tasse-cassee
+authors:
+  - name: Eugène Guinot
+    wikidata: Q22211379
+  - name: Lubize
+    wikidata: Q18197674
+title: La tasse cassée
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1849
+premiered: 1849-02-08
+fulltextUrl: https://books.google.com/books?id=c1BSAAAAcAAJ&printsec=frontcover
+---
 id: guyot-de-merville-le-consentement-force
 author:
   name: Michel Guyot de Merville
@@ -1522,6 +1729,18 @@ fulltextUrl: https://books.google.com/books?id=fMSBpHHElUIC&pg=PA247
 ids:
   dracor: fre000759
 ---
+id: hauteroche-le-deuil
+author:
+  name: Noël Lebreton de Hauteroche
+  wikidata: Q3345844
+title: Le deuil
+subtitle: Comédie, en un acte et en vers
+language: fre
+premiered: 1672
+fulltextUrl: https://books.google.com/books?id=cZuIzUKbIOYC&printsec=frontcover
+ids:
+  dracor: fre001500
+---
 id: hauteroche-le-souper-mal-apprete
 author:
   name: Noël Lebreton de Hauteroche
@@ -1532,6 +1751,19 @@ language: fre
 printed: 1670
 premiered: 1669
 fulltextUrl: https://books.google.com/books?id=BOy9SMG9io4C&printsec=frontcover
+---
+id: hertz-kong-renes-datter
+author:
+  name: Henrik Hertz
+  wikidata: Q728357
+title: Kong René's Datter
+subtitle: Lyrisk Drama
+language: dan
+printed: 1845
+premiered: 1845-04-05
+fulltextUrl: https://books.google.com/books?id=2ShdAAAAcAAJ&printsec=frontcover
+ids:
+  wikidata: Q6411990
 ---
 id: hoffman-le-roman-d-une-heure-ou-la-folle-gageure
 author:
@@ -1613,6 +1845,22 @@ created: 1826
 printed: 1828
 fulltextUrl: http://kramerius5.nkp.cz/uuid/uuid:7b966bd0-fcb2-11e2-9439-005056825209
 ---
+id: labiche-lefranc-jesse-le-major-cravachon
+authors:
+  - name: Eugène Labiche
+    wikidata: Q379929
+  - name: Auguste Lefranc
+    wikidata: Q2871279
+  - name: Paul Jessé
+    wikidata: Q3371533
+title: Le Major Cravachon
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1844-02-15
+fulltextUrl: https://books.google.com/books?id=sAJfAAAAcAAJ&pg=PA1
+ids:
+  wikidata: Q3224190
+---
 id: l-affichard-la-famille
 author:
   name: Thomas L'Affichard
@@ -1634,6 +1882,18 @@ language: fre
 printed: 1831
 premiered: 1831-05-31
 fulltextUrl: https://books.google.com/books?id=By9MAAAAcAAJ&printsec=frontcover
+---
+id: la-font-le-naufrage-ou-la-pompe-funebre-de-crispin
+author:
+  name: Joseph de La Font
+  wikidata: Q3185843
+title: Le naufrage, ou La pompe funèbre de Crispin
+subtitle: Comédie en vers et en un acte
+language: fre
+premiered: 1710-06-14
+fulltextUrl: https://books.google.com/books?id=BSvDfkhHMHEC&printsec=frontcover
+ids:
+  dracor: fre000826
 ---
 id: la-font-les-trois-freres-rivaux
 author:
@@ -1657,6 +1917,22 @@ language: fre
 premiered: 1726-03-26
 fulltextUrl: https://books.google.com/books?id=-o9LV9BiFqIC&pg=PA419
 ---
+id: laurencin-marc-michel-labiche-bocquet-pere-et-fils-ou-le-chemin-le-plus-long
+authors:
+  - name: Laurencin
+    wikidata: Q19544960
+  - name: Marc-Michel
+    wikidata: Q2386999
+  - name: Eugène Labiche
+    wikidata: Q379929
+title: Bocquet père et fils, ou Le chemin le plus long
+subtitle: Comédie-vaudeville en deux actes
+language: fre
+premiered: 1840-08-17
+fulltextUrl: https://books.google.com/books?id=JqU5AAAAcAAJ&printsec=frontcover
+ids:
+  wikidata: Q2908332
+---
 id: laus-de-boissy-la-course-ou-les-jockeys
 author:
   name: Louis de Laus de Boissy
@@ -1676,6 +1952,20 @@ subtitle: Kluchtspel
 language: dut
 printed: 1668
 fulltextUrl: https://books.google.com/books?id=cepoAAAAcAAJ&printsec=frontcover
+---
+id: lefranc-labiche-mademoiselle-ma-femme
+authors:
+  - name: Auguste Lefranc
+    wikidata: Q2871279
+  - name: Eugène Labiche
+    wikidata: Q379929
+title: Mademoiselle ma femme
+subtitle: Comédie mêlée de couplets
+language: fre
+premiered: 1846-04-09
+fulltextUrl: https://books.google.com/books?id=rZjSr5XqnxkC&printsec=frontcover
+ids:
+  wikidata: Q3275970
 ---
 id: legrand-la-famille-extravagante
 author:
@@ -1760,6 +2050,16 @@ printed: 1844
 premiered: 1843-12-30
 fulltextUrl: https://books.google.com/books?id=sH8_AAAAcAAJ&pg=PP3
 ---
+id: leroy-l-irresolu
+author:
+  name: Onésime Leroy
+title: L'irrésolu
+subtitle: Comédie en un acte et en vers
+language: fre
+printed: 1819
+premiered: 1819-07-15
+fulltextUrl: https://books.google.com/books?id=HY1lDxQ8z_IC&pg=PP5
+---
 id: le-sage-crispin-rival-de-son-maitre
 author:
   name: Alain-René Le Sage
@@ -1787,6 +2087,42 @@ premiered: 1718
 fulltextUrl: https://cdm21047.contentdm.oclc.org/digital/collection/Ancien/id/6389
 ids:
   dracor: fre000522
+---
+id: linguet-intermede-de-la-relique
+author:
+  name: Simon-Nicolas-Henri Linguet
+  wikidata: Q1505526
+title: Intermède de la relique
+language: fre
+printed: 1770
+fulltextUrl: https://books.google.com/books?id=CDvuAAAAMAAJ&pg=PA387
+---
+id: linguet-intermede-de-l-ecolier-magicien
+author:
+  name: Simon-Nicolas-Henri Linguet
+  wikidata: Q1505526
+title: Intermède de l'écolier magicien
+language: fre
+printed: 1770
+fulltextUrl: https://books.google.com/books?id=QgtKAAAAcAAJ&pg=PA401
+---
+id: linguet-intermede-des-beignets
+author:
+  name: Simon-Nicolas-Henri Linguet
+  wikidata: Q1505526
+title: Intermède des beignets
+language: fre
+printed: 1770
+fulltextUrl: https://books.google.com/books?id=CDvuAAAAMAAJ&pg=PA351
+---
+id: linguet-intermede-des-melons-et-de-la-femme-tetue
+author:
+  name: Simon-Nicolas-Henri Linguet
+  wikidata: Q1505526
+title: Intermède des melons et de la femme têtue
+language: fre
+printed: 1770
+fulltextUrl: https://books.google.com/books?id=QgtKAAAAcAAJ&pg=PA335
 ---
 id: livry-d-houdetot-le-coup-de-pistolet
 authors:
@@ -2403,6 +2739,15 @@ printed: 1821
 premiered: 1821-06-23
 fulltextUrl: https://books.google.com/books?id=iBKX-8YV0aQC&printsec=frontcover
 ---
+id: moreto-entremes-de-la-reliquia
+author:
+  name: Agustín Moreto
+  wikidata: Q399346
+title: Entremés de la reliquia
+language: spa
+printed: 1676
+fulltextUrl: http://www.cervantesvirtual.com/nd/ark:/59851/bmc18501
+---
 id: mueller-friedberg-la-prise-de-sainte-lucie
 author:
   name: Karl von Müller-Friedberg
@@ -2412,6 +2757,17 @@ subtitle: Drame en un acte
 language: fre
 printed: 1781
 fulltextUrl: https://books.google.com/books?id=pPo_AAAAcAAJ&printsec=frontcover
+---
+id: murphy-the-old-maid
+author:
+  name: Arthur Murphy
+  wikidata: Q2865268
+title: The Old Maid
+subtitle: A Comedy in 2 Acts
+language: eng
+printed: 1761
+premiered: 1761-07-02
+fulltextUrl: https://books.google.com/books?id=s08arvyTqcAC&printsec=frontcover
 ---
 id: nanteuil-les-maris-garcons
 author:
@@ -2530,6 +2886,98 @@ printed: 1791
 premiered: 1791-09-12
 fulltextUrl: https://books.google.com/books?id=Aa20W-fNUw0C&pg=PA1
 ---
+id: picard-duval-les-suspects
+authors:
+  - name: Louis-Benoît Picard
+    wikidata: Q347261
+  - name: Alexandre Duval
+    wikidata: Q767332
+title: Les suspects
+subtitle: Comédie en un acte, mêlée d'ariettes
+language: fre
+premiered: 1796-04
+fulltextUrl: https://books.google.com/books?id=wdQvAAAAYAAJ&printsec=frontcover
+---
+id: picard-l-acte-de-naissance
+author:
+  name: Louis-Benoît Picard
+  wikidata: Q347261
+title: L'acte de naissance
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1804-10-02
+fulltextUrl: https://books.google.com/books?id=lxAzAQAAMAAJ&pg=PA351
+---
+id: picard-l-ami-de-tout-le-monde
+author:
+  name: Louis-Benoît Picard
+  wikidata: Q347261
+title: L'ami de tout le monde
+subtitle: Comédie en deux actes et en prose
+language: fre
+premiered: 1807-12-22
+fulltextUrl: https://books.google.com/books?id=WgA6AAAAcAAJ&printsec=frontcover
+---
+id: picard-les-oisifs
+author:
+  name: Louis-Benoît Picard
+  wikidata: Q347261
+title: Les oisifs
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1809-10-30
+fulltextUrl: https://books.google.com/books?id=FqUGAAAAQAAJ&pg=PA121
+---
+id: picard-les-ricochets
+author:
+  name: Louis-Benoît Picard
+  wikidata: Q347261
+title: Les ricochets
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1807-01-15
+fulltextUrl: https://books.google.com/books?id=8JJMAQAAMAAJ&pg=PA1
+---
+id: picard-le-susceptible
+author:
+  name: Louis-Benoît Picard
+  wikidata: Q347261
+title: Le susceptible
+subtitle: Comédie en un acte, en prose
+language: fre
+premiered: 1804-12-27
+fulltextUrl: https://books.google.com/books?id=-0o6AAAAcAAJ&printsec=frontcover
+---
+id: picard-les-voisins
+author:
+  name: Louis-Benoît Picard
+  wikidata: Q347261
+title: Les voisins
+subtitle: Comédie en un acte, en prose
+language: fre
+premiered: 1799-07-09
+fulltextUrl: https://books.google.com/books?id=3VE6AAAAcAAJ&printsec=frontcover
+---
+id: picard-le-vieux-comedien
+author:
+  name: Louis-Benoît Picard
+  wikidata: Q347261
+title: Le vieux comédien
+subtitle: Comédie en un acte, en prose
+language: fre
+premiered: 1803-09-19
+fulltextUrl: https://books.google.com/books?id=mMo7AAAAcAAJ&printsec=frontcover
+---
+id: picard-monsieur-musard-ou-comme-le-temps-passe
+author:
+  name: Louis-Benoît Picard
+  wikidata: Q347261
+title: Monsieur Musard, ou Comme le temps passe
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1803-11-23
+fulltextUrl: https://books.google.com/books?id=btCFa_SfjL4C&printsec=frontcover
+---
 id: picard-radet-la-maison-en-loterie
 authors:
   - name: Louis-Benoît Picard
@@ -2636,6 +3084,17 @@ premiered: 1739-01-19
 fulltextUrl: https://books.google.com/books?id=CQ9bAAAAQAAJ&printsec=frontcover
 ids:
   dracor: fre000565
+---
+id: premaray-le-docteur-robin
+author:
+  name: Jules de Prémaray
+  wikidata: Q3189001
+title: Le docteur Robin
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1842
+premiered: 1842-10-21
+fulltextUrl: https://books.google.com/books?id=21lSAAAAcAAJ&printsec=frontcover
 ---
 id: regnard-dufresny-attendez-moi-sous-l-orme
 authors:
@@ -3727,6 +4186,26 @@ subtitle: Драма в одном действии
 language: rus
 printed: 1770
 fulltextUrl: https://kp.rusneb.ru/item/material/5fcf8bab991f3b9142343501
+---
+id: simon-ninon-moliere-et-tartuffe
+author:
+  name: Henri Simon
+  wikidata: Q64553141
+title: Ninon, Molière et Tartuffe
+subtitle: Comédie vaudeville en un acte
+language: fre
+printed: 1815
+premiered: 1815-04-26
+fulltextUrl: https://books.google.com/books?id=wnkMAAAAYAAJ&printsec=frontcover
+---
+id: tesson-de-laguerie-la-fille-de-trente-ans
+author:
+  name: Jean Tesson de Laguérie
+title: La fille de trente ans
+subtitle: Comédie
+language: fre
+printed: 1776
+fulltextUrl: https://books.google.com/books?id=cTDHc2nw8TgC&printsec=frontcover
 ---
 id: theaulon-arago-le-compagnon-d-infortune-ou-les-prisonniers
 authors:
