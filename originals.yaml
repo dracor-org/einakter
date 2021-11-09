@@ -370,6 +370,30 @@ printed: 1710
 premiered: 1709-12-13
 fulltextUrl: https://books.google.com/books?id=rrcFAAAAQAAJ&pg=RA3-PP5
 ---
+id: carmontelle-la-statue
+author:
+  name: Carmontelle
+  wikidata: Q982053
+title: La statue
+subtitle: Proverbe XX.
+language: fre
+printed: 1768
+fulltextUrl: https://books.google.com/books?id=sp1TAAAAcAAJ&pg=PA259
+ids:
+  dracor: fre000243
+---
+id: carmontelle-le-bal
+author:
+  name: Carmontelle
+  wikidata: Q982053
+title: Le bal
+subtitle: Proverbe XXVI.
+language: fre
+printed: 1768
+fulltextUrl: https://books.google.com/books?id=ePM9RzI8V2MC&pg=PA149
+ids:
+  dracor: fre000236
+---
 id: carmontelle-le-boiteux
 author:
   name: Carmontelle
@@ -377,10 +401,46 @@ author:
 title: Le boiteux
 subtitle: Proverbe XXIX.
 language: fre
-printed: 1771
+printed: 1768
 fulltextUrl: https://books.google.com/books?id=ePM9RzI8V2MC&pg=PA215
 ids:
   dracor: fre001533
+---
+id: carmontelle-l-ecrivain-des-charniers
+author:
+  name: Carmontelle
+  wikidata: Q982053
+title: L'écrivain des charniers
+subtitle: Proverbe XLVIII.
+language: fre
+printed: 1769
+fulltextUrl: https://books.google.com/books?id=ZRCu-JONEvIC&pg=RA2-PA343
+ids:
+  dracor: fre000250
+---
+id: carmontelle-le-diamant
+author:
+  name: Carmontelle
+  wikidata: Q982053
+title: Le diamant
+subtitle: Proverbe XVII.
+language: fre
+printed: 1768
+fulltextUrl: https://books.google.com/books?id=sp1TAAAAcAAJ&pg=PA203
+ids:
+  dracor: fre000249
+---
+id: carmontelle-le-fripon-orgueilleux
+author:
+  name: Carmontelle
+  wikidata: Q982053
+title: Le fripon orgueilleux
+subtitle: Proverbe XCI.
+language: fre
+printed: 1781
+fulltextUrl: https://books.google.com/books?id=5tQ-AAAAYAAJ&pg=PA131
+ids:
+  dracor: fre001537
 ---
 id: carmontelle-le-portrait
 author:
@@ -393,6 +453,18 @@ printed: 1768
 fulltextUrl: https://books.google.com/books?id=pSg6r9d5zhIC&pg=PA79
 ids:
   dracor: fre000267
+---
+id: carmontelle-les-deux-chapeaux
+author:
+  name: Carmontelle
+  wikidata: Q982053
+title: Les deux chapeaux
+subtitle: Proverbe XIX.
+language: fre
+printed: 1768
+fulltextUrl: https://books.google.com/books?id=sp1TAAAAcAAJ&pg=PA245
+ids:
+  dracor: fre000248
 ---
 id: carmontelle-le-trompeur-favorable
 author:
@@ -1365,6 +1437,16 @@ subtitle: Opéra-comique de Favart, mis en vaudeville
 language: fre
 premiered: 1822-03-13
 fulltextUrl: https://books.google.com/books?id=3WtfAAAAcAAJ&printsec=frontcover
+---
+id: gohier-le-couronnement-d-un-roi
+author:
+  name: Louis-Jérôme Gohier
+  wikidata: Q1355402
+title: Le couronnement d'un roi
+subtitle: Essai allégorique en un acte et en prose, par un avocat au Parlement de Bretagne
+language: fre
+premiered: 1775-01-28
+fulltextUrl: https://books.google.com/books?id=jFxoAAAAcAAJ&printsec=frontcover
 ---
 id: goldoni-il-servitore-di-due-padroni
 author:
