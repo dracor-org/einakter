@@ -1,6 +1,16 @@
 # This work is licensed under a Creative Commons Attribution 4.0 International
 # License (https://creativecommons.org/licenses/by/4.0/)
 ---
+id: a-beckett-the-man-with-the-carpet-bag
+author:
+  name: Gilbert Abbott à Beckett
+  wikidata: Q2626481
+title: The Man with the Carpet Bag
+subtitle: A Farce, in one Act
+language: eng
+printed: 1835
+fulltextUrl: https://books.google.com/books?id=z89ZAAAAcAAJ&printsec=frontcover
+---
 id: alain-l-epreuve-reciproque
 author:
   name: Robert Alain
@@ -128,7 +138,7 @@ author:
 title: Entremés de los buñuelos
 language: spa
 printed: 1723
-fulltextUrl:  http://www.cervantesvirtual.com/nd/ark:/59851/bmcw39j2
+fulltextUrl: http://www.cervantesvirtual.com/nd/ark:/59851/bmcw39j2
 ---
 id: anonyme-comedie-a-la-grecque
 author:
@@ -549,6 +559,15 @@ language: fre
 printed: 1773
 fulltextUrl: https://books.google.com/books?id=3PtfKCCjLwMC&pg=PA219
 ---
+id: castillo-solorzano-el-mayorazgo-figura
+author:
+  name: Alonso de Castillo Solórzano
+  wikidata: Q5604790
+title: El mayorazgo figura
+language: spa
+printed: 1640
+fulltextUrl: http://www.cervantesvirtual.com/nd/ark:/59851/bmc6d5r9
+---
 id: carmouche-de-courcy-saint-georges-la-robe-et-l-uniforme
 authors:
   - name: Pierre Carmouche
@@ -893,6 +912,16 @@ printed: 1786
 premiered: 1786-09-01
 fulltextUrl: https://books.google.com/books?id=CAJTWs18nAkC&printsec=frontcover
 ---
+id: de-brueys-les-quiproquo
+author:
+  name: David Augustin de Brueys
+  wikidata: Q3017432
+title: Les quiproquo
+subtitle: Comédie en un acte, en prose
+language: fre
+printed: 1696
+fulltextUrl: https://books.google.com/books?id=QEoGAAAAQAAJ&pg=PA273
+---
 id: decomberousse-brisebarre-le-chapeau-gris-ou-les-obstacles
 authors:
   - name: Alexis Decomberousse
@@ -1072,6 +1101,16 @@ printed: 1812
 premiered: 1812-09-08
 fulltextUrl: https://books.google.com/books?id=Sso5AAAAcAAJ&printsec=frontcover
 ---
+id: de-segur-le-retour-du-mari
+author:
+  name: Joseph-Alexandre de Ségur
+  wikidata: Q321684
+title: Le retour du mari
+subtitle: Comédie en un acte et en vers
+language: fre
+premiered: 1792-01-25
+fulltextUrl: https://books.google.com/books?id=gimAEPBW5GkC&printsec=frontcover
+---
 id: desfontaines-lavallee-la-bergere-des-alpes
 author:
   name: Desfontaines-Lavallée
@@ -1134,6 +1173,16 @@ subtitle: Comédie
 language: fre
 premiered: 1716-07-07
 fulltextUrl: https://books.google.com/books?id=dotQAAAAcAAJ&pg=PA1
+---
+id: devaux-les-engagements-indiscrets
+author:
+  name: François-Antoine Devaux
+  wikidata: Q3083283
+title: Les engagements indiscrets
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1752-10-26
+fulltextUrl: https://books.google.com/books?id=oyxMAAAAcAAJ&printsec=frontcover
 ---
 id: dieulafoy-defiance-et-malice-ou-le-prete-rendu
 author:
@@ -2791,6 +2840,15 @@ printed: 1812
 premiered: 1812-02-27
 fulltextUrl: https://books.google.com/books?id=L7S6cu_v-vQC&printsec=frontcover
 ---
+id: nerciat-les-rendez-vous-nocturnes-ou-l-aventure-comique
+author:
+  name: André-Robert Andréa de Nerciat
+  wikidata: Q718081
+title: Les rendez-vous nocturnes, ou L'aventure comique
+subtitle: Comédie-proverbe
+language: fre
+printed: 1787
+---
 id: pain-amour-et-mystere-ou-lequel-est-mon-cousin
 author:
   name: Joseph Pain
@@ -3171,6 +3229,16 @@ language: fre
 premiered: 1799-12-06
 fulltextUrl: https://books.google.com/books?id=6P1Rukvvpq8C&printsec=frontcover
 ---
+id: rijk-de-belachchelyke-erfgenaam-of-baatzuchtige-juffer
+author:
+  name: Frans Rijk
+  wikidata: Q108063587
+title: De belachchelyke erfgenaam, of baatzuchtige juffer
+subtitle: Blyspel
+language: dut
+printed: 1710
+fulltextUrl: https://books.google.com/books?id=oXZhAAAAcAAJ&printsec=frontcover
+---
 id: rougemont-dumersan-la-visite-du-prince-ou-le-militaire-et-le-financier
 authors:
   - name: Michel-Nicolas Balisson de Rougemont
@@ -3481,6 +3549,20 @@ subtitle: Parade chinoise en un acte
 language: fre
 premiered: 1835-03-03
 fulltextUrl: https://books.google.com/books?id=wIHZUXqmgCIC&printsec=frontcover
+---
+id: scarron-l-heritier-ridicule-ou-la-dame-interessee
+author:
+  name: Paul Scarron
+  wikidata: Q551725
+title: L'héritier ridicule, ou La dame intéressée
+subtitle: Comédie
+language: fre
+created: 1649
+printed: 1650
+fulltextUrl: https://books.google.com/books?id=ZJ3TWjlO-F0C&printsec=frontcover
+ids:
+  dracor: fre001331
+  wikidata: Q3203937
 ---
 id: scribe-bayard-camilla-ou-la-soeur-et-le-frere
 authors:
