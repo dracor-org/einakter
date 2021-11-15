@@ -1103,7 +1103,7 @@ printed: 1828
 formalia:
   - Prosa
 basedOn:
-  - Scribe
+  - scribe-brulay-le-gastronome-sans-argent
 editions:
   - title: "Vaudevilles und Lustspiele. Theils Originale, theils Uebertragungen und Bearbeitungen von L. Angely. Berlin: Cosmar und Krause 1828"
     url: https://books.google.com/books?id=hmU6AAAAcAAJ&pg=RA5-PA1
@@ -1160,7 +1160,7 @@ premiered: 1831-01-06
 formalia:
   - Prosa
 basedOn:
-  - Eugène Scribe und Pierre Carmouche
+  - scribe-carmouche-le-fonde-de-pouvoirs
 editions:
   - title: "Vaudevilles und Lustspiele. Theils Originale, theils Uebertragungen und Bearbeitungen von Louis Angely. Dritter Band. Berlin: Cosmar und Krause 1834"
     url: https://books.google.com/books?id=y2U6AAAAcAAJ&pg=PA1
@@ -1562,7 +1562,7 @@ premiered: 1837-03-21
 formalia:
   - Prosa
 basedOn:
-  - Emmanuel Théaulon
+  - theaulon-desmares-la-france-pittoresque-ou-la-reine-des-vendanges
 editions:
   - title: "Neustes komisches Theater von Louis Angely. Erster Band. Hamburg: Magazin für Buchhandel, Musik und Kunst 1836, S. 139–191"
     url: https://books.google.com/books?id=KcAsAAAAYAAJ&pg=PA139
@@ -1989,6 +1989,38 @@ cast:
 settings:
   - description: >-
       Die Scene ist in einer großen Stadt Deutschlands.
+---
+slug: angely-nachbarliche-Freundschaft
+author:
+  name: Angely, Louis
+  wikidata: Q76070
+title: Nachbarliche Freundschaft
+subtitle: Lustspiel in 1 Akt
+premiered: 1834-07-20
+reviews:
+  - "Mitteilungen des Vereins für die Geschichte Berlins. No. 5 (1912), [S. 69](https://digital.zlb.de/viewer/image/14688141_1912/73/)."
+comments:
+  - Auch mit dem Untertitel »Posse in 1 Act«."
+  - "Theaterzettel: [Oldenburg 1834](https://digital.lb-oldenburg.de/ihd/periodical/pageview/398926)."
+cast:
+  - name: Ernst Engel,
+    role: ein junger Maler.
+    gender: m
+  - name: Klara,
+    role: seine Frau.
+    gender: f
+  - name: Valentin Schnuck,
+    role: Inhaber eines Commissions-Büreaus.
+    gender: m
+  - name: Doris,
+    role: seine Frau.
+    gender: f
+  - name: Thimotheus Reibeklein,
+    role: Parfümerie-Fabricant.
+    gender: m
+  - name: Auguste.
+    role: seine Frau.
+    gender: f
 ---
 slug: angely-nach-sonnen-untergang
 author:
@@ -13862,6 +13894,8 @@ printed: 1830
 formalia:
   - Prosa
 editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Acht und zwanzigster Jahrgang. Hamburg: Hoffmann und Campe 1830, S. 55–118"
+    url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044942_00071.html
   - title: "Dr. G. N. Bärmann's Theater. Erster Theil. Mainz: Kupferberg 1838"
     url: https://books.google.com/books?id=AAgzAQAAMAAJ&pg=RA4-PA1
 keywords:
@@ -18312,6 +18346,18 @@ cast:
 settings:
   - description: Die Bühne stellt ein Wohnzimmer vor.
 ---
+slug: boernstein-artikel-213-der-mann-ist-seiner-frau-schutz-die-frau-ihrem-manne-gehorsam-schuldig
+author:
+  name: Börnstein, Heinrich
+  wikidata: Q87331
+title: Artikel 213 (der Mann ist seiner Frau Schutz, die Frau ihrem Manne Gehorsam schuldig)
+subtitle: Lustspiel in einem Aufzuge nach dem Französischen
+premiered: 1847-04-24
+basedOn:
+  - d-ennery-lemoine-l-article-213
+reviews:
+  - "Bohemia. Nro. 67 (27. April 1847), [unpag.](https://books.google.com/books?id=cbdMAAAAcAAJ&pg=RA4-PP4)"
+---
 slug: boernstein-die-wallstrasse-oder-ein-stockwerk-zu-tief
 author:
   name: Börnstein, Heinrich
@@ -20764,6 +20810,20 @@ settings:
   - description: >-
       Die Bühne stellt einen sehr eleganten Salon vor, mit einer Mittel- und zwey Seitenthüren. Zur Rechten ein Tisch, zur Linken ein Stehspiegel und eine vollständige elegante Toilette. Ein Stickrahmen an der Seite.
 ---
+slug: castelli-das-augarten-concert
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Das Augarten-Concert
+subtitle: Lustspiel in 1 Akt, nach dem Franz.
+premiered: 1806-06-21
+reviews:
+  - "Wiener Theater-Zeitung. Nro. 2 (Den 8. July 1806). [S. 22](https://books.google.com/books?id=kSXfo3GfiloC&pg=PA22)."
+comments:
+  - "»Aufgeführt im Theater a. d. Wien. Ungedruckt.« (»Memoiren meines Lebens.« Vierter Band. Wien: Markgraf & Comp. 1861, [S. 221](https://books.google.com/books?id=0phWAAAAcAAJ&pg=PA221))"
+keywords:
+  - Modesucht
+---
 slug: castelli-das-flaeschchen-koellnerwasser-oder-denkschrift-eines-husarenoffiziers
 author:
   name: Castelli, Ignaz Franz
@@ -20925,6 +20985,17 @@ settings:
   - description: >-
       Die Bühne stellt das Innere eines Hauses von 3 Stöcken vor, man erblickt in jedem Stock den eisernen Gang. Im ersten Stock zur Rechten ist eine Thüre mit einer Tafel, worauf zu lesen: Habrecht, Doctor utriusque juris auch Notarius publicus. Zur Linken ist Herrn Ringelsteins Wohnung. Auf der Thüre zur Rechten, im zweyten Stock, ist ebenfalls auf einer Tafel zu lesen: Doctor Leiche. Die Thüre zur Linken führt in eine Wohnung, welche zu vermiethen ist. Im dritten Stock, zur Linken, wohnt der Dichter Pathos. Zu ebener Erde, zur Linken, ist eine Thüre, worüber geschrieben steht: Hausmeisterswohnung. Zur Rechten ist die Kellerthür, dessen Luftloch dem Publicum en face zu sehen ist. Das Hauptthor des Hauses ist in der Mitte unter dem Gangabsatz.
 ---
+slug: castelli-das-rendezvous
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Das Rendezvous
+subtitle: Hochtzeitsspiel in 1 Act
+premiered: 1811
+comments:
+  - "»Für die Vermählung der Tochter des Fürsten von Lobkowitz verfaßt und bei dieser in Raudnitz gegeben. Das Manuscript verloren.« (»Memoiren meines Lebens.« Vierter Band. Wien: Markgraf & Comp. 1861, [S. 224](https://books.google.com/books?id=0phWAAAAcAAJ&pg=PA224))"
+  - "Vermutliches Aufführungsjahr 1811 ermittelt über [dieses Zitat](https://books.google.com/books?id=v9usDgAAQBAJ&pg=PT59): »Im Jahr 1811 […] ließ der Vater von zwölf Kindern die Hochzeit der Tochter Gabriele auf Schloss Raudnitz mit ungeheurem Aufwand feiern: Die Festlichkeiten sollen vierzehn Tage gedauert und eine Million Gulden gekostet haben.«"
+---
 slug: castelli-das-stelldichein-um-mitternacht
 author:
   name: Castelli, Ignaz Franz
@@ -20936,7 +21007,7 @@ printed: 1823
 formalia:
   - Prosa
 basedOn:
-  - "Eugène de Planard: [»L'échelle de soie. Opéra-comique, en un acte et en vers libre«](https://books.google.com/books?id=Xtqa2Laynz8C&newbks=1&printsec=frontcover)"
+  - planard-l-echelle-de-soie
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1823. Von I. F. Castelli. Achter Jahrgang. Wien: Wallishausser [1823], S. 123–176"
 comments:
@@ -21282,6 +21353,19 @@ settings:
   - description: >-
       Ein Zimmer des Herrn Frohmann, mit einer Mittel- und zwei Seitenthüren. Links ein Fenster und Kamin. Rechts ein Gueridon.
 ---
+slug: castelli-der-inwohner-von-gestern
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Der Inwohner von Gestern
+subtitle: Posse nach dem Französischen in 1 Akt
+premiered: 1842-02-08
+reviews:
+  - "Allgemeine Theaterzeitung. Originalblatt für Kunst, Literatur, Musik, Mode und geselliges Leben. Nro. 35 (Wien, Donnerstag den 10. Februar 1842), [S. 158](https://books.google.com/books?id=eCd-6Oh3VO4C&pg=PA158)."
+  - "Sonntags-Blätter für heimathliche Interessen. No. 7 (Wien, am 13. Februar 1842), [S. 118](https://books.google.com/books?id=pHqIY0X6Uh8C&pg=PA118)."
+comments:
+  - "»Nicht gegeben. Noch im Manuscript.« (»Memoiren meines Lebens.« Vierter Band. Wien: Markgraf & Comp. 1861, [S. 235](https://books.google.com/books?id=0phWAAAAcAAJ&pg=PA235))"
+---
 slug: castelli-der-kuss-durch-einen-wechsel
 author:
   name: Castelli, Ignaz Franz
@@ -21610,7 +21694,7 @@ premiered: 1821-05-01
 formalia:
   - Prosa
 basedOn:
-  - "Armand d'Artois und Achille d'Artois: [»Les troqueurs. Opéra-comique en un acte«](https://books.google.com/books?id=6ldoAAAAcAAJ&printsec=frontcover)"
+  - d-artois-d-artois-les-troqueurs
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1821. Von I. F. Castelli. Sechster Jahrgang. Wien: Wallishausser [1821], S. 164–212"
 cast:
@@ -21683,7 +21767,7 @@ premiered: 1827-11-24
 formalia:
   - Prosa
 basedOn:
-  - "Charles-Guillaume Étienne: [»Les deux maris. Opéra-comique en un acte«](https://books.google.com/books?id=BWBoAAAAcAAJ&printsec=frontcover)"
+  - etienne-les-deux-maris
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1818. Von I. F. Castelli. Dritter Jahrgang. Wien: Wallishausser [1818], S. 145–192"
 cast:
@@ -22237,6 +22321,18 @@ settings:
       wikidataId: Q26824
   - description: >-
       Die Bühne stellt einen eingezäunten Platz vor. Im Hintergrunde zur Linken ist ein Loch im Zaun. Zur Rechten der Ausgang. Im Hintergrunde ein Felsen, welcher die ganze Bühne beherrscht. – Weiter vorne ein reichverzierter großer Taubenschlag mit verschiedenen Gattungen von Tauben.
+---
+slug: castelli-die-ueberraschungen
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Die Ueberraschungen
+subtitle: Lustspiel in 1 Act n. d. Französ.
+premiered: 1844-12-11
+basedOn:
+  - scribe-les-surprises
+comments:
+  - "»Gegeben im Hofburgtheater. Noch ungedruckt.« (»Memoiren meines Lebens.« Vierter Band. Wien: Markgraf & Comp. 1861, [S. 235](https://books.google.com/books?id=0phWAAAAcAAJ&pg=PA235))"
 ---
 slug: castelli-die-zeche-oder-gastwirth-und-buergermeister-in-einer-person
 author:
@@ -22792,6 +22888,16 @@ settings:
   - description: >-
       Die Bühne stellt das Attelier eines Mahlers vor.
 ---
+slug: castelli-reise-und-heirathsgut
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Reise- und Heirathsgut
+subtitle: Lustspiel in 1 Act n. d. Französ.
+created: 1824
+comments:
+  - "»Nicht gegeben und nicht gedruckt.« (»Memoiren meines Lebens.« Vierter Band. Wien: Markgraf & Comp. 1861, [S. 230](https://books.google.com/books?id=0phWAAAAcAAJ&pg=PA230)) – »Von der Wiener Zensur f. d. Burgth. bewilligt 17. März 1824.« (Goedeke, Band XI/2, [S. 60](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungAusDenQuellen-2-11-2/page/60/mode/2up))"
+---
 slug: castelli-sie-liebt-ihn-nicht-weil-sie-ihn-liebt
 author:
   name: Castelli, Ignaz Franz
@@ -22819,6 +22925,29 @@ settings:
       Die Handlung geht auf Juliens Landhause vor.
   - description: >-
       Die Bühne stellt einen Saal mit einer Mittel- und zwey Seitenthüren vor.
+---
+slug: castelli-tisch-bett-und-unterricht
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Tisch, Bett und Unterricht
+subtitle: Farce in 1 Act
+created: 1822
+comments:
+  - "»Nicht gegeben. Ungedruckt.« (»Memoiren meines Lebens.« Vierter Band. Wien: Markgraf & Comp. 1861, [S. 228](https://books.google.com/books?id=0phWAAAAcAAJ&pg=PA228)) Ungefähre zeitliche Einordnung in die Jahre 1821/1822 aufgrund der Einreihung des Stücks in sein »Verzeichniß aller von mir verfaßter und bearbeiteter Theaterstücke, mit Beisetzung, wo selbe gegeben wurden«.)"
+---
+slug: castelli-todt-und-lebendig
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Todt und lebendig
+subtitle: Lustspiel in 1 Act nach dem Französ. des Martainville
+premiered: 1803-10-29
+basedOn:
+  - Martainville
+comments:
+  - "Das erste Stück Castellis, das unter seinem eigenen Namen veröffentlicht wurde (vgl. [BLKÖ](https://de.wikisource.org/wiki/BLK%C3%96:Castelli,_Ignaz_Franz))."
+  - "»Gegeben im Theater a. d. Wien.« (»Memoiren meines Lebens.« Vierter Band. Wien: Markgraf & Comp. 1861, [S. 219](https://books.google.com/books?id=0phWAAAAcAAJ&pg=PA219))"
 ---
 slug: castelli-uniform-und-schlafrock
 author:
@@ -24152,7 +24281,7 @@ premiered: 1830-03-27
 formalia:
   - Prosa
 basedOn:
-  - Eugène Scribe
+  - scribe-pillet-le-mauvais-sujet
 editions:
   - title: "Dramatischer Salon. Almanach kleiner Bühnenspiele zur Unterhaltung in geselligen Kreisen. Von Alexander Cosmar. Erster Jahrgang. Berlin: Morin 1839, S. 3–52"
     url: https://books.google.com/books?id=geNMAAAAcAAJ&pg=PA3
@@ -30293,7 +30422,7 @@ premiered: 1843-04-06
 formalia:
   - Prosa
 basedOn:
-  - "Dumanoir und Paul Siraudin: [»La vendetta. Vaudeville en un acte«](https://books.google.com/books?id=2DZgAAAAcAAJ&pg=PA1)"
+  - dumanoir-siraudin-la-vendetta
 editions:
   - title: "Den Bühnen gegenüber als Manuscript gedruckt. Hamburg: Verlags-Comptoir 1849"
     url: https://books.google.com/books?id=z76vj0sSQMUC&pg=PA175
@@ -33100,7 +33229,7 @@ premiered: 1782-04-09
 formalia:
   - Prosa
 basedOn:
-  - "Nicolas-Julien Forgeot: [»Les deux oncles. Comédie, en un acte et en vers«](https://books.google.com/books?id=vtnkahn_Mq4C&printsec=frontcover)"
+  - forgeot-les-deux-oncles
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 87–88
@@ -33184,7 +33313,7 @@ premiered: 1747
 formalia:
   - Prosa
 basedOn:
-  - "Charles Dufresny: [»L'esprit de contradiction. Comédie«](http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DUFRESNY_ESPRITDECONTRADICTION.xml)"
+  - dufresny-l-esprit-de-contradiction
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 12, S. 121
@@ -36603,6 +36732,37 @@ cast:
 settings:
   - description: >-
       Die Scene ist der Vorsaal im Pallaste des Prinzen. Eine Thüre im Hintergrunde. Zur Rechten der Schauspieler bey der zweyten Koulisse ein Kabinet. Gegenüber zur Linken ein Kamin, von einer spanischen Wand umgeben. Zur bequemern Oeffnung derselben, muß unter dem ersten Blatte derselben eine Rolle angebracht seyn.
+---
+slug: haug-das-glueckliche-missverstaendniss
+author:
+  name: Haug, Carl Eugen
+  wikidata: Q55851492
+title: Das glückliche Mißverständniß
+subtitle: Posse in einem Aufzuge, nach dem Französischen
+premiered: 1806-01-01
+basedOn:
+  - patrat-le-present-ou-l-heureux-quiproquo
+comments:
+  - "Theaterzettel: [Weimar 1806](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00046206/002568.tif)."
+cast:
+  - name: Finanzrath Wallberg.
+    gender: m
+  - name: Secretär Wallberg,
+    role: sein Neffe.
+    gender: m
+  - name: Commerzienrath Flamming.
+    gender: m
+  - name: Caroline,
+    role: seine Tochter.
+    gender: f
+  - name: Tobias,
+    role: des Finanzraths Diener.
+    gender: m
+  - name: Frau Bergerin,
+    role: des Tobias Mutter.
+    gender: f
+  - name: Flammings Diener.
+    gender: m
 ---
 slug: haupt-harlekins-tuecke-oder-der-geprellte-alte
 author:
@@ -54704,6 +54864,52 @@ cast:
 settings:
   - description: >-
       Großer Saal. Im Hintergrunde ein Tisch und ein Clavier, zu beiden Seiten Fenster. Rechts zwei Thüren. Links eine Glasthüre mit der Aussicht in Garten.
+---
+slug: kurlaender-der-hohe-besuch
+author:
+  name: Kurländer, Franz August von
+  wikidata: Q55122987
+title: Der hohe Besuch
+subtitle: Eine ländliche Scene
+numberOfScenes: 16
+printed: 1815
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach Dramatischer Spiele für Gesellschaftstheater. Von Franz August von Kurländer. Fünfter Jahrgang. Wien und Triest: Geistinger 1815, S. 1–70"
+    url: https://books.google.com/books?id=sDJJAAAAcAAJ&pg=PA1
+cast:
+  - name: Fürst Ferdinand.
+    gender: m
+  - name: Fürst August.
+    gender: m
+  - name: Fürst Walter.
+    gender: m
+  - name: Franz Redlich,
+    role: Hauptmann.
+    gender: m
+  - name: Louise,
+    role: seine Tochter.
+    gender: f
+  - name: Hans Bormann,
+    role: Pächter.
+    gender: m
+  - name: Katharina Sukow.
+    gender: f
+  - name: Eugen,
+    role: ihr Sohn, Mahler.
+    gender: m
+  - name: Drey Jäger.
+    isGroup: true
+    gender: m
+  - name: Bauern, Bäuerinnen.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Scene: Anfangs, Katharina's Zimmer auf einem Dorfe in einiger Entfernung von der Residenz; später das Dorf selbst.
+  - description: >-
+      Ein Bauernzimmer, rechts eine Staffeley, links ein runder Tisch.
 ---
 slug: kurlaender-der-junge-husaren-oberste
 author:
@@ -84066,6 +84272,46 @@ cast:
 settings:
   - description: >-
       Scene: Wirthshaus an der Italiänischen Grenze.
+---
+slug: tenelli-die-damen-unter-sich
+author:
+  name: Millenet, Johann Heinrich
+  pseudonym: Tenelli, M.
+  wikidata: Q55123185
+title: Die Damen unter sich
+subtitle: Lustspiel in einem Akt nach Dupaty
+printed: 1837
+premiered: 1830-06-02
+basedOn:
+  - dupaty-la-jeune-prude-ou-les-femmes-entre-elles
+comments:
+  - "Theaterzettel: [Weimar 1830](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00032705/005828.tif), [München 1834](https://books.google.com/books?id=hSpDAAAAcAAJ&pg=PA65)."
+  - "Gedruckt in Tenellis »Jährliche Beiträge für die deutsche Bühne« (1837)."
+cast:
+  - name: Frau von Duportail.
+    gender: f
+  - name: Lucretia,
+    role: eine junge Wittwe, deren Nichte.
+    gender: f
+  - name: Elise,
+    role: Lucretia's Cousine.
+    gender: f
+  - name: Frau von St. Elme,
+    role: Schwester der Lucretia.
+    gender: f
+  - group:
+      - name: Frau von Versueil.
+        gender: f
+      - name: Frau von Dormont.
+        gender: f
+      - name: Fräulein von Gercourt.
+        gender: f
+    role: Lucretia's Freundinnen.
+  - name: Victorine,
+    role: Lucretia's Kammermädchen.
+    gender: f
+setting: >-
+  Die Scene spielt auf Lucretias Landhause.
 ---
 slug: tenelli-herr-rochus-pumpernickel-auf-eine-andere-manier
 author:

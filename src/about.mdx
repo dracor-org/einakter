@@ -20,48 +20,58 @@ If you want to cite this project, please use the following reference:
 
 ## What Is This?
 
-This database is derived from the working corpus for Dîlan's ongoing
-dissertation on one-act plays. The growing collection is also intended to
-provide a general quantitative overview of German-language one-act plays between
-the mid-18th and mid-19th centuries.
+This database is derived from the working corpus for Dîlan's dissertation
+on one-act plays (submitted in October 2021). The growing collection is also
+intended to provide a general quantitative overview of German-language one-act
+plays between the mid-18th and mid-19th centuries.
 
 For each play we list metadata and links to other projects, if available
-(editions at Google Books, Wikidata identifiers, DraCor). The long-term goal is
+(editions at Google Books, Wikidata identifiers, DraCor,
+Carl-Maria-von-Weber-Gesamtausgabe, etc.). The long-term goal is
 to place metadata on one-act plays within the growing knowledge repositories of
 the Linked Open Data cloud.
 
 The database was first released in June 2020 and is a work in progress. If you
 have questions or additions, drop us a line:
 
-* Dîlan Canan Çakir (University of Stuttgart) ·
-  [homepage](https://www.ilw.uni-stuttgart.de/institut/team/Cakir-00001/) ·
+* Dîlan Canan Çakir (University of Stuttgart & DLA Marbach) ·
+  [homepage](https://www.mww-forschung.de/dîlan-canan-Çakir) ·
   [Twitter](https://twitter.com/DilanCkr)
-* Frank Fischer (Higher School of Economics, Moscow) ·
+* Frank Fischer (Freie Universität Berlin & Higher School of Economics, Moscow) ·
   [homepage](https://lehkost.github.io/) ·
   [Twitter](https://twitter.com/umblaetterer)
 * Carsten Milling (University of Potsdam)
 
 ## Criteria
 
-We include plays that …
+It is not always easy to decide whether a theatre piece is a one-act play or
+not. The term one-act play (Einakter) for corresponding German-language plays
+appears for the first time in the period under study (from 1740). In order that
+we do not, as often happens, consider all shorter plays without an act division
+to be one-act plays, but can fall back on a clearer terminology, the following
+criteria apply to the database. We include plays that …
 
 1. … are clearly marked as one-act plays in the subtitle.
-2. … are described elsewhere as one-act plays (on playbills, in journals, in
-     research literature; example: Lessing's [»Philotas«](lessing-philotas)).
+2. … are described elsewhere as one-act plays (in *contemporary*
+     sources like playbills, journals, etc.; example: Lessing's
+     [»Philotas«](lessing-philotas)).
 3. … are not operas or operettas.
 4. … were published between the 1740s and 1850s.
 
-A detailed reasoning for the composition of the corpus will be presented in
-Dîlan's dissertation.
+A detailed reasoning for the composition of the corpus is presented
+in Dîlan's dissertation.
 
 ## Technical Background
 
-All data is collected in a simple YAML file, which can be downloaded
-<a href="https://raw.githubusercontent.com/dracor-org/einakter/main/data.yaml" download="einakter.yml">here</a>.
+All data is collected in two simple YAML files, which can be downloaded
+<a href="https://raw.githubusercontent.com/dracor-org/einakter/main/data.yaml">here</a>
+(data.yaml) and
+<a href="https://raw.githubusercontent.com/dracor-org/einakter/main/originals.yaml">here</a>
+(originals.yaml).
 
 We also export a [JSON file](https://einakter.dracor.org/data.json), which is
-always based on the current version of the YAML file, but in contrast to the
-source file it additionally contains some calculated values (currently the
+always based on the current version of the YAML files, but in contrast to the
+source files it additionally contains some calculated values (currently the
 number of characters per play). The JSON file can be easily accessed from
 different environments to conduct statistics. Some examples in R:
 
@@ -88,7 +98,7 @@ is based on [React](https://reactjs.org/).
 
 ## Interface Localisation
 
-Besides English and German, we want to add more languages for our user interface. If you would like to contribute, please get in touch. You can base your translation on our English user interface by using [this file](https://github.com/dracor-org/einakter/blob/main/src/locales/en/messages.po). You can try an editor like [Poedit](https://poedit.net/) or edit the file manually.
+In addition to English and German, we want to add more languages for our user interface. If you want to contribute, please get in touch. You can base your translation on our English user interface by reverting to [this file](https://github.com/dracor-org/einakter/blob/main/src/locales/en/messages.po). You can try an editor like [Poedit](https://poedit.net/) or edit the file manually.
 
 Many thanks to all translators who have contributed so far:
 
@@ -97,7 +107,7 @@ Many thanks to all translators who have contributed so far:
 * Russian: [Daniil Skorinkin](https://www.hse.ru/en/staff/skorinkin) (Higher School of Economics, Moscow)
 * Spanish: [Pablo Ruiz Fabo](https://lilpa.unistra.fr/theme-1-lexiques-discours-et-transpositions/membres/enseignants-chercheurs/ruiz-fabo-pablo/) (Université de Strasbourg)
 
-## License
+## Licenses
 
 The code of this project is licensed under the MIT License.
 
