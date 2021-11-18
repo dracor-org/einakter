@@ -8769,6 +8769,9 @@ cast:
   - name: Zween Reisende.
     isGroup: true
     gender: m
+settings:
+  - description: >-
+      Das Theater stellt einen Platz vor einem Hause auf dem Lande vor.
 ---
 slug: anonym-die-probe-in-der-vestung-oder-der-stumme-liebhaber
 author:
@@ -16843,7 +16846,7 @@ printed: 1808
 formalia:
   - Prosa
 basedOn:
-  - "Benoît-Joseph Marsollier: [»Céphise, ou l'Erreur de l'esprit. Comédie en un acte et en prose«](https://books.google.com/books?id=VClMAAAAcAAJ&printsec=frontcover)"
+  - marsollier-cephise-ou-l-erreur-de-l-esprit
 editions:
   - title: "Familientheater nach neuen französischen Lieblingsstücken. Erstes Bändchen. Leipzig: Göschen 1808, S. 125–195"
     url: https://books.google.com/books?id=lJ4-AAAAYAAJ&pg=RA1-PA125
@@ -23325,6 +23328,7 @@ settings:
 slug: claessen-die-folgen-des-leichtsinns
 author:
   name: Claeßen junior, Heinrich Bernhard
+  wikidata: Q109567987
 title: Die Folgen des Leichtsinns
 subtitle: Ein Original-Schauspiel in einem Aufzuge
 numberOfScenes: 8
@@ -35933,6 +35937,7 @@ settings:
 slug: hake-sophonisbe
 author:
   name: Hake, Adolf von
+  wikidata: Q109568123
 title: Sophonisbe
 subtitle: Trauerspiel in einem Act
 numberOfScenes: 3
@@ -81366,7 +81371,7 @@ author:
   name: Seyfried, Heinrich Wilhelm
   wikidata: Q55134051
 title: Die ohnmächtige und zur Ruhe gesetzte Wolke
-subtitle: Ein Nachspiel mit Arien, Tanz und ohne Music. Eie freie Nachahmung des in Frankfurt so berühmt gewordenen Nachspiels die Wolken, oder Theon und Theone
+subtitle: Ein Nachspiel mit Arien, Tanz und ohne Music. Eine freie Nachahmung des in Frankfurt so berühmt gewordenen Nachspiels die Wolken, oder Theon und Theone
 numberOfScenes: 18
 printed: 1782
 formalia:
@@ -94763,7 +94768,8 @@ settings:
 ---
 slug: wilhelm-der-regen
 author:
-  name: Wilhelm, L.
+  name: Wilhelm, Johann Leonhard
+  wikidata: Q94816117
 title: Der Regen
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 17

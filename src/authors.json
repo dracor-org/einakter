@@ -704,6 +704,23 @@
     },
     "gender": "male"
   },
+  "Q87331": {
+    "name": "Heinrich Börnstein",
+    "gnd": "118810715",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Boernstein.jpg",
+    "birth": {
+      "date": "1805-11-04T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
+    },
+    "death": {
+      "date": "1892-01-01T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male",
+    "ambiguous": true
+  },
   "Q17575492": {
     "name": "Heinrich Bösenberg",
     "gnd": "13848676X",
@@ -1006,6 +1023,19 @@
     },
     "gender": "female",
     "ambiguous": true
+  },
+  "Q109567987": {
+    "name": "Heinrich Bernhard Claessen",
+    "gnd": "13819386X",
+    "birth": {
+      "date": "1763-01-01T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
+    },
+    "death": {
+      "date": "1801-01-01T00:00:00Z"
+    },
+    "gender": "male"
   },
   "Q19279269": {
     "name": "Georg Karl Claudius",
@@ -2432,6 +2462,13 @@
     },
     "gender": "male"
   },
+  "Q109568123": {
+    "name": "Adolf von Hake",
+    "gnd": "115756741X",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q108613581": {
     "name": "Friedrich Hanf",
     "gnd": "1157563066",
@@ -2508,6 +2545,17 @@
     "birth": {},
     "death": {
       "date": "1826-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
+  "Q55851492": {
+    "name": "Carl Eugen Haug",
+    "gnd": "116526688",
+    "birth": {
+      "date": "1770-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1821-01-01T00:00:00Z"
     },
     "gender": "male"
   },
@@ -3834,17 +3882,6 @@
     "gender": "male",
     "ambiguous": true
   },
-  "Q56023399": {
-    "name": "Ludwig Lenz",
-    "gnd": "116916869",
-    "birth": {
-      "date": "1813-01-01T00:00:00Z"
-    },
-    "death": {
-      "date": "1896-01-01T00:00:00Z"
-    },
-    "gender": "male"
-  },
   "Q22676991": {
     "name": "Johann Reinhold von Lenz",
     "gnd": "116911522",
@@ -3858,6 +3895,17 @@
       "date": "1854-02-19T00:00:00Z",
       "place": "Riga",
       "placeId": "http://www.wikidata.org/entity/Q1773"
+    },
+    "gender": "male"
+  },
+  "Q56023399": {
+    "name": "Ludwig Lenz",
+    "gnd": "116916869",
+    "birth": {
+      "date": "1813-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1896-01-01T00:00:00Z"
     },
     "gender": "male"
   },
@@ -7418,6 +7466,21 @@
     },
     "death": {
       "date": "1864-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
+  "Q94816117": {
+    "name": "Johann Leonhard Wilhelm",
+    "gnd": "1026808944",
+    "birth": {
+      "date": "1774-04-26T00:00:00Z",
+      "place": "Augsburg",
+      "placeId": "http://www.wikidata.org/entity/Q2749"
+    },
+    "death": {
+      "date": "1849-05-01T00:00:00Z",
+      "place": "Augsburg",
+      "placeId": "http://www.wikidata.org/entity/Q2749"
     },
     "gender": "male"
   },
