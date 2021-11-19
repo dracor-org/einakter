@@ -442,6 +442,17 @@ language: fre
 premiered: 1743-05-13
 fulltextUrl: https://books.google.com/books?id=XU-15V1Y_ZAC&printsec=frontcover
 ---
+id: caigniez-andre-ou-la-maison-des-bois
+author:
+  name: Louis-Charles Caigniez
+  wikidata: Q462670
+title: André, ou La maison des bois
+subtitle: Comédie en un acte
+language: fre
+printed: 1821
+premiered: 1821-10-25
+fulltextUrl: https://books.google.com/books?id=e0Q6AAAAcAAJ&printsec=frontcover
+---
 id: campistron-le-jaloux-desabuse
 author:
   name: Jean Galbert de Campistron
@@ -707,6 +718,18 @@ premiered: 1791-03-04
 fulltextUrl: https://books.google.com/books?id=b3NXAAAAcAAJ&printsec=frontcover
 ids:
   wikidata: Q107289619
+---
+id: colman-inkle-and-yarico
+author:
+  name: George Colman the Younger
+  wikidata: Q513170
+title: Inkle and Yarico
+subtitle: An Opera, in Three Acts
+language: eng
+premiered: 1787-08-11
+fulltextUrl: https://archive.org/details/inkleyaricoopera00arno
+ids:
+  wikidata: Q3151351
 ---
 id: d-allainval-le-mari-curieux
 author:
@@ -1004,6 +1027,16 @@ fulltextUrl: https://books.google.com/books?id=y0RjAAAAcAAJ&pg=PA75
 ids:
   dracor: fre000693
 ---
+id: d-eglantine-les-precepteurs
+author:
+  name: Fabre d'Églantine
+  wikidata: Q553446
+title: Les précepteurs
+subtitle: Comédie en cinq actes et en vers, ouvrage posthume
+language: fre
+premiered: 1799-09-17
+fulltextUrl: https://books.google.com/books?id=LMV4AXYsDNgC&printsec=frontcover
+---
 id: dejaure-l-incertitude-maternelle-ou-le-choix-impossible
 author:
   name: Jean-Claude Bédéno Dejaure
@@ -1295,6 +1328,18 @@ premiered: 1719-05-12
 fulltextUrl: https://books.google.com/books?id=mphIxfGU3CEC&printsec=frontcover
 ids:
   dracor: fre000539
+---
+id: dufresny-le-faux-instinct
+author:
+  name: Charles Dufresny
+  wikidata: Q954563
+title: Le faux instinct
+subtitle: Comédie en trois actes
+language: fre
+premiered: 1707-03-02
+fulltextUrl: https://books.google.com/books?id=-ABPHEhN9EEC&pg=PA147
+ids:
+  dracor: fre000544
 ---
 id: dufresny-le-jaloux-honteux-de-l-etre
 author:
@@ -1668,6 +1713,16 @@ printed: 1780
 premiered: 1780-09-29
 fulltextUrl: https://books.google.com/books?id=vtnkahn_Mq4C&printsec=frontcover
 ---
+id: fournelle-l-aveugle-par-credulite
+author:
+  name: Jean-Nicolas Fournelle
+title: L'aveugle par crédulité
+subtitle: Comédie en un acte et en prose
+language: fre
+printed: 1778
+premiered: 1778-02-04
+fulltextUrl: https://books.google.com/books?id=8fD76jk6l2kC&printsec=frontcover
+---
 id: fournier-tiridate-ou-comedie-et-tragedie
 author:
   name: Narcisse Fournier
@@ -1728,6 +1783,18 @@ subtitle: Comédie
 language: fre
 premiered: 1719-09-26
 fulltextUrl: https://books.google.com/books?id=Ds1NAAAAcAAJ&printsec=frontcover
+---
+id: garnier-la-saignee
+author:
+  name: Charles Georges Thomas Garnier
+  wikidata: Q56007043
+title: La saignée
+subtitle: Dixième proverbe. Drame en un acte
+language: fre
+printed: 1784
+fulltextUrl: https://books.google.com/books?id=gltbAAAAQAAJ&printsec=frontcover
+ids:
+  dracor: fre000676
 ---
 id: gersin-de-lurieu-la-chercheuse-d-esprit
 authors:
@@ -1893,6 +1960,16 @@ subtitle: Comédie en un acte et en prose
 language: fre
 premiered: 1803-03-05
 fulltextUrl: https://books.google.com/books?id=uwgFc-8F_ucC&printsec=frontcover
+---
+id: hoffman-le-secret
+author:
+  name: François-Benoît Hoffman
+  wikidata: Q539301
+title: Le secret
+subtitle: Comédie en un acte et en prose, mêlée de musique
+language: fre
+premiered: 1796-04-20
+fulltextUrl: https://books.google.com/books?id=VPrMvNmyu0wC&printsec=frontcover
 ---
 id: holberg-den-forvandlede-brudgom
 author:
@@ -3178,6 +3255,21 @@ printed: 1813
 premiered: 1813-05-04
 fulltextUrl: https://books.google.com/books?id=8DBaAAAAcAAJ&printsec=frontcover
 ---
+id: merle-simonnin-laloue-le-conscrit
+authors:
+  - name: Jean-Toussaint Merle
+    wikidata: Q3170056
+  - name: Antoine Simonnin
+    wikidata: Q2856736
+  - name: Ferdinand Laloue
+    wikidata: Q17628189
+title: Le conscrit
+subtitle: Vaudeville en un acte
+language: fre
+printed: 1824
+premiered: 1823-11-20
+fulltextUrl: https://books.google.com/books?id=8cBoAAAAcAAJ&printsec=frontcover
+---
 id: planard-l-echelle-de-soie
 author:
   name: Eugène de Planard
@@ -4441,6 +4533,19 @@ subtitle: Comédie-vaudeville en un acte
 language: fre
 premiered: 1839-06-20
 fulltextUrl: https://books.google.com/books?id=32rB2JAqMosC&printsec=frontcover
+---
+id: theaulon-capelle-la-veuve-de-quinze-ans
+authors:
+  - name: Emmanuel Théaulon
+    wikidata: Q2733401
+  - name: Pierre Capelle
+    wikidata: Q4212859
+title: La veuve de quinze ans
+subtitle: Comédie-vaudeville en un acte
+language: fre
+printed: 1826
+premiered: 1826-09-27
+fulltextUrl: https://books.google.com/books?id=DDVMAAAAcAAJ&printsec=frontcover
 ---
 id: theaulon-capelle-l-ermite-de-saint-avelle
 authors:
