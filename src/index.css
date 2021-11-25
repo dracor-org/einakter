@@ -25,7 +25,7 @@
   }
 
   th {
-   @apply text-left align-bottom p-4 text-sm;
+   @apply text-left align-top p-4 text-sm;
   }
 
   td {
@@ -47,6 +47,10 @@ th.sortable {
 
 .react-bootstrap-table {
   @apply flex; 
+}
+
+.react-bootstrap-table th {
+  @apply align-bottom; 
 }
 
 
