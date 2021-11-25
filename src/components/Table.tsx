@@ -39,7 +39,8 @@ function formatKeywords (_: string, play: Play) {
 
 function formatWikidata (id: any | undefined) {
   return id ? (
-    <small>
+    <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
+      <img src="/wikidata.svg" width="16" alt="wikidata"/>
       <IdLink id={id} type="wikidata"/>
     </small>
   ) : <i/>; // we need to return an element to avoid a typescript error
