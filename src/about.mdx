@@ -78,9 +78,9 @@ different environments to conduct statistics. Some examples in R:
 ```R
 library(jsonlite)
 einakter <- fromJSON("https://einakter.dracor.org/data.json")
-hist(einakter$normalizedYear)
-plot(einakter$normalizedYear, einakter$numberOfScenes)
-plot(einakter$normalizedYear, einakter$numberOfCharacters)
+hist(einakter$normalizedYear, breaks = 20, xlab="Jahrfünft", ylab="Anzahl Stücke im Korpus")
+plot(einakter$normalizedYear, einakter$numberOfScenes, xlab="Jahr", ylab="Anzahl Szenen pro Stück")
+plot(einakter$normalizedYear, einakter$numberOfCharacters, xlab="Jahr", ylab="Anzahl Figuren pro Stück")
 ```
 
 The data model is described <a href="https://github.com/dracor-org/einakter/wiki">here</a>.
@@ -88,13 +88,15 @@ Versioning provided through our
 [GitHub repository](https://github.com/dracor-org/einakter). The single-page app
 is based on [React](https://reactjs.org/).
 
-## Endorsement
+## Endorsements
 
 »Eine wunderbare Idee, ein digitales Lexikon für Einakter zu erstellen. Ich habe mir die Seite angeschaut und festgestellt, dass die meisten anonymen Titel mir damals entgangen waren. Über 2.000 Titel ermittelt zu haben, ist schon eine große Leistung.«
 
-[Yüksel Pazarkaya](https://de.wikipedia.org/wiki/Yüksel_Pazarkaya), 9 September 2020
+[Yüksel Pazarkaya](https://de.wikipedia.org/wiki/Yüksel_Pazarkaya) *(Author of [»Die Dramaturgie des Einakters«](https://archive.org/details/diedramaturgiede0000paza), 1973)*, 9 September 2020
 
-*(Author of [»Die Dramaturgie des Einakters«](https://archive.org/details/diedramaturgiede0000paza), 1973)*
+»Was für ein fantastisches Thema für eine Dissertation!«
+
+[Hans-Harald Müller](https://de.wikipedia.org/wiki/Hans-Harald_Müller), 25 November 2021
 
 ## Interface Localisation
 
