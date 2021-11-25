@@ -109,7 +109,7 @@ function Originals () {
   const { SearchBar } = Search;
   
   return (
-    <div className="p-4">
+    <div className="p-4 overflow-x-auto">
       <Helmet>
         <title>Einakter: Originals</title>
       </Helmet>
