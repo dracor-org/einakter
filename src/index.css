@@ -21,7 +21,7 @@
   }
 
   th {
-   @apply text-left align-bottom p-2 text-sm cursor-pointer;
+   @apply text-left align-bottom p-2 text-sm;
   }
 
   td {
@@ -36,3 +36,10 @@
     @apply shadow appearance-none border rounded py-2 px-3 text-gray-700 mb-4
   }
 }
+
+th.sortable {
+  @apply cursor-pointer;
+}
+
+
+
