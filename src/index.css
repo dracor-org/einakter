@@ -16,16 +16,20 @@
     @apply text-2xl mb-3;
   }
 
+  table {
+    @apply -mx-4 flex-grow;    
+  }
+
   tbody tr:nth-child(odd) {
    @apply bg-neutral-200;
   }
 
   th {
-   @apply text-left align-bottom p-2 text-sm;
+   @apply text-left align-bottom p-4 text-sm;
   }
 
   td {
-    @apply p-2
+    @apply p-4 align-top;
   }
 
   a {
@@ -33,12 +37,16 @@
   }
 
   input {
-    @apply shadow appearance-none border rounded py-2 px-3 text-gray-700 mb-4
+    @apply shadow appearance-none border rounded py-2 px-3 text-gray-700 mb-4;
   }
 }
 
 th.sortable {
   @apply cursor-pointer;
+}
+
+.react-bootstrap-table {
+  @apply flex; 
 }
 
 

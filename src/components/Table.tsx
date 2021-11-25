@@ -20,7 +20,7 @@ function formatTitle (_: string, play: Play) {
   const {title, subtitle, slug = {}} = play;
   return (
     <span>
-      <Link to={`/${slug}`}>{title}</Link>
+      <Link  className="text-lg"  to={`/${slug}`}>{title}</Link>
       {subtitle && <small><br/>{subtitle}</small>}
     </span>
   );
@@ -70,14 +70,6 @@ function Table () {
     },
     sort: true
   }, {
-    dataField: 'numberOfCharacters',
-    text: t`Characters`,
-    sort: true
-  }, {
-    dataField: 'numberOfScenes',
-    text: t`Scenes`,
-    sort: true
-  }, {
     dataField: 'normalizedYear',
     text: t`Year (normalized)`,
     sort: true,
@@ -92,6 +84,14 @@ function Table () {
 
       return order === 'asc' ? a - b : b - a;
     }
+  }, {
+    dataField: 'numberOfScenes',
+    text: t`Scenes`,
+    sort: true
+  }, {  
+    dataField: 'numberOfCharacters',
+    text: t`Characters`,
+    sort: true
   }, {
     dataField: 'ids.wikidata',
     text: 'Wikidata',
@@ -119,7 +119,7 @@ function Table () {
       >
         {
           props => (
-            <div className="p-4">
+            <div className="p-4 overflow-x-auto">
               <Statistics plays={data} authors={authors} />
               <SearchBar { ...props.searchProps } placeholder={t`Search`}/>
               <span className="download">
