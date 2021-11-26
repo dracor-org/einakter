@@ -51,15 +51,12 @@ function Topnav () {
             "items-center",
             "px-3",
             "py-2",
-            "border",
-            "rounded",
-            "hover:text-blue-100",
-            "hover:border-white"
+            "hover:text-blue-100"
           )}
           onClick={() => setShowNav(!showNav)}
         >
           <svg
-            className="fill-current h-3 w-3"
+            className="fill-current h-10 w-10"
             viewBox="0 0 20 20"
             xmlns="http://www.w3.org/2000/svg"
           >
