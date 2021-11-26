@@ -80,7 +80,7 @@ function Topnav () {
           { hidden: !showNav }
         )}
       >
-        <div className="mb-3 md:flex-grow md:mb-0 flex justify-center">
+        <div className="my-3 md:flex-grow md:flex-row flex justify-center flex-col">
           <NavItem href="/about">
             <Trans>About</Trans>
           </NavItem>
@@ -94,7 +94,6 @@ function Topnav () {
         <Menu>
           <Menu.Button className="relative justify-center inline-flex mr-8 hover:text-neutral-100">
             <FontAwesomeIcon
-              className="scale-0 sm:scale-100"
               icon={faLanguage}
               size="2x"
             />
@@ -142,11 +141,10 @@ function Topnav () {
             className="text-white"
           >
             <FontAwesomeIcon
-              className="scale-0 sm:scale-100 hover:text-neutral-100"
+              className="scale-90 -ml-1 -mb-1 sm:m-0 sm:scale-100 hover:text-neutral-100"
               icon={faGithub}
               size="3x"
             />
-            <span className="block sm:hidden">Einakter Github</span>
           </a>
         </div>
       </div>
