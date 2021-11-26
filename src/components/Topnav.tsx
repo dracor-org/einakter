@@ -23,9 +23,9 @@ function NavItem ({href, className, children}: NavItemProps) {
   const isActive = location.pathname.startsWith(href);
 
   const classes = classnames(
-    'block', 'mt-4', 'md:inline-block', 'md:mt-0', 'text-blue-100',
-    'hover:text-white', 'mr-4', className,
-    {italic: isActive}
+    'block', 'mt-4', 'md:inline-block', 'md:mt-0', 'text-white',
+    'hover:text-blue-100', 'mr-6', className,
+    {block: isActive}
   );
 
   return (
@@ -39,7 +39,7 @@ function Topnav () {
 
   return (
     <nav className="flex items-center justify-between flex-wrap p-4 bg-primary text-white font-medium">
-      <div className="flex items-center flex-shrink-0 text-white">
+      <div className="flex items-center flex-shrink-0 text-white hover:opacity-90">
         <a href="/" title="Einakter">
           <img src="/DONE.svg" width="170" alt="Einakter" />
         </a>
@@ -53,7 +53,7 @@ function Topnav () {
             "py-2",
             "border",
             "rounded",
-            "hover:text-white",
+            "hover:text-blue-100",
             "hover:border-white"
           )}
           onClick={() => setShowNav(!showNav)}
@@ -142,7 +142,7 @@ function Topnav () {
             className="text-white"
           >
             <FontAwesomeIcon
-              className="scale-0 sm:scale-100"
+              className="scale-0 sm:scale-100 hover:text-neutral-100"
               icon={faGithub}
               size="3x"
             />
