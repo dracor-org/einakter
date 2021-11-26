@@ -5,8 +5,10 @@ import {useLocation} from 'react-router-dom';
 import {useLingui} from "@lingui/react";
 import {Trans} from '@lingui/macro';
 import {faGithub} from '@fortawesome/free-brands-svg-icons';
+import {faLanguage} from '@fortawesome/free-solid-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {locales, setLocale} from '../i18n';
+import { Menu } from '@headlessui/react'
 
 interface NavItemProps {
   href: string;
@@ -44,20 +46,40 @@ function Topnav () {
       <div className="block md:hidden">
         <button
           className={classnames(
-            'flex', 'items-center', 'px-3', 'py-2', 'border', 'rounded',
-            'hover:text-white',  'hover:border-white'
+            "flex",
+            "items-center",
+            "px-3",
+            "py-2",
+            "border",
+            "rounded",
+            "hover:text-white",
+            "hover:border-white"
           )}
           onClick={() => setShowNav(!showNav)}
         >
-          <svg className="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+          <svg
+            className="fill-current h-3 w-3"
+            viewBox="0 0 20 20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <title>Menu</title>
+            <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
+          </svg>
         </button>
       </div>
-      <div className={classnames(
-        'uppercase', 'w-full', 'block', 'flex-grow', 'md:flex',
-        'md:items-center', 'md:w-auto', 'md:ml-5',
-        {hidden: !showNav}
-      )}>
-        <div className="mb-3 md:flex-grow md:mb-0">
+      <div
+        className={classnames(
+          "uppercase",
+          "w-full",
+          "block",
+          "flex-grow",
+          "md:flex",
+          "md:items-center",
+          "md:w-auto",
+          { hidden: !showNav }
+        )}
+      >
+        <div className="mb-3 md:flex-grow md:mb-0 flex justify-center">
           <NavItem href="/about">
             <Trans>About</Trans>
           </NavItem>
@@ -68,21 +90,40 @@ function Topnav () {
             <Trans>Originals</Trans>
           </NavItem>
         </div>
-        <div className="mr-2 mb-3 md:mb-0">
-          {locales.map((locale) => (
-            <button
-              key={locale}
-              className={classnames(
-                'text-blue-100', 'mr-3', 'hover:text-white', {
-                  'font-bold': locale === i18n.locale
-                }
-              )}
-              onClick={() => setLocale(locale)}
-            >
-              {locale}
-            </button>
-          ))}
-        </div>
+        <Menu>
+          <Menu.Button className="relative justify-center inline-flex mr-8 hover:text-neutral-100">
+            <FontAwesomeIcon
+              className="scale-0 sm:scale-100"
+              icon={faLanguage}
+              size="2x"
+            />
+            <Menu.Items className="flex flex-col origin-top absolute top-6 mt-2 p-2.5 gap-2 rounded-sm shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none">
+              {locales.map((locale) => (
+                <Menu.Item>
+                  {({ active }) => (
+                    <button 
+                      key={locale}
+                      className={classnames(
+                        "text-blue-900",
+                        "uppercase",
+                        "hover:text-blue-700",
+                        "focus:text-blue-400",
+                        {
+                          "font-bold": locale === i18n.locale,
+                          "text-blue-500": active = true,
+                        }
+                        
+                      )}
+                      onClick={() => setLocale(locale)}
+                    >
+                      {locale}
+                    </button>
+                  )}
+                </Menu.Item>
+              ))}
+            </Menu.Items>
+          </Menu.Button>
+        </Menu>
         <div>
           <a
             href="https://github.com/dracor-org/einakter"
