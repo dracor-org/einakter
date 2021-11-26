@@ -43582,6 +43582,7 @@ editions:
 ids:
   dracor: ger000519
   wikidata: Q104552092
+  weber: A020967
 keywords:
   - Schicksalsdrama
 cast:
@@ -43619,6 +43620,8 @@ dictionaries:
 editions:
   - title: "Der Leuchtthurm. Die Heimkehr. Zwei Trauerspiele von Ernst von Houwald. Leipzig. Göschen 1821, S. 117–202"
     url: https://books.google.com/books?id=My0WAAAAYAAJ&pg=PA117
+ids:
+  weber: A021333
 comments:
   - Eine einaktige Parodie zu dem Trauerspiel schrieb Stephan Schütze 1824 unter dem Titel [»Die Heimkehr. Lustspiel in einem Act«](schuetze-die-heimkehr).
 keywords:
@@ -56445,6 +56448,8 @@ basedOn:
 editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1827. Von F. A. von Kurländer. Siebzehnter Jahrgang. Leipzig: Baumgärtner 1827, S. 231–300"
     url: https://books.google.com/books?id=0C9JAAAAcAAJ&pg=PA231
+comments:
+  - "Theaterzettel: [Bremen 1827](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1716977) (fälschlicherweise Castelli zugeschrieben)."
 cast:
   - name: Baron Mörbach.
     gender: m
@@ -56482,6 +56487,8 @@ basedOn:
 editions:
   - title: "Almanach dramatischer Spiele für Gesellschafts-Theater. Von Franz August von Kurländer. Achter Jahrgang. Wien: Wallishausser 1818, S. 1–44"
     url: https://books.google.com/books?id=SC9JAAAAcAAJ&pg=PA1
+ids:
+  weber: A021201
 cast:
   - name: William Shakspeare.
     gender: m
@@ -56508,7 +56515,7 @@ printed: 1826
 formalia:
   - Prosa
 basedOn:
-  - Eugène Scribe
+  - scribe-la-haine-d-une-femme
 editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1826. Von F. A. von Kurländer. Sechzehnter Jahrgang. Leipzig: Baumgärtner [1826], S. 279–348"
     url: https://books.google.com/books?id=wC9JAAAAcAAJ&pg=PA279
@@ -57845,10 +57852,12 @@ printed: 1841
 formalia:
   - Prosa
 basedOn:
-  - Félix-Auguste Duvert und Augustin-Théodore de Lauzanne de Vauroussel
+  - duvert-lauzanne-pecherel-l-empailleur
 editions:
   - title: "Neuestes komisches Theater von Louis Angely. Dritter Band. Hamburg: Berendsohn 1841, S. 135–184"
     url: https://books.google.com/books?id=yskMAQAAIAAJ&pg=PA135
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 297 (Sonntag, 24. October 1841), [S. 1201](https://books.google.com/books?id=bFEFAAAAQAAJ&pg=PA1201)."
 cast:
   - name: Herr Rosenhorn,
     role: Rentier.
@@ -65794,6 +65803,8 @@ comments:
   - "Basierend auf der Erzählung/Anecdote von François Andrieux: »Les fausses conjectures, ou L'observateur en défaut«."
   - In späteren Ausgabe 14 statt 15 Szenen.
   - Weitere Bearbeitung des Stoffs als Einakter von [Kotzebue 1807](kotzebue-der-kater-und-der-rosenstock).
+ids:
+  weber: A021071
 cast:
   - name: Franz.
     gender: m
@@ -72609,7 +72620,7 @@ premiered: 1846-01-21
 formalia:
   - Prosa
 basedOn:
-  - Gustave Lemoine
+  - lemoine-d-ennery-la-sentinelle-ou-huit-ans-de-faction
 editions:
   - title: "Das Theater des Auslandes. In Bearbeitungen von W. Friedrich. Vierzehnte Lieferung. Den Bühnen gegenüber als Manuscript gedruckt. Hamburg: Verlags-Comptoir 1849"
     url: https://books.google.com/books?id=j9b0iqt0g-AC&pg=PA41
@@ -86601,7 +86612,7 @@ title: Nachtigall und Rabe
 subtitle: Schäferspiel mit Gesang in einem Aufzuge. Frey nach Lafontaine und Etienne. Musik von Joseph Weigl
 premiered: 1818-04-20
 basedOn:
-  - Lafontaine und Etienne
+  - etienne-le-rossignol
 dictionaries:
   - name: boerne
     pages: Nachträge, Nr. 47, S. 385–387
@@ -87715,7 +87726,7 @@ premiered: 1813-06-06
 formalia:
   - Prosa
 basedOn:
-  - Pierre-Yves Barré
+  - barre-radet-desfontaines-lavallee-bourgueil-mr-guillaume-ou-le-voyageur-inconnu
 editions:
   - title: "Kleine Dramatische Spiele für stehende Bühnen und Privat-Theater von Wilhelm Vogel, ehemaliger Hofschauspiel-Direktor in Karlsruhe. Aarau: Sauerländer 1818, S. 267–334"
     url: https://books.google.com/books?id=OC9EAQAAMAAJ&pg=PA267
