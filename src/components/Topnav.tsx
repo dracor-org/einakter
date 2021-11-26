@@ -1,4 +1,5 @@
 import React, {ReactNode, useState} from 'react';
+import { Fragment } from 'react';
 import {Link} from 'react-router-dom';
 import {classnames, TTailwindString} from 'tailwindcss-classnames';
 import {useLocation} from 'react-router-dom';
@@ -8,7 +9,7 @@ import {faGithub} from '@fortawesome/free-brands-svg-icons';
 import {faLanguage} from '@fortawesome/free-solid-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {locales, setLocale} from '../i18n';
-import { Menu } from '@headlessui/react'
+import { Menu, Transition } from '@headlessui/react'
 
 interface NavItemProps {
   href: string;
@@ -97,31 +98,41 @@ function Topnav () {
               icon={faLanguage}
               size="2x"
             />
-            <Menu.Items className="flex flex-col origin-top absolute top-6 mt-2 p-2.5 gap-2 rounded-sm shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none">
-              {locales.map((locale) => (
-                <Menu.Item>
-                  {({ active }) => (
-                    <button 
-                      key={locale}
-                      className={classnames(
-                        "text-blue-900",
-                        "uppercase",
-                        "hover:text-blue-700",
-                        "focus:text-blue-400",
-                        {
-                          "font-bold": locale === i18n.locale,
-                          "text-blue-500": active = true,
-                        }
-                        
-                      )}
-                      onClick={() => setLocale(locale)}
-                    >
-                      {locale}
-                    </button>
-                  )}
-                </Menu.Item>
-              ))}
-            </Menu.Items>
+            <Transition
+              as={Fragment}
+              enter="transition ease-out duration-100"
+              enterFrom="transform opacity-0 scale-95"
+              enterTo="transform opacity-100 scale-100"
+              leave="transition ease-in duration-75"
+              leaveFrom="transform opacity-100 scale-100"
+              leaveTo="transform opacity-0 scale-95"
+            >
+              <Menu.Items className="flex flex-col origin-top absolute top-6 mt-2 p-2.5 gap-2 rounded-sm shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none">
+                {locales.map((locale) => (
+                  <Menu.Item>
+                    {({ active }) => (
+                      <button 
+                        key={locale}
+                        className={classnames(
+                          "text-blue-900",
+                          "uppercase",
+                          "hover:text-blue-700",
+                          "focus:text-blue-400",
+                          {
+                            "font-bold": locale === i18n.locale,
+                            "text-blue-500": active = true,
+                          }
+                          
+                        )}
+                        onClick={() => setLocale(locale)}
+                      >
+                        {locale}
+                      </button>
+                    )}
+                  </Menu.Item>
+                ))}
+              </Menu.Items>
+            </Transition>
           </Menu.Button>
         </Menu>
         <div>
