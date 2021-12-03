@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Language: ko\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/components/About.tsx:12 src/components/Topnav.tsx:24
+msgid "About"
+msgstr "소개"
+
+#: src/components/Originals.tsx:59 src/components/Table.tsx:51
+msgid "Author"
+msgstr "작성자"
+
+#: src/components/Statistics.tsx:100
+msgid "Authors"
+msgstr "작성자"
+
+#: src/components/Details.tsx:231
+msgid "Based on"
+msgstr "원작"
+
+#: src/components/Statistics.tsx:126 src/components/Table.tsx:72
+msgid "Characters"
+msgstr "인물들"
+
+#: src/components/Details.tsx:90
+msgid "Comments"
+msgstr "코멘트"
+
+#: src/components/Statistics.tsx:82
+msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
+msgstr "{numCharacters}인물들이 나타나는 일장 연극들을 포함한 {0} 데이터 베이스"
+
+#: src/components/Details.tsx:121 src/components/OriginalDetails.tsx:93
+msgid "Dates"
+msgstr "날짜"
+
+#: src/components/Details.tsx:241
+msgid "Dictionaries"
+msgstr "사전"
+
+#: src/components/Table.tsx:129
+msgid "Download CSV"
+msgstr "다운로드CSV"
+
+#: src/components/Table.tsx:125
+msgid "Download JSON"
+msgstr "다운로드JSON"
+
+#: src/components/Details.tsx:178
+msgid "Dramatis personae"
+msgstr "인물들"
+
+#: src/components/Details.tsx:162
+msgid "Editions"
+msgstr "총서"
+
+#: src/components/Details.tsx:251
+msgid "Formalia"
+msgstr "장르"
+
+#: src/components/OriginalDetails.tsx:121
+msgid "Full text"
+msgstr "정본"
+
+#: src/components/Statistics.tsx:73
+msgid "Hide"
+msgstr "숨김"
+
+#: src/components/Details.tsx:265 src/components/Table.tsx:100
+msgid "Keywords"
+msgstr "예어"
+
+#: src/components/OriginalDetails.tsx:61 src/components/Originals.tsx:98
+msgid "Language"
+msgstr "언어"
+
+#: src/components/Details.tsx:138 src/components/OriginalDetails.tsx:102
+msgid "Links"
+msgstr "링크"
+
+#: src/components/About.tsx:14
+msgid "Loading..."
+msgstr "로우딩..."
+
+#: src/components/Details.tsx:221
+msgid "Location"
+msgstr "장소"
+
+#: src/components/Map.tsx:37 src/components/Map.tsx:40
+#: src/components/Topnav.tsx:27
+msgid "Locations"
+msgstr "장소들"
+
+#: src/components/Details.tsx:31
+msgid "No such play"
+msgstr "그런 연극은 없음"
+
+#: src/components/Details.tsx:130
+msgid "Number of Scenes"
+msgstr "장면수"
+
+#: src/components/Originals.tsx:104
+msgid "Number of translations"
+msgstr "번역수"
+
+#: src/components/Statistics.tsx:94
+msgid "One-act plays"
+msgstr "일장 연극"
+
+#: src/components/OriginalDetails.tsx:20
+msgid "Original not found"
+msgstr "원서는 찾을 수 없음"
+
+#: src/components/Originals.tsx:116 src/components/Topnav.tsx:30
+msgid "Originals"
+msgstr "원서들"
+
+#: src/components/Original.tsx:89
+msgid "Other one-act translations"
+msgstr "다른 일장 연극 번역들"
+
+#: src/components/Statistics.tsx:114
+msgid "Plays published anonymously"
+msgstr "익명으로 출판된 연극들"
+
+#: src/components/Statistics.tsx:120
+msgid "Plays translated/adapted from other languages"
+msgstr "다른 언어로 번역된 연극들"
+
+#: src/components/Details.tsx:106
+msgid "Reviews"
+msgstr "평가"
+
+#: src/components/Table.tsx:76
+msgid "Scenes"
+msgstr "장면"
+
+#: src/components/Table.tsx:122
+msgid "Search"
+msgstr "검색"
+
+#: src/components/Details.tsx:213
+msgid "Setting"
+msgstr "연극단"
+
+#: src/components/Statistics.tsx:73 src/components/Statistics.tsx:87
+msgid "Show more"
+msgstr "더 보여드림"
+
+#: src/components/Statistics.tsx:77
+msgid "Statistics"
+msgstr "통계"
+
+#: src/components/Map.tsx:43
+msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
+msgstr "이 맵은 플레이 시작시 설정 정보에서 추출할 수 있는 모든 플롯 위치를 보여줍니"
+"다. 지도의 명칭과 경계는 OpenStreetMap에서 제공함으로 행동 시간 및 연극 제작"
+"과 관련하여 역사적입니다."
+	
+#: src/components/Originals.tsx:69 src/components/Table.tsx:61
+msgid "Title"
+msgstr "제목"
+
+#: src/components/OriginalDetails.tsx:69
+msgid "Translations"
+msgstr "번역"
+
+#: src/components/Originals.tsx:78 src/components/Table.tsx:80
+msgid "Year (normalized)"
+msgstr "년"
+
+#: src/components/AuthorInfo.tsx:124
+msgid "b."
+msgstr "출생"
+
+#: src/components/AuthorInfo.tsx:125
+msgid "d."
+msgstr "사망"
+
+#: src/components/Statistics.tsx:108
+msgid "female"
+msgstr "여성"
+
+#: src/components/Statistics.tsx:107
+msgid "male"
+msgstr "남성"

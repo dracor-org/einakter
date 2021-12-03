@@ -7,8 +7,8 @@ type DictName =
 
 const dicts = {
   bibliographia: {
-    title: 'Bibliographia dramatica et dramaticorum',
-    url: 'https://www.degruyter.com/view/mvw/BDD-B'
+    title: 'Bibliographia Dramatica et Dramaticorum',
+    url: 'https://de.wikipedia.org/wiki/Bibliographia_Dramatica_et_Dramaticorum'
   },
   boerne: {
     title: 'Ludwig Börne: Dramaturgische Blätter (1818–1828)',
