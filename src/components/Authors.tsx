@@ -12,12 +12,13 @@ const Authors = ({authors, withLink}: Props) => {
     <>
       {authors.map((author, i) => (
         <span key={`author-${i}-${author.name}`}>
-          {i > 0 && ' · '}
+          {i > 0 &&  <br/> }
           {author.name}
           {author.pseudonym && (<i> ({author.pseudonym})</i>)}
+          {' '}   
           {(withLink && author.wikidata) && (
-            <small>
-              {' '}
+            <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
+              <img src="/wikidata.svg" width="16" alt="wikidata"/>
               <IdLink id={author.wikidata} type="wikidata"/>
             </small>
           )}
