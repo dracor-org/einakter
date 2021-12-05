@@ -105,7 +105,7 @@ function Topnav () {
             >
               <Menu.Items className="flex flex-col origin-top absolute top-6 mt-2 p-2.5 gap-2 rounded-sm shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none">
                 {locales.map((locale) => (
-                  <Menu.Item>
+                  <Menu.Item key={locale}>
                     {({ active }) => (
                       <button 
                         key={locale}
