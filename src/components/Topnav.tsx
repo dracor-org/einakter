@@ -116,7 +116,7 @@ function Topnav () {
                           'focus:text-blue-400',
                           {
                             'font-bold': locale === i18n.locale,
-                            'text-blue-500': active = true,
+                            'text-blue-500': active,
                           }
                           
                         )}
