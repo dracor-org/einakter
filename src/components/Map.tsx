@@ -42,14 +42,14 @@ const SettingsMap = () => {
   ));
 
   return (
-    <div className="locations-map">
+    <div className="locations-map p-4">
       <Helmet>
         <title>Einakter: {t`Locations`}</title>
       </Helmet>
 
       <h1><Trans>Locations</Trans></h1>
 
-      <p>
+      <p className="mb-4">
         <Trans>
           This map shows all plot locations extractable from the setting
           information at the beginning of a play. Denominations and demarcations

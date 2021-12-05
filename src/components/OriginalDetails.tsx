@@ -43,7 +43,7 @@ const OriginalDetails = () => {
   const pageTitle = authorNames ? `${authorNames}: ${title}` : title;
 
   return (
-    <>
+    <div className="p-4 flex flex-col">
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
@@ -104,11 +104,22 @@ const OriginalDetails = () => {
               <td>
                 <ul>
                   {ids.dracor && (
-                    <li>DraCor: <IdLink id={ids.dracor} type="dracor"/></li>
+                    <li>DraCor: 
+                      {' '}
+                      <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
+                        <img src="/DraCor.svg" width="12" alt="DraCor"/>
+                        <IdLink id={ids.dracor} type="dracor"/>
+                      </small>
+                    </li>
                   )}
                   {ids.wikidata && (
                     <li>
-                     Wikidata: <IdLink id={ids.wikidata} type="wikidata"/>
+                      Wikidata: 
+                      {' '}
+                      <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
+                        <img src="/wikidata.svg" width="16" alt="wikidata"/>
+                        <IdLink id={ids.wikidata} type="wikidata"/>
+                      </small>
                     </li>
                   )}
                 </ul>
@@ -129,7 +140,7 @@ const OriginalDetails = () => {
           )}
         </tbody>
       </Table>
-    </>
+    </div>
   );
 };
 
