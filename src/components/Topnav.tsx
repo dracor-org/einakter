@@ -47,11 +47,11 @@ function Topnav () {
       <div className="block md:hidden">
         <button
           className={classnames(
-            "flex",
-            "items-center",
-            "px-3",
-            "py-2",
-            "hover:text-blue-100"
+            'flex',
+            'items-center',
+            'px-3',
+            'py-2',
+            'hover:text-blue-100'
           )}
           onClick={() => setShowNav(!showNav)}
         >
@@ -67,13 +67,13 @@ function Topnav () {
       </div>
       <div
         className={classnames(
-          "uppercase",
-          "w-full",
-          "block",
-          "flex-grow",
-          "md:flex",
-          "md:items-center",
-          "md:w-auto",
+          'uppercase',
+          'w-full',
+          'block',
+          'flex-grow',
+          'md:flex',
+          'md:items-center',
+          'md:w-auto',
           { hidden: !showNav }
         )}
       >
@@ -110,13 +110,13 @@ function Topnav () {
                       <button 
                         key={locale}
                         className={classnames(
-                          "text-blue-900",
-                          "uppercase",
-                          "hover:text-blue-700",
-                          "focus:text-blue-400",
+                          'text-blue-900',
+                          'uppercase',
+                          'hover:text-blue-700',
+                          'focus:text-blue-400',
                           {
-                            "font-bold": locale === i18n.locale,
-                            "text-blue-500": active = true,
+                            'font-bold': locale === i18n.locale,
+                            'text-blue-500': active = true,
                           }
                           
                         )}
