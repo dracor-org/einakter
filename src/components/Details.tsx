@@ -203,7 +203,7 @@ export default function Details () {
                       >{c.role}</em>
                       <ul className="relative
                                     after:w-3 
-                                    after:h-calc-1
+                                    after:h-calc-full-0.75
                                     after:rounded-r 
                                     after:border-solid 
                                     after:border-black 
@@ -211,7 +211,7 @@ export default function Details () {
                                     after:border-t-2 
                                     after:border-b-2 
                                     after:absolute 
-                                    after:top-2 
+                                    after:top-1.5 
                                     after:-right-5">
                       {c.group && c.group.map(member => (
                         <li key={member.name}>
