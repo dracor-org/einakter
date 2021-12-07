@@ -3900,6 +3900,33 @@ settings:
   - description: >-
       Der Schauplatz stellet eine Landschaft vor; auf der einen Seite ist eine Hütte, auf der andern ein klein Gebüsche.
 ---
+slug: anonym-das-vermaechtniss
+author:
+  pseudonym: Anonym
+title: Das Vermächtniß
+subtitle: Eine neue Comödie des Hrn. von Marivaux in einem Ackt
+premiered: 1761-11-24
+basedOn:
+  - marivaux-le-legs
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 20, S. 83
+cast:
+  - name: Die Gräfinn.
+    gender: f
+  - name: Der Marquis.
+    gender: m
+  - name: Hortense.
+    gender: f
+  - name: Der Chevalier.
+    gender: m
+  - name: Lisette,
+    role: der Gräfinn Kammermägdchen.
+    gender: f
+  - name: Lepine,
+    role: des Marquis Kammerdiener.
+    gender: m
+---
 slug: anonym-das-vorwerk
 author:
   pseudonym: Anonym
@@ -5193,6 +5220,29 @@ cast:
     role: Herr von Leonhards Hausknecht.
     gender: m
 ---
+slug: anonym-der-hausknecht-stephen
+author:
+  pseudonym: Anonym
+title: Der Hausknecht Stephen
+subtitle: Ein Lustspiel in Versen und einem Aufzug
+premiered: 1776-05-02
+formalia:
+  - Verse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 225
+comments:
+  - "Theaterzettel: [Nürnberg 1776](https://books.google.com/books?id=Lameu0UB9NgC&pg=PA12)."
+cast:
+  - name: Stephen.
+    gender: m
+  - name: Silbermann.
+    gender: m
+  - name: Lisimor.
+    gender: m
+  - name: Clarchen.
+    gender: f
+---
 slug: anonym-der-herr-gevatter-oder-der-sanftmuethige-ehemann
 author:
   pseudonym: Anonym
@@ -6008,6 +6058,42 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist ein Saal in Sehkrafts Hause; im Grunde eine Mittel- und rechter und linker Hand eine Seitenthüre.
+---
+slug: anonym-der-problematisch-verstorbene
+author:
+  pseudonym: Anonym
+title: "Der problematisch Verstorbene, oder: Der sich selbst betrauernde Crispin"
+subtitle: Ein Lustspiel des Hrn. Chev. de Saint Iory, in einem Aufzuge
+premiered: 1759-11-30
+basedOn:
+  - saint-jory-arlequin-en-deuil-de-lui-meme
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 223–224
+cast:
+  - name: Pandolf,
+    role: in Silvien verliebt.
+    gender: m
+  - name: Frau Agate,
+    role: des Crispins Mutter.
+    gender: f
+  - name: Crispin.
+    gender: m
+  - name: Silvia,
+    role: Crispins Frau.
+    gender: f
+  - name: Der erste Doctor.
+    gender: m
+  - name: Der zweete Doctor.
+    gender: m
+  - name: Der Richter.
+    gender: m
+  - name: Coquinot,
+    role: ein Intriguenmacher.
+    gender: m
+  - name: Colombine,
+    role: des ersten Doctors Bediente.
+    gender: m
 ---
 slug: anonym-der-retter-des-vaterlandes
 author:
@@ -41232,6 +41318,36 @@ settings:
   - description: >-
       Die Scene ist in des Sekretärs Wohnung in einer kleinen Landstadt.
 ---
+slug: hiller-zwei-namensvettern
+author:
+  name: Hiller, F. C.
+title: Zwei Namensvettern
+subtitle: Lustspiel in einem Aufzuge, frei nach dem Französischen
+premiered: 1845-09-23
+basedOn:
+  - arvers-les-deux-cesar
+comments:
+  - "Theaterzettel: [Hamburg 1845](https://www.stadttheater.uni-hamburg.de/node/28570)."
+cast:
+  - name: Simon,
+    role: Particulier.
+    gender: m
+  - name: Cäsar,
+    role: sein Sohn.
+    gender: m
+  - name: Westberg,
+    role: Fabrikant.
+    gender: m
+  - name: Cäsar,
+    role: sein Sohn.
+    gender: m
+  - name: Jenny,
+    role: seine Tochter.
+    gender: f
+  - name: Peter,
+    role: Diener des Simon.
+    gender: m
+---
 slug: hinze-adams-sieben-soehne
 author:
   name: Hinze, Heimbert Paul Friedrich
@@ -45026,7 +45142,7 @@ editions:
     url: https://books.google.com/books?id=6S9hAAAAcAAJ&pg=PA185
 reviews:
   - "Blätter für literarische Unterhaltung. Nr. 238 (Sonntag, 25. August 1844), [S. 949](https://books.google.com/books?id=hWkDAAAAYAAJ&pg=PA949)."
-  - "Christ. Dietr. Grabbe's sämmtliche Werke und handschriftlicher Nachlaß. Erste kritische Gesammtausgabe. Herausgegeben und erläutert von Oskar Blumenthal. Vierter Band. Detmond: Meyer 1874, [S. 239](https://books.google.de/books?id=Ky86AQAAMAAJ&pg=PA239)."
+  - "Christ. Dietr. Grabbe's sämmtliche Werke und handschriftlicher Nachlaß. Erste kritische Gesammtausgabe. Herausgegeben und erläutert von Oskar Blumenthal. Vierter Band. Detmold: Meyer 1874, [S. 239](https://books.google.com/books?id=Ky86AQAAMAAJ&pg=PA239)."
 comments:
   - "1824 zuerst unter dem Titel »Die Brüder. Ein Schauspiel«."
   - "Theaterzettel: [Düsseldorf 1835](https://www.performing-arts.eu/Record/DTZ_HT016586395)."
