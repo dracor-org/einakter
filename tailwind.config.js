@@ -44,6 +44,9 @@ module.exports = {
           },
         },
       },  
+      height: {
+        'calc-full-0.75': 'calc(100% - 0.75rem)',
+      },
     },
   },
   variants: {
