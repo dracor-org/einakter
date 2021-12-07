@@ -44,6 +44,9 @@ module.exports = {
           },
         },
       },  
+      height: {
+        "calc-1": "calc(100% - 1rem)",
+      },
     },
   },
   variants: {

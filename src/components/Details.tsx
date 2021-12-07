@@ -190,9 +190,29 @@ export default function Details () {
               <td>
                 <ul>
                   {cast.map((c: CastMember) => c.group ? (
-                    <li key={c.role}>
-                      <em>{c.role}</em>
-                      <ul>
+                    <li className="flex flex-row-reverse justify-end" key={c.role}>
+                      <em className="self-center 
+                                    flex 
+                                    items-center 
+                                    ml-5 
+                                    before:bg-black 
+                                    before:block 
+                                    before:h-[2px] 
+                                    before:w-2.5
+                                    before:mr-2"
+                      >{c.role}</em>
+                      <ul className="relative
+                                    after:w-3 
+                                    after:h-calc-1
+                                    after:rounded-r 
+                                    after:border-solid 
+                                    after:border-black 
+                                    after:border-r-2 
+                                    after:border-t-2 
+                                    after:border-b-2 
+                                    after:absolute 
+                                    after:top-2 
+                                    after:-right-5">
                       {c.group && c.group.map(member => (
                         <li key={member.name}>
                           {member.name}
