@@ -6268,6 +6268,56 @@ settings:
   - description: >-
       Die Scene ist ein Saal, mit Thüren auf beyden Seiten, und im Hintergrunde.
 ---
+slug: anonym-der-schwarzgemachte-galan-oder-das-wohlbekommene-bad
+author:
+  pseudonym: Anonym
+title: "Der schwarzgemachte Galan, oder: Das wohlbekommene Bad"
+subtitle: Ein neues Lustspiel in einem Aufzuge
+premiered: 1753-05-08
+basedOn:
+  - dancourt-le-vert-galant
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 16, S. 244, und Band 19, S. 173–174
+comments:
+  - "Auch unter dem Titel »Der papageygrüne Galan. Ein Nachspiel, in Prosa«, vgl. Neue Erweiterungen der Erkenntnis und des Vergnügens. Fünftes Stück. Frankfurt und Leipzig: Lankischens Erben 1753, [S. 462](https://books.google.com/books?id=3AddAAAAcAAJ&pg=PA462)."
+cast:
+  - name: Herr Hieronymus,
+    role: ein Färber.
+    gender: m
+  - name: Frau Hieronymus,
+    role: dessen Frau.
+    gender: f
+  - name: Herr Tarif,
+    role: ein Geldwechsler.
+    gender: m
+  - name: Frau Tarif,
+    role: dessen Frau.
+    gender: f
+  - name: Lieschen,
+    role: des Herrn Hieronymus Muhme.
+    gender: f
+  - name: Aennchen,
+    role: des Herrn Tarif Muhme.
+    gender: f
+  - name: Erast,
+    role: des Herrn Hieronymus Vetter, ein Officier von einer Freycompagnie.
+    gender: m
+  - name: Philipp,
+    role: des Erast Diener.
+    gender: m
+  - name: Herr Gutbart,
+    role: ein Advocat und Vetter des Herrn Hieronymus.
+    gender: m
+  - name: Frau Sabine,
+    role: des Herrn Hieronymus Nachbarinn.
+    gender: f
+  - name: Carmin,
+    role: ein Färberjunge.
+    gender: m
+---
 slug: anonym-der-selbstbetrug
 author:
   pseudonym: Anonym
@@ -10446,6 +10496,45 @@ cast:
     role: ein Wuchrer.
     gender: m
 ---
+slug: anonym-die-vapeurs-oder-die-brunnencur
+author:
+  pseudonym: Anonym
+title: "Die Vapeurs, oder: Die Brunnencur"
+subtitle: Eine neue Comödie in einem Ackt, nach dem Französischen
+premiered: 1762-11-15
+formalia:
+  - Prosa
+basedOn:
+  - dufresny-la-malade-sans-maladie
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 20, S. 233–234
+cast:
+  - name: Herr Anselm von Dagowerth.
+    gender: m
+  - name: Caroline,
+    role: seine Tochter.
+    gender: f
+  - group:
+      - name: Liebhold,
+        gender: m
+      - name: Hans Hammelkopf,
+        gender: m
+    role: Liebhaber von Carolinen.
+  - name: Witewitz,
+    role: ein vermeinter Mediciner.
+    gender: m
+  - name: Henriette,
+    role: der Caroline Mägdchen.
+    gender: f
+  - name: Ein Apotheker.
+    gender: m
+  - name: Ein Weinschenk.
+    gender: m
+  - name: Eine Tante, mit ihrer Nichte.
+    isGroup: true
+    gender: f
+---
 slug: anonym-die-vereinigte-familie
 author:
   pseudonym: Anonym
@@ -14437,6 +14526,111 @@ cast:
     gender: u
   - name: Freyherrn von Knigge.
     gender: m
+---
+slug: baison-eine-gastrolle
+author:
+  name: Baison, Jean Baptist
+  wikidata: Q17576197
+title: Eine Gastrolle
+subtitle: Original-Lebensbild in einem Aufzuge
+premiered: 1847-01-14
+reviews:
+  - "Morgenblatt für gebildete Leser. Nr. 55 (Freitag den 5. März 1847), [S. 220](https://books.google.com/books?id=xM8cAQAAMAAJ&pg=PA220)."
+  - "Hermann Uhde: Das Stadttheater in Hamburg 1827–1877. Ein Beitrag zur deutschen Culturgeschichte. Stuttgart: Cotta 1879, [S. 226–227](https://books.google.com/books?id=zFI5AAAAMAAJ&pg=PA226)."
+comments:
+  - "Theaterzettel: [Hamburg 1847](https://www.stadttheater.uni-hamburg.de/system/files/1847-01-14.pdf)."
+keywords:
+  - Judentum
+  - Antisemitismus
+ids:
+  wikidata: Q110059496
+cast:
+  - name: Baron von Pernau.
+    gender: m
+  - name: Ludwig Haller,
+    role: Schauspieler.
+    gender: m
+  - name: Julia.
+    gender: f
+  - name: Der Intendant des Hoftheaters.
+    gender: m
+  - name: Schlappfuß.
+    gender: m
+  - name: Ein alter Mann.
+    gender: m
+  - name: Der Wirth des Gasthofs.
+    gender: m
+  - name: Jean,
+    role: Diener bei von Pernau.
+    gender: m
+  - name: Die Zofe der Julia.
+    gender: f
+settings:
+  - description: >-
+      Ort der Handlung: Eine kleine deutsche Residenz.
+---
+slug: baison-ein-gerichtstag-auf-helgoland
+author:
+  name: Baison, Jean Baptist
+  wikidata: Q17576197
+title: Ein Gerichtstag auf Helgoland
+subtitle: Dramatischer Schwank in einem Aufzuge
+premiered: 1847-01-14
+comments:
+  - "Theaterzettel: [Hamburg 1847](https://www.stadttheater.uni-hamburg.de/system/files/1847-01-14.pdf)."
+cast:
+  - group:
+      - name: Peter Quappen,
+        gender: m
+      - name: Peter Seeigel,
+        gender: m
+      - name: Peter Jod,
+        gender: m
+      - name: Peter Hay,
+        gender: m
+      - name: Peter Bart Aal,
+        gender: m
+      - name: Peter Seetang,
+        gender: m
+    role: Rathmänner.
+  - name: Tine Glaasen,
+    role: Polizeidiener.
+    gender: m
+  - name: Herr von Thalmann,
+    role: ein Badegast.
+    gender: m
+  - name: Frau Hinrik.
+    gender: f
+  - name: Annchen,
+    role: ihre Tochter.
+    gender: f
+  - name: Peter Carsten Bumann,
+    role: ein junger Fischer.
+    gender: m
+  - name: Ein Wirth.
+    gender: m
+  - name: Ein Kellner.
+    gender: m
+  - name: Peter Meps,
+    role: ein Schiffer.
+    gender: m
+  - name: Johann,
+    role: Diener bei von Thalmann.
+    gender: m
+  - name: Helgolander und Helgolanderinnen.
+    isGroup: true
+    gender: u
+  - name: Badegäste. Musikanten. Fischer und Schiffer.
+    isGroup: true
+    gender: u
+  - name: Jungen.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Die Scene spielt im Oberlande unfern des Falm.
+    location:
+      wikidataId: Q3038
 ---
 slug: barnekow-nein
 author:
@@ -74559,6 +74753,46 @@ cast:
   - name: Ein Soldat.
     gender: m
 ---
+slug: rost-die-colonie-oder-das-weiber-regiment
+author:
+  name: Rost, Johann Christoph
+  wikidata: Q1693059
+title: "Die Colonie, oder: Das Weiber-Regiment"
+subtitle: Ein Lustspiel des Herrn von Marivaux von einer Handlung
+premiered: 1759-09-07
+basedOn:
+  - marivaux-la-colonie
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 274
+cast:
+  - name: Arthenice,
+    role: eine adeliche Frau.
+    gender: m
+  - name: Frau Sorbin,
+    role: eines Handwerksmannes Frau.
+    gender: f
+  - name: Herr Sorbin,
+    role: der Frau Sorbin Mann.
+    gender: m
+  - name: Timagen,
+    role: ein Edelmann.
+    gender: m
+  - name: Lina,
+    role: der Frau Sorbin Tochter.
+    gender: f
+  - name: Persinet,
+    role: ein junger Mensch vom bürgerlichen Stande, der Lina Liebhaber.
+    gender: m
+  - name: Hermokrat,
+    role: ein Edelmann.
+    gender: m
+  - name: Ein Mann von der Insel.
+    gender: m
+  - name: Ein Haufen adelicher und bürgerlicher Frauen.
+    isGroup: true
+    gender: f
+---
 slug: rost-die-gelernte-liebe
 author:
   name: Rost, Johann Christoph
@@ -75980,6 +76214,46 @@ cast:
 settings:
   - description: >-
       Zimmer im Schlosse des Hartmund.
+---
+slug: schikaneder-die-verwirrung-im-gasthof
+author:
+  name: Schikaneder, Emanuel
+  wikidata: Q213547
+title: Die Verwirrung im Gasthof
+subtitle: Ein Lustspiel in einem Aufzuge
+premiered: 1794-05-31
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 230, S. 466
+comments:
+  - "Theaterzettel: [Theater auf der Wieden 1800](https://www.digital.wienbibliothek.at/wbrobv/content/pageview/2311635)."
+cast:
+  - name: Gastwirth.
+    gender: m
+  - name: Salchen,
+    role: seine Frau.
+    gender: f
+  - name: Ein Lieutenant.
+    gender: m
+  - name: Jakob,
+    role: Kellner im Gasthof.
+    gender: m
+  - name: Ein reisender Kaufmann.
+    gender: m
+  - name: Ein Musikus.
+    gender: m
+  - name: Ein Gelehrter.
+    gender: m
+  - name: Rosel,
+    role: ein Bauernmädchen.
+    gender: f
+  - name: Ein Friseur.
+    gender: m
+  - name: Ein Bauer.
+    gender: m
+  - name: Johann,
+    role: Bedienter des Lieutenants.
+    gender: m
 ---
 slug: schikaneder-thespis
 author:
@@ -87093,14 +87367,14 @@ formalia:
   - Alexandriner
 dictionaries:
   - name: bibliographia
-    pages: 2. Abteilung, Band 13, S. 169–170
+    pages: 2. Abteilung, Band 13, S. 169–170, Band 16, S. 200, und Band 23, S. 395
 editions:
   - title: "Zweyte Sammlung neuer Lustspiele. Danzig und Leipzig: Rüdiger 1747, S. 331–368"
     url: https://books.google.com/books?id=JJJTAAAAcAAJ&pg=PA331
   - title: "Frankfurt und Leipzig: Trausold 1753"
     url: https://books.google.com/books?id=jJJTAAAAcAAJ&printsec=frontcover
 comments:
-  - "Alternative Untertitel: »Ein Lustspiel von einem Aufzuge« (1747), »Ein Lustspiel, in Versen« (1752?). Später auch Ausgaben mit 6 und 7 Auftritten statt 5. Namen der Protagonisten ab der Ausgabe von 1747 geändert."
+  - "Alternative Untertitel: »Ein Lustspiel von einem Aufzuge« (1747), »Ein Lustspiel, in Versen« (1752?), »Die schlaue Cloe, und der faule Licitas. Ein schertzhafftes Lustspiel Von einem Aufzuge« (1770). Später auch Ausgaben mit 6 und 7 Auftritten statt 5. Namen der Protagonisten ab der Ausgabe von 1747 geändert."
 cast:
   - name: Nickel Clas,
     role: der faule Bauer.
