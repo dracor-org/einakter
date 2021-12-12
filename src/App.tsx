@@ -20,13 +20,13 @@ function App () {
       <Container fluid>
         <Switch>
           <Route exact path="/">
+            <Landing/>
+          </Route>
+          <Route exact path="/plays">
             <Table/>
           </Route>
           <Route exact path="/map">
             <Redirect to="/locations" />
-          </Route>
-          <Route path="/landing">
-            <Landing/>
           </Route>
           <Route path="/about">
             <About/>
