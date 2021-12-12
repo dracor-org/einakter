@@ -780,6 +780,17 @@ language: fre
 premiered: 1770-01-26
 fulltextUrl: https://books.google.com/books?id=dQ1bAAAAQAAJ&printsec=frontcover
 ---
+id: chevrier-l-epouse-suivante
+author:
+  name: François-Antoine Chevrier
+  wikidata: Q3083281
+title: L'épouse suivante
+subtitle: Comédie, en un acte, en prose
+language: fre
+printed: 1755
+premiered: 1755
+fulltextUrl: https://books.google.com/books?id=YC1MAAAAcAAJ&printsec=frontcover
+---
 id: clement-les-fri-macons
 author:
   name: Pierre Clément
@@ -892,6 +903,19 @@ language: fre
 created: 1753
 printed: 1760
 fulltextUrl: https://books.google.com/books?id=MidLAAAAcAAJ&pg=PA365
+---
+id: d-aigueberre-l-avare-amoureux
+author:
+  name: Jean Dumas d'Aigueberre
+  wikidata: Q28933420
+title: L'avare amoureux
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1729-07-09
+fulltextUrl: https://books.google.com/books?id=w7MWAAAAQAAJ&printsec=frontcover
+ids:
+  dracor: fre000005
+  wikidata: Q63215735
 ---
 id: d-allainval-le-mari-curieux
 author:
@@ -1614,6 +1638,17 @@ printed: 1789
 premiered: 1789-02-05
 fulltextUrl: https://books.google.com/books?id=0ltoAAAAcAAJ&printsec=frontcover
 ---
+id: dumaniant-ricco
+author:
+  name: Dumaniant
+  wikidata: Q3041146
+title: Ricco
+subtitle: Comédie en deux actes et en prose
+language: fre
+printed: 1789
+premiered: 1789-11-26
+fulltextUrl: https://books.google.com/books?id=elNbAAAAQAAJ&printsec=frontcover
+---
 id: dumanoir-le-code-des-femmes
 author:
   name: Dumanoir
@@ -1889,6 +1924,18 @@ language: fre
 printed: 1804
 premiered: 1804-03-20
 fulltextUrl: https://books.google.com/books?id=_jhaAAAAcAAJ&printsec=frontcover
+---
+id: fagan-favart-la-servante-justifiee
+authors:
+  - name: Barthélemy-Christophe Fagan
+    wikidata: Q2885943
+  - name: Charles-Simon Favart
+    wikidata: Q981902
+title: La servante justifiée
+subtitle: Opéra comique
+language: fre
+premiered: 1740-03-19
+fulltextUrl: https://books.google.com/books?id=7v7Sa9qLiuQC&printsec=frontcover
 ---
 id: fagan-la-pupille
 author:
@@ -2484,6 +2531,16 @@ language: fre
 printed: 1831
 premiered: 1831-05-31
 fulltextUrl: https://books.google.com/books?id=By9MAAAAcAAJ&printsec=frontcover
+---
+id: la-font-l-amour-vange
+author:
+  name: Joseph de La Font
+  wikidata: Q3185843
+title: L'amour vangé
+subtitle: Comédie
+language: fre
+premiered: 1712-10-14
+fulltextUrl: https://books.google.com/books?id=LS2amllsljcC&printsec=frontcover
 ---
 id: la-font-le-naufrage-ou-la-pompe-funebre-de-crispin
 author:
@@ -4023,6 +4080,18 @@ fulltextUrl: https://books.google.com/books?id=vbY2MP-6SBUC&printsec=frontcover
 ids:
   dracor: fre001229
 ---
+id: romagnesi-fuzelier-le-retour-de-tendresse-ou-la-feinte-veritable
+authors:
+  - name: Jean-Antoine Romagnesi
+    wikidata: Q517188
+  - name: Louis Fuzelier
+    wikidata: Q3261972
+title: Le retour de tendresse, ou La feinte veritable
+subtitle: Comédie
+language: fre
+premiered: 1728-05-31
+fulltextUrl: https://books.google.com/books?id=Hg86AAAAcAAJ&printsec=frontcover
+---
 id: rougemont-dumersan-la-visite-du-prince-ou-le-militaire-et-le-financier
 authors:
   - name: Michel-Nicolas Balisson de Rougemont
@@ -4083,6 +4152,16 @@ premiered: 1694-08-02
 fulltextUrl: https://books.google.com/books?id=pwA6AAAAcAAJ&printsec=frontcover
 ids:
   dracor: fre001256
+---
+id: rousseau-les-meprises
+author:
+  name: Pierre Rousseau
+  wikidata: Q3386874
+title: Les méprises
+subtitle: Comédie, en un acte et en vers
+language: fre
+premiered: 1754
+fulltextUrl: https://books.google.com/books?id=6kZX81nUKt4C&printsec=frontcover
 ---
 id: rousseau-pygmalion
 author:

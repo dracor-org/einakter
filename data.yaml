@@ -10115,6 +10115,38 @@ cast:
   - name: Ein Feldwebel.
     gender: m
 ---
+slug: anonym-die-irrungen
+author:
+  pseudonym: Anonym
+title: Die Irrungen
+subtitle: "Eine neue Comödie in einem Aufzuge, nach dem französischen Stücke des Rousseau: les Meprises"
+premiered: 1767-11-06
+formalia:
+  - Prosa
+basedOn:
+  - rousseau-les-meprises
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 22, S. 195
+cast:
+  - name: Orphise.
+    gender: f
+  - name: Celie,
+    role: Orphisens Tochter.
+    gender: f
+  - group:
+      - name: Damis,
+        gender: m
+      - name: Dainval,
+        gender: m
+    role: Celiens Liebhaber.
+  - name: Marin,
+    role: Dainvals demüthiger Freund.
+    gender: m
+  - name: Finette,
+    role: der Orphise Kammermädchen.
+    gender: f
+---
 slug: anonym-die-ueberlaestigen
 author:
   pseudonym: Anonym
@@ -11082,6 +11114,43 @@ settings:
     location:
       wikidataId: Q90
 ---
+slug: anonym-die-zurueckkehrende-zaertlichkeit-oder-die-wahrheit-in-der-verstellung
+author:
+  pseudonym: Anonym
+title: "LE RETOUR DE TENDRESSE, OU: LA FEINTE VERITABLE. Die zurückkehrende Zärtlichkeit/ oder: Die Wahrheit in der Verstellung"
+subtitle: Eine neue Comödie des jüngern Herrn Furelier in einem Ackt
+premiered: 1761-04-16
+formalia:
+  - Prosa
+basedOn:
+  - romagnesi-fuzelier-le-retour-de-tendresse-ou-la-feinte-veritable
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 20, S. 88
+cast:
+  - name: Oronte.
+    gender: m
+  - name: Julie,
+    role: seine Tochter.
+    gender: f
+  - name: Lucinde,
+    role: Orontens Nichte.
+    gender: f
+  - name: Spinette,
+    role: Lucindens Mägdchen.
+    gender: f
+  - name: Dorante,
+    role: Lucindens Liebhaber.
+    gender: m
+  - name: Lisimon,
+    role: Juliens Liebhaber.
+    gender: m
+  - name: Valentin,
+    role: Dorantens Diener.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+---
 slug: anonym-die-zwillinge-von-bergamo
 author:
   pseudonym: Anonym
@@ -12019,6 +12088,39 @@ cast:
     role: Cleons Diener.
     gender: m
 ---
+slug: anonym-l-amour-vange-die-geraechte-liebe
+author:
+  pseudonym: Anonym
+title: L'AMOUR VANGÉ, Die gerächte Liebe
+subtitle: Ein Lustspiel des Herrn de la Font in einem Aufzuge
+premiered: 1759-06-11
+basedOn:
+  - la-font-l-amour-vange
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 191
+cast:
+  - name: Araminte,
+    role: der Lucile Mutter.
+    gender: f
+  - name: Lucile.
+    gender: f
+  - name: Der Chevalier de la Fanfaroniere.
+    gender: m
+  - name: Nerine,
+    role: der Lucile Bediente.
+    gender: f
+  - name: Orgon,
+    role: des Clidamis Vetter.
+    gender: m
+  - name: Clidamis.
+    gender: m
+  - name: Merlin,
+    role: des Clidamis Bedienter.
+    gender: m
+  - name: Ein Notarius.
+    gender: m
+---
 slug: anonym-la-pupille-die-muendel
 author:
   pseudonym: Anonym
@@ -12048,6 +12150,111 @@ cast:
   - name: Lisette,
     role: Charlottens Kammermädchen.
     gender: f
+---
+slug: anonym-la-servante-justifiee-die-rechtbehaltene-magd
+author:
+  pseudonym: Anonym
+title: LA SERVANTE JUSTIFIEE. Die Rechtbehaltene Magd
+subtitle: Eine Comödie in einem Ackt, nach einer kömischen Opera der Herren Fagan und Favart, aus dem Französischen übersetzt
+premiered: 1764-01-31
+formalia:
+  - Prosa
+basedOn:
+  - fagan-favart-la-servante-justifiee
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 21, S. 62
+cast:
+  - name: Frau Bertrand,
+    role: eine Müllerwittwe.
+    gender: f
+  - name: Frau Cliquet,
+    role: ihre und des Herrn Griffaut Gevatterinn.
+    gender: f
+  - name: Colin,
+    role: der Mühlknappe.
+    gender: m
+  - name: Lison,
+    role: in der Frau Bertrand diensten.
+    gender: f
+  - name: Herr Griffaut,
+    role: der Gerichtsverwalter.
+    gender: m
+---
+slug: anonym-l-avare-amoureux-der-verliebte-geizige
+author:
+  pseudonym: Anonym
+title: L'AVARE AMOUREUX. Der verliebte Geizige
+subtitle: Ein Lustspiel des Hrn. d'Aigueberre in einem Aufzuge
+premiered: 1759-05-02
+basedOn:
+  - d-aigueberre-l-avare-amoureux
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 175
+cast:
+  - name: Argante,
+    role: der Julie Liebhaber.
+    gender: m
+  - name: Geronte,
+    role: der Julie Vater.
+    gender: m
+  - name: Julie.
+    gender: f
+  - name: Dorimene,
+    role: Gerontens Schwester.
+    gender: f
+  - name: Valere,
+    role: Juliens Liebhaber.
+    gender: m
+  - name: Nerine,
+    role: Juliens Bediente.
+    gender: f
+  - group:
+      - name: Herr Subtil,
+        gender: m
+      - name: Herr Courteligne,
+        gender: m
+    role: Notarien.
+---
+slug: anonym-le-depot
+author:
+  pseudonym: Anonym
+title: LE DEPOT Die zur Verwahrung gegebene Erbschafft
+subtitle: Ein neues Lustspiel des Herrn Ner. Destouches von einem Aufzuge
+premiered: 1759-12-28
+basedOn:
+  - destouches-le-depot
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 167
+cast:
+  - name: Geronte,
+    role: ein vornehmer Herr, der auf seinem Landgute nahe bey Paris lebet.
+    gender: m
+  - name: Der Baron,
+    role: Nachbar des Geronte.
+    gender: m
+  - name: Angelike,
+    role: Tochter des Geronte.
+    gender: f
+  - name: Lisette,
+    role: Kammerjungfer der Angelike.
+    gender: f
+  - name: Clitander,
+    role: Liebhaber der Angelike.
+    gender: m
+  - name: Der Marquis von Esbignac.
+    gender: m
+  - name: Der Graf,
+    role: des Barons Neffe.
+    gender: m
+  - name: Frontin,
+    role: Kammerdiener von Gerontens Sohn.
+    gender: m
+  - name: Guignac,
+    role: Lakey des Geronte.
+    gender: m
 ---
 slug: anonym-le-francois-a-londres-der-franzos-zu-london
 author:
@@ -12148,6 +12355,96 @@ cast:
     role: ein Diener.
     gender: m
 ---
+slug: anonym-l-epouse-suivante-die-frau-als-bediente
+author:
+  pseudonym: Anonym
+title: L'EPOUSE SUIVANTE, Die Frau als Bediente
+subtitle: Ein Lustspiel des Hrn. de Chevrier von einem Aufzuge
+premiered: 1759-02-21
+basedOn:
+  - chevrier-l-epouse-suivante
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 171–172
+cast:
+  - name: Constance.
+    gender: f
+  - name: Die Marquisin.
+    gender: f
+  - name: Der Graf.
+    gender: m
+  - name: Der Baron.
+    gender: m
+  - name: Frontin,
+    role: Bedienter des Grafen.
+    gender: m
+  - name: Dorine,
+    role: der Constance Bediente.
+    gender: f
+---
+slug: anonym-l-epouse-suivante-die-frau-als-kammermaegdchen
+author:
+  pseudonym: Anonym
+title: L'EPOUSE SUIVANTE, Die Frau als Kammermägdchen
+subtitle: Eine Komödie des Hrn. de Chevrier in einem Ackt, aus dem Französis. übersetzt
+premiered: 1764-12-28
+basedOn:
+  - chevrier-l-epouse-suivante
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 21, S. 39
+cast:
+  - name: Die Marquisinn.
+    gender: f
+  - name: Der Graf,
+    role: ihr Sohn.
+    gender: m
+  - name: Der Baron,
+    role: dessen Freund.
+    gender: m
+  - name: Constance.
+    gender: f
+  - name: Dorine,
+    role: ihr Kammermägdchen.
+    gender: f
+  - name: Crispin,
+    role: Bedienter des Grafen.
+    gender: m
+---
+slug: anonym-les-billets-doux-die-liebes-briefe
+author:
+  pseudonym: Anonym
+title: Les Billets-doux, Die Liebes-Briefe
+subtitle: Ein neues Lustspiel des Herrn de Boissy in einem Aufzuge
+premiered: 1760-04-15
+formalia:
+  - Prosa
+basedOn:
+  - boissy-les-billets-doux
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 362
+cast:
+  - name: Clarice,
+    role: eine junge und reiche Wittwe.
+    gender: f
+  - name: Julie.
+    gender: f
+  - name: Damon,
+    role: der Julie Liebhaber.
+    gender: m
+  - name: Valer,
+    role: der Clarice Liebhaber.
+    gender: m
+  - name: Merlin,
+    role: Damons Diener.
+    gender: m
+  - name: Marton,
+    role: Claricens und Juliens Bediente.
+    gender: f
+  - name: Ein Notarius.
+    gender: m
+---
 slug: anonym-les-filles-medecins-die-weiblichen-aerzte
 author:
   pseudonym: Anonym
@@ -12182,6 +12479,36 @@ cast:
     role: Clitanders Liebste.
     gender: f
 ---
+slug: anonym-les-meprises-der-mannigfaltige-irrthum
+author:
+  pseudonym: Anonym
+title: LES MEPRISES, Der mannigfaltige Irrthum
+subtitle: Ein neues Lustspiel des Hrn. Pierre Rousseau in einem Aufzuge, hier in Hamburg übersetzt
+premiered: 1759-11-15
+basedOn:
+  - rousseau-les-meprises
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 186–187
+cast:
+  - name: Orphise.
+    gender: f
+  - name: Lelie,
+    role: Nichte der Orphise.
+    gender: f
+  - name: Finette,
+    role: Kammermädchen.
+    gender: f
+  - group:
+      - name: Dainvall,
+        gender: m
+      - name: Damis,
+        gender: m
+    role: Liebhaber der Lelie.
+  - name: Marin,
+    role: Dainvalls Bedienter.
+    gender: m
+---
 slug: anonym-les-oyes-de-frere-philip-die-gaenschen-des-bruder-philipp-oder-der-einsiedler
 author:
   pseudonym: Anonym
@@ -12215,6 +12542,41 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist Wald.
+---
+slug: anonym-l-etourderie-der-aus-unbesonnenheit-entstandene-irrthum
+author:
+  pseudonym: Anonym
+title: L'ETOURDERIE. Der aus Unbesonnenheit entstandene Irrthum
+subtitle: Ein Lustspiel des Herrn Fagan, in einem Aufzuge
+premiered: 1759-02-15
+basedOn:
+  - fagan-l-etourderie
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 186
+cast:
+  - name: Herr Cleonte.
+    gender: m
+  - name: Madame Cleonte,
+    role: des Herrn Cleonte Frau.
+    gender: f
+  - name: Mademoiselle Cleonte,
+    role: des Herrn Cleonte Schwester.
+    gender: f
+  - name: Mondor.
+    gender: m
+  - name: Der Herr Doctor,
+    role: Liebhaber der Mademoiselle Cleonte.
+    gender: m
+  - name: Pirante,
+    role: Mondors Vetter.
+    gender: m
+  - name: Carlin,
+    role: Mondors Diener.
+    gender: m
+  - name: Zween Bediente.
+    isGroup: true
+    gender: m
 ---
 slug: anonym-liebe-macht-narren-oder-die-laecherliche-verkleidung
 author:
@@ -64927,6 +65289,26 @@ settings:
   - description: >-
       Schauplaz, Försterwohnung auf der rauhen würtenbergischen Alp. Zeit, 1528.
 ---
+slug: meyer-wie-geronnen-wo-zerronnen
+author:
+  name: Meyer, Friedrich Ludwig Wilhelm
+  wikidata: Q1460909
+title: Wie geronnen, wo zerronnen
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 19
+created: 1793
+formalia:
+  - Prosa
+basedOn:
+  - dumaniant-ricco
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 419
+comments:
+  - "Titel »Wie geronnen, wo zerronnen« so bei Meyer."
+  - "1793 in zwei Akten gedruckt und aufgeführt: [»Taps, oder: Wie gewonnen, so zerronnen. Posse in zwey Aufzügen. Aus dem Französischen des Dumaniant«](https://books.google.com/books?id=-pBHAAAAcAAJ&printsec=frontcover) (1793)."
+  - "Die einaktige Variante nur als Manuskript, laut Meyer ist das »Personal auf 5 reduziert«."
+---
 slug: meyer-zwei-koerbe-und-doch-eine-heirath
 author:
   name: Meyer, Heinrich
@@ -82715,6 +83097,36 @@ settings:
   - description: >-
       Das Theater stellt zwey Gärten vor, die durch eine Mauer getrennt werden. Der eine ist Schönbergs Garten, den andern hat seine Frau unter dem Namen Julie Biller gemiethet. In Schönbergs Garten ist eine Laube.
 ---
+slug: sonnleithner-die-jaehzornige-frau
+author:
+  name: Sonnleithner, Joseph
+  wikidata: Q86117
+title: Die jähzornige Frau
+subtitle: Lustspiel in einem Aufzuge
+premiered: 1810-02-28
+basedOn:
+  - etienne-la-jeune-femme-colere
+comments:
+  - "Theaterzettel: [Weimar 1810](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00056209/1810_0025.tif)."
+cast:
+  - name: Emil von Valrive,
+    role: Dragoner-Rittmeister.
+    gender: m
+  - name: Rose von Volmar,
+    role: seine Frau.
+    gender: f
+  - name: Volmar,
+    role: Major der Cavallerie.
+    gender: m
+  - name: Germain,
+    role: Emils alter Diener.
+    gender: m
+  - name: Therese,
+    role: sein Weib.
+    gender: f
+  - name: Ein Jokey.
+    gender: m
+---
 slug: sonnleithner-die-kurze-ehe
 author:
   name: Sonnleithner, Joseph
@@ -84097,6 +84509,26 @@ settings:
       Die Scene ist in Surinam, in der Plantage des Herrn van Kern, Morgens vor Anbruch des Tages.
     location:
       wikidataId: Q730
+---
+slug: steinsberg-die-proberollen
+author:
+  name: Steinsberg, Karl Franz Guolfinger von
+  wikidata: Q94847778
+title: Die Proberollen
+subtitle: Posse in einem Aufzuge, mit Gesang und Tanz
+premiered: 1811-03-25
+comments:
+  - "Theaterzettel: [Weimar 1811](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00042311/003185.tif)."
+cast:
+  - name: Berg,
+    role: Schloßverwalter.
+    gender: m
+  - name: Gustchen,
+    role: seine Tochter.
+    gender: f
+  - name: Falk,
+    role: Kammerdiener des Grafen.
+    gender: m
 ---
 slug: steinsberg-die-raeuberhoehle
 author:
