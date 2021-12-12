@@ -159,7 +159,11 @@ export default function Details () {
                   )}
                   {ids.weber && (
                     <li>
-                      Weber-Gesamtausgabe: <IdLink id={ids.weber} type="weber"/>
+                      Weber-Gesamtausgabe: 
+                      <small className="inline-flex bg-white rounded pl-1 pr-1.5 gap-0.5 align-text-bottom">
+                        <img src="/weber.svg" width="14" alt="weber"/>
+                        <IdLink id={ids.weber} type="weber"/>
+                      </small>
                     </li>
                   )}
                 </ul>
