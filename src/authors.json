@@ -2826,6 +2826,22 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q15876214": {
+    "name": "Jacob Herzfeld",
+    "gnd": "116760931",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Herzfeld.jpg",
+    "birth": {
+      "date": "1762-01-02T00:00:00Z",
+      "place": "Dessau",
+      "placeId": "http://www.wikidata.org/entity/Q487070"
+    },
+    "death": {
+      "date": "1826-10-24T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
+    },
+    "gender": "male"
+  },
   "Q55902768": {
     "name": "August Wilhelm Hesse",
     "gnd": "141246952",
@@ -3710,7 +3726,9 @@
       "placeId": "http://www.wikidata.org/entity/Q1715"
     },
     "death": {
-      "date": "1842-05-17T00:00:00Z"
+      "date": "1842-05-17T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
     },
     "gender": "female"
   },

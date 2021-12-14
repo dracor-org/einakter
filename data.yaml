@@ -8191,7 +8191,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 185
 comments:
-  - "Undatiertes Manuskript. Laut Meyer »publ. in Berlin: Sander 1782«."
+  - "Undatiertes Manuskript. Laut Meyer »publ. in Berlin: Sander 1782«. Es handelt sich aber wohl um ein [Stück von Lotz (aufgeführt 1817 in Hamburg)](lotz-die-freyer)."
 cast:
   - name: Bertram,
     role: Schulz eines Dorfs.
@@ -41706,6 +41706,40 @@ settings:
   - description: >-
       Saal, im Hintergrunde zwei Thüren. Rechts ebenfalls eine Thür, links ein Fenster.
 ---
+slug: herzfeld-der-hausverkauf
+author:
+  name: Herzfeld, Jakob
+  wikidata: Q15876214
+title: Der Hausverkauf
+subtitle: Ein Lustspiel in einem Acte, aus dem Französischen, la maison a vendre des Duval, frey übersetzt von J. Herzfeld
+premiered: 1802-01-12
+basedOn:
+  - duval-maison-a-vendre
+comments:
+  - "Theaterzettel: [Hamburg 1802](https://www.stadttheater.uni-hamburg.de/system/files/1802-01-12.pdf)."
+cast:
+  - name: Madame Steinberg.
+    gender: m
+  - name: Julie,
+    role: ihre Nichte.
+    gender: f
+  - name: Herr Breitfuß.
+    gender: m
+  - name: Lindau,
+    role: ein junger Dichter.
+    gender: m
+  - name: Malbach,
+    role: ein junger Componist.
+    gender: m
+  - name: Caspar,
+    role: Diener bey Herrn Breitfuß.
+    gender: m
+  - name: Ein Gärtner.
+    gender: m
+  - name: Zwey Diener der Madame Steinberg.
+    isGroup: true
+    gender: m
+---
 slug: hesse-weihnachten
 author:
   name: Hesse, August Wilhelm
@@ -47767,6 +47801,42 @@ settings:
       Die Scene in einem Hotel.
   - description: >-
       Ein kleines Zimmerchen im obersten Gestock des Hotels.
+---
+slug: kind-der-kirchhof-zu-savelthem
+author:
+  name: Kind, Johann Friedrich
+  wikidata: Q78246
+title: Der Kirchhof zu Savelthem
+subtitle: Nachspiel in 1 Akt
+numberOfScenes: 1
+printed: 1817
+premiered: 1819-01-21
+formalia:
+  - Blankvers
+editions:
+  - title: "Malerische Schauspiele. No. I. Van Dycks Landleben. Von Friedrich Kind. Leipzig: Göschen 1817, S. 191–209 (Anhang)"
+    url: https://books.google.com/books?id=FJ06AAAAcAAJ&pg=PA191
+  - title: "Classische Cabinets-Bibliothek oder Sammlung auserlesener Werke der deutschen und Fremd-Literatur. Acht und zwanzigstes Bändchen. Wien: Schade 1825, S. 193–206"
+    url: https://books.google.com/books?id=2wczAQAAMAAJ&pg=PA193
+comments:
+  - "Im Druck ohne Einakterhinweis, auf Theaterzetteln mit dem Untertitel »Nachspiel in 1 Akt«. Auf der Titelseite des Drucks von 1825 als »dramatische Elegie« bezeichnet ([S. 3](https://books.google.com/books?id=2wczAQAAMAAJ&pg=PA3))."
+reviews:
+  - "Friedrich Gottlieb Zimmermann's Dramaturgie. Erstes und kräftigstes Wirken in den Jahren 1817–1820, nebst einer charakteristischen Lebensskizze des Verfassers. Herausgegeben von Georg Lotz. Erster Band. Hamburg: Herold 1840, [S. 114–119](https://books.google.com/books?id=DbNKAAAAcAAJ&pg=PA114)."
+ids:
+  weber: A021283
+cast:
+  - name: Thomas,
+    role: Organist, von Alter erblindet.
+    gender: m
+  - name: Johannes,
+    role: sein Enkel.
+    gender: m
+  - name: Maria,
+    role: seine Enkelin.
+    gender: f
+settings:
+  - description: >-
+      Die Scene, wie im letzten Aufzuge von Van Dyck's Landleben.
 ---
 slug: kind-der-orangenbaum
 author:
@@ -54782,6 +54852,36 @@ settings:
   - description: >-
       Saal mit mehreren Thüren im Haus des Baron Löventhal. Ein Tisch mit einer Klingel und eine Klingelschnur an der Wand.
 ---
+slug: krickeberg-der-kammerdiener
+author:
+  name: Krickeberg, Sophie Friederike
+  wikidata: Q26878036
+title: Der Kammerdiener
+subtitle: Lustspiel in einem Aufzuge
+premiered: 1824-07-05
+basedOn:
+  - scribe-melesville-le-valet-de-chambre
+comments:
+  - "Theaterzettel: [Düsseldorf 1835](https://nbn-resolving.de/urn:nbn:de:hbz:061:2-61998)."
+cast:
+  - name: Graf von Gerville.
+    gender: m
+  - name: Die Gräfin.
+    gender: f
+  - name: Germain,
+    role: Kammerdiener.
+    gender: m
+  - name: Annette,
+    role: eine Bäuerin.
+    gender: f
+  - name: Ein Kutscher.
+    gender: m
+  - name: Ein Koch.
+    gender: m
+  - name: Düpré,
+    role: Bedienter.
+    gender: m
+---
 slug: krickeberg-philipp
 author:
   name: Krickeberg, Sophie Friederike
@@ -61766,8 +61866,11 @@ author:
 title: Die Freyer
 subtitle: Lustspiel in einem Aufzuge
 premiered: 1817-12-09
+formalia:
+  - Alexandriner
 comments:
   - "Theaterzettel: [Hamburg 1817](https://www.stadttheater.uni-hamburg.de/system/files/1817-12-09_0.pdf)."
+  - "Autorangabe laut Goedeke, Band XI/1, [S. 396](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/396/mode/2up). Meyer ordnet ein Manuskript desselben Werks unter [Anonyme 1782](anonym-die-freyer) ein."
 reviews:
   - "Friedrich Gottlieb Zimmermann's Dramaturgie. Erstes und kräftigstes Wirken in den Jahren 1817–1820, nebst einer charakteristischen Lebensskizze des Verfassers. Herausgegeben von Georg Lotz. Erster Band. Hamburg: Herold 1840, [S. 66–68](https://books.google.com/books?id=DbNKAAAAcAAJ&pg=PA66)."
 cast:
@@ -88783,6 +88886,17 @@ settings:
     location:
       wikidataId: Q511254
 ---
+slug: vio-marton-und-frontin
+author:
+  pseudonym: Vio
+title: Marton und Frontin
+subtitle: Lustpiel in einem Akt, aus dem Französischen übersetzt
+premiered: 1806-08-05
+basedOn:
+  - dubois-marton-et-frontin-ou-assaut-de-valets
+comments:
+  - "Theaterzettel: [Wien 1806](https://lhwei.gbv.de/DB=2/XMLPRS=N/PPN?PPN=751342793)."
+---
 slug: vogel-das-seltene-rezept
 author:
   name: Vogel, Wilhelm
@@ -93881,7 +93995,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 21, S. 483
 comments:
-  - "Bei Meyer wird die Textgrundlage noch unter die Anonyme sortiert. Als Autor haben wir Christian Felix Weiße erschlossen; von ihm kursierte ein gleichnamiges »Lustspiel in einem Aufzug (Manuskript, um 1750)« (vgl. »Lessing. Gespräche, Begegnungen, Lebenszeugnisse. Teil 2. Kamenz: Lessing-Museum 2005, S. 790). Lessing habe mehrere von Weißens Stücke 1756 mit auf Reisen genommen, um sie mit Ekhof zu diskutieren (vgl. August Wolfrom: Lessing und das Drama. Magdeburg: Heinrichshofen 1860, [S. 16](https://books.google.com/books?id=mbg8AAAAYAAJ&pg=RA1-PA16))."
+  - "Bei Meyer wird die Textgrundlage noch unter die Anonyme sortiert. Als Autor haben wir Christian Felix Weiße erschlossen; von ihm kursierte ein gleichnamiges »Lustspiel in einem Aufzug (Manuskript, um 1750)« (vgl. »Lessing. Gespräche, Begegnungen, Lebenszeugnisse. Teil 2. Kamenz: Lessing-Museum 2005, S. 790). Lessing habe mehrere von Weißes Stücken 1756 mit auf Reisen genommen, um sie mit Ekhof zu diskutieren (vgl. August Wolfrom: Lessing und das Drama. Magdeburg: Heinrichshofen 1860, [S. 16](https://books.google.com/books?id=mbg8AAAAYAAJ&pg=RA1-PA16))."
 cast:
   - name: Der Baron.
     gender: m
