@@ -4409,6 +4409,45 @@ settings:
   - description: >-
       Die Schaubühne stellet eine Gasse mit einem Buchladen vor.
 ---
+slug: anonym-der-buergerliche-ehestand
+author:
+  pseudonym: Anonym
+title: Der bürgerliche Ehestand
+subtitle: Eine Comödie in einem Ackt, aus dem Holländischen übersetzt
+premiered: 1764-03-08
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 21, S. 35
+cast:
+  - group:
+      - name: Hieronymus,
+        role: Vater
+        gender: m
+      - name: Margaretha,
+        role: Mutter
+        gender: f
+    role: von Magdalenen und Heinrich.
+  - name: Heinrich,
+    role: Saarchens Liebhaber.
+    gender: m
+  - name: Magdalene,
+    role: des Edelherz Geliebte.
+    gender: f
+  - name: Edelherz,
+    role: Magdalenens Freyer.
+    gender: m
+  - name: Saarchen,
+    role: Heinrichs Geliebte.
+    gender: f
+  - name: Jost,
+    role: des Edelherz Bedienter.
+    gender: m
+  - name: Ein Mäckler.
+    gender: m
+  - name: Johann,
+    role: des Hieronymus Bursche.
+    gender: m
+---
 slug: anonym-der-dervisch
 author:
   name: C.
@@ -7800,6 +7839,36 @@ settings:
       Der Schauplatz ist zu Paris in Oronts Hause.
     location:
       wikidataId: Q90
+---
+slug: anonym-die-dreymal-verschenkten-ohrgehaenge
+author:
+  pseudonym: Anonym
+title: Die dreymal verschenkten Ohrgehänge
+subtitle: Eine neue Comödie des Hrn. le Grand in einem Ackt, aus dem Französischen übersetzt
+premiered: 1759
+basedOn:
+  - legrand-les-nouveaux-debarques
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 372
+cast:
+  - name: Dorimont.
+    gender: m
+  - name: Dorimene,
+    role: des Dorimonts Frau.
+    gender: f
+  - name: Herr von Bagenaudier,
+    role: ein gewesener Grobschmidt.
+    gender: m
+  - name: Der Baron von Bagenaudier,
+    role: dessen Sohn.
+    gender: m
+  - name: Zerbine,
+    role: der Dorimene Mägdchen.
+    gender: m
+  - name: Frontin,
+    role: ein Intriguenmacher.
+    gender: m
 ---
 slug: anonym-die-eigensinnigen
 author:
@@ -11726,6 +11795,27 @@ cast:
     role: Stubenmägdchen.
     gender: f
 ---
+slug: anonym-in-der-luft
+author:
+  pseudonym: Anonym
+title: In der Luft
+subtitle: Schwank in einem Aufzuge, frei nach dem Französischen
+premiered: 1847-01-01
+basedOn:
+  - duvert-lauzanne-entre-ciel-et-terre
+comments:
+  - "Theaterzettel: [Hamburg 1847](https://www.stadttheater.uni-hamburg.de/system/files/1847-01-01.pdf)."
+cast:
+  - name: Blount,
+    role: ein Luftschiffer.
+    gender: m
+  - name: Keck,
+    role: ein Aventurier.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung begiebt sich in der Luft in der Gondel eines Lufballons.
+---
 slug: anonym-isabella-und-gertraude-oder-die-erdichtete-luft-geister
 author:
   pseudonym: Anonym
@@ -13382,6 +13472,30 @@ cast:
     gender: f
 settings:
   - description: Das Stück spielt auf dem Lande, in dem Gartensaale eines Schlosses.
+---
+slug: anonym-wie-gewonnen-so-zerronnen
+author:
+  pseudonym: Anonym
+title: Wie gewonnen so zerronnen
+subtitle: Lustspiel in einem Akt, nach dem Französischen
+premiered: 1825-01-27
+basedOn:
+  - dupaty-scribe-un-dernier-jour-de-fortune
+comments:
+  - "Theaterzettel: [Hamburg 1825](https://www.stadttheater.uni-hamburg.de/system/files/1825-01-27.pdf)."
+cast:
+  - name: Herr von Michelson.
+    gender: m
+  - name: Frau von Wagenheim.
+    gender: f
+  - name: Edwin von Wiederkehr.
+    gender: m
+  - name: Cäcilie,
+    role: Hausjungfer.
+    gender: f
+  - name: Jasmin,
+    role: Michelsons Diener.
+    gender: m
 ---
 slug: anonym-yariko
 author:
@@ -23953,6 +24067,51 @@ settings:
       obern Wolken halb verdeckt. Während des Aufsteigens kann im Orchester eine
       sanfte Musik gemacht werden, welche endet, wenn Robert zu sprechen
       anfängt.
+---
+slug: chamisso-die-wunderkur
+author:
+  name: Chamisso, Adelbert von
+  wikidata: Q154782
+title: Die Wunderkur
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 1
+printed: 1975
+premiered: 1825-05-09
+formalia:
+  - Blankvers
+editions:
+  - title: "Adelbert von Chamisso. Sämtliche Werke in zwei Bänden. Nach dem Text der Ausgaben letzter Hand und den Handschriften. Textredaktion Jost Perfahl. Bibliographie und Anmerkungen von Volker Hoffmann. Band I. München: Winkler 1975, S. 125–141"
+comments:
+  - "»Die Wunderkur« wurde am 9. Mai 1825 im Königlichen Schauspiel zu Potsdam uraufgeführt, aber bereits nach zwei weiteren Aufführungen abgesetzt. Nach ihrem öffentlichen Misserfolg untersagte Chamisso die Drucklegung. Erst diese Ausgabe der Sämtlichen Werke legte sie 1975 im Erstdruck vor.« (Jürgen Barkhoff: Magnetische Fiktionen. Literarisierung des Mesmerismus in der Romantik. Stuttgart; Weimar: Metzler 1995, [S. 272](https://books.google.com/books?id=CkG3DQAAQBAJ&pg=PA272)."
+keywords:
+  - Magnetismus
+  - Eheanbahnung
+cast:
+  - name: Der Graf Maximilian zur Sonnenburg.
+    gender: m
+  - name: Fräulein Mathilde,
+    role: seine Tochter.
+    gender: f
+  - name: Franz von Truxheim,
+    role: Justizpräsident.
+    gender: m
+  - name: Ludwig von Truxheim,
+    role: sein Sohn, Husarenoffizier.
+    gender: m
+  - name: Der Burgkapellan.
+    gender: m
+  - name: Der Doktor,
+    role: Hausarzt des Grafen.
+    gender: m
+  - name: Nicolas aus Hohenflüh,
+    role: ein Bauer.
+    gender: m
+  - name: Bediente.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Handlung ist auf er Sonnenburg, dem Schlosse des Grafen.
 ---
 slug: chezy-der-neue-narziss
 author:
@@ -35698,6 +35857,24 @@ cast:
 settings:
   - description: Die Handlung spielt zu Merlü gleich nach Mittage.
 ---
+slug: hagemann-antonin-caesar-in-rom
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: Antonin, Cäsar in Rom
+subtitle: Heroisches Monodrama in einem Aufzuge
+printed: 1810
+premiered: 1809-09-29
+editions:
+  - title: "Neue Schauspiele von Gustav Hagemann. Zweyter Band. Eisenach: Wittekindt 1810, S. 479–494"
+comments:
+  - "Theaterzettel: [Würzburg 1809](https://vb2.uni-wuerzburg.de/solr/theaterzettel/browse?q=antonin)."
+keywords:
+  - Monodrama
+cast:
+  - name: Antonin.
+    gender: m
+---
 slug: hagemann-der-fuerst-und-sein-kammerdiener
 author:
   name: Hagemann, Friedrich Gustav
@@ -40350,6 +40527,57 @@ settings:
   - description: >-
       Das Theater stellt eine Vorhalle in der Citadelle vor; links ein Balconfenster, mit einem Balcon, der nach dem Hofe der Citadelle hinausgeht. – Auf derselben Seite eine Thüre mit der Ueberschrift: Waffensaal. Im Hintergrunde der Haupteingang, durch ein Gitter (von halber Mannshöhe) geschlossen. Auf der rechten Seite Emiliens Zimmer; in der nächsten Coulisse des Majors Zimmer; in der letzten Coulisse eine Thüre, die zu dem Gefängnißzimmer führt, über welches ein Fenster mit eisernen Stäben. Vorne rechts steht ein Harfenfutteral, ein Stickrahmen mit Tapisserie-Arbeit, und mehrere Kartons. Links ein Tisch.
 ---
+slug: herrmann-die-gefoppten
+author:
+  name: Herrmann, Bernhard Anton
+  wikidata: Q55123021
+title: Die Gefoppten
+subtitle: Posse in einem Aufzuge, nach einer Anekdote
+printed: 1842
+premiered: 1842-07-22
+editions:
+  - title: "Hamburg: Wörmer 1842"
+comments:
+  - "Theaterzettel: [Hamburg 1842](https://www.stadttheater.uni-hamburg.de/system/files/1842-07-22_0.pdf)."
+cast:
+  - name: Fürst Tolstoi,
+    role: Hofmarschall.
+    gender: m
+  - name: Yermeloff,
+    role: Kammerherr.
+    gender: m
+  - group:
+      - name: Pushkin,
+        gender: m
+      - name: Smolski,
+        gender: m
+    role: Hofleute.
+  - name: Knutoff,
+    role: Polizei-Inspector.
+    gender: m
+  - group:
+      - name: Koulina,
+        gender: f
+      - name: Matuska,
+        gender: f
+    role: Schauspielerinnen beim russischen Theater.
+  - name: Frogéres,
+    role: französischer Schauspieler.
+    gender: m
+  - name: Loupin,
+    role: Soufleur.
+    gender: m
+  - name: Ein Page.
+    gender: m
+  - name: Hofleute. Wachen.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Ort der Handlung: St. Petersburg. Zeit: 1799.
+    location:
+      wikidataId: Q656
+---
 slug: herrmann-die-liebe-im-ersten-und-im-dritten-stock
 author:
   name: Herrmann, Bernhard Anton
@@ -40744,6 +40972,19 @@ settings:
     location:
       wikidataId: Q831377
 ---
+slug: herzenskron-der-herr-johannes-vom-parisergassel
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Der Herr Johannes vom Parisergassel
+subtitle: Lokale Posse mit Ges. in 1 Akt
+premiered: 1813-01-23
+reviews:
+  - "Allgemeine Musikalische Zeitung. No. 11 (Den 17ten März 1813), [Sp. 194](https://books.google.com/books?id=tQYVAAAAQAAJ&pg=PA193)."
+comments:
+  - "Nachweis bei Goedeke, Band XI/2, [S. 194](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungAusDenQuellen-2-11-2/page/194/mode/2up)."
+  - "Parodie der Oper von François-Adrien Boieldieu: [»Johann von Paris«](https://books.google.com/books?id=tVtOAAAAcAAJ&printsec=frontcover)."
+---
 slug: herzenskron-der-hufschmied
 author:
   name: Herzenskron, Hermann
@@ -41050,6 +41291,17 @@ settings:
   - description: >-
       Das Theater stellt einen Garten vor. Seitwärts eine beinahe geschlossene Laube, worin man einen Tisch mit allerlei Schreibmaterialien, Schriften, Büchern u.s.w. sieht, welche Unordnung umherliegen.
 ---
+slug: herzenskron-die-heirat-durch-die-pferdekomoedie
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: "Die Heirat durch die Pferdekomödie, oder: Die Räuber in den Abruzzen"
+subtitle: Lokale Posse mit Gesang in 1 Akt
+premiered: 1822-11-28
+comments:
+  - "Nachweis bei Goedeke, Band XI/2, [S. 195](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungAusDenQuellen-2-11-2/page/194/mode/2up)."
+  - "Vorlage für Nestroys [»Der Zettelträger Papp«](nestroy-der-zetteltraeger-papp)."
+---
 slug: herzenskron-die-perruecke
 author:
   name: Herzenskron, Hermann
@@ -41346,6 +41598,18 @@ settings:
       Die Handlung geht auf dem Gute der Frau v. Langer vor.
   - description: >-
       Das Theater stellt einen Garten vor. Rechts ein Gartenhaus, wo Sternthal und seine Frau wohnen.
+---
+slug: herzenskron-list-und-strafe-oder-die-unversehene-wette
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: "List und Strafe, oder: Die unversehene Wette"
+subtitle: Lustspiel in 1 Akt nach Sedaine
+premiered: 1833-09-09
+basedOn:
+  - sedaine-la-gageure-imprevue
+comments:
+  - "Nachweis nur bei Goedeke, Band XI/2, [S. 197](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungAusDenQuellen-2-11-2/page/196/mode/2up)."
 ---
 slug: herzenskron-schwindels-fatalitaeten
 author:
@@ -41725,6 +41989,8 @@ editions:
 comments:
   - Erste Fortsetzung des Einakters [»Die beiden Billets«](heyne-die-beiden-billets).
   - Hinweis auf Einaktigkeit mindestens seit 1800 auf Theaterzetteln ([Bremen 1800](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1678146)).
+ids:
+  wikidata: Q110080014
 keywords:
   - Die beiden Billets
 cast:
@@ -46108,6 +46374,62 @@ cast:
   - name: Fischer.
     gender: m
 ---
+slug: jann-die-rekrutenaushebung
+author:
+  name: Jann, Franz Xaver
+  wikidata: Q55676541
+title: Die Rekrutenaushebung
+subtitle: Eine bürgerliche Handlung in einem Aufzuge
+printed: 1800
+editions:
+  - title: "Etwas wider die Mode. Schauspiele und Gedichte ohne Caressen, und Heurathen; für studirende Jugend. Herausgegeben von Franz Xaver Jann. Fünfter Theil. Augsburg: Wolff 1800, S. 234–291"
+    url: https://books.google.com/books?id=HpnomqrhNREC&pg=RA1-PT17
+comments:
+  - Scan nicht vollständig, bricht nach Personenverzeichnis ab.
+cast:
+  - name: Herr Ehrmann,
+    role: ehemaliger Pfleger im Dorfe.
+    gender: m
+  - name: Karl,
+    role: Ehrmanns Sohn.
+    gender: m
+  - name: Treulieb,
+    role: ein Bürger, Ehrmanns Schwager.
+    gender: m
+  - name: Hr. Buchenholz,
+    role: wirklicher Pfleger im Dorfe.
+    gender: m
+  - name: Ein Obristwachtmeister.
+    gender: m
+  - name: Wilhelm,
+    role: dessen Söhnchen.
+    gender: m
+  - name: Büttel, oder Amtsknecht.
+    gender: m
+  - group:
+      - name: Steffen
+        gender: m
+      - name: Hanns
+        gender: m
+      - name: Thoms
+        gender: m
+      - name: Veit
+        gender: m
+      - name: Görge
+        gender: m
+    role: fünf Bauern.
+  - name: Der Stiftbauer.
+    gender: m
+  - name: Steffen,
+    role: dessen Sohn.
+    gender: m
+  - group:
+      - name: Schwall
+        gender: m
+      - name: Rasch
+        gender: m
+    role: zween Werbsoldaten.
+---
 slug: jelpke-ein-schaeferspiel-ohne-liebe
 author:
   name: Jelpke, Johann Wilhelm
@@ -49967,6 +50289,39 @@ settings:
       Der Schauplatz ist zu Hamburg.
     location:
       wikidataId: Q1055
+---
+slug: korntheuer-alle-sind-verliebt
+author:
+  name: Korntheuer, Friedrich Joseph
+  wikidata: Q18222561
+title: Alle sind verliebt
+subtitle: Lustspiel in einem Akte
+numberOfScenes: 21
+premiered: 1823-06-21
+formalia:
+  - Prosa
+editions:
+  - title: "Herausgegeben von Jennyfer Großauer-Zöbinger. Graz 2011"
+    url: http://lithes.uni-graz.at/kasperls_erben/pdfs_erben/ed_korntheuer_verliebt.pdf
+cast:
+  - name: Herr Brunnmann,
+    role: reicher Holzversilberer.
+    gender: m
+  - name: Leonore,
+    role: seine Tochter.
+    gender: f
+  - name: Madame Leitner,
+    role: Witwe eines reichen Schiffmeisters aus Stein.
+    gender: f
+  - name: Christian Brav,
+    role: Bräumeister aus Böhmen.
+    gender: m
+  - name: Carl Gräber,
+    role: Beamter.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung spielt in der Jägerzeile.
 ---
 slug: korntheuer-der-ist-der-rechte
 author:
@@ -61403,6 +61758,37 @@ settings:
       Die Handlung geht auf einem Landhause, nahe bey Wien, vor. – Der Schauplatz stellt einen Garten vor, an der einen Seite ein Haus, an der andern ein Pavillon.
     location:
       wikidataId: Q1741
+---
+slug: lotz-die-freyer
+author:
+  name: Lotz, Georg Hans
+  wikidata: Q28924219
+title: Die Freyer
+subtitle: Lustspiel in einem Aufzuge
+premiered: 1817-12-09
+comments:
+  - "Theaterzettel: [Hamburg 1817](https://www.stadttheater.uni-hamburg.de/system/files/1817-12-09_0.pdf)."
+reviews:
+  - "Friedrich Gottlieb Zimmermann's Dramaturgie. Erstes und kräftigstes Wirken in den Jahren 1817–1820, nebst einer charakteristischen Lebensskizze des Verfassers. Herausgegeben von Georg Lotz. Erster Band. Hamburg: Herold 1840, [S. 66–68](https://books.google.com/books?id=DbNKAAAAcAAJ&pg=PA66)."
+cast:
+  - name: Bertram,
+    role: Schulz eines Dorfs.
+    gender: m
+  - name: Hanne,
+    role: seine Tochter.
+    gender: f
+  - name: Walter,
+    role: ein reicher Kaufmann in der naheliegenden Stadt.
+    gender: m
+  - name: Ferdinand,
+    role: sein Sohn, Kaufmann.
+    gender: m
+  - name: Baron von Luft,
+    role: ein benachbarter verschuldeter Gutsbesitzer.
+    gender: m
+  - name: Peter,
+    role: Schulzens Knecht.
+    gender: m
 ---
 slug: lucks-der-neunzehnte-april
 author:
@@ -77625,6 +78011,8 @@ editions:
 comments:
   - "Hinweis auf Einaktigkeit im Vorwort: »ein Lustspiel in einem Aufzuge« ([S. 621](https://books.google.com/books?id=m5TUtgEACAAJ&pg=PA621))."
   - Nach der Niederschrift um 1740 in Leipzig aufgeführt. Gedruckt nur als Fragment, teils mit Inhaltsbeschreibungen für die fehlenden Szenen.
+keywords:
+  - Fragment
 cast:
   - name: Foppendorf.
     gender: m
@@ -82387,6 +82775,27 @@ cast:
 settings:
   - description: >-
       Eine kurze Bauernstube.
+---
+slug: sievers-er-und-sie
+author:
+  name: Sievers, Georg Ludwig Peter
+  wikidata: Q1505250
+title: Er und Sie
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1805
+formalia:
+  - Prosa
+editions:
+  - title: "Hamburg und Altona: Vollmer 1805"
+    url: https://books.google.com/books?id=TWlTAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Baronin von Wallenberg,
+    role: eine Wittwe.
+    gender: f
+  - name: Graf von Lilienthal,
+    role: ihr Vetter.
+    gender: m
 ---
 slug: sievers-hans-von-krikkrak-oder-eine-luege-ist-der-andern-werth
 author:
@@ -93458,6 +93867,37 @@ settings:
   - description: >-
       Der Schauplatz ist in einem Zimmer, das an einem Tanzsaal stößt, im Hause der Frau von Dorville.
 ---
+slug: weisse-der-bekehrte-ehemann
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Der bekehrte Ehemann
+subtitle: Eine neue Comödie in einem Ackte
+created: 1750
+premiered: 1766-06-12
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 21, S. 483
+comments:
+  - "Bei Meyer wird die Textgrundlage noch unter die Anonyme sortiert. Als Autor haben wir Christian Felix Weiße erschlossen; von ihm kursierte ein gleichnamiges »Lustspiel in einem Aufzug (Manuskript, um 1750)« (vgl. »Lessing. Gespräche, Begegnungen, Lebenszeugnisse. Teil 2. Kamenz: Lessing-Museum 2005, S. 790). Lessing habe mehrere von Weißens Stücke 1756 mit auf Reisen genommen, um sie mit Ekhof zu diskutieren (vgl. August Wolfrom: Lessing und das Drama. Magdeburg: Heinrichshofen 1860, [S. 16](https://books.google.com/books?id=mbg8AAAAYAAJ&pg=RA1-PA16))."
+cast:
+  - name: Der Baron.
+    gender: m
+  - name: Die Baroneßinn.
+    gender: f
+  - name: Der Graf.
+    gender: m
+  - name: Der Hauptmann.
+    gender: m
+  - name: Lisette,
+    role: Kammermägdchen der Baroneßinn.
+    gender: f
+  - name: Johann,
+    role: Bedienter des Baron.
+    gender: m
+---
 slug: weisse-der-gebundene-schaefer
 author:
   name: Weiße, Christian Felix
@@ -95735,6 +96175,39 @@ cast:
 settings:
   - description: >-
       Kurze Strasse. – Zur Seite eine Apotheke. – Julie im Heraustreten mit dem ihr nachfolgenden Apotheker. – Den Anfang der Rede spricht dieser noch hinter der Scene.
+---
+slug: wilhelmi-eine-heirath-par-force
+author:
+  name: Wilhelmi, Alexander Victor
+  wikidata: Q18335108
+title: Eine Heirath par force
+subtitle: Posse in einem Aufzuge. Nach Amedée de Beauplan
+premiered: 1847-11-09
+basedOn:
+  - beauplan-deux-filles-a-marier
+comments:
+  - "Theaterzettel: [Hamburg 1847](https://www.stadttheater.uni-hamburg.de/system/files/1847-11-09.pdf)."
+cast:
+  - name: Frau von Rocheval.
+    gender: f
+  - name: Athenais,
+    role: ihre Tochter.
+    gender: f
+  - name: Rosine,
+    role: ihre Nichte.
+    gender: f
+  - name: Dambleville,
+    role: Bruder der Frau von Rocheval.
+    gender: m
+  - name: Murinet,
+    role: Gutsbesitzer.
+    gender: m
+  - name: Edmund Guibert,
+    role: Unterpräfect.
+    gender: m
+  - name: Joseph,
+    role: Bedienter.
+    gender: m
 ---
 slug: wilhelmi-stanislaus-hornkopf
 author:

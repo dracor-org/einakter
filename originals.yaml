@@ -338,17 +338,15 @@ language: fre
 premiered: 1727-01-09
 fulltextUrl: https://books.google.com/books?id=rRs6AAAAcAAJ&printsec=frontcover
 ---
-id: pernot-de-colombey-bellet-reine-de-france
-authors:
-  - name: Théodore Pernot de Colombey
-    wikidata: Q108663998
-  - name: Benjamin-Louis Bellet
-    wikidata: Q55900930
-title: Reine de France
-subtitle: Comédie en un acte et en prose
+id: beauplan-deux-filles-a-marier
+author:
+  name: Amédée de Beauplan
+  wikidata: Q2844716
+title: Deux filles à marier
+subtitle: Comédie-vaudeville en un acte
 language: fre
-premiered: 1839-01-26
-fulltextUrl: https://books.google.com/books?id=R8JSAAAAcAAJ&printsec=frontcover
+premiered: 1844-10-12
+fulltextUrl: https://nbn-resolving.de/urn:nbn:de:hbz:5:1-18565
 ---
 id: bellin-de-la-liborliere-la-cloison
 author:
@@ -1721,6 +1719,17 @@ language: fre
 premiered: 1815-09-14
 fulltextUrl: https://books.google.com/books?id=AV5oAAAAcAAJ&printsec=frontcover
 ---
+id: dupaty-la-jeune-prude-ou-les-femmes-entre-elles
+author:
+  name: Emmanuel Dupaty
+  wikidata: Q3052692
+title: La jeune prude, ou Les femmes entre elles
+subtitle: Comédie en un acte, mêlée de chants
+language: fre
+printed: 1804
+premiered: 1804-01-14
+fulltextUrl: https://books.google.com/books?id=uY3ZEOEGvjkC&printsec=frontcover
+---
 id: dupaty-le-jaloux-malade
 author:
   name: Emmanuel Dupaty
@@ -1732,16 +1741,18 @@ printed: 1805
 premiered: 1805-01-29
 fulltextUrl: https://books.google.com/books?id=tE06AAAAcAAJ&printsec=frontcover
 ---
-id: dupaty-la-jeune-prude-ou-les-femmes-entre-elles
-author:
-  name: Emmanuel Dupaty
-  wikidata: Q3052692
-title: La jeune prude, ou Les femmes entre elles
-subtitle: Comédie en un acte, mêlée de chants
+id: dupaty-scribe-un-dernier-jour-de-fortune
+authors:
+  - name: Emmanuel Dupaty
+    wikidata: Q3052692
+  - name: Eugène Scribe
+    wikidata: Q319261
+title: Un dernier jour de fortune
+subtitle: Comédie-vaudeville en un acte
 language: fre
-printed: 1804
-premiered: 1804-01-14
-fulltextUrl: https://books.google.com/books?id=uY3ZEOEGvjkC&printsec=frontcover
+printed: 1823
+premiered: 1823-11-11
+fulltextUrl: https://books.google.com/books?id=sepKAAAAcAAJ&printsec=frontcover
 ---
 id: dupin-varner-monsieur-barbe-bleue-ou-le-cabinet-mysterieux
 authors:
@@ -2702,6 +2713,16 @@ language: fre
 printed: 1724
 premiered: 1724-02-19
 fulltextUrl: https://books.google.com/books?id=1bP-pZ91x-oC&pg=PA225
+---
+id: legrand-les-nouveaux-debarques
+author:
+  name: Marc-Antoine Legrand
+  wikidata: Q3287662
+title: Les nouveaux débarqués
+subtitle: Comédie en un acte
+language: fre
+premiered: 1725-11-05
+fulltextUrl: https://books.google.com/books?id=8MtiAAAAcAAJ&pg=PA323
 ---
 id: legrand-le-triomphe-du-temps-passe
 author:
@@ -3735,6 +3756,18 @@ premiered: 1783-07-22
 fulltextUrl: https://books.google.com/books?id=_LhoAAAAcAAJ&printsec=frontcover
 ids:
   dracor: fre001102
+---
+id: pernot-de-colombey-bellet-reine-de-france
+authors:
+  - name: Théodore Pernot de Colombey
+    wikidata: Q108663998
+  - name: Benjamin-Louis Bellet
+    wikidata: Q55900930
+title: Reine de France
+subtitle: Comédie en un acte et en prose
+language: fre
+premiered: 1839-01-26
+fulltextUrl: https://books.google.com/books?id=R8JSAAAAcAAJ&printsec=frontcover
 ---
 id: picard-duval-les-suspects
 authors:
