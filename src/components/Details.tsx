@@ -208,7 +208,13 @@ export default function Details () {
                     <li key={c.name}>
                       {c.name}
                       {c.role && (<i> {c.role}</i> )}
-                      {c.gender && <span> ({c.gender})</span>}
+                      {' '}
+                      {c.gender === 'm' && (
+                        <FontAwesomeIcon icon="mars" title="male" />
+                      )}
+                      {c.gender === 'f' && (
+                        <FontAwesomeIcon icon="venus" title="female" />
+                      )}
                       {' '}
                       {c.isGroup && groupIcon}
                     </li>
