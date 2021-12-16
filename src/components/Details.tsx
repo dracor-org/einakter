@@ -59,7 +59,7 @@ export default function Details () {
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
-      <Row className='flex justify-between mb-4'>
+      <Row className='flex justify-between mb-4 flex-col gap-3 md:flex-row'>
         <Col>
           <hgroup>
             <h2>
