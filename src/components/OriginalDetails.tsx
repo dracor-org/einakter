@@ -47,7 +47,7 @@ const OriginalDetails = () => {
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
-      <hgroup>
+      <hgroup className='mb-4'>
         <h2>
           <Authors authors={authors}/>
         </h2>
