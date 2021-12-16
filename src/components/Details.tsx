@@ -55,7 +55,7 @@ export default function Details () {
   const pageTitle = authorNames ? `${authorNames}: ${title}` : title;
 
   return (
-    <div className="details p-4 flex flex-col">
+    <div className="p-4 flex flex-col">
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
@@ -70,15 +70,13 @@ export default function Details () {
           </hgroup>
         </Col>
         <Col>
-          <div className="author-info-container">
-            {authors.filter(a => Boolean(a.wikidata)).map(a => (
-              <AuthorInfo
-                key={a.wikidata}
-                fullname={a.name || ''}
-                wikidataId={a.wikidata || ''}
-              />
-            ))}
-          </div>
+          {authors.filter(a => Boolean(a.wikidata)).map(a => (
+            <AuthorInfo
+              key={a.wikidata}
+              fullname={a.name || ''}
+              wikidataId={a.wikidata || ''}
+            />
+          ))}
         </Col>
       </Row>
       <Table>
