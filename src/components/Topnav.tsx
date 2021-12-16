@@ -5,7 +5,6 @@ import {classnames, TTailwindString} from 'tailwindcss-classnames';
 import {useLocation} from 'react-router-dom';
 import {useLingui} from "@lingui/react";
 import {Trans} from '@lingui/macro';
-import {faGithub} from '@fortawesome/free-brands-svg-icons';
 import {faLanguage} from '@fortawesome/free-solid-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {locales, setLocale} from '../i18n';
