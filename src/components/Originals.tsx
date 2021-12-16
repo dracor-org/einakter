@@ -15,22 +15,28 @@ function formatAuthor (_: string, play: OriginalPlay) {
 }
 
 function formatTitle (_: string, play: OriginalPlay) {
-  const {title, subtitle, id = {}} = play;
+  const {title, subtitle, id, ids: {dracor, wikidata} = {}} = play;
   return (
     <span>
       <Link className="text-lg" to={`/originals/${id}`}>{title}</Link>
       {subtitle && <small><br/>{subtitle}</small>}
+      <div>
+      {wikidata && (
+        <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
+          <img src="/wikidata.svg" width="16" alt="wikidata"/>
+          <IdLink id={wikidata} type="wikidata"/>
+        </small>
+      )}
+      {' '}
+      {dracor && (
+        <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
+          <img src="/DraCor.svg" width="12" alt="dracor"/>
+          <IdLink id={dracor} type="dracor"/>
+        </small>
+      )}
+      </div>
     </span>
   );
-}
-
-function formatWikidata (id: any | undefined) {
-  return id ? (
-    <small className="inline-flex bg-white rounded px-1.5 gap-1">
-      <img src="/wikidata.svg" width="16" alt="wikidata"/>
-      <IdLink id={id} type="wikidata"/>
-    </small>
-  ) : <i/>; // we need to return an element to avoid a typescript error
 }
 
 function Originals () {
@@ -89,11 +95,6 @@ function Originals () {
 
       return order === 'asc' ? a - b : b - a;
     }
-  }, {
-    dataField: 'ids.wikidata',
-    text: 'Wikidata',
-    formatter: formatWikidata,
-    sort: false
   }, {
     dataField: 'language',
     text: t`Language`,
