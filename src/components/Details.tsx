@@ -1,6 +1,5 @@
 import React, {useEffect, useContext} from 'react';
 import {useLocation, useParams} from "react-router-dom";
-import {Table, Row, Col} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
 import {Helmet} from "react-helmet";
 import {Trans} from '@lingui/macro';
@@ -59,8 +58,8 @@ export default function Details () {
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
-      <Row className='flex justify-between mb-4 flex-col gap-3 md:flex-row'>
-        <Col>
+      <div className='flex justify-between mb-4 flex-col gap-3 md:flex-row'>
+        <div>
           <hgroup>
             <h2>
               <Authors authors={authors}/>
@@ -68,8 +67,8 @@ export default function Details () {
             <h1>{title}</h1>
             {subtitle && <h3>{subtitle}</h3>}
           </hgroup>
-        </Col>
-        <Col>
+        </div>
+        <div>
           {authors.filter(a => Boolean(a.wikidata)).map(a => (
             <AuthorInfo
               key={a.wikidata}
@@ -77,9 +76,9 @@ export default function Details () {
               wikidataId={a.wikidata || ''}
             />
           ))}
-        </Col>
-      </Row>
-      <Table>
+        </div>
+      </div>
+      <table>
         <tbody>
           {comments && (
             <tr>
@@ -295,7 +294,7 @@ export default function Details () {
             </tr>
           )}
         </tbody>
-      </Table>
+      </table>
     </div>
   );
 }
