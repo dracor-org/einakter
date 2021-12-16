@@ -10,6 +10,6 @@ test('renders heading', () => {
       <App />
     </I18nProvider>
   );
-  const element = getByText(/about/i);
+  const element = getByText(/^about$/i);
   expect(element).toBeInTheDocument();
 });
