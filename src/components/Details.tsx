@@ -1,6 +1,5 @@
 import React, {useEffect, useContext} from 'react';
 import {useLocation, useParams} from "react-router-dom";
-import {Table, Row, Col} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
 import {Helmet} from "react-helmet";
 import {Trans} from '@lingui/macro';
@@ -55,12 +54,12 @@ export default function Details () {
   const pageTitle = authorNames ? `${authorNames}: ${title}` : title;
 
   return (
-    <div className="details p-4 flex flex-col">
+    <div className="p-4 flex flex-col">
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
-      <Row>
-        <Col>
+      <div className='flex justify-between mb-4 flex-col gap-3 md:flex-row'>
+        <div>
           <hgroup>
             <h2>
               <Authors authors={authors}/>
@@ -68,20 +67,18 @@ export default function Details () {
             <h1>{title}</h1>
             {subtitle && <h3>{subtitle}</h3>}
           </hgroup>
-        </Col>
-        <Col>
-          <div className="author-info-container">
-            {authors.filter(a => Boolean(a.wikidata)).map(a => (
-              <AuthorInfo
-                key={a.wikidata}
-                fullname={a.name || ''}
-                wikidataId={a.wikidata || ''}
-              />
-            ))}
-          </div>
-        </Col>
-      </Row>
-      <Table>
+        </div>
+        <div>
+          {authors.filter(a => Boolean(a.wikidata)).map(a => (
+            <AuthorInfo
+              key={a.wikidata}
+              fullname={a.name || ''}
+              wikidataId={a.wikidata || ''}
+            />
+          ))}
+        </div>
+      </div>
+      <table>
         <tbody>
           {comments && (
             <tr>
@@ -297,7 +294,7 @@ export default function Details () {
             </tr>
           )}
         </tbody>
-      </Table>
+      </table>
     </div>
   );
 }
