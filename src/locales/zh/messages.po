@@ -13,11 +13,13 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: src/components/About.tsx:12 src/components/Topnav.tsx:24
+#: src/components/About.tsx:12
+#: src/components/Topnav.tsx:90
 msgid "About"
 msgstr "关于"
 
-#: src/components/Originals.tsx:59 src/components/Table.tsx:51
+#: src/components/Originals.tsx:60
+#: src/components/Table.tsx:52
 msgid "Author"
 msgstr "作者"
 
@@ -25,15 +27,16 @@ msgstr "作者"
 msgid "Authors"
 msgstr "作者"
 
-#: src/components/Details.tsx:231
+#: src/components/Details.tsx:286
 msgid "Based on"
 msgstr "原文本"
 
-#: src/components/Statistics.tsx:126 src/components/Table.tsx:72
+#: src/components/Statistics.tsx:126
+#: src/components/Table.tsx:93
 msgid "Characters"
 msgstr "人物"
 
-#: src/components/Details.tsx:90
+#: src/components/Details.tsx:86
 msgid "Comments"
 msgstr "附加信息"
 
@@ -41,35 +44,36 @@ msgstr "附加信息"
 msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
 msgstr "该数据库目前囊括了{0}部单幕剧及{numCharacters}个人物"
 
-#: src/components/Details.tsx:121 src/components/OriginalDetails.tsx:93
+#: src/components/Details.tsx:117
+#: src/components/OriginalDetails.tsx:93
 msgid "Dates"
 msgstr "日期"
 
-#: src/components/Details.tsx:241
+#: src/components/Details.tsx:296
 msgid "Dictionaries"
 msgstr "百科"
 
-#: src/components/Table.tsx:129
+#: src/components/Table.tsx:131
 msgid "Download CSV"
 msgstr "下载CSV"
 
-#: src/components/Table.tsx:125
+#: src/components/Table.tsx:127
 msgid "Download JSON"
 msgstr "下载JSON"
 
-#: src/components/Details.tsx:178
+#: src/components/Details.tsx:185
 msgid "Dramatis personae"
 msgstr "人物列表"
 
-#: src/components/Details.tsx:162
+#: src/components/Details.tsx:169
 msgid "Editions"
 msgstr "版本"
 
-#: src/components/Details.tsx:251
+#: src/components/Details.tsx:306
 msgid "Formalia"
 msgstr "格式"
 
-#: src/components/OriginalDetails.tsx:121
+#: src/components/OriginalDetails.tsx:132
 msgid "Full text"
 msgstr "全文本"
 
@@ -77,15 +81,18 @@ msgstr "全文本"
 msgid "Hide"
 msgstr "隐藏"
 
-#: src/components/Details.tsx:265 src/components/Table.tsx:100
+#: src/components/Details.tsx:320
+#: src/components/Table.tsx:102
 msgid "Keywords"
 msgstr "关键词"
 
-#: src/components/OriginalDetails.tsx:61 src/components/Originals.tsx:98
+#: src/components/OriginalDetails.tsx:61
+#: src/components/Originals.tsx:99
 msgid "Language"
 msgstr "语言"
 
-#: src/components/Details.tsx:138 src/components/OriginalDetails.tsx:102
+#: src/components/Details.tsx:134
+#: src/components/OriginalDetails.tsx:102
 msgid "Links"
 msgstr "链接"
 
@@ -93,24 +100,25 @@ msgstr "链接"
 msgid "Loading..."
 msgstr "下载中..."
 
-#: src/components/Details.tsx:221
+#: src/components/Details.tsx:269
 msgid "Location"
 msgstr "地点"
 
-#: src/components/Map.tsx:37 src/components/Map.tsx:40
-#: src/components/Topnav.tsx:27
+#: src/components/Map.tsx:47
+#: src/components/Map.tsx:50
+#: src/components/Topnav.tsx:84
 msgid "Locations"
 msgstr "地点"
 
-#: src/components/Details.tsx:31
+#: src/components/Details.tsx:30
 msgid "No such play"
 msgstr "无此单幕剧"
 
-#: src/components/Details.tsx:130
+#: src/components/Details.tsx:126
 msgid "Number of Scenes"
 msgstr "场数"
 
-#: src/components/Originals.tsx:104
+#: src/components/Originals.tsx:105
 msgid "Number of translations"
 msgstr "翻译总数"
 
@@ -122,13 +130,18 @@ msgstr "单幕剧"
 msgid "Original not found"
 msgstr "无法找到原文本"
 
-#: src/components/Originals.tsx:116 src/components/Topnav.tsx:30
+#: src/components/Originals.tsx:117
+#: src/components/Topnav.tsx:87
 msgid "Originals"
 msgstr "源文本"
 
-#: src/components/Original.tsx:89
+#: src/components/Original.tsx:90
 msgid "Other one-act translations"
 msgstr "其他单幕剧翻译"
+
+#: src/components/Topnav.tsx:81
+msgid "Plays"
+msgstr ""
 
 #: src/components/Statistics.tsx:114
 msgid "Plays published anonymously"
@@ -138,23 +151,25 @@ msgstr "匿名发表的单幕剧"
 msgid "Plays translated/adapted from other languages"
 msgstr "从其他语言翻译/改编的戏剧"
 
-#: src/components/Details.tsx:106
+#: src/components/Details.tsx:102
 msgid "Reviews"
 msgstr "评论"
 
-#: src/components/Table.tsx:76
+#: src/components/Table.tsx:89
 msgid "Scenes"
 msgstr "场景"
 
-#: src/components/Table.tsx:122
+#: src/components/Originals.tsx:128
+#: src/components/Table.tsx:124
 msgid "Search"
 msgstr "搜索"
 
-#: src/components/Details.tsx:213
+#: src/components/Details.tsx:255
 msgid "Setting"
 msgstr "环境"
 
-#: src/components/Statistics.tsx:73 src/components/Statistics.tsx:87
+#: src/components/Statistics.tsx:73
+#: src/components/Statistics.tsx:87
 msgid "Show more"
 msgstr "显示更多"
 
@@ -162,11 +177,12 @@ msgstr "显示更多"
 msgid "Statistics"
 msgstr "统计数据"
 
-#: src/components/Map.tsx:43
+#: src/components/Map.tsx:53
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr "这张地图显示了从戏剧背景信息中提取的所有行动地点。地名和国家边界来自OpenStreetMap，因此可能不符合历史。"
 
-#: src/components/Originals.tsx:69 src/components/Table.tsx:61
+#: src/components/Originals.tsx:70
+#: src/components/Table.tsx:62
 msgid "Title"
 msgstr "标题"
 
@@ -174,7 +190,8 @@ msgstr "标题"
 msgid "Translations"
 msgstr "翻译"
 
-#: src/components/Originals.tsx:78 src/components/Table.tsx:80
+#: src/components/Originals.tsx:79
+#: src/components/Table.tsx:74
 msgid "Year (normalized)"
 msgstr "年份（标准化）"
 
@@ -186,10 +203,16 @@ msgstr "生于"
 msgid "d."
 msgstr "卒于"
 
+#: src/components/Details.tsx:235
 #: src/components/Statistics.tsx:108
 msgid "female"
 msgstr "女性"
 
+#: src/components/Details.tsx:230
 #: src/components/Statistics.tsx:107
 msgid "male"
 msgstr "男性"
+
+#: src/components/Details.tsx:240
+msgid "undefined"
+msgstr ""
