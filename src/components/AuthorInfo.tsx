@@ -101,7 +101,7 @@ WHERE {
   const {name, imageUrl, commonsPage, birth = [], death = []} = info || {};
 
   return (
-    <div className="flex">
+    <div className="flex whitespace-nowrap">
       <div className="author-image">
         {imageUrl && <img src={imageUrl} title={name} alt="" width="50" />}
         {commonsPage && (
