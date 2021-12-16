@@ -2,28 +2,6 @@
   text-align: center;
 }
 
-h1 {
-  font-size: 1.5em;
-  margin: 1em 0 0.5em;
-}
-
-h2 {
-  font-size: 1.1em;
-}
-
-h3 {
-  font-size: 1.1em;
-  font-weight: normal;
-}
-
-// author/title headings
-hgroup {
-  margin: 1em 0;
-  h1 {
-    margin: 0 0 0.3rem;
-  }
-}
-
 tr.dates > td > span {
   display: inline-block;
   padding-right: 1em;
@@ -44,29 +22,6 @@ td ul:last-child, td p:last-child {
 .leaflet-container {
   width: 100%;
   height: calc(100vh - 250px);
-}
-
-.author-info-container {
-  display: flex;
-  gap: 1em;
-  margin: 1em 0;
-  @media (min-width: 768px) {
-    justify-content: flex-end;
-  }
-}
-
-.author-info {
-  display: flex;
-
-  span {
-    line-height: 1;
-    white-space: nowrap;
-
-    b {
-      font-weight: bold;
-      margin-bottom: 0.1em;
-    }
-  }
 }
 
 .author-image {

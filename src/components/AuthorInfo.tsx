@@ -101,7 +101,7 @@ WHERE {
   const {name, imageUrl, commonsPage, birth = [], death = []} = info || {};
 
   return (
-    <div className="author-info">
+    <div className="flex whitespace-nowrap">
       <div className="author-image">
         {imageUrl && <img src={imageUrl} title={name} alt="" width="50" />}
         {commonsPage && (
@@ -115,8 +115,7 @@ WHERE {
         )}
       </div>
       <span>
-        <b>{fullname}</b>
-        {' '}
+        <h2>{fullname}</h2>
         {wikidataId && (
           <p className="text-sm inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
             <img src="/wikidata.svg" width="16" alt="wikidata"/>

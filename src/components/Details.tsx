@@ -1,6 +1,5 @@
 import React, {useEffect, useContext} from 'react';
 import {useLocation, useParams} from "react-router-dom";
-import {Table, Row, Col} from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
 import {Helmet} from "react-helmet";
 import {Trans} from '@lingui/macro';
@@ -55,12 +54,12 @@ export default function Details () {
   const pageTitle = authorNames ? `${authorNames}: ${title}` : title;
 
   return (
-    <div className="details p-4 flex flex-col">
+    <div className="p-4 flex flex-col">
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
-      <Row>
-        <Col>
+      <div className='flex justify-between mb-4 flex-col gap-3 md:flex-row'>
+        <div>
           <hgroup>
             <h2>
               <Authors authors={authors}/>
@@ -68,20 +67,18 @@ export default function Details () {
             <h1>{title}</h1>
             {subtitle && <h3>{subtitle}</h3>}
           </hgroup>
-        </Col>
-        <Col>
-          <div className="author-info-container">
-            {authors.filter(a => Boolean(a.wikidata)).map(a => (
-              <AuthorInfo
-                key={a.wikidata}
-                fullname={a.name || ''}
-                wikidataId={a.wikidata || ''}
-              />
-            ))}
-          </div>
-        </Col>
-      </Row>
-      <Table>
+        </div>
+        <div>
+          {authors.filter(a => Boolean(a.wikidata)).map(a => (
+            <AuthorInfo
+              key={a.wikidata}
+              fullname={a.name || ''}
+              wikidataId={a.wikidata || ''}
+            />
+          ))}
+        </div>
+      </div>
+      <table>
         <tbody>
           {comments && (
             <tr>
@@ -139,8 +136,7 @@ export default function Details () {
               <td>
                 <ul>
                   {ids.dracor && (
-                    <li>DraCor: 
-                      {' '}
+                    <li>
                       <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
                         <img src="/DraCor.svg" width="12" alt="DraCor"/>
                         <IdLink id={ids.dracor} type="dracor"/>
@@ -149,8 +145,6 @@ export default function Details () {
                   )}
                   {ids.wikidata && (
                     <li>
-                      Wikidata: 
-                      {' '}
                      <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
                       <img src="/wikidata.svg" width="16" alt="wikidata"/>
                       <IdLink id={ids.wikidata} type="wikidata"/>
@@ -159,7 +153,10 @@ export default function Details () {
                   )}
                   {ids.weber && (
                     <li>
-                      Weber-Gesamtausgabe: <IdLink id={ids.weber} type="weber"/>
+                      <small className="inline-flex bg-white rounded pl-1 pr-1.5 gap-0.5 align-text-bottom">
+                        <img src="/weber.svg" width="14" alt="weber"/>
+                        <IdLink id={ids.weber} type="weber"/>
+                      </small>
                     </li>
                   )}
                 </ul>
@@ -228,7 +225,16 @@ export default function Details () {
                     <li className="mb-2" key={c.name}>
                       {c.name}
                       {c.role && (<i> {c.role}</i> )}
-                      {c.gender && <span> ({c.gender})</span>}
+                      {' '}
+                      {c.gender === 'm' && (
+                        <FontAwesomeIcon icon="mars" title="male" />
+                      )}
+                      {c.gender === 'f' && (
+                        <FontAwesomeIcon icon="venus" title="female" />
+                      )}
+                      {c.gender === 'u' && (
+                        <FontAwesomeIcon icon="genderless" title="undefined" />
+                      )}
                       {' '}
                       {c.isGroup && groupIcon}
                     </li>
@@ -243,9 +249,9 @@ export default function Details () {
                 <Trans>Setting</Trans>
               </th>
               <td>
-                <ul>
+                <ul className="italic">
                   {settings.map((s) => (
-                    <li key={s.description}>{s.description}</li>
+                    <li className="mb-2" key={s.description}>{s.description}</li>
                   ))}
                 </ul>
               </td>
@@ -317,7 +323,7 @@ export default function Details () {
             </tr>
           )}
         </tbody>
-      </Table>
+      </table>
     </div>
   );
 }

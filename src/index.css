@@ -13,7 +13,7 @@
   }
 
   h1 {
-    @apply text-2xl mb-3;
+    @apply text-4xl mb-1 mt-0 font-medium;
   }
 
   table {
