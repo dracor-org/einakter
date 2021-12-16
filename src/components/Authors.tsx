@@ -15,12 +15,14 @@ const Authors = ({authors, withLink}: Props) => {
           {i > 0 &&  <br/> }
           {author.name}
           {author.pseudonym && (<i> ({author.pseudonym})</i>)}
-          {' '}   
           {(withLink && author.wikidata) && (
-            <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
-              <img src="/wikidata.svg" width="16" alt="wikidata"/>
-              <IdLink id={author.wikidata} type="wikidata"/>
-            </small>
+            <>
+              {' '}
+              <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
+                <img src="/wikidata.svg" width="16" alt="wikidata"/>
+                <IdLink id={author.wikidata} type="wikidata"/>
+              </small>
+            </>
           )}
         </span>
       ))}
