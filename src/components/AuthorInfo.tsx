@@ -45,7 +45,6 @@ WHERE {
 `;
 
       const url = `${endpoint}?query=${encodeURIComponent(sparql)}`;
-      // console.log(`${id}`);
       try {
         const response = await axios.get(url);
         if (response.status === 200) {
