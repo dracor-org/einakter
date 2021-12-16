@@ -78,14 +78,17 @@ function Topnav () {
         )}
       >
         <div className="my-3 md:flex-grow md:flex-row flex justify-center flex-col">
-          <NavItem href="/about">
-            <Trans>About</Trans>
+          <NavItem href="/plays">
+            <Trans>Plays</Trans>
           </NavItem>
           <NavItem href="/locations">
             <Trans>Locations</Trans>
           </NavItem>
           <NavItem href="/originals">
             <Trans>Originals</Trans>
+          </NavItem>
+          <NavItem href="/about">
+            <Trans>About</Trans>
           </NavItem>
         </div>
         <Menu>
