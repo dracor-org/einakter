@@ -227,13 +227,19 @@ export default function Details () {
                       {c.role && (<i> {c.role}</i> )}
                       {' '}
                       {c.gender === 'm' && (
-                        <FontAwesomeIcon icon="mars" title="male" />
+                        <Trans render={({translation}) => <FontAwesomeIcon icon="mars" title={translation as string} />}>
+                          male
+                        </Trans>
                       )}
                       {c.gender === 'f' && (
-                        <FontAwesomeIcon icon="venus" title="female" />
+                        <Trans render={({translation}) => <FontAwesomeIcon icon="venus" title={translation as string} />}>
+                          female
+                        </Trans>
                       )}
                       {c.gender === 'u' && (
-                        <FontAwesomeIcon icon="genderless" title="undefined" />
+                        <Trans render={({translation}) => <FontAwesomeIcon icon="genderless" title={translation as string} />}>
+                          undefined
+                        </Trans>
                       )}
                       {' '}
                       {c.isGroup && groupIcon}
