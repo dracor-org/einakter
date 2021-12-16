@@ -223,9 +223,9 @@ export default function Details () {
                 <Trans>Setting</Trans>
               </th>
               <td>
-                <ul>
+                <ul className="italic">
                   {settings.map((s) => (
-                    <li key={s.description}>{s.description}</li>
+                    <li className="mb-2" key={s.description}>{s.description}</li>
                   ))}
                 </ul>
               </td>
