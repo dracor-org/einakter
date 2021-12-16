@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {Trans} from '@lingui/macro';
 
 export function formatEra (year, ceBefore = 0) {
   if (year === null) {
@@ -70,32 +71,38 @@ export function formatYear (year) {
   return yearString;
 }
 
+function renderYear (year, title, icon) {
+  return (
+    <span title={title}>
+      <FontAwesomeIcon icon={icon} size="sm"/>&nbsp;
+      {formatYear(year)}
+    </span>
+  );
+}
+
 const Years = ({written, premiere, print}) => {
   return (
     <>
       {written && (
         <>
-          <span title="written">
-            <FontAwesomeIcon icon="pen-fancy" size="sm"/>&nbsp;
-            {formatYear(written)}
-          </span>
+          <Trans render={({translation}) => renderYear(written, translation, 'pen-fancy')}>
+            written
+          </Trans>
           {' '}
         </>
       )}
       {premiere && (
         <>
-          <span title="premiered">
-            <FontAwesomeIcon icon="theater-masks" size="sm"/>&nbsp;
-            {formatYear(premiere)}
-          </span>
+          <Trans render={({translation}) => renderYear(premiere, translation, 'theater-masks')}>
+            premiered
+          </Trans>
           {' '}
         </>
       )}
       {print && (
-        <span title="printed">
-          <FontAwesomeIcon icon="book" size="sm"/>&nbsp;
-          {formatYear(print)}
-        </span>
+        <Trans render={({translation}) => renderYear(print, translation, 'book')}>
+          printed
+        </Trans>
       )}
     </>
   );
