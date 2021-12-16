@@ -215,6 +215,9 @@ export default function Details () {
                       {c.gender === 'f' && (
                         <FontAwesomeIcon icon="venus" title="female" />
                       )}
+                      {c.gender === 'u' && (
+                        <FontAwesomeIcon icon="genderless" title="undefined" />
+                      )}
                       {' '}
                       {c.isGroup && groupIcon}
                     </li>
