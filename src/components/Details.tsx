@@ -139,8 +139,7 @@ export default function Details () {
               <td>
                 <ul>
                   {ids.dracor && (
-                    <li>DraCor: 
-                      {' '}
+                    <li>
                       <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
                         <img src="/DraCor.svg" width="12" alt="DraCor"/>
                         <IdLink id={ids.dracor} type="dracor"/>
@@ -149,8 +148,6 @@ export default function Details () {
                   )}
                   {ids.wikidata && (
                     <li>
-                      Wikidata: 
-                      {' '}
                      <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
                       <img src="/wikidata.svg" width="16" alt="wikidata"/>
                       <IdLink id={ids.wikidata} type="wikidata"/>
@@ -159,7 +156,10 @@ export default function Details () {
                   )}
                   {ids.weber && (
                     <li>
-                      Weber-Gesamtausgabe: <IdLink id={ids.weber} type="weber"/>
+                      <small className="inline-flex bg-white rounded pl-1 pr-1.5 gap-0.5 align-text-bottom">
+                        <img src="/weber.svg" width="14" alt="weber"/>
+                        <IdLink id={ids.weber} type="weber"/>
+                      </small>
                     </li>
                   )}
                 </ul>
