@@ -8,7 +8,7 @@ import IdLink from './IdLink';
 import Years from './Years';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';
-import languages from '../languages';
+import {localLanguageName} from '../languages';
 
 const OriginalDetails = () => {
   const {originalId} = useParams<{originalId: string}>();
@@ -61,7 +61,7 @@ const OriginalDetails = () => {
               <Trans>Language</Trans>
             </th>
             <td>
-              {languages[language as string] || language}
+              {localLanguageName(language as string)}
             </td>
           </tr>
           <tr>

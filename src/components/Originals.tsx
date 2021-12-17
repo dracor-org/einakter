@@ -8,7 +8,7 @@ import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
 import {Play, OriginalPlay} from '../types';
-import languages from '../languages';
+import {localLanguageName} from '../languages';
 
 function formatAuthor (_: string, play: OriginalPlay) {
   return <Authors authors={play.authors || []} withLink/>;
@@ -96,8 +96,8 @@ function Originals () {
   }, {
     dataField: 'language',
     text: t`Language`,
-    formatter: (code: string) => languages[code] || code,
-    filterValue: (code: string) => languages[code] || code,
+    formatter: (code: string) => localLanguageName(code),
+    filterValue: (code: string) => localLanguageName(code),
     sort: true
   }, {
     dataField: 'numTranslations',

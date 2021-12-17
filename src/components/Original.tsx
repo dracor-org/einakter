@@ -5,7 +5,7 @@ import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';
-import languages from '../languages';
+import {localLanguageName} from '../languages';
 
 function getYear(ref: OriginalPlay) {
   const years = [];
@@ -72,7 +72,7 @@ const Original = ({data}: Props) => {
         </>
       )}
       {year !== undefined && ` (${year})`}
-      {language && ` <${languages[language] || language}>`}
+      {language && ` <${localLanguageName(language)}>`}
 
       {others.length > 0 && (
         <>
