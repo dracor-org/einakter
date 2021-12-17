@@ -18,11 +18,16 @@ msgstr ""
 msgid "About"
 msgstr "Acerca de"
 
-#: src/components/Originals.tsx:65
+#: src/components/Home.tsx:39
+msgid "About the project"
+msgstr ""
+
+#: src/components/Originals.tsx:66
 #: src/components/Table.tsx:56
 msgid "Author"
 msgstr "Autor/a"
 
+#: src/components/OriginalStatistics.tsx:54
 #: src/components/Statistics.tsx:78
 msgid "Authors"
 msgstr "Autores/as"
@@ -40,11 +45,11 @@ msgstr "Personajes"
 msgid "Comments"
 msgstr "Comentarios"
 
-#: src/languages.ts:4
+#: src/languages.ts:6
 msgid "Czech"
 msgstr ""
 
-#: src/languages.ts:5
+#: src/languages.ts:8
 msgid "Danish"
 msgstr ""
 
@@ -73,15 +78,19 @@ msgstr "Descargar JSON"
 msgid "Dramatis personae"
 msgstr "Dramatis personae"
 
-#: src/languages.ts:6
+#: src/languages.ts:10
 msgid "Dutch"
+msgstr ""
+
+#: src/components/Home.tsx:26
+msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
 msgstr ""
 
 #: src/components/Details.tsx:161
 msgid "Editions"
 msgstr "Ediciones"
 
-#: src/languages.ts:7
+#: src/languages.ts:12
 msgid "English"
 msgstr ""
 
@@ -89,7 +98,7 @@ msgstr ""
 msgid "Formalia"
 msgstr "Aspectos formales"
 
-#: src/languages.ts:8
+#: src/languages.ts:14
 msgid "French"
 msgstr ""
 
@@ -97,7 +106,7 @@ msgstr ""
 msgid "Full text"
 msgstr "Texto íntegro"
 
-#: src/languages.ts:9
+#: src/languages.ts:16
 msgid "German"
 msgstr ""
 
@@ -109,7 +118,7 @@ msgstr ""
 #~ msgid "Hide"
 #~ msgstr "Ocultar"
 
-#: src/languages.ts:10
+#: src/languages.ts:18
 msgid "Italian"
 msgstr ""
 
@@ -119,11 +128,15 @@ msgid "Keywords"
 msgstr "Palabras clave"
 
 #: src/components/OriginalDetails.tsx:61
-#: src/components/Originals.tsx:100
+#: src/components/Originals.tsx:101
 msgid "Language"
 msgstr "Lengua"
 
-#: src/languages.ts:11
+#: src/components/OriginalStatistics.tsx:68
+msgid "Languages"
+msgstr ""
+
+#: src/languages.ts:20
 msgid "Latin"
 msgstr ""
 
@@ -154,7 +167,11 @@ msgstr "No existe una obra que corresponda a los criterios"
 msgid "Number of Scenes"
 msgstr "Número de escenas"
 
-#: src/components/Originals.tsx:106
+#: src/components/OriginalStatistics.tsx:48
+msgid "Number of originals"
+msgstr ""
+
+#: src/components/Originals.tsx:107
 msgid "Number of translations"
 msgstr "Número de traducciones"
 
@@ -167,7 +184,7 @@ msgid "Original not found"
 msgstr "Original no encontrado"
 
 #: src/components/Original.tsx:57
-#: src/components/Originals.tsx:118
+#: src/components/Originals.tsx:119
 #: src/components/Topnav.tsx:87
 msgid "Originals"
 msgstr "Originales"
@@ -176,10 +193,15 @@ msgstr "Originales"
 msgid "Other one-act translations"
 msgstr "Otras traducciones en un acto"
 
+#: src/components/Home.tsx:29
+msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries."
+msgstr ""
+
 #: src/components/Topnav.tsx:81
 msgid "Plays"
 msgstr ""
 
+#: src/components/OriginalStatistics.tsx:62
 #: src/components/Statistics.tsx:92
 msgid "Plays published anonymously"
 msgstr "Obras publicadas de forma anónima"
@@ -192,7 +214,7 @@ msgstr "Obras traducidas/adaptadas de otras lenguas"
 msgid "Reviews"
 msgstr "Críticas"
 
-#: src/languages.ts:12
+#: src/languages.ts:22
 msgid "Russian"
 msgstr ""
 
@@ -200,7 +222,7 @@ msgstr ""
 msgid "Scenes"
 msgstr "Escenas"
 
-#: src/components/Originals.tsx:129
+#: src/components/Originals.tsx:131
 #: src/components/Table.tsx:134
 msgid "Search"
 msgstr "Búsqueda"
@@ -214,7 +236,7 @@ msgstr "Escena"
 #~ msgid "Show more"
 #~ msgstr "Más"
 
-#: src/languages.ts:13
+#: src/languages.ts:24
 msgid "Spanish"
 msgstr ""
 
@@ -222,11 +244,16 @@ msgstr ""
 #~ msgid "Statistics"
 #~ msgstr "Estadísticas"
 
+#: src/components/Home.tsx:15
+#: src/components/Home.tsx:21
+msgid "The Database of German-Language One-Act Plays 1740–1850"
+msgstr ""
+
 #: src/components/Map.tsx:53
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr "Este mapa muestra la localización geográfica de las tramas, según información extraíble de acotaciones al comienzo de las obras. Los nombres y demarcaciones utilizados en el mapa provienen de OpenStreetMap y son por lo tanto ahistóricos con respecto a la época de creación de la obra y al marco temporal de su acción."
 
-#: src/components/Originals.tsx:75
+#: src/components/Originals.tsx:76
 #: src/components/Table.tsx:66
 msgid "Title"
 msgstr "Título"
@@ -239,7 +266,7 @@ msgstr "Traducciones"
 msgid "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
 msgstr ""
 
-#: src/components/Originals.tsx:84
+#: src/components/Originals.tsx:85
 #: src/components/Table.tsx:78
 msgid "Year (normalized)"
 msgstr "Año (normalizado)"
