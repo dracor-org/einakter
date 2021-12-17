@@ -6,6 +6,7 @@ import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import Authors from './Authors';
 import IdLink from './IdLink';
+import OriginalStatistics from './OriginalStatistics';
 import {EinakterContext} from '../context';
 import {Play, OriginalPlay} from '../types';
 import {localLanguageName} from '../languages';
@@ -124,6 +125,7 @@ function Originals () {
         {
           props => (
             <div>
+              <OriginalStatistics plays={originals} className="my-2"/>
               <SearchBar { ...props.searchProps } placeholder={t`Search`} />
               <BootstrapTable
                 { ...props.baseProps }
