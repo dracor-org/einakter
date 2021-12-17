@@ -1,6 +1,6 @@
 import React, {useContext} from 'react';
 import {Link, useParams} from "react-router-dom";
-import {Trans} from '@lingui/macro';
+import {Trans, t} from '@lingui/macro';
 import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
@@ -55,18 +55,11 @@ const Original = ({data}: Props) => {
         </span>
       ))}
       {authors.length > 0 && ': '}
-      {fulltextUrl ? (
-        <a href={fulltextUrl} title="Full text">
-         {title}
-         {(subtitle && !title.match(/[.!?]\s*$/)) && '.'}
-         {subtitle && ` ${subtitle}`}
-        </a>
-      ) : (
-        <span>
-          {title}
-          {subtitle && `. ${subtitle}`}
-        </span>
-      )}
+      <a href={`/originals/${id}`} title={t`Originals`}>
+       {title}
+       {(subtitle && !title.match(/[.!?]\s*$/)) && '.'}
+       {subtitle && ` ${subtitle}`}
+      </a>
       {ids?.dracor && (
         <>
           {' '}
