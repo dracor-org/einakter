@@ -27,7 +27,7 @@ msgstr "作者"
 msgid "Authors"
 msgstr "作者"
 
-#: src/components/Details.tsx:282
+#: src/components/Details.tsx:276
 msgid "Based on"
 msgstr "原文本"
 
@@ -40,11 +40,11 @@ msgstr "人物"
 msgid "Comments"
 msgstr "附加信息"
 
-#: src/utils.ts:5
+#: src/languages.ts:4
 msgid "Czech"
 msgstr ""
 
-#: src/utils.ts:6
+#: src/languages.ts:5
 msgid "Danish"
 msgstr ""
 
@@ -57,7 +57,7 @@ msgstr "该数据库目前囊括了{0}部单幕剧及{numCharacters}个人物"
 msgid "Dates"
 msgstr "日期"
 
-#: src/components/Details.tsx:292
+#: src/components/Details.tsx:286
 msgid "Dictionaries"
 msgstr "百科"
 
@@ -73,7 +73,7 @@ msgstr "下载JSON"
 msgid "Dramatis personae"
 msgstr "人物列表"
 
-#: src/utils.ts:7
+#: src/languages.ts:6
 msgid "Dutch"
 msgstr ""
 
@@ -81,15 +81,15 @@ msgstr ""
 msgid "Editions"
 msgstr "版本"
 
-#: src/utils.ts:8
+#: src/languages.ts:7
 msgid "English"
 msgstr ""
 
-#: src/components/Details.tsx:302
+#: src/components/Details.tsx:296
 msgid "Formalia"
 msgstr "格式"
 
-#: src/utils.ts:9
+#: src/languages.ts:8
 msgid "French"
 msgstr ""
 
@@ -97,7 +97,7 @@ msgstr ""
 msgid "Full text"
 msgstr "全文本"
 
-#: src/utils.ts:10
+#: src/languages.ts:9
 msgid "German"
 msgstr ""
 
@@ -105,11 +105,11 @@ msgstr ""
 msgid "Hide"
 msgstr "隐藏"
 
-#: src/utils.ts:11
+#: src/languages.ts:10
 msgid "Italian"
 msgstr ""
 
-#: src/components/Details.tsx:316
+#: src/components/Details.tsx:310
 #: src/components/Table.tsx:101
 msgid "Keywords"
 msgstr "关键词"
@@ -119,7 +119,7 @@ msgstr "关键词"
 msgid "Language"
 msgstr "语言"
 
-#: src/utils.ts:12
+#: src/languages.ts:11
 msgid "Latin"
 msgstr ""
 
@@ -132,7 +132,7 @@ msgstr "链接"
 msgid "Loading..."
 msgstr "下载中..."
 
-#: src/components/Details.tsx:266
+#: src/components/Details.tsx:260
 msgid "Location"
 msgstr "地点"
 
@@ -187,7 +187,7 @@ msgstr "从其他语言翻译/改编的戏剧"
 msgid "Reviews"
 msgstr "评论"
 
-#: src/utils.ts:13
+#: src/languages.ts:12
 msgid "Russian"
 msgstr ""
 
@@ -200,7 +200,7 @@ msgstr "场景"
 msgid "Search"
 msgstr "搜索"
 
-#: src/components/Details.tsx:252
+#: src/components/Details.tsx:246
 msgid "Setting"
 msgstr "环境"
 
@@ -209,7 +209,7 @@ msgstr "环境"
 msgid "Show more"
 msgstr "显示更多"
 
-#: src/utils.ts:14
+#: src/languages.ts:13
 msgid "Spanish"
 msgstr ""
 
@@ -243,7 +243,7 @@ msgstr "生于"
 msgid "d."
 msgstr "卒于"
 
-#: src/components/Details.tsx:232
+#: src/components/Details.tsx:230
 #: src/components/Statistics.tsx:108
 msgid "female"
 msgstr "女性"
@@ -253,18 +253,18 @@ msgstr "女性"
 msgid "male"
 msgstr "男性"
 
-#: src/components/Years.js:96
+#: src/components/Years.js:88
 msgid "premiered"
 msgstr ""
 
-#: src/components/Years.js:103
+#: src/components/Years.js:96
 msgid "printed"
 msgstr ""
 
-#: src/components/Details.tsx:237
+#: src/components/Details.tsx:233
 msgid "undefined"
 msgstr ""
 
-#: src/components/Years.js:88
+#: src/components/Years.js:79
 msgid "written"
 msgstr ""

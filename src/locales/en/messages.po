@@ -27,7 +27,7 @@ msgstr "Author"
 msgid "Authors"
 msgstr "Authors"
 
-#: src/components/Details.tsx:282
+#: src/components/Details.tsx:276
 msgid "Based on"
 msgstr "Based on"
 
@@ -40,11 +40,11 @@ msgstr "Characters"
 msgid "Comments"
 msgstr "Comments"
 
-#: src/utils.ts:5
+#: src/languages.ts:4
 msgid "Czech"
 msgstr "Czech"
 
-#: src/utils.ts:6
+#: src/languages.ts:5
 msgid "Danish"
 msgstr "Danish"
 
@@ -57,7 +57,7 @@ msgstr "Database currently containing {0} one-act plays featuring {numCharacters
 msgid "Dates"
 msgstr "Dates"
 
-#: src/components/Details.tsx:292
+#: src/components/Details.tsx:286
 msgid "Dictionaries"
 msgstr "Dictionaries"
 
@@ -73,7 +73,7 @@ msgstr "Download JSON"
 msgid "Dramatis personae"
 msgstr "Dramatis personae"
 
-#: src/utils.ts:7
+#: src/languages.ts:6
 msgid "Dutch"
 msgstr "Dutch"
 
@@ -81,15 +81,15 @@ msgstr "Dutch"
 msgid "Editions"
 msgstr "Editions"
 
-#: src/utils.ts:8
+#: src/languages.ts:7
 msgid "English"
 msgstr "English"
 
-#: src/components/Details.tsx:302
+#: src/components/Details.tsx:296
 msgid "Formalia"
 msgstr "Formalia"
 
-#: src/utils.ts:9
+#: src/languages.ts:8
 msgid "French"
 msgstr "French"
 
@@ -97,7 +97,7 @@ msgstr "French"
 msgid "Full text"
 msgstr "Full text"
 
-#: src/utils.ts:10
+#: src/languages.ts:9
 msgid "German"
 msgstr "German"
 
@@ -105,11 +105,11 @@ msgstr "German"
 msgid "Hide"
 msgstr "Hide"
 
-#: src/utils.ts:11
+#: src/languages.ts:10
 msgid "Italian"
 msgstr "Italian"
 
-#: src/components/Details.tsx:316
+#: src/components/Details.tsx:310
 #: src/components/Table.tsx:101
 msgid "Keywords"
 msgstr "Keywords"
@@ -119,7 +119,7 @@ msgstr "Keywords"
 msgid "Language"
 msgstr "Language"
 
-#: src/utils.ts:12
+#: src/languages.ts:11
 msgid "Latin"
 msgstr "Latin"
 
@@ -132,7 +132,7 @@ msgstr "Links"
 msgid "Loading..."
 msgstr "Loading..."
 
-#: src/components/Details.tsx:266
+#: src/components/Details.tsx:260
 msgid "Location"
 msgstr "Location"
 
@@ -187,7 +187,7 @@ msgstr "Plays translated/adapted from other languages"
 msgid "Reviews"
 msgstr "Reviews"
 
-#: src/utils.ts:13
+#: src/languages.ts:12
 msgid "Russian"
 msgstr "Russian"
 
@@ -200,7 +200,7 @@ msgstr "Scenes"
 msgid "Search"
 msgstr "Search"
 
-#: src/components/Details.tsx:252
+#: src/components/Details.tsx:246
 msgid "Setting"
 msgstr "Setting"
 
@@ -209,7 +209,7 @@ msgstr "Setting"
 msgid "Show more"
 msgstr "Show more"
 
-#: src/utils.ts:14
+#: src/languages.ts:13
 msgid "Spanish"
 msgstr "Spanish"
 
@@ -243,7 +243,7 @@ msgstr "b."
 msgid "d."
 msgstr "d."
 
-#: src/components/Details.tsx:232
+#: src/components/Details.tsx:230
 #: src/components/Statistics.tsx:108
 msgid "female"
 msgstr "female"
@@ -253,18 +253,18 @@ msgstr "female"
 msgid "male"
 msgstr "male"
 
-#: src/components/Years.js:96
+#: src/components/Years.js:88
 msgid "premiered"
 msgstr "premiered"
 
-#: src/components/Years.js:103
+#: src/components/Years.js:96
 msgid "printed"
 msgstr "printed"
 
-#: src/components/Details.tsx:237
+#: src/components/Details.tsx:233
 msgid "undefined"
 msgstr "undefined"
 
-#: src/components/Years.js:88
+#: src/components/Years.js:79
 msgid "written"
 msgstr "written"

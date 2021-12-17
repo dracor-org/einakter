@@ -27,7 +27,7 @@ msgstr "작성자"
 msgid "Authors"
 msgstr "작성자"
 
-#: src/components/Details.tsx:282
+#: src/components/Details.tsx:276
 msgid "Based on"
 msgstr "원작"
 
@@ -40,11 +40,11 @@ msgstr "인물들"
 msgid "Comments"
 msgstr "코멘트"
 
-#: src/utils.ts:5
+#: src/languages.ts:4
 msgid "Czech"
 msgstr ""
 
-#: src/utils.ts:6
+#: src/languages.ts:5
 msgid "Danish"
 msgstr ""
 
@@ -57,7 +57,7 @@ msgstr "{numCharacters}인물들이 나타나는 일장 연극들을 포함한 {
 msgid "Dates"
 msgstr "날짜"
 
-#: src/components/Details.tsx:292
+#: src/components/Details.tsx:286
 msgid "Dictionaries"
 msgstr "사전"
 
@@ -73,7 +73,7 @@ msgstr "다운로드JSON"
 msgid "Dramatis personae"
 msgstr "인물들"
 
-#: src/utils.ts:7
+#: src/languages.ts:6
 msgid "Dutch"
 msgstr ""
 
@@ -81,15 +81,15 @@ msgstr ""
 msgid "Editions"
 msgstr "총서"
 
-#: src/utils.ts:8
+#: src/languages.ts:7
 msgid "English"
 msgstr ""
 
-#: src/components/Details.tsx:302
+#: src/components/Details.tsx:296
 msgid "Formalia"
 msgstr "장르"
 
-#: src/utils.ts:9
+#: src/languages.ts:8
 msgid "French"
 msgstr ""
 
@@ -97,7 +97,7 @@ msgstr ""
 msgid "Full text"
 msgstr "정본"
 
-#: src/utils.ts:10
+#: src/languages.ts:9
 msgid "German"
 msgstr ""
 
@@ -105,11 +105,11 @@ msgstr ""
 msgid "Hide"
 msgstr "숨김"
 
-#: src/utils.ts:11
+#: src/languages.ts:10
 msgid "Italian"
 msgstr ""
 
-#: src/components/Details.tsx:316
+#: src/components/Details.tsx:310
 #: src/components/Table.tsx:101
 msgid "Keywords"
 msgstr "예어"
@@ -119,7 +119,7 @@ msgstr "예어"
 msgid "Language"
 msgstr "언어"
 
-#: src/utils.ts:12
+#: src/languages.ts:11
 msgid "Latin"
 msgstr ""
 
@@ -132,7 +132,7 @@ msgstr "링크"
 msgid "Loading..."
 msgstr "로우딩..."
 
-#: src/components/Details.tsx:266
+#: src/components/Details.tsx:260
 msgid "Location"
 msgstr "장소"
 
@@ -187,7 +187,7 @@ msgstr "다른 언어로 번역된 연극들"
 msgid "Reviews"
 msgstr "평가"
 
-#: src/utils.ts:13
+#: src/languages.ts:12
 msgid "Russian"
 msgstr ""
 
@@ -200,7 +200,7 @@ msgstr "장면"
 msgid "Search"
 msgstr "검색"
 
-#: src/components/Details.tsx:252
+#: src/components/Details.tsx:246
 msgid "Setting"
 msgstr "연극단"
 
@@ -209,7 +209,7 @@ msgstr "연극단"
 msgid "Show more"
 msgstr "더 보여드림"
 
-#: src/utils.ts:14
+#: src/languages.ts:13
 msgid "Spanish"
 msgstr ""
 
@@ -243,7 +243,7 @@ msgstr "출생"
 msgid "d."
 msgstr "사망"
 
-#: src/components/Details.tsx:232
+#: src/components/Details.tsx:230
 #: src/components/Statistics.tsx:108
 msgid "female"
 msgstr "여성"
@@ -253,18 +253,18 @@ msgstr "여성"
 msgid "male"
 msgstr "남성"
 
-#: src/components/Years.js:96
+#: src/components/Years.js:88
 msgid "premiered"
 msgstr ""
 
-#: src/components/Years.js:103
+#: src/components/Years.js:96
 msgid "printed"
 msgstr ""
 
-#: src/components/Details.tsx:237
+#: src/components/Details.tsx:233
 msgid "undefined"
 msgstr ""
 
-#: src/components/Years.js:88
+#: src/components/Years.js:79
 msgid "written"
 msgstr ""

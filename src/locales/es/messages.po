@@ -27,7 +27,7 @@ msgstr "Autor/a"
 msgid "Authors"
 msgstr "Autores/as"
 
-#: src/components/Details.tsx:282
+#: src/components/Details.tsx:276
 msgid "Based on"
 msgstr "Basado en"
 
@@ -40,11 +40,11 @@ msgstr "Personajes"
 msgid "Comments"
 msgstr "Comentarios"
 
-#: src/utils.ts:5
+#: src/languages.ts:4
 msgid "Czech"
 msgstr ""
 
-#: src/utils.ts:6
+#: src/languages.ts:5
 msgid "Danish"
 msgstr ""
 
@@ -57,7 +57,7 @@ msgstr "La base de datos contiene actualmente {0} obras de un acto con un total 
 msgid "Dates"
 msgstr "Fechas"
 
-#: src/components/Details.tsx:292
+#: src/components/Details.tsx:286
 msgid "Dictionaries"
 msgstr "Diccionarios"
 
@@ -73,7 +73,7 @@ msgstr "Descargar JSON"
 msgid "Dramatis personae"
 msgstr "Dramatis personae"
 
-#: src/utils.ts:7
+#: src/languages.ts:6
 msgid "Dutch"
 msgstr ""
 
@@ -81,15 +81,15 @@ msgstr ""
 msgid "Editions"
 msgstr "Ediciones"
 
-#: src/utils.ts:8
+#: src/languages.ts:7
 msgid "English"
 msgstr ""
 
-#: src/components/Details.tsx:302
+#: src/components/Details.tsx:296
 msgid "Formalia"
 msgstr "Aspectos formales"
 
-#: src/utils.ts:9
+#: src/languages.ts:8
 msgid "French"
 msgstr ""
 
@@ -97,7 +97,7 @@ msgstr ""
 msgid "Full text"
 msgstr "Texto íntegro"
 
-#: src/utils.ts:10
+#: src/languages.ts:9
 msgid "German"
 msgstr ""
 
@@ -105,11 +105,11 @@ msgstr ""
 msgid "Hide"
 msgstr "Ocultar"
 
-#: src/utils.ts:11
+#: src/languages.ts:10
 msgid "Italian"
 msgstr ""
 
-#: src/components/Details.tsx:316
+#: src/components/Details.tsx:310
 #: src/components/Table.tsx:101
 msgid "Keywords"
 msgstr "Palabras clave"
@@ -119,7 +119,7 @@ msgstr "Palabras clave"
 msgid "Language"
 msgstr "Lengua"
 
-#: src/utils.ts:12
+#: src/languages.ts:11
 msgid "Latin"
 msgstr ""
 
@@ -132,7 +132,7 @@ msgstr "Enlaces"
 msgid "Loading..."
 msgstr "Cargando..."
 
-#: src/components/Details.tsx:266
+#: src/components/Details.tsx:260
 msgid "Location"
 msgstr "Lugar"
 
@@ -187,7 +187,7 @@ msgstr "Obras traducidas/adaptadas de otras lenguas"
 msgid "Reviews"
 msgstr "Críticas"
 
-#: src/utils.ts:13
+#: src/languages.ts:12
 msgid "Russian"
 msgstr ""
 
@@ -200,7 +200,7 @@ msgstr "Escenas"
 msgid "Search"
 msgstr "Búsqueda"
 
-#: src/components/Details.tsx:252
+#: src/components/Details.tsx:246
 msgid "Setting"
 msgstr "Escena"
 
@@ -209,7 +209,7 @@ msgstr "Escena"
 msgid "Show more"
 msgstr "Más"
 
-#: src/utils.ts:14
+#: src/languages.ts:13
 msgid "Spanish"
 msgstr ""
 
@@ -243,7 +243,7 @@ msgstr "n."
 msgid "d."
 msgstr "f."
 
-#: src/components/Details.tsx:232
+#: src/components/Details.tsx:230
 #: src/components/Statistics.tsx:108
 msgid "female"
 msgstr "femenino"
@@ -253,18 +253,18 @@ msgstr "femenino"
 msgid "male"
 msgstr "masculino"
 
-#: src/components/Years.js:96
+#: src/components/Years.js:88
 msgid "premiered"
 msgstr ""
 
-#: src/components/Years.js:103
+#: src/components/Years.js:96
 msgid "printed"
 msgstr ""
 
-#: src/components/Details.tsx:237
+#: src/components/Details.tsx:233
 msgid "undefined"
 msgstr ""
 
-#: src/components/Years.js:88
+#: src/components/Years.js:79
 msgid "written"
 msgstr ""

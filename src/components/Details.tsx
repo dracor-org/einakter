@@ -2,7 +2,7 @@ import React, {useEffect, useContext} from 'react';
 import {useLocation, useParams} from "react-router-dom";
 import ReactMarkdown from 'react-markdown';
 import {Helmet} from "react-helmet";
-import {Trans} from '@lingui/macro';
+import {Trans, t} from '@lingui/macro';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';
 import AuthorInfo from './AuthorInfo';
@@ -224,19 +224,13 @@ export default function Details () {
                       {c.role && (<i> {c.role}</i> )}
                       {' '}
                       {c.gender === 'm' && (
-                        <Trans render={({translation}) => <FontAwesomeIcon icon="mars" title={translation as string} />}>
-                          male
-                        </Trans>
+                        <FontAwesomeIcon icon="mars" title={t`male`} />
                       )}
                       {c.gender === 'f' && (
-                        <Trans render={({translation}) => <FontAwesomeIcon icon="venus" title={translation as string} />}>
-                          female
-                        </Trans>
+                        <FontAwesomeIcon icon="venus" title={t`female`} />
                       )}
                       {c.gender === 'u' && (
-                        <Trans render={({translation}) => <FontAwesomeIcon icon="genderless" title={translation as string} />}>
-                          undefined
-                        </Trans>
+                        <FontAwesomeIcon icon="genderless" title={t`undefined`} />
                       )}
                       {' '}
                       {c.isGroup && groupIcon}
