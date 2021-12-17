@@ -14,12 +14,12 @@ import BasedOn from './BasedOn';
 import {EinakterContext} from '../context';
 import {CastMember, Play} from '../types';
 
-const groupIcon = <FontAwesomeIcon icon="users" size="sm" title="Group"/>;
-
 export default function Details () {
   const { id } = useParams<{id: string}>();
   const { pathname } = useLocation();
   const { plays: data } = useContext(EinakterContext);
+
+  const groupIcon = <FontAwesomeIcon icon="users" size="sm" title={t`Group`}/>;
 
   const play: Play | undefined = data.find((p: Play) => p.slug === id);
 

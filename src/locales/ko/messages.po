@@ -18,7 +18,7 @@ msgstr ""
 msgid "About"
 msgstr "소개"
 
-#: src/components/Originals.tsx:64
+#: src/components/Originals.tsx:65
 #: src/components/Table.tsx:56
 msgid "Author"
 msgstr "작성자"
@@ -27,7 +27,7 @@ msgstr "작성자"
 msgid "Authors"
 msgstr "작성자"
 
-#: src/components/Details.tsx:276
+#: src/components/Details.tsx:268
 msgid "Based on"
 msgstr "원작"
 
@@ -36,7 +36,7 @@ msgstr "원작"
 msgid "Characters"
 msgstr "인물들"
 
-#: src/components/Details.tsx:86
+#: src/components/Details.tsx:87
 msgid "Comments"
 msgstr "코멘트"
 
@@ -52,12 +52,12 @@ msgstr ""
 msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
 msgstr "{numCharacters}인물들이 나타나는 일장 연극들을 포함한 {0} 데이터 베이스"
 
-#: src/components/Details.tsx:117
+#: src/components/Details.tsx:118
 #: src/components/OriginalDetails.tsx:93
 msgid "Dates"
 msgstr "날짜"
 
-#: src/components/Details.tsx:286
+#: src/components/Details.tsx:278
 msgid "Dictionaries"
 msgstr "사전"
 
@@ -69,7 +69,7 @@ msgstr "다운로드CSV"
 msgid "Download JSON"
 msgstr "다운로드JSON"
 
-#: src/components/Details.tsx:182
+#: src/components/Details.tsx:177
 msgid "Dramatis personae"
 msgstr "인물들"
 
@@ -77,7 +77,7 @@ msgstr "인물들"
 msgid "Dutch"
 msgstr ""
 
-#: src/components/Details.tsx:166
+#: src/components/Details.tsx:161
 msgid "Editions"
 msgstr "총서"
 
@@ -85,7 +85,7 @@ msgstr "총서"
 msgid "English"
 msgstr ""
 
-#: src/components/Details.tsx:296
+#: src/components/Details.tsx:288
 msgid "Formalia"
 msgstr "장르"
 
@@ -93,12 +93,16 @@ msgstr "장르"
 msgid "French"
 msgstr ""
 
-#: src/components/OriginalDetails.tsx:127
+#: src/components/OriginalDetails.tsx:122
 msgid "Full text"
 msgstr "정본"
 
 #: src/languages.ts:9
 msgid "German"
+msgstr ""
+
+#: src/components/Details.tsx:22
+msgid "Group"
 msgstr ""
 
 #: src/components/Statistics.tsx:73
@@ -109,13 +113,13 @@ msgstr "숨김"
 msgid "Italian"
 msgstr ""
 
-#: src/components/Details.tsx:310
+#: src/components/Details.tsx:302
 #: src/components/Table.tsx:101
 msgid "Keywords"
 msgstr "예어"
 
 #: src/components/OriginalDetails.tsx:61
-#: src/components/Originals.tsx:98
+#: src/components/Originals.tsx:100
 msgid "Language"
 msgstr "언어"
 
@@ -123,7 +127,7 @@ msgstr "언어"
 msgid "Latin"
 msgstr ""
 
-#: src/components/Details.tsx:134
+#: src/components/Details.tsx:135
 #: src/components/OriginalDetails.tsx:102
 msgid "Links"
 msgstr "링크"
@@ -132,7 +136,7 @@ msgstr "링크"
 msgid "Loading..."
 msgstr "로우딩..."
 
-#: src/components/Details.tsx:260
+#: src/components/Details.tsx:252
 msgid "Location"
 msgstr "장소"
 
@@ -142,15 +146,15 @@ msgstr "장소"
 msgid "Locations"
 msgstr "장소들"
 
-#: src/components/Details.tsx:30
+#: src/components/Details.tsx:31
 msgid "No such play"
 msgstr "그런 연극은 없음"
 
-#: src/components/Details.tsx:126
+#: src/components/Details.tsx:127
 msgid "Number of Scenes"
 msgstr "장면수"
 
-#: src/components/Originals.tsx:104
+#: src/components/Originals.tsx:106
 msgid "Number of translations"
 msgstr "번역수"
 
@@ -162,12 +166,13 @@ msgstr "일장 연극"
 msgid "Original not found"
 msgstr "원서는 찾을 수 없음"
 
-#: src/components/Originals.tsx:116
+#: src/components/Original.tsx:57
+#: src/components/Originals.tsx:118
 #: src/components/Topnav.tsx:87
 msgid "Originals"
 msgstr "원서들"
 
-#: src/components/Original.tsx:88
+#: src/components/Original.tsx:80
 msgid "Other one-act translations"
 msgstr "다른 일장 연극 번역들"
 
@@ -183,7 +188,7 @@ msgstr "익명으로 출판된 연극들"
 msgid "Plays translated/adapted from other languages"
 msgstr "다른 언어로 번역된 연극들"
 
-#: src/components/Details.tsx:102
+#: src/components/Details.tsx:103
 msgid "Reviews"
 msgstr "평가"
 
@@ -195,12 +200,12 @@ msgstr ""
 msgid "Scenes"
 msgstr "장면"
 
-#: src/components/Originals.tsx:127
+#: src/components/Originals.tsx:129
 #: src/components/Table.tsx:123
 msgid "Search"
 msgstr "검색"
 
-#: src/components/Details.tsx:246
+#: src/components/Details.tsx:238
 msgid "Setting"
 msgstr "연극단"
 
@@ -221,7 +226,7 @@ msgstr "통계"
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr "이 맵은 플레이 시작시 설정 정보에서 추출할 수 있는 모든 플롯 위치를 보여줍니다. 지도의 명칭과 경계는 OpenStreetMap에서 제공함으로 행동 시간 및 연극 제작과 관련하여 역사적입니다."
 
-#: src/components/Originals.tsx:74
+#: src/components/Originals.tsx:75
 #: src/components/Table.tsx:66
 msgid "Title"
 msgstr "제목"
@@ -230,7 +235,7 @@ msgstr "제목"
 msgid "Translations"
 msgstr "번역"
 
-#: src/components/Originals.tsx:83
+#: src/components/Originals.tsx:84
 #: src/components/Table.tsx:78
 msgid "Year (normalized)"
 msgstr "년"
@@ -243,28 +248,28 @@ msgstr "출생"
 msgid "d."
 msgstr "사망"
 
-#: src/components/Details.tsx:230
+#: src/components/GenderIcon.tsx:11
 #: src/components/Statistics.tsx:108
 msgid "female"
 msgstr "여성"
 
-#: src/components/Details.tsx:227
+#: src/components/GenderIcon.tsx:14
 #: src/components/Statistics.tsx:107
 msgid "male"
 msgstr "남성"
 
-#: src/components/Years.js:88
+#: src/components/Years.js:90
 msgid "premiered"
 msgstr ""
 
-#: src/components/Years.js:96
+#: src/components/Years.js:98
 msgid "printed"
 msgstr ""
 
 #: src/components/Details.tsx:233
-msgid "undefined"
-msgstr ""
+#~ msgid "undefined"
+#~ msgstr ""
 
-#: src/components/Years.js:79
+#: src/components/Years.js:81
 msgid "written"
 msgstr ""
