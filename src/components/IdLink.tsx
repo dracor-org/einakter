@@ -15,7 +15,7 @@ const sites = {
   },
   weber: {
     url: 'http://weber-gesamtausgabe.de/',
-    title: 'Weber-Gesamtausgabe',
+    title: 'Carl-Maria-von-Weber-Gesamtausgabe (WeGA)',
     icon: 'weber.svg',
     width: 14,
   },
