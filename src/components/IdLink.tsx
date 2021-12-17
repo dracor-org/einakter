@@ -15,7 +15,7 @@ const sites = {
   },
   weber: {
     url: 'http://weber-gesamtausgabe.de/',
-    title: 'Weber Gesamtausgabe',
+    title: 'Weber-Gesamtausgabe',
     icon: 'weber.svg',
     width: 14,
   },
