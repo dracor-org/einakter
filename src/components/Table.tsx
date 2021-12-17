@@ -24,15 +24,13 @@ function formatTitle (_: string, play: Play) {
       {subtitle && <small><br/>{subtitle}</small>}
       <div>
       {wikidata && (
-        <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
-          <img src="/wikidata.svg" width="16" alt="wikidata"/>
+        <small>
           <IdLink id={wikidata} type="wikidata"/>
         </small>
       )}
       {' '}
       {dracor && (
-        <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
-          <img src="/DraCor.svg" width="12" alt="dracor"/>
+        <small>
           <IdLink id={dracor} type="dracor"/>
         </small>
       )}

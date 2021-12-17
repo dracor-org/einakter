@@ -137,24 +137,21 @@ export default function Details () {
                 <ul>
                   {ids.dracor && (
                     <li>
-                      <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
-                        <img src="/DraCor.svg" width="12" alt="DraCor"/>
+                      <small>
                         <IdLink id={ids.dracor} type="dracor"/>
                       </small>
                     </li>
                   )}
                   {ids.wikidata && (
                     <li>
-                     <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
-                      <img src="/wikidata.svg" width="16" alt="wikidata"/>
+                     <small>
                       <IdLink id={ids.wikidata} type="wikidata"/>
                      </small>
                     </li>
                   )}
                   {ids.weber && (
                     <li>
-                      <small className="inline-flex bg-white rounded pl-1 pr-1.5 gap-0.5 align-text-bottom">
-                        <img src="/weber.svg" width="14" alt="weber"/>
+                      <small>
                         <IdLink id={ids.weber} type="weber"/>
                       </small>
                     </li>
@@ -271,8 +268,7 @@ export default function Details () {
               <td>
                 <ul>
                   {settings?.filter((s) => s.location?.wikidataId).map((s) => (
-                    <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom" key={s.location.wikidataId as string}>
-                      <img src="/wikidata.svg" width="16" alt="wikidata"/>
+                    <small key={s.location.wikidataId as string}>
                       <IdLink id={s.location.wikidataId as string} type="wikidata"/>
                     </small>
                   ))}

@@ -116,8 +116,7 @@ WHERE {
       <span>
         <h2>{fullname}</h2>
         {wikidataId && (
-          <p className="text-sm inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
-            <img src="/wikidata.svg" width="16" alt="wikidata"/>
+          <p>
             <IdLink id={wikidataId} type="wikidata"/>
           </p>
         )}

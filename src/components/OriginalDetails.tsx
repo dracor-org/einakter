@@ -104,20 +104,15 @@ const OriginalDetails = () => {
               <td>
                 <ul>
                   {ids.dracor && (
-                    <li>DraCor: 
-                      {' '}
-                      <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
-                        <img src="/DraCor.svg" width="12" alt="DraCor"/>
+                    <li>
+                      <small>
                         <IdLink id={ids.dracor} type="dracor"/>
                       </small>
                     </li>
                   )}
                   {ids.wikidata && (
                     <li>
-                      Wikidata: 
-                      {' '}
-                      <small className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
-                        <img src="/wikidata.svg" width="16" alt="wikidata"/>
+                      <small>
                         <IdLink id={ids.wikidata} type="wikidata"/>
                       </small>
                     </li>

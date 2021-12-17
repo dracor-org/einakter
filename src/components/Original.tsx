@@ -49,7 +49,7 @@ const Original = ({data}: Props) => {
           {a.wikidata && (
             <>
               {' '}
-              <IdLink id={a.wikidata} type="wikidata"/>
+              <small><IdLink id={a.wikidata} type="wikidata"/></small>
             </>
           )}
         </span>
@@ -69,16 +69,14 @@ const Original = ({data}: Props) => {
       )}
       {ids?.dracor && (
         <>
-          {' ['}
-          <IdLink id={ids.dracor} type="dracor"/>
-          {']'}
+          {' '}
+          <small><IdLink id={ids.dracor} type="dracor"/></small>
         </>
       )}
       {ids?.wikidata && (
         <>
-          {' ['}
-          <IdLink id={ids.wikidata} type="wikidata"/>
-          {']'}
+          {' '}
+          <small><IdLink id={ids.wikidata} type="wikidata"/></small>
         </>
       )}
       {year !== undefined && ` (${year})`}
