@@ -1,6 +1,5 @@
-import React, {useState} from 'react';
-import {Trans, t} from '@lingui/macro';
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import React from 'react';
+import {Trans} from '@lingui/macro';
 import {Play} from '../types';
 
 interface AuthorData {
@@ -24,11 +23,10 @@ interface AuthorData {
 interface Props {
   authors: AuthorData
   plays: Play[]
+  className?: string;
 };
 
-const Statistics = ({authors = {}, plays = []}: Props) => {
-  const [expanded, setExpanded] = useState(false);
-
+const Statistics = ({authors = {}, plays = [], className = ''}: Props) => {
   // find non-anonymous authors without IDs
   const names: {[id: string]: number} = {};
   plays.forEach((play: Play) => {
@@ -66,29 +64,9 @@ const Statistics = ({authors = {}, plays = []}: Props) => {
   }, 0)
 
   return (
-    <div className="statistics">
-      <table className="table table-sm table-dark">
-        <caption
-          onClick={() => setExpanded(!expanded)}
-          title={expanded ? t`Hide` : t`Show more`}
-        >
-          {expanded ? (
-            <>
-              <Trans>Statistics</Trans>{' '}
-              <FontAwesomeIcon icon="caret-down" title="Hide"/>
-            </>
-          ) : (
-            <>
-              <Trans>
-                Database currently containing {plays.length} one-act plays
-                featuring {numCharacters} characters
-              </Trans>
-              {' '}
-              <FontAwesomeIcon icon="caret-up" title={t`Show more`}/>
-            </>
-          )}
-        </caption>
-        <tbody style={{display: expanded ? 'table-row-group' : 'none'}}>
+    <div className={className}>
+      <table className="table-auto m-0">
+        <tbody>
           <tr>
             <th>
               <Trans>One-act plays</Trans>
@@ -103,8 +81,8 @@ const Statistics = ({authors = {}, plays = []}: Props) => {
               {authorsTotal}
               <br/>
               <small>
-                Wikidata: {authorsWikidata},
-                <Trans>male</Trans>: {authorsMale},
+                Wikidata: {authorsWikidata},{' '}
+                <Trans>male</Trans>: {authorsMale},{' '}
                 <Trans>female</Trans>: {authorsFemale}
               </small>
             </td>

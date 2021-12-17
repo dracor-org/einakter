@@ -119,7 +119,7 @@ function Table () {
         {
           props => (
             <div className="p-4 overflow-x-auto">
-              <Statistics plays={data} authors={authors} />
+              <Statistics plays={data} authors={authors} className="mb-2 mt-2"/>
               <SearchBar { ...props.searchProps } placeholder={t`Search`}/>
               <span className="download">
                 <a href="data.json" download="einakter.json">
