@@ -134,29 +134,23 @@ export default function Details () {
                 <Trans>Links</Trans>
               </th>
               <td>
-                <ul>
-                  {ids.dracor && (
-                    <li>
-                      <small>
-                        <IdLink id={ids.dracor} type="dracor"/>
-                      </small>
-                    </li>
-                  )}
-                  {ids.wikidata && (
-                    <li>
-                     <small>
-                      <IdLink id={ids.wikidata} type="wikidata"/>
-                     </small>
-                    </li>
-                  )}
-                  {ids.weber && (
-                    <li>
-                      <small>
-                        <IdLink id={ids.weber} type="weber"/>
-                      </small>
-                    </li>
-                  )}
-                </ul>
+                {ids.dracor && (
+                  <small>
+                    <IdLink id={ids.dracor} type="dracor"/>
+                  </small>
+                )}
+                {' '}
+                {ids.wikidata && (
+                  <small>
+                    <IdLink id={ids.wikidata} type="wikidata"/>
+                  </small>
+                )}
+                {' '}
+                {ids.weber && (
+                  <small>
+                    <IdLink id={ids.weber} type="weber"/>
+                  </small>
+                )}
               </td>
             </tr>
           )}
