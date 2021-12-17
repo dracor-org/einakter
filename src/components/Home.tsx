@@ -10,8 +10,8 @@ export default function Home () {
     <div className="page p-4 markdown mt-16 max-w-full">
       <Helmet>
         <title>
-          DraCor Einakter
-          {' – '}
+          Einakter:
+          {' '}
           {t`The Database of German-Language One-Act Plays 1740–1850`}
         </title>
       </Helmet>
