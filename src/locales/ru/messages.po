@@ -23,7 +23,7 @@ msgstr "О проекте"
 msgid "Author"
 msgstr "Автор"
 
-#: src/components/Statistics.tsx:100
+#: src/components/Statistics.tsx:78
 msgid "Authors"
 msgstr "Авторы"
 
@@ -31,7 +31,7 @@ msgstr "Авторы"
 msgid "Based on"
 msgstr "Основано на"
 
-#: src/components/Statistics.tsx:126
+#: src/components/Statistics.tsx:104
 #: src/components/Table.tsx:97
 msgid "Characters"
 msgstr "Персонажи"
@@ -49,8 +49,8 @@ msgid "Danish"
 msgstr ""
 
 #: src/components/Statistics.tsx:82
-msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
-msgstr "На сегодня база данных содержит {0} одноактных пьес, в которых суммарно насчитывается {numCharacters} персонажей"
+#~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
+#~ msgstr "На сегодня база данных содержит {0} одноактных пьес, в которых суммарно насчитывается {numCharacters} персонажей"
 
 #: src/components/Details.tsx:118
 #: src/components/OriginalDetails.tsx:93
@@ -61,11 +61,11 @@ msgstr "Датировка"
 msgid "Dictionaries"
 msgstr "В справочниках"
 
-#: src/components/Table.tsx:130
+#: src/components/Table.tsx:141
 msgid "Download CSV"
 msgstr "Скачать CSV"
 
-#: src/components/Table.tsx:126
+#: src/components/Table.tsx:137
 msgid "Download JSON"
 msgstr "Скачать JSON"
 
@@ -106,8 +106,8 @@ msgid "Group"
 msgstr ""
 
 #: src/components/Statistics.tsx:73
-msgid "Hide"
-msgstr "Скрыть"
+#~ msgid "Hide"
+#~ msgstr "Скрыть"
 
 #: src/languages.ts:10
 msgid "Italian"
@@ -158,7 +158,7 @@ msgstr "Число сцен"
 msgid "Number of translations"
 msgstr "Число переводов"
 
-#: src/components/Statistics.tsx:94
+#: src/components/Statistics.tsx:72
 msgid "One-act plays"
 msgstr "Одноактные пьесы"
 
@@ -180,11 +180,11 @@ msgstr "Другие одноактные переводы"
 msgid "Plays"
 msgstr ""
 
-#: src/components/Statistics.tsx:114
+#: src/components/Statistics.tsx:92
 msgid "Plays published anonymously"
 msgstr "Пьесы, опубликованные анонимно"
 
-#: src/components/Statistics.tsx:120
+#: src/components/Statistics.tsx:98
 msgid "Plays translated/adapted from other languages"
 msgstr "Пьесы, переведенные с других языков"
 
@@ -201,7 +201,7 @@ msgid "Scenes"
 msgstr "Сцены"
 
 #: src/components/Originals.tsx:129
-#: src/components/Table.tsx:123
+#: src/components/Table.tsx:134
 msgid "Search"
 msgstr "Поиск"
 
@@ -211,16 +211,16 @@ msgstr "Антураж и место действия"
 
 #: src/components/Statistics.tsx:73
 #: src/components/Statistics.tsx:87
-msgid "Show more"
-msgstr "Показать больше"
+#~ msgid "Show more"
+#~ msgstr "Показать больше"
 
 #: src/languages.ts:13
 msgid "Spanish"
 msgstr ""
 
 #: src/components/Statistics.tsx:77
-msgid "Statistics"
-msgstr "Статистика"
+#~ msgid "Statistics"
+#~ msgstr "Статистика"
 
 #: src/components/Map.tsx:53
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
@@ -234,6 +234,10 @@ msgstr "Название"
 #: src/components/OriginalDetails.tsx:69
 msgid "Translations"
 msgstr "Переводы"
+
+#: src/components/Table.tsx:123
+msgid "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
+msgstr ""
 
 #: src/components/Originals.tsx:84
 #: src/components/Table.tsx:78
@@ -249,12 +253,12 @@ msgid "d."
 msgstr "ум."
 
 #: src/components/GenderIcon.tsx:11
-#: src/components/Statistics.tsx:108
+#: src/components/Statistics.tsx:86
 msgid "female"
 msgstr "женский"
 
 #: src/components/GenderIcon.tsx:14
-#: src/components/Statistics.tsx:107
+#: src/components/Statistics.tsx:85
 msgid "male"
 msgstr "мужской"
 

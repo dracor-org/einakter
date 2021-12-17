@@ -23,7 +23,7 @@ msgstr "A propos de ce projet"
 msgid "Author"
 msgstr "Auteur.rice"
 
-#: src/components/Statistics.tsx:100
+#: src/components/Statistics.tsx:78
 msgid "Authors"
 msgstr "Auteurs.rices"
 
@@ -31,7 +31,7 @@ msgstr "Auteurs.rices"
 msgid "Based on"
 msgstr "Texte de base"
 
-#: src/components/Statistics.tsx:126
+#: src/components/Statistics.tsx:104
 #: src/components/Table.tsx:97
 msgid "Characters"
 msgstr "Personnages"
@@ -49,8 +49,8 @@ msgid "Danish"
 msgstr ""
 
 #: src/components/Statistics.tsx:82
-msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
-msgstr "La base de données comporte actuellement {0} pièces en 1 Acte pour un total de {numCharacters} personnages"
+#~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
+#~ msgstr "La base de données comporte actuellement {0} pièces en 1 Acte pour un total de {numCharacters} personnages"
 
 #: src/components/Details.tsx:118
 #: src/components/OriginalDetails.tsx:93
@@ -61,11 +61,11 @@ msgstr "Dates de parution"
 msgid "Dictionaries"
 msgstr "Références"
 
-#: src/components/Table.tsx:130
+#: src/components/Table.tsx:141
 msgid "Download CSV"
 msgstr "Télécharger le fichier CSV"
 
-#: src/components/Table.tsx:126
+#: src/components/Table.tsx:137
 msgid "Download JSON"
 msgstr "Télécharger le fichier JSON"
 
@@ -106,8 +106,8 @@ msgid "Group"
 msgstr ""
 
 #: src/components/Statistics.tsx:73
-msgid "Hide"
-msgstr "Cacher"
+#~ msgid "Hide"
+#~ msgstr "Cacher"
 
 #: src/languages.ts:10
 msgid "Italian"
@@ -158,7 +158,7 @@ msgstr "Nombre de scènes"
 msgid "Number of translations"
 msgstr "Nombre de traductions"
 
-#: src/components/Statistics.tsx:94
+#: src/components/Statistics.tsx:72
 msgid "One-act plays"
 msgstr "Pièces en 1 Acte"
 
@@ -180,11 +180,11 @@ msgstr "Autres traductions de pièces en 1 Acte"
 msgid "Plays"
 msgstr ""
 
-#: src/components/Statistics.tsx:114
+#: src/components/Statistics.tsx:92
 msgid "Plays published anonymously"
 msgstr "Pièces publiées anonymement"
 
-#: src/components/Statistics.tsx:120
+#: src/components/Statistics.tsx:98
 msgid "Plays translated/adapted from other languages"
 msgstr "Pièces traduites ou adaptées d'autres langues"
 
@@ -201,7 +201,7 @@ msgid "Scenes"
 msgstr "Scènes"
 
 #: src/components/Originals.tsx:129
-#: src/components/Table.tsx:123
+#: src/components/Table.tsx:134
 msgid "Search"
 msgstr "Recherche"
 
@@ -211,16 +211,16 @@ msgstr "Lieu"
 
 #: src/components/Statistics.tsx:73
 #: src/components/Statistics.tsx:87
-msgid "Show more"
-msgstr "Plus de résultats"
+#~ msgid "Show more"
+#~ msgstr "Plus de résultats"
 
 #: src/languages.ts:13
 msgid "Spanish"
 msgstr ""
 
 #: src/components/Statistics.tsx:77
-msgid "Statistics"
-msgstr "Statistiques"
+#~ msgid "Statistics"
+#~ msgstr "Statistiques"
 
 #: src/components/Map.tsx:53
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
@@ -234,6 +234,10 @@ msgstr "Titre"
 #: src/components/OriginalDetails.tsx:69
 msgid "Translations"
 msgstr "Traductions"
+
+#: src/components/Table.tsx:123
+msgid "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
+msgstr ""
 
 #: src/components/Originals.tsx:84
 #: src/components/Table.tsx:78
@@ -249,12 +253,12 @@ msgid "d."
 msgstr "mort.e"
 
 #: src/components/GenderIcon.tsx:11
-#: src/components/Statistics.tsx:108
+#: src/components/Statistics.tsx:86
 msgid "female"
 msgstr "femmes"
 
 #: src/components/GenderIcon.tsx:14
-#: src/components/Statistics.tsx:107
+#: src/components/Statistics.tsx:85
 msgid "male"
 msgstr "hommes"
 
