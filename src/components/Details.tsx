@@ -8,6 +8,7 @@ import Authors from './Authors';
 import AuthorInfo from './AuthorInfo';
 import Dictionaries from './Dictionaries';
 import Years from './Years';
+import GenderIcon from './GenderIcon';
 import IdLink from './IdLink';
 import BasedOn from './BasedOn';
 import {EinakterContext} from '../context';
@@ -205,7 +206,10 @@ export default function Details () {
                         <li key={member.name}>
                           {member.name}
                           {member.role && (<i> {member.role}</i> )}
-                          {member.gender && ` (${member.gender})`}
+                          {' '}
+                          {member.gender && (
+                            <GenderIcon gender={member.gender} />
+                          )}
                           {' '}
                           {member.isGroup && groupIcon}
                         </li>
@@ -217,14 +221,8 @@ export default function Details () {
                       {c.name}
                       {c.role && (<i> {c.role}</i> )}
                       {' '}
-                      {c.gender === 'm' && (
-                        <FontAwesomeIcon icon="mars" title={t`male`} />
-                      )}
-                      {c.gender === 'f' && (
-                        <FontAwesomeIcon icon="venus" title={t`female`} />
-                      )}
-                      {c.gender === 'u' && (
-                        <FontAwesomeIcon icon="genderless" title={t`undefined`} />
+                      {c.gender && (
+                        <GenderIcon gender={c.gender} />
                       )}
                       {' '}
                       {c.isGroup && groupIcon}
