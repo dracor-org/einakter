@@ -29,7 +29,6 @@ const Original = ({data}: Props) => {
     title,
     subtitle,
     ids,
-    fulltextUrl,
     language,
   } = data;
 
