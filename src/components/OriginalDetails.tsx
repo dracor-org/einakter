@@ -8,7 +8,7 @@ import IdLink from './IdLink';
 import Years from './Years';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';
-import {languages} from '../utils';
+import languages from '../languages';
 
 const OriginalDetails = () => {
   const {originalId} = useParams<{originalId: string}>();

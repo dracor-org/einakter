@@ -18,8 +18,8 @@ msgstr ""
 msgid "About"
 msgstr "About"
 
-#: src/components/Originals.tsx:60
-#: src/components/Table.tsx:52
+#: src/components/Originals.tsx:64
+#: src/components/Table.tsx:56
 msgid "Author"
 msgstr "Author"
 
@@ -27,18 +27,26 @@ msgstr "Author"
 msgid "Authors"
 msgstr "Authors"
 
-#: src/components/Details.tsx:286
+#: src/components/Details.tsx:282
 msgid "Based on"
 msgstr "Based on"
 
 #: src/components/Statistics.tsx:126
-#: src/components/Table.tsx:93
+#: src/components/Table.tsx:97
 msgid "Characters"
 msgstr "Characters"
 
 #: src/components/Details.tsx:86
 msgid "Comments"
 msgstr "Comments"
+
+#: src/utils.ts:5
+msgid "Czech"
+msgstr "Czech"
+
+#: src/utils.ts:6
+msgid "Danish"
+msgstr "Danish"
 
 #: src/components/Statistics.tsx:82
 msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
@@ -49,47 +57,71 @@ msgstr "Database currently containing {0} one-act plays featuring {numCharacters
 msgid "Dates"
 msgstr "Dates"
 
-#: src/components/Details.tsx:296
+#: src/components/Details.tsx:292
 msgid "Dictionaries"
 msgstr "Dictionaries"
 
-#: src/components/Table.tsx:131
+#: src/components/Table.tsx:130
 msgid "Download CSV"
 msgstr "Download CSV"
 
-#: src/components/Table.tsx:127
+#: src/components/Table.tsx:126
 msgid "Download JSON"
 msgstr "Download JSON"
 
-#: src/components/Details.tsx:185
+#: src/components/Details.tsx:182
 msgid "Dramatis personae"
 msgstr "Dramatis personae"
 
-#: src/components/Details.tsx:169
+#: src/utils.ts:7
+msgid "Dutch"
+msgstr "Dutch"
+
+#: src/components/Details.tsx:166
 msgid "Editions"
 msgstr "Editions"
 
-#: src/components/Details.tsx:306
+#: src/utils.ts:8
+msgid "English"
+msgstr "English"
+
+#: src/components/Details.tsx:302
 msgid "Formalia"
 msgstr "Formalia"
 
-#: src/components/OriginalDetails.tsx:132
+#: src/utils.ts:9
+msgid "French"
+msgstr "French"
+
+#: src/components/OriginalDetails.tsx:127
 msgid "Full text"
 msgstr "Full text"
+
+#: src/utils.ts:10
+msgid "German"
+msgstr "German"
 
 #: src/components/Statistics.tsx:73
 msgid "Hide"
 msgstr "Hide"
 
-#: src/components/Details.tsx:320
-#: src/components/Table.tsx:102
+#: src/utils.ts:11
+msgid "Italian"
+msgstr "Italian"
+
+#: src/components/Details.tsx:316
+#: src/components/Table.tsx:101
 msgid "Keywords"
 msgstr "Keywords"
 
 #: src/components/OriginalDetails.tsx:61
-#: src/components/Originals.tsx:99
+#: src/components/Originals.tsx:98
 msgid "Language"
 msgstr "Language"
+
+#: src/utils.ts:12
+msgid "Latin"
+msgstr "Latin"
 
 #: src/components/Details.tsx:134
 #: src/components/OriginalDetails.tsx:102
@@ -100,7 +132,7 @@ msgstr "Links"
 msgid "Loading..."
 msgstr "Loading..."
 
-#: src/components/Details.tsx:269
+#: src/components/Details.tsx:266
 msgid "Location"
 msgstr "Location"
 
@@ -118,7 +150,7 @@ msgstr "No such play"
 msgid "Number of Scenes"
 msgstr "Number of Scenes"
 
-#: src/components/Originals.tsx:105
+#: src/components/Originals.tsx:104
 msgid "Number of translations"
 msgstr "Number of translations"
 
@@ -130,12 +162,12 @@ msgstr "One-act plays"
 msgid "Original not found"
 msgstr "Original not found"
 
-#: src/components/Originals.tsx:117
+#: src/components/Originals.tsx:116
 #: src/components/Topnav.tsx:87
 msgid "Originals"
 msgstr "Originals"
 
-#: src/components/Original.tsx:90
+#: src/components/Original.tsx:88
 msgid "Other one-act translations"
 msgstr "Other one-act translations"
 
@@ -155,16 +187,20 @@ msgstr "Plays translated/adapted from other languages"
 msgid "Reviews"
 msgstr "Reviews"
 
-#: src/components/Table.tsx:89
+#: src/utils.ts:13
+msgid "Russian"
+msgstr "Russian"
+
+#: src/components/Table.tsx:93
 msgid "Scenes"
 msgstr "Scenes"
 
-#: src/components/Originals.tsx:128
-#: src/components/Table.tsx:124
+#: src/components/Originals.tsx:127
+#: src/components/Table.tsx:123
 msgid "Search"
 msgstr "Search"
 
-#: src/components/Details.tsx:255
+#: src/components/Details.tsx:252
 msgid "Setting"
 msgstr "Setting"
 
@@ -172,6 +208,10 @@ msgstr "Setting"
 #: src/components/Statistics.tsx:87
 msgid "Show more"
 msgstr "Show more"
+
+#: src/utils.ts:14
+msgid "Spanish"
+msgstr "Spanish"
 
 #: src/components/Statistics.tsx:77
 msgid "Statistics"
@@ -181,8 +221,8 @@ msgstr "Statistics"
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 
-#: src/components/Originals.tsx:70
-#: src/components/Table.tsx:62
+#: src/components/Originals.tsx:74
+#: src/components/Table.tsx:66
 msgid "Title"
 msgstr "Title"
 
@@ -190,41 +230,41 @@ msgstr "Title"
 msgid "Translations"
 msgstr "Translations"
 
-#: src/components/Originals.tsx:79
-#: src/components/Table.tsx:74
+#: src/components/Originals.tsx:83
+#: src/components/Table.tsx:78
 msgid "Year (normalized)"
 msgstr "Year (normalized)"
 
-#: src/components/AuthorInfo.tsx:124
+#: src/components/AuthorInfo.tsx:123
 msgid "b."
 msgstr "b."
 
-#: src/components/AuthorInfo.tsx:125
+#: src/components/AuthorInfo.tsx:124
 msgid "d."
 msgstr "d."
 
-#: src/components/Details.tsx:235
+#: src/components/Details.tsx:232
 #: src/components/Statistics.tsx:108
 msgid "female"
 msgstr "female"
 
-#: src/components/Details.tsx:230
+#: src/components/Details.tsx:227
 #: src/components/Statistics.tsx:107
 msgid "male"
 msgstr "male"
 
-#: src/components/Years.js:102
+#: src/components/Years.js:96
 msgid "premiered"
 msgstr "premiered"
 
-#: src/components/Years.js:109
+#: src/components/Years.js:103
 msgid "printed"
 msgstr "printed"
 
-#: src/components/Details.tsx:240
+#: src/components/Details.tsx:237
 msgid "undefined"
 msgstr "undefined"
 
-#: src/components/Years.js:94
+#: src/components/Years.js:88
 msgid "written"
 msgstr "written"

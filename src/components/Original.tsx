@@ -5,7 +5,7 @@ import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';
-import {languages} from '../utils';
+import languages from '../languages';
 
 function getYear(ref: OriginalPlay) {
   const years = [];

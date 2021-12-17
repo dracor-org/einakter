@@ -18,8 +18,8 @@ msgstr ""
 msgid "About"
 msgstr "О проекте"
 
-#: src/components/Originals.tsx:60
-#: src/components/Table.tsx:52
+#: src/components/Originals.tsx:64
+#: src/components/Table.tsx:56
 msgid "Author"
 msgstr "Автор"
 
@@ -27,18 +27,26 @@ msgstr "Автор"
 msgid "Authors"
 msgstr "Авторы"
 
-#: src/components/Details.tsx:286
+#: src/components/Details.tsx:282
 msgid "Based on"
 msgstr "Основано на"
 
 #: src/components/Statistics.tsx:126
-#: src/components/Table.tsx:93
+#: src/components/Table.tsx:97
 msgid "Characters"
 msgstr "Персонажи"
 
 #: src/components/Details.tsx:86
 msgid "Comments"
 msgstr "Комментарий"
+
+#: src/utils.ts:5
+msgid "Czech"
+msgstr ""
+
+#: src/utils.ts:6
+msgid "Danish"
+msgstr ""
 
 #: src/components/Statistics.tsx:82
 msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
@@ -49,47 +57,71 @@ msgstr "На сегодня база данных содержит {0} одно�
 msgid "Dates"
 msgstr "Датировка"
 
-#: src/components/Details.tsx:296
+#: src/components/Details.tsx:292
 msgid "Dictionaries"
 msgstr "В справочниках"
 
-#: src/components/Table.tsx:131
+#: src/components/Table.tsx:130
 msgid "Download CSV"
 msgstr "Скачать CSV"
 
-#: src/components/Table.tsx:127
+#: src/components/Table.tsx:126
 msgid "Download JSON"
 msgstr "Скачать JSON"
 
-#: src/components/Details.tsx:185
+#: src/components/Details.tsx:182
 msgid "Dramatis personae"
 msgstr "Действующие лица"
 
-#: src/components/Details.tsx:169
+#: src/utils.ts:7
+msgid "Dutch"
+msgstr ""
+
+#: src/components/Details.tsx:166
 msgid "Editions"
 msgstr "Издания"
 
-#: src/components/Details.tsx:306
+#: src/utils.ts:8
+msgid "English"
+msgstr ""
+
+#: src/components/Details.tsx:302
 msgid "Formalia"
 msgstr "Форма произведения"
 
-#: src/components/OriginalDetails.tsx:132
+#: src/utils.ts:9
+msgid "French"
+msgstr ""
+
+#: src/components/OriginalDetails.tsx:127
 msgid "Full text"
 msgstr "Полный текст"
+
+#: src/utils.ts:10
+msgid "German"
+msgstr ""
 
 #: src/components/Statistics.tsx:73
 msgid "Hide"
 msgstr "Скрыть"
 
-#: src/components/Details.tsx:320
-#: src/components/Table.tsx:102
+#: src/utils.ts:11
+msgid "Italian"
+msgstr ""
+
+#: src/components/Details.tsx:316
+#: src/components/Table.tsx:101
 msgid "Keywords"
 msgstr "Ключевые слова"
 
 #: src/components/OriginalDetails.tsx:61
-#: src/components/Originals.tsx:99
+#: src/components/Originals.tsx:98
 msgid "Language"
 msgstr "Язык"
+
+#: src/utils.ts:12
+msgid "Latin"
+msgstr ""
 
 #: src/components/Details.tsx:134
 #: src/components/OriginalDetails.tsx:102
@@ -100,7 +132,7 @@ msgstr "Ссылки на другие проекты"
 msgid "Loading..."
 msgstr "Загружается..."
 
-#: src/components/Details.tsx:269
+#: src/components/Details.tsx:266
 msgid "Location"
 msgstr "Место действия"
 
@@ -118,7 +150,7 @@ msgstr "Пьеса не найдена"
 msgid "Number of Scenes"
 msgstr "Число сцен"
 
-#: src/components/Originals.tsx:105
+#: src/components/Originals.tsx:104
 msgid "Number of translations"
 msgstr "Число переводов"
 
@@ -130,12 +162,12 @@ msgstr "Одноактные пьесы"
 msgid "Original not found"
 msgstr "Оригинал не найден"
 
-#: src/components/Originals.tsx:117
+#: src/components/Originals.tsx:116
 #: src/components/Topnav.tsx:87
 msgid "Originals"
 msgstr "Оригиналы"
 
-#: src/components/Original.tsx:90
+#: src/components/Original.tsx:88
 msgid "Other one-act translations"
 msgstr "Другие одноактные переводы"
 
@@ -155,16 +187,20 @@ msgstr "Пьесы, переведенные с других языков"
 msgid "Reviews"
 msgstr "Рецензии"
 
-#: src/components/Table.tsx:89
+#: src/utils.ts:13
+msgid "Russian"
+msgstr ""
+
+#: src/components/Table.tsx:93
 msgid "Scenes"
 msgstr "Сцены"
 
-#: src/components/Originals.tsx:128
-#: src/components/Table.tsx:124
+#: src/components/Originals.tsx:127
+#: src/components/Table.tsx:123
 msgid "Search"
 msgstr "Поиск"
 
-#: src/components/Details.tsx:255
+#: src/components/Details.tsx:252
 msgid "Setting"
 msgstr "Антураж и место действия"
 
@@ -172,6 +208,10 @@ msgstr "Антураж и место действия"
 #: src/components/Statistics.tsx:87
 msgid "Show more"
 msgstr "Показать больше"
+
+#: src/utils.ts:14
+msgid "Spanish"
+msgstr ""
 
 #: src/components/Statistics.tsx:77
 msgid "Statistics"
@@ -181,8 +221,8 @@ msgstr "Статистика"
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr "На этой карте показаны все географические объекты, которые можно извлечь из описания места действия в пьесе. Границы на карте получены из OpenStreetMap и поэтому неисторичны по отношению ко времени действия и написания пьесы."
 
-#: src/components/Originals.tsx:70
-#: src/components/Table.tsx:62
+#: src/components/Originals.tsx:74
+#: src/components/Table.tsx:66
 msgid "Title"
 msgstr "Название"
 
@@ -190,41 +230,41 @@ msgstr "Название"
 msgid "Translations"
 msgstr "Переводы"
 
-#: src/components/Originals.tsx:79
-#: src/components/Table.tsx:74
+#: src/components/Originals.tsx:83
+#: src/components/Table.tsx:78
 msgid "Year (normalized)"
 msgstr "Год (нормализованный)"
 
-#: src/components/AuthorInfo.tsx:124
+#: src/components/AuthorInfo.tsx:123
 msgid "b."
 msgstr "род."
 
-#: src/components/AuthorInfo.tsx:125
+#: src/components/AuthorInfo.tsx:124
 msgid "d."
 msgstr "ум."
 
-#: src/components/Details.tsx:235
+#: src/components/Details.tsx:232
 #: src/components/Statistics.tsx:108
 msgid "female"
 msgstr "женский"
 
-#: src/components/Details.tsx:230
+#: src/components/Details.tsx:227
 #: src/components/Statistics.tsx:107
 msgid "male"
 msgstr "мужской"
 
-#: src/components/Years.js:102
+#: src/components/Years.js:96
 msgid "premiered"
 msgstr ""
 
-#: src/components/Years.js:109
+#: src/components/Years.js:103
 msgid "printed"
 msgstr ""
 
-#: src/components/Details.tsx:240
+#: src/components/Details.tsx:237
 msgid "undefined"
 msgstr ""
 
-#: src/components/Years.js:94
+#: src/components/Years.js:88
 msgid "written"
 msgstr ""

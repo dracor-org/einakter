@@ -8,7 +8,7 @@ import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
 import {Play, OriginalPlay} from '../types';
-import {languages} from '../utils';
+import languages from '../languages';
 
 function formatAuthor (_: string, play: OriginalPlay) {
   return <Authors authors={play.authors || []} withLink/>;
