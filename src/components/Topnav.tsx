@@ -105,11 +105,11 @@ function Topnav () {
               leaveFrom="transform opacity-100 scale-100"
               leaveTo="transform opacity-0 scale-95"
             >
-              <Menu.Items className="flex flex-col origin-top absolute top-6 mt-2 p-2.5 gap-2 rounded-sm shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none">
+              <Menu.Items className="flex flex-col origin-top absolute top-6 mt-2 p-2.5 gap-2 rounded-sm shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none z-10">
                 {locales.map((locale) => (
                   <Menu.Item key={locale}>
                     {({ active }) => (
-                      <button 
+                      <span 
                         key={locale}
                         className={classnames(
                           'text-blue-900',
@@ -125,7 +125,7 @@ function Topnav () {
                         onClick={() => setLocale(locale)}
                       >
                         {locale}
-                      </button>
+                      </span>
                     )}
                   </Menu.Item>
                 ))}
