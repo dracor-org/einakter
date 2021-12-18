@@ -7169,6 +7169,33 @@ settings:
     location:
       wikidataId: Q90
 ---
+slug: anonym-die-beschwerliche-mutter
+author:
+  pseudonym: Anonym
+title: Die beschwerliche Mutter
+subtitle: Eine Comödie in einem Acte; aus dem Französischen übersetzt
+premiered: 1757-01-03
+basedOn:
+  - marivaux-la-mere-confidente
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 18, S. 428–429
+cast:
+  - name: Frau Argan.
+    gender: f
+  - name: Luise,
+    role: ihre Tochter.
+    gender: f
+  - name: Henriette.
+    gender: f
+  - name: Leander.
+    gender: m
+  - name: Herr Bernhard.
+    gender: m
+  - name: Martin,
+    role: Leanders Diener.
+    gender: m
+---
 slug: anonym-die-beyden-officiere
 author:
   pseudonym: Anonym
@@ -24397,7 +24424,7 @@ cast:
     role: ein Kaufmann.
     gender: m
   - name: Frau Orbil.
-    gender: m
+    gender: f
   - name: Lottchen,
     role: ihre Tochter.
     gender: f
@@ -28535,6 +28562,38 @@ cast:
 settings:
   - description: >-
       Siegmunds Comtoirstube.
+---
+slug: einsiedel-die-verbannung-des-grafen-rochester-oder-die-taberne
+author:
+  name: Einsiedel, Friedrich Hildebrand von
+  wikidata: Q1459725
+title: "Die Verbannung des Grafen Rochester, oder: Die Taberne"
+subtitle: Ein Lustspiel in einem Aufzuge, nach einer Anecdote, aus dem Französischen übersetzt
+premiered: 1812-06-03
+basedOn:
+  - moreau-de-commagny-dumolard-l-exil-de-rochester-ou-la-taverne
+comments:
+  - "Theaterzettel: [Weimar 1812](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00041766/003386.tif)."
+cast:
+  - name: Graf Rochester,
+    role: unter dem Nahmen Williams.
+    gender: m
+  - name: Graf Dorset,
+    role: unter dem Nahmen Molton.
+    gender: m
+  - name: Der Kronprinz von England.
+    gender: m
+  - name: Mathieu Prior.
+    gender: m
+  - name: Jakson,
+    role: Kammerdiener des Prinzen.
+    gender: m
+  - name: Jenny,
+    role: Aufwärterin in der Taberne.
+    gender: f
+  - name: Sotman,
+    role: ein Polizeymeister.
+    gender: m
 ---
 slug: ekhof-der-liebhaber-seiner-frau-oder-die-neben-buhlerin-von-sich-selbst
 author:
@@ -41719,7 +41778,7 @@ comments:
   - "Theaterzettel: [Hamburg 1802](https://www.stadttheater.uni-hamburg.de/system/files/1802-01-12.pdf)."
 cast:
   - name: Madame Steinberg.
-    gender: m
+    gender: f
   - name: Julie,
     role: ihre Nichte.
     gender: f
@@ -41739,6 +41798,44 @@ cast:
   - name: Zwey Diener der Madame Steinberg.
     isGroup: true
     gender: m
+---
+slug: hesse-ein-arzt
+author:
+  name: Hesse, August Wilhelm
+  pseudonym: J. Ch. Wages
+  wikidata: Q55902768
+title: Ein Arzt
+subtitle: Lustspiel in einem Aufzuge, nach einem französischen Vaudeville, frei bearbeitet
+premiered: 1845-12-10
+basedOn:
+  - scribe-bayard-la-medecine-sans-medecin
+comments:
+  - "Theaterzettel: [Hamburg 1845](https://www.stadttheater.uni-hamburg.de/system/files/1845-12-10.pdf)."
+cast:
+  - name: La Roche,
+    role: Kaufmann.
+    gender: m
+  - name: Emilie,
+    role: seine Tochter.
+    gender: f
+  - name: Madame St. Alban,
+    role: eine reiche Wittwe.
+    gender: f
+  - name: Arthur Durwood,
+    role: ihr Neffe, schottischer Edelmann.
+    gender: m
+  - name: Darmentier,
+    role: Arzt.
+    gender: m
+  - name: Ein Jokey.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+settings:
+  - description: >-
+      Das Stück spielt in Paris, im Hause des Kaufmanns La Roche.
+    location:
+      wikidataId: Q90
 ---
 slug: hesse-weihnachten
 author:
@@ -50796,8 +50893,14 @@ editions:
     url: https://books.google.com/books?id=I586AAAAcAAJ&pg=PA1
   - title: "Neue Auflage. Leipzig: Kummer 1826"
     url: https://books.google.com/books?id=aMA6AAAAcAAJ&printsec=frontcover
+  - title: "Mit einem Nachwort herausgegeben von Alexander Košenina. Hannover: Wehrhahn 2012"
+    url: https://www.wehrhahn-verlag.de/public/index.php?ID_Section=3&ID_Product=654
 reviews:
   - "Neue Allgemeine Deutsche Bibliothek. Neun und sechzigsten Bandes Zweytes Stück. Sechstes Heft. Berlin und Stettin: Nicolai 1802, [S. 377–378](https://books.google.com/books?id=07IEAAAAYAAJ&pg=PA377)."
+ids:
+  wikidata: Q110137623
+comments:
+  - "Theaterzettel: [Bremen 1800](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1678138), [Potsdam 1800](https://iffland.bbaw.de/dokumente/detail.xql?id=A0004108)."
 keywords:
   - Aberglaube
   - Eheanbahnung
@@ -58886,7 +58989,7 @@ editions:
 cast:
   - name: Brenner.
     gender: m
-  - name: Adele.
+  - name: Adele,
     role: seine Tochter.
     gender: f
   - name: Wiesel,
@@ -59319,7 +59422,7 @@ cast:
     role: beider Kammerdiener.
     gender: m
   - name: Madame de St. Val, unter dem Namen der Frau von Valbelle.
-    gender: m
+    gender: f
   - name: Lisette,
     role: ihr Kammermädchen.
     gender: f
@@ -74928,6 +75031,34 @@ settings:
   - description: >-
       Die Scene ist im Garten des Doktors.
 ---
+slug: rochlitz-so-gehts
+author:
+  name: Rochlitz, Friedrich
+  wikidata: Q71502
+title: So geht's!
+subtitle: Lustspiel in Einem Akt. Nach einer Erzählung von Friedrich Rochlitz
+numberOfScenes: 10
+printed: 1887
+premiered: 1805-12-02
+editions:
+  - title: "Goethe Briefwechsel mit Friedrich Rochlitz. Herausgeber: Woldemar Freiherr von Biedermann. Leipzig: Biedermann 1887, S. 422–450"
+    url: https://books.google.com/books?id=-L0MAQAAIAAJ&pg=PA422
+comments:
+  - "Theaterzettel: [Weimar 1805](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00046239/002555.tif)."
+cast:
+  - name: Scherzer.
+    gender: m
+  - name: Clementine,
+    role: seine Frau.
+    gender: f
+  - name: Richardt.
+    gender: m
+  - name: Nantchen.
+    gender: f
+settings:
+  - description: >-
+      Ein Garten. Vorn an der einen Seite ein Haus, an der andern eine Laube. Es dunkelt allmählig.
+---
 slug: rodde-wohlthaten-gewinnen-die-herzen
 author:
   name: Rodde, Jacob
@@ -75147,6 +75278,18 @@ cast:
       - name: Herr Unfried.
         gender: m
     role: Vettern von diesem Hause.
+---
+slug: roemer-der-empfindsame
+author:
+  name: Roemer, Georg Christian
+  wikidata: Q60844854
+title: Der Empfindsame
+subtitle: Lustspiel in 1 Akt nach dem Französischen des Picard
+premiered: 1816-02-29
+basedOn:
+  - picard-le-susceptible
+comments:
+  - "Aufgeführt in Mannheim unter dem Titel »Der Empfindliche« (vgl. Goedeke, Band XI/1, [S. 227](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/226/mode/2up))."
 ---
 slug: roemer-der-genius-der-zeit
 author:
@@ -81398,6 +81541,39 @@ settings:
   - description: Die Handlung geschieht in Amsterdam.
     location:
       wikidataId: Q727
+---
+slug: schuette-der-empfindliche
+author:
+  name: Schütte, Daniel
+  wikidata: Q1162670
+title: Der Empfindliche
+subtitle: Lustspiel in einem Aufzuge
+premiered: 1817-03-04
+basedOn:
+  - picard-le-susceptible
+comments:
+  - "Theaterzettel: [Bremen 1817](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1696531)."
+cast:
+  - name: Professor Inngramm.
+    gender: m
+  - name: Doctor Seidemann.
+    gender: m
+  - name: Kaufmann Trimpelmann.
+    gender: m
+  - name: Julius,
+    role: sein Sohn.
+    gender: m
+  - name: Magister Torfel.
+    gender: m
+  - name: Madame Torfel,
+    role: seine Frau.
+    gender: f
+  - name: Adele,
+    role: Inngramms Tochter.
+    gender: f
+  - name: Heinrich,
+    role: Seidemanns Sohn.
+    gender: m
 ---
 slug: schuetz-die-katze-laesst-das-mausen-nicht
 author:
@@ -92180,7 +92356,7 @@ cast:
     role: Sohn.
     gender: m
   - name: Frau Robert.
-    gender: m
+    gender: f
   - group:
       - name: Louise,
         gender: f
@@ -96627,6 +96803,30 @@ settings:
   - description: >-
       Der Schauplatz ist in einem Landhause.
 ---
+slug: wolff-bankerott-aus-liebe
+author:
+  name: Wolff, Pius Alexander
+  wikidata: Q121270
+title: Bankerott aus Liebe
+subtitle: Posse in einem Aufzuge
+premiered: 1805-05-08
+comments:
+  - "Theaterzettel: [Weimar 1805](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00046475/002468.tif)."
+cast:
+  - name: Pap,
+    role: ein Buchbinder.
+    gender: m
+  - name: Pech,
+    role: ein Schuster.
+    gender: m
+  - name: Hop,
+    role: ein Postillion.
+    gender: m
+  - name: Peter Hans Hollunder.
+    gender: m
+  - name: Ein Leiermädchen.
+    gender: f
+---
 slug: wolff-der-hund-des-aubri
 author:
   name: Wolff, Pius Alexander
@@ -96665,6 +96865,27 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist ein Zimmer mit einer Mittelthüre, einer Seitenthüre und einem Fenster.
+---
+slug: wolff-die-wittwe-und-der-mops
+author:
+  name: Wolff, Pius Alexander
+  wikidata: Q121270
+title: Die Wittwe und der Mops
+subtitle: Posse in einem Aufzuge
+premiered: 1814-11-05
+comments:
+  - "Theaterzettel: [Weimar 1814](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00040838/003701.tif)."
+cast:
+  - name: Frau von Thalheim.
+    gender: f
+  - name: Rosine,
+    role: ihre Kammerfrau.
+    gender: f
+  - name: Friz,
+    role: ihr Bedienter.
+    gender: m
+  - name: Herr von Berg.
+    gender: m
 ---
 slug: wolff-pflicht-um-pflicht
 author:
