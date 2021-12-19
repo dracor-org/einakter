@@ -69,11 +69,12 @@ All data is collected in two simple YAML files, which can be downloaded
 <a href="https://raw.githubusercontent.com/dracor-org/einakter/main/originals.yaml">here</a>
 (originals.yaml).
 
-We also export a [JSON file](https://einakter.dracor.org/data.json), which is
+We also export [JSON](https://einakter.dracor.org/data.json) and
+[CSV](https://einakter.dracor.org/data.csv) files, which are
 always based on the current version of the YAML files, but in contrast to the
-source files it additionally contains some calculated values (currently the
-number of characters per play). The JSON file can be easily accessed from
-different environments to conduct statistics. Some examples in R:
+source files they additionally contain some calculated values (currently the
+number of characters per play). The JSON and CSV files can be easily accessed
+from different environments to conduct statistics. An example in R:
 
 ```R
 library(jsonlite)
