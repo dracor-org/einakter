@@ -8,6 +8,7 @@ import IdLink from './IdLink';
 import Years from './Years';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';
+import {sortByYear} from '../utils';
 import {localLanguageName} from '../languages';
 
 const OriginalDetails = () => {
@@ -70,7 +71,7 @@ const OriginalDetails = () => {
             </th>
             <td>
               <ul>
-                {translations.map(play => (
+                {translations.sort(sortByYear).map(play => (
                   <li key={play.slug}>
                     <Link to={`/${play.slug}`}>
                       {(play.authors && play.authors.length > 0) && (

@@ -5,6 +5,7 @@ import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';
+import {sortByYear} from '../utils';
 import {localLanguageName} from '../languages';
 
 function getYear(ref: OriginalPlay) {
@@ -80,7 +81,7 @@ const Original = ({data}: Props) => {
             <Trans>Other one-act translations</Trans>:
           </p>
           <ul>
-            {others.map((play) => (
+            {others.sort(sortByYear).map((play) => (
               <li key={play.slug}>
                 <Link to={`/${play.slug}`}>
                   {(play.authors && play.authors.length > 0) && (
