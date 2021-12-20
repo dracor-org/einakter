@@ -164,7 +164,11 @@ export default function Details () {
                 <ul>
                   {editions.map(e => (
                     <li key={e.url || e.title}>
-                      <a href={e.url}>{e.title}</a>
+                      {e.url ? (
+                        <a href={e.url}>{e.title}</a>
+                      ) : (
+                        <span>{e.title}</span>
+                      )}
                     </li>
                   ))}
                 </ul>
