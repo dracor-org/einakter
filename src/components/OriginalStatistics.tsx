@@ -41,49 +41,47 @@ const OriginalStatistics = ({plays = [], className = ''}: Props) => {
 
   return (
     <div className={className}>
-      <table className="table-auto m-0">
+      <table className="table-fixed m-0">
         <tbody>
-          <tr>
-            <th>
+          <td className="w-1/6 pl-0">
+            <p className="md:text-6xl text-4xl font-thin">{plays.length}</p>
+            <p className="font-medium max-w-[20ch]">
               <Trans>Number of originals</Trans>
-            </th>
-            <td>{plays.length}</td>
-          </tr>
-          <tr>
-            <th>
-              <Trans>Authors</Trans>
-            </th>
-            <td>
+            </p>
+          </td>
+          <td className="w-1/6 pl-0">
+            <p className="md:text-6xl text-4xl font-thin">
               {Object.keys(names).length}
-            </td>
-          </tr>
-          <tr>
-            <th>
+            </p>
+            <p className="font-medium max-w-[20ch]">
+              <Trans>Authors</Trans>
+            </p>
+          </td>
+          <td className="w-1/6 pl-0">
+            <p className="md:text-6xl text-4xl font-thin">{anonymous}</p>
+            <p className="font-medium max-w-[20ch]">
               <Trans>Plays published anonymously</Trans>
-            </th>
-            <td>{anonymous}</td>
-          </tr>
-          <tr>
-            <th>
-              <Trans>Languages</Trans>
-            </th>
-            <td>
-              {Object.keys(languages).sort((a, b) => {
-                if (languages[a] > languages[b]) {
-                  return -1;
-                }
-                if (languages[a] < languages[b]) {
-                  return 1;
-                }
-                return 0;
-              }).map((code, i) => (
-                <span key={code}>
-                  {i > 0 && ', '}
-                  {localLanguageName(code)} ({languages[code]})
-                </span>
-              ))}
-            </td>
-          </tr>
+            </p>
+          </td>
+          <td className="w-3/6 pl-0">
+            {Object.keys(languages).sort((a, b) => {
+              if (languages[a] > languages[b]) {
+                return -1;
+              }
+              if (languages[a] < languages[b]) {
+                return 1;
+              }
+              return 0;
+            }).map((code, i) => (
+              <span key={code}>
+                {i > 0 && ', '}
+                <span className="whitespace-nowrap">{localLanguageName(code)}: <span className="font-medium">{languages[code]}</span></span>
+              </span>
+            ))}
+            <p className="font-medium max-w-[20ch]">
+            <Trans>Languages</Trans>
+            </p>
+          </td>
         </tbody>
       </table>
     </div>

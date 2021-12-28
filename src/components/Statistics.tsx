@@ -65,46 +65,43 @@ const Statistics = ({authors = {}, plays = [], className = ''}: Props) => {
 
   return (
     <div className={className}>
-      <table className="table-auto m-0">
+      <table className="table-fixed md:w-full m-0">
         <tbody>
-          <tr>
-            <th>
+          <td className="w-1/5 pl-0">
+            <p className="md:text-6xl text-4xl font-thin">{plays.length}</p>
+            <p className="font-medium">
               <Trans>One-act plays</Trans>
-            </th>
-            <td>{plays.length}</td>
-          </tr>
-          <tr>
-            <th>
-              <Trans>Authors</Trans>
-            </th>
-            <td>
-              {authorsTotal}
-              <br/>
+            </p>
+          </td>
+          <td className="w-1/5 pl-0">
+              <span className="md:text-6xl text-4xl font-thin">{authorsTotal}</span>
+              <p className="font-medium">
+                <Trans>Authors</Trans>
+              </p>
               <small>
-                Wikidata: {authorsWikidata},{' '}
+                Wikidata: {authorsWikidata},{' '}<br/> 
                 <Trans>male</Trans>: {authorsMale},{' '}
                 <Trans>female</Trans>: {authorsFemale}
               </small>
-            </td>
-          </tr>
-          <tr>
-            <th>
+          </td>
+          <td className="w-1/5 pl-0">
+            <p className="md:text-6xl text-4xl font-thin">{anonymous}</p>
+            <p className="font-medium max-w-[20ch]">
               <Trans>Plays published anonymously</Trans>
-            </th>
-            <td>{anonymous}</td>
-          </tr>
-          <tr>
-            <th>
+            </p>
+          </td>
+          <td className="w-1/5 pl-0">
+            <p className="md:text-6xl text-4xl font-thin">{plays.filter(p => p.basedOn?.length).length}</p>
+            <p className="font-medium max-w-[20ch]">
               <Trans>Plays translated/adapted from other languages</Trans>
-            </th>
-            <td>{plays.filter(p => p.basedOn?.length).length}</td>
-          </tr>
-          <tr>
-            <th>
+            </p>
+          </td>
+          <td className="w-1/5 pl-0">
+            <p className="md:text-6xl text-4xl font-thin">{numCharacters}</p>
+            <p className="font-medium">
               <Trans>Characters</Trans>
-            </th>
-            <td>{numCharacters}</td>
-          </tr>
+            </p>
+          </td>
         </tbody>
       </table>
     </div>
