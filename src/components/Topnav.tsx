@@ -40,7 +40,7 @@ function Topnav () {
     <nav className="flex items-center justify-between flex-wrap p-4 bg-primary text-white font-medium">
       <div className="flex items-center flex-shrink-0 text-white hover:opacity-90">
         <a href="/" title="Einakter">
-          <img src="/DONE.svg" width="170" alt="Einakter" />
+          <img src="/Einakter.svg" width="170" alt="Einakter" />
         </a>
       </div>
       <div className="block md:hidden">
