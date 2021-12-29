@@ -70,7 +70,7 @@ const OriginalDetails = () => {
               <Trans>Translations</Trans>
             </th>
             <td>
-              <ul>
+              <ul className="list-disc text-gray-400">
                 {translations.sort(sortByYear).map(play => (
                   <li key={play.slug}>
                     <Link to={`/${play.slug}`}>
