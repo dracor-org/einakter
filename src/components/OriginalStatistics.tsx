@@ -1,5 +1,6 @@
 import React from 'react';
 import {Trans} from '@lingui/macro';
+import {Th, Td} from './Statistics';
 import {OriginalPlay} from '../types';
 import {localLanguageName} from '../languages';
 
@@ -42,28 +43,11 @@ const OriginalStatistics = ({plays = [], className = ''}: Props) => {
   return (
     <div className={className}>
       <table className="table-fixed m-0">
-        <tbody>
-          <td className="w-1/6 pl-0">
-            <p className="md:text-6xl text-4xl font-thin">{plays.length}</p>
-            <p className="font-medium max-w-[20ch]">
-              <Trans>Number of originals</Trans>
-            </p>
-          </td>
-          <td className="w-1/6 pl-0">
-            <p className="md:text-6xl text-4xl font-thin">
-              {Object.keys(names).length}
-            </p>
-            <p className="font-medium max-w-[20ch]">
-              <Trans>Authors</Trans>
-            </p>
-          </td>
-          <td className="w-1/6 pl-0">
-            <p className="md:text-6xl text-4xl font-thin">{anonymous}</p>
-            <p className="font-medium max-w-[20ch]">
-              <Trans>Plays published anonymously</Trans>
-            </p>
-          </td>
-          <td className="w-3/6 pl-0">
+        <tr>
+          <Td width="1/6">{plays.length}</Td>
+          <Td width="1/6">{Object.keys(names).length}</Td>
+          <Td width="1/6">{anonymous}</Td>
+          <td className="w-3/6 pl-0 pb-0">
             {Object.keys(languages).sort((a, b) => {
               if (languages[a] > languages[b]) {
                 return -1;
@@ -75,14 +59,20 @@ const OriginalStatistics = ({plays = [], className = ''}: Props) => {
             }).map((code, i) => (
               <span key={code}>
                 {i > 0 && ', '}
-                <span className="whitespace-nowrap">{localLanguageName(code)}: <span className="font-medium">{languages[code]}</span></span>
+                <span className="whitespace-nowrap">
+                  {localLanguageName(code)}:{' '}
+                  <b className="font-medium">{languages[code]}</b>
+                </span>
               </span>
             ))}
-            <p className="font-medium max-w-[20ch]">
-            <Trans>Languages</Trans>
-            </p>
           </td>
-        </tbody>
+        </tr>
+        <tr>
+          <Th width="1/6"><Trans>Number of originals</Trans></Th>
+          <Th width="1/6"><Trans>Authors</Trans></Th>
+          <Th width="1/6"><Trans>Plays published anonymously</Trans></Th>
+          <Th><Trans>Languages</Trans></Th>
+        </tr>
       </table>
     </div>
   );
