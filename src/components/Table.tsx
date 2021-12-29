@@ -42,9 +42,9 @@ function formatTitle (_: string, play: Play) {
 function formatKeywords (_: string, play: Play) {
   const {keywords} = play;
   return keywords ? (
-    <ul>
+    <ul className="list-disc text-gray-400 text-sm">
       {keywords.map(text => (
-        <li key={text}><small>{text}</small></li>
+        <li key={text}><span className="text-black">{text}</span></li>
       ))}
     </ul>
   ) : <span/>;
