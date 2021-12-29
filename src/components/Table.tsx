@@ -3,7 +3,6 @@ import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import {Link} from 'react-router-dom';
 import {Trans, t} from '@lingui/macro';
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {Helmet} from 'react-helmet';
 import Authors from './Authors';
 import Statistics from './Statistics';
