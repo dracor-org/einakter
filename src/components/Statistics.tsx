@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {ReactNode} from 'react';
 import {Trans} from '@lingui/macro';
 import {Play} from '../types';
 
@@ -18,6 +18,36 @@ interface AuthorData {
       placeId?: string
     }
   }
+};
+
+export const Td = (
+  {className, children, width}: {
+    children: ReactNode;
+    className?: string;
+    width?: string;
+  }
+) => {
+  return (
+    <td className={
+      `w-${width || '1/5'} pl-0 pb-0 md:text-6xl text-4xl font-thin ${className || ''}`
+    }>
+      {children}
+    </td>
+  );
+};
+
+export const Th = (
+  {className, children, width}: {
+    children: ReactNode;
+    className?: string;
+    width?: string;
+  }
+) => {
+  return (
+    <th className={`w-${width || '1/5'} pl-0 pt-0 text-base ${className || ''}`}>
+      {children}
+    </th>
+  );
 };
 
 interface Props {
@@ -65,47 +95,38 @@ const Statistics = ({authors = {}, plays = [], className = ''}: Props) => {
 
   return (
     <div className={className}>
-      <table className="table-auto m-0">
-        <tbody>
-          <tr>
-            <th>
-              <Trans>One-act plays</Trans>
-            </th>
-            <td>{plays.length}</td>
-          </tr>
-          <tr>
-            <th>
+      <table className="table-fixed md:w-full m-0">
+        <tr className="bg-transparent">
+          <Td>{plays.length}</Td>
+          <Td>{authorsTotal}</Td>
+          <Td>{anonymous}</Td>
+          <Td>{plays.filter(p => p.basedOn?.length).length}</Td>
+          <Td>{numCharacters}</Td>
+        </tr>
+        <tr className="bg-transparent">
+          <Th>
+            <Trans>One-act plays</Trans>
+          </Th>
+          <Th>
+            <p>
               <Trans>Authors</Trans>
-            </th>
-            <td>
-              {authorsTotal}
-              <br/>
-              <small>
-                Wikidata: {authorsWikidata},{' '}
-                <Trans>male</Trans>: {authorsMale},{' '}
-                <Trans>female</Trans>: {authorsFemale}
-              </small>
-            </td>
-          </tr>
-          <tr>
-            <th>
-              <Trans>Plays published anonymously</Trans>
-            </th>
-            <td>{anonymous}</td>
-          </tr>
-          <tr>
-            <th>
+            </p>
+            <small className="font-normal">
+              Wikidata: {authorsWikidata},{' '}<br/> 
+              <Trans>male</Trans>: {authorsMale},{' '}
+              <Trans>female</Trans>: {authorsFemale}
+            </small>
+          </Th>
+          <Th className="max-w-[20ch]">
+            <Trans>Plays published anonymously</Trans>
+          </Th>
+          <Th className="max-w-[20ch]">
               <Trans>Plays translated/adapted from other languages</Trans>
-            </th>
-            <td>{plays.filter(p => p.basedOn?.length).length}</td>
-          </tr>
-          <tr>
-            <th>
-              <Trans>Characters</Trans>
-            </th>
-            <td>{numCharacters}</td>
-          </tr>
-        </tbody>
+          </Th>
+          <Th>
+            <Trans>Characters</Trans>
+          </Th>
+        </tr>
       </table>
     </div>
   );
