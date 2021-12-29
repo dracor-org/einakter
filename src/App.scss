@@ -11,14 +11,6 @@ td ul:last-child, td p:last-child {
   margin-bottom: 0;
 }
 
-.download {
-  float: right;
-  & > a {
-    display: inline-block;
-    margin-left: 1.5em;
-  }
-}
-
 .leaflet-container {
   width: 100%;
   height: calc(100vh - 250px);
