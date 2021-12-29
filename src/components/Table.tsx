@@ -131,17 +131,17 @@ function Table () {
                 </Trans>
               </p>
               <Statistics plays={data} authors={authors} className="mb-2 mt-2"/>
-              <SearchBar { ...props.searchProps } placeholder={t`Search`}/>
-              <span className="download">
-                <a href="data.json" download="einakter.json">
-                  <FontAwesomeIcon icon="download" title={t`Download JSON`}/>
-                </a>
-                {' '}
-                <a href="data.csv" download="einakter.csv">
-                  <FontAwesomeIcon icon="file-csv" title={t`Download CSV`}/>
-                </a>
+              <span className="flex justify-between items-center">
+                <SearchBar className="m-0" { ...props.searchProps } placeholder={t`Search`}/>
+                <span>
+                  <a className="bg-primary px-2 py-1 ml-3 rounded-md text-neutral-100 drop-shadow-lg hover:drop-shadow-md hover:text-secondary-100 transition ease-in-out" href="data.json" download="einakter.json" title={t`Download JSON`}>
+                    JSON
+                  </a>
+                  <a className="bg-primary px-2 py-1 ml-3 rounded-md text-neutral-100 drop-shadow-lg hover:drop-shadow-md hover:text-secondary-100 transition ease-in-out" href="data.csv" download="einakter.csv" title={t`Download CSV`}>
+                    CSV
+                  </a>
+                </span>
               </span>
-              <br/>
               <BootstrapTable
                 { ...props.baseProps }
                 bootstrap4
