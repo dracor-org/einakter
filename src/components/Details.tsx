@@ -161,13 +161,13 @@ export default function Details () {
                 <Trans>Editions</Trans>
               </th>
               <td>
-                <ul>
+                <ul className="list-disc text-gray-400">
                   {editions.map(e => (
                     <li key={e.url || e.title}>
                       {e.url ? (
                         <a href={e.url}>{e.title}</a>
                       ) : (
-                        <span>{e.title}</span>
+                        <span className="text-black">{e.title}</span>
                       )}
                     </li>
                   ))}
