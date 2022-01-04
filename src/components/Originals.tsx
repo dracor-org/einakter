@@ -113,9 +113,6 @@ function Originals () {
       <Helmet>
         <title>Einakter: Originals</title>
       </Helmet>
-      <h1>
-        <Trans>Originals</Trans>
-      </h1>
       <ToolkitProvider
         keyField='id'
         data={data}
@@ -125,7 +122,7 @@ function Originals () {
         {
           props => (
             <div>
-              <OriginalStatistics plays={originals} className="my-2"/>
+              <OriginalStatistics plays={originals} className="mb-2"/>
               <SearchBar { ...props.searchProps } placeholder={t`Search`} />
               <BootstrapTable
                 { ...props.baseProps }

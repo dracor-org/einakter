@@ -47,8 +47,6 @@ const SettingsMap = () => {
         <title>Einakter: {t`Locations`}</title>
       </Helmet>
 
-      <h1><Trans>Locations</Trans></h1>
-
       <p className="mb-4">
         <Trans>
           This map shows all plot locations extractable from the setting

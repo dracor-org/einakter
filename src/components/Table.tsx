@@ -118,9 +118,6 @@ function Table () {
         {
           props => (
             <div className="p-4 overflow-x-auto">
-              <h1>
-                <Trans>Welcome</Trans>
-              </h1>
               <p>
                 <Trans>
                   Welcome to <b>Einakter</b>, the <b>Database of German-Language
