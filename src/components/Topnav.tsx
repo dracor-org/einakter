@@ -22,9 +22,9 @@ function NavItem ({href, className, children}: NavItemProps) {
   const isActive = location.pathname.startsWith(href);
 
   const classes = classnames(
-    'block', 'mt-4', 'md:inline-block', 'md:mt-0', 'text-white',
-    'hover:text-blue-100', 'mr-6', className,
-    {block: isActive}
+    'block', 'mt-4', 'md:inline-block', 'md:mt-1', 'text-white',
+    'hover:text-blue-100', 'md:mr-6', className,
+    {'border-b-4': isActive} 
   );
 
   return (
@@ -76,7 +76,7 @@ function Topnav () {
           { hidden: !showNav }
         )}
       >
-        <div className="my-3 md:flex-grow md:flex-row flex justify-center flex-col">
+        <div className="my-2 md:flex-grow md:flex-row flex justify-center flex-col">
           <NavItem href="/plays">
             <Trans>Plays</Trans>
           </NavItem>
