@@ -61,6 +61,7 @@ const SettingsMap = () => {
         zoom={2}
         scrollWheelZoom={false}
         tap={false}
+        className="z-0"
       >
         <TileLayer
           attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
