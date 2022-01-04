@@ -7,7 +7,7 @@ export default function Home () {
   const history = useHistory();
 
   return (
-    <div className="page p-4 markdown mt-16 max-w-full">
+    <div className="page p-4 mt-8 markdown max-w-full">
       <Helmet>
         <title>
           Einakter:
@@ -15,11 +15,11 @@ export default function Home () {
           {t`The Database of German-Language One-Act Plays 1740–1850`}
         </title>
       </Helmet>
-      <section className="flex flex-col my-16 lg:flex-row">
-        <article className="self-center m-6 lg:ml-12 lg:mr-16">
+      <section className="flex flex-col lg:flex-row">
+        <article className="self-center mx-12 my-24">
           <h1>
             <Trans>
-              The Database of German-Language One-Act Plays 1740–1850
+              The Database of<br/>German-Language<br/>One-Act Plays<br/>1740–1850
             </Trans>
           </h1>
           <strong>
@@ -39,12 +39,29 @@ export default function Home () {
             <Trans>About the project</Trans>
           </button>
         </article>
-        <Link to="/plays">
-          <img
-            src="/database.png"
-            className="overflow-hidden drop-shadow-2xl rounded-lg bg-primary hover:bg-blend-darken"
-            alt=""
-          />
+        <Link to="/plays" className="relative w-full h-auto overflow-hidden drop-shadow-2xl rounded-lg">
+          <span className="scroll-animation absolute overflow-hidden">
+            <img
+              src="/database.png"
+              alt="Database snapshot"
+              title='Plays'
+            />
+            <img
+              src="/database.png"
+              alt="Database snapshot"
+              title='Plays'
+            />
+            <img
+              src="/database.png"
+              alt="Database snapshot"
+              title='Plays'
+            />
+            <img
+              src="/database.png"
+              alt="Database snapshot"
+              title='Plays'
+            />
+          </span>
         </Link>
       </section>
     </div>

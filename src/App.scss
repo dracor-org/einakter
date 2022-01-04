@@ -65,3 +65,30 @@ td ul:last-child, td p:last-child {
     }
   }
 }
+
+.scroll-animation {
+  -webkit-animation: upward 45s linear infinite;
+  animation: upward 45s linear infinite;
+
+  img {
+    margin: 0 !important;
+  }
+}
+
+@-webkit-keyframes upward {
+  0% {
+    transform: translate(0, 0);
+}
+100% {
+    transform: translate(0, -50%);
+}
+}
+
+@keyframes upward {
+  0% {
+    transform: translate(0, 0);
+}
+100% {
+    transform: translate(0, -50%);
+}
+}
