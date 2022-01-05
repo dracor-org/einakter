@@ -1,5 +1,5 @@
-import React, {useState} from 'react';
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import React, {ReactNode} from 'react';
+import {Trans} from '@lingui/macro';
 import {Play} from '../types';
 
 interface AuthorData {
@@ -20,14 +20,43 @@ interface AuthorData {
   }
 };
 
+export const Td = (
+  {className, children, width}: {
+    children: ReactNode;
+    className?: string;
+    width?: string;
+  }
+) => {
+  return (
+    <td className={
+      `w-${width || '1/5'} pl-0 pb-0 md:text-6xl text-4xl font-thin ${className || ''}`
+    }>
+      {children}
+    </td>
+  );
+};
+
+export const Th = (
+  {className, children, width}: {
+    children: ReactNode;
+    className?: string;
+    width?: string;
+  }
+) => {
+  return (
+    <th className={`w-${width || '1/5'} pl-0 pt-0 text-base ${className || ''}`}>
+      {children}
+    </th>
+  );
+};
+
 interface Props {
   authors: AuthorData
   plays: Play[]
+  className?: string;
 };
 
-const Statistics = ({authors = {}, plays = []}: Props) => {
-  const [expanded, setExpanded] = useState(false);
-
+const Statistics = ({authors = {}, plays = [], className = ''}: Props) => {
   // find non-anonymous authors without IDs
   const names: {[id: string]: number} = {};
   plays.forEach((play: Play) => {
@@ -65,55 +94,39 @@ const Statistics = ({authors = {}, plays = []}: Props) => {
   }, 0)
 
   return (
-    <div className="statistics">
-      <table className="table table-sm table-dark">
-        <caption
-          onClick={() => setExpanded(!expanded)}
-          title={expanded ? 'Hide' : 'Show more'}
-        >
-          {expanded ? (
-            <>
-              {`Statistics `}
-              <FontAwesomeIcon icon="caret-down" title="Hide"/>
-            </>
-          ) : (
-            <>
-              {`Database currently containing ${plays.length} one-act plays `}
-              {`featuring ${numCharacters} characters `}
-              <FontAwesomeIcon icon="caret-up" title="Show more"/>
-            </>
-          )}
-        </caption>
-        <tbody style={{display: expanded ? 'table-row-group' : 'none'}}>
-          <tr>
-            <th>One-act plays</th>
-            <td>{plays.length}</td>
-          </tr>
-          <tr>
-            <th>Authors</th>
-            <td>
-              {authorsTotal}
-              <br/>
-              <small>
-                Wikidata: {authorsWikidata},
-                male: {authorsMale},
-                female: {authorsFemale}
-              </small>
-            </td>
-          </tr>
-          <tr>
-            <th>Plays published anonymously</th>
-            <td>{anonymous}</td>
-          </tr>
-          <tr>
-            <th>Plays translated/adapted from other languages</th>
-            <td>{plays.filter(p => p.basedOn?.length).length}</td>
-          </tr>
-          <tr>
-            <th>Characters</th>
-            <td>{numCharacters}</td>
-          </tr>
-        </tbody>
+    <div className={className}>
+      <table className="table-fixed md:w-full m-0">
+        <tr className="bg-transparent">
+          <Td>{plays.length}</Td>
+          <Td>{authorsTotal}</Td>
+          <Td>{anonymous}</Td>
+          <Td>{plays.filter(p => p.basedOn?.length).length}</Td>
+          <Td>{numCharacters}</Td>
+        </tr>
+        <tr className="bg-transparent">
+          <Th>
+            <Trans>One-act plays</Trans>
+          </Th>
+          <Th>
+            <p>
+              <Trans>Authors</Trans>
+            </p>
+            <small className="font-normal">
+              Wikidata: {authorsWikidata},{' '}<br/> 
+              <Trans>male</Trans>: {authorsMale},{' '}
+              <Trans>female</Trans>: {authorsFemale}
+            </small>
+          </Th>
+          <Th className="max-w-[20ch]">
+            <Trans>Plays published anonymously</Trans>
+          </Th>
+          <Th className="max-w-[20ch]">
+              <Trans>Plays translated/adapted from other languages</Trans>
+          </Th>
+          <Th>
+            <Trans>Characters</Trans>
+          </Th>
+        </tr>
       </table>
     </div>
   );

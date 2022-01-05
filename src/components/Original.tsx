@@ -1,9 +1,12 @@
 import React, {useContext} from 'react';
 import {Link, useParams} from "react-router-dom";
+import {Trans, t} from '@lingui/macro';
 import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';
+import {sortByYear} from '../utils';
+import {localLanguageName} from '../languages';
 
 function getYear(ref: OriginalPlay) {
   const years = [];
@@ -11,15 +14,6 @@ function getYear(ref: OriginalPlay) {
   if (ref.printed) years.push(ref.printed);
   if (ref.premiered) years.push(parseInt(ref.premiered as string));
   return years.sort()[0] || undefined;
-}
-
-const languages: any = {
-  eng: 'English',
-  fre: 'French',
-  ger: 'German',
-  ita: 'Italian',
-  rus: 'Russian',
-  spa: 'Spanish',
 }
 
 interface Props {
@@ -36,14 +30,14 @@ const Original = ({data}: Props) => {
     title,
     subtitle,
     ids,
-    fulltextUrl,
     language,
   } = data;
 
   const year = getYear(data);
 
   const others = plays.filter((p) => p.basedOn?.find(
-    (r: OriginalPlay) => r.id === id && p.slug !== currentId
+    (r: OriginalPlay | string) => 
+      typeof r !== 'string' && r.id === id && p.slug !== currentId
   ));
 
   return (
@@ -55,51 +49,42 @@ const Original = ({data}: Props) => {
           {a.wikidata && (
             <>
               {' '}
-              <IdLink id={a.wikidata} type="wikidata"/>
+              <small><IdLink id={a.wikidata} type="wikidata"/></small>
             </>
           )}
         </span>
       ))}
       {authors.length > 0 && ': '}
-      {fulltextUrl ? (
-        <a href={fulltextUrl} title="Full text">
-         {title}
-         {(subtitle && !title.match(/[.!?]\s*$/)) && '.'}
-         {subtitle && ` ${subtitle}`}
-        </a>
-      ) : (
-        <span>
-          {title}
-          {subtitle && `. ${subtitle}`}
-        </span>
-      )}
+      <a href={`/originals/${id}`} title={t`Originals`}>
+       {title}
+       {(subtitle && !title.match(/[.!?]\s*$/)) && '.'}
+       {subtitle && ` ${subtitle}`}
+      </a>
       {ids?.dracor && (
         <>
-          {' ['}
-          <IdLink id={ids.dracor} type="dracor"/>
-          {']'}
+          {' '}
+          <small><IdLink id={ids.dracor} type="dracor"/></small>
         </>
       )}
       {ids?.wikidata && (
         <>
-          {' ['}
-          <IdLink id={ids.wikidata} type="wikidata"/>
-          {']'}
+          {' '}
+          <small><IdLink id={ids.wikidata} type="wikidata"/></small>
         </>
       )}
       {year !== undefined && ` (${year})`}
-      {language && ` <${languages[language] || language}>`}
+      {language && ` <${localLanguageName(language)}>`}
 
       {others.length > 0 && (
         <>
           <p style={{margin: '.8em 0 .3em', fontStyle: 'italic'}}>
-            Other one-act translations:
+            <Trans>Other one-act translations</Trans>:
           </p>
           <ul>
-            {others.map((play) => (
+            {others.sort(sortByYear).map((play) => (
               <li key={play.slug}>
                 <Link to={`/${play.slug}`}>
-                  {play.authors.length > 0 && (
+                  {(play.authors && play.authors.length > 0) && (
                     <>
                       <Authors authors={play.authors}/>{': '}
                     </>

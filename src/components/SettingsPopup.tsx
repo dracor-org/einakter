@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 import {Popup} from 'react-leaflet';
-import {Author, Play} from '../types';
+import {Author} from '../types';
 
 function renderAuthors (authors: Author[]) {
   return authors.map((author, i) => (
@@ -13,25 +13,35 @@ function renderAuthors (authors: Author[]) {
   ));
 }
 
-interface Props {
-  plays: Play[]
+export interface SettingInfo {
+  authors: Author[],
+  title: string,
+  slug: string,
+  year?: number,
+  setting: string,
 }
 
-const SettingsPopup = ({plays}: Props) => {
+interface Props {
+  settings: SettingInfo[]
+}
+
+const SettingsPopup = ({settings}: Props) => {
   return (
     <Popup>
-      {plays.map((p) => (
-        <div className="popup-location" key={p.slug}>
-          <p>
-            {p.authors && renderAuthors(p.authors)}
-            {p.authors && ', '}
-            <Link to={`/${p.slug}`}>{p.title}</Link>
+      <div className="max-h-52 overflow-scroll" >
+      {settings.map((s) => (
+        <div className="mb-4" key={s.slug}>
+          <div className="mb-1">
+            {s.authors && renderAuthors(s.authors)}
+            {s.authors && ', '}
+            <Link to={`/${s.slug}`}>{s.title}</Link>
             {'. '}
-            {p.normalizedYear}
-          </p>
-          <p><em>{p.setting}</em></p>
+            {s.year}
+          </div>
+          <div><em>{s.setting}</em></div>
         </div>
       ))}
+      </div>
     </Popup>
   );
 };

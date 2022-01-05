@@ -2,31 +2,6 @@
   text-align: center;
 }
 
-.page {
-  padding-top: 1em;
-}
-
-.details hgroup {
-  margin: 1em 0;
-}
-
-.details hgroup h1 {
-  margin-bottom: .3rem;
-}
-
-h1 {
-  font-size: 1.5em;
-}
-
-h2 {
-  font-size: 1.1em;
-}
-
-h3 {
-  font-size: 1.1em;
-  font-weight: normal;
-}
-
 tr.dates > td > span {
   display: inline-block;
   padding-right: 1em;
@@ -36,60 +11,9 @@ td ul:last-child, td p:last-child {
   margin-bottom: 0;
 }
 
-.download {
-  float: right;
-  & > a {
-    display: inline-block;
-    margin-left: 1.5em;
-  }
-}
-
-.locations-map h1 {
-  margin: 1em 0 .5em;
-}
-
 .leaflet-container {
   width: 100%;
   height: calc(100vh - 250px);
-}
-
-.popup-location {
-  margin: 1em;
-}
-
-.popup-location p {
-  margin: 0;
-}
-
-.popup-location p:first-child {
-  margin-bottom: .4em;
-}
-
-.author-info-container {
-  display: flex;
-  gap: 1em;
-  margin: 1em 0;
-  @media (min-width: 768px) {
-    justify-content: flex-end;
-  }
-}
-
-.author-info {
-  display: flex;
-
-  span {
-    line-height: 1;
-    white-space: nowrap;
-
-    b {
-      font-weight: bold;
-      margin-bottom: 0.1em;
-    }
-
-    p {
-      margin-bottom: 0.4em;
-    }
-  }
 }
 
 .author-image {
@@ -142,27 +66,29 @@ td ul:last-child, td p:last-child {
   }
 }
 
-.statistics {
-  margin-top: 1em;
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  table {
-    max-width: 600px;
-    @media (max-width: 768px) {
-      max-width: 100%;
-    }
+.scroll-animation {
+  -webkit-animation: upward 45s linear infinite;
+  animation: upward 45s linear infinite;
+
+  img {
+    margin: 0 !important;
   }
-  th {
-    font-weight: normal;
-  }
-  td {
-    text-align: right;
-  }
-  caption {
-    caption-side: top;
-    text-align: right;
-    cursor: pointer;
-    color: #212529;
-  }
+}
+
+@-webkit-keyframes upward {
+  0% {
+    transform: translate(0, 0);
+}
+100% {
+    transform: translate(0, -50%);
+}
+}
+
+@keyframes upward {
+  0% {
+    transform: translate(0, 0);
+}
+100% {
+    transform: translate(0, -50%);
+}
 }

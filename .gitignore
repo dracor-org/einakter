@@ -25,5 +25,9 @@ yarn-error.log*
 data.csv
 data.json
 src/data.json
+src/originals.json
 public/data.csv
 public/data.json
+
+src/locales/*/*.js
+src/locales/*/*.mo

@@ -4,14 +4,20 @@ const sites = {
   dracor: {
     url: 'https://dracor.org/id/',
     title: 'DraCor.org',
+    icon: 'DraCor.svg',
+    width: 12,
   },
   wikidata: {
     url: 'https://www.wikidata.org/wiki/',
     title: 'Wikidata',
+    icon: 'wikidata.svg',
+    width: 16,
   },
   weber: {
     url: 'http://weber-gesamtausgabe.de/',
-    title: 'Weber Gesamtausgabe',
+    title: 'Carl-Maria-von-Weber-Gesamtausgabe (WeGA)',
+    icon: 'weber.svg',
+    width: 14,
   },
 }
 
@@ -23,14 +29,18 @@ interface Props {
 };
 
 const IdLink = ({id, type, text, className = ''}: Props) => {
+  const site = sites[type];
   return (
-    <a
-      href={`${sites[type].url}${id}`}
-      className={className}
-      title={sites[type].title}
-    >
-      {text ? text : id}
-    </a>
+    <span className="inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom">
+      <img src={`/${site.icon}`} width={site.width} alt=""/>
+      <a
+        href={`${site.url}${id}`}
+        className={className}
+        title={site.title}
+      >
+        {text ? text : id}
+      </a>
+    </span>
   );
 };
 

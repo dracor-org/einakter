@@ -6,65 +6,80 @@
   />
 </a>
 
-# ABOUT
+# Database of German-Language One-Act Plays 1740–1850
 
-**Database of German-Language One-Act Plays 1740s–1850s**
+*Ed. by Dîlan Canan Çakir and Frank Fischer (2020–)*
 
-*Ed. by Dîlan Canan Çakir & Frank Fischer (2020–)*
+## How to Cite
+
+If you want to cite this project, please use the following reference:
+
+* Dîlan Canan Çakir, Frank Fischer: **Dramatische Metadaten. Die Datenbank deutschsprachiger Einakter 1740–1850.** In: DHd2022: »Kulturen des digitalen Gedächtnisses«. 7–11 March 2022. Book of Abstracts. University of Potsdam. (forthcoming)
 
 ## What Is This?
 
-This database is derived from the working corpus for Dîlan's ongoing
-dissertation on one-act plays. The growing collection is also intended to
-provide a general quantitative overview of German-language one-act plays between
-the mid-18th and mid-19th centuries.
+This database is derived from the working corpus for Dîlan's dissertation
+on one-act plays (submitted in October 2021). The growing collection is also
+intended to provide a general quantitative overview of German-language one-act
+plays between the mid-18th and mid-19th centuries.
 
 For each play we list metadata and links to other projects, if available
-(editions at Google Books, Wikidata identifiers, DraCor). The long-term goal is
+(editions at Google Books, Wikidata identifiers, DraCor,
+Carl-Maria-von-Weber-Gesamtausgabe, etc.). The long-term goal is
 to place metadata on one-act plays within the growing knowledge repositories of
 the Linked Open Data cloud.
 
 The database was first released in June 2020 and is a work in progress. If you
 have questions or additions, drop us a line:
 
-* Dîlan Canan Çakir (University of Stuttgart) ·
-  [homepage](https://www.ilw.uni-stuttgart.de/institut/team/Cakir-00001/) ·
+* Dîlan Canan Çakir (University of Stuttgart & DLA Marbach) ·
+  [homepage](https://www.mww-forschung.de/dîlan-canan-Çakir) ·
   [Twitter](https://twitter.com/DilanCkr)
-* Frank Fischer (Higher School of Economics, Moscow) ·
+* Frank Fischer (Freie Universität Berlin & Higher School of Economics, Moscow) ·
   [homepage](https://lehkost.github.io/) ·
   [Twitter](https://twitter.com/umblaetterer)
 * Carsten Milling (University of Potsdam)
 
 ## Criteria
 
-We include plays that …
+It is not always easy to decide whether a play should be considered a one-act
+play or not. The first German-language plays with the addition »in einem Akt«,
+or, »in einem Aufzug«, appear in the early 1740s. In order that we do not, as
+often happens, consider all shorter plays without an act division to be one-act
+plays, but can resort to a clearer terminology, the following criteria apply
+to the database. We include plays that …
 
 1. … are clearly marked as one-act plays in the subtitle.
-2. … are described elsewhere as one-act plays (on playbills, in journals, in
-     research literature; example: Lessing's [»Philotas«](lessing-philotas)).
+2. … are described elsewhere as one-act plays (in *contemporary*
+     sources like playbills, journals, etc.; example: Lessing's
+     [»Philotas«](lessing-philotas)).
 3. … are not operas or operettas.
-4. … were published between the 1740s and 1850s.
+4. … were published between 1740 and 1850.
 
-A detailed reasoning for the composition of the corpus will be presented in
-Dîlan's dissertation.
+A detailed reasoning for the composition of the corpus is presented
+in Dîlan's dissertation.
 
 ## Technical Background
 
-All data is collected in a simple YAML file, which can be downloaded
-<a href="https://raw.githubusercontent.com/dracor-org/einakter/main/data.yaml" download="einakter.yml">here</a>.
+All data is collected in two simple YAML files, which can be downloaded
+<a href="https://raw.githubusercontent.com/dracor-org/einakter/main/data.yaml">here</a>
+(data.yaml) and
+<a href="https://raw.githubusercontent.com/dracor-org/einakter/main/originals.yaml">here</a>
+(originals.yaml).
 
-We also export a [JSON file](https://einakter.dracor.org/data.json), which is
-always based on the current version of the YAML file, but in contrast to the
-source file it additionally contains some calculated values (currently the
-number of characters per play). The JSON file can be easily accessed from
-different environments to conduct statistics. Some examples in R:
+We also export [JSON](https://einakter.dracor.org/data.json) and
+[CSV](https://einakter.dracor.org/data.csv) files, which are
+always based on the current version of the YAML files, but in contrast to the
+source files they additionally contain some calculated values (currently the
+number of characters per play). The JSON and CSV files can be easily accessed
+from different environments to conduct statistics. An example in R:
 
 ```R
 library(jsonlite)
 einakter <- fromJSON("https://einakter.dracor.org/data.json")
-hist(einakter$normalizedYear)
-plot(einakter$normalizedYear, einakter$numberOfScenes)
-plot(einakter$normalizedYear, einakter$numberOfCharacters)
+hist(einakter$normalizedYear, breaks = 20, xlab="Jahrfünft", ylab="Anzahl Stücke im Korpus")
+plot(einakter$normalizedYear, einakter$numberOfScenes, xlab="Jahr", ylab="Anzahl Szenen pro Stück")
+plot(einakter$normalizedYear, einakter$numberOfCharacters, xlab="Jahr", ylab="Anzahl Figuren pro Stück")
 ```
 
 The data model is described <a href="https://github.com/dracor-org/einakter/wiki">here</a>.
@@ -72,15 +87,30 @@ Versioning provided through our
 [GitHub repository](https://github.com/dracor-org/einakter). The single-page app
 is based on [React](https://reactjs.org/).
 
-## Endorsement
+## Endorsements
 
-»Eine wunderbare Idee, ein digitales Lexikon für Einakter zu erstellen. Ich habe mir die Seite angeschaut und festgestellt, dass die meisten anonymen Titel mir damals entgangen waren. Ca. 2000 Titel ermittelt zu haben, ist schon eine große Leistung.«
+»Eine wunderbare Idee, ein digitales Lexikon für Einakter zu erstellen. Ich habe mir die Seite angeschaut und festgestellt, dass die meisten anonymen Titel mir damals entgangen waren. Über 2.000 Titel ermittelt zu haben, ist schon eine große Leistung.«
 
-[Yüksel Pazarkaya](https://de.wikipedia.org/wiki/Yüksel_Pazarkaya), 9 September 2020
+[Yüksel Pazarkaya](https://de.wikipedia.org/wiki/Yüksel_Pazarkaya) *(Author of [»Die Dramaturgie des Einakters«](https://archive.org/details/diedramaturgiede0000paza), 1973)*, 9 September 2020
 
-*(Author of [»Die Dramaturgie des Einakters«](https://archive.org/details/diedramaturgiede0000paza), 1973)*
+»Einakter, was für ein fantastisches Thema für eine Dissertation!«
 
-## License
+[Hans-Harald Müller](https://de.wikipedia.org/wiki/Hans-Harald_Müller), 25 November 2021
+
+## Interface Localisation
+
+In addition to English and German, we want to add more languages for our user interface. If you want to contribute, please get in touch. You can base your translation on our English user interface by reverting to [this file](https://github.com/dracor-org/einakter/blob/main/src/locales/en/messages.po). You can try an editor like [Poedit](https://poedit.net/) or edit the file manually.
+
+Many thanks to all translators who have contributed so far:
+
+* Chinese: [Xiaocui Qiu](https://www.dla-marbach.de/ueber-uns/mitarbeiterinnen-und-mitarbeiter/alle-mitarbeiterinnen-und-mitarbeiter/detail/14621/) (DLA Marbach)
+* French: [Anne Baillot](http://3lam.univ-lemans.fr/fr/le-laboratoire/les-membres-du-laboratoire/enseignants-chercheurs/baillot-anne.html) (Université du Mans)
+* Japanese: [Stephanie Obermeier](https://www.dla-marbach.de/ueber-uns/mitarbeiterinnen-und-mitarbeiter/direktion/direktion-mitarbeiterinnen-und-mitarbeiter/detail/12171/) (DLA Marbach)
+* Korean: [David D. Kim](https://elts.ucla.edu/person/david-kim/) (University of California, Los Angeles)
+* Russian: [Daniil Skorinkin](https://www.hse.ru/en/staff/skorinkin) (Higher School of Economics, Moscow)
+* Spanish: [Pablo Ruiz Fabo](https://lilpa.unistra.fr/theme-1-lexiques-discours-et-transpositions/membres/enseignants-chercheurs/ruiz-fabo-pablo/) (Université de Strasbourg)
+
+## Licenses
 
 The code of this project is licensed under the MIT License.
 

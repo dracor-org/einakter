@@ -35,6 +35,17 @@ export interface Dict {
   url?: string
 }
 
+export interface Setting {
+  description: string
+  location: {
+    wikidataId: string
+    coordinates?: Coords
+  } | {
+    coordinates: Coords
+    wikidataId?: string
+  }
+}
+
 export interface Play {
   author?: Author
   authors?: Author[]
@@ -61,14 +72,7 @@ export interface Play {
   premiered?: string | number
   printed?: number
   reviews?: string[]
-  setting?: string
-  location?: {
-    wikidataId: string
-    coordinates?: Coords
-  } | {
-    coordinates: Coords
-    wikidataId?: string
-  }
+  settings?: Setting[]
   subtitle?: string
 }
 
@@ -82,9 +86,11 @@ export interface OriginalPlay {
   created?: number
   printed?: number
   premiered?: string | number
+  normalizedYear?: number
   fulltextUrl?: string
   ids?: {
     dracor?: string
     wikidata?: string
   }
+  numTranslations?: number
 }

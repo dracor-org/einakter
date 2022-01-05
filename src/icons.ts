@@ -7,7 +7,11 @@ import {
   faDownload,
   faUsers,
   faPenFancy,
-  faTheaterMasks
+  faTheaterMasks,
+  faLanguage,
+  faMars,
+  faVenus,
+  faGenderless
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
@@ -18,5 +22,9 @@ library.add(
   faDownload,
   faUsers,
   faPenFancy,
-  faTheaterMasks
+  faTheaterMasks,
+  faLanguage,
+  faMars,
+  faVenus,
+  faGenderless
 );

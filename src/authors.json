@@ -124,7 +124,8 @@
     "name": "J. E. R.",
     "gnd": "142117870",
     "birth": {},
-    "death": {}
+    "death": {},
+    "gender": "male"
   },
   "Q3167933": {
     "name": "Johann Michael Armbruster",
@@ -293,6 +294,22 @@
     },
     "gender": "male",
     "ambiguous": true
+  },
+  "Q17576197": {
+    "name": "Jean Baptist Baison",
+    "gnd": "116041080",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baison%20als%20Hamlet.jpg",
+    "birth": {
+      "date": "1812-10-24T00:00:00Z",
+      "place": "Hattersheim am Main",
+      "placeId": "http://www.wikidata.org/entity/Q569626"
+    },
+    "death": {
+      "date": "1849-01-13T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
+    },
+    "gender": "male"
   },
   "Q28652145": {
     "name": "Gustav von Barnekow",
@@ -703,6 +720,23 @@
     },
     "gender": "male"
   },
+  "Q87331": {
+    "name": "Heinrich Börnstein",
+    "gnd": "118810715",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Boernstein.jpg",
+    "birth": {
+      "date": "1805-11-04T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
+    },
+    "death": {
+      "date": "1892-01-01T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male",
+    "ambiguous": true
+  },
   "Q17575492": {
     "name": "Heinrich Bösenberg",
     "gnd": "13848676X",
@@ -989,6 +1023,22 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q154782": {
+    "name": "Adelbert von Chamisso",
+    "gnd": "118520040",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chamisso%20Adelbert%20von%201781-1838.png",
+    "birth": {
+      "date": "1781-01-30T00:00:00Z",
+      "place": "Châlons-en-Champagne",
+      "placeId": "http://www.wikidata.org/entity/Q47135"
+    },
+    "death": {
+      "date": "1838-08-21T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "gender": "male"
+  },
   "Q67815": {
     "name": "Helmina von Chézy",
     "gnd": "119360659",
@@ -1005,6 +1055,19 @@
     },
     "gender": "female",
     "ambiguous": true
+  },
+  "Q109567987": {
+    "name": "Heinrich Bernhard Claessen",
+    "gnd": "13819386X",
+    "birth": {
+      "date": "1763-01-01T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
+    },
+    "death": {
+      "date": "1801-01-01T00:00:00Z"
+    },
+    "gender": "male"
   },
   "Q19279269": {
     "name": "Georg Karl Claudius",
@@ -1069,10 +1132,14 @@
     "name": "Johann Friedrich Cordes",
     "gnd": "14379017X",
     "birth": {
-      "date": "1759-01-01T00:00:00Z"
+      "date": "1759-01-01T00:00:00Z",
+      "place": "Dedesdorf",
+      "placeId": "http://www.wikidata.org/entity/Q1182184"
     },
     "death": {
-      "date": "1827-01-01T00:00:00Z"
+      "date": "1827-01-10T00:00:00Z",
+      "place": "Oldenburg",
+      "placeId": "http://www.wikidata.org/entity/Q2936"
     },
     "gender": "male",
     "ambiguous": true
@@ -1438,6 +1505,22 @@
     },
     "gender": "male"
   },
+  "Q1459725": {
+    "name": "Friedrich Hildebrand von Einsiedel",
+    "gnd": "118681818",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FriedrichHildebrandVonEinsiedelS70.jpg",
+    "birth": {
+      "date": "1750-04-30T00:00:00Z",
+      "place": "Lumpzig",
+      "placeId": "http://www.wikidata.org/entity/Q538858"
+    },
+    "death": {
+      "date": "1828-07-09T00:00:00Z",
+      "place": "Jena",
+      "placeId": "http://www.wikidata.org/entity/Q3150"
+    },
+    "gender": "male"
+  },
   "Q215783": {
     "name": "Conrad Ekhof",
     "gnd": "118529714",
@@ -1533,6 +1616,12 @@
   "Q108613352": {
     "name": "Carl Ernst",
     "gnd": "1157464998",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
+  "Q108896469": {
+    "name": "Wilhelm Eugen",
     "birth": {},
     "death": {},
     "gender": "male"
@@ -1761,6 +1850,21 @@
       "date": "1895-04-30T00:00:00Z",
       "place": "Wiesbaden",
       "placeId": "http://www.wikidata.org/entity/Q1721"
+    },
+    "gender": "male"
+  },
+  "Q108822170": {
+    "name": "Wilhelm Fricke",
+    "gnd": "1038506530",
+    "birth": {
+      "date": "1809-01-01T00:00:00Z",
+      "place": "Bremen",
+      "placeId": "http://www.wikidata.org/entity/Q24879"
+    },
+    "death": {
+      "date": "1887-01-01T00:00:00Z",
+      "place": "Bremen",
+      "placeId": "http://www.wikidata.org/entity/Q24879"
     },
     "gender": "male"
   },
@@ -2406,6 +2510,13 @@
     },
     "gender": "male"
   },
+  "Q109568123": {
+    "name": "Adolf von Hake",
+    "gnd": "115756741X",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q108613581": {
     "name": "Friedrich Hanf",
     "gnd": "1157563066",
@@ -2485,6 +2596,17 @@
     },
     "gender": "male"
   },
+  "Q55851492": {
+    "name": "Carl Eugen Haug",
+    "gnd": "116526688",
+    "birth": {
+      "date": "1770-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1821-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q1901833": {
     "name": "Theodor von Haupt",
     "gnd": "116528095",
@@ -2540,6 +2662,15 @@
       "place": "Hannover",
       "placeId": "http://www.wikidata.org/entity/Q1715"
     },
+    "gender": "male"
+  },
+  "Q108896511": {
+    "name": "Friedrich Hegrad",
+    "gnd": "128703318",
+    "birth": {
+      "date": "1757-01-01T00:00:00Z"
+    },
+    "death": {},
     "gender": "male"
   },
   "Q764620": {
@@ -2711,6 +2842,22 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q15876214": {
+    "name": "Jacob Herzfeld",
+    "gnd": "116760931",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Herzfeld.jpg",
+    "birth": {
+      "date": "1762-01-02T00:00:00Z",
+      "place": "Dessau",
+      "placeId": "http://www.wikidata.org/entity/Q487070"
+    },
+    "death": {
+      "date": "1826-10-24T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
+    },
+    "gender": "male"
+  },
   "Q55902768": {
     "name": "August Wilhelm Hesse",
     "gnd": "141246952",
@@ -2770,10 +2917,14 @@
     "name": "Heimbert Paul Friedrich Hinze",
     "gnd": "100499635",
     "birth": {
-      "date": "1771-01-01T00:00:00Z"
+      "date": "1771-01-01T00:00:00Z",
+      "place": "Braunschweig",
+      "placeId": "http://www.wikidata.org/entity/Q2773"
     },
     "death": {
-      "date": "1840-12-01T00:00:00Z"
+      "date": "1840-12-01T00:00:00Z",
+      "place": "Lübeck",
+      "placeId": "http://www.wikidata.org/entity/Q2843"
     },
     "gender": "male"
   },
@@ -3591,7 +3742,9 @@
       "placeId": "http://www.wikidata.org/entity/Q1715"
     },
     "death": {
-      "date": "1842-05-17T00:00:00Z"
+      "date": "1842-05-17T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
     },
     "gender": "female"
   },
@@ -3690,6 +3843,7 @@
   },
   "Q108678796": {
     "name": "David La Roche",
+    "gnd": "1061222039",
     "birth": {
       "date": "1745-01-01T00:00:00Z",
       "place": "Liestal",
@@ -3794,17 +3948,6 @@
     "gender": "male",
     "ambiguous": true
   },
-  "Q56023399": {
-    "name": "Ludwig Lenz",
-    "gnd": "116916869",
-    "birth": {
-      "date": "1813-01-01T00:00:00Z"
-    },
-    "death": {
-      "date": "1896-01-01T00:00:00Z"
-    },
-    "gender": "male"
-  },
   "Q22676991": {
     "name": "Johann Reinhold von Lenz",
     "gnd": "116911522",
@@ -3818,6 +3961,17 @@
       "date": "1854-02-19T00:00:00Z",
       "place": "Riga",
       "placeId": "http://www.wikidata.org/entity/Q1773"
+    },
+    "gender": "male"
+  },
+  "Q56023399": {
+    "name": "Ludwig Lenz",
+    "gnd": "116916869",
+    "birth": {
+      "date": "1813-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1896-01-01T00:00:00Z"
     },
     "gender": "male"
   },
@@ -3909,7 +4063,8 @@
   "Q108678737": {
     "name": "G. H. Liebenau",
     "birth": {},
-    "death": {}
+    "death": {},
+    "gender": "male"
   },
   "Q1079959": {
     "name": "Christian Gottlieb Lieberkühn",
@@ -5214,6 +5369,17 @@
     },
     "gender": "male"
   },
+  "Q19672677": {
+    "name": "Ernst Lorenz Michael Rathlef",
+    "gnd": "120376148",
+    "birth": {
+      "date": "1742-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1791-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q1545582": {
     "name": "Joseph Franz Ratschky",
     "gnd": "119101343",
@@ -5654,19 +5820,6 @@
     },
     "gender": "male"
   },
-  "Q55913027": {
-    "name": "Johann Andreas Schachtner",
-    "gnd": "100398782",
-    "birth": {
-      "date": "1731-01-01T00:00:00Z",
-      "place": "Dingolfing",
-      "placeId": "http://www.wikidata.org/entity/Q225909"
-    },
-    "death": {
-      "date": "1795-01-01T00:00:00Z"
-    },
-    "gender": "male"
-  },
   "Q16632372": {
     "name": "Adolf von Schaden",
     "gnd": "117093467",
@@ -5962,7 +6115,9 @@
     "name": "Heinrich Gottlieb Schmieder",
     "gnd": "115594361",
     "birth": {
-      "date": "1763-06-03T00:00:00Z"
+      "date": "1763-06-03T00:00:00Z",
+      "place": "Dresden",
+      "placeId": "http://www.wikidata.org/entity/Q1731"
     },
     "death": {
       "date": "1815-01-01T00:00:00Z",
@@ -6115,6 +6270,21 @@
       "date": "1841-10-21T00:00:00Z",
       "place": "Oos",
       "placeId": "http://www.wikidata.org/entity/Q2024832"
+    },
+    "gender": "male"
+  },
+  "Q1162670": {
+    "name": "Daniel Schütte",
+    "gnd": "117140023",
+    "birth": {
+      "date": "1763-04-06T00:00:00Z",
+      "place": "Bremen",
+      "placeId": "http://www.wikidata.org/entity/Q24879"
+    },
+    "death": {
+      "date": "1850-03-14T00:00:00Z",
+      "place": "Bremen",
+      "placeId": "http://www.wikidata.org/entity/Q24879"
     },
     "gender": "male"
   },
@@ -6804,6 +6974,21 @@
     },
     "gender": "male"
   },
+  "Q15857649": {
+    "name": "Franz Xaver Told",
+    "gnd": "117393649",
+    "birth": {
+      "date": "1792-12-13T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1849-04-14T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male"
+  },
   "Q60845579": {
     "name": "Johann Friedrich Julius Topp",
     "gnd": "122728211",
@@ -7349,6 +7534,22 @@
     },
     "gender": "male"
   },
+  "Q154010": {
+    "name": "Christoph Martin Wieland",
+    "gnd": "118632477",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Weimar%20Anna%20Amalia%20Bibliothek%40C.M.%20Wieland.JPG",
+    "birth": {
+      "date": "1733-09-05T00:00:00Z",
+      "place": "Biberach an der Riß",
+      "placeId": "http://www.wikidata.org/entity/Q16069"
+    },
+    "death": {
+      "date": "1813-01-20T00:00:00Z",
+      "place": "Weimar",
+      "placeId": "http://www.wikidata.org/entity/Q3955"
+    },
+    "gender": "male"
+  },
   "Q55900898": {
     "name": "Sigismund Wiese",
     "gnd": "11758004X",
@@ -7357,6 +7558,36 @@
     },
     "death": {
       "date": "1864-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
+  "Q94816117": {
+    "name": "Johann Leonhard Wilhelm",
+    "gnd": "1026808944",
+    "birth": {
+      "date": "1774-04-26T00:00:00Z",
+      "place": "Augsburg",
+      "placeId": "http://www.wikidata.org/entity/Q2749"
+    },
+    "death": {
+      "date": "1849-05-01T00:00:00Z",
+      "place": "Augsburg",
+      "placeId": "http://www.wikidata.org/entity/Q2749"
+    },
+    "gender": "male"
+  },
+  "Q18335108": {
+    "name": "Alexander Victor Zechmeister",
+    "gnd": "117381187",
+    "birth": {
+      "date": "1817-09-05T00:00:00Z",
+      "place": "Buda",
+      "placeId": "http://www.wikidata.org/entity/Q193478"
+    },
+    "death": {
+      "date": "1877-10-08T00:00:00Z",
+      "place": "Meran",
+      "placeId": "http://www.wikidata.org/entity/Q131605"
     },
     "gender": "male"
   },
@@ -7488,6 +7719,21 @@
       "date": "1827-01-01T00:00:00Z",
       "place": "Bratislava",
       "placeId": "http://www.wikidata.org/entity/Q1780"
+    },
+    "gender": "male"
+  },
+  "Q57558706": {
+    "name": "Johann Gottlieb Ziehnert",
+    "gnd": "120509636",
+    "birth": {
+      "date": "1780-03-05T00:00:00Z",
+      "place": "Quohren",
+      "placeId": "http://www.wikidata.org/entity/Q2123613"
+    },
+    "death": {
+      "date": "1856-04-07T00:00:00Z",
+      "place": "Schlettau",
+      "placeId": "http://www.wikidata.org/entity/Q57939"
     },
     "gender": "male"
   },

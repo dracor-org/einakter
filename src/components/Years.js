@@ -1,6 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {useLingui} from "@lingui/react";
+import {t} from '@lingui/macro';
 
 export function formatEra (year, ceBefore = 0) {
   if (year === null) {
@@ -20,7 +22,7 @@ export function formatEra (year, ceBefore = 0) {
   return String(y);
 }
 
-export function formatYear (year) {
+export function formatYear (year, locale = 'en-GB') {
   const yearString = `${year}`
   // range, both BCE
   if (yearString.match('^-[0-9]{4}/-[0-9]{4}$')) {
@@ -37,13 +39,13 @@ export function formatYear (year) {
   // YYYY-MM
   if (yearString.match('^[0-9]{4}-[0-9]{2}$')) {
     const date = new Date(yearString);
-    return date.toLocaleDateString('en-GB', {month: 'long', year: 'numeric'});
+    return date.toLocaleDateString(locale, {month: 'long', year: 'numeric'});
   }
 
   // YYYY-MM-DD
   if (yearString.match('^[0-9]{4}-[0-9]{2}-[0-9]{2}$')) {
     const date = new Date(yearString);
-    return date.toLocaleDateString('en-GB', {
+    return date.toLocaleDateString(locale, {
       day: 'numeric',
       month: 'long',
       year: 'numeric'
@@ -71,30 +73,31 @@ export function formatYear (year) {
 }
 
 const Years = ({written, premiere, print}) => {
+  const {i18n: {locale}} = useLingui();
   return (
     <>
       {written && (
         <>
-          <span title="written">
+          <span title={t`written`}>
             <FontAwesomeIcon icon="pen-fancy" size="sm"/>&nbsp;
-            {formatYear(written)}
+            {formatYear(written, locale)}
           </span>
           {' '}
         </>
       )}
       {premiere && (
         <>
-          <span title="premiered">
+          <span title={t`premiered`}>
             <FontAwesomeIcon icon="theater-masks" size="sm"/>&nbsp;
-            {formatYear(premiere)}
+            {formatYear(premiere, locale)}
           </span>
           {' '}
         </>
       )}
       {print && (
-        <span title="printed">
+        <span title={t`printed`}>
           <FontAwesomeIcon icon="book" size="sm"/>&nbsp;
-          {formatYear(print)}
+          {formatYear(print, locale)}
         </span>
       )}
     </>

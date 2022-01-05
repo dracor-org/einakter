@@ -1,4 +1,5 @@
 import React, {useEffect, useState} from 'react';
+import {Trans} from '@lingui/macro';
 import axios from 'axios';
 import IdLink from './IdLink';
 import {formatYear} from './Years';
@@ -44,7 +45,6 @@ WHERE {
 `;
 
       const url = `${endpoint}?query=${encodeURIComponent(sparql)}`;
-      // console.log(`${id}`);
       try {
         const response = await axios.get(url);
         if (response.status === 200) {
@@ -100,7 +100,7 @@ WHERE {
   const {name, imageUrl, commonsPage, birth = [], death = []} = info || {};
 
   return (
-    <div className="author-info">
+    <div className="flex whitespace-nowrap">
       <div className="author-image">
         {imageUrl && <img src={imageUrl} title={name} alt="" width="50" />}
         {commonsPage && (
@@ -114,14 +114,14 @@ WHERE {
         )}
       </div>
       <span>
-        <b>{fullname}</b>
+        <h2>{fullname}</h2>
         {wikidataId && (
           <p>
             <IdLink id={wikidataId} type="wikidata"/>
           </p>
         )}
-        {birth.length > 0 && <p>b. {birth.join(', ')}</p>}
-        {death.length > 0 && <p>d. {death.join(', ')}</p>}
+        {birth.length > 0 && <p><Trans>b.</Trans> {birth.join(', ')}</p>}
+        {death.length > 0 && <p><Trans>d.</Trans> {death.join(', ')}</p>}
       </span>
     </div>
   );

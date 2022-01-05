@@ -1,6 +1,6 @@
-import {Play} from './types';
+import {Play, OriginalPlay} from './types';
 
-export function normalizeYear (play: Play) {
+export function normalizeYear (play: Play | OriginalPlay) {
   const {premiered: p, printed, created} = play;
   const premiered: number = parseInt(p as string);
   const published = (premiered && printed)
@@ -54,4 +54,12 @@ export function countCharactersByGender (play: Play) {
     }
     return num;
   }, initial)
+};
+
+export function sortByYear (a: Play, b: Play) {
+  const yearA = a.normalizedYear || -10000;
+  const yearB = b.normalizedYear || -10000;
+  if (yearA > yearB) return 1;
+  if (yearA < yearB) return -1;
+  return 0
 };
