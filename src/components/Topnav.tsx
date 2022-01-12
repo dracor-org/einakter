@@ -1,4 +1,4 @@
-import React, {ReactNode, useState} from 'react';
+import React, {ReactNode, useState, useContext} from 'react';
 import { Fragment } from 'react';
 import {Link} from 'react-router-dom';
 import {classnames, TTailwindString} from 'tailwindcss-classnames';
@@ -9,6 +9,7 @@ import {faLanguage} from '@fortawesome/free-solid-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {locales, setLocale} from '../i18n';
 import { Menu, Transition } from '@headlessui/react'
+import {EinakterContext} from '../context';
 
 interface NavItemProps {
   href: string;
@@ -17,9 +18,12 @@ interface NavItemProps {
 }
 
 function NavItem ({href, className, children}: NavItemProps) {
+  const {plays} = useContext(EinakterContext);
   const location = useLocation();
 
-  const isActive = location.pathname.startsWith(href);
+  const isActive = location.pathname.startsWith(href) || Boolean(
+    href === '/plays' && plays.find((p) => location.pathname === `/${p.slug}`)
+  );
 
   const classes = classnames(
     'block', 'mt-4', 'md:inline-block', 'md:mt-1', 'text-white',
