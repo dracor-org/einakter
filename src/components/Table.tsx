@@ -2,7 +2,7 @@ import React from 'react';
 import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import {Link} from 'react-router-dom';
-import {Trans, t} from '@lingui/macro';
+import {t} from '@lingui/macro';
 import {Helmet} from 'react-helmet';
 import Authors from './Authors';
 import Statistics from './Statistics';
@@ -118,17 +118,6 @@ function Table () {
         {
           props => (
             <div className="p-4 overflow-x-auto">
-              <p>
-                <Trans>
-                  Welcome to <b>Einakter</b>, the <b>Database of German-Language
-                  One-Act Plays 1740–1850</b>, edited by Dîlan Canan Çakir and
-                  Frank Fischer. Our aim is to provide a general quantitative
-                  overview of one-act plays written in German between the
-                  mid-18th and mid-19th centuries. For more information,
-                  including how to cite this database, please see
-                  the <Link to="/about">About</Link> page.
-                </Trans>
-              </p>
               <Statistics plays={data} authors={authors} className="mb-2 mt-2"/>
               <span className="flex justify-between items-center">
                 <SearchBar className="m-0" { ...props.searchProps } placeholder={t`Search`}/>

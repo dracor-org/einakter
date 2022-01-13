@@ -29,7 +29,8 @@ export default function Home () {
             <Trans>
               Our aim is to provide a general quantitative overview of one-act
               plays written in German between the mid-18th and mid-19th
-              centuries.
+              centuries. For more information, including how to cite this
+              database, please see the About page.
             </Trans>
           </p>
           <button
