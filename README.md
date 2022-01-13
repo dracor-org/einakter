@@ -69,6 +69,26 @@ yarn authors Q123 Q4566
 Update [`locations.json`](src/locations.json). This fetches coordinates for
 new location IDs in `data.yaml` and adds them to `src/locations.json`.
 
+### `yarn extract`
+
+Extracts translatable text from Javascript code and updates `.po` files in
+the `src/locales` directory. 
+
+### `yarn compile`
+
+Compiles `.po` files in the `src/locales` directory to Javascript. This is
+normally run by `yarn start` and `yarn build`. It would only need to be executed
+for testing new translations in a development server without re-running
+`yarn start`.
+
+## Translations
+
+*Einakter* uses [LinguiJS](https://lingui.js.org) to provide a multi-lingual
+user interface. Translations are maintained in `.po` files in the
+[src/locales](src/locales). For updating translations the
+[yarn extract](#yarn-extract) and [yarn compile](#yarn-compile) commands can be
+used.
+
 ## License
 
 The code of this project is licensed under the MIT License.
