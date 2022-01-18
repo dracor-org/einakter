@@ -20,7 +20,7 @@ msgstr "Acerca de"
 
 #: src/components/Home.tsx:40
 msgid "About the project"
-msgstr ""
+msgstr "Acerca del proyecto"
 
 #: src/components/Originals.tsx:65
 #: src/components/Table.tsx:55
@@ -47,11 +47,11 @@ msgstr "Comentarios"
 
 #: src/languages.ts:6
 msgid "Czech"
-msgstr ""
+msgstr "Checo"
 
 #: src/languages.ts:8
 msgid "Danish"
-msgstr ""
+msgstr "Danés"
 
 #: src/components/Statistics.tsx:82
 #~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
@@ -80,11 +80,11 @@ msgstr "Dramatis personae"
 
 #: src/languages.ts:10
 msgid "Dutch"
-msgstr ""
+msgstr "Neerlandés"
 
 #: src/components/Home.tsx:26
 msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
-msgstr ""
+msgstr "Editado por Dîlan Canan Çakir y Frank Fischer"
 
 #: src/components/Details.tsx:161
 msgid "Editions"
@@ -92,7 +92,7 @@ msgstr "Ediciones"
 
 #: src/languages.ts:12
 msgid "English"
-msgstr ""
+msgstr "Inglés"
 
 #: src/components/Details.tsx:292
 msgid "Formalia"
@@ -100,7 +100,7 @@ msgstr "Aspectos formales"
 
 #: src/languages.ts:14
 msgid "French"
-msgstr ""
+msgstr "Francés"
 
 #: src/components/OriginalDetails.tsx:123
 msgid "Full text"
@@ -108,11 +108,11 @@ msgstr "Texto íntegro"
 
 #: src/languages.ts:16
 msgid "German"
-msgstr ""
+msgstr "Alemán"
 
 #: src/components/Details.tsx:22
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
 
 #: src/components/Statistics.tsx:73
 #~ msgid "Hide"
@@ -120,7 +120,7 @@ msgstr ""
 
 #: src/languages.ts:18
 msgid "Italian"
-msgstr ""
+msgstr "Italiano"
 
 #: src/components/Details.tsx:306
 #: src/components/Table.tsx:100
@@ -134,11 +134,11 @@ msgstr "Lengua"
 
 #: src/components/OriginalStatistics.tsx:74
 msgid "Languages"
-msgstr ""
+msgstr "Lenguas"
 
 #: src/languages.ts:20
 msgid "Latin"
-msgstr ""
+msgstr "Latín"
 
 #: src/components/Details.tsx:135
 #: src/components/OriginalDetails.tsx:103
@@ -168,7 +168,7 @@ msgstr "Número de escenas"
 
 #: src/components/OriginalStatistics.tsx:71
 msgid "Number of originals"
-msgstr ""
+msgstr "Número de originales"
 
 #: src/components/Originals.tsx:105
 msgid "Number of translations"
@@ -197,11 +197,11 @@ msgstr "Otras traducciones en un acto"
 
 #: src/components/Home.tsx:29
 msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
-msgstr ""
+msgstr "Nuestro objetivo es dar una visión de conjunto de las obras en un solo acto escritas en alemán entre mediados del siglo XVIII y mediados del siglo XIX. Para más información, incluido cómo citar la base de datos, ver »Acerca de«."
 
 #: src/components/Topnav.tsx:85
 msgid "Plays"
-msgstr ""
+msgstr "Obras"
 
 #: src/components/OriginalStatistics.tsx:73
 #: src/components/Statistics.tsx:121
@@ -218,7 +218,7 @@ msgstr "Críticas"
 
 #: src/languages.ts:22
 msgid "Russian"
-msgstr ""
+msgstr "Ruso"
 
 #: src/components/Table.tsx:92
 msgid "Scenes"
@@ -240,7 +240,7 @@ msgstr "Escena"
 
 #: src/languages.ts:24
 msgid "Spanish"
-msgstr ""
+msgstr "Español"
 
 #: src/components/Statistics.tsx:77
 #~ msgid "Statistics"
@@ -248,11 +248,11 @@ msgstr ""
 
 #: src/components/Home.tsx:15
 msgid "The Database of German-Language One-Act Plays 1740–1850"
-msgstr ""
+msgstr "Base de datos de obras en un solo acto en alemán, 1740–1850"
 
 #: src/components/Home.tsx:21
 msgid "The Database of<0/>German-Language<1/>One-Act Plays<2/>1740–1850"
-msgstr ""
+msgstr "Base de datos de<0/>obras en un solo acto<1/>en alemán, 1740–1850"
 
 #: src/components/Map.tsx:51
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
@@ -296,16 +296,16 @@ msgstr "masculino"
 
 #: src/components/Years.js:90
 msgid "premiered"
-msgstr ""
+msgstr "Estreno"
 
 #: src/components/Years.js:98
 msgid "printed"
-msgstr ""
+msgstr "Primera edición"
 
 #: src/components/Details.tsx:233
 #~ msgid "undefined"
-#~ msgstr ""
+#~ msgstr "no definido"
 
 #: src/components/Years.js:81
 msgid "written"
-msgstr ""
+msgstr "Escritura"
