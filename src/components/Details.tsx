@@ -306,9 +306,11 @@ export default function Details () {
                 <Trans>Keywords</Trans>
               </th>
               <td>
-                <ul>
+                <ul className="list-disc text-gray-400">
                   {keywords.map(k => (
-                    <li key={k}>{k}</li>
+                    <li key={k}>
+                      <span className="text-black">{k}</span>
+                    </li>
                   ))}
                 </ul>
               </td>
