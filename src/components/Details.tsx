@@ -87,10 +87,10 @@ export default function Details () {
                 <Trans>Comments</Trans>
               </th>
               <td>
-                <ul>
+                <ul className="list-disc text-gray-400">
                   {comments.map((c, i) => (
                     <li key={`comment-${i}`}>
-                      <ReactMarkdown>{c}</ReactMarkdown>
+                      <ReactMarkdown className="text-black">{c}</ReactMarkdown>
                     </li>
                   ))}
                 </ul>
