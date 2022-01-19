@@ -80,7 +80,7 @@ const Original = ({data}: Props) => {
           <p style={{margin: '.8em 0 .3em', fontStyle: 'italic'}}>
             <Trans>Other one-act translations</Trans>:
           </p>
-          <ul>
+          <ul className="list-disc text-gray-400">
             {others.sort(sortByYear).map((play) => (
               <li key={play.slug}>
                 <Link to={`/${play.slug}`}>
