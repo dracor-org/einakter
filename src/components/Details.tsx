@@ -103,10 +103,10 @@ export default function Details () {
                 <Trans>Reviews</Trans>
               </th>
               <td>
-                <ul>
+                <ul className="list-disc text-gray-400">
                   {reviews.map((r, i) => (
                     <li key={`review-${i}`}>
-                      <ReactMarkdown>{r}</ReactMarkdown>
+                      <ReactMarkdown className="text-black">{r}</ReactMarkdown>
                     </li>
                   ))}
                 </ul>
