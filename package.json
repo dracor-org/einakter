@@ -1,6 +1,6 @@
 {
   "name": "einakter",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.3.0",
@@ -29,7 +29,7 @@
     "js-yaml": "4.0.0",
     "leaflet": "^1.7.1",
     "mdx.macro": "^0.2.9",
-    "postcss": "^7",
+    "postcss": "^8",
     "react": "17.0.1",
     "react-bootstrap": "^1.0.1",
     "react-bootstrap-table-next": "^4.0.3",

@@ -87,10 +87,10 @@ export default function Details () {
                 <Trans>Comments</Trans>
               </th>
               <td>
-                <ul>
+                <ul className="list-disc text-gray-400">
                   {comments.map((c, i) => (
                     <li key={`comment-${i}`}>
-                      <ReactMarkdown>{c}</ReactMarkdown>
+                      <ReactMarkdown className="text-black">{c}</ReactMarkdown>
                     </li>
                   ))}
                 </ul>
@@ -103,10 +103,10 @@ export default function Details () {
                 <Trans>Reviews</Trans>
               </th>
               <td>
-                <ul>
+                <ul className="list-disc text-gray-400">
                   {reviews.map((r, i) => (
                     <li key={`review-${i}`}>
-                      <ReactMarkdown>{r}</ReactMarkdown>
+                      <ReactMarkdown className="text-black">{r}</ReactMarkdown>
                     </li>
                   ))}
                 </ul>
@@ -306,9 +306,11 @@ export default function Details () {
                 <Trans>Keywords</Trans>
               </th>
               <td>
-                <ul>
+                <ul className="list-disc text-gray-400">
                   {keywords.map(k => (
-                    <li key={k}>{k}</li>
+                    <li key={k}>
+                      <span className="text-black">{k}</span>
+                    </li>
                   ))}
                 </ul>
               </td>
