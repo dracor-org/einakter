@@ -20,7 +20,7 @@ msgstr "소개"
 
 #: src/components/Home.tsx:40
 msgid "About the project"
-msgstr ""
+msgstr "프로젝트 정보"
 
 #: src/components/Originals.tsx:65
 #: src/components/Table.tsx:55
@@ -47,11 +47,11 @@ msgstr "코멘트"
 
 #: src/languages.ts:6
 msgid "Czech"
-msgstr ""
+msgstr "체코어"
 
 #: src/languages.ts:8
 msgid "Danish"
-msgstr ""
+msgstr "덴마크어"
 
 #: src/components/Statistics.tsx:82
 #~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
@@ -80,11 +80,11 @@ msgstr "인물들"
 
 #: src/languages.ts:10
 msgid "Dutch"
-msgstr ""
+msgstr "네덜란드어"
 
 #: src/components/Home.tsx:26
 msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
-msgstr ""
+msgstr "디란 카난 차키어 및 프랑크 피숴 편집"
 
 #: src/components/Details.tsx:161
 msgid "Editions"
@@ -92,7 +92,7 @@ msgstr "총서"
 
 #: src/languages.ts:12
 msgid "English"
-msgstr ""
+msgstr "영어"
 
 #: src/components/Details.tsx:292
 msgid "Formalia"
@@ -100,7 +100,7 @@ msgstr "장르"
 
 #: src/languages.ts:14
 msgid "French"
-msgstr ""
+msgstr "불어"
 
 #: src/components/OriginalDetails.tsx:123
 msgid "Full text"
@@ -108,11 +108,11 @@ msgstr "정본"
 
 #: src/languages.ts:16
 msgid "German"
-msgstr ""
+msgstr "독어"
 
 #: src/components/Details.tsx:22
 msgid "Group"
-msgstr ""
+msgstr "그룹"
 
 #: src/components/Statistics.tsx:73
 #~ msgid "Hide"
@@ -120,7 +120,7 @@ msgstr ""
 
 #: src/languages.ts:18
 msgid "Italian"
-msgstr ""
+msgstr "이탈리아어"
 
 #: src/components/Details.tsx:306
 #: src/components/Table.tsx:100
@@ -134,11 +134,11 @@ msgstr "언어"
 
 #: src/components/OriginalStatistics.tsx:74
 msgid "Languages"
-msgstr ""
+msgstr "언어"
 
 #: src/languages.ts:20
 msgid "Latin"
-msgstr ""
+msgstr "라틴어"
 
 #: src/components/Details.tsx:135
 #: src/components/OriginalDetails.tsx:103
@@ -168,7 +168,7 @@ msgstr "장면수"
 
 #: src/components/OriginalStatistics.tsx:71
 msgid "Number of originals"
-msgstr ""
+msgstr "원본수"
 
 #: src/components/Originals.tsx:105
 msgid "Number of translations"
@@ -197,11 +197,11 @@ msgstr "다른 일장 연극 번역들"
 
 #: src/components/Home.tsx:29
 msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
-msgstr ""
+msgstr "우리의 목표는 18세기 중반에서 19세기 중반 사이에 독어로 쓰여진 단막극의 일반적인 양적 개요를 제공하는 것입니다. 이 데이터베이스를 인용하는 방법을 포함한 자세한 내용은 정보 페이지에서 참조하십시오."
 
 #: src/components/Topnav.tsx:85
 msgid "Plays"
-msgstr ""
+msgstr "연극"
 
 #: src/components/OriginalStatistics.tsx:73
 #: src/components/Statistics.tsx:121
@@ -218,7 +218,7 @@ msgstr "평가"
 
 #: src/languages.ts:22
 msgid "Russian"
-msgstr ""
+msgstr "러시아어"
 
 #: src/components/Table.tsx:92
 msgid "Scenes"
@@ -240,7 +240,7 @@ msgstr "연극단"
 
 #: src/languages.ts:24
 msgid "Spanish"
-msgstr ""
+msgstr "스페인어"
 
 #: src/components/Statistics.tsx:77
 #~ msgid "Statistics"
@@ -248,11 +248,11 @@ msgstr ""
 
 #: src/components/Home.tsx:15
 msgid "The Database of German-Language One-Act Plays 1740–1850"
-msgstr ""
+msgstr "1740–1850년 독어 단막극 데이터베이스"
 
 #: src/components/Home.tsx:21
 msgid "The Database of<0/>German-Language<1/>One-Act Plays<2/>1740–1850"
-msgstr ""
+msgstr "1740–1850년 독어 단막극 데이터베이스"
 
 #: src/components/Map.tsx:51
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
@@ -296,16 +296,16 @@ msgstr "남성"
 
 #: src/components/Years.js:90
 msgid "premiered"
-msgstr ""
+msgstr "초연"
 
 #: src/components/Years.js:98
 msgid "printed"
-msgstr ""
+msgstr "인쇄"
 
 #: src/components/Details.tsx:233
 #~ msgid "undefined"
-#~ msgstr ""
+#~ msgstr "정보가 없음"
 
 #: src/components/Years.js:81
 msgid "written"
-msgstr ""
+msgstr "저작자"
