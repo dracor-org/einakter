@@ -25,7 +25,7 @@ export default function Home () {
           <strong>
             <Trans>Edited by Dîlan Canan Çakir and Frank Fischer</Trans>
           </strong>
-          <p>
+          <p className="max-w-[75ch]">
             <Trans>
               Our aim is to provide a general quantitative overview of one-act
               plays written in German between the mid-18th and mid-19th
