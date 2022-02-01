@@ -16,11 +16,11 @@ msgstr ""
 #: src/components/About.tsx:12
 #: src/components/Topnav.tsx:94
 msgid "About"
-msgstr "について"
+msgstr "このサイトについて"
 
 #: src/components/Home.tsx:40
 msgid "About the project"
-msgstr ""
+msgstr "プロジェクトについて"
 
 #: src/components/Originals.tsx:65
 #: src/components/Table.tsx:55
@@ -47,11 +47,11 @@ msgstr "コメント"
 
 #: src/languages.ts:6
 msgid "Czech"
-msgstr ""
+msgstr "チェコ語"
 
 #: src/languages.ts:8
 msgid "Danish"
-msgstr ""
+msgstr "デンマーク語"
 
 #: src/components/Statistics.tsx:82
 #~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
@@ -80,11 +80,11 @@ msgstr "登場人物"
 
 #: src/languages.ts:10
 msgid "Dutch"
-msgstr ""
+msgstr "オランダ語"
 
 #: src/components/Home.tsx:26
 msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
-msgstr ""
+msgstr "ディーラン・ジャナン・チャクル、フランク・フィッシャー編"
 
 #: src/components/Details.tsx:161
 msgid "Editions"
@@ -92,7 +92,7 @@ msgstr "版"
 
 #: src/languages.ts:12
 msgid "English"
-msgstr ""
+msgstr "英語"
 
 #: src/components/Details.tsx:292
 msgid "Formalia"
@@ -100,7 +100,7 @@ msgstr "形式"
 
 #: src/languages.ts:14
 msgid "French"
-msgstr ""
+msgstr "フランス語"
 
 #: src/components/OriginalDetails.tsx:123
 msgid "Full text"
@@ -108,11 +108,11 @@ msgstr "全文"
 
 #: src/languages.ts:16
 msgid "German"
-msgstr ""
+msgstr "ドイツ語"
 
 #: src/components/Details.tsx:22
 msgid "Group"
-msgstr ""
+msgstr "グループ"
 
 #: src/components/Statistics.tsx:73
 #~ msgid "Hide"
@@ -120,12 +120,12 @@ msgstr ""
 
 #: src/languages.ts:18
 msgid "Italian"
-msgstr ""
+msgstr "イタリア語"
 
 #: src/components/Details.tsx:306
 #: src/components/Table.tsx:100
 msgid "Keywords"
-msgstr "キイワード"
+msgstr "キーワード"
 
 #: src/components/OriginalDetails.tsx:62
 #: src/components/Originals.tsx:99
@@ -134,11 +134,11 @@ msgstr "言語"
 
 #: src/components/OriginalStatistics.tsx:74
 msgid "Languages"
-msgstr ""
+msgstr "言語"
 
 #: src/languages.ts:20
 msgid "Latin"
-msgstr ""
+msgstr "ラテン語"
 
 #: src/components/Details.tsx:135
 #: src/components/OriginalDetails.tsx:103
@@ -168,7 +168,7 @@ msgstr "場面数"
 
 #: src/components/OriginalStatistics.tsx:71
 msgid "Number of originals"
-msgstr ""
+msgstr "原文の数"
 
 #: src/components/Originals.tsx:105
 msgid "Number of translations"
@@ -197,11 +197,11 @@ msgstr "他の一幕物の翻訳"
 
 #: src/components/Home.tsx:29
 msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
-msgstr ""
+msgstr "このサイトは、18世紀半ばから19世紀半ばにかけてドイツ語で書かれた一幕物に関して、一般的な概略を出来る限り多く提供することを目的としています。本データベースの引用方法など、詳細に関しては「このサイトについて」のページをご覧ください。"
 
 #: src/components/Topnav.tsx:85
 msgid "Plays"
-msgstr ""
+msgstr "演劇"
 
 #: src/components/OriginalStatistics.tsx:73
 #: src/components/Statistics.tsx:121
@@ -218,7 +218,7 @@ msgstr "批評"
 
 #: src/languages.ts:22
 msgid "Russian"
-msgstr ""
+msgstr "ロシア語"
 
 #: src/components/Table.tsx:92
 msgid "Scenes"
@@ -240,7 +240,7 @@ msgstr "舞台"
 
 #: src/languages.ts:24
 msgid "Spanish"
-msgstr ""
+msgstr "スペイン語"
 
 #: src/components/Statistics.tsx:77
 #~ msgid "Statistics"
@@ -248,11 +248,11 @@ msgstr ""
 
 #: src/components/Home.tsx:15
 msgid "The Database of German-Language One-Act Plays 1740–1850"
-msgstr ""
+msgstr "1740年から1850年のドイツ語一幕物のデータベース"
 
 #: src/components/Home.tsx:21
 msgid "The Database of<0/>German-Language<1/>One-Act Plays<2/>1740–1850"
-msgstr ""
+msgstr "1740年から1850年のドイツ語一幕物のデータベース"
 
 #: src/components/Map.tsx:51
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
@@ -298,16 +298,16 @@ msgstr "男性"
 
 #: src/components/Years.js:90
 msgid "premiered"
-msgstr ""
+msgstr "初演"
 
 #: src/components/Years.js:98
 msgid "printed"
-msgstr ""
+msgstr "刊本"
 
 #: src/components/Details.tsx:233
 #~ msgid "undefined"
-#~ msgstr ""
+#~ msgstr "未定義"
 
 #: src/components/Years.js:81
 msgid "written"
-msgstr ""
+msgstr "執筆"
