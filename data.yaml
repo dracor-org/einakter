@@ -28759,40 +28759,6 @@ cast:
 settings:
   - description: Die Bühne ist in dem Zimmer der Madam Argante.
 ---
-slug: ekhof-juliane-der-der-triumph-der-unschuld
-author:
-  name: Ekhof, Konrad
-  wikidata: Q215783
-title: Juliane oder der Triumpf der Unschuld
-subtitle: Ein Nachspiel In einem Aufzuge
-numberOfScenes: 11
-created: 1755
-formalia:
-  - Prosa
-basedOn:
-  - marin-julie-ou-le-triomphe-de-l-amitie
-dictionaries:
-  - name: bibliographia
-    pages: 2. Abteilung, Band 18, S. 52
-comments:
-  - "Manuskript im ›Nachlass Conrad Ekhof‹ der Forschungsbibliothek Gotha, Signatur: [Chart. B 1617](http://kalliope-verbund.info/DE-611-HS-3410295)."
-  - Autorzuschreibung unsicher. Undatiert, von Meyer ins Jahr 1755 sortiert, was den Angaben der Forschungsbibliothek Gotha widerspräche, derzufolge es sich um eine Übersetzung von Marins »Julie, ou Le triomphe de l'amitié« (1762) handele.
-cast:
-  - name: Philint.
-    role: Ein sehr reicher junger Mensch.
-    gender: m
-  - name: Cleonte.
-    role: Tochter der Juliane.
-    gender: f
-  - name: Juliane.
-    gender: f
-  - name: Frontin.
-    role: Bedienter des Philint.
-    gender: m
-settings:
-  - description: >-
-      Der Schauplatz ist ein Garten auf dem Landguthe des Philints.
----
 slug: ekhof-l-isle-deserte-die-wueste-insel
 author:
   name: Ekhof, Konrad
@@ -95022,6 +94988,39 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist in einer Wüste.
+---
+slug: weisse-juliane-der-der-triumph-der-unschuld
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: Juliane oder der Triumpf der Unschuld
+subtitle: Ein Nachspiel In einem Aufzuge
+numberOfScenes: 11
+created: 1755
+premiered: 1756
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 18, S. 52
+comments:
+  - "Weiße datiert die Niederschrift in seiner »Selbstbiographie« auf die Jahre 1751–1755 (Leipzig: Voß 1806, [S. 28](https://books.google.com/books?id=7BhOAAAAcAAJ&pg=PA28)), die Uraufführung durch Ekhof in Hamburg auf 1756 ([ebd., S. 40](https://books.google.com/books?id=7BhOAAAAcAAJ&pg=PA40))."
+  - "Weiße hatte das Manuskript an Ekhof geschickt, vgl. [dessen Antwortbrief an Weiße vom 26. Februar 1756](https://books.google.com/books?id=_74LAAAAIAAJ&pg=PA255). Eine Abschrift befindet sich im ›Nachlass Conrad Ekhof‹ der Forschungsbibliothek Gotha, Signatur: [Chart. B 1617](http://kalliope-verbund.info/DE-611-HS-3410295). Den dortigen Angaben zufolge handelt es sich dabei um eine Übersetzung eines Stücks von François-Louis Claude Marin: [»Julie, ou Le triomphe de l'amitié. Comédie en prose & en trois actes«](https://books.google.com/books?id=MQ2NpNQn3IMC&printsec=frontcover) (UA 3. März 1762). Dagegen spricht das Figurenverzeichnis, die Dreiaktigkeit und die Datierung."
+cast:
+  - name: Philint.
+    role: Ein sehr reicher junger Mensch.
+    gender: m
+  - name: Cleonte.
+    role: Tochter der Juliane.
+    gender: f
+  - name: Juliane.
+    gender: f
+  - name: Frontin.
+    role: Bedienter des Philint.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist ein Garten auf dem Landgute des Philints.
 ---
 slug: weisse-versprechen-muss-man-halten-oder-ein-guter-mensch-macht-andre-gute-menschen
 author:
