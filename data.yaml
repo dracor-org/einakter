@@ -52200,11 +52200,11 @@ cast:
 settings:
   - description: Ein Zimmer im Hause der Jungfer Nelkenstroh.
 ---
-slug: kotzebue-der-selbstmoerder
+slug: kotzebue-die-selbstmoerder
 author:
   name: Kotzebue, August von
   wikidata: Q57242
-title: Der Selbstmörder
+title: Die Selbstmörder
 subtitle: Ein Drama in Einem Akt
 numberOfScenes: 8
 printed: 1819
@@ -52219,6 +52219,9 @@ editions:
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044931_00351.html
 keywords:
   - Armut
+ids:
+  weber: A021157
+  wikidata: Q110890328
 cast:
   - name: Der reiche Städter.
     gender: m
@@ -52601,12 +52604,13 @@ editions:
     url: https://books.google.com/books?id=sVZZAAAAcAAJ&pg=PA3
 comments:
   - Kein Einakterhinweis im Untertitel; das Stück wird aber auf Theaterzetteln als »Posse in einem Aufzug« angekündigt.
-  - Nach Christoph Martin Wielands »Der Proceß um des Esels Schatten« aus den »Abderiten« (1774–1780).
   - Im fiktiven Ort [»Krähwinkel«](https://de.wikipedia.org/wiki/Kr%C3%A4hwinkel) (der zunächst von Jean Paul in seinen Werken verwendet wurde) spielt auch Kotzebues Drama [»Die deutschen Kleinstädter«](https://dracor.org/id/ger000225) (1803).
 keywords:
   - Wieland
   - Gerichtsverhandlung
   - Justizsatire
+ids:
+  wikidata: Q110891724
 cast:
   - name: Der Burgemeister.
     gender: m
@@ -53378,6 +53382,8 @@ keywords:
   - Religion
   - Moral
   - Pennsylvania
+ids:
+  wikidata: Q110891545
 cast:
   - name: Der englische General Howe.
     gender: m
