@@ -48,10 +48,11 @@
   "scripts": {
     "csv": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2csv.ts && cp ./data.csv ./public/",
     "json": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2json.ts && cp ./data.json ./src/ && cp ./data.json ./public/",
+    "beacon": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2beacon.ts",
     "authors": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-authors.ts",
     "locations": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-locations.ts",
     "start": "TAILWIND_MODE=watch yarn compile && yarn csv && yarn json && craco start",
-    "build": "yarn compile && yarn csv && yarn json && craco build",
+    "build": "yarn compile && yarn csv && yarn json && yarn beacon && craco build",
     "test": "yarn compile && yarn csv && yarn json && craco test",
     "extract": "lingui extract",
     "compile": "lingui compile",
