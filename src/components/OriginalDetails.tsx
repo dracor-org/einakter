@@ -12,10 +12,10 @@ import {sortByYear} from '../utils';
 import {localLanguageName} from '../languages';
 
 const OriginalDetails = () => {
-  const {originalId} = useParams<{originalId: string}>();
+  const {slug} = useParams<{slug: string}>();
   const {plays, originals} = useContext(EinakterContext);
 
-  const original = originals.find(o => o.id === originalId);
+  const original = originals.find(o => o.slug === slug);
 
   if (!original) {
     return <h1><Trans>Original not found</Trans></h1>;
@@ -23,7 +23,7 @@ const OriginalDetails = () => {
 
   const translations = plays.filter(p => p.basedOn?.find(
     (o: OriginalPlay | string) => {
-      if (typeof o !== 'string' && o.id === originalId) return true;
+      if (typeof o !== 'string' && o.slug === slug) return true;
       return false;
     }
   ));

@@ -15,13 +15,13 @@ import {EinakterContext} from '../context';
 import {CastMember, Play} from '../types';
 
 export default function Details () {
-  const { id } = useParams<{id: string}>();
+  const { slug } = useParams<{slug: string}>();
   const { pathname } = useLocation();
   const { plays: data } = useContext(EinakterContext);
 
   const groupIcon = <FontAwesomeIcon icon="users" size="sm" title={t`Group`}/>;
 
-  const play: Play | undefined = data.find((p: Play) => p.slug === id);
+  const play: Play | undefined = data.find((p: Play) => p.slug === slug);
 
   useEffect(() => {
     window.scrollTo(0, 0);

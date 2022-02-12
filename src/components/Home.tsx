@@ -35,7 +35,7 @@ export default function Home () {
           </p>
           <button
             className="rounded-lg bg-primary px-4 py-2 drop-shadow-lg hover:drop-shadow-md text-neutral-100"
-            onClick={() => navigate('/about', {replace: true})}
+            onClick={() => navigate('/about')}
           >
             <Trans>About the project</Trans>
           </button>
