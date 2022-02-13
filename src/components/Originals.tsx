@@ -16,10 +16,10 @@ function formatAuthor (_: string, play: OriginalPlay) {
 }
 
 function formatTitle (_: string, play: OriginalPlay) {
-  const {title, subtitle, id, ids: {dracor, wikidata} = {}} = play;
+  const {title, subtitle, slug, ids: {dracor, wikidata} = {}} = play;
   return (
     <span>
-      <Link className="text-lg" to={`/originals/${id}`}>{title}</Link>
+      <Link className="text-lg" to={`/originals/${slug}`}>{title}</Link>
       {subtitle && <small><br/>{subtitle}</small>}
       <div>
       {wikidata && (
