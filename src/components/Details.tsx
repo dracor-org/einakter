@@ -10,6 +10,7 @@ import Dictionaries from './Dictionaries';
 import Years from './Years';
 import GenderIcon from './GenderIcon';
 import IdLink from './IdLink';
+import IdCopy from './IdCopy';
 import BasedOn from './BasedOn';
 import {EinakterContext} from '../context';
 import {CastMember, Play} from '../types';
@@ -32,6 +33,7 @@ export default function Details () {
   }
   
   const {
+    id,
     title,
     subtitle,
     authors = [],
@@ -67,6 +69,7 @@ export default function Details () {
             </h2>
             <h1>{title}</h1>
             {subtitle && <h3>{subtitle}</h3>}
+            <IdCopy id={id} className="mt-1" />
           </hgroup>
         </div>
         <div>

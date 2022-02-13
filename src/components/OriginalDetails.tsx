@@ -4,6 +4,7 @@ import {Helmet} from "react-helmet";
 import {Trans} from '@lingui/macro';
 import {Table} from 'react-bootstrap';
 import Authors from './Authors';
+import IdCopy from './IdCopy';
 import IdLink from './IdLink';
 import Years from './Years';
 import {EinakterContext} from '../context';
@@ -29,6 +30,7 @@ const OriginalDetails = () => {
   ));
 
   const {
+    id,
     authors = [],
     title,
     subtitle,
@@ -54,6 +56,7 @@ const OriginalDetails = () => {
         </h2>
         <h1>{title}</h1>
         {subtitle && <h3>{subtitle}</h3>}
+        <IdCopy id={id}  className="mt-1" />
       </hgroup>
       <Table>
         <tbody>
