@@ -26,6 +26,7 @@ const Original = ({data}: Props) => {
 
   const {
     id,
+    slug,
     authors = [],
     title,
     subtitle,
@@ -55,7 +56,7 @@ const Original = ({data}: Props) => {
         </span>
       ))}
       {authors.length > 0 && ': '}
-      <a href={`/originals/${id}`} title={t`Originals`}>
+      <a href={`/originals/${slug}`} title={t`Originals`}>
        {title}
        {(subtitle && !title.match(/[.!?]\s*$/)) && '.'}
        {subtitle && ` ${subtitle}`}
