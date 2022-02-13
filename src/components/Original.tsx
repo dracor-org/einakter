@@ -21,7 +21,7 @@ interface Props {
 };
 
 const Original = ({data}: Props) => {
-  const {id: currentId} = useParams<{id: string}>();
+  const {slug: currentSlug} = useParams<{slug: string}>();
   const {plays} = useContext(EinakterContext);
 
   const {
@@ -37,7 +37,7 @@ const Original = ({data}: Props) => {
 
   const others = plays.filter((p) => p.basedOn?.find(
     (r: OriginalPlay | string) => 
-      typeof r !== 'string' && r.id === id && p.slug !== currentId
+      typeof r !== 'string' && r.id === id && p.slug !== currentSlug
   ));
 
   return (
