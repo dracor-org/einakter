@@ -47,9 +47,10 @@ export interface Setting {
 }
 
 export interface Play {
+  id: string
+  slug: string
   author?: Author
   authors?: Author[]
-  slug: string
   title: string
 
   basedOn?: (string | OriginalPlay)[]
@@ -78,6 +79,7 @@ export interface Play {
 
 export interface OriginalPlay {
   id: string
+  slug: string;
   author?: Author
   authors?: Author[]
   title: string

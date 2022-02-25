@@ -21,11 +21,12 @@ interface Props {
 };
 
 const Original = ({data}: Props) => {
-  const {id: currentId} = useParams<{id: string}>();
+  const {slug: currentSlug} = useParams<{slug: string}>();
   const {plays} = useContext(EinakterContext);
 
   const {
     id,
+    slug,
     authors = [],
     title,
     subtitle,
@@ -37,7 +38,7 @@ const Original = ({data}: Props) => {
 
   const others = plays.filter((p) => p.basedOn?.find(
     (r: OriginalPlay | string) => 
-      typeof r !== 'string' && r.id === id && p.slug !== currentId
+      typeof r !== 'string' && r.id === id && p.slug !== currentSlug
   ));
 
   return (
@@ -55,7 +56,7 @@ const Original = ({data}: Props) => {
         </span>
       ))}
       {authors.length > 0 && ': '}
-      <a href={`/originals/${id}`} title={t`Originals`}>
+      <a href={`/originals/${slug}`} title={t`Originals`}>
        {title}
        {(subtitle && !title.match(/[.!?]\s*$/)) && '.'}
        {subtitle && ` ${subtitle}`}

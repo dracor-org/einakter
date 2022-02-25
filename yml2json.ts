@@ -23,10 +23,10 @@ originals.forEach(o => {
 });
 
 interface Map<T> {
-  [id: string]: T
+  [slug: string]: T
 }
 const map: Map<OriginalPlay> = originals.reduce((acc, o) => {
-  acc[o.id as string] = o;
+  acc[o.slug as string] = o;
   return acc;
 }, {} as Map<OriginalPlay>);
 

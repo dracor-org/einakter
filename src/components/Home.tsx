@@ -1,10 +1,10 @@
 import React from 'react';
 import {Helmet} from 'react-helmet';
-import {Link, useHistory} from 'react-router-dom';
+import {Link, useNavigate} from 'react-router-dom';
 import {Trans, t} from '@lingui/macro';
 
 export default function Home () {
-  const history = useHistory();
+  const navigate = useNavigate();
 
   return (
     <div className="page p-4 mt-8 markdown max-w-full">
@@ -35,7 +35,7 @@ export default function Home () {
           </p>
           <button
             className="rounded-lg bg-primary px-4 py-2 drop-shadow-lg hover:drop-shadow-md text-neutral-100"
-            onClick={() => history.push('/about')}
+            onClick={() => navigate('/about')}
           >
             <Trans>About the project</Trans>
           </button>
