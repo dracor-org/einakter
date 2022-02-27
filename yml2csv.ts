@@ -17,6 +17,7 @@ try {
 }
 
 const cols = [
+  'id',
   'link', // (the slug, but as clickable link for convenience)
   'title',
   'subtitle',
@@ -30,6 +31,7 @@ const cols = [
   'keywords', // (in one cell, separated by a line break)
   'wikidataID', // (as full URL to be clickable for convenience)
   'dracorID', // (as full URL to be clickable for convenience)
+  'wegaId',
   'locationID', // (as full URL to be clickable for convenience)
   'numberOfScenes',
   'numberOfCharacters',
@@ -59,6 +61,7 @@ const lines = data.map((p: Play) => {
     formalia: p.formalia?.join('\n'),
     keywords: p.keywords?.join('\n'),
     dracorID: p.ids?.dracor ? `https://dracor.org/id/${p.ids.dracor}` : '',
+    wegaId: p.ids?.weber ? `http://weber-gesamtausgabe.de/${p.ids.weber}` : '',
     wikidataID: p.ids?.wikidata
       ? `http://wikidata.org/entity/${p.ids.wikidata}` : '',
     locationID: locationId
