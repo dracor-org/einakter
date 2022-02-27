@@ -13,14 +13,14 @@ try {
 
 let beacon = `#FORMAT: BEACON
 #PREFIX: http://www.wikidata.org/entity/
-#TARGET: https://einakter.dracor.org/
+#TARGET: https://einakter.dracor.org/id/{ID}
 #NAME: Einakter Datenbank
 #FEED: https://einakter.dracor.org/wikidata.txt
 
 `;
 
 data.filter((p: Play) => p.ids?.wikidata).forEach((p: Play) => {
-  beacon += `${p.ids?.wikidata}||${p.slug}\n`;
+  beacon += `${p.ids?.wikidata}||${p.id}\n`;
 });
 
 writeFileSync('./public/wikidata.txt', beacon);
