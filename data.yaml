@@ -26793,6 +26793,8 @@ formalia:
 editions:
   - title: "Dramatische Spiele von C. Costenoble. Ein Taschenbuch für 1811. Hamburg: Schmidt [1811], S. 311–360"
     url: https://books.google.com/books?id=lx515clPwbUC&pg=PA311
+  - title: "Gesänge aus Fehlgeschossen! Vaudeville in einem Act. Hamburg: Nestler [ohne Jahr]"
+    url: https://books.google.com/books?id=qb-NZQnJRO0C&printsec=frontcover
 cast:
   - name: Albert,
     role: ein junger Drechsler.
@@ -46716,6 +46718,49 @@ cast:
     role: des Hofraths Bedienter.
     gender: m
 ---
+id: ein002367
+slug: iffland-die-einung
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Die Einung
+subtitle: Ein Schauspiel in einem Aufzuge
+numberOfScenes: 18
+printed: 1809
+premiered: 1809-12-25
+formalia:
+  - Prosa
+dictionaries:
+  - name: iffland
+    pages: S. 54–56
+editions:
+  - title: "Almanach fürs Theater 1809 von Auf. Wilh. Iffland. Berlin: Braunes 1809, S. 217–316"
+    url: https://books.google.com/books?id=YENXAAAAcAAJ&pg=PA217
+  - title: "Berlin: Braunes 1811"
+  - title: "Theater von Aug. Wilh. Iffland. Erste vollständige Ausgabe. Mit Biographie, Portrait und Facsimile des Verfassers. Dreiundzwanzigster Band. Wien: Klang 1843, S. 245–298"
+    url: https://books.google.com/books?id=I38WAQAAMAAJ&pg=PA245
+comments:
+  - "Hinweis auf Einaktigkeit erst im Einzeldruck 1811; Untertitel im Erstdruck 1809: »Dialog für Gesellschaftstheater.«"
+keywords:
+  - Geld
+  - Vater-Sohn-Konflikt
+cast:
+  - name: Geheimerath Fald.
+    gender: m
+  - name: Geheimeräthin.
+    gender: f
+  - group:
+      - name: Jakob,
+        gender: m
+      - name: Emil,
+        gender: m
+    role: deren Kinder.
+  - name: Kanonikus Scheuer.
+    gender: m
+  - name: Eckers,
+    role: Schreiber des Geheimeraths.
+    gender: m
+---
 id: ein001091
 slug: iffland-die-gefluechteten
 author:
@@ -46915,6 +46960,17 @@ settings:
   - description: Die Handlung geht zu Auteuil bey Dürmont vor.
     location:
       wikidataId: Q18199480
+---
+id: ein002366
+slug: iffland-die-ringe
+author:
+  name: Iffland, August Wilhelm
+  wikidata: Q215115
+title: Die Ringe
+subtitle: Ländliche Handlung in Einem Aufzuge
+premiered: 1813-10-24
+comments:
+  - "Theaterzettel: [Berlin 1813](http://berlinerklassik.bbaw.de/BK/theater/Theaterveranstaltung_Details?thveranstaltung_id=7599)."
 ---
 id: ein001095
 slug: iffland-die-verbruederung
@@ -60696,6 +60752,8 @@ editions:
     url: https://books.google.com/books?id=C3wHAAAAQAAJ&pg=PA1
   - title: "Vor- und Nachspiele für die Bühne von C. Lebrün. Erster Band. Mainz: Kupferberg 1833"
     url: https://books.google.com/books?id=NQhTAAAAcAAJ&pg=RA3-PA1
+reviews:
+  - "Leipziger Literatur-Zeitung für das Jahr 1825. Erstes Halbjahr. No. 137 (7. Juni 1825). Leipzig: Breitkopf und Härtel 1825, [Sp. 1089–1090](https://books.google.com/books?id=cV8gAQAAMAAJ&pg=PA1089)."
 keywords:
   - Verkleidungsspiel
   - Eheanbahnung
@@ -81937,6 +81995,42 @@ settings:
   - description: >-
       Ein Garten. Unter einigen Bauemen ein Sitz nicht fern von einem Gegitter, welches auf die Landstrasse fuihrt. Im Grunde ein Steigweg, der zum Dorfe fuihrt. Nina ruhet, ohne dass man sie sieht. Elise ist auf der Buihne von einigen Bauern umgeben, an deren Spitze Gottfried ist. Einige steigen den Weg herab, andere sind noch auf demselben.
 ---
+id: ein002365
+slug: bornschein-braut-und-braeutigam-in-der-klemme
+author:
+  name: Bornschein, Johann Ernst Daniel
+  wikidata: Q1693352
+title: Braut und Bräutigam in der Klemme
+subtitle: Eine Posse in einem Akte vom Herrn Lümmel von Lümmelsdorf. Nach dem Französischen frei bearbeitet
+numberOfScenes: 9
+printed: 1802
+formalia:
+  - Prosa
+editions:
+  - title: "Coburg: Ahl 1802"
+    url: https://books.google.com/books?id=iH86AAAAcAAJ&pg=PA1
+reviews:
+  - "Neue Allgemeine Deutsche Bibliothek. Sieben und siebenzigsten Bandes Zweytes Stück. Fünftes Heft. Berlin und Stettin: Nicolai 1803, [S. 326](https://books.google.com/books?id=XVVKAAAAcAAJ&pg=PA326)."
+cast:
+  - name: Frau von Morgenstern,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Herr von Abendstern,
+    role: ein Glücksritter.
+    gender: m
+  - name: Zachäus Schnitzebret,
+    role: Gastwirth zur goldenen Kanone.
+    gender: m
+  - name: Eine Galanteriehändlerin.
+    gender: f
+  - name: Ein Kaufmannsdiener.
+    gender: m
+  - name: Ein Hausknecht.
+    gender: m
+settings:
+  - description: >-
+      Die Scene ist in einer großen Stadt.
+---
 id: ein001919
 slug: both-der-erbe
 author:
@@ -84847,7 +84941,7 @@ editions:
 comments:
   - Erstdruck posthum 1825, genaues Entstehungsdatum bisher nicht ermittelt, terminus ante quem ist 1813, Sessas Todesjahr.
 reviews:
-  - "Leipziger Literatur-Zeitung für das Jahr 1825. Erstes Halbjahr. No. 137 (7. Juni 1825). Leipzig: Breitkopf und Härtel 1825, [S. 1091](https://books.google.com/books?id=cV8gAQAAMAAJ&pg=PA1091)."
+  - "Leipziger Literatur-Zeitung für das Jahr 1825. Erstes Halbjahr. No. 137 (7. Juni 1825). Leipzig: Breitkopf und Härtel 1825, [Sp. 1091](https://books.google.com/books?id=cV8gAQAAMAAJ&pg=PA1091)."
 cast:
   - name: Frau Hedwig,
     role: eine Bauerswittwe.
