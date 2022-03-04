@@ -14,7 +14,7 @@ try {
 let beacon = `#FORMAT: BEACON
 #PREFIX: http://www.wikidata.org/entity/
 #TARGET: https://einakter.dracor.org/id/{ID}
-#NAME: Einakter Datenbank
+#NAME: Einakter-Datenbank
 #FEED: https://einakter.dracor.org/wikidata.txt
 
 `;
