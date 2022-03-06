@@ -5026,6 +5026,21 @@
     "death": {},
     "gender": "male"
   },
+  "Q94528829": {
+    "name": "Joseph Passy",
+    "gnd": "140879226",
+    "birth": {
+      "date": "1786-09-04T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1820-08-31T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male"
+  },
   "Q30541298": {
     "name": "Karl Michael von Pauerspach",
     "gnd": "11859205X",
@@ -5611,6 +5626,17 @@
     },
     "gender": "male"
   },
+  "Q111128009": {
+    "name": "Johann Riedinger",
+    "gnd": "1019963468",
+    "birth": {
+      "date": "1751-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1827-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q94529541": {
     "name": "Franz von Riesch",
     "gnd": "116544716",
@@ -5770,6 +5796,21 @@
     },
     "death": {
       "date": "1800-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
+  "Q60840903": {
+    "name": "Karl Friedrich August Rublack",
+    "gnd": "117598410",
+    "birth": {
+      "date": "1787-08-24T00:00:00Z",
+      "place": "Lieberose",
+      "placeId": "http://www.wikidata.org/entity/Q584485"
+    },
+    "death": {
+      "date": "1854-11-04T00:00:00Z",
+      "place": "Marbach",
+      "placeId": "http://www.wikidata.org/entity/Q1892391"
     },
     "gender": "male"
   },
@@ -5988,6 +6029,22 @@
     },
     "gender": "male",
     "ambiguous": true
+  },
+  "Q107267": {
+    "name": "Friedrich Gustav Schilling",
+    "gnd": "117269891",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FriedrichGustavSchilling.jpg",
+    "birth": {
+      "date": "1766-11-25T00:00:00Z",
+      "place": "Dresden",
+      "placeId": "http://www.wikidata.org/entity/Q1731"
+    },
+    "death": {
+      "date": "1839-07-30T00:00:00Z",
+      "place": "Dresden",
+      "placeId": "http://www.wikidata.org/entity/Q1731"
+    },
+    "gender": "male"
   },
   "Q15873118": {
     "name": "Johann Friedrich Schink",

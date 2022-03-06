@@ -2574,6 +2574,39 @@ settings:
   - description: >-
       Ein möglichst eleganter Saal im Casino, mit offener Mittelthür, durch welche man in den Corridor sehen kann. Zwei Seitenthüren. Vorn rechts ein Tisch mit angezündeten Lichtern, links ein Stehspiegel.
 ---
+id: ein002376
+slug: anonym-aglae
+author:
+  pseudonym: Anonym
+title: Aglae
+subtitle: Eine neue Comödie des Herrn Sivry in einem Ackte; Aus dem Französischen hier in Hamburg übersetzt
+premiered: 1766-08-07
+basedOn:
+  - poinsinet-de-sivry-aglae
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 21, S. 449
+reviews:
+  - "Unterhaltungen. Dritten Bandes Drittes Stück. Monat März. Hamburg: Bock 1767, [S. 271](http://digital.slub-dresden.de/id373291167-17670300/283)."
+cast:
+  - name: Palemon,
+    role: Liebhaber der Aglae.
+    gender: m
+  - name: Aglae.
+    gender: f
+  - name: Rodope,
+    role: ihre Schwester.
+    gender: f
+  - name: Erasthen,
+    role: ein junger flatterhafter Mensch, Aglaens Liebhaber.
+    gender: m
+  - name: Glycere,
+    role: Bediente des Palemon.
+    gender: m
+  - name: Dromon,
+    role: Bedienter eines Bildhauers.
+    gender: m
+---
 id: ein000057
 slug: anonym-alberik
 author:
@@ -6364,6 +6397,22 @@ cast:
 settings:
   - description: >-
       Zimmer in einem Gasthofe, an der Wand hängt ein größeres und ein kleineres Bild.
+---
+id: ein002378
+slug: anonym-der-schatzgraeber-oder-der-geprellte-geizhals
+author:
+  pseudonym: Anonym
+title: Der Schatzgräber oder Der geprellte Geizhals
+subtitle: Lustspiel in einem Aufzug 
+printed: 1799
+basedOn:
+  - hoffman-le-tresor-suppose
+editions:
+  - title: "Breslau: Meyer 1799"
+comments:
+  - "Bibliografische Angaben aus David G. John: The German Nachspiel in the Eighteenth Century. University of Toronto Press 1991, S. 373. ([doi:10.3138/9781442675308](https://doi.org/10.3138/9781442675308))"
+ids:
+  weber: A021412
 ---
 id: ein000149
 slug: anonym-der-schoene-geist
@@ -26585,6 +26634,44 @@ settings:
   - description: >-
       Saal im blauen Huhn.
 ---
+id: ein002368
+slug: costenoble-die-steckenpferde
+author:
+  name: Costenoble, Karl Ludwig
+  wikidata: Q1732203
+title: Die Steckenpferde
+subtitle: Lustspiel in einem Aufzuge
+numberOfScenes: 17
+printed: 1810
+premiered: 1800-08-15
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dramatische Spiele von C. Costenoble. Ein Taschenbuch für 1810. Hamburg: Perthes [1810], S. 1–60"
+comments:
+  - "Theaterzettel: [Hamburg 1810](https://www.stadttheater.uni-hamburg.de/system/files/1810-02-26.pdf)."
+cast:
+  - name: Wasserdamm,
+    role: Bürgermeister.
+    gender: m
+  - name: Petronella,
+    role: seine Gattin.
+    gender: f
+  - name: Ulrike,
+    role: deren Tochter.
+    gender: f
+  - name: Erlenbach,
+    role: Rath.
+    gender: m
+  - name: Baron von Tigerstein.
+    gender: m
+  - name: Philipp,
+    role: sein Kammerdiener.
+    gender: m
+settings:
+  - description: >-
+      Zimmer bei Tigerstein.
+---
 id: ein000618
 slug: costenoble-die-terne
 author:
@@ -26897,7 +26984,7 @@ subtitle: Schauspiel in einem Aufzuge
 numberOfScenes: 13
 printed: 1811
 formalia:
-  - Verse
+  - Blankvers
 editions:
   - title: "Dramatische Spiele von C. Costenoble. Ein Taschenbuch für 1811. Hamburg: Schmidt [1811], S. 1–70"
     url: https://books.google.com/books?id=lx515clPwbUC&pg=PA1
@@ -26910,7 +26997,7 @@ cast:
     gender: f
   - name: Herrmann,
     role: ihr Sohn.
-    gender: f
+    gender: m
   - name: Sommer.
     gender: m
 settings:
@@ -30328,6 +30415,28 @@ settings:
       wikidataId: Q90
   - description: >-
       Zimmer, hinter dem Laden eines Seidenwaaren-Magazins. Mittelthür; Rechts, in der Ecke, ein Schreib- und Zahltisch, daneben eine Cabinetsthür. Einige Ballen und Packete liegen umher. Im Vordergrunde links ein Tisch, Stühle.
+---
+id: ein002372
+slug: ernst-thaliens-glueckwunsch
+author:
+  name: Ernst, Joseph Carl
+title: Thaliens Glückwunsch
+subtitle: Festspiel in einem Aufzuge
+numberOfScenes: 1
+printed: 1826
+formalia:
+  - Vers commun
+editions:
+  - title: "Nützliches Theaterrequisit, besonders für mittlere und reisende Bühnen. Herausgegeben von E. Wehrmann und A. F. Oldenburg. Rathenow: Flick 1826, S. 43–48"
+    url: https://books.google.com/books?id=lxzgGy7gmxMC&pg=PA43
+keywords:
+  - Monodrama
+cast:
+  - name: Thalia.
+    gender: f
+settings:
+  - description: >-
+      Die Ouvertüre bleibt weg, und erst bei dem Aufrollen der Gardine beginnt eine sanfte Harmonie. Es ist vor Sonnenaufgang. Nach einer Weile schweben die Horen des Tages, alle drei einen Blumenkranz haltend, und selbst mit Blumen geschmückt, wie im Tanz verschlungen, langsam über die Bühne hin. Die Symphonie verhallt leise, und der Morgen bricht allmählig an.
 ---
 id: ein000709
 slug: eugen-der-zerbrochene-wagen
@@ -49062,7 +49171,7 @@ editions:
   - title: "Friedrich Kind's Theaterschriften. Zweiter Band. Leipzig: Göschen 1823, S. 181–238"
     url: https://books.google.com/books?id=NUGUkJGNwm8C&pg=PA181
 comments:
-  - "[Theaterzettel](https://www.stadttheater.uni-hamburg.de/node/12894) zur Aufführung in Hamburg 1814."
+  - "Theaterzettel: [Hamburg 1814](https://www.stadttheater.uni-hamburg.de/node/12894)."
 cast:
   - name: Der Prinz.
     gender: m
@@ -61649,6 +61758,28 @@ settings:
   - description: >-
       Das Theater stellt eine kleinere Abtheilung der herrschaftlichen Küche vor; an der Seite ein Windofen, in welchem Feuer brennt. Ein Schrank mit Casserollen, Kochlöffeln und anderem Küchengeräth nebst einigen Büchern und ein langer Anrichttisch stehen umher, an jeder Seite eine Thür. Durch den offenen Eingang in der Mitte sieht man die große Küche, worin Alles in voller Thätigkeit ist.
 ---
+id: ein002371
+slug: lembert-der-maennerspiegel
+author:
+  name: Lembert, Johann Wenzel
+  wikidata: Q17352902
+title: Der Männerspiegel
+subtitle: Lustspiel in Alexandrinern in 1 Aufzug
+premiered: 1813-03-18
+formalia:
+  - Alexandriner
+reviews:
+  - "Der Sammler. Nr. 101 (Samstag, den 26. Juny 1813), [S. 404](https://books.google.com/books?id=1YVMca4dHQoC&pg=PA404)."
+ids:
+  weber: A021320
+cast:
+  - name: Baron.
+    gender: m
+  - name: Baroninn.
+    gender: f
+  - name: Helene.
+    gender: f
+---
 id: ein001438
 slug: lembert-der-mentor
 author:
@@ -65330,7 +65461,7 @@ editions:
   - title: "Der kleine Proteus. Dramatische Aufgabe in einem Akt. Nach einem, im k. k. Hoftheater zu Wien gegebenem Lustspiele dieses Titels bearbeitet. In: Spenden für Freunde des Scherzes. Von A. Albini. Berlin: Hold 1827, S. 315–348"
     url: https://books.google.com/books?id=I-POreazhqkC&pg=PA315
 reviews:
-  - "Der Sammler. 49 (Samstag, den 26. März 1814), [S. 196](https://books.google.com/books?id=IUdgiLbZib8C&pg=PA196)."
+  - "Der Sammler. Nr. 49 (Samstag, den 26. März 1814), [S. 196](https://books.google.com/books?id=IUdgiLbZib8C&pg=PA196)."
 keywords:
   - Vater-Tochter-Konflikt
 cast:
@@ -70758,6 +70889,19 @@ settings:
     location:
       wikidataId: Q1741
 ---
+id: ein002370
+slug: passy-die-verschreibung
+author:
+  name: Passy, Joseph
+  wikidata: Q94528829
+title: Die Verschreibung
+subtitle: Lustspiel in 1 Aufzuge
+premiered: 1810-09-28
+formalia:
+  - Alexandriner
+ids:
+  weber: A020426
+---
 id: ein001652
 slug: pauersbach-der-herr-gevatter-etwas-fuer-land-und-eheleute
 author:
@@ -72729,7 +72873,7 @@ numberOfScenes: 17
 printed: 1821
 premiered: 1820-08-06
 formalia:
-  - fünfhebiger gereimter Jambus
+  - Vers commun
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 23, S. 436–437
@@ -75213,6 +75357,20 @@ cast:
     gender: m
 settings:
   - description: Die Handlung ist nahe bey einem, dem Pan geweihten Hayne.
+---
+id: ein002377
+slug: riedinger-ariadne-und-bacchus
+author:
+  name: Riedinger, Johann
+  wikidata: Q111128009
+title: Ariadne und Bacchus
+subtitle: Ein Melodrama in einem Aufzuge. In Musik gesetzt vom Fräulein v. Paradies
+premiered: 1791-06-20
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 423
+reviews:
+  - "Musikalisches Wochenblatt. Organ für Musiker und Musikfreunde. V. Jahrg., No. 16 (Leipzig, am 17. April 1874), [S. 200](https://books.google.com/books?id=59ZkAAAAcAAJ&pg=PA200)."
 ---
 id: ein001755
 slug: riesch-die-werbung
@@ -77856,6 +78014,48 @@ settings:
   - description: >-
       Die Scene öfnet sich Anfangs in einer gewissen Stadt in der Wohnung des Grafen von Edelmut; nachhin auf einem naheliegenden Landgasthofe.
 ---
+id: ein002369
+slug: rublack-liebe-um-liebe
+author:
+  name: Rublack, August
+  wikidata: Q60840903
+title: Liebe um Liebe
+subtitle: Schauspiel in einem Akt mit Chören
+numberOfScenes: 7
+printed: 1818
+premiered: 1818-09-20
+formalia:
+  - Vers commun
+editions:
+  - title: "[Ohne Ort] [1818]"
+    url: http://digital.slub-dresden.de/id1667374834/3
+ids:
+  weber: A021210
+cast:
+  - name: Ein Greis.
+    gender: m
+  - name: Seine Tochter.
+    gender: f
+  - group:
+      - name: Ein Schiffer,
+        gender: m
+      - name: Ein Landmann,
+        gender: m
+      - name: Ein Künstler,
+        gender: m
+    role: seine Söhne.
+  - name: Ein Knabe.
+    gender: m
+  - name: Landleute.
+    isGroup: true
+    gender: u
+  - name: Schiffer.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Tempelhalle mit offenem Prospect, den zwei sich deckende Hügel so schließen, daß durch ihren Einschnitt noch das Meer sichtbar ist. Gewitter-Nacht; fernes Wetterleuchten und Donner, sich immer mehr im Schimmer der Morgenröthe verlierend. In der Mitte des Theaters ein leeres Piedestal.
+---
 id: ein001817
 slug: saal-der-geizige
 author:
@@ -79600,6 +79800,21 @@ settings:
   - description: >-
       Bauernstube mit einer Thüre und einem Fenster auf die Straße.
 ---
+id: ein002375
+slug: schilling-die-flitterwochen
+author:
+  name: Schilling, Gustav
+  wikidata: Q107267
+title: Die Flitterwochen
+subtitle: Lustspiel in 1 Akt nach einer Erzählung gleichen Namens in der Abendzeitung
+premiered: 1818-12-03
+reviews:
+  - "Abend-Zeitung. Nr. 301 (Freitag, am 18. December, 1818), [unpag.](https://books.google.com/books?id=A0P1xXk9QqEC&pg=RA46-PT1)"
+comments:
+  - "Vorlage: »Die Flitterwoche. Eine komische Erzählung«, abgedruckt in der Abend-Zeitung. [Nummer 95–98](http://digital.slub-dresden.de/id399196951-18170421/1)."
+ids:
+  weber: A021261
+---
 id: ein001860
 slug: schilling-die-nebenbuhlerin
 author:
@@ -81014,6 +81229,15 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist auf einem freyen Platz, nahe an der Kirchhofmauer, die eine praktikable Thür hat, auf der einen Seite im Winkel steht ausserhalb der Mauer eine große Linde, an deren Fuß ein Grab Hügel ist. Vorne Links stehen zwey schlechte Bauernhütten. Vor der einen einige Bäume unter denen Tisch und Bänke sind.
+---
+id: ein002373
+slug: schletter-mutterliebe-oder-nicht-general-nicht-graf-doch-korporal
+author:
+  name: Schletter, Salomo Friedrich
+  wikidata: Q94892046
+title: "Mutterliebe, oder: nicht General, nicht Graf, doch Korporal und brav"
+subtitle: Ein Lustspiel in 1 Akt
+premiered: 1801-06-01
 ---
 id: ein001894
 slug: schletzer-liebeswuth
@@ -87380,6 +87604,16 @@ settings:
       Ort der Handlung: das Städtchen Stratfort in Warwickshire. Zeit: 1588.
     location:
       wikidataId: Q189288
+---
+id: ein002374
+slug: steinmetz-der-handschuh
+author:
+  name: Steinmetz, Freiherr von
+title: Der Handschuh
+subtitle: Lustspiel in 1 Akt
+premiered: 1815-10-06
+ids:
+  weber: A020862
 ---
 id: ein002045
 slug: steinsberg-der-tuerk-und-der-britte
@@ -95475,7 +95709,7 @@ numberOfScenes: 4
 printed: 1826
 premiered: 1823-08-03
 formalia:
-  - gereimte fünfhebige Jamben
+  - Vers commun
 editions:
   - title: "Nützliches Theaterrequisit, besonders für mittlere und reisende Bühnen. Herausgegeben von E. Wehrmann und A. F. Oldenburg. Rathenow: Flick 1826, S. 31–42"
     url: https://books.google.com/books?id=lxzgGy7gmxMC&pg=PA31
