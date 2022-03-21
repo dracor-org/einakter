@@ -6403,7 +6403,7 @@ slug: anonym-der-schatzgraeber-oder-der-geprellte-geizhals
 author:
   pseudonym: Anonym
 title: Der Schatzgräber oder Der geprellte Geizhals
-subtitle: Lustspiel in einem Aufzug 
+subtitle: Lustspiel in einem Aufzug
 printed: 1799
 basedOn:
   - hoffman-le-tresor-suppose
@@ -20669,7 +20669,7 @@ basedOn:
   - rochon-de-chabannes-heureusement
 dictionaries:
   - name: bibliographia
-    pages: 2. Abteilung, Band 20, S. 413
+    pages: 2. Abteilung, Band 20, S. 413, und Band 29, S. 88
 editions:
   - title: "Braunschweig: Verlag der Fürstlichen Waysenhausbuchhandlung 1763"
     url: https://books.google.com/books?id=ua_RAcCHnKUC&printsec=frontcover
@@ -24765,7 +24765,7 @@ cast:
     gender: u
 settings:
   - description: >-
-      Die Handlung ist auf er Sonnenburg, dem Schlosse des Grafen.
+      Die Handlung ist auf der Sonnenburg, dem Schlosse des Grafen.
 ---
 id: ein000574
 slug: chezy-der-neue-narziss
@@ -28599,7 +28599,7 @@ formalia:
   - Prosa
 dictionaries:
   - name: bibliographia
-    pages: 2. Abteilung, Band 28, S. 392–393, und Band 289, S. 170
+    pages: 2. Abteilung, Band 28, S. 392–393, und Band 29, S. 170
 editions:
   - title: "Lustspiele aus der Brandenburgischen Geschichte gezogen. Leipzig: Dyk 1783, S. 241–330"
     url: https://books.google.com/books?id=LsdIAAAAcAAJ&pg=PA241
@@ -33203,6 +33203,38 @@ settings:
   - description: >-
       Ein Zimmer mit zwei Tischen, einer Haupt- und zwei Seitenthüren. Rosalie an dem einen Tische lesend, Wall an dem andern.
 ---
+id: ein002380
+slug: gehe-die-schifffahrt
+author:
+  name: Gehe, Eduard Heinrich
+  wikidata: Q1288681
+title: Die Schifffahrt
+subtitle: Lustspiel in einem Akte (Nach einer Erzählung.)
+numberOfScenes: 1
+printed: 1823
+formalia:
+  - Alexandriner
+editions:
+  - title: "W. G. Becker's Taschenbuch zum geselligen Vergnügen. Herausgegeben von Friedrich Kind. Auf das Jahr 1823. Leipzig: Göschen; Wien: Gerold [1823], S. 165–203"
+    url: https://books.google.com/books?id=489XAAAAcAAJ&pg=PA165
+reviews:
+  - "Heidelberger Jahrbücher der Literatur. Nro. 11 (1823), [S. 176](https://books.google.com/books?id=H8EEAAAAQAAJ&pg=PA176)."
+keywords:
+  - Ehe
+cast:
+  - name: Der Baron.
+    gender: m
+  - name: Die Baronin.
+    gender: f
+  - name: Lisette,
+    role: das Kammermädchen.
+    gender: f
+  - name: Ein Schiffskoch.
+    gender: m
+settings:
+  - description: >-
+      Scene, ein Schiffsgemach mit einer Haupt- und einer Seitenthür.
+---
 id: ein000776
 slug: geisler-der-schwaezer
 author:
@@ -34810,6 +34842,10 @@ dictionaries:
 editions:
   - title: "Leipzig: Dyk 1781"
     url: http://resolver.staatsbibliothek-berlin.de/SBB0000BF2A00000000
+keywords:
+  - Liebesprobe
+  - Eifersucht
+  - Ehe
 cast:
   - name: Der Graf von Lindenhall.
     gender: m
@@ -42461,6 +42497,9 @@ formalia:
 editions:
   - title: "Dramatische Kleinigkeiten von Herzenskron. Sechster Band. Wien: Volckmar 1839, S. 121–158"
     url: https://books.google.com/books?id=FCXiAAAAMAAJ&pg=RA1-PA121
+keywords:
+  - Eheanbahnung
+  - Verkleidungsspiel
 cast:
   - name: Willmers.
     gender: m
@@ -64117,6 +64156,8 @@ formalia:
 editions:
   - title: "Dramatische Einfälle von A. v. Maltitz. München: Franz 1838, S. 275–312"
     url: https://books.google.com/books?id=tqs6AAAAcAAJ&pg=PA275
+keywords:
+  - Verkleidungsspiel
 cast:
   - name: Der Botschafter.
     gender: m
@@ -64133,7 +64174,7 @@ cast:
   - name: Attaché's Gattin.
     gender: f
   - name: Surnuméraire,
-    role: Bruder des Attaché und als Courier eintreffend
+    role: Bruder des Attaché und als Courier eintreffend.
     gender: m
   - name: Haushofmeister.
     gender: m
@@ -91558,10 +91599,59 @@ settings:
   - description: >-
       Das Theater stellt ein reinlich aber nicht kostbar ausgeziertes Zimmer vor. Auf einem Tisch bemerkt man ein halbabgebranntes Wachslicht nebst einer Stickerei und einem offenen Kästchen mit Briefschaften. Charlotte hatte die ganze Nacht gewacht um die Briefe zu lesen, die sie von ihrem Mann aus Martinique erhalten, wo er sich Geschäfte halber seit sechs Monaten aufhält. Der Schlaf hat sie während dieser Beschäftigung überfallen; mit dem Kopf auf eine Hand gestützt, ist sie in einen tiefen Schlaf versunken, die andere worin sie nachläßig einen Brief hält, ruhet auf ihrem Schoos. – Man hört den Lärm einer wiederholten Losfeuerung der Artillerie, und das Getöse der Trommeln.
 ---
+id: ein002379
+slug: vanoni-der-friseur
+author:
+  name: Vanoni, B.
+  wikidata: Q111314114
+title: Der Friseur
+subtitle: Schwank in 1 Aufzuge
+printed: 1843
+premiered: 1843-05-19
+formalia:
+  - Prosa
+editions:
+  - title: "München 1843"
+reviews:
+  - "Der Bayerische Eilbote. No. 61 (Sonntag, den 21. Mai. München, 1843), [S. 486–487](https://books.google.com/books?id=VDxEAAAAcAAJ&pg=PA486)."
+  - "Bühnenwelt. Blätter für dramaturgische und belletristische Unterhaltung. Nro. 22 (Nürnberg. Juni 1843), [S. 349](https://books.google.com/books?id=Q_NFAAAAcAAJ&pg=PA349)."
+  - "Der Humorist. Nr. 146 (Montag, den 24. Juli 1843), [S. 591](https://books.google.com/books?id=oOTDeZjFtBYC&pg=PA591)."
+comments:
+  - "Theaterzettel: [München 1843](https://books.google.com/books?id=-S1DAAAAcAAJ&pg=PA65-IA67)."
+cast:
+  - name: Herr von Gumpelheim.
+    gender: m
+  - name: Baron von Merseburg.
+    gender: m
+  - name: Baron von Flitterfeld.
+    gender: m
+  - name: Emilie,
+    role: seine Schwester.
+    gender: f
+  - name: Herr von Hasenhein.
+    gender: m
+  - name: Herr Schnappel.
+    gender: m
+  - name: Emma,
+    role: seine Frau.
+    gender: f
+  - name: Narcißus Hasenfuß,
+    role: ein Friseur.
+    gender: m
+  - name: Valentin,
+    role: v. Hasenbeins Bedienter.
+    gender: m
+  - name: Diener im von Kalksteinischen Hause.
+    isGroup: true
+    gender: m
+  - name: Ein Polizeicommissär.
+    gender: m
+---
 id: ein002137
 slug: vanoni-zur-gesundheit
 author:
   name: Vanoni, B.
+  wikidata: Q111314114
 title: Zur Gesundheit!
 subtitle: Lustspiel in einem Akt
 numberOfScenes: 11
@@ -91571,8 +91661,8 @@ formalia:
 editions:
   - title: "München 1841"
     url: https://books.google.com/books?id=svFVGEeGU_oC&printsec=frontcover
-comments:
-  - "Erwähnung in: Allgemeine Theaterzeitung, Originalblatt für Kunst, Literatur, Musik, Mode und geselliges Leben, 3. August 1842, [S. 823](https://books.google.com/books?id=CJV_304uEScC&pg=PA823)."
+reviews:
+  - "Allgemeine Theaterzeitung. Originalblatt für Kunst, Literatur, Musik, Mode und geselliges Leben. Nro. 184 (Wien, Mittwoch den 3. August 1842), [S. 823](https://books.google.com/books?id=CJV_304uEScC&pg=PA823)."
 cast:
   - name: Herr von Mosack,
     role: Tabackfabrikant.
@@ -91619,10 +91709,10 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Nachspiele. Erster Jahrgang, für 1822. Herausgegeben von Carl von Holtei. Breslau: Graß, Barth & Co.; Leipzig: Barth [1822], S. 1–32"
     url: https://books.google.com/books?id=BmdIAQAAMAAJ&pg=PA1
-ids:
-  weber: A021506
 reviews:
   - "Abend-Zeitung. Nr. 35 (Mittwoch, am 11. Februar, 1818), [unpag.](https://books.google.com/books?id=C59TAAAAcAAJ&pg=PP154)"
+ids:
+  weber: A021506
 cast:
   - name: Oberförster Wolf.
     gender: m
@@ -98691,11 +98781,19 @@ title: Die Macht der Zeit
 subtitle: Lustspiel in einem Act
 numberOfScenes: 8
 printed: 1822
+premiered: 1821
 formalia:
   - Prosa
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Zwanzigster Jahrgang. Leipzig: Kummer 1822, S. 299–326"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044934_00313.html
+comments:
+  - "Theaterzettel: [Königsberg 1821](https://archiv.adk.de/objekt/3013986)."
+reviews:
+  - "Allgemeines Repertorium der neuesten in- und ausländischen Literatur für 1821. Herausgegeben von einer Gesellschaft Gelehrter und besorgt von Christian Daniel Beck. No. 23. Vierter Band. 5tes Stück. Leipzig: Cnobloch 1821, [S. 387](https://books.google.com/books?id=qOFMAAAAcAAJ&pg=PA387)."
+  - "Literarisches Conversations-Blatt. Nr. 36 (13. Februar 1823), [S. 142](https://books.google.com/books?id=uhhBAQAAMAAJ&pg=PA151-IA23)."
+keywords:
+  - Eheanbahnung
 cast:
   - name: Richard,
     role: Freiherr von Wiesen.
