@@ -1939,10 +1939,18 @@
     },
     "gender": "male"
   },
-  "Q94837762": {
-    "name": "Q94837762",
-    "birth": {},
-    "death": {}
+  "Q81396760": {
+    "name": "Friedrich Wilhelm Gabriel",
+    "gnd": "116327413",
+    "birth": {
+      "date": "1784-01-01T00:00:00Z",
+      "place": "Weißenfels",
+      "placeId": "http://www.wikidata.org/entity/Q14815"
+    },
+    "death": {
+      "date": "1864-01-01T00:00:00Z"
+    },
+    "gender": "male"
   },
   "Q108613537": {
     "name": "Joseph Franz Gänsberger",
@@ -5526,10 +5534,21 @@
     },
     "gender": "male"
   },
-  "Q108658115": {
-    "name": "Q108658115",
-    "birth": {},
-    "death": {}
+  "Q94901641": {
+    "name": "Bernhard Heinrich Karl Reinhard",
+    "gnd": "123123194",
+    "birth": {
+      "date": "1760-01-01T00:00:00Z",
+      "place": "Gotha",
+      "placeId": "http://www.wikidata.org/entity/Q6986"
+    },
+    "death": {
+      "date": "1799-01-01T00:00:00Z",
+      "place": "Breslau",
+      "placeId": "http://www.wikidata.org/entity/Q1799"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q54956946": {
     "name": "Carl Reinhard",
