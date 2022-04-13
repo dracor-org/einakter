@@ -48,12 +48,12 @@
     "gnd": "118648071",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Willibald%20Alexis.jpg",
     "birth": {
-      "date": "1798-01-01T00:00:00Z",
+      "date": "1798-06-29T00:00:00Z",
       "place": "Breslau",
       "placeId": "http://www.wikidata.org/entity/Q1799"
     },
     "death": {
-      "date": "1871-12-16T00:00:00Z",
+      "date": "1871-01-01T00:00:00Z",
       "place": "Arnstadt",
       "placeId": "http://www.wikidata.org/entity/Q490665"
     },
@@ -108,7 +108,7 @@
     "gnd": "116311118",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Angely%20als%20Kluck.jpg",
     "birth": {
-      "date": "1787-01-31T00:00:00Z",
+      "date": "1787-01-01T00:00:00Z",
       "place": "Leipzig",
       "placeId": "http://www.wikidata.org/entity/Q2079"
     },
@@ -521,17 +521,16 @@
     "name": "Ferdinand von Biedenfeld",
     "gnd": "116163127",
     "birth": {
-      "date": "1788-01-01T00:00:00Z",
+      "date": "1788-05-05T00:00:00Z",
       "place": "Karlsruhe",
       "placeId": "http://www.wikidata.org/entity/Q1040"
     },
     "death": {
-      "date": "1862-01-01T00:00:00Z",
+      "date": "1862-03-09T00:00:00Z",
       "place": "Karlsruhe",
       "placeId": "http://www.wikidata.org/entity/Q1040"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q1380341": {
     "name": "Jakob Friedrich von Bielfeld",
@@ -702,21 +701,26 @@
       "placeId": "http://www.wikidata.org/entity/Q64882"
     },
     "death": {
-      "date": "1783-01-02T00:00:00Z",
+      "date": "1783-01-01T00:00:00Z",
       "place": "Schönenberg",
       "placeId": "http://www.wikidata.org/entity/Q67528"
     },
-    "gender": "male"
+    "gender": "male",
+    "ambiguous": true
   },
   "Q59535732": {
     "name": "Franz Friedrich Siegmund August Böcklin von Böcklinsau",
     "gnd": "10427719X",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Friedrich%20Siegmund%20August%20B%C3%B6cklin%20von%20B%C3%B6cklinsau%201787%20%28cropped%29.jpg",
     "birth": {
-      "date": "1745-01-01T00:00:00Z"
+      "date": "1745-01-01T00:00:00Z",
+      "place": "Straßburg",
+      "placeId": "http://www.wikidata.org/entity/Q6602"
     },
     "death": {
-      "date": "1813-01-01T00:00:00Z"
+      "date": "1813-01-01T00:00:00Z",
+      "place": "Ettenheim",
+      "placeId": "http://www.wikidata.org/entity/Q506871"
     },
     "gender": "male"
   },
@@ -791,7 +795,7 @@
     "name": "Christian Friedrich Ferdinand Anselm von Bonin",
     "gnd": "100428665",
     "birth": {
-      "date": "1755-01-01T00:00:00Z"
+      "date": "1755-06-16T00:00:00Z"
     },
     "death": {
       "date": "1813-01-01T00:00:00Z"
@@ -799,14 +803,16 @@
     "gender": "male"
   },
   "Q95321063": {
-    "name": "Moritz von Brahm",
+    "name": "Peter Moritz von Brahm",
     "gnd": "1033875740",
     "birth": {
       "date": "1744-01-01T00:00:00Z",
       "place": "Koblenz",
       "placeId": "http://www.wikidata.org/entity/Q3104"
     },
-    "death": {},
+    "death": {
+      "date": "1822-01-01T00:00:00Z"
+    },
     "gender": "male"
   },
   "Q112511": {
@@ -877,17 +883,16 @@
     "name": "Christoph Friedrich Bretzner",
     "gnd": "115849238",
     "birth": {
-      "date": "1748-01-01T00:00:00Z",
+      "date": "1748-12-10T00:00:00Z",
       "place": "Leipzig",
       "placeId": "http://www.wikidata.org/entity/Q2079"
     },
     "death": {
-      "date": "1807-01-01T00:00:00Z",
+      "date": "1807-08-31T00:00:00Z",
       "place": "Leipzig",
       "placeId": "http://www.wikidata.org/entity/Q2079"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q18029671": {
     "name": "Wilhelm Bröckelmann",
@@ -1016,7 +1021,7 @@
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
     "death": {
-      "date": "1862-02-05T00:00:00Z",
+      "date": "1862-01-01T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
@@ -1044,17 +1049,16 @@
     "gnd": "119360659",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helmina%20von%20Ch%C3%A9zy%202.png",
     "birth": {
-      "date": "1783-01-01T00:00:00Z",
+      "date": "1783-01-26T00:00:00Z",
       "place": "Berlin",
       "placeId": "http://www.wikidata.org/entity/Q64"
     },
     "death": {
-      "date": "1856-01-01T00:00:00Z",
+      "date": "1856-02-28T00:00:00Z",
       "place": "Genf",
       "placeId": "http://www.wikidata.org/entity/Q71"
     },
-    "gender": "female",
-    "ambiguous": true
+    "gender": "female"
   },
   "Q109567987": {
     "name": "Heinrich Bernhard Claessen",
@@ -1099,6 +1103,7 @@
   "Q89355": {
     "name": "Matthäus von Collin",
     "gnd": "119298406",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Matth%C3%A4us%20Casimir%20von%20Collin.jpg",
     "birth": {
       "date": "1779-03-03T00:00:00Z",
       "place": "Wien",
@@ -1109,8 +1114,7 @@
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q96771": {
     "name": "Karl Wilhelm Salice-Contessa",
@@ -1200,15 +1204,16 @@
     "gnd": "127627871",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Benedikt%20Dominik%20Anton%20Cremeri%2C%20RP-P-1913-264.jpg",
     "birth": {
-      "date": "1752-01-01T00:00:00Z",
+      "date": "1752-08-13T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
     "death": {
-      "date": "1795-01-01T00:00:00Z"
+      "date": "1795-01-01T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q95238764": {
     "name": "Anton Adolph von Crentzin",
@@ -1260,7 +1265,9 @@
       "placeId": "http://www.wikidata.org/entity/Q1055"
     },
     "death": {
-      "date": "1793-02-14T00:00:00Z"
+      "date": "1793-02-14T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
     },
     "gender": "male"
   },
@@ -1273,7 +1280,9 @@
       "placeId": "http://www.wikidata.org/entity/Q81720"
     },
     "death": {
-      "date": "1831-06-01T00:00:00Z"
+      "date": "1831-06-01T00:00:00Z",
+      "place": "Ząbkowice Śląskie",
+      "placeId": "http://www.wikidata.org/entity/Q246693"
     },
     "gender": "male"
   },
@@ -1319,6 +1328,22 @@
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
     "gender": "male"
+  },
+  "Q94814780": {
+    "name": "Johann Christian Friedrich Dietz",
+    "gnd": "116116498",
+    "birth": {
+      "date": "1765-06-14T00:00:00Z",
+      "place": "Wetzlar",
+      "placeId": "http://www.wikidata.org/entity/Q4178"
+    },
+    "death": {
+      "date": "1834-01-01T00:00:00Z",
+      "place": "Ziethen",
+      "placeId": "http://www.wikidata.org/entity/Q199283"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q108613300": {
     "name": "Mathias Dilg",
@@ -1773,6 +1798,7 @@
   "Q86898": {
     "name": "Gustav von Franck",
     "gnd": "116701528",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20und%20Sophie%20von%20Franck%2C%20London.jpg",
     "birth": {
       "date": "1807-03-22T00:00:00Z",
       "place": "Wien",
@@ -1887,7 +1913,7 @@
     "name": "Friedrich Wilhelm Riese",
     "gnd": "105607231",
     "birth": {
-      "date": "1803-01-01T00:00:00Z",
+      "date": "1807-02-24T00:00:00Z",
       "place": "Berlin",
       "placeId": "http://www.wikidata.org/entity/Q64"
     },
@@ -1896,8 +1922,7 @@
       "place": "Neapel",
       "placeId": "http://www.wikidata.org/entity/Q2634"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q1297391": {
     "name": "Rebecca Friedländer",
@@ -1919,7 +1944,9 @@
     "name": "Nikolai Nathan Fürst",
     "gnd": "100130488",
     "birth": {
-      "date": "1779-01-01T00:00:00Z"
+      "date": "1779-01-01T00:00:00Z",
+      "place": "Kopenhagen",
+      "placeId": "http://www.wikidata.org/entity/Q1748"
     },
     "death": {
       "date": "1857-05-11T00:00:00Z",
@@ -1928,8 +1955,8 @@
     },
     "gender": "male"
   },
-  "Q94837762": {
-    "name": "Wilhelm Gabriel",
+  "Q81396760": {
+    "name": "Friedrich Wilhelm Gabriel",
     "gnd": "116327413",
     "birth": {
       "date": "1784-01-01T00:00:00Z",
@@ -1968,7 +1995,9 @@
     "name": "August Gathy",
     "gnd": "100604889",
     "birth": {
-      "date": "1800-05-14T00:00:00Z"
+      "date": "1800-05-14T00:00:00Z",
+      "place": "Lüttich",
+      "placeId": "http://www.wikidata.org/entity/Q3992"
     },
     "death": {
       "date": "1858-04-08T00:00:00Z"
@@ -1996,7 +2025,9 @@
     "gnd": "1019730250",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Albert%20Gebhard.jpg",
     "birth": {
-      "date": "1781-01-01T00:00:00Z"
+      "date": "1781-01-01T00:00:00Z",
+      "place": "Heldrungen",
+      "placeId": "http://www.wikidata.org/entity/Q529787"
     },
     "death": {
       "date": "1861-01-01T00:00:00Z"
@@ -2008,7 +2039,7 @@
     "gnd": "130096563",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/T.Ph.Gebler%20-%20Brustbild%20im%20Medaillon%20-%20JPG.jpg",
     "birth": {
-      "date": "1726-01-01T00:00:00Z",
+      "date": "1726-11-02T00:00:00Z",
       "place": "Zeulenroda",
       "placeId": "http://www.wikidata.org/entity/Q196996"
     },
@@ -2017,8 +2048,7 @@
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q1288681": {
     "name": "Eduard Heinrich Gehe",
@@ -2353,7 +2383,7 @@
     "gnd": "118542648",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Friedrich%20Wilhelm%20Grossmann.jpg",
     "birth": {
-      "date": "1743-11-30T00:00:00Z",
+      "date": "1743-01-01T00:00:00Z",
       "place": "Berlin",
       "placeId": "http://www.wikidata.org/entity/Q64"
     },
@@ -2475,7 +2505,9 @@
     "birth": {
       "date": "1755-01-01T00:00:00Z"
     },
-    "death": {},
+    "death": {
+      "date": "1823-01-01T00:00:00Z"
+    },
     "gender": "male"
   },
   "Q1368873": {
@@ -2590,9 +2622,11 @@
   "Q95217725": {
     "name": "Franz Joseph Hassaureck",
     "gnd": "1038874440",
-    "birth": {},
+    "birth": {
+      "date": "1787-01-01T00:00:00Z"
+    },
     "death": {
-      "date": "1826-01-01T00:00:00Z"
+      "date": "1837-01-01T00:00:00Z"
     },
     "gender": "male"
   },
@@ -2625,7 +2659,7 @@
   "Q57182": {
     "name": "Friedrich Hebbel",
     "gnd": "118547445",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fritz-Hebbel.jpg",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bezirksmuseum%20Josefstadt%2C%20Friedrich%20Hebbel.jpg",
     "birth": {
       "date": "1813-03-18T00:00:00Z",
       "place": "Wesselburen",
@@ -2719,7 +2753,7 @@
   },
   "Q215439": {
     "name": "Theodor Hell",
-    "gnd": "118633716",
+    "gnd": "1070485934",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Hell.jpg",
     "birth": {
       "date": "1775-02-07T00:00:00Z",
@@ -2830,17 +2864,16 @@
     "name": "Hermann Herzenskron",
     "gnd": "101454201",
     "birth": {
-      "date": "1789-01-01T00:00:00Z",
+      "date": "1789-07-12T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
     "death": {
-      "date": "1863-01-01T00:00:00Z",
+      "date": "1863-01-19T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q15876214": {
     "name": "Jacob Herzfeld",
@@ -2909,7 +2942,9 @@
       "placeId": "http://www.wikidata.org/entity/Q8732"
     },
     "death": {
-      "date": "1821-01-13T00:00:00Z"
+      "date": "1821-01-13T00:00:00Z",
+      "place": "Hirschberg",
+      "placeId": "http://www.wikidata.org/entity/Q630383"
     },
     "gender": "male"
   },
@@ -3011,7 +3046,7 @@
     "gnd": "100844901",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Ignaz%20Holbein.jpg",
     "birth": {
-      "date": "1779-01-01T00:00:00Z",
+      "date": "1779-08-27T00:00:00Z",
       "place": "Zistersdorf",
       "placeId": "http://www.wikidata.org/entity/Q206085"
     },
@@ -3074,7 +3109,7 @@
     },
     "death": {
       "date": "1845-01-28T00:00:00Z",
-      "place": "Lübben",
+      "place": "Lübben (Spreewald)",
       "placeId": "http://www.wikidata.org/entity/Q584815"
     },
     "gender": "male"
@@ -3476,8 +3511,8 @@
     },
     "death": {
       "date": "1811-11-21T00:00:00Z",
-      "place": "Berlin",
-      "placeId": "http://www.wikidata.org/entity/Q64"
+      "place": "Kleiner Wannsee",
+      "placeId": "http://www.wikidata.org/entity/Q453692"
     },
     "gender": "male"
   },
@@ -3533,7 +3568,7 @@
     "name": "Karl Wilhelm Koch",
     "gnd": "136109012",
     "birth": {
-      "date": "1785-01-01T00:00:00Z",
+      "date": "1785-01-16T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
@@ -3579,7 +3614,7 @@
   "Q1530950": {
     "name": "Heinrich Josef König",
     "gnd": "118724320",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ADL%20Hambacher%20Tuch%20Heinrich%20Josef%20K%C3%B6nig.jpg",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Gartenlaube%20%281855%29%20b%20419.jpg",
     "birth": {
       "date": "1790-03-19T00:00:00Z",
       "place": "Fulda",
@@ -3701,7 +3736,9 @@
     "name": "Johann Christoph Krauseneck",
     "gnd": "104221887",
     "birth": {
-      "date": "1738-01-01T00:00:00Z"
+      "date": "1738-01-01T00:00:00Z",
+      "place": "Zell im Fichtelgebirge",
+      "placeId": "http://www.wikidata.org/entity/Q31614"
     },
     "death": {
       "date": "1799-01-01T00:00:00Z",
@@ -3813,7 +3850,7 @@
     "name": "Franz August von Kurländer",
     "gnd": "116616261",
     "birth": {
-      "date": "1777-01-01T00:00:00Z",
+      "date": "1777-11-26T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
@@ -3968,10 +4005,14 @@
     "name": "Ludwig Lenz",
     "gnd": "116916869",
     "birth": {
-      "date": "1813-01-01T00:00:00Z"
+      "date": "1813-09-20T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
     },
     "death": {
-      "date": "1896-01-01T00:00:00Z"
+      "date": "1896-10-02T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
     },
     "gender": "male"
   },
@@ -4086,17 +4127,16 @@
     "gnd": "100191290",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maurus%20Lindemayr.png",
     "birth": {
-      "date": "1723-01-01T00:00:00Z",
+      "date": "1723-11-15T00:00:00Z",
       "place": "Neukirchen bei Lambach",
       "placeId": "http://www.wikidata.org/entity/Q677306"
     },
     "death": {
-      "date": "1783-01-01T00:00:00Z",
+      "date": "1783-06-19T00:00:00Z",
       "place": "Neukirchen bei Lambach",
       "placeId": "http://www.wikidata.org/entity/Q677306"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q108678681": {
     "name": "Friedrich Lindheimer",
@@ -4283,7 +4323,9 @@
       "placeId": "http://www.wikidata.org/entity/Q3750"
     },
     "death": {
-      "date": "1870-03-02T00:00:00Z"
+      "date": "1870-03-02T00:00:00Z",
+      "place": "Weimar",
+      "placeId": "http://www.wikidata.org/entity/Q3955"
     },
     "gender": "male"
   },
@@ -4384,13 +4426,12 @@
     "name": "Albin Johann Baptist von Meddlhammer",
     "gnd": "116989114",
     "birth": {
-      "date": "1777-01-01T00:00:00Z"
+      "date": "1777-08-26T00:00:00Z"
     },
     "death": {
       "date": "1838-02-08T00:00:00Z"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q1696468": {
     "name": "Johann Valentin Meidinger",
@@ -4530,7 +4571,9 @@
       "date": "1744-01-01T00:00:00Z"
     },
     "death": {
-      "date": "1805-01-01T00:00:00Z"
+      "date": "1805-01-01T00:00:00Z",
+      "place": "Prag",
+      "placeId": "http://www.wikidata.org/entity/Q1085"
     },
     "gender": "male"
   },
@@ -4793,17 +4836,16 @@
     "gnd": "118584693",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WP%20Karl%20von%20Muffling.jpg",
     "birth": {
-      "date": "1775-01-01T00:00:00Z",
+      "date": "1775-06-12T00:00:00Z",
       "place": "Halle (Saale)",
       "placeId": "http://www.wikidata.org/entity/Q2814"
     },
     "death": {
-      "date": "1851-01-01T00:00:00Z",
+      "date": "1851-01-16T00:00:00Z",
       "place": "Erfurt",
       "placeId": "http://www.wikidata.org/entity/Q1729"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q106405456": {
     "name": "Franz Alois Mussik",
@@ -4814,7 +4856,9 @@
       "placeId": "http://www.wikidata.org/entity/Q1085"
     },
     "death": {
-      "date": "1848-01-13T00:00:00Z"
+      "date": "1848-01-13T00:00:00Z",
+      "place": "Žatec",
+      "placeId": "http://www.wikidata.org/entity/Q393426"
     },
     "gender": "male"
   },
@@ -4924,7 +4968,7 @@
   },
   "Q1321956": {
     "name": "Tobias Gottfried Schröer",
-    "gnd": "119060396",
+    "gnd": "117646660",
     "birth": {
       "date": "1791-06-14T00:00:00Z",
       "place": "Bratislava",
@@ -4958,7 +5002,9 @@
     "name": "Ferdinand August Oldenburg",
     "gnd": "12968466X",
     "birth": {
-      "date": "1799-01-01T00:00:00Z"
+      "date": "1799-01-01T00:00:00Z",
+      "place": "Braunschweig",
+      "placeId": "http://www.wikidata.org/entity/Q2773"
     },
     "death": {
       "date": "1868-01-01T00:00:00Z"
@@ -5065,7 +5111,9 @@
     "name": "Josef Bernhard Pelzel von Pelzeln",
     "gnd": "12200308X",
     "birth": {
-      "date": "1745-01-01T00:00:00Z"
+      "date": "1745-01-01T00:00:00Z",
+      "place": "Rychnov nad Kněžnou",
+      "placeId": "http://www.wikidata.org/entity/Q1000091"
     },
     "death": {
       "date": "1804-01-01T00:00:00Z"
@@ -5417,8 +5465,8 @@
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Benjamin%20Salomo%20Raupach.png",
     "birth": {
       "date": "1784-05-21T00:00:00Z",
-      "place": "Legnica",
-      "placeId": "http://www.wikidata.org/entity/Q106274"
+      "place": "Strupice, Lower Silesian Voivodeship",
+      "placeId": "http://www.wikidata.org/entity/Q1811646"
     },
     "death": {
       "date": "1852-03-18T00:00:00Z",
@@ -5431,7 +5479,7 @@
     "name": "Johann Rautenstrauch",
     "gnd": "10024503X",
     "birth": {
-      "date": "1746-01-01T00:00:00Z",
+      "date": "1746-01-10T00:00:00Z",
       "place": "Erlangen",
       "placeId": "http://www.wikidata.org/entity/Q3126"
     },
@@ -5489,7 +5537,7 @@
   "Q1505724": {
     "name": "Georg Reinbeck",
     "gnd": "116415878",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Museumsgesellschaft%20Stuttgart%2C%20005.jpg",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Reinbeck%20%28Aquarell%20von%20Mariette%20Z%C3%B6ppritz%29.jpg",
     "birth": {
       "date": "1766-10-11T00:00:00Z",
       "place": "Berlin",
@@ -5502,18 +5550,21 @@
     },
     "gender": "male"
   },
-  "Q108658115": {
+  "Q94901641": {
     "name": "Bernhard Heinrich Karl Reinhard",
     "gnd": "123123194",
     "birth": {
-      "date": "1760-01-01T00:00:00Z"
+      "date": "1760-01-01T00:00:00Z",
+      "place": "Gotha",
+      "placeId": "http://www.wikidata.org/entity/Q6986"
     },
     "death": {
       "date": "1799-01-01T00:00:00Z",
       "place": "Breslau",
       "placeId": "http://www.wikidata.org/entity/Q1799"
     },
-    "gender": "male"
+    "gender": "male",
+    "ambiguous": true
   },
   "Q54956946": {
     "name": "Carl Reinhard",
@@ -5703,7 +5754,9 @@
     "gnd": "121118509",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PPN66395259X%20Joh.%20Hinr.%20R%C3%B6ding.jpg",
     "birth": {
-      "date": "1732-01-01T00:00:00Z"
+      "date": "1732-01-01T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
     },
     "death": {
       "date": "1800-01-01T00:00:00Z"
@@ -5714,10 +5767,14 @@
     "name": "Georg Christian Roemer",
     "gnd": "115376607",
     "birth": {
-      "date": "1766-01-01T00:00:00Z"
+      "date": "1766-01-01T00:00:00Z",
+      "place": "Kriegsfeld",
+      "placeId": "http://www.wikidata.org/entity/Q643312"
     },
     "death": {
-      "date": "1829-01-01T00:00:00Z"
+      "date": "1829-01-01T00:00:00Z",
+      "place": "Karlsruhe",
+      "placeId": "http://www.wikidata.org/entity/Q1040"
     },
     "gender": "male"
   },
@@ -5749,12 +5806,12 @@
     "name": "Ferdinand Rossen",
     "gnd": "1028434065",
     "birth": {
-      "date": "1785-01-01T00:00:00Z",
+      "date": "1785-02-19T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
     "death": {
-      "date": "1841-01-01T00:00:00Z",
+      "date": "1841-06-29T00:00:00Z",
       "place": "Zagreb",
       "placeId": "http://www.wikidata.org/entity/Q1435"
     },
@@ -5918,8 +5975,7 @@
       "place": "Kopenhagen",
       "placeId": "http://www.wikidata.org/entity/Q1748"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q1290682": {
     "name": "Eduard von Schenk",
@@ -5974,7 +6030,7 @@
     "gnd": "11860757X",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel%20Schikaneder.jpg",
     "birth": {
-      "date": "1751-01-01T00:00:00Z",
+      "date": "1751-09-01T00:00:00Z",
       "place": "Straubing",
       "placeId": "http://www.wikidata.org/entity/Q7027"
     },
@@ -5983,8 +6039,7 @@
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q55127607": {
     "name": "Karl Schikaneder",
@@ -6049,6 +6104,7 @@
   "Q15873118": {
     "name": "Johann Friedrich Schink",
     "gnd": "118607774",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Schink%2C%20Johann%20Friedrich.gif",
     "birth": {
       "date": "1755-04-29T00:00:00Z",
       "place": "Magdeburg",
@@ -6290,7 +6346,9 @@
     "birth": {
       "date": "1752-01-01T00:00:00Z"
     },
-    "death": {},
+    "death": {
+      "date": "1827-01-01T00:00:00Z"
+    },
     "gender": "male"
   },
   "Q60821596": {
@@ -6437,15 +6495,16 @@
     "name": "Franz Joseph Sebastiani",
     "gnd": "1013340566",
     "birth": {
-      "date": "1722-01-01T00:00:00Z",
+      "date": "1722-07-17T00:00:00Z",
       "place": "Straßburg",
       "placeId": "http://www.wikidata.org/entity/Q6602"
     },
     "death": {
-      "date": "1770-01-01T00:00:00Z"
+      "date": "1772-07-15T00:00:00Z",
+      "place": "Dinkelsbühl",
+      "placeId": "http://www.wikidata.org/entity/Q491743"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q1078729": {
     "name": "Christian Adolf von Seckendorff",
@@ -6757,10 +6816,14 @@
     "name": "Karl Stawinsky",
     "gnd": "117223913",
     "birth": {
-      "date": "1794-01-01T00:00:00Z"
+      "date": "1794-01-01T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
     },
     "death": {
-      "date": "1866-01-01T00:00:00Z"
+      "date": "1866-01-01T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
     },
     "gender": "male"
   },
@@ -6812,7 +6875,9 @@
     "name": "Karl Franz Guolfinger Ritter von Steinsberg",
     "gnd": "100562507",
     "birth": {
-      "date": "1757-01-01T00:00:00Z"
+      "date": "1757-01-01T00:00:00Z",
+      "place": "Königreich Böhmen",
+      "placeId": "http://www.wikidata.org/entity/Q42585"
     },
     "death": {
       "date": "1833-01-01T00:00:00Z",
@@ -6902,7 +6967,9 @@
     "name": "Johann Heinrich Millenet",
     "gnd": "117042196",
     "birth": {
-      "date": "1785-01-01T00:00:00Z"
+      "date": "1785-09-04T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
     },
     "death": {
       "date": "1858-01-01T00:00:00Z"
@@ -6957,7 +7024,7 @@
     "gender": "male"
   },
   "Q20243317": {
-    "name": "Karl Ludwig Christian Thienemann",
+    "name": "Karl Thienemann",
     "gnd": "104333251",
     "birth": {
       "date": "1786-03-25T00:00:00Z",
@@ -7025,7 +7092,9 @@
     "name": "Friedrich von Tietz",
     "gnd": "117381608",
     "birth": {
-      "date": "1803-09-24T00:00:00Z"
+      "date": "1803-09-24T00:00:00Z",
+      "place": "Königsberg",
+      "placeId": "http://www.wikidata.org/entity/Q4120832"
     },
     "death": {
       "date": "1879-07-06T00:00:00Z"
@@ -7156,13 +7225,12 @@
     "name": "Gottfried Uhlich",
     "gnd": "140189181",
     "birth": {
-      "date": "1743-01-01T00:00:00Z"
+      "date": "1743-01-16T00:00:00Z"
     },
     "death": {
       "date": "1794-01-01T00:00:00Z"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q349537": {
     "name": "Adam Gottfried Uhlich",
@@ -7188,7 +7256,7 @@
   "Q18957711": {
     "name": "Johann Christoph Unzer",
     "gnd": "117311251",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PPN663946468%20D.%20Joannes%20Augustus%20Unzer%20Medicus%20%281768%29.jpg",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Christoph%20Unzer.jpg",
     "birth": {
       "date": "1747-05-17T00:00:00Z",
       "place": "Wernigerode",
@@ -7220,6 +7288,18 @@
     },
     "death": {
       "date": "1835-03-31T00:00:00Z"
+    },
+    "gender": "male"
+  },
+  "Q111314114": {
+    "name": "Baptista Vanoni",
+    "birth": {
+      "date": "1805-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1865-08-27T00:00:00Z",
+      "place": "München",
+      "placeId": "http://www.wikidata.org/entity/Q1726"
     },
     "gender": "male"
   },
@@ -7258,17 +7338,16 @@
     "name": "Wilhelm Vogel",
     "gnd": "117464406",
     "birth": {
-      "date": "1772-01-01T00:00:00Z",
+      "date": "1772-09-24T00:00:00Z",
       "place": "Mannheim",
       "placeId": "http://www.wikidata.org/entity/Q2119"
     },
     "death": {
-      "date": "1843-01-01T00:00:00Z",
+      "date": "1843-03-15T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q90626": {
     "name": "Julius von Voß",
@@ -7339,7 +7418,7 @@
     "name": "Johann Jakob Wagner",
     "gnd": "132753553",
     "birth": {
-      "date": "1766-01-01T00:00:00Z",
+      "date": "1766-07-09T00:00:00Z",
       "place": "Leipzig",
       "placeId": "http://www.wikidata.org/entity/Q2079"
     },
@@ -7348,8 +7427,7 @@
       "place": "Leipzig",
       "placeId": "http://www.wikidata.org/entity/Q2079"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q62880": {
     "name": "Heinrich Leopold Wagner",
@@ -7491,7 +7569,7 @@
       "placeId": "http://www.wikidata.org/entity/Q3104"
     },
     "death": {
-      "date": "1847-05-17T00:00:00Z",
+      "date": "1845-01-01T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
@@ -7557,10 +7635,14 @@
     "name": "Bernhard Gottlieb Wetterstrand",
     "gnd": "10422181X",
     "birth": {
-      "date": "1777-01-01T00:00:00Z"
+      "date": "1777-01-01T00:00:00Z",
+      "place": "Tallinn",
+      "placeId": "http://www.wikidata.org/entity/Q1770"
     },
     "death": {
-      "date": "1843-01-01T00:00:00Z"
+      "date": "1843-01-01T00:00:00Z",
+      "place": "Tallinn",
+      "placeId": "http://www.wikidata.org/entity/Q1770"
     },
     "gender": "male"
   },
