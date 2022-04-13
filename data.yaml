@@ -3206,6 +3206,17 @@ cast:
 settings:
   - description: Die Handlung geht in einer großen Stadt vor.
 ---
+id: ein002383
+slug: anonym-das-attentat
+author:
+  pseudonym: Anonym
+title: Das Attentat
+subtitle: Lustspiel in 1 Aufzug
+premiered: 1786-01-15
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 333
+---
 id: ein000071
 slug: anonym-das-bild-glueckseliger-zeiten
 author:
@@ -27811,6 +27822,18 @@ settings:
   - description: >-
       Zimmer mit Mittel- und Seitenthüren. – Nacht. Es schlägt 3 Uhr. – Die Mittelthüre geht auf.
 ---
+id: ein002382
+slug: dietz-auf-der-welt-ists-doch-gut
+author:
+  name: Dietz, Johann Christian Friedrich
+  wikidata: Q94814780
+title: Auf der Welt ists doch gut
+subtitle: Scene in 1 Akt aus dem menschlichen Leben
+created: 1784
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 66
+---
 id: ein000648
 slug: dilg-der-korb
 author:
@@ -51629,6 +51652,8 @@ comments:
   - Fortsetzung von Heynes [»Die beiden Billets«](heyne-die-beiden-billets) (1783).
 keywords:
   - Die beiden Billets
+ids:
+  wikidata: Q111592520
 cast:
   - name: Röschen.
     gender: f
@@ -89034,6 +89059,52 @@ settings:
       Die Generäle rothe, blaue und weiße Federn auf den Hüten; ditto Schärpen.
     location:
       wikidataId: Q12508
+---
+id: ein002381
+slug: thilo-das-erbkreuz
+author:
+  name: Thilo, Heinrich
+title: Das Erbkreuz
+subtitle: Dramatische Scene. Aufgeführt den 3ten und 4ten August 1833 auf dem Breslauer Stadt-Theater
+numberOfScenes: 6
+printed: 1834
+premiered: 1833-08-03
+formalia:
+  - Blankvers
+editions:
+  - title: "Schlesischer Musenalmanach für das Jahr 1834. Herausgegeben von Theodor Brand. Siebenter Jahrgang. Breslau: Schulz und Comp. 1834, S. 3–21"
+    url: https://books.google.com/books?id=Bdg6AAAAcAAJ&pg=PA3
+cast:
+  - name: Freiherr von Fürstenhort,
+    role: Gutsherr.
+    gender: m
+  - name: Treumund,
+    role: Pastor.
+    gender: m
+  - name: Werner,
+    role: Bürger.
+    gender: m
+  - name: Walther,
+    role: Schulze.
+    gender: m
+  - name: Friedrich,
+    role: Soldat.
+    gender: m
+  - name: Röschen,
+    role: Walters Tochter.
+    gender: f
+  - name: Hannchen,
+    role: ihre Freundin.
+    gender: f
+  - name: Gotthold,
+    role: ein Bauerbursche.
+    gender: m
+  - name: Landvolk.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Ländliche Gegend, im Hintergrunde der Bühne steht die von Festons umgebene Büste des Königs. Burschen und Mädchen sind beschäftigt, an denselben Blumenkränze zu befestigen.
 ---
 id: ein002076
 slug: thilo-die-grossmuethigen-erben
