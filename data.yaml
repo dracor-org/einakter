@@ -4162,6 +4162,51 @@ settings:
   - description: >-
       Das Stück spielt in den ersten Scenen im fürstlichen Garten, hernach aber im Hause der Frau Wahlen.
 ---
+id: ein000100
+slug: anonym-das-bildniss
+author:
+  pseudonym: Anonym
+title: Das Bildniß
+subtitle: Schauspiel in Einem Aufzuge
+numberOfScenes: 12
+printed: 1815
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches Taschenbuch auf das Jahr 1815. Dresden: Arnoldi 1815, S. 87–134"
+    url: https://books.google.com/books?id=y5xIAAAAcAAJ&pg=PA87
+cast:
+  - name: Herr Dubois,
+    role: ein Maler.
+    gender: m
+  - name: Frau Dubois.
+    gender: f
+  - name: Emilie.
+    gender: f
+  - name: Ein Oberster.
+    gender: m
+  - name: Ein Adjudant.
+    gender: m
+  - name: Mehrere Soldaten.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Das Stück spielt in einer Gränzstadt während des jetzigen Krieges.
+  - description: >-
+      Eine Malerstube mit zwei Thüren. Emilie sitzt an der Staffelei und arbeitet an einem Brustbilde, mehrere andere Gemälde stehen umgekehrt an den Wänden umher.
+---
+id: ein002385
+slug: anonym-das-zauberypselon-des-pythagoras
+author:
+  pseudonym: Anonym
+title: Das Zauberypselon des Pythagoras
+subtitle: Ein mit Arien und Verkleidung versehenes Lustspiel in einem Aufzuge
+premiered: 1785-01-31
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 192
+---
 id: ein000093
 slug: anonym-der-alte-kranke-herr
 author:
@@ -4457,40 +4502,6 @@ settings:
       Der Schauplatz ist zu Constantinopel vor des Kadi Behausung. Die Begebenheit ist in der Demmerung, und dauret so lange als das Nachspiel.
     location:
       wikidataId: Q16869
----
-id: ein000100
-slug: anonym-das-bildniss
-author:
-  pseudonym: Anonym
-title: Das Bildniß
-subtitle: Schauspiel in Einem Aufzuge
-numberOfScenes: 12
-printed: 1815
-formalia:
-  - Prosa
-editions:
-  - title: "Dramatisches Taschenbuch auf das Jahr 1815. Dresden: Arnoldi 1815, S. 87–134"
-    url: https://books.google.com/books?id=y5xIAAAAcAAJ&pg=PA87
-cast:
-  - name: Herr Dubois,
-    role: ein Maler.
-    gender: m
-  - name: Frau Dubois.
-    gender: f
-  - name: Emilie.
-    gender: f
-  - name: Ein Oberster.
-    gender: m
-  - name: Ein Adjudant.
-    gender: m
-  - name: Mehrere Soldaten.
-    isGroup: true
-    gender: m
-settings:
-  - description: >-
-      Das Stück spielt in einer Gränzstadt während des jetzigen Krieges.
-  - description: >-
-      Eine Malerstube mit zwei Thüren. Emilie sitzt an der Staffelei und arbeitet an einem Brustbilde, mehrere andere Gemälde stehen umgekehrt an den Wänden umher.
 ---
 id: ein000101
 slug: anonym-der-buchlade-oder-die-zeitung
@@ -9061,48 +9072,6 @@ cast:
     gender: m
   - name: Barbe.
     gender: f
----
-id: ein000211
-slug: anonym-die-muetterliche-ungewissheit
-author:
-  pseudonym: Anonym
-title: Die mütterliche Ungewißheit
-subtitle: Ein Schauspiel in einem Aufzuge
-premiered: 1792-02-23
-formalia:
-  - Prosa
-dictionaries:
-  - name: bibliographia
-    pages: 2. Abteilung, Band 32, S. 48
-comments:
-  - Nur Manuskript.
-cast:
-  - name: Frankenberg,
-    role: Kaufmann und Banquier.
-    gender: m
-  - name: Amalie,
-    role: Wittwe, seine Schwägerinn.
-    gender: f
-  - group:
-      - name: Ferdinand
-        gender: m
-      - name: Fritz
-        gender: m
-    role: ihre Kinder, 9 Jahr alt.
-  - name: Erhard,
-    role: deren Hofmeister.
-    gender: m
-  - name: Gundlach,
-    role: Rath und Advokat.
-    gender: m
-  - name: Marthe,
-    role: eine Bäurinn.
-    gender: f
-  - name: Ein Bedienter.
-    gender: m
-settings:
-  - description: >-
-      Die Szene ist in Frankenbergs Hause.
 ---
 id: ein000212
 slug: anonym-die-nacht
@@ -16494,8 +16463,22 @@ cast:
 settings:
   - description: Zimmer mit Mittel- und zwei Seitenthüren.
 ---
+id: ein002386
+slug: bergopzoomer-der-abschied
+author:
+  name: Bergopzoomer, Johann Baptist
+  wikidata: Q13604014
+title: Der Abschied
+subtitle: Ein Vorspiel in einem Aufzug
+created: 1769
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 23, S. 263
+comments:
+  - Ungedruckt.
+---
 id: ein000389
-slug: bergobzoomer-der-officier
+slug: bergopzoomer-der-officier
 author:
   name: Bergopzoomer, Johann Baptist
   wikidata: Q13604014
@@ -27514,6 +27497,52 @@ cast:
   - name: Bedienter.
     gender: m
 ---
+id: ein000211
+slug: dalberg-die-muetterliche-ungewissheit
+author:
+  name: Dalberg, Wolfgang Heribert von
+  wikidata: Q214611
+title: Die mütterliche Ungewißheit
+subtitle: Ein Schauspiel in einem Aufzuge
+premiered: 1792-02-23
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 48, und Band 33, S. 319
+comments:
+  - Nur Manuskript.
+  - "Mit dem bei Meyer angeführten Einakter »Das mütterliche Ungefähr« (2. Abteilung, Band 33, S. 319) ist offenbar dieses Stück gemeint. In der dort angegebenen Quelle (Annalen des Theaters) findet sich der alternative Titel nicht, wahrscheinlich ein Übertragungsfehler."
+reviews:
+  - "Annalen des Theaters. Sechzehntes Heft. Berlin: Maurer 1795, [S. 28](https://books.google.com/books?id=VfyXB0fuPAgC&pg=RA3-PA28)."
+cast:
+  - name: Frankenberg,
+    role: Kaufmann und Banquier.
+    gender: m
+  - name: Amalie,
+    role: Wittwe, seine Schwägerinn.
+    gender: f
+  - group:
+      - name: Ferdinand
+        gender: m
+      - name: Fritz
+        gender: m
+    role: ihre Kinder, 9 Jahr alt.
+  - name: Erhard,
+    role: deren Hofmeister.
+    gender: m
+  - name: Gundlach,
+    role: Rath und Advokat.
+    gender: m
+  - name: Marthe,
+    role: eine Bäurinn.
+    gender: f
+  - name: Ein Bedienter.
+    gender: m
+settings:
+  - description: >-
+      Die Szene ist in Frankenbergs Hause.
+---
 id: ein000639
 slug: decker-der-versuch-oder-eitelkeit-und-herzensguete
 author:
@@ -28994,6 +29023,18 @@ cast:
 settings:
   - description: >-
       Die Bühne stellt einen freien Platz in einem Dorfe vor. Rechts der Gasthof zum Reiter, vor demselben Tisch und Bank mit hölzernen Geräthschaften, die da abtrocknen sollen, hinter demselben eine Leiter. Links ein Brunnen. Im Hintergrund ein Wegweiser.
+---
+id: ein002387
+slug: eckardt-der-ehebrecher
+author:
+  name: Eckardt, Friedrich
+  wikidata: Q21660249
+title: Der Ehebrecher
+subtitle: Trauerspiel in 1 Aufzug
+premiered: 1776-12-14
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 219, und Band 29, S. 69
 ---
 id: ein000676
 slug: eckardt-der-fleissige-schuster
@@ -42742,6 +42783,8 @@ editions:
     url: https://books.google.com/books?id=Wx9tUcsOG90C&pg=PA63
 keywords:
   - China
+ids:
+  wikidata: Q111669378
 cast:
   - name: Hoang-Puff,
     role: Statthalter von Schekiang.
@@ -94791,6 +94834,20 @@ cast:
 settings:
   - description: >-
       Saal mit Seitenthüren.
+---
+id: ein002384
+slug: waechter-das-orakel
+author:
+  name: Wächter, Leonhard
+  wikidata: Q110205
+title: Das Orakel
+subtitle: Lustspiel in 1 Aufzug
+premiered: 1783-08-20
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 489, und Bd. 29, S. 162
+reviews:
+  - "Theater-Journal für Deutschland. Zwey und zwanzigstes Stück. Gotha: Ettinger 1784, [S. 102](https://www.digitale-sammlungen.de/de/view/bsb10121283?page=102)."
 ---
 id: ein002212
 slug: waechter-recensentenkitzel
