@@ -3817,6 +3817,19 @@ cast:
 settings:
   - description: Der Schauplatz ist in Arists Stube.
 ---
+id: ein002388
+slug: anonym-das-opfer-treuer-unterthanen
+author:
+  pseudonym: Anonym
+title: Das Opfer treuer Unterthanen
+subtitle: Ein allegorisches Vorspiel in 1 Akt
+premiered: 1794-10-12
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 49
+reviews:
+  - "Allgemeines europäisches Journal. Zweiten Bandes zweites Stück. Brünn: Traßler 1794, [S. 345](https://books.google.com/books?id=zf5IAAAAcAAJ&pg=PA345)."
+---
 id: ein000084
 slug: anonym-das-orakel-1745
 author:
@@ -16710,6 +16723,8 @@ editions:
 comments:
   - Datierung unsicher. Bände 1–22 der »Deutschen Schaubühne« bei Jenisch und Stage [erschienen 1810–1813](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA143).
   - "Druckfehler: Es gibt zwei Mal »Siebenter Auftritt« ([S. 111](https://books.google.com/books?id=3ARIAAAAcAAJ&pg=PA111) und [S. 115](https://books.google.com/books?id=3ARIAAAAcAAJ&pg=PA115)), daher insgesamt also nicht acht, sondern neun Auftritte."
+ids:
+  wikidata: Q111939679
 cast:
   - name: Der Hausherr.
     gender: m
@@ -51695,6 +51710,7 @@ comments:
   - Fortsetzung von Heynes [»Die beiden Billets«](heyne-die-beiden-billets) (1783).
 keywords:
   - Die beiden Billets
+  - Liebesprobe
 ids:
   wikidata: Q111592520
 cast:
@@ -54111,6 +54127,8 @@ keywords:
   - Französische Revolution
   - Rolle der Frau
   - Ehe
+ids:
+  wikidata: Q111939198
 cast:
   - name: Duport,
     role: ein alter Militär.
@@ -59990,7 +60008,7 @@ printed: 1820
 formalia:
   - Prosa
 editions:
-  - title: "Taschenbuch vom kaiserl. königl. privilegirten Theater in der Leopoldstadt. Siebenter Jahrgang.  Wien 1820, S. 1–35"
+  - title: "Taschenbuch vom kaiserl. königl. privilegirten Theater in der Leopoldstadt. Siebenter Jahrgang. Wien 1820, S. 1–35"
     url: https://books.google.com/books?id=oRRaAAAAcAAJ&pg=RA1-PA1
 cast:
   - name: Graf Rochester.
@@ -60190,7 +60208,7 @@ editions:
     url: https://books.google.com/books?id=iGsAAAAAcAAJ&pg=PA155
   - title: "Sechs Lustspiele. Zweyte Auflage. Coppenhagen und Leipzig 1746, S. 155–204"
     url: https://books.google.com/books?id=vGAzAQAAMAAJ&pg=RA1-PA155
-  - title: "De Dänische Schaubühne. Zweyter Band. Kopenhagen: Rothe 1761, S. 139–182"
+  - title: "Die Dänische Schaubühne. Zweyter Band. Kopenhagen: Rothe 1761, S. 139–182"
     url: https://books.google.com/books?id=HWsAAAAAcAAJ&pg=PA139
 comments:
   - Auch unter dem Titel »Diederich Menschenschröck. Ein Lustspiel in einer Handlung« (1752)
@@ -78428,7 +78446,7 @@ editions:
 cast:
   - name: Madame Ehrenpreis.
     gender: f
-  - name: Charlotte.
+  - name: Charlotte,
     role: ihre Stieftochter.
     gender: f
   - name: Agnete,
