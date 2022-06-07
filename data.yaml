@@ -42815,7 +42815,7 @@ keywords:
 ids:
   wikidata: Q111669378
 comments:
-  - "Die Übersetzung wird auch Gottfried Wilhelm Fink zugeschrieben (vielleicht handelt es sich aber auch um zwei verschiedene Übersetzungen?)."
+  - "Die Übersetzung wird mitunter (und wohl fälschlicherweise) auch Gottfried Wilhelm Fink zugeschrieben. Es ist eher unwahrscheinlich, dass es sich um zwei verschiedene Übersetzungen handelt."
 cast:
   - name: Hoang-Puff,
     role: Statthalter von Schekiang.
@@ -73475,6 +73475,63 @@ cast:
 settings:
   - description: >-
       Scene. Busch. – Hinten die Mauer eines Landhauses. Nacht, Wetterleuchten, und entfernte zuweilen sich nähernde Donner.
+---
+id: ein002389
+slug: rambach-die-kuhpocken
+author:
+  name: Rambach, Friedrich Eberhard
+  wikidata: Q100583
+title: Die Kuhpocken
+subtitle: Ein Familiengemälde in einem Akt
+numberOfScenes: 17
+printed: 1802
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Quien 1802"
+    url: https://books.google.com/books?id=Z2lUAAAAcAAJ&printsec=frontcover
+comments:
+  - "»Die Bühne zu Magdeburg hat die Gefälligkeit gehabt, dieses Stück zu geben.« (Vorrede, [S. IV](https://books.google.com/books?id=Z2lUAAAAcAAJ&pg=PP8))"
+  - "Inhaltsangabe in Wilhelm Stricker: Medicinische Poesie vor hundert Jahren. In: Neues Frankfurter Museum. Beiblatt der »Zeit«. Nr. 29 (Sonntag, 5. Mai 1861), S. 226–228, hier [S. 228](https://books.google.com/books?id=9tBGAAAAcAAJ&pg=PA228)."
+cast:
+  - name: Baron von Halm.
+    gender: m
+  - name: Sophie,
+    role: seine Gemahlin.
+    gender: f
+  - group:
+      - name: Wilhelm,
+        role: 5 Jahr
+        gender: m
+      - name: Louise,
+        role: 3 Jahr
+        gender: f
+      - name: Franz,
+        role: 1 Jahr alt
+        gender: m
+    role: ihre Kinder.
+  - name: Baronesse v. Ehegestern,
+    role: Tante des Barons.
+    gender: f
+  - name: Doktor Zink,
+    role: Bruder der Baronesse v. Halm.
+    gender: m
+  - name: Prediger Braun.
+    gender: m
+  - name: Marie,
+    role: dessen Schwester.
+    gender: f
+  - name: Otter,
+    role: Dorfbarbier.
+    gender: m
+  - name: Der Schulze.
+    gender: m
+  - name: Bediente.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Die Scene ist auf dem Gute des Barons, in der Wohnung des Predigers.
 ---
 id: ein001708
 slug: rambach-margot-oder-das-misverstaendniss
