@@ -2236,7 +2236,7 @@ author:
   name: Angely, Louis
   wikidata: Q76070
 title: Schlafrock und Uniform
-subtitle: Lustspiele in Einem Akt, frei nach dem Französischen des Vial
+subtitle: Lustspiel in Einem Akt, frei nach dem Französischen des Vial
 numberOfScenes: 22
 printed: 1828
 premiered: 1825-08-30
@@ -3816,6 +3816,19 @@ cast:
     gender: f
 settings:
   - description: Der Schauplatz ist in Arists Stube.
+---
+id: ein002388
+slug: anonym-das-opfer-treuer-unterthanen
+author:
+  pseudonym: Anonym
+title: Das Opfer treuer Unterthanen
+subtitle: Ein allegorisches Vorspiel in 1 Akt
+premiered: 1794-10-12
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 49
+reviews:
+  - "Allgemeines europäisches Journal. Zweiten Bandes zweites Stück. Brünn: Traßler 1794, [S. 345](https://books.google.com/books?id=zf5IAAAAcAAJ&pg=PA345)."
 ---
 id: ein000084
 slug: anonym-das-orakel-1745
@@ -16710,6 +16723,8 @@ editions:
 comments:
   - Datierung unsicher. Bände 1–22 der »Deutschen Schaubühne« bei Jenisch und Stage [erschienen 1810–1813](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA143).
   - "Druckfehler: Es gibt zwei Mal »Siebenter Auftritt« ([S. 111](https://books.google.com/books?id=3ARIAAAAcAAJ&pg=PA111) und [S. 115](https://books.google.com/books?id=3ARIAAAAcAAJ&pg=PA115)), daher insgesamt also nicht acht, sondern neun Auftritte."
+ids:
+  wikidata: Q111939679
 cast:
   - name: Der Hausherr.
     gender: m
@@ -24767,7 +24782,7 @@ author:
   name: Chézy, Helmina von
   wikidata: Q67815
 title: Der neue Narziß
-subtitle: Lustspiele in einem Aufzug
+subtitle: Lustspiel in einem Aufzug
 numberOfScenes: 7
 printed: 1824
 premiered: 1823-10-26
@@ -24778,12 +24793,15 @@ editions:
     url: https://books.google.com/books?id=qCFZAAAAcAAJ&pg=PA335
 ids:
   weber: A021285
+  wikidata: Q112170260
 comments:
   - "Auch unter den Titeln »Der neue Narziß. Dramatische Kleinigkeit in einem Aufzuge« (1823) und »Der Wunderquell« (1824), vgl. [Weber-Gesamtausgabe](https://weber-gesamtausgabe.de/de/A000288/Werke/A021285.html)."
 reviews:
   - "Zeitung für die elegante Welt. Nr. 191 (Dienstags, den 30. September 1823), [Sp. 1530–1531](https://books.google.com/books?id=-oxEAAAAcAAJ&pg=PA1529)."
+keywords:
+  - Eheanbahnung
 cast:
-  - name: Der Pächter.
+  - name: Der Pachter.
     gender: m
   - name: Rose,
     role: seine Tochter.
@@ -24861,6 +24879,11 @@ dictionaries:
 editions:
   - title: "Frankfurt und Leipzig: Brönner 1783"
     url: https://books.google.com/books?id=sic7AAAAcAAJ&printsec=frontcover
+reviews:
+  - "Allgemeine deutsche Bibliothek. Des fünf und sechzigsten Bandes erstes Stück. Berlin und Stettin: Nicolai 1786, [S. 120–121](https://books.google.com/books?id=rVz-JACxPoQC&pg=PA120)."
+keywords:
+  - Eheanbahnung
+  - Liebesprobe
 cast:
   - name: Herr von Braunendorf.
     gender: m
@@ -30145,6 +30168,8 @@ comments:
   - Auch unter dem Titel »Der Edelknabe. Ein Lustspiel in einem Aufzuge«.
 keywords:
   - Kindertheater
+reviews:
+  - "Frankfurter gelehrte Anzeigen. Nro. L. (Den 23. Jun. 1775), [S. 423–425](https://digitale.bibliothek.uni-halle.de/vd18p/periodical/pageview/11135722)."
 cast:
   - name: Der Fürst von ***,
     role: in Jagdkleidern.
@@ -35560,7 +35585,7 @@ printed: 1776
 formalia:
   - Prosa
 basedOn:
-  - rousseau-pygmalion
+  - panard-l-affichard-pigmalion
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 313
@@ -42778,13 +42803,19 @@ printed: 1826
 premiered: 1822-09-30
 formalia:
   - Prosa
+basedOn:
+  - caigniez-bilderbeck-le-mandarin-hoang-pouf
 editions:
   - title: "Dramatische Kleinigkeiten. Von Herzenskron. Wien: Tendler und von Manstein 1826, S. 63–103"
     url: https://books.google.com/books?id=Wx9tUcsOG90C&pg=PA63
+  - title: "Wiener Theater-Repertoir. 22ste Lieferung. Neue Auflage. Wien: Wallishausser 1853, S. 1–14"
+    url: https://books.google.com/books?id=TCdpAAAAcAAJ&pg=RA1-PA1
 keywords:
   - China
 ids:
   wikidata: Q111669378
+comments:
+  - "Die Übersetzung wird mitunter (und wohl fälschlicherweise) auch Gottfried Wilhelm Fink zugeschrieben. Es ist eher unwahrscheinlich, dass es sich um zwei verschiedene Übersetzungen handelt."
 cast:
   - name: Hoang-Puff,
     role: Statthalter von Schekiang.
@@ -43190,6 +43221,7 @@ editions:
   - title: "Komisches Theater der Franzosen. Für die Deutschen. Herausgegeben von J. G. Dyk. Dritter Theil. Leipzig: Dyk 1778, S. 337–396"
     url: https://books.google.com/books?id=ytpfAAAAcAAJ&pg=PA337
 comments:
+  - Autor vermutlich Johann C. Heydenreich.
   - Aufführungen der Koch'schen Truppe in Leipzig (1753) und Lübeck (1759) und der Seyler'schen Truppe in Hannover (1770).
 cast:
   - name: Frau Thomsen,
@@ -47200,7 +47232,7 @@ formalia:
   - Prosa
 dictionaries:
   - name: iffland
-    pages: S. 240–244
+    pages: S. 240–241
 editions:
   - title: "Mannheim: Schwan 1793"
   - title: "Wien: Wallishausser 1801"
@@ -47296,19 +47328,21 @@ author:
   name: Iffland, August Wilhelm
   wikidata: Q215115
 title: Liebe und Wille
-subtitle: Ein ländliches Gespräch in einer Handlung
+subtitle: Ein ländliches Gespräch in Einer Handlung. Zum Besten der Hinterlassenen derer, welche im Kampfe für das Vaterland geblieben sind
 numberOfScenes: 6
-printed: 1811
+printed: 1814
+premiered: 1814-01-09
 formalia:
   - Prosa
 dictionaries:
   - name: iffland
-    pages: S. 161–164
+    pages: S. 161–165
 editions:
+  - title: "Berlin 1814"
   - title: "Theater von Aug. Wilh. Iffland. Erste vollständige Ausgabe. Dreiundzwanzigster Band. Wien: Klang 1843, S. 299–314"
     url: https://books.google.com/books?id=aQd7mN90joYC&pg=PA299
 comments:
-  - "Auf dem Titelblatt: »Zum Besten der Hinterlassenen derer, welche im Kampf für das Vaterland geblieben sind.«"
+  - "Die Angabe »(Erschien 1811.)« auf der Titelseite der Ausgabe von 1843 ist falsch, eine Ausgabe vor 1814 war nicht ermittelbar."
 cast:
   - name: Gerhard Faber,
     role: Müller.
@@ -48035,6 +48069,8 @@ editions:
 comments:
   - "Autorschaft erschlossen via »Das gelehrte Teutschland«."
   - "Obwohl Johann Gottlieb Schummel in der Vorrede seines Dreiakters [»Das Duell«](https://books.google.com/books?id=LH2sMpIlhqoC&printsec=frontcover) angibt, Jesters Einakter erst nach Fertigstellung seines Dreiakters gelesen zu haben, wird das schon von Zeitgenossen angezweifelt (vgl. Alexander Košenina: Nachwort. In: Johann Gottlieb Schummel: Das Duell. Hannover: Wehrhahn 2012, S. 67–72, hier S. 70–71)."
+reviews:
+  - "Allgemeine deutsche Bibliothek. Des siebenzehnten Bandes erstes Stück. Berlin und Stettin: Nicolai 1772, [S. 218–219](https://books.google.com/books?id=iclMAAAAcAAJ&pg=PA218)."
 cast:
   - name: Herr von Whigall,
     role: ein gewesener Offizier.
@@ -50906,6 +50942,8 @@ basedOn:
 editions:
   - title: "F. A. von Kurländers dramatischer Almanach für das Jahr 1841. Fortgesetzt von C. W. Koch. Einunddreißigster Jahrgang. Leipzig: Baumgärtner 1841, S. 143–209"
     url: https://books.google.com/books?id=oyqxfWuOkBIC&pg=PA143
+keywords:
+  - Eheanbahnung
 cast:
   - name: Von Hornfeld,
     role: Gutsbesitzer.
@@ -51695,6 +51733,7 @@ comments:
   - Fortsetzung von Heynes [»Die beiden Billets«](heyne-die-beiden-billets) (1783).
 keywords:
   - Die beiden Billets
+  - Liebesprobe
 ids:
   wikidata: Q111592520
 cast:
@@ -54044,6 +54083,7 @@ editions:
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044928_00073.html
 ids:
   weber: A020800
+  wikidata: Q112164010
 comments:
   - Laut Kotzebue-Lexikon ist es nicht ganz klar, ob Georges Duval das Stück ins Französische [»Une journée à Versailles. Comédie en trois actes et en prose«](https://books.google.com/books?id=qclHAQAAMAAJ&printsec=frontcover) (EA am 20. Dezember 1814 in Paris; Erstdruck 1815) übertrug oder Kotzebue Duvals Dreiakter ins Deutsche.
 keywords:
@@ -54111,6 +54151,8 @@ keywords:
   - Französische Revolution
   - Rolle der Frau
   - Ehe
+ids:
+  wikidata: Q111939198
 cast:
   - name: Duport,
     role: ein alter Militär.
@@ -56259,6 +56301,8 @@ editions:
     url: https://books.google.com/books?id=8JkyAQAAMAAJ&printsec=frontcover
   - title: "[Augsburg: Stade] 1777"
     url: https://books.google.com/books?id=qjHZ9BYZl0QC&printsec=frontcover
+reviews:
+  - "Allgemeine deutsche Bibliothek. Des ein und dreyßigsten Bandes zweytes Stück. Berlin und Stettin: Nicolai 1777, [S. 497–498](https://books.google.com/books?id=4yYoAAAAYAAJ&pg=PA497)."
 cast:
   - name: Brawe,
     role: Vater.
@@ -59990,7 +60034,7 @@ printed: 1820
 formalia:
   - Prosa
 editions:
-  - title: "Taschenbuch vom kaiserl. königl. privilegirten Theater in der Leopoldstadt. Siebenter Jahrgang.  Wien 1820, S. 1–35"
+  - title: "Taschenbuch vom kaiserl. königl. privilegirten Theater in der Leopoldstadt. Siebenter Jahrgang. Wien 1820, S. 1–35"
     url: https://books.google.com/books?id=oRRaAAAAcAAJ&pg=RA1-PA1
 cast:
   - name: Graf Rochester.
@@ -60190,7 +60234,7 @@ editions:
     url: https://books.google.com/books?id=iGsAAAAAcAAJ&pg=PA155
   - title: "Sechs Lustspiele. Zweyte Auflage. Coppenhagen und Leipzig 1746, S. 155–204"
     url: https://books.google.com/books?id=vGAzAQAAMAAJ&pg=RA1-PA155
-  - title: "De Dänische Schaubühne. Zweyter Band. Kopenhagen: Rothe 1761, S. 139–182"
+  - title: "Die Dänische Schaubühne. Zweyter Band. Kopenhagen: Rothe 1761, S. 139–182"
     url: https://books.google.com/books?id=HWsAAAAAcAAJ&pg=PA139
 comments:
   - Auch unter dem Titel »Diederich Menschenschröck. Ein Lustspiel in einer Handlung« (1752)
@@ -70476,6 +70520,8 @@ comments:
   - Nach den drei Szenen folgen noch drei Tableaus mit Deklamationen.
 keywords:
   - allegorische Figuren
+reviews:
+  - "Der Sammler. Nr. 3 (Sonnabend, den 7. Jänner 1832), [S. 12](https://books.google.com/books?id=9gxHAQAAIAAJ&pg=PA12)."
 cast:
   - name: Das alte Jahr.
     gender: u
@@ -73429,6 +73475,63 @@ cast:
 settings:
   - description: >-
       Scene. Busch. – Hinten die Mauer eines Landhauses. Nacht, Wetterleuchten, und entfernte zuweilen sich nähernde Donner.
+---
+id: ein002389
+slug: rambach-die-kuhpocken
+author:
+  name: Rambach, Friedrich Eberhard
+  wikidata: Q100583
+title: Die Kuhpocken
+subtitle: Ein Familiengemälde in einem Akt
+numberOfScenes: 17
+printed: 1802
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Quien 1802"
+    url: https://books.google.com/books?id=Z2lUAAAAcAAJ&printsec=frontcover
+comments:
+  - "»Die Bühne zu Magdeburg hat die Gefälligkeit gehabt, dieses Stück zu geben.« (Vorrede, [S. IV](https://books.google.com/books?id=Z2lUAAAAcAAJ&pg=PP8))"
+  - "Inhaltsangabe in Wilhelm Stricker: Medicinische Poesie vor hundert Jahren. In: Neues Frankfurter Museum. Beiblatt der »Zeit«. Nr. 29 (Sonntag, 5. Mai 1861), S. 226–228, hier [S. 228](https://books.google.com/books?id=9tBGAAAAcAAJ&pg=PA228)."
+cast:
+  - name: Baron von Halm.
+    gender: m
+  - name: Sophie,
+    role: seine Gemahlin.
+    gender: f
+  - group:
+      - name: Wilhelm,
+        role: 5 Jahr
+        gender: m
+      - name: Louise,
+        role: 3 Jahr
+        gender: f
+      - name: Franz,
+        role: 1 Jahr alt
+        gender: m
+    role: ihre Kinder.
+  - name: Baronesse v. Ehegestern,
+    role: Tante des Barons.
+    gender: f
+  - name: Doktor Zink,
+    role: Bruder der Baronesse v. Halm.
+    gender: m
+  - name: Prediger Braun.
+    gender: m
+  - name: Marie,
+    role: dessen Schwester.
+    gender: f
+  - name: Otter,
+    role: Dorfbarbier.
+    gender: m
+  - name: Der Schulze.
+    gender: m
+  - name: Bediente.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Die Scene ist auf dem Gute des Barons, in der Wohnung des Predigers.
 ---
 id: ein001708
 slug: rambach-margot-oder-das-misverstaendniss
@@ -77304,6 +77407,8 @@ keywords:
   - Religion
   - Islam
   - Christentum
+reviews:
+  - "Allgemeine deutsche Bibliothek. Des siebenzehnten Bandes erstes Stück. Berlin und Stettin: Nicolai 1772, [S. 218](https://books.google.com/books?id=iclMAAAAcAAJ&pg=PA218)."
 cast:
   - name: Rustan.
     gender: m
@@ -78428,7 +78533,7 @@ editions:
 cast:
   - name: Madame Ehrenpreis.
     gender: f
-  - name: Charlotte.
+  - name: Charlotte,
     role: ihre Stieftochter.
     gender: f
   - name: Agnete,
@@ -79844,6 +79949,7 @@ title: Glück durch Unglück
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 9
 printed: 1808
+premiered: 1814-06-04
 formalia:
   - Prosa
 editions:
@@ -81220,6 +81326,8 @@ dictionaries:
 editions:
   - title: "Frankfurt und Leipzig: Fleischer 1777"
     url: https://books.google.com/books?id=SRdYAAAAcAAJ&printsec=frontcover
+reviews:
+  - "Frankfurter gelehrte Anzeigen. Nro. XCIII. (Den 21 November 1777), [S. 744](https://digitale.bibliothek.uni-halle.de/vd18p/periodical/pageview/11145226)."
 cast:
   - name: Die Fürstin.
     gender: f
@@ -81884,6 +81992,9 @@ formalia:
 editions:
   - title: "Dramatischer Jugendfreund von Friedrich Ludwig Schmidt. Ein Weihnachtsgeschenk mit illuminirten Kupfern. Hamburg: Hoffmann 1812, S. 69–112"
     url: https://books.google.com/books?id=IZpsGl3BQU8C&pg=PA69
+keywords:
+  - Gelehrtensatire
+  - Verstellspiel
 cast:
   - name: Berg,
     role: ein reicher Pachter.
@@ -84428,8 +84539,8 @@ dictionaries:
 editions:
   - title: "Lustspiele ohne Heyrathen. von dem Verfasser der Empfindsamen Reisen durch Deutschland. Wittenberg und Zerbst: Zimmermann 1773, S. 159–190"
     url: https://books.google.com/books?id=jiNVAAAAcAAJ&pg=PA159
-comments:
-  - "Von Goethe besprochen in: Frankfurter gelehrte Anzeigen. Nro. V. Den 15. Januar 1773, [S. 39–40](https://doi.org/10.11588/diglit.27330#0043)."
+reviews:
+  - "Von Goethe besprochen in: Frankfurter gelehrte Anzeigen. Nro. V. (Den 15. Januar 1773), [S. 39–40](https://doi.org/10.11588/diglit.27330#0043)."
 cast:
   - name: Dumpf,
     role: ein Würzkrämer.
@@ -84505,8 +84616,8 @@ dictionaries:
 editions:
   - title: "Lustspiele ohne Heyrathen. von dem Verfasser der Empfindsamen Reisen durch Deutschland. Wittenberg und Zerbst: Zimmermann 1773, S. 5–64"
     url: https://books.google.com/books?id=jiNVAAAAcAAJ&pg=PA5
-comments:
-  - "Von Goethe besprochen in: Frankfurter gelehrte Anzeigen. Nro. V. Den 15. Januar 1773, [S. 39–40](https://doi.org/10.11588/diglit.27330#0043)."
+reviews:
+  - "Von Goethe besprochen in: Frankfurter gelehrte Anzeigen. Nro. V. (Den 15. Januar 1773), [S. 39–40](https://doi.org/10.11588/diglit.27330#0043)."
 cast:
   - name: Der Herr von Taubenhayn,
     role: ein Landedelmann.
@@ -88440,6 +88551,7 @@ id: ein002061
 slug: suabe-der-sehende-blinde
 author:
   name: Suabe, Carl August
+  wikidata: Q111924752
 title: Der Sehende Blinde
 subtitle: Ein Nachspiel in Versen, nach dem Französischen des Herrn Le Grand
 numberOfScenes: 29
@@ -91732,6 +91844,8 @@ reviews:
   - "Der Humorist. Nr. 146 (Montag, den 24. Juli 1843), [S. 591](https://books.google.com/books?id=oOTDeZjFtBYC&pg=PA591)."
 comments:
   - "Theaterzettel: [München 1843](https://books.google.com/books?id=-S1DAAAAcAAJ&pg=PA65-IA67)."
+keywords:
+  - Verkleidungsspiel
 cast:
   - name: Herr von Gumpelheim.
     gender: m
@@ -91777,6 +91891,8 @@ editions:
     url: https://books.google.com/books?id=svFVGEeGU_oC&printsec=frontcover
 reviews:
   - "Allgemeine Theaterzeitung. Originalblatt für Kunst, Literatur, Musik, Mode und geselliges Leben. Nro. 184 (Wien, Mittwoch den 3. August 1842), [S. 823](https://books.google.com/books?id=CJV_304uEScC&pg=PA823)."
+keywords:
+  - Eheanbahnung
 cast:
   - name: Herr von Mosack,
     role: Tabackfabrikant.
@@ -95142,6 +95258,8 @@ editions:
     url: https://books.google.com/books?id=0_3d6Jxq1QUC&printsec=frontcover
 comments:
   - »Die Musik ist vom Herrn Kapellmeister Wolf zu Weimar.«
+reviews:
+  - "Gothaische gelehrte Anzeigen. Ein und funfzigstes Stück (den sechs und zwanzigsten Junius, 1779), [Sp. 409–410](https://books.google.com/books?id=CzNRAAAAYAAJ&pg=RA1-PA409)."
 cast:
   - name: Robert.
     gender: m
@@ -98967,6 +99085,9 @@ editions:
     url: https://books.google.com/books?id=fdw40xIhsEEC&printsec=frontcover
 comments:
   - "1776 aufgeführt unter dem Titel »Der großmüthige und wohlthätige Mann oder die tugendhafte Wilhelmine. Schauspiel in 2 Aufzügen« (1776)."
+reviews:
+  - "Jenaische Zeitungen von Gelehrten Sachen. CIIII. Stück (Freytags den 29. December 1775), [S. 894–895](https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00130517/JGZ_1775_%200899.tif)."
+  - "Erlangische Gelehrte Anmerkungen und Nachrichten. III. Stück (Dienstags, den 16. Januar 1776), [S. 21–22](https://digitale.bibliothek.uni-halle.de/vd18p/periodical/pageview/11577997)."
 cast:
   - name: Der König.
     gender: m
