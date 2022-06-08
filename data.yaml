@@ -96948,6 +96948,33 @@ settings:
   - description: >-
       Die Handlung ist Anfangs in des Generals, am Ende in des Baron Ottenthals Wohnung.
 ---
+id: ein002390
+slug: weikert-der-hausherr-in-der-klemme
+author:
+  name: Weikert, Johann Wolfgang
+  wikidata: Q19594525
+title: Der Hausherr in der Klemme
+subtitle: Lustspiel in 1 Akt. In Nürnberger Mundart
+numberOfScenes: 12
+printed: 1817
+formalia:
+  - Alexandriner
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1817"
+    url: https://books.google.com/books?id=lzFNAAAAcAAJ&printsec=frontcover
+comments:
+  - "Nach dem Vorbild von Heinrich Beyers [gleichnamigen Einakter](beyer-der-hausherr-in-der-klemme)."
+cast:
+  - name: Flächsla,
+    role: a reicher Verlieger.
+    gender: m
+  - name: Kätel,
+    role: seih Haushälteri.
+    gender: f
+  - name: Gürla,
+    role: seih Duthla.
+    gender: m
+---
 id: ein002258
 slug: weiskern-die-wirkung-der-rechtschaffenheit
 author:
