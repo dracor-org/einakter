@@ -16723,6 +16723,9 @@ editions:
 comments:
   - Datierung unsicher. Bände 1–22 der »Deutschen Schaubühne« bei Jenisch und Stage [erschienen 1810–1813](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA143).
   - "Druckfehler: Es gibt zwei Mal »Siebenter Auftritt« ([S. 111](https://books.google.com/books?id=3ARIAAAAcAAJ&pg=PA111) und [S. 115](https://books.google.com/books?id=3ARIAAAAcAAJ&pg=PA115)), daher insgesamt also nicht acht, sondern neun Auftritte."
+keywords:
+  - Verkleidungsspiel
+  - Eheanbahnung
 ids:
   wikidata: Q111939679
 cast:
@@ -34848,6 +34851,25 @@ cast:
   - name: Masken.
     isGroup: true
     gender: u
+---
+id: ein002393
+slug: gotter-die-schlaue-wittwe
+author:
+  name: Gotter, Friedrich Wilhelm
+  wikidata: Q70356
+title: Die schlaue Wittwe
+subtitle: Lustspiel in 1 A. nach dem Italienischen
+created: 1775
+premiered: 1776-03-01
+formalia:
+  - Prosa
+basedOn:
+  - goldoni-la-vedova-scaltra
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 78
+comments:
+  - "»Schon 1775 hatte Gotter ein Lustspiel nach dem Italienischen bearbeitet, und zwar ›Die schlaue Wittwe‹ von Goldoni; das Stück ist aber weder jemals zum Druck gelangt noch hat sich die Handschrift erhalten; nur soviel läßt sich mit einiger Sicherheit sagen, daß es Gotters Bearbeitung war, welche vom 1. März 1776 ab in Gotha aufgeführt und im ganzen 7 mal wiederholt wurde; wo die ›schlaue Wittwe‹ anderwärts auf der Bühne erscheint, z.B. in Mannheim, ist es ungewiß, ob es sich gerade um Gotters Übersetzung handelt.« (Rudolf Schlösser: Friedrich Wilhelm Gotter. Sein Leben und seine Werke. Ein Beitrag zur Geschichte der Bühne und Bühnendichtung im 18. Jahrhundert. Hamburg und Leipzig: Voß 1894, [S. 242](https://books.google.com/books?id=rbACAAAAYAAJ&pg=RA3-PA242))"
 ---
 id: ein000811
 slug: gotter-die-stolze-vasthi
@@ -72524,6 +72546,18 @@ settings:
   - description: >-
       Sehr elegant möblirter Salon; eine Thür rechts führt nach Kronthal's Wohnung, eine gleiche links nach den Zimmern des Justizraths; Flurthür im Hintergrunde.
 ---
+id: ein002392
+slug: plank-die-projektenschmiede
+author:
+  name: Plank, Beda
+  wikidata: Q813791
+title: Die Projektenschmiede
+subtitle: Eine Posse in einem Aufzuge
+premiered: 1796-03-02
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 215
+---
 id: ein001685
 slug: plank-die-stadtprobe
 author:
@@ -73532,6 +73566,46 @@ cast:
 settings:
   - description: >-
       Die Scene ist auf dem Gute des Barons, in der Wohnung des Predigers.
+---
+id: ein002391
+slug: rambach-die-terne-oder-kuenstlerglueck
+author:
+  name: Rambach, Friedrich Eberhard
+  wikidata: Q100583
+title: Die Terne oder Künstlerglück
+subtitle: Ein Nachspiel in einem Akt. Nach dem Französischen
+numberOfScenes: 17
+printed: 1803
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Schüppel 1803"
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN1806413795
+cast:
+  - name: Madame Brander,
+    role: eine reiche Witwe.
+    gender: f
+  - name: Elise,
+    role: ihre Tochter.
+    gender: f
+  - name: Drummer,
+    role: ihr Reisegesellschafter.
+    gender: m
+  - name: Marie,
+    role: ihr Kammermädchen.
+    gender: f
+  - group:
+      - name: Waller,
+        gender: m
+      - name: Bornthal,
+        gender: m
+    role: Künstler.
+  - name: Rost,
+    role: ein junger Kaufmann.
+    gender: m
+settings:
+  - description: >-
+      Ein Badeort. Gemeinschaftliches Zimmer eines Hauses, mit Sopha, Stühlen, Tischen, und drei Thüren.
 ---
 id: ein001708
 slug: rambach-margot-oder-das-misverstaendniss
@@ -83601,6 +83675,7 @@ editions:
     url: https://books.google.com/books?id=bs9UAAAAcAAJ&printsec=frontcover
 comments:
   - "Zur Verwechslung mit den gleichnamigen Mehraktern von Brandes und Gemmingen vgl. [Cäsar Flaischlens Gemmingen-Studie](https://books.google.com/books?id=H0BBAAAAYAAJ&pg=PA145)."
+  - "Auch unter dem Titel »Die reiche Erbschaft« aufgeführt (Solothurn 1790)."
 cast:
   - name: Jürgen,
     role: ein Bauer.
