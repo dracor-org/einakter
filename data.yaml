@@ -38094,6 +38094,39 @@ cast:
     isGroup: true
     gender: u
 ---
+id: ein002394
+slug: hanker-der-handel-a-la-figaro
+author:
+  name: Hanker, Garlieb
+  pseudonym: H..
+  wikidata: Q1494304
+title: Der Handel a la Figaro
+subtitle: Posse, in einem Akt
+numberOfScenes: 10
+printed: 1785
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 235
+editions:
+  - title: "Bunte Reihe. Ein Divertissement in der Sommerlaube. VI. Stück (Hamburg, den 5ten August 1785), S. 90–96; VII. Stück (Hamburg, den 12ten August 1785), S. 99–110; VIII. Stück (Hamburg, den 19ten August 1785), S. 113–127; IX. Stück (Hamburg, den 26ten August 1785), S. 129–136"
+    url: https://digitalisate.sub.uni-hamburg.de/detail/?tx_dlf%5Bid%5D=98966&tx_dlf%5Bpage%5D=98&tx_dlf%5Bdouble%5D=0&cHash=1d5fd0932e4624df9e715b35af1e67e9
+comments:
+  - "Zuschreibung unsicher, vgl. Hans Schröder: Lexikon der hamburgischen Schriftsteller bis zur Gegenwart. Dritter Band. Hamburg 1857, [S. 89](https://books.google.com/books?id=WIxpAAAAcAAJ&pg=PA89)."
+cast:
+  - name: Simon,
+    role: ein Gastwirth.
+    gender: m
+  - name: Sybille,
+    role: seine Schwester.
+    gender: f
+  - name: Baron Vollauf.
+    gender: m
+  - name: Plappermann,
+    role: sein Diener.
+    gender: m
+---
 id: ein000884
 slug: hanker-die-glueckliche-probe
 author:
@@ -42835,6 +42868,7 @@ editions:
 keywords:
   - China
 ids:
+  dracor: ger000571
   wikidata: Q111669378
 comments:
   - "Die Übersetzung wird mitunter (und wohl fälschlicherweise) auch Gottfried Wilhelm Fink zugeschrieben. Es ist eher unwahrscheinlich, dass es sich um zwei verschiedene Übersetzungen handelt."
@@ -70218,6 +70252,41 @@ settings:
       Die Handlung ist in einem Bade.
   - description: >-
       Ein kurzes Zimmer des Barons von Reben mit einer Mittelthüre und zwei Seitenthüren. von Reben zieht den Hofrath von Molsek zur Mittelthüre herein.
+---
+id: ein002395
+slug: o-die-geheimnissvolle-oder-die-charade
+author:
+  pseudonym: O.
+title: Die Geheimnißvolle, oder die Charade
+subtitle: Lustspiel für die Jugend in einem Aufzuge
+numberOfScenes: 5
+printed: 1819
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dresden: Arnoldi 1819"
+    url: https://digital.ub.uni-leipzig.de/object/viewid/0000034939
+comments:
+  - "»Dem Acht und zwanzigsten October gewidmet.« (S. 3)"
+keywords:
+  - Kindertheater
+cast:
+  - name: Marie.
+    gender: f
+  - name: Ida.
+    gender: f
+  - group:
+      - name: Emma,
+        gender: f
+      - name: Adele,
+        gender: f
+    role: Schwestern.
+  - group:
+      - name: Kurt,
+        gender: m
+      - name: Franz,
+        gender: m
+    role: der Letztern Brüder.
 ---
 id: ein001632
 slug: oeser-der-baer
