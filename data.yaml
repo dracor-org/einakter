@@ -33262,7 +33262,9 @@ cast:
     gender: u
 settings:
   - description: >-
-      Zeit der Handlung 1547. (Halle im Schlosse zu Rudolstadt. Gertrud, Engelbrecht und andere Rudolstädter sind versammelt.)
+      Zeit der Handlung 1547.
+  - description: >-
+      Halle im Schlosse zu Rudolstadt. Gertrud, Engelbrecht und andere Rudolstädter sind versammelt.
     location:
       wikidataId: Q517107
 ---
@@ -35873,7 +35875,9 @@ cast:
     gender: m
 settings:
   - description: >-
-      Zeit: 1751. (Zimmer im Hause des Herrn von Montesquieu, meublirt nach der Mode des vorigen Jahrhunderts, und mit einer Mittelthür, die Glasfenster hat und die Aussicht nach einem andern Zimmer, so wie mit zwei Seitenthüren versehen. Von einem Fenster steht ein Flügel offen, und man bemerkt Epheu, dessen Zweige von außen sich herein biegen.)
+      Zeit: 1751.
+  - description: >-
+      Zimmer im Hause des Herrn von Montesquieu, meublirt nach der Mode des vorigen Jahrhunderts, und mit einer Mittelthür, die Glasfenster hat und die Aussicht nach einem andern Zimmer, so wie mit zwei Seitenthüren versehen. Von einem Fenster steht ein Flügel offen, und man bemerkt Epheu, dessen Zweige von außen sich herein biegen.
 ---
 id: ein000833
 slug: gubitz-die-schulzen-wahl
@@ -35948,7 +35952,9 @@ cast:
     gender: m
 settings:
   - description: >-
-      Zeit-Tracht: zwischen 1770 und 1780. (Die Bühne zeigt Garten mit einem Stücke der sehr nahen zum Theil mit Gebüsch gedeckten Mauer; links [vom Parterre aus] bemerkt man, vorgebaut, Theile eines Landhauses, rechts eine Rasenbank um einen starken Baum. Neben der Bank steht ein kleiner Tisch, auf ihm Blanka's Nähekörbchen. Der Hintergrund deutet eine bergige Gegend an.)
+      Zeit-Tracht: zwischen 1770 und 1780.
+  - description: >-
+      Die Bühne zeigt Garten mit einem Stücke der sehr nahen zum Theil mit Gebüsch gedeckten Mauer; links [vom Parterre aus] bemerkt man, vorgebaut, Theile eines Landhauses, rechts eine Rasenbank um einen starken Baum. Neben der Bank steht ein kleiner Tisch, auf ihm Blanka's Nähekörbchen. Der Hintergrund deutet eine bergige Gegend an.
 ---
 id: ein000835
 slug: gubitz-die-talentprobe
@@ -37961,7 +37967,9 @@ cast:
     gender: m
 settings:
   - description: >-
-      Zeit 1579. (Ein Stübchen im großen Hospitale zu Lissabon; die Wände bloß getüncht, hie und da beschädigt und vom Mörtel entblößt. Im Vordergrund der Bühne, rechts vom Zuschauer, ein Tisch, mit Papieren und Büchern bedeckt, und einige Stühle; zur Linken des Zuschauers ein Lehnstuhl, etwas weiter zurück ein ärmliches Lager, auf welchem Camoens schlummert; ein Schwert lehnt an seiner Seite, über seinem Haupte hängt eine bestaubte Laute; im Hintergrunde der Bühne, rechts vom Zuschauer, der Eingang.)
+      Zeit 1579.
+  - description: >-
+      Ein Stübchen im großen Hospitale zu Lissabon; die Wände bloß getüncht, hie und da beschädigt und vom Mörtel entblößt. Im Vordergrund der Bühne, rechts vom Zuschauer, ein Tisch, mit Papieren und Büchern bedeckt, und einige Stühle; zur Linken des Zuschauers ein Lehnstuhl, etwas weiter zurück ein ärmliches Lager, auf welchem Camoens schlummert; ein Schwert lehnt an seiner Seite, über seinem Haupte hängt eine bestaubte Laute; im Hintergrunde der Bühne, rechts vom Zuschauer, der Eingang.
     location:
       wikidataId: Q597
 ---
@@ -51152,7 +51160,7 @@ editions:
   - title: "Romantisch-dramatische Bühnengemälde von J. A. Köllner Werdenau. Erstes Bändchen. Prag: Haas 1825, S. 121–163"
     url: https://books.google.com/books?id=HdNYAAAAcAAJ&pg=PA121
 comments:
-  - "Einakterhinweis [im Inhaltsverzeichnis](https://books.google.com/books?id=HdNYAAAAcAAJ&pg=PP7))."
+  - "Einakterhinweis [im Inhaltsverzeichnis](https://books.google.com/books?id=HdNYAAAAcAAJ&pg=PP7)."
 cast:
   - name: Graf von der Lugstätt.
     gender: m
@@ -51171,7 +51179,9 @@ settings:
   - description: >-
       Die Handlung geht theils im Walde, theils in einer Köhlerhütte vor.
   - description: >-
-      Zeit: das sechszehnte Jahrhundert.) (Eine finstere Waldgegend, etwas tiefer ein hoher Fels, zu dem ein Kreuzweg hinanführt. An der Vorderseite der Eingang in eine Höhle, die Wohnung der Alten vom Felsen. Man hört die Töne mehrerer Jagdhörner in der Ferne nach und nach verhallen.
+      Zeit: das sechszehnte Jahrhundert.
+  - description: >-
+      Eine finstere Waldgegend, etwas tiefer ein hoher Fels, zu dem ein Kreuzweg hinanführt. An der Vorderseite der Eingang in eine Höhle, die Wohnung der Alten vom Felsen. Man hört die Töne mehrerer Jagdhörner in der Ferne nach und nach verhallen.
 ---
 id: ein001186
 slug: koenig-des-zufalls-launen
@@ -79240,6 +79250,20 @@ settings:
     location:
       wikidataId: Q20
 ---
+id: ein002396
+slug: scheler-der-emigrant
+author:
+  name: Scheler, Karl Ernst Friedrich von
+  wikidata: Q95319337
+title: Der Emigrant
+subtitle: Ein Lustspiel in 1 Aufzuge
+printed: 1792
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 205
+editions:
+  - title: "Düsseldorf 1792"
+---
 id: ein001837
 slug: schenk-albrecht-duerer-in-venedig
 author:
@@ -82801,7 +82825,7 @@ editions:
     url: https://books.google.com/books?id=ZfbttwAACAAJ&printsec=frontcover
 comments:
   - "Auch mit Jahreszahl im Titel: »Der Kurmärker und die Picarde 1815« sowie gekürzt zu »Kurmärker und Picarde«."
-  - "Im [Vorwort zur neunten Auflage 1871](https://books.google.com/books?id=ZfbttwAACAAJ&pg=PA3): Das Stück werde seit Beginn des deutsch-französischen Kriegs 1870 wieder vermehrt aufgeführt, es sei »wieder so neu und frisch und lebendig geworden, als sei es im Kriegsjahre 1870 erst verfaßt. [...] Das anmuthend geschriebene Stückchen hat gewissermaßen einen literar-historischen Werth, denn was so lange sich lebendig erhalten, daß es, wie für die großen Befreiungskriege 1813–15, so auch noch heute für den neuen Freiheitskampf passend erscheint, das muß wohl einen tüchtigen Kern haben."
+  - "Im [Vorwort zur neunten Auflage 1871](https://books.google.com/books?id=ZfbttwAACAAJ&pg=PA3): Das Stück werde seit Beginn des deutsch-französischen Kriegs 1870 wieder vermehrt aufgeführt, es sei »wieder so neu und frisch und lebendig geworden, als sei es im Kriegsjahre 1870 erst verfaßt. [...] Das anmuthend geschriebene Stückchen hat gewissermaßen einen literar-historischen Werth, denn was so lange sich lebendig erhalten, daß es, wie für die großen Befreiungskriege 1813–15, so auch noch heute für den neuen Freiheitskampf passend erscheint, das muß wohl einen tüchtigen Kern haben.«"
   - "Mehrere Fortsetzungen anderer Autoren (vgl. [Goedeke](https://books.google.com/books?id=cznnBQAAQBAJ&pg=PA1354)), u.a. von Albert Cohnfeld: [»Die Rückkehr des Landwehrmanns, oder: Der Kurmärker und die Picarde. (Zweiter Theil.) Genrebild mit Gesang und Tanz in 1 Akt«](https://books.google.com/books?id=noN7l_YnVHwC&printsec=frontcover) (aufgef. 1850, gedruckt 1861)."
 cast:
   - name: Marie,
@@ -82812,7 +82836,9 @@ cast:
     gender: m
 settings:
   - description: >-
-      Zeit: 1815. (Das Innere eines französischen Pachthofes. Rechts vom Zuschauer das Pachthaus, vor dessen Thüre eine steinerne Bank steht. Von der hinteren Seite des Hauses geht hinten über das ganze Theater eine steinerne Mauer oder ein hölzerner Zaun, welcher sich auch auf der linken Seite der Bühne, bei den Coulissen vorbei, bis vorne an die erste Coulisse fortzieht, so daß der ganze Bühnenraum geschlossen erscheint. – In der Mitte der Mauer (des Zaunes) ein Thorweg, dessen Flügel geschlossen sind. Neben dem Thorwege eine Tonne, auf welche Marie steigt, um über die Mauer zu sehen. Rechts vor dem Hause ein steinerner runder Tisch unter einem Baume, daneben ein Schemel. Links und an der Mauer entlang allerlei Wirthschaftsgeräth, ein Wagen, Schubkarren, Egge, Tonnen oder dergleichen, um dem Bühnenraum das Ansehen eines Pachthofes zu geben. – Unmittelbar nach der Ouvertüre und während der Vorhang aufgezogen wird, schlägt ein Tambour einen Geschwindmarsch (in Preußen den Parademarsch) und geht dabei hinter den Coulissen entlang, dann aber durch irgend eine Thür in einen anliegenden Raum, so daß der Trommelschlag schwächer wird, und hört auf, wenn Marie aus dem Hause tritt.)
+      Zeit: 1815.
+  - description: >-
+      Das Innere eines französischen Pachthofes. Rechts vom Zuschauer das Pachthaus, vor dessen Thüre eine steinerne Bank steht. Von der hinteren Seite des Hauses geht hinten über das ganze Theater eine steinerne Mauer oder ein hölzerner Zaun, welcher sich auch auf der linken Seite der Bühne, bei den Coulissen vorbei, bis vorne an die erste Coulisse fortzieht, so daß der ganze Bühnenraum geschlossen erscheint. – In der Mitte der Mauer (des Zaunes) ein Thorweg, dessen Flügel geschlossen sind. Neben dem Thorwege eine Tonne, auf welche Marie steigt, um über die Mauer zu sehen. Rechts vor dem Hause ein steinerner runder Tisch unter einem Baume, daneben ein Schemel. Links und an der Mauer entlang allerlei Wirthschaftsgeräth, ein Wagen, Schubkarren, Egge, Tonnen oder dergleichen, um dem Bühnenraum das Ansehen eines Pachthofes zu geben. – Unmittelbar nach der Ouvertüre und während der Vorhang aufgezogen wird, schlägt ein Tambour einen Geschwindmarsch (in Preußen den Parademarsch) und geht dabei hinter den Coulissen entlang, dann aber durch irgend eine Thür in einen anliegenden Raum, so daß der Trommelschlag schwächer wird, und hört auf, wenn Marie aus dem Hause tritt.
     location:
       wikidataId: Q13950
 ---
