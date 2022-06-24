@@ -4845,6 +4845,19 @@ settings:
   - description: >-
       Die Scene ist ein Zimmer der Mad. Limberg im Vordergrund des Theaters, links sieht man eine Toilette; auf der andern Seite ein Clavier, und einen Tisch, worauf Bücher und Musicalien liegen. Im Hintergrund und auf beiden Seiten sind einige Gemälde. In der Mitte, nicht weit vom Clavier, steht auf einer Staffeley ein angefangenes Tableau, worauf man nichts als einen Weiberkopf unterscheiden kann; Das übrige ist bloße Zeichnung. Die Thüre des Zimmers ist in der Mitte; links ein Fenster; auf der nehmlichen Seite die Thür eines Kabinetts.
 ---
+id: ein002397
+slug: anonym-der-eigennuetzige-schulmeister
+author:
+  pseudonym: Anonym
+title: Der eigennützige Schulmeister
+subtitle: Ein sehr lustig Stück in 1 Akt
+premiered: 1781-11-20
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 363
+comments:
+  - "Zum Datum der Erstaufführung vgl. Rudolf Angermüller: Wenzel Müller und »sein« Leopoldstädter Theater. Mit besonderer Berücksichtigung der Tagebücher Wenzel Müllers. Wien; Köln; Weimar: Böhlau 2009, [S. 132](https://books.google.com/books?id=jD94w8tOFoQC&pg=PA132)."
+---
 id: ein000110
 slug: anonym-der-erbe-und-der-braeutigam-auf-der-reise
 author:
@@ -38122,7 +38135,7 @@ dictionaries:
     pages: 2. Abteilung, Band 29, S. 235
 editions:
   - title: "Bunte Reihe. Ein Divertissement in der Sommerlaube. VI. Stück (Hamburg, den 5ten August 1785), S. 90–96; VII. Stück (Hamburg, den 12ten August 1785), S. 99–110; VIII. Stück (Hamburg, den 19ten August 1785), S. 113–127; IX. Stück (Hamburg, den 26ten August 1785), S. 129–136"
-    url: https://digitalisate.sub.uni-hamburg.de/detail/?tx_dlf%5Bid%5D=98966&tx_dlf%5Bpage%5D=98&tx_dlf%5Bdouble%5D=0&cHash=1d5fd0932e4624df9e715b35af1e67e9
+    url: http://resolver.sub.uni-hamburg.de/goobi/PPN1796587826
 comments:
   - "Zuschreibung unsicher, vgl. Hans Schröder: Lexikon der hamburgischen Schriftsteller bis zur Gegenwart. Dritter Band. Hamburg 1857, [S. 89](https://books.google.com/books?id=WIxpAAAAcAAJ&pg=PA89)."
 cast:
@@ -54155,6 +54168,7 @@ editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierzehnter Jahrgang. Leipzig: Hartmann 1816, S. 65–134"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044928_00073.html
 ids:
+  dracor: ger000579
   weber: A020800
   wikidata: Q112164010
 comments:
@@ -54225,6 +54239,7 @@ keywords:
   - Rolle der Frau
   - Ehe
 ids:
+  dracor: ger000578
   wikidata: Q111939198
 cast:
   - name: Duport,
@@ -78690,6 +78705,8 @@ editions:
     url: https://books.google.com/books?id=jN3bTbt8vsMC&printsec=frontcover
   - title: "Grätz 1798"
     url: https://books.google.com/books?id=625HAAAAcAAJ&printsec=frontcover
+ids:
+  wikidata: Q112687919
 cast:
   - name: Madame Ehrenpreis.
     gender: f
@@ -84383,8 +84400,8 @@ cast:
 id: ein001959
 slug: schuetz-die-katze-laesst-das-mausen-nicht
 author:
-  name: Schütz, Friedrich Wilhelm
-  wikidata: Q94529703
+  name: Schütz, Friedrich Wilhelm von
+  wikidata: Q216443
 title: Die Katze läßt das Mausen nicht
 subtitle: Sprüchwort in einem Aufzuge, als Fortsetzung des Bauernguts
 numberOfScenes: 14
@@ -84394,12 +84411,16 @@ formalia:
   - Prosa
 editions:
   - title: "Altona: Bechtold 1801"
+    url: https://resolver.sub.uni-hamburg.de/goobi/PPN175499735X
 comments:
   - Fortsetzung von Treitschkes Einakter [»Das Bauerngut«](treitschke-das-bauerngut) (1799).
   - Nicht identisch mit Costenobles Einakter [»Die Katze läßt das Mausen nicht«](costenoble-die-katze-laesst-das-mausen-nicht) (1811). Beides sind eigenständige Fortsetzungen des »Bauernguts«.
   - "Auch mit dem Untertitel »Posse« (vgl. Allgemeiner litterarischer Anzeiger. Beilage zu Nr. 192 (Am 15. December 1801), [Sp. 1856](https://books.google.com/books?id=GJ5u13xDiEwC&pg=PA1855))."
 keywords:
   - Die beiden Billets
+ids:
+  dracor: ger000580
+  wikidata: Q112686910
 cast:
   - name: Gürge.
     gender: m
