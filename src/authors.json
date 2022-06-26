@@ -1577,6 +1577,21 @@
     },
     "gender": "female"
   },
+  "Q90799": {
+    "name": "Albert Ellmenreich",
+    "gnd": "116452072",
+    "birth": {
+      "date": "1816-02-10T00:00:00Z",
+      "place": "Karlsruhe",
+      "placeId": "http://www.wikidata.org/entity/Q1040"
+    },
+    "death": {
+      "date": "1905-05-30T00:00:00Z",
+      "place": "Lübeck",
+      "placeId": "http://www.wikidata.org/entity/Q2843"
+    },
+    "gender": "male"
+  },
   "Q106887": {
     "name": "Franz von Elsholtz",
     "gnd": "116460253",
@@ -5898,6 +5913,22 @@
       "date": "1777-03-07T00:00:00Z",
       "place": "Obermarchtal",
       "placeId": "http://www.wikidata.org/entity/Q540779"
+    },
+    "gender": "male"
+  },
+  "Q215060": {
+    "name": "Christian Gotthilf Salzmann",
+    "gnd": "118605232",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian-Gotthilf-Salzmann.jpg",
+    "birth": {
+      "date": "1744-06-01T00:00:00Z",
+      "place": "Sömmerda",
+      "placeId": "http://www.wikidata.org/entity/Q530794"
+    },
+    "death": {
+      "date": "1811-10-31T00:00:00Z",
+      "place": "Waltershausen",
+      "placeId": "http://www.wikidata.org/entity/Q506743"
     },
     "gender": "male"
   },
