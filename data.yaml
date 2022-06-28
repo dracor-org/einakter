@@ -5921,6 +5921,19 @@ settings:
   - description: >-
       Die Handlung fängt gegen Abend an, und dauert bis es finster ist.
 ---
+id: ein002405
+slug: anonym-der-liebhaber-als-stubenmaedchen
+author:
+  pseudonym: Anonym
+title: Der Liebhaber als Stubenmädchen, und Kasperl als Kindsweib
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem Französischen des Hrn. le Grand
+premiered: 1784-07-05
+basedOn:
+  - legrand-la-metamorphose-amoureuse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 33
+---
 id: ein000137
 slug: anonym-der-liebhaber-ein-schriftsteller-und-ein-lackey
 author:
@@ -41358,6 +41371,18 @@ settings:
     location:
       wikidataId: Q1741
 ---
+id: ein002404
+slug: hensler-der-koch-der-liebe
+author:
+  name: Hensler, Karl Friedrich
+  wikidata: Q1731074
+title: Der Koch der Liebe
+subtitle: Lustspiel in 1 A.
+premiered: 1796
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 131
+---
 id: ein000954
 slug: hensler-der-korb-aus-liebe-oder-frauenzimmer-laune
 author:
@@ -44824,6 +44849,30 @@ cast:
 settings:
   - description: >-
       Das Theater stellt eine ärmliche Stube vor. Eine Seitenthür führt in die Kammer. In der Stube steht ein Tisch, ein Paar Stühle und an der einen Seite ein Kasten oder Koffer mit Lumpen.
+---
+id: ein002406
+slug: hoffmann-der-schulmeister-von-querlequitsch
+author:
+  name: Hoffmann, Georg Friedrich
+  wikidata: Q108045932
+title: Der Schulmeister von Querlequitsch
+subtitle: Lustspiel in 1 Akt. Für eine Frankfurter Privatbühne
+premiered: 1784
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 90
+---
+id: ein002407
+slug: hoffmann-die-schenke-auf-dem-lande
+author:
+  name: Hoffmann, Georg Friedrich
+  wikidata: Q108045932
+title: Die Schenke auf dem Lande
+subtitle: Lustspiel in 1 A. Für eine Frankfurter Privatbühne
+premiered: 1784
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 90
 ---
 id: ein001035
 slug: hoffmann-die-schnelle-bekehrung
