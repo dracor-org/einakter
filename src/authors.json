@@ -3032,6 +3032,16 @@
     },
     "gender": "male"
   },
+  "Q108045932": {
+    "name": "Georg Friedrich Hoffmann",
+    "gnd": "132770830",
+    "birth": {
+      "place": "Frankfurt am Main",
+      "placeId": "http://www.wikidata.org/entity/Q1794"
+    },
+    "death": {},
+    "gender": "male"
+  },
   "Q23726779": {
     "name": "Leopold Alois Hoffmann",
     "gnd": "104355034",
@@ -4781,6 +4791,22 @@
       "placeId": "http://www.wikidata.org/entity/Q16100"
     },
     "death": {},
+    "gender": "male"
+  },
+  "Q1991611": {
+    "name": "Nikolaus Müller",
+    "gnd": "117608122",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaus-M%C3%BCller.jpg",
+    "birth": {
+      "date": "1770-05-14T00:00:00Z",
+      "place": "Mainz",
+      "placeId": "http://www.wikidata.org/entity/Q1720"
+    },
+    "death": {
+      "date": "1851-06-14T00:00:00Z",
+      "place": "Mainz",
+      "placeId": "http://www.wikidata.org/entity/Q1720"
+    },
     "gender": "male"
   },
   "Q1230748": {
