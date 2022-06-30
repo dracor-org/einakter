@@ -517,6 +517,12 @@
     },
     "gender": "male"
   },
+  "Q112771857": {
+    "name": "Heinrich Beyer",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q1405946": {
     "name": "Ferdinand von Biedenfeld",
     "gnd": "116163127",
@@ -4778,6 +4784,21 @@
     },
     "death": {
       "date": "1857-01-12T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "gender": "male"
+  },
+  "Q16739513": {
+    "name": "Julius Mühling",
+    "gnd": "117163902",
+    "birth": {
+      "date": "1793-03-15T00:00:00Z",
+      "place": "Peine",
+      "placeId": "http://www.wikidata.org/entity/Q6850"
+    },
+    "death": {
+      "date": "1874-02-07T00:00:00Z",
       "place": "Berlin",
       "placeId": "http://www.wikidata.org/entity/Q64"
     },

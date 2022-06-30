@@ -53198,7 +53198,9 @@ editions:
 comments:
   - Untertitel 1870 »in einem Aufzuge«.
 ids:
+  dracor: ger000583
   weber: A021001
+  wikidata: Q112775643
 cast:
   - name: Lorenz Kindlein,
     role: der arme Poet.
@@ -68708,6 +68710,42 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist in Töffel's Hause.
+---
+id: ein002411
+slug: muehling-der-junge-werther
+author:
+  name: Mühling, Julius
+  wikidata: Q16739513
+title: "Der junge Werther, oder: Die Macht der Liebe"
+subtitle: Posse mit Gesang in einem Akte, nach dem Französischen
+premiered: 1830
+basedOn:
+  - desaugiers-gentil-de-chavagnac-le-jeune-werther-ou-les-grandes-passions
+comments:
+  - "Alternativer Titel: »Der junge Werther, oder: Qualen eines gefühlvollen Herzens«."
+  - "Nach einer Anekdote hat die Sängerin Angelica Catalani zu Goethe gesagt, »sie habe über seinen Werther herzlich lachen müssen. Sie habe den Wertherroman nicht gekannt und Goethe für den Verfasser der Parodie gehalten.« (Goedeke, Band XI/1, [S. 279](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA279))"
+  - "Theaterzettel: [Bremen 1832](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1758883), [Oldenburg 1835](https://digital.lb-oldenburg.de/ihd/periodical/pageview/399037), [Krefeld 1845](https://digital.ub.uni-duesseldorf.de/id/3141948)."
+ids:
+  wikidata: Q112815242
+cast:
+  - name: Werther.
+    gender: m
+  - name: Robert,
+    role: Gewürzkrämer.
+    gender: m
+  - name: Charlotte,
+    role: seine Frau.
+    gender: f
+  - name: Philippine,
+    role: seine Tochter, ein Kind von 7 Jahren.
+    gender: f
+  - name: Nette,
+    role: ihr Mädchen.
+    gender: f
+  - name: Ein Jokei.
+    gender: m
+  - name: Ein Bursche.
+    gender: m
 ---
 id: ein001591
 slug: muechler-das-zerbrochne-bein
