@@ -24925,6 +24925,7 @@ editions:
   - title: "Orphea Taschenbuch für 1824. Erster Jahrgang. Leipzig: Fleischer [1824], S. 335–367"
     url: https://books.google.com/books?id=qCFZAAAAcAAJ&pg=PA335
 ids:
+  dracor: ger000584
   weber: A021285
   wikidata: Q112170260
 comments:
@@ -47613,6 +47614,9 @@ editions:
     url: https://books.google.com/books?id=aQd7mN90joYC&pg=PA299
 comments:
   - "Die Angabe »(Erschien 1811.)« auf der Titelseite der Ausgabe von 1843 ist falsch, eine Ausgabe vor 1814 war nicht ermittelbar."
+ids:
+  wikidata: Q112947415
+  dracor: ger000587
 cast:
   - name: Gerhard Faber,
     role: Müller.
@@ -48908,7 +48912,7 @@ settings:
 id: ein001127
 slug: kaffka-der-transport
 author:
-  name: Kaffka, Johann Christian
+  name: Kaffka, Johann Christoph
   wikidata: Q821373
 title: Der Transport
 subtitle: Ein Lustspiel in einem Aufzuge
@@ -48922,6 +48926,9 @@ dictionaries:
 editions:
   - title: "Nürnberg 1777"
     url: https://books.google.com/books?id=rM9UAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: ger000589
+  wikidata: Q112960912
 cast:
   - name: Graf Baumberg,
     role: Obrister und Regimentscommandant.
@@ -79002,6 +79009,7 @@ editions:
   - title: "Grätz 1798"
     url: https://books.google.com/books?id=625HAAAAcAAJ&printsec=frontcover
 ids:
+  dracor: ger000586
   wikidata: Q112687919
 cast:
   - name: Madame Ehrenpreis.
@@ -80447,6 +80455,9 @@ comments:
 keywords:
   - Judentum
   - Lotto
+ids:
+  wikidata: Q112929485
+  dracor: ger000585
 cast:
   - name: Hirsch,
     role: Judenrichter.
