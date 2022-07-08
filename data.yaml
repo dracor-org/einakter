@@ -2153,6 +2153,9 @@ reviews:
   - "Blätter für literarische Unterhaltung, Nr. 301 (Donnerstag, 27. October 1836), [S. 1262](https://books.google.com/books?id=6z1aAAAAcAAJ&pg=PA1262)."
 keywords:
   - China
+ids:
+  dracor: ger000576
+  wikidata: Q111976082
 cast:
   - name: Ka-ka-ho,
     role: der Zweiundsechszigste, Kaiser von China.
@@ -4842,6 +4845,19 @@ settings:
   - description: >-
       Die Scene ist ein Zimmer der Mad. Limberg im Vordergrund des Theaters, links sieht man eine Toilette; auf der andern Seite ein Clavier, und einen Tisch, worauf Bücher und Musicalien liegen. Im Hintergrund und auf beiden Seiten sind einige Gemälde. In der Mitte, nicht weit vom Clavier, steht auf einer Staffeley ein angefangenes Tableau, worauf man nichts als einen Weiberkopf unterscheiden kann; Das übrige ist bloße Zeichnung. Die Thüre des Zimmers ist in der Mitte; links ein Fenster; auf der nehmlichen Seite die Thür eines Kabinetts.
 ---
+id: ein002397
+slug: anonym-der-eigennuetzige-schulmeister
+author:
+  pseudonym: Anonym
+title: Der eigennützige Schulmeister
+subtitle: Ein sehr lustig Stück in 1 Akt
+premiered: 1781-11-20
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 363
+comments:
+  - "Zum Datum der Erstaufführung vgl. Rudolf Angermüller: Wenzel Müller und »sein« Leopoldstädter Theater. Mit besonderer Berücksichtigung der Tagebücher Wenzel Müllers. Wien; Köln; Weimar: Böhlau 2009, [S. 132](https://books.google.com/books?id=jD94w8tOFoQC&pg=PA132)."
+---
 id: ein000110
 slug: anonym-der-erbe-und-der-braeutigam-auf-der-reise
 author:
@@ -5275,6 +5291,19 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist eine Gegend von Häusern, wo der Aspasia ihres auch zu sehen ist.
+---
+id: ein002402
+slug: anonym-der-glueckliche-soldat
+author:
+  pseudonym: Anonym
+title: Der glückliche Soldat
+subtitle: Ein Lust-Spiel in Prosa, und einem Aufzug
+premiered: 1772-10-24
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 24, S. 472
 ---
 id: ein000120
 slug: anonym-der-grossmuethige-wider-willen
@@ -5891,6 +5920,19 @@ settings:
       Der Schauplatz ist ausser der Stadt neben einem Gartenhause der Frau Antonette.
   - description: >-
       Die Handlung fängt gegen Abend an, und dauert bis es finster ist.
+---
+id: ein002405
+slug: anonym-der-liebhaber-als-stubenmaedchen
+author:
+  pseudonym: Anonym
+title: Der Liebhaber als Stubenmädchen, und Kasperl als Kindsweib
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem Französischen des Hrn. le Grand
+premiered: 1784-07-05
+basedOn:
+  - legrand-la-metamorphose-amoureuse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 33
 ---
 id: ein000137
 slug: anonym-der-liebhaber-ein-schriftsteller-und-ein-lackey
@@ -6642,6 +6684,17 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 11, S. 323
 ---
+id: ein002408
+slug: anonym-der-sich-selbst-zum-schaden-redende-plauderer
+author:
+  pseudonym: Anonym
+title: Der sich selbst zum Schaden redende Plauderer
+subtitle: Ein Lustspiel in einem Aufzuge
+premiered: 1785-01-06
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 183
+---
 id: ein000154
 slug: anonym-der-sicilianer-oder-amor-ein-mahler
 author:
@@ -6816,7 +6869,7 @@ comments:
   - "Andere Übertragung von Johann Friedrich Schmidt unter dem Titel [»Wer ist in der Liebe unbeständig? Ein Lustspiel in zween Aufzügen«](https://books.google.com/books?id=f2loV8YPCusC&printsec=frontcover) (1777)."
 reviews:
   - "Taschenbuch für Schauspieler und Schauspielliebhaber. Offenbach am Mayn: Weiß 1779, [S. 343](https://books.google.com/books?id=uYpKAAAAcAAJ&pg=PA343)."
-  - "Almanach der deutschen Musen auf das Jahr 1779. Leipzig: Weygand 1779, [S. 175](https://books.google.com/books?id=01leAAAAcAAJ&pg=PA175)."
+  - "Almanach der deutschen Musen auf das Jahr 1779. Leipzig: Weygand [1779], [S. 175](https://books.google.com/books?id=01leAAAAcAAJ&pg=PA175)."
 cast:
   - name: Der Fürst.
     gender: m
@@ -7211,6 +7264,23 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist auf einem Dorfe.
+---
+id: ein002412
+slug: anonym-der-zaenkische-und-doch-verliebte-schaefer
+author:
+  pseudonym: Anonym
+title: Der zänkische und doch verliebte Schäfer
+subtitle: Schäferspiel in 1 Aufzug
+printed: 1783
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 362
+editions:
+  - title: "Frankfurt und Leipzig: Hellmann 1783"
+reviews:
+  - "Journal aller Romane und Schauspiele. Erstes Stück. Leipzig: Schneider 1784, [S. 48–50](https://books.google.com/books?id=ei3gAAAAMAAJ&pg=PA48)."
 ---
 id: ein000168
 slug: anonym-der-zauberguertel
@@ -14515,6 +14585,61 @@ settings:
   - description: >-
       Großer Waffen- und Audienz-Saal im Königsschlosse zu Cordova. Säulen und Gewölbe dieses Saales sind dunkelgelb. An den Coulissen hinunter stehen zu beiden Seiten die lebensgroßen Bilder der Könige von Castilien, Asturien und Leon zu Pferde in voller Rüstung auf viereckigen metallenen Piedestalen. Diese Reihen sind perspectivisch geordnet, und gehen bis zum fernsten Hintergrunde. An den Säulen selbst erblickt man über den Häuptern der Könige auf halber Bühnenhöhe geharnischte Ritterbilder, lanzentragend, und über diesen ragen aus allen Coulissen Fahnen mit den spanischen Farben hervor; indeß andere von viereckiger Form von den Soffiten herab an den Gewölben hängen. – Zu beiden Seiten des Vorgrundes collossale Throne.
 ---
+id: ein002398
+slug: auffenberg-das-glueck-laendlicher-liebe
+author:
+  name: Auffenberg, Joseph Erasmus von
+title: Das Glück ländlicher Liebe
+subtitle: Prolog in einem Aufzuge mit Chören auf die Ankunft des Durchlauchtigsten Prinzen Karls und der Durchlauchtigsten Prinzeßinn Karoline zu Fürstenberg. Von Herrn Oberstwachtmeister Freyherrn von Auffenberg
+numberOfScenes: 9
+printed: 1796
+premiered: 1796
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 58–59
+editions:
+  - title: "Donaueschingen: Mieth 1796"
+reviews:
+  - "Sigmund von Riezler: Geschichte von Donaueschingen. In: Schriften des Vereins für Geschichte und Naturgeschichte der Baar und der angrenzenden Landestheile in Donaueschingen. II. Heft. Karlsruhe: Braun 1872, S. 1–104, hier [S. 49](https://books.google.com/books?id=txEPAAAAYAAJ&pg=RA1-PA49)."
+cast:
+  - name: Biedermann,
+    role: Schulze.
+    gender: m
+  - name: Karl,
+    role: sein Mündel.
+    gender: m
+  - name: Görge,
+    role: ein Bauer.
+    gender: m
+  - name: Marie,
+    role: seine Frau.
+    gender: f
+  - group:
+      - name: Karoline,
+        role: Braut des Karls.
+        gender: f
+      - name: Joseph,
+        role: 15 Jahre alt.
+        gender: m
+      - name: Therese,
+        role: 13 Jahre alt.
+        gender: f
+    role: ihre Kinder.
+  - name: Mitlauter,
+    role: Lehrer.
+    gender: m
+  - name: Kilian,
+    role: sein Sohn.
+    gender: m
+  - name: Bauern, Bäuerinnen.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Handlung geht Abends auf dem Lande vor.
+---
 id: ein000344
 slug: ayrenhoff-die-grosse-batterie
 author:
@@ -15395,6 +15520,23 @@ cast:
     gender: m
 settings:
   - description: v. Holms Wohnung.
+---
+id: ein002403
+slug: bahr-der-graue-bruder
+author:
+  name: Bahr, Robert
+  wikidata: Q94933259
+title: Der graue Bruder
+subtitle: Ein Schauspiel in einem Aufzuge, nach Veit Weber
+printed: 1797
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 322
+editions:
+  - title: "Leipzig und Frankfurt an der Oder: Apitz [1797]"
+    url: https://books.google.com/books?id=dGhKAAAAcAAJ&printsec=frontcover
+reviews:
+  - "Allgemeine Literatur-Zeitung. Numero 231 (Dienstags, den 31. Julius 1798), [Sp. 231–232](https://books.google.com/books?id=E6RFAAAAcAAJ&pg=PA231)."
 ---
 id: ein000364
 slug: bahrdt-zimmermanns-auferstehung-von-den-todten
@@ -16549,8 +16691,10 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 463–464
 editions:
-  - title: "Frankfurt und Leipzig: Erben 1777"
+  - title: "Frankfurt und Leipzig: Mayer 1777"
     url: https://books.google.com/books?id=HhJYAAAAcAAJ&printsec=frontcover
+reviews:
+  - "Anhang zu dem fünf und zwanzigsten bis sechs und dreyßigsten Bande der allgemeinen deutschen Bibliothek. Fünfte Abtheilung. Berlin und Stettin: Nicolai 1780, [S. 2996–2997](https://books.google.com/books?id=pmhcAAAAcAAJ&pg=PA2996)."
 keywords:
   - Eheanbahnung
   - Standesproblematik
@@ -16711,6 +16855,7 @@ id: ein000394
 slug: beyer-der-hausherr-in-der-klemme
 author:
   name: Beyer, Heinrich
+  wikidata: Q112771857
 title: Der Hausherr in der Klemme
 subtitle: Ein Spiel in Versen in einem Aufzug
 numberOfScenes: 9
@@ -16723,7 +16868,11 @@ editions:
 comments:
   - Datierung unsicher. Bände 1–22 der »Deutschen Schaubühne« bei Jenisch und Stage [erschienen 1810–1813](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA143).
   - "Druckfehler: Es gibt zwei Mal »Siebenter Auftritt« ([S. 111](https://books.google.com/books?id=3ARIAAAAcAAJ&pg=PA111) und [S. 115](https://books.google.com/books?id=3ARIAAAAcAAJ&pg=PA115)), daher insgesamt also nicht acht, sondern neun Auftritte."
+keywords:
+  - Verkleidungsspiel
+  - Eheanbahnung
 ids:
+  dracor: ger000582
   wikidata: Q111939679
 cast:
   - name: Der Hausherr.
@@ -16738,6 +16887,7 @@ id: ein000395
 slug: beyer-die-beiden-tanten
 author:
   name: Beyer, Heinrich
+  wikidata: Q112771857
 title: Die beiden Tanten
 subtitle: Posse in einem Aufzug
 numberOfScenes: 18
@@ -16775,6 +16925,7 @@ id: ein000396
 slug: beyer-die-projekte
 author:
   name: Beyer, Heinrich
+  wikidata: Q112771857
 title: Die Projekte
 subtitle: Ein Lustspiel in einem Aufzug. Frei nach dem Französischen
 numberOfScenes: 21
@@ -16810,6 +16961,7 @@ id: ein000397
 slug: beyer-die-vier-sterne
 author:
   name: Beyer, Heinrich
+  wikidata: Q112771857
 title: Die vier Sterne
 subtitle: Posse in einem Akt
 numberOfScenes: 24
@@ -19298,11 +19450,15 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 24, S. 293–294
 editions:
-  - title: "Hilscher 1771"
+  - title: "Leipzig: Hilscher 1771"
   - title: "Wien 1773"
     url: https://books.google.com/books?id=RLxTAAAAcAAJ&printsec=frontcover
+  - title: "Leipzig: Hilscher 1778"
   - title: "Zweite Auflage. Leipzig: Hilscher 1784"
     url: https://books.google.com/books?id=rQP0AZX9kXIC&printsec=frontcover
+reviews:
+  - "Almanach der deutschen Musen auf das Jahr 1779. Leipzig: Weygand [1779], [S. 88](https://books.google.com/books?id=s05XAAAAcAAJ&pg=PA88)."
+  - "Anhang zu dem fünf und zwanzigsten bis sechs und dreyßigsten Bande der allgemeinen deutschen Bibliothek. Zweyte Abtheilung. Berlin und Stettin: Nicolai 1780, [S. 712–713](https://books.google.com/books?id=utfKlZjm9cEC&pg=PA712)."
 cast:
   - name: Sternthal,
     role: Herr eines Ritterguths.
@@ -21395,8 +21551,9 @@ dictionaries:
 editions:
   - title: "Warschau: Gröll 1775"
     url: https://resolver.sub.uni-hamburg.de/kitodo/PPN882690582
-comments:
-  - Rezensionen im [Almanach der deutschen Musen auf das Jahr 1776, S. 51](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10104560_00079.html), und in der [Allgemeinen deutschen Bibliothek, 33. Band (1778), S. 533](https://books.google.com/books?id=rgErPIAoLrsC&pg=PA533).
+reviews:
+  - "Almanach der deutschen Musen auf das Jahr 1776. Leipzig: Weygand [1776], [S. 51](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10104560_00079.html)."
+  - "Allgemeine deutsche Bibliothek. Des drey und dreyßigsten Bandes erstes Stück. Berlin und Stettin: Nicolai 1778, [S. 533](https://books.google.com/books?id=rgErPIAoLrsC&pg=PA533)."
 cast:
   - name: Der Graf von Altenhorst.
     gender: m
@@ -24792,6 +24949,7 @@ editions:
   - title: "Orphea Taschenbuch für 1824. Erster Jahrgang. Leipzig: Fleischer [1824], S. 335–367"
     url: https://books.google.com/books?id=qCFZAAAAcAAJ&pg=PA335
 ids:
+  dracor: ger000584
   weber: A021285
   wikidata: Q112170260
 comments:
@@ -29917,6 +30075,44 @@ settings:
   - description: >-
       Die Bühne stellt einen Garten vor, welcher von einer Hecke eingezäunt ist. In der Mitte eine Gatterthüre, über welcher als Schild ein goldenes Lamm angebracht ist. Rechts im Vordergrund ist der Eingang in das Innere des Wirthshauses, an welchem dasselbe Schild hängt. Im Garten stehen mehrere hölzerne Tische und Bänke. Im Hintergrund der Bühne erblickt man eine bergigte Gegend und einige Bauernhäuser.
 ---
+id: ein002400
+slug: ellmenreich-therese-und-fanny-oder-der-enthusiast
+author:
+  name: Ellmenreich, Albert
+  wikidata: Q90799
+title: "Therese und Fanny, oder: Der Enthusiast"
+subtitle: Original-Posse in einem Aufzuge
+printed: 1843
+premiered: 1843-07-12
+comments:
+  - "Theaterzettel: [Hamburg 1843](https://www.stadttheater.uni-hamburg.de/system/files/1843-07-12.pdf)."
+cast:
+  - name: Hippolyte Hyper,
+    role: Rentier aus Paris.
+    gender: m
+  - name: Seine Frau.
+    gender: f
+  - name: Jean,
+    role: Garcon.
+    gender: m
+  - name: Mariette,
+    role: Stubenmädchen.
+    gender: f
+  - name: Charton.
+    gender: m
+  - name: Ein Huissier.
+    gender: m
+  - name: Ein Aufwärter.
+    gender: m
+  - name: Gensd'armen.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Ort der Handlung: Ein Hotel in Boulogne sur mer.
+    location:
+      wikidataId: Q81997
+---
 id: ein000696
 slug: elsholtz-geh-hin
 author:
@@ -33259,7 +33455,9 @@ cast:
     gender: u
 settings:
   - description: >-
-      Zeit der Handlung 1547. (Halle im Schlosse zu Rudolstadt. Gertrud, Engelbrecht und andere Rudolstädter sind versammelt.)
+      Zeit der Handlung 1547.
+  - description: >-
+      Halle im Schlosse zu Rudolstadt. Gertrud, Engelbrecht und andere Rudolstädter sind versammelt.
     location:
       wikidataId: Q517107
 ---
@@ -34849,6 +35047,25 @@ cast:
     isGroup: true
     gender: u
 ---
+id: ein002393
+slug: gotter-die-schlaue-wittwe
+author:
+  name: Gotter, Friedrich Wilhelm
+  wikidata: Q70356
+title: Die schlaue Wittwe
+subtitle: Lustspiel in 1 A. nach dem Italienischen
+created: 1775
+premiered: 1776-03-01
+formalia:
+  - Prosa
+basedOn:
+  - goldoni-la-vedova-scaltra
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 78
+comments:
+  - "»Schon 1775 hatte Gotter ein Lustspiel nach dem Italienischen bearbeitet, und zwar ›Die schlaue Wittwe‹ von Goldoni; das Stück ist aber weder jemals zum Druck gelangt noch hat sich die Handschrift erhalten; nur soviel läßt sich mit einiger Sicherheit sagen, daß es Gotters Bearbeitung war, welche vom 1. März 1776 ab in Gotha aufgeführt und im ganzen 7 mal wiederholt wurde; wo die ›schlaue Wittwe‹ anderwärts auf der Bühne erscheint, z.B. in Mannheim, ist es ungewiß, ob es sich gerade um Gotters Übersetzung handelt.« (Rudolf Schlösser: Friedrich Wilhelm Gotter. Sein Leben und seine Werke. Ein Beitrag zur Geschichte der Bühne und Bühnendichtung im 18. Jahrhundert. Hamburg und Leipzig: Voß 1894, [S. 242](https://books.google.com/books?id=rbACAAAAYAAJ&pg=RA3-PA242))"
+---
 id: ein000811
 slug: gotter-die-stolze-vasthi
 author:
@@ -35851,7 +36068,9 @@ cast:
     gender: m
 settings:
   - description: >-
-      Zeit: 1751. (Zimmer im Hause des Herrn von Montesquieu, meublirt nach der Mode des vorigen Jahrhunderts, und mit einer Mittelthür, die Glasfenster hat und die Aussicht nach einem andern Zimmer, so wie mit zwei Seitenthüren versehen. Von einem Fenster steht ein Flügel offen, und man bemerkt Epheu, dessen Zweige von außen sich herein biegen.)
+      Zeit: 1751.
+  - description: >-
+      Zimmer im Hause des Herrn von Montesquieu, meublirt nach der Mode des vorigen Jahrhunderts, und mit einer Mittelthür, die Glasfenster hat und die Aussicht nach einem andern Zimmer, so wie mit zwei Seitenthüren versehen. Von einem Fenster steht ein Flügel offen, und man bemerkt Epheu, dessen Zweige von außen sich herein biegen.
 ---
 id: ein000833
 slug: gubitz-die-schulzen-wahl
@@ -35926,7 +36145,9 @@ cast:
     gender: m
 settings:
   - description: >-
-      Zeit-Tracht: zwischen 1770 und 1780. (Die Bühne zeigt Garten mit einem Stücke der sehr nahen zum Theil mit Gebüsch gedeckten Mauer; links [vom Parterre aus] bemerkt man, vorgebaut, Theile eines Landhauses, rechts eine Rasenbank um einen starken Baum. Neben der Bank steht ein kleiner Tisch, auf ihm Blanka's Nähekörbchen. Der Hintergrund deutet eine bergige Gegend an.)
+      Zeit-Tracht: zwischen 1770 und 1780.
+  - description: >-
+      Die Bühne zeigt Garten mit einem Stücke der sehr nahen zum Theil mit Gebüsch gedeckten Mauer; links [vom Parterre aus] bemerkt man, vorgebaut, Theile eines Landhauses, rechts eine Rasenbank um einen starken Baum. Neben der Bank steht ein kleiner Tisch, auf ihm Blanka's Nähekörbchen. Der Hintergrund deutet eine bergige Gegend an.
 ---
 id: ein000835
 slug: gubitz-die-talentprobe
@@ -37939,7 +38160,9 @@ cast:
     gender: m
 settings:
   - description: >-
-      Zeit 1579. (Ein Stübchen im großen Hospitale zu Lissabon; die Wände bloß getüncht, hie und da beschädigt und vom Mörtel entblößt. Im Vordergrund der Bühne, rechts vom Zuschauer, ein Tisch, mit Papieren und Büchern bedeckt, und einige Stühle; zur Linken des Zuschauers ein Lehnstuhl, etwas weiter zurück ein ärmliches Lager, auf welchem Camoens schlummert; ein Schwert lehnt an seiner Seite, über seinem Haupte hängt eine bestaubte Laute; im Hintergrunde der Bühne, rechts vom Zuschauer, der Eingang.)
+      Zeit 1579.
+  - description: >-
+      Ein Stübchen im großen Hospitale zu Lissabon; die Wände bloß getüncht, hie und da beschädigt und vom Mörtel entblößt. Im Vordergrund der Bühne, rechts vom Zuschauer, ein Tisch, mit Papieren und Büchern bedeckt, und einige Stühle; zur Linken des Zuschauers ein Lehnstuhl, etwas weiter zurück ein ärmliches Lager, auf welchem Camoens schlummert; ein Schwert lehnt an seiner Seite, über seinem Haupte hängt eine bestaubte Laute; im Hintergrunde der Bühne, rechts vom Zuschauer, der Eingang.
     location:
       wikidataId: Q597
 ---
@@ -38071,6 +38294,39 @@ cast:
   - name: Nebenpersonen.
     isGroup: true
     gender: u
+---
+id: ein002394
+slug: hanker-der-handel-a-la-figaro
+author:
+  name: Hanker, Garlieb
+  pseudonym: H..
+  wikidata: Q1494304
+title: Der Handel a la Figaro
+subtitle: Posse, in einem Akt
+numberOfScenes: 10
+printed: 1785
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 235
+editions:
+  - title: "Bunte Reihe. Ein Divertissement in der Sommerlaube. VI. Stück (Hamburg, den 5ten August 1785), S. 90–96; VII. Stück (Hamburg, den 12ten August 1785), S. 99–110; VIII. Stück (Hamburg, den 19ten August 1785), S. 113–127; IX. Stück (Hamburg, den 26ten August 1785), S. 129–136"
+    url: http://resolver.sub.uni-hamburg.de/goobi/PPN1796587826
+comments:
+  - "Zuschreibung unsicher, vgl. Hans Schröder: Lexikon der hamburgischen Schriftsteller bis zur Gegenwart. Dritter Band. Hamburg 1857, [S. 89](https://books.google.com/books?id=WIxpAAAAcAAJ&pg=PA89)."
+cast:
+  - name: Simon,
+    role: ein Gastwirth.
+    gender: m
+  - name: Sybille,
+    role: seine Schwester.
+    gender: f
+  - name: Baron Vollauf.
+    gender: m
+  - name: Plappermann,
+    role: sein Diener.
+    gender: m
 ---
 id: ein000884
 slug: hanker-die-glueckliche-probe
@@ -41156,6 +41412,18 @@ settings:
     location:
       wikidataId: Q1741
 ---
+id: ein002404
+slug: hensler-der-koch-der-liebe
+author:
+  name: Hensler, Karl Friedrich
+  wikidata: Q1731074
+title: Der Koch der Liebe
+subtitle: Lustspiel in 1 A.
+premiered: 1796
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 131
+---
 id: ein000954
 slug: hensler-der-korb-aus-liebe-oder-frauenzimmer-laune
 author:
@@ -41464,6 +41732,8 @@ comments:
   - "Parodie auf Goethes »Die Leiden des jungen Werthers«."
 reviews:
   - "Julius W. Braun: Goethe im Urtheile seiner Zeitgenossen. Berlin: Luckhardt 1883, [S. 254–258](https://books.google.com/books?id=dZdBAAAAIAAJ&pg=PA254)."
+keywords:
+  - Wertheriade
 cast:
   - name: Lorenz Konau,
     role: ein Buchbinder und Bürgerworthalter.
@@ -42813,6 +43083,7 @@ editions:
 keywords:
   - China
 ids:
+  dracor: ger000571
   wikidata: Q111669378
 comments:
   - "Die Übersetzung wird mitunter (und wohl fälschlicherweise) auch Gottfried Wilhelm Fink zugeschrieben. Es ist eher unwahrscheinlich, dass es sich um zwei verschiedene Übersetzungen handelt."
@@ -44621,6 +44892,30 @@ cast:
 settings:
   - description: >-
       Das Theater stellt eine ärmliche Stube vor. Eine Seitenthür führt in die Kammer. In der Stube steht ein Tisch, ein Paar Stühle und an der einen Seite ein Kasten oder Koffer mit Lumpen.
+---
+id: ein002406
+slug: hoffmann-der-schulmeister-von-querlequitsch
+author:
+  name: Hoffmann, Georg Friedrich
+  wikidata: Q108045932
+title: Der Schulmeister von Querlequitsch
+subtitle: Lustspiel in 1 Akt. Für eine Frankfurter Privatbühne
+premiered: 1784
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 90
+---
+id: ein002407
+slug: hoffmann-die-schenke-auf-dem-lande
+author:
+  name: Hoffmann, Georg Friedrich
+  wikidata: Q108045932
+title: Die Schenke auf dem Lande
+subtitle: Lustspiel in 1 A. Für eine Frankfurter Privatbühne
+premiered: 1784
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 90
 ---
 id: ein001035
 slug: hoffmann-die-schnelle-bekehrung
@@ -47343,6 +47638,9 @@ editions:
     url: https://books.google.com/books?id=aQd7mN90joYC&pg=PA299
 comments:
   - "Die Angabe »(Erschien 1811.)« auf der Titelseite der Ausgabe von 1843 ist falsch, eine Ausgabe vor 1814 war nicht ermittelbar."
+ids:
+  wikidata: Q112947415
+  dracor: ger000587
 cast:
   - name: Gerhard Faber,
     role: Müller.
@@ -48638,7 +48936,7 @@ settings:
 id: ein001127
 slug: kaffka-der-transport
 author:
-  name: Kaffka, Johann Christian
+  name: Kaffka, Johann Christoph
   wikidata: Q821373
 title: Der Transport
 subtitle: Ein Lustspiel in einem Aufzuge
@@ -48652,6 +48950,11 @@ dictionaries:
 editions:
   - title: "Nürnberg 1777"
     url: https://books.google.com/books?id=rM9UAAAAcAAJ&printsec=frontcover
+reviews:
+  - "Anhang zu dem fünf und zwanzigsten bis sechs und dreyßigsten Bande der allgemeinen deutschen Bibliothek. Fünfte Abtheilung. Berlin und Stettin: Nicolai 1780, [S. 2971](https://books.google.com/books?id=pmhcAAAAcAAJ&pg=PA2971)."
+ids:
+  dracor: ger000589
+  wikidata: Q112960912
 cast:
   - name: Graf Baumberg,
     role: Obrister und Regimentscommandant.
@@ -49884,6 +50187,9 @@ editions:
     url: https://books.google.com/books?id=P2nXk3Ib9LkC&pg=PA577
   - title: "Christian Gottlob Klemms Beyträge zum Deutschen Theater. Erster Band. Wien: Trattner 1767, S. 111–136"
     url: https://books.google.com/books?id=4ttiAAAAcAAJ&pg=PA111
+ids:
+  dracor: ger000577
+  wikidata: Q112654763
 cast:
   - name: Celimene.
     gender: f
@@ -51096,7 +51402,7 @@ editions:
   - title: "Romantisch-dramatische Bühnengemälde von J. A. Köllner Werdenau. Erstes Bändchen. Prag: Haas 1825, S. 121–163"
     url: https://books.google.com/books?id=HdNYAAAAcAAJ&pg=PA121
 comments:
-  - "Einakterhinweis [im Inhaltsverzeichnis](https://books.google.com/books?id=HdNYAAAAcAAJ&pg=PP7))."
+  - "Einakterhinweis [im Inhaltsverzeichnis](https://books.google.com/books?id=HdNYAAAAcAAJ&pg=PP7)."
 cast:
   - name: Graf von der Lugstätt.
     gender: m
@@ -51115,7 +51421,9 @@ settings:
   - description: >-
       Die Handlung geht theils im Walde, theils in einer Köhlerhütte vor.
   - description: >-
-      Zeit: das sechszehnte Jahrhundert.) (Eine finstere Waldgegend, etwas tiefer ein hoher Fels, zu dem ein Kreuzweg hinanführt. An der Vorderseite der Eingang in eine Höhle, die Wohnung der Alten vom Felsen. Man hört die Töne mehrerer Jagdhörner in der Ferne nach und nach verhallen.
+      Zeit: das sechszehnte Jahrhundert.
+  - description: >-
+      Eine finstere Waldgegend, etwas tiefer ein hoher Fels, zu dem ein Kreuzweg hinanführt. An der Vorderseite der Eingang in eine Höhle, die Wohnung der Alten vom Felsen. Man hört die Töne mehrerer Jagdhörner in der Ferne nach und nach verhallen.
 ---
 id: ein001186
 slug: koenig-des-zufalls-launen
@@ -51735,6 +52043,7 @@ keywords:
   - Die beiden Billets
   - Liebesprobe
 ids:
+  dracor: ger000574
   wikidata: Q111592520
 cast:
   - name: Röschen.
@@ -52924,7 +53233,9 @@ editions:
 comments:
   - Untertitel 1870 »in einem Aufzuge«.
 ids:
+  dracor: ger000583
   weber: A021001
+  wikidata: Q112775643
 cast:
   - name: Lorenz Kindlein,
     role: der arme Poet.
@@ -54082,6 +54393,7 @@ editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierzehnter Jahrgang. Leipzig: Hartmann 1816, S. 65–134"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044928_00073.html
 ids:
+  dracor: ger000579
   weber: A020800
   wikidata: Q112164010
 comments:
@@ -54152,6 +54464,7 @@ keywords:
   - Rolle der Frau
   - Ehe
 ids:
+  dracor: ger000578
   wikidata: Q111939198
 cast:
   - name: Duport,
@@ -56151,6 +56464,8 @@ dictionaries:
 editions:
   - title: "Bayreuth: Lübeck 1777"
     url: https://books.google.com/books?id=L2xVAAAAcAAJ&printsec=frontcover
+reviews:
+  - "Anhang zu dem fünf und zwanzigsten bis sechs und dreyßigsten Bande der allgemeinen deutschen Bibliothek. Fünfte Abtheilung. Berlin und Stettin: Nicolai 1780, [S. 2970–2971](https://books.google.com/books?id=pmhcAAAAcAAJ&pg=PA2970)."
 cast:
   - name: Prinz Wilhelm
     role: von sechzehen und
@@ -68433,6 +68748,44 @@ settings:
   - description: >-
       Der Schauplatz ist in Töffel's Hause.
 ---
+id: ein002411
+slug: muehling-der-junge-werther
+author:
+  name: Mühling, Julius
+  wikidata: Q16739513
+title: "Der junge Werther, oder: Die Macht der Liebe"
+subtitle: Posse mit Gesang in einem Akte, nach dem Französischen
+premiered: 1830
+basedOn:
+  - desaugiers-gentil-de-chavagnac-le-jeune-werther-ou-les-grandes-passions
+comments:
+  - "Alternativer Titel: »Der junge Werther, oder: Qualen eines gefühlvollen Herzens«."
+  - "Nach einer Anekdote hat die Sängerin Angelica Catalani zu Goethe gesagt, »sie habe über seinen Werther herzlich lachen müssen. Sie habe den Wertherroman nicht gekannt und Goethe für den Verfasser der Parodie gehalten.« (Goedeke, Band XI/1, [S. 279](https://books.google.com/books?id=DLTmBQAAQBAJ&pg=PA279))"
+  - "Theaterzettel: [Bremen 1832](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1758883), [Oldenburg 1835](https://digital.lb-oldenburg.de/ihd/periodical/pageview/399037), [Krefeld 1845](https://digital.ub.uni-duesseldorf.de/id/3141948)."
+ids:
+  wikidata: Q112815242
+keywords:
+  - Wertheriade
+cast:
+  - name: Werther.
+    gender: m
+  - name: Robert,
+    role: Gewürzkrämer.
+    gender: m
+  - name: Charlotte,
+    role: seine Frau.
+    gender: f
+  - name: Philippine,
+    role: seine Tochter, ein Kind von 7 Jahren.
+    gender: f
+  - name: Nette,
+    role: ihr Mädchen.
+    gender: f
+  - name: Ein Jokei.
+    gender: m
+  - name: Ein Bursche.
+    gender: m
+---
 id: ein001591
 slug: muechler-das-zerbrochne-bein
 author:
@@ -68828,6 +69181,20 @@ cast:
 settings:
   - description: >-
       Das Theater stellt ein klein, dunkel Zimmer, elend meublirt, und eine Schuster-Werkstatt vor; hinten erblickt man einen Alkov, wo man die Vorhänge eines Bett's sieht.
+---
+id: ein002409
+slug: mueller-der-sieg-der-wahrheit
+author:
+  name: Müller, Nikolaus
+  wikidata: Q1991611
+title: Der Sieg der Wahrheit
+subtitle: Schauspiel in 1 Akt
+created: 1793
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 424
+comments:
+  - "Von Meyer ins Jahr 1793 einsortiert. Das Stück war wohl für das Mainzer »Liebhaber-Theater« bestimmt, für das Müller 1793/94 einige ungedruckt gebliebene Dramen verfasste."
 ---
 id: ein001600
 slug: mueller-friedberg-die-eroberung-von-sant-lucia
@@ -70196,6 +70563,41 @@ settings:
       Die Handlung ist in einem Bade.
   - description: >-
       Ein kurzes Zimmer des Barons von Reben mit einer Mittelthüre und zwei Seitenthüren. von Reben zieht den Hofrath von Molsek zur Mittelthüre herein.
+---
+id: ein002395
+slug: o-die-geheimnissvolle-oder-die-charade
+author:
+  pseudonym: O.
+title: Die Geheimnißvolle, oder die Charade
+subtitle: Lustspiel für die Jugend in einem Aufzuge
+numberOfScenes: 5
+printed: 1819
+formalia:
+  - Alexandriner
+editions:
+  - title: "Dresden: Arnoldi 1819"
+    url: https://digital.ub.uni-leipzig.de/object/viewid/0000034939
+comments:
+  - "»Dem Acht und zwanzigsten October gewidmet.« (S. 3)"
+keywords:
+  - Kindertheater
+cast:
+  - name: Marie.
+    gender: f
+  - name: Ida.
+    gender: f
+  - group:
+      - name: Emma,
+        gender: f
+      - name: Adele,
+        gender: f
+    role: Schwestern.
+  - group:
+      - name: Kurt,
+        gender: m
+      - name: Franz,
+        gender: m
+    role: der Letztern Brüder.
 ---
 id: ein001632
 slug: oeser-der-baer
@@ -72524,6 +72926,18 @@ settings:
   - description: >-
       Sehr elegant möblirter Salon; eine Thür rechts führt nach Kronthal's Wohnung, eine gleiche links nach den Zimmern des Justizraths; Flurthür im Hintergrunde.
 ---
+id: ein002392
+slug: plank-die-projektenschmiede
+author:
+  name: Plank, Beda
+  wikidata: Q813791
+title: Die Projektenschmiede
+subtitle: Eine Posse in einem Aufzuge
+premiered: 1796-03-02
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 215
+---
 id: ein001685
 slug: plank-die-stadtprobe
 author:
@@ -73485,6 +73899,7 @@ title: Die Kuhpocken
 subtitle: Ein Familiengemälde in einem Akt
 numberOfScenes: 17
 printed: 1802
+premiered: 1802-01
 formalia:
   - Prosa
 editions:
@@ -73493,6 +73908,13 @@ editions:
 comments:
   - "»Die Bühne zu Magdeburg hat die Gefälligkeit gehabt, dieses Stück zu geben.« (Vorrede, [S. IV](https://books.google.com/books?id=Z2lUAAAAcAAJ&pg=PP8))"
   - "Inhaltsangabe in Wilhelm Stricker: Medicinische Poesie vor hundert Jahren. In: Neues Frankfurter Museum. Beiblatt der »Zeit«. Nr. 29 (Sonntag, 5. Mai 1861), S. 226–228, hier [S. 228](https://books.google.com/books?id=9tBGAAAAcAAJ&pg=PA228)."
+reviews:
+  - "Annalen der neuen Nationalschaubühne zu Berlin und der gesammten deutschen dramatischen Literatur und Kunst. III. Stück (Sonnabend, den 16. Januar 1802), [S. 46–47](https://books.google.com/books?id=l7SJKCD93OwC&pg=PA46)."
+  - "Neue Allgemeine Deutsche Bibliothek. Fünf und siebenzigsten Bandes Erstes Stück. Zweytes Heft. Berlin und Stettin: Nicolai 1803, [S. 105–106](https://books.google.com/books?id=BPO6uIy8juUC&pg=PA105)."
+  - "Kritische Jahrbücher der Staatsarzneikunde für das neunzehnte Jahrhundert. Herausgegeben von Christoph Knape und D. August Friedrich Hecker. Zweiter Band. Berlin: Maurer 1809, [S. 44](https://books.google.com/books?id=FsPNMyhGhwIC&pg=PA44)."
+ids:
+  dracor: ger000581
+  wikidata: Q112727935
 cast:
   - name: Baron von Halm.
     gender: m
@@ -73532,6 +73954,46 @@ cast:
 settings:
   - description: >-
       Die Scene ist auf dem Gute des Barons, in der Wohnung des Predigers.
+---
+id: ein002391
+slug: rambach-die-terne-oder-kuenstlerglueck
+author:
+  name: Rambach, Friedrich Eberhard
+  wikidata: Q100583
+title: Die Terne oder Künstlerglück
+subtitle: Ein Nachspiel in einem Akt. Nach dem Französischen
+numberOfScenes: 17
+printed: 1803
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Schüppel 1803"
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN1806413795
+cast:
+  - name: Madame Brander,
+    role: eine reiche Witwe.
+    gender: f
+  - name: Elise,
+    role: ihre Tochter.
+    gender: f
+  - name: Drummer,
+    role: ihr Reisegesellschafter.
+    gender: m
+  - name: Marie,
+    role: ihr Kammermädchen.
+    gender: f
+  - group:
+      - name: Waller,
+        gender: m
+      - name: Bornthal,
+        gender: m
+    role: Künstler.
+  - name: Rost,
+    role: ein junger Kaufmann.
+    gender: m
+settings:
+  - description: >-
+      Ein Badeort. Gemeinschaftliches Zimmer eines Hauses, mit Sopha, Stühlen, Tischen, und drei Thüren.
 ---
 id: ein001708
 slug: rambach-margot-oder-das-misverstaendniss
@@ -78467,6 +78929,50 @@ cast:
   - name: Olinde.
     gender: m
 ---
+id: ein002399
+slug: salzmann-die-gute-stiefmutter
+author:
+  name: Salzmann, Christian Gotthilf
+  wikidata: Q215060
+title: Die gute Stiefmutter
+subtitle: In einem Aufzuge
+numberOfScenes: 10
+printed: 1782
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 291
+editions:
+  - title: "Die gute Stiefmutter. Ein Lustspiel. In: Unterhaltungen für Kinder und Kinderfreunde. Fünftes Bändchen. Leipzig: Crusius 1782, S. 37–76"
+    url: https://www.digitale-sammlungen.de/view/bsb10760928?page=33
+  - title: "Die gute Stiefmutter. In einem Aufzuge, von Salzmann. In: Theater für die Jugend. Drittes Bändchen. Frankfurt am Main: Hermann 1785, S. 109–138"
+cast:
+  - name: Herr Ewald.
+    gender: m
+  - name: Frau Ewaldin,
+    role: Herrn Ewalds zweite Frau.
+    gender: f
+  - group:
+      - name: Carl,
+        gender: m
+      - name: Louise,
+        gender: f
+      - name: Lottchen,
+        gender: f
+    role: Herrn Ewalds Kinder.
+  - group:
+      - name: Franz,
+        gender: m
+      - name: Wilhelm,
+        gender: m
+    role: Kinder der Frau Ewaldin.
+  - name: Heinrich,
+    role: Bedienter des Herrn Ewalds.
+    gender: m
+settings:
+  - description: "Der Schauplatz ist im Garten des Herrn Ewalds."
+---
 id: ein001822
 slug: sander-der-sohn
 author:
@@ -78530,6 +79036,9 @@ editions:
     url: https://books.google.com/books?id=jN3bTbt8vsMC&printsec=frontcover
   - title: "Grätz 1798"
     url: https://books.google.com/books?id=625HAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: ger000586
+  wikidata: Q112687919
 cast:
   - name: Madame Ehrenpreis.
     gender: f
@@ -79096,6 +79605,20 @@ settings:
   - description: Der Schauplatz ist ein Wald in Norwegen.
     location:
       wikidataId: Q20
+---
+id: ein002396
+slug: scheler-der-emigrant
+author:
+  name: Scheler, Karl Ernst Friedrich von
+  wikidata: Q95319337
+title: Der Emigrant
+subtitle: Ein Lustspiel in 1 Aufzuge
+printed: 1792
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 205
+editions:
+  - title: "Düsseldorf 1792"
 ---
 id: ein001837
 slug: schenk-albrecht-duerer-in-venedig
@@ -79960,6 +80483,9 @@ comments:
 keywords:
   - Judentum
   - Lotto
+ids:
+  wikidata: Q112929485
+  dracor: ger000585
 cast:
   - name: Hirsch,
     role: Judenrichter.
@@ -82658,7 +83184,7 @@ editions:
     url: https://books.google.com/books?id=ZfbttwAACAAJ&printsec=frontcover
 comments:
   - "Auch mit Jahreszahl im Titel: »Der Kurmärker und die Picarde 1815« sowie gekürzt zu »Kurmärker und Picarde«."
-  - "Im [Vorwort zur neunten Auflage 1871](https://books.google.com/books?id=ZfbttwAACAAJ&pg=PA3): Das Stück werde seit Beginn des deutsch-französischen Kriegs 1870 wieder vermehrt aufgeführt, es sei »wieder so neu und frisch und lebendig geworden, als sei es im Kriegsjahre 1870 erst verfaßt. [...] Das anmuthend geschriebene Stückchen hat gewissermaßen einen literar-historischen Werth, denn was so lange sich lebendig erhalten, daß es, wie für die großen Befreiungskriege 1813–15, so auch noch heute für den neuen Freiheitskampf passend erscheint, das muß wohl einen tüchtigen Kern haben."
+  - "Im [Vorwort zur neunten Auflage 1871](https://books.google.com/books?id=ZfbttwAACAAJ&pg=PA3): Das Stück werde seit Beginn des deutsch-französischen Kriegs 1870 wieder vermehrt aufgeführt, es sei »wieder so neu und frisch und lebendig geworden, als sei es im Kriegsjahre 1870 erst verfaßt. [...] Das anmuthend geschriebene Stückchen hat gewissermaßen einen literar-historischen Werth, denn was so lange sich lebendig erhalten, daß es, wie für die großen Befreiungskriege 1813–15, so auch noch heute für den neuen Freiheitskampf passend erscheint, das muß wohl einen tüchtigen Kern haben.«"
   - "Mehrere Fortsetzungen anderer Autoren (vgl. [Goedeke](https://books.google.com/books?id=cznnBQAAQBAJ&pg=PA1354)), u.a. von Albert Cohnfeld: [»Die Rückkehr des Landwehrmanns, oder: Der Kurmärker und die Picarde. (Zweiter Theil.) Genrebild mit Gesang und Tanz in 1 Akt«](https://books.google.com/books?id=noN7l_YnVHwC&printsec=frontcover) (aufgef. 1850, gedruckt 1861)."
 cast:
   - name: Marie,
@@ -82669,7 +83195,9 @@ cast:
     gender: m
 settings:
   - description: >-
-      Zeit: 1815. (Das Innere eines französischen Pachthofes. Rechts vom Zuschauer das Pachthaus, vor dessen Thüre eine steinerne Bank steht. Von der hinteren Seite des Hauses geht hinten über das ganze Theater eine steinerne Mauer oder ein hölzerner Zaun, welcher sich auch auf der linken Seite der Bühne, bei den Coulissen vorbei, bis vorne an die erste Coulisse fortzieht, so daß der ganze Bühnenraum geschlossen erscheint. – In der Mitte der Mauer (des Zaunes) ein Thorweg, dessen Flügel geschlossen sind. Neben dem Thorwege eine Tonne, auf welche Marie steigt, um über die Mauer zu sehen. Rechts vor dem Hause ein steinerner runder Tisch unter einem Baume, daneben ein Schemel. Links und an der Mauer entlang allerlei Wirthschaftsgeräth, ein Wagen, Schubkarren, Egge, Tonnen oder dergleichen, um dem Bühnenraum das Ansehen eines Pachthofes zu geben. – Unmittelbar nach der Ouvertüre und während der Vorhang aufgezogen wird, schlägt ein Tambour einen Geschwindmarsch (in Preußen den Parademarsch) und geht dabei hinter den Coulissen entlang, dann aber durch irgend eine Thür in einen anliegenden Raum, so daß der Trommelschlag schwächer wird, und hört auf, wenn Marie aus dem Hause tritt.)
+      Zeit: 1815.
+  - description: >-
+      Das Innere eines französischen Pachthofes. Rechts vom Zuschauer das Pachthaus, vor dessen Thüre eine steinerne Bank steht. Von der hinteren Seite des Hauses geht hinten über das ganze Theater eine steinerne Mauer oder ein hölzerner Zaun, welcher sich auch auf der linken Seite der Bühne, bei den Coulissen vorbei, bis vorne an die erste Coulisse fortzieht, so daß der ganze Bühnenraum geschlossen erscheint. – In der Mitte der Mauer (des Zaunes) ein Thorweg, dessen Flügel geschlossen sind. Neben dem Thorwege eine Tonne, auf welche Marie steigt, um über die Mauer zu sehen. Rechts vor dem Hause ein steinerner runder Tisch unter einem Baume, daneben ein Schemel. Links und an der Mauer entlang allerlei Wirthschaftsgeräth, ein Wagen, Schubkarren, Egge, Tonnen oder dergleichen, um dem Bühnenraum das Ansehen eines Pachthofes zu geben. – Unmittelbar nach der Ouvertüre und während der Vorhang aufgezogen wird, schlägt ein Tambour einen Geschwindmarsch (in Preußen den Parademarsch) und geht dabei hinter den Coulissen entlang, dann aber durch irgend eine Thür in einen anliegenden Raum, so daß der Trommelschlag schwächer wird, und hört auf, wenn Marie aus dem Hause tritt.
     location:
       wikidataId: Q13950
 ---
@@ -83601,6 +84129,7 @@ editions:
     url: https://books.google.com/books?id=bs9UAAAAcAAJ&printsec=frontcover
 comments:
   - "Zur Verwechslung mit den gleichnamigen Mehraktern von Brandes und Gemmingen vgl. [Cäsar Flaischlens Gemmingen-Studie](https://books.google.com/books?id=H0BBAAAAYAAJ&pg=PA145)."
+  - "Auch unter dem Titel »Die reiche Erbschaft« aufgeführt (Solothurn 1790)."
 cast:
   - name: Jürgen,
     role: ein Bauer.
@@ -84206,8 +84735,8 @@ cast:
 id: ein001959
 slug: schuetz-die-katze-laesst-das-mausen-nicht
 author:
-  name: Schütz, Friedrich Wilhelm
-  wikidata: Q94529703
+  name: Schütz, Friedrich Wilhelm von
+  wikidata: Q216443
 title: Die Katze läßt das Mausen nicht
 subtitle: Sprüchwort in einem Aufzuge, als Fortsetzung des Bauernguts
 numberOfScenes: 14
@@ -84217,12 +84746,16 @@ formalia:
   - Prosa
 editions:
   - title: "Altona: Bechtold 1801"
+    url: https://resolver.sub.uni-hamburg.de/goobi/PPN175499735X
 comments:
   - Fortsetzung von Treitschkes Einakter [»Das Bauerngut«](treitschke-das-bauerngut) (1799).
   - Nicht identisch mit Costenobles Einakter [»Die Katze läßt das Mausen nicht«](costenoble-die-katze-laesst-das-mausen-nicht) (1811). Beides sind eigenständige Fortsetzungen des »Bauernguts«.
   - "Auch mit dem Untertitel »Posse« (vgl. Allgemeiner litterarischer Anzeiger. Beilage zu Nr. 192 (Am 15. December 1801), [Sp. 1856](https://books.google.com/books?id=GJ5u13xDiEwC&pg=PA1855))."
 keywords:
   - Die beiden Billets
+ids:
+  dracor: ger000580
+  wikidata: Q112686910
 cast:
   - name: Gürge.
     gender: m
@@ -85027,7 +85560,7 @@ editions:
 reviews:
   - "Allgemeine deutsche Bibliothek. Des neun und zwanzigsten Bandes zweytes Stück. Berlin und Stettin: Nicolai 1776, [S. 502](https://books.google.com/books?id=X8VTAAAAcAAJ&pg=PA502)."
   - "Allgemeines Verzeichniß neuer Bücher mit kurzen Anmerkungen. Nebst einem gelehrten Anzeiger. Auf das Jahr 1777. Zweyten Jahrgangs I. Stück. Januar. [S. 61–62](https://books.google.com/books?id=oNFbAAAAcAAJ&pg=PA61): »Dieses Trauerspiel, dessen Verfasser Herr Schink seyn soll, […]«."
-  - "Notiz poetischer Neuigkeiten von der Michaelmesse 1775 und Ostermesse 1776. In: Almanach der deutschen Musen auf das Jahr 1777. Leipzig: Weygand, [S. 94](https://books.google.com/books?id=mE5XAAAAcAAJ&pg=PA94)."
+  - "Notiz poetischer Neuigkeiten von der Michaelmesse 1775 und Ostermesse 1776. In: Almanach der deutschen Musen auf das Jahr 1777. Leipzig: Weygand [1777], [S. 94](https://books.google.com/books?id=mE5XAAAAcAAJ&pg=PA94)."
   - "Zugabe zu den Göttingischen gelehrten Anzeigen. 11tes Stück (Den 15. März 1777), [S. 175](https://books.google.com/books?id=gPkDAAAAMAAJ&pg=PA175)."
 keywords:
   - Mord
@@ -85169,6 +85702,24 @@ cast:
   - name: Baumann,
     role: Rambeks Freund.
     gender: m
+---
+id: ein002410
+slug: seidel-der-tambour
+author:
+  name: Seidel, Karl August Gottlieb
+  wikidata: Q94905083
+title: Der Tambour
+subtitle: Lustspiel in einem Anfang
+premiered: 1777
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 559
+comments:
+  - "»Aufgeführt 1777 in Pyrmont von Bürgerkindern.« (Meyer, dessen Quelle das Theater-Journal ist)"
+reviews:
+  - "Theater-Journal für Deutschland. Siebentes Stück. Gotha: Ettinger 1778, [S. 97](https://www.digitale-sammlungen.de/de/view/bsb10121268?page=97)."
+keywords:
+  - Kindertheater
 ---
 id: ein001982
 slug: seidel-kuenstler-liebe-oder-die-moderne-galathe
@@ -96948,6 +97499,33 @@ settings:
   - description: >-
       Die Handlung ist Anfangs in des Generals, am Ende in des Baron Ottenthals Wohnung.
 ---
+id: ein002390
+slug: weikert-der-hausherr-in-der-klemme
+author:
+  name: Weikert, Johann Wolfgang
+  wikidata: Q19594525
+title: Der Hausherr in der Klemme
+subtitle: Lustspiel in 1 Akt. In Nürnberger Mundart
+numberOfScenes: 12
+printed: 1817
+formalia:
+  - Alexandriner
+editions:
+  - title: "[Ohne Ort: ohne Verlag] 1817"
+    url: https://books.google.com/books?id=lzFNAAAAcAAJ&printsec=frontcover
+comments:
+  - "Nach dem Vorbild von Heinrich Beyers [gleichnamigen Einakter](beyer-der-hausherr-in-der-klemme)."
+cast:
+  - name: Flächsla,
+    role: a reicher Verlieger.
+    gender: m
+  - name: Kätel,
+    role: seih Haushälteri.
+    gender: f
+  - name: Gürla,
+    role: seih Duthla.
+    gender: m
+---
 id: ein002258
 slug: weiskern-die-wirkung-der-rechtschaffenheit
 author:
@@ -100954,6 +101532,21 @@ cast:
 settings:
   - description: >-
       Garten mit einer Laube, Rasenbänke und Blumenbeeten. Im Hintergrunde eine Thür auf die Straße.
+---
+id: ein002401
+slug: zimdar-der-entschluss
+author:
+  name: Zimdar, Karl Friedrich
+  wikidata: Q17278136
+title: Der Entschluß
+subtitle: Lustspiel in 1 A.
+created: 1786
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 488
+comments:
+  - "Nachweis in Goedeke, Band V, [S. 343](https://books.google.com/books?id=x36dCgAAQBAJ&pg=PA343)."
+  - Von Meyer ins Jahr 1786 einsortiert.
 ---
 id: ein002357
 slug: zimdar-man-hat-der-beispiele

@@ -517,6 +517,12 @@
     },
     "gender": "male"
   },
+  "Q112771857": {
+    "name": "Heinrich Beyer",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q1405946": {
     "name": "Ferdinand von Biedenfeld",
     "gnd": "116163127",
@@ -1576,6 +1582,21 @@
       "placeId": "http://www.wikidata.org/entity/Q1709"
     },
     "gender": "female"
+  },
+  "Q90799": {
+    "name": "Albert Ellmenreich",
+    "gnd": "116452072",
+    "birth": {
+      "date": "1816-02-10T00:00:00Z",
+      "place": "Karlsruhe",
+      "placeId": "http://www.wikidata.org/entity/Q1040"
+    },
+    "death": {
+      "date": "1905-05-30T00:00:00Z",
+      "place": "Lübeck",
+      "placeId": "http://www.wikidata.org/entity/Q2843"
+    },
+    "gender": "male"
   },
   "Q106887": {
     "name": "Franz von Elsholtz",
@@ -3017,6 +3038,16 @@
     },
     "gender": "male"
   },
+  "Q108045932": {
+    "name": "Georg Friedrich Hoffmann",
+    "gnd": "132770830",
+    "birth": {
+      "place": "Frankfurt am Main",
+      "placeId": "http://www.wikidata.org/entity/Q1794"
+    },
+    "death": {},
+    "gender": "male"
+  },
   "Q23726779": {
     "name": "Leopold Alois Hoffmann",
     "gnd": "104355034",
@@ -3354,6 +3385,7 @@
   "Q821373": {
     "name": "Johann Christoph Kaffka",
     "gnd": "127693211",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Christoph%20Kaffka.jpg",
     "birth": {
       "date": "1754-01-01T00:00:00Z",
       "place": "Regensburg",
@@ -3364,8 +3396,7 @@
       "place": "Riga",
       "placeId": "http://www.wikidata.org/entity/Q1773"
     },
-    "gender": "male",
-    "ambiguous": true
+    "gender": "male"
   },
   "Q1730382": {
     "name": "Karl August Timotheus Kahlert",
@@ -4758,6 +4789,21 @@
     },
     "gender": "male"
   },
+  "Q16739513": {
+    "name": "Julius Mühling",
+    "gnd": "117163902",
+    "birth": {
+      "date": "1793-03-15T00:00:00Z",
+      "place": "Peine",
+      "placeId": "http://www.wikidata.org/entity/Q6850"
+    },
+    "death": {
+      "date": "1874-02-07T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "gender": "male"
+  },
   "Q1694181": {
     "name": "Johann Gottlieb Bärstecher",
     "birth": {
@@ -4766,6 +4812,22 @@
       "placeId": "http://www.wikidata.org/entity/Q16100"
     },
     "death": {},
+    "gender": "male"
+  },
+  "Q1991611": {
+    "name": "Nikolaus Müller",
+    "gnd": "117608122",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaus-M%C3%BCller.jpg",
+    "birth": {
+      "date": "1770-05-14T00:00:00Z",
+      "place": "Mainz",
+      "placeId": "http://www.wikidata.org/entity/Q1720"
+    },
+    "death": {
+      "date": "1851-06-14T00:00:00Z",
+      "place": "Mainz",
+      "placeId": "http://www.wikidata.org/entity/Q1720"
+    },
     "gender": "male"
   },
   "Q1230748": {
@@ -5901,6 +5963,22 @@
     },
     "gender": "male"
   },
+  "Q215060": {
+    "name": "Christian Gotthilf Salzmann",
+    "gnd": "118605232",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian-Gotthilf-Salzmann.jpg",
+    "birth": {
+      "date": "1744-06-01T00:00:00Z",
+      "place": "Sömmerda",
+      "placeId": "http://www.wikidata.org/entity/Q530794"
+    },
+    "death": {
+      "date": "1811-10-31T00:00:00Z",
+      "place": "Waltershausen",
+      "placeId": "http://www.wikidata.org/entity/Q506743"
+    },
+    "gender": "male"
+  },
   "Q91130": {
     "name": "Christian Levin Sander",
     "gnd": "116780711",
@@ -5974,6 +6052,17 @@
       "place": "Kopenhagen",
       "placeId": "http://www.wikidata.org/entity/Q1748"
     },
+    "gender": "male"
+  },
+  "Q95319337": {
+    "name": "Karl Ernst Friedrich von Scheler",
+    "gnd": "120427656",
+    "birth": {
+      "date": "1760-03-17T00:00:00Z",
+      "place": "Stuttgart",
+      "placeId": "http://www.wikidata.org/entity/Q1022"
+    },
+    "death": {},
     "gender": "male"
   },
   "Q1290682": {
@@ -6417,18 +6506,19 @@
     },
     "gender": "male"
   },
-  "Q94529703": {
-    "name": "Friedrich Wilhelm Schütz",
-    "gnd": "1037047656",
+  "Q216443": {
+    "name": "Friedrich Wilhelm von Schütz",
+    "gnd": "120163748",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Wilhelm%20von%20Sch%C3%BCtz%20%281758-1834%29.jpg",
     "birth": {
-      "date": "1750-03-20T00:00:00Z",
-      "place": "Straßburg",
-      "placeId": "http://www.wikidata.org/entity/Q6602"
+      "date": "1758-04-25T00:00:00Z",
+      "place": "Erdmannsdorf",
+      "placeId": "http://www.wikidata.org/entity/Q1349336"
     },
     "death": {
-      "date": "1800-07-27T00:00:00Z",
-      "place": "Wien",
-      "placeId": "http://www.wikidata.org/entity/Q1741"
+      "date": "1834-03-09T00:00:00Z",
+      "place": "Zerbst/Anhalt",
+      "placeId": "http://www.wikidata.org/entity/Q155981"
     },
     "gender": "male"
   },
@@ -7531,6 +7621,19 @@
       "date": "1823-01-01T00:00:00Z"
     },
     "gender": "female"
+  },
+  "Q19594525": {
+    "name": "Johann Wolfgang Weikert",
+    "gnd": "129294985",
+    "birth": {
+      "date": "1778-06-14T00:00:00Z",
+      "place": "Nürnberg",
+      "placeId": "http://www.wikidata.org/entity/Q2090"
+    },
+    "death": {
+      "date": "1856-11-19T00:00:00Z"
+    },
+    "gender": "male"
   },
   "Q20774542": {
     "name": "Friedrich Wilhelm Weiskern",
