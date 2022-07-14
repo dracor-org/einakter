@@ -7441,6 +7441,21 @@ settings:
   - description: >-
       Das Theater stellt eine Barbierstube vor.
 ---
+id: ein002415
+slug: anonym-die-beiden-arzneien
+author:
+  pseudonym: Anonym
+title: Die beiden Arzneien
+subtitle: Ein Lustspiel in 1 Aufzug, aus dem Französischen des Moissy übersetzt
+printed: 1775
+basedOn:
+  - moissy-les-deux-medecines
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 21
+editions:
+  - title: "Berlin: Himburg 1775"
+---
 id: ein000172
 slug: anonym-die-beiden-loizerolles-und-maximilian-rospierre
 author:
@@ -35790,6 +35805,34 @@ settings:
   - description: >-
       Zimmer in Bernstorfs Hause.
 ---
+id: ein002413
+slug: grossmann-die-ankunft
+author:
+  name: Großmann, Gustav Friedrich Wilhelm
+  wikidata: Q88019
+title: Die Ankunft
+subtitle: Allegorisches Vorspiel in einem Aufzug, mit Arien und Chören
+premiered: 1780-03-28
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 416
+reviews:
+  - "E. Mentzel: Geschichte der Schauspielkunst in Frankfurt am Main von ihren ersten Anfängen bis zur Eröffnung des städtischen Komödienhauses. Frankfurt am Main: Völcker 1882, [S. 387](https://books.google.com/books?id=msI-AAAAYAAJ&pg=PA387)."
+cast:
+  - name: Apoll.
+    gender: m
+  - name: Melpomene.
+    gender: f
+  - name: Thalia.
+    gender: f
+  - name: Euterpe.
+    gender: f
+  - name: Der Schutzgeist Frankfurts.
+    gender: u
+  - name: Sänger und Sängerinnen.
+    isGroup: true
+    gender: u
+---
 id: ein000827
 slug: grossmann-pygmalion
 author:
@@ -48955,6 +48998,8 @@ reviews:
 ids:
   dracor: ger000589
   wikidata: Q112960912
+keywords:
+  - Soldatenstück
 cast:
   - name: Graf Baumberg,
     role: Obrister und Regimentscommandant.
@@ -84063,6 +84108,35 @@ settings:
   - description: >-
       Die Scene ist ein Saal im Hause des von Rohrbach.
 ---
+id: ein002414
+slug: schreiber-die ausgerechnete-heirath
+author:
+  name: Schreiber, Aloys
+  wikidata: Q119183
+title: Die ausgerechnete Heirath
+subtitle: Lustspiel in 1 A.
+premiered: 1789-10-28
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 341
+reviews:
+  - "Dramaturgische Blätter. Zweiter Jahrgang. Drittes Quartal. Achtes Stück (Den 20 November 1789). Frankfurt am Main: Eichenberg 1789, [S. 114–115](https://books.google.com/books?id=UFXICEJaXZAC&pg=RA2-PA114)."
+cast:
+  - name: Wangen.
+    gender: m
+  - name: Antonie.
+    gender: f
+  - name: Fräulein von Rosen.
+    gender: f
+  - name: Kammermädchen.
+    gender: f
+  - name: Salheim.
+    gender: m
+  - name: Baron Werten.
+    gender: m
+  - name: Tromm.
+    gender: m
+---
 id: ein001944
 slug: schreiber-die-braut-im-schleier
 author:
@@ -86250,6 +86324,9 @@ comments:
   - "Fortsetzung von [»Die beiden Billets«](heyne-die-beiden-billets)."
 keywords:
   - Die beiden Billets
+ids:
+  dracor: ger000590
+  wikidata: Q113016336
 cast:
   - name: Märten,
     role: ein Bauer.
@@ -86547,8 +86624,8 @@ editions:
   - title: "Neue wohlfeile Ausgabe. Leipzig: Dyk [1830], S. 1–27"
     url: http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:hebis:30-91188
 ids:
-  wikidata: Q105525766
   dracor: ger000526
+  wikidata: Q105525766
 reviews:
   - "Literarisches Wochenblatt von August v. Kotzebue. 3r Band, No. 7 (Januar 1819), [S. 50](https://books.google.com/books?id=37JFAAAAcAAJ&pg=PA50)."
 cast:
@@ -90521,8 +90598,8 @@ keywords:
   - Hellseherei
   - Literatur
 ids:
-  wikidata: Q94393683
   dracor: ger000496
+  wikidata: Q94393683
 cast:
   - name: Ahlfeld.
     gender: m
@@ -92382,7 +92459,8 @@ author:
   name: Vanoni, B.
   wikidata: Q111314114
 title: Der Friseur
-subtitle: Schwank in 1 Aufzuge
+subtitle: Schwank in einem Akte
+numberOfScenes: 28
 printed: 1843
 premiered: 1843-05-19
 formalia:
@@ -92398,32 +92476,37 @@ comments:
 keywords:
   - Verkleidungsspiel
 cast:
-  - name: Herr von Gumpelheim.
-    gender: m
   - name: Baron von Merseburg.
     gender: m
   - name: Baron von Flitterfeld.
     gender: m
-  - name: Emilie,
+  - name: Baronesse Emilie,
     role: seine Schwester.
     gender: f
   - name: Herr von Hasenhein.
+    gender: m
+  - name: Herr von Gumpelhein.
     gender: m
   - name: Herr Schnappel.
     gender: m
   - name: Emma,
     role: seine Frau.
     gender: f
-  - name: Narcißus Hasenfuß,
-    role: ein Friseur.
+  - name: Narcissus Hasenfuß,
+    role: Friseur.
     gender: m
   - name: Valentin,
-    role: v. Hasenbeins Bedienter.
+    role: v. Hasenbeins Diener.
     gender: m
-  - name: Diener im von Kalksteinischen Hause.
+  - name: Ein Diener in v. Kalksteins Haus.
+    gender: m
+  - name: Herren.
     isGroup: true
     gender: m
-  - name: Ein Polizeicommissär.
+  - name: Damen.
+    isGroup: true
+    gender: f
+  - name: Ein Polizei-Kommissär.
     gender: m
 ---
 id: ein002137
