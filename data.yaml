@@ -7538,6 +7538,20 @@ cast:
     role: Leanders Diener.
     gender: m
 ---
+id: ein002416
+slug: anonym-die-bestrafte-neugierde
+author:
+  pseudonym: Anonym
+title: Die bestrafte Neugierde
+subtitle: Ein Lustspielchen in einem Aufzug
+printed: 1796
+premiered: 1796
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 36
+comments:
+  - "Schulspiel, aufgeführt in Luzern, offenbar nicht identisch mit Johann Gottlieb Stephanies [gleichnamigem Fünfakter](https://books.google.com/books?id=U9dUAAAAcAAJ&printsec=frontcover) (1772)."
+---
 id: ein000174
 slug: anonym-die-beyden-officiere
 author:
@@ -26804,6 +26818,9 @@ reviews:
   - "Ergänzungsblätter zur Allgemeinen Literatur-Zeitung. August 1813, [Sp. 686](https://books.google.com/books?id=LvtndK_fRnEC&pg=PA685)."
 keywords:
   - Die beiden Billets
+ids:
+  dracor: ger000591
+  wikidata: Q113128710
 cast:
   - name: Frau Timian,
     role: Wirthin zum blauen Huhn.
@@ -60173,6 +60190,20 @@ settings:
       Schauplatz: Karolinens Landgut, in einiger Entfernung von der Hauptstadt.
   - description: >-
       Ein großer Saal mit einer Glasthür im Hintergrunde, außer derselben ein Zimmer mit Spieltischen. Im Vordergrunde rechts ein Bücherschrank und ein Tisch. Diesem gegenüber ein Clavier.
+---
+id: ein002417
+slug: felix-die-drey-verheuratheten-lehnlaquay
+author:
+  name: Kurz, Joseph Felix von
+  wikidata: Q15441252
+title: "Die drey verheuratheten Lehnlaquay, Oder: Die verlohrne Wette"
+subtitle: "Lustspiel von einem Aufzug, Des Bernardons: Mit Fiametta, Der lächerlichen Schildwacht nach der neuesten Mode"
+premiered: 1767
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 22, S. 73–74
+comments:
+  - "»Aufgeführt von der Kurz'schen Truppe 1767/68 in Frankfurt am Main.« (Meyer)"
 ---
 id: ein001389
 slug: kurz-die-frohlockenden-schaefer
