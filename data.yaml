@@ -7510,6 +7510,21 @@ settings:
     location:
       wikidataId: Q90
 ---
+id: ein002420
+slug: anonym-die-beiden-potraits
+author:
+  pseudonym: Anonym
+title: Die beiden Portraits
+subtitle: Lustspiel in 1 Aufzug von einem jungen Frauenzimmer in Hannover
+premiered: 1788-01-23
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 195
+reviews:
+  - "Annalen des Theaters. Zweites Heft. Berlin: Maurer 1788, [S. 127](https://books.google.com/books?id=yUsOAAAAIAAJ&pg=RA1-PA127)."
+keywords:
+  - Eheanbahnung
+---
 id: ein000173
 slug: anonym-die-beschwerliche-mutter
 author:
@@ -9561,7 +9576,7 @@ settings:
       wikidataId: Q64
 ---
 id: ein000221
-slug: anonym-die-schlittenfahrt
+slug: anonym-die-schlittenfarth
 author:
   name: B., M. J.
   pseudonym: Anonym
@@ -9576,6 +9591,7 @@ dictionaries:
     pages: 2. Abteilung, Band 32, S. 67–68
 editions:
   - title: "Zwey Lustspiele. [Ohne Ort: ohne Verlag] 1792, S. 3–60"
+    url: https://books.google.com/books?id=VwFkAAAAcAAJ&printsec=frontcover
 cast:
   - name: Herr von Floretti,
     role: Justizrath.
@@ -64055,6 +64071,21 @@ settings:
   - description: >-
       Der Schauplatz stellt den Eingang in den Garten der Madame Gerdrut vor, und an dessen Seite ein kleines Gartenhaus.
 ---
+id: ein002419
+slug: loof-der-war-angefuehrt
+author:
+  name: Loof, Konrad Heinrich
+  wikidata: Q113302687
+title: Der war angeführt
+subtitle: Lustspiel in 1 A.
+premiered: 1786-05-14
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 110
+comments:
+  - "Frühester Nachweis des Titels in: Theater-Kalender, auf das Jahr 1786. Gotha: Ettinger [1786], [S. 193–194](https://books.google.com/books?id=B0M7AAAAcAAJ&pg=RA2-PA193)."
+  - "Als Autorangabe kursiert lediglich ›Loof‹. Da es 1786 eine Aufführung in Riga gab und Konrad Heinrich Loof dort seit 1779 engagiert war, ist seine Autorschaft wahrscheinlich, vgl. Rigasche Biographieen. Erster Band: 1810–1829. Riga: Schnakenburg 1881, [S. 178–179](https://books.google.com/books?id=y9Kkri3KMbwC&pg=PA178)."
+---
 id: ein001477
 slug: lorbeer-die-parlamentswahl
 author:
@@ -85463,6 +85494,48 @@ cast:
     gender: f
   - name: Hector.
     gender: m
+---
+id: ein002418
+slug: seccard-der-tod-l-junii-bruti
+author:
+  name: Seccard, Ludwig
+  wikidata: Q55126338
+title: Der Tod L. Junii Bruti
+subtitle: In einem Aufzug, aufgeführt von dem churfürstl. Lyceo und Gymnasio der Gesellschaft Jesu zu München
+printed: 1773
+premiered: 1773-09-03
+formalia:
+  - lateinische Verse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 25, S. 377
+editions:
+  - title: "München: Vötter [1773]"
+    url: https://books.google.com/books?id=5w5SAAAAcAAJ&printsec=frontcover
+comments:
+  - "Deutscher Titel, aber lateinischer Text. Dem Text vorangestellt ist [eine deutschsprachige Inhaltsangabe](https://books.google.com/books?id=5w5SAAAAcAAJ&pg=PP3)."
+cast:
+  - name: L. Junius Brutus.
+    gender: m
+  - name: P. Valerius Publicola.
+    gender: m
+  - name: L. Tarquin.
+    gender: m
+  - name: Tarquinius Aruns.
+    gender: m
+  - name: Mutius Cordus.
+    gender: m
+  - name: Anchises.
+    gender: m
+  - name: Aeneas.
+    gender: m
+  - name: Charon.
+    gender: m
+  - name: Umbra Lucretiae.
+    gender: f
+  - name: Chori.
+    isGroup: true
+    gender: u
 ---
 id: ein001974
 slug: seckendorff-alis-gerichtspflege
