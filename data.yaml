@@ -2785,6 +2785,20 @@ settings:
   - description: >-
       Zimmer des Barons.
 ---
+id: ein002421
+slug: anonym-aurelius
+author:
+  pseudonym: Anonym
+title: Aurelius
+subtitle: Ein prosaisches Trauerspiel, in einer Handlung
+printed: 1757
+editions:
+  - title: "Schriften der Kielischen Gesellschaft der Schönen Wissenschaften. Kiel und Altona: Iversen 1757, S. 203ff. [?]"
+reviews:
+  - "Bibliothek der schönen Wissenschaften und der freyen Künste. Sechsten Bandes erstes Stück. Leipzig: Dyck 1760, [S. 101](https://books.google.com/books?id=XIRdAAAAcAAJ&pg=RA1-PA101)."
+comments:
+  - "Hinweis in Gottscheds »Nöthiger Vorrath«, Zweyter Theil, Leipzig: Teubner 1765, [S. 293](https://books.google.com/books?id=acFURUwDvlAC&pg=RA1-PA293): »Nach [dem Gesange](https://books.google.com/books?id=dzQrAAAAYAAJ&pg=PA1) in dem ersten Stücke der Hamburgischen Beyträge«."
+---
 id: ein000061
 slug: anonym-autor-und-diener-aus-liebe
 author:
@@ -35907,6 +35921,22 @@ cast:
 settings:
   - description: >-
       Der Schauplatz stellet einen Saal, im Hause des Pygmalion, und im Hintergrunde die Werkstätte vor.
+---
+id: ein002422
+slug: grossmann-wer-wird-sie-bekommen
+author:
+  name: Großmann, Gustav Friedrich Wilhelm
+  wikidata: Q88019
+title: "Wer wird sie bekommen?"
+subtitle: Lustspiel in einem Akt
+premiered: 1795-02-03
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 379
+reviews:
+  - "Allgemeiner litterarischer Anzeiger. No. LXXIV. (Donnerstags, den 22sten Juny 1797), [Sp. 766–767](https://www.digitale-sammlungen.de/view/bsb10501769?page=412,413)."
+comments:
+  - "Bearbeitung von [»Wer wird sie kriegen?«](eckardt-wer-wird-sie-kriegen) (1780) von Friedrich Eckardt."
 ---
 id: ein000828
 slug: gubitz-allen-ist-geholfen
@@ -86168,6 +86198,8 @@ keywords:
   - Judentum
   - Antisemitismus
   - Lotto
+  - Autoren der Romantik
+  - Parodie
 ids:
   wikidata: Q99601642
   dracor: ger000503
