@@ -2790,14 +2790,36 @@ slug: anonym-aurelius
 author:
   pseudonym: Anonym
 title: Aurelius
-subtitle: Ein prosaisches Trauerspiel, in einer Handlung
+subtitle: Ein prosaisches Trauerspiel in einer Handlung. Nach dem Gesange in dem ersten Stück der Hamburgischen Beiträge
+numberOfScenes: 14
 printed: 1757
 editions:
-  - title: "Schriften der Kielischen Gesellschaft der Schönen Wissenschaften. Kiel und Altona: Iversen 1757, S. 203ff. [?]"
+  - title: "Schriften der Kielischen Gesellschaft der Schönen Wissenschaften. Kiel und Altona: Iversen 1757, S. 203–232"
 reviews:
   - "Bibliothek der schönen Wissenschaften und der freyen Künste. Sechsten Bandes erstes Stück. Leipzig: Dyck 1760, [S. 101](https://books.google.com/books?id=XIRdAAAAcAAJ&pg=RA1-PA101)."
 comments:
   - "Hinweis in Gottscheds »Nöthiger Vorrath«, Zweyter Theil, Leipzig: Teubner 1765, [S. 293](https://books.google.com/books?id=acFURUwDvlAC&pg=RA1-PA293): »Nach [dem Gesange](https://books.google.com/books?id=dzQrAAAAYAAJ&pg=PA1) in dem ersten Stücke der Hamburgischen Beyträge«."
+cast:
+  - name: Aurelius.
+    gender: m
+  - name: Orgast.
+    gender: m
+  - name: Theodora.
+    gender: f
+  - name: Amintor.
+    gender: m
+  - name: Montano.
+    gender: m
+  - name: Einige Insulaner.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Der Schauplatz ist auf St. Kilda, einer von den Hebridischen Inseln, auf einem Platz vor Aurels Wohnung, der mit vielen Sträuchen umgeben ist.
+    location:
+      wikidataId: Q166479
+  - description: >-
+      Die Handlung geht frühe nach Sonnen Aufgang an, und dauert so lange als das Trauerspiel.
 ---
 id: ein000061
 slug: anonym-autor-und-diener-aus-liebe
@@ -89896,6 +89918,39 @@ settings:
   - description: >-
       Die Handlung gehet im Freyen unter einer Weinlaube vor.
 ---
+id: ein002424
+slug: thielmann-der-graf-wider-willen-oder-die-heirath-durch-list
+author:
+  name: Thielmann, Philipp Jakob
+title: "Der Graf wider Willen, oder: Die Heirath durch List"
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 10
+printed: 1830
+formalia:
+  - Prosa
+editions:
+  - title: "Mainz: Müller 1830"
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN1810827426
+cast:
+  - name: Professor Klugmann.
+    gender: m
+  - name: Röschen,
+    role: seine Tochter.
+    gender: f
+  - name: Lottchen,
+    role: ihre Freundin.
+    gender: f
+  - name: Major von Resen.
+    gender: m
+  - name: Substitut Romulus.
+    gender: m
+  - name: Franz,
+    role: des Majors Kammerdiener.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung ist in Professor Klugmanns Haus.
+---
 id: ein002075
 slug: thielmann-der-junge-feldherr-oder-die-franzosen-in-aegypten
 author:
@@ -89978,6 +90033,43 @@ settings:
       Die Generäle rothe, blaue und weiße Federn auf den Hüten; ditto Schärpen.
     location:
       wikidataId: Q12508
+---
+id: ein002423
+slug: thielmann-die-gesandtschaft
+author:
+  name: Thielmann, Philipp Jakob
+title: Die Gesandtschaft
+subtitle: Ein Schwank in einem Akt
+numberOfScenes: 15
+printed: 1830
+formalia:
+  - Prosa
+editions:
+  - title: "Mainz: Müller 1830"
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN1810826225
+cast:
+  - name: Graf von Steinau,
+    role: Minister.
+    gender: m
+  - group:
+      - name: Carl von Steinau,
+        role: zweiter Präsident.
+        gender: m
+      - name: Fritz von Steinau,
+        role: Studiosus.
+        gender: m
+    role: Beide seine Söhne.
+  - name: Freiherr von Lilienfeld,
+    role: Studiosus.
+    gender: m
+  - name: Baron von Eitelspill.
+    gender: m
+  - name: Hänschen,
+    role: sein Diener.
+    gender: m
+settings:
+  - description: >-
+      Saal im Palais des Ministers.
 ---
 id: ein002381
 slug: thilo-das-erbkreuz
@@ -92603,6 +92695,7 @@ formalia:
   - Prosa
 editions:
   - title: "München 1843"
+    url: https://resolver.staatsbibliothek-berlin.de/SBB0003353200000000
 reviews:
   - "Der Bayerische Eilbote. No. 61 (Sonntag, den 21. Mai. München, 1843), [S. 486–487](https://books.google.com/books?id=VDxEAAAAcAAJ&pg=PA486)."
   - "Bühnenwelt. Blätter für dramaturgische und belletristische Unterhaltung. Nro. 22 (Nürnberg. Juni 1843), [S. 349](https://books.google.com/books?id=Q_NFAAAAcAAJ&pg=PA349)."
@@ -92611,6 +92704,8 @@ comments:
   - "Theaterzettel: [München 1843](https://books.google.com/books?id=-S1DAAAAcAAJ&pg=PA65-IA67)."
 keywords:
   - Verkleidungsspiel
+ids:
+  wikidata: Q113649510
 cast:
   - name: Baron von Merseburg.
     gender: m
