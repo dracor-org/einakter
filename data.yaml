@@ -7226,6 +7226,41 @@ cast:
     isGroup: true
     gender: u
 ---
+id: ein002425
+slug: anonym-der-vernuenftige-thor-oder-der-englaender
+author:
+  pseudonym: Anonym
+title: "Der vernünftige Thor, oder: Der Engländer"
+subtitle: Ein noch ungedrucktes Lustspiel, in einer Handlung, aus dem Französischen
+premiered: 1783-06-03
+formalia:
+  - Prosa
+basedOn:
+  - patrat-le-fou-raisonnable-ou-l-anglois
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 349
+reviews:
+  - "Theater-Journal für Deutschland. Zwey und zwanzigstes Stück. Gotha: Ettinger 1784, [S. 108](https://www.digitale-sammlungen.de/de/view/bsb10121283?page=108)."
+comments:
+  - "Theaterzettel: [Bremen 1783](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1674055)."
+  - "Ob den Aufführungen in Göttingen und Bremen im Jahr 1783 dieselbe Übersetzung zugrunde lag, ist nicht gesichert."
+cast:
+  - name: Jakob Splin,
+    role: ein Engländer.
+    gender: m
+  - name: Herr Loyer,
+    role: ein Wirth.
+    gender: m
+  - name: Therese,
+    role: dessen Thochter.
+    gender: f
+  - name: Jakob,
+    role: ein Küper.
+    gender: m
+  - name: Ein stotternder Gerichtsdiener.
+    gender: m
+---
 id: ein000166
 slug: anonym-der-von-der-liebe-betrogene-philosoph
 author:
@@ -92705,6 +92740,7 @@ comments:
 keywords:
   - Verkleidungsspiel
 ids:
+  dracor: ger000592
   wikidata: Q113649510
 cast:
   - name: Baron von Merseburg.
