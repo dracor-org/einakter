@@ -2615,6 +2615,7 @@ language: dan
 created: 1793
 printed: 1794
 premiered: 1818
+fulltextUrl: https://books.google.com/books?id=4MAsAAAAMAAJ&pg=PA231
 ---
 id: eorig000208
 slug: hertz-kong-renes-datter
@@ -3733,6 +3734,19 @@ printed: 1769
 fulltextUrl: https://books.google.com/books?id=qltbAAAAQAAJ&pg=PA263
 ids:
   dracor: fre000986
+---
+id: eorig000481
+slug: moissy-les-deux-medecines
+author:
+  name: Alexandre-Guillaume de Moissy
+  wikidata: Q2833352
+title: Les deux médecines
+subtitle: Proverbe VII.
+language: fre
+printed: 1769
+fulltextUrl: https://books.google.com/books?id=OT1MAAAAcAAJ&pg=PA107
+ids:
+  dracor: fre000974
 ---
 id: eorig000296
 slug: moissy-les-prejuges

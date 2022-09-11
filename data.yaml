@@ -2785,6 +2785,42 @@ settings:
   - description: >-
       Zimmer des Barons.
 ---
+id: ein002421
+slug: anonym-aurelius
+author:
+  pseudonym: Anonym
+title: Aurelius
+subtitle: Ein prosaisches Trauerspiel in einer Handlung. Nach dem Gesange in dem ersten Stück der Hamburgischen Beiträge
+numberOfScenes: 14
+printed: 1757
+editions:
+  - title: "Schriften der Kielischen Gesellschaft der Schönen Wissenschaften. Kiel und Altona: Iversen 1757, S. 203–232"
+reviews:
+  - "Bibliothek der schönen Wissenschaften und der freyen Künste. Sechsten Bandes erstes Stück. Leipzig: Dyck 1760, [S. 101](https://books.google.com/books?id=XIRdAAAAcAAJ&pg=RA1-PA101)."
+comments:
+  - "Hinweis in Gottscheds »Nöthiger Vorrath«, Zweyter Theil, Leipzig: Teubner 1765, [S. 293](https://books.google.com/books?id=acFURUwDvlAC&pg=RA1-PA293): »Nach [dem Gesange](https://books.google.com/books?id=dzQrAAAAYAAJ&pg=PA1) in dem ersten Stücke der Hamburgischen Beyträge«."
+cast:
+  - name: Aurelius.
+    gender: m
+  - name: Orgast.
+    gender: m
+  - name: Theodora.
+    gender: f
+  - name: Amintor.
+    gender: m
+  - name: Montano.
+    gender: m
+  - name: Einige Insulaner.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Der Schauplatz ist auf St. Kilda, einer von den Hebridischen Inseln, auf einem Platz vor Aurels Wohnung, der mit vielen Sträuchen umgeben ist.
+    location:
+      wikidataId: Q166479
+  - description: >-
+      Die Handlung geht frühe nach Sonnen Aufgang an, und dauert so lange als das Trauerspiel.
+---
 id: ein000061
 slug: anonym-autor-und-diener-aus-liebe
 author:
@@ -7190,6 +7226,41 @@ cast:
     isGroup: true
     gender: u
 ---
+id: ein002425
+slug: anonym-der-vernuenftige-thor-oder-der-englaender
+author:
+  pseudonym: Anonym
+title: "Der vernünftige Thor, oder: Der Engländer"
+subtitle: Ein noch ungedrucktes Lustspiel, in einer Handlung, aus dem Französischen
+premiered: 1783-06-03
+formalia:
+  - Prosa
+basedOn:
+  - patrat-le-fou-raisonnable-ou-l-anglois
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 349
+reviews:
+  - "Theater-Journal für Deutschland. Zwey und zwanzigstes Stück. Gotha: Ettinger 1784, [S. 108](https://www.digitale-sammlungen.de/de/view/bsb10121283?page=108)."
+comments:
+  - "Theaterzettel: [Bremen 1783](https://brema.suub.uni-bremen.de/suubtheater/periodical/pageview/1674055)."
+  - "Ob den Aufführungen in Göttingen und Bremen im Jahr 1783 dieselbe Übersetzung zugrunde lag, ist nicht gesichert."
+cast:
+  - name: Jakob Splin,
+    role: ein Engländer.
+    gender: m
+  - name: Herr Loyer,
+    role: ein Wirth.
+    gender: m
+  - name: Therese,
+    role: dessen Thochter.
+    gender: f
+  - name: Jakob,
+    role: ein Küper.
+    gender: m
+  - name: Ein stotternder Gerichtsdiener.
+    gender: m
+---
 id: ein000166
 slug: anonym-der-von-der-liebe-betrogene-philosoph
 author:
@@ -7441,6 +7512,21 @@ settings:
   - description: >-
       Das Theater stellt eine Barbierstube vor.
 ---
+id: ein002415
+slug: anonym-die-beiden-arzneien
+author:
+  pseudonym: Anonym
+title: Die beiden Arzneien
+subtitle: Ein Lustspiel in 1 Aufzug, aus dem Französischen des Moissy übersetzt
+printed: 1775
+basedOn:
+  - moissy-les-deux-medecines
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 21
+editions:
+  - title: "Berlin: Himburg 1775"
+---
 id: ein000172
 slug: anonym-die-beiden-loizerolles-und-maximilian-rospierre
 author:
@@ -7495,6 +7581,21 @@ settings:
     location:
       wikidataId: Q90
 ---
+id: ein002420
+slug: anonym-die-beiden-potraits
+author:
+  pseudonym: Anonym
+title: Die beiden Portraits
+subtitle: Lustspiel in 1 Aufzug von einem jungen Frauenzimmer in Hannover
+premiered: 1788-01-23
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 195
+reviews:
+  - "Annalen des Theaters. Zweites Heft. Berlin: Maurer 1788, [S. 127](https://books.google.com/books?id=yUsOAAAAIAAJ&pg=RA1-PA127)."
+keywords:
+  - Eheanbahnung
+---
 id: ein000173
 slug: anonym-die-beschwerliche-mutter
 author:
@@ -7522,6 +7623,20 @@ cast:
   - name: Martin,
     role: Leanders Diener.
     gender: m
+---
+id: ein002416
+slug: anonym-die-bestrafte-neugierde
+author:
+  pseudonym: Anonym
+title: Die bestrafte Neugierde
+subtitle: Ein Lustspielchen in einem Aufzug
+printed: 1796
+premiered: 1796
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 36
+comments:
+  - "Schulspiel, aufgeführt in Luzern, offenbar nicht identisch mit Johann Gottlieb Stephanies [gleichnamigem Fünfakter](https://books.google.com/books?id=U9dUAAAAcAAJ&printsec=frontcover) (1772)."
 ---
 id: ein000174
 slug: anonym-die-beyden-officiere
@@ -9532,7 +9647,7 @@ settings:
       wikidataId: Q64
 ---
 id: ein000221
-slug: anonym-die-schlittenfahrt
+slug: anonym-die-schlittenfarth
 author:
   name: B., M. J.
   pseudonym: Anonym
@@ -9547,6 +9662,7 @@ dictionaries:
     pages: 2. Abteilung, Band 32, S. 67–68
 editions:
   - title: "Zwey Lustspiele. [Ohne Ort: ohne Verlag] 1792, S. 3–60"
+    url: https://books.google.com/books?id=VwFkAAAAcAAJ&printsec=frontcover
 cast:
   - name: Herr von Floretti,
     role: Justizrath.
@@ -26789,6 +26905,9 @@ reviews:
   - "Ergänzungsblätter zur Allgemeinen Literatur-Zeitung. August 1813, [Sp. 686](https://books.google.com/books?id=LvtndK_fRnEC&pg=PA685)."
 keywords:
   - Die beiden Billets
+ids:
+  dracor: ger000591
+  wikidata: Q113128710
 cast:
   - name: Frau Timian,
     role: Wirthin zum blauen Huhn.
@@ -35790,6 +35909,34 @@ settings:
   - description: >-
       Zimmer in Bernstorfs Hause.
 ---
+id: ein002413
+slug: grossmann-die-ankunft
+author:
+  name: Großmann, Gustav Friedrich Wilhelm
+  wikidata: Q88019
+title: Die Ankunft
+subtitle: Allegorisches Vorspiel in einem Aufzug, mit Arien und Chören
+premiered: 1780-03-28
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 416
+reviews:
+  - "E. Mentzel: Geschichte der Schauspielkunst in Frankfurt am Main von ihren ersten Anfängen bis zur Eröffnung des städtischen Komödienhauses. Frankfurt am Main: Völcker 1882, [S. 387](https://books.google.com/books?id=msI-AAAAYAAJ&pg=PA387)."
+cast:
+  - name: Apoll.
+    gender: m
+  - name: Melpomene.
+    gender: f
+  - name: Thalia.
+    gender: f
+  - name: Euterpe.
+    gender: f
+  - name: Der Schutzgeist Frankfurts.
+    gender: u
+  - name: Sänger und Sängerinnen.
+    isGroup: true
+    gender: u
+---
 id: ein000827
 slug: grossmann-pygmalion
 author:
@@ -35831,6 +35978,22 @@ cast:
 settings:
   - description: >-
       Der Schauplatz stellet einen Saal, im Hause des Pygmalion, und im Hintergrunde die Werkstätte vor.
+---
+id: ein002422
+slug: grossmann-wer-wird-sie-bekommen
+author:
+  name: Großmann, Gustav Friedrich Wilhelm
+  wikidata: Q88019
+title: "Wer wird sie bekommen?"
+subtitle: Lustspiel in einem Akt
+premiered: 1795-02-03
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 379
+reviews:
+  - "Allgemeiner litterarischer Anzeiger. No. LXXIV. (Donnerstags, den 22sten Juny 1797), [Sp. 766–767](https://www.digitale-sammlungen.de/view/bsb10501769?page=412,413)."
+comments:
+  - "Bearbeitung von [»Wer wird sie kriegen?«](eckardt-wer-wird-sie-kriegen) (1780) von Friedrich Eckardt."
 ---
 id: ein000828
 slug: gubitz-allen-ist-geholfen
@@ -48955,6 +49118,8 @@ reviews:
 ids:
   dracor: ger000589
   wikidata: Q112960912
+keywords:
+  - Soldatenstück
 cast:
   - name: Graf Baumberg,
     role: Obrister und Regimentscommandant.
@@ -60129,6 +60294,20 @@ settings:
   - description: >-
       Ein großer Saal mit einer Glasthür im Hintergrunde, außer derselben ein Zimmer mit Spieltischen. Im Vordergrunde rechts ein Bücherschrank und ein Tisch. Diesem gegenüber ein Clavier.
 ---
+id: ein002417
+slug: felix-die-drey-verheuratheten-lehnlaquay
+author:
+  name: Kurz, Joseph Felix von
+  wikidata: Q15441252
+title: "Die drey verheuratheten Lehnlaquay, Oder: Die verlohrne Wette"
+subtitle: "Lustspiel von einem Aufzug, Des Bernardons: Mit Fiametta, Der lächerlichen Schildwacht nach der neuesten Mode"
+premiered: 1767
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 22, S. 73–74
+comments:
+  - "»Aufgeführt von der Kurz'schen Truppe 1767/68 in Frankfurt am Main.« (Meyer)"
+---
 id: ein001389
 slug: kurz-die-frohlockenden-schaefer
 author:
@@ -63978,6 +64157,21 @@ cast:
 settings:
   - description: >-
       Der Schauplatz stellt den Eingang in den Garten der Madame Gerdrut vor, und an dessen Seite ein kleines Gartenhaus.
+---
+id: ein002419
+slug: loof-der-war-angefuehrt
+author:
+  name: Loof, Konrad Heinrich
+  wikidata: Q113302687
+title: Der war angeführt
+subtitle: Lustspiel in 1 A.
+premiered: 1786-05-14
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 110
+comments:
+  - "Frühester Nachweis des Titels in: Theater-Kalender, auf das Jahr 1786. Gotha: Ettinger [1786], [S. 193–194](https://books.google.com/books?id=B0M7AAAAcAAJ&pg=RA2-PA193)."
+  - "Als Autorangabe kursiert lediglich ›Loof‹. Da es 1786 eine Aufführung in Riga gab und Konrad Heinrich Loof dort seit 1779 engagiert war, ist seine Autorschaft wahrscheinlich, vgl. Rigasche Biographieen. Erster Band: 1810–1829. Riga: Schnakenburg 1881, [S. 178–179](https://books.google.com/books?id=y9Kkri3KMbwC&pg=PA178)."
 ---
 id: ein001477
 slug: lorbeer-die-parlamentswahl
@@ -84063,6 +84257,35 @@ settings:
   - description: >-
       Die Scene ist ein Saal im Hause des von Rohrbach.
 ---
+id: ein002414
+slug: schreiber-die ausgerechnete-heirath
+author:
+  name: Schreiber, Aloys
+  wikidata: Q119183
+title: Die ausgerechnete Heirath
+subtitle: Lustspiel in 1 A.
+premiered: 1789-10-28
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 341
+reviews:
+  - "Dramaturgische Blätter. Zweiter Jahrgang. Drittes Quartal. Achtes Stück (Den 20 November 1789). Frankfurt am Main: Eichenberg 1789, [S. 114–115](https://books.google.com/books?id=UFXICEJaXZAC&pg=RA2-PA114)."
+cast:
+  - name: Wangen.
+    gender: m
+  - name: Antonie.
+    gender: f
+  - name: Fräulein von Rosen.
+    gender: f
+  - name: Kammermädchen.
+    gender: f
+  - name: Salheim.
+    gender: m
+  - name: Baron Werten.
+    gender: m
+  - name: Tromm.
+    gender: m
+---
 id: ein001944
 slug: schreiber-die-braut-im-schleier
 author:
@@ -85359,6 +85582,48 @@ cast:
   - name: Hector.
     gender: m
 ---
+id: ein002418
+slug: seccard-der-tod-l-junii-bruti
+author:
+  name: Seccard, Ludwig
+  wikidata: Q55126338
+title: Der Tod L. Junii Bruti
+subtitle: In einem Aufzug, aufgeführt von dem churfürstl. Lyceo und Gymnasio der Gesellschaft Jesu zu München
+printed: 1773
+premiered: 1773-09-03
+formalia:
+  - lateinische Verse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 25, S. 377
+editions:
+  - title: "München: Vötter [1773]"
+    url: https://books.google.com/books?id=5w5SAAAAcAAJ&printsec=frontcover
+comments:
+  - "Deutscher Titel, aber lateinischer Text. Dem Text vorangestellt ist [eine deutschsprachige Inhaltsangabe](https://books.google.com/books?id=5w5SAAAAcAAJ&pg=PP3)."
+cast:
+  - name: L. Junius Brutus.
+    gender: m
+  - name: P. Valerius Publicola.
+    gender: m
+  - name: L. Tarquin.
+    gender: m
+  - name: Tarquinius Aruns.
+    gender: m
+  - name: Mutius Cordus.
+    gender: m
+  - name: Anchises.
+    gender: m
+  - name: Aeneas.
+    gender: m
+  - name: Charon.
+    gender: m
+  - name: Umbra Lucretiae.
+    gender: f
+  - name: Chori.
+    isGroup: true
+    gender: u
+---
 id: ein001974
 slug: seckendorff-alis-gerichtspflege
 author:
@@ -85990,6 +86255,8 @@ keywords:
   - Judentum
   - Antisemitismus
   - Lotto
+  - Autoren der Romantik
+  - Parodie
 ids:
   wikidata: Q99601642
   dracor: ger000503
@@ -86250,6 +86517,9 @@ comments:
   - "Fortsetzung von [»Die beiden Billets«](heyne-die-beiden-billets)."
 keywords:
   - Die beiden Billets
+ids:
+  dracor: ger000590
+  wikidata: Q113016336
 cast:
   - name: Märten,
     role: ein Bauer.
@@ -86547,8 +86817,8 @@ editions:
   - title: "Neue wohlfeile Ausgabe. Leipzig: Dyk [1830], S. 1–27"
     url: http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:hebis:30-91188
 ids:
-  wikidata: Q105525766
   dracor: ger000526
+  wikidata: Q105525766
 reviews:
   - "Literarisches Wochenblatt von August v. Kotzebue. 3r Band, No. 7 (Januar 1819), [S. 50](https://books.google.com/books?id=37JFAAAAcAAJ&pg=PA50)."
 cast:
@@ -89683,6 +89953,39 @@ settings:
   - description: >-
       Die Handlung gehet im Freyen unter einer Weinlaube vor.
 ---
+id: ein002424
+slug: thielmann-der-graf-wider-willen-oder-die-heirath-durch-list
+author:
+  name: Thielmann, Philipp Jakob
+title: "Der Graf wider Willen, oder: Die Heirath durch List"
+subtitle: Lustspiel in einem Akt
+numberOfScenes: 10
+printed: 1830
+formalia:
+  - Prosa
+editions:
+  - title: "Mainz: Müller 1830"
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN1810827426
+cast:
+  - name: Professor Klugmann.
+    gender: m
+  - name: Röschen,
+    role: seine Tochter.
+    gender: f
+  - name: Lottchen,
+    role: ihre Freundin.
+    gender: f
+  - name: Major von Resen.
+    gender: m
+  - name: Substitut Romulus.
+    gender: m
+  - name: Franz,
+    role: des Majors Kammerdiener.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung ist in Professor Klugmanns Haus.
+---
 id: ein002075
 slug: thielmann-der-junge-feldherr-oder-die-franzosen-in-aegypten
 author:
@@ -89765,6 +90068,43 @@ settings:
       Die Generäle rothe, blaue und weiße Federn auf den Hüten; ditto Schärpen.
     location:
       wikidataId: Q12508
+---
+id: ein002423
+slug: thielmann-die-gesandtschaft
+author:
+  name: Thielmann, Philipp Jakob
+title: Die Gesandtschaft
+subtitle: Ein Schwank in einem Akt
+numberOfScenes: 15
+printed: 1830
+formalia:
+  - Prosa
+editions:
+  - title: "Mainz: Müller 1830"
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN1810826225
+cast:
+  - name: Graf von Steinau,
+    role: Minister.
+    gender: m
+  - group:
+      - name: Carl von Steinau,
+        role: zweiter Präsident.
+        gender: m
+      - name: Fritz von Steinau,
+        role: Studiosus.
+        gender: m
+    role: Beide seine Söhne.
+  - name: Freiherr von Lilienfeld,
+    role: Studiosus.
+    gender: m
+  - name: Baron von Eitelspill.
+    gender: m
+  - name: Hänschen,
+    role: sein Diener.
+    gender: m
+settings:
+  - description: >-
+      Saal im Palais des Ministers.
 ---
 id: ein002381
 slug: thilo-das-erbkreuz
@@ -90521,8 +90861,8 @@ keywords:
   - Hellseherei
   - Literatur
 ids:
-  wikidata: Q94393683
   dracor: ger000496
+  wikidata: Q94393683
 cast:
   - name: Ahlfeld.
     gender: m
@@ -92382,13 +92722,15 @@ author:
   name: Vanoni, B.
   wikidata: Q111314114
 title: Der Friseur
-subtitle: Schwank in 1 Aufzuge
+subtitle: Schwank in einem Akte
+numberOfScenes: 28
 printed: 1843
 premiered: 1843-05-19
 formalia:
   - Prosa
 editions:
   - title: "München 1843"
+    url: https://resolver.staatsbibliothek-berlin.de/SBB0003353200000000
 reviews:
   - "Der Bayerische Eilbote. No. 61 (Sonntag, den 21. Mai. München, 1843), [S. 486–487](https://books.google.com/books?id=VDxEAAAAcAAJ&pg=PA486)."
   - "Bühnenwelt. Blätter für dramaturgische und belletristische Unterhaltung. Nro. 22 (Nürnberg. Juni 1843), [S. 349](https://books.google.com/books?id=Q_NFAAAAcAAJ&pg=PA349)."
@@ -92397,33 +92739,41 @@ comments:
   - "Theaterzettel: [München 1843](https://books.google.com/books?id=-S1DAAAAcAAJ&pg=PA65-IA67)."
 keywords:
   - Verkleidungsspiel
+ids:
+  dracor: ger000592
+  wikidata: Q113649510
 cast:
-  - name: Herr von Gumpelheim.
-    gender: m
   - name: Baron von Merseburg.
     gender: m
   - name: Baron von Flitterfeld.
     gender: m
-  - name: Emilie,
+  - name: Baronesse Emilie,
     role: seine Schwester.
     gender: f
   - name: Herr von Hasenhein.
+    gender: m
+  - name: Herr von Gumpelhein.
     gender: m
   - name: Herr Schnappel.
     gender: m
   - name: Emma,
     role: seine Frau.
     gender: f
-  - name: Narcißus Hasenfuß,
-    role: ein Friseur.
+  - name: Narcissus Hasenfuß,
+    role: Friseur.
     gender: m
   - name: Valentin,
-    role: v. Hasenbeins Bedienter.
+    role: v. Hasenbeins Diener.
     gender: m
-  - name: Diener im von Kalksteinischen Hause.
+  - name: Ein Diener in v. Kalksteins Haus.
+    gender: m
+  - name: Herren.
     isGroup: true
     gender: m
-  - name: Ein Polizeicommissär.
+  - name: Damen.
+    isGroup: true
+    gender: f
+  - name: Ein Polizei-Kommissär.
     gender: m
 ---
 id: ein002137
