@@ -1,6 +1,6 @@
 import React, {useContext} from 'react';
 import {Link, useParams} from "react-router-dom";
-import {Helmet} from "react-helmet";
+import {Helmet} from 'react-helmet-async';
 import {Trans} from '@lingui/macro';
 import {Table} from 'react-bootstrap';
 import Authors from './Authors';

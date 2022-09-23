@@ -1,7 +1,7 @@
 import React, {useEffect, useContext} from 'react';
 import {useLocation, useParams} from "react-router-dom";
 import ReactMarkdown from 'react-markdown';
-import {Helmet} from "react-helmet";
+import {Helmet} from 'react-helmet-async';
 import {Trans, t} from '@lingui/macro';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import Authors from './Authors';

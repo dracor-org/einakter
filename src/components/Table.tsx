@@ -3,7 +3,7 @@ import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, {Search} from 'react-bootstrap-table2-toolkit';
 import {Link} from 'react-router-dom';
 import {t} from '@lingui/macro';
-import {Helmet} from 'react-helmet';
+import {Helmet} from 'react-helmet-async';
 import Authors from './Authors';
 import Statistics from './Statistics';
 import IdLink from './IdLink';

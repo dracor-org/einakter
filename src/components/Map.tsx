@@ -1,5 +1,5 @@
 import React, {useContext} from 'react';
-import {Helmet} from "react-helmet";
+import {Helmet} from 'react-helmet-async';
 import {Trans, t} from '@lingui/macro';
 import {MapContainer, TileLayer, Marker} from 'react-leaflet';
 import {EinakterContext} from '../context';
