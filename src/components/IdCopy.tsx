@@ -15,11 +15,8 @@ const IdCopy = ({id, className = ''}: Props) => {
     <span className={
       `inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom cursor-pointer ${className}`
     }>
-      <CopyToClipboard
-        text={`${prefix}${id}`}
-        title="copy to clipboard"
-      >
-        <span>
+      <CopyToClipboard text={`${prefix}${id}`}>
+        <span title="copy to clipboard">
           <span className="pr-1">{id}</span>
           <FontAwesomeIcon icon="clipboard" size="sm" />
         </span>
