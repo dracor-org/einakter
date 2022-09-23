@@ -2,12 +2,13 @@ import {Play} from './types';
 import {normalizeYear, countCharactersByGender, getEarliestYear} from './utils';
 
 const playTmpl: Play = {
+  id: 'ein000001',
   slug: 'foo-bar',
   title: 'Foo Bar',
 };
 
 describe('normalizeYear', () => {
-  
+
   it('handles integer for premiered', () => {
     const play = {...playTmpl, premiered: 1789};
     expect(normalizeYear(play)).toBe(1789);
@@ -72,7 +73,7 @@ describe('countCharactersByGender', () => {
 });
 
 describe('getEarliestYear', () => {
-  
+
   it('finds earliest year', () => {
     const play = {...playTmpl, premiered: 1789, created: 1770, printed: 1790};
     expect(getEarliestYear(play)).toBe(1770);
