@@ -83,8 +83,8 @@ const Table = ({columns, data: initialData, defaultSort = []}: Props) => {
             ))}
           </thead>
           <tbody>
-            {table.getRowModel().rows.map(row => (
-              <tr key={row.id}>
+            {table.getRowModel().rows.map((row, i) => (
+              <tr key={row.id} className={i % 2 ? '' : 'bg-neutral-200'}>
                 {row.getVisibleCells().map(cell => (
                   <td key={cell.id}>
                     {flexRender(cell.column.columnDef.cell, cell.getContext())}

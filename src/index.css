@@ -20,10 +20,6 @@
     @apply -mx-4 -mb-4 flex-grow;
   }
 
-  tbody tr:nth-child(odd) {
-   @apply bg-neutral-200;
-  }
-
   th {
    @apply text-left align-top p-4 text-sm font-medium;
   }

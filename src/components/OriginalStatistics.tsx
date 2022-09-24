@@ -43,36 +43,38 @@ const OriginalStatistics = ({plays = [], className = ''}: Props) => {
   return (
     <div className={className}>
       <table className="table-fixed m-0">
-        <tr>
-          <Td width="1/6">{plays.length}</Td>
-          <Td width="1/6">{Object.keys(names).length}</Td>
-          <Td width="1/6">{anonymous}</Td>
-          <td className="w-3/6 pl-0 pb-0">
-            {Object.keys(languages).sort((a, b) => {
-              if (languages[a] > languages[b]) {
-                return -1;
-              }
-              if (languages[a] < languages[b]) {
-                return 1;
-              }
-              return 0;
-            }).map((code, i) => (
-              <span key={code}>
-                {i > 0 && ', '}
-                <span className="whitespace-nowrap">
-                  {localLanguageName(code)}:{' '}
-                  <b className="font-medium">{languages[code]}</b>
+        <tbody>
+          <tr>
+            <Td width="1/6">{plays.length}</Td>
+            <Td width="1/6">{Object.keys(names).length}</Td>
+            <Td width="1/6">{anonymous}</Td>
+            <td className="w-3/6 pl-0 pb-0">
+              {Object.keys(languages).sort((a, b) => {
+                if (languages[a] > languages[b]) {
+                  return -1;
+                }
+                if (languages[a] < languages[b]) {
+                  return 1;
+                }
+                return 0;
+              }).map((code, i) => (
+                <span key={code}>
+                  {i > 0 && ', '}
+                  <span className="whitespace-nowrap">
+                    {localLanguageName(code)}:{' '}
+                    <b className="font-medium">{languages[code]}</b>
+                  </span>
                 </span>
-              </span>
-            ))}
-          </td>
-        </tr>
-        <tr>
-          <Th width="1/6"><Trans>Number of originals</Trans></Th>
-          <Th width="1/6"><Trans>Authors</Trans></Th>
-          <Th width="1/6"><Trans>Plays published anonymously</Trans></Th>
-          <Th><Trans>Languages</Trans></Th>
-        </tr>
+              ))}
+            </td>
+          </tr>
+          <tr>
+            <Th width="1/6"><Trans>Number of originals</Trans></Th>
+            <Th width="1/6"><Trans>Authors</Trans></Th>
+            <Th width="1/6"><Trans>Plays published anonymously</Trans></Th>
+            <Th><Trans>Languages</Trans></Th>
+          </tr>
+        </tbody>
       </table>
     </div>
   );
