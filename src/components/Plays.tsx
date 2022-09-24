@@ -9,6 +9,7 @@ import Statistics from './Statistics';
 import Table from './Table';
 import Authors from './Authors';
 import TitleCell from './TitleCell';
+import DownloadLink from './DownloadLink';
 
 function KeywordsCell ({keywords}: {keywords: string[]}) {
   return (
@@ -83,16 +84,22 @@ export default function Plays () {
       </Helmet>
       <div className="p-4 overflow-x-auto">
         <Statistics plays={data} authors={authors} className="mb-2 mt-2"/>
-        <span className="flex justify-between items-center">
-          <span>
-            <a className="bg-primary px-2 py-1 ml-3 rounded-md text-neutral-100 drop-shadow-lg hover:drop-shadow-md hover:text-secondary-100 transition ease-in-out" href="data.json" download="einakter.json" title={t`Download JSON`}>
-              JSON
-            </a>
-            <a className="bg-primary px-2 py-1 ml-3 rounded-md text-neutral-100 drop-shadow-lg hover:drop-shadow-md hover:text-secondary-100 transition ease-in-out" href="data.csv" download="einakter.csv" title={t`Download CSV`}>
-              CSV
-            </a>
-          </span>
-        </span>
+        <div className="float-right mt-1">
+          <DownloadLink
+            href="data.json"
+            title={t`Download JSON`}
+            download="einakter.json"
+          >
+            JSON
+          </DownloadLink>
+          <DownloadLink
+            href="data.csv"
+            title={t`Download CSV`}
+            download="einakter.csv"
+          >
+            CSV
+          </DownloadLink>
+        </div>
         <Table
           columns={columns}
           data={data}
