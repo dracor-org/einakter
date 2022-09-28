@@ -47,7 +47,7 @@
     "locations": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-locations.ts",
     "start": "yarn compile && yarn csv && yarn json && craco start",
     "build": "yarn compile && yarn csv && yarn json && yarn beacon && craco build",
-    "test": "yarn compile && yarn csv && yarn json && react-scripts test",
+    "test": "yarn compile && yarn csv && yarn json && craco test",
     "extract": "lingui extract",
     "compile": "lingui compile",
     "eject": "react-scripts eject"
