@@ -10,6 +10,7 @@ import Table from './Table';
 import Authors from './Authors';
 import TitleCell from './TitleCell';
 import DownloadLink from './DownloadLink';
+import {formatEra} from './Years';
 
 function KeywordsCell ({keywords}: {keywords: string[]}) {
   return (
@@ -54,6 +55,7 @@ export default function Plays () {
         id: 'normalizedYear',
         header: t`Year (normalized)`,
         accessorFn: row => row.normalizedYear?.toString() || '',
+        cell: info => <span>{formatEra(info.row.original.normalizedYear)}</span>
       },
       {
         id: 'numberOfScenes',

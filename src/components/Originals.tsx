@@ -9,6 +9,7 @@ import OriginalStatistics from './OriginalStatistics';
 import Table from './Table';
 import Authors from './Authors';
 import TitleCell from './TitleCell';
+import {formatEra} from './Years';
 
 function Originals () {
   const {plays, originals} = useContext(EinakterContext);
@@ -57,6 +58,7 @@ function Originals () {
         id: 'normalizedYear',
         header: t`Year (normalized)`,
         accessorFn: row => row.normalizedYear?.toString() || '',
+        cell: info => <span>{formatEra(info.row.original.normalizedYear)}</span>
       },
       {
         id: 'language',
