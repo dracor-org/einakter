@@ -1,9 +1,8 @@
-const { NONAME } = require('dns')
-
+/** @type {import('tailwindcss').Config} */
 module.exports = {
-  mode: 'jit',
-  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
-  darkMode: false, // or 'media' or 'class'
+  content: [
+    './src/**/*.{js,jsx,ts,tsx}',
+  ],
   theme: {
     extend: {
       colors: {
@@ -43,14 +42,11 @@ module.exports = {
             },
           },
         },
-      },  
+      },
       height: {
         'calc-full-0.75': 'calc(100% - 0.75rem)',
       },
     },
-  },
-  variants: {
-    extend: {},
   },
   plugins: [
     require('@tailwindcss/typography')({
