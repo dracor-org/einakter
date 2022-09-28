@@ -17,11 +17,7 @@
   }
 
   table {
-    @apply -mx-4 -mb-4 flex-grow;    
-  }
-
-  tbody tr:nth-child(odd) {
-   @apply bg-neutral-200;
+    @apply -mx-4 -mb-4 flex-grow;
   }
 
   th {
@@ -39,18 +35,6 @@
   input {
     @apply shadow appearance-none border rounded py-2 px-3 text-gray-700 mb-4;
   }
-}
-
-th.sortable {
-  @apply cursor-pointer;
-}
-
-.react-bootstrap-table {
-  @apply flex; 
-}
-
-.react-bootstrap-table th {
-  @apply align-bottom; 
 }
 
 

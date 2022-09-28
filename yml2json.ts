@@ -8,10 +8,10 @@ let originals: OriginalPlay[] = [];
 try {
   data = loadAll(readFileSync('./data.yaml', 'utf8'), null, {
     schema: CORE_SCHEMA
-  });
+  }) as Play[];
   originals = loadAll(readFileSync('./originals.yaml', 'utf8'), null, {
     schema: CORE_SCHEMA
-  });
+  }) as OriginalPlay[];
 } catch (error) {
   console.log(error);
 }

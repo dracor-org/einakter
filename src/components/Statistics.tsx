@@ -96,37 +96,39 @@ const Statistics = ({authors = {}, plays = [], className = ''}: Props) => {
   return (
     <div className={className}>
       <table className="table-fixed md:w-full m-0">
-        <tr className="bg-transparent">
-          <Td>{plays.length}</Td>
-          <Td>{authorsTotal}</Td>
-          <Td>{anonymous}</Td>
-          <Td>{plays.filter(p => p.basedOn?.length).length}</Td>
-          <Td>{numCharacters}</Td>
-        </tr>
-        <tr className="bg-transparent">
-          <Th>
-            <Trans>One-act plays</Trans>
-          </Th>
-          <Th>
-            <p>
-              <Trans>Authors</Trans>
-            </p>
-            <small className="font-normal">
-              Wikidata: {authorsWikidata},{' '}<br/> 
-              <Trans>male</Trans>: {authorsMale},{' '}
-              <Trans>female</Trans>: {authorsFemale}
-            </small>
-          </Th>
-          <Th className="max-w-[20ch]">
-            <Trans>Plays published anonymously</Trans>
-          </Th>
-          <Th className="max-w-[20ch]">
-              <Trans>Plays translated/adapted from other languages</Trans>
-          </Th>
-          <Th>
-            <Trans>Characters</Trans>
-          </Th>
-        </tr>
+        <tbody>
+          <tr className="bg-transparent">
+            <Td>{plays.length}</Td>
+            <Td>{authorsTotal}</Td>
+            <Td>{anonymous}</Td>
+            <Td>{plays.filter(p => p.basedOn?.length).length}</Td>
+            <Td>{numCharacters}</Td>
+          </tr>
+          <tr className="bg-transparent">
+            <Th>
+              <Trans>One-act plays</Trans>
+            </Th>
+            <Th>
+              <p>
+                <Trans>Authors</Trans>
+              </p>
+              <small className="font-normal">
+                Wikidata: {authorsWikidata},{' '}<br/>
+                <Trans>male</Trans>: {authorsMale},{' '}
+                <Trans>female</Trans>: {authorsFemale}
+              </small>
+            </Th>
+            <Th className="max-w-[20ch]">
+              <Trans>Plays published anonymously</Trans>
+            </Th>
+            <Th className="max-w-[20ch]">
+                <Trans>Plays translated/adapted from other languages</Trans>
+            </Th>
+            <Th>
+              <Trans>Characters</Trans>
+            </Th>
+          </tr>
+        </tbody>
       </table>
     </div>
   );
