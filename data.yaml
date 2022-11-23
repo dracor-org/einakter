@@ -29446,7 +29446,7 @@ cast:
     gender: m
   - name: Gräfinn Claudia Batti,
     role: seine Braut.
-    gender: m
+    gender: f
   - name: Bianka da Minani.
     gender: f
   - name: Gianetta,
@@ -66054,6 +66054,22 @@ settings:
   - description: >-
       Die Scene ist im Billerbeckischen Hause.
 ---
+id: ein002426
+slug: mayberg-der-widerspruchsgeist
+author:
+  name: Mayberg, Johann Wilhelm
+  wikidata: Q59601828
+title: Der Widerspruchsgeist
+subtitle: Lustspiel in 1 Aufzug, nach Du Fresny
+premiered: 1755
+formalia:
+  - Prosa
+basedOn:
+  - dufresny-l-esprit-de-contradiction
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 18, S. 158
+---
 id: ein001524
 slug: meddlhammer-das-crimen-plagii-oder-die-gleichen-haben-sich-gefunden
 author:
@@ -70407,6 +70423,7 @@ formalia:
 editions:
   - title: "Zwei unbekannte Stücke Johann Nestroy's. Aus den Manuskripten herausgegeben und eingeleitet von Dr. Fritz Brukner. Wien: Knepler 1910, S. 17–34"
   - title: "Johann Nestroy Stücke 1. Herausgegeben von Friedrich Walla. Wien und München: Jugend und Volk 1979, S. 91–106"
+    url: https://nestroy.at/nestroy-stuecke/01_papp/papp.pdf
 comments:
   - "Auch mit dem Untertitel »Vorspiel«."
 keywords:
