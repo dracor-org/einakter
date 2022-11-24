@@ -29,7 +29,7 @@ let data: Play[] = [];
 try {
   data = loadAll(readFileSync('./data.yaml', 'utf8'), null, {
     schema: CORE_SCHEMA
-  });
+  }) as Play[];
 } catch (error) {
   console.log(error);
 }
