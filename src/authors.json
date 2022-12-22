@@ -445,6 +445,15 @@
     },
     "gender": "male"
   },
+  "Q111232765": {
+    "name": "Franz Ludwig von Berberich",
+    "gnd": "1157565484",
+    "birth": {},
+    "death": {
+      "date": "1784-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q13604014": {
     "name": "Johann Baptist Bergopzoomer",
     "gnd": "100337910",
@@ -4388,6 +4397,22 @@
       "placeId": "http://www.wikidata.org/entity/Q1731"
     },
     "gender": "male"
+  },
+  "Q237706": {
+    "name": "Maria Anna von Sachsen",
+    "gnd": "118577824",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Anna%20of%20Saxony.JPG",
+    "birth": {
+      "date": "1728-08-29T00:00:00Z",
+      "place": "Residenzschloss Dresden",
+      "placeId": "http://www.wikidata.org/entity/Q167314"
+    },
+    "death": {
+      "date": "1797-02-17T00:00:00Z",
+      "place": "Schloss Fürstenried",
+      "placeId": "http://www.wikidata.org/entity/Q567568"
+    },
+    "gender": "female"
   },
   "Q1733642": {
     "name": "Karl von Marinelli",

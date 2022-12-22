@@ -8356,6 +8356,19 @@ cast:
     role: ein Intriguenmacher.
     gender: m
 ---
+id: ein002427
+slug: anonym-die-eheliche-verbindung
+author:
+  pseudonym: Anonym
+title: Die Eheliche Verbindung
+subtitle: Ein Nachspiel in einer Handlung nach dem Französischen
+printed: 1792
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 48
+editions:
+  - title: Mannheim 1792
+---
 id: ein000191
 slug: anonym-die-eigensinnigen
 author:
@@ -10483,6 +10496,20 @@ cast:
   - name: Spiele und Scherze.
     isGroup: true
     gender: u
+---
+id: ein002429
+slug: anonym-die-gute-verstellung-oder-der-listige-contract
+author:
+  pseudonym: Anonym
+title: "Die gute Verstellung, Oder: Der listige Contract"
+subtitle: Ein aus dem Französischen übersetztes regelmäßiges Lustspiel von einem Aufzuge
+premiered: 1770-10-05
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 23, S. 474
+comments:
+  - Vorlage unklar.
+  - Aufgeführt von der Ilgner'schen Truppe in Frankfurt.
 ---
 id: ein000241
 slug: anonym-die-hahnrey-probe
@@ -16733,6 +16760,22 @@ cast:
     gender: m
 settings:
   - description: Zimmer mit Mittel- und zwei Seitenthüren.
+---
+id: ein002430
+slug: berberich-die-guten-freundinnen
+author:
+  name: Berberich, Franz Ludwig von
+  wikidata: Q111232765
+title: Die guten Freundinnen
+subtitle: Lustspiel in 1 Aufzug
+premiered: 1779-08-22
+basedOn:
+  - carmontelle-les-bonnes-amies
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 217
+reviews:
+  - "Theatralischer Zeitvertreib. Drittes Stück (Freitags, den 1 October, 1779), [S. 17](https://books.google.com/books?id=TE2M1kBAmtQC&pg=PA17)."
 ---
 id: ein002386
 slug: bergopzoomer-der-abschied
@@ -29458,7 +29501,7 @@ cast:
     gender: f
 settings:
   - description: >-
-      Die Scene ist der Garten eines dem Marchese gehörigen Schlosses in Wälschland. Auf der einen Seite eine Weinlaube, in der Nähe des Haus der Gärtnerinn.
+      Die Scene ist der Garten eines dem Marchese gehörigen Schlosses in Wälschland. Auf der einen Seite eine Weinlaube, in der Nähe das Haus der Gärtnerinn.
 ---
 id: ein000679
 slug: eckardt-wer-wird-sie-kriegen
@@ -64980,6 +65023,20 @@ cast:
 settings:
   - description: >-
       Die Scene ist in einem Landhause nahe der Hauptstadt.
+---
+id: ein002428
+slug: maria-anna-die-falsche-muthmassung
+author:
+  name: Maria Anna, Kurfürstin von Bayern
+  wikidata: Q237706
+title: Die falsche Muthmassung
+subtitle: Ein Lustspiel in einem Aufzuge, a.d.f. übersetzt von Ihrer Churfürstl. Durchl. unser gnädigsten Landesfrau
+created: 1774
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 25, S. 556
+comments:
+  - Erwähnt in Churbaierische Intelligenzblätter, für das Jahr 1776, [S. 401–402](https://books.google.com/books?id=u6JEAAAAcAAJ&pg=RA3-PA401), und im Nazional Garde Jahrbuch für das Königreich Baiern, 1815, [S. 39](https://books.google.com/books?id=pLFOAAAAcAAJ&pg=PA39).
 ---
 id: ein001497
 slug: maria-das-lustspiel
