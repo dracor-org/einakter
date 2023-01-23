@@ -7777,41 +7777,6 @@ settings:
   - description: >-
       Scene: ein Saal mit verschiedenen Seitenthüren.
 ---
-id: ein000177
-slug: anonym-die-brille
-author:
-  name: B., F.
-  pseudonym: Anonym
-title: Die Brille
-subtitle: Ein Originallustspiel in einem Aufzug
-numberOfScenes: 13
-printed: 1787
-formalia:
-  - Prosa
-dictionaries:
-  - name: bibliographia
-    pages: 2. Abteilung, Band 30, S. 48–49
-editions:
-  - title: "Wien: Taubstummeninstitut 1787"
-    url: https://books.google.com/books?id=d2jKNXT9JyoC&printsec=frontcover
-cast:
-  - name: Gutmann.
-    gender: m
-  - name: Barbara,
-    role: dessen Frau.
-    gender: f
-  - name: Lorgen,
-    role: dessen Tochter.
-    gender: f
-  - name: Umstand,
-    role: ein Gerichtssekretär.
-    gender: m
-  - name: Karl.
-    gender: m
-  - name: Heinrich,
-    role: dessen Bedienter.
-    gender: m
----
 id: ein000178
 slug: anonym-die-broschueren-gegen-die-juden-oder-die-rache
 author:
@@ -9185,6 +9150,19 @@ cast:
 settings:
   - description: >-
       Das Theater stellt den innern Hof des Spitals vor. Zu beiden Seiten Pavillons mit Krankenstuben, die jedes ein mit eisernen Gittern wohlverwahrtes Fenster, auch noch von außen Läden zum Zumachen haben. Uiber jedem Fenster befindet sich eine Nummer. Das Theater wird von der äußern inwendig mit einem Baumgange eingefaßten Mauer des Spitals geschlossen. In der Mitte derselben ist die Einfahrt von der Straße her, ein Thor, und eine Einlaßthüre. An den Seiten siehet man Gange, die hinter die Pavillons führen.
+---
+id: ein002431
+slug: anonym-die-listige-schneiderin
+author:
+  pseudonym: Anonym
+title: Die listige Schneiderin
+subtitle: Ein lustig Stück in 1 Aufzug
+premiered: 1783-07-22
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 363
+comments:
+  - Aufgeführt in Wien, Theater in der Leopoldstadt.
 ---
 id: ein000209
 slug: anonym-die-mainzer-klubbisten-zu-koenigstein
@@ -96648,6 +96626,43 @@ settings:
       Die Handlung geht in einer englischen Seestadt im Gasthofe, nahe am Hafen vor.
   - description: >-
       Die Bühne stellt ein Zimmer im Gasthofe vor. Die Mittelthüre führt nach der Treppe, die Seitenthüre in ein Kabinet – links ein Fenster, das die Aussicht nach den Garten öffnet – an der Wand ein großer Spiegel.
+---
+id: ein000177
+slug: waldvogl-die-brille
+author:
+  name: Waldvogl, Joseph Anton
+  pseudonym: F. B.
+title: Die Brille
+subtitle: Ein Originallustspiel in einem Aufzug
+numberOfScenes: 13
+printed: 1787
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 48–49
+editions:
+  - title: "Wien: Taubstummeninstitut 1787"
+    url: https://books.google.com/books?id=d2jKNXT9JyoC&printsec=frontcover
+comments:
+  - "Autorschaft ermittelt via Goedeke, Band V, [S. 331–332](https://archive.org/details/grundriszzurges04goog/page/830/mode/2up)."
+cast:
+  - name: Gutmann.
+    gender: m
+  - name: Barbara,
+    role: dessen Frau.
+    gender: f
+  - name: Lorgen,
+    role: dessen Tochter.
+    gender: f
+  - name: Umstand,
+    role: ein Gerichtssekretär.
+    gender: m
+  - name: Karl.
+    gender: m
+  - name: Heinrich,
+    role: dessen Bedienter.
+    gender: m
 ---
 id: ein002229
 slug: walz-einwilligung-wider-willen
