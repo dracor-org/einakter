@@ -9231,6 +9231,19 @@ settings:
     location:
       wikidataId: Q1012780
 ---
+id: ein002432
+slug: anonym-die-marschorder
+author:
+  pseudonym: Anonym
+title: Die Marschorder
+subtitle: Ein Lustspiel in einem Aufzuge
+premiered: 1793-03-06
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 287
+comments:
+  - Aufgeführt [in Odense](http://danskforfatterleksikon.dk/1850t/t1850dato1793.htm#dato_06-03-1793).
+---
 id: ein000210
 slug: anonym-die-melonen-oder-die-zaenkerinn
 author:
@@ -11485,6 +11498,19 @@ cast:
   - name: Die Baronin.
     gender: m
 ---
+id: ein002434
+slug: anonym-die-versuchung-des-heiligen-antonius
+author:
+  pseudonym: Anonym
+title: Die Versuchung des Heiligen Antonius
+subtitle: "Lustspiel (?) in einem Aufzug"
+premiered: 1775-02-23
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 51
+comments:
+  - "»Sein [Goethes] erster Auftritt [in Weimar] erfolgte im pantomimischen Aufzug *Die Versuchung des heiligen Antonius*, eine Einlage zur Karnevalsredoute am 23.2.1776.« (Goethe-Handbuch, Band 2, [S. 23](https://books.google.com/books?id=XUS3DQAAQBAJ&pg=PA23))"
+---
 id: ein000265
 slug: anonym-die-verwandlung
 author:
@@ -13348,6 +13374,17 @@ settings:
       Der Schauplatz ist der Garten, hinter der Frau von Haricour ihrem Hause.
   - description: >-
       Das Theater stellet einen angenehmen Garten vor mit etlichen hohen Bäumen. Rechter Hand eine große doppelte Glaßthür der Eingang in einen Sommersaal, hintenher der Eingang in eine Allee, welche an der Frau von Haricour Wohnhauß stöst. Linker Hand eine Thür, welche auf die Straß führet: ganz vorn eine Sommer-Laube, mit einer Raßenbanck. Im Grunde des Theaters eine kleine Thür, wodurch man in des Gärtners Zimmer geht: es ist Nacht, der Vollmond scheint durch die Bäum, und macht den ganzen Garten hell.
+---
+id: ein002436
+slug: anonym-nannette-und-babette-oder-die-angehenden-schauspielerinnen
+author:
+  pseudonym: Anonym
+title: Nannette und Babette oder Die angehenden Schauspielerinnen
+subtitle: Lustspiel in einem Aufzug (mit Arien und einem Terzett)
+premiered: 1792-06-14
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 40
 ---
 id: ein000312
 slug: anonym-orleans-hoellenfahrt
@@ -27394,6 +27431,51 @@ cast:
   - name: Jakob,
     role: Bedienter des Frodwirths.
     gender: m
+---
+id: ein002435
+slug: cremeri-die-wahl-nach-der-mode-oder-so-was-geschicht-oefters
+author:
+  name: Cremeri, Anton
+  wikidata: Q55127553
+title: Die Wahl nach der Mode oder so was geschicht öfters
+subtitle: Ein Theatralischer Versuch, in einem Aufzuge
+numberOfScenes: 23
+printed: 1773
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 25, S. 276–277
+editions:
+  - title: "Temeswar: Heimerl 1773"
+    url: https://nbn-resolving.org/urn:nbn:at:AT-OOeLB-845838
+cast:
+  - name: Graf von Wendelheim.
+    gender: m
+  - name: Gräfin Brandtstein,
+    role: seine Schwester.
+    gender: f
+  - name: Julie,
+    role: Tochter des Grafen.
+    gender: f
+  - name: Baron von Treumann.
+    gender: m
+  - name: Marquis von Dom.
+    gender: m
+  - name: Anton,
+    role: Hofmeister des Grafen.
+    gender: m
+  - name: Willibald,
+    role: ein Kaufmann.
+    gender: m
+  - name: Goldhan,
+    role: ein Jubilier.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung geht vor im Graf Wendelheimischen Hause.
 ---
 id: ein000629
 slug: crentzin-der-arme
@@ -69440,6 +69522,20 @@ dictionaries:
     pages: 2. Abteilung, Band 32, S. 424
 comments:
   - "Von Meyer ins Jahr 1793 einsortiert. Das Stück war wohl für das Mainzer »Liebhaber-Theater« bestimmt, für das Müller 1793/94 einige ungedruckt gebliebene Dramen verfasste."
+---
+id: ein002433
+slug: mueller-die-vaterliebe-nach-der-mode
+author:
+  name: Müller, Thaddäus
+  wikidata: Q38792277
+title: Die Vaterliebe nach der Mode
+subtitle: Ein Lustspiel in einem Aufzug
+premiered: 1791
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 405
+comments:
+  - Schulspiel, aufgeführt in Luzern 1791.
 ---
 id: ein001600
 slug: mueller-friedberg-die-eroberung-von-sant-lucia
