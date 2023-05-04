@@ -5707,10 +5707,14 @@
     "name": "Friederike Reinhardt",
     "gnd": "116420472",
     "birth": {
-      "date": "1770-01-01T00:00:00Z"
+      "date": "1770-01-01T00:00:00Z",
+      "place": "Arnstadt",
+      "placeId": "http://www.wikidata.org/entity/Q490665"
     },
     "death": {
-      "date": "1843-01-01T00:00:00Z"
+      "date": "1843-01-01T00:00:00Z",
+      "place": "Jena",
+      "placeId": "http://www.wikidata.org/entity/Q3150"
     },
     "gender": "female"
   },

@@ -11903,6 +11903,10 @@ dictionaries:
 editions:
   - title: "Leipzig: Holle 1770"
     url: https://books.google.com/books?id=ZMMcQO90oRgC&printsec=frontcover
+reviews:
+  - "Allgemeine deutsche Bibliothek. Des funfzehnten Bandes erstes Stück. Berlin und Stettin: Nicolai 1771, [S. 564](http://ds.ub.uni-bielefeld.de/viewer/resolver?urn=urn:nbn:de:0070-disa-2002572_027_7997)."
+  - "Almanach der deutschen Musen auf das Jahr 1771, [S. 96](https://books.google.com/books?id=52BeAAAAcAAJ&pg=PA96)."
+  - "Journal aller Romane und Schauspiele. Viertes Stück. Leipzig: Schneider 1785, [S. 19–20](https://books.google.com/books?id=2zi5EmbSDjwC&pg=RA4-PA19)."
 cast:
   - name: Emilie.
     gender: f
@@ -12518,6 +12522,19 @@ settings:
       Der Schauplatz ist in dem Saale eines Landhauses des Herrn Durval, welches sehr nahe an Versailles ist.
     location:
       wikidataId: Q621
+---
+id: ein002437
+slug: anonym-kasperle-in-den-eliseischen-feldern
+author:
+  pseudonym: Anonym
+title: Kasperle in den eliseischen Feldern
+subtitle: Ein Vorspiel in einem Aufzuge mit Pantomime, Verzierungen und Flugwerken
+premiered: 1786-02-16
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 347
+comments:
+  - "Theaterzettel: [Wien 1787](https://www.theatermuseum.at/de/object/968506/)."
 ---
 id: ein000289
 slug: anonym-keinen-schwiegersohn-ohne-amt
@@ -22155,7 +22172,7 @@ comments:
   - Verfasserschaft nicht abschließend geklärt. Auch Karl Riesbeck wird als Autor ins Spiel gebracht.
   - Bei Meyer fälschlich unter dem Titel »Die keusche Johanna«.
 reviews:
-  - "Journal aller Romane und Schauspiele. Viertes Stück. Leipzig: Schneider 1784, [S. 92–93](https://books.google.com/books?id=2zi5EmbSDjwC&pg=RA4-PA92)."
+  - "Journal aller Romane und Schauspiele. Viertes Stück. Leipzig: Schneider 1785, [S. 92–93](https://books.google.com/books?id=2zi5EmbSDjwC&pg=RA4-PA92)."
 keywords:
   - Pornografie
   - Vergewaltigung
@@ -43940,7 +43957,7 @@ dictionaries:
     pages: 2. Abteilung, Band 28, S. 490–491
 editions:
   - title: "Komisches Theater der Franzosen. Für die Deutschen. Herausgegeben von J. G. Dyk. Achter Theil. Leipzig: Dyk 1783, S. 217–268"
-    url: https://books.google.com/books?id=VdtfAAAAcAAJ&pg=PA217
+    url: https://books.google.com/books?id=VdtfAAAAcAAJ&pg=PA225
   - title: "Zweyte Ausgabe. Leipzig: Dyk 1790"
     url: https://books.google.com/books?id=tg-7CIIVMccC&printsec=frontcover
   - title: "Wien: Wallishausser 1802"
@@ -75960,6 +75977,7 @@ cast:
     gender: f
   - name: Lilli,
     role: Ihre Nichte, und Campano's Mündel.
+    gender: f
   - name: Gespielinnen derselben.
     isGroup: true
     gender: f
