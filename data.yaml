@@ -2696,53 +2696,6 @@ cast:
 settings:
   - description: Der Schauplatz ist in einem alten Schlosse.
 ---
-id: ein000059
-slug: anonym-apolls-gericht-oder-das-bestrafte-vorurtheil-vindebonens
-author:
-  pseudonym: Anonym
-title: Apolls Gericht, oder das bestrafte Vorurtheil Vindebonens
-subtitle: Ein allegorisches Drama in einem Akte von einem Wiener
-numberOfScenes: 5
-printed: 1769
-formalia:
-  - Prosa
-dictionaries:
-  - name: bibliographia
-    pages: 2. Abteilung, Band 23, S. 215–216
-editions:
-  - title: "Wien: Kurzböck 1769"
-    url: https://books.google.com/books?id=s2tVAAAAcAAJ&printsec=frontcover
-comments:
-  - Ursprünglich als Vorspiel verfasst.
-keywords:
-  - allegorische Figuren
-  - Theaterbetrieb
-cast:
-  - name: Apollo.
-    gender: m
-  - name: Der Genius Vindebonens.
-    gender: m
-  - name: Das deutsche Schauspiel.
-    gender: f
-  - name: Das Französische Schauspiel.
-    gender: f
-  - name: Der Patriotismus.
-    gender: m
-  - name: Das Vorurtheil Vindebonens,
-    role: als petit maitre gekleidet.
-    gender: m
-  - name: Die Kritik.
-    gender: f
-  - name: Gefolge des Vorurtheils, worunter die Unwissenheit und die Eitelkeit
-    isGroup: true
-    gender: u
-settings:
-  - description: >-
-      Die Bühne zeigt während den drey ersten Auftritten eine schöne ländliche
-      Gegend, die am Fusse des Parnaßus supponiret wird: und dann den Parnaßus.
-    location:
-      wikidataId: Q105261
----
 id: ein000060
 slug: anonym-auch-weiber-tragen-sporn
 author:
@@ -72257,6 +72210,58 @@ settings:
       Die Handlung spielt in Arkadien. – Der Schauplatz ist eine freye Gegend.
     location:
       wikidataId: Q12898802
+---
+id: ein000059
+slug: pelzel-apolls-gericht-oder-das-bestrafte-vorurtheil-vindebonens
+author:
+  name: Pelzel, Joseph Bernhard
+  wikidata: Q55858581
+title: Apolls Gericht, oder das bestrafte Vorurtheil Vindebonens
+subtitle: Ein allegorisches Drama in einem Akte von einem Wiener
+numberOfScenes: 5
+printed: 1769
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 23, S. 215–216
+editions:
+  - title: "Wien: Kurzböck 1769"
+    url: https://books.google.com/books?id=s2tVAAAAcAAJ&printsec=frontcover
+reviews:
+  - "Bibliothek der österreichischen Litteratur. III. Band. Wien: Trattner 1769, [S. 109–111](https://books.google.com/books?id=TWFLAAAAcAAJ&pg=PA109)."
+comments:
+  - "Autorschaft ermittelt via Goedeke, Band V, [S. 311–312](https://archive.org/details/grundriszzurges04goog/page/n319/mode/2up)."
+  - Ursprünglich als Vorspiel für die Eröffnung der deutschen Bühne in Wien gedacht.
+  - Vindobona war eine römische Siedlung auf dem Gebiet des späteren Wiens.
+keywords:
+  - allegorische Figuren
+  - Theaterbetrieb
+cast:
+  - name: Apollo.
+    gender: m
+  - name: Der Genius Vindebonens.
+    gender: u
+  - name: Das deutsche Schauspiel.
+    gender: u
+  - name: Das Französische Schauspiel.
+    gender: u
+  - name: Der Patriotismus.
+    gender: u
+  - name: Das Vorurtheil Vindebonens,
+    role: als petit maitre gekleidet.
+    gender: m
+  - name: Die Kritik.
+    gender: u
+  - name: Gefolge des Vorurtheils, worunter die Unwissenheit und die Eitelkeit
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Bühne zeigt während den drey ersten Auftritten eine schöne ländliche
+      Gegend, die am Fusse des Parnaßus supponiret wird: und dann den Parnaßus.
+    location:
+      wikidataId: Q105261
 ---
 id: ein001663
 slug: pelzel-yariko
