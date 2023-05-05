@@ -6321,6 +6321,8 @@ dictionaries:
 editions:
   - title: "Leipzig: Schneider 1778"
     url: https://books.google.com/books?id=uhtYAAAAcAAJ&printsec=frontcover
+comments:
+  - "Satire auf Lavaters Physiognomik. Vorwort datiert auf »Dresden, den 6. Octob. 1778«."
 cast:
   - name: Sehkraft,
     role: ein reicher Kaufmann.
@@ -13422,7 +13424,6 @@ author:
   pseudonym: Anonym
 title: Philotas
 subtitle: Ein Trauerspiel in einem Aufzuge aufgeführt von den churfürstl. lateinischen Schulen zu München
-numberOfScenes: 1
 printed: 1774
 premiered: 1774-09-05
 dictionaries:
@@ -13431,34 +13432,20 @@ dictionaries:
 editions:
   - title: "München: Gedruckt mit churfrüstlich-akademischen Schriften [1774]"
     url: https://books.google.com/books?id=6A5SAAAAcAAJ&printsec=frontcover
+comments:
+  - "Der Druck enthält nur die Inhaltsangabe des »Philotas«, aus der »nicht erkennbar ist, ob es sich um Lessings ›Philotas‹ oder um eine Bearbeitung handelt« (Meyer). Das Thema des Stücks wird im Singspiel »Das Ehrenmaal des Patrioten« wieder aufgenommen, das im selben Heft abgedruckt ist."
 cast:
-  - group:
-      - name: Aridäus,
-        gender: m
-        role: König.
-      - name: Philotas.
-        gender: m
-      - name: Strato,
-        gender: m
-        role: Feldherr des Aridäus.
-      - name: Parmenio,
-        gender: m
-        role: ein Gefangener.
-    role: Die Schauspieler.
-  - name: Der Tonkünstler.
+  - name: Aridäus,
     gender: m
-  - group:
-      - name: Die vaterländliche Liebe.
-        gender: u
-      - name: Die kindliche Liebe.
-        gender: u
-    role: Die Sänger.
-  - name: Die Chöre.
-    isGroup: true
-    gender: u
-  - name: Die Tänzer.
-    isGroup: true
-    gender: u
+    role: König.
+  - name: Philotas.
+    gender: m
+  - name: Strato,
+    gender: m
+    role: Feldherr des Aridäus.
+  - name: Parmenio,
+    gender: m
+    role: ein Gefangener.
 settings:
   - description: Der Schauplatz öffnet sich in dem feindlichen Lager.
 ---
@@ -16155,6 +16142,10 @@ dictionaries:
 editions:
   - title: "Wien: Mößle 1796"
     url: https://books.google.com/books?id=DolIAAAAcAAJ&printsec=frontcover
+comments:
+  - "Goedeke schreibt das Stück [Heinrich Beck (1760–1803)](https://de.wikipedia.org/wiki/Heinrich_Beck_(Schauspieler)) zu, vgl. Band V/2, [S. 290–291](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-5/page/290/mode/2up). Dagegen heißt es in Hans Knudsen: *Heinrich Beck, ein Schauspieler aus der Blütezeit des Mannheimer Theaters im 18. Jahrhundert.* Leipzig/Hamburg: Voss 1912, S. 129: »Das Stück ist ganz unbeckisch, vielmehr österreichisch gehalten.«"
+reviews:
+  - "Oberdeutsche allgemeine Litteraturzeitung. St. LXXV (Freytag, den 23sten Juny 1797), [S. 1200](https://books.google.com/books?id=fLZFAAAAcAAJ&pg=PA1199)."
 cast:
   - name: Hr. von Gheimhold.
     gender: m
@@ -16202,6 +16193,8 @@ dictionaries:
 editions:
   - title: "Wien: Mößle 1797"
     url: https://books.google.com/books?id=J9BUAAAAcAAJ&printsec=frontcover
+reviews:
+  - "Oberdeutsche allgemeine Litteraturzeitung. St. LXXV (Freytag, den 23sten Juny 1797), [S. 1200](https://books.google.com/books?id=fLZFAAAAcAAJ&pg=PA1199)."
 cast:
   - group:
       - name: Johann Sauermann,
