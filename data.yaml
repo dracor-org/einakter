@@ -13277,6 +13277,23 @@ settings:
   - description: >-
       Die Handlung ist in Horatzens Haus.
 ---
+id: ein002442
+slug: anonym-liebe-und-gleichgueltigkeit
+author:
+  pseudonym: Anonym
+title: Liebe und Gleichgültigkeit
+subtitle: Lustspiel in 1 Aufzuge, nach Collé
+printed: 1789
+basedOn:
+  - colle-la-veuve
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 343–344
+reviews:
+  - "Dramaturgische Blätter. Dreizentes Stük des zweiten Quartals (Den 25sten Dezember 1788). Frankfurt am Main: Eßlinger 1788, [S. 237](https://books.google.com/books?id=jI5NAAAAcAAJ&pg=RA1-PA237)."
+comments:
+  - "Französische Vorlage »La veuve« erschlossen aufgrund [der darin enthaltenen Passage](https://books.google.com/books?id=Cs07AAAAcAAJ&pg=PA15): »ce grand amour fit place à l'indifférence la plus offensante«."
+---
 id: ein000310
 slug: anonym-lise
 author:
@@ -37779,7 +37796,7 @@ editions:
   - title: "[Ohne Ort: ohne Verlag] 1793"
     url: https://books.google.com/books?id=qn7EKKbwyMIC&printsec=frontcover
 comments:
-  - "Ausführlich analysiert in: Toni Bernhart: Volksschauspiele. Genese einer kulturgeschichtlichen Formation. Berlin/Boston: De Gruyter 2019, S. 81–85 ([doi:10.1515/9783110606089](https://doi.org/10.1515/9783110606089))"
+  - "Ausführlich analysiert in: Toni Bernhart: Volksschauspiele. Genese einer kulturgeschichtlichen Formation. Berlin/Boston: De Gruyter 2019, S. 81–85. ([doi:10.1515/9783110606089](https://doi.org/10.1515/9783110606089))"
   - Laut Bernhart das erste deutsche Drama, das den Untertitel »Volkslustspiel« trägt (ebd.).
 keywords:
   - Französische Revolution
@@ -43428,6 +43445,20 @@ settings:
       Die Handlung geht auf dem Gute der Frau v. Langer vor.
   - description: >-
       Das Theater stellt einen Garten vor. Rechts ein Gartenhaus, wo Sternthal und seine Frau wohnen.
+---
+id: ein002443
+slug: herzenskron-liebe-zum-fuersten
+author:
+  name: Herzenskron, Hermann
+  wikidata: Q18222260
+title: Liebe zum Fürsten
+subtitle: Ein Lustspiel in 1 Aufzug, nach Hagemann, vom Verfasser der Modetorheiten
+premiered: 1813-10-02
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 376
+comments:
+  - "»Einen Einakter ›Liebe zum Fürsten‹ (2. Okt. 1813), der aus dem Hausdichter Herzenskron herausgepreßt wurde und nur drei Aufführungen vertrug, konnte Bäuerle als eine schwache Bearbeitung von F.G. Hagemanns Lustspiel [›Die glückliche Werbung [oder Die Liebe zum König]‹](hagemann-die-glueckliche-werbung-oder-liebe-zum-koenig) (Hannover 1793) herunterreißen (›Theaterzeitg.‹ vom 5. Oktober 1813), wobei er sich gegen den Vorwurf unpatriotischer Gesinnung geschickt durch einen Abdruck des Liedes ›Des österreichischen Adlers Frohlocken und Wappengruß‹ deckte, das in diesem Stücke vor einer allegorischen [...]« (Otto Rommel: *Die Alt-Wiener Volkskomödie. Ihre Geschichte vom barocken Welt-Theater bis zum Tode Nestroys.* Wien: Schroll 1952, S. 669)"
 ---
 id: ein000993
 slug: herzenskron-list-und-strafe-oder-die-unversehene-wette
@@ -52749,9 +52780,16 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Neunter Jahrgang. Leipzig: Hartmann 1811, S. 73–142"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044923_00083.html
+  - title: "Theater von Kotzebue. Zwei und vierzigster Theil. Prag: Sommer 1822, S. 49–94"
+    url: https://books.google.com/books?id=IFxZAAAAcAAJ&pg=PA49
+  - title: "Erheiterungs-Bibliothek für Freunde romantischer Lectüre von August v. Kotzebue. Neue Folge. Drey und dreyßigster Band. Wien: Kaulfuß und Krammer 1827, S. 177–217"
+    url: https://books.google.com/books?id=glDdsW0nK-UC&pg=PA177
+  - title: "Dramatische Werke von August von Kotzebue. 109. Bändchen. Neueste Auflage. Wien: Mausberger 1830, S. 3–34"
+    url: https://books.google.com/books?id=P1hZAAAAcAAJ&pg=PA3
 keywords:
   - Eheanbahnung
 ids:
+  dracor: ger000615
   wikidata: Q884182
   weber: A021358
 cast:
