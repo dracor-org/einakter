@@ -23463,6 +23463,17 @@ settings:
   - description: >-
       Die Bühne stellt einen Platz im Dorfe vor. Links Robert's, rechts Etiennes's Haus. An der Seite des Letzteren eine Art Laube, welche durch eine Treillage gebildet wird. Im Hintergrunde ein altes Schloß.
 ---
+id: ein002445
+slug: castelli-deuts-urteil
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: Deuts Urteil
+subtitle: Gelegenheitsstück in 1 Akt zur Zurückkunft des Kaisers nach dem Kriege im Jahre 1813
+created: 1813
+comments:
+  - "Nachweis in Goedeke, Band XI/2, [S. 50](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungAusDenQuellen-2-11-2/page/50/mode/2up)."
+---
 id: ein000534
 slug: castelli-die-beyden-duennen
 author:
@@ -27781,6 +27792,21 @@ cast:
     gender: m
   - name: Der Ahnherr.
     gender: m
+---
+id: ein002446
+slug: d-elpons-die-einquartierung
+author:
+  name: d'Elpons, Friedrich Wilhelm
+  wikidata: Q88660800
+title: Die Einquartierung
+subtitle: Schauspiel in einem Aufzug
+printed: 1822
+premiered: 1815
+formalia:
+  - Knittelverse
+comments:
+  - Aufführungen 1815 in Darmstadt und Mainz, 1816 in Berlin und Hamburg.
+  - "Gedruckt in Bernhard Korsinskys »Polycheiria«, Stuttgart 1822, S. 54–86."
 ---
 id: ein000636
 slug: dalberg-die-eheliche-probe
@@ -34529,6 +34555,7 @@ comments:
 keywords:
   - Heroische Tragödie
 ids:
+  dracor: ger000616
   wikidata: Q95720389
 cast:
   - name: Aridäus, König
@@ -73931,14 +73958,54 @@ cast:
 settings:
   - description: Die Handlung ist auf dem Landgute des Barons.
 ---
+id: ein002444
+slug: preusse-der-herzensdieb
+author:
+  name: Preusse, Moritz
+  wikidata: Q118907006
+title: Der Herzensdieb
+subtitle: Lustspiel in einem Act
+numberOfScenes: 18
+printed: 1847
+formalia:
+  - Prosa
+basedOn:
+  - melesville-labiche-lefranc-les-circonstances-attenuantes
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XV, No. 114. Berlin: Hayn 1847"
+    url: https://books.google.com/books?id=4Q5HL_q_ugAC&pg=RA1-PA1
+cast:
+  - name: v. Leonhardt,
+    role: Advokat.
+    gender: m
+  - name: Frau v. Kronfeldt,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Pirke,
+    role: Frau v. Kronfeldts Verlobter.
+    gender: m
+  - name: Wilhelm,
+    role: Portier.
+    gender: m
+  - name: Caroline,
+    role: Kammerjungfer.
+    gender: f
+settings:
+  - description: >-
+      Ort der Handlung: ein Bad.
+  - description: >-
+      Ein Zimmer. Rechts eine Toilette mit Broschüren. Links ein Sekretair. Im Hintergrunde ein Kamin; Klingelzüge auf beiden Seiten desselben. Rechts und links vom Kamin Thüren. Rechts eine Thüre, die nach dem Zimmer der Frau von Kronfeldt führt. Links ein Fenster nach dem Garten und eine Thür zum Salon. Ueber der Thür links ein Fenster, über der rechts eine Uhr. Lehnstühle zu beiden Seiten des Kamins und ein dritter neben der Toilette. Stühle u.s.w.
+---
 id: ein001697
 slug: preusse-herzmutterchen
 author:
   name: Preusse, Moritz
+  wikidata: Q118907006
 title: Herzmutterchen!
 subtitle: Lustspiel in einem Act
 numberOfScenes: 19
 printed: 1847
+premiered: 1849-01-17
 formalia:
   - Prosa
 basedOn:
@@ -73946,6 +74013,10 @@ basedOn:
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XVI, No. 123. Berlin: Hayn 1847"
     url: https://books.google.com/books?id=p7FKAAAAcAAJ&printsec=frontcover
+comments:
+  - "Aufgeführt am Großherzoglichen Hoftheater zu Darmstadt [am 17. Januar 1849](https://books.google.com/books?id=i-Mo198bjLYC&pg=PA399)."
+ids:
+  wikidata: Q118906207
 cast:
   - name: Therese Gauthier.
     gender: f
@@ -84379,6 +84450,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zweiundzwanzigster Jahrgang, für 1843. Berlin: Vereins-Buchhandlung 1843, S. 311–342"
     url: https://books.google.com/books?id=ZnJIAQAAMAAJ&pg=PA311
+ids:
+  wikidata: Q118871504
 cast:
   - name: Graf von Klockenberg.
     gender: m
