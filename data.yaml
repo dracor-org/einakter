@@ -5401,6 +5401,22 @@ settings:
   - description: >-
       Der Schauplatz ist in einer großen Stadt.
 ---
+id: ein002449
+slug: anonym-der-gutherzige
+author:
+  pseudonym: Anonym
+title: Der Gutherzige
+subtitle: Lustspiel in 1 A. nach dem Französischen
+premiered: 1792-04-28
+basedOn:
+  - florian-le-bon-pere-ou-la-suite-du-bon-menage
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 30
+comments:
+  - "Aufführungsnachweis in Annalen des Theaters. Zehntes Heft. Berlin: Maurer 1792, [S. 71](http://resolver.staatsbibliothek-berlin.de/SBB00023E4A000A0071)."
+  - "Anzunehmen, dass es sich bei dem [zwischen 1797 und 1813 ebenfalls in Berlin aufgeführten Stück gleichen Namens](https://berlinerklassik.bbaw.de/nationaltheater/theaterstueck/56) um ebendasselbe handelt. Dort wird Florian als französisches Original angegeben, was mit hoher Wahrscheinlichkeit auch für die Aufführung 1792 galt. Die Berliner Theaterzettel legen durch die Personenverzeichnisse außerdem nahe, dass als Grundlage dieser Aufführungen die Übersetzung [»Der gutherzige Alte«](anonym-der-gutherzige-alte) (Frankfurt am Main 1789) diente."
+---
 id: ein000123
 slug: anonym-der-gutherzige-alte
 author:
@@ -5969,6 +5985,17 @@ settings:
   - description: Der Schauplatz ist zu Paris, in der Lucinde Hause.
     location:
       wikidataId: Q90
+---
+id: ein002451
+slug: anonym-der-mann-von-zwei-frauen
+author:
+  pseudonym: Anonym
+title: Der Mann von zwei Frauen
+subtitle: Lustspiel in 1 A.
+premiered: 1791-12-17
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 280
 ---
 id: ein000138
 slug: anonym-der-menschenfreund-oder-der-freund-der-ganzen-welt
@@ -15691,6 +15718,44 @@ editions:
 reviews:
   - "Allgemeine Literatur-Zeitung. Numero 231 (Dienstags, den 31. Julius 1798), [Sp. 231–232](https://books.google.com/books?id=E6RFAAAAcAAJ&pg=PA231)."
 ---
+id: ein002447
+slug: bahr-die-nachahmung
+author:
+  name: Bahr, Robert
+  wikidata: Q94933259
+title: Die Nachahmung
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 9
+printed: 1798
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 292 und S. 323
+editions:
+  - title: "Frankfurt an der Oder: Apitz 1798"
+    url: https://books.google.com/books?id=dDZJAAAAcAAJ&printsec=frontcover
+reviews:
+  - "Allgemeine Literatur-Zeitung. Numero 245 (Donnerstags, den 16. August 1798), [Sp. 343–344](https://books.google.com/books?id=E6RFAAAAcAAJ&pg=PA343)."
+  - "Neue allgemeine deutsche Bibliothek. Des drey und vierzigsten Bandes Erstes Stück. Zweytes Heft. Kiel: Bohn 1799, [S. 85](http://ds.ub.uni-bielefeld.de/viewer/resolver?urn=urn:nbn:de:0070-disa-2002571_043_2946)."
+cast:
+  - name: Hofrath von Frankenberg.
+    gender: m
+  - name: Pauline,
+    role: seine Tochter.
+    gender: f
+  - name: Lindenberg,
+    role: Referendar.
+    gender: m
+  - name: Strom,
+    role: ein reicher Bürger.
+    gender: m
+  - name: Drengheim,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Ein Bedienter des Hofraths.
+    gender: m
+---
 id: ein000364
 slug: bahrdt-zimmermanns-auferstehung-von-den-todten
 author:
@@ -16806,6 +16871,32 @@ dictionaries:
     pages: 2. Abteilung, Band 23, S. 263
 comments:
   - Ungedruckt.
+---
+id: ein002448
+slug: bergopzoomer-der-greis
+author:
+  name: Bergopzoomer, Johann Baptist
+  wikidata: Q13604014
+title: Der Greis
+subtitle: Ein Gelegenheitsstück in einem Aufzug
+created: 1771
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 24, S. 285
+editions:
+  - title: "Wien 1771"
+---
+id: ein002450
+slug: bergopzoomer-der-irrthum
+author:
+  name: Bergopzoomer, Johann Baptist
+  wikidata: Q13604014
+title: Der Irrthum
+subtitle: Ein Lustspiel in 1 Aufzug
+created: 1774
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 25, S. 476
 ---
 id: ein000389
 slug: bergopzoomer-der-officier
@@ -27813,6 +27904,20 @@ formalia:
 comments:
   - Aufführungen 1815 in Darmstadt und Mainz, 1816 in Berlin und Hamburg.
   - "Gedruckt in Bernhard Korsinskys »Polycheiria«, Stuttgart 1822, S. 54–86."
+---
+id: ein002453
+slug: dalberg-die-bekehrung-auf-dem-lande
+author:
+  name: Dalberg, Wolfgang Heribert von
+  wikidata: Q214611
+title: Die Bekehrung auf dem Lande
+subtitle: Ein Schauspiel in einem Ackt
+created: 1780-12-10
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 21
+comments:
+  - "Theaterzettel: [Hamburg 1781](https://www.stadttheater.uni-hamburg.de/node/33482)."
 ---
 id: ein000636
 slug: dalberg-die-eheliche-probe
@@ -73837,6 +73942,22 @@ cast:
   - name: Ruprecht.
     gender: m
 ---
+id: ein002452
+slug: plümicke-der-senior
+author:
+  name: Plümicke, Karl Martin
+  wikidata: Q1543650
+title: Der Senior
+subtitle: Nachspiel in 1 A. zu Lessings »Minna von Barnhelm«
+premiered: 1784
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 123
+comments:
+  - "Nur Manuskript, vgl. Plümicke: Entwurf einer Theatergeschichte von Berlin, […]. Berlin und Stettin: Nicolai 1781, [S. 337–338](https://books.google.com/books?id=K5MyAQAAMAAJ&pg=PA337)."
+  - "Zum Hintergrund des Stücks vgl. auch Guhrauer: Gotthold Ephraim Lessing's Leben und Werke in der Periode vollendeter Reife. Erste Abtheilung. Leipzig: Dyk 1853, [S. 166](https://books.google.com/books?id=8AY6AAAAcAAJ&pg=PA166)."
+  - "Aufführungsdatum nach Meyer (»Aufgef. ca. 1784.«)."
+---
 id: ein001694
 slug: pluemicke-der-volontair
 author:
@@ -80291,7 +80412,7 @@ formalia:
   - Prosa
 dictionaries:
   - name: bibliographia
-    pages: 2. Abteilung, Band 22, S. 217 und 376–377
+    pages: 2. Abteilung, Band 22, S. 217 und S. 376–377
 editions:
   - title: "Unterhaltungen. Dritten Bandes Erstes Stück. Hamburg: Bock 1767, S. 279–314"
     url: https://books.google.com/books?id=25FWmn4KTEMC&pg=PA279
