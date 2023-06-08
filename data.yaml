@@ -7868,6 +7868,19 @@ settings:
     location:
       wikidataId: Q48195
 ---
+id: ein002454
+slug: anonym-die-heuchlerische-wittwe
+author:
+  pseudonym: Anonym
+title: Die heuchlerische Wittwe
+subtitle: Ein Lust-Spiel in einem Aufzuge
+premiered: 1772-05-22
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 24, S. 480
+comments:
+  - "»Aufgeführt von der Truppe Marchands am 22. Mai 1772 in Frankfurt a. M.« (Meyer)"
+---
 id: ein000181
 slug: anonym-die-heyrath-ohne-liebe
 author:
@@ -8846,6 +8859,21 @@ settings:
     location:
       wikidataId: Q992311
 ---
+id: ein002455
+slug: anonym-die-kindliche-liebe
+author:
+  pseudonym: Anonym
+title: Die Kindliche Liebe
+subtitle: Ein kleines Lustspiel, in Prosa, und einem Aufzug
+premiered: 1771-10-31
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 24, S. 263
+comments:
+  - "»Aufgeführt von den Kurpfälz. Hof-Schauspielern unter Marchand, am 31. Oktober 1771 in Frankfurt a. M.« (Meyer)"
+---
 id: ein000203
 slug: anonym-die-kirschen-oder-die-wissbegierde
 author:
@@ -9590,6 +9618,40 @@ settings:
       wikidataId: Q2807
   - description: >-
       Der Saal. Zur Seite eine Cabinets Thüre, ein Fenster halb offen; ein Koffer steht im Saal.
+---
+id: ein002458
+slug: anonym-die-schlechte-kinderzucht
+author:
+  pseudonym: Anonym
+title: Die schlechte Kinderzucht
+subtitle: Ein Lustspiel in einem Aufzuge
+premiered: 1789-04-24
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 342
+reviews:
+  - "Dramaturgische Blätter, von A. Freyh. von Knigge. Neun und zwanzigstes Stück (Hannover, den 9ten May, 1789), [S. 456–457](https://books.google.com/books?id=yrLvOUtU5SIC&pg=PA456)."
+cast:
+  - name: Peter,
+    role: ein grundliederlicher Bauersmann.
+    gender: m
+  - name: Urschl,
+    role: sein Weib.
+    gender: f
+  - group:
+      - name: Lippel,
+        gender: m
+      - name: Justl,
+        gender: m
+    role: ihre Kinder.
+  - name: Wastl,
+    role: ein Bauerssohn.
+    gender: m
+  - name: Ein Bauerstöchterl.
+    gender: f
+  - name: Hanns,
+    role: Gevatter des liederlichen Peters, Schmid im Dorfe.
+    gender: m
 ---
 id: ein000220
 slug: anonym-die-schleppen
@@ -16939,6 +17001,20 @@ cast:
     gender: f
 settings:
   - description: Der Schauplatz ist in Mangolds Vorzimmer.
+---
+id: ein002460
+slug: bergopzoomer-die-witwe
+author:
+  name: Bergopzoomer, Johann Baptist
+  wikidata: Q13604014
+title: Die Witwe
+subtitle: Ein Nachspiel in 1 Aufzug
+printed: 1772
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 25, S. 43
+editions:
+  - title: "Wien 1772"
 ---
 id: ein000390
 slug: berhandtsky-die-familie
@@ -27868,7 +27944,7 @@ editions:
 comments:
   - >
     Tendenziöse Judensatire eines »mediokren Schriftstellers« (Gunnar Och), der
-    zum Umfeld E. T. A. Hoffmanns gehörte.
+    zum Umfeld E. T. A. Hoffmanns gehörte.
 keywords:
   - Judentum
   - Antisemitismus
@@ -33889,6 +33965,19 @@ cast:
 settings:
   - description: >-
       Scene, ein Schiffsgemach mit einer Haupt- und einer Seitenthür.
+---
+id: ein002457
+slug: geiser-die-liebe-will-gezankt-seyn
+author:
+  name: Geiser, Michael
+title: Die Liebe will gezankt seyn
+subtitle: Ein Lustspiel in 1 Aufzug
+premiered: 1775-04-21
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 104
+comments:
+  - "Der Verfasser (oder Übersetzer?), Michael Geiser, war Administrator der kurfürstlichen baierischen Zahlenlotterie."
 ---
 id: ein000776
 slug: geisler-der-schwaezer
@@ -49903,6 +49992,22 @@ settings:
   - description: >-
       Der Schauplatz ist theils in beiden Gasthöfen, theils in Herrn von Sagons Hause.
 ---
+id: ein002459
+slug: kepner-der-schriftsteller
+author:
+  name: Kepner, Johann Friedrich
+  wikidata: Q94932439
+title: Der Schriftsteller
+subtitle: Lustspiel in einem Aufzuge
+printed: 1775
+basedOn:
+  - foote-the-author
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 122
+editions:
+  - title: "Wien 1775"
+---
 id: ein001139
 slug: kepner-der-zerstreute
 author:
@@ -60012,11 +60117,11 @@ printed: 1824
 premiered: 1823-10-23
 formalia:
   - Prosa
-basedOn:
-  - Eugène Scribe
 editions:
   - title: "Lustspiele oder dramatischer Almanach für das Jahr 1824, von F. A. von Kurländer. Vierzehnter Jahrgang. Leipzig: Baumgärtner [1824], S. 71–118"
     url: https://books.google.com/books?id=_8aIEuuQXi4C&pg=PA71
+reviews:
+  - "Wegweister im Gebiete der Künste und Wissenschaften. Nr. 104 (Sonnabend, am 27. December 1823), [S. 422](https://books.google.com/books?id=8p5TAAAAcAAJ&pg=PA1240-IA2)."
 cast:
   - group:
       - name: Philipp,
@@ -75339,6 +75444,8 @@ editions:
     url: https://books.google.com/books?id=98JTAAAAcAAJ&pg=PA13
   - title: "Nacht und Ungefähr. Ein Lustspiel in einem Aufzuge. Wien 1780"
     url: https://books.google.com/books?id=64rJdAtHcgsC&printsec=frontcover
+comments:
+  - "Auch unter dem Titel »Weiberlist und Ohngefähr«."
 cast:
   - name: Präsident von Röhm,
     role: auf Reisen.
@@ -89559,6 +89666,20 @@ cast:
 settings:
   - description: >-
       Die Handlung geht auf der Herrschaft des Grafen vor.
+---
+id: ein002456
+slug: stephanie-die-langeweile
+author:
+  name: Stephanie, Christian Gottlob
+  wikidata: Q55134065
+title: Die Langeweile
+subtitle: Lustspiel in 1 Aufzug von J. E. Schlegel. Für die Wiener Bühne bearbeitet
+premiered: 1766-04-02
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 22, S. 141
+comments:
+  - "Es handelt sich um eine Bearbeitung von Johann Elias Schlegels [»Die Langeweile. Ein Vorspiel bey der Eröffnung des Dänischen Theaters«](https://books.google.com/books?id=oc1oyAB63cAC&printsec=frontcover) (1747)."
 ---
 id: ein002054
 slug: stephanie-monsieur-fips-oder-alter-schuetzt-vor-thorheit-nicht
