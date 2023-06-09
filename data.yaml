@@ -8859,6 +8859,17 @@ settings:
     location:
       wikidataId: Q992311
 ---
+id: ein002463
+slug: anonym-die-frau-als-jungfer-und-wittwe
+author:
+  pseudonym: Anonym
+title: Die Frau als Jungfer und Wittwe
+subtitle: Ein Originallustspiel [also nicht nach Le Grand] in einem Aufzuge
+premiered: 1783-08-26
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 350
+---
 id: ein002455
 slug: anonym-die-kindliche-liebe
 author:
@@ -16919,6 +16930,21 @@ dictionaries:
     pages: 2. Abteilung, Band 27, S. 217
 reviews:
   - "Theatralischer Zeitvertreib. Drittes Stück (Freitags, den 1 October, 1779), [S. 17](https://books.google.com/books?id=TE2M1kBAmtQC&pg=PA17)."
+---
+id: ein002462
+slug: berger-der-familienzirkel
+author:
+  name: Berger, Christian Friedrich
+title: Der Familienzirkel
+subtitle: Lustspiel in 1 Akt
+premiered: 1786-03-05
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 370
+comments:
+  - "In der Quelle heißt es, der Autor sei »Stadtsyndikus Berger zu Schweidnitz«, vgl. auch den entsprechenden Eintrag in: Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740–1806/15. Teil 1 (Biographien A–L). München: Saur 2009, [S. 65](https://books.google.com/books?id=dwQ5XqLMxzMC&pg=PA65)."
+reviews:
+  - "Ephemeriden der Litteratur und des Theaters. Neunundzwanzigstes Stück (Berlin den 22sten Juli 1786), [S. 44](https://books.google.com/books?id=XZ5mAAAAcAAJ&pg=PA44): »hat nicht sonderlich gefallen«."
 ---
 id: ein002386
 slug: bergopzoomer-der-abschied
@@ -29634,6 +29660,21 @@ cast:
 settings:
   - description: >-
       Die Bühne stellt einen freien Platz in einem Dorfe vor. Rechts der Gasthof zum Reiter, vor demselben Tisch und Bank mit hölzernen Geräthschaften, die da abtrocknen sollen, hinter demselben eine Leiter. Links ein Brunnen. Im Hintergrund ein Wegweiser.
+---
+id: ein002461
+slug: eckard-bruder-und-liebhaber-in-einer-person
+author:
+  name: Eckard, …
+title: Bruder und Liebhaber in Einer Person
+subtitle: Schauspiel in 1 A.
+premiered: 1793-12
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 352
+reviews:
+  - "Zeitung für Theater und andre schöne Künste. Eilftes Stük. Leipzig: Gräff 1794, [S. 231](https://books.google.com/books?id=uLA1WqUZY9IC&pg=RA1-PA231)."
+comments:
+  - "Laut Quelle aufgeführt im Dezember 1793 oder Januar 1794 in Bayreuth. Dort heißt es auch, das Stück stamme »vom Schauspieler Eckard« (bisher nicht ermittelt, um wen es sich konkret handelt)."
 ---
 id: ein002387
 slug: eckardt-der-ehebrecher
@@ -60911,6 +60952,49 @@ settings:
   - description: >-
       Der Schauplatz ist eine mit Bäumen besetzte Gegend. Auf der einen Seite zeigt sich ein Theil der Wohnung des Nomares nebst einem bedeckten Gange. In der hintern Vertiefung erblickt man das Meer.
 ---
+id: ein002464
+slug: langbein-die-todtenerscheinung
+author:
+  name: Langbein, August Friedrich Ernst
+  wikidata: Q91140
+title: Die Todtenerscheinung
+subtitle: Eine Poße nach Hauteroche
+numberOfScenes: 16
+printed: 1788
+premiered: 1788-10-28
+formalia:
+  - Prosa
+basedOn:
+  - hauteroche-le-deuil
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 273, und Band 32, S. 296
+editions:
+  - title: "Leipzig: Dyk 1788"
+    url: https://books.google.com/books?id=oPlKAAAAcAAJ&printsec=frontcover
+comments:
+  - "Einakterhinweis in Forschungsliteratur."
+  - "Bei »Die lächerliche Todtenerscheinung. Lustspiel in 1 Aufzug«, aufgeführt am 7. Oktober 1793 auf dem Wiener Theater auf der Landstraße, handelt es sich offenbar um dasselbe Stück."
+cast:
+  - name: Herr von Selbitz.
+    gender: m
+  - name: Lieutenant von Selbitz,
+    role: dessen Sohn.
+    gender: m
+  - name: Walther,
+    role: des Erstern Ritterguths-Pachter.
+    gender: m
+  - name: Die Pachterin.
+    gender: f
+  - name: Lottchen,
+    role: ihre Tochter
+    gender: f
+  - name: Heinrich,
+    role: des Lieutenants Bedienter.
+    gender: m
+settings:
+  - description: Die Scene ist ein grüner Baumplatz vor der Pachterwohnung.
+---
 id: ein001394
 slug: langer-das-wirthshaus-zu-neumarket
 author:
@@ -80896,6 +80980,17 @@ cast:
       - name: Hansel
         gender: m
     role: Kinder des Schustermeisters.
+---
+id: ein002465
+slug: schikaneder-das-medaillon
+author:
+  name: Schikaneder, Emanuel
+  wikidata: Q213547
+title: Das Medaillon
+subtitle: Lustspiel in 1 Akt
+premiered: 1800-08-30
+comments:
+  - "Gefunden in Goedeke, Band V/2, [S. 321](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-5/page/320/mode/2up), vgl. auch Egon von Komorzynski: Emanuel Schikaneder. Ein Beitrag zur Geschichte des deutschen Theaters. Berlin: Behr 1901, [S. 176](https://archive.org/details/emanuelschikane00komogoog/page/n193/mode/2up)."
 ---
 id: ein001851
 slug: schikaneder-das-portrait-des-vaters
