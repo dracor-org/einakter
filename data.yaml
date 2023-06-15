@@ -9554,6 +9554,17 @@ settings:
   - description: >-
       Ein Saal im Königlichen Schlosse mit 3 Thüren; durch die ofene Mittelthüre sieht man in den Garten.
 ---
+id: ein002466
+slug: anonym-die-rechtmaessig-zuruck-geforderte-und-wiederum-heim-erhaltene-braut
+author:
+  pseudonym: Anonym
+title: Die rechtmäßig zuruck geforderte, und wiederum heim erhaltene Braut
+subtitle: In einem Aufzug. Nach-Spiel zu Moeringerus restitutus
+created: 1749-09-02
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 14, S. 236 und S. 275
+---
 id: ein000218
 slug: anonym-die-reliquie
 author:
@@ -11864,6 +11875,21 @@ settings:
       Die Scene spielt zu Paris, auf einem offenen Platze vor Rosettens Wohnung; vor der Thür der letztern befindet sich eine steinerne Bank.
     location:
       wikidataId: Q90
+---
+id: ein002467
+slug: anonym-donna-aurora-von-gussmann
+author:
+  pseudonym: Anonym
+title: Donna Aurora von Gußmann
+subtitle: Lustspiel in 1 Aufzug
+printed: 1795
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 33, S. 297
+editions:
+  - title: "Leipzig: Bauer 1795"
+comments:
+  - "Nach der »Histoire de Gil Blas de Santillane« von Alain-René Le Sage."
 ---
 id: ein000272
 slug: anonym-eduart-und-minna
@@ -29812,6 +29838,60 @@ settings:
   - description: >-
       Die Scene ist der Garten eines dem Marchese gehörigen Schlosses in Wälschland. Auf der einen Seite eine Weinlaube, in der Nähe das Haus der Gärtnerinn.
 ---
+id: ein002470
+slug: eckardt-friz-ist-wieder-da
+author:
+  name: Eckardt, Friedrich
+  wikidata: Q21660249
+title: Friz ist wieder da!
+subtitle: Ein Lust-Spiel, in einem Aufzuge; von Eckerdt
+premiered: 1781-05-19
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 81
+---
+id: ein002471
+slug: eckardt-kiasa-und-alexander
+author:
+  name: Eckardt, Friedrich
+  wikidata: Q21660249
+title: Kiasa und Alexander
+subtitle: Ein Schauspiel in einem Aufzuge
+printed: 1808
+premiered: 1804-12-12
+formalia:
+  - Blankvers
+editions:
+  - title: "Hinterlassene Papiere eines Unglücklichen, zum Besten seiner Familie herausgegeben von A. von Kotzebue. Leipzig: Kummer 1808, S. 55–80"
+    url: https://books.google.com/books?id=POakOYtbDS0C&pg=PA55
+cast:
+  - name: Alexander,
+    role: König von Macedonien.
+    gender: m
+  - name: Hephästion,
+    role: sein Feldherr und Günstling.
+    gender: m
+  - name: Kiasa,
+    role: eine tartarische Fürstin.
+    gender: f
+  - name: Theos,
+    role: ihr Sohn, ein Knabe von zehn Jahren.
+    gender: m
+  - name: Griechen.
+    isGroup: true
+    gender: u
+  - name: Tartaren.
+    isGroup: true
+    gender: u
+  - name: Kiasa's weibliches Gefolge.
+    isGroup: true
+    gender: f
+settings:
+  - description: >-
+      Die Scene ist eine tartarische Provinz, wo jetzt Georgien liegt.
+    location:
+      wikidataId: Q230
+---
 id: ein000679
 slug: eckardt-wer-wird-sie-kriegen
 author:
@@ -31207,6 +31287,34 @@ cast:
 settings:
   - description: >-
       Die Ouvertüre bleibt weg, und erst bei dem Aufrollen der Gardine beginnt eine sanfte Harmonie. Es ist vor Sonnenaufgang. Nach einer Weile schweben die Horen des Tages, alle drei einen Blumenkranz haltend, und selbst mit Blumen geschmückt, wie im Tanz verschlungen, langsam über die Bühne hin. Die Symphonie verhallt leise, und der Morgen bricht allmählig an.
+---
+id: ein002468
+slug: eschke-ein-dichter-macht-alles-gut-oder-der-entlarvte-betrueger
+author:
+  name: Eschke, Ernst Adolf
+  wikidata: Q55849692
+title: Ein Dichter macht alles gut oder der entlarvte Betrüger
+subtitle: Posse in 1 A.
+created: 1784
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 72
+comments:
+  - "Von Meyer ins Jahr 1784 einsortiert."
+---
+id: ein002469
+slug: eschke-er-ist-schon-da
+author:
+  name: Eschke, Ernst Adolf
+  wikidata: Q55849692
+title: Er ist schon da!
+subtitle: Lustspiel in 1 A.
+created: 1784
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 72
+comments:
+  - "Von Meyer ins Jahr 1784 einsortiert."
 ---
 id: ein000709
 slug: eugen-der-zerbrochene-wagen
