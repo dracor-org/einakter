@@ -12551,6 +12551,32 @@ cast:
   - name: Ein Bedienter.
     gender: m
 ---
+id: ein002472
+slug: anonym-johann-der-grossprahlende-held-ohne-herz
+author:
+  pseudonym: Anonym
+title: Johann, der großprahlende Held ohne Herz
+subtitle: Lust- und Singspiel, in gebundener Rede und einem Aufzug
+premiered: 1776-06-24
+formalia:
+  - Verse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 26, S. 228
+comments:
+  - "Zur Nürnberger Aufführung 1776 vgl. das Nürnberger »Theater Journal« für 1776/1777, [Nro. 30](https://books.google.com/books?id=Lameu0UB9NgC&pg=PA30)."
+cast:
+  - name: Johann.
+    gender: m
+  - name: Silvio.
+    gender: m
+  - name: Amathis.
+    gender: f
+  - name: Galathee.
+    gender: f
+  - name: Livio.
+    gender: m
+---
 id: ein000288
 slug: anonym-julchens-heyrath
 author:
@@ -12603,6 +12629,28 @@ settings:
       Der Schauplatz ist in dem Saale eines Landhauses des Herrn Durval, welches sehr nahe an Versailles ist.
     location:
       wikidataId: Q621
+---
+id: ein002474
+slug: anonym-kasperl-der-dumme-schlosserjung
+author:
+  pseudonym: Anonym
+title: "Kasperl der dumme Schlosserjung, oder: Der gelungene Betrug"
+subtitle: Ein mit Jakerls Scherzen versehenes Lustspiel in 1 Aufzug
+premiered: 1793-05-03
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 284
+---
+id: ein002475
+slug: anonym-kasperle-der-eifersuechtige-gaertner
+author:
+  pseudonym: Anonym
+title: Kasperle der eifersüchtige Gärtner
+subtitle: Ein lustig Stück in 1 Aufzug
+premiered: 1782-04-29
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 188
 ---
 id: ein002437
 slug: anonym-kasperle-in-den-eliseischen-feldern
@@ -13420,6 +13468,17 @@ reviews:
 comments:
   - "Französische Vorlage »La veuve« erschlossen aufgrund [der darin enthaltenen Passage](https://books.google.com/books?id=Cs07AAAAcAAJ&pg=PA15): »ce grand amour fit place à l'indifférence la plus offensante«."
 ---
+id: ein002476
+slug: anonym-lipperl-der-geschwaezige-papagey
+author:
+  pseudonym: Anonym
+title: Lipperl, der geschwäzige Papagey
+subtitle: Ein Lustspiel in einem Aufzuge
+printed: 1785-01-13
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 180
+---
 id: ein000310
 slug: anonym-lise
 author:
@@ -13451,6 +13510,22 @@ cast:
     gender: m
 settings:
   - description: Die Handlung ist in einem Elsassischen Dorfe.
+---
+id: ein002477
+slug: anonym-lob-des-bauernstandes-zur-erntezeit
+author:
+  pseudonym: Anonym
+title: Lob des Bauernstandes zur Erntezeit
+subtitle: Nachspiel in 1 Aufzug
+printed: 1779
+premiered: 1779-07-07
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 200
+editions:
+  - title: "München: Mayer 1779"
+reviews:
+  - "Baierische Beyträge zur schönen und nützlichen Litteratur. Neuntes Stück (September 1779), [S. 920–921](https://books.google.com/books?id=h5xBAAAAcAAJ&pg=PA920)."
 ---
 id: ein002438
 slug: anonym-meister-schnaps-oder-er-fuehrt-ihms-maedchen-selbst-zu
@@ -13575,6 +13650,19 @@ cast:
   - name: Cerberus,
     role: (der bekannte Höllenhund.)
     gender: u
+---
+id: ein002480
+slug: anonym-peter-du-bleibst
+author:
+  pseudonym: Anonym
+title: "Peter, du bleibst, oder: Der Hausfreund auf dem Lande"
+subtitle: "Lust- (bzw. Singspiel) in einem Aufzug"
+premiered: 1781-11-01
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 39
+comments:
+  - "Musik von Ignaz Walter (1755–1822)."
 ---
 id: ein000313
 slug: anonym-philotas
@@ -24507,6 +24595,17 @@ settings:
   - description: >-
       Die Bühne stellt einen Saal auf dem Schlosse des Marquis mit Fenstern, Mittel- und Seitenthüren vor.
 ---
+id: ein002482
+slug: castelli-franz-und-adam-oder-das-hat-er-gut-gemacht
+author:
+  name: Castelli, Ignaz Franz
+  wikidata: Q78813
+title: "Franz und Adam, oder: Das hat er gut gemacht"
+subtitle: Lustspiel in 1 Akt nach dem Französischen des Guilbert Pixerécourt
+premiered: 1804-02-03
+basedOn:
+  - René-Charles Guilbert de Pixerécourt
+---
 id: ein000553
 slug: castelli-gutes-beispiel
 author:
@@ -27707,6 +27806,20 @@ cast:
 settings:
   - description: >-
       Die Handlung geht vor im Graf Wendelheimischen Hause.
+---
+id: ein002478
+slug: cremeri-itzt-muss-es-so-sein
+author:
+  name: Cremeri, Anton
+  wikidata: Q55127553
+title: Itzt muß es so sein
+subtitle: Farce in einem Aufzug
+created: 1782
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 221
+comments:
+  - "Von Meyer ins Jahr 1782 einsortiert."
 ---
 id: ein000629
 slug: crentzin-der-arme
@@ -34385,6 +34498,20 @@ cast:
 settings:
   - description: >-
       Das Theater stellt einen Garten vor. Auf einer Seite das Haus des Herrn Trüchet, daneben ein Baum, vor demselben eine Bank. Auf der andern Seite ein Pavillon, dessen Thür theilweise durch ein Bosket verdeckt ist. Beim Aufziehen des Vorhanges sitzt Trüchet auf der Bank und liest in einem Journal. Er hat den Hut auf dem Kopf, einen Ellenbogen auf seinen Rohrstock gestützt. – Mamsell Bernard sitzt zwischen dem Bosket und der Thür des Pavillons und liest in einem Buche.
+---
+id: ein002481
+slug: gensicke-wie-gewonnen-so-zeronnen
+author:
+  name: Gensicke, David Friedrich
+  wikidata: Q95639753
+title: Wie gewonnen, so zerronnen
+subtitle: Lustspiel in 1 A.
+created: 1784
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 76
+comments:
+  - "Von Meyer ins Jahr 1784 einsortiert."
 ---
 id: ein000782
 slug: gerber-die-biedern-deutschen-oder-so-lieben-wir-unsern-kaiser
@@ -61531,6 +61658,20 @@ cast:
   - name: Damon.
     gender: m
 ---
+id: ein002479
+slug: lavater-ohne-tugend-ist-keine-glueckseligkeit
+author:
+  name: Lavater, Johann Caspar
+  wikidata: Q123918
+title: Ohne Tugend ist keine Glückseligkeit, oder Zufriedenheit des Menschen größtes Glück
+subtitle: Ein Vorspiel in 1 Akt von Lavater
+premiered: 1786
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 431
+comments:
+  - "»Aufgef. von der Truppe Franz Grimmers 1786/87.« (Meyer)"
+---
 id: ein001403
 slug: lawaetz-damon-phintias
 author:
@@ -71690,6 +71831,17 @@ settings:
       Das Stück spielt in Madrid, in Figaro's Hause.
     location:
       wikidataId: Q2807
+---
+id: ein002473
+slug: oliva-kaspar-der-rauchfangkehrer-als-fuerst
+author:
+  name: Oliva, Adam Franz
+title: Kaspar der Rauchfangkehrer als Fürst und der Fürst als Rauchfangkehrer
+subtitle: Lustspiel in 1 Aufzug, aus dem Französischen frei übersetzt
+premiered: 1785-06-16
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 179
 ---
 id: ein001638
 slug: oswald-die-theaterprobe

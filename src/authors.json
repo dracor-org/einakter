@@ -2150,6 +2150,21 @@
     },
     "gender": "male"
   },
+  "Q95639753": {
+    "name": "David Friedrich Gensicke",
+    "gnd": "131598090",
+    "birth": {
+      "date": "1750-01-01T00:00:00Z",
+      "place": "Bezirk Altona",
+      "placeId": "http://www.wikidata.org/entity/Q1630"
+    },
+    "death": {
+      "date": "1784-03-20T00:00:00Z",
+      "place": "Bonn",
+      "placeId": "http://www.wikidata.org/entity/Q586"
+    },
+    "gender": "male"
+  },
   "Q55130944": {
     "name": "Wolfgang Adolph Gerle",
     "gnd": "104234520",
@@ -4021,6 +4036,22 @@
     },
     "gender": "male",
     "ambiguous": true
+  },
+  "Q123918": {
+    "name": "Johann Caspar Lavater",
+    "gnd": "118570293",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Kaspar%20Lavater.jpg",
+    "birth": {
+      "date": "1741-11-15T00:00:00Z",
+      "place": "Zürich",
+      "placeId": "http://www.wikidata.org/entity/Q72"
+    },
+    "death": {
+      "date": "1801-01-02T00:00:00Z",
+      "place": "Zürich",
+      "placeId": "http://www.wikidata.org/entity/Q72"
+    },
+    "gender": "male"
   },
   "Q1000323": {
     "name": "Heinrich Wilhelm Lawätz",
