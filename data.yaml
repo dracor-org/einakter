@@ -3988,6 +3988,8 @@ dictionaries:
 editions:
   - title: "Berlin: Haude und Spener [1752]"
     url: https://www.loc.gov/resource/musschatz.19411.0/?sp=3
+ids:
+  wikidata: Q119779327
 cast:
   - name: Venus.
     gender: f
@@ -16089,6 +16091,27 @@ settings:
       Die Scene spielt im Oberlande unfern des Falm.
     location:
       wikidataId: Q3038
+---
+id: ein002483
+slug: barnekow-hass-allen-maennern
+author:
+  name: Barnekow, Gustav von
+  wikidata: Q28652145
+title: Haß allen Männern!
+subtitle: Lustspiel in Einem Akt (Ein Seitenstück zu Haß allen Weibern!)
+premiered: 1811-02-05
+comments:
+  - "Theaterzettel [Berlin 1811](https://berlinerklassik.bbaw.de/nationaltheater/theaterstueck/524)."
+cast:
+  - name: Elise,
+    role: Gräfin von Berg
+    gender: f
+  - name: Gustav,
+    role: ein junger Graf
+    gender: m
+  - name: Margrete,
+    role: im Dienst der Gräfin
+    gender: f
 ---
 id: ein000367
 slug: barnekow-nein
@@ -85042,6 +85065,7 @@ editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zweiundzwanzigster Jahrgang, für 1843. Berlin: Vereins-Buchhandlung 1843, S. 311–342"
     url: https://books.google.com/books?id=ZnJIAQAAMAAJ&pg=PA311
 ids:
+  dracor: ger000621
   wikidata: Q118871504
 cast:
   - name: Graf von Klockenberg.
