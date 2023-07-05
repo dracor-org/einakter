@@ -3989,6 +3989,7 @@ editions:
   - title: "Berlin: Haude und Spener [1752]"
     url: https://www.loc.gov/resource/musschatz.19411.0/?sp=3
 ids:
+  dracor: ger000624
   wikidata: Q119779327
 cast:
   - name: Venus.
@@ -6333,45 +6334,6 @@ cast:
 settings:
   - description: >-
       Das Zimmer des Obersten im weilburgischen Hause.
----
-id: ein000145
-slug: anonym-der-physiognomist-oder-keine-regel-ohn-ausnahme
-author:
-  pseudonym: Anonym
-title: "Der Physiognomist. Oder: Keine Regel ohn' Ausnahme"
-subtitle: Ein Lustspiel in einem Aufzug
-numberOfScenes: 15
-printed: 1778
-formalia:
-  - Prosa
-dictionaries:
-  - name: bibliographia
-    pages: 2. Abteilung, Band 27, S. 37–38
-editions:
-  - title: "Leipzig: Schneider 1778"
-    url: https://books.google.com/books?id=uhtYAAAAcAAJ&printsec=frontcover
-comments:
-  - "Satire auf Lavaters Physiognomik. Vorwort datiert auf »Dresden, den 6. Octob. 1778«."
-cast:
-  - name: Sehkraft,
-    role: ein reicher Kaufmann.
-    gender: m
-  - name: Wilhelm Sehkraft,
-    role: sein Bruder, gewesner Hofmeister und launigten Karakters.
-    gender: m
-  - name: Wilhelmine,
-    role: seine Tochter.
-    gender: f
-  - name: von Millwiz.
-    gender: m
-  - name: Blenkfeld,
-    role: Sehkrafts Buchhalter.
-    gender: m
-  - name: Ein Bedienter aus dem Hause.
-    gender: m
-settings:
-  - description: >-
-      Der Schauplatz ist ein Saal in Sehkrafts Hause; im Grunde eine Mittel- und rechter und linker Hand eine Seitenthüre.
 ---
 id: ein000146
 slug: anonym-der-problematisch-verstorbene
@@ -36508,6 +36470,51 @@ cast:
 settings:
   - description: >-
       Garten. Rechts eine Laube, gegenübe ein Piedestal mit einer Vase darauf. Gartenstühle umher. Tagesanbruch.
+---
+id: ein000145
+slug: grohmann-der-physiognomist-oder-keine-regel-ohn-ausnahme
+author:
+  name: Grohmann, Karl Ferdinand Daniel
+  wikidata: Q54506863
+title: "Der Physiognomist. Oder: Keine Regel ohn' Ausnahme"
+subtitle: Ein Lustspiel in einem Aufzug
+numberOfScenes: 15
+printed: 1778
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 37–38
+editions:
+  - title: "Leipzig: Schneider 1778"
+    url: https://books.google.com/books?id=uhtYAAAAcAAJ&printsec=frontcover
+comments:
+  - "Satire auf Lavaters Physiognomik. Vorwort datiert auf »Dresden, den 6. Octob. 1778«. Als Autor wird auch Joseph Marius von Babo gehandelt, allerdings bezeichnet sich Grohmann im Vorwort zu seinem dreiaktigen Trauerspiel »Gioconda« (1781) selbst als Autor des »Physiognomisten« (vgl. [S. X](https://books.google.com/books?id=qxNaAAAAcAAJ&pg=PR10))."
+keywords:
+  - Eheanbahnung
+ids:
+  wikidata: Q120196971
+  dracor: ger000625
+cast:
+  - name: Sehkraft,
+    role: ein reicher Kaufmann.
+    gender: m
+  - name: Wilhelm Sehkraft,
+    role: sein Bruder, gewesner Hofmeister und launigten Karakters.
+    gender: m
+  - name: Wilhelmine,
+    role: seine Tochter.
+    gender: f
+  - name: von Millwiz.
+    gender: m
+  - name: Blenkfeld,
+    role: Sehkrafts Buchhalter.
+    gender: m
+  - name: Ein Bedienter aus dem Hause.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist ein Saal in Sehkrafts Hause; im Grunde eine Mittel- und rechter und linker Hand eine Seitenthüre.
 ---
 id: ein002441
 slug: grohmann-parbleu-ich-bin-nicht-der-rechte
@@ -74617,6 +74624,7 @@ editions:
 comments:
   - "Aufgeführt am Großherzoglichen Hoftheater zu Darmstadt [am 17. Januar 1849](https://books.google.com/books?id=i-Mo198bjLYC&pg=PA399)."
 ids:
+  dracor: ger000623
   wikidata: Q118906207
 cast:
   - name: Therese Gauthier.
