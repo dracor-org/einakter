@@ -9436,6 +9436,20 @@ settings:
   - description: >-
       Das Theater stellt einen Platz vor einem Hause auf dem Lande vor.
 ---
+id: ein002484
+slug: anonym-die-philosophen
+author:
+  pseudonym: Anonym
+title: Die Philosophen
+subtitle: Ein Lustspiel in einem Aufzuge
+premiered: 1781
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 172
+comments:
+  - Beschluss einer Liebhaberaufführung in Solothurn. Ohne Jahr, von Meyer ins Jahr 1781 einsortiert.
+  - "Vgl. auch Stefan Hulfeld: Zähmung der Masken, Wahrung der Gesichter. Theater und Theatralität in Solothurn 1700–1798. Zürich: Chronos 2000, S. 264."
+---
 id: ein000216
 slug: anonym-die-probe-in-der-vestung-oder-der-stumme-liebhaber
 author:
@@ -11972,6 +11986,17 @@ cast:
     gender: f
 settings:
   - description: Der Schauplatz stellet in Emiliens Hause einen Saal vor.
+---
+id: ein002486
+slug: anonym-emilie-von-wollau
+author:
+  pseudonym: Anonym
+title: Emilie von Wollau
+subtitle: Ein Lustspiel in 1 Aufzug
+premiered: 1782-11-04
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 28, S. 182
 ---
 id: ein000275
 slug: anonym-end-gut-alles-gut
@@ -26183,16 +26208,19 @@ title: Die Mutter, oder sie kann nicht wählen
 subtitle: Ein Schauspiel in einem Act
 numberOfScenes: 11
 printed: 1791
+premiered: 1791-09-26
 formalia:
   - Prosa
 basedOn:
   - dejaure-l-incertitude-maternelle-ou-le-choix-impossible
 dictionaries:
   - name: bibliographia
-    pages: 2. Abteilung, Band 32, S. 84
+    pages: 2. Abteilung, Band 32, S. 84 und S. 287
 editions:
   - title: "Oldenburg: Stalling 1791"
     url: https://www.digitale-bibliothek-mv.de/viewer/image/PPN869918818/1/
+comments:
+  - "Theaterzettel: [Hamburg 1791](https://www.stadttheater.uni-hamburg.de/system/files/1791-09-26.pdf) (unter dem Titel »Die Mutter, oder Die unmögliche Wahl«)."
 cast:
   - name: Frau von Hohenheim.
     gender: f
@@ -36489,7 +36517,7 @@ editions:
   - title: "Leipzig: Schneider 1778"
     url: https://books.google.com/books?id=uhtYAAAAcAAJ&printsec=frontcover
 comments:
-  - "Satire auf Lavaters Physiognomik. Vorwort datiert auf »Dresden, den 6. Octob. 1778«. Als Autor wird auch Joseph Marius von Babo gehandelt, allerdings bezeichnet sich Grohmann im Vorwort zu seinem dreiaktigen Trauerspiel »Gioconda« (1781) selbst als Autor des »Physiognomisten« (vgl. [S. X](https://books.google.com/books?id=qxNaAAAAcAAJ&pg=PR10))."
+  - "Satire auf Lavaters Physiognomik. Vorwort datiert auf »Dresden, den 6. Octob. 1778«. Als Autor wird auch Joseph Marius von Babo gehandelt, allerdings bezeichnet sich Grohmann im Vorwort zu seinem dreiaktigen Trauerspiel »Gioconda« (1781) selbst als Autor des »Physiognomist« (vgl. [S. X](https://books.google.com/books?id=qxNaAAAAcAAJ&pg=PR10))."
 keywords:
   - Eheanbahnung
 ids:
@@ -42770,6 +42798,20 @@ cast:
 settings:
   - description: >-
       Die Handlung ist auf dem Schloße der Frau von Berning, des Abends zwischen 10 und 12 Uhr.
+---
+id: ein002485
+slug: herklots-elternfreude
+author:
+  name: Herklots, Karl Alexander
+  wikidata: Q1730251
+title: Elternfreude
+subtitle: Vorspiel mit Musik/Gesang in 1 Akt
+premiered: 1793-12-25
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 377
+comments:
+  - Musik von Bernhard Anselm Weber.
 ---
 id: ein000965
 slug: herrmann-das-schreckens-gewebe
@@ -72948,6 +72990,9 @@ comments:
 keywords:
   - allegorische Figuren
   - Theaterbetrieb
+ids:
+  dracor: ger000626
+  wikidata: Q120401569
 cast:
   - name: Apollo.
     gender: m
