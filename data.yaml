@@ -5195,6 +5195,19 @@ cast:
 settings:
   - description: Der Schauplatz präsentirt eine Schuster-Werckstadt.
 ---
+id: ein002487
+slug: anonym-der-geizige
+author:
+  pseudonym: Anonym
+title: "Der Geizige, Oder: Der zum Dienst seines Herrn, und zu seinem eigenen Glücke lustige FRONTIN. Worinnen nebst denen angenehmsten Verwicklungen, verschiedene Verkleidungen abwechslen"
+subtitle: Lust-Spiel, von einem Aufzuge
+premiered: 1766-09-22
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 21, S. 491
+comments:
+  - In Nürnberg von der Kurz'schen Truppe aufgeführt.
+---
 id: ein000118
 slug: anonym-der-gerettete-selbstmoerder
 author:
@@ -15094,7 +15107,7 @@ author:
   name: Babo, Joseph Marius
   wikidata: Q104172
 title: Das Lustlager
-subtitle: Ein Schauspiel in einer Handlung
+subtitle: Schauspiel in einer Handlung
 numberOfScenes: 17
 printed: 1778
 formalia:
@@ -15104,8 +15117,12 @@ dictionaries:
     pages: 2. Abteilung, Band 27, S. 46–47
 editions:
   - title: "Frankfurt und Leipzig 1778"
+    url: https://books.google.com/books?id=71RZAAAAcAAJ&printsec=frontcover
   - title: "Wien 1779"
     url: https://books.google.com/books?id=TQNIAAAAcAAJ&printsec=frontcover
+reviews:
+  - "Almanach der deutschen Musen auf das Jahr 1780. Leipzig: Weygand [1780], [S. 45](https://books.google.com/books?id=e1o6AAAAcAAJ&pg=PA45)."
+  - "Allgemeine deutsche Bibliothek. Des acht und dreyßigsten Bandes zweytes Stück. Berlin und Stettin: Nicolai 1779, [S. 461](http://ds.ub.uni-bielefeld.de/viewer/resolver?urn=urn:nbn:de:0070-disa-2002572_053_6838)."
 cast:
   - name: Ein Rittmeister.
     gender: m
@@ -15119,7 +15136,7 @@ cast:
   - name: Sophie,
     role: ihre Tochter.
     gender: f
-  - name: Doktor Blasius,
+  - name: Doctor Blasius,
     role: ein Schriftsteller.
     gender: m
   - name: Madam Flick,
@@ -15129,7 +15146,7 @@ cast:
     role: des Hauptmanns Bedienter.
     gender: m
   - name: Karlin,
-    role: Wirthinn.
+    role: Wirthin.
     gender: f
   - name: Wilhelm,
     role: Pachter.
@@ -15161,13 +15178,14 @@ editions:
   - title: "Wien 1778"
     url: https://books.google.com/books?id=KhylYGfrryUC&printsec=frontcover
   - title: "[München] 1779"
-    url: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00074290-2    
+    url: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00074290-2
 reviews:
   - "Theater-Journal für Deutschland. Fünftes Stück. Gotha: Ettinger 1778, [S. 79](https://books.google.com/books?id=Hsh8E3hSU8IC&pg=PA79)."
   - "Litteratur- und Theater-Zeitung. No. XXIII. (Berlin, den 6. Juni 1778), [S. 368](https://books.google.com/books?id=U8lZAAAAcAAJ&pg=RA2-PA368)."
   - "Almanach der deutschen Musen auf das Jahr 1779. Leipzig: Weygand [1779], [S. 100–101](https://books.google.com/books?id=Zlo6AAAAcAAJ&pg=PA100)."
   - "Litteratur- und Theater-Zeitung. No. XXXIII. (Berlin, den 14. August 1784), [S. 101–102](https://books.google.com/books?id=ZdbxDcWRXI8C&pg=RA2-PA101)."
 ids:
+  dracor: ger000629
   wikidata: Q120492077
 keywords:
   - Heimkehr-Motiv
@@ -28072,6 +28090,31 @@ settings:
   - description: >-
       Die Bühne, das Vorzimmer eines Bildhauers mit verschiedenen Grouppen und Büsten, Bildsäulen und Vasen verziert. Man sieht zwo Thüren in demselben gegen einander über, in den Seitenwänden des Vordergrundes angebracht. Die zur Linken der Zuschauer führt zu den Seitengemächern. Jene zur Rechten geht auf die Gasse. Neben der Letztern sind Fenster, deren Vorhänge niedergelassen sind.
 ---
+id: ein002488
+slug: d-arien-heinrich-und-lyda
+author:
+  name: d'Arien, Bernhard Christian
+  wikidata: Q25991406
+title: Heinrich und Lyda
+subtitle: Ein Drama in 1 Aufzug
+numberOfScenes: 3
+printed: 1774
+premiered: 1776-03-26
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 25, S. 473–474, und Band 26, S. 253
+editions:
+  - title: "Naumburg und Zeitz 1774"
+  - title: "Heinrich und Lyda, eine Scene aus dem menschlichen Leben. Leipzig: Hilscher 1776"
+    url: https://books.google.com/books?id=CW5VAAAAcAAJ&printsec=frontcover
+comments:
+  - "Die drei Szenen entsprechen jeweils Schauplatzwechseln und sind nicht durchnummeriert."
+  - 1776 zu einem einaktigen Singspiel umgearbeitet, Musik von Christian Gottlob Neefe.
+reviews:
+  - "Gothaische gelehrte Zeitungen. Fünftes Stück (den siebenzehnten Januar 1776), [Sp. 33–34](https://books.google.com/books?id=wtc9AQAAMAAJ&pg=PA33)."
+---
 id: ein000634
 slug: d-arien-nina-oder-wahnsinn-aus-liebe
 author:
@@ -36527,6 +36570,8 @@ editions:
     url: https://books.google.com/books?id=uhtYAAAAcAAJ&printsec=frontcover
 comments:
   - "Satire auf Lavaters Physiognomik. Vorwort datiert auf »Dresden, den 6. Octob. 1778«. Als Autor wird auch Joseph Marius von Babo gehandelt, allerdings bezeichnet sich Grohmann im Vorwort zu seinem dreiaktigen Trauerspiel »Gioconda« (1781) selbst als Autor des »Physiognomist« (vgl. [S. X](https://books.google.com/books?id=qxNaAAAAcAAJ&pg=PR10))."
+reviews:
+  - "Allgemeine deutsche Bibliothek. Des acht und dreyßigsten Bandes zweytes Stück. Berlin und Stettin: Nicolai 1779, [S. 461](http://ds.ub.uni-bielefeld.de/viewer/resolver?urn=urn:nbn:de:0070-disa-2002572_053_6838)."
 keywords:
   - Eheanbahnung
 ids:
@@ -66034,6 +66079,20 @@ settings:
     location:
       wikidataId: Q210205
 ---
+id: ein002489
+slug: marinelli-herr-gevatter
+author:
+  name: Marinelli, Karl von
+  wikidata: Q1733642
+title: Herr Gevatter
+subtitle: Lustspiel in einem Aufzug
+premiered: 1784-09-02
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 29, S. 111
+comments:
+  - 1784 in Zagreb aufgeführt.
+---
 id: ein001502
 slug: marsano-das-spiegelbild
 author:
@@ -85514,6 +85573,19 @@ cast:
 settings:
   - description: >-
       Die Scene ist ein Saal auf dem Landhause Krumbachs, mit Seitenthüren und Fenstern.
+---
+id: ein002490
+slug: schrenck-iramis-das-opfer-aus-liebe
+author:
+  name: Schrenck, Heinrich von
+title: Iramis, das Opfer aus Liebe
+subtitle: Melodrama in einem Akt
+premiered: 1788-07-27
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 30, S. 302
+comments:
+  - "Vorname des Autors erschlossen über Horst Fassel: Christoph Ludwig Seipp, ein Gegner Wielands, in Temeswar und Hermannstadt. In: Revista istorică. Serie nouă. Band 7 (1996), Nr. 5–6, S. 87–105, hier [S. 103](http://www.iini.ro/Revista%20Istorica/RI_complet/1996/Revista_istorica_an07_1996_01_02_nr01_02.pdf#page=105)."
 ---
 id: ein001949
 slug: schroeder-der-vernuenftige-narr-oder-keiner-versteht-den-andern
