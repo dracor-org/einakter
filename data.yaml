@@ -389,11 +389,16 @@ cast:
     gender: f
   - name: Ein Bedienter.
     gender: m
+ids:
+  dracor: ger000630
+  wikidata: Q120646668
 settings:
   - description: >-
-      Die Handlung ist in London. Das Theater stellt Roberts Wohnung vor, ein reinliches Zimmer, mittelmäßig meublirt, Robert sitzt auf einen Lehnstuhl, sein Tochterkind spielt zwischen seinen Füßen, und Jeny arbeitet beym Tische an einer Manschette.
+      Die Handlung ist in London.
     location:
       wikidataId: Q84
+  - description: >-
+      (Das Theater stellt Roberts Wohnung vor, ein reinliches Zimmer, mittelmäßig meublirt, Robert sitzt auf einen Lehnstuhl, sein Tochterkind spielt zwischen seinen Füßen, und Jeny arbeitet beym Tische an einer Manschette.)
 ---
 id: ein000011
 slug: alexis-die-sonette
@@ -15123,6 +15128,9 @@ editions:
 reviews:
   - "Almanach der deutschen Musen auf das Jahr 1780. Leipzig: Weygand [1780], [S. 45](https://books.google.com/books?id=e1o6AAAAcAAJ&pg=PA45)."
   - "Allgemeine deutsche Bibliothek. Des acht und dreyßigsten Bandes zweytes Stück. Berlin und Stettin: Nicolai 1779, [S. 461](http://ds.ub.uni-bielefeld.de/viewer/resolver?urn=urn:nbn:de:0070-disa-2002572_053_6838)."
+ids:
+  dracor: ger000631
+  wikidata: Q120648353
 cast:
   - name: Ein Rittmeister.
     gender: m
