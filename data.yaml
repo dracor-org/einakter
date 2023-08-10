@@ -3725,6 +3725,62 @@ settings:
   - description: >-
       Der Schauplatz ist Anfangs bei Kannegießer, nachher bei Bock.
 ---
+id: ein000346
+slug: anonym-das-lustlager
+author:
+  pseudonym: Anonym
+title: Das Lustlager
+subtitle: Schauspiel in einer Handlung
+numberOfScenes: 17
+printed: 1778
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 46–47
+editions:
+  - title: "Frankfurt und Leipzig 1778"
+    url: https://books.google.com/books?id=71RZAAAAcAAJ&printsec=frontcover
+  - title: "Wien 1779"
+    url: https://books.google.com/books?id=TQNIAAAAcAAJ&printsec=frontcover
+reviews:
+  - "Almanach der deutschen Musen auf das Jahr 1780. Leipzig: Weygand [1780], [S. 45](https://books.google.com/books?id=e1o6AAAAcAAJ&pg=PA45)."
+  - "Allgemeine deutsche Bibliothek. Des acht und dreyßigsten Bandes zweytes Stück. Berlin und Stettin: Nicolai 1779, [S. 461](http://ds.ub.uni-bielefeld.de/viewer/resolver?urn=urn:nbn:de:0070-disa-2002572_053_6838)."
+ids:
+  dracor: ger000631
+  wikidata: Q120648353
+cast:
+  - name: Ein Rittmeister.
+    gender: m
+  - name: Ein Hauptmann.
+    gender: m
+  - name: Valentin,
+    role: ein Kaufmann.
+    gender: m
+  - name: Frau Valentin.
+    gender: f
+  - name: Sophie,
+    role: ihre Tochter.
+    gender: f
+  - name: Doctor Blasius,
+    role: ein Schriftsteller.
+    gender: m
+  - name: Madam Flick,
+    role: seine Braut.
+    gender: m
+  - name: Friedrich,
+    role: des Hauptmanns Bedienter.
+    gender: m
+  - name: Karlin,
+    role: Wirthin.
+    gender: f
+  - name: Wilhelm,
+    role: Pachter.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist im Lager.
+---
 id: ein000082
 slug: anonym-das-missbindniss-oder-der-verkannte-hofmeister
 author:
@@ -11984,6 +12040,12 @@ reviews:
   - "Allgemeine deutsche Bibliothek. Des funfzehnten Bandes erstes Stück. Berlin und Stettin: Nicolai 1771, [S. 564](http://ds.ub.uni-bielefeld.de/viewer/resolver?urn=urn:nbn:de:0070-disa-2002572_027_7997)."
   - "Almanach der deutschen Musen auf das Jahr 1771, [S. 96](https://books.google.com/books?id=52BeAAAAcAAJ&pg=PA96)."
   - "Journal aller Romane und Schauspiele. Viertes Stück. Leipzig: Schneider 1785, [S. 19–20](https://books.google.com/books?id=2zi5EmbSDjwC&pg=RA4-PA19)."
+keywords:
+  - Eheanbahnung
+  - Judentum
+ids:
+  dracor: ger000634
+  wikidata: Q121344428
 cast:
   - name: Emilie.
     gender: f
@@ -15105,63 +15167,6 @@ settings:
       Die ersten zween Auftritte spielen im Hause der Gräfinn; alle folgenden im Hause des Barons.
   - description: >-
       Ein Zimmer im Hause der Gräfinn.
----
-id: ein000346
-slug: babo-das-lustlager
-author:
-  name: Babo, Joseph Marius
-  wikidata: Q104172
-title: Das Lustlager
-subtitle: Schauspiel in einer Handlung
-numberOfScenes: 17
-printed: 1778
-formalia:
-  - Prosa
-dictionaries:
-  - name: bibliographia
-    pages: 2. Abteilung, Band 27, S. 46–47
-editions:
-  - title: "Frankfurt und Leipzig 1778"
-    url: https://books.google.com/books?id=71RZAAAAcAAJ&printsec=frontcover
-  - title: "Wien 1779"
-    url: https://books.google.com/books?id=TQNIAAAAcAAJ&printsec=frontcover
-reviews:
-  - "Almanach der deutschen Musen auf das Jahr 1780. Leipzig: Weygand [1780], [S. 45](https://books.google.com/books?id=e1o6AAAAcAAJ&pg=PA45)."
-  - "Allgemeine deutsche Bibliothek. Des acht und dreyßigsten Bandes zweytes Stück. Berlin und Stettin: Nicolai 1779, [S. 461](http://ds.ub.uni-bielefeld.de/viewer/resolver?urn=urn:nbn:de:0070-disa-2002572_053_6838)."
-ids:
-  dracor: ger000631
-  wikidata: Q120648353
-cast:
-  - name: Ein Rittmeister.
-    gender: m
-  - name: Ein Hauptmann.
-    gender: m
-  - name: Valentin,
-    role: ein Kaufmann.
-    gender: m
-  - name: Frau Valentin.
-    gender: f
-  - name: Sophie,
-    role: ihre Tochter.
-    gender: f
-  - name: Doctor Blasius,
-    role: ein Schriftsteller.
-    gender: m
-  - name: Madam Flick,
-    role: seine Braut.
-    gender: m
-  - name: Friedrich,
-    role: des Hauptmanns Bedienter.
-    gender: m
-  - name: Karlin,
-    role: Wirthin.
-    gender: f
-  - name: Wilhelm,
-    role: Pachter.
-    gender: m
-settings:
-  - description: >-
-      Der Schauplatz ist im Lager.
 ---
 id: ein000347
 slug: babo-das-winterquartier-in-amerika
