@@ -8260,6 +8260,19 @@ settings:
   - description: >-
       Die Scene ist im Schlosse auf dem Gute eines Edelmanns, wo Heinemann Verwalter ist.
 ---
+id: ein002492
+slug: anonym-die-dankbarkeit
+author:
+  pseudonym: Anonym
+title: Die Dankbarkeit
+subtitle: Ein in reinen Versen verfertigtes Vorspiel von einem Aufzug
+premiered: 1748-10-03
+formalia:
+  - Verse
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 14, S. 37
+---
 id: ein000189
 slug: anonym-die-dreyfache-heyrath
 author:
@@ -22817,6 +22830,18 @@ cast:
     gender: m
 settings:
   - description: Der Schauplatz ist ein wilder Ort an dem Ufer des Meers.
+---
+id: ein002491
+slug: carnier-fuer-gott-koenig-und-vaterland
+author:
+  name: Carnier, Franz Xaver
+  wikidata: Q108812463
+title: Für Gott, König und Vaterland
+subtitle: Vorspiel mit Gesang und Tanz in einem Aufzuge
+premiered: 1792-01-30
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 32, S. 83
 ---
 id: ein000508
 slug: castelli-abneigung-aus-liebe
@@ -83347,9 +83372,13 @@ editions:
   - title: "Theater der Deutschen. Zehnter Theil. Königsberg und Leipzig: Kanter 1771, S. 373–410"
     url: https://books.google.com/books?id=7zLIpOl_vZEC&pg=PA373
 comments:
-  - Der Abdruck im »Theater der Deutschen« wird fälschlicherweise Schlegel zugeschrieben (»Die Maskerade. Ein Lustspiel in einem Aufzuge von Herrn Schlegel«)".
+  - Der Abdruck im »Theater der Deutschen« wird fälschlicherweise Schlegel zugeschrieben (»Die Maskerade. Ein Lustspiel in einem Aufzuge von Herrn Schlegel«).
 keywords:
   - Verstellspiel
+  - Eheanbahnung
+ids:
+  dracor: ger000635
+  wikidata: Q121354014
 cast:
   - name: Geront.
     gender: m
