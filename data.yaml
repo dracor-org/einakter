@@ -76927,18 +76927,21 @@ editions:
 cast:
   - name: Graf Benno.
     gender: m
-  - name: Peter Campano,
+  - name: Peter Campano.
     role: Schloßverwalter.
     gender: m
-  - name: Isabelle,
+  - name: Isabelle.
     role: Wirthschafterin.
     gender: f
-  - name: Lilli,
+  - name: Lilli.
     role: Ihre Nichte, und Campano's Mündel.
     gender: f
   - name: Gespielinnen derselben.
     isGroup: true
     gender: f
+ids:
+  dracor: ger000641
+  wikidata: Q121600439
 settings:
   - description: >-
       Die Scene: Platz vor einem alterthümlichen Schlosse in den Pyrenäen. Rechts ein anderes kleineres Haus, links Wald.
