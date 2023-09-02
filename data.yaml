@@ -17393,10 +17393,13 @@ editions:
 comments:
   - Die Autorin gewann mit dem Einakter 1827 in einem Wettbewerb von F. W. Gubitz den ersten Preis (vgl. dessen [»Erlebnisse«](https://books.google.com/books?id=2pVOAAAAcAAJ&pg=PA229)).
 reviews:
-  - "Literatur-Blatt. Redigirt von Dr. Wolfgang Wenzel. No. 97 (23. September 1831), [S. 385–386](https://books.google.com/books?id=6u8IAQAAIAAJ&pg=PA936-IA69)."
   - "Jenaische Allgemeine Literatur-Zeitung. No. 152 (August 1831), [Sp. 254](https://books.google.com/books?id=ccs9AQAAMAAJ&pg=PA253)."
+  - "Literatur-Blatt. Redigirt von Dr. Wolfgang Wenzel. No. 97 (23. September 1831), [S. 385–386](https://books.google.com/books?id=6u8IAQAAIAAJ&pg=PA936-IA69)."
 ids:
   wikidata: Q117377746
+keywords:
+  - Eheanbahnung
+  - Parodie
 cast:
   - name: Christian Fürchtegott Gellert,
     role: Professor in Leipzig.
@@ -20494,6 +20497,52 @@ settings:
   - description: >-
       Die Scene, ein Vorsaal in dem Hause des Galotti.
 ---
+id: ein002515
+slug: bodmer-polytimet
+author:
+  name: Bodmer, Johann Jakob
+  wikidata: Q115588
+title: Polytimet
+subtitle: Ein Trauerspiel. Durch Lessings Philotas, oder ungerathenen Helden veranlasset
+numberOfScenes: 7
+printed: 1760
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 408–409
+editions:
+  - title: "Zürich: Orell 1760"
+    url: https://resolver.staatsbibliothek-berlin.de/SBB0000D7EC00000000
+comments:
+  - "Bezeichnung als »einaktig« in Erich Meissner: Bodmer als Parodist. Naumburg/Saale: Sieling 1904, [S. 46](https://archive.org/details/bodmeralsparodi00meisgoog/page/n51/mode/2up)."
+keywords:
+  - Parodie
+ids:
+  dracor: ger000617
+  wikidata: Q118693622
+cast:
+  - name: Polemon,
+    role: König.
+    gender: m
+  - name: Aristodemus,
+    role: sein Feldherr .
+    gender: m
+  - name: Polytimet,
+    role: des Aridäus Sohn, gefangen.
+    gender: m
+  - name: Strato,
+    role: des Aridäus Feldherr.
+    gender: m
+  - name: Parmenio,
+    role: Soldat.
+    gender: m
+  - name: Heerold des Aridäus.
+    gender: m
+settings:
+  - description: >-
+      Die Scene, ein Gezelt in dem Lager des Polemons.
+---
 id: ein000454
 slug: boecklin-von-boecklinsau-der-pedant
 author:
@@ -22471,6 +22520,10 @@ formalia:
 editions:
   - title: "Sämmtliche theatralische Werke von Elise Bürger, geb. Hahn. Erster Band. Lemgo: Meyer 1801, S. 63–130"
     url: https://books.google.com/books?id=0JRIAAAAcAAJ&pg=PA63
+keywords:
+  - Rolle der Frau
+  - Lotto
+  - Eheanbahnung
 ids:
   wikidata: Q117377863
 cast:
@@ -22538,7 +22591,7 @@ author:
   name: Bürger, Elise
   wikidata: Q1330617
 title: Die Überraschung
-subtitle: Familiengemählde in einem Acte
+subtitle: Familiengemählde in einem Acte. Als Prolog zum Geburtstage Sr. Majestät der Königinn Charlotte verfaßt
 numberOfScenes: 17
 printed: 1801
 formalia:
@@ -30805,6 +30858,12 @@ comments:
   - Berliner Uraufführung unter dem Titel »Die Männerlotterie«.
 ids:
   wikidata: Q117455526
+keywords:
+  - Eheanbahnung
+  - Liebesprobe
+  - Geld
+  - Verkleidungsspiel
+  - Lotto
 cast:
   - name: Belnau,
     role: ein reicher Privatmann.
@@ -30846,6 +30905,9 @@ formalia:
 editions:
   - title: "Lustspiele. Frei nach dem Französischen bearbeitet von Friederike Ellmenreich. Zweiter Band. Mainz: Kupferberg 1827"
     url: https://books.google.com/books?id=z1dFWhS9SucC&pg=RA1-PA3
+reviews:
+  - "Der Gesellschafter. Blätter für Geist und Herz. 77stes Blatt (Freitag den 14. Mai 1824), [S. 384](https://books.google.com/books?id=QFZEAAAAcAAJ&pg=PA384)."
+  - "Flora. Ein Unterhaltungs-Blatt. Nro. 153 (München, Donnerstags den 2. August 1827), [S. 637](https://books.google.com/books?id=DI5NAAAAcAAJ&pg=PA637)."
 ids:
   wikidata: Q117455574
 cast:
@@ -34967,6 +35029,49 @@ settings:
   - description: >-
       Die Scene ist ein einsamer, mit Bäumen und Gesträuch umgebener Plaz, vor Erasts Hütte.
 ---
+id: ein002514
+slug: gewey-der-gebesserte-lorenz-oder-diessmahl-fehlt-immer-der-herr
+author:
+  name: Gewey, Franz Xaver Karl
+  wikidata: Q87933
+title: "Der gebesserte Lorenz, oder: Dießmahl fehlt immer der Herr"
+subtitle: Als zweyter Theil zum Hausgesinde. Posse mit Gesang in einem Aufzuge. Nach Sewrin, lokalisirt vom Verfasser des travestirten Pygmalion
+numberOfScenes: 25
+printed: 1813
+premiered: 1813-10-19
+formalia:
+  - Verse
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1813"
+    url: https://books.google.com/books?id=D3aCxAEACAAJ&printsec=frontcover
+  - title: "Berlin 1820"
+    url: https://books.google.com/books?id=xFaoIzpwBSwC&printsec=frontcover
+reviews:
+  - "Wiener Zeitschrift für Kunst, Literatur, Theater und Mode. Nr. 59 (Dinstag, den 18. May 1819), [S. 477](https://books.google.com/books?id=xm5HAAAAcAAJ&pg=PA477)."
+cast:
+  - name: Kraft,
+    role: gewesener Verwalter, nun von seinen Mitteln lebend.
+    gender: m
+  - name: Lorenz,
+    role: sein Bedienter.
+    gender: m
+  - name: Lorenzens Mutter.
+    gender: f
+  - group:
+      - name: Peter Wiesner
+        gender: m
+      - name: Kaspar Feldreich
+        gender: m
+    role: Bauern, und Krafts Pachtleute.
+  - name: Ein Schmidjunge.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung geht in einer Wienervorstadt in Krafts eigenem Hause vor.
+    location:
+      wikidataId: Q1741
+---
 id: ein000785
 slug: geyer-die-neue-delila
 author:
@@ -38391,18 +38496,28 @@ author:
   name: Hagemann, Friedrich Gustav
   wikidata: Q23061863
 title: Antonin, Cäsar in Rom
-subtitle: Heroisches Monodrama in einem Aufzuge
+subtitle: Monodrama in einem Aufzuge
+numberOfScenes: 1
 printed: 1810
 premiered: 1809-09-29
 editions:
   - title: "Neue Schauspiele von Gustav Hagemann. Zweyter Band. Eisenach: Wittekindt 1810, S. 479–494"
+    url: "https://gdz.sub.uni-goettingen.de/id/PPN886175240?tify={%22pages%22:[491],%22view%22:%22toc%22}"
 comments:
   - "Theaterzettel: [Würzburg 1809](https://vb2.uni-wuerzburg.de/solr/theaterzettel/browse?q=antonin)."
+  - "Auch mit dem Untertitel »Heroisches Monodrama in einem Aufzuge«."
 keywords:
   - Monodrama
 cast:
   - name: Antonin.
     gender: m
+settings:
+  - description: >-
+      Die Scene ist ein heiliger Hain.
+  - description: >-
+      Im Hintergrunde der Altar des Vaterlandes, zu dem einige Stufen führen.
+  - description: >-
+      Wenn der Vorhang aufgezogen ist, hört man in der Ferne das Volk jauchzen und rufen:
 ---
 id: ein000859
 slug: hagemann-der-fuerst-und-sein-kammerdiener
@@ -38500,6 +38615,8 @@ formalia:
 editions:
   - title: "Eisenach: Wittekindt 1810"
     url: https://books.google.com/books?id=2y4myc2O090C&printsec=frontcover
+  - title: "Neue Schauspiele von Gustav Hagemann. Zweyter Band. Eisenach: Wittekindt 1810, S. 417–476"
+    url: "https://gdz.sub.uni-goettingen.de/id/PPN886175240?tify={%22pages%22:[429],%22view%22:%22toc%22}"
 cast:
   - name: Fräulein Amalie.
     gender: f
@@ -38908,6 +39025,8 @@ dictionaries:
 editions:
   - title: "Eisenach: Wittekind 1810"
     url: https://books.google.com/books?id=mkNGGEHFKEcC&printsec=frontcover
+  - title: "Neue Schauspiele von Gustav Hagemann. Zweyter Band. Eisenach: Wittekindt 1810, S. 209–288"
+    url: "https://gdz.sub.uni-goettingen.de/id/PPN886175240?tify={%22pages%22:[221],%22view%22:%22toc%22}"
   - title: "[Ohne Ort: ohne Jahr]"
     url: https://books.google.com/books?id=Ei47AAAAcAAJ&printsec=frontcover
 comments:
@@ -39062,6 +39181,8 @@ formalia:
 editions:
   - title: "Eisenach: Wittekindt 1810"
     url: https://books.google.com/books?id=yPQ5vaxZ5b4C&printsec=frontcover
+  - title: "Neue Schauspiele von Gustav Hagemann. Zweyter Band. Eisenach: Wittekindt 1810, S. 1–64"
+    url: "https://gdz.sub.uni-goettingen.de/id/PPN886175240?tify={%22pages%22:[13],%22view%22:%22toc%22}"
   - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Vierter Band. Augsburg und Leipzig: Stage [1813], S. 235–270"
     url: https://books.google.com/books?id=BrFIAAAAcAAJ&pg=PA235
 comments:
@@ -45767,6 +45888,7 @@ editions:
     url: https://books.google.com/books?id=I5g6AAAAcAAJ&pg=PA255
 keywords:
   - Kindertheater
+  - Sprichwort
 ids:
   wikidata: Q118347128
 cast:
@@ -45892,6 +46014,7 @@ editions:
     url: https://books.google.com/books?id=I5g6AAAAcAAJ&pg=PA39
 keywords:
   - Kindertheater
+  - Sprichwort
 ids:
   wikidata: Q118347227
 cast:
@@ -45941,6 +46064,7 @@ comments:
   - "Kommentar unter dem Personenverzeichnis: »Fortsetzung des [ungezogenen Knaben](hoelder-der-ungezogene-knabe-oder-beispiel-einer-schlechten-erziehung), nach einem Zeitraum von vier Jahren.«"
 keywords:
   - Kindertheater
+  - Sprichwort
 ids:
   wikidata: Q118347245
 cast:
@@ -45990,6 +46114,7 @@ editions:
     url: https://books.google.com/books?id=I5g6AAAAcAAJ&pg=PA277
 keywords:
   - Kindertheater
+  - Sprichwort
 ids:
   wikidata: Q118347265
 cast:
@@ -46028,6 +46153,7 @@ editions:
     url: https://books.google.com/books?id=I5g6AAAAcAAJ&pg=PA111
 keywords:
   - Kindertheater
+  - Sprichwort
 ids:
   wikidata: Q118347271
 cast:
@@ -46077,6 +46203,7 @@ editions:
     url: https://books.google.com/books?id=I5g6AAAAcAAJ&pg=PA307
 keywords:
   - Kindertheater
+  - Sprichwort
 ids:
   wikidata: Q118347440
 cast:
@@ -85617,6 +85744,8 @@ formalia:
 editions:
   - title: "Jahrbuch deutscher Bühnenspiele. Herausgegeben von F. W. Gubitz. Zweiundzwanzigster Jahrgang, für 1843. Berlin: Vereins-Buchhandlung 1843, S. 311–342"
     url: https://books.google.com/books?id=ZnJIAQAAMAAJ&pg=PA311
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 364 (Sonnabend, 30. December 1843), [S. 1462](https://books.google.com/books?id=PD5aAAAAcAAJ&pg=PA1462)."
 ids:
   dracor: ger000621
   wikidata: Q118871504
@@ -87584,6 +87713,48 @@ cast:
 settings:
   - description: >-
       Die Handlung geht vor in einer kleinen französischen Vestung.
+---
+id: ein002513
+slug: selt-zeller-die-raeuber
+authors:
+  - name: Jeitteles, Isaak
+    pseudonym: Julius Selt
+    wikidata: Q1673492
+  - name: Zeller, Ernst Constantin
+title: Die Räuber
+subtitle: Posse in einem Act
+numberOfScenes: 16
+printed: 1840
+formalia:
+  - Prosa
+editions:
+  - title: "Prag: Landau 1840"
+    url: https://books.google.com/books?id=FDBJAAAAcAAJ&printsec=frontcover
+comments:
+  - "Widmung: »Dem Freunde Thomas Joseph Zimmermann.« ([S. 3](https://books.google.com/books?id=FDBJAAAAcAAJ&pg=PA3))"
+cast:
+  - name: Lord Punsch,
+    role: ein reisender Engländer.
+    gender: m
+  - name: Tom,
+    role: sein Diener.
+    gender: m
+  - name: Ein Podestá.
+    gender: m
+  - name: Anietta,
+    role: eine Wirthstochter.
+    gender: f
+  - name: Cecco,
+    role: ihr Geliebter.
+    gender: m
+  - name: Wachen.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Scene in Italien.
+    location:
+      wikidataId: Q38
 ---
 id: ein001984
 slug: sermage-suehnung

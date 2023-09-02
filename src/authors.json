@@ -81,6 +81,21 @@
     },
     "gender": "male"
   },
+  "Q94888404": {
+    "name": "Friedrich Leopold von Plessen",
+    "gnd": "1045766631",
+    "birth": {
+      "date": "1796-01-01T00:00:00Z",
+      "place": "Erfurt",
+      "placeId": "http://www.wikidata.org/entity/Q1729"
+    },
+    "death": {
+      "date": "1847-01-01T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "gender": "male"
+  },
   "Q69258": {
     "name": "Johann André",
     "gnd": "11601198X",
@@ -2224,6 +2239,21 @@
       "date": "1788-03-02T00:00:00Z",
       "place": "Zürich",
       "placeId": "http://www.wikidata.org/entity/Q72"
+    },
+    "gender": "male"
+  },
+  "Q87933": {
+    "name": "Franz Xaver Gewey",
+    "gnd": "101464525",
+    "birth": {
+      "date": "1764-04-14T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1819-10-13T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
     },
     "gender": "male"
   },
@@ -4873,6 +4903,13 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q122171604": {
+    "name": "Valentin Christoph Möller",
+    "gnd": "139684891",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q55675056": {
     "name": "Karl Mörike",
     "gnd": "117101796",
@@ -6901,6 +6938,21 @@
     },
     "death": {
       "date": "1793-06-20T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male"
+  },
+  "Q1673492": {
+    "name": "Isaak Jeitteles",
+    "gnd": "117094242",
+    "birth": {
+      "date": "1814-09-03T00:00:00Z",
+      "place": "Prag",
+      "placeId": "http://www.wikidata.org/entity/Q1085"
+    },
+    "death": {
+      "date": "1857-03-08T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
     },
