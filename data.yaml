@@ -19854,6 +19854,37 @@ settings:
   - description: >-
       Wirthshaus in der Allee. Bänke. Tische.
 ---
+id: ein002512
+slug: blum-ein-herr-und-eine-dame
+author:
+  name: Blum, Carl
+  wikidata: Q110163
+title: Ein Herr und eine Dame
+subtitle: Lustspiel in einem Aufzuge (Frei nach dem Vaudeville des Xavier.)
+numberOfScenes: 15
+premiered: 1841-10-25
+formalia:
+  - Prosa
+basedOn:
+  - saintine-duvert-lauzanne-un-monsieur-et-une-dame
+editions:
+  - title: "[Ohne Ort: ca. 1844]"
+    url: https://books.google.com/books?id=jHPgkwgoE1EC&printsec=frontcover
+  - title: "Leipzig: Reclam [1876]"
+    url: https://books.google.com/books?id=IsCFkwa-MP4C&printsec=frontcover
+cast:
+  - name: Ein Herr.
+    gender: m
+  - name: Eine Dame.
+    gender: f
+  - name: Eine Gastwirthin.
+    gender: f
+  - name: Eine Stimme.
+    gender: m
+settings:
+  - description: >-
+      Ort der Handlung: Eine Locanda auf der Straße zwischen Rom und Florenz.
+---
 id: ein000441
 slug: blum-herr-von-ich
 author:
