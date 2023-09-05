@@ -39084,6 +39084,29 @@ settings:
   - description: >-
       Die Scene stellt ein Zimmer in des Magister Tufelius Wohnung vor. Die Handlung geht des Morgens früh vor.
 ---
+id: ein002518
+slug: hagemann-prinz-adolph-oder-die-rueckkehr-ins-vaterland
+author:
+  name: Hagemann, Friedrich Gustav
+  wikidata: Q23061863
+title: "Prinz Adolph, oder: Die Rückkehr ins Vaterland"
+subtitle: Monodrama in einem Aufzuge
+numberOfScenes: 1
+printed: 1810
+formalia:
+  - Prosa
+editions:
+  - title: "Neue Schauspiele von Gustav Hagemann. Zweyter Band. Eisenach: Wittekindt 1810, S. 495–511"
+    url: "https://gdz.sub.uni-goettingen.de/id/PPN886175240?tify={%22pages%22:[507],%22view%22:%22toc%22}"
+keywords:
+  - Monodrama
+cast:
+  - name: Adolph.
+    gender: m
+settings:
+  - description: >-
+      (Scene. Wald und Felsen. Hinten ein hoher Berg an der Seite. Im Vorgrunde auf der andern Seite eine Rasenbank zwischen zwey Bäumen. Dieser gegen über ein kleiner Hügel. Es ist Nacht.)
+---
 id: ein000872
 slug: hagemann-prosit-das-neue-jahr
 author:
@@ -41799,6 +41822,17 @@ settings:
       Scene. Das Hinterhaus Dünnebiers.
   - description: >-
       Das Theater stellt ein Hinterhaus und Hof mit einer Treppe von drei Etagen vor. Die Thüre Stemplers trägt die Innschrift: »Advokat Stempler.« Die Thür Sterblichs: »Doctor Sterblich.« Links vor dieser steht: »hier ist ein Quartier zu vermiethen.« Dies ist im zweiten Stocke links. Ein Reif zum Kleiderauspochen hängt im Hintergrunde mit einem Bindfaden am Treppengange aufgehängt. Vorn auf dem Theater links, ist die Zelle des Portiers, mit der Ueberschrift: »Man hat sich hier zu melden.« Rechts ist die Kellerthür, das runde Kellerloch nach den Zuschauern gerichtet. In der Mitte des Theaters ist die Thüre unter dem Treppengange.
+---
+id: ein002519
+slug: hell-ehrenhueter
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Der Ehrenhüter
+subtitle: Lustspiel in einem Act nach dem Franz.
+premiered: 1832-08-18
+basedOn:
+  - scribe-duport-le-chaperon
 ---
 id: ein000933
 slug: hell-ein-besuch-im-narrenhause-oder-bedlams-nachbarschaft
@@ -50202,6 +50236,17 @@ cast:
 settings:
   - description: >-
       Scene: Seltig's Wohnung. Ein großes, geschmachvoll eingerichtetes Zimmer mit zwei Mittel- und zwei Seitenthüren; im Vordergrunde rechts und links ein Tisch; auf jedem Tisch brennen zwei Lichter.
+---
+id: ein002517
+slug: juergensen-sultan-mammud-oder-die-beiden-veziere
+author:
+  name: Jürgensen, Wilhelm
+  wikidata: Q94809491
+title: "Sultan Mammud, oder: die beiden Veziere"
+subtitle: Dramatisch-komisches Märchen mit Gesang in 1 Akt
+printed: 1827
+comments:
+  - Laut Goedeke (Band III/2, [S. 920](https://books.google.com/books?id=LgY-AQAAIAAJ&pg=PA920)) enthalten in [»Lesefrüchte 1827. I, 5, 65–79«](https://books.google.com/books?id=LMhGAAAAcAAJ&pg=PA65); dort scheint es aber nicht zu sein.
 ---
 id: ein001123
 slug: juergensen-warum
@@ -64427,6 +64472,44 @@ cast:
 settings:
   - description: >-
       Die Scene ist ein Grabmahl, in dessen Vertiefung zwey Särge, der eine verdeckt, der andere offen; von einer aus der Mitte des Gewölbes herabhangenden Lampe nur kaum erleuchtet.
+---
+id: ein002516
+slug: lessing-fatime
+author:
+  name: Lessing, Gotthold Ephraim
+  wikidata: Q34628
+title: Fatime
+subtitle: "Ein Trauerspiel [in einem Akt]"
+created: 1759-08-05
+printed: 1786
+formalia:
+  - Prosa
+  - Blankvers
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 19, S. 259
+editions:
+  - title: "Gotthold Ephraim Leßings Theatralischer Nachlaß. Zweyter Theil. Berlin: Voß 1786, S. 1–18"
+    url: https://books.google.com/books?id=-c06AAAAcAAJ&pg=PA1
+  - title: "Gotthold Ephraim Lessings sämmtliche Schriften. Zwei und zwanzigster Theil. Berlin: Voss 1794, S. 135–150"
+    url: https://books.google.com/books?id=1Vhu5iincM8C&pg=PA135
+  - title: "Vierundfunfzig zum Theil noch ungedruckte Dramatische Entwürfe und Pläne Gotthold Ephraim Lessing's. Herausgegeben von Robert Boxberger. Berlin: Hempel 1876, S. 636–644"
+    url: https://books.google.com/books?id=96Sq5Mjtnj8C&pg=PA636
+comments:
+  - "Einakterhinweis u.a. bei Goedeke, Band IV/1, [S. 379](https://books.google.com/books?id=Cn2dCgAAQBAJ&pg=PA379)."
+keywords:
+  - Fragment
+ids:
+  wikidata: Q121499527
+cast:
+  - name: Abdallah.
+    gender: m
+  - name: Fatime.
+    gender: f
+  - name: Ibrahim.
+    gender: m
+  - name: Sklave.
+    gender: m
 ---
 id: ein001452
 slug: lessing-ohne-harleckin
@@ -94669,6 +94752,17 @@ cast:
 settings:
   - description: >-
       Freie Gegend am Ende einer Vorstadt. Links ein Haus, vor demselben ein großer Baum, unter welchem ein Tisch und eine Bank steht.
+---
+id: ein002520
+slug: vogel-der-alte-prognostiker-oder-hab-ichs-nicht-vorher-gesagt
+author:
+  name: Vogel, Wilhelm
+  wikidata: Q61971934
+title: "Der alte Prognostiker, oder Hab' ich's nicht vorher gesagt?"
+subtitle: Posse in 1 Akt
+premiered: 1832-06-10
+reviews:
+  - "Der Wanderer. Nro. 188 (Freitag, den 6. Juli 1832), [ohne Pag.](https://books.google.com/books?id=oGxMAAAAcAAJ&pg=RA7-PP2)"
 ---
 id: ein002142
 slug: vogel-der-hut
