@@ -1375,6 +1375,17 @@
     },
     "gender": "male"
   },
+  "Q55905552": {
+    "name": "Johann Gottlob Ludwig Karl Dielitz",
+    "gnd": "102512809",
+    "birth": {
+      "date": "1781-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1845-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q94814780": {
     "name": "Johann Christian Friedrich Dietz",
     "gnd": "116116498",
@@ -4293,7 +4304,9 @@
     "name": "Karl August von Lichtenstein",
     "gnd": "11698595X",
     "birth": {
-      "date": "1767-09-08T00:00:00Z"
+      "date": "1767-09-08T00:00:00Z",
+      "place": "Lahm",
+      "placeId": "http://www.wikidata.org/entity/Q20851071"
     },
     "death": {
       "date": "1845-09-10T00:00:00Z",
