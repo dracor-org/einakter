@@ -86300,6 +86300,9 @@ reviews:
 ids:
   dracor: ger000621
   wikidata: Q118871504
+keywords:
+  - Eheanbahnung
+  - Theaterbetrieb
 cast:
   - name: Graf von Klockenberg.
     gender: m
@@ -98846,6 +98849,30 @@ settings:
   - description: >-
       Ein kleines Zimmer, nicht prächtig, aber geschmackvoll meublirt.
 ---
+id: ein002546
+slug: waldhecker-toeffel-und-grete
+author:
+  name: Waldhecker, August
+title: Töffel und Grete
+subtitle: Tragödie in einem Aufzug
+numberOfScenes: 1
+printed: 1838
+formalia:
+  - Verse
+editions:
+  - title: "Werdelust des Hallischen Dichterbundes. Halle: Anton 1838, S. 102"
+    url: https://books.google.com/books?id=VgUQAAAAYAAJ&pg=PA102
+comments:
+  - "Bisher kürzester Einakter in unserer Sammlung, nur eine Seite bzw. 10 Verse lang."
+cast:
+  - name: Grete.
+    gender: f
+  - name: Töffel
+    gender: m
+settings:
+  - description: >-
+      Freie Gegend; im Hintergrund erblickt man ein Wirthshaus. Töffel und Grete auf einer Rosenbank liebkosen einander.
+---
 id: ein002228
 slug: waldon-die-sclaven
 author:
@@ -100182,6 +100209,8 @@ dictionaries:
 editions:
   - title: "Wien: Oehler 1792"
     url: https://books.google.com/books?id=mzBJAAAAcAAJ&printsec=frontcover
+keywords:
+  - Eheanbahnung
 ids:
   wikidata: Q121608739
 cast:
