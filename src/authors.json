@@ -5229,6 +5229,30 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q116424445": {
+    "name": "Bernhard Neustädt",
+    "gnd": "101453930",
+    "birth": {
+      "date": "1796-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1858-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
+  "Q94888514": {
+    "name": "Anton Niemeyer",
+    "gnd": "117002410",
+    "birth": {
+      "date": "1783-01-01T00:00:00Z",
+      "place": "Halle (Saale)",
+      "placeId": "http://www.wikidata.org/entity/Q2814"
+    },
+    "death": {
+      "date": "1815-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q19596824": {
     "name": "Vincent Otto Nolte",
     "gnd": "117053686",
@@ -7306,6 +7330,21 @@
       "date": "1847-12-30T00:00:00Z",
       "place": "Bug",
       "placeId": "http://www.wikidata.org/entity/Q1002175"
+    },
+    "gender": "male"
+  },
+  "Q19311712": {
+    "name": "Wilhelm Stich",
+    "gnd": "135674190",
+    "birth": {
+      "date": "1794-01-01T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "death": {
+      "date": "1824-10-03T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
     },
     "gender": "male"
   },

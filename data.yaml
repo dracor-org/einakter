@@ -470,6 +470,7 @@ editions:
   - title: "Dramatische Blüthen in Mittheilungen deutscher Dichter. 5. Bdch. Braunschweig: Busse 1834"
 reviews:
   - "Blätter für literarische Unterhaltung. Nr. 243 (Montag, 31. August 1835), [S. 1002](https://books.google.com/books?id=kRhBAQAAMAAJ&pg=PA1002)."
+  - "Repertorium der gesammten deutschen Literatur. Vierter Band. Leipzig: Brockhaus 1835, [S. 301–302](https://books.google.com/books?id=2dNGAAAAcAAJ&pg=PA301)."
 cast:
   - name: Paulmann,
     role: Justizamtmann.
@@ -2767,6 +2768,20 @@ cast:
     gender: m
 settings:
   - description: Der Schauplatz ist in einem alten Schlosse.
+---
+id: ein002545
+slug: anonym-antar
+author:
+  name: L., G. v.
+  pseudonym: Anonym
+title: Antar
+subtitle: Drama in 1 Aufzug
+premiered: 1827-09-17
+reviews:
+  - "Der Berliner Courier, ein Morgenblatt für Theater, Mode, Eleganz, Stadtleben und Localität. No. 192 (Dienstag, den 18. September 1827), [S. 1](https://books.google.com/books?id=LE-TSanihScC&pg=RA43-PA5)."
+  - "Der Berliner Courier, ein Morgenblatt für Theater, Mode, Eleganz, Stadtleben und Localität. No. 198 (Dienstag, den 25. September 1827), [S. 1–2](https://books.google.com/books?id=LE-TSanihScC&pg=RA48-PA1)."
+comments:
+  - "Autorschaft (›G. v. L.‹) bislang nicht geklärt, siehe dazu im Berliner Courier, No. 198, [S. 2](https://books.google.com/books?id=LE-TSanihScC&pg=RA48-PA2)."
 ---
 id: ein000060
 slug: anonym-auch-weiber-tragen-sporn
@@ -12020,6 +12035,16 @@ settings:
   - description: Der Schauplatz ist bey einem Buchladen in Paris.
     location:
       wikidataId: Q90
+---
+id: ein002541
+slug: anonym-die-zufriedenen
+author:
+  name: Anonym
+title: Die Zufriedenen
+subtitle: Fastnachtsposse in einem Akt
+printed: 1822
+editions:
+  - title: "Köln: Tonger 1822"
 ---
 id: ein000270
 slug: anonym-die-zurueckkehrende-zaertlichkeit-oder-die-wahrheit-in-der-verstellung
@@ -33766,6 +33791,17 @@ settings:
   - description: >-
       Ein Zimmer mit einer gewöhnlichen Thür und einer versteckten Tapetenthür.
 ---
+id: ein002543
+slug: frohberg-der-page-und-das-pasquill
+author:
+  name: Friedländer, Rebecca
+  pseudonym: Regina Frohberg
+  wikidata: Q1297391
+title: Der Page und das Pasquill
+subtitle: Schauspiel in 1 A.
+comments:
+  - "Laut Goedeke, Band X, [S. 215](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungBd.101913/page/n225/mode/2up), handelt es sich um eine Handschrift in der Mannheimer Theaterbibl., versehen mit der Signatur M 496."
+---
 id: ein000753
 slug: frohberg-rosalie-oder-sie-besinnt-sich-anders
 author:
@@ -35225,6 +35261,49 @@ settings:
       Die Handlung geht in einer Wienervorstadt in Krafts eigenem Hause vor.
     location:
       wikidataId: Q1741
+---
+id: ein002539
+slug: gewey-der-todtenansager-seiner-selbst
+author:
+  name: Gewey, Franz Xaver Karl
+  wikidata: Q87933
+title: Der Todtenansager seiner selbst
+subtitle: Posse in 1 Akt, nach d. Franz. d. Martainville
+premiered: 1807-07-08
+basedOn:
+  - martainville-le-suicide-de-falaise
+reviews:
+  - "Wiener-Moden-Zeitung und Zeitschrift für Kunst, schöne Literatur und Theater. Nr. 35 (Mittwoche, den 30. April 1817), [S. 288](https://books.google.com/books?id=5E1HAAAAcAAJ&pg=PA287-IA1)."
+  - "Zeitung für die elegante Welt. Nr. 62 (Sonnabends, den 27. März 1819), [Sp. 495](https://books.google.com/books?id=IbAo2cHTDjQC&pg=PA495)."
+comments:
+  - "Laut Goedeke, Band XI/2, [S. 103](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungAusDenQuellen-2-11-2/page/102/mode/2up), ungedruckt."
+---
+id: ein002544
+slug: gewey-der-vetter-von-mistelbach-oder-er-ist-nicht-so-dumm-als-er-aussieht
+author:
+  name: Gewey, Franz Xaver Karl
+  wikidata: Q87933
+title: "Der Vetter von Mistelbach, oder: Er ist nicht so dumm als er aussieht"
+subtitle: Lokal Posse in 1 Akt, nach e. franz. Idee
+premiered: 1814-08-27
+comments:
+  - "Vgl. Goedeke, Band XI/2, [S. 103](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungAusDenQuellen-2-11-2/page/102/mode/2up)."
+---
+id: ein002538
+slug: gewey-die-vergrabene-kiste
+author:
+  name: Gewey, Franz Xaver Karl
+  wikidata: Q87933
+title: Die vergrabene Kiste
+subtitle: Dramatische Anekdote in 1 Akt u. in Versen
+premiered: 1813-02-15
+reviews:
+  - "Der Sammler. Nr. 29 (Samstag, den 20. Februar 1813), [S. 116](https://books.google.com/books?id=_rxaAAAAcAAJ&pg=PA116)."
+  - "Morgenblatt für gebildete Stände. Nro. 62 (Sonnabend, 13. März, 1813), [S. 248](https://books.google.com/books?id=PmldAAAAcAAJ&pg=PA248)."
+comments:
+  - "Laut Goedeke, Band XI/2, [S. 103](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungAusDenQuellen-2-11-2/page/102/mode/2up), ungedruckt."
+keywords:
+  - Eheanbahnung
 ---
 id: ein000785
 slug: geyer-die-neue-delila
@@ -49861,6 +49940,17 @@ cast:
   - name: Fischer.
     gender: m
 ---
+id: ein002542
+slug: jann-der-zu-nachsichtige-kostherr
+author:
+  name: Jann, Franz Xaver
+  wikidata: Q55676541
+title: Der zu nachsichtige Kostherr
+subtitle: Ein Lustspiel in einem Aufzuge
+printed: 1800
+editions:
+  - title: "Etwas wider die Mode. Schauspiele und Gedichte ohne Caressen, und Heurathen; für die studirende Jugend. Herausgegeben von Franz Xaver Jann. Fünfter Theil. Augsburg: Wolff 1800, S. 292–349"
+---
 id: ein001111
 slug: jann-die-rekrutenaushebung
 author:
@@ -49870,7 +49960,7 @@ title: Die Rekrutenaushebung
 subtitle: Eine bürgerliche Handlung in einem Aufzuge
 printed: 1800
 editions:
-  - title: "Etwas wider die Mode. Schauspiele und Gedichte ohne Caressen, und Heurathen; für studirende Jugend. Herausgegeben von Franz Xaver Jann. Fünfter Theil. Augsburg: Wolff 1800, S. 234–291"
+  - title: "Etwas wider die Mode. Schauspiele und Gedichte ohne Caressen, und Heurathen; für die studirende Jugend. Herausgegeben von Franz Xaver Jann. Fünfter Theil. Augsburg: Wolff 1800, S. 234–291"
     url: https://books.google.com/books?id=HpnomqrhNREC&pg=RA1-PT17
 comments:
   - Scan nicht vollständig, bricht nach Personenverzeichnis ab.
@@ -65052,6 +65142,20 @@ settings:
     location:
       wikidataId: Q200441
 ---
+id: ein002540
+slug: lichtenstein-der-nachbar
+author:
+  name: Lichtenstein, Karl August von
+  wikidata: Q126021
+title: Der Nachbar
+subtitle: Lustspiel in 1 Akt. Nach Desaugier
+premiered: 1827-01-23
+basedOn:
+  - desaugiers-gersin-de-lurieu-le-voisin
+comments:
+  - "Titel und Aufführung nachgewiesen in: Almanach für Freunde der Schauspielkunst auf das Jahr 1848. Begründet von L. Wolff; fortgesetzt von A. Heinrich. Zwölfter Jahrgang. Berlin: Selbstverlag des Herausgebers 1848, [S. 94](https://books.google.com/books?id=5OsLAQAAMAAJ&pg=PA94)."
+  - "Offenbar als [Nr. 41](https://books.google.com/books?id=elBcAAAAcAAJ&pg=PA136-IA2) in »Both's Bühnen-Repertoir« gedruckt, bisher aber nicht gefunden."
+---
 id: ein002525
 slug: lichtenstein-der-vormund
 author:
@@ -72278,6 +72382,164 @@ cast:
 settings:
   - description: >-
       Die Handlung geht teils im Lager des Holofernes, teils in Bethulien vor.
+---
+id: ein002533
+slug: neustaedt-der-kampf-der-gondoliere-in-venedig
+author:
+  name: Neustädt, Bernhard
+  wikidata: Q116424445
+title: Der Kampf der Gondoliere in Venedig. Nach Cooper für die Bühne bearbeitet
+subtitle: Vorspiel in einem Aufzuge
+numberOfScenes: 5
+printed: 1836
+editions:
+  - title: "Schauspiele von Bernhard Neustädt. Erster Theil. Breslau: Leuckart 1836"
+comments:
+  - "Das Vorspiel gehört zu »Der Bravo. Schauspiel in fünf Aufzügen«."
+cast:
+  - name: Der Doge von Venedig.
+    gender: m
+  - name: Don Soranzo Gradnigo,
+    role: Senator und Mitglied des Raths der Drei.
+    gender: m
+  - name: Enriko,
+    role: Befehlshaber der Leibwache.
+    gender: m
+  - name: Jacopo.
+    gender: m
+  - name: Antonio Vecchio,
+    role: ein Fischer.
+    gender: m
+  - name: Hosea,
+    role: ein Jude.
+    gender: m
+  - name: Rebecka,
+    role: seine Tochter.
+    gender: f
+  - group:
+      - name: Zibo,
+        gender: m
+      - name: Matteo,
+        gender: m
+      - name: Franzesko,
+        gender: m
+    role: Fischer.
+  - name: Der Herold der Republik.
+    gender: m
+  - name: Der Rath der Zehn.
+    isGroup: true
+    gender: m
+  - name: Senatoren.
+    isGroup: true
+    gender: m
+  - name: Zwei Pagen.
+    isGroup: true
+    gender: m
+  - name: Fischermädchen.
+    isGroup: true
+    gender: f
+  - name: Hellebardierer.
+    isGroup: true
+    gender: m
+  - name: Das Musikchor der Dalmatier.
+    isGroup: true
+    gender: u
+  - name: Die Leibwache des Dogen.
+    isGroup: true
+    gender: m
+  - name: Fischer.
+    isGroup: true
+    gender: m
+  - name: Gondoliere.
+    isGroup: true
+    gender: m
+  - name: Bürger und Bürgerinnen.
+    isGroup: true
+    gender: u
+  - name: Landleute.
+    isGroup: true
+    gender: u
+---
+id: ein002534
+slug: neustaedt-karls-xii-tod
+author:
+  name: Neustädt, Bernhard
+  wikidata: Q116424445
+title: Karls XII. Tod
+subtitle: Vorspiel in 1 Aufz.
+printed: 1831
+editions:
+  - title: "Dramatische Blüthen in Mittheilungen deutscher Dichter. 4. Bdch. Braunschweig: Busse 1834"
+comments:
+  - "Vgl. Goedeke, Band X, [S. 170](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungBd.101913/page/n181/mode/2up)."
+  - "»Nach v. d. Velde für die Bühne bearb. [Als Manuscr. zum Druck befördert von L. v. Alvensleben. Leipz., 1831. gr. 16.]« (Schlesisches Schriftsteller-Lexikon. Drittes Heft. Breslau: Korn 1838, [S. 101](https://books.google.com/books?id=rrg_AAAAYAAJ&pg=PA101))"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 243 (Montag, 31. August 1835), [S. 1002](https://books.google.com/books?id=kRhBAQAAMAAJ&pg=PA1002)."
+  - "Repertorium der gesammten deutschen Literatur. Vierter Band. Leipzig: Brockhaus 1835, [S. 301–302](https://books.google.com/books?id=2dNGAAAAcAAJ&pg=PA301)."
+---
+id: ein002536
+slug: niemeyer-der-erste-sieg
+author:
+  name: Niemeyer, Anton
+  wikidata: Q94888514
+title: Der erste Sieg
+subtitle: Ein Vorspiel in einem Aufzuge
+numberOfScenes: 6
+printed: 1815
+editions:
+  - title: "Cassel: Aubel 1815"
+cast:
+  - name: Der Pfarrer.
+    gender: m
+  - name: Der Schulmeister.
+    gender: m
+  - name: Christian,
+    role: dessen Sohn.
+    gender: m
+  - name: Der Grebe.
+    gender: m
+  - name: Lieschen,
+    role: seine Tochter.
+    gender: f
+  - name: Der Bote aus Cassel.
+    gender: m
+  - name: Landsturmmänner.
+    isGroup: true
+    gender: m
+  - name: Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+---
+id: ein002535
+slug: niemeyer-die-betrogenen
+author:
+  name: Niemeyer, Anton
+  wikidata: Q94888514
+title: Die Betrogenen
+subtitle: Lustspiel in einem Aufzuge nach dem Französischen
+numberOfScenes: 22
+printed: 1808
+formalia:
+  - Prosa
+editions:
+  - title: "Köthen: Aue 1808"
+reviews:
+  - "Allgemeine Literatur-Zeitung. Num. 65 (Mittwochs, den 6. März 1811), [Sp. 520](https://books.google.com/books?id=W5UKAAAAYAAJ&pg=PA519)."
+cast:
+  - name: Hofrath Wetter.
+    gender: m
+  - name: Hofräthin Wetter,
+    role: seine Frau.
+    gender: f
+  - name: Luise Kuhn,
+    role: sein Mündel.
+    gender: f
+  - name: Eduard Lohbeck,
+    role: sein Neffe.
+    gender: m
+  - name: Pfiff,
+    role: dessen Bedienter.
+    gender: m
 ---
 id: ein001626
 slug: nolte-die-erbschaft
@@ -91259,6 +91521,28 @@ cast:
 settings:
   - description: >-
       Die Handlung ist vom I. bis VII. Auftritt in Johannes Zimmer, vom VIII. bis XX. vor Johannes Hause auf der Strasse, und vom XXI. bis zum Schluß in Schmul Rindskopfs Wohnung.
+---
+id: ein002537
+slug: stich-die-erbin
+author:
+  name: Stich, Wilhelm
+  wikidata: Q19311712
+title: Die Erbin
+subtitle: Lustspiel in 1 Aufzug nach dem Franz. l'Hèritiére, des Scribe und G. Delavigne
+premiered: 1826-04-08
+basedOn:
+  - scribe-delavigne-l-heritiere
+cast:
+  - name: Leontine von Mirbach,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Herr von Steinberg.
+    gender: m
+  - name: Gustav,
+    role: dessen Neffe.
+    gender: m
+  - name: Johann.
+    gender: m
 ---
 id: ein002058
 slug: stoll-amors-bild
