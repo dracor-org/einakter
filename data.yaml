@@ -8397,6 +8397,43 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 37
 ---
+id: ein002547
+slug: anonym-die-deutsche-einheit
+author:
+  pseudonym: Anonym
+title: Die deutsche Einheit
+subtitle: Trauerspiel in einem Aufzug
+numberOfScenes: 1
+printed: 1848
+formalia:
+  - Prosa
+editions:
+  - title: "Leuchtkugeln. Randzeichnungen zur Geschichte der Gegenwart. Erster Band, Nro. 23. München: Roller 1848, S. 177–178"
+    url: https://doi.org/10.11588/diglit.12999#0187
+comments:
+  - "Beitrag in der Münchner Satirezeitschrift [»Leuchtkugeln«](https://de.wikipedia.org/wiki/Leuchtkugeln)."
+cast:
+  - name: Ein Oesterreicher.
+    gender: m
+  - name: Ein Preuße.
+    gender: m
+  - name: Ein Bayer.
+    gender: m
+  - name: Ein König.
+    gender: m
+  - name: Ein constitutioneller Staatsbürger.
+    gender: m
+  - name: Ein Proletarier.
+    gender: m
+  - name: Ein Republikaner.
+    gender: m
+  - name: Polizeimannschaft,
+    role: in russischer Uniform.
+    isGroup: true
+    gender: m
+settings:
+  - description: Der Schauplatz ist das deutsche Vaterland.
+---
 id: ein000189
 slug: anonym-die-dreyfache-heyrath
 author:
@@ -75989,6 +76026,36 @@ settings:
   - description: >-
       Die Handlung geht auf des Barons Schlosse in einem unteren Gartengebäude vor. Sie fängt nach der Mittagstafel an, und dauert bis Abends.
 ---
+id: ein002548
+slug: puechler-der-stern-der-hoffnung
+author:
+  name: Püchler, Benedikt von
+  wikidata: Q55903623
+title: Der Stern der Hoffnung
+subtitle: Dramatisches Gelegenheits-Gedicht in einem Act
+numberOfScenes: 3
+printed: 1830
+formalia:
+  - gereimte Jamben
+editions:
+  - title: "Allgemeine Theaterzeitung und Originalblatt für Kunst, Literatur und geselliges Leben. Herausgeber: Adolf Bäuerle. Nr. 101 (Wien, Dinstag den 24. August 1830). [Unpaginierte Beilage]"
+    url: https://books.google.com/books?id=2muKCK59tw8C&pg=PA416-IA1
+comments:
+  - "Erschienen mit der Widmung: »Gedichtet am Tage nach der Geburt des Enkels unsers guten Kaisers Franz und Sohnes Sr. k. k. Hoheit des Erzherzogs Franz Karl und I. k. k. H. der Erzherzoginn Sophie.«"
+cast:
+  - name: Ein Pilger.
+    gender: m
+  - name: Ein Reisender.
+    gender: m
+  - name: Ein Bauer.
+    gender: m
+  - name: Eine Bäuerinn.
+    gender: f
+settings:
+  - description: Die Handlung geht am Fuße des Monuments auf dem Wienerberge, das Spinnenkreuz oder die Spinnerinn am Kreuz genannt, vor.
+    location:
+      wikidataId: Q2569185
+---
 id: ein001701
 slug: pulvermacher-die-macht-des-gewissens
 author:
@@ -98855,6 +98922,7 @@ id: ein002546
 slug: waldhecker-toeffel-und-grete
 author:
   name: Waldhecker, August
+  wikidata: Q122609616
 title: Töffel und Grete
 subtitle: Tragödie in einem Aufzug
 numberOfScenes: 1

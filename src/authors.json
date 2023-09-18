@@ -5705,6 +5705,22 @@
     },
     "gender": "male"
   },
+  "Q55903623": {
+    "name": "Benedikt von Püchler",
+    "gnd": "104211199",
+    "birth": {
+      "date": "1797-03-22T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1842-01-01T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male",
+    "ambiguous": true
+  },
   "Q94887961": {
     "name": "Christian Leopold Julius Pulvermacher",
     "gnd": "1046208098",
@@ -7896,6 +7912,12 @@
   "Q105906479": {
     "name": "Karl Adolph Walder",
     "gnd": "1031172963",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
+  "Q122609616": {
+    "name": "August Waldhecker",
     "birth": {},
     "death": {},
     "gender": "male"
