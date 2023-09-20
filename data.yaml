@@ -458,8 +458,8 @@ author:
   pseudonym: Gustav Sellen
   wikidata: Q1875246
 title: Der dumme Streich
-subtitle: Original-Lustspiel in einem Aufzuge
-numberOfScenes: 12
+subtitle: Originallustspiel in einem Aufzuge
+numberOfScenes: 13
 created: 1832
 printed: 1834
 formalia:
@@ -467,7 +467,7 @@ formalia:
 editions:
   - title: "Manuskript [ca. 1832]"
     url: http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=18171140
-  - title: "Dramatische Blüthen in Mittheilungen deutscher Dichter. 5. Bdch. Braunschweig: Busse 1834"
+  - title: "Dramatische Blüthen in Mittheilungen deutscher Dichter. Fünftes Bändchen. Braunschweig: Busse [1834], S. 1–40"
 reviews:
   - "Blätter für literarische Unterhaltung. Nr. 243 (Montag, 31. August 1835), [S. 1002](https://books.google.com/books?id=kRhBAQAAMAAJ&pg=PA1002)."
   - "Repertorium der gesammten deutschen Literatur. Vierter Band. Leipzig: Brockhaus 1835, [S. 301–302](https://books.google.com/books?id=2dNGAAAAcAAJ&pg=PA301)."
@@ -476,7 +476,7 @@ cast:
     role: Justizamtmann.
     gender: m
   - name: Emilie,
-    role: seine Tochter.
+    role: dessen Tochter.
     gender: f
   - name: Pinsel,
     role: Amtsschreiber.
@@ -494,7 +494,9 @@ cast:
     gender: u
 settings:
   - description: >-
-      Scene: das Guth des Justizamtmanns.
+      Scene: Das Gut des Justizamtmanns.
+  - description: >-
+      Zimmer in Paulmanns Hause, mit einer Hinter- und zwei Seitenthüren.
 ---
 id: ein002508
 slug: anders-der-schwarze-wenzel-oder-die-muehle-im-thale
@@ -72505,16 +72507,59 @@ author:
   name: Neustädt, Bernhard
   wikidata: Q116424445
 title: Karls XII. Tod
-subtitle: Vorspiel in 1 Aufz.
+subtitle: Vorspiel in einem Aufzuge
+numberOfScenes: 12
 printed: 1831
+premiered: 1857-01-27
+formalia:
+  - Prosa
 editions:
-  - title: "Dramatische Blüthen in Mittheilungen deutscher Dichter. 4. Bdch. Braunschweig: Busse 1834"
+  - title: "Dramatische Blüthen in Mittheilungen deutscher Dichter. Viertes Bändchen. Braunschweig: Busse [1834], S. 3–52"
 comments:
   - "Vgl. Goedeke, Band X, [S. 170](https://archive.org/details/GrundrissZurGeschichteDerDeutschenDichtungBd.101913/page/n181/mode/2up)."
   - "»Nach v. d. Velde für die Bühne bearb. [Als Manuscr. zum Druck befördert von L. v. Alvensleben. Leipz., 1831. gr. 16.]« (Schlesisches Schriftsteller-Lexikon. Drittes Heft. Breslau: Korn 1838, [S. 101](https://books.google.com/books?id=rrg_AAAAYAAJ&pg=PA101))"
+  - "Theaterzettel: [Nürnberg 1857](https://books.google.com/books?id=i_FDAAAAcAAJ&pg=RA9-PP1)."
 reviews:
   - "Blätter für literarische Unterhaltung. Nr. 243 (Montag, 31. August 1835), [S. 1002](https://books.google.com/books?id=kRhBAQAAMAAJ&pg=PA1002)."
   - "Repertorium der gesammten deutschen Literatur. Vierter Band. Leipzig: Brockhaus 1835, [S. 301–302](https://books.google.com/books?id=2dNGAAAAcAAJ&pg=PA301)."
+cast:
+  - name: Karl XII,
+    role: König von Schweden.
+    gender: m
+  - name: Prinz Friedrich von Hessen-Cassel,
+    role: des Königs Schwager.
+    gender: m
+  - name: Kanzler Müller.
+    gender: m
+  - name: General Dücker.
+    gender: m
+  - name: Obrist Megret.
+    gender: m
+  - name: Generaladjutant Siquier.
+    gender: m
+  - name: Adjutant Kolbert.
+    gender: m
+  - name: Gardehauptmann Posse.
+    gender: m
+  - name: Arwed Gyllenstierna.
+    gender: m
+  - name: Alma,
+    role: eine Zigeunerinn.
+    gender: f
+  - name: Knud,
+    role: ein norwegischer Bauer.
+    gender: m
+  - name: Dohmsky,
+    role: ein schwedischer Soldat.
+    gender: m
+  - name: Schwedische Offiziere und Soldaten.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Die Handlung geht im Zelte des Königs und in den Laufgräben vor Friedrichshall vor. Zeit: der 11te Decbr. 1718.
+    location:
+      wikidataId: Q1408884
 ---
 id: ein002536
 slug: niemeyer-der-erste-sieg
