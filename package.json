@@ -16,7 +16,7 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
-    "@types/jest": "^27.0.1",
+    "@types/jest": "^29.5.5",
     "@types/leaflet": "^1.5.23",
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
@@ -80,6 +80,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "jest": {
+    "transformIgnorePatterns": ["node_modules\/(?!axios)"]
   },
   "devDependencies": {
     "@babel/core": "^7.19.1",
