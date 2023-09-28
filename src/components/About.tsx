@@ -1,9 +1,7 @@
-import React, {lazy, Suspense} from 'react';
-import {Helmet} from 'react-helmet';
-import {Trans, t} from '@lingui/macro';
-import {importMDX} from 'mdx.macro';
-
-const Content = lazy(() => importMDX('../about.mdx'));
+import React from 'react';
+import {Helmet} from 'react-helmet-async';
+import {t} from '@lingui/macro';
+import Content from '../about.mdx';
 
 export default function About () {
   return (
@@ -11,9 +9,7 @@ export default function About () {
       <Helmet>
         <title>Einakter: {t`About`}</title>
       </Helmet>
-      <Suspense fallback={<div><Trans>Loading...</Trans></div>}>
-        <Content/>
-      </Suspense>
+      <Content/>
     </div>
   );
 }
