@@ -44,7 +44,7 @@ const language = detect(
 
 i18n.activate(language);
 
-export const locales = ['en', 'de', 'es', 'fr', 'ja', 'ko', 'ru', 'zh'];
+export const locales = ['en', 'de', 'es', 'fr', 'ja', 'ko', 'ru', 'zh', 'tok'];
 
 export function setLocale (locale: string) {
   i18n.activate(locale);
