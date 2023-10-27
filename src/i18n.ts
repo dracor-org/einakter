@@ -9,6 +9,7 @@ import { messages as jaMessages } from './locales/ja/messages';
 import { messages as koMessages } from './locales/ko/messages';
 import { messages as ruMessages } from './locales/ru/messages';
 import { messages as zhMessages } from './locales/zh/messages';
+import { messages as tokMessages } from './locales/jbo-tok/messages'
 
 const storageKey = 'uiLanguage';
 
@@ -21,6 +22,7 @@ i18n.loadLocaleData({
   ko: { plurals: ko },
   ru: { plurals: ru },
   zh: { plurals: zh },
+  tok: { plurals: zh },
 });
 
 i18n.load({
@@ -32,6 +34,7 @@ i18n.load({
   ko: koMessages,
   ru: ruMessages,
   zh: zhMessages,
+  tok: tokMessages,
 });
 
 const language = detect(
@@ -41,7 +44,7 @@ const language = detect(
 
 i18n.activate(language);
 
-export const locales = ['en', 'de', 'es', 'fr', 'ja', 'ko', 'ru', 'zh'];
+export const locales = ['en', 'de', 'es', 'fr', 'ja', 'ko', 'ru', 'zh', 'tok'];
 
 export function setLocale (locale: string) {
   i18n.activate(locale);
