@@ -22134,6 +22134,39 @@ settings:
   - description: >-
       Bauerstube. Man sieht Placats an der Thüre hängen. Posthörner, Geigen, Barbierbecken, Lottotabellen, u.d.gl. hängen an der Wand. – Im Hintergrunde eine Hobelbank, und eine Schusterwerkstelle; vorn an der einen Seite ein langer Wirthshaustisch; gegen über ein Schreibpult und ein Spinnrad.
 ---
+id: ein002550
+slug: broemel-der-tabuletkraemer
+author:
+  name: Brömel, Wilhelm Heinrich
+  wikidata: Q55136131
+title: Der Tabuletkrämer
+subtitle: Ein Lustspiel in einem Aufzuge
+premiered: 1797
+comments:
+  - "Theaterzettel: [Dresden 1797](https://books.google.com/books?id=gKHp1jxaJDIC&pg=PA333), [Hamburg 1798](https://www.stadttheater.uni-hamburg.de/system/files/1798-05-22.pdf)."
+reviews:
+  - "Chronik der Frankfurter National-Bühne vom Jahr 1798. Nebst Anhang. Frankfurt am Main: Brönner [1798], [S. 23](https://books.google.com/books?id=iIeDx_HJ_QoC&pg=PA23)."
+  - "Raisonirendes Journal vom deutschen Theater zu Hamburg. Dreyzehntes Stük (Sonnabends, den 27sten December 1800), [S. 193–194](https://de.wikisource.org/wiki/Raisonirendes_Journal_vom_deutschen_Theater_zu_Hamburg_(1.%E2%80%9313._St%C3%BCck)#Seite_193)."
+cast:
+  - name: Die Gräfin.
+    gender: f
+  - name: Die Baronesse.
+    gender: f
+  - name: Ein Tabuletkrämer.
+    gender: m
+  - name: Der Haushofmeister.
+    gender: m
+  - name: Suschen,
+    role: Kammermädchen.
+    gender: f
+  - name: Ein Bedienter der Gräfin.
+    gender: m
+  - name: Ein Bedienter der Baronesse.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung ist im gräflichen Lustschlosse.
+---
 id: ein000486
 slug: broemel-die-verlobung
 author:
@@ -31619,6 +31652,7 @@ keywords:
   - Kindertheater
 reviews:
   - "Frankfurter gelehrte Anzeigen. Nro. L. (Den 23. Jun. 1775), [S. 423–425](https://digitale.bibliothek.uni-halle.de/vd18p/periodical/pageview/11135722)."
+  - "Raisonirendes Journal vom deutschen Theater zu Hamburg. Viertes Stük (Sonnabends, den 25ten October 1800), [S. 59–61](https://de.wikisource.org/wiki/Raisonirendes_Journal_vom_deutschen_Theater_zu_Hamburg_(1.%E2%80%9313._St%C3%BCck)#Seite_59)."
 cast:
   - name: Der Fürst von ***,
     role: in Jagdkleidern.
@@ -39113,6 +39147,7 @@ editions:
 comments:
   - "Einakterhinweis »Lustspiel in einem Aufzuge« auf Theaterzetteln: [Hamburg 1799/1812](https://www.stadttheater.uni-hamburg.de/node/12017), [Weimar 1800](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00049901/001797.tif)."
 reviews:
+  - "Raisonirendes Journal vom deutschen Theater zu Hamburg. Siebentes Stük (Sonnabends, den 15ten November 1800), [S. 101–104](https://de.wikisource.org/wiki/Raisonirendes_Journal_vom_deutschen_Theater_zu_Hamburg_(1.%E2%80%9313._St%C3%BCck)#Seite_101)."
   - "Nachtrag zu den im zweyten Bande der Gemeinnützigen Unterhaltungen vom vorigen Jahr aufgezeichneten Bemerkungen über das hiesige Schauspiel. Halberstadt 1802, [S. 32](https://books.google.com/books?id=tVBB9p0a2SQC&pg=PA32)."
 cast:
   - name: Kühnow,
@@ -54637,6 +54672,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Sechster Jahrgang. Leipzig: Kummer 1808, S. 1–71"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044920_00009.html
+  - title: "Theater von August v. Kotzebue. Ein und zwanzigster Band. Wien: Lechner 1833, S. 153–203"
+    url: https://books.google.com/books?id=SVRlAAAAcAAJ&pg=PA153
 ids:
   weber: A020626
   wikidata: Q110889067
@@ -76347,6 +76384,46 @@ settings:
   - description: >-
       Die Scene ist ein Grabmahl, in dessen Vertiefung zwey Särge; der eine verdeckt, der andere offen; von einer aus der Mitte des Gewölbes herabhangenden Lampe nur kaum erleuchtet.
 ---
+id: ein002549
+slug: rambach-der-scheintodte
+author:
+  name: Rambach, Friedrich Eberhard
+  wikidata: Q100583
+title: Der Scheintodte
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem Französischen des Andrieux
+premiered: 1799-08-15
+basedOn:
+  - andrieux-les-etourdis-ou-le-mort-suppose
+comments:
+  - "Theaterzettel: [Hamburg 1799](https://www.stadttheater.uni-hamburg.de/system/files/1799-08-15.pdf)."
+reviews:
+  - "Raisonirendes Journal vom deutschen Theater zu Hamburg. Zwölftes Stük (Sonnabends, den 20sten December 1800), [S. 182–187](https://de.wikisource.org/wiki/Raisonirendes_Journal_vom_deutschen_Theater_zu_Hamburg_(1.%E2%80%9313._St%C3%BCck)#Seite_182)."
+cast:
+  - name: Onkel Derfelden.
+    gender: m
+  - name: Henriette,
+    role: seine Tochter.
+    gender: f
+  - name: Derfelden,
+    role: sein Neffe, Student.
+    gender: m
+  - name: Holmer,
+    role: Student.
+    gender: m
+  - name: Kanter,
+    role: ein Jude.
+    gender: m
+  - name: Zeter,
+    role: ein Wucherer.
+    gender: m
+  - name: Die Wirthin.
+    gender: f
+  - name: Franz,
+    role: des jungen Derfelden Bedienter.
+    gender: m
+  - name: Ein Aufwärter.
+    gender: m
+---
 id: ein001707
 slug: rambach-die-brueder
 author:
@@ -84689,6 +84766,50 @@ settings:
   - description: >-
       Scene: Garten. Linker Hand im zweiten Flügel ein Haus im modernen Geschmack, mit einer Glocke zum Anläuten versehen. Rechts ein Tisch und eine Rasenbank.
 ---
+id: ein002551
+slug: schmieder-das-familien-abendessen
+author:
+  name: Schmieder, Heinrich Gottlieb
+  wikidata: Q30235471
+title: Das Familien-Abendessen
+subtitle: Ein häusliches Sittengemählde in einem Aufzuge, nach dem Französischen frey bearbeitet vom Herrn Doctor Schmieder
+premiered: 1798-09-04
+basedOn:
+  - pujoulx-le-rendez-vous-suppose-ou-le-souper-de-famille
+comments:
+  - "Theaterzettel: [Hamburg 1798](https://www.stadttheater.uni-hamburg.de/system/files/1798-09-04.pdf)."
+reviews:
+  - "Anhang zum raisonirenden Journal vom deutschen Theater zu Hamburg auf die Monate October, November, December 1800 (Mittewochs, den 31. December 1800), [S. 4](https://de.wikisource.org/wiki/Anhang_zum_raisonirenden_Journal_vom_deutschen_Theater_zu_Hamburg_auf_die_Monate_October,_November,_December_1800#Seite_4)."
+cast:
+  - name: Baron Felsen.
+    gender: m
+  - name: Die Baronin,
+    role: seine Gemahlin.
+    gender: f
+  - group:
+      - name: August,
+        gender: m
+      - name: Julie,
+        gender: f
+    role: ihre Kinder.
+  - name: Herr Gutthal,
+    role: der Baronin Vater.
+    gender: m
+  - name: Christine,
+    role: der Baronin Kammermädchen.
+    gender: f
+  - name: Wilhelm,
+    role: ein alter Bedienter des Barons.
+    gender: m
+  - name: George,
+    role: Reitknecht des Barons.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung geschiehet auf einem Landgute, nahe bey Hamburg.
+    location:
+      wikidataId: Q1055
+---
 id: ein001899
 slug: schmieder-der-gutherzige-sohn
 author:
@@ -86863,6 +86984,10 @@ dictionaries:
 editions:
   - title: "Wien: Hartmann 1786"
     url: https://books.google.com/books?id=S9MlvqPfpoAC&printsec=frontcover
+comments:
+  - "Theaterzettel: [Hamburg 1799](https://www.stadttheater.uni-hamburg.de/system/files/1799-08-15.pdf)."
+reviews:
+  - "Raisonirendes Journal vom deutschen Theater zu Hamburg. Funfzehntes Stük (Sonnabends, den 17. Januar 1801), [S. 30](https://de.wikisource.org/wiki/Raisonirendes_Journal_vom_deutschen_Theater_zu_Hamburg_(14.%E2%80%9326._St%C3%BCck)#Seite_30)."
 cast:
   - name: Jakob Blackhead,
     role: ein reisender Engländer.
@@ -87163,6 +87288,8 @@ editions:
 comments:
   - Auch unter den Titeln »Jeder fege vor seiner Thür. Ein dramatisirtes Sprichwort, in einem Aufzuge. Aus dem Französischen« (1805) und »Jeder fege vor seiner Thüre. Lustspiel in einem Aufzug« (1824).
   - "Zur Autorschaft: »Übs. von Schröder und/oder F. L. W. Meyer – oder beiden zusammen.« (Meyer)"
+reviews:
+  - "Raisonirendes Journal vom deutschen Theater zu Hamburg. Sechszehntes Stük (Sonnabends, den 24. Januar 1801), [S. 46–47](https://de.wikisource.org/wiki/Raisonirendes_Journal_vom_deutschen_Theater_zu_Hamburg_(14.%E2%80%9326._St%C3%BCck)#Seite_46)."
 cast:
   - name: Hieronimus Spiz,
     role: Prokurator.
@@ -94389,10 +94516,13 @@ editions:
     url: https://books.google.com/books?id=i2rquT3ZEEgC&printsec=frontcover
   - title: "Deutsche Schaubühne seit Lessing und Schröder bis auf die neueste Zeit. Neuntes Bändchen. Wien: Schade 1825, S. 79–120"
     url: https://books.google.com/books?id=MCpMUvCcTXAC&pg=PA79
+reviews:
+  - "Raisonirendes Journal vom deutschen Theater zu Hamburg. Achtzehntes Stük (Sonnabends, den 7. Februar 1801), [S. 67–73](https://de.wikisource.org/wiki/Raisonirendes_Journal_vom_deutschen_Theater_zu_Hamburg_(14.%E2%80%9326._St%C3%BCck)#Seite_67)."
 comments:
   - Dritte Fortsetzung des Einakters [»Die beiden Billets«](heyne-die-beiden-billets) (Heyne 1783), nach den Fortsetzungen [»Der Stammbaum«](heyne-der-stammbaum) (Heyne 1788) und [»Der Bürgergeneral«](goethe-der-buergergeneral) (Goethe 1793).
   - »Das Bauerngut« wurde unter dem Namen Heynes [!] mehrfach aufgeführt.
   - Als Autor wird (wohl fälschlicherweise) mehrfach auch Georg Ludwig Peter Sievers genannt, der unter dem Titel [»Die Schatzgräber. Posse in einem Aufzuge«](sievers-die-schatzgraeber) (1807) ebenso eine Fortsetzung zu »Die beiden Billets« schrieb.
+  - "Theaterzettel: [Hamburg 1800](https://www.stadttheater.uni-hamburg.de/system/files/1800-01-22_2.pdf)."
 ids:
   dracor: ger000554
   wikidata: Q110826897
@@ -95434,11 +95564,16 @@ title: Der Hut
 subtitle: Ein Lustspiel in einem Aufzuge
 numberOfScenes: 15
 printed: 1809
+premiered: 1801-02-10
 formalia:
   - Prosa
+comments:
+  - "Theaterzettel: [Hamburg 1801](https://www.stadttheater.uni-hamburg.de/system/files/1801-02-10.pdf)."
 editions:
   - title: "W. Vogel's Grosherzogl. Badischen Hof-Schauspiel-Direktors Nachspiele für stehende Bühnen und Privattheater. Zweites Bändchen. Frankfurt am Mayn: Simon 1809, S. 149–211"
     url: https://books.google.com/books?id=mSREAQAAMAAJ&pg=PA149
+reviews:
+  - "Raisonirendes Journal vom deutschen Theater zu Hamburg. Neunzehntes Stük (Freytags, den 13. Februar 1801), [S. 93–95](https://de.wikisource.org/wiki/Raisonirendes_Journal_vom_deutschen_Theater_zu_Hamburg_(14.%E2%80%9326._St%C3%BCck)#Seite_93)."
 cast:
   - name: Boll,
     role: ein Wirth.
