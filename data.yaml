@@ -7423,7 +7423,7 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 14, S. 470–471
 editions:
-  - title: "Frankfurt/Leipzig: Monath 1750"
+  - title: "Frankfurt und Leipzig: Monath 1750"
     url: https://books.google.com/books?id=EBtaAAAAcAAJ&printsec=frontcover
 cast:
   - name: Der Doctor Pantalogus.
@@ -87219,6 +87219,41 @@ cast:
 settings:
   - description: >-
       Scene: Saal auf Brunners Landsiz.
+---
+id: ein002552
+slug: schroeder-eine-viertelstunde-vor-tische
+author:
+  name: Schröder, Friedrich Ludwig
+  wikidata: Q213877
+title: Eine Viertelstunde vor Tische
+subtitle: Ein Lustspiel in einem Aufzuge, nach dem Englischen von Schröder
+premiered: 1788-12-10
+basedOn:
+  - rose-a-quarter-of-an-hour-before-dinner-or-quality-binding
+comments:
+  - "Theaterzettel: [Hamburg 1788](https://www.stadttheater.uni-hamburg.de/system/files/1788-12-10.pdf)."
+reviews:
+  - "Annalen des Theaters. Fünftes Heft. Berlin: Maurer 1790, [S. 48](https://books.google.com/books?id=7-hMAAAAcAAJ&pg=RA4-PA48)."
+cast:
+  - name: Blifeld,
+    role: ein Kaufmann.
+    gender: m
+  - name: Madame Blifeld,
+    role: seine Frau.
+    gender: f
+  - name: Oberste Baumburg.
+    gender: m
+  - name: Graf Simp,
+    role: dessen Neffe.
+    gender: m
+  - name: Baron Kromsbach.
+    gender: m
+  - name: Hinrich Wacker,
+    role: ein Kaufmann.
+    gender: m
+  - name: Christian,
+    role: Blifelds Bedienter.
+    gender: m
 ---
 id: ein001954
 slug: schroeder-figaros-reue
