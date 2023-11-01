@@ -55,7 +55,13 @@ export default function Plays () {
         id: 'normalizedYear',
         header: t`Year (normalized)`,
         accessorFn: row => row.normalizedYear?.toString() || '',
-        cell: info => <span>{formatEra(info.row.original.normalizedYear)}</span>
+        cell: ({row: { original: {normalizedYear}}}) => {
+          return (
+            <span>
+              {normalizedYear == null ? t`not available` : formatEra(normalizedYear)}
+            </span>
+          )
+        }
       },
       {
         id: 'numberOfScenes',
