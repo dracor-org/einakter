@@ -15,6 +15,7 @@ const IdCopy = ({id, className = ''}: Props) => {
     <span className={
       `inline-flex bg-white rounded px-1.5 gap-1 align-text-bottom cursor-pointer ${className}`
     }>
+      <img src="/permalink.svg" width="25" alt="Permalink" />
       <CopyToClipboard text={`${prefix}${id}`}>
         <span title="copy to clipboard">
           <span className="pr-1">{id}</span>
