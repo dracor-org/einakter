@@ -13,7 +13,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.3.2\n"
 
-#: src/components/About.tsx:12 src/components/Topnav.tsx:94
+#: src/components/About.tsx:10
+#: src/components/Topnav.tsx:93
 msgid "About"
 msgstr "sona pi pali ni"
 
@@ -21,23 +22,26 @@ msgstr "sona pi pali ni"
 msgid "About the project"
 msgstr "sona pi pali ni"
 
-#: src/components/Originals.tsx:65 src/components/Table.tsx:55
+#: src/components/Originals.tsx:40
+#: src/components/Plays.tsx:30
 msgid "Author"
 msgstr "jan sitelen"
 
-#: src/components/OriginalStatistics.tsx:72 src/components/Statistics.tsx:112
+#: src/components/OriginalStatistics.tsx:73
+#: src/components/Statistics.tsx:113
 msgid "Authors"
 msgstr "jan sitelen"
 
-#: src/components/Details.tsx:272
+#: src/components/Details.tsx:275
 msgid "Based on"
 msgstr "tan pali"
 
-#: src/components/Statistics.tsx:127 src/components/Table.tsx:96
+#: src/components/Plays.tsx:73
+#: src/components/Statistics.tsx:128
 msgid "Characters"
 msgstr "jan"
 
-#: src/components/Details.tsx:87
+#: src/components/Details.tsx:90
 msgid "Comments"
 msgstr "sona ante"
 
@@ -49,23 +53,27 @@ msgstr "toki Seki"
 msgid "Danish"
 msgstr "toki Tansi"
 
-#: src/components/Details.tsx:118 src/components/OriginalDetails.tsx:94
+#~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
+#~ msgstr "Die Datenbank enthält derzeit {0} Einakter mit {numCharacters} Figuren"
+
+#: src/components/Details.tsx:121
+#: src/components/OriginalDetails.tsx:96
 msgid "Dates"
 msgstr "tenpo pana"
 
-#: src/components/Details.tsx:282
+#: src/components/Details.tsx:285
 msgid "Dictionaries"
 msgstr "lon lipu nimi"
 
-#: src/components/Table.tsx:128
+#: src/components/Plays.tsx:105
 msgid "Download CSV"
 msgstr "o kama jo e lipu CSV"
 
-#: src/components/Table.tsx:125
+#: src/components/Plays.tsx:98
 msgid "Download JSON"
 msgstr "o kama jo e lipu JSON"
 
-#: src/components/Details.tsx:181
+#: src/components/Details.tsx:184
 msgid "Dramatis personae"
 msgstr "lipu jan"
 
@@ -77,7 +85,7 @@ msgstr "toki Netelan"
 msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
 msgstr "jan Dîlan Canan Çakir en jan Frank Fischer li pana e ni"
 
-#: src/components/Details.tsx:161
+#: src/components/Details.tsx:164
 msgid "Editions"
 msgstr "kule"
 
@@ -85,7 +93,7 @@ msgstr "kule"
 msgid "English"
 msgstr "toki Inli"
 
-#: src/components/Details.tsx:292
+#: src/components/Details.tsx:295
 msgid "Formalia"
 msgstr "sona selo"
 
@@ -93,7 +101,7 @@ msgstr "sona selo"
 msgid "French"
 msgstr "toki Kanse"
 
-#: src/components/OriginalDetails.tsx:123
+#: src/components/OriginalDetails.tsx:125
 msgid "Full text"
 msgstr "lipu toki ale"
 
@@ -101,23 +109,28 @@ msgstr "lipu toki ale"
 msgid "German"
 msgstr "toki Tosi"
 
-#: src/components/Details.tsx:22
+#: src/components/Details.tsx:23
 msgid "Group"
 msgstr "kulupu"
+
+#~ msgid "Hide"
+#~ msgstr "Verbergen"
 
 #: src/languages.ts:18
 msgid "Italian"
 msgstr "toki Italija"
 
-#: src/components/Details.tsx:306 src/components/Table.tsx:100
+#: src/components/Details.tsx:309
+#: src/components/Plays.tsx:78
 msgid "Keywords"
 msgstr "nimi suli"
 
-#: src/components/OriginalDetails.tsx:62 src/components/Originals.tsx:99
+#: src/components/OriginalDetails.tsx:64
+#: src/components/Originals.tsx:65
 msgid "Language"
 msgstr "toki"
 
-#: src/components/OriginalStatistics.tsx:74
+#: src/components/OriginalStatistics.tsx:75
 msgid "Languages"
 msgstr "toki"
 
@@ -125,39 +138,41 @@ msgstr "toki"
 msgid "Latin"
 msgstr "toki Lasina"
 
-#: src/components/Details.tsx:135 src/components/OriginalDetails.tsx:103
+#: src/components/Details.tsx:138
+#: src/components/OriginalDetails.tsx:105
 msgid "Links"
 msgstr "lon pali ante"
 
 #: src/components/About.tsx:14
-msgid "Loading..."
-msgstr "kama…"
+#~ msgid "Loading..."
+#~ msgstr "kama…"
 
-#: src/components/Details.tsx:256
+#: src/components/Details.tsx:259
 msgid "Location"
 msgstr "ma"
 
-#: src/components/Map.tsx:47 src/components/Topnav.tsx:88
+#: src/components/Map.tsx:47
+#: src/components/Topnav.tsx:87
 msgid "Locations"
 msgstr "ma"
 
-#: src/components/Details.tsx:31
+#: src/components/Details.tsx:32
 msgid "No such play"
 msgstr "pali musi ala li lon"
 
-#: src/components/Details.tsx:127
+#: src/components/Details.tsx:130
 msgid "Number of Scenes"
 msgstr "nanpa pi tenpo musi"
 
-#: src/components/OriginalStatistics.tsx:71
+#: src/components/OriginalStatistics.tsx:72
 msgid "Number of originals"
 msgstr "pali musi pi ante tawa ale"
 
-#: src/components/Originals.tsx:105
+#: src/components/Originals.tsx:70
 msgid "Number of translations"
 msgstr "pali tawa toki ante"
 
-#: src/components/Statistics.tsx:108
+#: src/components/Statistics.tsx:109
 msgid "One-act plays"
 msgstr "pali musi pi lipu wan"
 
@@ -165,11 +180,12 @@ msgstr "pali musi pi lipu wan"
 msgid "Original not found"
 msgstr "ante tawa ale li lon ala"
 
-#: src/components/Original.tsx:58 src/components/Topnav.tsx:91
+#: src/components/Original.tsx:59
+#: src/components/Topnav.tsx:90
 msgid "Originals"
 msgstr "pali musi pi ante tawa ale"
 
-#: src/components/Original.tsx:81
+#: src/components/Original.tsx:82
 msgid "Other one-act translations"
 msgstr "pali musi pi lipu wan tawa toki ante"
 
@@ -177,19 +193,20 @@ msgstr "pali musi pi lipu wan tawa toki ante"
 msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
 msgstr "mi mute li wile e ni: mi pana e sona nanpa pi lipu sona pi pali musi pi lipu wan kepeken toki Tonsi lon sike suno 1740–1850. sina wile kama sona mute la o lukin e lipu «sona pi pali ni»."
 
-#: src/components/Topnav.tsx:85
+#: src/components/Topnav.tsx:84
 msgid "Plays"
 msgstr "pali musi"
 
-#: src/components/OriginalStatistics.tsx:73 src/components/Statistics.tsx:121
+#: src/components/OriginalStatistics.tsx:74
+#: src/components/Statistics.tsx:122
 msgid "Plays published anonymously"
 msgstr "pali musi pi mama ala"
 
-#: src/components/Statistics.tsx:124
+#: src/components/Statistics.tsx:125
 msgid "Plays translated/adapted from other languages"
 msgstr "pali musi tan toki ante"
 
-#: src/components/Details.tsx:103
+#: src/components/Details.tsx:106
 msgid "Reviews"
 msgstr "toki utala"
 
@@ -197,21 +214,27 @@ msgstr "toki utala"
 msgid "Russian"
 msgstr "toki Losi"
 
-#: src/components/Table.tsx:92
+#: src/components/Plays.tsx:68
 msgid "Scenes"
 msgstr "tenpo musi"
 
-#: src/components/Originals.tsx:126 src/components/Table.tsx:123
+#: src/components/Table.tsx:50
 msgid "Search"
 msgstr "o alasa"
 
-#: src/components/Details.tsx:242
+#: src/components/Details.tsx:245
 msgid "Setting"
 msgstr "ma"
+
+#~ msgid "Show more"
+#~ msgstr "Mehr anzeigen"
 
 #: src/languages.ts:24
 msgid "Spanish"
 msgstr "toki Epanja"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistik"
 
 #: src/components/Home.tsx:15
 msgid "The Database of German-Language One-Act Plays 1740–1850"
@@ -225,15 +248,17 @@ msgstr "lipu sona<0/>pi pali musi pi lipu wan<1/>kepeken toki Tonsi<2/>lon 1740�
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr "ma pi pali musi li lon lipu ma ni. ona li kepeken sona ma pi pali OpenStreetMap la ona li ken ike."
 
-#: src/components/Originals.tsx:75 src/components/Table.tsx:65
+#: src/components/Originals.tsx:54
+#: src/components/Plays.tsx:44
 msgid "Title"
 msgstr "nimi"
 
-#: src/components/OriginalDetails.tsx:70
+#: src/components/OriginalDetails.tsx:72
 msgid "Translations"
 msgstr "tawa toki ante"
 
-#: src/components/Originals.tsx:84 src/components/Table.tsx:77
+#: src/components/Originals.tsx:59
+#: src/components/Plays.tsx:56
 msgid "Year (normalized)"
 msgstr "sike suno (nasin tenpo pi nasa ala)"
 
@@ -245,13 +270,19 @@ msgstr "kama lon"
 msgid "d."
 msgstr "moli lon"
 
-#: src/components/GenderIcon.tsx:11 src/components/Statistics.tsx:117
+#: src/components/GenderIcon.tsx:11
+#: src/components/Statistics.tsx:118
 msgid "female"
 msgstr "meli"
 
-#: src/components/GenderIcon.tsx:14 src/components/Statistics.tsx:116
+#: src/components/GenderIcon.tsx:14
+#: src/components/Statistics.tsx:117
 msgid "male"
 msgstr "mije"
+
+#: src/components/Plays.tsx:61
+msgid "not available"
+msgstr "sona ala"
 
 #: src/components/Years.js:90
 msgid "premiered"
@@ -261,21 +292,9 @@ msgstr "tenpo musi nanpa wan"
 msgid "printed"
 msgstr "tenpo pana nanpa wan kepeken ilo sitelen"
 
+#~ msgid "undefined"
+#~ msgstr "unbekannt"
+
 #: src/components/Years.js:81
 msgid "written"
 msgstr "tenpo sitelen nanpa wan"
-
-#~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
-#~ msgstr "Die Datenbank enthält derzeit {0} Einakter mit {numCharacters} Figuren"
-
-#~ msgid "Hide"
-#~ msgstr "Verbergen"
-
-#~ msgid "Show more"
-#~ msgstr "Mehr anzeigen"
-
-#~ msgid "Statistics"
-#~ msgstr "Statistik"
-
-#~ msgid "undefined"
-#~ msgstr "unbekannt"

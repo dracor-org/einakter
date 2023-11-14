@@ -13,8 +13,8 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/components/About.tsx:12
-#: src/components/Topnav.tsx:94
+#: src/components/About.tsx:10
+#: src/components/Topnav.tsx:93
 msgid "About"
 msgstr "About"
 
@@ -22,26 +22,26 @@ msgstr "About"
 msgid "About the project"
 msgstr "About the project"
 
-#: src/components/Originals.tsx:65
-#: src/components/Table.tsx:55
+#: src/components/Originals.tsx:40
+#: src/components/Plays.tsx:30
 msgid "Author"
 msgstr "Author"
 
-#: src/components/OriginalStatistics.tsx:72
-#: src/components/Statistics.tsx:112
+#: src/components/OriginalStatistics.tsx:73
+#: src/components/Statistics.tsx:113
 msgid "Authors"
 msgstr "Authors"
 
-#: src/components/Details.tsx:272
+#: src/components/Details.tsx:275
 msgid "Based on"
 msgstr "Based on"
 
-#: src/components/Statistics.tsx:127
-#: src/components/Table.tsx:96
+#: src/components/Plays.tsx:73
+#: src/components/Statistics.tsx:128
 msgid "Characters"
 msgstr "Characters"
 
-#: src/components/Details.tsx:87
+#: src/components/Details.tsx:90
 msgid "Comments"
 msgstr "Comments"
 
@@ -57,24 +57,24 @@ msgstr "Danish"
 #~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
 #~ msgstr "Database currently containing {0} one-act plays featuring {numCharacters} characters"
 
-#: src/components/Details.tsx:118
-#: src/components/OriginalDetails.tsx:94
+#: src/components/Details.tsx:121
+#: src/components/OriginalDetails.tsx:96
 msgid "Dates"
 msgstr "Dates"
 
-#: src/components/Details.tsx:282
+#: src/components/Details.tsx:285
 msgid "Dictionaries"
 msgstr "Dictionaries"
 
-#: src/components/Table.tsx:128
+#: src/components/Plays.tsx:105
 msgid "Download CSV"
 msgstr "Download CSV"
 
-#: src/components/Table.tsx:125
+#: src/components/Plays.tsx:98
 msgid "Download JSON"
 msgstr "Download JSON"
 
-#: src/components/Details.tsx:181
+#: src/components/Details.tsx:184
 msgid "Dramatis personae"
 msgstr "Dramatis personae"
 
@@ -86,7 +86,7 @@ msgstr "Dutch"
 msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
 msgstr "Edited by Dîlan Canan Çakir and Frank Fischer"
 
-#: src/components/Details.tsx:161
+#: src/components/Details.tsx:164
 msgid "Editions"
 msgstr "Editions"
 
@@ -94,7 +94,7 @@ msgstr "Editions"
 msgid "English"
 msgstr "English"
 
-#: src/components/Details.tsx:292
+#: src/components/Details.tsx:295
 msgid "Formalia"
 msgstr "Formalia"
 
@@ -102,7 +102,7 @@ msgstr "Formalia"
 msgid "French"
 msgstr "French"
 
-#: src/components/OriginalDetails.tsx:123
+#: src/components/OriginalDetails.tsx:125
 msgid "Full text"
 msgstr "Full text"
 
@@ -110,7 +110,7 @@ msgstr "Full text"
 msgid "German"
 msgstr "German"
 
-#: src/components/Details.tsx:22
+#: src/components/Details.tsx:23
 msgid "Group"
 msgstr "Group"
 
@@ -122,17 +122,17 @@ msgstr "Group"
 msgid "Italian"
 msgstr "Italian"
 
-#: src/components/Details.tsx:306
-#: src/components/Table.tsx:100
+#: src/components/Details.tsx:309
+#: src/components/Plays.tsx:78
 msgid "Keywords"
 msgstr "Keywords"
 
-#: src/components/OriginalDetails.tsx:62
-#: src/components/Originals.tsx:99
+#: src/components/OriginalDetails.tsx:64
+#: src/components/Originals.tsx:65
 msgid "Language"
 msgstr "Language"
 
-#: src/components/OriginalStatistics.tsx:74
+#: src/components/OriginalStatistics.tsx:75
 msgid "Languages"
 msgstr "Languages"
 
@@ -140,41 +140,41 @@ msgstr "Languages"
 msgid "Latin"
 msgstr "Latin"
 
-#: src/components/Details.tsx:135
-#: src/components/OriginalDetails.tsx:103
+#: src/components/Details.tsx:138
+#: src/components/OriginalDetails.tsx:105
 msgid "Links"
 msgstr "Links"
 
 #: src/components/About.tsx:14
-msgid "Loading..."
-msgstr "Loading..."
+#~ msgid "Loading..."
+#~ msgstr "Loading..."
 
-#: src/components/Details.tsx:256
+#: src/components/Details.tsx:259
 msgid "Location"
 msgstr "Location"
 
 #: src/components/Map.tsx:47
-#: src/components/Topnav.tsx:88
+#: src/components/Topnav.tsx:87
 msgid "Locations"
 msgstr "Locations"
 
-#: src/components/Details.tsx:31
+#: src/components/Details.tsx:32
 msgid "No such play"
 msgstr "No such play"
 
-#: src/components/Details.tsx:127
+#: src/components/Details.tsx:130
 msgid "Number of Scenes"
 msgstr "Number of Scenes"
 
-#: src/components/OriginalStatistics.tsx:71
+#: src/components/OriginalStatistics.tsx:72
 msgid "Number of originals"
 msgstr "Number of originals"
 
-#: src/components/Originals.tsx:105
+#: src/components/Originals.tsx:70
 msgid "Number of translations"
 msgstr "Number of translations"
 
-#: src/components/Statistics.tsx:108
+#: src/components/Statistics.tsx:109
 msgid "One-act plays"
 msgstr "One-act plays"
 
@@ -182,12 +182,12 @@ msgstr "One-act plays"
 msgid "Original not found"
 msgstr "Original not found"
 
-#: src/components/Original.tsx:58
-#: src/components/Topnav.tsx:91
+#: src/components/Original.tsx:59
+#: src/components/Topnav.tsx:90
 msgid "Originals"
 msgstr "Originals"
 
-#: src/components/Original.tsx:81
+#: src/components/Original.tsx:82
 msgid "Other one-act translations"
 msgstr "Other one-act translations"
 
@@ -199,20 +199,20 @@ msgstr "Other one-act translations"
 msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
 msgstr "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the »About« page."
 
-#: src/components/Topnav.tsx:85
+#: src/components/Topnav.tsx:84
 msgid "Plays"
 msgstr "Plays"
 
-#: src/components/OriginalStatistics.tsx:73
-#: src/components/Statistics.tsx:121
+#: src/components/OriginalStatistics.tsx:74
+#: src/components/Statistics.tsx:122
 msgid "Plays published anonymously"
 msgstr "Plays published anonymously"
 
-#: src/components/Statistics.tsx:124
+#: src/components/Statistics.tsx:125
 msgid "Plays translated/adapted from other languages"
 msgstr "Plays translated/adapted from other languages"
 
-#: src/components/Details.tsx:103
+#: src/components/Details.tsx:106
 msgid "Reviews"
 msgstr "Reviews"
 
@@ -220,16 +220,15 @@ msgstr "Reviews"
 msgid "Russian"
 msgstr "Russian"
 
-#: src/components/Table.tsx:92
+#: src/components/Plays.tsx:68
 msgid "Scenes"
 msgstr "Scenes"
 
-#: src/components/Originals.tsx:126
-#: src/components/Table.tsx:123
+#: src/components/Table.tsx:50
 msgid "Search"
 msgstr "Search"
 
-#: src/components/Details.tsx:242
+#: src/components/Details.tsx:245
 msgid "Setting"
 msgstr "Setting"
 
@@ -258,12 +257,12 @@ msgstr "The Database of<0/>German-Language<1/>One-Act Plays<2/>1740–1850"
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 
-#: src/components/Originals.tsx:75
-#: src/components/Table.tsx:65
+#: src/components/Originals.tsx:54
+#: src/components/Plays.tsx:44
 msgid "Title"
 msgstr "Title"
 
-#: src/components/OriginalDetails.tsx:70
+#: src/components/OriginalDetails.tsx:72
 msgid "Translations"
 msgstr "Translations"
 
@@ -271,8 +270,8 @@ msgstr "Translations"
 #~ msgid "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
 #~ msgstr "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
 
-#: src/components/Originals.tsx:84
-#: src/components/Table.tsx:77
+#: src/components/Originals.tsx:59
+#: src/components/Plays.tsx:56
 msgid "Year (normalized)"
 msgstr "Year (normalized)"
 
@@ -285,14 +284,18 @@ msgid "d."
 msgstr "d."
 
 #: src/components/GenderIcon.tsx:11
-#: src/components/Statistics.tsx:117
+#: src/components/Statistics.tsx:118
 msgid "female"
 msgstr "female"
 
 #: src/components/GenderIcon.tsx:14
-#: src/components/Statistics.tsx:116
+#: src/components/Statistics.tsx:117
 msgid "male"
 msgstr "male"
+
+#: src/components/Plays.tsx:61
+msgid "not available"
+msgstr "not available"
 
 #: src/components/Years.js:90
 msgid "premiered"

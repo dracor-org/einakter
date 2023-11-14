@@ -13,8 +13,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "POT-Creation-Date: \n"
 
-#: src/components/About.tsx:12
-#: src/components/Topnav.tsx:94
+#: src/components/About.tsx:10
+#: src/components/Topnav.tsx:93
 msgid "About"
 msgstr "소개"
 
@@ -22,26 +22,26 @@ msgstr "소개"
 msgid "About the project"
 msgstr "프로젝트 정보"
 
-#: src/components/Originals.tsx:65
-#: src/components/Table.tsx:55
+#: src/components/Originals.tsx:40
+#: src/components/Plays.tsx:30
 msgid "Author"
 msgstr "작성자"
 
-#: src/components/OriginalStatistics.tsx:72
-#: src/components/Statistics.tsx:112
+#: src/components/OriginalStatistics.tsx:73
+#: src/components/Statistics.tsx:113
 msgid "Authors"
 msgstr "작성자"
 
-#: src/components/Details.tsx:272
+#: src/components/Details.tsx:275
 msgid "Based on"
 msgstr "원작"
 
-#: src/components/Statistics.tsx:127
-#: src/components/Table.tsx:96
+#: src/components/Plays.tsx:73
+#: src/components/Statistics.tsx:128
 msgid "Characters"
 msgstr "인물들"
 
-#: src/components/Details.tsx:87
+#: src/components/Details.tsx:90
 msgid "Comments"
 msgstr "코멘트"
 
@@ -57,24 +57,24 @@ msgstr "덴마크어"
 #~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
 #~ msgstr "{numCharacters}인물들이 나타나는 일장 연극들을 포함한 {0} 데이터 베이스"
 
-#: src/components/Details.tsx:118
-#: src/components/OriginalDetails.tsx:94
+#: src/components/Details.tsx:121
+#: src/components/OriginalDetails.tsx:96
 msgid "Dates"
 msgstr "날짜"
 
-#: src/components/Details.tsx:282
+#: src/components/Details.tsx:285
 msgid "Dictionaries"
 msgstr "사전"
 
-#: src/components/Table.tsx:128
+#: src/components/Plays.tsx:105
 msgid "Download CSV"
 msgstr "다운로드CSV"
 
-#: src/components/Table.tsx:125
+#: src/components/Plays.tsx:98
 msgid "Download JSON"
 msgstr "다운로드JSON"
 
-#: src/components/Details.tsx:181
+#: src/components/Details.tsx:184
 msgid "Dramatis personae"
 msgstr "인물들"
 
@@ -86,7 +86,7 @@ msgstr "네덜란드어"
 msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
 msgstr "디란 카난 차키어 및 프랑크 피숴 편집"
 
-#: src/components/Details.tsx:161
+#: src/components/Details.tsx:164
 msgid "Editions"
 msgstr "총서"
 
@@ -94,7 +94,7 @@ msgstr "총서"
 msgid "English"
 msgstr "영어"
 
-#: src/components/Details.tsx:292
+#: src/components/Details.tsx:295
 msgid "Formalia"
 msgstr "장르"
 
@@ -102,7 +102,7 @@ msgstr "장르"
 msgid "French"
 msgstr "불어"
 
-#: src/components/OriginalDetails.tsx:123
+#: src/components/OriginalDetails.tsx:125
 msgid "Full text"
 msgstr "정본"
 
@@ -110,7 +110,7 @@ msgstr "정본"
 msgid "German"
 msgstr "독어"
 
-#: src/components/Details.tsx:22
+#: src/components/Details.tsx:23
 msgid "Group"
 msgstr "그룹"
 
@@ -122,17 +122,17 @@ msgstr "그룹"
 msgid "Italian"
 msgstr "이탈리아어"
 
-#: src/components/Details.tsx:306
-#: src/components/Table.tsx:100
+#: src/components/Details.tsx:309
+#: src/components/Plays.tsx:78
 msgid "Keywords"
 msgstr "예어"
 
-#: src/components/OriginalDetails.tsx:62
-#: src/components/Originals.tsx:99
+#: src/components/OriginalDetails.tsx:64
+#: src/components/Originals.tsx:65
 msgid "Language"
 msgstr "언어"
 
-#: src/components/OriginalStatistics.tsx:74
+#: src/components/OriginalStatistics.tsx:75
 msgid "Languages"
 msgstr "언어"
 
@@ -140,41 +140,41 @@ msgstr "언어"
 msgid "Latin"
 msgstr "라틴어"
 
-#: src/components/Details.tsx:135
-#: src/components/OriginalDetails.tsx:103
+#: src/components/Details.tsx:138
+#: src/components/OriginalDetails.tsx:105
 msgid "Links"
 msgstr "링크"
 
 #: src/components/About.tsx:14
-msgid "Loading..."
-msgstr "로우딩..."
+#~ msgid "Loading..."
+#~ msgstr "로우딩..."
 
-#: src/components/Details.tsx:256
+#: src/components/Details.tsx:259
 msgid "Location"
 msgstr "장소"
 
 #: src/components/Map.tsx:47
-#: src/components/Topnav.tsx:88
+#: src/components/Topnav.tsx:87
 msgid "Locations"
 msgstr "장소들"
 
-#: src/components/Details.tsx:31
+#: src/components/Details.tsx:32
 msgid "No such play"
 msgstr "그런 연극은 없음"
 
-#: src/components/Details.tsx:127
+#: src/components/Details.tsx:130
 msgid "Number of Scenes"
 msgstr "장면수"
 
-#: src/components/OriginalStatistics.tsx:71
+#: src/components/OriginalStatistics.tsx:72
 msgid "Number of originals"
 msgstr "원본수"
 
-#: src/components/Originals.tsx:105
+#: src/components/Originals.tsx:70
 msgid "Number of translations"
 msgstr "번역수"
 
-#: src/components/Statistics.tsx:108
+#: src/components/Statistics.tsx:109
 msgid "One-act plays"
 msgstr "일장 연극"
 
@@ -182,12 +182,12 @@ msgstr "일장 연극"
 msgid "Original not found"
 msgstr "원서는 찾을 수 없음"
 
-#: src/components/Original.tsx:58
-#: src/components/Topnav.tsx:91
+#: src/components/Original.tsx:59
+#: src/components/Topnav.tsx:90
 msgid "Originals"
 msgstr "원서들"
 
-#: src/components/Original.tsx:81
+#: src/components/Original.tsx:82
 msgid "Other one-act translations"
 msgstr "다른 일장 연극 번역들"
 
@@ -199,20 +199,20 @@ msgstr "다른 일장 연극 번역들"
 msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
 msgstr "우리의 목표는 18세기 중반에서 19세기 중반 사이에 독어로 쓰여진 단막극의 일반적인 양적 개요를 제공하는 것입니다. 이 데이터베이스를 인용하는 방법을 포함한 자세한 내용은 정보 페이지에서 참조하십시오."
 
-#: src/components/Topnav.tsx:85
+#: src/components/Topnav.tsx:84
 msgid "Plays"
 msgstr "연극"
 
-#: src/components/OriginalStatistics.tsx:73
-#: src/components/Statistics.tsx:121
+#: src/components/OriginalStatistics.tsx:74
+#: src/components/Statistics.tsx:122
 msgid "Plays published anonymously"
 msgstr "익명으로 출판된 연극들"
 
-#: src/components/Statistics.tsx:124
+#: src/components/Statistics.tsx:125
 msgid "Plays translated/adapted from other languages"
 msgstr "다른 언어로 번역된 연극들"
 
-#: src/components/Details.tsx:103
+#: src/components/Details.tsx:106
 msgid "Reviews"
 msgstr "평가"
 
@@ -220,16 +220,15 @@ msgstr "평가"
 msgid "Russian"
 msgstr "러시아어"
 
-#: src/components/Table.tsx:92
+#: src/components/Plays.tsx:68
 msgid "Scenes"
 msgstr "장면"
 
-#: src/components/Originals.tsx:126
-#: src/components/Table.tsx:123
+#: src/components/Table.tsx:50
 msgid "Search"
 msgstr "검색"
 
-#: src/components/Details.tsx:242
+#: src/components/Details.tsx:245
 msgid "Setting"
 msgstr "연극단"
 
@@ -258,12 +257,12 @@ msgstr "1740–1850년 독어 단막극 데이터베이스"
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr "이 맵은 플레이 시작시 설정 정보에서 추출할 수 있는 모든 플롯 위치를 보여줍니다. 지도의 명칭과 경계는 OpenStreetMap에서 제공함으로 행동 시간 및 연극 제작과 관련하여 역사적입니다."
 
-#: src/components/Originals.tsx:75
-#: src/components/Table.tsx:65
+#: src/components/Originals.tsx:54
+#: src/components/Plays.tsx:44
 msgid "Title"
 msgstr "제목"
 
-#: src/components/OriginalDetails.tsx:70
+#: src/components/OriginalDetails.tsx:72
 msgid "Translations"
 msgstr "번역"
 
@@ -271,8 +270,8 @@ msgstr "번역"
 #~ msgid "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
 #~ msgstr ""
 
-#: src/components/Originals.tsx:84
-#: src/components/Table.tsx:77
+#: src/components/Originals.tsx:59
+#: src/components/Plays.tsx:56
 msgid "Year (normalized)"
 msgstr "년"
 
@@ -285,14 +284,18 @@ msgid "d."
 msgstr "사망"
 
 #: src/components/GenderIcon.tsx:11
-#: src/components/Statistics.tsx:117
+#: src/components/Statistics.tsx:118
 msgid "female"
 msgstr "여성"
 
 #: src/components/GenderIcon.tsx:14
-#: src/components/Statistics.tsx:116
+#: src/components/Statistics.tsx:117
 msgid "male"
 msgstr "남성"
+
+#: src/components/Plays.tsx:61
+msgid "not available"
+msgstr ""
 
 #: src/components/Years.js:90
 msgid "premiered"
