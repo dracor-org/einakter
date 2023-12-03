@@ -87866,6 +87866,43 @@ cast:
 settings:
   - description: Der Schauplatz ist ein Saal in Waldkirchs Hause mit etlichen Thüren.
 ---
+id: ein002554
+slug: schulze-der-liebhaber-als-kammermaedchen
+author:
+  name: Schulze, David Friedrich
+  wikidata: Q108814807
+title: Der Liebhaber als Kammermädchen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1800
+formalia:
+  - Prosa
+editions:
+  - title: "Budissin und Leipzig: Arnold 1800"
+    url: https://books.google.com/books?id=TII5AAAAMAAJ&pg=RA1-PA1
+comments:
+  - "Im Vorwort heißt es: »Gegenwärtiges kleines Lustspiel ist nach einem französischen Originale frei bearbeitet.« ([S. 3](https://books.google.com/books?id=TII5AAAAMAAJ&pg=RA1-PA3))"
+cast:
+  - name: Julie,
+    role: Gräfin von Hochberg, eine junge Witwe.
+    gender: f
+  - name: Baron von Lisdorf.
+    gender: m
+  - name: Kammerjunker von Lisdorf,
+    role: sein Neffe.
+    gender: m
+  - name: Nettchen,
+    role: Kammermädchen der Gräfin.
+    gender: f
+  - name: Franz,
+    role: Kammerdiener der Gräfin.
+    gender: m
+  - name: Ein Notar.
+    gender: m
+settings:
+  - description: >-
+      Das Stück spielt auf dem Langute der Gräfin.
+---
 id: ein001967
 slug: schummel-der-wuerzkraemer-und-sein-sohn
 author:
@@ -102881,9 +102918,9 @@ editions:
 reviews:
   - "Allgemeines europäisches Journal. Dritter Band. Brünn: Traßler 1795, [S. 192](https://books.google.com/books?id=U7QTAAAAYAAJ&pg=PA192)."
 comments:
-  - "Autorangabe laut Goedeke, Band V/2, [S. 345](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-5/page/344/mode/2up)."
+  - "Autor ermittelt via Goedeke, Band V/2, [S. 345](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-5/page/344/mode/2up)."
   - "Widmung: »Allen braven Steyermärkern gewidmet.« ([S. 2](https://books.google.com/books?id=EnFHAAAAcAAJ&pg=PA2))"
-  - "Im Vorwort heißt es: »Das Sujet dieser Kleinigkeit gründet sich großen Theils auf eine wahre Begebenheit, die sich erst kürzlich in Obersteyermark ereignet hat, und die in Numero 302 der Grötzer Leykamer Zeitung vom Jahre 1794 erzählt worden ist.« ([S. 3](https://books.google.com/books?id=EnFHAAAAcAAJ&pg=PA3))"
+  - "Im Vorwort heißt es: »Das Sujet dieser Kleinigkeit gründet sich großen Theils auf eine wahre Begebenheit, die sich erst kürzlich in Obersteyermark ereignet hat, und die in Numero 302 der Grätzer Leykamer Zeitung vom Jahre 1794 erzählt worden ist.« ([S. 3](https://books.google.com/books?id=EnFHAAAAcAAJ&pg=PA3))"
 cast:
   - name: Joseph Bauernfreund,
     role: Verwalter.
@@ -102924,6 +102961,48 @@ settings:
       Das Theater stellt die gut geordnete Amtskanzley einer Herrschaft in Obersteyer vor. Keine Mittelthüre, aber zwey Seitenthüren. In der Mitte des Hintergrundes hängt das Bild Sr. Majestät des Kaisers.
     location:
       wikidataId: Q278042
+---
+id: ein002555
+slug: wetzinger-die-todesangst
+author:
+  name: Wetzinger, Gottlieb
+  wikidata: Q123615819
+title: Die Todesangst
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Englischen
+numberOfScenes: 24
+printed: 1798
+formalia:
+  - Prosa
+editions:
+  - title: "Grätz 1798"
+    url: https://books.google.com/books?id=CDFJAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Krab,
+    role: Vormund des Sir Bock.
+    gender: m
+  - name: Isabelle.
+    gender: f
+  - name: Sir Bock,
+    role: aus Paris zurück.
+    gender: m
+  - name: Lord John,
+    role: sein Reisegefährte.
+    gender: m
+  - name: Ein Arzt.
+    gender: m
+  - name: Ein Mädchen Isabellens.
+    gender: f
+  - name: Ein Bedienter des Sir Bock.
+    gender: m
+  - name: Ein Bedienter des Sir Krab.
+    gender: m
+setting:
+  - description: >-
+      Die Handlung ist in London.
+    location:
+      wikidataId: Q84
+  - description: >-
+      Die Scene ist ein gemeinschaftlicher wohleingerichteter Saal, mit verschiedenen Thüren.
 ---
 id: ein002311
 slug: wezel-der-erste-dank
