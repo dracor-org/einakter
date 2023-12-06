@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-09 02:27+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/About.tsx:10
+#: src/components/Topnav.tsx:93
+msgid "About"
+msgstr "درباره"
+
+#: src/components/Home.tsx:40
+msgid "About the project"
+msgstr "درباره‌ی پروژه"
+
+#: src/components/Originals.tsx:40
+#: src/components/Plays.tsx:30
+msgid "Author"
+msgstr "نویسنده"
+
+#: src/components/OriginalStatistics.tsx:73
+#: src/components/Statistics.tsx:113
+msgid "Authors"
+msgstr "نویسندگان"
+
+#: src/components/Details.tsx:275
+msgid "Based on"
+msgstr "بر اساس"
+
+#: src/components/Plays.tsx:73
+#: src/components/Statistics.tsx:128
+msgid "Characters"
+msgstr "شخصیت‌ها"
+
+#: src/components/Details.tsx:90
+msgid "Comments"
+msgstr "یادداشت‌ها"
+
+#: src/languages.ts:6
+msgid "Czech"
+msgstr "چکی"
+
+#: src/languages.ts:8
+msgid "Danish"
+msgstr "دانمارکی"
+
+#: src/components/Statistics.tsx:82
+#~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
+#~ msgstr "‫پایگاه داده ها در حال حاضر شامل {0} نمایشنامه‌ی تک‌پرده با {numCharacters} شخصیت است."
+
+#: src/components/Details.tsx:121
+#: src/components/OriginalDetails.tsx:96
+msgid "Dates"
+msgstr "تاریخ‌ها"
+
+#: src/components/Details.tsx:285
+msgid "Dictionaries"
+msgstr "فرهنگ واژگان"
+
+#: src/components/Plays.tsx:105
+msgid "Download CSV"
+msgstr "‫‫"دانلود CSV
+
+#: src/components/Plays.tsx:98
+msgid "Download JSON"
+msgstr "‫دانلود JSON"
+
+#: src/components/Details.tsx:184
+msgid "Dramatis personae"
+msgstr "شخصیت‌ها"
+
+#: src/languages.ts:10
+msgid "Dutch"
+msgstr "هلندی"
+
+#: src/components/Home.tsx:26
+msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
+msgstr "‫ویرایش شده توسط Dîlan Canan Çakir و Frank Fischer"
+
+#: src/components/Details.tsx:164
+msgid "Editions"
+msgstr "ویرایش‌ها"
+
+#: src/languages.ts:12
+msgid "English"
+msgstr "انگلیسی"
+
+#: src/components/Details.tsx:295
+msgid "Formalia"
+msgstr "فرم"
+
+#: src/languages.ts:14
+msgid "French"
+msgstr "فرانسوی"
+
+#: src/components/OriginalDetails.tsx:125
+msgid "Full text"
+msgstr "متن کامل"
+
+#: src/languages.ts:16
+msgid "German"
+msgstr "آلمانی"
+
+#: src/components/Details.tsx:23
+msgid "Group"
+msgstr "گروه"
+
+#: src/components/Statistics.tsx:73
+#~ msgid "Hide"
+#~ msgstr "پنهان‌سازی"
+
+#: src/languages.ts:18
+msgid "Italian"
+msgstr "ایتالیایی"
+
+#: src/components/Details.tsx:309
+#: src/components/Plays.tsx:78
+msgid "Keywords"
+msgstr "کلمات کلیدی"
+
+#: src/components/OriginalDetails.tsx:64
+#: src/components/Originals.tsx:65
+msgid "Language"
+msgstr "زبان"
+
+#: src/components/OriginalStatistics.tsx:75
+msgid "Languages"
+msgstr "زبان‌ها"
+
+#: src/languages.ts:20
+msgid "Latin"
+msgstr "لاتین"
+
+#: src/components/Details.tsx:138
+#: src/components/OriginalDetails.tsx:105
+msgid "Links"
+msgstr "لینک‌ها"
+
+#: src/components/About.tsx:14
+#~ msgid "Loading..."
+#~ msgstr "‫در حال بالا آمدن ..."
+
+#: src/components/Details.tsx:259
+msgid "Location"
+msgstr "مکان"
+
+#: src/components/Map.tsx:47
+#: src/components/Topnav.tsx:87
+msgid "Locations"
+msgstr "مکان‌ها"
+
+#: src/components/Details.tsx:32
+msgid "No such play"
+msgstr "این نمایشنامه وجود ندارد"
+
+#: src/components/Details.tsx:130
+msgid "Number of Scenes"
+msgstr "تعداد صحنه‌ها"
+
+#: src/components/OriginalStatistics.tsx:72
+msgid "Number of originals"
+msgstr "تعداد نمایشنامه‌ها به زبان اصلی"
+
+#: src/components/Originals.tsx:70
+msgid "Number of translations"
+msgstr "تعداد نمایشنامه‌های ترجمه شده"
+
+#: src/components/Statistics.tsx:109
+msgid "One-act plays"
+msgstr "نمایشنامه‌های تک‌پرده"
+
+#: src/components/OriginalDetails.tsx:21
+msgid "Original not found"
+msgstr "نمایشنامه‌ی اصلی پیدا نشد"
+
+#: src/components/Original.tsx:59
+#: src/components/Topnav.tsx:90
+msgid "Originals"
+msgstr "نمایشنامه‌ها به زبان اصلی"
+
+#: src/components/Original.tsx:82
+msgid "Other one-act translations"
+msgstr "سایر نمایشنامه‌های تک‌پرده‌ی ترجمه شده"
+
+#: src/components/Home.tsx:29
+#~ msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries."
+#~ msgstr "‫هدف ما ارائه‌ی نمایی کمّی و عمومی از نمایشنامه های تک‌پرده ی نوشته شده به زبان آلمانی از نیمه ی قرن هجدهم تا نیمه ی قرن نوزدهم است‫."
+
+#: src/components/Home.tsx:29
+msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
+msgstr "‫هدف ما ارائه‌ی نمایی کمّی و عمومی از نمایشنامه های تک‌پرده ی آلمانی زبان نوشته شده از میانه ی قرن هجدهم تا میانه ی قرن نوزدهم است. برای اطلاعات بیشتر، از جمله چگونگی ارجاع دادن به این پایگاه، به صفحه ی «درباره» مراجعه کنید‫."
+
+#: src/components/Topnav.tsx:84
+msgid "Plays"
+msgstr "نمایشنامه‌ها"
+
+#: src/components/OriginalStatistics.tsx:74
+#: src/components/Statistics.tsx:122
+msgid "Plays published anonymously"
+msgstr "نمایشنامه‌های چاپ شده به صورت ناشناس"
+
+#: src/components/Statistics.tsx:125
+msgid "Plays translated/adapted from other languages"
+msgstr "نمایشنامه‌های ترجمه شده/اقتباس شده از سایر زبان‌ها"
+
+#: src/components/Details.tsx:106
+msgid "Reviews"
+msgstr "نقدها"
+
+#: src/languages.ts:22
+msgid "Russian"
+msgstr "روسی"
+
+#: src/components/Plays.tsx:68
+msgid "Scenes"
+msgstr "صحنه‌ها"
+
+#: src/components/Table.tsx:50
+msgid "Search"
+msgstr "جستجو"
+
+#: src/components/Details.tsx:245
+msgid "Setting"
+msgstr "مکان و زمان صحنه"
+
+#: src/components/Statistics.tsx:73
+#: src/components/Statistics.tsx:87
+#~ msgid "Show more"
+#~ msgstr "بیشتر نشان بده"
+
+#: src/languages.ts:24
+msgid "Spanish"
+msgstr "اسپانیایی"
+
+#: src/components/Statistics.tsx:77
+#~ msgid "Statistics"
+#~ msgstr "آمار"
+
+#: src/components/Home.tsx:15
+msgid "The Database of German-Language One-Act Plays 1740–1850"
+msgstr "پایگاه داده های نمایشنامه‌های تک‌پرده‌ی آلمانی زبان در سال های 1740 تا 1850"
+
+#: src/components/Home.tsx:21
+msgid "The Database of<0/>German-Language<1/>One-Act Plays<2/>1740–1850"
+msgstr "‫پایگاه داده های <0/>آلمانی زبان<1/>نمایشنامه ها‌ی تک‌پرده<2/>1740-1850"
+
+#: src/components/Map.tsx:51
+msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
+msgstr "‫این نقشه تمام مکان های پلات را که از اطلاعات روایی صحنه در ابتدای نمایشنامه قابل مشاهده است، نشان می دهد. نام گذاری ها و مرزبندی ها بر اساس OpenStreetMap انجام شده اند و در نتیجه لزوماً با تاریخ نگارش و اجرای نمایشنامه تطابق تاریخی ندارند."
+
+#: src/components/Originals.tsx:54
+#: src/components/Plays.tsx:44
+msgid "Title"
+msgstr "عنوان"
+
+#: src/components/OriginalDetails.tsx:72
+msgid "Translations"
+msgstr "ترجمه‌ها"
+
+#: src/components/Table.tsx:123
+#~ msgid "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
+#~ msgstr "‫‫‫‫"به <0/>آینکتر<0> خوش آمدید، <1/>پایگاه داده های نمایشنامه های تک پرده ی آلمانی زبان در سال های 1740 تا 1850<1>، که توسط Dîlan Canan Çakir و Frank Fischer ویرایش شده اند. هدف ما ارایه ی نمایی کمّی و عمومی از نمایشنامه های تک پرده ی آلمانی زبان نوشته شده از میانه ی قرن هجدهم تا میانه ی قرن نوزدهم است. برای اطلاعات بیشتر، از جمله چگونگی ارجاع دادن به این پایگاه، صفحه ی <2/>درباره<2> را ببینید.
+
+#: src/components/Originals.tsx:59
+#: src/components/Plays.tsx:56
+msgid "Year (normalized)"
+msgstr "سال (معمولی)"
+
+#: src/components/AuthorInfo.tsx:123
+msgid "b."
+msgstr "b."
+
+#: src/components/AuthorInfo.tsx:124
+msgid "d."
+msgstr "d."
+
+#: src/components/GenderIcon.tsx:11
+#: src/components/Statistics.tsx:118
+msgid "female"
+msgstr "زن"
+
+#: src/components/GenderIcon.tsx:14
+#: src/components/Statistics.tsx:117
+msgid "male"
+msgstr "مرد"
+
+#: src/components/Plays.tsx:61
+msgid "not available"
+msgstr "در دسترس نیست"
+
+#: src/components/Years.js:90
+msgid "premiered"
+msgstr "نمایش داده شده"
+
+#: src/components/Years.js:98
+msgid "printed"
+msgstr "چاپ شده"
+
+#: src/components/Details.tsx:233
+#~ msgid "undefined"
+#~ msgstr "تعریف نشده"
+
+#: src/components/Years.js:81
+msgid "written"
+msgstr "نوشته شده"
