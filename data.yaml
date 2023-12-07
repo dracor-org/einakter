@@ -91956,6 +91956,7 @@ author:
   wikidata: Q123677359
 title: Wilhelm und Betty
 subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 5
 printed: 1799
 editions:
   - title: "Regensburg: Montag und Weiß 1799"
@@ -91963,7 +91964,20 @@ editions:
 reviews:
   - "Neue Allgemeine Deutsche Bibliothek. Neun und funfzigsten Bandes Erstes Stück. Zweytes Heft. Berlin und Stettin: Nicolai 1801, [S. 74–76](https://books.google.com/books?id=oblFdlTqdIcC&pg=PA74)."
 comments:
-  - "Dramatisierung der Erzählung von Friedrich Anton Franz Bertrand: Wilhelm und Betty. Ein Fragment aus dem bürgerlichen Leben. In: Deutsche Monatsschrift. Dritter Band (November 1794). Berlin: Vieweg 1794, [S. 204–218](https://books.google.com/books?id=5vujg3mZ92IC&pg=PA204)."
+  - "In der »VORERINNERUNG.« heißt es: »Die Geburt dieses Stückchens veranlasste ein Aufsatz in der deutschen Monatsschrift: November 1794. unter der Aufschrift: *Wilhelm und Betty, ein Fragment aus dem bürgerlichen Leben etc.* Dieses Bruchstück bildete ich in ein ganzes und gab der Idee dramatisches Leben.« – Vgl. dazu Deutsche Monatsschrift. Dritter Band (November 1794). Berlin: Vieweg 1794, [S. 204–218](https://books.google.com/books?id=5vujg3mZ92IC&pg=PA204)."
+  - "Widmung: »Der Frau Gräfin Iosepha von Luninck gebornen Freyfrau von Smith zu Baltoé im Gefühl der reinsten Verehrung gewiedmet von dem Verfasser.«"
+cast:
+  - name: Wilhelm.
+    gender: m
+  - name: Betty,
+    role: in Wilhelms Diensten.
+    gender: f
+  - name: Clermont,
+    role: Wilhelms Freund.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung geht in Wilhelms Zimmer vor. Nachts zwischen 10 und 11 Uhr.
 ---
 id: ein002537
 slug: stich-die-erbin
