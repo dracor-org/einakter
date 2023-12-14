@@ -34258,7 +34258,9 @@ settings:
 id: ein000762
 slug: gasser-ramirus
 author:
-  name: Gaßer, Franz
+  name: Sager, Otto
+  pseudonym: Gaßer, Franz
+  wikidata: Q94814224
 title: Ramirus
 subtitle: In einem Aufzuge
 numberOfScenes: 10
@@ -34273,6 +34275,9 @@ editions:
     url: https://books.google.com/books?id=rNVNAAAAcAAJ&pg=PA101
 comments:
   - Von Meyer unter Anonyme 1770 einsortiert.
+ids:
+  dracor: ger000658
+  wikidata: Q123824760
 cast:
   - name: Ramirus,
     role: ein verunglückter von Adel.
