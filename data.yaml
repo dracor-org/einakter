@@ -10364,10 +10364,13 @@ dictionaries:
     pages: 2. Abteilung, Band 12, S. 224–225, und Band 17, S. 54–55
 editions:
   - title: "Hamburg: Nottebohm 1743"
-  - title: "Neueste Auflage. Frankfurt und Leipzig 1753"
+    url: http://resolver.sub.uni-hamburg.de/goobi/PPN1008134406
+  - title: "Die Weiber-List. Ein Lustspiel in einer Handlung. Neueste Auflage. Frankfurt und Leipzig 1753"
     url: https://books.google.com/books?id=eDFJAAAAcAAJ&printsec=frontcover
-comments:
-  - Auch unter dem Titel »Die Frauenlist, ein Lustspiel. Von einer Handlung in Versen« (ohne Ort 1754).
+  - title: "Die Frauenlist, ein Lustspiel. Von einer Handlung in Versen. [Ohne Ort] 1754"
+ids:
+  dracor: ger000661
+  wikidata: Q123991581
 cast:
   - name: Herr Steffen.
     gender: m
