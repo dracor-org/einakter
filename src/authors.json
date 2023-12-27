@@ -798,10 +798,14 @@
     "name": "Gottfried Conrad Böttger",
     "gnd": "100769195",
     "birth": {
-      "date": "1731-01-01T00:00:00Z"
+      "date": "1731-01-01T00:00:00Z",
+      "place": "Sondershausen",
+      "placeId": "http://www.wikidata.org/entity/Q517407"
     },
     "death": {
-      "date": "1794-01-01T00:00:00Z"
+      "date": "1794-11-26T00:00:00Z",
+      "place": "Sondershausen",
+      "placeId": "http://www.wikidata.org/entity/Q517407"
     },
     "gender": "male"
   },

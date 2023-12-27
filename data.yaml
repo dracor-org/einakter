@@ -3668,64 +3668,6 @@ settings:
   - description: >-
       Die Scene ist auf dem Schlosse des Marki.
 ---
-id: ein000079
-slug: anonym-das-kaffee-haus-zu-paris
-author:
-  pseudonym: Anonym
-title: Das Kaffee-Haus zu Paris
-subtitle: Ein Lustspiel in einem Akte
-numberOfScenes: 18
-printed: 1780
-formalia:
-  - Prosa
-basedOn:
-  - rousseau-le-cafe
-editions:
-  - title: "Zwey Lustspiele von einem Akt. Aus dem Französischen des Herrn Johann Baptist Rousseau übersezt. Nordhausen: Groß 1780, S. 51–108"
-    url: https://books.google.com/books?id=ahBaAAAAcAAJ&pg=PA51
-cast:
-  - name: Frau Jerome,
-    role: die Kaffeeschenkin.
-    gender: f
-  - name: Louischen,
-    role: ihre Tochter.
-    gender: f
-  - name: Dorant,
-    role: Liebhaber Louischens.
-    gender: m
-  - name: Herr Jobelin,
-    role: ein Notarius.
-    gender: m
-  - name: La Sourdiere,
-    role: ein Freund Herrn Jobelius.
-    gender: m
-  - group:
-      - name: Ein Ritter.
-        gender: m
-      - name: Coronis,
-        role: ein Gaskonier.
-        gender: m
-      - name: Ein Abt.
-        gender: m
-    role: Freunde Dorants.
-  - name: Carondas,
-    role: ein Poet.
-    gender: m
-  - name: La Flesche,
-    role: Bedienter Dorants.
-    gender: m
-  - name: Zween, die Dame ziehen.
-    isGroup: true
-    gender: m
-settings:
-  - description: >-
-      Der Schauplaz stellet einen Saal des Kaffeehauses, mit verschiedenen
-      Tischen versehen, vor. Man siehet den Poeten auf der einen Seite, neben
-      den beyden Damenspielern in einem tiefen Nachsinnen. Der Abt schläft in
-      einem Armstuhle, am obersten Ende des Schauplazzes. Auf der andern Seite
-      sizzen Coronis und La Sourdiere und streiten mit einander, indem sie ihren
-      Kaffee trinken.
----
 id: ein000080
 slug: anonym-das-kammermaedchen-als-liebhaber
 author:
@@ -20921,6 +20863,71 @@ settings:
       Auftritt bis zu den zwölften, ist ein Zimmer mit einer Mittelthür und zwey
       Seitenthüren, von dreizehnten bis zum funfzehnten, ein anders schlechtes
       Zimmer. Denn wieder, die erste Dekoration bis zu Ende.
+---
+id: ein000079
+slug: boettger-das-kaffee-haus-zu-paris
+author:
+  name: Böttger, Gottfried Conrad
+  wikidata: Q94886965
+title: Das Kaffee-Haus zu Paris
+subtitle: Ein Lustspiel in einem Akte
+numberOfScenes: 18
+printed: 1780
+formalia:
+  - Prosa
+basedOn:
+  - rousseau-le-cafe
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 389
+editions:
+  - title: "Zwey Lustspiele von einem Akt. Aus dem Französischen des Herrn Johann Baptist Rousseau übersezt. Nordhausen: Groß 1780, S. 51–108"
+    url: https://books.google.com/books?id=ahBaAAAAcAAJ&pg=PA51
+ids:
+  dracor: ger000662
+  wikidata: Q124013500
+cast:
+  - name: Frau Jerome,
+    role: die Kaffeeschenkin.
+    gender: f
+  - name: Louischen,
+    role: ihre Tochter.
+    gender: f
+  - name: Dorant,
+    role: Liebhaber Louischens.
+    gender: m
+  - name: Herr Jobelin,
+    role: ein Notarius.
+    gender: m
+  - name: La Sourdiere,
+    role: ein Freund Herrn Jobelius.
+    gender: m
+  - group:
+      - name: Ein Ritter.
+        gender: m
+      - name: Coronis,
+        role: ein Gaskonier.
+        gender: m
+      - name: Ein Abt.
+        gender: m
+    role: Freunde Dorants.
+  - name: Carondas,
+    role: ein Poet.
+    gender: m
+  - name: La Flesche,
+    role: Bedienter Dorants.
+    gender: m
+  - name: Zween, die Dame ziehen.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Der Schauplaz stellet einen Saal des Kaffeehauses, mit verschiedenen
+      Tischen versehen, vor. Man siehet den Poeten auf der einen Seite, neben
+      den beyden Damenspielern in einem tiefen Nachsinnen. Der Abt schläft in
+      einem Armstuhle, am obersten Ende des Schauplazzes. Auf der andern Seite
+      sizzen Coronis und La Sourdiere und streiten mit einander, indem sie ihren
+      Kaffee trinken.
 ---
 id: ein000459
 slug: boettger-der-gebesserte-ehemann
