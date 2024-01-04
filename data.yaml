@@ -10548,7 +10548,7 @@ cast:
       - name: Mamsell Steel.
         gender: f
       - name: Ein Schatten.
-        gender: u
+        gender: m
     role: Schauspieler, und Schauspielerinnen.
   - name: Herr von Flieh.
     gender: m
@@ -56632,6 +56632,7 @@ keywords:
   - Ehe
 ids:
   weber: A021014
+  wikidata: Q124079923
 cast:
   - name: Der Baron.
     gender: m
@@ -76956,6 +76957,9 @@ formalia:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Dreizigster Jahrgang. Hamburg: Hoffmann & Campe 1832, S. 69–120"
     url: https://books.google.com/books?id=gDUqAAAAYAAJ&pg=PA69
+ids:
+  dracor: ger000664
+  wikidata: Q124128087
 cast:
   - name: Walter.
     gender: m
