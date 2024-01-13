@@ -10709,8 +10709,11 @@ printed: 1814
 formalia:
   - gereimte Verse
 editions:
-  - title: "Dornenstiche für Napoleon und Hieronymus Buonaparte und einige ihrer ehemaligen Staatsdiener. Cölln: Hammer 1814, S. 1–38"
+  - title: "Dornenstiche für Napoleon und Hieronymus Buonaparte und einige ihrer ehemaligen Staatsdiener. Cölln: Hammer (Quedlinburg: Basse) 1814, S. 1–38"
     url: https://books.google.com/books?id=AO5YAAAAcAAJ&pg=PA1
+ids:
+  dracor: ger000667
+  wikidata: Q124262137
 cast:
   - name: Bonaparte,
     role: Lieutenant.
@@ -10720,7 +10723,7 @@ cast:
     gender: m
   - name: Davoust,
     role: Fleischhauer.
-    gender: n
+    gender: m
   - name: Ney,
     role: Tabackshändler.
     gender: m
@@ -10732,7 +10735,7 @@ cast:
     gender: m
   - name: Ein Küchenmeister.
     gender: m
-  - name: Arian.
+  - name: Urian.
     gender: m
   - name: Drei Preußl. Jäger. Ein Grenadier. Viele Soldaten.
     isGroup: true
@@ -56611,7 +56614,7 @@ numberOfScenes: 11
 printed: 1812
 premiered: 1811-09-21
 formalia:
-  - Prosa
+  - Alexandriner
 dictionaries:
   - name: kotzebue
     pages: S. 7–8
@@ -56630,7 +56633,9 @@ comments:
   - Untertitel 1814 »in einem Aufzug«.
 keywords:
   - Ehe
+  - Liebesprobe
 ids:
+  dracor: ger000666
   weber: A021014
   wikidata: Q124079923
 cast:
