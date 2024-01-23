@@ -10709,7 +10709,7 @@ printed: 1814
 formalia:
   - gereimte Verse
 editions:
-  - title: "Dornenstiche für Napoleon und Hieronymus Buonaparte und einige ihrer ehemaligen Staatsdiener. Cölln: Hammer (Quedlinburg: Basse) 1814, S. 1–38"
+  - title: "Dornenstiche für Napoleon und Hieronymus Buonaparte und einige ihrer ehemaligen Staatsdiener. Cölln: Hammer [Quedlinburg: Basse] 1814, S. 1–38"
     url: https://books.google.com/books?id=AO5YAAAAcAAJ&pg=PA1
 ids:
   dracor: ger000667
@@ -19036,6 +19036,90 @@ cast:
 settings:
   - description: >-
       Das Theater zeiget ein Mausoläum. In der Mitte steht Theresiens Sarg, um welchen eine Menge Volk gedrängt. Alle Hertzen bewegt, alle Augen von Thränen benetzt, verbreitet sich ein allgemeines Seufzen.
+---
+id: ein002560
+slug: blomberg-die wette
+author:
+  name: Blomberg, Alexander von
+  wikidata: Q2643383
+title: Die Wette
+subtitle: Lustspiel in einem Aufzug
+created: 1807
+comments:
+  - "Vgl. [Lexikon Westfälischer Autorinnen und Autoren](https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/blomberg-karl-alexander-von/) sowie Bernhard Heinemann: Wilhelm und Alexander von Blomberg. Zwei westfälische Dichter. Bad Driburg [1926], S. 88–89."
+---
+id: ein002559
+slug: blomberg-ein-sommerabend-in-berlin
+author:
+  name: Blomberg, Alexander von
+  wikidata: Q2643383
+title: Ein Sommerabend in Berlin
+subtitle: Lustspiel in einem Akt
+created: 1810
+comments:
+  - "Vgl. [Lexikon Westfälischer Autorinnen und Autoren](https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/blomberg-karl-alexander-von/) sowie Bernhard Heinemann: Wilhelm und Alexander von Blomberg. Zwei westfälische Dichter. Bad Driburg [1926], S. 88–89."
+settings:
+  - description: >-
+      [n/a]
+    location:
+      wikidataId: Q64
+---
+id: ein002558
+slug: blomberg-konrad-in-deutschland
+author:
+  name: Blomberg, Alexander von
+  wikidata: Q2643383
+title: Konrad in Deutschland
+subtitle: Vorspiel in einem Aufzug
+numberOfScenes: 6
+printed: 1820
+formalia:
+  - Blankvers
+editions:
+  - title: "Hinterlassene poetische Schriften des Freiherrn Alexander von Blomberg. Berlin: Maurer 1820, S. 1–36"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB000255C500000000
+reviews:
+  - "Allgemeines Repertorium der neuesten in- und ausländischen Literatur für 1820. Herausgegeben von einer Gesellschaft Gelehrter und besorgt von Christian Daniel Beck. Vierter Band. Leipzig: Cnobloch 1820, [S. 309](https://books.google.com/books?id=pkLKnFJ4HpYC&pg=PA309)."
+cast:
+  - name: Konrad,
+    role: Herzog von Schwaben, König von Sizilien.
+    gender: m
+  - name: Kaiserin Elisabeth,
+    role: seine Mutter.
+    gender: f
+  - name: Graf Meinhard von Tirol,
+    role: sein Stiefvater.
+    gender: m
+  - name: Herzog Ludwig von Baiern,
+    role: sein Oheim.
+    gender: m
+  - name: Markgräfin Brigitte von Meißen,
+    role: seine Verlobte.
+    gender: f
+  - name: Friedrich von Baden,
+    role: Herzog von Oestreich.
+    gender: m
+  - name: Peter von Pretio,
+    role: Konrads Kanzler.
+    gender: m
+  - name: Ritter von Frundsberg.
+    gender: m
+  - name: Ein Einsiedler.
+    gender: m
+  - name: Graf Gerhard von Donoratiko von Pisa.
+    gender: m
+  - name: Zwei Sizilische Edelleute.
+    isGroup: true
+    gender: m
+  - name: Ein Diener.
+    gender: m
+  - name: Mädchen der Markgräfin.
+    gender: f
+settings:
+  - description: >-
+      Die Handlung geht vor in Augsburg im Jahr 1267.
+    location:
+      wikidataId: Q2749
 ---
 id: ein000421
 slug: bluemner-cephise-oder-der-sieg-des-herzens
@@ -36081,14 +36165,12 @@ dictionaries:
 editions:
   - title: "Berlin: Unger 1793"
     url: https://books.google.com/books?id=x33X7w9ZrFAC&printsec=frontcover
-comments:
-  - Zweite Fortsetzung von [»Die beiden Billets«](heyne-die-beiden-billets).
 ids:
   dracor: ger000106
   wikidata: Q1192735
 keywords:
-  - Französische Revolution
   - Die beiden Billets
+  - Französische Revolution
 cast:
   - name: Röse.
     gender: f
@@ -45473,6 +45555,7 @@ ids:
   weber: A021103
 keywords:
   - Die beiden Billets
+  - Lotto
 cast:
   - name: Gürge.
     gender: m
@@ -51102,6 +51185,71 @@ settings:
       Zeit: Mittelalter.
   - description: >-
       Scene: Ritterhalle.
+---
+id: ein002557
+slug: kannegiesser-die-elfen
+author:
+  name: Kannegießer, Karl Ludwig
+  wikidata: Q90900
+title: Die Elfen
+subtitle: Feenkomödie in Einem Act
+numberOfScenes: 4
+printed: 1844
+formalia:
+  - Prosa
+  - Verse
+basedOn:
+  - heiberg-elverhoi
+editions:
+  - title: "Ausgewählte Dramatische Schriften von J. L. Heiberg. Aus dem Dänischen von Prof. Dr. K. L. Kannegießer. Erster Theil. Leipzig: Weber 1844, S. 99–189"
+    url: https://books.google.com/books?id=ixVWLsLaXgUC&pg=PA99
+reviews:
+  - "Literarische Zeitung. No. 6 (Berlin, Mittwoch den 22. Januar 1845), [Sp. 102](https://books.google.com/books?id=SkRbAAAAcAAJ&pg=PA101)."
+cast:
+  - name: Coronata,
+    role: Königin der Elfen.
+    gender: f
+  - group:
+      - name: Zerina,
+        gender: f
+      - name: Zeretta,
+        gender: f
+    role: Elfen.
+  - name: Martin,
+    role: ein Landmann.
+    gender: m
+  - name: Therese,
+    role: seine Frau.
+    gender: f
+  - name: Marie,
+    role: ihre Tochter.
+    gender: f
+  - name: Kuno,
+    role: ein alter Bergmann.
+    gender: m
+  - name: Kunigunde,
+    role: seine Frau.
+    gender: f
+  - name: Heinrich,
+    role: ihr Enkelsohn.
+    gender: m
+  - name: Grimmemann,
+    role: Pritsch- und Schulmeister.
+    gender: m
+  - name: Mannegrimm,
+    role: gleichfalls.
+    gender: m
+  - name: Johann,
+    role: Martin's Großknecht.
+    gender: m
+  - name: Ein Gnom.
+    gender: m
+  - name: Elfen, Feen, Berggeister, Landvolk.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Eine ländliche Gegend, von Bergen umgeben. Im Hintergrunde, auf der rechten Seite (für die Zuschauer), eine Brücke, welche über ein kleines Wasser führt, das den Ort, wo die Handlung vorgeht, von einem die ganze Tiefe des Hintergrundes einnehmenden Berge trennt. Ein schräger Fußsteig führt von der Brücke aufwärts nach dem gegenüberliegenden höchsten Punkt des Berges. Vor der Brücke, dicht im Winkel daneben, steht ein neugepflanzter, ganz kleiner und zarter Baum. Vor demselben ist eine kleine Bank. In der Mitte rechts ist Grimmemann's kleines, verfallenes, ärmliches Haus. Diesem grade gegenüber auf der linken Seite ist Martin's neues, stattliches, glänzend angestrichenes Haus. Daran stößt ein neuangelegter Garten, umgeben von einem vorn offenen Gitter, und längs dem Gitter steht kleines Buschwerk. Zwischen dem Garten und Grimmemann's Haus ist ein mit losen Brettern bedeckter Niedergang zu einer Bergwerksgrube.
 ---
 id: ein001132
 slug: kannegiesser-venus-zu-ross-oder-der-gesattelte-paedagog
