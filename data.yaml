@@ -20707,7 +20707,7 @@ cast:
     role: König.
     gender: m
   - name: Aristodemus,
-    role: sein Feldherr .
+    role: sein Feldherr.
     gender: m
   - name: Polytimet,
     role: des Aridäus Sohn, gefangen.
@@ -31809,6 +31809,7 @@ reviews:
 keywords:
   - Kindertheater
 ids:
+  dracor: ger000678
   wikidata: Q123285728
 cast:
   - name: Der Fürst von ***,
@@ -53281,10 +53282,13 @@ formalia:
 editions:
   - title: "Von Karl Koch, deutschem Schauspieler. Hamburg: Kratzsch 1803"
     url: https://books.google.com/books?id=ZE5WAAAAcAAJ&pg=RA1-PA1
+  - title: "Wien: Wallishausser 1806"
+    url: https://books.google.com/books?id=n6tSAAAAcAAJ&printsec=frontcover
 comments:
-  - "Laut Vorwort schrieb Koch diesen Einakter, weil sich Zuschauerinnen über seinen Einakter [»Der Weiberfeind«](koch-der-weiberfeind) beschwert haben."
+  - "Laut Vorwort schrieb Koch diesen Einakter, weil sich Zuschauerinnen über seinen Einakter [»Der Weiberfeind«](koch-der-weiberfeind) beschwert hatten."
 reviews:
   - "Der Freimüthige. Berlinische Zeitung für gebildete, unbefangene Leser. No. 173 (Montags, den 31sten Oktober 1803), [S. 692](https://books.google.com/books?id=PAxfAAAAcAAJ&pg=PA692)."
+  - "Neue Leipziger Literaturzeitung. 24. Stück (den 24. August 1805), [Sp. 382](https://books.google.com/books?id=-fZPAAAAYAAJ&pg=PA381)."
 cast:
   - name: Major von Moorstein,
     role: Onkel.
@@ -98385,7 +98389,7 @@ cast:
   - name: Haase,
     role: Kuchenbäcker, der Mädchen Vormund.
     gender: m
-  - name: Marie ,
+  - name: Marie,
     role: die alte Magd.
     gender: f
 settings:
@@ -100529,6 +100533,10 @@ editions:
 keywords:
   - Selbstmord
   - Lotto
+  - Heimkehr-Motiv
+ids:
+  dracor: ger000677
+  wikidata: Q124461049
 cast:
   - name: Joseph von Wagviel,
     role: ein Beamter.
@@ -100545,7 +100553,7 @@ cast:
   - name: Anton Glückspiel,
     role: ein blinder Kaufmann.
     gender: m
-  - name: Bläse,
+  - name: Bläse
     role: sein Diener.
     gender: m
   - name: Konrad,
@@ -103201,7 +103209,7 @@ cast:
     role: Bauer und Richter.
     gender: m
   - group:
-      - name: Kaspar Scheffler  ,
+      - name: Kaspar Scheffler,
         gender: m
       - name: Michl Wamser,
         gender: m
