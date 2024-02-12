@@ -38973,7 +38973,7 @@ editions:
   - title: "Zweyte Auflage. Wien: Kurtzbök [1774]"
     url: https://books.google.com/books?id=7uNpkU84cK4C&printsec=frontcover
   - title: "In: Weiland Philipp Hafners Sammlung aller von ihm verfaßten Lustspiele. Wien: Kurtzbek [1782]"
-    url: https://books.google.com/books?id=as1iAAAAcAAJ&pg=PA1
+    url: https://books.google.com/books?id=as1iAAAAcAAJ&pg=RA1-PA1
   - title: "Philipp Hafner's gesammelte Schriften. Erster Band. Wien: Wallishausser 1812, S. 97–132"
     url: https://books.google.com/books?id=AgEUAAAAYAAJ&pg=PA97
 comments:
@@ -77143,6 +77143,8 @@ formalia:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Dreizigster Jahrgang. Hamburg: Hoffmann & Campe 1832, S. 69–120"
     url: https://books.google.com/books?id=gDUqAAAAYAAJ&pg=PA69
+reviews:
+  - "Iris. Unterhaltungs-Blätter für Literatur und Kunst. No. 47 (9. December 1835), [S. 187](https://books.google.com/books?id=15REAAAAcAAJ&pg=RA1-PA187)."
 ids:
   dracor: ger000664
   wikidata: Q124128087
@@ -77164,6 +77166,8 @@ cast:
 settings:
   - description: >-
       Scene: Walters Wohnung, durchaus ärmlich, nur ein Tisch und zwei alte Rohrstühle.
+    location:
+      wikidataId: Q3012
 ---
 id: ein001715
 slug: raupach-der-geraubte-kuss
