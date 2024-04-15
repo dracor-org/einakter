@@ -45,7 +45,9 @@
       "date": "1746-01-01T00:00:00Z"
     },
     "death": {
-      "date": "1783-01-01T00:00:00Z"
+      "date": "1783-01-01T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
     },
     "gender": "male"
   },
@@ -663,6 +665,22 @@
     "death": {},
     "gender": "male"
   },
+  "Q2643383": {
+    "name": "Alexander von Blomberg",
+    "gnd": "116204079",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20von%20Blomberg.jpg",
+    "birth": {
+      "date": "1788-01-31T00:00:00Z",
+      "place": "Lage",
+      "placeId": "http://www.wikidata.org/entity/Q14953"
+    },
+    "death": {
+      "date": "1813-02-20T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "gender": "male"
+  },
   "Q1596769": {
     "name": "Heinrich Blümner",
     "gnd": "116205814",
@@ -796,10 +814,14 @@
     "name": "Gottfried Conrad Böttger",
     "gnd": "100769195",
     "birth": {
-      "date": "1731-01-01T00:00:00Z"
+      "date": "1731-01-01T00:00:00Z",
+      "place": "Sondershausen",
+      "placeId": "http://www.wikidata.org/entity/Q517407"
     },
     "death": {
-      "date": "1794-01-01T00:00:00Z"
+      "date": "1794-11-26T00:00:00Z",
+      "place": "Sondershausen",
+      "placeId": "http://www.wikidata.org/entity/Q517407"
     },
     "gender": "male"
   },
@@ -2089,6 +2111,19 @@
     },
     "gender": "male"
   },
+  "Q94814224": {
+    "name": "Otto Sager",
+    "gnd": "1050781767",
+    "birth": {
+      "date": "1750-01-01T00:00:00Z",
+      "place": "Biberach an der Riß",
+      "placeId": "http://www.wikidata.org/entity/Q16069"
+    },
+    "death": {
+      "date": "1815-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q19976549": {
     "name": "August Gathy",
     "gnd": "100604889",
@@ -2510,10 +2545,12 @@
     "name": "Karl Ferdinand Daniel Grohmann",
     "gnd": "128572795",
     "birth": {
-      "date": "1758-01-01T00:00:00Z"
+      "date": "1758-06-13T00:00:00Z",
+      "place": "Leipzig",
+      "placeId": "http://www.wikidata.org/entity/Q2079"
     },
     "death": {
-      "date": "1794-01-01T00:00:00Z"
+      "date": "1794-02-01T00:00:00Z"
     },
     "gender": "male"
   },
@@ -6861,6 +6898,21 @@
     },
     "gender": "male"
   },
+  "Q108814807": {
+    "name": "David Friedrich Schulze",
+    "gnd": "133401723",
+    "birth": {
+      "date": "1775-05-09T00:00:00Z",
+      "place": "Tiefensee",
+      "placeId": "http://www.wikidata.org/entity/Q2431912"
+    },
+    "death": {
+      "date": "1810-07-27T00:00:00Z",
+      "place": "Waldheim",
+      "placeId": "http://www.wikidata.org/entity/Q71154"
+    },
+    "gender": "male"
+  },
   "Q1694208": {
     "name": "Johann Gottlieb Schummel",
     "gnd": "118762648",
@@ -7362,6 +7414,13 @@
       "place": "Bug",
       "placeId": "http://www.wikidata.org/entity/Q1002175"
     },
+    "gender": "male"
+  },
+  "Q123677359": {
+    "name": "Johann Friedrich von Sternhayn",
+    "gnd": "1049594541",
+    "birth": {},
+    "death": {},
     "gender": "male"
   },
   "Q19311712": {
@@ -8122,6 +8181,13 @@
     "death": {
       "date": "1801-01-01T00:00:00Z"
     },
+    "gender": "male"
+  },
+  "Q123615819": {
+    "name": "Gottlieb  Wetzinger",
+    "gnd": "103551673X",
+    "birth": {},
+    "death": {},
     "gender": "male"
   },
   "Q114493": {

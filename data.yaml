@@ -2636,7 +2636,7 @@ settings:
 id: ein002531
 slug: anonym-adolphine
 author:
-  name: Anonym
+  pseudonym: Anonym
 title: Adolphine
 subtitle: Schauspiel in 1 Akt
 printed: 1804
@@ -3667,64 +3667,6 @@ cast:
 settings:
   - description: >-
       Die Scene ist auf dem Schlosse des Marki.
----
-id: ein000079
-slug: anonym-das-kaffee-haus-zu-paris
-author:
-  pseudonym: Anonym
-title: Das Kaffee-Haus zu Paris
-subtitle: Ein Lustspiel in einem Akte
-numberOfScenes: 18
-printed: 1780
-formalia:
-  - Prosa
-basedOn:
-  - rousseau-le-cafe
-editions:
-  - title: "Zwey Lustspiele von einem Akt. Aus dem Französischen des Herrn Johann Baptist Rousseau übersezt. Nordhausen: Groß 1780, S. 51–108"
-    url: https://books.google.com/books?id=ahBaAAAAcAAJ&pg=PA51
-cast:
-  - name: Frau Jerome,
-    role: die Kaffeeschenkin.
-    gender: f
-  - name: Louischen,
-    role: ihre Tochter.
-    gender: f
-  - name: Dorant,
-    role: Liebhaber Louischens.
-    gender: m
-  - name: Herr Jobelin,
-    role: ein Notarius.
-    gender: m
-  - name: La Sourdiere,
-    role: ein Freund Herrn Jobelius.
-    gender: m
-  - group:
-      - name: Ein Ritter.
-        gender: m
-      - name: Coronis,
-        role: ein Gaskonier.
-        gender: m
-      - name: Ein Abt.
-        gender: m
-    role: Freunde Dorants.
-  - name: Carondas,
-    role: ein Poet.
-    gender: m
-  - name: La Flesche,
-    role: Bedienter Dorants.
-    gender: m
-  - name: Zween, die Dame ziehen.
-    isGroup: true
-    gender: m
-settings:
-  - description: >-
-      Der Schauplaz stellet einen Saal des Kaffeehauses, mit verschiedenen
-      Tischen versehen, vor. Man siehet den Poeten auf der einen Seite, neben
-      den beyden Damenspielern in einem tiefen Nachsinnen. Der Abt schläft in
-      einem Armstuhle, am obersten Ende des Schauplazzes. Auf der andern Seite
-      sizzen Coronis und La Sourdiere und streiten mit einander, indem sie ihren
-      Kaffee trinken.
 ---
 id: ein000080
 slug: anonym-das-kammermaedchen-als-liebhaber
@@ -7425,6 +7367,12 @@ dictionaries:
 editions:
   - title: "Frankfurt und Leipzig: Monath 1750"
     url: https://books.google.com/books?id=EBtaAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: ger000682
+  wikidata: Q124791412
+keywords:
+  - Alter vs. Jugend
+  - Eheanbahnung
 cast:
   - name: Der Doctor Pantalogus.
     gender: m
@@ -10298,7 +10246,7 @@ settings:
 id: ein002532
 slug: anonym-die-tiefe-trauer
 author:
-  name: Anonym
+  pseudonym: Anonym
 title: Die tiefe Trauer
 subtitle: Lustspiel in 1 Act
 printed: 1804
@@ -10359,15 +10307,22 @@ numberOfScenes: 16
 printed: 1743
 formalia:
   - Alexandriner
+comments:
+  - "Die 1754er Ausgabe mit dem Titel »Die Frauenlist« findet sich verzeichnet in einem zeitgenössischen Wiener Katalog verbotener Bücher: Catalogus Librorum per quinquennium a Commissione Aulica prohibitorum. Wien: Kaliwoda 1758, [S. 66](https://books.google.com/books?id=2etVAAAAcAAJ&pg=PA66)."
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 12, S. 224–225, und Band 17, S. 54–55
 editions:
   - title: "Hamburg: Nottebohm 1743"
-  - title: "Neueste Auflage. Frankfurt und Leipzig 1753"
+    url: http://resolver.sub.uni-hamburg.de/goobi/PPN1008134406
+  - title: "Die Weiber-List. Ein Lustspiel in einer Handlung. Neueste Auflage. Frankfurt und Leipzig 1753"
     url: https://books.google.com/books?id=eDFJAAAAcAAJ&printsec=frontcover
-comments:
-  - Auch unter dem Titel »Die Frauenlist, ein Lustspiel. Von einer Handlung in Versen« (ohne Ort 1754).
+  - title: "Die Frauenlist, ein Lustspiel. Von einer Handlung in Versen. [Ohne Ort] 1754"
+keywords:
+  - Ehebruch
+ids:
+  dracor: ger000661
+  wikidata: Q123991581
 cast:
   - name: Herr Steffen.
     gender: m
@@ -10578,8 +10533,13 @@ dictionaries:
 editions:
   - title: "[Ohne Ort: ohne Verlag] 1779"
     url: https://books.google.com/books?id=hgYRSaGmi1EC&printsec=frontcover
+comments:
+  - "Der Titel bezieht sich auf die 15 »Regeln für die Hochgräflich Wied-Neuwiedischen Hof-Schauspieler«, vgl. Theater-Journal für Deutschland. Achtes Stück. Gotha: Ettinger 1778, [S. 42–46](https://books.google.com/books?id=WFM7AAAAcAAJ&pg=PA42)."
 keywords:
   - Theaterbetrieb
+ids:
+  dracor: ger000663
+  wikidata: Q124042831
 cast:
   - name: Herr Pilster.
     role: Unterdirektor.
@@ -10594,7 +10554,7 @@ cast:
       - name: Mamsell Steel.
         gender: f
       - name: Ein Schatten.
-        gender: u
+        gender: m
     role: Schauspieler, und Schauspielerinnen.
   - name: Herr von Flieh.
     gender: m
@@ -10755,8 +10715,11 @@ printed: 1814
 formalia:
   - gereimte Verse
 editions:
-  - title: "Dornenstiche für Napoleon und Hieronymus Buonaparte und einige ihrer ehemaligen Staatsdiener. Cölln: Hammer 1814, S. 1–38"
+  - title: "Dornenstiche für Napoleon und Hieronymus Buonaparte und einige ihrer ehemaligen Staatsdiener. Cölln: Hammer [Quedlinburg: Basse] 1814, S. 1–38"
     url: https://books.google.com/books?id=AO5YAAAAcAAJ&pg=PA1
+ids:
+  dracor: ger000667
+  wikidata: Q124262137
 cast:
   - name: Bonaparte,
     role: Lieutenant.
@@ -10766,7 +10729,7 @@ cast:
     gender: m
   - name: Davoust,
     role: Fleischhauer.
-    gender: n
+    gender: m
   - name: Ney,
     role: Tabackshändler.
     gender: m
@@ -10778,7 +10741,7 @@ cast:
     gender: m
   - name: Ein Küchenmeister.
     gender: m
-  - name: Arian.
+  - name: Urian.
     gender: m
   - name: Drei Preußl. Jäger. Ein Grenadier. Viele Soldaten.
     isGroup: true
@@ -11552,6 +11515,9 @@ dictionaries:
 editions:
   - title: "Berlin, Stettin und Leipzig: Rüdiger 1760"
     url: https://books.google.com/books?id=ezRJAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: ger000657
+  wikidata: Q123764926
 cast:
   - name: Geront,
     gender: m
@@ -12078,7 +12044,7 @@ settings:
 id: ein002541
 slug: anonym-die-zufriedenen
 author:
-  name: Anonym
+  pseudonym: Anonym
 title: Die Zufriedenen
 subtitle: Fastnachtsposse in einem Akt
 printed: 1822
@@ -15095,7 +15061,7 @@ editions:
   - title: "Benedikt David Arnstein's dramatische Versuche. Erstes Bändchen. Wien: Baumeister 1787, S. 67–132"
     url: https://books.google.com/books?id=Cqj0Mj9ghokC&pg=PA67
 keywords:
-  - Liebestest
+  - Liebesprobe
   - Verkleidungsspiel
 cast:
   - name: Fräulein Sophie von Seauer.
@@ -18841,6 +18807,9 @@ editions:
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10128154_00009.html
 comments:
   - "1832 als Erzählung von Birch-Pfeiffer [unter demselben Titel](https://books.google.com/books?id=nHxEAAAAcAAJ&pg=PA357)."
+keywords:
+  - Eheanbahnung
+  - Geld
 ids:
   wikidata: Q117377814
 cast:
@@ -18881,6 +18850,7 @@ cast:
   - name: Der Haushofmeister der Gräfin Solowsky.
     gender: m
   - name: Polizeydiener.
+    isGroup: true
     gender: m
   - name: Diener der Gräfin.
     isGroup: true
@@ -19076,6 +19046,90 @@ cast:
 settings:
   - description: >-
       Das Theater zeiget ein Mausoläum. In der Mitte steht Theresiens Sarg, um welchen eine Menge Volk gedrängt. Alle Hertzen bewegt, alle Augen von Thränen benetzt, verbreitet sich ein allgemeines Seufzen.
+---
+id: ein002560
+slug: blomberg-die wette
+author:
+  name: Blomberg, Alexander von
+  wikidata: Q2643383
+title: Die Wette
+subtitle: Lustspiel in einem Aufzug
+created: 1807
+comments:
+  - "Vgl. [Lexikon Westfälischer Autorinnen und Autoren](https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/blomberg-karl-alexander-von/) sowie Bernhard Heinemann: Wilhelm und Alexander von Blomberg. Zwei westfälische Dichter. Bad Driburg [1926], S. 88–89."
+---
+id: ein002559
+slug: blomberg-ein-sommerabend-in-berlin
+author:
+  name: Blomberg, Alexander von
+  wikidata: Q2643383
+title: Ein Sommerabend in Berlin
+subtitle: Lustspiel in einem Akt
+created: 1810
+comments:
+  - "Vgl. [Lexikon Westfälischer Autorinnen und Autoren](https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/blomberg-karl-alexander-von/) sowie Bernhard Heinemann: Wilhelm und Alexander von Blomberg. Zwei westfälische Dichter. Bad Driburg [1926], S. 88–89."
+settings:
+  - description: >-
+      [n/a]
+    location:
+      wikidataId: Q64
+---
+id: ein002558
+slug: blomberg-konrad-in-deutschland
+author:
+  name: Blomberg, Alexander von
+  wikidata: Q2643383
+title: Konrad in Deutschland
+subtitle: Vorspiel in einem Aufzug
+numberOfScenes: 6
+printed: 1820
+formalia:
+  - Blankvers
+editions:
+  - title: "Hinterlassene poetische Schriften des Freiherrn Alexander von Blomberg. Berlin: Maurer 1820, S. 1–36"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB000255C500000000
+reviews:
+  - "Allgemeines Repertorium der neuesten in- und ausländischen Literatur für 1820. Herausgegeben von einer Gesellschaft Gelehrter und besorgt von Christian Daniel Beck. Vierter Band. Leipzig: Cnobloch 1820, [S. 309](https://books.google.com/books?id=pkLKnFJ4HpYC&pg=PA309)."
+cast:
+  - name: Konrad,
+    role: Herzog von Schwaben, König von Sizilien.
+    gender: m
+  - name: Kaiserin Elisabeth,
+    role: seine Mutter.
+    gender: f
+  - name: Graf Meinhard von Tirol,
+    role: sein Stiefvater.
+    gender: m
+  - name: Herzog Ludwig von Baiern,
+    role: sein Oheim.
+    gender: m
+  - name: Markgräfin Brigitte von Meißen,
+    role: seine Verlobte.
+    gender: f
+  - name: Friedrich von Baden,
+    role: Herzog von Oestreich.
+    gender: m
+  - name: Peter von Pretio,
+    role: Konrads Kanzler.
+    gender: m
+  - name: Ritter von Frundsberg.
+    gender: m
+  - name: Ein Einsiedler.
+    gender: m
+  - name: Graf Gerhard von Donoratiko von Pisa.
+    gender: m
+  - name: Zwei Sizilische Edelleute.
+    isGroup: true
+    gender: m
+  - name: Ein Diener.
+    gender: m
+  - name: Mädchen der Markgräfin.
+    gender: f
+settings:
+  - description: >-
+      Die Handlung geht vor in Augsburg im Jahr 1267.
+    location:
+      wikidataId: Q2749
 ---
 id: ein000421
 slug: bluemner-cephise-oder-der-sieg-des-herzens
@@ -20659,7 +20713,7 @@ cast:
     role: König.
     gender: m
   - name: Aristodemus,
-    role: sein Feldherr .
+    role: sein Feldherr.
     gender: m
   - name: Polytimet,
     role: des Aridäus Sohn, gefangen.
@@ -20843,6 +20897,12 @@ editions:
     url: https://www.wehrhahn-verlag.de/public/index.php?ID_Section=3&ID_Product=1394
 comments:
   - "Aufführungsnachweise: [Wien 1795](https://books.google.com/books?id=KLQTAAAAYAAJ&pg=RA2-PA218)."
+keywords:
+  - Alter vs. Jugend
+  - Eheanbahnung
+ids:
+  dracor: ger000683
+  wikidata: Q124796383
 cast:
   - name: Mifflin,
     role: ein alter Philosoph und Astronom, Vormund und Lehrer der Jenny.
@@ -20915,6 +20975,71 @@ settings:
       Auftritt bis zu den zwölften, ist ein Zimmer mit einer Mittelthür und zwey
       Seitenthüren, von dreizehnten bis zum funfzehnten, ein anders schlechtes
       Zimmer. Denn wieder, die erste Dekoration bis zu Ende.
+---
+id: ein000079
+slug: boettger-das-kaffee-haus-zu-paris
+author:
+  name: Böttger, Gottfried Conrad
+  wikidata: Q94886965
+title: Das Kaffee-Haus zu Paris
+subtitle: Ein Lustspiel in einem Akte
+numberOfScenes: 18
+printed: 1780
+formalia:
+  - Prosa
+basedOn:
+  - rousseau-le-cafe
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 27, S. 389
+editions:
+  - title: "Zwey Lustspiele von einem Akt. Aus dem Französischen des Herrn Johann Baptist Rousseau übersezt. Nordhausen: Groß 1780, S. 51–108"
+    url: https://books.google.com/books?id=ahBaAAAAcAAJ&pg=PA51
+ids:
+  dracor: ger000662
+  wikidata: Q124013500
+cast:
+  - name: Frau Jerome,
+    role: die Kaffeeschenkin.
+    gender: f
+  - name: Louischen,
+    role: ihre Tochter.
+    gender: f
+  - name: Dorant,
+    role: Liebhaber Louischens.
+    gender: m
+  - name: Herr Jobelin,
+    role: ein Notarius.
+    gender: m
+  - name: La Sourdiere,
+    role: ein Freund Herrn Jobelius.
+    gender: m
+  - group:
+      - name: Ein Ritter.
+        gender: m
+      - name: Coronis,
+        role: ein Gaskonier.
+        gender: m
+      - name: Ein Abt.
+        gender: m
+    role: Freunde Dorants.
+  - name: Carondas,
+    role: ein Poet.
+    gender: m
+  - name: La Flesche,
+    role: Bedienter Dorants.
+    gender: m
+  - name: Zween, die Dame ziehen.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Der Schauplaz stellet einen Saal des Kaffeehauses, mit verschiedenen
+      Tischen versehen, vor. Man siehet den Poeten auf der einen Seite, neben
+      den beyden Damenspielern in einem tiefen Nachsinnen. Der Abt schläft in
+      einem Armstuhle, am obersten Ende des Schauplazzes. Auf der andern Seite
+      sizzen Coronis und La Sourdiere und streiten mit einander, indem sie ihren
+      Kaffee trinken.
 ---
 id: ein000459
 slug: boettger-der-gebesserte-ehemann
@@ -22738,6 +22863,7 @@ keywords:
   - Rolle der Frau
   - Lotto
   - Eheanbahnung
+  - Geld
 ids:
   wikidata: Q117377863
 cast:
@@ -23004,7 +23130,7 @@ author:
 title: Die neue Messaline
 subtitle: Trauerspiel in einem Akt. Nach dem Französischen
 numberOfScenes: 14
-printed: 1788
+printed: 1786
 formalia:
   - Prosa
 basedOn:
@@ -23013,6 +23139,8 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 30, S. 222
 editions:
+  - title: "Kanthariden. Rom bei Giovanni Tassoni (= Berlin: Himburg) 1786, S. 105–136"
+    url: https://books.google.com/books?id=O14Alfdf9XwC&pg=PA105
   - title: "Kanthariden. Rom bei Giovanni Tassoni (= Berlin: Himburg) 1788, S. 105–136"
     url: https://books.google.com/books?id=ygZOAAAAcAAJ&pg=RA2-PA105
 keywords:
@@ -23067,7 +23195,11 @@ editions:
     url: https://books.google.com/books?id=XB6qxAjg17wC&printsec=frontcover
   - title: "Paphos: Amors Druckerey 1784"
     url: https://books.google.com/books?id=9NpaAAAAcAAJ&printsec=frontcover
-  - title: "Freiheit – Gleichheit – Sinnlichkeit. Literatur des Libertinismus in Deutschland. Herausgegeben von Markus Bernauer und Josefine Kitzbichler. Band 1. Köln: Galiani Berlin 2023, S. 255ff."
+  - title: "Kanthariden. Rom bei Giovanni Tassoni (= Berlin: Himburg) 1786, S. 69–104"
+    url: https://books.google.com/books?id=O14Alfdf9XwC&pg=PA69
+  - title: "Kanthariden. Rom bei Giovanni Tassoni (= Berlin: Himburg) 1788, S. 69–104"
+    url: https://books.google.com/books?id=ygZOAAAAcAAJ&pg=RA2-PA105
+  - title: "Freiheit – Gleichheit – Sinnlichkeit. Literatur des Libertinismus in Deutschland. Herausgegeben von Markus Bernauer und Josefine Kitzbichler. Band 1. Köln: Galiani Berlin 2023, S. 255–264"
     url: https://www.galiani.de/buch/9783869712895
 comments:
   - "Auch mit dem Untertitel »Ein Duodrama mit Musik« (1784)."
@@ -23075,6 +23207,9 @@ reviews:
   - "Allgemeine Literatur-Zeitung. Beylage zu Numero 16 (Donnerstags, den 20ten Januar 1785), [S. 74](https://books.google.com/books?id=gnFIAAAAYAAJ&pg=PA74)."
 keywords:
   - Pornografie
+ids:
+  dracor: ger000659
+  wikidata: Q123909304
 cast:
   - name: Julus Askanius.
     gender: m
@@ -23088,7 +23223,7 @@ cast:
     gender: f
   - name: Genii.
     isGroup: true
-    gender: u
+    gender: m
 settings:
   - description: >-
       Eine einsame angenehme Gegend – im Hintergrund ein Felsen von dem das Wasser sich in einen kleinen Bach herabstürzt und eine Cascade formirt – vorn eine kleine anmuthige Grotte, in welcher Rhea liegt.
@@ -27216,6 +27351,7 @@ reviews:
 keywords:
   - Eifersucht
   - Ehe
+  - Untreue
 ids:
   wikidata: Q117382698
 cast:
@@ -27431,6 +27567,8 @@ basedOn:
 editions:
   - title: "Berliner Theater-Almanach auf das Jahr 1837. Herausgegeben von Alexander Cosmar. Zweiter Jahrgang. Berlin: Bade 1837, S. 61–108"
     url: https://books.google.com/books?id=c0E7AAAAcAAJ&pg=PA61
+keywords:
+  - Eheanbahnung
 ids:
   wikidata: Q117382715
 cast:
@@ -30530,6 +30668,7 @@ keywords:
   - bürgerliches Trauerspiel
   - Rache
 ids:
+  dracor: ger000656
   wikidata: Q122749478
 cast:
   - name: Marchese Carlo Ponza.
@@ -31169,6 +31308,9 @@ editions:
 reviews:
   - "Der Gesellschafter. Blätter für Geist und Herz. 77stes Blatt (Freitag den 14. Mai 1824), [S. 384](https://books.google.com/books?id=QFZEAAAAcAAJ&pg=PA384)."
   - "Flora. Ein Unterhaltungs-Blatt. Nro. 153 (München, Donnerstags den 2. August 1827), [S. 637](https://books.google.com/books?id=DI5NAAAAcAAJ&pg=PA637)."
+keywords:
+  - Eheanbahnung
+  - Verwechslungsspiel
 ids:
   wikidata: Q117455574
 cast:
@@ -31212,6 +31354,10 @@ basedOn:
 editions:
   - title: "Lustspiele. Frei nach dem Französischen bearbeitet von Friederike Ellmenreich. Erster Band. Mainz: Kupferberg 1827"
     url: https://books.google.com/books?id=iEqrdY4uTxcC&pg=RA3-PA1
+keywords:
+  - Eheanbahnung
+  - Verwechslungsspiel
+  - Geld
 ids:
   wikidata: Q117467058
 cast:
@@ -31320,6 +31466,7 @@ ids:
 keywords:
   - Verwechslungsspiel
   - Eheanbahnung
+  - Geld
 cast:
   - name: Gräfin Lukrezia,
     role: Wittwe des älteren Grafen von Torstendorf.
@@ -31358,6 +31505,9 @@ formalia:
 editions:
   - title: "Lustspiele. Frei nach dem Französischen bearbeitet von Friederike Ellmenreich. Zweiter Band. Mainz: Kupferberg 1827"
     url: https://books.google.com/books?id=z1dFWhS9SucC&pg=PA1
+keywords:
+  - Eheanbahnung
+  - Liebesprobe
 cast:
   - name: Christine,
     role: Wirthin zum goldenen Lamm.
@@ -31671,6 +31821,7 @@ reviews:
 keywords:
   - Kindertheater
 ids:
+  dracor: ger000678
   wikidata: Q123285728
 cast:
   - name: Der Fürst von ***,
@@ -33908,6 +34059,10 @@ formalia:
 editions:
   - title: "Theater von Regina Frohberg. Zweites Bändchen. Wiesbaden: Schellenberg 1818, S. 185–256"
     url: https://books.google.com/books?id=B5xmAAAAcAAJ&pg=PA185
+keywords:
+  - Eheanbahnung
+  - Parodie
+  - Liebesprobe
 ids:
   wikidata: Q117470319
 cast:
@@ -34248,7 +34403,9 @@ settings:
 id: ein000762
 slug: gasser-ramirus
 author:
-  name: Gaßer, Franz
+  name: Sager, Otto
+  pseudonym: Gaßer, Franz
+  wikidata: Q94814224
 title: Ramirus
 subtitle: In einem Aufzuge
 numberOfScenes: 10
@@ -34263,6 +34420,9 @@ editions:
     url: https://books.google.com/books?id=rNVNAAAAcAAJ&pg=PA101
 comments:
   - Von Meyer unter Anonyme 1770 einsortiert.
+ids:
+  dracor: ger000658
+  wikidata: Q123824760
 cast:
   - name: Ramirus,
     role: ein verunglückter von Adel.
@@ -34995,6 +35155,8 @@ editions:
 comments:
   - Auch unter dem Titel »Das Band. Ein Schauspiel in einem Aufzuge« (1769).
   - "Auch mit dem Untertitel »Ein kleines Tagslustspiel für Kinder. In einem Akte«."
+ids:
+  wikidata: Q123510638
 cast:
   - name: Galathee.
     gender: f
@@ -36039,14 +36201,12 @@ dictionaries:
 editions:
   - title: "Berlin: Unger 1793"
     url: https://books.google.com/books?id=x33X7w9ZrFAC&printsec=frontcover
-comments:
-  - Zweite Fortsetzung von [»Die beiden Billets«](heyne-die-beiden-billets).
 ids:
   dracor: ger000106
   wikidata: Q1192735
 keywords:
-  - Französische Revolution
   - Die beiden Billets
+  - Französische Revolution
 cast:
   - name: Röse.
     gender: f
@@ -37301,14 +37461,44 @@ slug: grohmann-parbleu-ich-bin-nicht-der-rechte
 author:
   name: Grohmann, Karl Ferdinand Daniel
   wikidata: Q54506863
-title: Parbleu! ich bin nicht der rechte
-subtitle: Posse in Einem Akte
+title: Parbleu! ich bin nicht der Rechte
+subtitle: Ein Lustspiel in einem Aufzuge
 premiered: 1787-03-07
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 30, S. 31
 reviews:
  - "Ephemeriden der Litteratur und des Theaters. Einundzwanzigstes Stück (Berlin den 26ten May 1787), [S. 331](https://books.google.com/books?id=9TMp8KmP4JQC&pg=PA331)."
+comments:
+  - "Theaterzettel: [Hamburg 1787](https://www.stadttheater.uni-hamburg.de/system/files/1787-03-07_0.pdf)."
+cast:
+  - name: Schief,
+    role: der Schöffer.
+    gender: m
+  - name: Spizkopf,
+    role: der Richter.
+    gender: m
+  - group:
+      - name: Kraft,
+        gender: m
+      - name: Saft,
+        gender: m
+    role: Schöppen.
+  - name: Schneller,
+    role: der Wirth.
+    gender: m
+  - name: Le Brün,
+    role: ein Friseur.
+    gender: m
+  - name: Knaul,
+    role: ein Bürstenbinder.
+    gender: m
+  - name: Muff,
+    role: ein Strassenräuber.
+    gender: m
+  - name: Kasper,
+    role: der Wirths Junge.
+    gender: m
 ---
 id: ein000826
 slug: grossmann-das-angebinde
@@ -38779,6 +38969,8 @@ author:
 title: Die reisenden Komödianten, oder der gescheide und dämische Impressario
 subtitle: Ein Lustspiel von einer Abhandlung
 numberOfScenes: 3
+created: 1761
+printed: 1762
 premiered: 1762
 formalia:
   - Verse
@@ -38786,13 +38978,22 @@ formalia:
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 20, S. 274–275
+reviews:
+  - "Allgemeine deutsche Bibliothek. Anhang zu dem dreyzehnten bis vier und zwanzigsten Bande der allgemeinen deutschen Bibliothek. Zweyte Abtheilung. Berlin und Stettin: Nicolai 1777, [S. 1140–1141](https://books.google.com/books?id=orPsAAAAMAAJ&pg=PA1140)."
 editions:
-  - title: "Zweyte Auflage. Wien: Kurtzbök [o. J.]"
-    url: https://books.google.com/books?id=7uNpkU84cK4C&printsec=frontcover
+  - title: "Wien: Kurtzbök [1762]"
+  - title: "Zweyte Auflage. Wien: Kurtzbök [1774]"
+    url: https://books.google.com/books?id=e3g6AAAAcAAJ&printsec=frontcover
+  - title: "In: Weiland Philipp Hafners Sammlung aller von ihm verfaßten Lustspiele. Wien: Kurtzbek [1782]"
+    url: https://books.google.com/books?id=as1iAAAAcAAJ&pg=RA1-PA1
   - title: "Philipp Hafner's gesammelte Schriften. Erster Band. Wien: Wallishausser 1812, S. 97–132"
     url: https://books.google.com/books?id=AgEUAAAAYAAJ&pg=PA97
 comments:
   - Am Ende des Textes [»Vorspiel«](https://books.google.com/books?id=7uNpkU84cK4C&pg=PP46) genannt.
+  - "Zum Entstehungs-, Erstdruck- und Aufführungsdatum vgl. Katrin Dennerlein: Materialien und Medien der Komödiengeschichte. Zur Praxeologie der Werkzirkulation zwischen Hamburg und Wien von 1678–1806. Berlin/Boston: De Gruyter 2021, S. 112–114. ([doi:10.1515/9783110691191](https://doi.org/10.1515/9783110691191))"
+ids:
+  dracor: ger000681
+  wikidata: Q78728476
 keywords:
   - Theaterbetrieb
 cast:
@@ -45391,6 +45592,7 @@ ids:
   weber: A021103
 keywords:
   - Die beiden Billets
+  - Lotto
 cast:
   - name: Gürge.
     gender: m
@@ -51021,6 +51223,71 @@ settings:
   - description: >-
       Scene: Ritterhalle.
 ---
+id: ein002557
+slug: kannegiesser-die-elfen
+author:
+  name: Kannegießer, Karl Ludwig
+  wikidata: Q90900
+title: Die Elfen
+subtitle: Feenkomödie in Einem Act
+numberOfScenes: 4
+printed: 1844
+formalia:
+  - Prosa
+  - Verse
+basedOn:
+  - heiberg-elverhoi
+editions:
+  - title: "Ausgewählte Dramatische Schriften von J. L. Heiberg. Aus dem Dänischen von Prof. Dr. K. L. Kannegießer. Erster Theil. Leipzig: Weber 1844, S. 99–189"
+    url: https://books.google.com/books?id=ixVWLsLaXgUC&pg=PA99
+reviews:
+  - "Literarische Zeitung. No. 6 (Berlin, Mittwoch den 22. Januar 1845), [Sp. 102](https://books.google.com/books?id=SkRbAAAAcAAJ&pg=PA101)."
+cast:
+  - name: Coronata,
+    role: Königin der Elfen.
+    gender: f
+  - group:
+      - name: Zerina,
+        gender: f
+      - name: Zeretta,
+        gender: f
+    role: Elfen.
+  - name: Martin,
+    role: ein Landmann.
+    gender: m
+  - name: Therese,
+    role: seine Frau.
+    gender: f
+  - name: Marie,
+    role: ihre Tochter.
+    gender: f
+  - name: Kuno,
+    role: ein alter Bergmann.
+    gender: m
+  - name: Kunigunde,
+    role: seine Frau.
+    gender: f
+  - name: Heinrich,
+    role: ihr Enkelsohn.
+    gender: m
+  - name: Grimmemann,
+    role: Pritsch- und Schulmeister.
+    gender: m
+  - name: Mannegrimm,
+    role: gleichfalls.
+    gender: m
+  - name: Johann,
+    role: Martin's Großknecht.
+    gender: m
+  - name: Ein Gnom.
+    gender: m
+  - name: Elfen, Feen, Berggeister, Landvolk.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Eine ländliche Gegend, von Bergen umgeben. Im Hintergrunde, auf der rechten Seite (für die Zuschauer), eine Brücke, welche über ein kleines Wasser führt, das den Ort, wo die Handlung vorgeht, von einem die ganze Tiefe des Hintergrundes einnehmenden Berge trennt. Ein schräger Fußsteig führt von der Brücke aufwärts nach dem gegenüberliegenden höchsten Punkt des Berges. Vor der Brücke, dicht im Winkel daneben, steht ein neugepflanzter, ganz kleiner und zarter Baum. Vor demselben ist eine kleine Bank. In der Mitte rechts ist Grimmemann's kleines, verfallenes, ärmliches Haus. Diesem grade gegenüber auf der linken Seite ist Martin's neues, stattliches, glänzend angestrichenes Haus. Daran stößt ein neuangelegter Garten, umgeben von einem vorn offenen Gitter, und längs dem Gitter steht kleines Buschwerk. Zwischen dem Garten und Grimmemann's Haus ist ein mit losen Brettern bedeckter Niedergang zu einer Bergwerksgrube.
+---
 id: ein001132
 slug: kannegiesser-venus-zu-ross-oder-der-gesattelte-paedagog
 author:
@@ -53028,10 +53295,16 @@ formalia:
 editions:
   - title: "Von Karl Koch, deutschem Schauspieler. Hamburg: Kratzsch 1803"
     url: https://books.google.com/books?id=ZE5WAAAAcAAJ&pg=RA1-PA1
+  - title: "Wien: Wallishausser 1806"
+    url: https://books.google.com/books?id=n6tSAAAAcAAJ&printsec=frontcover
 comments:
-  - "Laut Vorwort schrieb Koch diesen Einakter, weil sich Zuschauerinnen über seinen Einakter [»Der Weiberfeind«](koch-der-weiberfeind) beschwert haben."
+  - "Laut Vorwort schrieb Koch diesen Einakter, weil sich Zuschauerinnen über seinen Einakter [»Der Weiberfeind«](koch-der-weiberfeind) beschwert hatten."
 reviews:
   - "Der Freimüthige. Berlinische Zeitung für gebildete, unbefangene Leser. No. 173 (Montags, den 31sten Oktober 1803), [S. 692](https://books.google.com/books?id=PAxfAAAAcAAJ&pg=PA692)."
+  - "Neue Leipziger Literaturzeitung. 24. Stück (den 24. August 1805), [Sp. 382](https://books.google.com/books?id=-fZPAAAAYAAJ&pg=PA381)."
+ids:
+  dracor: ger000680
+  wikidata: Q124657244
 cast:
   - name: Major von Moorstein,
     role: Onkel.
@@ -53041,7 +53314,7 @@ cast:
         gender: f
       - name: Fräulein von Winterau,
         gender: f
-    role: Tante der
+    role: Tanten der
   - name: Fräulein Luise Meyfeld.
     gender: f
   - name: Hauptmann von Sellheim.
@@ -54464,8 +54737,14 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Vierter Jahrgang. Berlin: La Garde 1806, S. 97–130"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044918_00107.html
+reviews:
+  - "Der Freimüthige oder Ernst und Scherz. Nro. 216 (Dienstag, den 29. Oktober 1805), [S. 445–446](https://books.google.com/books?id=ca-lAgH1qO0C&pg=RA1-PP1)."
+  - "Neue Bibliothek der schönen Wissenschaften und der freyen Künste. Zwey und siebenzigsten Bandes Zweytes Stück. Leipzig: Dyck 1806, [S. 314](https://books.google.com/books?id=AxhnAAAAcAAJ&pg=PA314)."
 keywords:
   - Indien
+ids:
+  dracor: ger000676
+  wikidata: Q124435188
 cast:
   - name: Aldor,
     role: ein indischer Sultan.
@@ -54478,7 +54757,7 @@ cast:
       - name: Korasmin.
         gender: m
     role: seine Söhne.
-  - name: Zambur.
+  - name: Zambuc.
     gender: m
   - name: Ein Genius.
     gender: m
@@ -54697,6 +54976,7 @@ editions:
   - title: "Theater von August v. Kotzebue. Ein und zwanzigster Band. Wien: Lechner 1833, S. 153–203"
     url: https://books.google.com/books?id=SVRlAAAAcAAJ&pg=PA153
 ids:
+  dracor: ger000679
   weber: A020626
   wikidata: Q110889067
 comments:
@@ -56390,7 +56670,7 @@ cast:
         gender: m
     role: ihre Kinder.
   - name: Marquis de Rozieres.
-    gender: f
+    gender: m
   - name: Antoinette,
     role: Kammermädchen.
     gender: f
@@ -56532,7 +56812,7 @@ numberOfScenes: 11
 printed: 1812
 premiered: 1811-09-21
 formalia:
-  - Prosa
+  - Alexandriner
 dictionaries:
   - name: kotzebue
     pages: S. 7–8
@@ -56551,8 +56831,11 @@ comments:
   - Untertitel 1814 »in einem Aufzug«.
 keywords:
   - Ehe
+  - Liebesprobe
 ids:
+  dracor: ger000666
   weber: A021014
+  wikidata: Q124079923
 cast:
   - name: Der Baron.
     gender: m
@@ -64753,6 +65036,8 @@ editions:
     url: https://books.google.com/books?id=oXYHAAAAQAAJ&pg=PA189
   - title: "Theater der Deutschen. Dritter Theil. Berlin und Leipzig: Rüdiger 1766, S. 433–493"
     url: https://books.google.com/books?id=j6yXKuup7kQC&pg=PA433
+  - title: "Gotthold Ephraim Lessings sämtliche Schriften. Herausgegeben von Karl Lachmann. Dritte, auf's neue durchgesehene und vermehrte Auflage, besorgt durch Franz Muncker. Zweiter Band. Stuttgart: Göschen 1886, S. 125–170"
+    url: https://books.google.com/books?id=qIcqAAAAYAAJ&pg=PA125
 comments:
   - "Bearbeitung von Plautus: [»Trinummus«](https://dracor.org/id/rom000010)."
   - "Weitere Quellen aufgezählt in: [Paul Albrecht: Leszing's Plagiate. Dritter Band. Hamburg und Leipzig: Paul Albrecht's Selbstverlag 1891, S. 1098–1267](https://daten.digitale-sammlungen.de/~db/ausgaben/zweiseitenansicht.html?id=00081377&seite=148)."
@@ -64761,6 +65046,11 @@ comments:
   - "Auch als Zweiakter gedruckt: »Der Schatz. Lustspiel in zwei Aufzügen« (Nürnberg: Raspe 1786)."
   - "Erstaufführung vermutlich 1754 (vgl. Ursula Schulz: [Lessing auf der Bühne](https://books.google.com/books?id=VWJcAAAAMAAJ), 1977, S. 243). Sonst vermutlich Erstaufführung durch Ackermann 1755 in Königsberg (vgl. Franz Graul: [Lessing als Lustspieldichter](https://books.google.com/books?id=LFsVAAAAYAAJ&pg=PA204), 1869)."
 keywords:
+  - Eheanbahnung
+  - Geld
+  - Freundschaft
+  - Heimkehr-Motiv
+  - Verkleidungsspiel
   - mehraktige Varianten
 ids:
   dracor: ger000249
@@ -75140,13 +75430,15 @@ editions:
   - title: "Theatralische Belustigungen. Nach französischen Mustern. Erste Sammlung. Frankfurt und Leipzig: Garbe 1765, S. 1–64"
     url: https://books.google.com/books?id=2H68puihiBEC&pg=PA1
 comments:
-  - Landois' »Silvie« (1741/2) gilt als das erste bürgerliche Trauerspiel.
-  - Vorlage von Paul Landois sind zwei Erzählungen von Robert Challe aus dem Roman »Les illustres Françoises. Histoire véritable«.
-  - Das Vorspiel besteht aus 3 Auftritten.
+  - Landois' »Silvie« (1741) gilt als das erste bürgerliche Trauerspiel. Als Vorlage dienten ihm zwei Erzählungen von Robert Challe aus dem Roman »Les illustres Françoises. Histoire véritable«.
+  - Dem Stück vorangestellt ist ein [»Vorspiel über die Bürgerliche Tragödie«](https://dracor.org/id/ger000691) in drei Auftritten.
 keywords:
   - bürgerliches Trauerspiel
   - Eifersucht
   - Vergewaltigung
+ids:
+  dracor: ger000692
+  wikidata: Q125134130
 cast:
   - name: Serena.
     gender: f
@@ -76870,6 +77162,11 @@ formalia:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Dreizigster Jahrgang. Hamburg: Hoffmann & Campe 1832, S. 69–120"
     url: https://books.google.com/books?id=gDUqAAAAYAAJ&pg=PA69
+reviews:
+  - "Iris. Unterhaltungs-Blätter für Literatur und Kunst. No. 47 (9. December 1835), [S. 187](https://books.google.com/books?id=15REAAAAcAAJ&pg=RA1-PA187)."
+ids:
+  dracor: ger000664
+  wikidata: Q124128087
 cast:
   - name: Walter.
     gender: m
@@ -76888,6 +77185,8 @@ cast:
 settings:
   - description: >-
       Scene: Walters Wohnung, durchaus ärmlich, nur ein Tisch und zwei alte Rohrstühle.
+    location:
+      wikidataId: Q3012
 ---
 id: ein001715
 slug: raupach-der-geraubte-kuss
@@ -78426,7 +78725,7 @@ editions:
     url: https://books.google.com/books?id=hhlRAAAAcAAJ&pg=PA18
 comments:
   - "Parodie auf Müllners Schicksalsdrama [»Der neun und zwanzigste Februar«](muellner-der-neun-und-zwanzigste-februar). Der Einakter gehört zum Trauerspiel »Eumenides Düster«, ihm geht das Vorspiel [»Ullo's Tod oder das Verbrechen«](https://books.google.com/books?id=UuRHAAAAMAAJ&pg=RA2-PA9) voraus."
-  - "Über den so nicht abgesprochenen Abdruck des »Eumenides Düster« als Supplement zu seinen gesammelten dramatischen Werken hat sich Müllner im Achten Theil (Wolfenbüttel: Verlags-Comtoir 1828) geäußert, [S. 143–154](https://books.google.com/books?id=bcs6AAAAcAAJ&pg=PA143). Vgl. auch Frank Fischer: Stahlpanzer gegen Müllner gegen Vieweg. Eine Episode aus der Endphase des Schicksalsdramas. In: [Weimarer Beiträge 67.4](https://weimarer-beitraege.de/2021-4/) (2021), S. 601–613."
+  - "Über den so nicht abgesprochenen Abdruck des »Eumenides Düster« als Supplement zu seinen gesammelten dramatischen Werken hat sich Müllner im Achten Theil (Wolfenbüttel: Verlags-Comtoir 1828) geäußert, [S. 143–154](https://books.google.com/books?id=bcs6AAAAcAAJ&pg=PA143). Vgl. auch Frank Fischer: Stahlpanzer gegen Müllner gegen Vieweg. Eine Episode aus der Endphase des Schicksalsdramas. In: Weimarer Beiträge 67.4 (2021), S. 601–613. ([doi:10.17169/refubium-42185](https://doi.org/10.17169/refubium-42185))"
 keywords:
   - Schicksalsdrama
   - Parodie
@@ -83887,6 +84186,7 @@ author:
   wikidata: Q67322
 title: Die entführte Dose
 subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 9
 created: 1740
 printed: 1762
 premiered: 1740
@@ -83905,6 +84205,9 @@ comments:
   - Nach der Niederschrift um 1740 in Leipzig aufgeführt. Gedruckt nur als Fragment, teils mit Inhaltsbeschreibungen für die fehlenden Szenen.
 keywords:
   - Fragment
+ids:
+  dracor: ger000665
+  wikidata: Q124217835
 cast:
   - name: Foppendorf.
     gender: m
@@ -84901,6 +85204,8 @@ editions:
     url: https://books.google.com/books?id=dyZNAAAAcAAJ&pg=PA97
 keywords:
   - Kindertheater
+ids:
+  wikidata: Q123510836
 cast:
   - name: Frau von Birkenthal.
     gender: f
@@ -84943,6 +85248,8 @@ editions:
     url: https://books.google.com/books?id=dyZNAAAAcAAJ&pg=PA13
 keywords:
   - Kindertheater
+ids:
+  wikidata: Q123510864
 cast:
   - name: Herr von Waldengrund.
     gender: m
@@ -85021,6 +85328,8 @@ editions:
     url: https://books.google.com/books?id=dyZNAAAAcAAJ&pg=PA57
 keywords:
   - Kindertheater
+ids:
+  wikidata: Q123510806
 cast:
   - name: Herr von Grünthal.
     gender: m
@@ -85281,7 +85590,7 @@ printed: 1824
 formalia:
   - Blankvers
 editions:
-  - title: "Neue Hamburger Bühne. Eine Sammlung der neuesten Lustspiele von Friedrich Ludwig Schmidt. Hamburg: Herold; / Wien: Wallishauser 1824"
+  - title: "Neue Hamburger Bühne. Eine Sammlung der neuesten Lustspiele von Friedrich Ludwig Schmidt. Hamburg: Herold; Wien: Wallishauser 1824"
     url: https://books.google.com/books?id=n-QXAAAAYAAJ&pg=RA1-PA89
 comments:
   - Hierbei handelt es sich um eine Bühnenbearbeitung von [Kleists Einakter](kleist-der-zerbrochne-krug) (1808), der etwas gekürzt und dessen Ende etwas bearbeitet wurde, um ihn, wie [im Vorwort](https://books.google.com/books?id=n-QXAAAAYAAJ&pg=PP9) erläutert, »für die Bühne zu gewinnen«. Kleists Einakter wurde mehrfach für die Bühne bearbeitet (u.a. von Goethe als Dreiakter für die Uraufführung in Weimar 1808).
@@ -87815,6 +88124,43 @@ cast:
 settings:
   - description: Der Schauplatz ist ein Saal in Waldkirchs Hause mit etlichen Thüren.
 ---
+id: ein002554
+slug: schulze-der-liebhaber-als-kammermaedchen
+author:
+  name: Schulze, David Friedrich
+  wikidata: Q108814807
+title: Der Liebhaber als Kammermädchen
+subtitle: Ein Lustspiel in einem Aufzuge
+numberOfScenes: 16
+printed: 1800
+formalia:
+  - Prosa
+editions:
+  - title: "Budissin und Leipzig: Arnold 1800"
+    url: https://books.google.com/books?id=TII5AAAAMAAJ&pg=RA1-PA1
+comments:
+  - "Im Vorwort heißt es: »Gegenwärtiges kleines Lustspiel ist nach einem französischen Originale frei bearbeitet.« ([S. 3](https://books.google.com/books?id=TII5AAAAMAAJ&pg=RA1-PA3))"
+cast:
+  - name: Julie,
+    role: Gräfin von Hochberg, eine junge Witwe.
+    gender: f
+  - name: Baron von Lisdorf.
+    gender: m
+  - name: Kammerjunker von Lisdorf,
+    role: sein Neffe.
+    gender: m
+  - name: Nettchen,
+    role: Kammermädchen der Gräfin.
+    gender: f
+  - name: Franz,
+    role: Kammerdiener der Gräfin.
+    gender: m
+  - name: Ein Notar.
+    gender: m
+settings:
+  - description: >-
+      Das Stück spielt auf dem Langute der Gräfin.
+---
 id: ein001967
 slug: schummel-der-wuerzkraemer-und-sein-sohn
 author:
@@ -90035,6 +90381,14 @@ formalia:
 editions:
   - title: "Wien: Wallishausser 1812"
     url: https://books.google.com/books?id=E5RHk-bSzcgC&printsec=frontcover
+reviews:
+  - "Oesterreichischer Beobachter. Nro. 154 (Dinstag, den 2. Juni 1812), [S. 667](https://books.google.com/books?id=pN47AQAAMAAJ&pg=PA667)."
+  - "Thalia. Ein Abendblatt. Nr. 45 (Mittwoch, den 3. Juny 1812), [S. 186](https://books.google.com/books?id=OnLbjsOEkVwC&pg=PA186)."
+keywords:
+  - Eheanbahnung
+ids:
+  dracor: ger000660
+  wikidata: Q123954090
 cast:
   - name: Frau von Blühdorn,
     role: eine junge Witwe.
@@ -91860,6 +92214,36 @@ cast:
 settings:
   - description: >-
       Die Handlung ist vom I. bis VII. Auftritt in Johannes Zimmer, vom VIII. bis XX. vor Johannes Hause auf der Strasse, und vom XXI. bis zum Schluß in Schmul Rindskopfs Wohnung.
+---
+id: ein002556
+slug: sternhayn-wilhelm-und-betty
+author:
+  name: Sternhayn, Johann Friedrich von
+  wikidata: Q123677359
+title: Wilhelm und Betty
+subtitle: Schauspiel in einem Aufzuge
+numberOfScenes: 5
+printed: 1799
+editions:
+  - title: "Regensburg: Montag und Weiß 1799"
+    url: https://books.google.com/books?id=9oS6HAAACAAJ&printsec=frontcover
+reviews:
+  - "Neue Allgemeine Deutsche Bibliothek. Neun und funfzigsten Bandes Erstes Stück. Zweytes Heft. Berlin und Stettin: Nicolai 1801, [S. 74–76](https://books.google.com/books?id=oblFdlTqdIcC&pg=PA74)."
+comments:
+  - "In der »VORERINNERUNG.« heißt es: »Die Geburt dieses Stückchens veranlasste ein Aufsatz in der deutschen Monatsschrift: November 1794. unter der Aufschrift: *Wilhelm und Betty, ein Fragment aus dem bürgerlichen Leben etc.* Dieses Bruchstück bildete ich in ein ganzes und gab der Idee dramatisches Leben.« – Vgl. dazu Deutsche Monatsschrift. Dritter Band (November 1794). Berlin: Vieweg 1794, [S. 204–218](https://books.google.com/books?id=5vujg3mZ92IC&pg=PA204)."
+  - "Widmung: »Der Frau Gräfin Iosepha von Luninck gebornen Freyfrau von Smith zu Baltoé im Gefühl der reinsten Verehrung gewiedmet von dem Verfasser.«"
+cast:
+  - name: Wilhelm.
+    gender: m
+  - name: Betty,
+    role: in Wilhelms Diensten.
+    gender: f
+  - name: Clermont,
+    role: Wilhelms Freund.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung geht in Wilhelms Zimmer vor. Nachts zwischen 10 und 11 Uhr.
 ---
 id: ein002537
 slug: stich-die-erbin
@@ -98028,7 +98412,7 @@ cast:
   - name: Haase,
     role: Kuchenbäcker, der Mädchen Vormund.
     gender: m
-  - name: Marie ,
+  - name: Marie,
     role: die alte Magd.
     gender: f
 settings:
@@ -100172,6 +100556,10 @@ editions:
 keywords:
   - Selbstmord
   - Lotto
+  - Heimkehr-Motiv
+ids:
+  dracor: ger000677
+  wikidata: Q124461049
 cast:
   - name: Joseph von Wagviel,
     role: ein Beamter.
@@ -100188,7 +100576,7 @@ cast:
   - name: Anton Glückspiel,
     role: ein blinder Kaufmann.
     gender: m
-  - name: Bläse,
+  - name: Bläse
     role: sein Diener.
     gender: m
   - name: Konrad,
@@ -102810,6 +103198,111 @@ cast:
     gender: m
 settings:
   - description: Der Schauplatz ist in einer einsamen Gegend.
+---
+id: ein002553
+slug: wetzinger-der-edelmuethige-obersteyrer-oder-hinter-den-bergen-wohnen-auch-leute
+author:
+  name: Wetzinger, Gottlieb
+  wikidata: Q123615819
+title: "Der edelmüthige Obersteyrer; oder: Hinter den Bergen wohnen auch Leute!"
+subtitle: Eine dramatische Kleinigkeit in einem Aufzuge
+numberOfScenes: 10
+created: 1794
+printed: 1799
+premiered: 1795-02-21
+formalia:
+  - Prosa
+editions:
+  - title: "Grätz 1799"
+    url: https://books.google.com/books?id=EnFHAAAAcAAJ&printsec=frontcover
+reviews:
+  - "Allgemeines europäisches Journal. Dritter Band. Brünn: Traßler 1795, [S. 192](https://books.google.com/books?id=U7QTAAAAYAAJ&pg=PA192)."
+comments:
+  - "Autor ermittelt via Goedeke, Band V/2, [S. 345](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-5/page/344/mode/2up)."
+  - "Widmung: »Allen braven Steyermärkern gewidmet.« ([S. 2](https://books.google.com/books?id=EnFHAAAAcAAJ&pg=PA2))"
+  - "Im Vorwort heißt es: »Das Sujet dieser Kleinigkeit gründet sich großen Theils auf eine wahre Begebenheit, die sich erst kürzlich in Obersteyermark ereignet hat, und die in Numero 302 der Grätzer Leykamer Zeitung vom Jahre 1794 erzählt worden ist.« ([S. 3](https://books.google.com/books?id=EnFHAAAAcAAJ&pg=PA3))"
+cast:
+  - name: Joseph Bauernfreund,
+    role: Verwalter.
+    gender: m
+  - name: Moser,
+    role: Amtschreiber.
+    gender: m
+  - name: Anton Ruprecht,
+    role: Bauer und Richter.
+    gender: m
+  - group:
+      - name: Kaspar Scheffler,
+        gender: m
+      - name: Michl Wamser,
+        gender: m
+      - name: Mathis Spalt,
+        gender: m
+      - name: Franz Kegler,
+        gender: m
+      - name: Hanns Kluß,
+        gender: m
+    role: Bauern.
+  - name: Lieschen,
+    role: Wamsers Tochter.
+    gender: f
+  - name: Mathias,
+    role: des Amtsdieners Sohn.
+    gender: m
+  - name: Mehrere Bauern.
+    isGroup: true
+    gender: m
+  - name: Ein Fremder
+    gender: m
+settings:
+  - description: >-
+      Die Handlung fängt mit frühem Morgen an, in der Amtskanzley im herrschaftlichen Schlosse. Außer dem Verwalter, dem Schreiber, und dem Fremden reden alle Personen in Steyerischem Provinzial-Dialecte; so wie sie auch alle in Steyerischer Bauerntracht gekleidet sind.
+  - description: >-
+      Das Theater stellt die gut geordnete Amtskanzley einer Herrschaft in Obersteyer vor. Keine Mittelthüre, aber zwey Seitenthüren. In der Mitte des Hintergrundes hängt das Bild Sr. Majestät des Kaisers.
+    location:
+      wikidataId: Q278042
+---
+id: ein002555
+slug: wetzinger-die-todesangst
+author:
+  name: Wetzinger, Gottlieb
+  wikidata: Q123615819
+title: Die Todesangst
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Englischen
+numberOfScenes: 24
+printed: 1798
+formalia:
+  - Prosa
+editions:
+  - title: "Grätz 1798"
+    url: https://books.google.com/books?id=CDFJAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Krab,
+    role: Vormund des Sir Bock.
+    gender: m
+  - name: Isabelle.
+    gender: f
+  - name: Sir Bock,
+    role: aus Paris zurück.
+    gender: m
+  - name: Lord John,
+    role: sein Reisegefährte.
+    gender: m
+  - name: Ein Arzt.
+    gender: m
+  - name: Ein Mädchen Isabellens.
+    gender: f
+  - name: Ein Bedienter des Sir Bock.
+    gender: m
+  - name: Ein Bedienter des Sir Krab.
+    gender: m
+setting:
+  - description: >-
+      Die Handlung ist in London.
+    location:
+      wikidataId: Q84
+  - description: >-
+      Die Scene ist ein gemeinschaftlicher wohleingerichteter Saal, mit verschiedenen Thüren.
 ---
 id: ein002311
 slug: wezel-der-erste-dank
