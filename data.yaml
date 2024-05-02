@@ -13724,6 +13724,20 @@ settings:
   - description: >-
       Die Handlung ist in Horatzens Haus.
 ---
+id: ein002565
+slug: anonym-liebe-und-freundschaft
+author:
+  name: Anonym
+title: Liebe und Freundschaft
+subtitle: Schauspiel in einem Aufzug
+printed: 1802
+editions:
+  - title: "Breslau und Leipzig: Gehr 1802"
+comments:
+  - "Ein bekanntes Exemplar liegt [in der BNUS in Straßburg](https://www.sudoc.fr/148764533)."
+reviews:
+  - "Allgemeine Literatur-Zeitung. Num. 78 (Dienstags, den 13. März 1804), [Sp. 623–624](https://books.google.com/books?id=H2Fy9ckkfQYC&pg=RA1-PA623)."
+---
 id: ein002442
 slug: anonym-liebe-und-gleichgueltigkeit
 author:
@@ -37278,7 +37292,7 @@ printed: 1802
 editions:
   - title: "Zwei Comödien. Bremen: Seyffert [1802]"
 comments:
-  - "Exemplar nicht auffindbar. Hinweis auf die Publikation im Katalog zur Ostermesse 1802, [S. 463](https://books.google.com/books?id=wF5eAAAAcAAJ&pg=PA463). Bei Goedeke, Band XI/1, [S. 355](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/354/mode/2up), heißt es: »bei [Fernbach](https://books.google.com/books?id=gj2dlPWe404C&printsec=frontcover) erwähnt, sonst nicht nachweisbar«. Dort ist als Verlag angegeben: »Bremen: Müller«."
+  - "Exemplar nicht auffindbar. Hinweis auf die Publikation im Katalog zur Michaelismesse 1802, [S. 463](https://books.google.com/books?id=wF5eAAAAcAAJ&pg=PA463). Bei Goedeke, Band XI/1, [S. 355](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-111/page/354/mode/2up), heißt es: »bei [Fernbach](https://books.google.com/books?id=gj2dlPWe404C&printsec=frontcover) erwähnt, sonst nicht nachweisbar«. Dort ist als Verlag angegeben: »Bremen: Müller«."
 ---
 id: ein000822
 slug: grandjean-rothe-haare
@@ -59280,6 +59294,65 @@ cast:
 settings:
   - description: >-
       Reich Meublirtes Zimmer in Hallers Hause – Im Vordergrunde links ein kaufmännisches Bureau, rechts diesem gegenüber ein eleganter Stehspiegel. – Ein Sopha an der Wand – ein Flügelfortepiano – drei Thüren – eine im Hintergrunde – eine links, die andere rechts an den Coulissen. – Im Hintergrunde ein Kamin mit Zubehör.
+---
+id: ein002564
+slug: kringsteiner-die-braut-in-der-klemme
+author:
+  name: Kringsteiner, Ferdinand
+  wikidata: Q1405521
+title: Die Braut in der Klemme
+subtitle: Eine Posse mit Gesang, in einem Akt. Vom Verfasser des Zwirnhändlers
+numberOfScenes: 19
+printed: 1807
+premiered: 1804-11-07
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1807"
+    url: https://books.google.com/books?id=45JIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Pariserl,
+    role: ein reicher Faßzieher.
+    gender: m
+  - name: Annamiedl,
+    role: seine Braut, Oebstlerin vorm Burgtor.
+    gender: f
+  - group:
+      - name: Lippel,
+        gender: m
+      - name: Jörgel,
+        gender: m
+    role: Sesselträger, und Annamiedls Brüder.
+  - name: Hansel,
+    role: ein vazirender Hausknecht, und Annamiedels ehmaliger Liebhaber.
+    gender: m
+  - name: Frau Sepherl,
+    role: Kästenbraterinn, und Annamiedels Freundin.
+    gender: f
+  - name: Thaddädl,
+    role: ein angehender Faßzieher, bey Pariserl in Dienst.
+    gender: m
+  - group:
+      - name: Erste ungarische Knofelhändlerinn.
+        gender: f
+      - name: 2te ungarische Knofelhändlerin.
+        gender: f
+      - name: Ein Heubauer.
+        gender: m
+    role: Pariserls Anverwandte.
+  - name: Wastl,
+    role: ein Faßzieher.
+    gender: m
+  - name: Faßzieher. Sesselträger. Fratschlerweiber. Bergknappen. Laternbuben.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Handlung fällt in jedes Jahrhundert.
+  - description: >-
+      Platz an der Glacis vorm Burgthor; im Hintergrunde sieht man das so genannte finstere Thor praktikabel. – Vorne herum sitzen die Fratlerweiber. Sepherl zur einen, Annamiedels Stand zur linken Seite. – Vorm Schlagbaum oder dem Thore, patrouillirt die Schildwache. – Sepherl sitzt beym Stand. Lippel und Jörgel in rothen Hosen und Westen tragen auf einer Trag 2 Strohfesseln, ein Nudelbrett, und auf demselben eine Hühnersteige, ihre Röcke liegen oben auf. – Sie setzen die Trag ab.
+    location:
+      wikidataId: Q19971540
 ---
 id: ein001310
 slug: kringsteiner-othello-der-mohr-in-wien
@@ -86003,6 +86076,48 @@ cast:
 settings:
   - description: >-
       Die Scene ist in einer großen Stadt.
+---
+id: ein002563
+slug: bornschein-die-walpurgisnacht
+author:
+  name: Bornschein, Johann Ernst Daniel
+  wikidata: Q1693352
+title: Die Walpurgisnacht
+subtitle: Posse in 1 Akt
+numberOfScenes: 7
+printed: 1802
+editions:
+  - title: "Gera: Haller [1802]"
+  - title: "Die Walpurgis-Nacht, eine Posse mit Gesang. Zu erstenmahl aufgeführt auf dem Nürnbrger Theater. In: Abendopfer auf Thaliens Altar. Ein Beitrag zur deutschen Schaubühne besonders für kleinere Theater. Eisenberg: Schöne 1803, S. 55–96"
+    url: https://books.google.com/books?id=TonBNDpEHlUC&pg=PA55
+comments:
+  - "Zur Umarbeitung 1803 schreibt Bornschein [im Vorwort](https://books.google.com/books?id=TonBNDpEHlUC&pg=PP10): »*Die Walpurgis-Nacht* erschien zum erstenmahl als Nachspiel, im Hallerschen Verlage zu Gera und ward auf manchen Bühnen nicht ohne Beifall gegeben. Jetzt hab' ich sie als Operette bearbeitet mit der Hofnung, sie noch genießbarer gemacht zu haben.«"
+cast:
+  - name: Silberg,
+    role: Lieutenant.
+    gender: m
+  - name: Wendel,
+    role: Schulmeister.
+    gender: m
+  - name: Minchen,
+    role: seine Tochter.
+    gender: f
+  - name: Roder,
+    role: Balbier.
+    gender: m
+  - name: Beelzebub,
+    role: König der Hexen.
+    gender: m
+  - name: Ein Zauberer.
+    gender: m
+  - name: Hexen und Teufel.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Szene ist in einem Dorfe am Harze.
+    location:
+      wikidataId: Q4186
 ---
 id: ein001919
 slug: both-der-erbe
