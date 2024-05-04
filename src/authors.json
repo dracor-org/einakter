@@ -2390,6 +2390,21 @@
     },
     "gender": "male"
   },
+  "Q1704178": {
+    "name": "Josef Alois Gleich",
+    "gnd": "119559994",
+    "birth": {
+      "date": "1772-09-14T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1841-02-10T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male"
+  },
   "Q64364": {
     "name": "Johann Wilhelm Ludwig Gleim",
     "gnd": "118717758",
@@ -3049,10 +3064,14 @@
     "name": "Bernhard Anton Herrmann",
     "gnd": "116746823",
     "birth": {
-      "date": "1806-01-01T00:00:00Z"
+      "date": "1806-10-18T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
     },
     "death": {
-      "date": "1876-01-01T00:00:00Z"
+      "date": "1876-05-29T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
     },
     "gender": "male"
   },

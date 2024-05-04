@@ -19666,6 +19666,19 @@ settings:
   - description: >-
       Das Theater stellt einen Garten in der Nähe des Serails vor. Rechts eine Menagerie mit vergoldeten Gittern, die sich nach dem Hintergrunde erstreckt. Der Garten ist hinten durch eine Art Mauer geschlossen, und vor dieser Mauer befindet sich ein Baum. Links im Vorgrunde der Thron des Bassa.
 ---
+id: ein002574
+slug: blum-der-fischer-und-der-vogelsteller
+author:
+  name: Blum, Carl
+  wikidata: Q110163
+title: Der Fischer und der Vogelsteller
+subtitle: Lsp. in 1 A. n. d. Frz.
+premiered: 1825-02-27
+formalia:
+  - Prosa
+basedOn:
+  - carmouche-saintine-laloue-l-oiseleur-et-le-pecheur-ou-la-bague-perdue
+---
 id: ein000433
 slug: blum-der-oberst
 author:
@@ -33051,6 +33064,17 @@ settings:
   - description: >-
       Es ist Abend.
 ---
+id: ein002576
+slug: floto-sie-kriegen-sich
+author:
+  name: Floto, Wilhelm
+  wikidata: Q1557949
+title: Sie kriegen sich
+subtitle: Schwank in 1 Act
+created: 1847
+comments:
+  - "Wahrscheinlich ungedruckt, Titelangaben laut ADB 7 (1878), [S. 133](https://www.deutsche-biographie.de/pnd116630795.html)."
+---
 id: ein000728
 slug: foerg-das-urtheil-des-paris
 author:
@@ -35957,6 +35981,28 @@ cast:
 settings:
   - description: >-
       Ein reicher Saal aus den Zeiten des Louis XV. In der Mitte und rechts eine Thür; links ein Fenster.
+---
+id: ein002572
+slug: gleich-die-zusammenkunft-an-der-themse
+author:
+  name: Gleich, Josef Alois
+  wikidata: Q1704178
+title: Die Zusammenkunft an der Themse
+subtitle: Dramatische Kleinigkeit in 1 Aufzug
+printed: 1813
+comments:
+  - Laut [Goedeke](https://books.google.com/books?id=JjjnBQAAQBAJ&pg=PA112) enthalten im Wiener Theater-Almanach auf das Jahr 1813, S. 1–38.
+---
+id: ein002573
+slug: gleich-ehescheidung-aus-missverstaendnis
+author:
+  name: Gleich, Josef Alois
+  wikidata: Q1704178
+title: "Ehescheidung aus Mißverständnis, oder: Die Einquartierung"
+subtitle: Original-Lustspiel in 1 Aufz.
+premiered: 1811-03-16
+comments:
+  - Laut [Goedeke](https://books.google.com/books?id=JjjnBQAAQBAJ&pg=PA110) ungedruckt und zunächst »von der Wiener Zensur verboten«.
 ---
 id: ein000793
 slug: gleim-der-bloede-schaefer
@@ -44081,6 +44127,41 @@ settings:
     location:
       wikidataId: Q656
 ---
+id: ein002575
+slug: herrmann-die-gelbe-rose
+author:
+  name: Herrmann, Bernhard Anton
+  wikidata: Q55123021
+title: Die gelbe Rose
+subtitle: Posse in einem Aufzuge, nach Halevy
+premiered: 1839-12-31
+basedOn:
+  - halevy-la-rose-jaune
+comments:
+  - "Theaterzettel: [Hamburg 1839](https://www.stadttheater.uni-hamburg.de/system/files/1839-12-31.pdf)."
+cast:
+  - name: Winterberg,
+    role: Gutsbesitzer.
+    gender: m
+  - name: Sophie,
+    role: seine zweite Frau.
+    gender: f
+  - name: Elise,
+    role: seine Tochter erster Ehe.
+    gender: f
+  - name: Adolph Blank,
+    role: ihr Bräutigam.
+    gender: m
+  - name: Gustav Thalheim,
+    role: sein Freund.
+    gender: m
+  - name: Christian,
+    role: Bauerbursche.
+    gender: m
+settings:
+  - description: >-
+      Das Stück spielt auf Winterberg's Gute.
+---
 id: ein000968
 slug: herrmann-die-liebe-im-ersten-und-im-dritten-stock
 author:
@@ -50925,6 +51006,17 @@ cast:
 settings:
   - description: >-
       Scene: Seltig's Wohnung. Ein großes, geschmachvoll eingerichtetes Zimmer mit zwei Mittel- und zwei Seitenthüren; im Vordergrunde rechts und links ein Tisch; auf jedem Tisch brennen zwei Lichter.
+---
+id: ein002571
+slug: juergensen-ob-oder-der-eigenwillige
+author:
+  name: Jürgensen, Wilhelm
+  wikidata: Q94809491
+title: "Ob? oder: Der Eigenwillige"
+subtitle: Lustspiel in 1 Akt
+printed: 1826
+comments:
+  - Laut Goedeke (Band III/2, [S. 920](https://books.google.com/books?id=LgY-AQAAIAAJ&pg=PA920)) enthalten in »Lesefrüchte 1826. 3, 369–382«.
 ---
 id: ein002517
 slug: juergensen-sultan-mammud-oder-die-beiden-veziere
@@ -91226,6 +91318,19 @@ settings:
       wikidataId: Q201428
   - description: >-
       Saal im Schlosse zu Fontainebleau mit einer grossen Mittelthür, die zu einer Gallerie führt. Links die Zimmer des Königs. Rechts die des Dauphins. Neben der Thür, die zu den letzteren führt, ein Kamin, über dem eine Uhr. Ein breiter Armstuhl auf der inken Seite. Im Hintergrunde ein gedeckter Tisch mit vier Couverts.
+---
+id: ein002577
+slug: stawinsky-vetter-fritz
+author:
+  name: Stawinsky, Karl
+  wikidata: Q55126925
+title: Vetter Fritz
+subtitle: Lustspiel in 1 Akt. Nach dem Französischen »le Cousin Frédéric«
+premiered: 1829-10-25
+basedOn:
+  - rougemont-arago-basset-le-cousin-frederic
+comments:
+  - "Offenbar als [Nr. 31](https://books.google.com/books?id=elBcAAAAcAAJ&pg=PA136-IA2) in »Both's Bühnen-Repertoir« gedruckt, bisher aber nicht gefunden."
 ---
 id: ein002028
 slug: steffens-der-geld-topf
