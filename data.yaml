@@ -66839,10 +66839,47 @@ settings:
   - description: >-
       Die Scene ist ein Baumplatz im Dorfe, im Hintergrunde Lehnchens Wohnung.
 ---
-id: ein001486
-slug: luetjendorf-trennung-aus-stolz-oder-die-wirkung-einer-scene-im-deutschen-hausvater
+id: ein002568
+slug: luetgendorf-die-unentschlossenheit-einer-mutter-oder-die-zwey-neffen
 author:
-  name: Lütjendorf, Karl Friedrich August Freiherr von
+  name: Lütgendorf, Karl Friedrich August von
+  wikidata: Q60843035
+title: Die Unentschlossenheit einer Mutter, oder die zwey Neffen
+subtitle: "Ein Schauspiel in einem Aufzug vom Verfasser von: Trennung aus Stolz"
+numberOfScenes: 12
+printed: 1798
+formalia:
+  - Prosa
+editions:
+  - title: "München: Lentner 1798"
+    url: https://books.google.com/books?id=2-VXAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Frau von Wanken,
+    role: Generalinn, 32 Jahr alt, seit 15 Jahren Wittwe.
+    gender: f
+  - name: Wanken von Dornfeld,
+    role: ihr 64jähriger Schwager.
+    gender: m
+  - group:
+      - name: August,
+        gender: m
+      - name: Theodor,
+        gender: m
+    role: ihre Söhne, 15 Jahr alt.
+  - name: Darmann,
+    role: ihr Procurator in der Sache.
+    gender: m
+  - name: Johann,
+    role: ihr Bedienter.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung gehet Vormittags in dem Zimmer der Frau von Wanken vor.
+---
+id: ein001486
+slug: luetgendorf-trennung-aus-stolz-oder-die-wirkung-einer-scene-im-deutschen-hausvater
+author:
+  name: Lütgendorf, Karl Friedrich August von
   wikidata: Q60843035
 title: Trennung aus Stolz oder die Wirkung einer Scene im deutschen Hausvater
 subtitle: Ein Schauspiel in einem Aufzuge von K. F. A. Frhn. v. L–f
@@ -70772,6 +70809,73 @@ settings:
       Die Bühne bleibt unverändert. Im Hintergrunde derselben ist eine Glasthür mit zwei Seitenfenstern, welche in's Freie führt; auf der linken und rechten Seite der Koulissen zwei andere Thüren, durch welche man in's Innere des Hauses gelangt. Möbeln und Verzierungen des Zimmers wie bei reichen Leuten auf dem Lande.
   - description: >-
       Späte Nacht, gegen Tagesanbruch. Ganz herabgebrannte Lichter auf dem Tisch.
+---
+id: ein002567
+slug: mielach-das-johanniskaeferchen
+author:
+  name: Mielach, Johann Carl
+  wikidata: Q95635191
+title: Das Johanniskäferchen
+subtitle: Schauspiel in einem Aufzuge für die reifere Jugend. Nach des Verfassers der Ostereier gleichnamiger Erzählung bearbeitet
+numberOfScenes: 12
+printed: 1838
+formalia:
+  - Prosa
+editions:
+  - title: "Augsburg: Wolff 1838"
+    url: https://books.google.com/books?id=pB5g-_8Ni8kC&printsec=frontcover
+cast:
+  - name: Joseph Schwarz,
+    role: ein reicher Bauer.
+    gender: m
+  - name: Gertrud,
+    role: seine Frau.
+    gender: f
+  - name: Marie Blum,
+    role: eine arme Wittwe, Gertruds Freundin.
+    gender: f
+  - name: Ferdinand,
+    role: ihr Söhnchen, ein Knabe von 7 bis 8 Jahren.
+    gender: m
+  - name: Gottlieb,
+    role: Gerichtsdiener.
+    gender: m
+settings:
+  - description: >-
+      Stube der Marie, mit einer Hauptthüre und einer Nebenthüre.
+---
+id: ein002566
+slug: mielach-die-waldkapelle
+author:
+  name: Mielach, Johann Carl
+  wikidata: Q95635191
+title: Die Waldkapelle
+subtitle: Schauspiel in einem Aufzuge für die reifere Jugend. Nach des Verfassers der Ostereier gleichnamiger Erzählung bearbeitet
+numberOfScenes: 4
+printed: 1838
+formalia:
+  - Prosa
+editions:
+  - title: "Augsburg: Wolff 1838"
+    url: https://books.google.com/books?id=XZnGnKr3Tp0C&printsec=frontcover
+cast:
+  - name: Frau Wallner,
+    role: die alte, reiche Wittwe eines Kupferschmiedes im Markte Schönborn.
+    gender: f
+  - group:
+    - name: Marie,
+      role: ihre Tochter.
+      gender: f
+    - name: Louise,
+      role: ihre Pflegetochter.
+      gender: f
+    role: Beide bereits erwachsen.
+  - name: Konrad Ehrlich,
+    role: ein reisender Kupferschmiedgeselle.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist ein Wald in der Nähe von Schönborn; im Vordergrunde befindet sich eine Kapelle, und daneben eine Ruhebank.
 ---
 id: ein001579
 slug: miersch-kuenstler-glueck
