@@ -930,6 +930,22 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q552805": {
+    "name": "Gabriel Gottfried Bredow",
+    "gnd": "116469382",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Gottfried%20Bredow.jpg",
+    "birth": {
+      "date": "1773-12-14T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "death": {
+      "date": "1814-09-05T00:00:00Z",
+      "place": "Breslau",
+      "placeId": "http://www.wikidata.org/entity/Q1799"
+    },
+    "gender": "male"
+  },
   "Q108613011": {
     "name": "Leopold Breitenstein",
     "gnd": "1042919925",
@@ -5109,6 +5125,21 @@
       "placeId": "http://www.wikidata.org/entity/Q16100"
     },
     "death": {},
+    "gender": "male"
+  },
+  "Q76819295": {
+    "name": "Carl Friedrich August Müller",
+    "gnd": "117607908",
+    "birth": {
+      "date": "1777-06-30T00:00:00Z",
+      "place": "Hannover",
+      "placeId": "http://www.wikidata.org/entity/Q1715"
+    },
+    "death": {
+      "date": "1837-07-26T00:00:00Z",
+      "place": "München",
+      "placeId": "http://www.wikidata.org/entity/Q1726"
+    },
     "gender": "male"
   },
   "Q1991611": {

@@ -21932,6 +21932,49 @@ cast:
 settings:
   - description: Der Schauplatz ist in dem Zimmer der Frau Lisban.
 ---
+id: ein002570
+slug: bredow-meister-adam
+author:
+  name: Bredow, Gabriel Gottfried
+  wikidata: Q552805
+title: Meister Adam
+subtitle: Lustspiel mit Gesang in einem Akt
+numberOfScenes: 12
+printed: 1816
+formalia:
+  - Prosa
+  - Verse
+editions:
+  - title: "G. G. Bredow's nachgelassene Schriften. Mit dem Bildniß des Verfassers herausgegeben von J. G. Kunisch. Breslau: Max 1816, S. 3–54"
+    url: https://books.google.com/books?id=YgVLAAAAcAAJ&pg=PA3
+cast:
+  - name: Adam,
+    role: ein Tischler.
+    gender: m
+  - name: Frau Adam.
+    gender: f
+  - name: Röschen,
+    role: ihre Tochter.
+    gender: f
+  - name: Hufe,
+    role: ein Kleinschmiedt.
+    gender: m
+  - name: Robert,
+    role: sein Sohn.
+    gender: m
+  - name: Albrecht Walter,
+    role: ein Buchhändler.
+    gender: m
+  - name: Ein Gerichtsdiener.
+    gender: m
+settings:
+  - description: >-
+      Das Stück spielt in einem kleinen Städtchen unweit Berlin.
+    location:
+      wikidataId: Q64
+  - description: >-
+      Das Theater stellt einen freien Platz vor: links die Werkstatt des Meister Adam; rechts, ein wenig gegen den Hintergrund der Bühne, die Schmiede des Meister Hufe; weiter nach hinten mehrere Häuser, unter denen eines durch einen Weinkranz ausgezeichnet sein kann.
+---
 id: ein000479
 slug: breitenstein-die-proberollen
 author:
@@ -71858,6 +71901,17 @@ cast:
 settings:
   - description: >-
       Das Theater stellt ein klein, dunkel Zimmer, elend meublirt, und eine Schuster-Werkstatt vor; hinten erblickt man einen Alkov, wo man die Vorhänge eines Bett's sieht.
+---
+id: ein002569
+slug: mueller-der-schneider-in-der-fremde
+author:
+  name: Müller, Carl Friedrich August
+  wikidata: Q76819295
+title: Der Schneider in der Fremde, oder Wer das Glück hat, führt die Braut heim
+subtitle: Lustspiel in 1 Akt
+printed: 1818
+editions:
+  - title: "Augsburg: Braun 1818"
 ---
 id: ein002409
 slug: mueller-der-sieg-der-wahrheit
