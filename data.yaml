@@ -31463,8 +31463,9 @@ cast:
     gender: f
   - name: Ein Bedienter.
     gender: m
-settig: >
-  Die Handlung geht in einer großen Stadt, in Herrn von Lauterns Hause vor. (Elegant meublirtes Zimmer des Herrn von Lautern, mit einer Mittel- und zwei Seitenthüren. Links ein Kamin, worin Feuer brennt, auf derselben Seite ein Fenster. Rechts ein kleiner Eckschrank, weiter im Vorgrund ein Sopha, vor welchem ein kleiner, runder Tisch steht.)
+settings:
+  - description: >-
+      Die Handlung geht in einer großen Stadt, in Herrn von Lauterns Hause vor. (Elegant meublirtes Zimmer des Herrn von Lautern, mit einer Mittel- und zwei Seitenthüren. Links ein Kamin, worin Feuer brennt, auf derselben Seite ein Fenster. Rechts ein kleiner Eckschrank, weiter im Vorgrund ein Sopha, vor welchem ein kleiner, runder Tisch steht.)
 ---
 id: ein000693
 slug: ellmenreich-der-vampyr
@@ -74895,8 +74896,9 @@ cast:
   - name: Melchior,
     role: ihr kleiner Freund.
     gender: m
-setting: >-
-  Der Schauplatz ist ein Zimmer.
+settings:
+  - description: >-
+      Der Schauplatz ist ein Zimmer.
 ---
 id: ein001662
 slug: payer-menalkas-heimkehr
@@ -92928,8 +92930,9 @@ cast:
   - name: Victorine,
     role: Lucretia's Kammermädchen.
     gender: f
-setting: >-
-  Die Scene spielt auf Lucretias Landhause.
+settings:
+  - description: >-
+      Die Scene spielt auf Lucretias Landhause.
 ---
 id: ein002064
 slug: tenelli-herr-rochus-pumpernickel-auf-eine-andere-manier
@@ -103716,7 +103719,7 @@ cast:
     gender: m
   - name: Ein Bedienter des Sir Krab.
     gender: m
-setting:
+settings:
   - description: >-
       Die Handlung ist in London.
     location:
