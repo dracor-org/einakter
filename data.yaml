@@ -406,7 +406,7 @@ settings:
     location:
       wikidataId: Q84
   - description: >-
-      (Das Theater stellt Roberts Wohnung vor, ein reinliches Zimmer, mittelmäßig meublirt, Robert sitzt auf einen Lehnstuhl, sein Tochterkind spielt zwischen seinen Füßen, und Jeny arbeitet beym Tische an einer Manschette.)
+      Das Theater stellt Roberts Wohnung vor, ein reinliches Zimmer, mittelmäßig meublirt, Robert sitzt auf einen Lehnstuhl, sein Tochterkind spielt zwischen seinen Füßen, und Jeny arbeitet beym Tische an einer Manschette.
 ---
 id: ein000011
 slug: alexis-die-sonette
@@ -2632,6 +2632,127 @@ settings:
       Scene: Das Stück spielt in einer kleinen Stadt, im Hause der Madame Brettschneider.
   - description: >-
       Ein möglichst eleganter Saal im Casino, mit offener Mittelthür, durch welche man in den Corridor sehen kann. Zwei Seitenthüren. Vorn rechts ein Tisch mit angezündeten Lichtern, links ein Stehspiegel.
+---
+id: ein002580
+slug: anonym-abentheuer-auf-der-communal-garden-wache
+author:
+  name: T. D.
+  pseudonym: Anonym
+title: Abentheuer auf der Communal-Garden-Wache
+subtitle: Vaudeville in 1 Akt
+numberOfScenes: 13
+printed: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Jahrbuch und Repertorium des Theaters der Stadt Leipzig. Nebst einem Anhange. Herausgegeben von H. L. Barthels, Inspector dieses Theaters. Leipzig: Selbstverlag 1843, S. 1–24"
+    url: https://books.google.com/books?id=rGJjpWP-360C&pg=PA1
+comments:
+  - "Fußnote auf der Titelseite: »Als Manuscript gedruckt. Die hierzu gehörige Partitur ist durch das Theater-Geschäfts-Büreau des Herrn Julius Koffka, Souffleur des hiesigen Theaters, zu beziehen.«"
+cast:
+  - name: Der Lieutenant.
+    gender: m
+  - name: Liebstein,
+    role: Rottmeister.
+    gender: m
+  - name: Müller,
+    role: Gefreiter.
+    gender: m
+  - group:
+      - name: Thomas,
+        gender: m
+      - name: Habacht,
+        gender: m
+      - name: Pflegmann,
+        gender: m
+      - name: Gleichschritt,
+        gender: m
+      - name: Schnurrig,
+        gender: m
+      - name: Wippel,
+        gender: m
+      - name: Schwamm,
+        gender: m
+      - name: Samuel,
+        gender: m
+    role: Gardisten.
+  - name: Rumpel,
+    role: Tambour.
+    gender: m
+  - name: Heinrich,
+    role: Aufwärter.
+    gender: m
+  - name: Emil Gluthig.
+    gender: m
+  - name: Seraphina,
+    role: seine Frau.
+    gender: f
+  - name: Ein Nachtwächter.
+    gender: m
+  - name: Ein Student.
+    gender: m
+  - name: Vier Gardisten.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Scene: Das Innere der Wachstube. Im Hintergrunde die allgemeine Eingangsthür; linker Hand eine Thür, welche in das Zimmer des Lieutenants führt; rechts ein Bord, worin Gewehre aufgestellt sind. Im Hintergrunde zwei Fenster, welche Aussicht auf die Straße gewähren. An einem Fenster eine Klingel, welche von außen gezogen wird. Draußen eine brennende Laterne, daneben ein Schilderhaus; man sieht die Schildwache auf- und abgehen. Links an der letzten Coulisse ein Ofen, eine Pritsche, fünf bis sechs Stühle. Auf dem Tische Licht, Zeitungen, Papier, Feder, Tinte, Bücher, Spielkarten, Domino, Damenbrett u.s.w. An der Thüre und an der Wand Ordonanzen, Postbericht und Notizen für die Wache.
+---
+id: ein002581
+slug: anonym-acht-kreuzer-die-halbe-portion
+author:
+  pseudonym: Anonym
+title: 8 Kr. die halbe Portion! oder die gerechte Entrüstung und Krawall der Schoppenkunden gegen die weise Gesetzgebung und das Complott der Gastwirthe
+subtitle: Eine Lokal-Posse in einem Einzigen Akt und Auftritt!
+numberOfScenes: 1
+printed: 1837
+premiered: 1837
+formalia:
+  - Verse
+editions:
+  - title: "Darmstadt: Buchhandlung zur halben Portion 1837"
+    url: https://resolver.sub.uni-hamburg.de/kitodo/PPN1891233858
+reviews:
+  - "Didaskalia. Blätter für Geist, Gemüth und Publizität. Nro. 279 (Dienstag, den 10. Oktober 1837), [ohne Pag.](https://books.google.com/books?id=45AsAQAAIAAJ&pg=PT37)"
+  - "Blätter für literarische Unterhaltung. Nr. 328 (Freitag, 24. November 1837), [S. 1332](https://books.google.com/books?id=QRlBAQAAMAAJ&pg=PA1332)."
+comments:
+  - "Hinweis auf der Titelseite: »Die zweite halbe Portion à 6 kr. folgt nach, wenn sich das Publikum an der ersten, der es freilich an Salz und Würze mangelt, nicht den Magen verdirbt. Summe des Preises der ganzen Portion 12 kr. – NB. Nach einiger Zeit wird, mit dem Fleische, der Preis noch erhöht!«"
+cast:
+  - name: Herr Säuberlich,
+    role: Rath.
+    gender: m
+  - name: Herr Hartknoch,
+    role: pens. Stallmeister.
+    gender: m
+  - name: Herr Kluge,
+    role: Doktor.
+    gender: m
+  - name: Herr Gottlieb,
+    role: pens. Kriegscommissär.
+    gender: m
+  - name: Herr Stoßmann,
+    role: Fechtmeister.
+    gender: m
+  - name: Herr Goldring,
+    role: Hofagent.
+    gender: m
+  - name: Herr Knappmann,
+    role: Kanzelist.
+    gender: m
+  - name: Herr Deuxpas,
+    role: Tanzmeister.
+    gender: m
+  - name: Herr Wohlfried,
+    role: Gastwirth.
+    gender: m
+  - name: Stumme Schoppengäste
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Scene: ein Gastzimmer mit Schoppengästen an der Wirthstafel sitzend. Kellner tragen auf und ab.
+  - description: >-
+      Zeit der Handlung: des Abends bei Licht.
 ---
 id: ein002531
 slug: anonym-adolphine
@@ -13736,7 +13857,7 @@ settings:
 id: ein002565
 slug: anonym-liebe-und-freundschaft
 author:
-  name: Anonym
+  pseudonym: Anonym
 title: Liebe und Freundschaft
 subtitle: Schauspiel in einem Aufzug
 printed: 1802
@@ -39775,7 +39896,7 @@ cast:
     gender: m
 settings:
   - description: >-
-      (Scene. Wald und Felsen. Hinten ein hoher Berg an der Seite. Im Vorgrunde auf der andern Seite eine Rasenbank zwischen zwey Bäumen. Dieser gegen über ein kleiner Hügel. Es ist Nacht.)
+      Scene. Wald und Felsen. Hinten ein hoher Berg an der Seite. Im Vorgrunde auf der andern Seite eine Rasenbank zwischen zwey Bäumen. Dieser gegen über ein kleiner Hügel. Es ist Nacht.
 ---
 id: ein000872
 slug: hagemann-prosit-das-neue-jahr
@@ -68989,6 +69110,56 @@ settings:
   - description: >-
       Park.
 ---
+id: ein002581
+slug: meisl-amors-triumph
+author:
+  name: Meisl, Carl
+  wikidata: Q1308773
+title: Amors Triumph
+subtitle: Ein allegorisches Gemählde mit Chören und Tänzen, in freyen Versen und in einem Acte
+numberOfScenes: 4
+printed: 1817
+premiered: 1817-05-31
+formalia:
+  - Verse
+editions:
+  - title: "Wien: Wallishausser 1817"
+    url: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00052919-0
+comments:
+  - "Hinweis auf der Titelseite: »Die Musik ist von Herrn J. Ritter v. Seyfried, ersten Kapellmeister dieser Schaubühne. Die pantomimische Handlung von der Erfindung und Ausführung des Herrn Fr. Horschelt, Balletmeister.«"
+reviews:
+  - "Der Sammler. Nr. 68 (Samstag, den 7. Juny 1817), [S. 272](https://books.google.com/books?id=bb1aAAAAcAAJ&pg=PA272)."
+  - "Abend-Zeitung. Nummer 156 (Dienstag, 1. Juli 1817), [unpag.](https://books.google.com/books?id=E6qHXW4bL58C&pg=PA3)"
+  - "Morgenblatt für gebildete Stände. Nro. 167 (Montag, 14. July 1817), [S. 668](https://books.google.com/books?id=sGVdAAAAcAAJ&pg=PA668)."
+  - "Allgemeine musikalische Zeitung. No. 34 (Den 20sten August 1817), [Sp. 582–583](https://books.google.com/books?id=HcQ2AQAAMAAJ&pg=PA581)."
+cast:
+  - name: Amor.
+    gender: m
+  - name: Venus.
+    gender: f
+  - name: Pallas.
+    gender: f
+  - name: Apollo.
+    gender: m
+  - name: Mars.
+    gender: m
+  - name: Merkur.
+    gender: m
+  - name: Hymen.
+    gender: m
+  - name: Amoretten.
+    isGroup: true
+    gender: m
+  - name: Genien.
+    isGroup: true
+    gender: u 
+  - name: Bewohner des Donaustromes und Brasilianische beyderley Geschlechts.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Eine Höhle mit Fischergeräthschaften ausgelegt.
+---
 id: ein001533
 slug: meisl-der-bund-der-dreyen
 author:
@@ -75914,6 +76085,59 @@ settings:
     location:
       wikidataId: Q13670
 ---
+id: ein002578
+slug: pierre-die-actien-oder-der-wettlauf-nach-heckernheim
+author:
+  name: Pierre, Heinrich
+title: Die Actien oder der Wettlauf nach Heckernheim
+subtitle: Vorspiel zur Eisenbahn in einem Akt
+numberOfScenes: 17
+printed: 1837
+formalia:
+  - Prosa
+editions:
+  - title: "Frankfurt am Main: Küchler 1837"
+    url: https://books.google.com/books?id=MspIAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Schwenk,
+    role: Schauspieler.
+    gender: m
+  - name: Thomas,
+    role: Müller zu Heckernheim.
+    gender: m
+  - name: Marthe,
+    role: seine Frau.
+    gender: f
+  - name: Moses.
+    gender: m
+  - name: Der Schulze.
+    gender: m
+  - name: Schnaps,
+    role: Amtsdiener.
+    gender: m
+  - name: Erster Buschklepper.
+    gender: m
+  - name: Zweiter Buschklepper.
+    gender: m
+  - name: Erster Actionair.
+    gender: m
+  - name: Zweiter Actionair.
+    gender: m
+  - name: Erster Spekulant.
+    gender: m
+  - name: Zweiter Spekulant.
+    gender: m
+  - name: Erster Bauer.
+    gender: m
+  - name: Zweiter Bauer.
+    gender: m
+  - name: Ein Postbote. Bauern und Spekulanten, Ausländer etc.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Das Stück spielt in Heckernheim bei Schwankfurt.
+---
 id: ein001682
 slug: pillwitz-rataplan-der-kleine-tambour
 author:
@@ -78357,6 +78581,66 @@ cast:
 settings:
   - description: >-
       Die Handlung fällt in einem Schweitzer-Thale vor. Links strömt von einem Felsen ein Bach herab; am Fusse des Felsens liegt das Gehöft mit Bäumen beschattet, doch so, dass zwischen dem Hause und dem Felsen ein Weg geht. Zu rechten steht eine Laube; im Hintergrunde ist die Aussicht durch Alpen begränzt. Der Zugang ist durch Felsen.
+---
+id: ein002579
+slug: reinbeck-die-kroenungsfeier
+author:
+  name: Reinbeck, Georg
+  wikidata: Q1505724
+title: Die Krönungsfeier
+subtitle: Ein Vorspiel in einem Aufzuge mit Chören und Gesängen
+numberOfScenes: 28
+printed: 1802
+premiered: 1801-09-27
+formalia:
+  - Prosa
+editions:
+  - title: "Lübeck: Bohn 1802"
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN1889490474
+comments:
+  - "Auf der Titelseite: »Bei Gelegenheit der den 15. Sept. a. St. 1801 zu Moskau vollzogenen glorreichen Krönung Seiner Majestät des Kaisers und Selbstherrschers aller Reußen Alexander.«"
+cast:
+  - name: General von Walldorf,
+    role: außer Diensten.
+    gender: m
+  - name: Obristin von Walldorf,
+    role: seine Mutter.
+    gender: f
+  - group:
+      - name: Major Adolph von Walldorf,
+        gender: m
+      - name: Fräulein Luise,
+        gender: f
+    role: seine Kinder.
+  - name: Amalie,
+    role: des Majors Gattin.
+    gender: f
+  - name: General von Dahlen,
+    role: außer Diensten.
+    gender: m
+  - name: Pastor Ruhmann.
+    gender: m
+  - name: Rudolph,
+    role: Bedienter des Majors.
+    gender: m
+  - name: Hans,
+    role: Bedienter des Generals Dahlen.
+    gender: m
+  - name: Friedrich,
+    role: Bedienter des Generals Walldorf.
+    gender: m
+  - name: Benachbarter Adel.
+    isGroup: true
+    gender: u
+  - name: Bediente.
+    isGroup: true
+    gender: u
+  - name: Landleute.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Auf General Walldorfs Gut.
 ---
 id: ein001733
 slug: reinbeck-die-rueckkehr
@@ -86353,12 +86637,13 @@ author:
   name: Bornschein, Johann Ernst Daniel
   wikidata: Q1693352
 title: Die Walpurgisnacht
-subtitle: Posse in 1 Akt
+subtitle: Posse in 1. Akt
 numberOfScenes: 7
 printed: 1802
 editions:
   - title: "Gera: Haller [1802]"
-  - title: "Die Walpurgis-Nacht, eine Posse mit Gesang. Zu erstenmahl aufgeführt auf dem Nürnbrger Theater. In: Abendopfer auf Thaliens Altar. Ein Beitrag zur deutschen Schaubühne besonders für kleinere Theater. Eisenberg: Schöne 1803, S. 55–96"
+    url: https://resolver.staatsbibliothek-berlin.de/SBB000364A200000000
+  - title: "Die Walpurgis-Nacht, eine Posse mit Gesang. Zu erstenmahl aufgeführt auf dem Nürnberger Theater. In: Abendopfer auf Thaliens Altar. Ein Beitrag zur deutschen Schaubühne besonders für kleinere Theater. Eisenberg: Schöne 1803, S. 55–96"
     url: https://books.google.com/books?id=TonBNDpEHlUC&pg=PA55
 comments:
   - "Zur Umarbeitung 1803 schreibt Bornschein [im Vorwort](https://books.google.com/books?id=TonBNDpEHlUC&pg=PP10): »*Die Walpurgis-Nacht* erschien zum erstenmahl als Nachspiel, im Hallerschen Verlage zu Gera und ward auf manchen Bühnen nicht ohne Beifall gegeben. Jetzt hab' ich sie als Operette bearbeitet mit der Hofnung, sie noch genießbarer gemacht zu haben.«"
