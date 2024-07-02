@@ -2698,7 +2698,7 @@ settings:
   - description: >-
       Scene: Das Innere der Wachstube. Im Hintergrunde die allgemeine Eingangsthür; linker Hand eine Thür, welche in das Zimmer des Lieutenants führt; rechts ein Bord, worin Gewehre aufgestellt sind. Im Hintergrunde zwei Fenster, welche Aussicht auf die Straße gewähren. An einem Fenster eine Klingel, welche von außen gezogen wird. Draußen eine brennende Laterne, daneben ein Schilderhaus; man sieht die Schildwache auf- und abgehen. Links an der letzten Coulisse ein Ofen, eine Pritsche, fünf bis sechs Stühle. Auf dem Tische Licht, Zeitungen, Papier, Feder, Tinte, Bücher, Spielkarten, Domino, Damenbrett u.s.w. An der Thüre und an der Wand Ordonanzen, Postbericht und Notizen für die Wache.
 ---
-id: ein002581
+id: ein002582
 slug: anonym-acht-kreuzer-die-halbe-portion
 author:
   pseudonym: Anonym
@@ -48146,6 +48146,35 @@ settings:
   - description: >-
       Scene: Ein freier Platz, links im Mittelgrunde eine Pfarrwohnung mit einem Giebelfensterchen, vor derselben eine schöne kräftige Linde, unter dieser ein Tisch.
 ---
+id: ein002585
+slug: holtei-die-perlenschnur
+author:
+  name: Holtei, Karl von
+  wikidata: Q66388
+title: Die Perlenschnur
+subtitle: Spiel mit Liedern in einem Act
+numberOfScenes: 10
+printed: 1839
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach für Privat-Bühnen von Karl von Holtei. Erster Jahrgang. Riga und Leipzig: Frantzen 1839, S. 139–168"
+    url: https://books.google.com/books?id=Gu1LxKya5MkC&pg=PA139
+cast:
+  - name: Freiherr zu Altenau.
+    gender: m
+  - group:
+      - name: Willibald,
+        gender: m
+      - name: Klärchen,
+        gender: f
+    role: Enkelkinder seines verstorbenen Bruders.
+  - name: Therese,
+    role: eine Waise.
+    gender: f
+  - name: Ein Diener.
+    gender: m
+---
 id: ein001060
 slug: holtei-dreiunddreissig-minuten-in-grueneberg-oder-der-halbe-weg
 author:
@@ -48177,6 +48206,37 @@ cast:
 settings:
   - description: >-
       Scene: Ein kleines Wirthshauszimmer.
+---
+id: ein002586
+slug: holtei-ein-achtel-vom-grossen-loose
+author:
+  name: Holtei, Karl von
+  wikidata: Q66388
+title: Ein Achtel vom großen Loose
+subtitle: Liederposse in einem Act
+numberOfScenes: 10
+printed: 1839
+formalia:
+  - Prosa
+editions:
+  - title: "Almanach für Privat-Bühnen von Karl von Holtei. Erster Jahrgang. Riga und Leipzig: Frantzen 1839, S. 97–138"
+    url: https://books.google.com/books?id=Gu1LxKya5MkC&pg=PA97
+cast:
+  - name: Brumleu,
+    role: ein Rentier.
+    gender: m
+  - name: Elisa,
+    role: dessen Frau.
+    gender: f
+  - name: Emma Murrkopf,
+    role: ihre Freundin.
+    gender: f
+  - name: Otto,
+    role: ein Berliner.
+    gender: m
+settings:
+  - description: >-
+      Scene: Kleines Zimmer bei Brumleu's.
 ---
 id: ein001061
 slug: holtei-hans-juerge
@@ -59689,6 +59749,20 @@ settings:
     location:
       wikidataId: Q1741
 ---
+id: ein002584
+slug: krueger-der-christabend-eines-proletariers
+author:
+  name: Krüger, Albert Peter Johann
+  pseudonym: Adel, W.
+  wikidata: Q1350659
+title: Der Christabend eines Proletariers
+subtitle: Lebensbild in einem Act
+printed: 1847
+editions:
+  - title: "Leipzig: Koffka 1847"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 252 (Donnerstag, 9. September 1847), [S. 1006](https://books.google.com/books?id=t2sDAAAAYAAJ&pg=PA1006)."
+---
 id: ein001311
 slug: krueger-der-durch-die-liebe-gewitzigte-arlequin
 author:
@@ -59788,6 +59862,52 @@ cast:
     gender: m
 settings:
   - description: Der Schauplatz ist in einer angenehmen Gegend im Dorfe.
+---
+id: ein002583
+slug: krueger-die-akademiker
+author:
+  name: Krüger, Albert Peter Johann
+  pseudonym: Adel, W.
+  wikidata: Q1350659
+title: Die Akademiker
+subtitle: Posse mit Gesang in 1 Akt. Frei nach dem Schwedischen
+numberOfScenes: 21
+printed: 1847
+formalia:
+  - Prosa
+editions:
+  - title: "Schkeuditz: Blomberg 1847"
+    url: https://books.google.com/books?id=m6hPUpItPqUC&pg=PA3
+comments:
+  - Vorlage unklar, ein schwedisches Original konnte bisher nicht ermittelt werden.
+  - "Hinweis auf der Titelseite: »Mit einer angehängten Anleitung zu einer richtigen Auffassung und Darstellung der Rollen, von Dr. W. Bernhardi.«"
+cast:
+  - name: Commissionsrath Bork.
+    gender: m
+  - name: Emma,
+    role: seine Nichte.
+    gender: f
+  - group:
+      - name: Rothenburg,
+        gender: m
+      - name: Bart,
+        gender: m
+    role: Maler.
+  - name: Ernst,
+    role: Bildhauer.
+    gender: m
+  - name: Hase,
+    role: Schneidermeister.
+    gender: m
+  - name: Gliedermann,
+    role: Modellsteher.
+    gender: m
+  - name: Maler und Bildhauer.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Scene: Eine deutsche Residenz, worin eine Akademie.
 ---
 id: ein001313
 slug: krueger-herzog-michel
@@ -69152,7 +69272,7 @@ cast:
     gender: m
   - name: Genien.
     isGroup: true
-    gender: u 
+    gender: u
   - name: Bewohner des Donaustromes und Brasilianische beyderley Geschlechts.
     isGroup: true
     gender: u
