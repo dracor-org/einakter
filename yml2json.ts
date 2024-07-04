@@ -17,7 +17,7 @@ try {
 }
 
 originals.forEach((o) => {
-  o.normalizedYear = normalizeYear(o);
+  o.yearNormalized = normalizeYear(o);
   o.authors = o.author ? [o.author] : o.authors || [];
   delete o.author;
 });
@@ -31,11 +31,11 @@ const map: Map<OriginalPlay> = originals.reduce((acc, o) => {
 }, {} as Map<OriginalPlay>);
 
 const plays = data.map((p: Play) => {
-  const normalizedYear = normalizeYear(p);
+  const yearNormalized = normalizeYear(p);
   const numberOfCharacters = countCharacters(p);
   const authors = p.author ? [p.author] : p.authors || [];
   const basedOn = p.basedOn?.map((ref) => map[ref as string] || ref) || [];
-  const play = {...p, authors, normalizedYear, numberOfCharacters};
+  const play = {...p, authors, yearNormalized, numberOfCharacters};
   if (basedOn.length > 0) play.basedOn = basedOn;
   return play;
 });

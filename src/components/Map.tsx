@@ -37,7 +37,7 @@ const SettingsMap = () => {
             authors: p.authors || [],
             title: p.title,
             slug: p.slug,
-            year: p.normalizedYear,
+            year: p.yearNormalized,
             setting: s.description,
           });
         }

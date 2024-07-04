@@ -87,7 +87,7 @@ const OriginalDetails = () => {
                       {play.title}
                       {play.subtitle && !play.title.match(/[.!?]\s*$/) && '.'}
                       {play.subtitle && ` ${play.subtitle}`}
-                      {play.normalizedYear && ` (${play.normalizedYear})`}
+                      {play.yearNormalized && ` (${play.yearNormalized})`}
                     </Link>
                   </li>
                 ))}

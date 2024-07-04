@@ -56,8 +56,8 @@ export function countCharactersByGender(play: Play) {
 }
 
 export function sortByYear(a: Play, b: Play) {
-  const yearA = a.normalizedYear || -10000;
-  const yearB = b.normalizedYear || -10000;
+  const yearA = a.yearNormalized || -10000;
+  const yearB = b.yearNormalized || -10000;
   if (yearA > yearB) return 1;
   if (yearA < yearB) return -1;
   return 0;
