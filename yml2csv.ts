@@ -7,6 +7,8 @@ import {
   countCharactersByGender
 } from './src/utils';
 
+const separator = '|';
+
 let data: Play[] = [];
 try {
   data = loadAll(readFileSync('./data.yaml', 'utf8'), null, {
@@ -21,6 +23,9 @@ const cols = [
   'link', // (the slug, but as clickable link for convenience)
   'title',
   'subtitle',
+  'authorName',
+  'authorPseudonym',
+  'authorWikidataID',
   'basedOn', // (only true or false, an easy way to exclude translations)
   'earliestYear',
   'normalizedYear',
@@ -41,12 +46,19 @@ const cols = [
 ];
 
 const lines = data.map((p: Play) => {
+  const authors = p.authors || [p.author];
+  const authorName = authors.map(a => a?.name || '').join(separator);
+  const authorPseudonym = authors.map(a => a?.pseudonym || '').join(separator);
+  const authorWikidataID = authors.map(a => a?.wikidata || '').join(separator);
   const num = countCharactersByGender(p);
   const locationId = p.settings?.find(
     (s) => s.location?.wikidataId
   )?.location.wikidataId;
   const play: {[index: string]: any} = {
     ...p,
+    authorName,
+    authorPseudonym,
+    authorWikidataID,
     normalizedYear: normalizeYear(p),
     earliestYear: getEarliestYear(p) || '',
     numberOfCharacters: num.total,
