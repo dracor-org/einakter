@@ -97,9 +97,9 @@ from different environments to conduct statistics. An example in R:
 ```R
 library(jsonlite)
 einakter <- fromJSON("https://einakter.dracor.org/data.json")
-hist(einakter$normalizedYear, breaks = 20, xlab="Jahrfünft", ylab="Anzahl Stücke im Korpus")
-plot(einakter$normalizedYear, einakter$numberOfScenes, xlab="Jahr", ylab="Anzahl Szenen pro Stück")
-plot(einakter$normalizedYear, einakter$numberOfCharacters, xlab="Jahr", ylab="Anzahl Figuren pro Stück")
+hist(einakter$yearNormalized, breaks = 20, xlab="Jahrfünft", ylab="Anzahl Stücke im Korpus")
+plot(einakter$yearNormalized, einakter$numberOfScenes, xlab="Jahr", ylab="Anzahl Szenen pro Stück")
+plot(einakter$yearNormalized, einakter$numberOfCharacters, xlab="Jahr", ylab="Anzahl Figuren pro Stück")
 ```
 
 The data model is described <a href="https://github.com/dracor-org/einakter/wiki">here</a>.

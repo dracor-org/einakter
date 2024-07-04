@@ -69,7 +69,7 @@ export interface Play {
     weber?: string;
   };
   keywords?: string[];
-  normalizedYear?: number;
+  yearNormalized?: number;
   numberOfCharacters?: number;
   numberOfScenes?: number;
   premiered?: string | number;
@@ -90,7 +90,7 @@ export interface OriginalPlay {
   created?: number;
   printed?: number;
   premiered?: string | number;
-  normalizedYear?: number;
+  yearNormalized?: number;
   fulltextUrl?: string;
   ids?: {
     dracor?: string;

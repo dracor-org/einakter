@@ -28,7 +28,7 @@ const cols = [
   'authorWikidataID',
   'basedOn', // (only true or false, an easy way to exclude translations)
   'earliestYear',
-  'normalizedYear',
+  'yearNormalized',
   'createdYear',
   'printedYear',
   'premiereYear', // (without day/month for premier dates, only years)
@@ -62,7 +62,7 @@ const lines = data.map((p: Play) => {
     authorName,
     authorPseudonym,
     authorWikidataID,
-    normalizedYear: normalizeYear(p),
+    yearNormalized: normalizeYear(p),
     earliestYear: getEarliestYear(p) || '',
     numberOfCharacters: num.total,
     numberOfMaleCharacters: num.male,

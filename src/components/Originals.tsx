@@ -57,11 +57,11 @@ function Originals() {
         cell: (info) => <TitleCell play={info.row.original} />,
       },
       {
-        id: 'normalizedYear',
+        id: 'yearNormalized',
         header: t`Year (normalized)`,
-        accessorFn: (row) => row.normalizedYear?.toString() || '',
+        accessorFn: (row) => row.yearNormalized?.toString() || '',
         cell: (info) => (
-          <span>{formatEra(info.row.original.normalizedYear)}</span>
+          <span>{formatEra(info.row.original.yearNormalized)}</span>
         ),
       },
       {
@@ -88,7 +88,7 @@ function Originals() {
         <Table
           columns={columns}
           data={data}
-          defaultSort={[{id: 'normalizedYear', desc: false}]}
+          defaultSort={[{id: 'yearNormalized', desc: false}]}
         />
       </div>
     </div>
