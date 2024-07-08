@@ -930,6 +930,22 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q552805": {
+    "name": "Gabriel Gottfried Bredow",
+    "gnd": "116469382",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Gottfried%20Bredow.jpg",
+    "birth": {
+      "date": "1773-12-14T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "death": {
+      "date": "1814-09-05T00:00:00Z",
+      "place": "Breslau",
+      "placeId": "http://www.wikidata.org/entity/Q1799"
+    },
+    "gender": "male"
+  },
   "Q108613011": {
     "name": "Leopold Breitenstein",
     "gnd": "1042919925",
@@ -2374,6 +2390,21 @@
     },
     "gender": "male"
   },
+  "Q1704178": {
+    "name": "Josef Alois Gleich",
+    "gnd": "119559994",
+    "birth": {
+      "date": "1772-09-14T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1841-02-10T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male"
+  },
   "Q64364": {
     "name": "Johann Wilhelm Ludwig Gleim",
     "gnd": "118717758",
@@ -3033,10 +3064,14 @@
     "name": "Bernhard Anton Herrmann",
     "gnd": "116746823",
     "birth": {
-      "date": "1806-01-01T00:00:00Z"
+      "date": "1806-10-18T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
     },
     "death": {
-      "date": "1876-01-01T00:00:00Z"
+      "date": "1876-05-29T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
     },
     "gender": "male"
   },
@@ -4032,6 +4067,21 @@
     },
     "gender": "male"
   },
+  "Q1350659": {
+    "name": "Albert Peter Johann Krüger",
+    "gnd": "128811897",
+    "birth": {
+      "date": "1810-11-17T00:00:00Z",
+      "place": "Altona",
+      "placeId": "http://www.wikidata.org/entity/Q1630"
+    },
+    "death": {
+      "date": "1883-09-15T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
+    },
+    "gender": "male"
+  },
   "Q109643": {
     "name": "Johann Christian Krüger",
     "gnd": "118778080",
@@ -4537,13 +4587,16 @@
   "Q60843035": {
     "name": "Karl Friedrich August von Lütgendorf",
     "gnd": "100172164",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Friedrich%20August%2C%20Fre%C3%BFherr%20von%20L%C3%BCtgendorf%20geb%201746.jpg",
     "birth": {
-      "date": "1746-01-01T00:00:00Z",
+      "date": "1746-11-27T00:00:00Z",
       "place": "München",
       "placeId": "http://www.wikidata.org/entity/Q1726"
     },
     "death": {
-      "date": "1809-01-01T00:00:00Z"
+      "date": "1809-07-15T00:00:00Z",
+      "place": "Nürnberg",
+      "placeId": "http://www.wikidata.org/entity/Q2090"
     },
     "gender": "male"
   },
@@ -4909,6 +4962,17 @@
     },
     "gender": "male"
   },
+  "Q95635191": {
+    "name": "Johann Carl Mielach",
+    "gnd": "104153164",
+    "birth": {
+      "date": "1785-09-08T00:00:00Z",
+      "place": "Wiesensteig",
+      "placeId": "http://www.wikidata.org/entity/Q80854"
+    },
+    "death": {},
+    "gender": "male"
+  },
   "Q95634795": {
     "name": "Karl Gottfried Miersch",
     "gnd": "100846467",
@@ -5095,6 +5159,21 @@
       "placeId": "http://www.wikidata.org/entity/Q16100"
     },
     "death": {},
+    "gender": "male"
+  },
+  "Q76819295": {
+    "name": "Carl Friedrich August Müller",
+    "gnd": "117607908",
+    "birth": {
+      "date": "1777-06-30T00:00:00Z",
+      "place": "Hannover",
+      "placeId": "http://www.wikidata.org/entity/Q1715"
+    },
+    "death": {
+      "date": "1837-07-26T00:00:00Z",
+      "place": "München",
+      "placeId": "http://www.wikidata.org/entity/Q1726"
+    },
     "gender": "male"
   },
   "Q1991611": {
@@ -5347,6 +5426,21 @@
       "date": "1822-11-02T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male"
+  },
+  "Q1948071": {
+    "name": "Moritz Thieme",
+    "gnd": "117337153",
+    "birth": {
+      "date": "1799-05-08T00:00:00Z",
+      "place": "Löbau",
+      "placeId": "http://www.wikidata.org/entity/Q156768"
+    },
+    "death": {
+      "date": "1849-07-20T00:00:00Z",
+      "place": "Iserlohn",
+      "placeId": "http://www.wikidata.org/entity/Q1130"
     },
     "gender": "male"
   },

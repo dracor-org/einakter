@@ -6,7 +6,7 @@ import IdLink from './IdLink';
 export default function TitleCell (
   {play, urlPath = ''}: {play: Play, urlPath?: string}
 ) {
-  const {title, subtitle, slug, ids: {dracor, wikidata} = {}} = play;
+  const {title, subtitle, slug, ids: {dracor, wikidata, weber} = {}} = play;
   return (
     <span>
       <Link className="text-lg" to={`${urlPath}${slug}`}>{title}</Link>
@@ -21,6 +21,12 @@ export default function TitleCell (
       {dracor && (
         <small>
           <IdLink id={dracor} type="dracor"/>
+        </small>
+      )}
+      {' '}
+      {weber && (
+        <small>
+          <IdLink id={weber} type="weber"/>
         </small>
       )}
       </div>

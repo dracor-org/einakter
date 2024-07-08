@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ku\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-09 02:27+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: src/components/About.tsx:10 src/components/Topnav.tsx:93
+msgid "About"
+msgstr "derbarê"
+
+#: src/components/Home.tsx:40
+msgid "About the project"
+msgstr "di derbarê bernameyê de"
+
+#: src/components/Originals.tsx:40 src/components/Plays.tsx:30
+msgid "Author"
+msgstr "nivîskar"
+
+#: src/components/OriginalStatistics.tsx:73 src/components/Statistics.tsx:113
+msgid "Authors"
+msgstr "nivîskar"
+
+#: src/components/Details.tsx:275
+msgid "Based on"
+msgstr "li ser bingeha"
+
+#: src/components/Plays.tsx:73 src/components/Statistics.tsx:128
+msgid "Characters"
+msgstr "karakter"
+
+#: src/components/Details.tsx:90
+msgid "Comments"
+msgstr "têbinî"
+
+#: src/languages.ts:6
+msgid "Czech"
+msgstr "çekî"
+
+#: src/languages.ts:8
+msgid "Danish"
+msgstr "danîmarkî"
+
+#: src/components/Details.tsx:121 src/components/OriginalDetails.tsx:96
+msgid "Dates"
+msgstr "dîrok"
+
+#: src/components/Details.tsx:285
+msgid "Dictionaries"
+msgstr "ferheng"
+
+#: src/components/Plays.tsx:105
+msgid "Download CSV"
+msgstr "daxisitin CSV"
+
+#: src/components/Plays.tsx:98
+msgid "Download JSON"
+msgstr "daxistin JSON"
+
+#: src/components/Details.tsx:184
+msgid "Dramatis personae"
+msgstr "kesayetên dramatîk"
+
+#: src/languages.ts:10
+msgid "Dutch"
+msgstr "holandî"
+
+#: src/components/Home.tsx:26
+msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
+msgstr "Edîtorî ji Dîlan Canan Çakir û Frank Fischer"
+
+#: src/components/Details.tsx:164
+msgid "Editions"
+msgstr "çap"
+
+#: src/languages.ts:12
+msgid "English"
+msgstr "îngilîzî"
+
+#: src/components/Details.tsx:295
+msgid "Formalia"
+msgstr "cure"
+
+#: src/languages.ts:14
+msgid "French"
+msgstr "fransî"
+
+#: src/components/OriginalDetails.tsx:125
+msgid "Full text"
+msgstr "nivîsa tevahî"
+
+#: src/languages.ts:16
+msgid "German"
+msgstr "elmanî"
+
+#: src/components/Details.tsx:23
+msgid "Group"
+msgstr "kom"
+
+#: src/languages.ts:18
+msgid "Italian"
+msgstr "îtalî"
+
+#: src/components/Details.tsx:309 src/components/Plays.tsx:78
+msgid "Keywords"
+msgstr "miftepeyv"
+
+#: src/components/OriginalDetails.tsx:64 src/components/Originals.tsx:65
+msgid "Language"
+msgstr "ziman"
+
+#: src/components/OriginalStatistics.tsx:75
+msgid "Languages"
+msgstr "ziman"
+
+#: src/languages.ts:20
+msgid "Latin"
+msgstr "latînî"
+
+#: src/components/Details.tsx:138 src/components/OriginalDetails.tsx:105
+msgid "Links"
+msgstr "girêdan"
+
+#: src/components/Details.tsx:259
+msgid "Location"
+msgstr "derawa"
+
+#: src/components/Map.tsx:47 src/components/Topnav.tsx:87
+msgid "Locations"
+msgstr "derawa"
+
+#: src/components/Details.tsx:32
+msgid "No such play"
+msgstr "Lîstikeke wisa tune"
+
+#: src/components/Details.tsx:130
+msgid "Number of Scenes"
+msgstr "hejmara sehneyan"
+
+#: src/components/OriginalStatistics.tsx:72
+msgid "Number of originals"
+msgstr "hejmara orîjinalan"
+
+#: src/components/Originals.tsx:70
+msgid "Number of translations"
+msgstr "hejmara wergeran"
+
+#: src/components/Statistics.tsx:109
+msgid "One-act plays"
+msgstr "șanoyên yek-perdeyî"
+
+#: src/components/OriginalDetails.tsx:21
+msgid "Original not found"
+msgstr "Orjînal nehat dîtin"
+
+#: src/components/Original.tsx:59 src/components/Topnav.tsx:90
+msgid "Originals"
+msgstr "orîjinal"
+
+#: src/components/Original.tsx:82
+msgid "Other one-act translations"
+msgstr "wergerên din ên yek-perdeyî"
+
+#: src/components/Home.tsx:29
+msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
+msgstr "Mebesta me ew e ku em li ser lîstikên yek-perdeyî yên di navbera nîveka sedsala 18an û nîveka sedsala 19an de bi elmanî hatine nivîsandin, bi nêrîneke jimarî ya giştî pêşkêş bikin. Ji bo agahiyên zêdetir, herweha bê meriv çawa dikare jêderka vê danegehê nîşan bide, ji kerema xwe li rûpela »Derbarê« binêrin."
+
+#: src/components/Topnav.tsx:84
+msgid "Plays"
+msgstr "șanoyê"
+
+#: src/components/OriginalStatistics.tsx:74 src/components/Statistics.tsx:122
+msgid "Plays published anonymously"
+msgstr "şanoyên anonîm çapbûyî"
+
+#: src/components/Statistics.tsx:125
+msgid "Plays translated/adapted from other languages"
+msgstr "şanoyên ji zimanên din"
+
+#: src/components/Details.tsx:106
+msgid "Reviews"
+msgstr "nirxandin"
+
+#: src/languages.ts:22
+msgid "Russian"
+msgstr "rûsî"
+
+#: src/components/Plays.tsx:68
+msgid "Scenes"
+msgstr "sehne"
+
+#: src/components/Table.tsx:50
+msgid "Search"
+msgstr "gerr"
+
+#: src/components/Details.tsx:245
+msgid "Setting"
+msgstr "eyar"
+
+#: src/languages.ts:24
+msgid "Spanish"
+msgstr "îspanyolî"
+
+#: src/components/Home.tsx:15
+msgid "The Database of German-Language One-Act Plays 1740–1850"
+msgstr "Danegeha Şanoyên Yek-perdeyî yên bi Zimanê Elmanî 1740-1850"
+
+#: src/components/Home.tsx:21
+msgid "The Database of<0/>German-Language<1/>One-Act Plays<2/>1740–1850"
+msgstr "Danegeha Şanoyên<0/>Yek-perdeyî yên<1/>bi Zimanê Elmanî<2/>1740-1850"
+
+#: src/components/Map.tsx:51
+msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
+msgstr "Ev nexşe hemî cihên çîrokê yên ku ji agahdariyên mîhengî yên di destpêka lîstikê de têne derxistin nîşan dide. Binavkirin û sînorkirinên li ser nexşeyê ji hêla OpenStreetMap ve têne peyda kirin û ji ber vê yekê bi dema çalakiyê û afirandina lîstikê re ne-dîrokî ne."
+
+#: src/components/Originals.tsx:54 src/components/Plays.tsx:44
+msgid "Title"
+msgstr "serenav"
+
+#: src/components/OriginalDetails.tsx:72
+msgid "Translations"
+msgstr "werger"
+
+#: src/components/Originals.tsx:59 src/components/Plays.tsx:56
+msgid "Year (normalized)"
+msgstr "sal (normal kirin)"
+
+#: src/components/AuthorInfo.tsx:123
+msgid "b."
+msgstr "zayîn"
+
+#: src/components/AuthorInfo.tsx:124
+msgid "d."
+msgstr "mirin"
+
+#: src/components/GenderIcon.tsx:11 src/components/Statistics.tsx:118
+msgid "female"
+msgstr "mê"
+
+#: src/components/GenderIcon.tsx:14 src/components/Statistics.tsx:117
+msgid "male"
+msgstr "nêr"
+
+#: src/components/Plays.tsx:61
+msgid "not available"
+msgstr "ne berdeste"
+
+#: src/components/Years.js:90
+msgid "premiered"
+msgstr "promiyer kiriye"
+
+#: src/components/Years.js:98
+msgid "printed"
+msgstr "çapkirî"
+
+#: src/components/Years.js:81
+msgid "written"
+msgstr "nivîsandin"
+
+#~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
+#~ msgstr "Database currently containing {0} one-act plays featuring {numCharacters} characters"
+
+#~ msgid "Hide"
+#~ msgstr "Hide"
+
+#~ msgid "Loading..."
+#~ msgstr "Loading..."
+
+#~ msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries."
+#~ msgstr "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries."
+
+#~ msgid "Show more"
+#~ msgstr "Show more"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistics"
+
+#~ msgid "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
+#~ msgstr "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
+
+#~ msgid "undefined"
+#~ msgstr "undefined"

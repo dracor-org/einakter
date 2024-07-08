@@ -1,6 +1,6 @@
 import { i18n } from '@lingui/core';
 import { detect, fromStorage } from '@lingui/detect-locale';
-import { en, de, es, fa, fr, ja, ko, ru, uk, zh } from 'make-plural/plurals';
+import { en, de, es, fa, fr, ja, ko, ku, ru, uk, zh } from 'make-plural/plurals';
 import { messages as enMessages } from './locales/en/messages';
 import { messages as deMessages } from './locales/de/messages';
 import { messages as esMessages } from './locales/es/messages';
@@ -8,6 +8,7 @@ import { messages as faMessages } from './locales/fa/messages';
 import { messages as frMessages } from './locales/fr/messages';
 import { messages as jaMessages } from './locales/ja/messages';
 import { messages as koMessages } from './locales/ko/messages';
+import { messages as kuMessages } from './locales/ku/messages';
 import { messages as ruMessages } from './locales/ru/messages';
 import { messages as ukMessages } from './locales/uk/messages';
 import { messages as zhMessages } from './locales/zh/messages';
@@ -23,6 +24,7 @@ i18n.loadLocaleData({
   fr: { plurals: fr },
   ja: { plurals: ja },
   ko: { plurals: ko },
+  ku: { plurals: ku },
   ru: { plurals: ru },
   uk: { plurals: uk },
   zh: { plurals: zh },
@@ -37,6 +39,7 @@ i18n.load({
   fr: frMessages,
   ja: jaMessages,
   ko: koMessages,
+  ku: kuMessages,
   ru: ruMessages,
   uk: ukMessages,
   zh: zhMessages,
@@ -50,7 +53,7 @@ const language = detect(
 
 i18n.activate(language);
 
-export const locales = ['en', 'de', 'es', 'fa', 'fr', 'ja', 'ko', 'ru', 'uk', 'zh', 'tok'];
+export const locales = ['en', 'de', 'es', 'fa', 'fr', 'ja', 'ko', 'ku', 'ru', 'uk', 'zh', 'tok'];
 
 export function setLocale (locale: string) {
   i18n.activate(locale);
