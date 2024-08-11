@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Quick start
 
 After installing [nodejs](https://nodejs.org/en/download/package-manager/) and
-[yarn](https://classic.yarnpkg.com/en/docs/install) you can start the *Einakter*
+[yarn](https://classic.yarnpkg.com/en/docs/install) you can start the _Einakter_
 database by running the following commands:
 
 ```bash
@@ -25,7 +25,7 @@ In the project directory, you can run:
 ### `yarn start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
@@ -72,7 +72,7 @@ new location IDs in `data.yaml` and adds them to `src/locations.json`.
 ### `yarn extract`
 
 Extracts translatable text from Javascript code and updates `.po` files in
-the `src/locales` directory. 
+the `src/locales` directory.
 
 ### `yarn compile`
 
@@ -83,7 +83,7 @@ for testing new translations in a development server without re-running
 
 ## Translations
 
-*Einakter* uses [LinguiJS](https://lingui.js.org) to provide a multi-lingual
+_Einakter_ uses [LinguiJS](https://lingui.js.org) to provide a multi-lingual
 user interface. Translations are maintained in `.po` files in the
 [src/locales](src/locales). For updating translations the
 [yarn extract](#yarn-extract) and [yarn compile](#yarn-compile) commands can be

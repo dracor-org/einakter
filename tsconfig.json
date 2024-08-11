@@ -1,11 +1,7 @@
 {
   "compilerOptions": {
-    "target": "es5",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
+    "target": "es2020",
+    "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -17,12 +13,9 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react",
-    "noFallthroughCasesInSwitch": true
+    "jsx": "react-jsx",
+    "noFallthroughCasesInSwitch": true,
+    "types": ["vite/client", "vitest/globals"]
   },
-  "include": [
-    "src",
-    "fetch-authors.ts",
-    "fetch-locations.ts"
-  ]
+  "include": ["src", "fetch-authors.ts", "fetch-locations.ts"]
 }
