@@ -39,6 +39,15 @@
     "typescript": "5.1.6",
     "web-vitals": "^2.1.0"
   },
+  "devDependencies": {
+    "@babel/core": "^7.19.1",
+    "@lingui/cli": "^3.14.0",
+    "@lingui/macro": "^3.14.0",
+    "@mdx-js/loader": "^2.1.3",
+    "@types/js-yaml": "^4.0.5",
+    "axios": "^1.6.0",
+    "ts-node": "^10.9.1"
+  },
   "scripts": {
     "csv": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2csv.ts && cp ./data.csv ./public/",
     "json": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2json.ts && cp ./data.json ./src/ && cp ./data.json ./public/",
@@ -85,14 +94,5 @@
     "transformIgnorePatterns": [
       "node_modules/(?!axios)"
     ]
-  },
-  "devDependencies": {
-    "@babel/core": "^7.19.1",
-    "@lingui/cli": "^3.14.0",
-    "@lingui/macro": "^3.14.0",
-    "@mdx-js/loader": "^2.1.3",
-    "@types/js-yaml": "^4.0.5",
-    "axios": "^1.6.0",
-    "ts-node": "^10.9.1"
   }
 }
