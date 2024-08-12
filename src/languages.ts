@@ -1,6 +1,6 @@
 import {t} from '@lingui/macro';
 
-export function localLanguageName (code: string): string {
+export function localLanguageName(code: string): string {
   switch (code) {
     case 'cze':
       return t`Czech`;
@@ -25,4 +25,4 @@ export function localLanguageName (code: string): string {
     default:
       return code;
   }
-};
+}

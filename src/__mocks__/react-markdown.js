@@ -1,4 +1,4 @@
-function ReactMarkdown({ children }){
+function ReactMarkdown({children}) {
   return <>{children}</>;
 }
 

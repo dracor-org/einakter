@@ -12,7 +12,7 @@ import {
   faLanguage,
   faMars,
   faVenus,
-  faGenderless
+  faGenderless,
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
