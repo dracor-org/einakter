@@ -13,31 +13,39 @@ msgstr ""
 "Plural-Forms: \n"
 "X-Generator: Poedit 3.4.1\n"
 
-#: src/components/About.tsx:10 src/components/Topnav.tsx:93
+#: src/components/About.tsx:9
+#: src/components/Topnav.tsx:102
 msgid "About"
 msgstr "Про проєкт"
 
-#: src/components/Home.tsx:40
+#: src/components/Home.tsx:43
 msgid "About the project"
 msgstr "Про проєкт"
 
-#: src/components/Originals.tsx:40 src/components/Plays.tsx:30
+#: src/components/Originals.tsx:40
+#: src/components/Plays.tsx:32
 msgid "Author"
 msgstr "Автор"
 
-#: src/components/OriginalStatistics.tsx:73 src/components/Statistics.tsx:113
+#: src/components/OriginalStatistics.tsx:79
+#: src/components/Statistics.tsx:123
 msgid "Authors"
 msgstr "Автори"
 
-#: src/components/Details.tsx:275
+#: src/components/AuthorInfo.tsx:121
+msgid "b."
+msgstr "народ."
+
+#: src/components/Details.tsx:293
 msgid "Based on"
 msgstr "Засновано на"
 
-#: src/components/Plays.tsx:73 src/components/Statistics.tsx:128
+#: src/components/Plays.tsx:83
+#: src/components/Statistics.tsx:138
 msgid "Characters"
 msgstr "Персонажі"
 
-#: src/components/Details.tsx:90
+#: src/components/Details.tsx:98
 msgid "Comments"
 msgstr "Коментарі"
 
@@ -45,27 +53,35 @@ msgstr "Коментарі"
 msgid "Czech"
 msgstr "Чеська"
 
+#: src/components/AuthorInfo.tsx:126
+msgid "d."
+msgstr "пом."
+
 #: src/languages.ts:8
 msgid "Danish"
 msgstr "Данська"
 
-#: src/components/Details.tsx:121 src/components/OriginalDetails.tsx:96
+#~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
+#~ msgstr "Зараз база даних налічує {0} одноактних пʼєс, в яких зображено {numCharacters} персонажів"
+
+#: src/components/Details.tsx:129
+#: src/components/OriginalDetails.tsx:99
 msgid "Dates"
 msgstr "Датування"
 
-#: src/components/Details.tsx:285
+#: src/components/Details.tsx:303
 msgid "Dictionaries"
 msgstr "Довідники"
 
-#: src/components/Plays.tsx:105
+#: src/components/Plays.tsx:118
 msgid "Download CSV"
 msgstr "Завантажити CSV"
 
-#: src/components/Plays.tsx:98
+#: src/components/Plays.tsx:111
 msgid "Download JSON"
 msgstr "Завантажити JSON"
 
-#: src/components/Details.tsx:184
+#: src/components/Details.tsx:190
 msgid "Dramatis personae"
 msgstr "Дійові особи"
 
@@ -73,11 +89,11 @@ msgstr "Дійові особи"
 msgid "Dutch"
 msgstr "Нідерландська"
 
-#: src/components/Home.tsx:26
+#: src/components/Home.tsx:29
 msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
 msgstr "Редактори: Ділан Джанан Чакир и Франк Фішер"
 
-#: src/components/Details.tsx:164
+#: src/components/Details.tsx:170
 msgid "Editions"
 msgstr "Видання"
 
@@ -85,7 +101,12 @@ msgstr "Видання"
 msgid "English"
 msgstr "Англiйська"
 
-#: src/components/Details.tsx:295
+#: src/components/GenderIcon.tsx:10
+#: src/components/Statistics.tsx:127
+msgid "female"
+msgstr "Жінки"
+
+#: src/components/Details.tsx:313
 msgid "Formalia"
 msgstr "Форма твору"
 
@@ -93,7 +114,7 @@ msgstr "Форма твору"
 msgid "French"
 msgstr "Французька"
 
-#: src/components/OriginalDetails.tsx:125
+#: src/components/OriginalDetails.tsx:127
 msgid "Full text"
 msgstr "Повний текст"
 
@@ -105,19 +126,24 @@ msgstr "Німецька"
 msgid "Group"
 msgstr "Група"
 
+#~ msgid "Hide"
+#~ msgstr "Приховати"
+
 #: src/languages.ts:18
 msgid "Italian"
 msgstr "Італійська"
 
-#: src/components/Details.tsx:309 src/components/Plays.tsx:78
+#: src/components/Details.tsx:327
+#: src/components/Plays.tsx:88
 msgid "Keywords"
 msgstr "Ключові слова"
 
-#: src/components/OriginalDetails.tsx:64 src/components/Originals.tsx:65
+#: src/components/OriginalDetails.tsx:68
+#: src/components/Originals.tsx:69
 msgid "Language"
 msgstr "Мова"
 
-#: src/components/OriginalStatistics.tsx:75
+#: src/components/OriginalStatistics.tsx:85
 msgid "Languages"
 msgstr "Мови"
 
@@ -125,67 +151,91 @@ msgstr "Мови"
 msgid "Latin"
 msgstr "Латинська"
 
-#: src/components/Details.tsx:138 src/components/OriginalDetails.tsx:105
+#: src/components/Details.tsx:146
+#: src/components/OriginalDetails.tsx:108
 msgid "Links"
 msgstr "Посилання на інші проєкти"
 
-#: src/components/Details.tsx:259
+#~ msgid "Loading..."
+#~ msgstr "Завантажує..."
+
+#: src/components/Details.tsx:272
 msgid "Location"
 msgstr "Місце дії"
 
-#: src/components/Map.tsx:47 src/components/Topnav.tsx:87
+#: src/components/Map.tsx:56
+#: src/components/Topnav.tsx:96
 msgid "Locations"
 msgstr "Місця дії"
 
-#: src/components/Details.tsx:32
+#: src/components/GenderIcon.tsx:13
+#: src/components/Statistics.tsx:127
+msgid "male"
+msgstr "Чоловіки"
+
+#: src/components/Details.tsx:34
 msgid "No such play"
 msgstr "Пʼєсу не знайдено"
 
-#: src/components/Details.tsx:130
-msgid "Number of Scenes"
-msgstr "Кількість сцен"
+#: src/components/Plays.tsx:70
+msgid "not available"
+msgstr "невказаний"
 
-#: src/components/OriginalStatistics.tsx:72
+#: src/components/OriginalStatistics.tsx:76
 msgid "Number of originals"
 msgstr "Кількість оригіналів"
 
-#: src/components/Originals.tsx:70
+#: src/components/Details.tsx:138
+msgid "Number of Scenes"
+msgstr "Кількість сцен"
+
+#: src/components/Originals.tsx:74
 msgid "Number of translations"
 msgstr "Кількість перекладів"
 
-#: src/components/Statistics.tsx:109
+#: src/components/Statistics.tsx:119
 msgid "One-act plays"
 msgstr "Одноактні пʼєси"
 
-#: src/components/OriginalDetails.tsx:21
+#: src/components/OriginalDetails.tsx:23
 msgid "Original not found"
 msgstr "Оригінал не знайдено"
 
-#: src/components/Original.tsx:59 src/components/Topnav.tsx:90
+#: src/components/Original.tsx:56
+#: src/components/Topnav.tsx:99
 msgid "Originals"
 msgstr "Оригінали"
 
-#: src/components/Original.tsx:82
+#: src/components/Original.tsx:83
 msgid "Other one-act translations"
 msgstr "Інші одноактні переклади"
 
-#: src/components/Home.tsx:29
+#: src/components/Home.tsx:32
 msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
 msgstr "Метою нашого проєкту є надання бази даних одноактних німецькомовних пʼєс, які були написані між серединою XVIII ст. та серединою XIX ст.. Щоб дізнатися більше про базу даних та про те, як на неї посилатися, переходьте за посиланням у розділі „Про проєкт“."
 
-#: src/components/Topnav.tsx:84
+#: src/components/Topnav.tsx:93
 msgid "Plays"
 msgstr "Пʼєси"
 
-#: src/components/OriginalStatistics.tsx:74 src/components/Statistics.tsx:122
+#: src/components/OriginalStatistics.tsx:82
+#: src/components/Statistics.tsx:132
 msgid "Plays published anonymously"
 msgstr "Анонімно опубліковані пʼєси"
 
-#: src/components/Statistics.tsx:125
+#: src/components/Statistics.tsx:135
 msgid "Plays translated/adapted from other languages"
 msgstr "Перекладені з інших мов пʼєси"
 
-#: src/components/Details.tsx:106
+#: src/components/Years.tsx:97
+msgid "premiered"
+msgstr "Премʼєра"
+
+#: src/components/Years.tsx:105
+msgid "printed"
+msgstr "Видано"
+
+#: src/components/Details.tsx:114
 msgid "Reviews"
 msgstr "Огляди"
 
@@ -193,7 +243,7 @@ msgstr "Огляди"
 msgid "Russian"
 msgstr "Російська"
 
-#: src/components/Plays.tsx:68
+#: src/components/Plays.tsx:78
 msgid "Scenes"
 msgstr "Сцени"
 
@@ -201,84 +251,49 @@ msgstr "Сцени"
 msgid "Search"
 msgstr "Пошук"
 
-#: src/components/Details.tsx:245
+#: src/components/Details.tsx:256
 msgid "Setting"
 msgstr "Сценічне оформлення"
+
+#~ msgid "Show more"
+#~ msgstr "Показати більше"
 
 #: src/languages.ts:24
 msgid "Spanish"
 msgstr "Іспанська"
 
-#: src/components/Home.tsx:15
-msgid "The Database of German-Language One-Act Plays 1740–1850"
-msgstr "База німецькомовних одноактних пʼєс 1740–1850 років"
-
-#: src/components/Home.tsx:21
-msgid "The Database of<0/>German-Language<1/>One-Act Plays<2/>1740–1850"
-msgstr "База німецькомовних<0/>одноактних пʼєс<1/>1740–1850 років"
-
-#: src/components/Map.tsx:51
-msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
-msgstr "Ця карта демонструє географічні обʼєкти з сценічного оформлення на початку пʼєси. Назви топонімів та розмежування на карті надано OpenStreetMap. Вони не мають історичної відповідності до часу, описаного у пʼєсі, та часу її написання."
-
-#: src/components/Originals.tsx:54 src/components/Plays.tsx:44
-msgid "Title"
-msgstr "Назва"
-
-#: src/components/OriginalDetails.tsx:72
-msgid "Translations"
-msgstr "Переклади"
-
-#: src/components/Originals.tsx:59 src/components/Plays.tsx:56
-msgid "Year (normalized)"
-msgstr "Рік (нормалізований)"
-
-#: src/components/AuthorInfo.tsx:123
-msgid "b."
-msgstr "народ."
-
-#: src/components/AuthorInfo.tsx:124
-msgid "d."
-msgstr "пом."
-
-#: src/components/GenderIcon.tsx:11 src/components/Statistics.tsx:118
-msgid "female"
-msgstr "Жінки"
-
-#: src/components/GenderIcon.tsx:14 src/components/Statistics.tsx:117
-msgid "male"
-msgstr "Чоловіки"
-
-#: src/components/Plays.tsx:61
-msgid "not available"
-msgstr "невказаний"
-
-#: src/components/Years.js:90
-msgid "premiered"
-msgstr "Премʼєра"
-
-#: src/components/Years.js:98
-msgid "printed"
-msgstr "Видано"
-
-#: src/components/Years.js:81
-msgid "written"
-msgstr "Написано"
-
-#~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
-#~ msgstr "Зараз база даних налічує {0} одноактних пʼєс, в яких зображено {numCharacters} персонажів"
-
-#~ msgid "Hide"
-#~ msgstr "Приховати"
-
-#~ msgid "Loading..."
-#~ msgstr "Завантажує..."
-
-#~ msgid "Show more"
-#~ msgstr "Показати більше"
-
 #~ msgid "Statistics"
 #~ msgstr "Статистика"
 
+#: src/components/Home.tsx:12
+msgid "The Database of German-Language One-Act Plays 1740–1850"
+msgstr "База німецькомовних одноактних пʼєс 1740–1850 років"
+
+#: src/components/Home.tsx:18
+msgid "The Database of<0/>German-Language<1/>One-Act Plays<2/>1740–1850"
+msgstr "База німецькомовних<0/>одноактних пʼєс<1/>1740–1850 років"
+
+#: src/components/Map.tsx:60
+msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
+msgstr "Ця карта демонструє географічні обʼєкти з сценічного оформлення на початку пʼєси. Назви топонімів та розмежування на карті надано OpenStreetMap. Вони не мають історичної відповідності до часу, описаного у пʼєсі, та часу її написання."
+
+#: src/components/Originals.tsx:56
+#: src/components/Plays.tsx:48
+msgid "Title"
+msgstr "Назва"
+
+#: src/components/OriginalDetails.tsx:74
+msgid "Translations"
+msgstr "Переклади"
+
 #~ msgid "undefined"
 #~ msgstr "Невизначений"
+
+#: src/components/Years.tsx:88
+msgid "written"
+msgstr "Написано"
+
+#: src/components/Originals.tsx:61
+#: src/components/Plays.tsx:60
+msgid "Year (normalized)"
+msgstr "Рік (нормалізований)"
