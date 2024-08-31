@@ -1,10 +1,20 @@
-import {defineConfig, loadEnv} from 'vite';
 import react from '@vitejs/plugin-react';
 import eslint from 'vite-plugin-eslint';
+import {lingui} from '@lingui/vite-plugin';
+import mdx from '@mdx-js/rollup';
 
-export default defineConfig({
+export default {
   base: '/',
-  plugins: [eslint(), react()],
+  plugins: [
+    mdx(),
+    eslint(),
+    react({
+      babel: {
+        plugins: ['macros'],
+      },
+    }),
+    lingui(),
+  ],
   build: {
     outDir: 'build',
   },
@@ -23,4 +33,4 @@ export default defineConfig({
       exclude: ['**/*.test.tsx', '**/*.test.ts'],
     },
   },
-});
+};

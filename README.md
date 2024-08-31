@@ -17,6 +17,7 @@ database by running the following commands:
 git clone git@github.com:dracor-org/einakter.git
 cd einakter
 yarn
+yarn compile
 yarn start
 ```
 

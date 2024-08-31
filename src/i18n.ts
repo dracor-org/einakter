@@ -1,6 +1,5 @@
 import {i18n} from '@lingui/core';
 import {detect, fromStorage} from '@lingui/detect-locale';
-import {en, de, es, fa, fr, ja, ko, ku, ru, uk, zh} from 'make-plural/plurals';
 import {messages as enMessages} from './locales/en/messages';
 import {messages as deMessages} from './locales/de/messages';
 import {messages as esMessages} from './locales/es/messages';
@@ -15,21 +14,6 @@ import {messages as zhMessages} from './locales/zh/messages';
 import {messages as tokMessages} from './locales/jbo-tok/messages';
 
 const storageKey = 'uiLanguage';
-
-i18n.loadLocaleData({
-  en: {plurals: en},
-  de: {plurals: de},
-  es: {plurals: es},
-  fa: {plurals: fa},
-  fr: {plurals: fr},
-  ja: {plurals: ja},
-  ko: {plurals: ko},
-  ku: {plurals: ku},
-  ru: {plurals: ru},
-  uk: {plurals: uk},
-  zh: {plurals: zh},
-  tok: {plurals: zh},
-});
 
 i18n.load({
   en: enMessages,

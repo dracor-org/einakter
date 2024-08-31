@@ -13,7 +13,7 @@ export default [
   eslintPluginPrettierRecommended,
   {
     rules: {
-      'camelcase': 'warn',
+      camelcase: 'warn',
       'no-console': 'warn',
       'spaced-comment': ['error', 'always'],
     },
