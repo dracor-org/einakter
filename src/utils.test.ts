@@ -8,7 +8,6 @@ const playTmpl: Play = {
 };
 
 describe('normalizeYear', () => {
-
   it('handles integer for premiered', () => {
     const play = {...playTmpl, premiered: 1789};
     expect(normalizeYear(play)).toBe(1789);
@@ -56,13 +55,15 @@ describe('countCharactersByGender', () => {
         {name: 'Alice', gender: 'f'},
         {name: 'Bob', gender: 'm'},
         {name: 'Somebody else', gender: 'u'},
-        {group: [
-          {name: 'Jane', gender: 'f'},
-          {name: 'Joe', gender: 'm'},
-          {name: 'J.', gender: 'u'},
-          {name: 'Joan', gender: 'f'},
-        ]}
-      ]
+        {
+          group: [
+            {name: 'Jane', gender: 'f'},
+            {name: 'Joe', gender: 'm'},
+            {name: 'J.', gender: 'u'},
+            {name: 'Joan', gender: 'f'},
+          ],
+        },
+      ],
     };
     const num = countCharactersByGender(play);
     expect(num?.total).toBe(7);
@@ -73,7 +74,6 @@ describe('countCharactersByGender', () => {
 });
 
 describe('getEarliestYear', () => {
-
   it('finds earliest year', () => {
     const play = {...playTmpl, premiered: 1789, created: 1770, printed: 1790};
     expect(getEarliestYear(play)).toBe(1770);
@@ -98,5 +98,4 @@ describe('getEarliestYear', () => {
     const play = {...playTmpl};
     expect(getEarliestYear(play)).toBe(undefined);
   });
-
 });

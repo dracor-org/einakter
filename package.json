@@ -3,22 +3,18 @@
   "version": "1.2.1",
   "private": true,
   "dependencies": {
-    "@craco/craco": "^6.4.5",
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
     "@fortawesome/free-brands-svg-icons": "^6.2.0",
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@headlessui/react": "^1.7.2",
-    "@lingui/detect-locale": "^3.14.0",
-    "@lingui/react": "^3.14.0",
+    "@lingui/detect-locale": "^4.11.3",
+    "@lingui/macro": "^4.11.3",
+    "@lingui/react": "^4.11.3",
     "@tailwindcss/typography": "^0.5.7",
     "@tanstack/react-table": "^8.5.13",
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^13.0.0",
-    "@testing-library/user-event": "^13.2.1",
-    "@types/jest": "^29.5.5",
     "@types/leaflet": "^1.5.23",
-    "@types/node": "^16.7.13",
+    "@types/node": "^22.2.0",
     "@types/react": "^18.0.0",
     "@types/react-copy-to-clipboard": "^5.0.4",
     "@types/react-dom": "^18.0.0",
@@ -32,12 +28,41 @@
     "react-leaflet": "^4.1.0",
     "react-markdown": "^8.0.3",
     "react-router-dom": "^6.4.1",
-    "react-scripts": "5.0.1",
     "sass": "^1.55.0",
     "tailwindcss": "^3.1.8",
     "tailwindcss-classnames": "^2.2.5",
-    "typescript": "5.1.6",
-    "web-vitals": "^2.1.0"
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@eslint/js": "^9.9.0",
+    "@lingui/cli": "^4.11.3",
+    "@lingui/vite-plugin": "^4.11.3",
+    "@mdx-js/loader": "^2.1.3",
+    "@mdx-js/rollup": "^3.0.1",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.4.8",
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/eslint__js": "^8.42.3",
+    "@types/js-yaml": "^4.0.5",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.6.0",
+    "babel-plugin-macros": "^3.1.0",
+    "eslint": "^9.9.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-mdx": "^3.1.5",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-react": "^7.35.0",
+    "globals": "^15.9.0",
+    "jsdom": "^24.1.1",
+    "prettier": "^3.3.3",
+    "ts-node": "^10.9.1",
+    "typescript-eslint": "^8.0.1",
+    "vite": "^5.4.0",
+    "vite-plugin-eslint": "^1.8.1",
+    "vitest": "^2.0.5"
   },
   "scripts": {
     "csv": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2csv.ts && cp ./data.csv ./public/",
@@ -45,12 +70,12 @@
     "beacon": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2beacon.ts",
     "authors": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-authors.ts",
     "locations": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-locations.ts",
-    "start": "yarn compile && yarn csv && yarn json && craco start",
-    "build": "yarn compile && yarn csv && yarn json && yarn beacon && craco build",
-    "test": "yarn compile && yarn csv && yarn json && craco test",
+    "start": "yarn csv && yarn json && vite",
+    "build": "yarn csv && yarn json && yarn beacon && vite build",
+    "test": "yarn compile && yarn csv && yarn json && vitest",
+    "lint": "eslint src",
     "extract": "lingui extract",
-    "compile": "lingui compile",
-    "eject": "react-scripts eject"
+    "compile": "lingui compile --typescript"
   },
   "eslintConfig": {
     "extends": [
@@ -85,14 +110,5 @@
     "transformIgnorePatterns": [
       "node_modules/(?!axios)"
     ]
-  },
-  "devDependencies": {
-    "@babel/core": "^7.19.1",
-    "@lingui/cli": "^3.14.0",
-    "@lingui/macro": "^3.14.0",
-    "@mdx-js/loader": "^2.1.3",
-    "@types/js-yaml": "^4.0.5",
-    "axios": "^1.6.0",
-    "ts-node": "^10.9.1"
   }
 }

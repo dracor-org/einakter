@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import {useState} from 'react';
 import {t} from '@lingui/macro';
 import {classnames} from 'tailwindcss-classnames';
 import {
@@ -14,12 +14,12 @@ import {
 import DebouncedInput from './DebouncedInput';
 import {Play, OriginalPlay} from '../types';
 
-
 interface Props {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   data: any[];
-  columns: ColumnDef<OriginalPlay|Play>[];
+  columns: ColumnDef<OriginalPlay | Play>[];
   defaultSort?: SortingState;
-};
+}
 
 const Table = ({columns, data: initialData, defaultSort = []}: Props) => {
   const [sorting, setSorting] = useState<SortingState>(defaultSort);
@@ -46,7 +46,7 @@ const Table = ({columns, data: initialData, defaultSort = []}: Props) => {
       <div className="mb-2">
         <DebouncedInput
           value={globalFilter ?? ''}
-          onChange={value => setGlobalFilter(String(value))}
+          onChange={(value) => setGlobalFilter(String(value))}
           placeholder={t`Search`}
         />
         {globalFilter !== '' && (
@@ -56,9 +56,9 @@ const Table = ({columns, data: initialData, defaultSort = []}: Props) => {
       <div className="flex">
         <table>
           <thead>
-            {table.getHeaderGroups().map(headerGroup => (
+            {table.getHeaderGroups().map((headerGroup) => (
               <tr key={headerGroup.id}>
-                {headerGroup.headers.map(header => (
+                {headerGroup.headers.map((header) => (
                   <th key={header.id} colSpan={header.colSpan}>
                     {header.isPlaceholder ? null : (
                       <div
@@ -72,9 +72,8 @@ const Table = ({columns, data: initialData, defaultSort = []}: Props) => {
                         {flexRender(
                           header.column.columnDef.header,
                           header.getContext()
-                        )}
-                        {' '}
-                        <SortIndicator status={header.column.getIsSorted()}/>
+                        )}{' '}
+                        <SortIndicator status={header.column.getIsSorted()} />
                       </div>
                     )}
                   </th>
@@ -85,7 +84,7 @@ const Table = ({columns, data: initialData, defaultSort = []}: Props) => {
           <tbody>
             {table.getRowModel().rows.map((row, i) => (
               <tr key={row.id} className={i % 2 ? '' : 'bg-neutral-200'}>
-                {row.getVisibleCells().map(cell => (
+                {row.getVisibleCells().map((cell) => (
                   <td key={cell.id}>
                     {flexRender(cell.column.columnDef.cell, cell.getContext())}
                   </td>
@@ -101,11 +100,11 @@ const Table = ({columns, data: initialData, defaultSort = []}: Props) => {
 
 export default Table;
 
-export function SortIndicator ({status}: {status: false | SortDirection}) {
+export function SortIndicator({status}: {status: false | SortDirection}) {
   return (
     <>
       <span className={classnames({'opacity-40': status !== 'asc'})}>▲</span>
       <span className={classnames({'opacity-40': status !== 'desc'})}>▼</span>
-   </>
+    </>
   );
 }

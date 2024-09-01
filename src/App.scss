@@ -7,7 +7,8 @@ tr.dates > td > span {
   padding-right: 1em;
 }
 
-td ul:last-child, td p:last-child {
+td ul:last-child,
+td p:last-child {
   margin-bottom: 0;
 }
 
@@ -78,17 +79,17 @@ td ul:last-child, td p:last-child {
 @-webkit-keyframes upward {
   0% {
     transform: translate(0, 0);
-}
-100% {
+  }
+  100% {
     transform: translate(0, -50%);
-}
+  }
 }
 
 @keyframes upward {
   0% {
     transform: translate(0, 0);
-}
-100% {
+  }
+  100% {
     transform: translate(0, -50%);
-}
+  }
 }

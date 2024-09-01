@@ -1,5 +1,5 @@
-import React, {useContext} from 'react';
-import {Link, useParams} from "react-router-dom";
+import {useContext} from 'react';
+import {Link, useParams} from 'react-router-dom';
 import {Helmet} from 'react-helmet-async';
 import {Trans} from '@lingui/macro';
 import Authors from './Authors';
@@ -15,18 +15,22 @@ const OriginalDetails = () => {
   const {slug} = useParams<{slug: string}>();
   const {plays, originals} = useContext(EinakterContext);
 
-  const original = originals.find(o => o.slug === slug);
+  const original = originals.find((o) => o.slug === slug);
 
   if (!original) {
-    return <h1><Trans>Original not found</Trans></h1>;
+    return (
+      <h1>
+        <Trans>Original not found</Trans>
+      </h1>
+    );
   }
 
-  const translations = plays.filter(p => p.basedOn?.find(
-    (o: OriginalPlay | string) => {
+  const translations = plays.filter((p) =>
+    p.basedOn?.find((o: OriginalPlay | string) => {
       if (typeof o !== 'string' && o.slug === slug) return true;
       return false;
-    }
-  ));
+    })
+  );
 
   const {
     id,
@@ -41,7 +45,7 @@ const OriginalDetails = () => {
     language,
   } = original;
 
-  const authorNames = authors.map(a => a.name || '').join(' · ');
+  const authorNames = authors.map((a) => a.name || '').join(' · ');
   const pageTitle = authorNames ? `${authorNames}: ${title}` : title;
 
   return (
@@ -49,13 +53,13 @@ const OriginalDetails = () => {
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
-      <hgroup className='mb-4'>
+      <hgroup className="mb-4">
         <h2>
-          <Authors authors={authors}/>
+          <Authors authors={authors} />
         </h2>
         <h1>{title}</h1>
         {subtitle && <h3>{subtitle}</h3>}
-        <IdCopy id={id}  className="mt-1" />
+        <IdCopy id={id} className="mt-1" />
       </hgroup>
       <table>
         <tbody>
@@ -63,9 +67,7 @@ const OriginalDetails = () => {
             <th>
               <Trans>Language</Trans>
             </th>
-            <td>
-              {localLanguageName(language as string)}
-            </td>
+            <td>{localLanguageName(language as string)}</td>
           </tr>
           <tr>
             <th>
@@ -73,16 +75,17 @@ const OriginalDetails = () => {
             </th>
             <td>
               <ul className="list-disc text-gray-400">
-                {translations.sort(sortByYear).map(play => (
+                {translations.sort(sortByYear).map((play) => (
                   <li key={play.slug}>
                     <Link to={`/${play.slug}`}>
-                      {(play.authors && play.authors.length > 0) && (
+                      {play.authors && play.authors.length > 0 && (
                         <>
-                          <Authors authors={play.authors}/>{': '}
+                          <Authors authors={play.authors} />
+                          {': '}
                         </>
                       )}
                       {play.title}
-                      {(play.subtitle && !play.title.match(/[.!?]\s*$/)) && '.'}
+                      {play.subtitle && !play.title.match(/[.!?]\s*$/) && '.'}
                       {play.subtitle && ` ${play.subtitle}`}
                       {play.normalizedYear && ` (${play.normalizedYear})`}
                     </Link>
@@ -96,7 +99,7 @@ const OriginalDetails = () => {
               <Trans>Dates</Trans>
             </th>
             <td>
-              <Years written={created} premiere={premiered} print={printed}/>
+              <Years written={created} premiere={premiered} print={printed} />
             </td>
           </tr>
           {ids && (
@@ -107,13 +110,12 @@ const OriginalDetails = () => {
               <td>
                 {ids.dracor && (
                   <small>
-                    <IdLink id={ids.dracor} type="dracor"/>
+                    <IdLink id={ids.dracor} type="dracor" />
                   </small>
-                )}
-                {' '}
+                )}{' '}
                 {ids.wikidata && (
                   <small>
-                    <IdLink id={ids.wikidata} type="wikidata"/>
+                    <IdLink id={ids.wikidata} type="wikidata" />
                   </small>
                 )}
               </td>
@@ -125,9 +127,7 @@ const OriginalDetails = () => {
                 <Trans>Full text</Trans>
               </th>
               <td>
-                <a href={fulltextUrl}>
-                  {fulltextUrl}
-                </a>
+                <a href={fulltextUrl}>{fulltextUrl}</a>
               </td>
             </tr>
           )}

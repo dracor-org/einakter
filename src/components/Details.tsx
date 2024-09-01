@@ -1,5 +1,5 @@
-import React, {useEffect, useContext} from 'react';
-import {useLocation, useParams} from "react-router-dom";
+import {useEffect, useContext} from 'react';
+import {useLocation, useParams} from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import {Helmet} from 'react-helmet-async';
 import {Trans, t} from '@lingui/macro';
@@ -15,12 +15,12 @@ import BasedOn from './BasedOn';
 import {EinakterContext} from '../context';
 import {CastMember, Play} from '../types';
 
-export default function Details () {
-  const { slug } = useParams<{slug: string}>();
-  const { pathname } = useLocation();
-  const { plays: data } = useContext(EinakterContext);
+export default function Details() {
+  const {slug} = useParams<{slug: string}>();
+  const {pathname} = useLocation();
+  const {plays: data} = useContext(EinakterContext);
 
-  const groupIcon = <FontAwesomeIcon icon="users" size="sm" title={t`Group`}/>;
+  const groupIcon = <FontAwesomeIcon icon="users" size="sm" title={t`Group`} />;
 
   const play: Play | undefined = data.find((p: Play) => p.slug === slug);
 
@@ -29,7 +29,11 @@ export default function Details () {
   }, [pathname]);
 
   if (!play) {
-    return <strong><Trans>No such play</Trans></strong>;
+    return (
+      <strong>
+        <Trans>No such play</Trans>
+      </strong>
+    );
   }
 
   const {
@@ -53,7 +57,9 @@ export default function Details () {
     basedOn,
   } = play;
 
-  const authorNames = authors.map(a => a.pseudonym || a.name || '').join(' · ');
+  const authorNames = authors
+    .map((a) => a.pseudonym || a.name || '')
+    .join(' · ');
   const pageTitle = authorNames ? `${authorNames}: ${title}` : title;
 
   return (
@@ -61,11 +67,11 @@ export default function Details () {
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
-      <div className='flex justify-between mb-4 flex-col gap-3 md:flex-row'>
+      <div className="flex justify-between mb-4 flex-col gap-3 md:flex-row">
         <div>
           <hgroup>
             <h2>
-              <Authors authors={authors}/>
+              <Authors authors={authors} />
             </h2>
             <h1>{title}</h1>
             {subtitle && <h3>{subtitle}</h3>}
@@ -73,13 +79,15 @@ export default function Details () {
           </hgroup>
         </div>
         <div>
-          {authors.filter(a => Boolean(a.wikidata)).map(a => (
-            <AuthorInfo
-              key={a.wikidata}
-              fullname={a.name || ''}
-              wikidataId={a.wikidata || ''}
-            />
-          ))}
+          {authors
+            .filter((a) => Boolean(a.wikidata))
+            .map((a) => (
+              <AuthorInfo
+                key={a.wikidata}
+                fullname={a.name || ''}
+                wikidataId={a.wikidata || ''}
+              />
+            ))}
         </div>
       </div>
       <table>
@@ -121,7 +129,7 @@ export default function Details () {
               <Trans>Dates</Trans>
             </th>
             <td>
-              <Years written={created} premiere={premiered} print={printed}/>
+              <Years written={created} premiere={premiered} print={printed} />
             </td>
           </tr>
           {numberOfScenes && (
@@ -140,19 +148,17 @@ export default function Details () {
               <td>
                 {ids.dracor && (
                   <small>
-                    <IdLink id={ids.dracor} type="dracor"/>
+                    <IdLink id={ids.dracor} type="dracor" />
                   </small>
-                )}
-                {' '}
+                )}{' '}
                 {ids.wikidata && (
                   <small>
-                    <IdLink id={ids.wikidata} type="wikidata"/>
+                    <IdLink id={ids.wikidata} type="wikidata" />
                   </small>
-                )}
-                {' '}
+                )}{' '}
                 {ids.weber && (
                   <small>
-                    <IdLink id={ids.weber} type="weber"/>
+                    <IdLink id={ids.weber} type="weber" />
                   </small>
                 )}
               </td>
@@ -165,7 +171,7 @@ export default function Details () {
               </th>
               <td>
                 <ul className="list-disc text-gray-400">
-                  {editions.map(e => (
+                  {editions.map((e) => (
                     <li key={e.url || e.title}>
                       {e.url ? (
                         <a href={e.url}>{e.title}</a>
@@ -185,9 +191,14 @@ export default function Details () {
               </th>
               <td>
                 <ul>
-                  {cast.map((c: CastMember) => c.group ? (
-                    <li className="flex flex-row-reverse justify-end mb-2" key={c.role}>
-                      <em className="self-center
+                  {cast.map((c: CastMember) =>
+                    c.group ? (
+                      <li
+                        className="flex flex-row-reverse justify-end mb-2"
+                        key={c.role}
+                      >
+                        <em
+                          className="self-center
                                     flex
                                     items-center
                                     ml-5
@@ -196,8 +207,11 @@ export default function Details () {
                                     before:h-[2px]
                                     before:w-2.5
                                     before:mr-2"
-                      >{c.role}</em>
-                      <ul className="relative
+                        >
+                          {c.role}
+                        </em>
+                        <ul
+                          className="relative
                                     after:w-3
                                     after:h-calc-full-0.75
                                     after:rounded-r
@@ -208,33 +222,30 @@ export default function Details () {
                                     after:border-b-2
                                     after:absolute
                                     after:top-1.5
-                                    after:-right-5">
-                      {c.group && c.group.map(member => (
-                        <li key={member.name}>
-                          {member.name}
-                          {member.role && (<i> {member.role}</i> )}
-                          {' '}
-                          {member.gender && (
-                            <GenderIcon gender={member.gender} />
-                          )}
-                          {' '}
-                          {member.isGroup && groupIcon}
-                        </li>
-                      ))}
-                      </ul>
-                    </li>
-                  ) : (
-                    <li className="mb-2" key={c.name}>
-                      {c.name}
-                      {c.role && (<i> {c.role}</i> )}
-                      {' '}
-                      {c.gender && (
-                        <GenderIcon gender={c.gender} />
-                      )}
-                      {' '}
-                      {c.isGroup && groupIcon}
-                    </li>
-                  ))}
+                                    after:-right-5"
+                        >
+                          {c.group &&
+                            c.group.map((member) => (
+                              <li key={member.name}>
+                                {member.name}
+                                {member.role && <i> {member.role}</i>}{' '}
+                                {member.gender && (
+                                  <GenderIcon gender={member.gender} />
+                                )}{' '}
+                                {member.isGroup && groupIcon}
+                              </li>
+                            ))}
+                        </ul>
+                      </li>
+                    ) : (
+                      <li className="mb-2" key={c.name}>
+                        {c.name}
+                        {c.role && <i> {c.role}</i>}{' '}
+                        {c.gender && <GenderIcon gender={c.gender} />}{' '}
+                        {c.isGroup && groupIcon}
+                      </li>
+                    )
+                  )}
                 </ul>
               </td>
             </tr>
@@ -247,7 +258,9 @@ export default function Details () {
               <td>
                 <ul className="italic">
                   {settings.map((s) => (
-                    <li className="mb-2" key={s.description}>{s.description}</li>
+                    <li className="mb-2" key={s.description}>
+                      {s.description}
+                    </li>
                   ))}
                 </ul>
               </td>
@@ -260,11 +273,16 @@ export default function Details () {
               </th>
               <td>
                 <ul>
-                  {settings?.filter((s) => s.location?.wikidataId).map((s) => (
-                    <small key={s.location.wikidataId as string}>
-                      <IdLink id={s.location.wikidataId as string} type="wikidata"/>
-                    </small>
-                  ))}
+                  {settings
+                    ?.filter((s) => s.location?.wikidataId)
+                    .map((s) => (
+                      <small key={s.location.wikidataId as string}>
+                        <IdLink
+                          id={s.location.wikidataId as string}
+                          type="wikidata"
+                        />
+                      </small>
+                    ))}
                 </ul>
               </td>
             </tr>
@@ -275,7 +293,7 @@ export default function Details () {
                 <Trans>Based on</Trans>
               </th>
               <td>
-                <BasedOn refs={basedOn}/>
+                <BasedOn refs={basedOn} />
               </td>
             </tr>
           )}
@@ -285,7 +303,7 @@ export default function Details () {
                 <Trans>Dictionaries</Trans>
               </th>
               <td>
-                <Dictionaries dictionaries={dictionaries}/>
+                <Dictionaries dictionaries={dictionaries} />
               </td>
             </tr>
           )}
@@ -296,7 +314,7 @@ export default function Details () {
               </th>
               <td>
                 <ul>
-                  {formalia.map(text => (
+                  {formalia.map((text) => (
                     <li key={text}>{text}</li>
                   ))}
                 </ul>
@@ -310,7 +328,7 @@ export default function Details () {
               </th>
               <td>
                 <ul className="list-disc text-gray-400">
-                  {keywords.map(k => (
+                  {keywords.map((k) => (
                     <li key={k}>
                       <span className="text-black">{k}</span>
                     </li>

@@ -1,6 +1,5 @@
-import React from 'react';
-import { render, screen } from '@testing-library/react';
-import { I18nProvider } from '@lingui/react';
+import {render, screen} from '@testing-library/react';
+import {I18nProvider} from '@lingui/react';
 import {HelmetProvider} from 'react-helmet-async';
 import i18n from './i18n';
 import App from './App';

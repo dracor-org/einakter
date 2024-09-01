@@ -6,34 +6,34 @@ name: CD
 
 on:
   push:
-    branches: [ main, production ]
+    branches: [main, production]
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
-    - uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4.0.2
-      with:
-        node-version: '20.x'
-    - name: Restore node_modules
-      uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
-      with:
-        path: node_modules
-        key: ${{ runner.os }}-${{ hashFiles('yarn.lock') }}
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4.0.2
+        with:
+          node-version: '20.x'
+      - name: Restore node_modules
+        uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-${{ hashFiles('yarn.lock') }}
 
-    - run: yarn install
-    - run: yarn test --watchAll=false
-    - run: yarn build
+      - run: yarn install
+      - run: yarn test --watch=false
+      - run: yarn build
 
-    - uses: webfactory/ssh-agent@dc588b651fe13675774614f8e6a936a468676387 # v0.9.0
-      with:
-        ssh-private-key: ${{ secrets.DRACOR_ORG_DEPLOY_KEY }}
+      - uses: webfactory/ssh-agent@dc588b651fe13675774614f8e6a936a468676387 # v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.DRACOR_ORG_DEPLOY_KEY }}
 
-    - name: Deploy to staging
-      run: rsync -rlvz --delete -e 'ssh -o StrictHostKeyChecking=no' build/ ${{ secrets.DRACOR_ORG_DEPLOY_USER }}@staging.dracor.org:${{ secrets.DEPLOY_PATH }}/
-      if: github.ref == 'refs/heads/main'
+      - name: Deploy to staging
+        run: rsync -rlvz --delete -e 'ssh -o StrictHostKeyChecking=no' build/ ${{ secrets.DRACOR_ORG_DEPLOY_USER }}@staging.dracor.org:${{ secrets.DEPLOY_PATH }}/
+        if: github.ref == 'refs/heads/main'
 
-    - name: Deploy to production
-      run: rsync -rlvz --delete -e 'ssh -o StrictHostKeyChecking=no' build/ ${{ secrets.DRACOR_ORG_DEPLOY_USER }}@dracor.org:${{ secrets.DEPLOY_PATH }}/
-      if: github.ref == 'refs/heads/production'
+      - name: Deploy to production
+        run: rsync -rlvz --delete -e 'ssh -o StrictHostKeyChecking=no' build/ ${{ secrets.DRACOR_ORG_DEPLOY_USER }}@dracor.org:${{ secrets.DEPLOY_PATH }}/
+        if: github.ref == 'refs/heads/production'

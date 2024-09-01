@@ -1,40 +1,39 @@
 import {Play, OriginalPlay} from './types';
 
-export function normalizeYear (play: Play | OriginalPlay) {
+export function normalizeYear(play: Play | OriginalPlay) {
   const {premiered: p, printed, created} = play;
   const premiered: number = parseInt(p as string);
-  const published = (premiered && printed)
-    ? Math.min(premiered, printed)
-    : premiered || printed;
+  const published =
+    premiered && printed ? Math.min(premiered, printed) : premiered || printed;
 
   let year;
   if (created && published) {
-    year = (published - created > 10) ? created : published;
+    year = published - created > 10 ? created : published;
   } else {
-    year = created || published
+    year = created || published;
   }
 
   return year;
-};
+}
 
-export function getEarliestYear (play: Play) {
+export function getEarliestYear(play: Play) {
   const {premiered, printed, created} = play;
-  const years = [parseInt(premiered as string), printed, created].filter(
-    y => Boolean(y)
+  const years = [parseInt(premiered as string), printed, created].filter((y) =>
+    Boolean(y)
   );
-  return years.length > 0 ? Math.min(...years as number[]): undefined;
-};
+  return years.length > 0 ? Math.min(...(years as number[])) : undefined;
+}
 
-export function countCharacters (play: Play) {
+export function countCharacters(play: Play) {
   const {cast} = play;
   if (!cast) return undefined;
   return cast.reduce((num, item) => {
     const n = item.group ? item.group.length : 1;
     return num + n;
-  }, 0)
-};
+  }, 0);
+}
 
-export function countCharactersByGender (play: Play) {
+export function countCharactersByGender(play: Play) {
   const {cast} = play;
   const initial = {male: 0, female: 0, unknown: 0, total: 0};
   if (!cast) return initial;
@@ -53,13 +52,13 @@ export function countCharactersByGender (play: Play) {
       num.total++;
     }
     return num;
-  }, initial)
-};
+  }, initial);
+}
 
-export function sortByYear (a: Play, b: Play) {
+export function sortByYear(a: Play, b: Play) {
   const yearA = a.normalizedYear || -10000;
   const yearB = b.normalizedYear || -10000;
   if (yearA > yearB) return 1;
   if (yearA < yearB) return -1;
-  return 0
-};
+  return 0;
+}

@@ -1,5 +1,5 @@
-import React, {useContext} from 'react';
-import {Link, useParams} from "react-router-dom";
+import {useContext} from 'react';
+import {Link, useParams} from 'react-router-dom';
 import {Trans, t} from '@lingui/macro';
 import Authors from './Authors';
 import IdLink from './IdLink';
@@ -17,60 +17,61 @@ function getYear(ref: OriginalPlay) {
 }
 
 interface Props {
-  data: OriginalPlay
-};
+  data: OriginalPlay;
+}
 
 const Original = ({data}: Props) => {
   const {slug: currentSlug} = useParams<{slug: string}>();
   const {plays} = useContext(EinakterContext);
 
-  const {
-    id,
-    slug,
-    authors = [],
-    title,
-    subtitle,
-    ids,
-    language,
-  } = data;
+  const {id, slug, authors = [], title, subtitle, ids, language} = data;
 
   const year = getYear(data);
 
-  const others = plays.filter((p) => p.basedOn?.find(
-    (r: OriginalPlay | string) => 
-      typeof r !== 'string' && r.id === id && p.slug !== currentSlug
-  ));
+  const others = plays.filter((p) =>
+    p.basedOn?.find(
+      (r: OriginalPlay | string) =>
+        typeof r !== 'string' && r.id === id && p.slug !== currentSlug
+    )
+  );
 
   return (
     <>
-      {authors.length > 0 && authors.map((a, i) => (
-        <span key={a.name}>
-          {i > 0 && ', '}
-          {a.name}
-          {a.wikidata && (
-            <>
-              {' '}
-              <small><IdLink id={a.wikidata} type="wikidata"/></small>
-            </>
-          )}
-        </span>
-      ))}
+      {authors.length > 0 &&
+        authors.map((a, i) => (
+          <span key={a.name}>
+            {i > 0 && ', '}
+            {a.name}
+            {a.wikidata && (
+              <>
+                {' '}
+                <small>
+                  <IdLink id={a.wikidata} type="wikidata" />
+                </small>
+              </>
+            )}
+          </span>
+        ))}
       {authors.length > 0 && ': '}
       <a href={`/originals/${slug}`} title={t`Originals`}>
-       {title}
-       {(subtitle && !title.match(/[.!?]\s*$/)) && '.'}
-       {subtitle && ` ${subtitle}`}
+        {title}
+        {subtitle && !title.match(/[.!?]\s*$/) && '.'}
+        {subtitle && ` ${subtitle}`}
       </a>
       {ids?.dracor && (
         <>
           {' '}
-          <small><IdLink id={ids.dracor} type="dracor"/></small>
+          <small>
+            <IdLink id={ids.dracor} type="dracor" />
+          </small>
         </>
       )}
       {ids?.wikidata && (
         <>
           {' '}
-          <small><IdLink id={ids.wikidata} type="wikidata"/></small>
+          <small>
+            <IdLink id={ids.wikidata} type="wikidata" />
+          </small>
         </>
       )}
       {year !== undefined && ` (${year})`}
@@ -85,13 +86,14 @@ const Original = ({data}: Props) => {
             {others.sort(sortByYear).map((play) => (
               <li key={play.slug}>
                 <Link to={`/${play.slug}`}>
-                  {(play.authors && play.authors.length > 0) && (
+                  {play.authors && play.authors.length > 0 && (
                     <>
-                      <Authors authors={play.authors}/>{': '}
+                      <Authors authors={play.authors} />
+                      {': '}
                     </>
                   )}
                   {play.title}
-                  {(play.subtitle && !play.title.match(/[.!?]\s*$/)) && '.'}
+                  {play.subtitle && !play.title.match(/[.!?]\s*$/) && '.'}
                   {play.subtitle && ` ${play.subtitle}`}
                   {play.normalizedYear && ` (${play.normalizedYear})`}
                 </Link>

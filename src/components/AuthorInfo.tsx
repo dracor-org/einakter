@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import {useEffect, useState} from 'react';
 import {Trans} from '@lingui/macro';
 import axios from 'axios';
 import IdLink from './IdLink';
@@ -7,21 +7,21 @@ import {formatYear} from './Years';
 const endpoint = 'https://query.wikidata.org/sparql';
 
 interface Props {
-  fullname: string
-  wikidataId: string
-};
+  fullname: string;
+  wikidataId: string;
+}
 
 interface Info {
-  name: string
-  imageUrl?: string
-  commonsPage?: string
-  birth?: string[]
-  death?: string[]
-  gender?: string
-};
+  name: string;
+  imageUrl?: string;
+  commonsPage?: string;
+  birth?: string[];
+  death?: string[];
+  gender?: string;
+}
 
 const AuthorInfo = ({fullname, wikidataId}: Props) => {
-  const [info, setInfo] = useState<Info|null>(null);
+  const [info, setInfo] = useState<Info | null>(null);
 
   useEffect(() => {
     async function fetchInfo(id: string) {
@@ -76,7 +76,7 @@ WHERE {
           }
           if (deathPlaceLabel?.value) death.push(deathPlaceLabel.value);
 
-          const aInfo: Info = { name: authorLabel.value, birth, death };
+          const aInfo: Info = {name: authorLabel.value, birth, death};
 
           if (img?.value) {
             aInfo.imageUrl = img.value.replace(/^http:/, 'https:');
@@ -90,7 +90,7 @@ WHERE {
           console.log(response.status);
         }
       } catch (error) {
-        console.log(error)
+        console.log(error);
       }
     }
 
@@ -105,11 +105,7 @@ WHERE {
         {imageUrl && <img src={imageUrl} title={name} alt="" width="50" />}
         {commonsPage && (
           <a href={commonsPage} title="© Wikimedia Commons">
-            <img
-              src="/commons-logo.svg"
-              width="17"
-              alt="Wikimedia Commons"
-            />
+            <img src="/commons-logo.svg" width="17" alt="Wikimedia Commons" />
           </a>
         )}
       </div>
@@ -117,11 +113,19 @@ WHERE {
         <h2>{fullname}</h2>
         {wikidataId && (
           <p>
-            <IdLink id={wikidataId} type="wikidata"/>
+            <IdLink id={wikidataId} type="wikidata" />
           </p>
         )}
-        {birth.length > 0 && <p><Trans>b.</Trans> {birth.join(', ')}</p>}
-        {death.length > 0 && <p><Trans>d.</Trans> {death.join(', ')}</p>}
+        {birth.length > 0 && (
+          <p>
+            <Trans>b.</Trans> {birth.join(', ')}
+          </p>
+        )}
+        {death.length > 0 && (
+          <p>
+            <Trans>d.</Trans> {death.join(', ')}
+          </p>
+        )}
       </span>
     </div>
   );

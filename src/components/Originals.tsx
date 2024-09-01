@@ -1,4 +1,4 @@
-import React, {useContext, useMemo} from 'react';
+import {useContext, useMemo} from 'react';
 import {Helmet} from 'react-helmet-async';
 import {t} from '@lingui/macro';
 import {ColumnDef} from '@tanstack/react-table';
@@ -11,11 +11,11 @@ import Authors from './Authors';
 import TitleCell from './TitleCell';
 import {formatEra} from './Years';
 
-function Originals () {
+function Originals() {
   const {plays, originals} = useContext(EinakterContext);
 
-  const numbers: {[id: string]: number} = {}
-  plays.forEach(p => {
+  const numbers: {[id: string]: number} = {};
+  plays.forEach((p) => {
     p.basedOn?.forEach((o: OriginalPlay | string) => {
       if (typeof o !== 'string' && o.id) {
         const id = o.id;
@@ -41,34 +41,38 @@ function Originals () {
         accessorFn: (row) => {
           const {authors = []} = row;
           if (authors.length === 0) return 'Anonym';
-          return authors.map(
-            a => `${a.name || ''} ${a.pseudonym || ''} ${a.wikidata || ''}`
-          ).join(' ');
+          return authors
+            .map(
+              (a) => `${a.name || ''} ${a.pseudonym || ''} ${a.wikidata || ''}`
+            )
+            .join(' ');
         },
-        cell: info => (
-          <Authors authors={info.row.original.authors || []} withLink/>
+        cell: (info) => (
+          <Authors authors={info.row.original.authors || []} withLink />
         ),
       },
       {
         accessorKey: 'title',
         header: t`Title`,
-        cell: info => <TitleCell play={info.row.original}/>,
+        cell: (info) => <TitleCell play={info.row.original} />,
       },
       {
         id: 'normalizedYear',
         header: t`Year (normalized)`,
-        accessorFn: row => row.normalizedYear?.toString() || '',
-        cell: info => <span>{formatEra(info.row.original.normalizedYear)}</span>
+        accessorFn: (row) => row.normalizedYear?.toString() || '',
+        cell: (info) => (
+          <span>{formatEra(info.row.original.normalizedYear)}</span>
+        ),
       },
       {
         id: 'language',
         header: t`Language`,
-        accessorFn: row => localLanguageName(row.language || ''),
+        accessorFn: (row) => localLanguageName(row.language || ''),
       },
       {
         id: 'numTranslations',
         header: t`Number of translations`,
-        accessorFn: row => row.numTranslations?.toString() || '0',
+        accessorFn: (row) => row.numTranslations?.toString() || '0',
       },
     ],
     []
@@ -80,7 +84,7 @@ function Originals () {
         <title>Einakter: Originals</title>
       </Helmet>
       <div>
-        <OriginalStatistics plays={originals} className="mb-2"/>
+        <OriginalStatistics plays={originals} className="mb-2" />
         <Table
           columns={columns}
           data={data}
