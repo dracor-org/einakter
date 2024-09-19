@@ -32,10 +32,10 @@ const map: Map<OriginalPlay> = originals.reduce((acc, o) => {
 
 const plays = data.map((p: Play) => {
   const yearNormalized = normalizeYear(p);
-  const numberOfCharacters = countCharacters(p);
+  const numOfCharacters = countCharacters(p);
   const authors = p.author ? [p.author] : p.authors || [];
   const basedOn = p.basedOn?.map((ref) => map[ref as string] || ref) || [];
-  const play = {...p, authors, yearNormalized, numberOfCharacters};
+  const play = {...p, authors, yearNormalized, numOfCharacters};
   if (basedOn.length > 0) play.basedOn = basedOn;
   return play;
 });

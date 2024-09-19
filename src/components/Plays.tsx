@@ -74,14 +74,14 @@ export default function Plays() {
         },
       },
       {
-        id: 'numberOfScenes',
+        id: 'numOfScenes',
         header: t`Scenes`,
-        accessorFn: (row) => row.numberOfScenes?.toString() || '',
+        accessorFn: (row) => row.numOfScenes?.toString() || '',
       },
       {
-        id: 'numberOfCharacters',
+        id: 'numOfCharacters',
         header: t`Characters`,
-        accessorFn: (row) => row.numberOfCharacters?.toString() || '',
+        accessorFn: (row) => row.numOfCharacters?.toString() || '',
       },
       {
         id: 'keywords',

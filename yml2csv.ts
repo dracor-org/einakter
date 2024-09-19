@@ -38,11 +38,11 @@ const cols = [
   'dracorID', // (as full URL to be clickable for convenience)
   'wegaId',
   'locationID', // (as full URL to be clickable for convenience)
-  'numberOfScenes',
-  'numberOfCharacters',
-  'numberOfMaleCharacters',
-  'numberOfFemaleCharacters',
-  'numberOfCharactersWithUnknownGender',
+  'numOfScenes',
+  'numOfCharacters',
+  'numOfMaleCharacters',
+  'numOfFemaleCharacters',
+  'numOfCharactersWithUnknownGender',
 ];
 
 const lines = data.map((p: Play) => {
@@ -64,10 +64,10 @@ const lines = data.map((p: Play) => {
     authorWikidataID,
     yearNormalized: normalizeYear(p),
     earliestYear: getEarliestYear(p) || '',
-    numberOfCharacters: num.total,
-    numberOfMaleCharacters: num.male,
-    numberOfFemaleCharacters: num.female,
-    numberOfCharactersWithUnknownGender: num.unknown,
+    numOfCharacters: num.total,
+    numOfMaleCharacters: num.male,
+    numOfFemaleCharacters: num.female,
+    numOfCharactersWithUnknownGender: num.unknown,
     basedOn: p.basedOn ? 'true' : 'false',
     link: `https://einakter.dracor.org/${p.slug}`,
     yearWritten: p.yearWritten,
