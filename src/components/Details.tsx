@@ -43,7 +43,8 @@ export default function Details() {
     authors = [],
     cast,
     comments,
-    created,
+    yearWritten,
+    yearPrinted,
     dictionaries,
     editions,
     formalia,
@@ -51,7 +52,6 @@ export default function Details() {
     keywords,
     numberOfScenes,
     premiered,
-    printed,
     reviews,
     settings,
     basedOn,
@@ -129,7 +129,11 @@ export default function Details() {
               <Trans>Dates</Trans>
             </th>
             <td>
-              <Years written={created} premiere={premiered} print={printed} />
+              <Years
+                written={yearWritten}
+                premiere={premiered}
+                print={yearPrinted}
+              />
             </td>
           </tr>
           {numberOfScenes && (

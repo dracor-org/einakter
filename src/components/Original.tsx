@@ -10,8 +10,8 @@ import {localLanguageName} from '../languages';
 
 function getYear(ref: OriginalPlay) {
   const years = [];
-  if (ref.created) years.push(ref.created);
-  if (ref.printed) years.push(ref.printed);
+  if (ref.yearWritten) years.push(ref.yearWritten);
+  if (ref.yearPrinted) years.push(ref.yearPrinted);
   if (ref.premiered) years.push(parseInt(ref.premiered as string));
   return years.sort()[0] || undefined;
 }

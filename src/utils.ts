@@ -1,26 +1,30 @@
 import {Play, OriginalPlay} from './types';
 
 export function normalizeYear(play: Play | OriginalPlay) {
-  const {premiered: p, printed, created} = play;
+  const {premiered: p, yearPrinted, yearWritten} = play;
   const premiered: number = parseInt(p as string);
   const published =
-    premiered && printed ? Math.min(premiered, printed) : premiered || printed;
+    premiered && yearPrinted
+      ? Math.min(premiered, yearPrinted)
+      : premiered || yearPrinted;
 
   let year;
-  if (created && published) {
-    year = published - created > 10 ? created : published;
+  if (yearWritten && published) {
+    year = published - yearWritten > 10 ? yearWritten : published;
   } else {
-    year = created || published;
+    year = yearWritten || published;
   }
 
   return year;
 }
 
 export function getEarliestYear(play: Play) {
-  const {premiered, printed, created} = play;
-  const years = [parseInt(premiered as string), printed, created].filter((y) =>
-    Boolean(y)
-  );
+  const {premiered, yearPrinted, yearWritten} = play;
+  const years = [
+    parseInt(premiered as string),
+    yearPrinted,
+    yearWritten,
+  ].filter((y) => Boolean(y));
   return years.length > 0 ? Math.min(...(years as number[])) : undefined;
 }
 
