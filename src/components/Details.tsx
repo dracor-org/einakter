@@ -50,7 +50,7 @@ export default function Details() {
     formalia,
     ids,
     keywords,
-    numberOfScenes,
+    numOfScenes,
     premiered,
     reviews,
     settings,
@@ -136,12 +136,12 @@ export default function Details() {
               />
             </td>
           </tr>
-          {numberOfScenes && (
+          {numOfScenes && (
             <tr>
               <th>
                 <Trans>Number of Scenes</Trans>
               </th>
-              <td>{numberOfScenes}</td>
+              <td>{numOfScenes}</td>
             </tr>
           )}
           {ids && (

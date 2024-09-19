@@ -72,8 +72,8 @@ export interface Play {
     weber?: string;
   };
   keywords?: string[];
-  numberOfCharacters?: number;
-  numberOfScenes?: number;
+  numOfCharacters?: number;
+  numOfScenes?: number;
   reviews?: string[];
   settings?: Setting[];
   subtitle?: string;
