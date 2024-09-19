@@ -5,5 +5,13 @@
   "tabWidth": 2,
   "bracketSpacing": false,
   "arrowParens": "always",
-  "trailingComma": "es5"
+  "trailingComma": "es5",
+  "overrides": [
+    {
+      "files": ["**/*.yml", "**/*.yaml"],
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ]
 }

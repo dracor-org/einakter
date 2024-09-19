@@ -23,12 +23,12 @@ interface Author {
   ambiguous?: boolean;
 }
 
-const authors: {[index: string]: any} = {...authorData};
+const authors: {[index: string]: Author} = {...authorData};
 
 let data: Play[] = [];
 try {
   data = loadAll(readFileSync('./data.yaml', 'utf8'), null, {
-    schema: CORE_SCHEMA
+    schema: CORE_SCHEMA,
   }) as Play[];
 } catch (error) {
   console.log(error);
@@ -43,15 +43,15 @@ const plays = data.map((p: Play) => {
 const argv = process.argv.slice(2);
 
 const authorIds = plays
-  .map(p => p.authors.filter(a => a.wikidata).map(a => a.wikidata))
+  .map((p) => p.authors.filter((a) => a.wikidata).map((a) => a.wikidata))
   .flat()
   .filter((id, index, self) => self.indexOf(id) === index);
 
 const endpoint = 'https://query.wikidata.org/sparql';
 
-async function fetchAuthors () {
-  const results: {[index: string]: any} = {};
-  for(let i = 0; i < authorIds.length; i++) {
+async function fetchAuthors() {
+  const results: {[index: string]: unknown} = {};
+  for (let i = 0; i < authorIds.length; i++) {
     const id = authorIds[i];
     const author = authors[id as string];
     if (author && !argv.includes(id as string)) {
@@ -83,7 +83,7 @@ WHERE {
         const response = await axios.get(url);
         if (response.status === 200) {
           const sparqlResults = response.data.results?.bindings || [];
-          let ambiguity = sparqlResults.length;
+          const ambiguity = sparqlResults.length;
           if (ambiguity > 1) {
             console.log(`multiple results (${ambiguity})`);
           }
@@ -96,22 +96,22 @@ WHERE {
             birth: {
               date: a.birthDate?.value,
               place: a.birthPlaceLabel?.value,
-              placeId: a.birthPlace?.value
+              placeId: a.birthPlace?.value,
             },
             death: {
               date: a.deathDate?.value,
               place: a.deathPlaceLabel?.value,
-              placeId: a.deathPlace?.value
+              placeId: a.deathPlace?.value,
             },
           };
           if (a.gender?.value === 'http://www.wikidata.org/entity/Q6581097') {
-              newAuthor.gender = 'male';
+            newAuthor.gender = 'male';
           }
           if (a.gender?.value === 'http://www.wikidata.org/entity/Q6581072') {
-              newAuthor.gender = 'female';
+            newAuthor.gender = 'female';
           }
           if (ambiguity > 1) {
-              newAuthor.ambiguous = true;
+            newAuthor.ambiguous = true;
           }
           results[id as string] = newAuthor;
           console.log(newAuthor);
@@ -119,11 +119,11 @@ WHERE {
           console.log(response.status);
         }
       } catch (error) {
-        console.log(error)
+        console.log(error);
       }
 
       console.log('waiting...');
-      await new Promise(r => setTimeout(r, 1000));
+      await new Promise((r) => setTimeout(r, 1000));
     }
   }
 

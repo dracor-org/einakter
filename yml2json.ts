@@ -7,23 +7,23 @@ let data: Play[] = [];
 let originals: OriginalPlay[] = [];
 try {
   data = loadAll(readFileSync('./data.yaml', 'utf8'), null, {
-    schema: CORE_SCHEMA
+    schema: CORE_SCHEMA,
   }) as Play[];
   originals = loadAll(readFileSync('./originals.yaml', 'utf8'), null, {
-    schema: CORE_SCHEMA
+    schema: CORE_SCHEMA,
   }) as OriginalPlay[];
 } catch (error) {
   console.log(error);
 }
 
-originals.forEach(o => {
+originals.forEach((o) => {
   o.normalizedYear = normalizeYear(o);
   o.authors = o.author ? [o.author] : o.authors || [];
   delete o.author;
 });
 
 interface Map<T> {
-  [slug: string]: T
+  [slug: string]: T;
 }
 const map: Map<OriginalPlay> = originals.reduce((acc, o) => {
   acc[o.slug as string] = o;

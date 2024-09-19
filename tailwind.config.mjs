@@ -1,8 +1,8 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: [
-    './src/**/*.{js,jsx,ts,tsx}',
-  ],
+import { default as typographyPlugin } from '@tailwindcss/typography';
+
+export default {
+  content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     extend: {
       colors: {
@@ -14,7 +14,7 @@ module.exports = {
         neutral: {
           100: '#ebf0f7',
           200: '#1f244809',
-        }
+        },
       },
       typography: {
         DEFAULT: {
@@ -34,7 +34,7 @@ module.exports = {
             },
             a: {
               color: '#08f',
-                '&:hover': {
+              '&:hover': {
                 color: '#0056b3',
               },
               fontWeight: '400',
@@ -49,8 +49,8 @@ module.exports = {
     },
   },
   plugins: [
-    require('@tailwindcss/typography')({
+    typographyPlugin({
       className: 'markdown',
     }),
   ],
-}
+};
