@@ -23,26 +23,26 @@ describe('normalizeYear', () => {
     expect(normalizeYear(play)).toBe(1789);
   });
 
-  it('uses earlier year of "premiered" and "printed"', () => {
-    const play = {...playTmpl, premiered: 1789, printed: 1805};
+  it('uses earlier year of "premiered" and "yearPrinted"', () => {
+    const play = {...playTmpl, premiered: 1789, yearPrinted: 1805};
     expect(normalizeYear(play)).toBe(1789);
 
-    const play2 = {...playTmpl, premiered: 1805, printed: 1777};
+    const play2 = {...playTmpl, premiered: 1805, yearPrinted: 1777};
     expect(normalizeYear(play2)).toBe(1777);
   });
 
-  it('uses "created" when it is the only defined year', () => {
-    const play = {...playTmpl, created: 1777};
+  it('uses "yearWritten" when it is the only defined year', () => {
+    const play = {...playTmpl, yearWritten: 1777};
     expect(normalizeYear(play)).toBe(1777);
   });
 
-  it('uses "created" when it is more than 10 years before publication', () => {
-    const play = {...playTmpl, premiered: 1810, created: 1777};
+  it('uses "yearWritten" when it is more than 10 years before publication', () => {
+    const play = {...playTmpl, premiered: 1810, yearWritten: 1777};
     expect(normalizeYear(play)).toBe(1777);
   });
 
   it('prefers publication year when less than 10 years after creation', () => {
-    const play = {...playTmpl, premiered: 1810, created: 1805};
+    const play = {...playTmpl, premiered: 1810, yearWritten: 1805};
     expect(normalizeYear(play)).toBe(1810);
   });
 });
@@ -75,7 +75,12 @@ describe('countCharactersByGender', () => {
 
 describe('getEarliestYear', () => {
   it('finds earliest year', () => {
-    const play = {...playTmpl, premiered: 1789, created: 1770, printed: 1790};
+    const play = {
+      ...playTmpl,
+      premiered: 1789,
+      yearWritten: 1770,
+      yearPrinted: 1790,
+    };
     expect(getEarliestYear(play)).toBe(1770);
   });
 

@@ -38,9 +38,9 @@ const OriginalDetails = () => {
     title,
     subtitle,
     ids,
-    created,
+    yearWritten,
     premiered,
-    printed,
+    yearPrinted,
     fulltextUrl,
     language,
   } = original;
@@ -99,7 +99,11 @@ const OriginalDetails = () => {
               <Trans>Dates</Trans>
             </th>
             <td>
-              <Years written={created} premiere={premiered} print={printed} />
+              <Years
+                written={yearWritten}
+                premiere={premiered}
+                print={yearPrinted}
+              />
             </td>
           </tr>
           {ids && (
