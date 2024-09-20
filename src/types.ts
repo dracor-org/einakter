@@ -61,6 +61,8 @@ export interface Play {
   comments?: string[];
   yearWritten?: number;
   yearPrinted?: number;
+  yearPremiered?: number;
+  datePremiered?: string;
   yearNormalized?: number;
   premiered?: string | number;
   editions?: Edition[];
