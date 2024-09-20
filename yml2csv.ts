@@ -29,9 +29,9 @@ const cols = [
   'basedOn', // (only true or false, an easy way to exclude translations)
   'earliestYear',
   'yearNormalized',
-  'createdYear',
-  'printedYear',
-  'premiereYear', // (without day/month for premier dates, only years)
+  'yearWritten',
+  'yearPrinted',
+  'yearPremiered', // (without day/month for premier dates, only years)
   'formalia', // (in one cell, separated by a line break)
   'keywords', // (in one cell, separated by a line break)
   'wikidataID', // (as full URL to be clickable for convenience)
@@ -46,6 +46,20 @@ const cols = [
 ];
 
 const lines = data.map((p: Play) => {
+  const {
+    id,
+    slug,
+    title,
+    subtitle,
+    numOfScenes,
+    yearWritten,
+    yearPrinted,
+    premiered,
+    ids,
+    formalia,
+    keywords,
+    basedOn,
+  } = p;
   const authors = p.authors || [p.author];
   const authorName = authors.map((a) => a?.name || '').join(separator);
   const authorPseudonym = authors
@@ -57,35 +71,37 @@ const lines = data.map((p: Play) => {
   const num = countCharactersByGender(p);
   const locationId = p.settings?.find((s) => s.location?.wikidataId)?.location
     .wikidataId;
-  const play: {[index: string]: any} = {
-    ...p,
+  const play: {[index: string]: string | number | undefined} = {
+    id,
+    link: `https://einakter.dracor.org/${slug}`,
+    title,
+    subtitle,
     authorName,
     authorPseudonym,
     authorWikidataID,
+    basedOn: basedOn ? 'true' : 'false',
+    earliestYear: getEarliestYear(p)?.toString(),
     yearNormalized: normalizeYear(p),
-    earliestYear: getEarliestYear(p) || '',
+    yearWritten,
+    yearPrinted,
+    yearPremiered: premiered ? `${premiered}`.split('-')[0] : '',
+    formalia: formalia?.join('\n') || '',
+    keywords: keywords?.join('\n') || '',
+    wikidataID: ids?.wikidata
+      ? `http://wikidata.org/entity/${ids.wikidata}`
+      : '',
+    dracorID: ids?.dracor ? `https://dracor.org/id/${ids.dracor}` : '',
+    wegaId: ids?.weber ? `http://weber-gesamtausgabe.de/${ids.weber}` : '',
+    locationID: locationId ? `http://wikidata.org/entity/${locationId}` : '',
+    numOfScenes: numOfScenes,
     numOfCharacters: num.total,
     numOfMaleCharacters: num.male,
     numOfFemaleCharacters: num.female,
     numOfCharactersWithUnknownGender: num.unknown,
-    basedOn: p.basedOn ? 'true' : 'false',
-    link: `https://einakter.dracor.org/${p.slug}`,
-    yearWritten: p.yearWritten,
-    yearPrinted: p.yearPrinted,
-    yearPremiered: p.premiered ? `${p.premiered}`.split('-')[0] : '',
-    formalia: p.formalia?.join('\n'),
-    keywords: p.keywords?.join('\n'),
-    dracorID: p.ids?.dracor ? `https://dracor.org/id/${p.ids.dracor}` : '',
-    wegaId: p.ids?.weber ? `http://weber-gesamtausgabe.de/${p.ids.weber}` : '',
-    wikidataID: p.ids?.wikidata
-      ? `http://wikidata.org/entity/${p.ids.wikidata}`
-      : '',
-    locationID: locationId ? `http://wikidata.org/entity/${locationId}` : '',
   };
   const line = cols
     .map((col) => {
-      const value: string = play[col] || '';
-      return `"${`${value}`.replace(/"/g, '""')}"`;
+      return `"${`${play[col]}`.replace(/"/g, '""')}"`;
     })
     .join(',');
   return line;
