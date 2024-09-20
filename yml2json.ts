@@ -37,6 +37,14 @@ const plays = data.map((p: Play) => {
   const basedOn = p.basedOn?.map((ref) => map[ref as string] || ref) || [];
   const play = {...p, authors, yearNormalized, numOfCharacters};
   if (basedOn.length > 0) play.basedOn = basedOn;
+  if (p.premiered) {
+    if (typeof p.premiered === 'number') {
+      play.yearPremiered = p.premiered;
+    } else {
+      play.datePremiered = p.premiered;
+      play.yearPremiered = parseInt(p.premiered);
+    }
+  }
   return play;
 });
 
