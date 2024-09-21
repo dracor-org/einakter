@@ -8,6 +8,9 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {locales, setLocale} from '../i18n';
 import {Menu, Transition} from '@headlessui/react';
 import {EinakterContext} from '../context';
+import pkg from '../../package.json';
+
+const version = import.meta.env.VITE_VERSION || pkg.version;
 
 interface NavItemProps {
   href: string;
@@ -51,7 +54,7 @@ function Topnav() {
   return (
     <nav className="flex items-center justify-between flex-wrap p-4 bg-primary text-white font-medium">
       <div className="flex items-center flex-shrink-0 text-white hover:opacity-90">
-        <a href="/" title="Einakter">
+        <a href="/" title={`Einakter ${version}`}>
           <img src="/Einakter.svg" width="170" alt="Einakter" />
         </a>
       </div>
