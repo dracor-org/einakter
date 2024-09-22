@@ -56,32 +56,32 @@ export default function Plays() {
         cell: (info) => <TitleCell play={info.row.original} urlPath="/" />,
       },
       {
-        id: 'normalizedYear',
+        id: 'yearNormalized',
         header: t`Year (normalized)`,
-        accessorFn: (row) => row.normalizedYear?.toString() || '',
+        accessorFn: (row) => row.yearNormalized?.toString() || '',
         cell: ({
           row: {
-            original: {normalizedYear},
+            original: {yearNormalized},
           },
         }) => {
           return (
             <span>
-              {normalizedYear == null
+              {yearNormalized == null
                 ? t`not available`
-                : formatEra(normalizedYear)}
+                : formatEra(yearNormalized)}
             </span>
           );
         },
       },
       {
-        id: 'numberOfScenes',
+        id: 'numOfScenes',
         header: t`Scenes`,
-        accessorFn: (row) => row.numberOfScenes?.toString() || '',
+        accessorFn: (row) => row.numOfScenes?.toString() || '',
       },
       {
-        id: 'numberOfCharacters',
+        id: 'numOfCharacters',
         header: t`Characters`,
-        accessorFn: (row) => row.numberOfCharacters?.toString() || '',
+        accessorFn: (row) => row.numOfCharacters?.toString() || '',
       },
       {
         id: 'keywords',
@@ -124,7 +124,7 @@ export default function Plays() {
         <Table
           columns={columns}
           data={data}
-          defaultSort={[{id: 'normalizedYear', desc: false}]}
+          defaultSort={[{id: 'yearNormalized', desc: false}]}
         />
       </div>
     </>

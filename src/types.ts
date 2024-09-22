@@ -59,7 +59,12 @@ export interface Play {
   basedOnLanguage?: string;
   cast?: CastMember[];
   comments?: string[];
-  created?: number;
+  yearWritten?: number;
+  yearPrinted?: number;
+  yearPremiered?: number;
+  datePremiered?: string;
+  yearNormalized?: number;
+  premiered?: string | number;
   editions?: Edition[];
   dictionaries?: Dict[];
   formalia?: string[];
@@ -69,11 +74,8 @@ export interface Play {
     weber?: string;
   };
   keywords?: string[];
-  normalizedYear?: number;
-  numberOfCharacters?: number;
-  numberOfScenes?: number;
-  premiered?: string | number;
-  printed?: number;
+  numOfCharacters?: number;
+  numOfScenes?: number;
   reviews?: string[];
   settings?: Setting[];
   subtitle?: string;
@@ -87,10 +89,10 @@ export interface OriginalPlay {
   title: string;
   subtitle?: string;
   language?: string;
-  created?: number;
-  printed?: number;
+  yearWritten?: number;
+  yearPrinted?: number;
   premiered?: string | number;
-  normalizedYear?: number;
+  yearNormalized?: number;
   fulltextUrl?: string;
   ids?: {
     dracor?: string;
