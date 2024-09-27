@@ -71,6 +71,7 @@ const lines = data.map((p: Play) => {
   const num = countCharactersByGender(p);
   const locationId = p.settings?.find((s) => s.location?.wikidataId)?.location
     .wikidataId;
+  const yearPremiered = premiered ? parseInt(`${premiered}`) : undefined;
   const play: {[index: string]: string | number | undefined} = {
     id,
     link: `https://einakter.dracor.org/${slug}`,
@@ -80,13 +81,13 @@ const lines = data.map((p: Play) => {
     authorPseudonym,
     authorWikidataID,
     basedOn: basedOn ? 'true' : 'false',
-    earliestYear: getEarliestYear(p)?.toString(),
+    earliestYear: getEarliestYear(p),
     yearNormalized: normalizeYear(p),
     yearWritten,
     yearPrinted,
-    yearPremiered: premiered ? `${premiered}`.split('-')[0] : '',
-    formalia: formalia?.join('\n') || '',
-    keywords: keywords?.join('\n') || '',
+    yearPremiered,
+    formalia: formalia?.join('\n'),
+    keywords: keywords?.join('\n'),
     wikidataID: ids?.wikidata
       ? `http://wikidata.org/entity/${ids.wikidata}`
       : '',
@@ -101,7 +102,13 @@ const lines = data.map((p: Play) => {
   };
   const line = cols
     .map((col) => {
-      return `"${`${play[col]}`.replace(/"/g, '""')}"`;
+      const value = play[col];
+      if (value === undefined || value === '') {
+        return '';
+      } else if (typeof value === 'number') {
+        return value;
+      }
+      return `"${`${value}`.replace(/"/g, '""')}"`;
     })
     .join(',');
   return line;
