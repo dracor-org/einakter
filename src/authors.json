@@ -1424,6 +1424,22 @@
     },
     "gender": "male"
   },
+  "Q1947966": {
+    "name": "Moritz Joseph Johann von Dietrichstein",
+    "gnd": "116113669",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moritz%20von%20Dietrichstein.jpg",
+    "birth": {
+      "date": "1775-02-19T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1864-08-27T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male"
+  },
   "Q94814780": {
     "name": "Johann Christian Friedrich Dietz",
     "gnd": "116116498",
@@ -6862,6 +6878,22 @@
       "placeId": "http://www.wikidata.org/entity/Q1711"
     },
     "gender": "male"
+  },
+  "Q19197317": {
+    "name": "Friedrich Heinrich Bothe",
+    "gnd": "100051960",
+    "birth": {
+      "date": "1771-01-01T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "death": {
+      "date": "1855-07-09T00:00:00Z",
+      "place": "Reudnitz",
+      "placeId": "http://www.wikidata.org/entity/Q2146570"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q328094": {
     "name": "Junius Frey",

@@ -19192,7 +19192,7 @@ settings:
       Das Theater zeiget ein Mausoläum. In der Mitte steht Theresiens Sarg, um welchen eine Menge Volk gedrängt. Alle Hertzen bewegt, alle Augen von Thränen benetzt, verbreitet sich ein allgemeines Seufzen.
 ---
 id: ein002560
-slug: blomberg-die wette
+slug: blomberg-die-wette
 author:
   name: Blomberg, Alexander von
   wikidata: Q2643383
@@ -27077,6 +27077,50 @@ cast:
   - name: Bedienter.
     gender: m
 ---
+id: ein002587
+slug: cosmar-armuth-und-edelsinn-auf-eine-andere-manier
+author:
+  name: Cosmar, Alexander
+  wikidata: Q19125906
+title: Armuth und Edelsinn auf eine andere Manier
+subtitle: Komisches Gemälde aus dem Volksleben, in einem Aufzuge
+numOfScenes: 18
+yearPrinted: 1839
+formalia:
+  - Prosa
+editions:
+  - title: "Staub. Bilder und Skizzen aus dem Berliner Leben. Berlin: Heymanns 1839, S. 153–216"
+    url: https://nbn-resolving.org/urn:nbn:de:kobv:109-opus-104828/fragment/page=159
+reviews:
+  - "Beiblatt der Sundine. No. 8 (Stralsund, Mittwoch, den 26 Februar 1845), [S. 29](https://books.google.com/books?id=nxJJAAAAcAAJ&pg=PA48-IA25)."
+comments:
+  - Gegenstück zu Kotzebues [»Armuth und Edelsinn. Ein Lustspiel in drey Aufzügen«](https://mdz-nbn-resolving.de/details:bsb11260774) (1795).
+cast:
+  - name: Frau Hütentüt,
+    role: Trödlerin.
+    gender: f
+  - name: Ludwig,
+    role: deren Sohn, Schreiber bei einem Auctions-Commissarius.
+    gender: m
+  - name: Renneboom,
+    role: Arbeitsmann.
+    gender: m
+  - name: Louise,
+    role: dessen Tochter, Schneidermamsell.
+    gender: f
+  - name: Schnüffel,
+    role: Executor.
+    gender: m
+  - name: Ein Schüler von 6 Jahren.
+    gender: m
+  - name: Ein Ladenmädchen.
+    gender: f
+settings:
+  - description: >-
+      Scene: Berlin.
+    location:
+      wikidataId: Q64
+---
 id: ein000593
 slug: cosmar-der-bekehrte
 author:
@@ -29559,6 +29603,45 @@ cast:
   - name: Caspar,
     role: Dambergs Diener.
     gender: m
+---
+id: ein002588
+slug: dietrichstein-auf-und-ab
+author:
+  name: Dietrichstein, Moritz von
+  wikidata: Q1947966
+title: Auf und Ab
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen, des Herrn Picard
+numOfScenes: 25
+yearPrinted: 1807
+premiered: 1807-05-19
+formalia:
+  - Prosa
+basedOn:
+  - picard-les-ricochets
+editions:
+  - title: "Wien: Wallishausser 1807"
+    url: https://books.google.com/books?id=cNDBqLoS3scC&printsec=frontcover
+cast:
+  - name: Obrist Graf Hanau,
+    role: Sohn des Ministers.
+    gender: m
+  - name: Baron Möring.
+    gender: m
+  - name: Georg Blum, genannt Lafleur,
+    role: Kammerdiener im Dienste des Barons.
+    gender: m
+  - name: Gabriel,
+    role: Jokey.
+    gender: m
+  - name: Baronin Waldau,
+    role: Nichte des Barons.
+    gender: f
+  - name: Marie,
+    role: ihre Kammerjungfer.
+    gender: f
+settings:
+  - description: >-
+      Die Handlung spielt in der Residenz, in der Wohnung des Barons.
 ---
 id: ein002382
 slug: dietz-auf-der-welt-ists-doch-gut
@@ -33733,6 +33816,34 @@ cast:
 settings:
   - description: >-
       Die Scene ist ein freyer Platz mit Bäumen. Im Hintergrunde eine Hütte, rechts ein kleines Häuschen, ihm gegenüber ein Gartenzaun.
+---
+id: ein002589
+slug: frech-von-ehrimfeld-das-gestaendniss
+author:
+  name: Frech von Ehrimfeld, Tobias
+  wikidata: Q107711915
+title: Das Geständniß
+subtitle: Ein Lustspiel in einem Aufzuge. Frey nach dem Italienischen
+numOfScenes: 11
+yearPrinted: 1804
+premiered: 1804-08-19
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1804"
+    url: https://books.google.com/books?id=w46N1cPnExwC&printsec=frontcover
+cast:
+  - name: Lindau.
+    gender: m
+  - group:
+      - name: Marie
+        gender: f
+      - name: Karl
+        gender: m
+    role: seine Mindel.
+settings:
+  - description: >-
+      Die Szene ist ein Zimmer in Lindaus Hause, auf der einen Seite befindet sich ein Stückrahmen und ein Schreibtisch, auf der andern ein Secretaire. Rechts führt eine Thüre in Karls, links eine in Mariens Zimmer.
 ---
 id: ein000741
 slug: frech-von-ehrimfeld-die-arie
@@ -84006,6 +84117,47 @@ cast:
 settings:
   - description: Ein griechisches Zimmer.
 ---
+id: ein002590
+slug: schildbach-das-narrenhaus
+author:
+  name: Schildbach, Johann Gottlieb
+  wikidata: Q55127608
+title: Das Narrenhaus
+subtitle: Ein Lustspiel in einem Aufzuge. Aus dem französischen des Chatillon übersetzt
+numOfScenes: 17
+yearPrinted: 1805
+formalia:
+  - Prosa
+basedOn:
+  - chatillon-la-maison-des-fous
+editions:
+  - title: "Wien: Wallishausser 1805"
+    url: https://books.google.com/books?id=D_pKAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Herr Bergmann,
+    role: Verwalter.
+    gender: m
+  - name: Karl Frisch.
+    gender: m
+  - name: Therese Walder.
+    gender: f
+  - name: Herr Winkelmann,
+    role: Karls Vormund.
+    gender: m
+  - name: Madame Buchholz,
+    role: Theresens Tante.
+    gender: f
+  - name: Florian,
+    role: Nachtwächter.
+    gender: m
+  - name: Ein Kommissair.
+    gender: m
+  - name: Ein Schreiber.
+    gender: m
+settings:
+  - description: >-
+      Das Theater stellt einen Garten vor; man sieht vorn zwey kleine abgesonderte Gartenhäuschen, die mit Gittern vor der Thüre versehen sind. An der einen Seite sind die Behältnisse für die Narren; mit kleinen Fensterchen in der Thüre versehen, es ist noch Mitternacht.
+---
 id: ein001855
 slug: schildbach-der-fuerstentempel
 author:
@@ -87155,6 +87307,63 @@ settings:
   - description: >-
       Saal mit einer Mittel- und zwei Seitenthüren. Vorn, links vom Schauspieler, ein Tisch.
 ---
+id: ein002592
+slug: bothe-der-ausmarsch
+author:
+  name: Bothe, Friedrich Heinrich
+  wikidata: Q19197317
+title: Der Ausmarsch
+subtitle: Lustspiel mit Gesang in Einem Akt
+numOfScenes: 2
+yearPrinted: 1824
+formalia:
+  - Prosa
+  - Verse
+editions:
+  - title: "Friedrich Heinrich Bothe's neuere Schauspiele und Kantaten. Erster Band. Halberstadt: Vogler 1824, S. 243–266"
+    url: https://books.google.com/books?id=jmw6AAAAcAAJ&pg=PA243
+cast:
+  - group:
+      - name: Der Fürst.
+        gender: m
+      - name: Die Fürstin.
+        gender: f
+      - name: Deren Kinder.
+        gender: u
+    role: Anfangs unerkannt.
+  - name: Zwei Offiziere.
+    isGroup: true
+    gender: m
+  - name: Der Dorfrichter zu Wiesenthal.
+    gender: m
+  - name: Der Pfarrer.
+    gender: m
+  - name: Michel,
+    role: Schenkwirth zur Traube.
+    gender: m
+  - name: Grete,
+    role: seine Frau.
+    gender: f
+  - group:
+      - name: Peter,
+        gender: m
+      - name: Balthasar,
+        gender: m
+      - name: Bastian,
+        gender: m
+      - name: Heinrich,
+        gender: m
+    role: junge Bauern.
+  - name: Hannchen,
+    role: Peters Geliebte.
+    gender: f
+  - name: Soldaten, Bauern, Bäuerinnen, Bauer-Knaben und Mädchen, Aufwärter, Bediente.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Das Stück spielt in einem deutschen Dorfe am Rhein.
+---
 id: ein001927
 slug: both-er-amuesirt-sich-doch
 author:
@@ -87881,8 +88090,23 @@ settings:
   - description: >-
       Die Scene ist ein Saal im Hause des von Rohrbach.
 ---
+id: ein002591
+slug: schreiber-die-aufhebung-der-leibeigenschaft
+author:
+  name: Schreiber, Aloys
+  wikidata: Q119183
+title: Die Aufhebung der Leibeigenschaft
+subtitle: Festspiel in 1 Akt. Zur Säcularfeier Karl Friedrichs
+yearPrinted: 1828
+formalia:
+  - Verse
+editions:
+  - title: "Karlsruhe: Müller 1828"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 145 (Mittwoch, 25. Mai 1831), [S. 633](https://books.google.com/books?id=a1YiAQAAMAAJ&pg=PA633)."
+---
 id: ein002414
-slug: schreiber-die ausgerechnete-heirath
+slug: schreiber-die-ausgerechnete-heirath
 author:
   name: Schreiber, Aloys
   wikidata: Q119183
