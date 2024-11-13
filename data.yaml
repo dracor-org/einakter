@@ -59870,6 +59870,60 @@ settings:
     location:
       wikidataId: Q1741
 ---
+id: ein002593
+slug: kringsteiner-werthers-leiden
+author:
+  name: Kringsteiner, Ferdinand
+  wikidata: Q1405521
+title: Werthers Leiden
+subtitle: Eine lokale Posse mit Gesang in einem Aufzuge. Vom Verfasser des Zwirnhändlers in Oberösterreich
+numOfScenes: 22
+yearPrinted: 1807
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1807"
+    url: https://books.google.com/books?id=3gRKWMHYSz0C&printsec=frontcover
+comments:
+  - »Die Musik ist vom Herrn Ignaz Schuster.«
+  - "Vgl. Jakob Zeidler: Eine Wiener Wertherparodie. (Ein Beitrag zur Wiener Theatergeschichte.) In: Forschungen zur neueren deutschen Litteraturgeschichte. Festgabe für Richard Heinze. Weimar: Felber 1898, [S. 235–244](https://books.google.com/books?id=4FbdrSslXQkC&pg=PA235)."
+cast:
+  - name: Herr Werther,
+    role: Kupferschmied von Krems.
+    gender: m
+  - name: Lenzl,
+    role: sein Geselle.
+    gender: m
+  - name: Albert,
+    role: Vorsteher der Lampenanzünder.
+    gender: m
+  - name: Lotte,
+    role: seine Braut.
+    gender: f
+  - group:
+      - name: Pepi,
+        gender: m
+      - name: Katherl,
+        gender: f
+      - name: Franzerl,
+        gender: m
+      - name: Micherl,
+        gender: m
+    role: ihre Geschwister.
+  - name: Der Gott der Liebe.
+    gender: u
+  - name: Ein alter Genius.
+    gender: u
+  - name: Ein Spaziergänger.
+    gender: m
+  - name: Mehrere Spaziergänger. Pudelliebhaber. Oebstlerleute.
+    isGroup: true
+    gender: u
+settings:
+  - description: Gegend von der Leopoldstadt, dem Schanzel gegenüber. – Der Wiener Donau-Kanal. Am Ufer eine Reihe Landleute mit Obst, die theils stehen, theils knieen.
+    location:
+      wikidataId: Q456497
+---
 id: ein002584
 slug: krueger-der-christabend-eines-proletariers
 author:
@@ -105678,6 +105732,51 @@ cast:
 settings:
   - description: >-
       Die Handlung geht in einer spanischen Provinzstadt vor.
+---
+id: ein002594
+slug: ziegelhauser-die-juden
+author:
+  name: Ziegelhauser, Gottfried Julius
+  wikidata: Q55127380
+title: Die Juden
+subtitle: Eine bürgerliche Scene in einem Aufzuge
+numOfScenes: 16
+yearPrinted: 1807
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1807"
+    url: https://books.google.com/books?id=z4XrOOBdf1AC&printsec=frontcover
+keywords:
+  - Judentum
+cast:
+  - name: Der Prinz.
+    gender: m
+  - name: Wolberg,
+    role: Verwalter.
+    gender: m
+  - name: Isabella,
+    role: seine Frau.
+    gender: f
+  - name: Sophie,
+    role: deren Tochter.
+    gender: f
+  - name: Rittmeister v. Fahnenstein.
+    gender: m
+  - name: Salomon Herzfeld,
+    role: Vorsteher der Judenschaft.
+    gender: m
+  - name: Estherle,
+    role: seine Tochter.
+    gender: f
+  - name: Herschel,
+    role: ein Handelsjude.
+    gender: m
+  - name: Sebastian,
+    role: Diener des Verwalters.
+    gender: m
+settings:
+  - description: Die Handlung spielt nahe an der Residenz.
 ---
 id: ein002344
 slug: ziegler-achtzehn-tausend-thaler
