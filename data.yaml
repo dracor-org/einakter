@@ -33845,6 +33845,53 @@ settings:
   - description: >-
       Die Szene ist ein Zimmer in Lindaus Hause, auf der einen Seite befindet sich ein Stückrahmen und ein Schreibtisch, auf der andern ein Secretaire. Rechts führt eine Thüre in Karls, links eine in Mariens Zimmer.
 ---
+id: ein002595
+slug: frech-von-ehrimfeld-der-apollo-saal
+author:
+  name: Frech von Ehrimfeld, Tobias
+  wikidata: Q107711915
+title: Der Apollo-Saal
+subtitle: Ein Scherzspiel in einem Aufzuge
+numOfScenes: 8
+yearPrinted: 1808
+formalia:
+  - Prosa
+editions:
+  - title: "Wien: Wallishausser 1808"
+    url: https://books.google.com/books?id=WKJIAAAAcAAJ&printsec=frontcover
+comments:
+  - »Die Musik ist von Herrn Conradin Kreutzer.«
+  - »*Erinnerung.* Man glaubt, fremden Bühnen, die ihrem Publikum eine deutliche Ansicht und Kenntniß des Apollo-Saales verschaffen wollen, mit diesem Scherzspiel ein angenehmes Geschenk zu machen. Meine Schilderung des Saales kann Ihnen behülflich seyn, um die Dekoration ähnlich verfertigen zu lassen.«
+cast:
+  - name: Kaufmann Herb.
+    gender: m
+  - group:
+      - name: Emilie,
+        gender: f
+      - name: Louise,
+        gender: f
+    role: seine Töchter.
+  - name: Kunigunde.
+    gender: f
+  - name: Morbach.
+    gender: m
+  - name: Lenz.
+    gender: m
+  - name: Schönfuß.
+    gender: m
+  - name: Augustin,
+    role: Morbachs Bedienter.
+    gender: m
+  - name: Klara,
+    role: ein Dienstmädchen.
+    gender: f
+  - name: Viele Ballgäste.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Szene ist ein Saal in Morbachs Hause.
+---
 id: ein000741
 slug: frech-von-ehrimfeld-die-arie
 author:
@@ -49724,7 +49771,7 @@ dictionaries:
     pages: S. 39–42
 editions:
   - title: "A. W. Iffland's dramatische Werke. Siebzehnter Band. Berlin: Oehmigke 1808"
-    url: https://books.google.com/books?id=SstIAAAAcAAJ&pg=RA3-PA1
+    url: https://books.google.com/books?id=SstIAAAAcAAJ&pg=RA2-PA1
   - title: "[Ohne Ort] 1809"
     url: https://books.google.com/books?id=lCc7AAAAcAAJ&printsec=frontcover
 keywords:
@@ -65333,6 +65380,19 @@ cast:
 settings:
   - description: >-
       Das Theater stellt einen Saal im Pallaste des Kalifen vor.
+---
+id: ein002596
+slug: lembert-im-zweiten-stock
+author:
+  name: Lembert, Johann Wenzel
+  wikidata: Q17352902
+title: Im zweiten Stock
+subtitle: "Posse in einem Akt nach dem Vaudeville: ›La rue de la lune‹"
+yearPrinted: 1845
+basedOn:
+  - varin-boyer-rue-de-la-lune
+editions:
+  - title: "Wien: Wallishausser 1845"
 ---
 id: ein001441
 slug: lembert-professor-hackler-oder-er-nimmt-alles-uebel
