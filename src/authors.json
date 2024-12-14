@@ -4885,6 +4885,13 @@
     },
     "gender": "male"
   },
+  "Q131443732": {
+    "name": "Rudolph Mettler",
+    "gnd": "116955562",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q94841807": {
     "name": "Heinrich Meyer",
     "gnd": "104305670X",
@@ -5352,6 +5359,21 @@
       "date": "1754-03-06T00:00:00Z",
       "place": "London",
       "placeId": "http://www.wikidata.org/entity/Q84"
+    },
+    "gender": "male"
+  },
+  "Q20757666": {
+    "name": "Wilhelm Michael Nebel",
+    "gnd": "121417808",
+    "birth": {
+      "date": "1804-01-01T00:00:00Z",
+      "place": "Geisenheim",
+      "placeId": "http://www.wikidata.org/entity/Q558516"
+    },
+    "death": {
+      "date": "1848-01-01T00:00:00Z",
+      "place": "Geisenheim",
+      "placeId": "http://www.wikidata.org/entity/Q558516"
     },
     "gender": "male"
   },

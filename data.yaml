@@ -12817,6 +12817,16 @@ settings:
     location:
       wikidataId: Q84
 ---
+id: ein002599
+slug: anonym-herr-hampes-als-stadtrath
+author:
+  pseudonym: Anonym
+title: "Herr Hampes als Stadtrath, oder: Die Stadtrathswahl"
+subtitle: Mainzer Localposse in einem Acte
+yearPrinted: 1834
+editions:
+  - title: "Wiesbaden: Enders 1834"
+---
 id: ein000284
 slug: anonym-ich-werde-nicht-doktor
 author:
@@ -70387,6 +70397,44 @@ settings:
   - description: >-
       Die Handlung geht vor in einem Zimmer des Octavius.
 ---
+id: ein002600
+slug: mettler-hans-und-peter
+author:
+  name: Mettler, Rudolph
+  wikidata: Q131443732
+title: Hans und Peter
+subtitle: Posse in einem Akte
+numOfScenes: 15
+yearPrinted: 1839
+formalia:
+  - Prosa
+basedOn:
+  - vanderburch-quatre-vingt-dix-neuf-moutons-et-un-champenois
+editions:
+  - title: "Dramatische Bilder für 1839 nach den neuesten französischen Originalen gezeichnet. Leipzig: Literarisches Museum 1839, S. 1–58"
+    url: https://books.google.com/books?id=kQFCAQAAMAAJ&pg=PA1
+reviews:
+  - "Repertorium der gesammten deutschen Literatur. Neunzehnter Band. Leipzig: Brockhaus 1839, [S. 80](https://books.google.com/books?id=i7NNAAAAcAAJ&pg=PA80)."
+cast:
+  - name: Witwe Sommer,
+    role: Besitzerin einer Meierei.
+    gender: f
+  - name: Zachäus,
+    role: Schulmeister.
+    gender: m
+  - name: Peter Rosenschwamm,
+    role: Feldwebel.
+    gender: m
+  - name: Hans Rosenschwamm,
+    role: sein Bruder, Schäfer in Dudelhausen.
+    gender: m
+  - name: Adeline Brembach,
+    role: Verwandte der Witwe Sommer.
+    gender: f
+settings:
+  - description: >-
+      Ein freier Platz, dicht vor dem Dorfe, umgeben von Buschwerk. Links die Meierei der Witwe Sommer mit einem Fenster, das auf den Platz führt, und einem Wagenschuppen.
+---
 id: ein001553
 slug: meyer-das-carneval-zu-schoepfendorf
 author:
@@ -73542,6 +73590,23 @@ settings:
       wikidataId: Q16394
   - description: >-
       Die Bühne stellt einen Saal vor, mit einer Thür im Hintergrunde und zwei Seitenthüren.
+---
+id: ein002597
+slug: nebel-die-scheidenden
+author:
+  name: Nebel, Wilhelm Michael
+  wikidata: Q20757666
+title: Die Scheidenden
+subtitle: Vorspiel in einem Aufzuge
+yearPrinted: 1838
+comments:
+  - "Vorspiel zu »Des Hauses Ende. Trauerspiel in fünf Akten«."
+editions:
+  - title: "Mannheim: Löffler 1838"
+reviews:
+  - "Phönix. Nro. 251 (Dienstag, 24. October 1837), [S. 1003](https://books.google.com/books?id=-0mH4L9lpVsC&pg=PA1003)."
+  - "Der Freymüthige. Ein Unterhaltungsblatt für gebildete Leser. No. 235 (Sonnabend, den 25ten November 1837), [S. 940](https://books.google.com/books?id=7EQ3vmNGXGAC&pg=PA940)."
+  - "Blätter für literarische Unterhaltung. Nr. 114 (Dienstag, 24. April 1838), [S. 461](https://books.google.com/books?id=RSxRAQAAMAAJ&pg=PA461)."
 ---
 id: ein001623
 slug: nesselrode-dirimel-und-laura
@@ -77228,6 +77293,46 @@ settings:
       Ort der Handlung: ein Bad.
   - description: >-
       Ein Zimmer. Rechts eine Toilette mit Broschüren. Links ein Sekretair. Im Hintergrunde ein Kamin; Klingelzüge auf beiden Seiten desselben. Rechts und links vom Kamin Thüren. Rechts eine Thüre, die nach dem Zimmer der Frau von Kronfeldt führt. Links ein Fenster nach dem Garten und eine Thür zum Salon. Ueber der Thür links ein Fenster, über der rechts eine Uhr. Lehnstühle zu beiden Seiten des Kamins und ein dritter neben der Toilette. Stühle u.s.w.
+---
+id: ein002598
+slug: preusse-die-heimkehr
+author:
+  name: Preusse, Moritz
+  wikidata: Q118907006
+title: Die Heimkehr
+subtitle: Lustspiel in einem Aufzuge
+numOfScenes: 21
+yearPrinted: 1844
+formalia:
+  - Prosa
+basedOn:
+  - laurencin-marc-michel-quand-l-amour-s-en-va
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XII, No. 93. Berlin: Hayn 1844, S. 1689–1700"
+    url: https://books.google.com/books?id=7hqR4A5fSvcC&pg=PA1689
+cast:
+  - name: Julius von Herwaldt,
+    role: Schiffscapitain.
+    gender: m
+  - name: Christian Knapphans,
+    role: Matrose.
+    gender: m
+  - name: Emma,
+    role: Julius Frau.
+    gender: f
+  - name: Fräulein von Rodowichlinska,
+    role: Emma's Tante.
+    gender: f
+  - name: Caroline,
+    role: Zimmermädchen.
+    gender: f
+settings:
+  - description: >-
+      Ort der Handlung: Ein Schloss in Pommern.
+    location:
+      wikidataId: Q836689
+  - description: >-
+      Ein elegant meublirtes Zimmer. Im Hintergrunde eine Thür nach dem Flur, welcher auf einer Seite zu den Zimmern, auf der anderen zum Garten führt. Rechts ein Fenster, unter demselben ein Piano. Links ein Kamin, über demselben ein Spiegel. Seitenthüren. Ein Drehtisch, Lehnstühle. Im Hintergrunde das Bild eines zarten, schlanken Jünglings in Lebensgrösse.
 ---
 id: ein001697
 slug: preusse-herzmutterchen
