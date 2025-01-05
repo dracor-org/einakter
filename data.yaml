@@ -43075,36 +43075,38 @@ slug: hell-ihr-bild
 author:
   name: Hell, Theodor
   wikidata: Q215439
-title: Ihr Bild
-subtitle: Lustspiel in Einem Aufzuge. Nach Scribe und Sauvage
+title: Ihr Bild!
+subtitle: Lustspiel in 1 Aufzuge, nach dem Französischen des Scribe und Sauvage
 numOfScenes: 17
-yearPrinted: 1847
+yearPrinted: 1846
 formalia:
   - Prosa
 basedOn:
   - scribe-sauvage-l-image
 editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XIV, No. 110. Berlin: Hayn 1846, S. 2009–2020"
+    url: https://books.google.com/books?id=Vr1yrjS5QKkC&pg=PA2009
   - title: "Dramatisches Vergißmeinnicht auf das Jahr 1847 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Vierundzwanzigstes Bändchen. Dresden und Leipzig: Arnoldi 1847"
 cast:
-  - name: Der Baron von Kerandal,
-    role: Bankier.
+  - name: Baron von Kérandal,
+    role: Banquier.
     gender: m
   - name: Leopold,
     role: ein junger Maler.
     gender: m
   - name: Pierre Mauclerc,
-    role: Parkwächter.
+    role: Feldhüter.
     gender: m
-  - name: Madeleine,
-    role: Bäuerin.
+  - name: Madelaine,
+    role: eine junge Bäuerin.
     gender: f
 settings:
   - description: >-
-      Scene: Bretagne, im Schlosse Kerandal ohnweit des Meeres.
+      Ort der Handlung: das Schloss Kérandal in der Bretagne.
     location:
       wikidataId: Q12130
   - description: >-
-      Ein Saal zu ebner Erde in einem alten Schlosse. Seitenthüren. Große Fenster gehen auf Gebüschgruppen, durch welche man das Meer in der Ferne erblickt.
+      Ein Gartensaal, durch dessen offene Glasthür im Hintergrunde man einen Garten und hinter diesem das Meer sieht. Seitenthüren u.s.w.
 ---
 id: ein000941
 slug: hell-koeningin-von-frankreich
@@ -44540,6 +44542,60 @@ cast:
 settings:
   - description: >-
       Gustav's Zimmer.
+---
+id: ein002601
+slug: herrmann-ein-ball-der-vornehmen-welt
+author:
+  name: Herrmann, Bernhard Anton
+  wikidata: Q55123021
+title: Ein Ball der vornehmen Welt
+subtitle: Lustspiel in einem Act. Frei bearbeitet nach dem Französischen
+numOfScenes: 24
+yearPrinted: 1839
+formalia:
+  - Prosa
+editions:
+  - title: "Neuestes Theater des Auslandes für die deutsche Bühne bearbeitet. Erster Band. Hamburg: Berendsohn 1839"
+    url: https://books.google.com/books?id=tCAtAAAAYAAJ&pg=RA3-PA1
+  - title: "Manuscript-Abdruck für die Bühnen [ohne Jahr]."
+    url: https://books.google.com/books?id=4IH53WVWFqUC&printsec=frontcover
+reviews:
+  - "Repertorium der gesammten deutschen Literatur. Neunzehnter Band. Leipzig: Brockhaus 1839, [S. 81](https://books.google.com/books?id=3I0CAAAAYAAJ&pg=PA81)."
+keywords:
+  - Verwechslungsspiel
+  - Eheanbahnung
+cast:
+  - name: Baron von Trautstein,
+    role: Banquier.
+    gender: m
+  - name: Die Baronin,
+    role: seine Gemahlin.
+    gender: f
+  - name: Camilla,
+    role: seine Nichte.
+    gender: f
+  - name: Drolling.
+    gender: m
+  - name: Adolf Blank,
+    role: Maler.
+    gender: m
+  - name: Narciß Blumenfeld,
+    role: Friseur.
+    gender: m
+  - name: Johann,
+    role: Diener.
+    gender: m
+  - name: Ballgäste.
+    isGroup: true
+    gender: u
+  - name: Diener.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Ort der Handlung: eine Residenz.
+  - description: >-
+      Großer Saal. Drei offene Glasthüren im Hintergrunde führen zu einem hellerleuchteten Ballsaal. Rechts und links Seitenthüren.
 ---
 id: ein000970
 slug: herrmann-eine-raeubergeschichte
@@ -47704,7 +47760,7 @@ editions:
     url: https://books.google.com/books?id=ZcI6AAAAcAAJ&pg=PA55
 comments:
   - Laut [Vorwort](https://books.google.com/books?id=ZcI6AAAAcAAJ&pg=PA57) ursprünglich in Prosa geschrieben.
-  - "Untertitel 1867: »Ein Spiel in einem Akt«."
+  - "Untertitel der Ausgaben 1829 und 1867: »Ein Spiel in einem Akt«."
 cast:
   - name: Die Landräthin.
     gender: f
@@ -71857,6 +71913,48 @@ cast:
     gender: m
 settings:
   - description: Der Schauplatz ist auf dem Schauplatze.
+---
+slug: mohr-der-stammvater-der-russischen-flotte
+author:
+  name: Mohr, Carl
+  wikidata: Q106645621
+title: Der Stammvater der Russischen Flotte
+subtitle: Eine Russische Begebenheit, dramatisirt von N. Polewoi, in 1 Akt
+numOfScenes: 18
+yearPrinted: 1845
+basedOn:
+  - polewoi-dedushka-russkogo-flota
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XIII, No. 104. Berlin: Hayn 1845, S. 1907–1917"
+    url: https://books.google.com/books?id=4Q5HL_q_ugAC&pg=PA1907
+cast:
+  - name: Karsten Brand,
+    role: ein alter Holländischer Schiffbaumeister.
+    gender: m
+  - name: Kornelie,
+    role: seine Enkelin.
+    gender: f
+  - name: Peter Grodeker,
+    role: Büchsenschmiedegeselle.
+    gender: m
+  - name: Thomas Groomdum,
+    role: Holländischer Kaufmann.
+    gender: m
+  - name: Lefort,
+    role: Generalmajor in Kaiserl. Diensten.
+    gender: m
+  - name: Ein Anführer der Strelitzen.
+    gender: m
+  - name: Ein Hauptmann vom Preobrashenskischen Regiment.
+    gender: m
+  - name: Strelitzen. Soldaten. Volk.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Ort der Handlung: Moskau. Zeit: 1691
+    location:
+      wikidataId: Q649
 ---
 id: ein001585
 slug: moll-donna-inez
