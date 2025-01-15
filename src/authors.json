@@ -10560,10 +10560,20 @@
     },
     "gender": "male"
   },
-  "Q56007043": {
-    "name": "Q56007043",
-    "birth": {},
-    "death": {}
+  "Q21558127": {
+    "name": "Charles Georges Thomas Garnier",
+    "gnd": "172092485",
+    "birth": {
+      "date": "1746-09-21T00:00:00Z",
+      "place": "Auxerre",
+      "placeId": "http://www.wikidata.org/entity/Q167600"
+    },
+    "death": {
+      "date": "1795-01-24T00:00:00Z",
+      "place": "Auxerre",
+      "placeId": "http://www.wikidata.org/entity/Q167600"
+    },
+    "gender": "male"
   },
   "Q1355402": {
     "name": "Louis-Jérôme Gohier",
@@ -10943,10 +10953,20 @@
     },
     "gender": "male"
   },
-  "Q19544960": {
-    "name": "Q19544960",
-    "birth": {},
-    "death": {}
+  "Q4520182": {
+    "name": "Paul Aimé Chapelle",
+    "gnd": "133539202",
+    "birth": {
+      "date": "1802-01-10T00:00:00Z",
+      "place": "rue de la Bavole",
+      "placeId": "http://www.wikidata.org/entity/Q59212413"
+    },
+    "death": {
+      "date": "1890-12-09T00:00:00Z",
+      "place": "Monaco",
+      "placeId": "http://www.wikidata.org/entity/Q235"
+    },
+    "gender": "male"
   },
   "Q3263508": {
     "name": "Louis de Laus de Boissy",
@@ -12307,10 +12327,20 @@
     },
     "gender": "male"
   },
-  "Q107282560": {
-    "name": "Q107282560",
-    "birth": {},
-    "death": {}
+  "Q48425246": {
+    "name": "Louis-Joseph Boyer",
+    "birth": {
+      "date": "1810-01-01T00:00:00Z",
+      "place": "Nîmes",
+      "placeId": "http://www.wikidata.org/entity/Q42807"
+    },
+    "death": {
+      "date": "1866-04-17T00:00:00Z",
+      "place": "11. Arrondissement von Paris",
+      "placeId": "http://www.wikidata.org/entity/Q169293"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q41795910": {
     "name": "Jean-Baptiste-Charles Vial",
