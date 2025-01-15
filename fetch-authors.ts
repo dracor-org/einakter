@@ -254,7 +254,7 @@ WHERE {
   });
 
   const gexf = new XMLSerializer().serializeToString(doc);
-  writeFileSync('./public/authors-network.gexf', gexf);
+  writeFileSync('./public/translators-network.gexf', gexf);
 }
 
 fetchAuthors();
