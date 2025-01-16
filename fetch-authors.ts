@@ -1,7 +1,7 @@
 import axios from 'axios';
 import {loadAll, CORE_SCHEMA} from 'js-yaml';
 import {readFileSync, writeFileSync} from 'fs';
-import {DOMParser, XMLSerializer} from '@xmldom/xmldom';
+import builder from 'xmlbuilder';
 import {Author, OriginalPlay, Play} from './src/types';
 
 import authorData from './src/authors.json';
@@ -217,43 +217,35 @@ WHERE {
 
   // console.log({nodes, edges});
 
-  const date = new Date().toISOString();
-  const stub = `<?xml version="1.0" encoding="UTF-8"?>
-<gexf xmlns="http://gexf.net/1.2" version="1.2">
-  <meta lastmodifieddate="${date}">
-    <creator>einakter.dracor.org</creator>
-    <description>Einakter authors network</description>
-  </meta>
-  <graph mode="static" defaultedgetype="directed">
-    <nodes/>
-    <edges/>
-  </graph>
-</gexf>`;
+  const root = builder.create('gexf', {encoding: 'UTF-8'});
+  root.att('xmlns', 'http://gexf.net/1.2');
+  root.att('version', '1.2');
+  const meta = root.ele('meta', {lastmodifieddate: new Date().toISOString()});
+  meta.ele('creator', {}, 'einakter.dracor.org');
+  meta.ele('description', {}, 'Einakter translators network');
 
-  const doc = new DOMParser().parseFromString(stub, 'text/xml');
+  const graphNode = root.ele('graph', {
+    mode: 'static',
+    defaultedgetype: 'directed',
+  });
 
-  const nodesNode = doc.getElementsByTagName('nodes')[0];
+  const nodesElem = graphNode.ele('nodes');
   Object.entries(nodes).forEach(([id, node]) => {
-    const elem = doc.createElement('node');
-    elem.setAttribute('id', id);
-    elem.setAttribute('label', node.fullname || node.name);
-    nodesNode.appendChild(elem);
-    const attvalue = doc.createElement('attvalue');
-    attvalue.setAttribute('for', 'gender');
-    attvalue.setAttribute('value', results[id].gender || '');
-    elem.appendChild(doc.createElement('attvalues').appendChild(attvalue));
-  });
-  const edgesNode = doc.getElementsByTagName('edges')[0];
-  Object.entries(edges).forEach(([id, edge]) => {
-    const elem = doc.createElement('edge');
-    elem.setAttribute('id', id);
-    elem.setAttribute('source', edge.source);
-    elem.setAttribute('target', edge.target);
-    elem.setAttribute('weight', edge.weight.toString());
-    edgesNode.appendChild(elem);
+    const elem = nodesElem.ele('node', {id, label: node.fullname || node.name});
+    elem.ele('attvalue', {for: 'gender', value: results[id].gender || ''});
   });
 
-  const gexf = new XMLSerializer().serializeToString(doc);
+  const edgesElem = graphNode.ele('edges');
+  Object.entries(edges).forEach(([id, {source, target, weight}]) => {
+    edgesElem.ele('edge', {
+      id,
+      source,
+      target,
+      weight: weight.toString(),
+    });
+  });
+
+  const gexf = root.end({pretty: true});
   writeFileSync('./public/translators-network.gexf', gexf);
 }
 

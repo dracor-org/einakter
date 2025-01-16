@@ -47,7 +47,6 @@
     "@types/eslint__js": "^8.42.3",
     "@types/js-yaml": "^4.0.5",
     "@vitejs/plugin-react": "^4.3.1",
-    "@xmldom/xmldom": "^0.9.6",
     "autoprefixer": "^10.4.20",
     "axios": "^1.7.4",
     "babel-plugin-macros": "^3.1.0",
@@ -63,7 +62,8 @@
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.8",
     "vite-plugin-eslint": "^1.8.1",
-    "vitest": "^2.1.1"
+    "vitest": "^2.1.1",
+    "xmlbuilder": "^15.1.1"
   },
   "scripts": {
     "csv": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2csv.ts && cp ./data.csv ./public/",
