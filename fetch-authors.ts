@@ -63,13 +63,15 @@ originals.forEach((o) => {
 
 const argv = process.argv.slice(2);
 
-const authorIds = [
-  plays.map((p) => p.authors.filter((a) => a.wikidata).map((a) => a.wikidata)),
-  originals.map((p) =>
-    p.authors?.filter((a) => a.wikidata).map((a) => a.wikidata)
-  ),
-]
-  .flat(2)
+const translatedAuthorIds = originals
+  .map((o) => o.authors?.filter((a) => a.wikidata).map((a) => a.wikidata))
+  .flat();
+const translatorIds = plays
+  .map((p) => p.authors?.filter((a) => a.wikidata).map((a) => a.wikidata))
+  .flat();
+
+const authorIds = translatorIds
+  .concat(translatedAuthorIds)
   .filter((id, index, self) => self.indexOf(id) === index);
 
 const endpoint = 'https://query.wikidata.org/sparql';
@@ -233,6 +235,10 @@ WHERE {
   Object.entries(nodes).forEach(([id, node]) => {
     const elem = nodesElem.ele('node', {id, label: node.fullname || node.name});
     elem.ele('attvalue', {for: 'gender', value: results[id].gender || ''});
+    const isTranslator = translatorIds.indexOf(id) >= 0 ? 'yes' : 'no';
+    elem.ele('attvalue', {for: 'translator', value: isTranslator});
+    const isTranslated = translatedAuthorIds.indexOf(id) >= 0 ? 'yes' : 'no';
+    elem.ele('attvalue', {for: 'translated-author', value: isTranslated});
   });
 
   const edgesElem = graphNode.ele('edges');
