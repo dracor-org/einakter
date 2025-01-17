@@ -5,13 +5,11 @@ import {Helmet} from 'react-helmet-async';
 import {t} from '@lingui/core/macro';
 import {Trans} from '@lingui/react/macro';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
-import Authors from './Authors';
-import AuthorInfo from './AuthorInfo';
+import DetailsHead from './DetailsHead';
 import Dictionaries from './Dictionaries';
 import Years from './Years';
 import GenderIcon from './GenderIcon';
 import IdLink from './IdLink';
-import IdCopy from './IdCopy';
 import BasedOn from './BasedOn';
 import {EinakterContext} from '../context';
 import {CastMember, Play} from '../types';
@@ -68,29 +66,12 @@ export default function Details() {
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
-      <div className="flex justify-between mb-4 flex-col gap-3 md:flex-row">
-        <div>
-          <hgroup>
-            <h2>
-              <Authors authors={authors} />
-            </h2>
-            <h1>{title}</h1>
-            {subtitle && <h3>{subtitle}</h3>}
-            <IdCopy id={id} className="mt-1" />
-          </hgroup>
-        </div>
-        <div>
-          {authors
-            .filter((a) => Boolean(a.wikidata))
-            .map((a) => (
-              <AuthorInfo
-                key={a.wikidata}
-                fullname={a.name || ''}
-                wikidataId={a.wikidata || ''}
-              />
-            ))}
-        </div>
-      </div>
+      <DetailsHead
+        id={id}
+        authors={authors}
+        title={title}
+        subtitle={subtitle}
+      />
       <table>
         <tbody>
           {comments && (

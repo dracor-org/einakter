@@ -3,7 +3,7 @@ import {Link, useParams} from 'react-router-dom';
 import {Helmet} from 'react-helmet-async';
 import {Trans} from '@lingui/react/macro';
 import Authors from './Authors';
-import IdCopy from './IdCopy';
+import DetailsHead from './DetailsHead';
 import IdLink from './IdLink';
 import Years from './Years';
 import {EinakterContext} from '../context';
@@ -53,14 +53,12 @@ const OriginalDetails = () => {
       <Helmet>
         <title>Einakter: {pageTitle}</title>
       </Helmet>
-      <hgroup className="mb-4">
-        <h2>
-          <Authors authors={authors} />
-        </h2>
-        <h1>{title}</h1>
-        {subtitle && <h3>{subtitle}</h3>}
-        <IdCopy id={id} className="mt-1" />
-      </hgroup>
+      <DetailsHead
+        id={id}
+        authors={authors}
+        title={title}
+        subtitle={subtitle}
+      />
       <table>
         <tbody>
           <tr>
