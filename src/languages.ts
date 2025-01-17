@@ -1,4 +1,4 @@
-import {t} from '@lingui/macro';
+import {t} from '@lingui/core/macro';
 
 export function localLanguageName(code: string): string {
   switch (code) {

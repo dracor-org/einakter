@@ -1,7 +1,7 @@
 import {useContext} from 'react';
 import {Link, useParams} from 'react-router-dom';
 import {Helmet} from 'react-helmet-async';
-import {Trans} from '@lingui/macro';
+import {Trans} from '@lingui/react/macro';
 import Authors from './Authors';
 import IdCopy from './IdCopy';
 import IdLink from './IdLink';

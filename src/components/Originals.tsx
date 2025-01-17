@@ -1,6 +1,6 @@
 import {useContext, useMemo} from 'react';
 import {Helmet} from 'react-helmet-async';
-import {t} from '@lingui/macro';
+import {t} from '@lingui/core/macro';
 import {ColumnDef} from '@tanstack/react-table';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';

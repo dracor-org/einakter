@@ -1,5 +1,5 @@
 import {useEffect, useState} from 'react';
-import {Trans} from '@lingui/macro';
+import {Trans} from '@lingui/react/macro';
 import axios from 'axios';
 import IdLink from './IdLink';
 import {formatYear} from './Years';

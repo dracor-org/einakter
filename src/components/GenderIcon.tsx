@@ -1,5 +1,5 @@
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
-import {t} from '@lingui/macro';
+import {t} from '@lingui/core/macro';
 
 interface Props {
   gender: string;

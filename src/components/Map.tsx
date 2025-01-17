@@ -1,6 +1,7 @@
 import {useContext} from 'react';
 import {Helmet} from 'react-helmet-async';
-import {Trans, t} from '@lingui/macro';
+import {t} from '@lingui/core/macro';
+import {Trans} from '@lingui/react/macro';
 import {MapContainer, TileLayer, Marker} from 'react-leaflet';
 import {EinakterContext} from '../context';
 import SettingsPopup from './SettingsPopup';

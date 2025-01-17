@@ -1,7 +1,7 @@
 import {Fragment, ReactNode, useState, useContext} from 'react';
 import {Link, useLocation} from 'react-router-dom';
 import {useLingui} from '@lingui/react';
-import {Trans} from '@lingui/macro';
+import {Trans} from '@lingui/react/macro';
 import {faLanguage} from '@fortawesome/free-solid-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {locales, setLocale} from '../i18n';

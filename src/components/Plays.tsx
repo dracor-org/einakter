@@ -1,5 +1,5 @@
 import {useMemo} from 'react';
-import {t} from '@lingui/macro';
+import {t} from '@lingui/core/macro';
 import {Helmet} from 'react-helmet-async';
 import {ColumnDef} from '@tanstack/react-table';
 import {Play} from '../types';

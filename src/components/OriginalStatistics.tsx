@@ -1,4 +1,4 @@
-import {Trans} from '@lingui/macro';
+import {Trans} from '@lingui/react/macro';
 import {Th, Td} from './Statistics';
 import {OriginalPlay} from '../types';
 import {localLanguageName} from '../languages';

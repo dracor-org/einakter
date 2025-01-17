@@ -1,6 +1,6 @@
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {useLingui} from '@lingui/react';
-import {t} from '@lingui/macro';
+import {t} from '@lingui/core/macro';
 
 export function formatEra(year?: string | number, ceBefore = 0) {
   if (year === undefined) {

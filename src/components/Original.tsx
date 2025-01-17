@@ -1,6 +1,7 @@
 import {useContext} from 'react';
 import {Link, useParams} from 'react-router-dom';
-import {Trans, t} from '@lingui/macro';
+import {t} from '@lingui/core/macro';
+import {Trans} from '@lingui/react/macro';
 import Authors from './Authors';
 import IdLink from './IdLink';
 import {EinakterContext} from '../context';

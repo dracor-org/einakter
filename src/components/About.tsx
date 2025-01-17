@@ -1,5 +1,5 @@
 import {Helmet} from 'react-helmet-async';
-import {t} from '@lingui/macro';
+import {t} from '@lingui/core/macro';
 import Content from '../about.mdx';
 
 export default function About() {
