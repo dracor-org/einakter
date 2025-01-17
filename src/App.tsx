@@ -14,7 +14,14 @@ import './App.scss';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter
+      future={{
+        /* eslint-disable camelcase */
+        v7_startTransition: true,
+        v7_relativeSplatPath: true,
+        /* eslint-enable camelcase */
+      }}
+    >
       <Topnav />
       <Routes>
         <Route path="/" element={<Home />} />
