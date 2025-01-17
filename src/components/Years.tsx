@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {useLingui} from '@lingui/react';
 import {t} from '@lingui/macro';
@@ -110,18 +109,6 @@ const Years = ({written, premiere, print}: Props) => {
       )}
     </>
   );
-};
-
-Years.propTypes = {
-  written: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
-  premiere: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
-  print: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
-};
-
-Years.defaultProps = {
-  written: null,
-  premiere: null,
-  print: null,
 };
 
 export default Years;
