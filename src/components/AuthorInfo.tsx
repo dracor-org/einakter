@@ -87,9 +87,13 @@ WHERE {
 
           setInfo(aInfo);
         } else {
-          console.log(response.status);
+          // eslint-disable-next-line no-console
+          console.log(
+            `SPARQL endpoint responded with status ${response.status}.`
+          );
         }
       } catch (error) {
+        // eslint-disable-next-line no-console
         console.log(error);
       }
     }
