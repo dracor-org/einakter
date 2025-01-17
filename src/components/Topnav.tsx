@@ -1,6 +1,5 @@
 import {Fragment, ReactNode, useState, useContext} from 'react';
 import {Link, useLocation} from 'react-router-dom';
-import {classnames, TTailwindString} from 'tailwindcss-classnames';
 import {useLingui} from '@lingui/react';
 import {Trans} from '@lingui/macro';
 import {faLanguage} from '@fortawesome/free-solid-svg-icons';
@@ -15,7 +14,7 @@ const version = import.meta.env.VITE_VERSION || pkg.version;
 interface NavItemProps {
   href: string;
   children: ReactNode;
-  className?: TTailwindString;
+  className?: string;
 }
 
 function NavItem({href, className, children}: NavItemProps) {
@@ -28,17 +27,7 @@ function NavItem({href, className, children}: NavItemProps) {
       href === '/plays' && plays.find((p) => location.pathname === `/${p.slug}`)
     );
 
-  const classes = classnames(
-    'block',
-    'mt-4',
-    'md:inline-block',
-    'md:mt-1',
-    'text-white',
-    'hover:text-blue-100',
-    'md:mr-6',
-    className,
-    {'border-b-4': isActive}
-  );
+  const classes = `block mt-4 md:inline-block md:mt-1 text-white hover:text-blue-100 md:mr-6 ${className} ${isActive ? 'border-b-4' : ''} `;
 
   return (
     <Link to={href} className={classes}>
@@ -60,13 +49,7 @@ function Topnav() {
       </div>
       <div className="block md:hidden">
         <button
-          className={classnames(
-            'flex',
-            'items-center',
-            'px-3',
-            'py-2',
-            'hover:text-blue-100'
-          )}
+          className="flex items-center px-3 py-2 hover:text-blue-100"
           onClick={() => setShowNav(!showNav)}
         >
           <svg
@@ -80,16 +63,7 @@ function Topnav() {
         </button>
       </div>
       <div
-        className={classnames(
-          'uppercase',
-          'w-full',
-          'block',
-          'flex-grow',
-          'md:flex',
-          'md:items-center',
-          'md:w-auto',
-          {hidden: !showNav}
-        )}
+        className={`uppercase w-full block flex-grow md:flex md:items-center md:w-auto ${showNav ? '' : 'hidden'}`}
       >
         <div className="my-2 md:flex-grow md:flex-row flex justify-center flex-col">
           <NavItem href="/plays">
@@ -123,16 +97,7 @@ function Topnav() {
                     {({active}) => (
                       <span
                         key={locale}
-                        className={classnames(
-                          'text-blue-900',
-                          'uppercase',
-                          'hover:text-blue-700',
-                          'focus:text-blue-400',
-                          {
-                            'font-bold': locale === i18n.locale,
-                            'text-blue-500': active,
-                          }
-                        )}
+                        className={`${locale === i18n.locale ? 'font-bold' : 'font-normal'} ${active ? 'text-blue-500' : 'text-blue-900'} uppercase hover:text-blue-700 focus:text-blue-400`}
                         onClick={() => setLocale(locale)}
                       >
                         {locale}

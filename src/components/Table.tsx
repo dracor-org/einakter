@@ -1,6 +1,5 @@
 import {useState} from 'react';
 import {t} from '@lingui/macro';
-import {classnames} from 'tailwindcss-classnames';
 import {
   ColumnDef,
   flexRender,
@@ -103,8 +102,8 @@ export default Table;
 export function SortIndicator({status}: {status: false | SortDirection}) {
   return (
     <>
-      <span className={classnames({'opacity-40': status !== 'asc'})}>▲</span>
-      <span className={classnames({'opacity-40': status !== 'desc'})}>▼</span>
+      <span className={`${status !== 'asc' ? 'opacity-40' : ''}`}>▲</span>
+      <span className={`${status !== 'desc' ? 'opacity-40' : ''}`}>▼</span>
     </>
   );
 }
