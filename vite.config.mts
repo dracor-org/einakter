@@ -1,5 +1,5 @@
 import react from '@vitejs/plugin-react';
-import eslint from 'vite-plugin-eslint';
+import eslint from '@nabla/vite-plugin-eslint';
 import {lingui} from '@lingui/vite-plugin';
 import mdx from '@mdx-js/rollup';
 
