@@ -65,6 +65,9 @@ To update existing IDs they can be passed as arguments:
 yarn authors Q123 Q4566
 ```
 
+This script also updates the network graph of translators and translated authors
+in [`translators-network.gexf](translators-network.gexf).
+
 ### `yarn locations`
 
 Update [`locations.json`](src/locations.json). This fetches coordinates for
