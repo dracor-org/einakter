@@ -217,8 +217,6 @@ WHERE {
       });
     });
 
-  // console.log({nodes, edges});
-
   const root = builder.create('gexf', {encoding: 'UTF-8'});
   root.att('xmlns', 'http://gexf.net/1.2');
   root.att('version', '1.2');
@@ -231,13 +229,36 @@ WHERE {
     defaultedgetype: 'directed',
   });
 
+  const attributesNode = graphNode.ele('attributes', {
+    class: 'node',
+    mode: 'static',
+  });
+  attributesNode.ele('attribute', {
+    id: 'gender',
+    title: 'Gender',
+    type: 'string',
+  });
+  attributesNode.ele('attribute', {
+    id: 'translator',
+    title: 'Translator',
+    type: 'boolean',
+  });
+  attributesNode.ele('attribute', {
+    id: 'translated-author',
+    title: 'Translated author',
+    type: 'boolean',
+  });
+
   const nodesElem = graphNode.ele('nodes');
   Object.entries(nodes).forEach(([id, node]) => {
-    const elem = nodesElem.ele('node', {id, label: node.fullname || node.name});
+    const elem = nodesElem
+      .ele('node', {id, label: node.fullname || node.name})
+      .ele('attvalues');
     elem.ele('attvalue', {for: 'gender', value: results[id].gender || ''});
-    const isTranslator = translatorIds.indexOf(id) >= 0 ? 'yes' : 'no';
+    const isTranslator = translatorIds.indexOf(id) >= 0 ? 'true' : 'false';
     elem.ele('attvalue', {for: 'translator', value: isTranslator});
-    const isTranslated = translatedAuthorIds.indexOf(id) >= 0 ? 'yes' : 'no';
+    const isTranslated =
+      translatedAuthorIds.indexOf(id) >= 0 ? 'true' : 'false';
     elem.ele('attvalue', {for: 'translated-author', value: isTranslated});
   });
 
