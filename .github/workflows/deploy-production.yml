@@ -7,6 +7,7 @@ on:
 
 jobs:
   production:
+    if: ${{ ! github.event.release.prerelease }}
     uses: dracor-org/einakter/.github/workflows/deployment.yml@main
     with:
       host: dracor.org
