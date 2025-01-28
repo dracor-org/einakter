@@ -8934,6 +8934,20 @@ cast:
     role: katholische Magd.
     gender: f
 ---
+id: ein002603
+slug: anonym-die-freiheit-des-herzens
+author:
+  pseudonym: Anonym
+title: Die Freiheit des Herzens
+subtitle: "Schauspiel in einem Akt, in italienischer und deutscher Sprache, erstere von Professor von Guerri, letztere von einem seiner Schüler"
+yearPrinted: 1818
+basedOn:
+  - guehery-la-liberta-del-cuore
+editions:
+  - title: "Berlin: Krause 1818"
+comments:
+  - "Kein Exemplar bekannt. Im Band enthalten ist eine »Widmung an Prinzen Eduard von Lubomirsky«. Informationen entnommen aus Goedeke, Band XVI, [S. 729](https://archive.org/details/GoedekeGrundrissZurGeschichteDerDeutschenDichtung-2-16-3-4/page/n131/mode/2up), sowie aus dem Katalog der Raczyńskischen Bibliothek in Posen. II. Band. Posen: Decker 1885, [S. 369](https://books.google.com/books?id=sNwpAAAAYAAJ&pg=PA369)."
+---
 id: ein000198
 slug: anonym-die-freyer
 author:
@@ -40424,7 +40438,7 @@ numOfScenes: 4
 yearPrinted: 1838
 premiered: 1837-03-30
 formalia:
-  - Verse
+  - Blankvers
 editions:
   - title: "Wien: Gerold 1838"
     url: https://books.google.com/books?id=WdhgAAAAcAAJ&pg=PA3
@@ -47729,6 +47743,38 @@ settings:
   - description: >-
       Ländliche Gegend. Im Vorgrunde eine Dorfschenke, die einen grünen Kranz zum Schilde führt; gegenüber eine große Linde mit einer Rasenbank.
 ---
+id: ein002604
+slug: holbein-die-blumen
+author:
+  name: Holbein, Franz Ignaz von
+  wikidata: Q1447416
+title: Die Blumen
+subtitle: Ein Spiel in einem Akt
+numOfScenes: 9
+yearPrinted: 1829
+formalia:
+  - Verse
+editions:
+  - title: "Farben, Sterne, Blumen, drei dramatische Spiele von Karl von Holtei. Eine Neujahrsgabe für 1829. Berlin: Trautwein [1829], S. 195–239"
+    url: https://books.google.com/books?id=1zcZqqxPOPIC&pg=PA195
+cast:
+  - name: Die Fürstin.
+    gender: f
+  - group:
+      - name: Anadyomene
+        gender: f
+      - name: Viola
+        gender: f
+    role: ihre Damen.
+  - name: Erdmann,
+    role: der Gärtner.
+    gender: m
+  - name: Ein Bote.
+    gender: m
+settings:
+  - description: >-
+      Scene: Terrasse vor dem Schloß, mit Blumen geschmückt. Den Hintergrund bildet eine Fronte des Schlosses, in welches zwei Pforten führen.
+---
 id: ein002501
 slug: holbein-die-duenna
 author:
@@ -48751,6 +48797,36 @@ settings:
       Abgelegene Straße Warschau's. Nacht. Sturm.
     location:
       wikidataId: Q270
+---
+id: ein002606
+slug: horn-camoens-im-exil
+author:
+  name: Horn, Uffo Daniel
+  wikidata: Q518040
+title: Camoens im Exil
+subtitle: Dramatisches Gedicht in einem Akt
+numOfScenes: 5
+yearPrinted: 1839
+formalia:
+  - Blankvers
+editions:
+  - title: "Wien: Mausberger 1839"
+    url: https://books.google.com/books?id=dyhRAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Don Alfons Serrador da Cuençao,
+    role: Commandant von Macao.
+    gender: m
+  - name: Donna Maria Bellaflores,
+    role: seine Schwester.
+    gender: f
+  - name: Don Luis Camoens
+    role: verbannt.
+    gender: m
+settings:
+  - description: >-
+      Scene in Macao auf dem Landhause des Commandanten.
+    location:
+      wikidataId: Q14773
 ---
 id: ein001067
 slug: hottinger-die-ueberraschungen
@@ -56628,6 +56704,8 @@ dictionaries:
 editions:
   - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Siebenter Jahrgang. Riga: Hartmann 1809, S. 197–242"
     url: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11044921_00207.html
+reviews:
+  - "Morgenblatt für gebildete Stände. Nro. 265 (Freitag, 4. November 1808), [S. 1059](https://books.google.com/books?id=P6YcAQAAMAAJ&pg=PA1059)."
 ids:
   weber: A021012
   wikidata: Q110888926
@@ -63217,6 +63295,51 @@ cast:
     gender: m
 settings:
   - description: Der Schauplatz ist in Clarissens Hause.
+---
+id: ein002607
+slug: lamey-catos-tod
+author:
+  name: Lamey, August
+  wikidata: Q2871258
+title: Cato's Tod
+subtitle: Ein Trauerspiel in einem Aufzuge
+numOfScenes: 18
+yearPrinted: 1799
+formalia:
+  - Blankvers
+editions:
+  - title: "Straßburg: König 1799"
+    url: https://books.google.com/books?id=jaZdAAAAcAAJ&printsec=frontcover
+comments:
+  - "Dem Drama vorangestellt ist ein [Brief](https://books.google.com/books?id=jaZdAAAAcAAJ&pg=PA3) des Autors »An den Bürger Pfeffel zu Colmar«."
+cast:
+  - name: Marcus Cato.
+    gender: m
+  - name: Julius Cäsar.
+    gender: m
+  - name: Cato Sohn.
+    gender: m
+  - name: Demetrius.
+    gender: m
+  - name: Statyllius.
+    gender: m
+  - group:
+      - name: Cleanth
+        gender: m
+      - name: Butas
+        gender:
+    role: Freigelassene Cato's.
+  - name: Glieder des Raths der Dreihunderte und Bürger von Utika.
+    isGroup: true
+    gender: m
+  - name: Cäsars Gefolg.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist zu Utika, im Pallast des Cato.
+    location:
+      wikidataId: Q166523
 ---
 id: ein001391
 slug: la-roche-damon-und-pythias
@@ -71916,6 +72039,7 @@ cast:
 settings:
   - description: Der Schauplatz ist auf dem Schauplatze.
 ---
+id: ein002602
 slug: mohr-der-stammvater-der-russischen-flotte
 author:
   name: Mohr, Carl
@@ -87630,6 +87754,47 @@ settings:
   - description: >-
       Saal mit einer Mittel- und zwei Seitenthüren. Vorn, links vom Schauspieler, ein Tisch.
 ---
+id: ein002605
+slug: both-die-schoene-muellerin
+author:
+  name: Schneider, Louis
+  pseudonym: Both, L. W.
+  wikidata: Q214659
+title: Die schöne Müllerin
+subtitle: Lustspiel in einem Akt. Nach Melesville und Duveyrier
+numOfScenes: 22
+yearPrinted: 1843
+formalia:
+  - Prosa
+basedOn:
+  - melesville-duveyrier-la-meuniere-de-marly
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XI, No. 81. Berlin: Hayn 1843, S. 1411–1424"
+    url: https://books.google.com/books?id=7hqR4A5fSvcC&pg=PA1411
+cast:
+  - name: Der Marquis de la Gaillardière.
+    gender: m
+  - name: Die Marquise,
+    role: seine Gattin.
+    gender: f
+  - name: Denise,
+    role: die Müllerin.
+    gender: f
+  - name: Jean,
+    role: deren Neffe.
+    gender: m
+  - name: Guillaume,
+    role: Müllerbursche.
+    gender: m
+  - name: Zwei Piqueurs.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Ort der Handlung: Eine Mühle nahe bei dem Lustschlosse Marly. Zeit 1771.
+    location:
+      wikidataId: Q736185
+---
 id: ein002592
 slug: bothe-der-ausmarsch
 author:
@@ -90280,6 +90445,43 @@ cast:
 settings:
   - description: >-
       Das Theater ist der Länge nach getheilt. Rechts auf der Bühne das Attelier des Bildhauers, worin mehrere Büsten und Statüen zerstreut herumstehen, ganz nach vorn ein großer Schrank; im Hintergrunde eine Thür, welche nach dem Innern des Hauses führt, in der Seitenwand links eine Glasthüre zum allgemeinen Ausgang mit einem Vorhange und praktikabeln Fenster. Das Entree links hat ebenfalls eine Seitenthüre und eine Thür im Hintergrunde, die auf die Straße führt.
+---
+id: ein002607
+slug: seidl-das-erste-veilchen
+author:
+  name: Seidl, Johann Gabriel
+  wikidata: Q86587
+title: Das erste Veilchen
+subtitle: Dramatisches Gedicht in einem Aufzuge
+numOfScenes: 7
+yearPrinted: 1833
+premiered: 1831-03-07
+formalia:
+  - vierhebige gereimte jambische Verse
+editions:
+  - title: "Aurora. Taschenbuch für das Jahr 1833. Herausgegeben von Johann Gabriel Seidl. Neunter Jahrgang. Wien: Buchholz 1833, S. 81–115"
+    url: https://www.digitale-sammlungen.de/view/bsb10104863?page=119
+cast:
+  - name: Leopold der Glorreiche,
+    role: Herzog von Österreich und Steyer.
+    gender: m
+  - name: Kuno,
+    role: Förster in der Aue.
+    gender: m
+  - name: Jutta,
+    role: seine Tochter.
+    gender: f
+  - name: Der Gast
+    role: (Minnesänger aus Steyer).
+    gender: m
+  - name: Hofleute. Volk.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Ort der Handlung: Die Aue nächst Wien. Zeit 1205.
+    location:
+      wikidataId: Q1741
 ---
 id: ein001983
 slug: seipp-die-tobacksdose

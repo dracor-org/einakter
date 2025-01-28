@@ -3336,6 +3336,23 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q518040": {
+    "name": "Uffo Daniel Horn",
+    "gnd": "104150890",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Uffo%20Daniel%20Horn.jpg",
+    "birth": {
+      "date": "1817-05-18T00:00:00Z",
+      "place": "Trutnov",
+      "placeId": "http://www.wikidata.org/entity/Q320950"
+    },
+    "death": {
+      "date": "1860-05-23T00:00:00Z",
+      "place": "Trutnov",
+      "placeId": "http://www.wikidata.org/entity/Q320950"
+    },
+    "gender": "male",
+    "ambiguous": true
+  },
   "Q1694884": {
     "name": "Johann Jakob Hottinger",
     "gnd": "11701348X",
@@ -4180,6 +4197,22 @@
       "date": "1784-02-03T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male"
+  },
+  "Q2871258": {
+    "name": "August Lamey",
+    "gnd": "116653620",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Lamey.jpg",
+    "birth": {
+      "date": "1772-03-03T00:00:00Z",
+      "place": "Kehl",
+      "placeId": "http://www.wikidata.org/entity/Q15979"
+    },
+    "death": {
+      "date": "1861-01-27T00:00:00Z",
+      "place": "Straßburg",
+      "placeId": "http://www.wikidata.org/entity/Q6602"
     },
     "gender": "male"
   },
@@ -7212,6 +7245,22 @@
       "date": "1822-01-01T00:00:00Z",
       "place": "Dessau",
       "placeId": "http://www.wikidata.org/entity/Q487070"
+    },
+    "gender": "male"
+  },
+  "Q86587": {
+    "name": "Johann Gabriel Seidl",
+    "gnd": "117464392",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Gabriel%20Seidl.jpg",
+    "birth": {
+      "date": "1804-06-21T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1875-07-18T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
     },
     "gender": "male"
   },
@@ -10370,6 +10419,22 @@
       "date": "1900-02-19T00:00:00Z",
       "place": "Le Raincy",
       "placeId": "http://www.wikidata.org/entity/Q259203"
+    },
+    "gender": "male"
+  },
+  "Q2958989": {
+    "name": "Charles Duveyrier",
+    "gnd": "117664049",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Duveyrier-French%20librettist.png",
+    "birth": {
+      "date": "1803-04-12T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
+    },
+    "death": {
+      "date": "1866-11-10T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
     },
     "gender": "male"
   },
