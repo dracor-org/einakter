@@ -2618,6 +2618,21 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q33195642": {
+    "name": "Ernst Grünewald",
+    "gnd": "130683647",
+    "birth": {
+      "date": "1801-03-01T00:00:00Z",
+      "place": "Darmstadt",
+      "placeId": "http://www.wikidata.org/entity/Q2973"
+    },
+    "death": {
+      "date": "1848-11-26T00:00:00Z",
+      "place": "Darmstadt",
+      "placeId": "http://www.wikidata.org/entity/Q2973"
+    },
+    "gender": "male"
+  },
   "Q692594": {
     "name": "Friedrich Wilhelm Gubitz",
     "gnd": "116908327",
@@ -3637,6 +3652,21 @@
       "date": "1827-01-01T00:00:00Z",
       "place": "Schleswig",
       "placeId": "http://www.wikidata.org/entity/Q501661"
+    },
+    "gender": "male"
+  },
+  "Q55674141": {
+    "name": "Ludwig Julius Bauch",
+    "gnd": "116083034",
+    "birth": {
+      "date": "1811-03-29T00:00:00Z",
+      "place": "Breslau",
+      "placeId": "http://www.wikidata.org/entity/Q1799"
+    },
+    "death": {
+      "date": "1879-09-11T00:00:00Z",
+      "place": "Marienbad",
+      "placeId": "http://www.wikidata.org/entity/Q523469"
     },
     "gender": "male"
   },
@@ -8672,6 +8702,21 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q131607184": {
+    "name": "Johann Gottfried Zschaler",
+    "gnd": "120961369",
+    "birth": {
+      "date": "1816-01-01T00:00:00Z",
+      "place": "Dresden",
+      "placeId": "http://www.wikidata.org/entity/Q1731"
+    },
+    "death": {
+      "date": "1888-01-01T00:00:00Z",
+      "place": "Dresden",
+      "placeId": "http://www.wikidata.org/entity/Q1731"
+    },
+    "gender": "male"
+  },
   "Q66207": {
     "name": "Heinrich Zschokke",
     "gnd": "118637266",
@@ -8772,6 +8817,22 @@
       "placeId": "http://www.wikidata.org/entity/Q90"
     },
     "gender": "male"
+  },
+  "Q19629451": {
+    "name": "Paul Duport",
+    "gnd": "11625369X",
+    "birth": {
+      "date": "1798-04-22T00:00:00Z",
+      "place": "ehemaliges 5. Arrondissement von Paris",
+      "placeId": "http://www.wikidata.org/entity/Q2845756"
+    },
+    "death": {
+      "date": "1866-12-25T00:00:00Z",
+      "place": "1. Arrondissement von Paris",
+      "placeId": "http://www.wikidata.org/entity/Q161741"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q177565": {
     "name": "Virginie Ancelot",
@@ -9111,6 +9172,22 @@
       "date": "1854-01-01T00:00:00Z",
       "place": "Paris",
       "placeId": "http://www.wikidata.org/entity/Q90"
+    },
+    "gender": "male"
+  },
+  "Q7790528": {
+    "name": "Thomas Haynes Bayly",
+    "gnd": "115823956",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Thomas%20Haynes%20Bayly.jpg",
+    "birth": {
+      "date": "1797-10-13T00:00:00Z",
+      "place": "Bath",
+      "placeId": "http://www.wikidata.org/entity/Q22889"
+    },
+    "death": {
+      "date": "1839-04-22T00:00:00Z",
+      "place": "England",
+      "placeId": "http://www.wikidata.org/entity/Q21"
     },
     "gender": "male"
   },
@@ -12093,22 +12170,6 @@
       "placeId": "http://www.wikidata.org/entity/Q316891"
     },
     "gender": "male"
-  },
-  "Q19629451": {
-    "name": "Paul Duport",
-    "gnd": "11625369X",
-    "birth": {
-      "date": "1798-04-22T00:00:00Z",
-      "place": "ehemaliges 5. Arrondissement von Paris",
-      "placeId": "http://www.wikidata.org/entity/Q2845756"
-    },
-    "death": {
-      "date": "1866-12-25T00:00:00Z",
-      "place": "1. Arrondissement von Paris",
-      "placeId": "http://www.wikidata.org/entity/Q161741"
-    },
-    "gender": "male",
-    "ambiguous": true
   },
   "Q3190441": {
     "name": "Justin Gensoul",

@@ -38076,6 +38076,43 @@ reviews:
 comments:
   - "Bearbeitung von [»Wer wird sie kriegen?«](eckardt-wer-wird-sie-kriegen) (1780) von Friedrich Eckardt."
 ---
+id: ein002609
+slug: gruenewald-der-weber
+author:
+  name: Grünewald, E. F.
+  wikidata: Q33195642
+title: Der Weber
+subtitle: Lustspiel in einem Act. Frei nach dem Englischen für die deutsche Bühne bearbeitet von E. F. Grünewald
+numOfScenes: 14
+yearPrinted: 1847
+formalia:
+  - Prosa
+basedOn:
+  - bayly-the-spitalfields-weaver
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XVI, No. 122. Berlin: Hayn 1847"
+    url: https://books.google.com/books?id=prFKAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Braun.
+    gender: m
+  - name: Adele,
+    role: seine Frau.
+    gender: f
+  - name: Simon.
+    gender: m
+  - name: Darville.
+    gender: m
+  - name: Daniel.
+    gender: m
+  - name: Bediente. Gäste.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Scene: Braun's Haus, in einer bedeutenden Stadt.
+  - description: >-
+      Ein kostbar meublirtes Zimmer in Braun's Hause. Ein Sopha mit einem runden Tische auf der linken Seite, auf der rechten ein kleinerer Tisch mit zwei Stühlen. Thüren im Fond und auf den Seiten.
+---
 id: ein000828
 slug: gubitz-allen-ist-geholfen
 author:
@@ -51561,6 +51598,43 @@ settings:
   - description: >-
       Die Scene ist auf des Barons Landgut: ein großer, geschmackvoll eingerichteter Garten, durch welchen sich mehrere in der Mitte getheilte Hecken ziehen; im Vordergrunde eine Laube, in welcher Tisch und Bank; auf dem Tische: Bücher, Schreibzeug, Federn und Papier. Früher Sommermorgen.
 ---
+id: ein002623
+slug: julius-wohl-zu-bekommen
+author:
+  name: Julius, Louis
+  wikidata: Q55674141
+title: Wohl zu bekommen!
+subtitle: Lustspiel in einem Act
+numOfScenes: 20
+yearPrinted: 1848
+formalia:
+  - Prosa
+basedOn:
+  - ancelot-duport-dieu-vous-bénisse
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XVII, No. 131. Berlin: Hayn 1848"
+    url: https://books.google.com/books?id=S8_2CtnLBU8C&pg=RA2-PA1
+cast:
+  - name: Der Marquis von Rosambert.
+    gender: m
+  - name: Herr von Surgeon.
+    gender: m
+  - name: Frau von Surgeon.
+    gender: f
+  - name: Frau von Merainville,
+    role: ihre Schwester.
+    gender: f
+  - name: St. Jean,
+    role: Diener des Marquis.
+    gender: m
+  - name: Ein Diener des Herrn von Surgeon.
+    gender: m
+settings:
+  - description: >-
+      Ort der Handlung: Ein Schloss des Herrn von Surgeon. – Zeit: 1775.
+  - description: >-
+      Garten im Geschmack des vorigen Jahrhunderts. Links ist ein Flügel des Schlosses sichtbar. Im Vordergrunde Gartenstühle und links ein Marmortisch, darauf eine beliebige weibliche Arbeit.
+---
 id: ein001124
 slug: jung-das-vaterherz
 author:
@@ -63296,7 +63370,7 @@ cast:
 settings:
   - description: Der Schauplatz ist in Clarissens Hause.
 ---
-id: ein002607
+id: ein002608
 slug: lamey-catos-tod
 author:
   name: Lamey, August
@@ -87852,6 +87926,45 @@ settings:
   - description: >-
       Das Stück spielt in einem deutschen Dorfe am Rhein.
 ---
+id: ein002622
+slug: both-eine-fenster-promenade
+author:
+  name: Schneider, Louis
+  pseudonym: Both, L. W.
+  wikidata: Q214659
+title: Eine Fenster-Promenade
+subtitle: Lustspiel in einem Act
+numOfScenes: 20
+yearPrinted: 1848
+formalia:
+  - Prosa
+basedOn:
+  - scribe-lemoine-une-femme-qui-se-jette-par-la-fenetre
+editions:
+  - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XVII, No. 129. Berlin: Hayn 1848"
+    url: https://books.google.com/books?id=S8_2CtnLBU8C&pg=PA1
+comments:
+  - "Nachbemerkung ([S. 14](https://books.google.com/books?id=S8_2CtnLBU8C&pg=PA14)): »Seit langer Zeit hat kein einaktiges französisches Stück sich einer so allgemein beifälligen Aufnahme zu erfreuen gehabt, als dieses und da es fast in allen Rollen dankbare Aufgaben bietet, so dürfte es namentlich für Liebhabertheater eine sehr willkommene Gabe sein.«"
+cast:
+  - name: Baron Mörner von Mörnfeld,
+    role: Fabrikbesitzer.
+    gender: m
+  - name: Baron Wilhelm von Mörnfeld,
+    role: sein Neffe.
+    gender: m
+  - name: Gabriele,
+    role: dessen Gattin.
+    gender: f
+  - name: Gräfin Olga von Hohenhausen,
+    role: Gabrielen's Mutter.
+    gender: f
+  - name: Frau Hanne Schoppe,
+    role: Pächterin.
+    gender: f
+settings:
+  - description: >-
+      Im Hintergrunde Aussicht auf ein Dorf oder ländliche Gegend. In der dritten Coulisse theilt ein Zaun oder Hecke den Vordertheil der Bühne vom Hintergrunde. In der Mitte eine Gitterthür. Links an der ersten Coulisse ein eleganter Pavillon mit einem practicablen Balcon, von zwei Säulen getragen. Rechts an der zweiten oder dritten Coulisse, dem Gartenzaun zunächst, der Eingang in eine Scheune. Rechts an der ersten Coulisse ein Baum, unter dem sich eine Rasenbank befindet.
+---
 id: ein001927
 slug: both-er-amuesirt-sich-doch
 author:
@@ -106857,6 +106970,435 @@ settings:
       Die Scene ist zu Anfang in Wildheims Schloß; hernach in Walters Wohnung an der Grenze des herzoglichen Gebiet's, in einer Bauernwohnung.
   - description: >-
       Die Handlung fängt mit dem Abend an, und dauert bis Mitternacht.
+---
+id: ein002618
+slug: zschaler-carl-haelt-wort-oder-der-naescher
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: "Carl hält Wort, oder: Der Näscher"
+subtitle: Schauspiel in Einem Aufzuge
+numOfScenes: 12
+yearPrinted: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Zweites Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–15"
+    url: https://sammlungen.ub.uni-frankfurt.de/benjamin/content/pageview/12065983
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Gustav,
+        role: 11 Jahr.
+        gender: m
+      - name: Lina,
+        role: 10 Jahr.
+        gender: f
+      - name: Carl,
+        role: 9 Jahr.
+        gender: m
+    role: Geschwister.
+settings:
+  - description: >-
+      Die Kinderstube, worin Gustav, Lina und Carl arbeiten und spielen; ein Schrank steht an der Seite, sichtbar ist ein Bettvorhang.
+---
+id: ein002613
+slug: zschaler-das-gute-kaethchen
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: Das gute Käthchen
+subtitle: Drama in Einem Aufzuge
+numOfScenes: 6
+yearPrinted: 1843
+formalia:
+  - trochäische Verse
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Erstes Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–27"
+    url: https://books.google.com/books?id=7sVc7t6Z-QQC&pg=RA4-PA1
+keywords:
+  - Kindertheater
+cast:
+  - name: Emil von Schaaren.
+    role: 12 Jahr.
+    gender: m
+  - name: Luise,
+    role: seine Schwester. 10–11 Jahr.
+    gender: f
+  - name: Emma Liebreich,
+    role: ihre Freundin. 10–11 Jahr.
+    gender: f
+  - name: Käthchen Huld,
+    role: Tochter einer armen Schuhmacherswittwe. 9–10 Jahr.
+    gender: f
+settings:
+  - description: >-
+      Ein leeres, ödes Feld. An der Gartenmauer stehen mehrere Königskerzen.
+---
+id: ein002621
+slug: zschaler-der-duenkel-oder-des-dorfschulmeisters-sohn
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: "Der Dünkel, oder: des Dorfschulmeisters Sohn"
+subtitle: Drama in Einem Aufzuge
+numOfScenes: 11
+yearPrinted: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Zweites Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–22"
+    url: https://sammlungen.ub.uni-frankfurt.de/benjamin/content/pageview/12066043
+keywords:
+  - Kindertheater
+cast:
+  - name: Carl von Hohnstedt.
+    role: 13 Jahr.
+    gender: m
+  - group:
+      - name: Julius,
+        role: 10 Jahr.
+        gender: m
+      - name: Anna,
+        role: 11 Jahr.
+        gender: f
+    role: seine Geschwister.
+  - name: Gustav Frommhold,
+    role: Sohn des Schullehrers zu Krippen. 12 Jahr.
+    gender: m
+  - name: 3 bis 5 Knaben beliebigen Alters, jedoch nicht unter 8 Jahr.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Das Stück spielt im Garten des Rittergutes zu Krippen.
+  - description: >-
+      Um es in der Stube zu bewerkstelligen, ist eine Gartenbank nöthig, und etwa einige Blumen, damit es das Ansehn eines Gartens bekommt.
+---
+id: ein002615
+slug: zschaler-der-eigennutz-oder-die-macht-des-spiegels
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: "Der Eigennutz, oder: Die Macht des Spiegels"
+subtitle: Schauspiel in Einem Aufzuge
+numOfScenes: 12
+yearPrinted: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Zweites Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–22"
+    url: https://sammlungen.ub.uni-frankfurt.de/benjamin/content/pageview/12065927
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Mathilde,
+        role: 13 Jahr.
+        gender: f
+      - name: Marie,
+        role: 12 Jahr.
+        gender: f
+      - name: Anna,
+        role: 10 Jahr.
+        gender: f
+      - name: Fritz,
+        role: 13 Jahr.
+        gender: m
+    role: Geschwister.
+  - name: Carl,
+    role: ein Schulfreund des Fritz. 13 Jahr.
+    gender: m
+settings:
+  - description: >-
+      Die Krankenstube der Kinder. Ein Sopha mit einem Deckbett, worin Mathilde. Ein Spiegel muß zu sehen sein.
+---
+id: ein002620
+slug: zschaler-der-freudenstoerer
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: Der Freudenstörer
+subtitle: Schauspiel in Einem Aufzuge. Der Stoff ist eine wahre Begebenheit
+numOfScenes: 9
+yearPrinted: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Zweites Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–20"
+    url: https://sammlungen.ub.uni-frankfurt.de/benjamin/content/pageview/12066021
+keywords:
+  - Kindertheater
+cast:
+  - name: Eduard von Hell.
+    role: 14 Jahr.
+    gender: m
+  - group:
+      - name: Fritz Diete,
+        role: 14 Jahr.
+        gender: m
+      - name: Adolph Diete,
+        role: 12 Jahr.
+        gender: m
+      - name: Gustav Diete,
+        role: 11 Jahr.
+        gender: m
+    role: Brüder.
+settings:
+  - description: >-
+      Zimmer im Hause des Gewürzkrämers Diete.
+---
+id: ein002610
+slug: zschaler-der-schein-truegt
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: Der Schein trügt
+subtitle: Schauspiel in Einem Aufzuge
+numOfScenes: 8
+yearPrinted: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Erstes Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–20"
+    url: https://books.google.com/books?id=7sVc7t6Z-QQC&pg=PA1
+keywords:
+  - Kindertheater
+cast:
+  - name: Carl,
+    role: Sohn des Kaufmanns Waage. 13 Jahr.
+    gender: m
+  - name: Ludwig,
+    role: Mitschüler von Carl und Ferdinand. 13 Jahr.
+    gender: m
+  - group:
+      - name: Ferdinand,
+        role: 13 Jahr.
+        gender: m
+      - name: Minna,
+        role: 12 Jahr.
+        gender: f
+      - name: Luise,
+        role: 9 Jahr.
+        gender: f
+      - name: Anna,
+        role: 6–7 Jahr.
+        gender: f
+    role: Kinder des Herrn Kaufmanns Handel.
+settings:
+  - description: >-
+      Der Schauplatz ist eine Stube.
+---
+id: ein002616
+slug: zschaler-die-eroberung-oder-das-gespenst
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: "Die Eroberung, oder: Das Gespenst"
+subtitle: Lustspiel in Einem Aufzuge
+numOfScenes: 5
+yearPrinted: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Zweites Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–17"
+    url: https://sammlungen.ub.uni-frankfurt.de/benjamin/content/pageview/12065949
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Friedrich Preuß.
+        gender: m
+      - name: Bonaparte Franke.
+        gender: m
+      - name: Adolph Schwede.
+        gender: m
+      - name: Peter Russe.
+        gender: m
+      - name: Wallenstein.
+        gender: m
+    role: Die Knaben können vom 9. bis zum 13. Jahre sein.
+  - name: Charlotte,
+    role: Schwester des Fritz. 12 Jahr.
+    gender: f
+settings:
+  - description: >-
+      Eine Wohnstube. An den Seiten stehen Stühle, ein Tisch in der Mitte des Zimmers.
+---
+id: ein002612
+slug: zschaler-die-list
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: Die List
+subtitle: Lustspiel in Einem Aufzuge
+numOfScenes: 13
+yearPrinted: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Erstes Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–27"
+    url: https://books.google.com/books?id=7sVc7t6Z-QQC&pg=RA3-PA1
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Heinrich,
+        gender: m
+      - name: Julius,
+        gender: m
+      - name: Auguste,
+        gender: f
+      - name: Minna,
+        gender: f
+    role: Geschwister.
+settings:
+  - description: >-
+      Der Schauplatz ist eine Stube.
+---
+id: ein002611
+slug: zschaler-die-uneigennuetzigen-geber-oder-edler-sinn
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: "Die uneigennützigen Geber oder: Edler Sinn"
+subtitle: Schauspiel in Einem Aufzuge
+numOfScenes: 9
+yearPrinted: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Erstes Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–19"
+    url: https://books.google.com/books?id=7sVc7t6Z-QQC&pg=RA1-PA1
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Fritz,
+        role: 12 Jahr.
+        gender: m
+      - name: Ernestine,
+        role: 12 Jahr.
+        gender: f
+    role: Kinder des Grafen v. Gutmuth.
+  - name: Marie,
+    role: Tochter des Grafen v. Liebreich. 12 Jahr.
+    gender: f
+  - name: Carl Arm,
+    role: ein Bettelknabe. 9 Jahr.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist eine Stube.
+---
+id: ein002617
+slug: zschaler-trau-der-goettin-fortuna-nicht
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: Trau der Göttin Fortuna nicht
+subtitle: Schauspiel in Einem Aufzuge. Der Stoff ist eine wahre Begebenheit
+numOfScenes: 9
+yearPrinted: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Zweites Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–16"
+    url: https://sammlungen.ub.uni-frankfurt.de/benjamin/content/pageview/12065967
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Felix,
+        role: 13 Jahr.
+        gender: m
+      - name: Fortuna,
+        role: 12 Jahr.
+        gender: f
+      - name: Benigna,
+        role: 12 Jahr.
+        gender: f
+    role: Geschwister.
+  - name: Benjamin,
+    role: ein Knabe aus Markneukirchen. 11 Jahr.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist in einer Stube.
+---
+id: ein002614
+slug: zschaler-wer-ist-der-glueckliche
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: "Wer ist der Glückliche?"
+subtitle: Lustspiel in Einem Aufzuge
+numOfScenes: 12
+yearPrinted: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Erstes Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–23"
+    url: https://books.google.com/books?id=7sVc7t6Z-QQC&pg=RA5-PA1
+keywords:
+  - Kindertheater
+cast:
+  - name: Georg von Brandenstein,
+    role: ungefähr 13 Jahr.
+    gender: m
+  - group:
+      - name: Ludwig,
+        role: ungefähr 12 Jahr.
+        gender: m
+      - name: Emil,
+        role: ungefähr 11 Jahr.
+        gender: m
+      - name: Rosalie,
+        role: ungefähr 10 Jahr.
+        gender: f
+    role: seine Geschwister.
+  - name: Christoph von Breitenstein,
+    role: Georgs Spielfreund, ungefähr 13 Jahr.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist eine Stube, eine Thüre im Hintergrunde oder an der Seite. Ein Tisch oder Schrank muß zu sehen sein. Zwei Stühle.
+---
+id: ein002619
+slug: zschaler-wie-du-mir-so-ich-dir-oder-ein-spas-nach-dem-andern
+author:
+  name: Zschaler, Johann Gottfried
+  wikidata: Q131607184
+title: "Wie du mir, so ich dir, oder: Ein Spas nach dem andern"
+subtitle: Posse in Einem Aufzuge
+numOfScenes: 9
+yearPrinted: 1843
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatische Spiele ausschließend für die Jugend bearbeitet von Joh. Gottfried Zschaler. Zweites Bändchen. Zweite Ausgabe. Dresden: Grimm [1843], S. 1–22"
+    url: https://sammlungen.ub.uni-frankfurt.de/benjamin/content/pageview/12065999
+keywords:
+  - Kindertheater
+cast:
+  - name: Franz Moor,
+    role: Sohn eines Kaufmanns. 12 Jahr.
+    gender: m
+  - name: Emma Klitzsch,
+    role: Tochter eines Förster. 10 Jahr.
+    gender: f
+  - group:
+      - name: Robert John.
+        role: 12 Jahr.
+        gender: m
+      - name: Anna John.
+        role: 10 Jahr.
+        gender: f
+    role: Kinder eines Kassirers.
+settings:
+  - description: >-
+      Ein Zimmer im Hause des Herrn John.
 ---
 id: ein002358
 slug: zschokke-der-freiheitsbaum
