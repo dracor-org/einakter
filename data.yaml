@@ -181,6 +181,42 @@ settings:
   - description: >-
       Der Ort der Handlung ist die Wohn- und Arbeitsstube des Bildhauermeisters Gleich. – Gips-Abdrücke, und verschiedene Bildhauer-Arbeiten füllen die Werkstätte und das Zimmer. – Die Meubles sind alt, zeigen vom vormaligen Wohlstande des Besitzers, haben aber schon sehr gelitten.
 ---
+id: ein002636
+slug: adelmi-dichterleiden
+author:
+  pseudonym: H. W. Adelmi
+title: Dichterleiden
+subtitle: Lustspiel in einem Aufzuge und Alexandrinern
+numOfScenes: 13
+yearPrinted: 1834
+formalia:
+  - Alexandriner
+editions:
+  - title: "Aurora. Taschenbuch für das Jahr 1834. Herausgegeben von Johann Gabriel Seidl. Zehnter Jahrgang. Wien: Buchholz [1834], S. 191–240"
+    url: https://books.google.com/books?id=JaVIAAAAcAAJ&pg=PA191
+reviews:
+  - "Der Sammler. Nr. 137 (Donnerstag, den 14. November 1833), [S. 548](https://books.google.com/books?id=rbSznZqXBn4C&pg=PA548)."
+cast:
+  - name: Baron Eichenhorst.
+    gender: m
+  - name: Amalie,
+    role: seine Gattin.
+    gender: f
+  - name: Baron Randau,
+    role: sein Oheim.
+    gender: m
+  - name: Fräulein Sophie von Ringen.
+    gender: f
+  - name: Lange,
+    role: ein Maler.
+    gender: m
+  - name: Friedrich,
+    role: Bedienter im Eichenhorst'schen Hause.
+    gender: m
+settings:
+  - description: >-
+      Das Stück spielt auf dem Landgute des Baron Eichenhorst.
+---
 id: ein000006
 slug: albrecht-die-enterbung-oder-der-buchstabe-des-testaments
 author:
@@ -11421,6 +11457,52 @@ settings:
   - description: >-
       Die Handlung geht in des Herrn von Rosenheim Garten vor. In der Entfernung sieht man ein Lusthaus.
 ---
+id: ein002629
+slug: anonym-die-ungebetenen-gaeste
+author:
+  pseudonym: Anonym
+title: Die ungebetenen Gäste
+subtitle: "Ein Lustspiel in einem Aufzuge. Nach Le chanoine de Milan frey bearbeitet"
+numOfScenes: 18
+yearPrinted: 1798
+formalia:
+  - Prosa
+basedOn:
+  - duval-le-souper-imprevu-ou-le-chanoine-de-milan
+editions:
+  - title: "Leipzig: Feind 1798"
+    url: https://books.google.com/books?id=KstfRx3MbucC&printsec=frontcover
+reviews:
+  - "Allgemeine Literatur-Zeitung. Numero 281 (Mittwochs, den 19. September 1798), [Sp. 631–632](https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00053602/ALZ_1798_Bd.3+4_318.tif)."
+  - "Neue allgemeine deutsche Bibliothek. Des ein und vierzigsten Bandes Erstes Stück. Erstes Heft. Kiel: Bohn 1798, [S. 52](https://books.google.com/books?id=i2Q5AAAAMAAJ&pg=RA1-PA52)."
+cast:
+  - name: General von Wildau,
+    role: Chef eines Hußarenregiments.
+    gender: m
+  - name: von Tellfeld,
+    role: Lieutenant.
+    gender: m
+  - name: Dorwald,
+    role: Wachmeister.
+    gender: m
+  - name: Amtmann Striegel.
+    gender: m
+  - name: Josephine,
+    role: seine Nichte.
+    gender: f
+  - name: Antoinette,
+    role: seine Haushälterin.
+    gender: f
+  - name: Herr von Ast.
+    gender: m
+  - name: Rechtsconsulent Habicht.
+    gender: m
+  - name: Notarius Wachtelpfeife.
+    gender: m
+settings:
+  - description: >-
+      Die Scene ist in einer kleinen Landstadt, in der Nähe eines Lagers.
+---
 id: ein000253
 slug: anonym-die-ungluecklichen-komoedianten
 author:
@@ -17627,6 +17709,49 @@ cast:
     gender: m
 settings:
   - description: Das Stück spielt auf dem Landhause des Marquis.
+---
+id: ein002632
+slug: bernhard-die-eisenbahn-actien-speculanten
+author:
+  name: Bernhard, Gustav
+  wikidata: Q95331696
+title: Die Eisenbahn-Actien-Speculanten
+subtitle: Lustspiel in einem Akt
+numOfScenes: 10
+yearPrinted: 1838
+formalia:
+  - Prosa
+editions:
+  - title: "Familientheater für deutsche Privatbühnen und Dilettanten-Vereine. Herausgegeben von H. Clauren. Erstes Bändchen. Grimma: Verlags-Comptoir 1838, S. 111–137"
+    url: https://books.google.com/books?id=zg9AAQAAMAAJ&pg=PA111
+cast:
+  - name: Reichmann,
+    role: Banquier.
+    gender: m
+  - name: Fanny,
+    role: dessen Tochter.
+    gender: f
+  - name: Adolph Frohwald,
+    role: ein reicher Rittergutsbesitzer.
+    gender: m
+  - name: Alexander Frohwald,
+    role: dessen Neffe, Dr. der Philosophie und Privatdocent in der Handels- und Universitätsstadt Grünthal.
+    gender: m
+  - name: Brei,
+    role: Pastor.
+    gender: m
+  - name: Eine alte Frau.
+    gender: f
+  - name: Ein Subscribentensammler.
+    gender: m
+  - name: Ein Handlungsdiener.
+    gender: m
+  - name: Bediente und Nebenpersonen.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Das Stück spielt in einer deutschen Residenzstadt.
 ---
 id: ein000391
 slug: bernstein-das-eingebrachte-stuendchen-oder-gellert-im-schlafrock
@@ -26726,6 +26851,41 @@ cast:
 settings:
   - description: Die Scene. In der Frau von Thalfort Hause.
 ---
+id: ein002631
+slug: clauren-die-emigranten
+author:
+  name: Heun, Carl
+  pseudonym: H. Clauren
+  wikidata: Q216112
+title: Die Emigranten
+subtitle: Drama in einem Akt
+numOfScenes: 22
+yearPrinted: 1838
+formalia:
+  - Verse
+editions:
+  - title: "Familientheater für deutsche Privatbühnen und Dilettanten-Vereine. Herausgegeben von H. Clauren. Erstes Bändchen. Grimma: Verlags-Comptoir 1838, S. 53–110"
+    url: https://books.google.com/books?id=zg9AAQAAMAAJ&pg=PA53
+cast:
+  - name: Bernhard,
+    role: ein Greis, Besitzer eines Landgutes.
+    gender: m
+  - name: Rosa,
+    role: dessen Tochter.
+    gender: f
+  - name: Martha,
+    role: eine Witwe.
+    gender: f
+  - name: Otto,
+    role: ihr Sohn.
+    gender: m
+  - name: Marie,
+    role: ihre Pflegetochter.
+    gender: f
+settings:
+  - description: >-
+      Der Schauplatz ist im südlichen Frankreich.
+---
 id: ein000583
 slug: clauren-die-folgen-eines-maskenballs
 author:
@@ -32434,6 +32594,17 @@ settings:
   - description: >-
       Die Bühne ist eine Wirthsstube.
 ---
+id: ein002638
+slug: ernesto-das-haus-im-walde
+author:
+  name: Odeleben, Ernst Freiherr von
+  pseudonym: Ernesto
+title: Das Haus im Walde
+subtitle: Geschichtliche Anekdote als Schauspiel in einem Akt
+yearPrinted: 1834
+editions:
+  - title: "Leipzig 1834"
+---
 id: ein000708
 slug: ernst-der-arzt
 author:
@@ -32854,7 +33025,7 @@ yearPrinted: 1826
 formalia:
   - Alexandriner
 editions:
-  - title: "Aurora. Taschenbuch für das Jahr 1826. Herausgegeben von Franz Graeffer. Dritter Jahrgang. Wien: Riedl 1826, S. 147–182"
+  - title: "Aurora. Taschenbuch für das Jahr 1826. Herausgegeben von Franz Graeffer. Dritter Jahrgang. Wien: Riedl [1826], S. 147–182"
     url: https://books.google.com/books?id=kZ9IAAAAcAAJ&pg=PA147
 cast:
   - name: Gräfinn Fanni von Grünau,
@@ -34117,6 +34288,54 @@ settings:
   - description: >-
       Schreibzimmer des Geheimeraths. Auf dem Tische, neben mehreren Akten, ein Armleuchter mit zwei brennenden Lichtern. Es ist Morgens fünf Uhr.
 ---
+id: ein002637
+slug: freygang-geniestreiche
+author:
+  name: Freygang, Wilhelm von
+  pseudonym: "Doctor W. von F*******"
+  wikidata: Q15955386
+title: Geniestreiche
+subtitle: Lustspiel in einem Aufzuge
+numOfScenes: 15
+yearPrinted: 1806
+formalia:
+  - Prosa
+editions:
+  - title: "Göttingen: Dieterich 1806"
+    url: https://books.google.com/books?id=h6tIAAAAcAAJ&printsec=frontcover
+cast:
+  - group:
+      - name: Herr Tannenfeld.
+        gender: m
+      - name: Herr Hochberg.
+        gender: m
+      - name: Herr Field.
+        gender: m
+    role: Relegierte Studenten.
+  - name: Ein Edelmann.
+    gender: m
+  - name: Der Stadtrichter.
+    gender: m
+  - name: Der Stadtbarbier.
+    gender: m
+  - name: Ein alter Magister.
+    gender: m
+  - name: Eine sentimentale Dame.
+    gender: f
+  - name: Ein Kaufmann.
+    gender: m
+  - name: Ein Schneider.
+    gender: m
+  - name: Ein Jude.
+    gender: m
+  - name: Wirth.
+    gender: m
+  - name: Polizeidiener.
+    gender: m
+settings:
+  - description: >-
+      Ein Zimmer.
+---
 id: ein000746
 slug: freytag-der-gelehrte
 author:
@@ -34723,6 +34942,16 @@ cast:
 settings:
   - description: >-
       Die Scene ist in einem Zimmer mit zwei Mittelthüren und einer Seitenthüre. Letzterer gegenüber ein Fenster, neben welchem sich ein Schränkchen mit Pfeifen befindet.
+---
+id: ein002635
+slug: gaedemann-das-gasthaus-zur-silbernen-pumpe
+author:
+  name: Gädemann, Johann
+title: "Das Gasthaus zur silbernen Pumpe, oder Pomrando wird gezahlt"
+subtitle: Posse in Einem Akt
+yearPrinted: 1829
+editions:
+  - title: "Stettin 1829"
 ---
 id: ein000760
 slug: gaensberger-campaspe-oder-die-wahl-der-liebe
@@ -36973,6 +37202,52 @@ settings:
   - description: >-
       Kleines Zimmer mit wenigen ärmlichen Möbeln und zwei Thüren, deren eine im Hintergrunde, die andere dem Zuschauer links. Rechts an der vordersten Kulisse ein schlechtes Schreibpult, auf welchem Papiere und einige Bücher zerstreut liegen. Zur Linken des Pultes ein altmodiger Kleiderschrank mit zwei Thüren, so gestellt, daß die linke Thür, geöffnet, den am Pult Stehenden vor den zur Mittelthür Eintretenden verbergen kann; die rechte Thür desselben ist angelehnt.
 ---
+id: ein002628
+slug: goldschmidt-sein-onkel-und-ihre-tante
+author:
+  name: Goldschmidt, Karl Wilhelm
+  pseudonym: Mand, J. E.
+  wikidata: Q94792015
+title: Sein Onkel und ihre Tante
+subtitle: Lustspiel in einem Akt
+numOfScenes: 23
+yearPrinted: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatisches von J. E. Mand. Erster Band. Berlin: Jonas 1834, S. 1–62"
+    url: https://books.google.com/books?id=udM6AAAAcAAJ&pg=PA1
+cast:
+  - name: Andreas Stresemann,
+    role: Rentier.
+    gender: m
+  - name: Andreas,
+    role: dessen Brudersohn, Referendarius.
+    gender: m
+  - name: Friedrich,
+    role: alter Diener des Stresemann'schen Hauses.
+    gender: m
+  - name: Demoiselle Burgmüller.
+    gender: f
+  - name: Albertine,
+    role: deren Nichte.
+    gender: f
+  - name: Dorothee,
+    role: in Diensten der Dem. Burgmüller.
+    gender: f
+  - name: Casimire,
+    role: Schneider.
+    gender: m
+  - name: Ein junges Mädchen.
+    gender: f
+  - name: Ein Schneiderbursche.
+    gender: m
+settings:
+  - description: >-
+      Berlin
+    location:
+      wikidataId: Q64
+---
 id: ein000808
 slug: gotter-der-verschlag
 author:
@@ -38641,6 +38916,19 @@ settings:
       wikidataId: Q2807
   - description: >-
       Das Atelier der Sophonisbe mit einer Thür in der Mitte und zwei Seitenthüren, von denen die eine in Sophonisbe's, die andere in Minerva's Zimmer führt. Seitwärts eine Ottomane.
+---
+id: ein002624
+slug: guehery-die-bildsaeule-peters-des-grossen
+author:
+  name: Guehery, Louis Amanley de
+  wikidata: Q95340914
+title: Die Bildsäule Peters des Großen
+subtitle: Schauspiel in einem Akt
+yearPrinted: 1804
+editions:
+  - title: "Berlin 1804"
+comments:
+  - "»(Auch zugleich Französisch).« (Das gelehrte Teutschland. Siebenzehnter Band. Fünfte, durchaus vermehrte und verbesserte Ausgabe. Lemgo: Meyer 1820, [S. 813](https://books.google.com/books?id=j1E2AAAAIAAJ&pg=PA813))"
 ---
 id: ein000840
 slug: guehery-die-kosacken
@@ -51942,6 +52230,49 @@ settings:
   - description: >-
       Prachthalle im Pallaste des Crösus. Vermählungsfest des Attys und der Monime. Im Vordergrunde Crösus zwischen den Vermählten an einem mit Speisen und Wein besetzten Tische. Im Hintergrunde mehrere Tische, an welchen die Lydier sitzten. Musik. Während des Gesanges tritt Adrast ein.
 ---
+id: ein002626
+slug: kannegiesser-benvenuto-cellini-und-seine-kraehe
+author:
+  name: Kannegießer, Karl Ludwig
+  wikidata: Q90900
+title: Benvenuto Cellini und seine Krähe
+subtitle: Lustspiel in einem Akt
+numOfScenes: 2
+yearPrinted: 1833
+formalia:
+  - Prosa
+editions:
+  - title: "Taschenbuch zum geselligen Vergnügen. Auf das Jahr 1833. Leipzig: Hartmann [1833], S. 229–254"
+    url: https://books.google.com/books?id=5adTAAAAcAAJ&pg=PA229
+comments:
+  - "Es gibt keine nummerierten Szenen, sondern zwei Handlungsorte: »Cellini's Werkstätte« und »Festlicher Saal«."
+cast:
+  - name: Benvenuto Cellini,
+    role: Goldschmied.
+    gender: m
+  - name: Michel Angelo,
+    role: Bildhauer.
+    gender: m
+  - name: Julio Romano,
+    role: Maler.
+    gender: m
+  - name: Diego,
+    role: Gelehrter.
+    gender: m
+  - name: Laura,
+    role: Cellini's Verwandte.
+    gender: f
+  - name: Pantasilea.
+    gender: f
+  - name: Mehrere Herren und Damen.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Ort: Rom. Zeit: 1524.
+    location:
+      wikidataId: Q220
+---
 id: ein001131
 slug: kannegiesser-der-arme-heinrich
 author:
@@ -52786,7 +53117,7 @@ dictionaries:
     pages: S. 167
     url: "https://digi20.digitale-sammlungen.de/de/fs1/object/goToPage/bsb00040797.html?pageNo=165"
 editions:
-  - title: "W. G. Becker's Taschenbuch zum geselligen Vergnügen. Herausgegeben von Friedrich Kind. Auf das Jahr 1825. Leipzig: Göschen [1822], S. 1–48"
+  - title: "W. G. Becker's Taschenbuch zum geselligen Vergnügen. Herausgegeben von Friedrich Kind. Auf das Jahr 1822. Leipzig: Göschen [1822], S. 1–48"
     url: https://books.google.com/books?id=T89XAAAAcAAJ&pg=RA1-PA1
   - title: "Friedrich Kind's Theaterschriften. Dritter Band. Leipzig: Göschen 1825, S. 209–346"
     url: https://belser.gbv.de/dllm/43180-1.pdf#page=500
@@ -52949,7 +53280,8 @@ settings:
 id: ein001152
 slug: klebe-diess-haus-ist-zu-verkaufen
 author:
-  name: Klebe, A.
+  name: Klebe, Friedrich Albert
+  wikidata: Q94841895
 title: Dieß Haus ist zu verkaufen
 subtitle: Lustspiel in einem Akt. Nach dem Französischen Bürgers Alexander Düval
 numOfScenes: 20
@@ -60195,6 +60527,20 @@ settings:
     location:
       wikidataId: Q456497
 ---
+id: ein002633
+slug: kroneisler-das-oeffentliche-gericht
+author:
+  name: Merkel, Salomon Friedrich
+  pseudonym: Kroneisler, Adolf Emmerich
+  wikidata: Q55912873
+title: Das öffentliche Gericht
+subtitle: Schau- und Redenspiel in Einem Aufzuge
+yearPrinted: 1819
+editions:
+  - title: "Fürstlicher Ernst und Scherz. Zwei Bühnenstücke von Adolf Emmerich Kroneisler. Leipzig: Hartknoch 1819"
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 112 (Junius 1820), [Sp. 431–432](https://books.google.com/books?id=kA8bAAAAYAAJ&pg=RA3-PA431)."
+---
 id: ein002584
 slug: krueger-der-christabend-eines-proletariers
 author:
@@ -65494,6 +65840,48 @@ cast:
 settings:
   - description: >-
       Das Theater stellt eine kleinere Abtheilung der herrschaftlichen Küche vor; an der Seite ein Windofen, in welchem Feuer brennt. Ein Schrank mit Casserollen, Kochlöffeln und anderem Küchengeräth nebst einigen Büchern und ein langer Anrichttisch stehen umher, an jeder Seite eine Thür. Durch den offenen Eingang in der Mitte sieht man die große Küche, worin Alles in voller Thätigkeit ist.
+---
+id: ein002630
+slug: lembert-der-frack-und-die-livree
+author:
+  name: Lembert, Johann Wenzel
+  wikidata: Q17352902
+title: Der Frack und die Livree
+subtitle: Lustspiel in 1 Akt nach Scribe
+premiered: 1824-05-28
+basedOn:
+  - dupaty-scribe-un-dernier-jour-de-fortune
+comments:
+  - "Theaterzettel: [Düsseldorf 1838](https://nbn-resolving.org/urn:nbn:de:hbz:061:2-67486)."
+reviews:
+  - "Abend-Zeitung. Nr. 186 (Mittwoche, am 4. August 1824), [S. 744](https://books.google.com/books?id=jEJEAAAAcAAJ&pg=PA744)."
+cast:
+  - name: Edmund,
+    role: Freiherr von Mohrfeld.
+    gender: m
+  - name: Verwittwete Generalin von Brausewald.
+    gender: f
+  - name: Peter Hecht,
+    role: "ein Bedienter, unter dem Namen: von Hechtensee."
+    gender: m
+  - name: Käthchen,
+    role: Aufwärterin im Gasthofe.
+    gender: f
+  - name: Johann,
+    role: Bedienter des Herrn von Hechtensee.
+    gender: m
+  - group:
+      - name: Erster Kellner.
+        gender: m
+      - name: Zweiter Kellner.
+        gender: m
+  - name: Ein Kutscher.
+    gender: m
+  - name: Ein Reitknecht.
+    gender: m
+settings:
+  - description: >-
+      Der Ort der Handlung ist der Vorsaal eines Gasthofes.
 ---
 id: ein002371
 slug: lembert-der-maennerspiegel
@@ -77414,7 +77802,7 @@ cast:
     gender: m
 ---
 id: ein002452
-slug: plümicke-der-senior
+slug: pluemicke-der-senior
 author:
   name: Plümicke, Karl Martin
   wikidata: Q1543650
@@ -77516,6 +77904,71 @@ cast:
 settings:
   - description: >-
       Ländliche Scene. Rechts ein Landhaus, mit Garten-Anlagen. Links, jenseits eines Baches, über den ein Steg führt, eine Mühle. Der Bach hat hohe Ufer. Das diesseitige Ufer ist terrassenartig mit Blumen und Gesträuchen besetzt.
+---
+id: ein002625
+slug: poser-kaethchens-traum
+author:
+  name: Poser, Fr. v.
+title: Käthchens Traum
+subtitle: Posse in einem Akte
+numOfScenes: 31
+yearPrinted: 1822
+formalia:
+  - Prosa
+editions:
+  - title: "Der Burggeist auf Rodenstein, oder das wilde Heer im Odenwalde. Romantisches Volksmährchen der Pfälzer. Mannheim: Katholische Bürgerhospitals-Buchdruckerei 1822. Anhang, S. 1–78"
+    url: https://books.google.com/books?id=wOIWGGd32RQC&pg=RA1-PA1
+cast:
+  - name: Pamphilius von Viel,
+    role: ein reicher Sonderling.
+    gender: m
+  - name: Frau Grämlich,
+    role: seine Haushälterin.
+    gender: f
+  - name: Professor Schlendrian.
+    gender: f
+  - name: Doctor Schnüffler.
+    gender: m
+  - name: Hr. Aberwitz,
+    role: Herausgeber einer kritischen Zeitschrift, Rezensent und Theater-Kritikus.
+    gender: m
+  - name: Ein Unbekannter.
+    gender: m
+  - name: Preller,
+    role: Gasthwirth zum goldnen Nimmersatt.
+    gender: m
+  - name: Käthchen,
+    role: seine Tochter.
+    gender: f
+  - name: Görge,
+    role: sein Hausknecht.
+    gender: m
+  - name: Salat,
+    role: Notarius und Consulent in Viel's Hause.
+    gender: m
+  - name: Zwey Obrigkeitliche Comissaire.
+    isGroup: true
+    gender: m
+  - group:
+      - name: Redlich.
+        gender: m
+      - name: Biedermann.
+        gender: m
+    role: Bürger.
+  - name: Jean Martin,
+    role: Bedienter in Viel's Hause.
+    gender: m
+  - name: Ein Amtsdiener.
+    gender: m
+  - name: Großmaul,
+    role: Ausrufer.
+    gender: m
+  - name: Herren, Damen, Musikanten.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Stube im Wirthshause.
 ---
 id: ein001696
 slug: praetzel-der-mohr
@@ -90572,7 +91025,7 @@ premiered: 1831-03-07
 formalia:
   - vierhebige gereimte jambische Verse
 editions:
-  - title: "Aurora. Taschenbuch für das Jahr 1833. Herausgegeben von Johann Gabriel Seidl. Neunter Jahrgang. Wien: Buchholz 1833, S. 81–115"
+  - title: "Aurora. Taschenbuch für das Jahr 1833. Herausgegeben von Johann Gabriel Seidl. Neunter Jahrgang. Wien: Buchholz [1833], S. 81–115"
     url: https://www.digitale-sammlungen.de/view/bsb10104863?page=119
 cast:
   - name: Leopold der Glorreiche,
@@ -90595,6 +91048,47 @@ settings:
       Ort der Handlung: Die Aue nächst Wien. Zeit 1205.
     location:
       wikidataId: Q1741
+---
+id: ein002627
+slug: seidl-die-muellerin-von-mainz-oder-das-lobgedicht
+author:
+  name: Seidl, Johann Gabriel
+  wikidata: Q86587
+title: "Die Müllerin von Mainz, oder: Das Lobgedicht"
+subtitle: Scherzspiel in 1 Akte und Versen
+numOfScenes: 12
+yearPrinted: 1840
+premiered: 1834-02-11
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Aurora. Taschenbuch für das Jahr 1840. Herausgegeben von Johann Gabriel Seidl. Sechzehnter Jahrgang. Wien: Riedl [1840], S. 161–200"
+    url: https://www.digitale-sammlungen.de/view/bsb10702149?page=205
+cast:
+  - name: Jakob Müller,
+    role: des Kaisers Rudolph I. von Habsburg Stallmeister.
+    gender: m
+  - name: Wolfram,
+    role: Liedsprecher.
+    gender: m
+  - name: Else,
+    role: Müllerin.
+    gender: f
+  - name: Franz,
+    role: des Kaisers Knappe.
+    gender: m
+  - name: Ein Soldat.
+    gender: m
+  - name: Dienstleute der Müllerin.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Ort der Handlung: Eine Mühle in einem Vorwerke der Stadt Mainz.
+    location:
+      wikidataId: Q1720
+  - description: >-
+      Zeit: Landfriede.
 ---
 id: ein001983
 slug: seipp-die-tobacksdose
@@ -91909,22 +92403,27 @@ settings:
       Das Theater stellt zwey Gärten vor, die durch eine Mauer getrennt werden. Der eine ist Schönbergs Garten, den andern hat seine Frau unter dem Namen Julie Biller gemiethet. In Schönbergs Garten ist eine Laube.
 ---
 id: ein002011
-slug: sonnleithner-die-jaehzornige-frau
+slug: sonnleithner-die-heftige-junge-frau
 author:
   name: Sonnleithner, Joseph
   wikidata: Q86117
-title: Die jähzornige Frau
-subtitle: Lustspiel in einem Aufzuge
-premiered: 1810-02-28
+title: Die heftige junge Frau
+subtitle: Ein Lustspiel in einem Aufzug, nach dem Französischen des Verfassers der kurzen Ehe frey übersetzt
+numOfScenes: 27
+yearPrinted: 1805
+premiered: 1805-05-17
 basedOn:
   - etienne-la-jeune-femme-colere
+editions:
+  - title: "Wien: Pichler 1805"
+    url: https://books.google.com/books?id=nGdTAAAAcAAJ&printsec=frontcover
 comments:
-  - "Theaterzettel: [Weimar 1810](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00056209/1810_0025.tif)."
+  - "Theaterzettel: [Weimar 1810](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00056209/1810_0025.tif) (unter dem Titel »Die jähzornige Frau«)."
 cast:
   - name: Emil von Valrive,
-    role: Dragoner-Rittmeister.
+    role: Dragoner Rittmeister.
     gender: m
-  - name: Rose von Volmar,
+  - name: Rose v. Volmar,
     role: seine Frau.
     gender: f
   - name: Volmar,
@@ -91938,6 +92437,11 @@ cast:
     gender: f
   - name: Ein Jokey.
     gender: m
+settings:
+  - description: >-
+      Die Handlung geht auf Valrives Schloße, 40 Meilen von Paris, vor.
+    location:
+      wikidataId: Q90
 ---
 id: ein002012
 slug: sonnleithner-die-kurze-ehe
@@ -101242,6 +101746,34 @@ cast:
     gender: m
   - name: Aufwärter.
     gender: m
+---
+id: ein002634
+slug: walder-unerwarteter-ersatz
+author:
+  name: Walder, Karl Adolph
+  wikidata: Q105906479
+title: Unerwarteter Ersatz
+subtitle: Ein kleines Drama in einem Aufzuge. Nach Jauffret
+numOfScenes: 10
+yearPrinted: 1803
+formalia:
+  - Prosa
+editions:
+  - title: "Freyberg: Craz und Gerlach 1803"
+    url: https://books.google.com/books?id=Z8xIAAAAcAAJ&pg=RA4-PA1
+cast:
+  - name: Baronin von Seefeld.
+    gender: f
+  - name: Ein Knabe.
+    gender: m
+  - name: Ein Greis.
+    gender: m
+  - name: Julie,
+    role: Kammermädchen der Baronin.
+    gender: f
+settings:
+  - description: >-
+      Zimmer auf dem Landguthe der Baronin.
 ---
 id: ein002227
 slug: walder-verirrung-und-reue

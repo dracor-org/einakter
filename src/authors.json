@@ -503,6 +503,17 @@
     },
     "gender": "male"
   },
+  "Q95331696": {
+    "name": "Gustav Bernhard",
+    "gnd": "130103896",
+    "birth": {
+      "date": "1815-01-01T00:00:00Z",
+      "place": "Rötha",
+      "placeId": "http://www.wikidata.org/entity/Q10776"
+    },
+    "death": {},
+    "gender": "male"
+  },
   "Q1044452": {
     "name": "Caroline Bernstein",
     "gnd": "1036555941",
@@ -1997,6 +2008,21 @@
     },
     "death": {
       "date": "1835-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
+  "Q15955386": {
+    "name": "Wilhelm Freygang",
+    "gnd": "100831443",
+    "birth": {
+      "date": "1783-07-01T00:00:00Z",
+      "place": "Sankt Petersburg",
+      "placeId": "http://www.wikidata.org/entity/Q656"
+    },
+    "death": {
+      "date": "1849-03-31T00:00:00Z",
+      "place": "Venedig",
+      "placeId": "http://www.wikidata.org/entity/Q641"
     },
     "gender": "male"
   },
@@ -3837,6 +3863,21 @@
     },
     "gender": "male"
   },
+  "Q94841895": {
+    "name": "Friedrich Albert Klebe",
+    "gnd": "120031345",
+    "birth": {
+      "date": "1769-09-21T00:00:00Z",
+      "place": "Bernburg",
+      "placeId": "http://www.wikidata.org/entity/Q14938"
+    },
+    "death": {
+      "date": "1843-01-01T00:00:00Z",
+      "place": "München",
+      "placeId": "http://www.wikidata.org/entity/Q1726"
+    },
+    "gender": "male"
+  },
   "Q28494": {
     "name": "Heinrich von Kleist",
     "gnd": "118563076",
@@ -4134,6 +4175,21 @@
       "date": "1810-06-15T00:00:00Z",
       "place": "Wien",
       "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male"
+  },
+  "Q55912873": {
+    "name": "Salomon Friedrich Merkel",
+    "gnd": "12438272X",
+    "birth": {
+      "date": "1760-02-13T00:00:00Z",
+      "place": "Schmalkalden",
+      "placeId": "http://www.wikidata.org/entity/Q489147"
+    },
+    "death": {
+      "date": "1823-02-21T00:00:00Z",
+      "place": "Kassel",
+      "placeId": "http://www.wikidata.org/entity/Q2865"
     },
     "gender": "male"
   },
