@@ -2,27 +2,10 @@ import axios from 'axios';
 import {loadAll, CORE_SCHEMA} from 'js-yaml';
 import {readFileSync, writeFileSync} from 'fs';
 import builder from 'xmlbuilder';
-import {Author, OriginalPlay, Play} from './src/types';
+import {Author, AuthorData, AuthorMap, OriginalPlay, Play} from './src/types';
 
 import authorData from './src/authors.json';
 
-interface AuthorRecord {
-  name: string;
-  gender?: string;
-  gnd?: string;
-  image?: string;
-  birth?: {
-    date?: string;
-    place?: string;
-    placeId?: string;
-  };
-  death?: {
-    date?: string;
-    place?: string;
-    placeId?: string;
-  };
-  ambiguous?: boolean;
-}
 interface Node {
   name: string;
   fullname?: string;
@@ -35,7 +18,7 @@ interface Edge {
   weight: number;
 }
 
-const authors: {[index: string]: AuthorRecord} = {...authorData};
+const authors: AuthorMap = {...authorData};
 
 let data: Play[] = [];
 let originals: OriginalPlay[] = [];
@@ -77,7 +60,7 @@ const authorIds = translatorIds
 const endpoint = 'https://query.wikidata.org/sparql';
 
 async function fetchAuthors() {
-  const results: {[index: string]: AuthorRecord} = {};
+  const results: AuthorMap = {};
   for (let i = 0; i < authorIds.length; i++) {
     const id = authorIds[i];
     const author = authors[id as string];
@@ -116,7 +99,7 @@ WHERE {
           }
           const a = sparqlResults[0];
 
-          const newAuthor: AuthorRecord = {
+          const newAuthor: AuthorData = {
             name: a.authorLabel.value,
             gnd: a.gnd?.value,
             image: a.img?.value,

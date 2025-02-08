@@ -1,25 +1,39 @@
 import {Trans} from '@lingui/react/macro';
 import {Th, Td} from './Statistics';
-import {OriginalPlay} from '../types';
+import {AuthorMap, OriginalPlay} from '../types';
 import {localLanguageName} from '../languages';
 
 const anonRegex = /^An[oó]n/;
 
 interface Props {
+  authors: AuthorMap;
   plays: OriginalPlay[];
   className?: string;
 }
 
-const OriginalStatistics = ({plays = [], className = ''}: Props) => {
+const OriginalStatistics = ({authors, plays = [], className = ''}: Props) => {
   // find non-anonymous authors
+  const ids: {[id: string]: number} = {};
   const names: {[id: string]: number} = {};
   plays.forEach((play: OriginalPlay) => {
-    play.authors?.forEach((a) => {
-      if (!a.name?.match(anonRegex)) {
-        if (a.name) names[a.name] = names[a.name] ? names[a.name] + 1 : 1;
+    play.authors?.forEach(({name, wikidata}) => {
+      if (wikidata && authors[wikidata || '']) {
+        ids[wikidata] = ids[wikidata] ? ids[wikidata] + 1 : 1;
+      } else if (name && !name.match(anonRegex)) {
+        names[name] = names[name] ? names[name] + 1 : 1;
       }
     });
   });
+
+  const authorsWikidata = Object.keys(ids).length;
+  const authorsWithoutId = Object.keys(names).length;
+  const authorsTotal = authorsWikidata + authorsWithoutId;
+  const authorsMale = Object.keys(ids).filter(
+    (id) => authors[id].gender === 'male'
+  ).length;
+  const authorsFemale = Object.keys(ids).filter(
+    (id) => authors[id].gender === 'female'
+  ).length;
 
   const anonymous = plays.filter((p) => {
     return (
@@ -47,7 +61,7 @@ const OriginalStatistics = ({plays = [], className = ''}: Props) => {
         <tbody>
           <tr>
             <Td width="1/6">{plays.length}</Td>
-            <Td width="1/6">{Object.keys(names).length}</Td>
+            <Td width="1/6">{authorsTotal}</Td>
             <Td width="1/6">{anonymous}</Td>
             <td className="w-3/6 pl-0 pb-0">
               {Object.keys(languages)
@@ -76,7 +90,14 @@ const OriginalStatistics = ({plays = [], className = ''}: Props) => {
               <Trans>Number of originals</Trans>
             </Th>
             <Th width="1/6">
-              <Trans>Authors</Trans>
+              <p>
+                <Trans>Authors</Trans>
+              </p>
+              <small className="font-normal whitespace-nowrap">
+                Wikidata: {authorsWikidata}, <br />
+                <Trans>male</Trans>: {authorsMale}, <Trans>female</Trans>:{' '}
+                {authorsFemale}
+              </small>
             </Th>
             <Th width="1/6">
               <Trans>Plays published anonymously</Trans>

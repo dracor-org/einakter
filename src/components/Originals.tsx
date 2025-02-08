@@ -10,6 +10,7 @@ import Table from './Table';
 import Authors from './Authors';
 import TitleCell from './TitleCell';
 import {formatEra} from './Years';
+import authors from '../authors.json';
 
 function Originals() {
   const {plays, originals} = useContext(EinakterContext);
@@ -84,7 +85,11 @@ function Originals() {
         <title>Einakter: Originals</title>
       </Helmet>
       <div>
-        <OriginalStatistics plays={originals} className="mb-2" />
+        <OriginalStatistics
+          authors={authors}
+          plays={originals}
+          className="mb-2"
+        />
         <Table
           columns={columns}
           data={data}

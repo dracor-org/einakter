@@ -1,24 +1,6 @@
 import {ReactNode} from 'react';
 import {Trans} from '@lingui/react/macro';
-import {Play} from '../types';
-
-interface AuthorData {
-  [id: string]: {
-    name: string;
-    gnd?: string;
-    gender?: string;
-    birth?: {
-      date?: string;
-      place?: string;
-      placeId?: string;
-    };
-    death?: {
-      date?: string;
-      place?: string;
-      placeId?: string;
-    };
-  };
-}
+import {AuthorMap, Play} from '../types';
 
 export const Td = ({
   className,
@@ -57,31 +39,33 @@ export const Th = ({
 };
 
 interface Props {
-  authors: AuthorData;
+  authors: AuthorMap;
   plays: Play[];
   className?: string;
 }
 
 const Statistics = ({authors = {}, plays = [], className = ''}: Props) => {
   // find non-anonymous authors without IDs
+  const ids: {[id: string]: number} = {};
   const names: {[id: string]: number} = {};
   plays.forEach((play: Play) => {
-    play.authors?.forEach((a) => {
-      const info = authors[a.wikidata || ''];
-      if (!info && a.pseudonym !== 'Anonym') {
-        if (a.name) names[a.name] = names[a.name] ? names[a.name] + 1 : 1;
+    play.authors?.forEach(({name, pseudonym, wikidata}) => {
+      if (wikidata && authors[wikidata]) {
+        ids[wikidata] = ids[wikidata] ? ids[wikidata] + 1 : 1;
+      } else if (pseudonym !== 'Anonym') {
+        if (name) names[name] = names[name] ? names[name] + 1 : 1;
       }
     });
   });
 
   const authorsWithoutId = Object.keys(names).length;
-  const authorsWikidata = Object.keys(authors).length;
+  const authorsWikidata = Object.keys(ids).length;
   const authorsTotal = authorsWikidata + authorsWithoutId;
-  const authorsMale = Object.values(authors).filter(
-    (a) => a.gender === 'male'
+  const authorsMale = Object.keys(ids).filter(
+    (id) => authors[id].gender === 'male'
   ).length;
-  const authorsFemale = Object.values(authors).filter(
-    (a) => a.gender === 'female'
+  const authorsFemale = Object.keys(ids).filter(
+    (id) => authors[id].gender === 'female'
   ).length;
 
   const anonymous = plays.filter((p) => {

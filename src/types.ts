@@ -24,6 +24,29 @@ export interface Author {
   wikidata?: string;
 }
 
+// Data pulled from Wikidata
+export interface AuthorData {
+  name: string;
+  gender?: string;
+  gnd?: string;
+  image?: string;
+  birth?: {
+    date?: string;
+    place?: string;
+    placeId?: string;
+  };
+  death?: {
+    date?: string;
+    place?: string;
+    placeId?: string;
+  };
+  ambiguous?: boolean;
+}
+
+export interface AuthorMap {
+  [wikidataId: string]: AuthorData;
+}
+
 export interface Coords {
   longitude: number;
   latitude: number;
