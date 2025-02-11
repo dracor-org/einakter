@@ -14088,6 +14088,36 @@ settings:
   - description: >-
       Das Theater stellet einen angenehmen Garten vor mit etlichen hohen Bäumen. Rechter Hand eine große doppelte Glaßthür der Eingang in einen Sommersaal, hintenher der Eingang in eine Allee, welche an der Frau von Haricour Wohnhauß stöst. Linker Hand eine Thür, welche auf die Straß führet: ganz vorn eine Sommer-Laube, mit einer Raßenbanck. Im Grunde des Theaters eine kleine Thür, wodurch man in des Gärtners Zimmer geht: es ist Nacht, der Vollmond scheint durch die Bäum, und macht den ganzen Garten hell.
 ---
+id: ein002642
+slug: anonym-mitten-in-der-nacht
+author:
+  pseudonym: Anonym
+title: Mitten in der Nacht
+subtitle: Posse in einem Acte nach dem Französischen
+numOfScenes: 8
+yearPrinted: 1842
+formalia:
+  - Pros
+editions:
+  - title: "Jahrbuch und Repertorium des Theaters der Stadt Leipzig. Nebst einem Anhange. Herausgegeben von H. L. Barthels, Inspector dieses Theaters. Leipzig: Koppe 1842, S. 12–28"
+    url: https://books.google.de/books?id=biwqAAAAYAAJ&pg=PA12
+cast:
+  - name: Herr Pieseke.
+    gender: m
+  - name: Ein Herr.
+    gender: m
+  - name: Eine Frauen-Stimme.
+    gender: f
+  - name: Eine Hausknechts-Stimme.
+    gender: m
+basedOn:
+  - lockroy-anicet-bourgeois-passe-minuit
+reviews:
+  - "Bohemia. Nro. 14 (25. Jänner 1848), [unpag.](https://books.google.com/books?id=KLteAAAAcAAJ&pg=PP65)"
+settings:
+  - description: >-
+      Zimmer, etwa nur zwei Coulissen tief. – In der Mitte des Hintergrundes ein großes Fenster; rechts vom Fenster eine Thüre; links vom Fenster, aber noch an die Wand des Hintergrundes gelehnt, ein Bett mit einer dunkeln Gardine, die von der Decke herab über einen hölzernen Stab schmal herabhängt über das Hinter- und Vordertheil des Bettes, doch so, daß das Bett en face des Publikums und hinten an der Wand ganz offen und unverkleidet ist. – Links vom Bett, der Stubenthüre gegenüber, eine schmale Alkoventhüre. – Neben ihr, dem Zuschauer zu, steht ein Waschtisch, neben dem Bette zu, ein Nachttisch. – Auf der linken Seite des Zuschauers, neben der Stubenthüre, ein kleiner Ofen, daneben an der Mauer ein kleiner Sims, an der Erde, neben dem Ofen, Holz. – Nahe dabei, an die Wand gelehnt, ein Stiefelleisten. – Vor dem Ofen ein Tisch mit einer Decke, darauf ein Schreibzeug, Papier, eine Stange Siegellack, ein Federmesser, ein kleines Lineal, ein Bund geschnittener Federn und eine Taschenuhr in einem Gehäuse. – Neben dem Tische, dem Ofen zu, ein Lehnstuhl, darauf ein Ueberrock; daneben an der Wand, an einem langen Griffe, ein kupfernes Kohlenbecken, welches mit einem kupfernen Deckel zu verschließen ist. Eine kleine eiserne Kohlenschaufel steht dabei. – Mehrere Stühle. – Es ist Nacht, ein ganz matter Lampenschein dämmmert von der Straße herauf an das Fenster. – Auf dem kleinen Nachttisch brennt in einem Gläschen ein Nachtlämpchen. – Auf dem Schreibtische stehen zwei unangezündete Wachslichter.
+---
 id: ein002436
 slug: anonym-nannette-und-babette-oder-die-angehenden-schauspielerinnen
 author:
@@ -17801,6 +17831,22 @@ settings:
       wikidataId: Q2079
   - description: "Gellerts Studirzimmer mit einem Großvaterstuhl, worauf Schlafrock und Nachtmütze befindlich. Es ist Abend."
 ---
+id: ein002646
+slug: bernstein-rembrandts-meisterstueck
+author:
+  name: Bernstein, Caroline
+  pseudonym: Karoli, E.
+  wikidata: Q1044452
+title: Rembrandts Meisterstück
+subtitle: Dramatisches Charaktergemälde in Versen und einem Acte
+yearPrinted: 1834
+formalia:
+  - Verse
+editions:
+  - title: "Lies mich! Eine Sammlung von Novellen, Erzählungen, Dramen, Gedichten etc. In Verbindung mit beliebten Schriftstellern herausgegeben von W. Jemand. Band 2. Leipzig und Iserlohn: Langewiesche 1834"
+reviews:
+  - "Neues allgemeines Repertorium der neuesten in- und ausländischen Literatur für 1833. Vierter Band. Leipzig: Cnobloch 1833, [S. 7](https://books.google.com/books?id=nFfLo5YHtSAC&pg=PA7)."
+---
 id: ein000392
 slug: bertram-der-mondsuechtige-oder-er-verliehrt-seine-braut-im-schlaf
 author:
@@ -20008,7 +20054,7 @@ yearPrinted: 1821
 premiered: 1817-06-08
 formalia:
   - Prosa
-  - Gesang
+  - Verse
 basedOn:
   - theaulon-le-marin-ou-les-deux-ingenues
 editions:
@@ -22152,8 +22198,8 @@ dictionaries:
 editions:
   - title: "Mannheim: Löffler 1789"
     url: https://books.google.com/books?id=GpNIAAAAcAAJ&printsec=frontcover
-comments:
-  - "Auch unter dem Titel »Die Familie von Lindheim, ein Schauspiel in einem Aufzuge« (1796)."
+  - title: "Auch unter dem Titel »Die Familie von Lindheim. Ein Schauspiel in einem Aufzuge. Mannheim: Löffler 1796"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0000E79700000005
 keywords:
   - untreuer Ehemann
 cast:
@@ -27888,6 +27934,21 @@ settings:
       wikidataId: Q64
   - description: >-
       Anständig meublirtes Zimmer im Silber'schen Hause, mit einer Haupt- und zwei Seitenthüren. Zur Rechten im Vorgrunde ein Tisch mit Schreibmaterialien.
+---
+id: ein002644
+slug: cosmar-leichtsinn-und-leichter-sinn
+author:
+  name: Cosmar, Alexander
+  wikidata: Q19125906
+title: Leichtsinn und leichter Sinn
+subtitle: Lustspiel in einem Aufzug
+yearPrinted: 1827
+editions:
+  - title: "Magdeburg: Heinrichshofen 1827"
+comments:
+  - Es scheint kein Exemplar überliefert zu sein.
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 70 (Montag, 24. März 1828), [S. 279](https://books.google.com/books?id=0RNBAQAAMAAJ&pg=PA279)."
 ---
 id: ein000606
 slug: cosmar-onkel-und-neffe
@@ -34088,6 +34149,42 @@ cast:
 settings:
   - description: >-
       Die Szene ist ein Saal in Morbachs Hause.
+---
+id: ein002639
+slug: frech-von-ehrimfeld-vertrag
+author:
+  name: Frech von Ehrimfeld, Tobias
+  wikidata: Q107711915
+title: Der Vertrag
+subtitle: Ein Lustspiel in einem Aufzug. Nach Marsollier
+numOfScenes: 14
+yearPrinted: 1805
+formalia:
+  - Prosa
+basedOn:
+  - marsollier-le-traite-nul
+editions:
+  - title: "Wien: Wallishausser 1805"
+    url: https://books.google.com/books?id=X2qvNCrIPwQC&printsec=frontcover
+cast:
+  - name: Simon,
+    role: Pächter.
+    gender: m
+  - name: Frühberg.
+    gender: m
+  - name: Frau Morgen.
+    gender: f
+  - group:
+      - name: Pauline,
+        gender: f
+      - name: Hannchen,
+        gender: f
+    role: in Frau Morgens Diensten.
+  - name: Ein Bedienter.
+    gender: m
+settings:
+  - description: >-
+      Die Scene ist die äußere Seite eines Dorfes. Rechts befindet sich Frau Morgens Haus, neben demselben eine Scheune; links eine waldige Gegend.
 ---
 id: ein000741
 slug: frech-von-ehrimfeld-die-arie
@@ -40680,6 +40777,44 @@ settings:
   - description: >-
       Ländliche Gegend; auf der einen Seite ein Edelhof; gegenüber des Schulzen Haus neben andern Bauernhäusern; in der Mitte des Plazes eine Rasenbank unter einer hohen dickbelaubten Linde, an die verschiedene Jagdgewehre gestützt sind.
 ---
+id: ein002649
+slug: halirsch-der-hohe-hirte
+author:
+  name: Halirsch, Ludwig
+  wikidata: Q1368873
+title: Der hohe Hirte
+subtitle: Schauspiel in einem Aufzuge
+numOfScenes: 7
+yearPrinted: 1830
+formalia:
+  - Blankvers
+editions:
+  - title: "Taschenbuch zum geselligen Vergnügen. Herausgegeben von Friedrich Kind. Auf das Jahr 1830. Leipzig: Hartmann [1830], S. 371–402"
+    url: https://books.google.com/books?id=At5iAAAAcAAJ&pg=PA371
+reviews:
+  - "Leipziger Literatur-Zeitung. Nr. 22 (Am 26. des Januar 1830), [Sp. 173](https://books.google.com/books?id=IdtaAAAAcAAJ&pg=PA173)."
+cast:
+  - name: Biörn,
+    role: ein Norweg'scher Heerführer.
+    gender: m
+  - name: Alf,
+    role: dessen Waffengefährte.
+    gender: m
+  - name: Swen,
+    role: ein alter Hirte.
+    gender: m
+  - group:
+      - name: Oskar,
+        gender: m
+      - name: Swanhild,
+        gender: f
+    role: dessen Kinder.
+settings:
+  - description: >-
+      Die Handlung spielt in Skandinavien, der Schauplatz ist eine wilde Waldgegend, rings mit Felsen umgeben.
+  - description: >-
+      Im Vordergrunde Swens Hütte.
+---
 id: ein000878
 slug: halirsch-hanns-sachs
 author:
@@ -43345,7 +43480,7 @@ editions:
   - title: "Neue Lustspiele von Theodor Hell. Leipzig: Hinrichs 1807"
     url: https://books.google.com/books?id=wwwEG7prbzUC&pg=RA1-PP1
 comments:
-  - Einakterhinweis im Inhaltverzeichnis. Auf der Titelseite mit dem Untertitel »Ein Nachspiel«.
+  - Einakterhinweis im Inhaltsverzeichnis. Auf der Titelseite mit dem Untertitel »Ein Nachspiel«.
 cast:
   - name: Donna Lopez,
     role: Französin, vermählt an
@@ -43656,6 +43791,40 @@ settings:
       wikidataId: Q365
   - description: >-
       Die Bühne stellt einen Garten dar. Links eine Mauer, rechts ein Pavillon. Vorn ein Bosket mit Gartenstühlen.
+---
+id: ein002640
+slug: hell-unverhofft
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Unverhofft!
+subtitle: Lustspiel in einem Aufzuge
+numOfScenes: 10
+yearPrinted: 1805
+formalia:
+  - Prosa
+editions:
+  - title: "Lustspiele von Theodor Hell. Erster Band. Leipzig: Weigel 1805"
+    url: https://books.google.com/books?id=1z7rraz_baIC&pg=RA3-PA3
+comments:
+  - Einakterhinweis im [Inhaltsverzeichnis](https://books.google.com/books?id=1z7rraz_baIC&pg=PA1). Auf der Titelseite ohne Untertitel.
+cast:
+  - name: Benjamin Baldix,
+    role: ein Rechenmeister.
+    gender: m
+  - name: Susel,
+    role: seine Schwester.
+    gender: f
+  - name: Emilie,
+    role: beyder Pflegetochter.
+    gender: f
+  - name: Aktuar Mannsfeld.
+    gender: m
+  - name: Weckerton.
+    gender: m
+  - name: Gerichtsgefolge.
+    isGroup: true
+    gender: u
 ---
 id: ein000946
 slug: hell-wer-nimmt-ein-loos
@@ -52190,6 +52359,61 @@ cast:
 settings:
   - description: Die Scene ist auf dem Landgute des Marquis.
 ---
+id: ein002648
+slug: kaltenbrunner-der-streit-um-die-krone
+author:
+  name: Kaltenbrunner, Karl Adam
+  wikidata: Q90187
+title: Der Streit um die Krone
+subtitle: Vorspiel in einem Aufzuge
+numOfScenes: 6
+yearPrinted: 1836
+formalia:
+  - Blankvers
+editions:
+  - title: "Carl A. Kaltenbrunner: Konstantin XI., letzter griechischer Kaiser. Historische Tragödie in fünf Aufzügen. Mit einem Vorspiel: Der Streit um die Krone, in einem Aufzuge. Linz: Gerold 1836, S. 1–14"
+    url: https://books.google.com/books?id=SjJJAAAAcAAJ&pg=PA1
+cast:
+  - group:
+      - name: Andronikus,
+        role: Fürst von Thessalien,
+        gender: m
+      - name: Konstantin,
+        role: Beherrscher von Morea,
+        gender: m
+      - name: Demetrius Porphyrogenitus,
+        gender: m
+    role: Brüder des griechischen Kaisers Johann II.
+  - name: Prinz Calo Komnenus,
+    role: von Trapezunt.
+    gender: m
+  - group:
+      - name: Kantakuzeno,
+        gender: m
+      - name: Kantemir,
+        gender: m
+    role: griechische Fürsten.
+  - name: Notaras,
+    role: Admiral.
+    gender: m
+  - name: Gartuca,
+    role: Hauptmann der kaiserlichen Leibwache.
+    gender: m
+  - name: Georg Pheranzes,
+    role: Geschichtsschreiber und Archonte Konstantins.
+    gender: m
+  - name: Chalil Pascha,
+    role: türkischer Großvezier.
+    gender: m
+  - name: Leibwache, Truppen, Hofstaat, Türken.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Handlung spielt in Konstantinopel, im Jahre 1448.
+    location:
+      wikidataId: Q16869
+---
 id: ein001130
 slug: kannegiesser-adrast
 author:
@@ -52723,6 +52947,7 @@ dictionaries:
     pages: 2. Abteilung, Band 26, S. 324–325
 editions:
   - title: "Wien: Ghelen 1776"
+    url: https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/5295455
 cast:
   - name: Damis
     role: der Zerstreute.
@@ -66893,6 +67118,54 @@ cast:
 settings:
   - description: >-
       Scene: Garten. Hinten Gartenthor. Links Freiberg's Haus. Rechts eine Laube mit Tisch und Gartenstühlen.
+---
+id: ein002641
+slug: lewald-hamburger-in-wien
+author:
+  name: Lewald, August
+  wikidata: Q99351
+title: Hamburger in Wien
+subtitle: Liederposse in einem Akt
+numOfScenes: 12
+yearPrinted: 1832
+premiered: 1829-10-24
+formalia:
+  - Prosa
+  - Verse
+editions:
+  - title: "Almanach Dramatischer Spiele zur geselligen Unterhaltung auf dem Lande. Dreizigster Jahrgang. Hamburg: Hoffmann & Campe 1832, S. 1–68"
+    url: https://books.google.com/books?id=gDUqAAAAYAAJ&pg=PA1
+comments:
+  - "Theaterzettel: [Hamburg 1829](https://www.stadttheater.uni-hamburg.de/system/files/1829-10-24_0.pdf)."
+  - "Hinweis in der [Vorerinnerung](https://books.google.com/books?id=gDUqAAAAYAAJ&pg=PA3): »Holtei's anmuthige Liederposse: ›Wiener in Berlin‹, brachte mich auf den Einfall, eine ähnliche auf die hiesige Bühne zu bringen, welche Hamburgische, oder überhaupt norddeutsche Lebensweise im Kontrast mit Wienerischer auf eine belustigende Art den Zuschauern vorführte.«"
+cast:
+  - name: Frau Grinzinger,
+    role: Gastwirthin zum Hanseaten in Wien, eine geborene Hamburgerin.
+    gender: f
+  - name: Sophie,
+    role: ihre Tochter.
+    gender: f
+  - name: Franziska,
+    role: eine Schauspielerin.
+    gender: f
+  - name: John Adam,
+    role: ein wohlhabender Privatmann aus Hamburg.
+    gender: m
+  - name: John Adam,
+    role: sein Neffe, Handlungsreisender.
+    gender: m
+  - name: Hinrich,
+    role: des alten John Adam's Bedienter.
+    gender: m
+  - name: Muki,
+    role: Kellner im Hanseaten.
+    gender: m
+  - name: Kellner und Dienstboten.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Scene ist im Garten des Hanseaten. Seitwärts das Haus.
 ---
 id: ein001459
 slug: leyding-emirene
@@ -91049,6 +91322,38 @@ settings:
     location:
       wikidataId: Q1741
 ---
+id: ein002647
+slug: seidl-das-monatzimmer
+author:
+  name: Seidl, Johann Gabriel
+  wikidata: Q86587
+title: Das Monatzimmer
+subtitle: Dramatisirte Anekdote in Einem Akt und Alexandrinern
+numOfScenes: 18
+yearPrinted: 1829
+formalia:
+  - Alexandriner
+editions:
+  - title: "Aurora. Taschenbuch für das Jahr 1829. Herausgegeben von Johann Gabriel Seidl. Sechster Jahrgang. Wien: Buchholz [1829], S. 61–120"
+    url: https://books.google.com/books?id=pV46AAAAcAAJ&pg=PA61
+cast:
+  - name: Herr von Rosen.
+    gender: m
+  - name: Frau von Rosen.
+    gender: f
+  - name: Stein,
+    role: Bestandverlasser.
+    gender: m
+  - name: Johann,
+    role: dessen Bedienter.
+    gender: m
+  - name: Thoms,
+    role: Rosens Bedienter.
+    gender: m
+settings:
+  - description: >-
+      Nett eingerichtetes Zimmer mit einer Mittelthür, einer Seitenthür links, und einem Fenster rechts. An Meubeln nur das Nöthigste.
+---
 id: ein002627
 slug: seidl-die-muellerin-von-mainz-oder-das-lobgedicht
 author:
@@ -94477,6 +94782,65 @@ cast:
   - name: Johann.
     gender: m
 ---
+id: ein002643
+slug: stitzl-die-jesuiten-in-leipzig-oder-professor-flasches-katastrophe
+author:
+  name: Stitzl, Julius
+title: Die Jesuiten in Leipzig oder Professor Flasche's Katastrophe
+subtitle: Ein Jammer-, Trauer- und Lustspiel mit einem Prologe, 1 Akte, 6 Auftritten, 3 Szenen, und in zierlichen Reimen
+numOfScenes: 3
+yearPrinted: 1833
+formalia:
+  - Verse
+editions:
+  - title: "Augsburg: Kollmann 1833"
+    url: https://books.google.com/books?id=lUI7AAAAcAAJ&printsec=frontcover
+comments:
+  - "Das Stück wird im Untertitel als Einakter ausgewiesen, die weitere Unterteilung ist aber ungewöhnlich. Der einzige Akt besteht aus drei Szenen mit insgesamt sechs Auftritten (vier davon fallen auf die zweite Szene)."
+reviews:
+  - "Neues allgemeines Repertorium der neuesten in- und ausländischen Literatur für 1833. Zweiter Band. Leipzig: Cnobloch 1833, [S. 186–188](https://books.google.com/books?id=nwIFAAAAQAAJ&pg=PA186)."
+cast:
+  - name: Dr. Flasche,
+    role: weltberühmter Professor in Leipzig.
+    gender: m
+  - name: Debben,
+    role: sein Sekretär.
+    gender: m
+  - name: Dr. Gschrei,
+    role: literärische Figur.
+    gender: m
+  - name: Ein polnischer Jude.
+    gender: m
+  - name: Minna,
+    role: ein Leipziger Fräulein.
+    gender: f
+  - name: Hofräthin Saulus.
+    gender: f
+  - name: Hofräthin Rabe.
+    gender: f
+  - name: Frau von Otto.
+    gender: f
+  - name: Frau von Stark.
+    gender: f
+  - name: Alte Frau Königsberger.
+    gender: f
+  - name: Fräulein Brockhof.
+    gender: f
+  - name: Verkappte Jesuiten oder so Etwas.
+    isGroup: true
+    gender: m
+  - name: Polizei
+    isGroup: true
+    gender: m
+  - name: Zuschauer oder Leser.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Freier Platz mit Leipziger Ansicht.
+    location:
+      wikidataId: Q2079
+---
 id: ein002058
 slug: stoll-amors-bild
 author:
@@ -96890,6 +97254,82 @@ cast:
     gender: m
 settings:
   - description: Der Schauplatz ist auf dem Gute des Herr von Thier.
+---
+id: ein002645
+slug: toussaint-todtenfeier-fuer-leonidas
+author:
+  name: Toussaint, Karl von
+title: Todtenfeier für Leonidas
+subtitle: In einem Aufzuge
+numOfScenes: 3
+yearPrinted: 1822
+formalia:
+  - Blankvers
+editions:
+  - title: "Karl von Toussaint: Leonidas bei Thermopylä. Dramatisches Gedicht in vier Aufzügen und Todtenfeier für Leonidas in einem Aufzuge. Darmstadt: Leske 1822, S. 75–92"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0000A49F00000087
+reviews:
+  - "Ergänzungsblätter zur Allgemeinen Literatur-Zeitung. Nr. 95 (August 1823), [Sp. 759–760](https://books.google.com/books?id=1c0LO0idTpAC&pg=PA759)."
+  - "Morgenblatt für gebildete Stände. Nro. 251 (Montag, 20. October 1823). Kunst-Blatt. Nr. 84 (Montag, den 20. Oktober 1823), [S. 336](https://books.google.com/books?id=sOsIAQAAIAAJ&pg=PA1008)."
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 9 (Januar 1824), [Sp. 71](https://books.google.com/books?id=deo9AQAAMAAJ&pg=PA71)."
+cast:
+  - name: Leotychides,
+    role: erster König zu Sparta, aus dem Stamme der Proklides.
+    gender: m
+  - name: Nisbe,
+    role: Wittwe des Leonidas.
+    gender: f
+  - name: Plistarchus,
+    role: Sohn des Leonidas.
+    gender: m
+  - group:
+      - name: Archias
+        gender: m
+      - name: Kreon
+        gender: m
+    role: Ephoren zu Sparta.
+  - group:
+      - name: Elates
+        gender: m
+      - name: Arkos
+        gender: m
+    role: Krieger.
+  - name: Kardemon,
+    role: ein Greis.
+    gender: m
+  - group:
+      - name: Sydone
+        gender: f
+      - name: Zoe
+        gender: f
+    role: spartanische Mütter.
+  - name: Charikles,
+    role: ein Bürger.
+    gender: m
+  - name: Phinates,
+    role: ein Jüngling.
+    gender: m
+  - name: Sephira,
+    role: ein Mädchen.
+    gender: f
+  - name: Alkomenes,
+    role: ein Knabe.
+    gender: m
+  - name: Zwei Boten.
+    isGroup: true
+    gender: m
+  - name: Fünf Ephoren.
+    isGroup: true
+    gender: m
+  - name: Gruppen von Kriegern, Greisen, Müttern, Männern, Jünglingen, Mädchen und Knaben.
+    isGroup: true
+    gender: u
+  - name: Soldaten und Volk.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Ein öffentlicher Platz. In dessen Mitte ein Trauer-Gerüst um den Sarg des Leonidas, der mit kriegerischen Sinnbildern verziert ist. Rechts fünf erhabene Stühle für die Ephoren. Links drei noch höhere Stühle. Eine Trauermusik fängt an. Bewaffnete Soldaten treten an beide Seiten des Gerüstes, das Volk in den Hintergrund. Die fünf Ephoren in Amtskleidung schliessen den Zug.
 ---
 id: ein002113
 slug: traun-der-hochmuethige-geizige-oder-der-glueckliche-spieler
@@ -107502,6 +107942,41 @@ settings:
       Die Scene ist zu Anfang in Wildheims Schloß; hernach in Walters Wohnung an der Grenze des herzoglichen Gebiet's, in einer Bauernwohnung.
   - description: >-
       Die Handlung fängt mit dem Abend an, und dauert bis Mitternacht.
+---
+id: ein002650
+slug: ziwet-moses-errettung
+author:
+  name: Ziwet, Carl von
+  wikidata: Q95229651
+title: Moses Errettung
+subtitle: "Drama in einem Act. (Nach dem 2ten Kapitel des zweiten Buch Mose.)"
+numOfScenes: 6
+yearPrinted: 1830
+formalia:
+  - Blankvers
+editions:
+  - title: "Berlin: Auf Kosten des Verfassers 1830"
+    url: https://books.google.de/books?id=U3aZJLyj26UC&pg=PA1
+cast:
+  - name: Jochebel,
+    role: Mutter des kleinen Moses.
+    gender: f
+  - name: Mirjam,
+    role: ihre Tochter.
+    gender: f
+  - name: Die Tochter des Königs von Aegypten.
+    gender: f
+  - name: Melite,
+    role: eine ihrer Kammerfrauen.
+    gender: f
+  - name: Mehrere andere ägyptische Weiber, zur Bedienung der Prinzessin gehörig.
+    isGroup: true
+    gender: f
+settings:
+  - description: >-
+      Der Schauplatz ist am Ufer des Nils. Links erheben sich Terrassen, die zum Garten Pharaos führen, rechts ist das Ufer mit Schilf, Gebüsch und Bäumen besetzt.
+    location:
+      wikidataId: Q3392
 ---
 id: ein002618
 slug: zschaler-carl-haelt-wort-oder-der-naescher

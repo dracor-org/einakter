@@ -3755,6 +3755,22 @@
     },
     "gender": "male"
   },
+  "Q90187": {
+    "name": "Carl Adam Kaltenbrunner",
+    "gnd": "116035188",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/K.%20A.%20Kaltenbrunner%20Litho.jpg",
+    "birth": {
+      "date": "1804-12-30T00:00:00Z",
+      "place": "Enns",
+      "placeId": "http://www.wikidata.org/entity/Q260089"
+    },
+    "death": {
+      "date": "1867-01-06T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "gender": "male"
+  },
   "Q90900": {
     "name": "Karl Ludwig Kannegießer",
     "gnd": "116044640",
@@ -8757,6 +8773,17 @@
     },
     "gender": "male",
     "ambiguous": true
+  },
+  "Q95229651": {
+    "name": "Carl von Ziwet",
+    "gnd": "1049808665",
+    "birth": {
+      "date": "1797-12-02T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "death": {},
+    "gender": "male"
   },
   "Q131607184": {
     "name": "Johann Gottfried Zschaler",
