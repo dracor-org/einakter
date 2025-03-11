@@ -17534,6 +17534,60 @@ cast:
 settings:
   - description: "Ort der Handlung: Mathildens Landgut, unweit einer kleinen Stadt."
 ---
+id: ein002652
+slug: benedix-johanna-sebus
+author:
+  name: Benedix, Roderich
+  wikidata: Q87176
+title: Johanna Sebus
+subtitle: Drama in 1 Akt. Aufgeführt in Cleve
+numOfScenes: 23
+yearPrinted: 1835
+formalia:
+  - Prosa
+editions:
+  - title: "Cleve: Char 1835"
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 111 (Juni 1837), [Sp. 407–408](https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00208405/JALZ_1837_Bd2_204.tif)."
+ids:
+  wikidata: Q133258186
+cast:
+  - name: Albers,
+    role: ein reicher Privatmann.
+    gender: m
+  - name: Wittwe Sebus.
+    gender: f
+  - name: Johanna,
+    role: ihre Tochter.
+    gender: f
+  - name: Frau Richter.
+    gender: f
+  - group:
+      - name: Wilhelm,
+        gender: m
+      - name: Friedrich,
+        gender: m
+    role: Soldaten.
+  - group:
+      - name: Erster
+        gender: m
+      - name: Zweiter
+        gender: m
+    role: Fährmann.
+  - group:
+      - name: Erster
+        gender: m
+      - name: Zweiter
+        gender: m
+    role: Bauer.
+  - name: Ein Wirth.
+    gender: m
+  - name: Ein Schmuggler.
+    gender: m
+settings:
+  - description: >-
+      Wirthshaus. Nacht.
+---
 id: ein000388
 slug: benedix-unerschuetterlich
 author:
@@ -33580,6 +33634,40 @@ settings:
       Der Schauplatz ist eine weite Ebene an dem Fuße des Berges Ida. Auf einer Seite siehet man einen Wasserfall von dem Felsen in den vorbeyfliessenden Bach herabstürzen, und auf der andern zeiget sich ein Lustwäldgen. In der Gegend siehet man Schäfchen weiden.
     location:
       wikidataId: Q1127771
+---
+id: ein002654
+slug: foerster-die-todtenfrau
+author:
+  name: Förster, Wilhelm
+  wikidata: Q105070556
+title: Die Todtenfrau
+subtitle: Ein dramatisches Gedicht in Einem Akt
+numOfScenes: 14
+yearPrinted: 1829
+formalia:
+  - Blankvers
+editions:
+  - title: "Berlin: Hayn 1829"
+cast:
+  - name: Eine junge Wittwe.
+    gender: f
+  - name: Ihr Kind,
+    role: ohngefähr 4 Jahr alt.
+    gender: m
+  - name: Dessen Wärterin.
+    gender: f
+  - name: Ein junger Mahler.
+    gender: m
+  - name: Dessen Mutter.
+    gender: f
+  - name: Die Todtenfrau.
+    gender: f
+  - name: Ein Knabe,
+    role: ohngefähr 12 Jahr alt.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung ist in einer großen Stadt von Deutschland.
 ---
 id: ein000729
 slug: foerster-die-wette
@@ -53120,6 +53208,43 @@ settings:
   - description: >-
       Ein kleines Zimmerchen im obersten Gestock des Hotels.
 ---
+id: ein002651
+slug: kind-das-muendel-auf-dem-lande
+author:
+  name: Kind, Johann Friedrich
+  wikidata: Q78246
+title: Das Mündel auf dem Lande
+subtitle: Idyll in Einem Aufzuge
+numOfScenes: 8
+yearPrinted: 1833
+formalia:
+  - Verse
+editions:
+  - title: "Hebe. Eine poetisch-musicalische Toilettengabe. Dresden und Pirna: Friese 1833, S. 73–104"
+    url: https://books.google.com/books?id=OJE6AAAAcAAJ&pg=PA73
+reviews:
+  - "Leipziger Literatur-Zeitung. Nr. 284 (Am 19. des November 1832), [Sp. 2267–2268](https://books.google.com/books?id=IndPAQAAMAAJ&pg=PA2267)."
+cast:
+  - name: Allwing.
+    gender: m
+  - name: Karl,
+    role: sein Sohn.
+    gender: m
+  - name: Brigitte,
+    role: wohlhabende Pachterswittwe.
+    gender: f
+  - name: Evel,
+    role: ihre Tochter, Allwings Mündel.
+    gender: f
+  - name: Heinrich,
+    role: Mühlknappe.
+    gender: m
+  - name: Eine Magd.
+    gender: f
+settings:
+  - description: >-
+      Sonntags Vormittag. – Reizende ländliche Rhein-Gegend, in der Ferne ein Kirchthurm. Im Hintergrunde eine Mühle. Links derselben ein Garten, vor welchem Mühlsteine, Stämme und Geräthschaften liegen, und durch welchen, nahe am Mühlhause vorbei, ein Fußsteig mit offenstehender Thüre führt. Im Garten vorn eine Weinlaube mit ovaler Oeffnung. Rechts im Vorgrunde eine Linde mit einer Bank. – Allwings und Evels Costüm nach dem angegebenen Bilde, womit Hebels Gedicht: »Die Wiese«, zu vergleichen ist; das der Mutter und Magd mit jenem im Einklange und nach dortiger Landtracht.
+---
 id: ein001143
 slug: kind-der-kirchhof-zu-savelthem
 author:
@@ -68018,6 +68143,22 @@ cast:
 settings:
   - description: >-
       Der Schauplatz stellt den Eingang in den Garten der Madame Gerdrut vor, und an dessen Seite ein kleines Gartenhaus.
+---
+id: ein002656
+slug: lohmann-die-nachbarn-oder-die-zudringlichen
+author:
+  name: Lohmann, Wilhelm
+  wikidata: Q37214787
+title: Die Nachbarn oder die Zudringlichen
+subtitle: Lustspiel in einer Aufzuge. Nach dem französischen des Picard, von L.
+yearPrinted: 1801
+basedOn:
+  - picard-les-voisins
+editions:
+  - title: "Hannover: Lohmann 1801"
+  - title: "Goslar: Lohmann 1808"
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 306 (Den 30 December, 1808), [Sp. 616](https://books.google.com/books?id=6sxaAAAAcAAJ&pg=PA615)."
 ---
 id: ein002419
 slug: loof-der-war-angefuehrt
@@ -101964,6 +102105,49 @@ settings:
   - description: >-
       Der Schauplatz zeigt in sanfter Abenddämmerung eine ländliche Gegend mit Valentins Hütte und einer großen Linde, unter welcher Rosine Fritzen auf ihrem Schooße haltend sitzet.
 ---
+id: ein002655
+slug: wagner-der-parvenue-in-paris
+author:
+  name: Wagner, Johann Jakob
+  pseudonym: Le Scharron
+  wikidata: Q87344575
+title: Der Parvenü in Paris
+subtitle: Lustspiel in Einem Aufzuge, von Le Scharron, Verfasser der Novellen aus der neuesten Zeit- und Sittengeschichte
+numOfScenes: 23
+yearPrinted: 1801
+formalia:
+  - Prosa
+editions:
+  - title: "Leipzig: Leupold 1801"
+cast:
+  - name: Rico,
+    role: ein reicher Gutsbesitzer.
+    gender: m
+  - name: Le Franc.
+    gender: m
+  - name: Le Tonnerre.
+    gender: m
+  - name: Babet,
+    role: seine Schwester.
+    gender: f
+  - group:
+      - name: Louis
+        gender: m
+      - name: George
+        gender: m
+    role: in le Franc's Diensten.
+  - group:
+      - name: Antoine
+        gender: m
+      - name: Marie
+        gender: f
+    role: in Rico's Diensten.
+settings:
+  - description: >-
+      Die Handlung ist in Paris im Sommer 1800.
+    location:
+      wikidataId: Q90
+---
 id: ein002221
 slug: wagner-der-wohlthaetige-unbekannte
 author:
@@ -107292,6 +107476,42 @@ cast:
 settings:
   - description: >-
       Die Handlung geht in einer spanischen Provinzstadt vor.
+---
+id: ein002653
+slug: zernecke-philippine-welser
+author:
+  name: Zernecke, Wilhelm Ferdinand
+  wikidata: Q108814554
+title: Philippine Welser
+subtitle: Ein dramatisches Gemälde in Einem Akte
+numOfScenes: 9
+yearPrinted: 1821
+formalia:
+  - Blankvers
+editions:
+  - title: "Danzig: Alberti 1821"
+    url: https://www.digi-hub.de/viewer/image/BV043519457/3/
+cast:
+  - name: Ferdinand der Erste,
+    role: Deutscher Kaiser.
+    gender: m
+  - name: Erzherzog Ferdinand,
+    role: sein Sohn.
+    gender: m
+  - name: Philippine,
+    role: dessen Gattin.
+    gender: f
+  - name: Der Leibarzt des Kaisers.
+    gender: m
+  - name: Ein Kämmerling.
+    gender: m
+settings:
+  - description: >-
+      Zeit der Handlung: das Jahr 1560.
+  - description: >-
+      Ort: Garten neben einem Hause in der Vorstadt von Inspruck.
+    location:
+      wikidataId: Q1735
 ---
 id: ein002594
 slug: ziegelhauser-die-juden
