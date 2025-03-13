@@ -17472,13 +17472,21 @@ subtitle: Lustspiel in einem Aufzuge
 numOfScenes: 6
 yearWritten: 1847
 premiered: 1847
+yearPrinted: 1849
 formalia:
   - Prosa
 editions:
-  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Fünfter Band. Leipzig: Weber 1849, S. 118–150"
+  - title: "Gesammelte Dramatische Werke von Roderich Benedix. Fünfter Band. Leipzig: Weber 1849, S. 119–150"
     url: https://books.google.com/books?id=gCxYhq9eqQ4C&pg=PA119
+  - title: "Haustheater. Sammlung kleiner Lustspiele für gesellige Kreise. Von Roderich Benedix. Fünfte, vermehrte Auflage. Leipzig: Weber 1874, S. 67–90"
+    url: https://books.google.com/books?id=J6UYAAAAYAAJ&pg=PA67
 comments:
-  - Aufführungsbeleg [Wien 10. Dezember 1847](https://books.google.com/books?id=qerTAAAAMAAJ&pg=PA130).
+  - "Theaterzettel: [München 1847](https://books.google.com/books?id=hjFDAAAAcAAJ&pg=RA3-PA2), [Wien 1847](https://www.theatermuseum.at/de/object/1344152/), [München 1888](https://books.google.com/books?id=wbLjqv-zetMC&pg=PP180)."
+reviews:
+  - "Der Humorist. No. 301 (Freitag den 17. Dezember 1847), [S. 1204](https://books.google.com/books?id=hTZOAQAAIAAJ&pg=PA1204)."
+ids:
+  dracor: ger000720
+  wikidata: Q133263257
 cast:
   - name: Ausdorf,
     role: ein reicher Privatmann.
@@ -19327,6 +19335,8 @@ editions:
     url: https://books.google.com/books?id=exFaAAAAcAAJ&printsec=frontcover
 reviews:
   - "Almanach der deutschen Musen auf das Jahr 1781. Leipzig: Weygand [1781], [S. 99](https://www.digitale-sammlungen.de/de/view/bsb10104565?page=115)."
+ids:
+  wikidata: Q133270380
 keywords:
   - bürgerliches Trauerspiel
   - Judentum
@@ -33000,6 +33010,8 @@ comments:
 reviews:
   - "Deutsche Bibliothek der schönen Wissenschaften. Vierter Band. Sechzehentes Stück. Halle: Gebauer 1770, [S. 721–722](https://books.google.com/books?id=AnZcAAAAcAAJ&pg=PA721)."
   - "Almanach der deutschen Musen auf das Jahr 1770. Zwote, verbeßerte und vermehrte Auflage. Leipzig, Berlin und Frankfurt. [S. 86](https://books.google.com/books?id=2mBeAAAAcAAJ&pg=PA86)."
+ids:
+  wikidata: Q133270100
 keywords:
   - bürgerliches Trauerspiel
   - Tugend
@@ -42005,6 +42017,8 @@ dictionaries:
 editions:
   - title: "Prag: Mangoldt 1778"
     url: https://books.google.com/books?id=T1nVG73eJE8C&printsec=frontcover
+ids:
+  wikidata: Q133270749
 keywords:
   - bürgerliches Trauerspiel
   - Mord
@@ -76741,6 +76755,8 @@ comments:
   - 1807 von Alois Gleis zu einem Singspiel in einem Aufzug bearbeitet.
 reviews:
   - "Theaterchronick. Herausgegeben von Christian Heinrich Schmid. Gießen: Krieger 1772, [S. 216–225](https://books.google.com/books?id=otRVAAAAcAAJ&pg=PA216)."
+ids:
+  wikidata: Q133270117
 keywords:
   - bürgerliches Trauerspiel
   - Sklaverei
@@ -77069,6 +77085,8 @@ editions:
     url: https://books.google.com/books?id=katIAAAAcAAJ&printsec=frontcover
   - title: "Theater der Deutschen. Dreyzehender Theil. Königsberg und Leipzig: Kanter 1773, S. 1–30"
     url: https://books.google.com/books?id=S0ZXAAAAcAAJ&pg=PA1
+ids:
+  wikidata: Q133270066
 comments:
   - "Frühestes Aufführungsdatum via [Nachricht von der im Jahre 1758. von Herrn Felix Berner errichteten jungen Schauspieler-Gesellschaft. Wien: Jahn 1786, S. 4–5](http://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/1938922)."
   - Vgl. [14. Stück](https://www.projekt-gutenberg.org/lessing/hamburg/hamb014.html)
@@ -78651,6 +78669,8 @@ editions:
     url: https://books.google.com/books?id=hBFaAAAAcAAJ&printsec=frontcover
 comments:
   - Erstlingswerk, Autor ist eigentlich Schauspieler.
+ids:
+  wikidata: Q133270260
 keywords:
   - bürgerliches Trauerspiel
   - Mord
@@ -91237,6 +91257,8 @@ reviews:
   - "Allgemeines Verzeichniß neuer Bücher mit kurzen Anmerkungen. Nebst einem gelehrten Anzeiger. Auf das Jahr 1777. Zweyten Jahrgangs I. Stück. Januar. [S. 61–62](https://books.google.com/books?id=oNFbAAAAcAAJ&pg=PA61): »Dieses Trauerspiel, dessen Verfasser Herr Schink seyn soll, […]«."
   - "Notiz poetischer Neuigkeiten von der Michaelmesse 1775 und Ostermesse 1776. In: Almanach der deutschen Musen auf das Jahr 1777. Leipzig: Weygand [1777], [S. 94](https://books.google.com/books?id=mE5XAAAAcAAJ&pg=PA94)."
   - "Zugabe zu den Göttingischen gelehrten Anzeigen. 11tes Stück (Den 15. März 1777), [S. 175](https://books.google.com/books?id=gPkDAAAAMAAJ&pg=PA175)."
+ids:
+  wikidata: Q133270197
 keywords:
   - bürgerliches Trauerspiel
   - Mord
@@ -94094,6 +94116,50 @@ settings:
       wikidataId: Q2079
   - description: >-
       Die Scene ist ein kleines, ärmliches Dachstübchen.
+---
+id: ein002657
+slug: stein-die-nymphe-der-spree
+author:
+  name: Stein, Karl
+  wikidata: Q55193372
+title: Die Nymphe der Spree
+subtitle: Posse in einem Akt
+numOfScenes: 11
+yearPrinted: 1807
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Littfas 1807"
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 100 (den 28 April, 1807), [Sp. 190](https://zs.thulb.uni-jena.de/receive/jportal_jparticle_00061221)."
+cast:
+  - name: Herr Distelkopf,
+    role: Gutsbesitzer.
+    gender: m
+  - name: Gustav Albers,
+    role: sein Mündel.
+    gender: m
+  - name: Michel,
+    role: sein Bedienter.
+    gender: m
+  - name: Wittwe Thomas,
+    role: eine Fischerin.
+    gender: f
+  - group:
+      - name: Gretchen
+        gender: f
+      - name: Hannchen
+        gender: f
+    role: deren Nichten. Geschwister.
+  - name: Landleute.
+    isGroup: true
+    gender: u
+  - name: Furien.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Scene ist im Garten auf dem Gute des Herrn Distelkopf.
 ---
 id: ein002042
 slug: stein-die-zurueckkunft-des-fuersten
