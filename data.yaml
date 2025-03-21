@@ -17558,7 +17558,10 @@ editions:
 reviews:
   - "Jenaische Allgemeine Literatur-Zeitung. Num. 111 (Juni 1837), [Sp. 407–408](https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00208405/JALZ_1837_Bd2_204.tif)."
 ids:
+  dracor: ger000721
   wikidata: Q133258186
+keywords:
+  - Umwelt
 cast:
   - name: Albers,
     role: ein reicher Privatmann.
@@ -17595,6 +17598,8 @@ cast:
 settings:
   - description: >-
       Wirthshaus. Nacht.
+    location:
+      wikidataId: Q1546536
 ---
 id: ein000388
 slug: benedix-unerschuetterlich
