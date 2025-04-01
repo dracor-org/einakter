@@ -1397,6 +1397,21 @@
     },
     "gender": "male"
   },
+  "Q55678314": {
+    "name": "Heinrich Jakob David",
+    "gnd": "141942266",
+    "birth": {
+      "date": "1812-08-19T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
+    },
+    "death": {
+      "date": "1839-02-26T00:00:00Z",
+      "place": "Hamburg",
+      "placeId": "http://www.wikidata.org/entity/Q1055"
+    },
+    "gender": "male"
+  },
   "Q55876496": {
     "name": "Johann Hinrich Decker",
     "gnd": "104277041",
@@ -2640,6 +2655,18 @@
       "date": "1796-05-20T00:00:00Z",
       "place": "Hannover",
       "placeId": "http://www.wikidata.org/entity/Q1715"
+    },
+    "gender": "male",
+    "ambiguous": true
+  },
+  "Q60844048": {
+    "name": "Karl Anton Gruber von Grubenfels",
+    "gnd": "130167754",
+    "birth": {
+      "date": "1760-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1833-01-01T00:00:00Z"
     },
     "gender": "male",
     "ambiguous": true
@@ -5211,8 +5238,16 @@
   "Q122171604": {
     "name": "Valentin Christoph Möller",
     "gnd": "139684891",
-    "birth": {},
-    "death": {},
+    "birth": {
+      "date": "1734-10-11T00:00:00Z",
+      "place": "Rostock",
+      "placeId": "http://www.wikidata.org/entity/Q2861"
+    },
+    "death": {
+      "date": "1820-04-06T00:00:00Z",
+      "place": "Lüneburg",
+      "placeId": "http://www.wikidata.org/entity/Q3920"
+    },
     "gender": "male"
   },
   "Q55675056": {

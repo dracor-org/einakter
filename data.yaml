@@ -4041,12 +4041,14 @@ editions:
     url: https://books.google.com/books?id=ESNeAAAAcAAJ&pg=PA187
   - title: "Wien: Krauß 1767"
     url: https://books.google.com/books?id=H9ZUAAAAcAAJ&printsec=frontcover
+  - title: "Wien: Krauß 1768"
+    url: https://books.google.com/books?id=Yx9dAAAAcAAJ&printsec=frontcover
   - title: "Gesammelte Schriften zum Vergnügen und Unterricht. Zweytes Stück. Wien: Trattner 1769, S. 3–55"
     url: https://books.google.com/books?id=SlxlAAAAcAAJ&pg=PA3
 comments:
   - "Die Version [1759 (anonym)](anonym-la-pupille-die-muendel) mit dem leicht anderen Titel »Die Mündel« könnte identisch mit dieser sein."
   - Hinweis auf Einaktigkeit (»von einer Handlung«) erst im Druck 1767.
-  - Meyer (Band 22, S. 129) kritisiert zurecht die Vermutung, dass Karl Franz Romanus (geb. 1731) der Übersetzer sei.
+  - Meyer (Band 22, S. 129) kritisiert zu Recht die Vermutung, dass Karl Franz Romanus (geb. 1731) der Übersetzer sei.
 cast:
   - name: Arist.
     gender: m
@@ -11688,6 +11690,51 @@ cast:
   - name: Eine Tante, mit ihrer Nichte.
     isGroup: true
     gender: f
+---
+id: ein002659
+slug: anonym-die-vendetta-oder-die-korsikanische-rache
+author:
+  name: G., L. V.
+  pseudonym: Anonym
+title: Die Vendetta oder die korsikanische Rache
+subtitle: "Posse in einem Aufzuge. Nach dem Französischen bearbeitet"
+numOfScenes: 16
+yearPrinted: 1843
+formalia:
+  - Prosa
+basedOn:
+  - dumanoir-siraudin-la-vendetta
+editions:
+  - title: "Karlsruhe: Macklot 1843"
+    url: https://books.google.com/books?id=vjGG6LqHvIwC&printsec=frontcover
+reviews:
+  - "Allgemeine Theater-Chronik. Organ für das Gesammtinteresse der deutschen Bühnen und ihrer Mitglieder. Zwölfter Jahrgang. No. 140 (Leipzig, den 22. November 1843), [S. 559](https://books.google.com/books?id=9Y2hrwM19QcC&pg=RA1-PA559)."
+cast:
+  - name: Ursino Jacopo,
+    role: Wirth.
+    gender: m
+  - name: Colomba,
+    role: seine Tochter.
+    gender: f
+  - name: Leoni,
+    role: beabschiedeter Chasseur d'Afrique.
+    gender: m
+  - name: Jacopo,
+    role: ein junger Pariser, Ursino's Neffe.
+    gender: m
+  - name: Rinaldini.
+    gender: m
+  - name: Durand,
+    role: Brigadier der Gendarmerie.
+    gender: m
+  - name: Zwei Gendarmen.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Das Stück spielt im Dorfe Vescovato auf der Insel Korsika.
+    location:
+      wikidataId: Q653219
 ---
 id: ein000257
 slug: anonym-die-vereinigte-familie
@@ -29579,6 +29626,76 @@ settings:
   - description: >-
       Die Szene ist in Frankenbergs Hause.
 ---
+id: ein002658
+slug: david-eine-nacht-auf-wache
+author:
+  name: David, Heinrich Jakob
+  wikidata: Q55678314
+title: Eine Nacht auf Wache
+subtitle: Vaudeville in einem Aufzuge
+numOfScenes: 22
+yearPrinted: 1838
+premiered: 1835-12-30
+formalia:
+  - Prosa
+  - Verse
+editions:
+  - title: "Hamburg: Hoffmann und Campe 1838"
+    url: https://books.google.com/books?id=z0ouAAAAYAAJ&printsec=frontcover
+reviews:
+  - "Thalia. Norddeutsche Theater-Zeitung, Kunst- und schönwissenschaftliches Unterhaltungs-Blatt. Erster Jahrgang (1836), No. 13, [Sp. 104](https://books.google.com/books?id=XIdEAAAAcAAJ&pg=PA103)."
+comments:
+  - "In der [Vorrede](https://books.google.com/books?id=z0ouAAAAYAAJ&pg=PR1) zu diesem Lokalstück lässt der Autor die bisherigen Aufführungen Revue passieren und zitiert aus Rezensionen."
+  - "Hinweis [auf Seite 1](https://books.google.com/books?id=z0ouAAAAYAAJ&pg=PA1): »Zum erstenmale aufgeführt auf dem **Zweiten Theater** am 30. December 1835, und bis jetzt 128 Mal wiederholt; später auch aufgeführt auf den Stadttheatern zu Altona, Bremen, Frankfurt a/M., Lübeck etc.«"
+cast:
+  - name: Der Lieutenant.
+    gender: m
+  - name: Müller,
+    role: Korporal.
+    gender: m
+  - name: Heitmann,
+    role: Gefreiter.
+    gender: m
+  - group:
+      - name: Snaakenkopp,
+        gender: m
+      - name: Swebel,
+        gender: m
+      - name: Marcus,
+        gender: m
+      - name: Krüsel,
+        gender: m
+      - name: Tachel,
+        gender: m
+      - name: Wokein,
+        gender: m
+      - name: Poduck,
+        gender: m
+      - name: Grantmeier,
+        gender: m
+    role: Gardisten.
+  - name: Sladropp,
+    role: Tambour.
+    gender: m
+  - name: Kööben,
+    role: Kalfakter.
+    gender: m
+  - name: Ernst Treumann.
+    gender: m
+  - name: Louise,
+    role: seine Frau.
+    gender: f
+  - name: Ein Nachtwächter.
+    gender: m
+  - name: Ein Arrestant.
+    gender: m
+  - name: Frau Annermann,
+    role: Swebels Nachberin.
+    gender: f
+settings:
+  - description: >-
+      Die Handlung spielt in einer Wache, von 11 Uhr Abends bis zum andern Morgen um 5 Uhr.
+---
 id: ein000639
 slug: decker-der-versuch-oder-eitelkeit-und-herzensguete
 author:
@@ -34256,7 +34373,7 @@ settings:
       Die Szene ist ein Saal in Morbachs Hause.
 ---
 id: ein002639
-slug: frech-von-ehrimfeld-vertrag
+slug: frech-von-ehrimfeld-der-vertrag
 author:
   name: Frech von Ehrimfeld, Tobias
   wikidata: Q107711915
@@ -38556,6 +38673,50 @@ reviews:
 comments:
   - "Bearbeitung von [»Wer wird sie kriegen?«](eckardt-wer-wird-sie-kriegen) (1780) von Friedrich Eckardt."
 ---
+id: ein002660
+slug: gruber-von-grubenfels-besserung-nach-dem-fall-veredelt-den-menschen
+author:
+  name: Gruber von Grubenfels, Karl Anton
+  wikidata: Q60844048
+title: Besserung nach dem Fall veredelt den Menschen
+subtitle: Schauspiel in einem Aufzuge vom Verfasser der Negersklaven
+numOfScenes: 13
+yearPrinted: 1794
+premiered: 1791
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 31, S. 343
+editions:
+  - title: "[Ohne Ort: ohne Jahr]"
+    url: http://data.onb.ac.at/rep/10274132
+comments:
+  - "Laut Meyer auch unter dem Alternativtitel: »Die verliebten Thorheiten und Beßrung nach dem Fall. (Aufgef. 1791/92 von der Seippischen Truppe in Preßburg.)«"
+cast:
+  - name: Der Fürst.
+    gender: m
+  - name: Vater Wolf,
+    role: ein Bauer.
+    gender: m
+  - name: Anne,
+    role: dessen Weib.
+    gender: f
+  - name: Lieschen,
+    role: ihre Tochter.
+    gender: f
+  - name: Kammerjunker von Kettenheim.
+    gender: m
+  - name: Karl,
+    role: Kettenheims Söhnchen.
+    gender: m
+  - name: Gefolge des Fürsten und Bauern.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Handlung geht auf dem Lande vor.
+---
 id: ein002609
 slug: gruenewald-der-weber
 author:
@@ -39471,6 +39632,52 @@ cast:
     gender: m
 settings:
   - description: Die Scene ist im gemeinschaftlichen Saale eines Gasthauses.
+---
+id: ein002661
+slug: guttenberg-das-neujahrgeschenk
+author:
+  name: Guttenberg, Andreas Josef von
+  wikidata: Q94889736
+title: Das Neujahrgeschenk
+subtitle: Eine Gelegenheitsposse in einem Akte, frey nach dem Französischen
+numOfScenes: 19
+yearPrinted: 1804
+formalia:
+  - Prosa
+editions:
+  - title: "Leipzig: Stage [1804]"
+    url: https://books.google.com/books?id=1ykcsVqp0_4C&printsec=frontcover
+reviews:
+  - "Neue allgemeine deutsche Bibliothek. Hundert und ersten Bandes Zweytes Stück. Fünftes Heft. Berlin und Stettin: Nicolai 1805, [S. 273–274](https://books.google.com/books?id=gl9LAAAAcAAJ&pg=RA2-PA273)."
+comments:
+  - "Hinweis auf der Titelseite: »Für das Kaiserl. Königl. privilegirte Theater an der Wien, und auch aufgeführt daselbst zum erstenmale.«"
+cast:
+  - name: Herr von Werdenau.
+    gender: m
+  - name: Karl von Werdenau,
+    role: sein Neffe.
+    gender: m
+  - name: Herr von Tannenbusch.
+    gender: m
+  - name: Friedericken
+    role: seine Tochter.
+    gender: f
+  - name: Franz,
+    role: Jockay bey dem ältern Werdenau.
+    gender: m
+  - name: Lise,
+    role: eine Bauersfrau, Franzens Mutter.
+    gender: f
+  - name: Lotterieschreiber Bock.
+    gender: m
+  - name: Mehrere Bediente.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Das Stück spielt in Wien, in dem Hause des ältern Herrn von Werdenau.
+    location:
+      wikidataId: Q1741
 ---
 id: ein000847
 slug: guttenberg-der-arzt-und-das-mittel
@@ -50687,7 +50894,7 @@ author:
   wikidata: Q215115
 title: Die Müßiggänger
 subtitle: Lustspiel in Einem Act. Aus dem Französischen des Picard
-numOfScenes: 14
+numOfScenes: 34
 yearPrinted: 1812
 premiered: 1811-11-06
 formalia:
@@ -50700,6 +50907,8 @@ dictionaries:
 editions:
   - title: "Berlin: Braunes 1812"
     url: https://books.google.com/books?id=FT-94XtOXcsC&printsec=frontcover
+  - title: "Beiträge für die Deutsche Schaubühne. In Uebersetzungen und Bearbeitungen ausländischer Schauspieldichter. Von August Wilhelm Iffland. Vierter Band. Berlin: Braunes 1812, S. 119–190"
+    url: https://books.google.com/books?id=gQdTAAAAcAAJ&pg=PA119
   - title: "Deutsche Schaubühne; oder dramatische Bibliothek der neuesten Lust- Schau- Sing- und Trauerspiele. Dreizehnter Band. Augsburg und Leipzig: Stage [1813], S. 271–322"
     url: https://books.google.com/books?id=sC87AAAAcAAJ&pg=PA271
 cast:
@@ -77798,6 +78007,8 @@ numOfScenes: 14
 yearPrinted: 1835
 formalia:
   - Prosa
+basedOn:
+  - lockroy-anicet-bourgeois-pourquoi
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band VII, No. 49. Berlin: Hayn 1835, S. 861–871"
     url: https://books.google.com/books?id=pd_3fqU7r3AC&pg=PA861

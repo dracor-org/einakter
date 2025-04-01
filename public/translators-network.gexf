@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://gexf.net/1.2" version="1.2">
-  <meta lastmodifieddate="2025-03-11T15:15:18.750Z">
+  <meta lastmodifieddate="2025-04-01T08:57:29.282Z">
     <creator>einakter.dracor.org</creator>
     <description>Einakter translators network</description>
   </meta>
@@ -2132,6 +2132,13 @@
           <attvalue for="translated-author" value="true"/>
         </attvalues>
       </node>
+      <node id="Q108662662" label="Friedrich Pitt">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="true"/>
+          <attvalue for="translated-author" value="false"/>
+        </attvalues>
+      </node>
       <node id="Q94874028" label="Johann von Plötz">
         <attvalues>
           <attvalue for="gender" value="male"/>
@@ -3331,6 +3338,8 @@
       <edge id="Q77742|Q3083492" source="Q77742" target="Q3083492" weight="1"/>
       <edge id="Q55912682|Q3480860" source="Q55912682" target="Q3480860" weight="1"/>
       <edge id="Q55912682|Q24248476" source="Q55912682" target="Q24248476" weight="1"/>
+      <edge id="Q108662662|Q444663" source="Q108662662" target="Q444663" weight="1"/>
+      <edge id="Q108662662|Q255324" source="Q108662662" target="Q255324" weight="1"/>
       <edge id="Q94874028|Q319261" source="Q94874028" target="Q319261" weight="1"/>
       <edge id="Q94874028|Q5980791" source="Q94874028" target="Q5980791" weight="1"/>
       <edge id="Q94874028|Q3526392" source="Q94874028" target="Q3526392" weight="1"/>
