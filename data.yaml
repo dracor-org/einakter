@@ -17338,6 +17338,8 @@ editions:
     url: https://books.google.com/books?id=Ln0FAQAAIAAJ&pg=RA1-PA289
   - title: "Boston: Urbino 1870"
     url: https://books.google.com/books?id=08cOAAAAYAAJ&printsec=frontcover
+ids:
+  wikidata: Q133808196
 cast:
   - name: Gustav,
     role: ein junger Förster.
@@ -21784,7 +21786,7 @@ editions:
   - title: "Thaliens Spenden für Bühnen und Privattheater von C. Ph. Bonafont. Zweiter Band. Leipzig: Kaiser 1826, S. 1–50"
     url: https://books.google.com/books?id=qAU-AQAAMAAJ&l&pg=PA1
 comments:
-  - "Hinweis unter dem Personenverzeichnis: »Dieses kleine, nur zwei Personen erfordernde Bühnenspiel, eignet sich vorzüglich für Gesellschaftstheater uns selbst zur Darstellung in einem Salon, wo mit Hülfe einiger sogenannte spanische Wände, eine Art von Theater leicht eingerichtet werden kann.«"
+  - "Hinweis unter dem Personenverzeichnis: »Dieses kleine, nur zwei Personen erfordernde Bühnenspiel, eignet sich vorzüglich für Gesellschaftstheater und selbst zur Darstellung in einem Salon, wo mit Hülfe einiger sogenannten spanischen Wände, eine Art von Theater leicht eingerichtet werden kann.«"
 keywords:
   - Verstellspiel
   - Verkleidungsspiel
@@ -29343,7 +29345,7 @@ comments:
   - "Die drei Szenen entsprechen jeweils Schauplatzwechseln und sind nicht durchnummeriert."
   - 1776 zu einem einaktigen Singspiel umgearbeitet, Musik von Christian Gottlob Neefe.
 reviews:
-  - "Gothaische gelehrte Zeitungen. Fünftes Stück (den siebenzehnten Januar 1776), [Sp. 33–34](https://books.google.com/books?id=wtc9AQAAMAAJ&pg=PA33)."
+  - "Gothaische gelehrte Zeitungen. Fünftes Stück (den siebenzehnten Januar 1776), [S. 33–34](https://books.google.com/books?id=wtc9AQAAMAAJ&pg=PA33)."
 ---
 id: ein000634
 slug: d-arien-nina-oder-wahnsinn-aus-liebe
@@ -33678,6 +33680,33 @@ premiered: 1784-07-09
 comments:
   - "Kein Eintrag bei Meyer. Hinweise auf das Manuskript in: Karl Hayo von Stockmayer: Das deutsche Soldatenstück des XVIII. Jahrhunderts seit Lessings Minna von Barnhelm. Weimar: Felber 1898, [S. 108](https://archive.org/details/dasdeutschesold00stocgoog/page/n127/mode/2up), sowie in: Die Handschriften der Großherzoglich-Badischen Hof- und Landesbibliothek in Karlsruhe. Band IV. Karlsruhe: Groos 1896, [S. 23](https://books.google.com/books?id=C40DAAAAYAAJ&pg=PA23)."
 ---
+id: ein002664
+slug: fleischer-domestikenstreiche
+author:
+  name: Fleischer, K. F. W.
+  wikidata: Q133877043
+title: Domestikenstreiche
+subtitle: Lustspiele in einem Aufzuge
+numOfScenes: 13
+yearPrinted: 1829
+formalia:
+  - Alexandriner
+basedOn:
+  - dubois-marton-et-frontin-ou-assaut-de-valets
+editions:
+  - title: "Neues deutsches Original-Theater. Herausgegeben von S. W. Schießler. Erstes Bändchen neuer Folge. Prag: Enders 1829, S. 123–168"
+    url: https://books.google.com/books?id=gz1XAAAAcAAJ&pg=PA123
+comments:
+  - "Schreibweise des Titels auf dem Deckblatt des Bandes: »Domestiquen-Streiche«."
+cast:
+  - name: Lottchen.
+    gender: f
+  - name: August.
+    gender: m
+settings:
+  - description: >-
+      Zimmer.
+---
 id: ein000727
 slug: floto-das-sonntagsraeuschchen
 author:
@@ -37766,6 +37795,8 @@ keywords:
   - Rolle der Frau
   - Mord
   - tragischer Ausgang
+ids:
+  wikidata: Q131753547
 cast:
   - name: Ahasver,
     role: König in Persien.
@@ -83132,6 +83163,41 @@ settings:
   - description: >-
       Vorzimmer, mit einer Haupt- und einer Seitenthüre.
 ---
+id: ein002662
+slug: rochlitz-die-neuvermaehlten
+author:
+  name: Rochlitz, Friedrich
+  wikidata: Q71502
+title: Die Neuvermählten
+subtitle: Lustspiel in einem Akt
+numOfScenes: 1
+yearPrinted: 1816
+formalia:
+  - Prosa
+editions:
+  - title: "Neue Erzählungen von Friedrich Rochlitz. In zwey Bänden. Erster Band. Leipzig und Züllichau: Darnmann 1816, S. 291–370"
+    url: https://books.google.com/books?id=Rk0J3ix3vKQC&pg=PA291
+cast:
+  - name: Waller.
+    gender: m
+  - name: Julius,
+    role: sein Neffe.
+    gender: m
+  - name: Aline,
+    role: dessen Frau.
+    gender: f
+  - name: Charlotte,
+    role: Wallers Mündel.
+    gender: f
+  - name: Gustav,
+    role: Alinens Bruder.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+settings:
+  - description: >-
+      Scene: ein großes Gesellschaftszimmer, mit einer Mittelthür und zwey Seitenthüren, auf Wallers Landgute.
+---
 id: ein001793
 slug: rochlitz-gleich-und-gleich
 author:
@@ -83253,7 +83319,7 @@ numOfScenes: 10
 yearPrinted: 1887
 premiered: 1805-12-02
 editions:
-  - title: "Goethe Briefwechsel mit Friedrich Rochlitz. Herausgeber: Woldemar Freiherr von Biedermann. Leipzig: Biedermann 1887, S. 422–450"
+  - title: "Goethes Briefwechsel mit Friedrich Rochlitz. Herausgeber: Woldemar Freiherr von Biedermann. Leipzig: Biedermann 1887, S. 422–450"
     url: https://books.google.com/books?id=-L0MAQAAIAAJ&pg=PA422
 comments:
   - "Theaterzettel: [Weimar 1805](https://staatsarchive.thulb.uni-jena.de/rsc/viewer/ThHStAW_derivate_00046239/002555.tif)."
@@ -102832,6 +102898,37 @@ cast:
   - name: Heinrich,
     role: dessen Bedienter.
     gender: m
+---
+id: ein002663
+slug: wallenrodt-noch-jemands-ankunft-auf-st-helena
+author:
+  name: Wallenrodt, Louis von
+  wikidata: Q131994520
+title: Noch Jemand's Ankunft auf St. Helena
+subtitle: Nachspiel in Einem Akt
+numOfScenes: 7
+yearPrinted: 1816
+premiered: 1816-03-13
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Königsberg: Fresser 1816"
+    url: https://books.google.com/books?id=cvhBAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Noch Jemand.
+    gender: m
+  - name: Madame B...
+    gender: f
+  - name: Eine Erscheinung.
+    gender: m
+  - name: Sechs Mann Gefolge.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Das Theater stellt einen freien Platz auf der Insel vor; rechts das für Noch Jemand erbaute Haus, im Hintergrunde das Meer.
+    location:
+      wikidataId: Q34497
 ---
 id: ein002229
 slug: walz-einwilligung-wider-willen
