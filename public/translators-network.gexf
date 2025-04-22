@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://gexf.net/1.2" version="1.2">
-  <meta lastmodifieddate="2025-04-01T08:57:29.282Z">
+  <meta lastmodifieddate="2025-04-22T14:44:24.648Z">
     <creator>einakter.dracor.org</creator>
     <description>Einakter translators network</description>
   </meta>
@@ -858,6 +858,20 @@
           <attvalue for="translated-author" value="false"/>
         </attvalues>
       </node>
+      <node id="Q2444307" label="Félix Arvers">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="false"/>
+          <attvalue for="translated-author" value="true"/>
+        </attvalues>
+      </node>
+      <node id="Q21393296" label="Antonin d'Avrecourt">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="false"/>
+          <attvalue for="translated-author" value="true"/>
+        </attvalues>
+      </node>
       <node id="Q21091604" label="Amable de Saint-Hilaire">
         <attvalues>
           <attvalue for="gender" value="male"/>
@@ -1017,6 +1031,13 @@
           <attvalue for="gender" value="male"/>
           <attvalue for="translator" value="false"/>
           <attvalue for="translated-author" value="true"/>
+        </attvalues>
+      </node>
+      <node id="Q133877043" label="K. F. W. Fleischer">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="true"/>
+          <attvalue for="translated-author" value="false"/>
         </attvalues>
       </node>
       <node id="Q105070556" label="Wilhelm Förster">
@@ -3059,6 +3080,8 @@
       <edge id="Q19125906|Q319261" source="Q19125906" target="Q319261" weight="2"/>
       <edge id="Q19125906|Q33026264" source="Q19125906" target="Q33026264" weight="1"/>
       <edge id="Q2653682|Q3308793" source="Q2653682" target="Q3308793" weight="1"/>
+      <edge id="Q19125906|Q2444307" source="Q19125906" target="Q2444307" weight="1"/>
+      <edge id="Q19125906|Q21393296" source="Q19125906" target="Q21393296" weight="1"/>
       <edge id="Q19125906|Q21091604" source="Q19125906" target="Q21091604" weight="1"/>
       <edge id="Q19125906|Q2074119" source="Q19125906" target="Q2074119" weight="2"/>
       <edge id="Q19125906|Q14911953" source="Q19125906" target="Q14911953" weight="1"/>
@@ -3087,6 +3110,7 @@
       <edge id="Q1457035|Q2660806" source="Q1457035" target="Q2660806" weight="2"/>
       <edge id="Q71442|Q982053" source="Q71442" target="Q982053" weight="1"/>
       <edge id="Q94839946|Q3185843" source="Q94839946" target="Q3185843" weight="1"/>
+      <edge id="Q133877043|Q98823920" source="Q133877043" target="Q98823920" weight="1"/>
       <edge id="Q105070556|Q21543427" source="Q105070556" target="Q21543427" weight="1"/>
       <edge id="Q95146517|Q3037277" source="Q95146517" target="Q3037277" weight="1"/>
       <edge id="Q107711915|Q818099" source="Q107711915" target="Q818099" weight="1"/>

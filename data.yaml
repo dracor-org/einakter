@@ -17953,15 +17953,45 @@ author:
   name: Bernstein, Caroline
   pseudonym: Karoli, E.
   wikidata: Q1044452
-title: Rembrandts Meisterstück
-subtitle: Dramatisches Charaktergemälde in Versen und einem Acte
+title: Rembrandt's Meisterstück
+subtitle: Dramatisches Charaktergemälde in Versen und einem Aufzuge
+numOfScenes: 17
 yearPrinted: 1834
 formalia:
-  - Verse
+  - Alexandriner
 editions:
-  - title: "Lies mich! Eine Sammlung von Novellen, Erzählungen, Dramen, Gedichten etc. In Verbindung mit beliebten Schriftstellern herausgegeben von W. Jemand. Band 2. Leipzig und Iserlohn: Langewiesche 1834"
+  - title: "Lies mich! Eine Sammlung von Novellen, Erzählungen, Dramen, Gedichten etc. In Verbindung mit beliebten Schriftstellern herausgegeben von W. Jemand. Neue Ausgabe. Zweiter Band. Leipzig und Iserlohn: Langewiesche 1834, S. 213–264"
+    url: https://haab-digital.klassik-stiftung.de/viewer/image/1324493135_1834000200/222/
 reviews:
   - "Neues allgemeines Repertorium der neuesten in- und ausländischen Literatur für 1833. Vierter Band. Leipzig: Cnobloch 1833, [S. 7](https://books.google.com/books?id=nFfLo5YHtSAC&pg=PA7)."
+cast:
+  - name: Paul Rembrandt,
+    role: Maler und Kupferstecher.
+    gender: m
+  - name: Dessen Frau.
+    gender: f
+  - name: Six,
+    role: Burgemeister von Amsterdam.
+    gender: m
+  - group:
+      - name: von der Cleef,
+        gender: m
+      - name: Schwabbermann,
+        gender: m
+      - name: Weitköcker,
+        gender: m
+    role: reiche Holländer.
+  - name: Spoarendank,
+    role: ein Trödler.
+    gender: m
+  - name: Mehrere Nachbaren Rembrandt's.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Ort der Handlung: Amsterdam. Scene: Rembrandt's Wohnzimmer mit Mittel- und Seitenthüren.
+    location:
+      wikidataId: Q727
 ---
 id: ein000392
 slug: bertram-der-mondsuechtige-oder-er-verliehrt-seine-braut-im-schlaf
@@ -27559,6 +27589,38 @@ settings:
   - description: >-
       Einfach meublirtes Zimmer im dritten Stock, mit einer Thür im Hintergrunde, welche sich nach inwendig öffnen muß. Ganz im Vordergrunde auf jeder Seite ein Fenster, von denen das zur Rechten in den Hof, das zur Linken in die Gasse geht. Das Ameublement, so wie der ganze Zustand des Zimmers, bezeichnet die Residenz eines Junggesellen. Links eine Art Ruhebett, rechts ein Kaminschirm, der eine Person zwar verbergen, über welchen man stehend jedoch sehen kann.
 ---
+id: ein002668
+slug: cosmar-der-gemahl-an-der-wand
+author:
+  name: Cosmar, Alexander
+  wikidata: Q19125906
+title: Der Gemahl an der Wand
+subtitle: Schwank in einem Akt
+numOfScenes: 13
+yearPrinted: 1841
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatischer Salon. Berlin: Klemann 1841, S. S. 213–268"
+    url: https://books.google.com/books?id=7PI6AAAAcAAJ&pg=PA213
+cast:
+  - name: Elise Hainau.
+    gender: f
+  - name: Fritz Willberg,
+    role: "unter dem Namen: Schimmel."
+    gender: m
+  - name: Laffenhagen.
+    gender: m
+  - name: Wenig,
+    role: Exekutor.
+    gender: m
+  - name: Ernestine,
+    role: Elisen's Kammermädchen.
+    gender: f
+settings:
+  - description: >-
+      Die Scene spielt in einer großen Stadt.
+---
 id: ein000595
 slug: cosmar-der-meuchelmoerder-oder-der-fluch-der-boesen-that
 author:
@@ -27835,6 +27897,50 @@ settings:
       wikidataId: Q90
   - description: >-
       Das Theater stellt einen kleinen, unmittelbar in den Garten führenden Saal dar. Rechts zwei Thüren, von denen eine in das Cabinet des Herrn von Courcelles, die andere in das Zimmer seiner Frau führt. An der Seite dieser letzten Thür ein kleiner viereckiger Tisch. Links ein Kamin, auf welchem eine Stutz-Uhr und zwei Vasen stehen; an der Seite des Kamins ein kleiner Arbeitstisch. Im Hintergrunde neben der Haupt-Thür ein kleiner Tisch, auf welchem später des Frühstück servirt wird.
+---
+id: ein002667
+slug: cosmar-die-getrennten
+author:
+  name: Cosmar, Alexander
+  wikidata: Q19125906
+title: Die Getrennten
+subtitle: Lustspiel in 1 Akt, frei nach Arvers und Davrecourt
+numOfScenes: 20
+yearPrinted: 1841
+formalia:
+  - Prosa
+basedOn:
+  - arvers-davrecourt-les-parens-de-la-fille
+editions:
+  - title: "Dramatischer Salon. Berlin: Klemann 1841, S. 69–128"
+    url: https://books.google.com/books?id=7PI6AAAAcAAJ&pg=PA69
+cast:
+  - name: Wallmann,
+    role: Banquier.
+    gender: m
+  - name: Helene,
+    role: dessen Gattin.
+    gender: f
+  - name: Louise,
+    role: deren Tochter.
+    gender: f
+  - name: Sturmfeld,
+    role: Rittmeister außer Diensten.
+    gender: m
+  - name: Richard,
+    role: dessen Sohn, Arzt.
+    gender: m
+  - name: Kreisel,
+    role: Advokat.
+    gender: m
+  - name: Louis,
+    role: Bedienter bei Madame Wallmann.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+settings:
+  - description: >-
+      Die Scene spielt im Hause der Madame Wallmann, in einer großen Stadt.
 ---
 id: ein000601
 slug: cosmar-die-husaren-in-der-klemme
@@ -47077,6 +47183,55 @@ cast:
 settings:
   - description: >-
       Die Scene ist in des Sekretärs Wohnung in einer kleinen Landstadt.
+---
+id: ein002665
+slug: hilaris-suedliche-rache
+author:
+  name: Hilaris, Frater
+title: Südliche Rache!
+subtitle: Fresko-Abentheuer in 1 Akt
+numOfScenes: 6
+yearPrinted: 1848
+formalia:
+  - Prosa
+editions:
+  - title: "München: Henzel 1848"
+    url: https://books.google.com/books?id=DQnKzLVRbLQC&printsec=frontcover
+cast:
+  - name: Lila Vallez.
+    gender: f
+  - name: Bertha,
+    role: ihre Begleiterin.
+    gender: f
+  - group:
+      - name: Protz,
+        gender: m
+      - name: Zerrer,
+        gender: m
+    role: Journalisten.
+  - name: Pulciano,
+    role: Kunsthändler.
+    gender: m
+  - name: Dr. Langer,
+    role: praktischer Arzt.
+    gender: m
+  - name: Ein Architekt.
+    gender: m
+  - name: Ein Bildhauer.
+    gender: m
+  - name: Ein Lieutenant.
+    gender: m
+  - name: Ein Musiker.
+    gender: m
+  - name: Schwiele,
+    role: Schneidermeister.
+    gender: m
+  - name: Batiste,
+    role: Maitre d'hôtel.
+    gender: m
+settings:
+  - description: >-
+      Schauplatz: Eine Residenz.
 ---
 id: ein001008
 slug: hiller-zwei-namensvettern
@@ -66679,6 +66834,8 @@ editions:
     url: https://books.google.com/books?id=V93GLTUkIJ0C&pg=PA69
   - title: "Neue Bibliothek kleiner Theaterstücke für Privat-Gesellschaften. Ein Pendant zu der deutschen Schaubühne. Zweiter Theil. Augsburg und Leipzig: Jenisch und Stage [1818], S. 175–226"
     url: https://books.google.com/books?id=HSw7AAAAcAAJ&pg=PA175
+ids:
+  wikidata: Q134033000
 cast:
   - name: Hackler,
     role: Professor in der Provinzialstadt.
@@ -69006,6 +69163,44 @@ cast:
 settings:
   - description: >-
       Der Schauplaz ist in der […]stube des Hrn. Färbers.
+---
+id: ein002666
+slug: mair-rueckkehr-und-wiedersehen
+author:
+  name: Mair, Wilhelm
+  wikidata: Q95263193
+title: Rückkehr und Wiedersehen
+subtitle: Dramatische Kleinigkeit in einem Akte
+numOfScenes: 11
+yearPrinted: 1835
+formalia:
+  - Alexandriner
+editions:
+  - title: "München: Jaquet 1835"
+    url: https://books.google.com/books?id=e8Y6AAAAcAAJ&pg=PP5
+comments:
+  - "Untertitel [im Band](https://books.google.com/books?id=e8Y6AAAAcAAJ&pg=PP11) variiert: »Ländliche Scene in Versen.«"
+keywords:
+  - Heimkehrmotiv
+cast:
+  - name: Simon,
+    role: ein wohlhabender Landmann.
+    gender: m
+  - name: Lieschen,
+    role: dessen Tochter.
+    gender: f
+  - name: Annchen,
+    role: ihre Verwandte und Nachbarin.
+    gender: f
+  - name: Christel,
+    role: Chevauxleger, eben aus Griechenland zurückkehrend.
+    gender: m
+  - name: Peter,
+    role: Annchens Bräutigam.
+    gender: m
+settings:
+  - description: >-
+      Die Scene spielt in einem Dorfe, in der Nähe der Garnisonsstadt.
 ---
 id: ein001490
 slug: malss-die-jungfern-koechinnen
@@ -81088,6 +81283,39 @@ settings:
       Die Scene: Platz vor einem alterthümlichen Schlosse in den Pyrenäen. Rechts ein anderes kleineres Haus, links Wald.
     location:
       wikidataId: Q12431
+---
+id: ein002670
+slug: reinhardt-die-schwaetzerin
+author:
+  name: Reinhardt, Friederike
+  pseudonym: Lina Reinhardt
+  wikidata: Q18916763
+title: Die Schwätzerin
+subtitle: Schauspiel in einem Akt
+numOfScenes: 12
+yearPrinted: 1838
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Kindertheater, bestehend in 18 kleinen dramatischen Belustigungen zur leichten Aufführung in Familienkreisen von Lina Reinhard. Zweite vermehrte und verbesserte Auflage. Weimar: Voigt 1838, S. 1–22"
+    url: https://resolver.staatsbibliothek-berlin.de/SBB0003365100000013
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Albert
+        gender: m
+      - name: Isabella
+        gender: f
+    role: Geschwister.
+  - group:
+      - name: Leo
+        gender: m
+      - name: Nathalie
+        gender: f
+    role: ebenfalls Geschwister.
+  - name: Ein Fremder.
+    gender: m
 ---
 id: ein001745
 slug: reinhold-die-eheleute-vor-der-hochzeit-oder-sie-sind-zu-hause
@@ -94443,6 +94671,50 @@ settings:
   - description: >-
       Die Scene ist im Garten auf dem Gute des Herrn Distelkopf.
 ---
+id: ein002669
+slug: stein-die-schaedellehre
+author:
+  name: Stein, Karl
+  wikidata: Q55193372
+title: Die Schädellehre
+subtitle: Lustspiel in einem Act
+numOfScenes: 15
+yearPrinted: 1805
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin und Leipzig 1805"
+    url: https://books.google.com/books?id=vDtbIw-ebUsC&printsec=frontcover
+comments:
+  - "Die Widmung – »Den Schülern des Wiener Anatomen gewidmet.« – bezieht sich auf Franz Joseph Gall. Das Vorwort ([S. VII–VIII](https://books.google.com/books?id=vDtbIw-ebUsC&pg=PP11)) stellt das Stück in eine Reihe mit Kotzebues [»Das neue Jahrhundert«](kotzebue-das-neue-jahrhundert) (1799) und [»Der hyperboreeische Esel«](kotzebue-der-hyperboreeische-esel) (1799), Ifflands [»Der Magnetismus«](iffland-der-magnetismus) (1787) und Rambachs [»Die Kuhpocken«](rambach-die-kuhpocken) (1802)."
+cast:
+  - name: Fieberholtz,
+    role: Polizeybürgermeister und Stadtchirurgus.
+    gender: m
+  - name: Gretchen,
+    role: seine Tochter.
+    gender: f
+  - name: Justizcommissarius Hoffmann.
+    gender: m
+  - name: Kurz,
+    role: Barbiergesell.
+    gender: m
+  - name: Wachtel,
+    role: ein reisender Chirurgus.
+    gender: m
+  - name: Levi,
+    role: ein Jude.
+    gender: m
+  - name: Murner,
+    role: Barbier aus dem nahen Dorfe Zwiebeldorf.
+    gender: m
+  - name: Tiras,
+    role: Gerichtsdiener.
+    gender: m
+settings:
+  - description: >-
+      Ort der Handlung: das Städtchen Puselgrund.
+---
 id: ein002042
 slug: stein-die-zurueckkunft-des-fuersten
 author:
@@ -102924,6 +103196,9 @@ cast:
   - name: Sechs Mann Gefolge.
     isGroup: true
     gender: m
+ids:
+  dracor: ger000727
+  wikidata: Q133884183
 settings:
   - description: >-
       Das Theater stellt einen freien Platz auf der Insel vor; rechts das für Noch Jemand erbaute Haus, im Hintergrunde das Meer.

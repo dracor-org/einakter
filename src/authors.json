@@ -4834,6 +4834,15 @@
     },
     "gender": "male"
   },
+  "Q95263193": {
+    "name": "Wilhelm Mair",
+    "gnd": "116838213",
+    "birth": {
+      "date": "1812-01-01T00:00:00Z"
+    },
+    "death": {},
+    "gender": "male"
+  },
   "Q1039634": {
     "name": "Carl Malß",
     "gnd": "119098911",
@@ -9177,6 +9186,21 @@
       "placeId": "http://www.wikidata.org/entity/Q2845756"
     },
     "gender": "male"
+  },
+  "Q21393296": {
+    "name": "Antonin d'Avrecourt",
+    "birth": {
+      "date": "1807-08-04T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
+    },
+    "death": {
+      "date": "1871-09-11T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q163964": {
     "name": "Michel Baron",
