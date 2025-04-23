@@ -4066,6 +4066,16 @@ cast:
 settings:
   - description: Der Schauplatz ist in Arists Stube.
 ---
+id: ein002681
+slug: anonym-das-neue-sparta-oder-preussischer-patriotismus
+author:
+  pseudonym: Anonym
+title: "Das neue Sparta, oder: Preussischer Patriotismus"
+subtitle: Ein Schauspiel in 1 Akt
+yearPrinted: 1814
+editions:
+  - title: "Halberstadt: Im Bureau für Literatur und Kunst 1814"
+---
 id: ein002388
 slug: anonym-das-opfer-treuer-unterthanen
 author:
@@ -6642,6 +6652,16 @@ cast:
 settings:
   - description: >-
       Das Zimmer des Obersten im weilburgischen Hause.
+---
+id: ein002685
+slug: anonym-der-orgeltreter
+author:
+  pseudonym: Anonym
+title: Der Orgeltreter
+subtitle: Original-Lustspiel mit Gesang in 1 A.
+yearPrinted: 1810
+editions:
+  - title: "Eisenach: Wittekind 1810"
 ---
 id: ein000146
 slug: anonym-der-problematisch-verstorbene
@@ -23818,6 +23838,21 @@ settings:
   - description: >-
       Ein glänzender Saal mit Ahnenbildern ausgeschmückt. Das Uebrige der Umgebungen nach ungarischem Costüme.
 ---
+id: ein002684
+slug: buhl-eine-fixe-idee
+author:
+  name: Buhl, Ludwig
+  wikidata: Q15832883
+title: Eine fixe Idee
+subtitle: Komödie in einem Akt
+yearPrinted: 1838
+basedOn:
+  - scribe-duport-une-monomanie
+editions:
+  - title: "Theater von M. Scribe und dessen Mitarbeitern. In einer Auswahl des Besten. Aus dem Französischen. Drittes Bändchen. Berlin: Ende 1838"
+reviews:
+  - "Jenaische Allgemeine Literatur-Zeitung. Num. 85 (Mai 1839), [Sp. 199–200](https://books.google.com/books?id=YIBIAQAAMAAJ&pg=RA1-PA199)."
+---
 id: ein000505
 slug: buri-der-kohlenbrenner
 author:
@@ -33273,6 +33308,57 @@ settings:
   - description: >-
       Das Theater stellt einen Theil vom See Ufer vor. Wo an der einen Seite vorwärts, ein Stein von mittelmäßiger Grösse liegt; hinten hat man die Aussicht auf die See.
 ---
+id: ein002674
+slug: falkenstein-theaterbekanntschaften
+author:
+  name: Falkenstein, Ludwig von
+  pseudonym: Ohnesorgen, Freimund
+  wikidata: Q94761434
+title: Theaterbekanntschaften
+subtitle: Dramatischer Local-Scherz mit kleinen Gesangsparthieen in einem Aufzuge. Zum Besten der verunglückten Preußen
+numOfScenes: 21
+yearPrinted: 1829
+formalia:
+  - Prosa
+  - Verse
+editions:
+  - title: "Berlin: Wagenführ 1829"
+    url: https://books.google.com/books?id=rOsrm3V6qDAC&printsec=frontcover
+cast:
+  - name: Büffel,
+    role: ein reicher Commertiant aus einer kleinen Stadt in der Nähe Berlins.
+    gender: m
+  - group:
+      - name: Tine
+        gender: f
+      - name: Mine
+        gender: f
+      - name: Pine
+        gender: f
+    role: seine Töchter.
+  - group:
+      - name: Groß
+        gender: m
+      - name: Mittel
+        gender: m
+      - name: Klein
+        gender: m
+    role: deren Liebhaber.
+  - name: Lude,
+    role: Büffels Hausknecht.
+    gender: m
+  - name: Herr Schmelka,
+    role: ein Schauspieler.
+    gender: m
+  - name: Stimmen aus dem Publico.
+    isGroup: true
+    gender: u
+  - name: Der Soufleur.
+    gender: m
+settings:
+  - description: >-
+      Zimmer in Büffels Haus, man sieht drei Fenster.
+---
 id: ein000714
 slug: federico-wer-den-papst-zum-freunde-hat-kann-leicht-kardinal-werden
 author:
@@ -36469,6 +36555,17 @@ settings:
   - description: >-
       Der Schauplatz ist im Gasthof.
 ---
+id: ein002679
+slug: gerhard-wiegenweihe
+author:
+  name: Gerhard, Wilhelm
+  wikidata: Q15431461
+title: Wiegenweihe
+subtitle: Lyrisches Festspiel in einem Aufzug zur Feier der Geburt des Prinzen Albert von Sachsen
+yearPrinted: 1828
+editions:
+  - title: "Leipzig: Focke 1828"
+---
 id: ein000783
 slug: gerle-der-letzte-april
 author:
@@ -38685,6 +38782,41 @@ cast:
   - name: Kasper,
     role: der Wirths Junge.
     gender: m
+---
+id: ein002671
+slug: grosmann-der-teufel-im-Aktenstuebchen
+author:
+  name: Grosmann, Ernst
+  wikidata: Q132167168
+title: Der Teufel im Aktenstübchen
+subtitle: Lustspiel in einem Akt
+numOfScenes: 25
+yearPrinted: 1806
+formalia:
+  - Prosa
+editions:
+  - title: "Neue Schauspiele von Ernst Grosmann. Altenburg: Petersen 1806, S. 209–268"
+    url: https://books.google.com/books?id=Tq_1t23XGkMC&pg=PA209
+cast:
+  - name: Hellborn.
+    gender: m
+  - name: Ludovike,
+    role: seine Gattin.
+    gender: f
+  - name: Kamillo Mirakuloso,
+    role: Hellborns Freund, ein Glücksritter.
+    gender: m
+  - name: Karoline,
+    role: heimlich mit Kamillo vermählt.
+    gender: f
+  - name: Wilhelm,
+    role: Hellborns Bedienter.
+    gender: m
+  - name: Ein Träger.
+    gender: m
+settings:
+  - description: >-
+      Ein Zimmer mit Schreibtisch und Stühlen. Rechts in der Wand eine zwischen zwei Cylindern bewegliche Thüre wie Tapete angestrichen, die man nicht bemerket. Links der Eingang; das Zimmer ist ohne Mittelthüre. Im Vordergrunde links an der Couliße ein Fenster, vor welchem ein Vorhang befindlich.
 ---
 id: ein000826
 slug: grossmann-das-angebinde
@@ -41658,7 +41790,7 @@ slug: hansing-kuenstlerglueck-oder-die-proberollen
 author:
   name: Hansing, Gottlieb Anton Friedrich
   wikidata: Q95325505
-title: "Künsterglück oder: Die Proberollen"
+title: "Künstlerglück oder: Die Proberollen"
 subtitle: Ein Lustspiel in einem Aufzuge
 numOfScenes: 26
 yearPrinted: 1807
@@ -48801,11 +48933,13 @@ editions:
     url: https://books.google.com/books?id=BmdIAQAAMAAJ&pg=PA131
   - title: "Farben, Sterne, Blumen, drei dramatische Spiele von Karl von Holtei. Eine Neujahrsgabe für 1829. Berlin: Trautwein [1829], S. 1–76"
     url: https://books.google.com/books?id=1zcZqqxPOPIC&pg=PA1
+  - title: "Theater von Carl von Holtei. In einem Bande. Breslau: Schulz 1845, S. 1–12"
+    url: https://books.google.com/books?id=fjnQtdolsbcC&pg=PA1
   - title: "Theater von Karl von Holtei. Ausgabe letzter Hand in sechs Bänden. Vierter Band. Breslau: Trewendt 1867, S. 55–110"
     url: https://books.google.com/books?id=ZcI6AAAAcAAJ&pg=PA55
 comments:
   - Laut [Vorwort](https://books.google.com/books?id=ZcI6AAAAcAAJ&pg=PA57) ursprünglich in Prosa geschrieben.
-  - "Untertitel der Ausgaben 1829 und 1867: »Ein Spiel in einem Akt«."
+  - "Untertitel der Ausgaben 1829, 1845 und 1867: »Ein Spiel in einem Akt«."
 cast:
   - name: Die Landräthin.
     gender: f
@@ -65248,6 +65382,114 @@ settings:
   - description: >-
       Die Scene ist in Baumanns Wohnzimmer.
 ---
+id: ein002678
+slug: lax-das-impromptu-von-versailles
+author:
+  name: Lax, Louis
+  wikidata: Q55902345
+title: Das Impromptu von Versailles
+subtitle: Lustspiel in einem Aufzuge
+numOfScenes: 10
+yearPrinted: 1838
+formalia:
+  - Prosa
+basedOn:
+  - moliere-l-impromtu-de-versailles
+editions:
+  - title: "Moliere's sämmtliche Werke. Herausgegeben von Louis Lax. Ausgabe in Einem Bande. Aachen und Leipzig: Mayer 1838, S. 597–607"
+    url: https://books.google.com/books?id=XZs_AAAAYAAJ&pg=PA597
+cast:
+  - name: Moliere,
+    role: lächerlicher Markis.
+    gender: m
+  - name: Brecourt,
+    role: ein Mann von Stande.
+    gender: m
+  - name: De la Grange,
+    role: lächerlicher Markis.
+    gender: m
+  - name: Du Croisy,
+    role: Dichter.
+    gender: m
+  - name: Fräulein du Park,
+    role: gezierte Markise.
+    gender: f
+  - name: Fräulein Bejart,
+    role: eine Prüde.
+    gender: f
+  - name: Fräulein de Brie,
+    role: Kokette.
+    gender: f
+  - name: Fräulein Moliere,
+    role: geistreiche Spötterin.
+    gender: f
+  - name: Fräulein du Croisy,
+    role: süßliche Bosheit.
+    gender: f
+  - name: Fräulein Herve,
+    role: verschrobene Dienerin.
+    gender: f
+  - name: La Thorilliere,
+    role: überlästiger Markis.
+    gender: m
+  - name: Bejart,
+    role: ein Mensch, der dden Diensteifrigen spielt.
+    gender: m
+  - name: Vier andere Diensteifrige.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Der Schauplatz ist zu Versailles, im Vorzimmer des Königs.
+    location:
+      wikidataId: Q621
+---
+id: ein002677
+slug: lax-die-heirath-aus-zwang
+author:
+  name: Lax, Louis
+  wikidata: Q55902345
+title: Die Heirath aus Zwang
+subtitle: Lustspiel in einem Aufzug
+numOfScenes: 17
+yearPrinted: 1837
+formalia:
+  - Prosa
+basedOn:
+  - moliere-le-mariage-force
+editions:
+  - title: "Moliere's sämmtliche Werke. Herausgegeben von Louis Lax. 1. Bändchen. Aachen und Leipzig: Mayer 1837, S. 397–436"
+    url: https://books.google.com/books?id=c58I-dC4vcIC&pg=PA397
+cast:
+  - name: Sganarelle.
+    gender: m
+  - name: Geronimo.
+    gender: m
+  - name: Dorimene,
+    role: eine junge, mit Sganarelle versprochene Kokette.
+    gender: f
+  - name: Alcantor,
+    role: ihr Vater.
+    gender: m
+  - name: Alcidas,
+    role: ihr Bruder.
+    gender: m
+  - name: Lycaste,
+    role: ihr Geliebter.
+    gender: m
+  - name: Pancraz,
+    role: Schüler des Aristoteles.
+    gender: m
+  - name: Marphurius,
+    role: Schüler des Pyrrho.
+    gender: m
+  - name: Zwei Zigeunerinnen.
+    isGroup: true
+    gender: f
+settings:
+  - description: >-
+      Der Schauplatz ist eine Straße.
+---
 id: ein001405
 slug: lax-die-verschrobenen
 author:
@@ -75496,6 +75738,17 @@ cast:
     isGroup: true
     gender: u
 ---
+id: ein002683
+slug: niemeyer-der-jahrestag-des-einzugs-in-paris
+author:
+  name: Niemeyer, Anton
+  wikidata: Q94888514
+title: Der Jahrestag des Einzugs in Paris
+subtitle: Schauspiel in einem Aufzuge
+yearPrinted: 1815
+editions:
+  - title: "Kassel: Krieger 1815"
+---
 id: ein002535
 slug: niemeyer-die-betrogenen
 author:
@@ -76660,6 +76913,18 @@ settings:
       Die Scene ist in Wien.
     location:
       wikidataId: Q1741
+---
+id: ein002675
+slug: papst-die-theaterprobe
+author:
+  name: Papst, E.
+title: Die Theaterprobe
+subtitle: Lyrisches Trauerspiel in einem Acte
+yearPrinted: 1845
+editions:
+  - title: "Münster: Wundermann 1845"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 270 (Sonntag, 27. September 1846), [S. 1077](https://books.google.com/books?id=4GsiAQAAMAAJ&pg=PA1077)."
 ---
 id: ein002370
 slug: passy-die-verschreibung
@@ -82569,6 +82834,72 @@ settings:
   - description: >-
       Ein Salon. Mittelthüren und Seitenthüren. Links ein Tisch, worauf Schreibmaterialien, eine leere Weinflasche und zwei Gläser.
 ---
+id: ein002672
+slug: riese-ein-stuendchen-in-der-schule
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Ein Stündchen in der Schule
+subtitle: Vaudeville-Posse in einem Aufzuge, nach Lockroy
+numOfScenes: 14
+yearPrinted: 1847
+premiered: 1846-11-21
+formalia:
+  - Prosa
+basedOn:
+  - lockroy-anicet-bourgeois-le-maitre-d-ecole
+editions:
+  - title: "Hamburg: Verlags-Comptoir 1847"
+    url: https://books.google.com/books?id=sqFhI1zlm64C&printsec=frontcover
+  - title: "Zweite Auflage mit neuen Couplets. Hamburg: Verlags-Comptoir 1852"
+    url: https://books.google.com/books?id=pCXZ3p1o-QAC&printsec=frontcover
+cast:
+  - name: Henne,
+    role: Schulmeister in einer kleinen Stadt.
+    gender: m
+  - name: Charlotte,
+    role: seine Tochter.
+    gender: f
+  - name: Hans,
+    role: Bäckergesell.
+    gender: m
+  - name: Der Kreisrath.
+    gender: m
+  - name: Schnepfe,
+    role: Stadtrichter.
+    gender: m
+  - name: Ottokar,
+    role: sein Sohn.
+    gender: m
+  - name: Frau Zwetsche.
+    gender: f
+  - name: Jacob,
+    role: ihr Sohn.
+    gender: m
+  - group:
+      - name: Peter Lütje.
+        gender: m
+      - name: Titus Knut.
+        gender: m
+      - name: Perpetuus Dämel.
+        gender: m
+      - name: Max Großmann. 4 Jahr alt.
+        gender: m
+      - name: Felix Stock.
+        gender: m
+      - name: Rinaldo Zipfel.
+        gender: m
+      - name: Beatus Dudel.
+        gender: m
+    role:
+  - name: Bürger und Bürgerinnen. Musikanten. Schüler.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Scene: Eine Schulstube. In der Mitte (zweite Coulisse) das Catheder; zu beiden Seiten Bänke und Tische. Seitenthüren in der ersten Coulisse.
+---
 id: ein001774
 slug: riese-ein-unbekannter-beschuetzer
 author:
@@ -82927,6 +83258,47 @@ settings:
       Scene: Schloß der Frau von Eschen.
   - description: >-
       Salon. – Mittelfenster, zu einem Balkon führend, durch welches man auf den Garten blickt. – Zu beiden Seiten des Fensters eine Thür. – Seitenthüren in den Coulissen. – Rechts im Vordergrunde ein Tisch. Links ein kleiner Tisch, mit einer Guitarre.
+---
+id: ein002673
+slug: riese-wer-isst-mit
+author:
+  name: Riese, Friedrich Wilhelm
+  pseudonym: W. Friedrich
+  wikidata: Q85481
+title: Wer ißt mit?
+subtitle: "Vaudeville-Posse in einem Act. Nach Désaugiers »Le Diner de Madelon.«"
+numOfScenes: 17
+yearPrinted: 1847
+premiered: 1847-06-17
+formalia:
+  - Prosa
+basedOn:
+  - desaugiers-le-diner-de-madelon-ou-le-bourgeois-du-marais
+editions:
+  - title: "Dritte Auflage. Hamburg: Verlags-Comptoir 1856"
+    url: https://books.google.com/books?id=Ea2e6mecObgC&printsec=frontcover
+cast:
+  - name: Monsieur Duval,
+    role: Rentier.
+    gender: m
+  - name: Herr Appel,
+    role: aus Treuenbrietzen, sein Freund.
+    gender: m
+  - name: Guste,
+    role: sein Dienstmädchen.
+    gender: f
+  - name: Ein Corporal.
+    gender: m
+  - name: Soldaten.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Scene: Berlin.
+    location:
+      wikidataId: Q64
+  - description: >-
+      Ein einfach meublirtes Zimmer. Mittelthür. Seitenthüren. Im Hintergrunde ein Schrank.
 ---
 id: ein001783
 slug: riese-zwei-herren-und-ein-diener
@@ -101187,6 +101559,45 @@ settings:
   - description: >-
       Aermliche Wohnung. Die Kammerthür im Hintergrunde steht auf.
 ---
+id: ein002682
+slug: voss-die-tapetenwand
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Die Tapetenwand
+subtitle: Ein superfeines Lustspiel nach Duchrest Genlis
+numOfScenes: 14
+yearPrinted: 1809
+formalia:
+  - Prosa
+basedOn:
+  - de-genlis-la-cloison
+editions:
+  - title: "Florens Abentheuer in Afrika, und ihre Heimkehr nach Paris. Romantisches Seitenstück zu den Begebenheiten des Herrn von Jalonsky. Zweiter Band. Berlin: Schmidt 1809, S. 377–432"
+    url: https://books.google.com/books?id=bro9AAAAYAAJ&pg=PA377
+reviews:
+  - "Allgemeine Literatur-Zeitung. Num. 55 (Montags, den 26. Februar 1810), [Sp. 440](https://books.google.com/books?id=sBE4AAAAMAAJ&pg=PA439)."
+comments:
+  - "Volltext erfasst [im Project Gutenberg](https://www.gutenberg.org/files/48918/48918-h/48918-h.htm#page-377)."
+cast:
+  - name: Die Marquise.
+    gender: f
+  - name: Die Gräfin.
+    gender: f
+  - name: Der Chevalier.
+    gender: m
+  - name: Sophie,
+    role: der Gräfin Nichte.
+    gender: f
+  - name: Düpré,
+    role: ihr Kammerdiener.
+    gender: m
+settings:
+  - description: >-
+      Szene: Paris. Das Theater ein kleiner Saal.
+    location:
+      wikidataId: Q90
+---
 id: ein002183
 slug: voss-die-tresorscheine
 author:
@@ -104107,6 +104518,53 @@ cast:
     gender: m
 settings:
   - description: Die Handlung geht vor im Hause des Herrn von Wagviel.
+---
+id: ein002676
+slug: weidmann-die-dankbare-tochter
+author:
+  name: Weidmann, Paul
+  wikidata: Q114260
+title: Die dankbare Tochter
+subtitle: Ein Originaldrama in Prosa von einem Aufzuge
+numOfScenes: 14
+yearPrinted: 1773
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 25, S. 410–411
+editions:
+  - title: "Wien: Trattner 1773"
+    url: https://books.google.com/books?id=dFw7AAAAcAAJ&pg=RA2-PA1
+cast:
+  - name: Graf Jungfrey.
+    gender: m
+  - name: Fritz,
+    role: sein natürlicher Sohn.
+    gender: m
+  - name: Franz Ehrenwerth,
+    role: ein Landmann, Fritzens Ziehvater.
+    gender: m
+  - name: Lischen,
+    role: seine Tochter.
+    gender: f
+  - name: Bauernplag,
+    role: ein Verwalter.
+    gender: m
+  - name: Tintenheld,
+    role: ein Amtschreiber.
+    gender: m
+  - name: Menschenfeind,
+    role: ein Soldat.
+    gender: m
+  - name: Einige bewaffnete Bauern.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Die Handlung geht vor dem Hause Ehrenwerths.
+  - description: >-
+      Die Bühne stellt eine geraume Wohnung eines Bauern vor. Man sieht verschiedene Landgeräthschaften. Auf einer Seite ist Stroh ausgestreut, worauf der Soldat schläft. Auf der andern stehn einige Stühle, und ein Tisch, auf selbem ein zerbrochener Krug, mit ein paar Gläsern. Alles verrräth die äußerste Armuth. Im Grunde der Bühne ist eine Thüre, welche zu einer andern Stube führt, wo sich die Hausleute aufhalten.
 ---
 id: ein002250
 slug: weidmann-die-erziehung
@@ -107801,6 +108259,41 @@ cast:
   - name: Damis.
     gender: m
   - name: Amint.
+    gender: m
+---
+id: ein002680
+slug: wolff-die-kritik-der-schule-der-frauen
+author:
+  name: Wolff, Oskar Ludwig Bernhard
+  wikidata: Q108670
+title: Die Kritik der Schule der Frauen
+subtitle: Lustspiel in einem Aufzuge
+numOfScenes: 7
+yearPrinted: 1838
+formalia:
+  - Prosa
+basedOn:
+  - moliere-la-critique-de-l-ecole-des-femmes
+editions:
+  - title: "Moliere's sämmtliche Werke. Herausgegeben von Louis Lax. Ausgabe in Einem Bande. Aachen und Leipzig: Mayer 1838, S. 516–527"
+    url: https://books.google.com/books?id=XZs_AAAAYAAJ&pg=PA516
+cast:
+  - name: Uranie.
+    gender: f
+  - name: Elise.
+    gender: f
+  - name: Climene.
+    gender: f
+  - name: Galopin,
+    role: Laquai.
+    gender: m
+  - name: Der Markis.
+    gender: m
+  - name: Dorant,
+    role: oder der Chevalier.
+    gender: m
+  - name: Lysidas,
+    role: ein Dichter.
     gender: m
 ---
 id: ein002335

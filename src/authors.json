@@ -1083,6 +1083,19 @@
     },
     "gender": "male"
   },
+  "Q15832883": {
+    "name": "Ludwig Buhl",
+    "gnd": "105307526X",
+    "birth": {
+      "date": "1814-06-20T00:00:00Z",
+      "place": "Berlin",
+      "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "death": {
+      "date": "1882-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q1357738": {
     "name": "Ernst Carl Ludwig Ysenburg von Buri",
     "gnd": "100063934",
@@ -1844,6 +1857,17 @@
     },
     "gender": "male"
   },
+  "Q94761434": {
+    "name": "Ludwig Freiherr von Falkenstein",
+    "gnd": "11534201X",
+    "birth": {
+      "date": "1762-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1842-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
   "Q1290589": {
     "name": "Eduard von Feuchtersleben",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduard%20von%20Feuchtersleben.jpg",
@@ -2337,6 +2361,22 @@
     },
     "gender": "male"
   },
+  "Q15431461": {
+    "name": "Wilhelm Gerhard",
+    "gnd": "118690728",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Gerhard.jpg",
+    "birth": {
+      "date": "1780-11-29T00:00:00Z",
+      "place": "Weimar",
+      "placeId": "http://www.wikidata.org/entity/Q3955"
+    },
+    "death": {
+      "date": "1858-10-02T00:00:00Z",
+      "place": "Heidelberg",
+      "placeId": "http://www.wikidata.org/entity/Q2966"
+    },
+    "gender": "male"
+  },
   "Q55130944": {
     "name": "Wolfgang Adolph Gerle",
     "gnd": "104234520",
@@ -2647,6 +2687,13 @@
     "death": {
       "date": "1794-02-01T00:00:00Z"
     },
+    "gender": "male"
+  },
+  "Q132167168": {
+    "name": "Ernst Großmann",
+    "gnd": "1298943973",
+    "birth": {},
+    "death": {},
     "gender": "male"
   },
   "Q88019": {
@@ -8729,6 +8776,22 @@
       "date": "1828-08-28T00:00:00Z",
       "place": "Weimar",
       "placeId": "http://www.wikidata.org/entity/Q3955"
+    },
+    "gender": "male"
+  },
+  "Q108670": {
+    "name": "Oskar Ludwig Bernhard Wolff",
+    "gnd": "117442003",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oskar%20Ludwig%20Bernhard%20Wolff.png",
+    "birth": {
+      "date": "1799-07-26T00:00:00Z",
+      "place": "Altona",
+      "placeId": "http://www.wikidata.org/entity/Q1630"
+    },
+    "death": {
+      "date": "1851-09-13T00:00:00Z",
+      "place": "Jena",
+      "placeId": "http://www.wikidata.org/entity/Q3150"
     },
     "gender": "male"
   },

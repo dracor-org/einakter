@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://gexf.net/1.2" version="1.2">
-  <meta lastmodifieddate="2025-04-22T14:44:24.648Z">
+  <meta lastmodifieddate="2025-04-23T14:42:11.887Z">
     <creator>einakter.dracor.org</creator>
     <description>Einakter translators network</description>
   </meta>
@@ -725,6 +725,20 @@
           <attvalue for="translated-author" value="true"/>
         </attvalues>
       </node>
+      <node id="Q15832883" label="Ludwig Buhl">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="true"/>
+          <attvalue for="translated-author" value="false"/>
+        </attvalues>
+      </node>
+      <node id="Q19629451" label="Paul Duport">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="false"/>
+          <attvalue for="translated-author" value="true"/>
+        </attvalues>
+      </node>
       <node id="Q78813" label="Ignaz Franz Castelli">
         <attvalues>
           <attvalue for="gender" value="male"/>
@@ -768,13 +782,6 @@
         </attvalues>
       </node>
       <node id="Q22209694" label="François Bernard-Valville">
-        <attvalues>
-          <attvalue for="gender" value="male"/>
-          <attvalue for="translator" value="false"/>
-          <attvalue for="translated-author" value="true"/>
-        </attvalues>
-      </node>
-      <node id="Q19629451" label="Paul Duport">
         <attvalues>
           <attvalue for="gender" value="male"/>
           <attvalue for="translator" value="false"/>
@@ -2804,6 +2811,13 @@
           <attvalue for="translated-author" value="true"/>
         </attvalues>
       </node>
+      <node id="Q90626" label="Julius von Voß">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="true"/>
+          <attvalue for="translated-author" value="false"/>
+        </attvalues>
+      </node>
       <node id="Q62880" label="Heinrich Leopold Wagner">
         <attvalues>
           <attvalue for="gender" value="male"/>
@@ -2930,6 +2944,13 @@
           <attvalue for="translated-author" value="false"/>
         </attvalues>
       </node>
+      <node id="Q108670" label="Oskar Ludwig Bernhard Wolff">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="true"/>
+          <attvalue for="translated-author" value="false"/>
+        </attvalues>
+      </node>
       <node id="Q66207" label="Heinrich Zschokke">
         <attvalues>
           <attvalue for="gender" value="male"/>
@@ -3037,6 +3058,8 @@
       <edge id="Q95321063|Q2861745" source="Q95321063" target="Q2861745" weight="1"/>
       <edge id="Q89340|Q3287628" source="Q89340" target="Q3287628" weight="1"/>
       <edge id="Q23531388|Q2958058" source="Q23531388" target="Q2958058" weight="1"/>
+      <edge id="Q15832883|Q319261" source="Q15832883" target="Q319261" weight="1"/>
+      <edge id="Q15832883|Q19629451" source="Q15832883" target="Q19629451" weight="1"/>
       <edge id="Q78813|Q319261" source="Q78813" target="Q319261" weight="13"/>
       <edge id="Q78813|Q1513808" source="Q78813" target="Q1513808" weight="2"/>
       <edge id="Q78813|Q2660806" source="Q78813" target="Q2660806" weight="8"/>
@@ -3289,7 +3312,7 @@
       <edge id="Q108063150|Q216692" source="Q108063150" target="Q216692" weight="4"/>
       <edge id="Q94619074|Q371439" source="Q94619074" target="Q371439" weight="1"/>
       <edge id="Q94619074|Q822205" source="Q94619074" target="Q822205" weight="1"/>
-      <edge id="Q55902345|Q687" source="Q55902345" target="Q687" weight="1"/>
+      <edge id="Q55902345|Q687" source="Q55902345" target="Q687" weight="3"/>
       <edge id="Q125304|Q347261" source="Q125304" target="Q347261" weight="3"/>
       <edge id="Q125304|Q3092326" source="Q125304" target="Q3092326" weight="1"/>
       <edge id="Q125304|Q2871646" source="Q125304" target="Q2871646" weight="1"/>
@@ -3397,6 +3420,8 @@
       <edge id="Q85481|Q22211379" source="Q85481" target="Q22211379" weight="1"/>
       <edge id="Q85481|Q18197674" source="Q85481" target="Q18197674" weight="1"/>
       <edge id="Q85481|Q3189001" source="Q85481" target="Q3189001" weight="1"/>
+      <edge id="Q85481|Q444663" source="Q85481" target="Q444663" weight="1"/>
+      <edge id="Q85481|Q255324" source="Q85481" target="Q255324" weight="1"/>
       <edge id="Q85481|Q1287510" source="Q85481" target="Q1287510" weight="2"/>
       <edge id="Q85481|Q2386999" source="Q85481" target="Q2386999" weight="1"/>
       <edge id="Q85481|Q2960378" source="Q85481" target="Q2960378" weight="1"/>
@@ -3407,6 +3432,7 @@
       <edge id="Q85481|Q1399502" source="Q85481" target="Q1399502" weight="1"/>
       <edge id="Q85481|Q3092326" source="Q85481" target="Q3092326" weight="1"/>
       <edge id="Q85481|Q2871646" source="Q85481" target="Q2871646" weight="1"/>
+      <edge id="Q85481|Q3287646" source="Q85481" target="Q3287646" weight="1"/>
       <edge id="Q85481|Q165534" source="Q85481" target="Q165534" weight="1"/>
       <edge id="Q70435|Q687" source="Q70435" target="Q687" weight="2"/>
       <edge id="Q100430046|Q2522179" source="Q100430046" target="Q2522179" weight="1"/>
@@ -3507,6 +3533,7 @@
       <edge id="Q61971934|Q97689634" source="Q61971934" target="Q97689634" weight="1"/>
       <edge id="Q61971934|Q347891" source="Q61971934" target="Q347891" weight="1"/>
       <edge id="Q61971934|Q321684" source="Q61971934" target="Q321684" weight="1"/>
+      <edge id="Q90626|Q55037230" source="Q90626" target="Q55037230" weight="1"/>
       <edge id="Q62880|Q1355402" source="Q62880" target="Q1355402" weight="1"/>
       <edge id="Q1539931|Q3340819" source="Q1539931" target="Q3340819" weight="1"/>
       <edge id="Q105906479|Q2893251" source="Q105906479" target="Q2893251" weight="1"/>
@@ -3523,6 +3550,7 @@
       <edge id="Q18335108|Q2844716" source="Q18335108" target="Q2844716" weight="1"/>
       <edge id="Q20979913|Q55037230" source="Q20979913" target="Q55037230" weight="3"/>
       <edge id="Q121270|Q2002291" source="Q121270" target="Q2002291" weight="1"/>
+      <edge id="Q108670|Q687" source="Q108670" target="Q687" weight="1"/>
       <edge id="Q66207|Q687" source="Q66207" target="Q687" weight="6"/>
     </edges>
   </graph>
