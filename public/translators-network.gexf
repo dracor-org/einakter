@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://gexf.net/1.2" version="1.2">
-  <meta lastmodifieddate="2025-04-23T14:42:11.887Z">
+  <meta lastmodifieddate="2025-04-24T11:45:21.627Z">
     <creator>einakter.dracor.org</creator>
     <description>Einakter translators network</description>
   </meta>
@@ -2975,7 +2975,7 @@
       <edge id="Q76070|Q16507000" source="Q76070" target="Q16507000" weight="1"/>
       <edge id="Q76070|Q3384294" source="Q76070" target="Q3384294" weight="1"/>
       <edge id="Q76070|Q519279" source="Q76070" target="Q519279" weight="1"/>
-      <edge id="Q76070|Q17708941" source="Q76070" target="Q17708941" weight="1"/>
+      <edge id="Q76070|Q17708941" source="Q76070" target="Q17708941" weight="2"/>
       <edge id="Q76070|Q2733401" source="Q76070" target="Q2733401" weight="3"/>
       <edge id="Q76070|Q289303" source="Q76070" target="Q289303" weight="1"/>
       <edge id="Q76070|Q954563" source="Q76070" target="Q954563" weight="1"/>
@@ -3314,14 +3314,13 @@
       <edge id="Q94619074|Q822205" source="Q94619074" target="Q822205" weight="1"/>
       <edge id="Q55902345|Q687" source="Q55902345" target="Q687" weight="3"/>
       <edge id="Q125304|Q347261" source="Q125304" target="Q347261" weight="3"/>
-      <edge id="Q125304|Q3092326" source="Q125304" target="Q3092326" weight="1"/>
-      <edge id="Q125304|Q2871646" source="Q125304" target="Q2871646" weight="1"/>
+      <edge id="Q76070|Q3092326" source="Q76070" target="Q3092326" weight="1"/>
+      <edge id="Q76070|Q2871646" source="Q76070" target="Q2871646" weight="1"/>
       <edge id="Q125304|Q2066224" source="Q125304" target="Q2066224" weight="1"/>
       <edge id="Q125304|Q3170056" source="Q125304" target="Q3170056" weight="1"/>
       <edge id="Q125304|Q41795910" source="Q125304" target="Q41795910" weight="1"/>
       <edge id="Q125304|Q24046187" source="Q125304" target="Q24046187" weight="1"/>
-      <edge id="Q125304|Q1677861" source="Q125304" target="Q1677861" weight="1"/>
-      <edge id="Q125304|Q17708941" source="Q125304" target="Q17708941" weight="1"/>
+      <edge id="Q76070|Q1677861" source="Q76070" target="Q1677861" weight="1"/>
       <edge id="Q125304|Q64553141" source="Q125304" target="Q64553141" weight="1"/>
       <edge id="Q125304|Q3164390" source="Q125304" target="Q3164390" weight="1"/>
       <edge id="Q125304|Q767332" source="Q125304" target="Q767332" weight="2"/>

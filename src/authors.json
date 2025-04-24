@@ -1858,7 +1858,7 @@
     "gender": "male"
   },
   "Q94761434": {
-    "name": "Ludwig Freiherr von Falkenstein",
+    "name": "Ludwig von Falkenstein",
     "gnd": "11534201X",
     "birth": {
       "date": "1762-01-01T00:00:00Z"
@@ -2192,9 +2192,21 @@
     },
     "gender": "male"
   },
+  "Q134083201": {
+    "name": "Q134083201",
+    "birth": {},
+    "death": {}
+  },
   "Q108613537": {
     "name": "Joseph Franz Gänsberger",
     "gnd": "1038031389",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
+  "Q132059246": {
+    "name": "Julius Gädemann",
+    "gnd": "104271655",
     "birth": {},
     "death": {},
     "gender": "male"
@@ -8696,6 +8708,18 @@
       "date": "1864-01-01T00:00:00Z"
     },
     "gender": "male"
+  },
+  "Q94991920": {
+    "name": "J. K. Wietz",
+    "gnd": "122997778",
+    "birth": {
+      "date": "1791-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1844-01-01T00:00:00Z"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q94816117": {
     "name": "Johann Leonhard Wilhelm",

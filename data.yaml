@@ -14167,7 +14167,7 @@ formalia:
   - Pros
 editions:
   - title: "Jahrbuch und Repertorium des Theaters der Stadt Leipzig. Nebst einem Anhange. Herausgegeben von H. L. Barthels, Inspector dieses Theaters. Leipzig: Koppe 1842, S. 12–28"
-    url: https://books.google.de/books?id=biwqAAAAYAAJ&pg=PA12
+    url: https://books.google.com/books?id=biwqAAAAYAAJ&pg=PA12
 cast:
   - name: Herr Pieseke.
     gender: m
@@ -17015,6 +17015,36 @@ cast:
 settings:
   - description: >-
       Scene: Ein gemeinschaftlicher Saal in dem Gasthofe eines Brunnen- und Bade-Ortes.
+---
+id: ein002690
+slug: bauernfeld-die-zusammenkunft-am-brunnen
+author:
+  name: Bauernfeld, Eduard von
+  wikidata: Q78865
+title: Die Zusammenkunft am Brunnen
+subtitle: Lustspiel in Einem Act und in Versen
+numOfScenes: 8
+yearPrinted: 1833
+formalia:
+  - gereimte Verse
+editions:
+  - title: "Vesta. Taschenbuch für das Jahr 1833. III. Jahrgang. Wien: Ludwig [1833], S. 267–298"
+    url: https://books.google.com/books?id=FUg7AAAAcAAJ&pg=PA267
+cast:
+  - name: Flieder,
+    role: Bürger.
+    gender: m
+  - name: Marie,
+    role: seine Frau.
+    gender: f
+  - name: Reimann,
+    role: Bürger.
+    gender: m
+  - name: Margarethe.
+    gender: f
+settings:
+  - description: >-
+      Zimmer bei Flieder.
 ---
 id: ein000375
 slug: beck-der-geheimnissvolle
@@ -35487,6 +35517,7 @@ id: ein002635
 slug: gaedemann-das-gasthaus-zur-silbernen-pumpe
 author:
   name: Gädemann, Johann
+  wikidata: Q134083201
 title: "Das Gasthaus zur silbernen Pumpe, oder Pomrando wird gezahlt"
 subtitle: Posse in Einem Akt
 yearPrinted: 1829
@@ -35522,6 +35553,62 @@ cast:
     gender: m
   - name: Campaspe.
     gender: f
+---
+id: ein002688
+slug: gaedemann-paris-in-eipeldau-oder-die-seltsame-testaments-klausel
+author:
+  name: Gädemann, Julius
+  wikidata: Q132059246
+title: "Paris in Eipeldau, oder: Die seltsame Testaments-Klausel"
+subtitle: Posse mit Gesang in 1 Akt
+numOfScenes: 20
+yearPrinted: 1842
+formalia:
+  - Prosa
+  - Verse
+editions:
+  - title: "Pesth: Landerer und Heckenast 1842"
+    url: https://books.google.com/books?id=JtxJAAAAcAAJ&printsec=frontcover
+comments:
+  - "Variante von [»Paris in Pommern oder Die seltsame Testaments-Klausel«](lebrun-paris-in-pommern-oder-die-seltsame-testaments-klausel)."
+  - "Hinweis auf der Titelseite: »Musik von verschiedenen Meistern. Zur Darstellung für die Bühnen in Pesth und Ofen eingerichtet.«"
+cast:
+  - name: Wacker,
+    role: Verwalter des Landgutes seines abwesenden Schwagers.
+    gender: m
+  - group:
+      - name: Kati
+        gender: f
+      - name: Mitzel
+        gender: f
+      - name: Röse
+        gender: f
+    role: seine Töchter.
+  - group:
+      - name: Peter Bock
+        gender: m
+      - name: Hans Schwalbe
+        gender: m
+      - name: Wilhelm Lips
+        gender: m
+    role: junge Bauern und Liebhaber der drei Mädchen.
+  - name: Actuarius Ziegenfuß.
+    gender: m
+  - name: Lebrecht Klarauge,
+    role: Forstwärter, Rösens bestimmter Bräutigam.
+    gender: m
+  - name: Heymann Levi,
+    role: ein reisender Handelsjude.
+    gender: m
+  - name: Jobst,
+    role: ein Bauer.
+    gender: m
+  - name: Bauern und Bäuerinnen.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Das Stück spielt in Eipeldau.
 ---
 id: ein000761
 slug: gaertner-die-schoene-rosette
@@ -65778,10 +65865,10 @@ settings:
       Das Stück spielt in einem Landstädtchen, am Jahrestage der Schlacht bei Belle-Alliançe.
 ---
 id: ein001411
-slug: lebrun-der-onkel-schlaeft
+slug: angely-der-onkel-schlaeft
 author:
-  name: Lebrun, Karl August
-  wikidata: Q125304
+  name: Angely, Louis
+  wikidata: Q76070
 title: Der Onkel schläft!
 subtitle: Lokal-Schwank in Einem Akt
 numOfScenes: 20
@@ -65860,10 +65947,10 @@ settings:
       Ein Zimmer im gemeinschaftlichen Hause Bangens und der M. Wellen.
 ---
 id: ein001413
-slug: lebrun-des-ungluecksvogels-bruder
+slug: angely-des-ungluecksvogels-bruder
 author:
-  name: Lebrun, Karl August
-  wikidata: Q125304
+  name: Angely, Louis
+  wikidata: Q76070
 title: Des Unglücksvogels Bruder
 subtitle: Posse in einem Akt, frei nach Duvert und Lausanne
 numOfScenes: 20
@@ -66317,10 +66404,10 @@ settings:
       Costüme: Zeitalter Ludwig des XIV.
 ---
 id: ein001424
-slug: lebrun-morgen-ist-der-dreizehnte
+slug: angely-morgen-ist-der-dreizehnte
 author:
-  name: Lebrun, Karl August
-  wikidata: Q125304
+  name: Angely, Louis
+  wikidata: Q76070
 title: Morgen ist der Dreizehnte
 subtitle: Lustspiel in einem Akt, nach dem Französischen
 numOfScenes: 20
@@ -66355,10 +66442,10 @@ settings:
       Gaststube. Mittel- und Seitenthüren.
 ---
 id: ein001425
-slug: lebrun-nicht-vom-posten
+slug: angely-nicht-vom-posten
 author:
-  name: Lebrun, Karl August
-  wikidata: Q125304
+  name: Angely, Louis
+  wikidata: Q76070
 title: Nicht vom Posten
 subtitle: Lustspiel in einem Akt, frei nach Ancelot
 numOfScenes: 17
@@ -66480,10 +66567,10 @@ settings:
       Oeffentlicher Platz; links des Notars, rechts der Putzmacherin Wohnung. Beide haben Aushängeschilder, und in beiden sind die Laden noch geschlossen. Den Hintergrund bildet ein elegantes, mit eisernem Gitter umzogenes Haus; in der Mitte der Bühne liegt ein großer Stein.
 ---
 id: ein001428
-slug: lebrun-paris-in-pommern-oder-die-seltsame-testaments-klausel
+slug: angely-paris-in-pommern-oder-die-seltsame-testaments-klausel
 author:
-  name: Lebrun, Karl August
-  wikidata: Q125304
+  name: Angely, Louis
+  wikidata: Q76070
 title: Paris in Pommern oder Die seltsame Testaments-Klausel
 subtitle: Vaudeville-Posse in 1 Act und mit bekannten Melodieen versehen
 numOfScenes: 20
@@ -75888,6 +75975,16 @@ settings:
   - description: >-
       Die Scene ist in einem Zimmer Eines der beßern, Zeichen der Wohlhabenheit tragenden Bauernhäuser.
 ---
+id: ein002689
+slug: oberschaar-der-russbuttenmann-als-arrestant
+author:
+  name: Oberschaar, Eduard jun.
+title: Der Rußbuttenmann als Arrestant
+subtitle: Seitenstück zum Eckensteher Nante. Posse in 1 Akt
+yearPrinted: 1839
+editions:
+  - title: "Leipzig: Glück 1839"
+---
 id: ein001629
 slug: ochsenheimer-das-manuscript
 author:
@@ -77638,6 +77735,79 @@ cast:
 settings:
   - description: >-
       Ländliche Gegend vor Abrahams Hütte. Die Hirten und Hirtinnen tanzen einen munteren Reihen. Ein Theil, der nicht tanzt, und sich mit seiner Arbeit beschäftiget, singt folgenden Chor. Nach Endigung desselben tanzt dieser Theil, und der andere beginnt zu singen. Zeba tanzt in der Mitte. Abraham sitzt auf einer Steinbank vor seinem Hause, und sieht nebst Isaak zu.
+---
+id: ein002586
+slug: perinet-orions-rueckkehr-zur-friedlichen-Insel
+author:
+  name: Perinet, Joachim
+  wikidata: Q1250334
+title: Orions-Rückkehr zur friedlichen Insel
+subtitle: Ein Gelegenheitsstück in einem Aufzuge in Knittelreimen mit Gesang
+numOfScenes: 25
+yearPrinted: 1803
+formalia:
+  - Knittelverse
+editions:
+  - title: "Wien: Schmidt 1803"
+    url: https://books.google.com/books?id=OrlQIdLakR0C&printsec=frontcover
+comments:
+  - "Hinweis auf der Titelseite: »Die Musik ist von Herrn Wenzel Müller, Kapellmeister.«"
+  - "[Widmung](https://books.google.com/books?id=OrlQIdLakR0C&pg=PA3): »Herrn Emanuel Schickaneder meinem unvergeßlichen Freunde und beyden Gesellschaften gewidmet.«"
+cast:
+  - name: Hulda,
+    role: das Donauweibchen.
+    gender: f
+  - name: Benigna,
+    role: eine Insulanerinn.
+    gender: f
+  - name: Alzeste,
+    role: Gattinn des Admet.
+    gender: f
+  - name: Agnese Cyani,
+    role: eine Venetianerinn.
+    gender: f
+  - name: Rosaura,
+    role: ihre Freundinn.
+    gender: f
+  - name: Georg von Hohenstauffen,
+    role: der Alte Ueberall und Nirgends.
+    gender: m
+  - name: Ritter Feige von Bomsen.
+    gender: m
+  - name: Kuno von Kyburg.
+    gender: m
+  - name: Kaspar der Fagottist.
+    gender: m
+  - name: Herr von Heinzenfeld.
+    gender: m
+  - name: Der Hausmeister aus dem Neusonntagskind.
+    gender: m
+  - name: Der Schneider Wetzwetz.
+    gender: m
+  - name: Ein Satyr.
+    gender: m
+  - name: Lilli,
+    role: ein Genius.
+    gender: f
+  - name: Orion,
+    role: Fürst Astolphs ehmaliger Hofnarr.
+    gender: m
+  - group:
+      - name: Azor.
+        gender: m
+      - name: Zephire.
+        gender: f
+      - name: Pepine.
+        gender: f
+    role: Zöglinge der Insel.
+  - name: Erste Nixe.
+    gender: f
+  - name: Nixen. Insulaner und Insulanerinnen.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Nach einer kleinen Ouverture rollt die Cortine auf. – Die Decoration stellt das Donauufer vor. Jenseits ist ein kleines Gewässer, worüber ein kleiner praktikabler Steig geht.
 ---
 id: ein001667
 slug: petrasch-das-eiland-der-bucklichten
@@ -107790,6 +107960,59 @@ settings:
   - description: >-
       Die armselige Dachkammer des Lumpensammlers in dem Hause der Frau Rollern. Ungewisses Mondlicht. Sturm.
 ---
+id: ein002587
+slug: wietz-die-ostergeschenke
+author:
+  name: Wietz, J. K.
+  wikidata: Q94991920
+title: Die Ostergeschenke
+subtitle: Ein Schauspiel für die Jugend in einem Aufzuge
+numOfScenes: 16
+yearPrinted: 1834
+formalia:
+  - Prosa
+editions:
+  - title: "Leitmeritz: Medau 1834"
+    url: https://stt.opac.nm.cz/records/48e34e37-2ce1-41b2-b251-6404342a31ad
+cast:
+  - name: Frau Gutwill,
+    role: eine Beamtens-Wittwe.
+    gender: f
+  - group:
+      - name: Leopold,
+        role: ein Student,
+        gender: m
+      - name: Julchen,
+        role: 11 bis 12 Jahre alt,
+        gender: f
+      - name: Edmund,
+        role: 5 bis 6 Jahre alt,
+        gender: m
+    role: ihre Kinder.
+  - name: Georg,
+    role: ein alter Obsthändler.
+    gender: m
+  - name: Ein Postillion.
+    gender: m
+  - group:
+      - name: Erster
+        gender: m
+      - name: Zweiter
+        gender: m
+    role: Bauer.
+  - name: Tofl,
+    role: ein Bauernjunge.
+    gender: m
+  - name: Zwei erwachsene Bauernmädchen.
+    isGroup: true
+    gender: f
+  - name: Einige Bauern, Bäuerinnen und Kinder.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Der Schauplatz ist vor einem kleinen Häuschen, in welchem die Wittwe mit ihren beiden jüngern Kindern wohnt. An der einen Seite des Häuschens eine Bank, ein alter Tisch und in der Nähe ein dicker Baum.
+---
 id: ein002323
 slug: wilhelm-der-regen
 author:
@@ -109327,7 +109550,7 @@ formalia:
   - Blankvers
 editions:
   - title: "Berlin: Auf Kosten des Verfassers 1830"
-    url: https://books.google.de/books?id=U3aZJLyj26UC&pg=PA1
+    url: https://books.google.com/books?id=U3aZJLyj26UC&printsec=frontcover
 cast:
   - name: Jochebel,
     role: Mutter des kleinen Moses.
