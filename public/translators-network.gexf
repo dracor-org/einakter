@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://gexf.net/1.2" version="1.2">
-  <meta lastmodifieddate="2025-04-24T11:45:21.627Z">
+  <meta lastmodifieddate="2025-05-02T07:00:22.257Z">
     <creator>einakter.dracor.org</creator>
     <description>Einakter translators network</description>
   </meta>
@@ -947,6 +947,27 @@
           <attvalue for="gender" value="male"/>
           <attvalue for="translator" value="true"/>
           <attvalue for="translated-author" value="false"/>
+        </attvalues>
+      </node>
+      <node id="Q134300229" label="J. Dorich">
+        <attvalues>
+          <attvalue for="gender" value=""/>
+          <attvalue for="translator" value="true"/>
+          <attvalue for="translated-author" value="false"/>
+        </attvalues>
+      </node>
+      <node id="Q19631344" label="Stephen Arnoult">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="false"/>
+          <attvalue for="translated-author" value="true"/>
+        </attvalues>
+      </node>
+      <node id="Q17561728" label="Jean-Joseph Ader">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="false"/>
+          <attvalue for="translated-author" value="true"/>
         </attvalues>
       </node>
       <node id="Q108613337" label="Theodor Dunkel">
@@ -3116,6 +3137,9 @@
       <edge id="Q25991406|Q818099" source="Q25991406" target="Q818099" weight="1"/>
       <edge id="Q1695335|Q2885943" source="Q1695335" target="Q2885943" weight="1"/>
       <edge id="Q1947966|Q347261" source="Q1947966" target="Q347261" weight="1"/>
+      <edge id="Q134300229|Q2733401" source="Q134300229" target="Q2733401" weight="1"/>
+      <edge id="Q134300229|Q19631344" source="Q134300229" target="Q19631344" weight="1"/>
+      <edge id="Q134300229|Q17561728" source="Q134300229" target="Q17561728" weight="1"/>
       <edge id="Q108613337|Q444663" source="Q108613337" target="Q444663" weight="1"/>
       <edge id="Q108613337|Q255324" source="Q108613337" target="Q255324" weight="1"/>
       <edge id="Q1694090|Q687" source="Q1694090" target="Q687" weight="2"/>

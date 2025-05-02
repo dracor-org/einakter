@@ -1522,6 +1522,11 @@
     "death": {},
     "gender": "male"
   },
+  "Q134300229": {
+    "name": "J. Dorich",
+    "birth": {},
+    "death": {}
+  },
   "Q108063363": {
     "name": "Franz Theodor Ludwig Dorsch",
     "gnd": "115824138",
@@ -9011,6 +9016,22 @@
       "date": "1856-08-30T00:00:00Z",
       "place": "Boulogne-sur-Mer",
       "placeId": "http://www.wikidata.org/entity/Q81997"
+    },
+    "gender": "male"
+  },
+  "Q17561728": {
+    "name": "Jean-Joseph Ader",
+    "gnd": "100161790",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20joseph%20Ader%20photo.png",
+    "birth": {
+      "date": "1796-10-16T00:00:00Z",
+      "place": "Ustaritz",
+      "placeId": "http://www.wikidata.org/entity/Q269874"
+    },
+    "death": {
+      "date": "1859-04-12T00:00:00Z",
+      "place": "Bassussarry",
+      "placeId": "http://www.wikidata.org/entity/Q839448"
     },
     "gender": "male"
   },

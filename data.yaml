@@ -10226,6 +10226,60 @@ cast:
 settings:
   - description: Der Schauplatz ist in der Frau Argante Hause.
 ---
+id: ein002692
+slug: anonym-die-schulfreunde
+author:
+  pseudonym: Anonym
+title: Die Schulfreunde
+subtitle: Ein Schauspiel in einem Aufzuge für die Jugend
+numOfScenes: 10
+yearPrinted: 1814
+formalia:
+  - Prosa
+editions:
+  - title: "Salzburg: Mayr 1814"
+    url: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10761223-4
+keywords:
+  - Kindertheater
+cast:
+  - name: Der Graf und die Gräfin.
+    isGroup: true
+    gender: u
+  - group:
+      - name: Ludwig,
+        gender: m
+      - name: Heinrich und
+        gender: m
+      - name: Charlotte,
+        gender: f
+    role: ihre Kinder.
+  - name: Gottlieb Kinderfreund,
+    role: der Schullehrer im Schlosse.
+    gender: m
+  - name: Katharine,
+    role: seine Gattin.
+    gender: f
+  - name: Christoph Klug,
+    role: ein Taglöhner.
+    gender: m
+  - name: Toffel,
+    role: dessen Sohn.
+    gender: m
+  - name: Hanns Bauernfeind,
+    role: der Schloßjäger.
+    gender: m
+  - name: Ein Bedienter.
+    gender: m
+  - name: Marie,
+    role: eine Schülerin.
+    gender: f
+  - name: Mehr dergleichen Kinder der Schloßbeamten und Dorfleute.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Das Theater stellet ein wohleingerichtetes Schulzimmer vor.
+---
 id: ein000224
 slug: anonym-die-sitten-der-zeit-1762
 author:
@@ -30617,6 +30671,7 @@ id: ein000656
 slug: dorich-cartouche
 author:
   name: Dorich, J.
+  wikidata: Q134300229
 title: Cartouche
 subtitle: Dramatisirte Anekdote in 1 Akt, frei nach Théaulon
 numOfScenes: 15
@@ -30628,6 +30683,8 @@ basedOn:
 editions:
   - title: "Berliner Theater-Almanach. Herausgegeben von Alexander Cosmar. Siebenter Jahrgang. Berlin: Bade 1842, S. 1–42"
     url: https://books.google.com/books?id=7VI7AAAAcAAJ&pg=PA1
+reviews:
+    - "Repertorium der gesammten deutschen Literatur. Herausgegeben im Vereine mit mehreren Gelehrten von Dr. E. G. Gersdorf. Einunddreissigster Band. Leipzig: Brockhaus 1842, [S. 76](https://books.google.com/books?id=9HNDdEcGZ0MC&pg=PA76)."
 cast:
   - name: Cartouche.
     gender: m
@@ -30656,6 +30713,42 @@ settings:
       wikidataId: Q90
   - description: >-
       Ein elegantes Zimmer, mit einer Mittel- und zwei Seitenthüren, deren eine in das Cabinet der Frau von St. Remy führt, die andere in das Schlafgemach des Kammermädchens. – Im Hintergrunde links ein Kamin. Auf derselben Seite vorn ein kleiner Tisch, auf welchem zwei Kerzen, von denen jedoch nur eine brennt – bei dieser ein aufgeschlagenes Buch. Sessel etc.
+---
+id: ein002693
+slug: dorich-der-onkel-als-modell
+author:
+  name: Dorich, J.
+  wikidata: Q134300229
+title: Der Onkel als Modell
+subtitle: Posse in einem Akt, frei nach dem Französischen
+numOfScenes: 11
+yearPrinted: 1844
+formalia:
+  - Prosa
+basedOn:
+  - ader-l-oncle-modele
+editions:
+  - title: "Vor und hinter den Coulissen. Almanach erprobter Bühnenspiele, humoristischer Polterabend-Masken, Theater-Mysterien, Schaupieler-Novellen und Anekdoten. Für 1844. Herausgegeben von Friedrich Adami. Erster Jahrgang. Berlin: Förstner [1844], S. 117–165"
+    url: https://books.google.com/books?id=INQuzI6swjkC&pg=PA117
+cast:
+  - name: Egidius Touchard,
+    role: Rentier.
+    gender: m
+  - name: Madame Touchard,
+    role: seine Frau.
+    gender: f
+  - name: Maigret,
+    role: Maler.
+    gender: m
+  - name: Rosette,
+    role: seine Tochter.
+    gender: f
+  - name: Arthur,
+    role: sein Zögling, Touchard's Neffe.
+    gender: m
+settings:
+  - description: >-
+      Zwei Zimmer neben einander, durch einen Verschlag getrennt. – In dem Zimmer des Malers ein kolossales Bild auf einer Staffelei, und noch andere herum stehende und hängende Gemälde. – Stühle, eine Seitenthür. – In dem Zimmer Touchards, unter andern Möbeln, ein runder Tisch im Alkoven. – Die Ofenröhre geht durch einen Ausschnitt der Scheidewand aus einem Zimmer in das andere. Die Oeffnung ist etwas weiter als die Ofenröhre, dergestalt, daß ein schmaler Zwischenraum bleibt. In der Nähe der Ofenröhre ist an der Wand in dem Zimmer des Malers eine bunt gewirkte Schnur befestigt, an deren Ende ein Bild hängt. Im Hintergrunde eines jeden der beiden Zimmer eine Thür und, außer dieser, in dem Zimmer des Malers noch eine Seitenthür.
 ---
 id: ein000657
 slug: dorsch-das-gitter
@@ -105563,6 +105656,52 @@ cast:
     gender: m
 settings:
   - description: Der Schauplatz ist auf einem Saale mit etlichen Thüren.
+---
+id: ein002691
+slug: weisse-der-krug-geht-so-lange-zu-wasser-bis-er-zerbricht-oder-der-amtmann
+author:
+  name: Weiße, Christian Felix
+  wikidata: Q68815
+title: "Der Krug geht so lange zu Wasser, bis er zerbricht; oder der Amtmann"
+subtitle: Ein Schauspiel in Einem Aufzuge
+numOfScenes: 18
+yearPrinted: 1786
+formalia:
+  - Prosa
+editions:
+  - title: "Briefwechsel der Familie des Kinderfreundes. Sechster Theil. Leipzig: Crusius 1786, S. 185–318"
+    url: https://books.google.com/books?id=rS0x6ZfY1fUC&pg=PA185
+  - title: "Hannover: Wehrhahn 2013"
+    url: https://www.wehrhahn-verlag.de/public/index.php?ID_Section=3&ID_Product=896
+ids:
+  wikidata: Q134300175
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr Greif,
+    role: Amtmann und Commissionsrath in einer kleinen Stadt eines Amtsbezirks.
+    gender: m
+  - name: Herr von Habicht,
+    role: Landcammerrath, ein reicher Guthsbesitzer.
+    gender: m
+  - name: Herr Gotthold,
+    role: Amtsaktiarius.
+    gender: m
+  - name: Herr Biedermann, der ältere,
+    role: Hofrath und Assessor bey der Landesregierung.
+    gender: m
+  - name: Biedermann, der jüngere,
+    role: ein Lehrling von ungefähr zwanzig Jahren im Amte.
+    gender: m
+  - name: Lucius,
+    role: Besitzer eines kleinen Guths in Habichts Gerichten.
+    gender: m
+  - name: Julie,
+    role: dessen Tochter, ein Frauenzimmer von sechszehn bis siebzehn Jahren.
+    gender: f
+settings:
+  - description: >-
+      Der Schauplatz ist in einer Amtsstube, in einer kleinen Stadt.
 ---
 id: ein002268
 slug: weisse-der-ungezogene-knabe
