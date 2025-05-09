@@ -14975,6 +14975,35 @@ dictionaries:
 comments:
   - "Musik von Ignaz Walter (1755–1822)."
 ---
+id: ein002731
+slug: anonym-philippine
+author:
+  name: R.
+  pseudonym: Anonym
+title: Philippine
+subtitle: Original-Lustspiel in einem Akt
+numOfScenes: 12
+yearPrinted: 1822
+formalia:
+  - Alexandriner
+editions:
+  - title: "Concordia. Erster Jahrgang. Zur Unterstützung der leidenden Menschheit. Grimma: Göschen 1822, S. 285–332"
+    url: https://books.google.com/books?id=-HA6AAAAcAAJ&pg=PA285
+cast:
+  - name: Ferdinand,
+    role: Oberförster.
+    gender: m
+  - name: Philippine,
+    role: dessen Frau.
+    gender: f
+  - name: Adolph,
+    role: Philippinens Bruder.
+    gender: m
+settings:
+  - description: Scene in einem Pommerschen Forste.
+    location:
+      wikidataId: Q836689
+---
 id: ein000313
 slug: anonym-philotas
 author:
@@ -15323,6 +15352,38 @@ settings:
       Scene: Cornwallis. Zeit: 1662.
     location:
       wikidataId: Q23148
+---
+id: ein002730
+slug: anonym-unnoethige-eifersucht-oder-die-folgen-einer-ohnmacht
+author:
+  name: R.
+  pseudonym: Anonym
+title: Unnöthige Eifersucht oder die Folgen einer Ohnmacht
+subtitle: Lustspiel in einem Akt
+numOfScenes: 16
+yearPrinted: 1822
+formalia:
+  - Alexandriner
+editions:
+  - title: "Concordia. Erster Jahrgang. Zur Unterstützung der leidenden Menschheit. Grimma: Göschen 1822, S. 217–284"
+    url: https://books.google.com/books?id=-HA6AAAAcAAJ&pg=PA217
+cast:
+  - name: Walter.
+    gender: m
+  - name: Clementine.
+    gender: f
+  - name: Lisette.
+    gender: f
+  - name: Nachbar Sander.
+    gender: m
+  - name: Catharine.
+    gender: f
+  - name: Graf Adolph.
+    gender: m
+  - name: Fritz.
+    gender: m
+  - name: Gerichtsrath Streblot.
+    gender: m
 ---
 id: ein000321
 slug: anonym-verlobung-bei-kaiserslautern
