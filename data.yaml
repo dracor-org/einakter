@@ -4721,6 +4721,36 @@ settings:
     location:
       wikidataId: Q2634
 ---
+id: ein002729
+slug: anonym-der-apostat
+author:
+  pseudonym: Anonym
+title: Der Apostat
+subtitle: Eine dramatisirte Vision in einem Akt
+numOfScenes: 1
+yearPrinted: 1848
+formalia:
+  - Prosa
+editions:
+  - title: "Zofingen: Steinegger 1848"
+    url: https://books.google.com/books?id=jahKU2re_3UC&printsec=frontcover
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 264 (Sonnabend, 3. November 1849), [S. 1053](https://books.google.com/books?id=VUFaAAAAcAAJ&pg=PA1053)."
+cast:
+  - name: Der Apostat.
+    gender: m
+  - name: Der Jesuitengeneral.
+    gender: m
+  - name: Ein Jesuit.
+    gender: m
+  - name: Der Geist Jakob Müllers.
+    gender: m
+  - name: Ein Diener.
+    gender: m
+settings:
+  - description: >-
+      Ein melancholisches Zimmer; im Hintergrunde eine Flügelthüre, rechts davon hängt das Portrait des Ratsherrn Leu, links Magistratshut und Degen und ein österreichischer Kammerherrenschlüssel, im Vordergrunde steht ein Tisch mit Schriften beladen. – Es ist Nacht; der Wind heult und peitscht den Regen stoßweise an die Fenster, in der Ferne rollt der Donner unaufhörlich und der Blitz erleuchtet auf Augenblicke das finstere Zimmer. Eine Uhr schlägt mit dumpfen Schlägen Eilf. Bald darauf stürzt der Apostat, völlig schwarz angekleidet, einen Nachtrock übergeworfen, mit einem Lichte herein.
+---
 id: ein000095
 slug: anonym-der-aufschub
 author:
@@ -9087,6 +9117,16 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist in des Herrn Edelhertz Schloß-Platze, nach dem Garten zu.
+---
+id: ein002727
+slug: anonym-die-erwartung
+author:
+  pseudonym: Anonym
+title: Die Erwartung
+subtitle: Ein ländliches Gemälde in 1 A.
+yearPrinted: 1807
+editions:
+  - title: "Grätz: Tusch 1807"
 ---
 id: ein000194
 slug: anonym-die-erzwungene-einwilligung
@@ -32756,10 +32796,22 @@ settings:
   - description: >-
       Siegmunds Comtoirstube.
 ---
-id: ein002701
-slug: eichhof-ratzky-als-dolmetscher-und-lohnlakai-und-als-brautwerber
+id: ein002726
+slug: eichhoff-der-poetisirende-eckensteher-oder-die-unterbrochene-nachtmusik
 author:
-  name: Eichhof, Carl
+  name: Eichhoff, Carl
+title: Der poetisirende Eckensteher oder die unterbrochene Nachtmusik
+subtitle: Schwank in 1 Akt im Berliner Dialect
+yearPrinted: 1836
+editions:
+  - title: "Leipzig: Glück [1836]"
+comments:
+  - "Ein Exemplar liegt an der [SUB Göttingen](https://opac.sub.uni-goettingen.de/DB=1/XMLPRS=N/PPN?PPN=135924588)."
+---
+id: ein002701
+slug: eichhoff-ratzky-als-dolmetscher-und-lohnlakai-und-als-brautwerber
+author:
+  name: Eichhoff, Carl
 title: Ratzky als Dolmetscher und Lohnlakai und als Brautwerber
 subtitle: Eine dramatische Posse in einem Akt und ein Lustspiel in einem Akt
 yearPrinted: 1837
@@ -35934,6 +35986,19 @@ cast:
 settings:
   - description: >-
       Schreibzimmer des Geheimeraths. Auf dem Tische, neben mehreren Akten, ein Armleuchter mit zwei brennenden Lichtern. Es ist Morgens fünf Uhr.
+---
+id: ein002728
+slug: freygang-doctor-gall-auf-der-reise
+author:
+  name: Freygang, Wilhelm von
+  wikidata: Q15955386
+title: Doctor Gall auf der Reise
+subtitle: Ein Lustspiel in einem Aufzuge
+yearPrinted: 1805
+editions:
+  - title: "Göttingen: Dieterich 1805"
+comments:
+  - "Ein Exemplar liegt an der [SUUB Bremen](https://suche.suub.uni-bremen.de/peid=B13585301)."
 ---
 id: ein002637
 slug: freygang-geniestreiche
