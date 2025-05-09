@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://gexf.net/1.2" version="1.2">
-  <meta lastmodifieddate="2025-05-09T15:20:29.721Z">
+  <meta lastmodifieddate="2025-05-09T18:20:20.190Z">
     <creator>einakter.dracor.org</creator>
     <description>Einakter translators network</description>
   </meta>
@@ -880,6 +880,13 @@
         </attvalues>
       </node>
       <node id="Q21091604" label="Amable de Saint-Hilaire">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="false"/>
+          <attvalue for="translated-author" value="true"/>
+        </attvalues>
+      </node>
+      <node id="Q3856395" label="Michel Masson">
         <attvalues>
           <attvalue for="gender" value="male"/>
           <attvalue for="translator" value="false"/>
@@ -3143,6 +3150,8 @@
       <edge id="Q19125906|Q2444307" source="Q19125906" target="Q2444307" weight="1"/>
       <edge id="Q19125906|Q21393296" source="Q19125906" target="Q21393296" weight="1"/>
       <edge id="Q19125906|Q21091604" source="Q19125906" target="Q21091604" weight="1"/>
+      <edge id="Q19125906|Q1399502" source="Q19125906" target="Q1399502" weight="1"/>
+      <edge id="Q19125906|Q3856395" source="Q19125906" target="Q3856395" weight="1"/>
       <edge id="Q19125906|Q2074119" source="Q19125906" target="Q2074119" weight="2"/>
       <edge id="Q19125906|Q14911953" source="Q19125906" target="Q14911953" weight="1"/>
       <edge id="Q19125906|Q1677861" source="Q19125906" target="Q1677861" weight="1"/>

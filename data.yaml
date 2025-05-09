@@ -28633,6 +28633,45 @@ settings:
   - description: >-
       Die Scene spielt in einer großen Stadt.
 ---
+id: ein002738
+slug: cosmar-der-kuenstler-nach-dem-tode
+author:
+  name: Cosmar, Alexander
+  wikidata: Q19125906
+title: Der Künstler nach dem Tode
+subtitle: Posse in einem Aufzuge
+numOfScenes: 13
+yearPrinted: 1840
+formalia:
+  - Prosa
+editions:
+  - title: "Dramatischer Salon. Almanach kleiner Bühnenspiele zur Unterhaltung in geselligen Kreisen. Von Alexander Cosmar. Zweiter Jahrgang. Berlin: Morin 1840, S. 207–249"
+    url: https://books.google.com/books?id=O1r5l_rz9tYC&pg=PA207
+cast:
+  - name: Arthur,
+    role: Maler.
+    gender: m
+  - name: Fanny,
+    role: seine Frau.
+    gender: f
+  - name: Krambambuli,
+    role: Arzt.
+    gender: m
+  - name: James,
+    role: Stiefelwichs-Fabrikant.
+    gender: m
+  - name: Rüpell,
+    role: Gerichtsdiener.
+    gender: m
+  - name: Tom,
+    role: Arthur's Farbenreiber.
+    gender: m
+settings:
+  - description: >-
+      Die Scene spielt in London.
+    location:
+      wikidataId: Q84
+---
 id: ein000595
 slug: cosmar-der-meuchelmoerder-oder-der-fluch-der-boesen-that
 author:
@@ -28995,6 +29034,40 @@ settings:
       Die Scene spielt in einer Stadt des südlichen Deutschlands.
   - description: >-
       Das Theater stellt einen kleinen Saal mit der Aussicht auf einen Garten dar. Im Hintergrunde eine Glasthür, aus welcher man auf einen Perron tritt. Rechts im Vordergrunde, auf einer in grader Richtung hervorspringenden, dem Publikum ganz sichtbaren Wand, eine Thür, deren oberer Theil aus einem Drahtgeflecht besteht. Hinter diesem Gitter grüne Gardinen zum Zuziehen. Durch diese Thür, welche ein kleines Kabinet verschließt, sieht man auf einem Repositorium Zwiebeln, Blumen und Säckchen mit daran befindlichen Zetteln. Links im Vordergrunde ein Tisch mit Schreibmaterialien, daneben ein Armstuhl.
+---
+id: ein002737
+slug: cosmar-die-versucherin
+author:
+  name: Cosmar, Alexander
+  wikidata: Q19125906
+title: Die Versucherin
+subtitle: "Lustspiel in einem Aufzuge, nach Xavier's »Diable amoureux« bearbeitet"
+numOfScenes: 17
+yearPrinted: 1840
+formalia:
+  - Prosa
+basedOn:
+  - saintine-masson-le-diable-amoureux
+editions:
+  - title: "Dramatischer Salon. Almanach kleiner Bühnenspiele zur Unterhaltung in geselligen Kreisen. Von Alexander Cosmar. Zweiter Jahrgang. Berlin: Morin 1840, S. 103–151"
+    url: https://books.google.com/books?id=O1r5l_rz9tYC&pg=PA103
+cast:
+  - name: Federico Nunez,
+    role: Noviz in einem Franziskaner-Kloster.
+    gender: m
+  - name: Juan Mosquito,
+    role: sein Freund, Professor der Musik.
+    gender: m
+  - name: Esther.
+    gender: f
+  - name: Landleute beiderlei Geschlechts.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Scene spielt in dem Dorfe Olias, zwei Stunden von Toledo; Zeit der Handlung: das 16te Jahrhundert.
+    location:
+      wikidataId: Q674525
 ---
 id: ein000602
 slug: cosmar-drei-frauen-auf-einmal
@@ -33899,6 +33972,50 @@ cast:
 settings:
   - description: >-
       Scene: ein Zimmer im Pallast des Seleukus.
+---
+id: ein002736
+slug: engel-titus
+author:
+  name: Engel, Johann Jakob
+  wikidata: Q71442
+title: Titus
+subtitle: Vorspiel in einem Aufzuge, zur Feier des Geburtsfestes des Prinzen von Preussen (nachherigen Königs Friedrich Wilhelm II). Geschrieben im Jahre 1779
+numOfScenes: 9
+yearWritten: 1779
+yearPrinted: 1803
+formalia:
+  - Prosa
+editions:
+  - title: "J. J. Engel's Schriften. Fünfter Band. Schauspiele. Erster Theil. Berlin: Mylius 1803, S. 151–188"
+    url: https://books.google.com/books?id=eGw5AAAAMAAJ&pg=PA151
+comments:
+  - "Einaktermarkierung nur [im Inhaltsverzeichnis](https://books.google.com/books?id=eGw5AAAAMAAJ&pg=PP7) (1803), Untertitel auf dem Deckblatt nur »Ein Vorspiel«."
+cast:
+  - name: Vespasian,
+    role: Römischer Imperator.
+    gender: m
+  - name: Titus,
+    role: sein Sohn und Nachfolger.
+    gender: m
+  - group:
+      - name: Valerius,
+        gender: m
+      - name: Sejus,
+        gender: m
+    role: zwei der ältesten Senatoren.
+  - name: Mucianus, Nerva, Pedius, Eprius, Cäcina, Priscus, Cejonius, Novius, und eine Menge anderer Senatoren.
+    isGroup: true
+    gender: m
+  - name: Ein Bote.
+    gender: m
+  - name: Diener des Raths.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Die Scene: ein Römischer Tempel, der Versammlungsort des Senats. Im Hintergrunde, ein auf Stufen erhöhter kurulischer Stuhl; zu beiden Seiten, die Sitze der Senatoren.
+    location:
+      wikidataId: Q220
 ---
 id: ein000705
 slug: erath-der-schulmeister-in-der-klemme
@@ -44989,6 +45106,8 @@ yearPrinted: 1807
 premiered: 1821-09-30
 formalia:
   - Alexandriner
+basedOn:
+  - descombes-le-parleur-eternel
 editions:
   - title: "Leipzig: Bruder und Hofmann 1807"
     url: https://books.google.com/books?id=Do5lAAAAcAAJ&printsec=frontcover
@@ -96213,6 +96332,8 @@ premiered: 1799-04-05
 formalia:
   - Prosa
 editions:
+  - title: "Frankfurt am Main: Eßlinger 1798"
+    url: https://books.google.com/books?id=eP4jMSQBU2EC&printsec=frontcover
   - title: "Neue Sammlung Deutscher Schauspiele. Dritten Jahrgangs Zehnter Band. Grätz 1798"
     url: https://books.google.com/books?id=7mJlAAAAcAAJ&pg=RA3-PA1
   - title: "Lustspiele von Freyherrn von Steigentesch. Wien und Triest: Geistinger 1808, S. 1–52"
