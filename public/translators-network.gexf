@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://gexf.net/1.2" version="1.2">
-  <meta lastmodifieddate="2025-05-09T18:20:20.190Z">
+  <meta lastmodifieddate="2025-05-09T18:42:46.548Z">
     <creator>einakter.dracor.org</creator>
     <description>Einakter translators network</description>
   </meta>
@@ -1349,6 +1349,13 @@
         </attvalues>
       </node>
       <node id="Q2958089" label="Charles-Gaspard Delestre-Poirson">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="false"/>
+          <attvalue for="translated-author" value="true"/>
+        </attvalues>
+      </node>
+      <node id="Q22210527" label="Charles Maurice Descombes">
         <attvalues>
           <attvalue for="gender" value="male"/>
           <attvalue for="translator" value="false"/>
@@ -3228,6 +3235,7 @@
       <edge id="Q215439|Q2958089" source="Q215439" target="Q2958089" weight="2"/>
       <edge id="Q215439|Q444663" source="Q215439" target="Q444663" weight="1"/>
       <edge id="Q215439|Q255324" source="Q215439" target="Q255324" weight="1"/>
+      <edge id="Q215439|Q22210527" source="Q215439" target="Q22210527" weight="1"/>
       <edge id="Q215439|Q177565" source="Q215439" target="Q177565" weight="1"/>
       <edge id="Q215439|Q3287646" source="Q215439" target="Q3287646" weight="1"/>
       <edge id="Q215439|Q19629451" source="Q215439" target="Q19629451" weight="1"/>

@@ -1673,17 +1673,16 @@ premiered: 1812-09-08
 fulltextUrl: https://books.google.com/books?id=Sso5AAAAcAAJ&printsec=frontcover
 ---
 id: eorig000523
-slug: saintine-masson-le-diable-amoureux
-authors:
-  - name: Saintine
-    wikidata: Q1399502
-  - name: Michel Masson
-    wikidata: Q3856395
-title: Le diable amoureux
-subtitle: Comédie-vaudeville en un acte
+slug: descombes-le-parleur-eternel
+author:
+  name: Charles-Maurice Descombes
+  wikidata: Q22210527
+title: Le parleur éternel
+subtitle: Comédie en un acte et en vers
 language: fre
-premiered: 1836-09-28
-fulltextUrl: https://books.google.com/books?id=h4M_AAAAcAAJ&printsec=frontcover
+yearPrinted: 1805
+premiered: 1805-10-05
+fulltextUrl: https://books.google.com/books?id=AY-gBnazhXAC&printsec=frontcover
 ---
 id: eorig000122
 slug: de-segur-le-retour-du-mari
@@ -5355,6 +5354,19 @@ subtitle: Comédie-vaudeville
 language: fre
 premiered: 1841-02-27
 fulltextUrl: https://books.google.com/books?id=Ty4OLll-rPkC&printsec=frontcover
+---
+id: eorig000524
+slug: saintine-masson-le-diable-amoureux
+authors:
+  - name: Saintine
+    wikidata: Q1399502
+  - name: Michel Masson
+    wikidata: Q3856395
+title: Le diable amoureux
+subtitle: Comédie-vaudeville en un acte
+language: fre
+premiered: 1836-09-28
+fulltextUrl: https://books.google.com/books?id=h4M_AAAAcAAJ&printsec=frontcover
 ---
 id: eorig000385
 slug: saint-jory-arlequin-en-deuil-de-lui-meme
