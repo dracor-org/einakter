@@ -24945,6 +24945,19 @@ cast:
 settings:
   - description: Der Schauplatz ist ein wilder Ort an dem Ufer des Meers.
 ---
+id: ein002733
+slug: carlo-bruder-fritz
+author:
+  name: Carlo
+title: Bruder Fritz
+subtitle: Original-Lustspiel in einem Akt
+yearPrinted: 1839
+editions:
+  - title: "Komus. Etui-Repertoir für deutsche Bühnen und Privat-Theater. Sammlung kleiner Lustspiele herausgegeben von K. von Mainau. Zweites Bändchen. Breslau: Kern 1839"
+reviews:
+  - "Literaturblatt von uns für Schlesien. Zehntes Stück (October 1839). [S. 294–295](https://sbc.org.pl/Content/737158/PDF/i4002-1839-10-0001.pdf#page=126)."
+  - "Blätter für literarische Unterhaltung. Nr. 330 (Mittwoch, 25. November 1840), [S. 1331](https://books.google.com/books?id=KpcKAAAAYAAJ&pg=PA1331)."
+---
 id: ein002491
 slug: carnier-fuer-gott-koenig-und-vaterland
 author:
@@ -31231,6 +31244,19 @@ cast:
 settings:
   - description: >-
       Straße, rechts der Stadt-Direktors-Wohnung.
+---
+id: ein002734
+slug: anonym-doctor-robin
+author:
+  name: G., L. V.
+  pseudonym: Anonym
+title: Doctor Robin
+subtitle: "Lustspiel in einem Aufzuge. Nach dem Französischen bearbeitet"
+yearPrinted: 1843
+basedOn:
+  - premaray-le-docteur-robin
+editions:
+  - title: "Karlsruhe: Macklot 1843"
 ---
 id: ein000649
 slug: doering-der-kaisersitz
@@ -55578,6 +55604,8 @@ editions:
     url: https://books.google.com/books?id=CdM5AAAAcAAJ&printsec=frontcover
   - title: "Wien: Wallishausser 1804"
     url: https://books.google.com/books?id=aKtIAAAAcAAJ&printsec=frontcover
+  - title: "Zwey Lustspiele für stehende Bühnen und Liebhabertheater. Zweite Auflage. Frankfurt am Main: Simon 1804, S. 9–80"
+    url: https://books.google.com/books?id=lWRBAQAAMAAJ&pg=PA9
 comments:
   - "»Das Stück wurde zwischen 1802 und 1812 auch als Lustspiel, vermutlich ohne Musik, unter dem Titel ›Der Hausverkauf‹ in einer Bearbeitung von Jakob Herzfeld gespielt.« ([Notiz](https://staatsarchive.thulb.uni-jena.de/receive/ThHStAW_performance_00032413) zu Theaterzettel Lauchstädt)"
 cast:
@@ -94015,6 +94043,41 @@ settings:
   - description: >-
       Saal im Schlosse; im Hintergrunde eine aus Rosenstöcken und Blumentöpfen aller Art künstlich gebildete Laube, in deren Mittelpunkt sich eine vollblühende Rose bemerkbar macht. Ringsherum im Halbkreise Orangen- und Zitronenbäume.
 ---
+id: ein002735
+slug: seidl-propertia-rossi
+author:
+  name: Seidl, Johann Gabriel
+  wikidata: Q86587
+title: Propertia Rossi
+subtitle: Trauerspiel in Einem Aufzuge
+numOfScenes: 10
+yearPrinted: 1830
+formalia:
+  - vierhebige trochäische Verse
+editions:
+  - title: "Aurora. Taschenbuch für das Jahr 1830. Herausgegeben von Johann Gabriel Seidl. Siebenter Jahrgang. Wien: Buchholz [1830], S. 3–48"
+    url: http://data.onb.ac.at/rep/1026BDDB
+cast:
+  - name: Propertia Rossi,
+    role: Malerin und Bildhauerin.
+    gender: f
+  - name: Angelika,
+    role: ihre Freundin.
+    gender: f
+  - name: Leone.
+    gender: f
+  - group:
+      - name: Piedro
+        gender: f
+      - name: Giacomo
+        gender: m
+    role: Diener Propertia's.
+settings:
+  - description: >-
+      Zeit der Handlung: das sechzehnte Jahrhundert. – Ort: Bologna.
+    location:
+      wikidataId: Q1891
+---
 id: ein001983
 slug: seipp-die-tobacksdose
 author:
@@ -97708,6 +97771,67 @@ cast:
     gender: m
 settings:
   - description: Der Schauplatz ist in Damons Hause.
+---
+id: ein002732
+slug: teichlein-ein-besuch-auf-erden
+author:
+  name: Teichlein, Anton
+  wikidata: Q594729
+title: Ein Besuch auf Erden
+subtitle: Dramatische Skizze in einem Akt zur Feier von Goethes hundertjährigem Geburtstag
+numOfScenes: 5
+yearPrinted: 1849
+formalia:
+  - Verse
+editions:
+  - title: "Als Manuscript gedruckt. München: Kaiser [1849]"
+    url: https://books.google.com/books?id=9TRdAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Faust.
+    gender: m
+  - name: Mephistopheles.
+    gender: m
+  - name: Dryas.
+    gender: f
+  - name: Elfen.
+    isGroup: true
+    gender: u
+  - group:
+      - name: Dr. Geist
+        gender: m
+      - name: Maler Müller
+        gender: m
+    role: Mitglieder des Festcomités.
+  - name: Juck,
+    role: Schneidermeister.
+    gender: m
+  - name: Erstes Nähmädchen.
+    gender: f
+  - name: Zweites Nähmädchen.
+    gender: f
+  - group:
+      - name: Erster
+        gender: m
+      - name: Zweiter
+        gender: m
+    role: Alte Herren.
+  - group:
+      - name: Erster
+        gender: m
+      - name: Zweiter
+        gender: m
+    role: Junge Leute.
+  - name: Chor des Volks.
+    isGroup: true
+    gender: u
+  - name: Die Hauptgestalten aus Göthes sämmtlichen Dichtungen.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Mondhelle Nacht. Wald mit einer Durchsicht nach einer fernen Stadt (Frankfurt a. M.). In Mitte der Scene eine mächtige Eiche, in deren Stamm die Buchstaben W. G. und die Jahreszahl 1749 eingeschnitten sind. Darunter der Name »Gretchen« (sichtbar von anderer Hand). Die Dryas des Baumes ruht in seinen Zweigen, um ihn her tanzen die Elfen Ringelreihen und ihre Lieder erfüllen den Wald.
+    location:
+      wikidataId: Q1794
 ---
 id: ein002062
 slug: tenelli-das-duell-am-fenster
