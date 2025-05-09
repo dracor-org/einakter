@@ -2721,6 +2721,55 @@ settings:
   - description: >-
       Ein möglichst eleganter Saal im Casino, mit offener Mittelthür, durch welche man in den Corridor sehen kann. Zwei Seitenthüren. Vorn rechts ein Tisch mit angezündeten Lichtern, links ein Stehspiegel.
 ---
+id: ein002716
+slug: anonym-abbitte-an-fanfan
+author:
+  pseudonym: Anonym
+title: Abbitte an Fanfan
+subtitle: In Einem Aufzuge
+numOfScenes: 10
+yearPrinted: 1803
+basedOn:
+  - jauffret-reparation-d-honneur-a-fanfan
+formalia:
+  - Prosa
+editions:
+  - title: "L. F. Jauffret's Kinderschauspiele. Französisch und deutsch. Erster Theil. Hamburg: Hoffmann 1803, S. 43–91"
+    url: https://books.google.com/books?id=OltdbXsrUT8C&pg=PA43
+keywords:
+  - Kindertheater
+cast:
+  - name: Madame Floricour,
+    role: die Mutter.
+    gender: f
+  - name: Herr Floricour.
+    gender: m
+  - name: Madam Floricour, die jüngere,
+    role: dessen Gemahlin.
+    gender: f
+  - name: Leo,
+    role: deren Sohn.
+    gender: m
+  - name: Laura,
+    role: deren Tochter.
+    gender: f
+  - name: Die Hofmeisterin.
+    gender: f
+  - name: Fanfan,
+    role: Floricours jüngster Sohn.
+    gender: m
+  - name: Picard,
+    role: Bedienter.
+    gender: m
+  - name: Verwandte, Freunde und Nachbarn.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Der Schauplatz ist in Floricours Saale zu Paris.
+    location:
+      wikidataId: Q90
+---
 id: ein002580
 slug: anonym-abentheuer-auf-der-communal-garden-wache
 author:
@@ -3069,8 +3118,11 @@ title: Aurelius
 subtitle: Ein prosaisches Trauerspiel in einer Handlung. Nach dem Gesange in dem ersten Stück der Hamburgischen Beiträge
 numOfScenes: 14
 yearPrinted: 1757
+formalia:
+  - Prosa
 editions:
   - title: "Schriften der Kielischen Gesellschaft der Schönen Wissenschaften. Kiel und Altona: Iversen 1757, S. 203–232"
+    url: https://resolver.sub.uni-hamburg.de/kitodo/PPN1815186992_1757/page/223
 reviews:
   - "Bibliothek der schönen Wissenschaften und der freyen Künste. Sechsten Bandes erstes Stück. Leipzig: Dyck 1760, [S. 101](https://books.google.com/books?id=XIRdAAAAcAAJ&pg=RA1-PA101)."
 comments:
@@ -4143,6 +4195,46 @@ cast:
 settings:
   - description: Der Schauplatz ist in Arists Stube.
 ---
+id: ein002724
+slug: anonym-das-muttersoehnchen
+author:
+  pseudonym: Anonym
+title: Das Muttersöhnchen
+subtitle: Ein Schauspiel in Einem Aufzuge
+numOfScenes: 12
+yearPrinted: 1803
+basedOn:
+  - jauffret-l-enfant-gate
+formalia:
+  - Prosa
+editions:
+  - title: "L. F. Jauffret's Kinderschauspiele. Französisch und deutsch. Zweyter Theil. Hamburg: Hoffmann 1803, S. 65–105"
+    url: https://books.google.com/books?id=Zo1QhmVpMBAC&pg=PA65
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr Harmand.
+    gender: m
+  - name: Mad. Harmand,
+    role: seine Frau.
+    gender: f
+  - name: Sidon,
+    role: ihr Sohn.
+    gender: m
+  - name: Doktor Wegerich.
+    gender: m
+  - name: Doktor Kühltrank.
+    gender: m
+  - name: Ein Wundarzt.
+    gender: m
+  - name: Ein Apotheker.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist zu Paris in Harmands Hause.
+    location:
+      wikidataId: Q90
+---
 id: ein002681
 slug: anonym-das-neue-sparta-oder-preussischer-patriotismus
 author:
@@ -5038,7 +5130,7 @@ settings:
   - description: Das Theater ist eine wüste Insel.
 ---
 id: ein000104
-slug: anonym-der-doppelte-libehaber
+slug: anonym-der-doppelte-liebhaber
 author:
   pseudonym: Anonym
 title: Der doppelte Liebhaber
@@ -6121,6 +6213,52 @@ cast:
     isGroup: true
     gender: m
 ---
+id: ein002719
+slug: anonym-der-kaufladen-wo-nicht-gedungen-wird
+author:
+  pseudonym: Anonym
+title: Der Kaufladen wo nicht gedungen wird
+subtitle: In Einem Aufzuge
+numOfScenes: 10
+yearPrinted: 1803
+basedOn:
+  - jauffret-le-magasin-a-prix-fixe
+formalia:
+  - Prosa
+editions:
+  - title: "L. F. Jauffret's Kinderschauspiele. Französisch und deutsch. Erster Theil. Hamburg: Hoffmann 1803, S. 181–221"
+    url: https://books.google.com/books?id=OltdbXsrUT8C&pg=PA181
+keywords:
+  - Kindertheater
+cast:
+  - name: Dücange.
+    gender: m
+  - group:
+      - name: Elisa,
+        gender: f
+      - name: Laura,
+        gender: f
+      - name: Pamela,
+        gender: f
+    role: seine Nichten.
+  - name: Ismael Sakara,
+    role: oder der Juwelier.
+    gender: m
+  - name: Mad. Plainville und ihre Tochter.
+    isGroup: true
+    gender: f
+  - name: Damis.
+    gender: m
+  - name: Frontignac.
+    gender: m
+  - name: Orgon.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist zu Paris.
+    location:
+      wikidataId: Q90
+---
 id: ein000131
 slug: anonym-der-klaetscher
 author:
@@ -6135,6 +6273,49 @@ dictionaries:
     pages: 2. Abteilung, Band 11, S. 355
 comments:
   - "Unklar, ob identisch mit der Übersetzung [»Der Klätscher«/»Der Unverschwiegene«](anonym-der-unverschwiegene) (gedruckt 1746/1766)."
+---
+id: ein002723
+slug: anonym-der-kleine-grossprahler
+author:
+  pseudonym: Anonym
+title: Der kleine Großprahler
+subtitle: In 1 Aufzuge
+numOfScenes: 7
+yearPrinted: 1803
+basedOn:
+  - jauffret-le-petit-glorieux
+formalia:
+  - Prosa
+editions:
+  - title: "L. F. Jauffret's Kinderschauspiele. Französisch und deutsch. Zweyter Theil. Hamburg: Hoffmann 1803, S. 35–63"
+    url: https://books.google.com/books?id=Zo1QhmVpMBAC&pg=PA35
+keywords:
+  - Kindertheater
+cast:
+  - name: Hr. Düclos.
+    gender: m
+  - name: Narziß,
+    role: sein Sohn.
+    gender: m
+  - group:
+      - name: Hyppolitus,
+        gender: m
+      - name: August,
+        gender: m
+      - name: Julius,
+        gender: m
+    role: Vettern von Narziß.
+  - name: Saffian,
+    role: Schuhmacher.
+    gender: f
+  - name: Anton,
+    role: Sohn des Thürhüters.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist zu Paris in Herrn Düclos Hause.
+    location:
+      wikidataId: Q90
 ---
 id: ein000132
 slug: anonym-der-kranke-in-verlegenheit
@@ -9059,6 +9240,42 @@ cast:
 settings:
   - description: Der Schauplatz ist auf einem Landgute des Marquis.
 ---
+id: ein002718
+slug: anonym-die-folgen-der-naschhaftigkeit-und-des-vorwitzes
+author:
+  pseudonym: Anonym
+title: Die Folgen der Naschhaftigkeit und des Vorwitzes
+subtitle: Ein Schauspiel in 1 Aufzuge
+numOfScenes: 12
+yearPrinted: 1803
+basedOn:
+  - jauffret-les-suites-de-la-friandise-et-de-la-curiosite
+formalia:
+  - Prosa
+editions:
+  - title: "L. F. Jauffret's Kinderschauspiele. Französisch und deutsch. Erster Theil. Hamburg: Hoffmann 1803, S. 141–179"
+    url: https://books.google.com/books?id=OltdbXsrUT8C&pg=PA141
+keywords:
+  - Kindertheater
+cast:
+  - name: Emilia von Volbac,
+    role: Wittwe.
+    gender: f
+  - group:
+      - name: Karl,
+        gender: m
+      - name: August,
+        gender: m
+    role: ihre Kinder.
+  - name: Georg,
+    role: ihr Bedienter.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist zu Paris in Emiliens Saale.
+    location:
+      wikidataId: Q90
+---
 id: ein000197
 slug: anonym-die-frau-pfarrerin
 author:
@@ -9417,6 +9634,46 @@ cast:
     gender: m
 settings:
   - description: Der Schauplatz ist das Haus der Frau Leichtglaubinn.
+---
+id: ein002715
+slug: anonym-die-kleine-neugierige
+author:
+  pseudonym: Anonym
+title: Die kleine Neugierige
+subtitle: Ein Schauspiel in Einem Aufzuge
+numOfScenes: 15
+yearPrinted: 1803
+basedOn:
+  - jauffret-la-petite-curieuse
+formalia:
+  - Prosa
+editions:
+  - title: "L. F. Jauffret's Kinderschauspiele. Französisch und deutsch. Erster Theil. Hamburg: Hoffmann 1803, S. 1–41"
+    url: https://books.google.com/books?id=OltdbXsrUT8C&pg=PA1
+keywords:
+  - Kindertheater
+cast:
+  - name: Albert.
+    gender: m
+  - name: Paul,
+    role: dessen Sohn.
+    gender: m
+  - name: Finette,
+    role: dessen Tochter.
+    gender: f
+  - name: Viktor,
+    role: dessen Neffe.
+    gender: m
+  - name: Brigitta,
+    role: Hofmeisterin.
+    gender: f
+  - name: Picard.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist zu Paris in Alberts Zimmer.
+    location:
+      wikidataId: Q90
 ---
 id: ein000205
 slug: anonym-die-kleinen-schauspieler
@@ -10325,6 +10582,55 @@ cast:
 settings:
   - description: Der Schauplatz ist in der Frau Argante Hause.
 ---
+id: ein002722
+slug: anonym-die-schule-der-menschenpflichten
+author:
+  pseudonym: Anonym
+title: Die Schule der Menschenpflichten
+subtitle: Ein Schauspiel in 1 Aufzuge
+numOfScenes: 11
+yearPrinted: 1803
+basedOn:
+  - jauffret-l-ecole-de-l-humanite
+formalia:
+  - Prosa
+editions:
+  - title: "L. F. Jauffret's Kinderschauspiele. Französisch und deutsch. Zweyter Theil. Hamburg: Hoffmann 1803, S. 1–33"
+    url: https://books.google.com/books?id=Zo1QhmVpMBAC&pg=PA1
+keywords:
+  - Kindertheater
+cast:
+  - name: Düvallon.
+    gender: m
+  - name: Eduard,
+    role: dessen Sohn.
+    gender: m
+  - name: Alphonsine,
+    role: dessen Tochter.
+    gender: f
+  - group:
+      - name: Alexander,
+        gender: m
+      - name: Luzian,
+        gender: m
+    role: Eduards Freunde.
+  - name: Adelheid,
+    role: Alphonsinens Freundinn.
+    gender: f
+  - name: Leonharde,
+    role: Hofmeisterinn.
+    gender: f
+  - name: Ein Schiffer.
+    gender: m
+  - name: Victor,
+    role: dessen Sohn.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung ist auf Herrn Düvallons Landgute, bei St. Cloud.
+    location:
+      wikidataId: Q189153
+---
 id: ein002692
 slug: anonym-die-schulfreunde
 author:
@@ -10914,6 +11220,62 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist in des Herrn Pilsters seinem Zimmer. Es ist Samstag 10 Uhr, da sich die Schauspieler gewöhnlich wegen der Gage versammeln.
+---
+id: ein002717
+slug: anonym-die-gefahren-der-schwatzhaftigkeit
+author:
+  pseudonym: Anonym
+title: Die Gefahren der Schwatzhaftigkeit
+subtitle: Ein Schauspiel in Einem Aufzuge
+numOfScenes: 13
+yearPrinted: 1803
+basedOn:
+  - jauffret-les-dangers-de-l-indiscretion
+formalia:
+  - Prosa
+editions:
+  - title: "L. F. Jauffret's Kinderschauspiele. Französisch und deutsch. Erster Theil. Hamburg: Hoffmann 1803, S. 93–139"
+    url: https://books.google.com/books?id=OltdbXsrUT8C&pg=PA93
+keywords:
+  - Kindertheater
+cast:
+  - name: Brigitta,
+    role: Kasimir's und Nicette'ns Hofmeisterin.
+    gender: f
+  - group:
+      - name: Kasimir,
+        gender: m
+      - name: Nicette,
+        gender: f
+    role: Kinder des Herrn von Grünau.
+  - name: Thomas,
+    role: Verwalter.
+    gender: m
+  - name: Niklaus,
+    role: Großknecht.
+    gender: m
+  - name: Wilhelm,
+    role: Stallknecht.
+    gender: m
+  - name: Johann,
+    role: Gärtner.
+    gender: m
+  - name: Michel,
+    role: Hausknecht.
+    gender: m
+  - group:
+      - name: Roustan,
+        gender: m
+      - name: La Pince,
+        gender: m
+      - name: Roller,
+        gender: m
+      - name: Jaquet,
+        gender: m
+    role: Räuber.
+settings:
+  - description: >-
+      Der Schauplatz ist auf dem Schlosse des Herrn von Grünau.
 ---
 id: ein000236
 slug: anonym-die-geheime-gesellschaft-oder-die-freymaeurer
@@ -13150,6 +13512,51 @@ settings:
     location:
       wikidataId: Q84
 ---
+id: ein002720
+slug: anonym-hector-oder-wer-andern-eine-grube-graebt-faellt-selbst-hinein
+author:
+  pseudonym: Anonym
+title: "Hector, oder: Wer andern eine Grube gräbt, fällt selbst hinein"
+subtitle: Ein Schauspiel in Einem Aufzuge
+numOfScenes: 12
+yearPrinted: 1803
+basedOn:
+  - jauffret-hector-ou-tel-veut-jouer-autrui-qui-se-joue-lui-meme
+formalia:
+  - Prosa
+editions:
+  - title: "L. F. Jauffret's Kinderschauspiele. Französisch und deutsch. Erster Theil. Hamburg: Hoffmann 1803, S. 223–263"
+    url: https://books.google.com/books?id=OltdbXsrUT8C&pg=PA223
+keywords:
+  - Kindertheater
+cast:
+  - name: Herr von Levy.
+    gender: m
+  - name: Frau von Levy.
+    gender: f
+  - group:
+      - name: Eduard,
+        gender: m
+      - name: Hektor,
+        gender: m
+      - name: Achilles,
+        gender: m
+      - name: August,
+        gender: m
+    role: ihre Neffen.
+  - name: Mathurin Auda,
+    role: Pächter.
+    gender: m
+  - name: Michel,
+    role: Großknecht.
+    gender: m
+  - name: Müller,
+    role: Bedienter.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist im Schlosse des Herrn von Levy während der schönen Jahrszeit.
+---
 id: ein002599
 slug: anonym-herr-hampes-als-stadtrath
 author:
@@ -14366,6 +14773,64 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 32, S. 40
 ---
+id: ein002725
+slug: anonym-nichols-oder-der-kleine-wollhaendler
+author:
+  pseudonym: Anonym
+title: "Nichols, oder: der kleine Wollhändler"
+subtitle: Ein Schauspiel in Einem Aufzuge
+numOfScenes: 15
+yearPrinted: 1803
+basedOn:
+  - jauffret-nichols-ou-le-petit-marchand-de-laine
+formalia:
+  - Prosa
+editions:
+  - title: "L. F. Jauffret's Kinderschauspiele. Französisch und deutsch. Zweyter Theil. Hamburg: Hoffmann 1803, S. 107–147"
+    url: https://books.google.com/books?id=Zo1QhmVpMBAC&pg=PA107
+keywords:
+  - Kindertheater
+cast:
+  - name: Nichols,
+    role: der Vater.
+    gender: m
+  - name: Madam Nichols,
+    role: die Mutter.
+    gender: f
+  - name: Nichols,
+    role: der Sohn. Ein Wollhändler.
+    gender: m
+  - name: Lord Baltimor.
+    gender: m
+  - name: Tom,
+    role: Bedienter des jungen Nichols.
+    gender: m
+  - name: Andrews,
+    role: Gastwirth.
+    gender: m
+  - name: Betty,
+    role: dessen Frau.
+    gender: f
+  - group:
+      - name: Georg,
+        gender: m
+      - name: Eduard,
+        gender: m
+      - name: Peters,
+        gender: m
+    role: Nichols Brüder.
+  - group:
+      - name: Polly,
+        gender: f
+      - name: Gemmy,
+        gender: f
+    role: Nichols Schwestern.
+settings:
+  - description: >-
+      Der Schauplatz ist in dem Dorfe Formery, im Kanton Kork in Irland.
+    location:
+      wikidataId: Q162475
+---
 id: ein000312
 slug: anonym-orleans-hoellenfahrt
 author:
@@ -14425,6 +14890,37 @@ cast:
   - name: Cerberus,
     role: (der bekannte Höllenhund.)
     gender: u
+---
+id: ein002721
+slug: anonym-paul
+author:
+  pseudonym: Anonym
+title: Paul
+subtitle: Ein Schauspiel in Einem Aufzuge
+numOfScenes: 10
+yearPrinted: 1803
+basedOn:
+  - jauffret-paulin
+formalia:
+  - Prosa
+editions:
+  - title: "L. F. Jauffret's Kinderschauspiele. Französisch und deutsch. Erster Theil. Hamburg: Hoffmann 1803, S. 265–307"
+    url: https://books.google.com/books?id=OltdbXsrUT8C&pg=PA265
+keywords:
+  - Kindertheater
+cast:
+  - name: Madam Clairval.
+    gender: f
+  - name: Paul,
+    role: ein junger Knabe.
+    gender: m
+  - name: Ein Greis.
+    gender: m
+  - name: Justine.
+    gender: f
+settings:
+  - description: >-
+      Die Handlung geht auf Clairvals Schlosse vor.
 ---
 id: ein002480
 slug: anonym-peter-du-bleibst
@@ -52320,6 +52816,8 @@ editions:
     url: https://books.google.com/books?id=72KS5Et565UC&printsec=frontcover
   - title: "[Ohne Ort] 1808"
     url: https://books.google.com/books?id=UCw7AAAAcAAJ&printsec=frontcover
+  - title: "Theater von Aug. Wilh. Iffland. Erste vollständige Ausgabe. Mit Biographie, Portrait und Facsimile des Verfassers. Einundzwanzigster Band. Wien: Klang 1843, S. 5–44"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB000259D800110009
 cast:
   - name: Sainville,
     role: ein junger Oberst, Sohn eines Ministers.
@@ -58638,6 +59136,8 @@ editions:
 keywords:
   - Sklaverei
   - Ehe
+ids:
+  wikidata: Q134405823
 cast:
   - name: Mustapha,
     role: Vezier des Dey von Tunis.
@@ -81238,6 +81738,7 @@ id: ein001719
 slug: razumovsky-die-befreundeten-nebenbuhler
 author:
   name: Razumovsky, L. G.
+  wikidata: Q125791344
 title: Die befreundeten Nebenbuhler
 subtitle: Original-Lustspiel in einem Act
 numOfScenes: 12
@@ -97618,6 +98119,7 @@ id: ein002424
 slug: thielmann-der-graf-wider-willen-oder-die-heirath-durch-list
 author:
   name: Thielmann, Philipp Jakob
+  wikidata: Q113356378
 title: "Der Graf wider Willen, oder: Die Heirath durch List"
 subtitle: Lustspiel in einem Akt
 numOfScenes: 10
@@ -97651,6 +98153,7 @@ id: ein002075
 slug: thielmann-der-junge-feldherr-oder-die-franzosen-in-aegypten
 author:
   name: Thielmann, Philipp Jakob
+  wikidata: Q113356378
 title: "Der junge Feldherr, oder: die Franzosen in Aegypten"
 subtitle: Historische Skizze damaliger Zeit in einem Akt. Als Liederspiel bearbeitet
 numOfScenes: 9
@@ -97734,6 +98237,7 @@ id: ein002423
 slug: thielmann-die-gesandtschaft
 author:
   name: Thielmann, Philipp Jakob
+  wikidata: Q113356378
 title: Die Gesandtschaft
 subtitle: Ein Schwank in einem Akt
 numOfScenes: 15
@@ -107873,6 +108377,8 @@ editions:
     url: https://books.google.com/books?id=UDVdAAAAcAAJ&printsec=frontcover
   - title: "Das Schicksalsdrama. Herausgegeben von Prof. Dr. Jakob Minor. Berlin und Stuttgart: Spemann [1884], S. 239–291"
     url: http://www.zeno.org/nid/2000589400X
+  - title: "Mit einem Nachwort herausgegeben von Johannes Schmidt. Hannover: Wehrhahn 2014"
+    url: https://www.wehrhahn-verlag.de/public/index.php?ID_Section=3&ID_Product=943
 comments:
   - "Die Erzählung [»Der Vaterfluch«](https://haab-digital.klassik-stiftung.de/viewer/resolver?urn=urn:nbn:de:gbv:32-1-10031832264) (geschrieben 1810, erschienen 1813) von Johann Jakob Willemer, die ein »Gegenstück zu Werners 29stem Februar« sein soll, meint eigentlich den »Vierundzwanzigsten Februar« von Werner."
 keywords:

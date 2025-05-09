@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://gexf.net/1.2" version="1.2">
-  <meta lastmodifieddate="2025-05-07T15:32:56.403Z">
+  <meta lastmodifieddate="2025-05-09T07:23:57.570Z">
     <creator>einakter.dracor.org</creator>
     <description>Einakter translators network</description>
   </meta>
@@ -2867,6 +2867,13 @@
           <attvalue for="translated-author" value="false"/>
         </attvalues>
       </node>
+      <node id="Q1871411" label="Louis-François Jauffret">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="false"/>
+          <attvalue for="translated-author" value="true"/>
+        </attvalues>
+      </node>
       <node id="Q108673470" label="Gottlieb Walz">
         <attvalues>
           <attvalue for="gender" value="male"/>
@@ -3569,6 +3576,7 @@
       <edge id="Q62880|Q1355402" source="Q62880" target="Q1355402" weight="1"/>
       <edge id="Q1539931|Q3340819" source="Q1539931" target="Q3340819" weight="1"/>
       <edge id="Q105906479|Q2893251" source="Q105906479" target="Q2893251" weight="1"/>
+      <edge id="Q105906479|Q1871411" source="Q105906479" target="Q1871411" weight="1"/>
       <edge id="Q108673470|Q41795958" source="Q108673470" target="Q41795958" weight="1"/>
       <edge id="Q108673470|Q347891" source="Q108673470" target="Q347891" weight="1"/>
       <edge id="Q1896914|Q718081" source="Q1896914" target="Q718081" weight="1"/>

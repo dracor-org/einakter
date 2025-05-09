@@ -6387,6 +6387,20 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q125791344": {
+    "name": "Léon Graf Razumovsky",
+    "birth": {
+      "date": "1816-02-14T00:00:00Z",
+      "place": "Sankt Petersburg",
+      "placeId": "http://www.wikidata.org/entity/Q656"
+    },
+    "death": {
+      "date": "1868-02-05T00:00:00Z",
+      "place": "Nizza",
+      "placeId": "http://www.wikidata.org/entity/Q33959"
+    },
+    "gender": "male"
+  },
   "Q108658184": {
     "name": "Johann Jakob Christian von Reck",
     "gnd": "115375228",
@@ -8054,6 +8068,17 @@
     "gnd": "115695222",
     "birth": {},
     "death": {},
+    "gender": "male"
+  },
+  "Q113356378": {
+    "name": "Philipp Thielmann",
+    "gnd": "142341223",
+    "birth": {
+      "date": "1796-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "1864-01-01T00:00:00Z"
+    },
     "gender": "male"
   },
   "Q55126793": {
@@ -11364,6 +11389,22 @@
       "date": "1754-01-28T00:00:00Z",
       "place": "Kopenhagen",
       "placeId": "http://www.wikidata.org/entity/Q1748"
+    },
+    "gender": "male"
+  },
+  "Q1871411": {
+    "name": "Louis-François Jauffret",
+    "gnd": "117089249",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20francois%20jauffret.jpg",
+    "birth": {
+      "date": "1770-10-04T00:00:00Z",
+      "place": "La Roquebrussanne",
+      "placeId": "http://www.wikidata.org/entity/Q817930"
+    },
+    "death": {
+      "date": "1840-12-11T00:00:00Z",
+      "place": "Marseille",
+      "placeId": "http://www.wikidata.org/entity/Q23482"
     },
     "gender": "male"
   },
