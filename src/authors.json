@@ -3201,6 +3201,21 @@
     "gender": "male",
     "ambiguous": true
   },
+  "Q113149628": {
+    "name": "Friedrich von Helldorff",
+    "gnd": "121422372",
+    "birth": {
+      "date": "1789-01-01T00:00:00Z",
+      "place": "Nödlitz",
+      "placeId": "http://www.wikidata.org/entity/Q19965258"
+    },
+    "death": {
+      "date": "1833-03-22T00:00:00Z",
+      "place": "Pegau",
+      "placeId": "http://www.wikidata.org/entity/Q10773"
+    },
+    "gender": "male"
+  },
   "Q55122422": {
     "name": "Gottlob Ludwig Hempel",
     "gnd": "100804179",
@@ -3283,6 +3298,19 @@
       "date": "1830-03-23T00:00:00Z",
       "place": "Berlin",
       "placeId": "http://www.wikidata.org/entity/Q64"
+    },
+    "gender": "male"
+  },
+  "Q94889051": {
+    "name": "Franz Hermes",
+    "gnd": "1038721237",
+    "birth": {
+      "date": "1796-01-01T00:00:00Z",
+      "place": "Sarbinowo",
+      "placeId": "http://www.wikidata.org/entity/Q303423"
+    },
+    "death": {
+      "date": "1866-01-01T00:00:00Z"
     },
     "gender": "male"
   },
