@@ -10112,6 +10112,18 @@ cast:
   - name: Barbe.
     gender: f
 ---
+id: ein002758
+slug: anonym-die-nachdrucker
+author:
+  pseudonym: Anonym
+title: Die Nachdrucker
+subtitle: Lustspiel in einem Aufzuge
+yearPrinted: 1804
+editions:
+  - title: "Leipzig: Baumgärtner 1804"
+comments:
+  - "Kein gedrucktes Exemplar auffindbar. Manuskript an der UB Leipzig (Ms 01262), vgl. Katalog der Handschriften der Universitäts-Bibliothek zu Leipzig. Neue Folge. Band I: Die neuzeitlichen Handschriften der Nullgruppe. Teil 4 (Ms 01201–01518). Beschrieben von Detlef Döring. Leipzig: Harrassowitz 2005, [S. 60](https://books.google.com/books?id=xxujc-ScIIwC&newbks=1&pg=PA60)."
+---
 id: ein000212
 slug: anonym-die-nacht
 author:
@@ -26901,7 +26913,7 @@ title: "Franz und Adam, oder: Das hat er gut gemacht"
 subtitle: Lustspiel in 1 Akt nach dem Französischen des Guilbert Pixerécourt
 premiered: 1804-02-03
 basedOn:
-  - René-Charles Guilbert de Pixerécourt
+  - pixerecourt-les-deux-valets
 ---
 id: ein000553
 slug: castelli-gutes-beispiel
@@ -31867,6 +31879,21 @@ cast:
 settings:
   - description: >-
       Zwei Zimmer neben einander, durch einen Verschlag getrennt. – In dem Zimmer des Malers ein kolossales Bild auf einer Staffelei, und noch andere herum stehende und hängende Gemälde. – Stühle, eine Seitenthür. – In dem Zimmer Touchards, unter andern Möbeln, ein runder Tisch im Alkoven. – Die Ofenröhre geht durch einen Ausschnitt der Scheidewand aus einem Zimmer in das andere. Die Oeffnung ist etwas weiter als die Ofenröhre, dergestalt, daß ein schmaler Zwischenraum bleibt. In der Nähe der Ofenröhre ist an der Wand in dem Zimmer des Malers eine bunt gewirkte Schnur befestigt, an deren Ende ein Bild hängt. Im Hintergrunde eines jeden der beiden Zimmer eine Thür und, außer dieser, in dem Zimmer des Malers noch eine Seitenthür.
+---
+id: ein002759
+slug: dorner-das-staendchen
+author:
+  name: Dorner, Georg
+  wikidata: Q95337063
+title: Das Ständchen
+subtitle: Posse in einem Akte
+yearPrinted: 1833
+formalia:
+  - Prosa
+editions:
+  - title: "Komische Scenen aus dem Leben des Studio und Poeten Hieronymus Grünau. München: Franz 1833"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 181 (Dienstag, 30. Juni 1835), [S. 746](https://books.google.com/books?id=80kFAAAAYAAJ&pg=PA746)."
 ---
 id: ein000657
 slug: dorsch-das-gitter
