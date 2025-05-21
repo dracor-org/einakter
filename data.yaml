@@ -4306,6 +4306,7 @@ dictionaries:
     pages: 2. Abteilung, Band 13, S. 57
 editions:
   - title: "Hamburg: Nottebohm 1745"
+    url: https://purl.uni-rostock.de/rosdok/ppn1847020240
 cast:
   - name: Die Oberzauberin.
     gender: f
@@ -45597,6 +45598,9 @@ editions:
   - title: "Schneeberg: Schumann 1828"
 reviews:
   - "Blätter für literarische Unterhaltung. Nr. 112 (Donnerstag, 14. Mai 1829), [S. 445](https://books.google.de/books?id=hSRaAAAAcAAJ&pg=PA445)."
+ids:
+  dracor: ger000729
+  wikidata: Q134487611
 keywords:
   - Theaterbetrieb
 cast:
@@ -45606,19 +45610,19 @@ cast:
         gender: m
       - name: Wildenhayn.
         gender: m
-      - name: Mad. Silberstoff (als Sappho gekleidet).
+      - name: Mad. Silberstoff, (als Sappho gekleidet.)
         gender: f
-      - name: Mlle. Ida Horst (als Melitta gekleidet),
+      - name: Mlle. Ida Horst, (als Melitta gekleidet)
         role: Wildenhayns Braut.
         gender: f
       - name: Gutmann,
         role: Souffleur.
         gender: m
     role: Schauspieler eines wandernden Theaters.
-  - name: Moorberg (als Phaon gekleidet),
+  - name: Moorberg, (als Phaon gekleidet)
     role: Schauspieler eines fremden Theaters.
     gender: m
-  - name: Eine Choristin (als Sapphos Dienerin gekleidet).
+  - name: Eine Choristin, (als Sapphos Dienerin gekleidet.)
     gender: f
   - name: Der Maschinenmeister.
     gender: m
@@ -45626,7 +45630,7 @@ cast:
     gender: m
 settings:
   - description: >-
-      Dieselbe Decoration, welche in Grillparzers »Sappho« statt findet, jedoch so, dass sich die Bühne dem Publikum von der entgegengesetzten Seite darstellt. – Lampen an den Coulissen und Maschinerie sind sichtbar. – Ein zweites Souffleurhäuschen bietet Front dem Publikum dar. – Der Vorhang wird langsam aufgezogen. Ein zweiter Vorhang, hinter welchem sich ein zweites Publikum dem eigentlichen zeigt, fällt, nachdem folgende Stelle aus »Sappho« – wobei die sich in der Scene befindenden Schauspieler, den Rükken nach dem eigentlichen Publikum kehren – gesprochen worden.
+      Dieselbe Decoration, welche in Grillparzers »Sappho« statt findet, jedoch so, dass sich die Bühne dem Publikum von der *entgegengesetzten* Seite darstellt. – Lampen an den Coulissen und Maschinerie sind sichtbar. – Ein zweites Souffleurhäuschen bietet Front dem Publikum dar. – Der Vorhang wird langsam aufgezogen. Ein zweiter Vorhang, hinter welchem sich ein zweites Publikum dem eigentlichen zeigt, fällt, nachdem folgende Stelle aus »Sappho« – wobei die sich in der Scene befindenden Schauspieler, den Rücken nach dem *eigentlichen* Publikum kehren – gesprochen worden:
 ---
 id: ein000932
 slug: hell-drei-stockwerk-hoch-oder-das-lustspiel-auf-der-treppe
@@ -70171,6 +70175,7 @@ keywords:
   - Vater-Tochter-Konflikt
   - Mutter-Tochter-Konflikt
 ids:
+  dracor: ger000730
   wikidata: Q123238778
 cast:
   - name: Don Diego.
