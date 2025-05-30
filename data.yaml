@@ -2976,13 +2976,13 @@ slug: anonym-allzu-scharf-macht-schartig
 author:
   pseudonym: Anonym
 title: Allzu scharf macht schartig
-subtitle: Dramatisches Sprichwort in 1 Aufzuge
+subtitle: Dramatisirtes Sprichwort in 1 Aufzuge
 numOfScenes: 7
 yearPrinted: 1835
 formalia:
-  - Verse
+  - Alexandriner
 editions:
-  - title: "Taschenbuch dramatisirter Sprüchwörter. Für das Jahr 1835. Zum Gebrauch für gesellige Kreise. Herausgegeben von Pulvermacher. Berlin: Natorff 1835, S. 26–46"
+  - title: "Taschenbuch dramatisirter Sprüchwörter. Für das Jahr 1835. Zum Gebrauch für gesellige Kreise. Herausgegeben von Pulvermacher. Berlin: Natorff 1835, S. 27–46"
 cast:
   - name: Klara.
     gender: f
@@ -4948,7 +4948,7 @@ yearPrinted: 1836
 formalia:
   - Prosa
 editions:
-  - title: "Nordhausen: Fürst 1836"
+  - title: "Anhang: 42 zum Theil wenig bekannte Anekdoten enthaltend. Nordhausen: Fürst 1836, S. 1–22"
 reviews:
   - "Allgemeiner Anzeiger und Nationalzeitung der Deutschen. Nr. 285 (Dienstags, den 18. October 1836), [Sp. 3640](https://books.google.com/books?id=CvgOAAAAYAAJ&pg=PA3639)."
 cast:
@@ -4958,6 +4958,9 @@ cast:
     gender: m
   - name: Zweiter Straßenjunge.
     gender: m
+settings:
+  - description: >-
+      Der Kuckkastenmann tritt mit seinem Kasten auf, den er sogleich zur Schau stellt.
 ---
 id: ein000098
 slug: anonym-der-betrogene-alte-oder-der-soldat-von-einer-vierthelstunde
@@ -7138,6 +7141,18 @@ cast:
 settings:
   - description: >-
       Zimmer in einem Gasthofe, an der Wand hängt ein größeres und ein kleineres Bild.
+---
+id: ein002762
+slug: anonym-der-schatz-aus-egypten
+author:
+  pseudonym: Anonym
+title: Der Schatz aus Egypten
+subtitle: Originallustspiel in einem Akt
+yearPrinted: 1846
+editions:
+  - title: "Das Liebhabertheater. Eine Sammlung der neuesten und besten leicht darstellbaren Theaterstücke des In- und Auslandes, für Privatbühnen und Familienkreise herausgegeben von Theodor Hell. Zweites Bändchen. Grimma: Verlags-Comptoir 1846"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 270 (Sonntag, 27. September 1846), [S. 1078](https://books.google.com/books?id=mFkFAAAAQAAJ&pg=PA1078)."
 ---
 id: ein002378
 slug: anonym-der-schatzgraeber-oder-der-geprellte-geizhals
@@ -10314,6 +10329,17 @@ dictionaries:
 comments:
   - Beschluss einer Liebhaberaufführung in Solothurn. Ohne Jahr, von Meyer ins Jahr 1781 einsortiert.
   - "Vgl. auch Stefan Hulfeld: Zähmung der Masken, Wahrung der Gesichter. Theater und Theatralität in Solothurn 1700–1798. Zürich: Chronos 2000, S. 264."
+---
+id: ein002760
+slug: anonym-die-poststation-oder-der-aufenthalt-im-gasthofe
+author:
+  pseudonym: Anonym
+title: Die Poststation, oder der Aufenthalt im Gasthofe
+subtitle: Eine kölnische Fastnachtposse in einem Akt. Von einer Gesellschaft Kunstfreunde auf dem Theater vorgestellt im März 1818
+yearPrinted: 1818
+premiered: 1818-03
+editions:
+  - title: "Köln: DuMont-Schauberg 1818"
 ---
 id: ein000216
 slug: anonym-die-probe-in-der-vestung-oder-der-stumme-liebhaber
@@ -14805,6 +14831,18 @@ editions:
 reviews:
   - "Baierische Beyträge zur schönen und nützlichen Litteratur. Neuntes Stück (September 1779), [S. 920–921](https://books.google.com/books?id=h5xBAAAAcAAJ&pg=PA920)."
 ---
+id: ein002763
+slug: anonym-maske-fuer-maske
+author:
+  pseudonym: Anonym
+title: Maske für Maske
+subtitle: Lustspiel in 1 Act
+yearPrinted: 1846
+editions:
+  - title: "Das Liebhabertheater. Eine Sammlung der neuesten und besten leicht darstellbaren Theaterstücke des In- und Auslandes, für Privatbühnen und Familienkreise herausgegeben von Theodor Hell. Viertes Bändchen. Grimma: Verlags-Comptoir 1846"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 270 (Sonntag, 27. September 1846), [S. 1078](https://books.google.com/books?id=mFkFAAAAQAAJ&pg=PA1078)."
+---
 id: ein000311
 slug: anonym-minna-oder-das-unschuldige-maedchen
 author:
@@ -15323,7 +15361,7 @@ subtitle: Dramatisches Sprichwort in 1 Aufzuge
 numOfScenes: 6
 yearPrinted: 1835
 formalia:
-  - Verse
+  - Alexandriner
 editions:
   - title: "Taschenbuch dramatisirter Sprüchwörter. Für das Jahr 1835. Zum Gebrauch für gesellige Kreise. Herausgegeben von Pulvermacher. Berlin: Natorff 1835, S. 1–25"
 cast:
@@ -15332,9 +15370,9 @@ cast:
   - name: Gräfin Heilig.
     gender: f
   - group:
-      - name: Nathanael v. Gläubig,
+      - name: Nathanael v. Gläubig.
         gender: m
-      - name: Sara v. Fromm,
+      - name: Sara v. Fromm.
         gender: f
     role: deren Pflegekinder.
   - name: Lieutenant v. Hitzig.
@@ -45596,8 +45634,9 @@ formalia:
   - Alexandriner
 editions:
   - title: "Schneeberg: Schumann 1828"
+    url: https://nbn-resolving.org/urn:nbn:de:urmel-hisbest-358064
 reviews:
-  - "Blätter für literarische Unterhaltung. Nr. 112 (Donnerstag, 14. Mai 1829), [S. 445](https://books.google.de/books?id=hSRaAAAAcAAJ&pg=PA445)."
+  - "Blätter für literarische Unterhaltung. Nr. 112 (Donnerstag, 14. Mai 1829), [S. 445](https://books.google.com/books?id=hSRaAAAAcAAJ&pg=PA445)."
 ids:
   dracor: ger000729
   wikidata: Q134487611
@@ -45753,6 +45792,9 @@ basedOn:
   - bieville-fournier-l-homeopathie
 editions:
   - title: "Dramatisches Vergißmeinnicht auf das Jahr 1839 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Sechszehntes Bändchen. Dresden und Leipzig: Arnoldi 1839, S. 175–226"
+  - title: "Das Liebhabertheater. Eine Sammlung der neuesten und besten leicht darstellbaren Theaterstücke des In- und Auslandes, für Privatbühnen und Familienkreise herausgegeben von Theodor Hell. Drittes Bändchen. Grimma: Verlags-Comptoir 1846"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 270 (Sonntag, 27. September 1846), [S. 1078](https://books.google.com/books?id=mFkFAAAAQAAJ&pg=PA1078)."
 cast:
   - name: Frau von Bergen,
     role: eine junge Witwe.
@@ -46288,6 +46330,21 @@ settings:
       Scene: Ein Zimmer mit Cabinet in Stelten's Wohnung zu Wien.
     location:
       wikidataId: Q1741
+---
+id: ein002761
+slug: hell-zur-gesundheit
+author:
+  name: Hell, Theodor
+  wikidata: Q215439
+title: Zur Gesundheit!
+subtitle: Lustspiel in 1 Act nach Ancelot und Duport, frei bearbeitet von Th. Hell
+yearPrinted: 1846
+basedOn:
+  - ancelot-duport-dieu-vous-benisse
+editions:
+  - title: "Das Liebhabertheater. Eine Sammlung der neuesten und besten leicht darstellbaren Theaterstücke des In- und Auslandes, für Privatbühnen und Familienkreise herausgegeben von Theodor Hell. Erstes Bändchen. Grimma: Verlags-Comptoir 1846"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 270 (Sonntag, 27. September 1846), [S. 1078](https://books.google.com/books?id=mFkFAAAAQAAJ&pg=PA1078)."
 ---
 id: ein000947
 slug: hell-zwei-jahre-verheirathet-oder-wer-ist-daran-schuld
@@ -47217,9 +47274,12 @@ author:
   wikidata: Q94889051
 title: Der Advokat
 subtitle: Lustspiel in einem Act
+numOfScenes: 21
 yearPrinted: 1829
+formalia:
+  - Prosa
 editions:
-  - title: "Dramatische Kleinigkeiten. Görlitz: Dreßler 1829, S. 113–147"
+  - title: "Dramatische Kleinigkeiten durch Franz Hermes. Seidenberg 1829, S. 113–147"
 cast:
   - name: Gören,
     role: ein junger Advokat.
@@ -47227,16 +47287,16 @@ cast:
   - name: Martin,
     role: Görens Bedienter.
     gender: m
-  - name: Frau Angeln.
+  - name: Frau von Angeln.
     gender: f
   - name: Madame Saldheim,
-    role: eine reiche Prediger-Wittwe.
+    role: eine arme Prediger-Wittwe.
     gender: f
   - name: Emilie Saldheim,
     role: ihre Tochter.
     gender: f
-  - name: Mehler,
-    role: ein Hagestolz, Sorens Oheim.
+  - name: Wehler,
+    role: ein Hagestolz, Görens Oheim.
     gender: m
   - name: Saul,
     role: ein Jude.
@@ -54583,7 +54643,7 @@ yearPrinted: 1848
 formalia:
   - Prosa
 basedOn:
-  - ancelot-duport-dieu-vous-bénisse
+  - ancelot-duport-dieu-vous-benisse
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band XVII, No. 131. Berlin: Hayn 1848"
     url: https://books.google.com/books?id=S8_2CtnLBU8C&pg=RA2-PA1
@@ -56010,6 +56070,17 @@ cast:
     gender: m
 settings:
   - description: Der Schauplatz ist in einer Alee vor dem Hause des Anselmo.
+---
+id: ein002764
+slug: kissling-der-herzog-von-ormond
+author:
+  name: Kißling, Georg Matthias
+  wikidata: Q55901434
+title: Der Herzog von Ormond
+subtitle: Schauspiel in einem Aufzuge. Zum Uebersetzen ins Französische bearbeitet
+yearPrinted: 1837
+editions:
+  - title: "Ulm: Nübling 1837"
 ---
 id: ein001151
 slug: klaehr-die-pfirschendiebe
