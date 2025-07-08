@@ -10334,12 +10334,61 @@ id: ein002760
 slug: anonym-die-poststation-oder-der-aufenthalt-im-gasthofe
 author:
   pseudonym: Anonym
-title: Die Poststation, oder der Aufenthalt im Gasthofe
+title: Die Poststation oder der Aufenthalt im Gasthofe
 subtitle: Eine kölnische Fastnachtposse in einem Akt. Von einer Gesellschaft Kunstfreunde auf dem Theater vorgestellt im März 1818
+numOfScenes: 18
 yearPrinted: 1818
 premiered: 1818-03
+formalia:
+  - Verse
 editions:
-  - title: "Köln: DuMont-Schauberg 1818"
+  - title: "Köln: DüMont-Schauberg 1818"
+    url: https://viewer.onb.ac.at/1031AECE
+cast:
+  - name: Pancratius Dickwanst,
+    role: ein Gastwirth.
+    gender: m
+  - name: Frau Gelbschnabel,
+    role: eine reisende Declamatrice.
+    gender: f
+  - name: John Bull,
+    role: ein englischer Gentleman.
+    gender: m
+  - name: Monsieur de Girouette,
+    role: ein franz. Glücksritter.
+    gender: m
+  - name: Jan van Kaasemaaker,
+    role: ein holländischer Kaufmann.
+    gender: m
+  - name: Carlo Papagallo,
+    role: ein italienischer Tonkünstler.
+    gender: m
+  - name: Magister Virgas,
+    role: ein kölnischer Schullehrer (taub).
+    gender: m
+  - name: Thomas Langohr,
+    role: sein Neffe, ein Bauernknabe.
+    gender: m
+  - name: Lazarus (Leiser) Hirsch,
+    role: ein Schacherjude.
+    gender: m
+  - name: Michel Seifenschaum,
+    role: ein  Barbier.
+    gender: m
+  - name: Dores Flegel,
+    role: Conductor des Postwagens.
+    gender: m
+  - name: Drickes Zaudich,
+    role: Postillon.
+    gender: m
+  - group:
+      - name: Clas,
+        role: Kellner
+        gender: m
+      - name: Peter,
+        role: Küchenjunge
+        gender: m
+    role: im Gasthofe.
 ---
 id: ein000216
 slug: anonym-die-probe-in-der-vestung-oder-der-stumme-liebhaber
