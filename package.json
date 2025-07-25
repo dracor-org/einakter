@@ -69,9 +69,9 @@
     "beacon": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' yml2beacon.ts",
     "authors": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-authors.ts",
     "locations": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' fetch-locations.ts",
-    "start": "yarn csv && yarn json && vite",
-    "build": "yarn csv && yarn json && yarn beacon && vite build",
-    "test": "yarn compile && yarn csv && yarn json && vitest",
+    "start": "pnpm run csv && pnpm run json && vite",
+    "build": "pnpm run csv && pnpm run json && pnpm run beacon && vite build",
+    "test": "pnpm run compile && pnpm run csv && pnpm run json && vitest",
     "lint": "eslint src",
     "extract": "lingui extract",
     "compile": "lingui compile --typescript"
@@ -109,5 +109,6 @@
     "transformIgnorePatterns": [
       "node_modules/(?!axios)"
     ]
-  }
+  },
+  "packageManager": "pnpm@10.13.1+sha512.37ebf1a5c7a30d5fabe0c5df44ee8da4c965ca0c5af3dbab28c3a1681b70a256218d05c81c9c0dcf767ef6b8551eb5b960042b9ed4300c59242336377e01cfad"
 }
