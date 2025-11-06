@@ -18330,6 +18330,34 @@ settings:
   - description: >-
       Der Ein- und Ausgang ist vorne, und auch am Ende des Theaters zu beyden Seiten.
 ---
+id: ein002782
+slug: becker-vielerley-gestalten-oder-geniestreich-fuer-geniestreich
+author:
+  name: Becker
+title: Vielerley Gestalten oder Geniestreich für Geniestreich
+subtitle: Ein Lustspiel in einem Aufzuge. nach einer französischen Erzählung frei bearbeitet
+numOfScenes: 11
+yearPrinted: 1806
+formalia:
+  - Prosa
+basedOn:
+  - dubois-marton-et-frontin-ou-assaut-de-valets
+editions:
+  - title: "Elberfeld: Büschler 1806"
+    url: https://books.google.com/books?id=Z_RHAAAAcAAJ&printsec=frontcover
+keywords:
+  - Verstellspiel
+  - Verkleidungsspiel
+cast:
+  - name: Marton,
+    role: ein Kammermädchen, erscheint auch als Dame.
+    gender: f
+  - name: Frontin,
+    role: ein Bedienter, erscheint auch als Schiffskapitain und als Bauernbursche.
+    gender: m
+settings:
+  - description: Ein schönes Zimmeer mit zwei Seiten- und einer Mittelthüre.
+---
 id: ein002710
 slug: beer-der-neue-toggenburg
 author:
@@ -23629,7 +23657,7 @@ dictionaries:
 editions:
   - title: "Mannheim: Löffler 1789"
     url: https://books.google.com/books?id=GpNIAAAAcAAJ&printsec=frontcover
-  - title: "Auch unter dem Titel »Die Familie von Lindheim. Ein Schauspiel in einem Aufzuge. Mannheim: Löffler 1796"
+  - title: "Die Familie von Lindheim. Ein Schauspiel in einem Aufzuge. Mannheim: Löffler 1796"
     url: http://resolver.staatsbibliothek-berlin.de/SBB0000E79700000005
 keywords:
   - untreuer Ehemann
@@ -71145,13 +71173,54 @@ settings:
   - description: >-
       Der Schauplatz stellt den Eingang in den Garten der Madame Gerdrut vor, und an dessen Seite ein kleines Gartenhaus.
 ---
+id: ein002783
+slug: lohmann-adolph-und-caroline-oder-die-beyden-gefangenen
+author:
+  name: Lohmann, Wilhelm
+  wikidata: Q37214787
+title: Adolph und Caroline, oder die beyden Gefangenen
+subtitle: Lustspiel in einem Aufzuge. Nach dem Französischen von L.
+numOfScenes: 18
+yearPrinted: 1801
+formalia:
+  - Prosa
+basedOn:
+  - marsollier-adolphe-et-clara-ou-les-deux-prisonniers
+editions:
+  - title: "Hannover 1801"
+    url: https://books.google.com/books?id=OWlTAAAAcAAJ&printsec=frontcover
+cast:
+  - name: Adolph von Romberg,
+    role: ein junger preußischer Offizier.
+    gender: m
+  - name: Caroline,
+    role: seine Frau.
+    gender: f
+  - name: Herr von Limburg.
+    gender: m
+  - name: Caspar,
+    role: Invalide, als Kerkermeister.
+    gender: m
+  - name: Ein Unteroffizier.
+    gender: m
+  - name: Einige Soldaten und Bediente.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Scene ist auf dem Schlosse Limburg, einige Meilen von Berlin.
+    location:
+      wikidataId: Q64
+  - description: >-
+      Das Theater stellt einen alten gewölbten Saal auf dem Schlosse vor, dessen Fenster nach dem Schloßgraben hinaus gehen. Im Hintergrunde führen auf beyden Seiten einige Stufen hinauf zu den Nebenzimmern in den Seitenflügeln des Schlosse.
+---
 id: ein002656
 slug: lohmann-die-nachbarn-oder-die-zudringlichen
 author:
   name: Lohmann, Wilhelm
   wikidata: Q37214787
 title: Die Nachbarn oder die Zudringlichen
-subtitle: Lustspiel in einer Aufzuge. Nach dem französischen des Picard, von L.
+subtitle: Lustspiel in einem Aufzuge. Nach dem französischen des Picard, von L.
 yearPrinted: 1801
 basedOn:
   - picard-les-voisins
@@ -71798,6 +71867,44 @@ basedOn:
   - scribe-dumanoir-etre-aime-ou-mourir
 editions:
   - title: "Theater von M. Scribe und dessen Mitarbeitern. In einer Auswahl des Besten. Aus dem Französischen. Viertes Bändchen. Berlin: Ende 1838"
+---
+id: ein002780
+slug: malss-die-bauern
+author:
+  name: Malß, Carl
+  wikidata: Q1039634
+title: Die Bauern
+subtitle: Genrebild in einem Akt. In Wetterauer Mundart
+numOfScenes: 12
+yearPrinted: 1849
+formalia:
+  - Prosa
+editions:
+  - title: "Volkstheater in Frankfurter Mundart. Frankfurt a. M.: Sauerländer 1849"
+    url: https://books.google.com/books?id=fA5FAAAAIAAJ&pg=RA4-PA1
+ids:
+  dracor: ger000044
+  wikidata: Q54366286
+cast:
+  - name: Der Graf von Langen.
+    gender: m
+  - name: Günther,
+    role: Advokat.
+    gender: m
+  - name: Bärbel,
+    role: eine junge Bäuerin, auf dem Schlosse dienend.
+    gender: f
+  - group:
+      - name: Duckes
+        gender: m
+      - name: Schieß
+        gender: m
+    role: Bauern.
+settings:
+  - description: >-
+      Ort der Handlung: Zimmer im gräflichen Schlosse in der Wetterau.
+    location:
+      wikidataId: Q702755
 ---
 id: ein001490
 slug: malss-die-jungfern-koechinnen
@@ -80801,6 +80908,8 @@ dictionaries:
 editions:
   - title: "Straßburg: Bauer 1763"
     url: https://books.google.com/books?id=zts6AAAAcAAJ&printsec=frontcover
+  - title: "Hamburg: Spieringk 1764"
+    url: https://purl.uni-rostock.de/rosdok/ppn888201680
 comments:
   - Libretto für Joseph Haydns Singspiel (1773).
 cast:
@@ -87820,6 +87929,45 @@ settings:
     location:
       wikidataId: Q64
 ---
+id: ein002779
+slug: sauerwein-der-amerikaner
+author:
+  name: Sauerwein, Wilhelm
+  wikidata: Q15454338
+title: Der Amerikaner
+subtitle: Posse in einem Aufzuge
+numOfScenes: 10
+yearPrinted: 1830
+formalia:
+  - Prosa
+editions:
+  - title: "Frankfurt a. M. 1830"
+  - title: "Zweite vermehrte Auflage. Frankfurt a. M.: Körner 1835"
+    url: https://books.google.com/books?id=yuU6AAAAcAAJ&printsec=frontcover
+  - title: "Frankfurt a. M.: Baist 1856"
+    url: https://books.google.com/books?id=kTpcAAAAMAAJ&printsec=frontcover
+cast:
+  - name: Amerikaner.
+    gender: m
+  - name: Bärbelchen,
+    role: seine Tochter.
+    gender: f
+  - name: Frau Stoff.
+    gender: f
+  - name: Anton.
+    gender: m
+  - name: Frau Rauschern.
+    gender: f
+  - name: Christoph.
+    gender: m
+  - name: Philipp.
+    gender: m
+  - name: Ein Gassenbub.
+    gender: m
+settings:
+  - description: >-
+      Das Stück spielt in der Wohnstube der Frau Stoff, in des Amerikaners Haus.
+---
 id: ein001824
 slug: schaden-der-gast-in-hamburg
 author:
@@ -93442,6 +93590,8 @@ dictionaries:
 editions:
   - title: "Wien: Hartmann 1786"
     url: https://books.google.com/books?id=S9MlvqPfpoAC&printsec=frontcover
+  - title: "Frankfurt und Leipzig 1790"
+    url: https://purl.uni-rostock.de/rosdok/ppn1794358862
 comments:
   - "Theaterzettel: [Hamburg 1799](https://www.stadttheater.uni-hamburg.de/system/files/1799-08-15.pdf)."
 reviews:
@@ -94769,6 +94919,59 @@ cast:
 settings:
   - description: >-
       Wirthstube. Abend.
+---
+id: ein002781
+slug: seckendorf-feuer-feuer
+author:
+  name: Seckendorf, Gustav von
+  wikidata: Q1555609
+title: Feuer, Feuer!
+subtitle: Posse, in einem Aufzuge
+numOfScenes: 4
+yearPrinted: 1808
+formalia:
+  - Prosa
+editions:
+  - title: "Hildburghausen: Hanisch 1808"
+    url: https://books.google.com/books?id=yJcyAQAAMAAJ&pg=RA1-PA1
+comments:
+  - "Die vier Szenen des Einakters (Untertitel »in einem Aufzuge«) sind jeweils noch mal in Auftritte unterteilt (!)."
+cast:
+  - name: Geheimerrath von Spahn.
+    gender: m
+  - name: Charlotte,
+    role: dessen Gemahlin.
+    gender: f
+  - name: Major von Spahn,
+    role: dessen Bruder.
+    gender: m
+  - name: Julie,
+    role: Stieftochter des Geheimenrathes, durch eine frühere Ehe.
+    gender: f
+  - name: Julius von dem Thal,
+    role: Hauptmann in großbrittannischen Diensten und jüngerer Stiefbruder der Geheimenräthin.
+    gender: m
+  - name: Baron von Stumm,
+    role: Cousin der Geheimenräthin.
+    gender: m
+  - name: Held,
+    role: ein Advocat.
+    gender: m
+  - name: Susette,
+    role: Kammer-Mädchen der Geheimenräthin.
+    gender: f
+  - name: Johann,
+    role: Bedienter des Geheimenrathes.
+    gender: m
+  - name: Karl,
+    role: Bedienter der Geheimenräthin.
+    gender: m
+  - name: Jakob,
+    role: Bedienter des Hauptmanns.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz ist in der Residenz Winkelfeld.
 ---
 id: ein001977
 slug: seemann-dulk-die-waende
