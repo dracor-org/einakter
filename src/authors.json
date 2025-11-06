@@ -391,6 +391,22 @@
     },
     "gender": "male"
   },
+  "Q1531239": {
+    "name": "Alexander Baumann",
+    "gnd": "118507451",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Baumann.jpg",
+    "birth": {
+      "date": "1814-02-07T00:00:00Z",
+      "place": "Wien",
+      "placeId": "http://www.wikidata.org/entity/Q1741"
+    },
+    "death": {
+      "date": "1857-12-25T00:00:00Z",
+      "place": "Graz",
+      "placeId": "http://www.wikidata.org/entity/Q13298"
+    },
+    "gender": "male"
+  },
   "Q107287": {
     "name": "Michael Beer",
     "gnd": "118657887",
@@ -1108,6 +1124,15 @@
     },
     "death": {
       "date": "1806-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
+  "Q115522422": {
+    "name": "Carl Heinrich Herzel",
+    "gnd": "110406060",
+    "birth": {},
+    "death": {
+      "date": "1900-01-01T00:00:00Z"
     },
     "gender": "male"
   },
@@ -3342,6 +3367,13 @@
       "place": "Hamburg",
       "placeId": "http://www.wikidata.org/entity/Q1055"
     },
+    "gender": "male"
+  },
+  "Q95808214": {
+    "name": "Johann David Herrmann",
+    "gnd": "1016015674",
+    "birth": {},
+    "death": {},
     "gender": "male"
   },
   "Q95216741": {
@@ -5763,6 +5795,21 @@
       "date": "1754-03-06T00:00:00Z",
       "place": "London",
       "placeId": "http://www.wikidata.org/entity/Q84"
+    },
+    "gender": "male"
+  },
+  "Q1081236": {
+    "name": "Christian Nicolaus Naumann",
+    "gnd": "104311398",
+    "birth": {
+      "date": "1720-12-06T00:00:00Z",
+      "place": "Bautzen",
+      "placeId": "http://www.wikidata.org/entity/Q14835"
+    },
+    "death": {
+      "date": "1797-02-15T00:00:00Z",
+      "place": "Görlitz",
+      "placeId": "http://www.wikidata.org/entity/Q4077"
     },
     "gender": "male"
   },
@@ -8782,6 +8829,13 @@
     "death": {},
     "gender": "male"
   },
+  "Q94988953": {
+    "name": "Franz A. Werner",
+    "gnd": "120708485",
+    "birth": {},
+    "death": {},
+    "gender": "male"
+  },
   "Q1465959": {
     "name": "Pauline Raupach",
     "gnd": "117303534",
@@ -11563,6 +11617,23 @@
     "death": {},
     "gender": "male"
   },
+  "Q3060072": {
+    "name": "Eugène Nyon",
+    "gnd": "1055213937",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Nyon%20Nadar%20Bnf%20crop.jpg",
+    "birth": {
+      "date": "1812-03-16T00:00:00Z",
+      "place": "Savigliano",
+      "placeId": "http://www.wikidata.org/entity/Q20489"
+    },
+    "death": {
+      "date": "1870-01-29T00:00:00Z",
+      "place": "18. Arrondissement von Paris",
+      "placeId": "http://www.wikidata.org/entity/Q200126"
+    },
+    "gender": "male",
+    "ambiguous": true
+  },
   "Q21534628": {
     "name": "Thomas L'Affichard",
     "gnd": "172214742",
@@ -12919,6 +12990,22 @@
       "date": "1818-01-04T00:00:00Z",
       "place": "Padua",
       "placeId": "http://www.wikidata.org/entity/Q617"
+    },
+    "gender": "male"
+  },
+  "Q3507431": {
+    "name": "Jan Nepomuk Štěpánek",
+    "gnd": "139587853",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Nepomuk%20Stepanek%20Vilimek.jpg",
+    "birth": {
+      "date": "1783-05-19T00:00:00Z",
+      "place": "Chrudim",
+      "placeId": "http://www.wikidata.org/entity/Q986070"
+    },
+    "death": {
+      "date": "1844-02-12T00:00:00Z",
+      "place": "Prag",
+      "placeId": "http://www.wikidata.org/entity/Q1085"
     },
     "gender": "male"
   },

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://gexf.net/1.2" version="1.2">
-  <meta lastmodifieddate="2025-05-30T10:55:10.195Z">
+  <meta lastmodifieddate="2025-11-06T16:07:32.241Z">
     <creator>einakter.dracor.org</creator>
     <description>Einakter translators network</description>
   </meta>
@@ -2930,6 +2930,20 @@
           <attvalue for="translated-author" value="false"/>
         </attvalues>
       </node>
+      <node id="Q94988953" label="Franz A. Werner">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="true"/>
+          <attvalue for="translated-author" value="false"/>
+        </attvalues>
+      </node>
+      <node id="Q3507431" label="Jan Nepomuk Štěpánek">
+        <attvalues>
+          <attvalue for="gender" value="male"/>
+          <attvalue for="translator" value="false"/>
+          <attvalue for="translated-author" value="true"/>
+        </attvalues>
+      </node>
       <node id="Q1706173" label="Josef von Wertheimer">
         <attvalues>
           <attvalue for="gender" value="male"/>
@@ -3411,6 +3425,8 @@
       <edge id="Q94841807|Q319261" source="Q94841807" target="Q319261" weight="2"/>
       <edge id="Q94841807|Q2660806" source="Q94841807" target="Q2660806" weight="2"/>
       <edge id="Q1460909|Q3287662" source="Q1460909" target="Q3287662" weight="1"/>
+      <edge id="Q94841807|Q2733401" source="Q94841807" target="Q2733401" weight="1"/>
+      <edge id="Q94841807|Q18736302" source="Q94841807" target="Q18736302" weight="1"/>
       <edge id="Q1460909|Q49478" source="Q1460909" target="Q49478" weight="1"/>
       <edge id="Q94915614|Q137819" source="Q94915614" target="Q137819" weight="1"/>
       <edge id="Q94915614|Q16947548" source="Q94915614" target="Q16947548" weight="1"/>
@@ -3605,8 +3621,10 @@
       <edge id="Q68815|Q982053" source="Q68815" target="Q982053" weight="2"/>
       <edge id="Q68815|Q379923" source="Q68815" target="Q379923" weight="1"/>
       <edge id="Q1696932|Q767332" source="Q1696932" target="Q767332" weight="1"/>
+      <edge id="Q94988953|Q3507431" source="Q94988953" target="Q3507431" weight="1"/>
       <edge id="Q1706173|Q2626481" source="Q1706173" target="Q2626481" weight="1"/>
       <edge id="Q101544|Q687" source="Q101544" target="Q687" weight="1"/>
+      <edge id="Q114493|Q982053" source="Q114493" target="Q982053" weight="1"/>
       <edge id="Q114493|Q2404425" source="Q114493" target="Q2404425" weight="1"/>
       <edge id="Q55675821|Q2036986" source="Q55675821" target="Q2036986" weight="5"/>
       <edge id="Q18335108|Q2844716" source="Q18335108" target="Q2844716" weight="1"/>

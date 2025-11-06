@@ -2850,7 +2850,7 @@ editions:
   - title: "Darmstadt: Buchhandlung zur halben Portion 1837"
     url: https://resolver.sub.uni-hamburg.de/kitodo/PPN1891233858
 reviews:
-  - "Didaskalia. Blätter für Geist, Gemüth und Publizität. Nro. 279 (Dienstag, den 10. Oktober 1837), [ohne Pag.](https://books.google.com/books?id=45AsAQAAIAAJ&pg=PT37)"
+  - "Didaskalia. Blätter für Geist, Gemüth und Publizität. Nro. 279 (Dienstag, den 10. Oktober 1837), [unpag.](https://books.google.com/books?id=45AsAQAAIAAJ&pg=PT37)"
   - "Blätter für literarische Unterhaltung. Nr. 328 (Freitag, 24. November 1837), [S. 1332](https://books.google.com/books?id=QRlBAQAAMAAJ&pg=PA1332)."
 comments:
   - "Hinweis auf der Titelseite: »Die zweite halbe Portion à 6 kr. folgt nach, wenn sich das Publikum an der ersten, der es freilich an Salz und Würze mangelt, nicht den Magen verdirbt. Summe des Preises der ganzen Portion 12 kr. – NB. Nach einiger Zeit wird, mit dem Fleische, der Preis noch erhöht!«"
@@ -4134,6 +4134,34 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist im Lager.
+---
+id: ein002772
+slug: anonym-das-maedgen-das-aller-moden-ueberdruessig-ist
+author:
+  pseudonym: Anonym
+title: Das Mädgen, das aller Moden überdrüssig ist
+subtitle: Ein Lustspiel in einem Aufzuge
+numOfScenes: 13
+yearPrinted: 1763
+formalia:
+  - Prosa
+editions:
+  - title: "Der Madame Beaumont berühmten Putzmacherin zu Paris lehrreiches Kopfzeugermagazin zum Nutzen des schönen Geschlechts in Deutschland eingerichtet. Paris: Hochereau 1763, S. 19–46"
+    url: http://digital.slub-dresden.de/id362116288/23
+cast:
+  - name: Valer.
+    gender: m
+  - name: Die Gräfinn.
+    gender: f
+  - name: Der Graf.
+    gender: m
+  - name: Der Gastwirth.
+    gender: m
+  - name: Frontin.
+    gender: m
+settings:
+  - description: >-
+      Der Schauplatz stellet einen Gasthof in einem Dorfe vor.
 ---
 id: ein000082
 slug: anonym-das-missbindniss-oder-der-verkannte-hofmeister
@@ -6485,7 +6513,7 @@ settings:
       Die Scene geht in einem Dorfe vor.
 ---
 id: ein000134
-slug: anonym-der-kuss
+slug: anonym-der-kuss-schaefer-spiel
 author:
   name: Kl., F.
   pseudonym: Anonym
@@ -6512,6 +6540,39 @@ cast:
     gender: f
   - name: Daphne.
     gender: f
+---
+id: ein002770
+slug: anonym-der-kuss-zeitvertreib
+author:
+  pseudonym: Anonym
+title: Der Kuß
+subtitle: Ein Lustspiel in Einem Aufzuge
+numOfScenes: 3
+yearPrinted: 1780
+formalia:
+  - Alexandriner
+editions:
+  - title: "Zeitvertreib bey müßigen Stunden. [1780], S. 63–74"
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN682721123
+cast:
+  - group:
+      - name: Leo.
+        gender: m
+      - name: Clode
+        role: ein Philosoph.
+        gender: m
+      - name: Antonin.
+        gender: m
+    role: drey gute Freunde.
+  - name: Polycarp,
+    role: der Wirth.
+    gender: m
+  - name: Selinde,
+    role: seine junge Frau.
+    gender: f
+settings:
+  - description: >-
+      Der Schauplatz ist im Garten.
 ---
 id: ein000135
 slug: anonym-der-kutscher
@@ -18119,6 +18180,39 @@ settings:
   - description: >-
       Zimmer bei Flieder.
 ---
+id: ein002773
+slug: baumann-der-freiherr-als-wildschuetz
+author:
+  name: Baumann, Alexander
+  wikidata: Q1531239
+title: Der Freiherr als Wildschütz
+subtitle: "Eine Scene aus den österreichischen Alpen, als Nachspiel zum »Versprechen hinterm Herd« in einem Acte"
+numOfScenes: 11
+premiered: 1849-07-03
+formalia:
+  - Prosa
+editions:
+  - title: "[Wien: Klopf & Eurich] [ohne Jahr]"
+    url: https://books.google.com/books?id=4--V5RD26vgC&printsec=frontcover
+comments:
+  - "Theaterzettel: [Mannheim 1856](https://druckschriften-digital.marchivum.de/theaterzettel/content/titleinfo/799278)."
+cast:
+  - name: Michel Quantner.
+    gender: m
+  - name: Loisl,
+    role: sein Sohn.
+    gender: m
+  - name: Nandl,
+    role: Allmerinn, im Dienst bei Quantner.
+    gender: f
+  - name: Freiherr von Strizow.
+    gender: m
+  - name: Waldmeister Grün.
+    gender: m
+  - name: Jäger.
+    isGroup: true
+    gender: m
+---
 id: ein000375
 slug: beck-der-geheimnissvolle
 author:
@@ -18670,8 +18764,8 @@ title: Eigensinn
 subtitle: Lustspiel in einem Aufzuge
 numOfScenes: 6
 yearWritten: 1847
-premiered: 1847
 yearPrinted: 1849
+premiered: 1847
 formalia:
   - Prosa
 editions:
@@ -25153,12 +25247,29 @@ settings:
 id: ein002733
 slug: carlo-bruder-fritz
 author:
-  name: Carlo
+  name: Herzel, Carl Heinrich
+  pseudonym: Carlo
+  wikidata: Q115522422
 title: Bruder Fritz
 subtitle: Original-Lustspiel in einem Akt
 yearPrinted: 1839
 editions:
   - title: "Komus. Etui-Repertoir für deutsche Bühnen und Privat-Theater. Sammlung kleiner Lustspiele herausgegeben von K. von Mainau. Zweites Bändchen. Breslau: Kern 1839"
+reviews:
+  - "Literaturblatt von uns für Schlesien. Zehntes Stück (October 1839). [S. 294–295](https://sbc.org.pl/Content/737158/PDF/i4002-1839-10-0001.pdf#page=126)."
+  - "Blätter für literarische Unterhaltung. Nr. 330 (Mittwoch, 25. November 1840), [S. 1331](https://books.google.com/books?id=KpcKAAAAYAAJ&pg=PA1331)."
+---
+id: ein002776
+slug: carlo-der-kuss
+author:
+  name: Herzel, Carl Heinrich
+  pseudonym: Carlo
+  wikidata: Q115522422
+title: Der Kuß
+subtitle: Original-Lustspiel in einem Akt
+yearPrinted: 1839
+editions:
+  - title: "Komus. Etui-Repertoir für deutsche Bühnen und Privat-Theater. Sammlung kleiner Lustspiele herausgegeben von K. von Mainau. Erstes Bändchen. Breslau: Kern 1839"
 reviews:
   - "Literaturblatt von uns für Schlesien. Zehntes Stück (October 1839). [S. 294–295](https://sbc.org.pl/Content/737158/PDF/i4002-1839-10-0001.pdf#page=126)."
   - "Blätter für literarische Unterhaltung. Nr. 330 (Mittwoch, 25. November 1840), [S. 1331](https://books.google.com/books?id=KpcKAAAAYAAJ&pg=PA1331)."
@@ -29565,8 +29676,8 @@ author:
 title: Wahrheit und Lüge
 subtitle: Lustspiel in einem Aufzuge; frei nach Scribe
 numOfScenes: 17
-premiered: 1823
 yearPrinted: 1824
+premiered: 1823
 basedOn:
   - scribe-melesville-le-menteur-veridique
 editions:
@@ -32135,7 +32246,7 @@ subtitle: Ein Lustspiel in Versen und einem Aufzuge
 numOfScenes: 9
 yearPrinted: 1819
 formalia:
-  - trochäische kreuzgereimte Verse
+  - kreuzgereimte trochäische Verse
 editions:
   - title: "Deutsches Theater für das Jahr 1819. Herausgegeben von Joseph August Adam. Sechster Band. Ausgsburg und Leipzig: Jenisch und Stage [1819], S. 105–136"
     url: https://books.google.com/books?id=1VI6AAAAcAAJ&pg=PA105
@@ -35397,7 +35508,7 @@ editions:
 comments:
   - "Der Einakter »wurde auf fast sämmtlichen deutschen Bühnen aufgeführt und hat sich fortwährend auf dem Repertoir erhalten« (ADB 7 [1878], [S. 133](https://www.deutsche-biographie.de/pnd116630795.html))."
 reviews:
-  - "Deutscher Theater-Correspondent. XIV. Jahrgang, Nr. 5 (München, Sonntag den 7. Februar 1869), [unpag.](https://books.google.com/books?id=v2hLAAAAcAAJ&pg=PT4): »ein stets gerne gesehenes Lustspiel, insbesondere da es unserem Nestor der Komik, Hrn. Pichler (Commerzienrath Andrée), stets auf's Neue Gelegenheit gibt, durch sein natürliches, einfaches Spiel die Lachmuskeln des Auditoriums in beständiger Bewegung zu halten«"
+  - "Deutscher Theater-Correspondent. XIV. Jahrgang, Nr. 5 (München, Sonntag den 7. Februar 1869), [unpag.](https://books.google.com/books?id=v2hLAAAAcAAJ&pg=PT4): »ein stets gerne gesehenes Lustspiel, insbesondere da es unserem Nestor der Komik, Hrn. Pichler (Commerzienrath Andrée), stets auf's Neue Gelegenheit gibt, durch sein natürliches, einfaches Spiel die Lachmuskeln des Auditoriums in beständiger Bewegung zu halten«."
 cast:
   - name: Commerzienrath Andree.
     gender: m
@@ -36497,6 +36608,8 @@ editions:
   - title: "Göttingen: Dieterich 1805"
 comments:
   - "Ein Exemplar liegt an der [SUUB Bremen](https://suche.suub.uni-bremen.de/peid=B13585301)."
+reviews:
+  - "Neue Bibliothek der schönen Wissenschaften und der freyen Künste. Ein und siebenzigsten Bandes Zweytes Stück. Leipzig: Dyck 1805, [S. 340–341](https://books.google.com/books?id=3hdnAAAAcAAJ&pg=PA340)."
 ---
 id: ein002637
 slug: freygang-geniestreiche
@@ -36683,6 +36796,23 @@ cast:
 settings:
   - description: >-
       Die Handlung geht in einem Zimmer bei der Frau v. Immerstein vor.
+---
+id: ein002777
+slug: friedrich-das-urbild-des-puders
+author:
+  name: J. Friedrich
+title: Das Urbild des Puders
+subtitle: Posse in einem Act nach dem Franz.
+yearPrinted: 1847
+premiered: 1848
+basedOn:
+  - labiche-lefranc-nyon-l-inventeur-de-la-poudre
+editions:
+  - title: "Album für Liebhabertheater. Herausgegeben von Jul. Koffka. Neue Folge. 3tes Heft. Leipzig: Koffka: 1847"
+comments:
+  - "Auch unter dem Titel »Die Erfindung des Puders« (vgl. Deutsche Allgemeine Zeitung. Nr. 24 (Montag, 24. Januar 1848), [S. 223](https://books.google.com/books?id=lkxJAAAAcAAJ&pg=PA223))."
+reviews:
+  - "Der Lechbote. No. 338 (Sonntag, 9. Dezember 1849), [S. 1359](https://books.google.com/books?id=BWdDAAAAcAAJ&pg=PA1359)."
 ---
 id: ein000749
 slug: friedrich-der-geist-oder-die-unterbrochene-theaterprobe
@@ -47592,6 +47722,77 @@ settings:
   - description: >-
       Elegantes Zimmer, mit Seiten und Mittelthüren.
 ---
+id: ein002765
+slug: herrmann-die-versoehnliche-liebe
+author:
+  name: Herrmann, Johann David
+  wikidata: Q95808214
+title: Die versöhnliche Liebe
+numOfScenes: 8
+yearPrinted: 1746
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 13, S. 278
+editions:
+  - title: "Die Versöhnliche und Zufriedene Liebe. Zwey Schäferspiele, jedes in einem Aufzuge. Leipzig: Dyk 1746, S. 1–19"
+    url: https://books.google.com/books?id=bzRJAAAAcAAJ&pg=PA1
+reviews:
+  - "Neuer Büchersaal der schönen Wissenschaften und freyen Künste. Des III. Bandes 5. Stück. Leipzig: Breitkopf 1746, [S. 473–474](https://books.google.com/books?id=7aaFA25dppEC&pg=PA473)."
+  - "Freymüthige Nachrichten Von Neuen Büchern, und andern zur Gelehrtheit gehörigen Sachen. XIII. Stück (Mittwochs, am 29. Mertz. 1747), [S. 99–101](https://books.google.com/books?id=tHt4DxdrwD0C&pg=PA99)."
+cast:
+  - name: Phyllis.
+    gender: f
+  - name: Galathee,
+    role: der Phyllis Mutter.
+    gender: f
+  - name: Myrtill,
+    role: Liebhaber der Phyllis.
+    gender: m
+  - name: Sylvia.
+    gender: f
+  - name: Damon,
+    role: ihr Liebhaber.
+    gender: m
+---
+id: ein002766
+slug: herrmann-die-zufriedene-liebe
+author:
+  name: Herrmann, Johann David
+  wikidata: Q95808214
+title: Die zufriedene Liebe
+numOfScenes: 9
+yearPrinted: 1746
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 13, S. 278
+editions:
+  - title: "Die Versöhnliche und Zufriedene Liebe. Zwey Schäferspiele, jedes in einem Aufzuge. Leipzig: Dyk 1746, S. 20–44"
+    url: https://books.google.com/books?id=bzRJAAAAcAAJ&pg=PA20
+reviews:
+  - "Neuer Büchersaal der schönen Wissenschaften und freyen Künste. Des III. Bandes 5. Stück. Leipzig: Breitkopf 1746, [S. 473–474](https://books.google.com/books?id=7aaFA25dppEC&pg=PA473)."
+  - "Freymüthige Nachrichten Von Neuen Büchern, und andern zur Gelehrtheit gehörigen Sachen. XIII. Stück (Mittwochs, am 29. Mertz. 1747), [S. 99–101](https://books.google.com/books?id=tHt4DxdrwD0C&pg=PA99)."
+cast:
+  - name: Daphne.
+    gender: f
+  - name: Potamon,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Phyllis.
+    gender: f
+  - name: Montan,
+    role: ihr Liebhaber.
+    gender: m
+  - name: Amaryllis,
+    role: ein erwachsnes Schäfermädgen.
+    gender: f
+settings:
+  - description: >-
+      Die Handlung geht gleich nach dem Untergange der Sonne an.
+---
 id: ein000969
 slug: herrmann-drei-stunden-vor-der-hochzeit
 author:
@@ -52718,7 +52919,7 @@ comments:
   - "Auch als Operette in einem Akt unter dem Titel »Die böse Nachbarin oder Das war ich« ([Berlin: Bote und Bock 1862](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00055930-2))."
   - "Vorlage zur Vertonung von [Leo Blech (1902)](https://de.wikipedia.org/wiki/Das_war_ich!)."
 reviews:
-  - "Didaskalia oder Blätter für Geist, Gemüth und Publizität. Nro. 353 (Montag, 19. Dezember 1825), [ohne Pag.](https://books.google.com/books?id=YVFEAAAAcAAJ&pg=RA40-PA3)"
+  - "Didaskalia oder Blätter für Geist, Gemüth und Publizität. Nro. 353 (Montag, 19. Dezember 1825), [unpag.](https://books.google.com/books?id=YVFEAAAAcAAJ&pg=RA40-PA3)"
 ids:
   weber: A021179
 cast:
@@ -69128,12 +69329,15 @@ author:
   name: Lembert, Johann Wenzel
   wikidata: Q17352902
 title: Im zweiten Stock
-subtitle: "Posse in einem Akt nach dem Vaudeville: ›La rue de la lune‹"
+subtitle: "Posse in einem Act, nach dem Vaudeville: »la rue de la lune.«"
 yearPrinted: 1845
 basedOn:
   - varin-boyer-rue-de-la-lune
 editions:
-  - title: "Wien: Wallishausser 1845"
+  - title: "Almanach dramatischer Spiele, für das Jahr 1845. Von Lembert. Dritter Jahrgang. Wien: Tendler [1845]"
+    url: https://books.google.com/books?id=m2xoAAAAcAAJ&pg=RA2-PA3
+reviews:
+  - "Oesterreichisches Morgenblatt. 9. Jahrgang. No. 150 (Wien, Sonnabend den 14. December 1844), [S. 600](https://books.google.com/books?id=rT9bAAAAcAAJ&pg=PA600)."
 ---
 id: ein002745
 slug: lembert-lebt-er-oder-ist-er-todt
@@ -74900,6 +75104,77 @@ settings:
   - description: >-
       Die Handlung ist in einem Gasthofe. Der Schauplatz ist ein Saal mit zwo Seitenthüren.
 ---
+id: ein002774
+slug: meyer-die-maedchen-als-soldaten-oder-die-schlechtvertheidigte-citadelle
+author:
+  name: Meyer, Heinrich
+  wikidata: Q94841807
+title: Die Mädchen als Soldaten oder Die schlechtvertheidigte Citadelle
+subtitle: Eine musikalisch-militairische Posse in einem Aufzuge. Nach dem Französischen Folie-Vaudeville der H. H. Marie-Theaulon und Armand d'Artois frei bearbeitet, und mit Musik von verschiedenen Componisten versehen
+numOfScenes: 22
+yearPrinted: 1826
+formalia:
+  - Prosa
+  - Verse
+basedOn:
+  - theaulon-d-artois-les-femmes-soldats
+editions:
+  - title: "Hamburg: Christiani 1826"
+    url: https://resolver.obvsg.at/urn:nbn:at:AT-WBR-1115426
+cast:
+  - name: Oberst Paul von Husch,
+    role: Commandant einer kleinen Festung.
+    gender: m
+  - name: Heinrich,
+    role: sein Sohn.
+    gender: m
+  - name: Victor von Stein,
+    role: Platz-Adjutant, sein Neffe.
+    gender: m
+  - name: Emilie,
+    role: Victors Schwester.
+    gender: f
+  - group:
+      - name: Louise von Linden,
+        gender: f
+      - name: Elise von Eschen,
+        gender: f
+      - name: Christiane von Buchen,
+        gender: f
+      - name: Helena von Birken,
+        gender: f
+      - name: Mariane von Eichen,
+        gender: f
+      - name: Ursula von Ulmen,
+        gender: f
+    role: Emiliens Freundinnen.
+  - group:
+      - name: Herr von Schwarz,
+        gender: m
+      - name: Herr von Weiß,
+        gender: m
+      - name: Herr von Roth,
+        gender: m
+      - name: Herr von Blau,
+        gender: m
+      - name: Herr von Grün,
+        gender: m
+    role: Sämmtlich bei der Remonte angestellt, und Gefangene in der Citadelle.
+  - name: Sergeant Krebs,
+    role: Commandant einer Citadelle.
+    gender: m
+  - group:
+      - name: Hummer,
+        gender: m
+      - name: Krabbe,
+        gender: m
+    role: Invaliden, Besatzung der Citadelle.
+  - name: Ein Sappeur.
+    gender: m
+settings:
+  - description: >-
+      Die Handlung ist in einer alten, halbverfallenen, vormals zum Soutien einer kleinen Festung gehörenden, und ungefähr eine Viertelmeile davon, an der Seeküste liegenden Citadelle, die nur noch als Magazin und Gefängnis benutzt wird.
+---
 id: ein001567
 slug: meyer-die-pruefung
 author:
@@ -77566,6 +77841,44 @@ settings:
       wikidataId: Q16394
   - description: >-
       Die Bühne stellt einen Saal vor, mit einer Thür im Hintergrunde und zwei Seitenthüren.
+---
+id: ein002771
+slug: naumann-die-martinsgans
+author:
+  name: Naumann, Christian Nicolaus
+  wikidata: Q1081236
+title: Die Martinsgans
+subtitle: Ein Schäferspiel in einem Aufzuge
+numOfScenes: 7
+yearPrinted: 1745
+formalia:
+  - Alexandriner
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 13, S. 135
+editions:
+  - title: "Joachimsthal [1745]"
+    url: https://books.google.com/books?id=sspIAAAAcAAJ&printsec=frontcover
+ids:
+  wikidata: Q136717979
+cast:
+  - name: Steffen.
+    gender: m
+  - name: Velten.
+    gender: m
+  - name: Lorchen.
+    gender: f
+  - name: Jacob.
+    gender: m
+  - name: Dorothee.
+    gender: f
+  - name: Liesel.
+    gender: f
+  - name: Veit.
+    gender: m
+  - name: Ein Chor von etlichen Schäfern, darunter nur einer im Namen der übrigen das Wort führet.
+    isGroup: true
+    gender: m
 ---
 id: ein002597
 slug: nebel-die-scheidenden
@@ -82656,6 +82969,20 @@ cast:
 settings:
   - description: >-
       Großer eleganter Salon mit einer Mittelthüre und zwei Seitenthüren. Rechts vom Zuschauer ein Tisch, links ein Kanapee.
+---
+id: ein002778
+slug: rebus-der-doppelte-froehlich
+author:
+  pseudonym: Th. Rebus
+title: Der doppelte Fröhlich
+subtitle: Posse in 1 Akte, mit Benutzung des Vaudeville »Ravel en Province«
+yearPrinted: 1845
+premiered: 1845-03-31
+editions:
+  - title: "Als Manuscript gedruckt. Leipzig 1845"
+  - title: "Album für Liebhabertheater. Herausgegeben von Jul. Koffka. Neue Folge. 2tes Heft. Leipzig: Koffka: 1847"
+reviews:
+  - "Allgemeine Theater-Chronik. Organ für das Gesammtinteresse der deutschen Bühnen und ihrer Mitglieder. Vierzehnter Jahrgang. No. 42 (Leipzig, den 4. April 1845), [S. 165](https://books.google.com/books?id=yX9DlznUtFYC&pg=PA165)."
 ---
 id: ein001720
 slug: reck-fanfan-oder-die-milchbrueder
@@ -89438,6 +89765,43 @@ settings:
   - description: >-
       Bauernstube. Die Bäuerinn liest in einem großen Gesangbuche; Marie sitzt beschäftigt und anhörend neben ihr.
 ---
+id: ein002775
+slug: schlechta-kaiser-max-auf-der-martinswand
+author:
+  name: Schlechta, Franz von
+  wikidata: Q1449721
+title: Kaiser Max auf der Martinswand
+subtitle: Trauerspiel in einem Acte
+numOfScenes: 12
+yearPrinted: 1821
+formalia:
+  - kreuzgereimte trochäische Verse
+editions:
+  - title: "Frauentaschenbuch für das Jahr 1821 von de la Motte Fouqué. Nürnberg: Schrag 1821, S. 207–240"
+    url: https://books.google.com/books?id=V8RiAAAAcAAJ&pg=PA207
+cast:
+  - name: Kaiser Max I.
+    gender: m
+  - name: Herzog Herrmann.
+    gender: m
+  - name: Markgraf Friederich.
+    gender: m
+  - name: Der Bergförster.
+    gender: m
+  - name: Bertha,
+    role: seine Tochter.
+    gender: f
+  - name: Ein Schütze.
+    gender: m
+  - name: Jagdgenossen des Kaisers. Jäger. Knappen. Bauern.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Der Ort der Handlung ist das Gebirge bei Innsbruck im Tyrol. Zeit: Vierzehntes Jahrhundert.
+    location:
+      wikidataId: Q1735
+---
 id: ein001871
 slug: schlegel-anne-dore-oder-die-einquartierung
 author:
@@ -94802,7 +95166,7 @@ formalia:
   - vierhebige trochäische Verse
 editions:
   - title: "Aurora. Taschenbuch für das Jahr 1830. Herausgegeben von Johann Gabriel Seidl. Siebenter Jahrgang. Wien: Buchholz [1830], S. 3–48"
-    url: http://data.onb.ac.at/rep/1026BDDB
+    url: https://viewer.onb.ac.at/1026BDDB/45
 cast:
   - name: Propertia Rossi,
     role: Malerin und Bildhauerin.
@@ -94811,10 +95175,10 @@ cast:
     role: ihre Freundin.
     gender: f
   - name: Leone.
-    gender: f
+    gender: m
   - group:
       - name: Piedro
-        gender: f
+        gender: m
       - name: Giacomo
         gender: m
     role: Diener Propertia's.
@@ -101316,7 +101680,7 @@ dictionaries:
 editions:
   - title: "Leipzig: Böhmen 1779"
     url: https://books.google.com/books?id=h_FYAAAAcAAJ&printsec=frontcover
-comments:
+keywords:
   - Kindertheater
 cast:
   - name: Rosimunde.
@@ -102256,7 +102620,7 @@ title: "Der alte Prognostiker, oder Hab' ich's nicht vorher gesagt?"
 subtitle: Posse in 1 Akt
 premiered: 1832-06-10
 reviews:
-  - "Der Wanderer. Nro. 188 (Freitag, den 6. Juli 1832), [ohne Pag.](https://books.google.com/books?id=oGxMAAAAcAAJ&pg=RA7-PP2)"
+  - "Der Wanderer. Nro. 188 (Freitag, den 6. Juli 1832), [unpag.](https://books.google.com/books?id=oGxMAAAAcAAJ&pg=RA7-PP2)"
 ---
 id: ein002522
 slug: vogel-der-geizige-autor
@@ -109503,6 +109867,81 @@ settings:
   - description: >-
       Ländliche Gegend.
 ---
+id: ein002767
+slug: werner-die-unterschrift
+author:
+  name: Werner, Franz A.
+  wikidata: Q94988953
+title: Die Unterschrift
+subtitle: Drama in einem Acte
+numOfScenes: 9
+yearPrinted: 1842
+formalia:
+  - trochäische Verse
+editions:
+  - title: "Das Brünner Rad. Volksmärchen in drei Akten, nebst einem Vorspiele, unter dem Titel: Die Unterschrift. Drama in einem Acte. In: Franz A. Werner's dramatische Werke. Zweites Bändchen. Warasdin: Platzer 1842, S. 1–29"
+    url: https://mdz-nbn-resolving.de/details:bsb10123003
+cast:
+  - name: Meisteer Balbek,
+    role: der Wagner.
+    gender: m
+  - name: Debora,
+    role: sein Weib.
+    gender: f
+  - name: Elsbeth,
+    role: seine Tochter.
+    gender: f
+  - name: Lubomir.
+    gender: m
+  - name: Der Stadtschreiber.
+    gender: m
+  - name: Babuan,
+    role: ein böser Dämon.
+    gender: m
+  - name: Dämone. Furien. Söldner.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Ort der Handlung: Brünn. Zeit: das 15. Jahrhundert.
+    location:
+      wikidataId: Q14960
+---
+id: ein002768
+slug: werner-die-vogelscheuche
+author:
+  name: Werner, Franz A.
+  wikidata: Q94988953
+title: Die Vogelscheuche
+subtitle: Lustspiel in einem Akte
+numOfScenes: 18
+yearPrinted: 1842
+formalia:
+  - Prosa
+basedOn:
+  - stepanek-hastros
+editions:
+  - title: "Franz A. Werner's dramatische Werke. Drittes Bändchen. Warasdin: Platzer 1842, S. 1–30"
+    url: https://mdz-nbn-resolving.de/details:bsb10123004
+comments:
+  - "Untertitel unmittelbar vor Stückbeginn anderslautend: »Posse in einem Akte, nach Stiepanek«. ([S. 7](https://www.digitale-sammlungen.de/de/view/bsb10123004?page=7))"
+cast:
+  - name: Tobias Tanne,
+    role: Gärtner.
+    gender: m
+  - name: Betti,
+    role: seine Tochter.
+    gender: f
+  - name: Schmerbauch,
+    role: der Schulmeister.
+    gender: m
+  - name: Franz,
+    role: sein Pflegesohn.
+    gender: m
+settings:
+  - description: >-
+      Die Scene spielt in Tanne's Garten, mehr Blumen und Gesträuche als Bäume. Rechts der Eingang in Tobias Hütte.
+---
 id: ein002306
 slug: werner-frage-und-antwort
 author:
@@ -109547,6 +109986,45 @@ cast:
 settings:
   - description: >-
       Das Stück spielt auf dem Gute der Baronin, nahe bei der Residenz gelegen.
+---
+id: ein002769
+slug: werner-liebe-und-treue
+author:
+  name: Werner, Franz A.
+  wikidata: Q94988953
+title: Liebe und Treue
+subtitle: Drama in einem Akte
+numOfScenes: 20
+yearPrinted: 1842
+formalia:
+  - Prosa
+editions:
+  - title: "Franz A. Werner's dramatische Werke. Drittes Bändchen. Warasdin: Platzer 1842"
+    url: https://mdz-nbn-resolving.de/details:bsb10123004
+cast:
+  - name: Eduard Dollenberg.
+    gender: m
+  - name: Elise,
+    role: seine Gemalin.
+    gender: f
+  - name: Adolph,
+    role: Graf v. Mölven.
+    gender: m
+  - name: Cambrigh,
+    role: Doktor.
+    gender: m
+  - name: Valentin,
+    role: des Doktors Diener.
+    gender: m
+  - name: Thomas,
+    role: Eduards Diener.
+    gender: m
+  - name: Herren und Damen als Gäste. Diener.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Die Handlung spielt in einer großen Stadt.
 ---
 id: ein002307
 slug: wertheimer-der-hirtensohn
