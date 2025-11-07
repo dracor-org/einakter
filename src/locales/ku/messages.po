@@ -14,38 +14,38 @@ msgstr ""
 "X-Generator: Poedit 3.3.2\n"
 
 #: src/components/About.tsx:9
-#: src/components/Topnav.tsx:102
+#: src/components/Topnav.tsx:79
 msgid "About"
 msgstr "derbarê"
 
-#: src/components/Home.tsx:43
+#: src/components/Home.tsx:44
 msgid "About the project"
 msgstr "di derbarê bernameyê de"
 
-#: src/components/Originals.tsx:40
+#: src/components/Originals.tsx:41
 #: src/components/Plays.tsx:32
 msgid "Author"
 msgstr "nivîskar"
 
-#: src/components/OriginalStatistics.tsx:79
-#: src/components/Statistics.tsx:123
+#: src/components/OriginalStatistics.tsx:94
+#: src/components/Statistics.tsx:107
 msgid "Authors"
 msgstr "nivîskar"
 
-#: src/components/AuthorInfo.tsx:121
+#: src/components/AuthorInfo.tsx:125
 msgid "b."
 msgstr "zayîn"
 
-#: src/components/Details.tsx:293
+#: src/components/Details.tsx:279
 msgid "Based on"
 msgstr "li ser bingeha"
 
 #: src/components/Plays.tsx:83
-#: src/components/Statistics.tsx:138
+#: src/components/Statistics.tsx:122
 msgid "Characters"
 msgstr "karakter"
 
-#: src/components/Details.tsx:98
+#: src/components/Details.tsx:80
 msgid "Comments"
 msgstr "têbinî"
 
@@ -53,7 +53,7 @@ msgstr "têbinî"
 msgid "Czech"
 msgstr "çekî"
 
-#: src/components/AuthorInfo.tsx:126
+#: src/components/AuthorInfo.tsx:130
 msgid "d."
 msgstr "mirin"
 
@@ -64,24 +64,24 @@ msgstr "danîmarkî"
 #~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
 #~ msgstr "Database currently containing {0} one-act plays featuring {numCharacters} characters"
 
-#: src/components/Details.tsx:129
-#: src/components/OriginalDetails.tsx:99
+#: src/components/Details.tsx:111
+#: src/components/OriginalDetails.tsx:97
 msgid "Dates"
 msgstr "dîrok"
 
-#: src/components/Details.tsx:303
+#: src/components/Details.tsx:289
 msgid "Dictionaries"
 msgstr "ferheng"
 
-#: src/components/Plays.tsx:118
+#: src/components/Plays.tsx:123
 msgid "Download CSV"
 msgstr "daxisitin CSV"
 
-#: src/components/Plays.tsx:111
+#: src/components/Plays.tsx:116
 msgid "Download JSON"
 msgstr "daxistin JSON"
 
-#: src/components/Details.tsx:190
+#: src/components/Details.tsx:176
 msgid "Dramatis personae"
 msgstr "kesayetên dramatîk"
 
@@ -89,11 +89,11 @@ msgstr "kesayetên dramatîk"
 msgid "Dutch"
 msgstr "holandî"
 
-#: src/components/Home.tsx:29
+#: src/components/Home.tsx:30
 msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
 msgstr "Edîtorî ji Dîlan Canan Çakir û Frank Fischer"
 
-#: src/components/Details.tsx:170
+#: src/components/Details.tsx:156
 msgid "Editions"
 msgstr "çap"
 
@@ -102,11 +102,12 @@ msgid "English"
 msgstr "îngilîzî"
 
 #: src/components/GenderIcon.tsx:10
-#: src/components/Statistics.tsx:127
+#: src/components/OriginalStatistics.tsx:98
+#: src/components/Statistics.tsx:111
 msgid "female"
 msgstr "mê"
 
-#: src/components/Details.tsx:313
+#: src/components/Details.tsx:299
 msgid "Formalia"
 msgstr "cure"
 
@@ -114,7 +115,7 @@ msgstr "cure"
 msgid "French"
 msgstr "fransî"
 
-#: src/components/OriginalDetails.tsx:127
+#: src/components/OriginalDetails.tsx:129
 msgid "Full text"
 msgstr "nivîsa tevahî"
 
@@ -122,28 +123,32 @@ msgstr "nivîsa tevahî"
 msgid "German"
 msgstr "elmanî"
 
-#: src/components/Details.tsx:23
+#: src/components/Details.tsx:22
 msgid "Group"
 msgstr "kom"
 
 #~ msgid "Hide"
 #~ msgstr "Hide"
 
+#: src/components/Plays.tsx:99
+msgid "ID"
+msgstr "ID"
+
 #: src/languages.ts:18
 msgid "Italian"
 msgstr "îtalî"
 
-#: src/components/Details.tsx:327
+#: src/components/Details.tsx:313
 #: src/components/Plays.tsx:88
 msgid "Keywords"
 msgstr "miftepeyv"
 
-#: src/components/OriginalDetails.tsx:68
-#: src/components/Originals.tsx:69
+#: src/components/OriginalDetails.tsx:66
+#: src/components/Originals.tsx:70
 msgid "Language"
 msgstr "ziman"
 
-#: src/components/OriginalStatistics.tsx:85
+#: src/components/OriginalStatistics.tsx:106
 msgid "Languages"
 msgstr "ziman"
 
@@ -151,29 +156,30 @@ msgstr "ziman"
 msgid "Latin"
 msgstr "latînî"
 
-#: src/components/Details.tsx:146
-#: src/components/OriginalDetails.tsx:108
+#: src/components/Details.tsx:132
+#: src/components/OriginalDetails.tsx:110
 msgid "Links"
 msgstr "girêdan"
 
 #~ msgid "Loading..."
 #~ msgstr "Loading..."
 
-#: src/components/Details.tsx:272
+#: src/components/Details.tsx:258
 msgid "Location"
 msgstr "derawa"
 
-#: src/components/Map.tsx:56
-#: src/components/Topnav.tsx:96
+#: src/components/Map.tsx:57
+#: src/components/Topnav.tsx:73
 msgid "Locations"
 msgstr "derawa"
 
 #: src/components/GenderIcon.tsx:13
-#: src/components/Statistics.tsx:127
+#: src/components/OriginalStatistics.tsx:98
+#: src/components/Statistics.tsx:111
 msgid "male"
 msgstr "nêr"
 
-#: src/components/Details.tsx:34
+#: src/components/Details.tsx:33
 msgid "No such play"
 msgstr "Lîstikeke wisa tune"
 
@@ -181,19 +187,19 @@ msgstr "Lîstikeke wisa tune"
 msgid "not available"
 msgstr "ne berdeste"
 
-#: src/components/OriginalStatistics.tsx:76
+#: src/components/OriginalStatistics.tsx:90
 msgid "Number of originals"
 msgstr "hejmara orîjinalan"
 
-#: src/components/Details.tsx:138
+#: src/components/Details.tsx:124
 msgid "Number of Scenes"
 msgstr "hejmara sehneyan"
 
-#: src/components/Originals.tsx:74
+#: src/components/Originals.tsx:75
 msgid "Number of translations"
 msgstr "hejmara wergeran"
 
-#: src/components/Statistics.tsx:119
+#: src/components/Statistics.tsx:103
 msgid "One-act plays"
 msgstr "șanoyên yek-perdeyî"
 
@@ -201,44 +207,44 @@ msgstr "șanoyên yek-perdeyî"
 msgid "Original not found"
 msgstr "Orjînal nehat dîtin"
 
-#: src/components/Original.tsx:56
-#: src/components/Topnav.tsx:99
+#: src/components/Original.tsx:57
+#: src/components/Topnav.tsx:76
 msgid "Originals"
 msgstr "orîjinal"
 
-#: src/components/Original.tsx:83
+#: src/components/Original.tsx:84
 msgid "Other one-act translations"
 msgstr "wergerên din ên yek-perdeyî"
 
 #~ msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries."
 #~ msgstr "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries."
 
-#: src/components/Home.tsx:32
+#: src/components/Home.tsx:33
 msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
 msgstr "Mebesta me ew e ku em li ser lîstikên yek-perdeyî yên di navbera nîveka sedsala 18an û nîveka sedsala 19an de bi elmanî hatine nivîsandin, bi nêrîneke jimarî ya giştî pêşkêş bikin. Ji bo agahiyên zêdetir, herweha bê meriv çawa dikare jêderka vê danegehê nîşan bide, ji kerema xwe li rûpela »Derbarê« binêrin."
 
-#: src/components/Topnav.tsx:93
+#: src/components/Topnav.tsx:70
 msgid "Plays"
 msgstr "șanoyê"
 
-#: src/components/OriginalStatistics.tsx:82
-#: src/components/Statistics.tsx:132
+#: src/components/OriginalStatistics.tsx:103
+#: src/components/Statistics.tsx:116
 msgid "Plays published anonymously"
 msgstr "şanoyên anonîm çapbûyî"
 
-#: src/components/Statistics.tsx:135
+#: src/components/Statistics.tsx:119
 msgid "Plays translated/adapted from other languages"
 msgstr "şanoyên ji zimanên din"
 
-#: src/components/Years.tsx:97
+#: src/components/Years.tsx:96
 msgid "premiered"
 msgstr "promiyer kiriye"
 
-#: src/components/Years.tsx:105
+#: src/components/Years.tsx:104
 msgid "printed"
 msgstr "çapkirî"
 
-#: src/components/Details.tsx:114
+#: src/components/Details.tsx:96
 msgid "Reviews"
 msgstr "nirxandin"
 
@@ -250,11 +256,11 @@ msgstr "rûsî"
 msgid "Scenes"
 msgstr "sehne"
 
-#: src/components/Table.tsx:50
+#: src/components/Table.tsx:49
 msgid "Search"
 msgstr "gerr"
 
-#: src/components/Details.tsx:256
+#: src/components/Details.tsx:242
 msgid "Setting"
 msgstr "eyar"
 
@@ -268,24 +274,24 @@ msgstr "îspanyolî"
 #~ msgid "Statistics"
 #~ msgstr "Statistics"
 
-#: src/components/Home.tsx:12
+#: src/components/Home.tsx:13
 msgid "The Database of German-Language One-Act Plays 1740–1850"
 msgstr "Danegeha Şanoyên Yek-perdeyî yên bi Zimanê Elmanî 1740-1850"
 
-#: src/components/Home.tsx:18
+#: src/components/Home.tsx:19
 msgid "The Database of<0/>German-Language<1/>One-Act Plays<2/>1740–1850"
 msgstr "Danegeha Şanoyên<0/>Yek-perdeyî yên<1/>bi Zimanê Elmanî<2/>1740-1850"
 
-#: src/components/Map.tsx:60
+#: src/components/Map.tsx:61
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr "Ev nexşe hemî cihên çîrokê yên ku ji agahdariyên mîhengî yên di destpêka lîstikê de têne derxistin nîşan dide. Binavkirin û sînorkirinên li ser nexşeyê ji hêla OpenStreetMap ve têne peyda kirin û ji ber vê yekê bi dema çalakiyê û afirandina lîstikê re ne-dîrokî ne."
 
-#: src/components/Originals.tsx:56
+#: src/components/Originals.tsx:57
 #: src/components/Plays.tsx:48
 msgid "Title"
 msgstr "serenav"
 
-#: src/components/OriginalDetails.tsx:74
+#: src/components/OriginalDetails.tsx:72
 msgid "Translations"
 msgstr "werger"
 
@@ -295,11 +301,11 @@ msgstr "werger"
 #~ msgid "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
 #~ msgstr "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
 
-#: src/components/Years.tsx:88
+#: src/components/Years.tsx:87
 msgid "written"
 msgstr "nivîsandin"
 
-#: src/components/Originals.tsx:61
+#: src/components/Originals.tsx:62
 #: src/components/Plays.tsx:60
 msgid "Year (normalized)"
 msgstr "sal (normal kirin)"
