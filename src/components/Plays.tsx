@@ -94,6 +94,11 @@ export default function Plays() {
             <span />
           ),
       },
+      {
+        id: 'id',
+        header: t`ID`,
+        accessorFn: (row) => row.id?.toString() || '',
+      },
     ],
     []
   );
