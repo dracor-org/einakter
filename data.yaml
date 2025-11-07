@@ -8762,7 +8762,7 @@ dictionaries:
     pages: 2. Abteilung, Band 24, S. 274–275
 editions:
   - title: "Beytrag zum spanischen Theater. Hamburg und Riga 1771, S. 87–100"
-    url: http://data.onb.ac.at/rep/1045E298
+    url: https://viewer.onb.ac.at/1045E298/87
 comments:
   - Herausgeber des Bandes »Beytrag zum spanischen Theater« waren offenbar Justus Friedrich Wilhelm Zachariae und Karl Christian Gärtner. Bei den Stücken handelt es sich um Übersetzungen aus Simon-Nicolas-Henri Linguets »Théâtre espagnol« (vgl. u.a. [Deutsche Biographie](https://www.deutsche-biographie.de/sfz86386.html)).
 cast:
@@ -9183,15 +9183,15 @@ editions:
 comments:
   - Erich Schmidt [in der ADB](https://www.deutsche-biographie.de/pnd136016456.html#adbcontent) vermutet Heinrich August Ossenfelder (1725–1801) als Autor.
 cast:
-  - name: Herr Fuhrmann
+  - name: Herr Fuhrmann.
     gender: m
-  - name: Frau Fuhrmannin
+  - name: Frau Fuhrmanninn.
     gender: f
-  - name: Julie
+  - name: Julie.
     gender: f
-  - name: Lisette
+  - name: Lisette.
     gender: f
-  - name: Leander
+  - name: Leander.
     gender: m
 ---
 id: ein000193
@@ -9263,7 +9263,7 @@ slug: anonym-die-erzwungene-einwilligung
 author:
   pseudonym: Anonym
 title: Die erzwungene Einwilligung
-subtitle: Lustspiel in 1 Aufzug, aus dem Französischen des Guyot de Merville übersetzt
+subtitle: Ein Lustspiel, in einem Aufzuge. Aus dem Französischen des Gn. de Merville
 numOfScenes: 21
 yearPrinted: 1742
 formalia:
@@ -9272,31 +9272,27 @@ basedOn:
   - guyot-de-merville-le-consentement-force
 dictionaries:
   - name: bibliographia
-    pages: 2. Abteilung, Band 12, S. 31, und Band 20, S. 183–184
+    pages: 2. Abteilung, Band 12, S. 31, S. 301, S. 303, und Band 20, S. 184
 editions:
-  - title: "Gesammlete Lustspiele. Breßlau: Korn 1762, S. 183–230"
-    url: https://books.google.com/books?id=PBhaAAAAcAAJ&pg=PA183
+  - title: "Hamburg: Piscator [1742]"
+    url: http://digital.slub-dresden.de/id338175547/3
 comments:
-  - 1762 unter dem Titel »Die erzwungene Einwilligung, ein Lustspiel aus dem Französischen des Herrn Guyot de Merville«.
+  - "Die Übersetzung in Gesammlete Lustspiele. Breßlau: Korn 1762, [S. 183–230](https://books.google.com/books?id=PBhaAAAAcAAJ&pg=PA183), trägt keinen Einakterhinweis: »Die erzwungene Einwilligung, ein Lustspiel aus dem Französischen des Herrn Guyot de Merville«."
 cast:
   - name: Orgon.
     gender: m
   - name: Cleant,
-    role: Orgons Sohn.
+    role: Sohn des Orgons.
     gender: m
-  - name: Clarisse,
-    role: Cleantens Frau.
+  - name: Clarice,
+    role: des Cleanten Frau.
     gender: f
   - name: Lisimon,
-    role: Orgons und Cleantens Freund.
+    role: ein Freund des Orgons und Cleanten.
     gender: m
   - name: Toinette,
-    role: der Clarisse Mädchen.
+    role: ein Mägdchen der Clarice.
     gender: f
-settings:
-  - description: Die Schaubühne ist zu Autevil.
-    location:
-      wikidataId: Q18199480
 ---
 id: ein000195
 slug: anonym-die-erzwungene-heirath-oder-merlin-ein-dragoner
@@ -11232,6 +11228,7 @@ editions:
   - title: "Die Weiber-List. Ein Lustspiel in einer Handlung. Neueste Auflage. Frankfurt und Leipzig 1753"
     url: https://books.google.com/books?id=eDFJAAAAcAAJ&printsec=frontcover
   - title: "Die Frauenlist, ein Lustspiel. Von einer Handlung in Versen. [Ohne Ort] 1754"
+    url: https://purl.uni-rostock.de/rosdok/ppn1733606599
 keywords:
   - Ehebruch
 ids:
@@ -45105,6 +45102,8 @@ basedOn:
   - dumanoir-le-code-des-femmes
 editions:
   - title: "Dramatisches Vergißmeinnicht auf das Jahr 1849 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Sechsundzwanzigstes Bändchen. Dresden und Leipzig: Arnoldi 1849"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 107 (Sonnabend, 4. Mai 1850), [S. 426](https://books.google.com/books?id=9VQFAAAAQAAJ&pg=PA426)."
 cast:
   - name: Paul Fauvel.
     gender: m
@@ -46069,6 +46068,8 @@ basedOn:
   - musset-un-caprice
 editions:
   - title: "Dramatisches Vergißmeinnicht auf das Jahr 1849 aus den Gärten des Auslandes nach Deutschland verpflanzt von Theodor Hell. Sechsundzwanzigstes Bändchen. Dresden und Leipzig: Arnoldi 1849"
+reviews:
+  - "Blätter für literarische Unterhaltung. Nr. 107 (Sonnabend, 4. Mai 1850), [S. 427](https://books.google.com/books?id=9VQFAAAAQAAJ&pg=PA427)."
 comments:
   - "Auch von Zerline Gabillon übersetzt ([Wien: Rosner 1878](https://books.google.com/books?id=ac3hlW8MhtMC&printsec=frontcover))."
 cast:
@@ -71899,9 +71900,6 @@ formalia:
 editions:
   - title: "Volkstheater in Frankfurter Mundart. Frankfurt a. M.: Sauerländer 1849"
     url: https://books.google.com/books?id=fA5FAAAAIAAJ&pg=RA4-PA1
-ids:
-  dracor: ger000044
-  wikidata: Q54366286
 cast:
   - name: Der Graf von Langen.
     gender: m
