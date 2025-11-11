@@ -40724,7 +40724,7 @@ cast:
     gender: f
   - name: Moritz,
     role: ein Reisender.
-    gender: f
+    gender: m
 settings:
   - description: >-
       Die Scene ist eine freie Gegend, links auf dem Theater eine Bauernhütte, rechts der Eingang in einen angenehmen Park.
@@ -81197,6 +81197,46 @@ settings:
     location:
       wikidataId: Q1142
 ---
+id: ein002786
+slug: piper-die-brueder
+author:
+  name: Piper, Friedrich
+  wikidata: Q94874234
+title: Die Brüder
+subtitle: Ein dramatisches Gemählde in Einem Akt
+numOfScenes: 15
+yearPrinted: 1797
+formalia:
+  - Prosa
+dictionaries:
+  - name: bibliographia
+    pages: 2. Abteilung, Band 34, S. 424
+editions:
+  - title: "Rostock und Leipzig: Stiller 1797"
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN1789425352
+cast:
+  - name: Herr von Leisring,
+    role: ein Guthsbesitzer.
+    gender: m
+  - name: Frau von Leisring,
+    role: seine Gemahlin.
+    gender: f
+  - name: Hauptmann von Leisring,
+    role: sein jüngerer Bruder.
+    gender: m
+  - name: Fräulein Benten,
+    role: jüngere Schwester der Frau von Leisring.
+    gender: f
+  - name: Das Kammermädchen
+    role: der Frau von Leisring.
+    gender: f
+  - name: Ein Bedienter
+    role: des Herrn von Leisring.
+    gender: m
+settings:
+  - description: >-
+      Die Scene: Auf dem Guthe des Herrn von Leisring; ein gemeinschaftliches Wohnzimmer.
+---
 id: ein001683
 slug: piper-verlust-durch-gewinn-und-gewinn-durch-verlust
 author:
@@ -82605,6 +82645,8 @@ dictionaries:
 editions:
   - title: "Dessau: Hofmann 1794"
     url: https://books.google.com/books?id=HY9lSqf2f7IC&printsec=frontcover
+  - title: "Leipzig: Dyk 1798"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0000E4B500000000
 cast:
   - name: Der Fremde.
     gender: m
@@ -100907,6 +100949,50 @@ settings:
   - description: >-
       Ein Zimmer mit verschiedenen Thüren. Ein Tisch mit Schreibgeräth, in dem Schubfach ein Paar Pistolen.
 ---
+id: ein002787
+slug: tilly-die-klausel
+author:
+  name: Tilly, Johann Baptist
+  wikidata: Q60840771
+title: Die Klausel
+subtitle: Ein Lustspiel in Einem Akte
+numOfScenes: 26
+yearPrinted: 1798
+premiered: 1798-02-24
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Felisch 1798"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0000E35900000000
+comments:
+  - "Sowohl die vorletzte als auch die letzte Szene sind mit »XXV.« nummeriert (vgl. S. 111 und 113), daher werden 26 Szenen verzeichnet."
+cast:
+  - name: Barlow.
+    gender: m
+  - name: Hannchen,
+    role: Barlows Tochter.
+    gender: f
+  - name: Estfried.
+    gender: m
+  - name: Schilde,
+    role: ein Landmann.
+    gender: m
+  - name: Röschen,
+    role: dessen Frau.
+    gender: f
+  - name: Hollmer.
+    gender: m
+  - name: Wiesenberg.
+    gender: m
+  - name: Zopf,
+    role: Estfrieds Bedienter.
+    gender: m
+  - name: Ein Bedienter Wiesenbergs.
+    gender: m
+settings:
+  - description: >-
+      Schildens Stube mit einem Fenster nach der Dorfstraße, und außer der Eingangsthür in der Mitte, noch einer Thür zur Kammer.
+---
 id: ein002101
 slug: toepfer-cyprian-und-barbara
 author:
@@ -104410,6 +104496,58 @@ settings:
       wikidataId: Q42053
   - description: >-
       Wohnung des Ali.
+---
+id: ein002785
+slug: voss-die-freyheit-in-worms
+author:
+  name: Voß, Julius von
+  wikidata: Q90626
+title: Die Freyheit in Worms
+subtitle: Ein politisches Lustspiel in einem Akt
+numOfScenes: 2
+yearPrinted: 1793
+formalia:
+  - Prosa
+editions:
+  - title: "Berlin: Birnstiel 1793"
+    url: http://digitale-bibliothek-mv.de/viewer/resolver?urn=urn:nbn:de:gbv:9-g-4906187
+cast:
+  - name: Der Präsident.
+    gender: m
+  - name: Klubist Schöneck.
+    gender: m
+  - name: Klubist Meyer.
+    gender: m
+  - name: Klubist Kupferschmidt.
+    gender: m
+  - name: Klubist Klözer.
+    gender: m
+  - name: Klubist Späth.
+    gender: m
+  - name: Klubist Gerber.
+    gender: m
+  - name: Klubist Schäfer.
+    gender: m
+  - name: Klubist Brechter.
+    gender: m
+  - name: Botenmeister Böhmer und mehr Mitglieder des Freyheits-Klubs.
+    isGroup: true
+    gender: m
+  - name: Ein Preußischer Officier.
+    gender: m
+  - name: Vier Preußische Husaren.
+    isGroup: true
+    gender: m
+  - name: Ein Nationalgarde.
+    gender: m
+  - name: Franzosen, Volk, u.s.w.
+    isGroup: true
+    gender: u
+settings:
+  - description: >-
+      Klub zu Worms den 30sten März 1793.
+    location:
+      wikidataId: Q3852
 ---
 id: ein002177
 slug: voss-die-liebe-im-zuchthause
