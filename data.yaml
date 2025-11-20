@@ -9715,17 +9715,36 @@ dictionaries:
     pages: 2. Abteilung, Band 28, S. 350
 ---
 id: ein002751
-slug: anonym-die-katakomben
+slug: anonym-die-katakomben-in-rom
 author:
   name: G., L. V.
   pseudonym: Anonym
-title: Die Katakomben
+title: Die Katakomben in Rom
 subtitle: Vorspiel in einem Aufzuge. Frei nach dem Französischen bearbeitet
+numOfScenes: 3
 yearPrinted: 1843
 editions:
-  - title: "Karlsruhe 1843"
+  - title: "Stella oder das Gespenst von Oriol. Drama in fünf Aufzügen. Nebst einem Vorspiele: die Katakomben, in einem Aufzuge. Karlsruhe: Macklot 1843, S. 1–14"
 comments:
-  - "Vorspiel zu »Stella oder das Gespenst von Oriol. Drama in 5 Aufzügen«. Vgl. [Stabi-Katalog](https://stabikat.de/Record/402937678)."
+  - "Vgl. [Stabi-Katalog](https://stabikat.de/Record/402937678). Das Personenverzeichnis bezieht sich auf das gesamte Stück inkl. Vorspiel, hier daraus nur die vier im Vorspiel auftretenden Personen."
+cast:
+  - group:
+      - name: Luidgi,
+        gender: m
+      - name: Matteo,
+        gender: m
+    role: Führer in den Katakomben zu Rom.
+  - name: Marie,
+    role: Gräfin von St. Jean, unter dem Namen Stella.
+    gender: f
+  - name: Conrad von Harcourt,
+    role: Major in französischen Diensten.
+    gender: m
+settings:
+  - description: >-
+      Das Vorspiel spielt im Jahre 1778 in den Katakomben zu Rom, […]
+    location:
+      wikidataId: Q220
 ---
 id: ein002455
 slug: anonym-die-kindliche-liebe
