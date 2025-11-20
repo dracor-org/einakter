@@ -4376,6 +4376,47 @@ cast:
 settings:
   - description: Der Schauplatz ist in einem Saal des Pallastes der Zauberin.
 ---
+id: ein002790
+slug: anonym-das-originalgemaehlde
+author:
+  pseudonym: Anonym
+title: Das Originalgemählde
+subtitle: Lustspiel in einem Aufzuge
+numOfScenes: 14
+yearPrinted: 1802
+formalia:
+  - Prosa
+basedOn:
+  - roger-caroline-ou-le-tableau
+editions:
+  - title: "Kleiner Beitrag zur deutschen Bühne. von den neuern französischen entlehnt. Hamburg: Nestler 1802, S. 193–192"
+reviews:
+  - "Hamburg und Altona. Ein Journal zur Geschichte der Zeit, der Sitten und des Geschmaks. Zweiter Jahrgang, vierter Band. XII. Heft. Hamburg: Nestler 1803, [S. 339–340](https://books.google.com/books?id=9SRGAAAAcAAJ&pg=PA339)."
+cast:
+  - group:
+      - name: Karoline Weilburg,
+        role: eine Waise.
+        gender: f
+      - name: Murrbach,
+        role: ein Mahler.
+        gender: m
+      - name: Millbeck
+        gender: m
+    role: in Einem Hause wohnend.
+  - name: Feld,
+    role: Bedienter bei Millbeck.
+    gender: m
+  - name: Kordelia,
+    role: Millbecks Haushälterin.
+    gender: f
+settings:
+  - description: >-
+      Die Szene ist in Wien.
+    location:
+      wikidataId: Q1741
+  - description: >-
+      Das Theater stellt Karolinens einfach möblirtes Zimmer vor. Rechts im Hintergrunde sieht man mehrere Zeichnungen in Kreide, einen Tisch, ein Portefeuille auf einem Stuhle, eine Staffelei, und andere zur Mahlerei gehörige Dinge. Auf derselben Seite im Vordergrund hängt in einem prächtigen Rahmen ein altes, vom Rauche schwarz gewordenes Gemälde, auf dem man nur mit Mühe einen Esel erkennen kann. Zur Linken ist ein Fenster, das nach der Gasse sieht, ein Tisch und eine andere Mappe mit Landschaften. Die Thüre ist ebenfalls zur Linken, aber im Hintergrunde.
+---
 id: ein000086
 slug: anonym-das-portrait-1770
 author:
@@ -6660,6 +6701,45 @@ settings:
       Der Schauplatz ist ausser der Stadt neben einem Gartenhause der Frau Antonette.
   - description: >-
       Die Handlung fängt gegen Abend an, und dauert bis es finster ist.
+---
+id: ein002788
+slug: anonym-der-leutnant-und-sein-rittmeister-oder-die-heirathsprojekte
+author:
+  pseudonym: Anonym
+title: Der Leutnant und sein Rittmeister, oder Die Heirathsprojekte
+subtitle: Lustspiel in einem Aufzug
+numOfScenes: 25
+yearPrinted: 1802
+formalia:
+  - Prosa
+basedOn:
+  - duval-les-projets-de-mariage
+editions:
+  - title: "Kleiner Beitrag zur deutschen Bühne. von den neuern französischen entlehnt. Hamburg: Nestler 1802, S. 3–96"
+reviews:
+  - "Hamburg und Altona. Ein Journal zur Geschichte der Zeit, der Sitten und des Geschmaks. Zweiter Jahrgang, vierter Band. XII. Heft. Hamburg: Nestler 1803, [S. 339–340](https://books.google.com/books?id=9SRGAAAAcAAJ&pg=PA339)."
+cast:
+  - name: Herr von Klemberg,
+    role: ein Landedelmann.
+    gender: m
+  - name: Frau von Waller,
+    role: seine Nichte, eine junge Wittwe.
+    gender: f
+  - group:
+      - name: Rittmeister Helling
+        gender: m
+      - name: Leutnant Glimm
+        gender: m
+    role: von einem Kavallerie-Regimente.
+  - name: Philipp,
+    role: Bedienter bei dem Herrn von Klemberg.
+    gender: m
+  - name: Noch ein Bedienter.
+    gender: m
+settings:
+  - description: Die Handlung ist in der Nähe von Dresden, auf dem Landgute des Herrn von Klemberg. Das Theater stellt einen offenen Gartensaal vor.
+    location:
+      wikidataId: Q1731
 ---
 id: ein002405
 slug: anonym-der-liebhaber-als-stubenmaedchen
@@ -12592,6 +12672,43 @@ cast:
 settings:
   - description: >-
       Der Schauplatz ist auf einem großen Saal.
+---
+id: ein002789
+slug: anonym-die-vergoltene-list
+author:
+  pseudonym: Anonym
+title: Die vergoltene List
+subtitle: Lustspiel in einem Aufzug
+numOfScenes: 22
+yearPrinted: 1802
+formalia:
+  - Prosa
+basedOn:
+  - pigault-lebrun-les-rivaux-d-eux-memes
+editions:
+  - title: "Kleiner Beitrag zur deutschen Bühne. von den neuern französischen entlehnt. Hamburg: Nestler 1802, S. 97–192"
+reviews:
+  - "Hamburg und Altona. Ein Journal zur Geschichte der Zeit, der Sitten und des Geschmaks. Zweiter Jahrgang, vierter Band. XII. Heft. Hamburg: Nestler 1803, [S. 339–340](https://books.google.com/books?id=9SRGAAAAcAAJ&pg=PA339)."
+cast:
+  - name: Major von Derwald.
+    gender: m
+  - name: Frau von Derwald,
+    role: seine Gemahlin.
+    gender: f
+  - name: Lisette,
+    role: ihr Kammermädchen, mit ihr erzogen.
+    gender: f
+  - name: Major von Forberg.
+    gender: m
+  - name: Dübenau,
+    role: Gastwirth und Postmeister, in einem Landstädtchen an der baiersch-schwäbischen Gränze.
+    gender: m
+  - name: Einige Aufwärter.
+    isGroup: true
+    gender: m
+settings:
+  - description: Das Theater stellt einen Vorsaal mit einer Haupt- und einigen Neben-Thüren vor.
+  - description: Die Szene ist in einem baierschen Landstädtchen.
 ---
 id: ein000258
 slug: anonym-die-verhandelte-braut
