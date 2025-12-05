@@ -3954,6 +3954,47 @@ cast:
   - name: Noch ein andrer Bedienter.
     gender: m
 ---
+id: ein002794
+slug: anonym-das-homoeopathische-rezept
+author:
+  pseudonym: Anonym
+title: Das homöopathische Rezept
+subtitle: Lustspiel in Einem Aufzuge. Frei nach dem Französischen des Fournier und Biéville
+numOfScenes: 21
+yearPrinted: 1839
+formalia:
+  - Prosa
+basedOn:
+  - bieville-fournier-l-homeopathie
+editions:
+  - title: "Apollo. Dramatischer Almanach auf das Jahr 1839. Rawicz und Leipzig: Loebell [1839], S. 195–248"
+    url: "https://gdz.sub.uni-goettingen.de/id/PPN1941464645_1839?tify={%22pages%22:[203],%22view%22:%22toc%22}"
+reviews:
+  - "Repertorium der gesammten deutschen Literatur. Zwanzigster Band. Leipzig: Brockhaus 1839, [S. 178–179](https://books.google.com/books?id=-FUJjLh_3DcC&pg=PA178)."
+  - "Blätter für literarische Unterhaltung. Nr. 128 (Donnerstag, 7. Mai 1840), [S. 513](https://books.google.com/books?id=KZcKAAAAYAAJ&pg=PA513)."
+cast:
+  - name: Frau von Falkenau,
+    role: eine junge Wittwe.
+    gender: f
+  - name: Karl von Darling,
+    role: ihr Vetter.
+    gender: m
+  - name: Fréderic Rivière,
+    role: homöopathischer Arzt.
+    gender: m
+  - name: Marie,
+    role: Kammerfrau der Frau von Falkenau.
+    gender: f
+  - name: Bernhard,
+    role: Bedienter.
+    gender: m
+  - name: Bediente.
+    isGroup: true
+    gender: m
+settings:
+  - description: >-
+      Die Handlung geht in einer deutschen Residenz, im Hause der Frau von Falkenau, vor.
+---
 id: ein000078
 slug: anonym-das-impromptue
 author:
@@ -4021,6 +4062,41 @@ settings:
       Der Schauplatz ist in Berlin auf einem Saale zwischen dem Zimmer des Barons und seiner Gemahlin.
     location:
       wikidataId: Q64
+---
+id: ein002793
+slug: anonym-das-kloster-auf-dem-sankt-bernhard
+author:
+  pseudonym: Anonym
+title: Das Kloster auf dem Sankt Bernhard
+subtitle: Drama in einem Aufzuge
+numOfScenes: 10
+yearPrinted: 1839
+formalia:
+  - Blankvers
+editions:
+  - title: "Apollo. Dramatischer Almanach auf das Jahr 1839. Rawicz und Leipzig: Loebell [1839], S. 55–98"
+    url: "https://gdz.sub.uni-goettingen.de/id/PPN1941464645_1839?tify={%22pages%22:[63],%22view%22:%22toc%22}"
+reviews:
+  - "Repertorium der gesammten deutschen Literatur. Zwanzigster Band. Leipzig: Brockhaus 1839, [S. 178–179](https://books.google.com/books?id=-FUJjLh_3DcC&pg=PA178)."
+  - "Blätter für literarische Unterhaltung. Nr. 128 (Donnerstag, 7. Mai 1840), [S. 513](https://books.google.com/books?id=KZcKAAAAYAAJ&pg=PA513)."
+cast:
+  - name: Der Prior.
+    gender: m
+  - name: Graf Bondini.
+    gender: m
+  - name: Eugenie,
+    role: dessen Nichte.
+    gender: f
+  - name: Theodor.
+    gender: m
+  - name: Robert,
+    role: ein Mönch.
+    gender: m
+settings:
+  - description: >-
+      Zimmer des Priors.
+    location:
+      wikidataId: Q462320
 ---
 id: ein000081
 slug: anonym-das-liebhabertheater-oder-die-schreckensnacht
@@ -7815,6 +7891,44 @@ cast:
 settings:
   - description: >-
       Die Scene ist eine ländliche Gegend, im Vorgrund ein Haus, und vor demselben eine Rasenbank.
+---
+id: ein002792
+slug: anonym-der-trauschein-oder-der-hollaendische-prozess
+author:
+  pseudonym: Anonym
+title: Der Trauschein oder Der holländische Prozeß
+subtitle: Lustspiel in Einem Aufzuge
+numOfScenes: 16
+yearPrinted: 1839
+formalia:
+  - Prosa
+editions:
+  - title: "Apollo. Dramatischer Almanach auf das Jahr 1839. Rawicz und Leipzig: Loebell [1839], S. 1–54"
+    url: "https://gdz.sub.uni-goettingen.de/id/PPN1941464645_1839?tify={%22pages%22:[9],%22view%22:%22toc%22}"
+reviews:
+  - "Repertorium der gesammten deutschen Literatur. Zwanzigster Band. Leipzig: Brockhaus 1839, [S. 178–179](https://books.google.com/books?id=-FUJjLh_3DcC&pg=PA178)."
+  - "Blätter für literarische Unterhaltung. Nr. 128 (Donnerstag, 7. Mai 1840), [S. 513](https://books.google.com/books?id=KZcKAAAAYAAJ&pg=PA513)."
+cast:
+  - name: Oberst von Löben.
+    gender: m
+  - name: Fritz,
+    role: sein Neffe, Lieutenant.
+    gender: m
+  - name: van Blieten,
+    role: Schiffskapitain.
+    gender: m
+  - name: Marie,
+    role: seine Nichte.
+    gender: f
+  - name: Eva,
+    role: seine Haushälterin.
+    gender: f
+  - name: Bär,
+    role: ein alter Husar, des Obersten Bedienter.
+    gender: m
+settings:
+  - description: >-
+      Scene: ein gemeinschaftlicher Saal mit mehren Thüren in einem Gasthofe.
 ---
 id: ein000161
 slug: anonym-der-ueberfall
