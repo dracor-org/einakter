@@ -18737,20 +18737,26 @@ editions:
     url: https://books.google.com/books?id=soFHAAAAcAAJ&printsec=frontcover
   - title: "Zürich und Leipzig: Ziegler 1794"
     url: https://books.google.com/books?id=589Yy_jh4OIC&printsec=frontcover
+reviews:
+  - "Allgemeine deutsche Bibliothek. Des neun und siebenzigsten Bandes zweytes Stück. Berlin und Stettin: Nicolai 1788, [S. 418–420](https://books.google.com/books?id=fVtLAAAAcAAJ&pg=PA418)."
+  - "Dramatische, dramaturgische und andre Aufsätze, Skizzen und Fragmente. Ein Taschenbuch für Dilettanten. Freyberg: Craz 1789, [S. 172](https://books.google.com/books?id=tflZAAAAcAAJ&pg=PA172)."
+ids:
+  dracor: ger000755
+  wikidata: Q137686132
 cast:
   - name: Major von Woldau,
-    role: außer Dienst.
+    role: ausser Dienste.
     gender: m
   - name: Herr von Fundi,
     role: Avanturier.
     gender: m
   - name: Raupe,
-    role: Kaffeeschenke.
+    role: Kaffeeschenker.
     gender: m
   - name: Mad. Raupe.
     gender: f
   - name: Muffler,
-    role: angeblicher Capitain, bey Raupe wohnhaft.
+    role: angeblicher Kapitän, bei Raupe wohnhaft.
     gender: m
   - name: Ein Marqueur.
     gender: m
@@ -18760,7 +18766,7 @@ settings:
     location:
       wikidataId: Q2079
   - description: >-
-      Ein großes leeres Zimmer, in welchem ein Marqueur seinen Reisebündel zusammenschnallt.
+      Ein groses leeres Zimmer, in welchem ein Marqueur seinen Reisebündel zusammenschnallt.
 ---
 id: ein000380
 slug: belani-carls-xii-erste-und-letzte-liebe
