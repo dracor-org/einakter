@@ -5881,7 +5881,8 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 17, S. 104
 editions:
-  - title: "[O. Impressum] 1754"
+  - title: "[Ohne Ort: ohne Verlag] 1754"
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN879355247
 cast:
   - name: Meister Jacob.
     role: ein Schuster.
@@ -11532,12 +11533,30 @@ author:
   pseudonym: Anonym
 title: Die Werbung
 subtitle: Ein Lustspiel in einem Aufzug
-premiered: 1793
+premiered: 1793-05-01
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 32, S. 298
 comments:
-  - "Laut Meyer ein »Schulspiel, aufgeführt in Luzern«."
+  - "Laut Meyer ein »Schulspiel, aufgeführt in Luzern«, das Personenverzeichnis wurde gedruckt und ist digitalisiert ([doi:10.3931/e-rara-136902](https://doi.org/10.3931/e-rara-136902))."
+cast:
+  - name: Kunz,
+    role: ein reicher Bauernjung.
+    gender: m
+  - name: Fiekchen,
+    role: ein Bauernmädchen.
+    gender: f
+  - name: Ludwig,
+    role: Milizen-Hauptmann.
+    gender: m
+  - name: Rudolf,
+    role: Korporal.
+    gender: m
+  - name: Ein Gefreyter.
+    gender: m
+  - name: Soldaten.
+    isGroup: true
+    gender: m
 ---
 id: ein000232
 slug: anonym-die-wiedererstattung
@@ -54594,7 +54613,7 @@ subtitle: Eine bürgerliche Handlung in einem Aufzuge
 yearPrinted: 1800
 editions:
   - title: "Etwas wider die Mode. Schauspiele und Gedichte ohne Caressen, und Heurathen; für die studirende Jugend. Herausgegeben von Franz Xaver Jann. Fünfter Theil. Augsburg: Wolff 1800, S. 234–291"
-    url: https://books.google.com/books?id=HpnomqrhNREC&pg=RA1-PT17
+    url: https://books.google.com/books?id=HpnomqrhNREC&pg=RA2-PT18
 comments:
   - Scan nicht vollständig, bricht nach Personenverzeichnis ab.
 cast:
@@ -87062,7 +87081,7 @@ editions:
     url: https://books.google.com/books?id=K2tVAAAAcAAJ&pg=PA1
 comments:
   - "Grundgerüst übernommen aus Sébastien-Roch Nicolas de Chamforts »Le marchand de Smyrne«."
-  - "Die Vorlage stammt laut [»Almanach der deutschen Musen auf das Jahr 1772«, S. 154,](https://books.google.com/books?id=8WBeAAAAcAAJ&pg=PA154) vom russischen Schauspieler »Mitrewsky« aus St. Petersburg, wurde aber neben Schischkow auch [Vladimir I. Lukin](http://lib.pushkinskijdom.ru/Default.aspx?tabid=1139) zugeschrieben."
+  - "Die Vorlage stammt laut »Almanach der deutschen Musen auf das Jahr 1772«, [S. 154,](https://books.google.com/books?id=8WBeAAAAcAAJ&pg=PA154) vom russischen Schauspieler »Mitrewsky« aus St. Petersburg, wurde aber neben Schischkow auch [Vladimir I. Lukin](http://lib.pushkinskijdom.ru/Default.aspx?tabid=1139) zugeschrieben."
 keywords:
   - Krieg
   - Christensklaven
@@ -91513,10 +91532,17 @@ author:
   name: Schmieder, Heinrich Gottlieb
   wikidata: Q30235471
 title: Das Familien-Abendessen
-subtitle: Ein häusliches Sittengemählde in einem Aufzuge, nach dem Französischen frey bearbeitet vom Herrn Doctor Schmieder
+subtitle: Ein häusliches Sittengemälde in einem Aufzug. Frei nach dem Französischen von Dr. Schmieder
+numOfScenes: 18
+yearPrinted: 1800
 premiered: 1798-09-04
+formalia:
+  - Prosa
 basedOn:
   - pujoulx-le-rendez-vous-suppose-ou-le-souper-de-famille
+editions:
+  - title: "Hamburg: Buchhandlung der Verlagsgesellschaft 1800"
+    url: https://resolver.sub.uni-hamburg.de/kitodo/PPN859797961
 comments:
   - "Theaterzettel: [Hamburg 1798](https://www.stadttheater.uni-hamburg.de/system/files/1798-09-04.pdf)."
 reviews:
@@ -111743,6 +111769,46 @@ cast:
 settings:
   - description: >-
       Die Scene ist eine offene Straße im Städtchen Horridoh; vorn Grasmann, gegen über Hornkopfs Haus.
+---
+id: ein002795
+slug: wilke-der-zehnte-december
+author:
+  name: Wilke, Andreas
+  wikidata: Q25621851
+title: Der zehnte December
+subtitle: Lustspiel in Einem Akt
+numOfScenes: 17
+yearPrinted: 1798
+formalia:
+  - Prosa
+editions:
+  - title: "[Ohne Ort] 1798"
+    url: http://resolver.staatsbibliothek-berlin.de/SBB0000E86300000000
+cast:
+  - name: Der Schulz.
+    gender: m
+  - name: Dessen Frau.
+    gender: f
+  - name: Röschen,
+    role: ihre Tochter.
+    gender: f
+  - name: Herr Sander.
+    gender: m
+  - name: Herr Willmann.
+    gender: m
+  - name: Siegmund Kranz,
+    role: ein Jäger.
+    gender: m
+  - name: Bauer Rahn.
+    gender: m
+  - name: Dessen Frau.
+    gender: f
+  - name: Friz Rahn,
+    role: ihr Sohn.
+    gender: m
+settings:
+  - description: >-
+      Die Scene ist in der Schulzenstube.
 ---
 id: ein002326
 slug: wilke-wallhaide
