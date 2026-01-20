@@ -5209,6 +5209,35 @@ settings:
     location:
       wikidataId: Q16869
 ---
+id: ein002796
+slug: anonym-der-bloede-schaefer
+author:
+  pseudonym: Anonym
+title: Der blöde Schäfer
+subtitle: Ein poetisches Lust-Spiel. In Einem Aufzuge, welches am 19. August 1750. in Zabeltitz, von der Kirsischen Gesellschafft deutscher Comoedianten vorgestellet worden
+numOfScenes: 11
+premiered: 1750-08-19
+formalia:
+  - Alexandriner
+editions:
+  - title: "SLUB Dresden, Mscr.Dresd.P.279"
+    url: http://digital.slub-dresden.de/id405968310
+comments:
+  - Nicht zu verwechseln mit Gleims Einakter [»Der Blöde Schäfer«](gleim-der-bloede-schaefer) (1745).
+cast:
+  - group:
+      - name: Galathee.
+        gender: f
+      - name: Chloris.
+        gender: f
+    role: Zwey Schäferinnen.
+  - group:
+      - name: Montan.
+        gender: m
+      - name: Amynt.
+        gender: m
+    role: Zwey Schäfer.
+---
 id: ein002499
 slug: anonym-der-brite-und-der-deutsche
 author:
@@ -39305,17 +39334,16 @@ dictionaries:
 editions:
   - title: "Berlin: Schütze 1745"
     url: https://books.google.com/books?id=CSUHSExGyxIC&printsec=frontcover
-  - title: "Der blöde Schäfer. Ein poetisches Lust-Spiel. In Einem Aufzuge, welches am 19. August 1750. in Zabeltitz, von der Kirsischen Gesellschaft deutscher Comoedianten vorgestellet worden. SLUB Dresden, Mscr.Dresd.P.279"
-    url: http://digital.slub-dresden.de/id405968310
   - title: "Berlin: Schütze 1752"
     url: https://books.google.com/books?id=28pIAAAAcAAJ&printsec=frontcover
   - title: "Theater der Deutschen. Dreyzehender Theil. Königsberg und Leipzig: Kanter 1773, S. 105–138"
     url: https://books.google.com/books?id=t2zxksgs85MC&pg=PA105
 comments:
-  - Einakterhinweis im Untertitel des Manuskripts zur Aufführung in Zabeltitz 1750.
   - Keine gedruckte Ausgaben mit Einakterhinweis ermittelt.
   - Untertitel ab 1767 auch »Ein dramatisches Gedicht« oder »Lustspiel in Versen« (1768).
+  - Bei dem gleichnamigen Manuskript [»Der blöde Schäfer«](anonym-der-bloede-schaefer) zu einer Aufführung 1750 handelt es sich um einen anderen Text.
 ids:
+  dracor: ger000759
   wikidata: Q137738573
 cast:
   - name: Seladon.
@@ -63555,6 +63583,7 @@ dictionaries:
     pages: 2. Abteilung, Band 21, S. 137–138
 editions:
   - title: "Sammlung komischer, lyrischer und epigrammatischer Gedichte. Frankfurt und Leipzig 1764, S. 83–140"
+    url: http://digital.slub-dresden.de/id335370977/87
 cast:
   - name: Argant.
     gender: m
@@ -94844,6 +94873,23 @@ cast:
 settings:
   - description: >-
       Das Stück spielt auf dem Langute der Gräfin.
+---
+id: ein002797
+slug: schumann-der-dichterling
+author:
+  name: Schumann, Robert
+  wikidata: Q7351
+title: Der Dichterling
+subtitle: 
+    Posse in einem Aufzuge
+yearWritten: 1825
+formalia:
+  - Prosa
+editions:
+  - title: "Robert-Schumann-Haus Zwickau, Signatur 4871,III,a,5,a/b/c-A3"
+    url: http://digital.slub-dresden.de/id483337692
+comments:
+  - Unvollendet, »angefangen im März 1825«, gehört zu den dramatischen Versuchen aus der Zwickauer Zeit, im Manuskript nur Personenverzeichnis und der erste Auftritt (Monolog des Dieners, drei Seiten).
 ---
 id: ein001967
 slug: schummel-der-wuerzkraemer-und-sein-sohn
