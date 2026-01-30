@@ -50455,6 +50455,45 @@ settings:
   - description: >-
       Ein Kinderzimmer. Verschiedenes Puppengeräthe liegt umher.
 ---
+id: ein002799
+slug: hoelder-der-denkzettel
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Der Denkzettel
+subtitle: Ein Lustspiel in einem Akt
+numOfScenes: 8
+yearPrinted: 1828
+formalia:
+  - Prosa
+editions:
+  - title: "Die Familie Lindorf. Eine unterhaltende Jugendschrift zur Belehrung aus der Welt- und Naturgeschichte, der Völker- und Sternkunde, der Erdbeschreibung, Mythologie, der Natur- und Menschenlehre; abwechselnd mit Gesprächen, Reisebeschreibungen, Biographien, Erzählungen, Schauspielen, Feenmährchen, Kunststücken, Räthseln etc. von Luise Hölder. Dritter Band. Leipzig: Cnobloch 1828, S. 4–18"
+    url: https://resolver.staatsbibliothek-berlin.de/SBB000329F900010014
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Pauline.
+        gender: f
+      - name: Elise.
+        gender: f
+      - name: Brigitte.
+        gender: f
+      - name: Minchen.
+        gender: f
+      - name: Reinhard.
+        gender: m
+    role: Geschwister.
+  - name: Marie,
+    role: ihre Freundin.
+    gender: f
+  - name: Johanne,
+    role: ein Stubenmädchen.
+    gender: f
+settings:
+  - description: >-
+      Ein Zimmer, worin einige Körbchen mit Federkissen stehen.
+---
 id: ein001021
 slug: hoelder-der-schwarzkuenstler
 author:
@@ -50792,6 +50831,78 @@ cast:
 settings:
   - description: >-
       Ein Wohnzimmer.
+---
+id: ein002798
+slug: hoelder-die-zauber-glocke
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Die Zauber-Glocke
+subtitle: Ein Schauspiel in einem Akt
+numOfScenes: 18
+yearPrinted: 1828
+formalia:
+  - Prosa
+editions:
+  - title: "Die Familie Lindorf. Eine unterhaltende Jugendschrift zur Belehrung aus der Welt- und Naturgeschichte, der Völker- und Sternkunde, der Erdbeschreibung, Mythologie, der Natur- und Menschenlehre; abwechselnd mit Gesprächen, Reisebeschreibungen, Biographien, Erzählungen, Schauspielen, Feenmährchen, Kunststücken, Räthseln etc. von Luise Hölder. Zweiter Band. Neue unveränderte Ausgabe der Erziehungsschule. Leipzig: Cnobloch 1828, S. 65–91"
+    url: https://resolver.staatsbibliothek-berlin.de/SBB000329F800020079
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Ernst
+        gender: m
+      - name: Rudolph
+        gender: m
+      - name: Wilhelm
+        gender: m
+      - name: Beate
+        gender: f
+      - name: Therese
+        gender: f
+    role: Geschwister.
+  - name: Rosine
+    role: ein Sträußermädchen.
+    gender: f
+---
+id: ein002800
+slug: hoelder-ehrlich-waehrt-am-laengsten
+author:
+  name: Hölder, Luise
+  wikidata: Q30500554
+title: Ehrlich währt am längsten
+subtitle: Schauspiel in einem Akt
+numOfScenes: 8
+yearPrinted: 1828
+formalia:
+  - Prosa
+editions:
+  - title: "Die Familie Lindorf. Eine unterhaltende Jugendschrift zur Belehrung aus der Welt- und Naturgeschichte, der Völker- und Sternkunde, der Erdbeschreibung, Mythologie, der Natur- und Menschenlehre; abwechselnd mit Gesprächen, Reisebeschreibungen, Biographien, Erzählungen, Schauspielen, Feenmährchen, Kunststücken, Räthseln etc. von Luise Hölder. Vierter Band. Leipzig: Cnobloch 1828, S. 82–100"
+    url: https://resolver.staatsbibliothek-berlin.de/SBB000329F900020100
+keywords:
+  - Kindertheater
+cast:
+  - group:
+      - name: Rudolph,
+        gender: m
+      - name: Wilhelm,
+        gender: m
+      - name: Ernst,
+        gender: m
+      - name: Therese,
+        gender: f
+      - name: Beate,
+        gender: f
+    role: Geschwister.
+  - name: Griesgram,
+    role: die Haushälterin.
+    gender: f
+  - name: Johann,
+    role: ein Bedienter.
+    gender: m
+  - name: Peter,
+    role: ein Tabulettkrämer.
+    gender: m
 ---
 id: ein001029
 slug: hoelder-was-der-mensch-werth-ist-widerfaehrt-ihm
@@ -94881,7 +94992,7 @@ author:
   name: Schumann, Robert
   wikidata: Q7351
 title: Der Dichterling
-subtitle: 
+subtitle:
     Posse in einem Aufzuge
 yearWritten: 1825
 formalia:
