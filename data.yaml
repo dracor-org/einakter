@@ -25932,14 +25932,17 @@ author:
   name: Castelli, Ignaz Franz
   wikidata: Q78813
 title: Der alte Jüngling
-subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen.
+subtitle: Ein Lustspiel in einem Aufzuge. Nach dem Französischen
 numOfScenes: 18
 yearPrinted: 1817
 premiered: 1815-11-02
 formalia:
   - Prosa
+basedOn:
+  - merle-brazier-le-ci-devant-jeune-homme
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1817. Von I. F. Castelli. Zweyter Jahrgang. Wien: Wallishausser 1817, S. 203–260"
+    url: https://books.google.com/books?id=3RBnAAAAcAAJ&pg=PA203
 cast:
   - name: Herr von Blindstein,
     role: ein Mann von 60 Jahren.
@@ -28035,6 +28038,7 @@ formalia:
   - Prosa
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1817. Von I. F. Castelli. Zweyter Jahrgang. Wien: Wallishausser 1817, S. 261–318"
+    url: https://books.google.com/books?id=3RBnAAAAcAAJ&pg=PA261
 comments:
   - "Uraufgeführt in Brünn unter dem Titel »Fasching-Dienstag, oder: Verlegenheit und Auswege«."
 cast:
@@ -28120,6 +28124,7 @@ basedOn:
   - reveroni-saint-cyr-le-delire-ou-les-suites-d-une-erreur
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1817. Von I. F. Castelli. Zweyter Jahrgang. Wien: Wallishausser 1817, S. 101–140"
+    url: https://books.google.com/books?id=3RBnAAAAcAAJ&pg=PA101
 comments:
   - "Nach dem Personenverzeichnis folgen »Charakteristik und Costüme der handelnden Personen« (S. 103–104)."
 cast:
@@ -37344,6 +37349,18 @@ settings:
       wikidataId: Q1055
   - description: >-
       Ein Zimmer mit einer gewöhnlichen Thür und einer versteckten Tapetenthür.
+---
+id: ein002801
+slug: frohberg-der-juengling-von-60-jahren
+author:
+  name: Friedländer, Rebecca
+  pseudonym: Regina Frohberg
+  wikidata: Q1297391
+title: Der Jüngling von 60 Jahren
+subtitle: Lustspiel in 1 A. nach dem Französischen
+premiered: 1826-02-24
+basedOn:
+  - merle-brazier-le-ci-devant-jeune-homme
 ---
 id: ein002543
 slug: frohberg-der-page-und-das-pasquill
@@ -68395,6 +68412,8 @@ yearPrinted: 1820
 premiered: 1821-08-28
 formalia:
   - Prosa
+basedOn:
+  - merle-brazier-le-ci-devant-jeune-homme
 editions:
   - title: "Neueste kleine Lustspiele und Possen. Von Carl Lebrün, Schauspieler. Mainz: Kupferberg 1820"
     url: https://books.google.com/books?id=qW76-5-qVIsC&pg=RA5-PA1
