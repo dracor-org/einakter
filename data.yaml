@@ -95036,7 +95036,20 @@ editions:
   - title: "Robert-Schumann-Haus Zwickau, Signatur 4871,III,a,5,a/b/c-A3"
     url: http://digital.slub-dresden.de/id483337692
 comments:
-  - Unvollendet, »angefangen im März 1825«, gehört zu den dramatischen Versuchen aus der Zwickauer Zeit, im Manuskript nur Personenverzeichnis und der erste Auftritt (Monolog des Dieners, drei Seiten).
+  - Unvollendet, »angefangen im März 1825«, gehört zu den dramatischen Versuchen aus der Zwickauer Zeit, im Manuskript nur Personenverzeichnis und der erste Auftritt (Monolog von Dernar, drei Seiten).
+cast:
+  - name: Amalia von Dark.
+    gender: f
+  - name: Ernestine,
+    role: ihre Schwester.
+    gender: f
+  - name: Hans von Kullmann.
+    gender: m
+  - name: Eduard von Dernar.
+    gender: m
+  - name: Gäste im Kaffeehause.
+    isGroup: true
+    gender: u
 ---
 id: ein001967
 slug: schummel-der-wuerzkraemer-und-sein-sohn
