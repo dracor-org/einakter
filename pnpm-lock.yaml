@@ -144,6 +144,9 @@ importers:
       babel-plugin-macros:
         specifier: ^3.1.0
         version: 3.1.0
+      baseline-browser-mapping:
+        specifier: ^2.10.16
+        version: 2.10.16
       eslint:
         specifier: ^9.36.0
         version: 9.36.0(jiti@2.5.1)
