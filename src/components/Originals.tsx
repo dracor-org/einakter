@@ -1,5 +1,4 @@
 import {useContext, useMemo} from 'react';
-import {Helmet} from 'react-helmet-async';
 import {t} from '@lingui/core/macro';
 import {ColumnDef} from '@tanstack/react-table';
 import {EinakterContext} from '../context';
@@ -81,9 +80,7 @@ function Originals() {
 
   return (
     <div className="p-4 overflow-x-auto">
-      <Helmet>
-        <title>Einakter: Originals</title>
-      </Helmet>
+      <title>Einakter: Originals</title>
       <div>
         <OriginalStatistics
           authors={authors}

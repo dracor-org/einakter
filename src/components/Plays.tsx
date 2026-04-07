@@ -1,6 +1,5 @@
 import {useMemo} from 'react';
 import {t} from '@lingui/core/macro';
-import {Helmet} from 'react-helmet-async';
 import {ColumnDef} from '@tanstack/react-table';
 import {Play} from '../types';
 import data from '../data.json';
@@ -105,9 +104,7 @@ export default function Plays() {
 
   return (
     <>
-      <Helmet>
-        <title>Einakter</title>
-      </Helmet>
+      <title>Einakter</title>
       <div className="p-4 overflow-x-auto">
         <Statistics plays={data} authors={authors} className="mb-2 mt-2" />
         <div className="float-right mt-1">

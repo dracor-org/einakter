@@ -1,7 +1,6 @@
 import {useEffect, useContext} from 'react';
 import {useLocation, useParams} from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
-import {Helmet} from 'react-helmet-async';
 import {t} from '@lingui/core/macro';
 import {Trans} from '@lingui/react/macro';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
@@ -63,9 +62,7 @@ export default function Details() {
 
   return (
     <div className="p-4 flex flex-col">
-      <Helmet>
-        <title>Einakter: {pageTitle}</title>
-      </Helmet>
+      <title>{`Einakter: ${pageTitle}`}</title>
       <DetailsHead
         id={id}
         authors={authors}

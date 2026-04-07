@@ -1,5 +1,4 @@
 import {useContext} from 'react';
-import {Helmet} from 'react-helmet-async';
 import {t} from '@lingui/core/macro';
 import {Trans} from '@lingui/react/macro';
 import {MapContainer, TileLayer, Marker} from 'react-leaflet';
@@ -53,9 +52,7 @@ const SettingsMap = () => {
 
   return (
     <div className="locations-map p-4">
-      <Helmet>
-        <title>Einakter: {t`Locations`}</title>
-      </Helmet>
+      <title>{`Einakter: ${t`Locations`}`}</title>
 
       <p className="mb-4">
         <Trans>

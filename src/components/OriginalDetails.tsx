@@ -1,6 +1,5 @@
 import {useContext} from 'react';
 import {Link, useParams} from 'react-router-dom';
-import {Helmet} from 'react-helmet-async';
 import {Trans} from '@lingui/react/macro';
 import Authors from './Authors';
 import DetailsHead from './DetailsHead';
@@ -50,9 +49,7 @@ const OriginalDetails = () => {
 
   return (
     <div className="p-4 flex flex-col">
-      <Helmet>
-        <title>Einakter: {pageTitle}</title>
-      </Helmet>
+      <title>{`Einakter: ${pageTitle}`}</title>
       <DetailsHead
         id={id}
         authors={authors}

@@ -1,4 +1,3 @@
-import {Helmet} from 'react-helmet-async';
 import {Link, useNavigate} from 'react-router-dom';
 import {t} from '@lingui/core/macro';
 import {Trans} from '@lingui/react/macro';
@@ -8,11 +7,9 @@ export default function Home() {
 
   return (
     <div className="page p-4 mt-8 markdown max-w-full">
-      <Helmet>
-        <title>
-          Einakter: {t`The Database of German-Language One-Act Plays 1740–1850`}
-        </title>
-      </Helmet>
+      <title>
+        {`Einakter: ${t`The Database of German-Language One-Act Plays 1740–1850`}`}
+      </title>
       <section className="flex flex-col lg:flex-row">
         <article className="self-center mx-12 my-24">
           <h1>
