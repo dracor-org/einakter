@@ -11927,21 +11927,22 @@
     },
     "gender": "male"
   },
-  "Q1505526": {
-    "name": "Simon Nicolas Henri Linguet",
-    "gnd": "11872844X",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon-Nicholas%20Henri%20Linguet%20%281736-1794%29%2C%20French%20journalist%20and%20advocate.jpg",
+  "Q2087458": {
+    "name": "Adolphe de Leuven",
+    "gnd": "10876799X",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Illustration%201862%20gravure%20Th%C3%A9atre%20de%20l%27Op%C3%A9ra-Comique%20-%20Le%20Joaillier%20de%20St.-James.jpg",
     "birth": {
-      "date": "1736-07-14T00:00:00Z",
-      "place": "Reims",
-      "placeId": "http://www.wikidata.org/entity/Q41876"
-    },
-    "death": {
-      "date": "1794-06-27T00:00:00Z",
+      "date": "1802-01-01T00:00:00Z",
       "place": "Paris",
       "placeId": "http://www.wikidata.org/entity/Q90"
     },
-    "gender": "male"
+    "death": {
+      "date": "1884-04-14T00:00:00Z",
+      "place": "Marly-le-Roi",
+      "placeId": "http://www.wikidata.org/entity/Q656505"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q21091549": {
     "name": "Charles de Livry",
@@ -11955,6 +11956,22 @@
       "date": "1867-10-14T00:00:00Z",
       "place": "Enghien",
       "placeId": "http://www.wikidata.org/entity/Q666238"
+    },
+    "gender": "male"
+  },
+  "Q1505526": {
+    "name": "Simon Nicolas Henri Linguet",
+    "gnd": "11872844X",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon-Nicholas%20Henri%20Linguet%20%281736-1794%29%2C%20French%20journalist%20and%20advocate.jpg",
+    "birth": {
+      "date": "1736-07-14T00:00:00Z",
+      "place": "Reims",
+      "placeId": "http://www.wikidata.org/entity/Q41876"
+    },
+    "death": {
+      "date": "1794-06-27T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
     },
     "gender": "male"
   },
@@ -12982,6 +12999,17 @@
       "date": "1846-08-09T00:00:00Z",
       "place": "Quartier d’Auteuil",
       "placeId": "http://www.wikidata.org/entity/Q784536"
+    },
+    "gender": "male"
+  },
+  "Q140718968": {
+    "name": "Jean-François Sedaine de Sarcy",
+    "gnd": "1052470793",
+    "birth": {
+      "date": "1762-01-01T00:00:00Z"
+    },
+    "death": {
+      "date": "http://www.wikidata.org/.well-known/genid/81419b63560f99a893ca0413d2029e63"
     },
     "gender": "male"
   },
