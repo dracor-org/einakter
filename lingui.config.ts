@@ -1,3 +1,5 @@
+import {formatter} from '@lingui/format-po';
+
 /** @type {import('@lingui/conf').LinguiConfig} */
 module.exports = {
   locales: [
@@ -21,5 +23,5 @@ module.exports = {
       include: ['src'],
     },
   ],
-  format: 'po',
+  format: formatter(),
 };

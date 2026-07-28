@@ -1,4 +1,4 @@
-import react from '@vitejs/plugin-react';
+import react from '@vitejs/plugin-react-swc';
 import eslint from '@nabla/vite-plugin-eslint';
 import {lingui} from '@lingui/vite-plugin';
 import mdx from '@mdx-js/rollup';
@@ -9,9 +9,7 @@ export default {
     mdx(),
     eslint(),
     react({
-      babel: {
-        plugins: ['macros'],
-      },
+      plugins: [['@lingui/swc-plugin', {}]],
     }),
     lingui(),
   ],
