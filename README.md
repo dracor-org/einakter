@@ -10,8 +10,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Quick start
 
 After installing [nodejs](https://nodejs.org/en/download/package-manager/) and
-enabling `corepack` (running `corepack enable pnpm`) you can start the
-_Einakter_ database by running the following commands:
+[pnpm](https://pnpm.io/installation) (e.g. `npm install -g pnpm`) you can start
+the _Einakter_ database by running the following commands:
 
 ```bash
 git clone git@github.com:dracor-org/einakter.git
