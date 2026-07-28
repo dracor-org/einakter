@@ -16504,6 +16504,8 @@ numOfScenes: 9
 yearPrinted: 1789
 formalia:
   - Prosa
+basedOn:
+  - garnier-la-saignee
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 30, S. 364–365
@@ -27679,6 +27681,8 @@ numOfScenes: 16
 yearPrinted: 1833
 formalia:
   - Prosa
+basedOn:
+  - scribe-duport-une-monomanie
 editions:
   - title: "Dramatisches Sträußchen für das Jahr 1833. Achtzehnter Jahrgang. Wien: Wallishausser [1833], S. 153–228"
     url: https://www.digitale-sammlungen.de/view/bsb10313308?page=161
@@ -29564,6 +29568,8 @@ yearPrinted: 1836
 premiered: 1835-03-25
 formalia:
   - Prosa
+basedOn:
+  - dupin-dumanoir-la-toque-bleue
 editions:
   - title: "Dramatische Desserts für das Jahr 1836. Herausgegeben von E. M. Oettinger. Hamburg: Magazin für Buchhandel, Musik und Kunst [1836], S. 169–208"
     url: https://www.digitale-sammlungen.de/view/bsb10128154?page=183
@@ -34968,6 +34974,8 @@ numOfScenes: 17
 yearPrinted: 1839
 formalia:
   - Prosa
+basedOn:
+  - scribe-bayard-la-medecine-sans-medecin
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band IX, No. 71. Berlin: Hayn 1839, S. 1215–1225"
     url: https://books.google.com/books?id=pd_3fqU7r3AC&pg=PA1215
@@ -38921,6 +38929,8 @@ premiered: 1813-10-19
 formalia:
   - Verse
   - Prosa
+basedOn:
+  - sewrin-jocrisse-corrige-ou-la-journee-aux-accidens
 editions:
   - title: "Wien: Wallishausser 1813"
     url: https://books.google.com/books?id=D3aCxAEACAAJ&printsec=frontcover
@@ -57278,7 +57288,7 @@ author:
 title: Die Aderläß
 subtitle: Ein Schauspiel in einem Aufzuge aus dem Französischen
 numOfScenes: 8
-yearPrinted: 1776
+yearPrinted: 1775
 formalia:
   - Prosa
 basedOn:
@@ -57287,12 +57297,12 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 326
 editions:
-  - title: "Leipzig und Budißin: Deintzer 1776"
+  - title: "Geist der Journale. Erster Band. Frankfurt am Mayn: Andreä 1775, S. 61–81"
+    url: https://gdz.sub.uni-goettingen.de/id/PPN731646835?tify={"pages":[81]}
+  - title: "Die Aderläß[,] ein Schauspiel in einem Aufzuge aus dem Französischen. Leipzig und Budißin: Deintzer 1776"
     url: https://books.google.com/books?id=QWxVAAAAcAAJ&printsec=frontcover
-  - title: "Zweyte verbesserte Auflage. Leipzig und Budißin: Deintzer 1777"
+  - title: "Das Aderlassen[,] ein Schauspiel in einem Aufzuge aus dem Französischen. Zweyte verbesserte Auflage. Leipzig und Budißin: Deintzer 1777"
     url: https://books.google.com/books?id=cKxSAAAAcAAJ&printsec=frontcover
-comments:
-  - Zweite Auflage (1777) unter dem leicht geänderten Titel »Das Aderlassen«.
 keywords:
   - Armut
   - Aderlass
@@ -57324,7 +57334,7 @@ cast:
     gender: m
 settings:
   - description: >-
-      Die Schaubühne stellet eine sehr schlechte Stube vor, worinnen einiges altes und verbrauchtes Geräthe, ein Schreibtisch, und ein Stafflet befindlich ist, worauf ein angefangenes Gemälde liegt, in der Tiefe ist ein Ruhbett, worauf ein Kind, unter einer schlechten Decke liegt und schläft.
+      Die Schaubühne stellet eine sehr schlechte Stube vor, worinn einiges altes und verbrauchtes Geräthe, ein Schreibetisch, und ein Stafflet befindlich ist, worauf ein angefangenes Gemälde liegt, in der Tiefe ist ein Ruhebett, worauf ein Kind, unter einer schlechten Decke, liegt und schläft.
 ---
 id: ein001162
 slug: klesheim-die-oesterreicher
@@ -93387,11 +93397,12 @@ numOfScenes: 18
 yearPrinted: 1832
 formalia:
   - Prosa
+basedOn:
+  - leuven-livry-rabelais-ou-le-presbytere-de-meudon
 editions:
   - title: "Bühnen-Repertoir des Auslandes: Frankreichs, Englands, Italiens, Spaniens. In Uebertragungen herausgegeben von L. W. Both. Band IV, No. 30. Berlin: Hayn 1832, S. 505–516"
     url: https://books.google.com/books?id=slBcAAAAcAAJ&pg=PA505
 comments:
-  - "Nach dem Original: Adolphe de Leuven: [»Rabelais, ou Le presbytère de Meudon. Comédie-anecdote, mêlée de couplets«](https://books.google.com/books?id=uzBMAAAAcAAJ&printsec=frontcover)."
   - "Kommentar im Anhang: »Das Stück spielt: Eine gute Stunde.«"
 cast:
   - name: Franz Rabelais,
