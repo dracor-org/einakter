@@ -1,6 +1,5 @@
 import {useEffect, useState} from 'react';
 import {Trans} from '@lingui/react/macro';
-import axios from 'axios';
 import IdLink from './IdLink';
 import {formatYear} from './Years';
 
@@ -46,9 +45,12 @@ WHERE {
 
       const url = `${endpoint}?query=${encodeURIComponent(sparql)}`;
       try {
-        const response = await axios.get(url);
-        if (response.status === 200) {
-          const sparqlResults = response.data.results?.bindings || [];
+        const response = await fetch(url, {
+          headers: {Accept: 'application/sparql-results+json'},
+        });
+        if (response.ok) {
+          const data = await response.json();
+          const sparqlResults = data.results?.bindings || [];
 
           const {
             authorLabel,

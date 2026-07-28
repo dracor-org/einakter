@@ -1,4 +1,3 @@
-import axios from 'axios';
 import {loadAll, CORE_SCHEMA} from 'js-yaml';
 import {readFileSync, writeFileSync} from 'fs';
 import builder from 'xmlbuilder';
@@ -17,6 +16,8 @@ interface Edge {
   target: string;
   weight: number;
 }
+
+const ua = 'Einakter bot (http://einakter.dracor.org)';
 
 const authors: AuthorMap = {...authorData};
 
@@ -90,9 +91,15 @@ WHERE {
       console.log(`${id}`);
 
       try {
-        const response = await axios.get(url);
-        if (response.status === 200) {
-          const sparqlResults = response.data.results?.bindings || [];
+        const response = await fetch(url, {
+          headers: {
+            Accept: 'application/sparql-results+json',
+            'User-Agent': ua,
+          },
+        });
+        if (response.ok) {
+          const data = await response.json();
+          const sparqlResults = data.results?.bindings || [];
           const ambiguity = sparqlResults.length;
           if (ambiguity > 1) {
             console.log(`multiple results (${ambiguity})`);

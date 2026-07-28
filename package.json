@@ -47,7 +47,6 @@
     "@types/js-yaml": "^4.0.5",
     "@vitejs/plugin-react": "^5.0.3",
     "autoprefixer": "^10.4.27",
-    "axios": "^1.14.0",
     "babel-plugin-macros": "^3.1.0",
     "baseline-browser-mapping": "^2.10.16",
     "eslint": "^9.36.0",
@@ -105,11 +104,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
-  },
-  "jest": {
-    "transformIgnorePatterns": [
-      "node_modules/(?!axios)"
     ]
   },
   "packageManager": "pnpm@11.17.0"

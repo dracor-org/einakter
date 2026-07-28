@@ -1,4 +1,3 @@
-import axios from 'axios';
 import {loadAll, CORE_SCHEMA} from 'js-yaml';
 import {readFileSync, writeFileSync} from 'fs';
 import {Play} from './src/types';
@@ -45,9 +44,12 @@ async function fetchLocations() {
       console.log(`${id} ${url}`);
 
       try {
-        const response = await axios.get(url);
-        if (response.status === 200) {
-          const loc = response.data.results?.bindings[0]?.loc.value;
+        const response = await fetch(url, {
+          headers: {Accept: 'application/sparql-results+json'},
+        });
+        if (response.ok) {
+          const data = await response.json();
+          const loc = data.results?.bindings[0]?.loc.value;
           let long: number, lat: number;
           const m = loc.match(/\((-?[.0-9]+) (-?[.0-9]+)\)/);
           if (m) {
