@@ -1,4 +1,4 @@
-import {Link, useNavigate} from 'react-router-dom';
+import {Link, useNavigate} from '@tanstack/react-router';
 import {t} from '@lingui/core/macro';
 import {Trans} from '@lingui/react/macro';
 
@@ -36,7 +36,7 @@ export default function Home() {
           </p>
           <button
             className="rounded-lg bg-primary px-4 py-2 drop-shadow-lg hover:drop-shadow-md text-neutral-100"
-            onClick={() => navigate('/about')}
+            onClick={() => navigate({to: '/about'})}
           >
             <Trans>About the project</Trans>
           </button>

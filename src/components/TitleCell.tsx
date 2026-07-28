@@ -1,18 +1,17 @@
-import {Link} from 'react-router-dom';
+import {Link} from '@tanstack/react-router';
 import {Play} from '../types';
 import IdLink from './IdLink';
 
-export default function TitleCell({
-  play,
-  urlPath = '',
-}: {
+interface Props {
   play: Play;
-  urlPath?: string;
-}) {
+  to?: '/$slug' | '/originals/$slug';
+}
+
+export default function TitleCell({play, to = '/originals/$slug'}: Props) {
   const {title, subtitle, slug, ids: {dracor, wikidata, weber} = {}} = play;
   return (
     <span>
-      <Link className="text-lg" to={`${urlPath}${slug}`}>
+      <Link className="text-lg" to={to} params={{slug}}>
         {title}
       </Link>
       {subtitle && (
