@@ -10,6 +10,13 @@ export default {
     eslint(),
     react({
       plugins: [['@lingui/swc-plugin', {}]],
+      parserConfig: (id) => {
+        if (id.endsWith('.tsx')) return {syntax: 'typescript', tsx: true};
+        if (id.endsWith('.ts') || id.endsWith('.mts'))
+          return {syntax: 'typescript', tsx: false};
+        if (id.endsWith('.jsx')) return {syntax: 'ecmascript', jsx: true};
+        return undefined;
+      },
     }),
     lingui(),
   ],
