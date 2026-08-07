@@ -1,14 +1,13 @@
 import {useContext, useMemo} from 'react';
 import {t} from '@lingui/core/macro';
 import {ColumnDef} from '@tanstack/react-table';
+import {formatEra, Table} from '@dracor/react';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';
 import {localLanguageName} from '../languages';
 import OriginalStatistics from './OriginalStatistics';
-import Table from './Table';
 import Authors from './Authors';
 import TitleCell from './TitleCell';
-import {formatEra} from './Years';
 import authors from '../authors.json';
 
 function Originals() {
@@ -61,7 +60,11 @@ function Originals() {
         header: t`Year (normalized)`,
         accessorFn: (row) => row.yearNormalized?.toString() || '',
         cell: (info) => (
-          <span>{formatEra(info.row.original.yearNormalized)}</span>
+          <span>
+            {info.row.original.yearNormalized == null
+              ? ''
+              : formatEra(String(info.row.original.yearNormalized))}
+          </span>
         ),
       },
       {

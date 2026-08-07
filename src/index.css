@@ -1,8 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+@config '../tailwind.config.mjs';
+@import '@dracor/react/dracor.css';
+@source '../node_modules/@dracor/react';
+
+/*
+  Tailwind v4 changed the default border color to `currentColor`. Restore v3
+  behaviour so borders on inputs/tables keep their expected gray.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentColor);
+  }
+}
 
 @layer base {
   body {
@@ -16,8 +31,18 @@
     @apply text-4xl mb-1 mt-0 font-medium;
   }
 
+  /*
+    Revert @dracor/react/dracor.css list-inside default. Inside markers get
+    a ~1em UA-supplied trailing space in Chromium, which reads as bloated
+    padding on einakter's dense detail-page lists (comments, reviews, cast).
+  */
+  ul {
+    list-style-position: outside;
+    padding-inline-start: 1.25rem;
+  }
+
   table {
-    @apply -mx-4 -mb-4 flex-grow;
+    @apply -mx-4 -mb-4 grow;
   }
 
   th {

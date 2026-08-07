@@ -1,6 +1,6 @@
-import IdCopy from './IdCopy';
+import {IdCopy, AuthorInfo} from '@dracor/react';
+import {t} from '@lingui/core/macro';
 import Authors from './Authors';
-import AuthorInfo from './AuthorInfo';
 import {Author} from '../types';
 
 interface Props {
@@ -20,7 +20,13 @@ const DetailsHead = ({id, authors = [], title, subtitle}: Props) => {
           </h2>
           <h1>{title}</h1>
           {subtitle && <h3>{subtitle}</h3>}
-          <IdCopy id={id} className="mt-1" />
+          <IdCopy
+            icon="ein"
+            prefix="https://einakter.dracor.org/id/"
+            className="mt-1"
+          >
+            {id}
+          </IdCopy>
         </hgroup>
       </div>
       <div>
@@ -29,8 +35,11 @@ const DetailsHead = ({id, authors = [], title, subtitle}: Props) => {
           .map((a) => (
             <AuthorInfo
               key={a.wikidata}
-              fullname={a.name || ''}
+              name={a.name || ''}
               wikidataId={a.wikidata || ''}
+              birthLabel={t`b.`}
+              deathLabel={t`d.`}
+              unknownLabel={t`unknown`}
             />
           ))}
       </div>

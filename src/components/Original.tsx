@@ -2,8 +2,8 @@ import {useContext} from 'react';
 import {Link, useParams} from '@tanstack/react-router';
 import {t} from '@lingui/core/macro';
 import {Trans} from '@lingui/react/macro';
+import {IdLink} from '@dracor/react';
 import Authors from './Authors';
-import IdLink from './IdLink';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';
 import {sortByYear} from '../utils';
@@ -47,7 +47,7 @@ const Original = ({data}: Props) => {
               <>
                 {' '}
                 <small>
-                  <IdLink id={a.wikidata} type="wikidata" />
+                  <IdLink>{`wikidata:${a.wikidata}`}</IdLink>
                 </small>
               </>
             )}
@@ -63,7 +63,7 @@ const Original = ({data}: Props) => {
         <>
           {' '}
           <small>
-            <IdLink id={ids.dracor} type="dracor" />
+            <IdLink>{`dracor:${ids.dracor}`}</IdLink>
           </small>
         </>
       )}
@@ -71,7 +71,7 @@ const Original = ({data}: Props) => {
         <>
           {' '}
           <small>
-            <IdLink id={ids.wikidata} type="wikidata" />
+            <IdLink>{`wikidata:${ids.wikidata}`}</IdLink>
           </small>
         </>
       )}

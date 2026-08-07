@@ -4,12 +4,12 @@ import ReactMarkdown from 'react-markdown';
 import {t} from '@lingui/core/macro';
 import {Trans} from '@lingui/react/macro';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {IdLink} from '@dracor/react';
 import {Route} from '../routes/$slug';
 import DetailsHead from './DetailsHead';
 import Dictionaries from './Dictionaries';
 import Years from './Years';
 import GenderIcon from './GenderIcon';
-import IdLink from './IdLink';
 import BasedOn from './BasedOn';
 import {EinakterContext} from '../context';
 import {CastMember, Play} from '../types';
@@ -81,7 +81,13 @@ export default function Details() {
                 <ul className="list-disc text-gray-400">
                   {comments.map((c, i) => (
                     <li key={`comment-${i}`}>
-                      <ReactMarkdown className="text-black">{c}</ReactMarkdown>
+                      <span className="text-black">
+                        <ReactMarkdown
+                          components={{p: ({children}) => <>{children}</>}}
+                        >
+                          {c}
+                        </ReactMarkdown>
+                      </span>
                     </li>
                   ))}
                 </ul>
@@ -97,7 +103,13 @@ export default function Details() {
                 <ul className="list-disc text-gray-400">
                   {reviews.map((r, i) => (
                     <li key={`review-${i}`}>
-                      <ReactMarkdown className="text-black">{r}</ReactMarkdown>
+                      <span className="text-black">
+                        <ReactMarkdown
+                          components={{p: ({children}) => <>{children}</>}}
+                        >
+                          {r}
+                        </ReactMarkdown>
+                      </span>
                     </li>
                   ))}
                 </ul>
@@ -132,17 +144,17 @@ export default function Details() {
               <td>
                 {ids.dracor && (
                   <small>
-                    <IdLink id={ids.dracor} type="dracor" />
+                    <IdLink>{`dracor:${ids.dracor}`}</IdLink>
                   </small>
                 )}{' '}
                 {ids.wikidata && (
                   <small>
-                    <IdLink id={ids.wikidata} type="wikidata" />
+                    <IdLink>{`wikidata:${ids.wikidata}`}</IdLink>
                   </small>
                 )}{' '}
                 {ids.weber && (
                   <small>
-                    <IdLink id={ids.weber} type="weber" />
+                    <IdLink>{`wega:${ids.weber}`}</IdLink>
                   </small>
                 )}
               </td>
@@ -261,10 +273,9 @@ export default function Details() {
                     ?.filter((s) => s.location?.wikidataId)
                     .map((s) => (
                       <small key={s.location.wikidataId as string}>
-                        <IdLink
-                          id={s.location.wikidataId as string}
-                          type="wikidata"
-                        />
+                        <IdLink>
+                          {`wikidata:${s.location.wikidataId as string}`}
+                        </IdLink>
                       </small>
                     ))}
                 </ul>

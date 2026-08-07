@@ -1,15 +1,14 @@
 import {useMemo} from 'react';
 import {t} from '@lingui/core/macro';
 import {ColumnDef} from '@tanstack/react-table';
+import {formatEra, Table} from '@dracor/react';
 import {Play} from '../types';
 import data from '../data.json';
 import authors from '../authors.json';
 import Statistics from './Statistics';
-import Table from './Table';
 import Authors from './Authors';
 import TitleCell from './TitleCell';
 import DownloadLink from './DownloadLink';
-import {formatEra} from './Years';
 
 function KeywordsCell({keywords}: {keywords: string[]}) {
   return (
@@ -67,7 +66,7 @@ export default function Plays() {
             <span>
               {yearNormalized == null
                 ? t`not available`
-                : formatEra(yearNormalized)}
+                : formatEra(String(yearNormalized))}
             </span>
           );
         },

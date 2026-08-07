@@ -1,4 +1,4 @@
-import IdLink from './IdLink';
+import {Authors as DracorAuthors} from '@dracor/react';
 import {Author} from '../types';
 
 interface Props {
@@ -7,25 +7,12 @@ interface Props {
 }
 
 const Authors = ({authors, withLink}: Props) => {
-  return (
-    <>
-      {authors.map((author, i) => (
-        <span key={`author-${i}-${author.name}`}>
-          {i > 0 && <br />}
-          {author.name}
-          {author.pseudonym && <i> ({author.pseudonym})</i>}
-          {withLink && author.wikidata && (
-            <>
-              {' '}
-              <small>
-                <IdLink id={author.wikidata} type="wikidata" />
-              </small>
-            </>
-          )}
-        </span>
-      ))}
-    </>
-  );
+  const data = authors.map((a) => ({
+    name: a.name || '',
+    pseudonym: a.pseudonym,
+    ref: withLink && a.wikidata ? `wikidata:${a.wikidata}` : undefined,
+  }));
+  return <DracorAuthors data={data} />;
 };
 
 export default Authors;
