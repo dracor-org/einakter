@@ -1,4 +1,5 @@
 import {IdCopy, AuthorInfo} from '@dracor/react';
+import {useLingui} from '@lingui/react';
 import {t} from '@lingui/core/macro';
 import Authors from './Authors';
 import {Author} from '../types';
@@ -11,6 +12,8 @@ interface Props {
 }
 
 const DetailsHead = ({id, authors = [], title, subtitle}: Props) => {
+  // Subscribe to locale changes so AuthorInfo's b./d./unknown labels update.
+  useLingui();
   return (
     <div className="flex justify-between mb-4 flex-col gap-3 md:flex-row">
       <div>

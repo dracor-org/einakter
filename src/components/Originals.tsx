@@ -1,4 +1,5 @@
 import {useContext, useMemo} from 'react';
+import {useLingui} from '@lingui/react';
 import {t} from '@lingui/core/macro';
 import {ColumnDef} from '@tanstack/react-table';
 import {formatEra, Table} from '@dracor/react';
@@ -11,6 +12,9 @@ import TitleCell from './TitleCell';
 import authors from '../authors.json';
 
 function Originals() {
+  // Recompute column headers when the locale changes; t`…` reads the global
+  // i18n synchronously and does not subscribe on its own.
+  const {i18n} = useLingui();
   const {plays, originals} = useContext(EinakterContext);
 
   const numbers: {[id: string]: number} = {};
@@ -78,7 +82,7 @@ function Originals() {
         accessorFn: (row) => row.numTranslations?.toString() || '0',
       },
     ],
-    []
+    [i18n.locale]
   );
 
   return (

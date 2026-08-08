@@ -1,4 +1,5 @@
 import {useMemo} from 'react';
+import {useLingui} from '@lingui/react';
 import {t} from '@lingui/core/macro';
 import {ColumnDef} from '@tanstack/react-table';
 import {formatEra, Table} from '@dracor/react';
@@ -23,6 +24,9 @@ function KeywordsCell({keywords}: {keywords: string[]}) {
 }
 
 export default function Plays() {
+  // Recompute column headers when the locale changes; t`…` reads the global
+  // i18n synchronously and does not subscribe on its own.
+  const {i18n} = useLingui();
   const columns = useMemo<ColumnDef<Play>[]>(
     () => [
       {
@@ -98,7 +102,7 @@ export default function Plays() {
         accessorFn: (row) => row.id?.toString() || '',
       },
     ],
-    []
+    [i18n.locale]
   );
 
   return (

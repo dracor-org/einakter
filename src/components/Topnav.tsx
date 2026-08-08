@@ -47,6 +47,10 @@ function LanguageMenu() {
 }
 
 export default function Topnav() {
+  // Subscribe to locale changes so nav item labels re-translate. The `t`
+  // macro alone reads the global i18n at render time — without this hook the
+  // component doesn't re-render when the language menu switches locale.
+  useLingui();
   return (
     <NavBar
       title="Einakter"
