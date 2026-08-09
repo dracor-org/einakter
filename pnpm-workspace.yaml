@@ -1,11 +1,11 @@
 allowBuilds:
   '@parcel/watcher': true
-  '@scarf/scarf': set this to true or false
+  '@scarf/scarf': false
   '@swc/core': true
-  '@tree-sitter-grammars/tree-sitter-yaml': set this to true or false
-  core-js-pure: set this to true or false
+  '@tree-sitter-grammars/tree-sitter-yaml': false
+  core-js-pure: false
   esbuild: true
-  tree-sitter: set this to true or false
-  tree-sitter-json: set this to true or false
+  tree-sitter: false
+  tree-sitter-json: false
 minimumReleaseAgeExclude:
   - '@dracor/react@1.4.0'
