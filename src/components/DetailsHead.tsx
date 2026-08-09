@@ -18,11 +18,13 @@ const DetailsHead = ({id, authors = [], title, subtitle}: Props) => {
     <div className="flex justify-between mb-4 flex-col gap-3 md:flex-row">
       <div>
         <hgroup>
-          <h2>
+          <h2 className="text-base font-normal m-0">
             <Authors authors={authors} />
           </h2>
           <h1>{title}</h1>
-          {subtitle && <h3>{subtitle}</h3>}
+          {subtitle && (
+            <h3 className="text-base font-normal m-0">{subtitle}</h3>
+          )}
           <IdCopy
             icon="ein"
             prefix="https://einakter.dracor.org/id/"
