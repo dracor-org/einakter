@@ -86,3 +86,37 @@
 .prose a:hover {
   color: #0056b3;
 }
+
+tr.dates > td > span {
+  display: inline-block;
+  padding-right: 1em;
+}
+
+td ul:last-child,
+td p:last-child {
+  margin-bottom: 0;
+}
+
+/* Leaflet map viewport (react-leaflet default class). */
+.leaflet-container {
+  width: 100%;
+  height: calc(100vh - 250px);
+}
+
+/* Vertically scrolling database snapshot on the home page. */
+.scroll-animation {
+  animation: upward 45s linear infinite;
+}
+
+.scroll-animation img {
+  margin: 0 !important;
+}
+
+@keyframes upward {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(0, -50%);
+  }
+}
