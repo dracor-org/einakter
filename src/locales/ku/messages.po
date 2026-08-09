@@ -13,17 +13,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.3.2\n"
 
-#: src/components/About.tsx:9
-#: src/components/Topnav.tsx:79
+#: src/components/About.tsx:7
+#: src/components/Topnav.tsx:49
 msgid "About"
 msgstr "derbarê"
 
-#: src/components/Home.tsx:44
+#: src/components/Home.tsx:41
 msgid "About the project"
 msgstr "di derbarê bernameyê de"
 
-#: src/components/Originals.tsx:41
-#: src/components/Plays.tsx:32
+#: src/components/Originals.tsx:43
+#: src/components/Plays.tsx:34
 msgid "Author"
 msgstr "nivîskar"
 
@@ -32,20 +32,20 @@ msgstr "nivîskar"
 msgid "Authors"
 msgstr "nivîskar"
 
-#: src/components/AuthorInfo.tsx:125
+#: src/components/DetailsHead.tsx:43
 msgid "b."
 msgstr "zayîn"
 
-#: src/components/Details.tsx:279
+#: src/components/Details.tsx:287
 msgid "Based on"
 msgstr "li ser bingeha"
 
-#: src/components/Plays.tsx:83
+#: src/components/Plays.tsx:85
 #: src/components/Statistics.tsx:122
 msgid "Characters"
 msgstr "karakter"
 
-#: src/components/Details.tsx:80
+#: src/components/Details.tsx:78
 msgid "Comments"
 msgstr "têbinî"
 
@@ -53,7 +53,7 @@ msgstr "têbinî"
 msgid "Czech"
 msgstr "çekî"
 
-#: src/components/AuthorInfo.tsx:130
+#: src/components/DetailsHead.tsx:44
 msgid "d."
 msgstr "mirin"
 
@@ -64,12 +64,12 @@ msgstr "danîmarkî"
 #~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
 #~ msgstr "Database currently containing {0} one-act plays featuring {numCharacters} characters"
 
-#: src/components/Details.tsx:111
-#: src/components/OriginalDetails.tsx:97
+#: src/components/Details.tsx:121
+#: src/components/OriginalDetails.tsx:95
 msgid "Dates"
 msgstr "dîrok"
 
-#: src/components/Details.tsx:289
+#: src/components/Details.tsx:297
 msgid "Dictionaries"
 msgstr "ferheng"
 
@@ -81,7 +81,7 @@ msgstr "daxisitin CSV"
 msgid "Download JSON"
 msgstr "daxistin JSON"
 
-#: src/components/Details.tsx:176
+#: src/components/Details.tsx:186
 msgid "Dramatis personae"
 msgstr "kesayetên dramatîk"
 
@@ -89,11 +89,11 @@ msgstr "kesayetên dramatîk"
 msgid "Dutch"
 msgstr "holandî"
 
-#: src/components/Home.tsx:30
+#: src/components/Home.tsx:27
 msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
 msgstr "Edîtorî ji Dîlan Canan Çakir û Frank Fischer"
 
-#: src/components/Details.tsx:156
+#: src/components/Details.tsx:166
 msgid "Editions"
 msgstr "çap"
 
@@ -107,7 +107,7 @@ msgstr "îngilîzî"
 msgid "female"
 msgstr "mê"
 
-#: src/components/Details.tsx:299
+#: src/components/Details.tsx:307
 msgid "Formalia"
 msgstr "cure"
 
@@ -115,7 +115,7 @@ msgstr "cure"
 msgid "French"
 msgstr "fransî"
 
-#: src/components/OriginalDetails.tsx:129
+#: src/components/OriginalDetails.tsx:127
 msgid "Full text"
 msgstr "nivîsa tevahî"
 
@@ -130,7 +130,7 @@ msgstr "kom"
 #~ msgid "Hide"
 #~ msgstr "Hide"
 
-#: src/components/Plays.tsx:99
+#: src/components/Plays.tsx:101
 msgid "ID"
 msgstr "ID"
 
@@ -138,13 +138,13 @@ msgstr "ID"
 msgid "Italian"
 msgstr "îtalî"
 
-#: src/components/Details.tsx:313
-#: src/components/Plays.tsx:88
+#: src/components/Details.tsx:321
+#: src/components/Plays.tsx:90
 msgid "Keywords"
 msgstr "miftepeyv"
 
-#: src/components/OriginalDetails.tsx:66
-#: src/components/Originals.tsx:70
+#: src/components/OriginalDetails.tsx:64
+#: src/components/Originals.tsx:76
 msgid "Language"
 msgstr "ziman"
 
@@ -156,20 +156,20 @@ msgstr "ziman"
 msgid "Latin"
 msgstr "latînî"
 
-#: src/components/Details.tsx:132
-#: src/components/OriginalDetails.tsx:110
+#: src/components/Details.tsx:142
+#: src/components/OriginalDetails.tsx:108
 msgid "Links"
 msgstr "girêdan"
 
 #~ msgid "Loading..."
 #~ msgstr "Loading..."
 
-#: src/components/Details.tsx:258
+#: src/components/Details.tsx:267
 msgid "Location"
 msgstr "derawa"
 
-#: src/components/Map.tsx:57
-#: src/components/Topnav.tsx:73
+#: src/components/Map.tsx:55
+#: src/components/Topnav.tsx:47
 msgid "Locations"
 msgstr "derawa"
 
@@ -183,7 +183,7 @@ msgstr "nêr"
 msgid "No such play"
 msgstr "Lîstikeke wisa tune"
 
-#: src/components/Plays.tsx:70
+#: src/components/Plays.tsx:72
 msgid "not available"
 msgstr "ne berdeste"
 
@@ -191,11 +191,11 @@ msgstr "ne berdeste"
 msgid "Number of originals"
 msgstr "hejmara orîjinalan"
 
-#: src/components/Details.tsx:124
+#: src/components/Details.tsx:134
 msgid "Number of Scenes"
 msgstr "hejmara sehneyan"
 
-#: src/components/Originals.tsx:75
+#: src/components/Originals.tsx:81
 msgid "Number of translations"
 msgstr "hejmara wergeran"
 
@@ -208,7 +208,7 @@ msgid "Original not found"
 msgstr "Orjînal nehat dîtin"
 
 #: src/components/Original.tsx:57
-#: src/components/Topnav.tsx:76
+#: src/components/Topnav.tsx:48
 msgid "Originals"
 msgstr "orîjinal"
 
@@ -219,11 +219,11 @@ msgstr "wergerên din ên yek-perdeyî"
 #~ msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries."
 #~ msgstr "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries."
 
-#: src/components/Home.tsx:33
+#: src/components/Home.tsx:30
 msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
 msgstr "Mebesta me ew e ku em li ser lîstikên yek-perdeyî yên di navbera nîveka sedsala 18an û nîveka sedsala 19an de bi elmanî hatine nivîsandin, bi nêrîneke jimarî ya giştî pêşkêş bikin. Ji bo agahiyên zêdetir, herweha bê meriv çawa dikare jêderka vê danegehê nîşan bide, ji kerema xwe li rûpela »Derbarê« binêrin."
 
-#: src/components/Topnav.tsx:70
+#: src/components/Topnav.tsx:43
 msgid "Plays"
 msgstr "șanoyê"
 
@@ -236,15 +236,15 @@ msgstr "şanoyên anonîm çapbûyî"
 msgid "Plays translated/adapted from other languages"
 msgstr "şanoyên ji zimanên din"
 
-#: src/components/Years.tsx:96
+#: src/components/Years.tsx:22
 msgid "premiered"
 msgstr "promiyer kiriye"
 
-#: src/components/Years.tsx:104
+#: src/components/Years.tsx:23
 msgid "printed"
 msgstr "çapkirî"
 
-#: src/components/Details.tsx:96
+#: src/components/Details.tsx:100
 msgid "Reviews"
 msgstr "nirxandin"
 
@@ -252,15 +252,15 @@ msgstr "nirxandin"
 msgid "Russian"
 msgstr "rûsî"
 
-#: src/components/Plays.tsx:78
+#: src/components/Plays.tsx:80
 msgid "Scenes"
 msgstr "sehne"
 
 #: src/components/Table.tsx:49
-msgid "Search"
-msgstr "gerr"
+#~ msgid "Search"
+#~ msgstr "gerr"
 
-#: src/components/Details.tsx:242
+#: src/components/Details.tsx:251
 msgid "Setting"
 msgstr "eyar"
 
@@ -274,38 +274,42 @@ msgstr "îspanyolî"
 #~ msgid "Statistics"
 #~ msgstr "Statistics"
 
-#: src/components/Home.tsx:13
+#: src/components/Home.tsx:11
 msgid "The Database of German-Language One-Act Plays 1740–1850"
 msgstr "Danegeha Şanoyên Yek-perdeyî yên bi Zimanê Elmanî 1740-1850"
 
-#: src/components/Home.tsx:19
+#: src/components/Home.tsx:16
 msgid "The Database of<0/>German-Language<1/>One-Act Plays<2/>1740–1850"
 msgstr "Danegeha Şanoyên<0/>Yek-perdeyî yên<1/>bi Zimanê Elmanî<2/>1740-1850"
 
-#: src/components/Map.tsx:61
+#: src/components/Map.tsx:58
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr "Ev nexşe hemî cihên çîrokê yên ku ji agahdariyên mîhengî yên di destpêka lîstikê de têne derxistin nîşan dide. Binavkirin û sînorkirinên li ser nexşeyê ji hêla OpenStreetMap ve têne peyda kirin û ji ber vê yekê bi dema çalakiyê û afirandina lîstikê re ne-dîrokî ne."
 
-#: src/components/Originals.tsx:57
-#: src/components/Plays.tsx:48
+#: src/components/Originals.tsx:59
+#: src/components/Plays.tsx:50
 msgid "Title"
 msgstr "serenav"
 
-#: src/components/OriginalDetails.tsx:72
+#: src/components/OriginalDetails.tsx:70
 msgid "Translations"
 msgstr "werger"
 
 #~ msgid "undefined"
 #~ msgstr "undefined"
 
+#: src/components/DetailsHead.tsx:45
+msgid "unknown"
+msgstr "unknown"
+
 #~ msgid "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
 #~ msgstr "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
 
-#: src/components/Years.tsx:87
+#: src/components/Years.tsx:21
 msgid "written"
 msgstr "nivîsandin"
 
-#: src/components/Originals.tsx:62
-#: src/components/Plays.tsx:60
+#: src/components/Originals.tsx:64
+#: src/components/Plays.tsx:62
 msgid "Year (normalized)"
 msgstr "sal (normal kirin)"
