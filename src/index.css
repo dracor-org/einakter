@@ -32,13 +32,14 @@
   }
 
   /*
-    Revert @dracor/react/dracor.css list-inside default. Inside markers get
-    a ~1em UA-supplied trailing space in Chromium, which reads as bloated
-    padding on einakter's dense detail-page lists (comments, reviews, cast).
+    Undo @dracor/react/dracor.css's global `ul { @apply list-inside list-disc
+    space-y-1 }`. Einakter matches Tailwind v3 preflight: unstyled by default,
+    bullets only where `list-disc` is opted in per usage.
   */
-  ul {
-    list-style-position: outside;
-    padding-inline-start: 1.25rem;
+  ul,
+  ol {
+    list-style: none;
+    padding: 0;
   }
 
   table {
