@@ -7,3 +7,5 @@ allowBuilds:
   esbuild: true
   tree-sitter: set this to true or false
   tree-sitter-json: set this to true or false
+minimumReleaseAgeExclude:
+  - '@dracor/react@1.4.0'

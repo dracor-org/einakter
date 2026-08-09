@@ -1,10 +1,12 @@
-import {Fragment} from 'react';
+import {Fragment, useContext} from 'react';
 import {useLingui} from '@lingui/react';
 import {t} from '@lingui/core/macro';
 import {faLanguage} from '@fortawesome/free-solid-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {Menu, Transition} from '@headlessui/react';
+import {useLocation} from '@tanstack/react-router';
 import {NavBar} from '@dracor/react';
+import {EinakterContext} from '../context';
 import {locales, setLocale} from '../i18n';
 import pkg from '../../package.json';
 
@@ -51,6 +53,12 @@ export default function Topnav() {
   // macro alone reads the global i18n at render time — without this hook the
   // component doesn't re-render when the language menu switches locale.
   useLingui();
+  // Play detail pages live under the /$slug catch-all; keep "Plays" visually
+  // active while browsing them by injecting the border-b class the library
+  // NavItem otherwise only applies on an exact route match.
+  const {pathname} = useLocation();
+  const {plays} = useContext(EinakterContext);
+  const onPlayDetail = plays.some((p) => pathname === `/${p.slug}`);
   return (
     <NavBar
       title="Einakter"
@@ -59,7 +67,11 @@ export default function Topnav() {
       version={version}
       gitHubUrl="https://github.com/dracor-org/einakter"
       navItems={[
-        {label: t`Plays`, to: '/plays'},
+        {
+          label: t`Plays`,
+          to: '/plays',
+          className: onPlayDetail ? 'border-b-4' : '',
+        },
         {label: t`Locations`, to: '/locations'},
         {label: t`Originals`, to: '/originals'},
         {label: t`About`, to: '/about'},

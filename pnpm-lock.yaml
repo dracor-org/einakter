@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@dracor/react':
-        specifier: ^1.3.0
-        version: 1.3.0(@fortawesome/fontawesome-svg-core@7.3.1)(@fortawesome/free-brands-svg-icons@7.3.1)(@fortawesome/free-solid-svg-icons@7.3.1)(@fortawesome/react-fontawesome@3.5.0(@fortawesome/fontawesome-svg-core@7.3.1)(react@19.2.8))(@headlessui/react@2.2.10(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@tanstack/react-router@1.170.18(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@tanstack/react-table@8.21.3(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(CETEIcean@1.9.5)(react-dom@19.2.8(react@19.2.8))(react-markdown@10.1.0(@types/react@19.2.17)(react@19.2.8)(supports-color@9.4.0))(react@19.2.8)(swagger-ui-react@5.32.11(@types/react@19.2.17)(debug@4.4.3(supports-color@9.4.0))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(supports-color@9.4.0))
+        specifier: ^1.4.0
+        version: 1.4.0(@fortawesome/fontawesome-svg-core@7.3.1)(@fortawesome/free-brands-svg-icons@7.3.1)(@fortawesome/free-solid-svg-icons@7.3.1)(@fortawesome/react-fontawesome@3.5.0(@fortawesome/fontawesome-svg-core@7.3.1)(react@19.2.8))(@headlessui/react@2.2.10(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@tanstack/react-router@1.170.18(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@tanstack/react-table@8.21.3(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(CETEIcean@1.9.5)(react-dom@19.2.8(react@19.2.8))(react-markdown@10.1.0(@types/react@19.2.17)(react@19.2.8)(supports-color@9.4.0))(react@19.2.8)(swagger-ui-react@5.32.11(@types/react@19.2.17)(debug@4.4.3(supports-color@9.4.0))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(supports-color@9.4.0))
       '@fortawesome/fontawesome-svg-core':
         specifier: ^7.3.1
         version: 7.3.1
@@ -324,8 +324,8 @@ packages:
     resolution: {integrity: sha512-Vd/9EVDiu6PPJt9yAh6roZP6El1xHrdvIVGjyBsHR0RYwNHgL7FJPyIIW4fANJNG6FtyZfvlRPpFI4ZM/lubvw==}
     engines: {node: '>=18'}
 
-  '@dracor/react@1.3.0':
-    resolution: {integrity: sha512-FNdIjiI+d+bzHm/SHGFWuOcdd9bl8LlxoLrnc50RynCAr0R7QnZHfwZqin0QkTLC4BS+sH2R61yyh8Loqou3CA==}
+  '@dracor/react@1.4.0':
+    resolution: {integrity: sha512-snuk99cvkkZdysy6yp3MdRGMmfqdWap+58M9fofDAz1DdTgv/XBo9FBlegiXb7ZjcNIrsxWdqloNLzUQlolr0Q==}
     peerDependencies:
       '@fortawesome/fontawesome-svg-core': ^7.2.0
       '@fortawesome/free-brands-svg-icons': ^7.2.0
@@ -4647,7 +4647,7 @@ snapshots:
 
   '@csstools/css-tokenizer@3.0.4': {}
 
-  '@dracor/react@1.3.0(@fortawesome/fontawesome-svg-core@7.3.1)(@fortawesome/free-brands-svg-icons@7.3.1)(@fortawesome/free-solid-svg-icons@7.3.1)(@fortawesome/react-fontawesome@3.5.0(@fortawesome/fontawesome-svg-core@7.3.1)(react@19.2.8))(@headlessui/react@2.2.10(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@tanstack/react-router@1.170.18(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@tanstack/react-table@8.21.3(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(CETEIcean@1.9.5)(react-dom@19.2.8(react@19.2.8))(react-markdown@10.1.0(@types/react@19.2.17)(react@19.2.8)(supports-color@9.4.0))(react@19.2.8)(swagger-ui-react@5.32.11(@types/react@19.2.17)(debug@4.4.3(supports-color@9.4.0))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(supports-color@9.4.0))':
+  '@dracor/react@1.4.0(@fortawesome/fontawesome-svg-core@7.3.1)(@fortawesome/free-brands-svg-icons@7.3.1)(@fortawesome/free-solid-svg-icons@7.3.1)(@fortawesome/react-fontawesome@3.5.0(@fortawesome/fontawesome-svg-core@7.3.1)(react@19.2.8))(@headlessui/react@2.2.10(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@tanstack/react-router@1.170.18(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@tanstack/react-table@8.21.3(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(CETEIcean@1.9.5)(react-dom@19.2.8(react@19.2.8))(react-markdown@10.1.0(@types/react@19.2.17)(react@19.2.8)(supports-color@9.4.0))(react@19.2.8)(swagger-ui-react@5.32.11(@types/react@19.2.17)(debug@4.4.3(supports-color@9.4.0))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(supports-color@9.4.0))':
     dependencies:
       '@fortawesome/fontawesome-svg-core': 7.3.1
       '@fortawesome/free-brands-svg-icons': 7.3.1
