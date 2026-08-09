@@ -109,7 +109,7 @@ export default function Plays() {
     <>
       <title>Einakter</title>
       <div className="p-4 overflow-x-auto">
-        <Statistics plays={data} authors={authors} className="mb-2 mt-2" />
+        <Statistics plays={data} authors={authors} className="my-2" />
         <div className="float-right mt-1">
           <DownloadLink
             href="data.json"

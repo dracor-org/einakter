@@ -200,7 +200,7 @@ export default function Details() {
                                     ml-5
                                     before:bg-black
                                     before:block
-                                    before:h-[2px]
+                                    before:h-0.5
                                     before:w-2.5
                                     before:mr-2"
                         >
@@ -214,11 +214,10 @@ export default function Details() {
                                     after:border-solid
                                     after:border-black
                                     after:border-r-2
-                                    after:border-t-2
-                                    after:border-b-2
                                     after:absolute
                                     after:top-1.5
-                                    after:-right-5"
+                                    after:-right-5
+                                    after:border-y-2"
                         >
                           {c.group &&
                             c.group.map((member) => (
