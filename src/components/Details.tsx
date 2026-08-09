@@ -209,7 +209,7 @@ export default function Details() {
                         <ul
                           className="relative
                                     after:w-3
-                                    after:h-calc-full-0.75
+                                    after:h-[calc(100%-0.75rem)]
                                     after:rounded-r
                                     after:border-solid
                                     after:border-black

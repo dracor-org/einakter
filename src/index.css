@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
 
 @import 'tailwindcss';
-@config '../tailwind.config.mjs';
+@plugin '@tailwindcss/typography';
 @import '@dracor/react/dracor.css';
 @source '../node_modules/@dracor/react';
 
@@ -60,4 +60,29 @@
   input {
     @apply shadow appearance-none border rounded py-2 px-3 text-gray-700 mb-4;
   }
+}
+
+/*
+  Prose overrides preserving the v3 tailwind.config typography theme
+  (body color, link colour + weight, no underline, heading/strong weight).
+*/
+.prose {
+  --tw-prose-body: #333;
+  --tw-prose-links: #08f;
+}
+
+.prose strong,
+.prose h1,
+.prose h2,
+.prose h3 {
+  font-weight: 500;
+}
+
+.prose a {
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.prose a:hover {
+  color: #0056b3;
 }
