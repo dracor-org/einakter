@@ -1,5 +1,5 @@
 import {useContext} from 'react';
-import {Link, useParams} from 'react-router-dom';
+import {Link, useParams} from '@tanstack/react-router';
 import {t} from '@lingui/core/macro';
 import {Trans} from '@lingui/react/macro';
 import Authors from './Authors';
@@ -22,7 +22,7 @@ interface Props {
 }
 
 const Original = ({data}: Props) => {
-  const {slug: currentSlug} = useParams<{slug: string}>();
+  const {slug: currentSlug} = useParams({strict: false}) as {slug?: string};
   const {plays} = useContext(EinakterContext);
 
   const {id, slug, authors = [], title, subtitle, ids, language} = data;
@@ -86,7 +86,7 @@ const Original = ({data}: Props) => {
           <ul className="list-disc text-gray-400">
             {others.sort(sortByYear).map((play) => (
               <li key={play.slug}>
-                <Link to={`/${play.slug}`}>
+                <Link to="/$slug" params={{slug: play.slug}}>
                   {play.authors && play.authors.length > 0 && (
                     <>
                       <Authors authors={play.authors} />

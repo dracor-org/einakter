@@ -52,7 +52,7 @@ export default function Plays() {
           play.cast?.forEach((c) => (text += ` ${c.name}`));
           return text;
         },
-        cell: (info) => <TitleCell play={info.row.original} urlPath="/" />,
+        cell: (info) => <TitleCell play={info.row.original} to="/$slug" />,
       },
       {
         id: 'yearNormalized',

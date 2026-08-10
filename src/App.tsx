@@ -1,40 +1,14 @@
-import {BrowserRouter, Routes, Route} from 'react-router-dom';
-import Topnav from './components/Topnav';
-import Home from './components/Home';
-import Id from './components/Id';
-import Plays from './components/Plays';
-import Details from './components/Details';
-import OriginalDetails from './components/OriginalDetails';
-import About from './components/About';
-import Map from './components/Map';
-import Originals from './components/Originals';
-import './icons';
+import {createRouter, RouterProvider} from '@tanstack/react-router';
+import {routeTree} from './routeTree.gen';
 
-import './App.scss';
+const router = createRouter({routeTree});
 
-function App() {
-  return (
-    <BrowserRouter
-      future={{
-        /* eslint-disable camelcase */
-        v7_startTransition: true,
-        v7_relativeSplatPath: true,
-        /* eslint-enable camelcase */
-      }}
-    >
-      <Topnav />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/id/:id" element={<Id />} />
-        <Route path="/plays" element={<Plays />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/locations" element={<Map />} />
-        <Route path="/originals/:slug" element={<OriginalDetails />} />
-        <Route path="/originals" element={<Originals />} />
-        <Route path="/:slug" element={<Details />} />
-      </Routes>
-    </BrowserRouter>
-  );
+declare module '@tanstack/react-router' {
+  interface Register {
+    router: typeof router;
+  }
 }
 
-export default App;
+export default function App() {
+  return <RouterProvider router={router} />;
+}

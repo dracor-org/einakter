@@ -1,5 +1,6 @@
 import {useContext} from 'react';
-import {Link, useParams} from 'react-router-dom';
+import {Link} from '@tanstack/react-router';
+import {Route} from '../routes/originals/$slug';
 import {Trans} from '@lingui/react/macro';
 import Authors from './Authors';
 import DetailsHead from './DetailsHead';
@@ -11,7 +12,7 @@ import {sortByYear} from '../utils';
 import {localLanguageName} from '../languages';
 
 const OriginalDetails = () => {
-  const {slug} = useParams<{slug: string}>();
+  const {slug} = Route.useParams();
   const {plays, originals} = useContext(EinakterContext);
 
   const original = originals.find((o) => o.slug === slug);
@@ -72,7 +73,7 @@ const OriginalDetails = () => {
               <ul className="list-disc text-gray-400">
                 {translations.sort(sortByYear).map((play) => (
                   <li key={play.slug}>
-                    <Link to={`/${play.slug}`}>
+                    <Link to="/$slug" params={{slug: play.slug}}>
                       {play.authors && play.authors.length > 0 && (
                         <>
                           <Authors authors={play.authors} />

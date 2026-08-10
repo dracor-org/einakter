@@ -1,4 +1,4 @@
-import {Link} from 'react-router-dom';
+import {Link} from '@tanstack/react-router';
 import {Popup} from 'react-leaflet';
 import {Author, SettingInfo} from '../types';
 
@@ -25,7 +25,9 @@ const SettingsPopup = ({settings}: Props) => {
             <div className="mb-1">
               {s.authors && renderAuthors(s.authors)}
               {s.authors && ', '}
-              <Link to={`/${s.slug}`}>{s.title}</Link>
+              <Link to="/$slug" params={{slug: s.slug}}>
+                {s.title}
+              </Link>
               {'. '}
               {s.year}
             </div>

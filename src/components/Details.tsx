@@ -1,9 +1,10 @@
 import {useEffect, useContext} from 'react';
-import {useLocation, useParams} from 'react-router-dom';
+import {useLocation} from '@tanstack/react-router';
 import ReactMarkdown from 'react-markdown';
 import {t} from '@lingui/core/macro';
 import {Trans} from '@lingui/react/macro';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {Route} from '../routes/$slug';
 import DetailsHead from './DetailsHead';
 import Dictionaries from './Dictionaries';
 import Years from './Years';
@@ -14,7 +15,7 @@ import {EinakterContext} from '../context';
 import {CastMember, Play} from '../types';
 
 export default function Details() {
-  const {slug} = useParams<{slug: string}>();
+  const {slug} = Route.useParams();
   const {pathname} = useLocation();
   const {plays: data} = useContext(EinakterContext);
 
