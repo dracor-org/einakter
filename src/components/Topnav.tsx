@@ -5,6 +5,7 @@ import {useLocation} from '@tanstack/react-router';
 import {LanguageMenu, NavBar} from '@dracor/react';
 import {EinakterContext} from '../context';
 import {locales, setLocale} from '../i18n';
+import GitHubIcon from './GitHubIcon';
 import pkg from '../../package.json';
 
 const version = import.meta.env.VITE_VERSION || pkg.version;
@@ -38,6 +39,7 @@ export default function Topnav() {
       logoClass="w-[170px] h-auto"
       version={version}
       gitHubUrl="https://github.com/dracor-org/einakter"
+      gitHubIcon={<GitHubIcon />}
       navItems={[
         {
           label: t`Plays`,
