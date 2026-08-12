@@ -1,15 +1,15 @@
 import {useMemo} from 'react';
+import {useLingui} from '@lingui/react';
 import {t} from '@lingui/core/macro';
 import {ColumnDef} from '@tanstack/react-table';
+import {formatEra, Table} from '@dracor/react';
 import {Play} from '../types';
 import data from '../data.json';
 import authors from '../authors.json';
 import Statistics from './Statistics';
-import Table from './Table';
 import Authors from './Authors';
 import TitleCell from './TitleCell';
 import DownloadLink from './DownloadLink';
-import {formatEra} from './Years';
 
 function KeywordsCell({keywords}: {keywords: string[]}) {
   return (
@@ -24,6 +24,9 @@ function KeywordsCell({keywords}: {keywords: string[]}) {
 }
 
 export default function Plays() {
+  // Recompute column headers when the locale changes; t`…` reads the global
+  // i18n synchronously and does not subscribe on its own.
+  const {i18n} = useLingui();
   const columns = useMemo<ColumnDef<Play>[]>(
     () => [
       {
@@ -67,7 +70,7 @@ export default function Plays() {
             <span>
               {yearNormalized == null
                 ? t`not available`
-                : formatEra(yearNormalized)}
+                : formatEra(String(yearNormalized))}
             </span>
           );
         },
@@ -99,14 +102,14 @@ export default function Plays() {
         accessorFn: (row) => row.id?.toString() || '',
       },
     ],
-    []
+    [i18n.locale]
   );
 
   return (
     <>
       <title>Einakter</title>
       <div className="p-4 overflow-x-auto">
-        <Statistics plays={data} authors={authors} className="mb-2 mt-2" />
+        <Statistics plays={data} authors={authors} className="my-2" />
         <div className="float-right mt-1">
           <DownloadLink
             href="data.json"

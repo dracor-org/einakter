@@ -1,17 +1,20 @@
 import {useContext, useMemo} from 'react';
+import {useLingui} from '@lingui/react';
 import {t} from '@lingui/core/macro';
 import {ColumnDef} from '@tanstack/react-table';
+import {formatEra, Table} from '@dracor/react';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';
 import {localLanguageName} from '../languages';
 import OriginalStatistics from './OriginalStatistics';
-import Table from './Table';
 import Authors from './Authors';
 import TitleCell from './TitleCell';
-import {formatEra} from './Years';
 import authors from '../authors.json';
 
 function Originals() {
+  // Recompute column headers when the locale changes; t`…` reads the global
+  // i18n synchronously and does not subscribe on its own.
+  const {i18n} = useLingui();
   const {plays, originals} = useContext(EinakterContext);
 
   const numbers: {[id: string]: number} = {};
@@ -61,7 +64,11 @@ function Originals() {
         header: t`Year (normalized)`,
         accessorFn: (row) => row.yearNormalized?.toString() || '',
         cell: (info) => (
-          <span>{formatEra(info.row.original.yearNormalized)}</span>
+          <span>
+            {info.row.original.yearNormalized == null
+              ? ''
+              : formatEra(String(info.row.original.yearNormalized))}
+          </span>
         ),
       },
       {
@@ -75,7 +82,7 @@ function Originals() {
         accessorFn: (row) => row.numTranslations?.toString() || '0',
       },
     ],
-    []
+    [i18n.locale]
   );
 
   return (

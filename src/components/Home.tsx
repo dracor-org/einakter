@@ -6,7 +6,7 @@ export default function Home() {
   const navigate = useNavigate();
 
   return (
-    <div className="page p-4 mt-8 markdown max-w-full">
+    <div className="page p-4 mt-8 prose max-w-full">
       <title>
         {`Einakter: ${t`The Database of German-Language One-Act Plays 1740–1850`}`}
       </title>

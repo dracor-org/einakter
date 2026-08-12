@@ -1,6 +1,6 @@
 import {Link} from '@tanstack/react-router';
+import {IdLink} from '@dracor/react';
 import {Play} from '../types';
-import IdLink from './IdLink';
 
 interface Props {
   play: Play;
@@ -23,17 +23,17 @@ export default function TitleCell({play, to = '/originals/$slug'}: Props) {
       <div>
         {wikidata && (
           <small>
-            <IdLink id={wikidata} type="wikidata" />
+            <IdLink>{`wikidata:${wikidata}`}</IdLink>
           </small>
         )}{' '}
         {dracor && (
           <small>
-            <IdLink id={dracor} type="dracor" />
+            <IdLink>{`dracor:${dracor}`}</IdLink>
           </small>
         )}{' '}
         {weber && (
           <small>
-            <IdLink id={weber} type="weber" />
+            <IdLink>{`wega:${weber}`}</IdLink>
           </small>
         )}
       </div>

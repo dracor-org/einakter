@@ -13,17 +13,17 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: src/components/About.tsx:9
-#: src/components/Topnav.tsx:79
+#: src/components/About.tsx:7
+#: src/components/Topnav.tsx:49
 msgid "About"
 msgstr "关于"
 
-#: src/components/Home.tsx:44
+#: src/components/Home.tsx:41
 msgid "About the project"
 msgstr "关于该项目"
 
-#: src/components/Originals.tsx:41
-#: src/components/Plays.tsx:32
+#: src/components/Originals.tsx:43
+#: src/components/Plays.tsx:34
 msgid "Author"
 msgstr "作者"
 
@@ -32,20 +32,20 @@ msgstr "作者"
 msgid "Authors"
 msgstr "作者"
 
-#: src/components/AuthorInfo.tsx:125
+#: src/components/DetailsHead.tsx:43
 msgid "b."
 msgstr "生于"
 
-#: src/components/Details.tsx:279
+#: src/components/Details.tsx:287
 msgid "Based on"
 msgstr "原文本"
 
-#: src/components/Plays.tsx:83
+#: src/components/Plays.tsx:85
 #: src/components/Statistics.tsx:122
 msgid "Characters"
 msgstr "人物"
 
-#: src/components/Details.tsx:80
+#: src/components/Details.tsx:78
 msgid "Comments"
 msgstr "附加信息"
 
@@ -53,7 +53,7 @@ msgstr "附加信息"
 msgid "Czech"
 msgstr "捷克语"
 
-#: src/components/AuthorInfo.tsx:130
+#: src/components/DetailsHead.tsx:44
 msgid "d."
 msgstr "卒于"
 
@@ -65,12 +65,12 @@ msgstr "丹麦语"
 #~ msgid "Database currently containing {0} one-act plays featuring {numCharacters} characters"
 #~ msgstr "该数据库目前囊括了{0}部单幕剧及{numCharacters}个人物"
 
-#: src/components/Details.tsx:111
-#: src/components/OriginalDetails.tsx:97
+#: src/components/Details.tsx:121
+#: src/components/OriginalDetails.tsx:95
 msgid "Dates"
 msgstr "日期"
 
-#: src/components/Details.tsx:289
+#: src/components/Details.tsx:297
 msgid "Dictionaries"
 msgstr "百科"
 
@@ -82,7 +82,7 @@ msgstr "下载CSV"
 msgid "Download JSON"
 msgstr "下载JSON"
 
-#: src/components/Details.tsx:176
+#: src/components/Details.tsx:186
 msgid "Dramatis personae"
 msgstr "人物列表"
 
@@ -90,11 +90,11 @@ msgstr "人物列表"
 msgid "Dutch"
 msgstr "荷兰语"
 
-#: src/components/Home.tsx:30
+#: src/components/Home.tsx:27
 msgid "Edited by Dîlan Canan Çakir and Frank Fischer"
 msgstr "由蒂兰·卡南·扎克尔和弗兰克·菲舍尔主编"
 
-#: src/components/Details.tsx:156
+#: src/components/Details.tsx:166
 msgid "Editions"
 msgstr "版本"
 
@@ -108,7 +108,7 @@ msgstr "英语"
 msgid "female"
 msgstr "女性"
 
-#: src/components/Details.tsx:299
+#: src/components/Details.tsx:307
 msgid "Formalia"
 msgstr "格式"
 
@@ -116,7 +116,7 @@ msgstr "格式"
 msgid "French"
 msgstr "法语"
 
-#: src/components/OriginalDetails.tsx:129
+#: src/components/OriginalDetails.tsx:127
 msgid "Full text"
 msgstr "全文本"
 
@@ -132,7 +132,7 @@ msgstr "分组"
 #~ msgid "Hide"
 #~ msgstr "隐藏"
 
-#: src/components/Plays.tsx:99
+#: src/components/Plays.tsx:101
 msgid "ID"
 msgstr "ID"
 
@@ -140,13 +140,13 @@ msgstr "ID"
 msgid "Italian"
 msgstr "意大利语"
 
-#: src/components/Details.tsx:313
-#: src/components/Plays.tsx:88
+#: src/components/Details.tsx:321
+#: src/components/Plays.tsx:90
 msgid "Keywords"
 msgstr "关键词"
 
-#: src/components/OriginalDetails.tsx:66
-#: src/components/Originals.tsx:70
+#: src/components/OriginalDetails.tsx:64
+#: src/components/Originals.tsx:76
 msgid "Language"
 msgstr "语言"
 
@@ -158,8 +158,8 @@ msgstr "语言"
 msgid "Latin"
 msgstr "拉丁语"
 
-#: src/components/Details.tsx:132
-#: src/components/OriginalDetails.tsx:110
+#: src/components/Details.tsx:142
+#: src/components/OriginalDetails.tsx:108
 msgid "Links"
 msgstr "链接"
 
@@ -167,12 +167,12 @@ msgstr "链接"
 #~ msgid "Loading..."
 #~ msgstr "下载中..."
 
-#: src/components/Details.tsx:258
+#: src/components/Details.tsx:267
 msgid "Location"
 msgstr "地点"
 
-#: src/components/Map.tsx:57
-#: src/components/Topnav.tsx:73
+#: src/components/Map.tsx:55
+#: src/components/Topnav.tsx:47
 msgid "Locations"
 msgstr "地点"
 
@@ -186,7 +186,7 @@ msgstr "男性"
 msgid "No such play"
 msgstr "无此单幕剧"
 
-#: src/components/Plays.tsx:70
+#: src/components/Plays.tsx:72
 msgid "not available"
 msgstr "无数据"
 
@@ -194,11 +194,11 @@ msgstr "无数据"
 msgid "Number of originals"
 msgstr "原文本数量"
 
-#: src/components/Details.tsx:124
+#: src/components/Details.tsx:134
 msgid "Number of Scenes"
 msgstr "场数"
 
-#: src/components/Originals.tsx:75
+#: src/components/Originals.tsx:81
 msgid "Number of translations"
 msgstr "翻译总数"
 
@@ -211,7 +211,7 @@ msgid "Original not found"
 msgstr "无法找到原文本"
 
 #: src/components/Original.tsx:57
-#: src/components/Topnav.tsx:76
+#: src/components/Topnav.tsx:48
 msgid "Originals"
 msgstr "源文本"
 
@@ -219,15 +219,11 @@ msgstr "源文本"
 msgid "Other one-act translations"
 msgstr "其他单幕剧翻译"
 
-#: src/components/Home.tsx:29
-#~ msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries."
-#~ msgstr ""
-
-#: src/components/Home.tsx:33
+#: src/components/Home.tsx:30
 msgid "Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the About page."
 msgstr "我们的目标是对18世纪中期到19世纪中期用德语创作的独幕剧作一个总体的定量概述。例如如何引用该数据库等更多信息，请参阅“关于”页面的相关内容。"
 
-#: src/components/Topnav.tsx:70
+#: src/components/Topnav.tsx:43
 msgid "Plays"
 msgstr "剧目"
 
@@ -240,15 +236,15 @@ msgstr "匿名发表的独幕剧"
 msgid "Plays translated/adapted from other languages"
 msgstr "从其他语言翻译/改编的戏剧"
 
-#: src/components/Years.tsx:96
+#: src/components/Years.tsx:22
 msgid "premiered"
 msgstr "首次演出于"
 
-#: src/components/Years.tsx:104
+#: src/components/Years.tsx:23
 msgid "printed"
 msgstr "印刷于"
 
-#: src/components/Details.tsx:96
+#: src/components/Details.tsx:100
 msgid "Reviews"
 msgstr "评论"
 
@@ -256,15 +252,15 @@ msgstr "评论"
 msgid "Russian"
 msgstr "俄语"
 
-#: src/components/Plays.tsx:78
+#: src/components/Plays.tsx:80
 msgid "Scenes"
 msgstr "场景"
 
 #: src/components/Table.tsx:49
-msgid "Search"
-msgstr "搜索"
+#~ msgid "Search"
+#~ msgstr "搜索"
 
-#: src/components/Details.tsx:242
+#: src/components/Details.tsx:251
 msgid "Setting"
 msgstr "环境"
 
@@ -281,24 +277,24 @@ msgstr "西班牙语"
 #~ msgid "Statistics"
 #~ msgstr "统计数据"
 
-#: src/components/Home.tsx:13
+#: src/components/Home.tsx:11
 msgid "The Database of German-Language One-Act Plays 1740–1850"
 msgstr "1740到1850年间的德语独幕剧数据库"
 
-#: src/components/Home.tsx:19
+#: src/components/Home.tsx:16
 msgid "The Database of<0/>German-Language<1/>One-Act Plays<2/>1740–1850"
 msgstr "1740到1850年间的德语独幕剧数据库"
 
-#: src/components/Map.tsx:61
+#: src/components/Map.tsx:58
 msgid "This map shows all plot locations extractable from the setting information at the beginning of a play. Denominations and demarcations on the map are provided by OpenStreetMap and are therefore ahistorical in relation to the time of action and creation of a play."
 msgstr "这张地图显示了从戏剧背景信息中提取的所有行动地点。地名和国家边界来自OpenStreetMap，因此可能不符合历史。"
 
-#: src/components/Originals.tsx:57
-#: src/components/Plays.tsx:48
+#: src/components/Originals.tsx:59
+#: src/components/Plays.tsx:50
 msgid "Title"
 msgstr "标题"
 
-#: src/components/OriginalDetails.tsx:72
+#: src/components/OriginalDetails.tsx:70
 msgid "Translations"
 msgstr "翻译"
 
@@ -306,15 +302,15 @@ msgstr "翻译"
 #~ msgid "undefined"
 #~ msgstr "未定义"
 
-#: src/components/Table.tsx:123
-#~ msgid "Welcome to <0>Einakter</0>, the <1>Database of German-Language One-Act Plays 1740–1850</1>, edited by Dîlan Canan Çakir and Frank Fischer. Our aim is to provide a general quantitative overview of one-act plays written in German between the mid-18th and mid-19th centuries. For more information, including how to cite this database, please see the <2>About</2> page."
-#~ msgstr ""
+#: src/components/DetailsHead.tsx:45
+msgid "unknown"
+msgstr "未知"
 
-#: src/components/Years.tsx:87
+#: src/components/Years.tsx:21
 msgid "written"
 msgstr "创作于"
 
-#: src/components/Originals.tsx:62
-#: src/components/Plays.tsx:60
+#: src/components/Originals.tsx:64
+#: src/components/Plays.tsx:62
 msgid "Year (normalized)"
 msgstr "年份（标准化）"

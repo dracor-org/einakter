@@ -2,9 +2,9 @@ import {useContext} from 'react';
 import {Link} from '@tanstack/react-router';
 import {Route} from '../routes/originals/$slug';
 import {Trans} from '@lingui/react/macro';
+import {IdLink} from '@dracor/react';
 import Authors from './Authors';
 import DetailsHead from './DetailsHead';
-import IdLink from './IdLink';
 import Years from './Years';
 import {EinakterContext} from '../context';
 import {OriginalPlay} from '../types';
@@ -110,12 +110,12 @@ const OriginalDetails = () => {
               <td>
                 {ids.dracor && (
                   <small>
-                    <IdLink id={ids.dracor} type="dracor" />
+                    <IdLink>{`dracor:${ids.dracor}`}</IdLink>
                   </small>
                 )}{' '}
                 {ids.wikidata && (
                   <small>
-                    <IdLink id={ids.wikidata} type="wikidata" />
+                    <IdLink>{`wikidata:${ids.wikidata}`}</IdLink>
                   </small>
                 )}
               </td>
