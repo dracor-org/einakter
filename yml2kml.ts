@@ -39,10 +39,13 @@ data.forEach((p: Play) => {
   const name = authorName ? `${authorName}: ${p.title}` : p.title;
   const year = normalizeYear(p);
 
+  const url = `https://einakter.dracor.org/id/${p.id}`;
+  const description = `<p>${setting.description}</p><a href="${url}" title="${p.id}">${name} (${year})</a>`;
+
   const placemark = doc.ele('Placemark');
   placemark.ele('name', {}, name);
   placemark.ele('address', {}, setting.description);
-  placemark.ele('description', {}, `https://einakter.dracor.org/id/${p.id}`);
+  placemark.ele('description').cdata(description);
   placemark.ele('Point').ele('coordinates', {}, `${lng},${lat},0`);
   if (year) {
     placemark.ele('TimeStamp').ele('when', {}, `${year}`);
