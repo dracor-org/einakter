@@ -9,3 +9,7 @@ allowBuilds:
   tree-sitter-json: false
 minimumReleaseAgeExclude:
   - '@dracor/react@1.4.0'
+overrides:
+  'minimatch@<3.1.4': '^3.1.4'
+  'brace-expansion@1': '^1.1.18'
+  'mdast-util-to-hast': '^13.2.1'
