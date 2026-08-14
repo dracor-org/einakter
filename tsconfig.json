@@ -17,5 +17,15 @@
     "noFallthroughCasesInSwitch": true,
     "types": ["node", "vite/client", "vitest/globals"]
   },
-  "include": ["src", "fetch-authors.ts", "fetch-locations.ts"]
+  "include": [
+    "src",
+    "fetch-authors.ts",
+    "fetch-locations.ts",
+    "yml2beacon.ts",
+    "yml2csv.ts",
+    "yml2json.ts",
+    "yml2kml.ts",
+    "yml2locations-csv.ts",
+    "yml2mixnmatch.ts"
+  ]
 }
