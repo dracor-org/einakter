@@ -10366,17 +10366,18 @@
     },
     "gender": "male"
   },
-  "Q35524403": {
-    "name": "Jean-Baptiste Collet de Messine",
+  "Q132883670": {
+    "name": "Q132883670",
+    "gnd": "100563384",
     "birth": {
-      "date": "1741-05-13T00:00:00Z",
-      "place": "Issoudun",
-      "placeId": "http://www.wikidata.org/entity/Q210772"
+      "date": "1722-03-16T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
     },
     "death": {
-      "date": "1818-08-02T00:00:00Z",
-      "place": "Trouy",
-      "placeId": "http://www.wikidata.org/entity/Q1423939"
+      "date": "1787-03-12T00:00:00Z",
+      "place": "Versailles",
+      "placeId": "http://www.wikidata.org/entity/Q621"
     },
     "gender": "male"
   },
@@ -10659,6 +10660,37 @@
     "birth": {},
     "death": {},
     "gender": "male"
+  },
+  "Q982058": {
+    "name": "Paul de Kock",
+    "gnd": "116273739",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CourtdeKock.jpg",
+    "birth": {
+      "date": "1793-05-21T00:00:00Z",
+      "place": "Passy",
+      "placeId": "http://www.wikidata.org/entity/Q1241308"
+    },
+    "death": {
+      "date": "1871-08-29T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
+    },
+    "gender": "male"
+  },
+  "Q48425246": {
+    "name": "Louis-Joseph Boyer",
+    "birth": {
+      "date": "1810-01-01T00:00:00Z",
+      "place": "Nîmes",
+      "placeId": "http://www.wikidata.org/entity/Q42807"
+    },
+    "death": {
+      "date": "1866-04-17T00:00:00Z",
+      "place": "11. Arrondissement von Paris",
+      "placeId": "http://www.wikidata.org/entity/Q169293"
+    },
+    "gender": "male",
+    "ambiguous": true
   },
   "Q2958089": {
     "name": "Charles-Gaspard Delestre-Poirson",
@@ -11563,6 +11595,22 @@
     },
     "gender": "male"
   },
+  "Q402274": {
+    "name": "Johan Ludvig Heiberg",
+    "gnd": "118773623",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20L%20Heiberg.jpg",
+    "birth": {
+      "date": "1791-12-14T00:00:00Z",
+      "place": "Kopenhagen",
+      "placeId": "http://www.wikidata.org/entity/Q1748"
+    },
+    "death": {
+      "date": "1860-08-25T00:00:00Z",
+      "place": "Bonderup",
+      "placeId": "http://www.wikidata.org/entity/Q28225867"
+    },
+    "gender": "male"
+  },
   "Q925307": {
     "name": "Peter Andreas Heiberg",
     "gnd": "119159724",
@@ -12403,6 +12451,22 @@
     },
     "gender": "male"
   },
+  "Q965322": {
+    "name": "Charles Palissot de Montenoy",
+    "gnd": "118820729",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Charles%20Palissot%20de%20Montenoy%2C%20RP-P-OB-47.328.jpg",
+    "birth": {
+      "date": "1730-01-03T00:00:00Z",
+      "place": "Nancy",
+      "placeId": "http://www.wikidata.org/entity/Q40898"
+    },
+    "death": {
+      "date": "1814-06-15T00:00:00Z",
+      "place": "ehemaliges 10. Arrondissement von Paris",
+      "placeId": "http://www.wikidata.org/entity/Q2845749"
+    },
+    "gender": "male"
+  },
   "Q2958057": {
     "name": "François-Charles Panard",
     "gnd": "121951855",
@@ -12499,6 +12563,22 @@
       "date": "1828-12-31T00:00:00Z",
       "place": "ehemaliges 7. Arrondissement von Paris",
       "placeId": "http://www.wikidata.org/entity/Q2845760"
+    },
+    "gender": "male"
+  },
+  "Q5980791": {
+    "name": "Édouard-Joseph-Ennemond Mazères",
+    "gnd": "115694978",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portraits%20d%27%C3%A9crivains%20et%20hommes%20de%20lettres%20de%20la%20seconde%20moiti%C3%A9%20du%20XIXe%20si%C3%A8cle%2C%2015%2C%20Maz%C3%A8res.jpg",
+    "birth": {
+      "date": "1796-09-11T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
+    },
+    "death": {
+      "date": "1866-03-19T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
     },
     "gender": "male"
   },
@@ -12962,22 +13042,6 @@
     },
     "gender": "male"
   },
-  "Q5980791": {
-    "name": "Édouard-Joseph-Ennemond Mazères",
-    "gnd": "115694978",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portraits%20d%27%C3%A9crivains%20et%20hommes%20de%20lettres%20de%20la%20seconde%20moiti%C3%A9%20du%20XIXe%20si%C3%A8cle%2C%2015%2C%20Maz%C3%A8res.jpg",
-    "birth": {
-      "date": "1796-09-11T00:00:00Z",
-      "place": "Paris",
-      "placeId": "http://www.wikidata.org/entity/Q90"
-    },
-    "death": {
-      "date": "1866-03-19T00:00:00Z",
-      "place": "Paris",
-      "placeId": "http://www.wikidata.org/entity/Q90"
-    },
-    "gender": "male"
-  },
   "Q18578324": {
     "name": "Charles Nombret Saint-Laurent",
     "birth": {
@@ -13240,21 +13304,6 @@
       "placeId": "http://www.wikidata.org/entity/Q90"
     },
     "gender": "male"
-  },
-  "Q48425246": {
-    "name": "Louis-Joseph Boyer",
-    "birth": {
-      "date": "1810-01-01T00:00:00Z",
-      "place": "Nîmes",
-      "placeId": "http://www.wikidata.org/entity/Q42807"
-    },
-    "death": {
-      "date": "1866-04-17T00:00:00Z",
-      "place": "11. Arrondissement von Paris",
-      "placeId": "http://www.wikidata.org/entity/Q169293"
-    },
-    "gender": "male",
-    "ambiguous": true
   },
   "Q41795910": {
     "name": "Jean-Baptiste-Charles Vial",

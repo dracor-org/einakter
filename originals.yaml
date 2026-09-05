@@ -157,6 +157,8 @@ language: fre
 yearPrinted: 1788
 premiered: 1787-12-14
 fulltextUrl: https://books.google.com/books?id=OlI6AAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre001572
 ---
 id: eorig000011
 slug: anicet-bourgeois-dumanoir-brisebarre-la-fiole-de-cagliostro
@@ -584,6 +586,8 @@ subtitle: Trait historique, en deux actes et en prose
 language: fre
 premiered: 1796-09-20
 fulltextUrl: https://books.google.com/books?id=IVNoAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000172
 ---
 id: eorig000044
 slug: bouilly-le-sejour-militaire
@@ -809,7 +813,7 @@ language: fre
 yearPrinted: 1769
 fulltextUrl: https://books.google.com/books?id=dQMcgplFy-kC&pg=RA1-PA137
 ids:
-  dracor: fre000254
+  dracor: fre000253
 ---
 id: eorig000060
 slug: carmontelle-le-fripon-orgueilleux
@@ -1037,16 +1041,18 @@ yearPrinted: 1767
 fulltextUrl: https://books.google.com/books?id=WyFaAAAAcAAJ&printsec=frontcover
 ---
 id: eorig000075
-slug: collet-de-messine-l-isle-deserte
+slug: collet-l-isle-deserte
 author:
-  name: Jean-Baptiste Collet de Messine
-  wikidata: Q35524403
+  name: Louis-Jean-François Collet
+  wikidata: Q132883670
 title: L'isle déserte
 subtitle: Comédie en un acte et en vers
 language: fre
+yearPrinted: 1758
 premiered: 1758-08-23
-fulltextUrl: https://books.google.com/books?id=gzY6AAAAcAAJ&pg=PA1
+fulltextUrl: https://gallica.bnf.fr/ark:/12148/bpt6k5660741f
 ids:
+  dracor: fre001652
   wikidata: Q108571286
 ---
 id: eorig000076
@@ -1526,6 +1532,19 @@ language: fre
 yearPrinted: 1790
 premiered: 1790-06-05
 fulltextUrl: https://books.google.com/books?id=myhaAAAAcAAJ&printsec=frontcover
+---
+id: eorig000537
+slug: de-kock-boyer-une-femme-a-deux-maris
+authors:
+  - name: Paul de Kock
+    wikidata: Q982058
+  - name: Louis Boyer
+    wikidata: Q48425246
+title: Une femme à deux maris
+subtitle: Vaudeville en un acte
+language: fre
+yearPrinted: 1847
+premiered: 1847-09-22
 ---
 id: eorig000113
 slug: de-launay-vasary-le-parleur-contrarie
@@ -3434,6 +3453,8 @@ title: L'usurier gentilhomme
 language: fre
 premiered: 1713-09-11
 fulltextUrl: https://books.google.com/books?id=V1BaAAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre000870
 ---
 id: eorig000242
 slug: lemaitre-le-cadet-de-famille
@@ -4737,6 +4758,20 @@ subtitle: Comédie en un acte, en prose
 language: fre
 premiered: 1803-09-19
 fulltextUrl: https://books.google.com/books?id=mMo7AAAAcAAJ&printsec=frontcover
+---
+id: eorig000538
+slug: picard-mazeres-l-enfant-trouve
+authors:
+  - name: Louis-Benoît Picard
+    wikidata: Q347261
+  - name: Édouard-Joseph-Ennemond Mazères
+    wikidata: Q5980791
+title: L'enfant trouvé
+subtitle: Comédie en trois actes et en prose
+language: fre
+yearPrinted: 1824
+premiered: 1824-12-13
+fulltextUrl: https://books.google.com/books?id=X3rRkSLqtBcC&printsec=frontcover
 ---
 id: eorig000338
 slug: picard-monsieur-musard-ou-comme-le-temps-passe
@@ -6363,6 +6398,20 @@ premiered: 1784-05-05
 fulltextUrl: https://books.google.com/books?id=RMFoAAAAcAAJ&printsec=frontcover
 ids:
   dracor: fre001354
+---
+id: eorig000536
+slug: sedaine-de-sarcy-les-defauts-supposes
+author:
+  name: Jean-François Sedaine de Sarcy
+  wikidata: Q140718968
+title: Les défauts supposés
+subtitle: Comédie en vers et en un acte
+language: fre
+yearPrinted: 1788
+premiered: 1788-01-28
+fulltextUrl: https://books.google.com/books?id=1sY7AAAAcAAJ&printsec=frontcover
+ids:
+  dracor: fre001353
 ---
 id: eorig000447
 slug: sedaine-la-gageure-imprevue
