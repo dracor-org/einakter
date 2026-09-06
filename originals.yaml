@@ -25,9 +25,12 @@ premiered: 1839-02-24
 fulltextUrl: https://gallica.bnf.fr/ark:/12148/bpt6k4222921q
 ---
 id: eorig000002
-slug: alain-l-epreuve-reciproque
-author:
-  name: Robert Alain
+slug: alain-legrand-l-epreuve-reciproque
+authors:
+  - name: R. Alain
+    wikidata: Q127954726
+  - name: Marc-Antoine Legrand
+    wikidata: Q3287662
 title: L'épreuve réciproque
 subtitle: Comédie
 language: fre
@@ -1991,6 +1994,20 @@ language: fre
 yearPrinted: 1789
 premiered: 1789-11-26
 fulltextUrl: https://books.google.com/books?id=elNbAAAAQAAJ&printsec=frontcover
+---
+id: eorig000539
+slug: dumanoir-lafargue-un-mari-charmant
+authors:
+  - name: Dumanoir
+    wikidata: Q1396138
+  - name: Édouard Lafargue
+    wikidata: Q21511852
+title: Un mari charmant
+subtitle: Comédie-vaudeville en un acte
+language: fre
+yearPrinted: 1835
+premiered: 1835-10-22
+fulltextUrl: https://books.google.com/books?id=zQtLAQAAMAAJ&printsec=frontcover
 ---
 id: eorig000145
 slug: dumanoir-le-code-des-femmes
@@ -4287,7 +4304,7 @@ language: fre
 premiered: 1663-06-01
 fulltextUrl: https://books.google.com/books?id=7VzzPy0sDeUC&pg=PP9
 ids:
-  dracor: fre001004
+  dracor: fre000999
   wikidata: Q3207946
 ---
 id: eorig000300
@@ -4326,7 +4343,7 @@ author:
 title: Le mariage forcé
 subtitle: Comédie
 language: fre
-premiered: 1668-02-20
+premiered: 1668-01-29
 fulltextUrl: https://books.google.com/books?id=j0FVUPWtoFUC&printsec=frontcover
 ids:
   dracor: fre001015
@@ -5567,15 +5584,16 @@ ids:
   dracor: fre001324
 ---
 id: eorig000389
-slug: saurin-l-orpheline-leguee
+slug: saurin-l-anglomane-ou-l-orpheline-leguee
 author:
   name: Bernard-Joseph Saurin
   wikidata: Q822205
-title: L'orpheline léguée
-subtitle: Comédie en trois actes, en vers libres
+title: L'anglomane, ou L'orpheline léguée
+subtitle: Comédie en un acte et en vers libres
 language: fre
-premiered: 1765-11-05
-fulltextUrl: https://books.google.com/books?id=SADjvew-KkIC&printsec=frontcover
+yearPrinted: 1772
+premiered: 1772-11-05
+fulltextUrl: https://books.google.com/books?id=XXFXAAAAcAAJ&printsec=frontcover
 ids:
   dracor: fre001320
 ---

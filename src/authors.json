@@ -9394,6 +9394,34 @@
     },
     "gender": "male"
   },
+  "Q127954726": {
+    "name": "Robert Alain",
+    "gnd": "1016627971",
+    "birth": {
+      "date": "1680-01-01T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
+    },
+    "death": {
+      "date": "1720-01-01T00:00:00Z"
+    },
+    "gender": "male"
+  },
+  "Q3287662": {
+    "name": "Marc-Antoine Legrand",
+    "gnd": "11890714X",
+    "birth": {
+      "date": "1673-01-30T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
+    },
+    "death": {
+      "date": "1728-01-07T00:00:00Z",
+      "place": "Paris",
+      "placeId": "http://www.wikidata.org/entity/Q90"
+    },
+    "gender": "male"
+  },
   "Q371439": {
     "name": "Francesco Albergati Capacelli",
     "gnd": "119193256",
@@ -11017,6 +11045,21 @@
     },
     "gender": "male"
   },
+  "Q21511852": {
+    "name": "Édouard Lafargue",
+    "gnd": "1152407716",
+    "birth": {
+      "date": "1803-10-02T00:00:00Z",
+      "place": "Langon",
+      "placeId": "http://www.wikidata.org/entity/Q207154"
+    },
+    "death": {
+      "date": "1884-02-01T00:00:00Z",
+      "place": "9. Arrondissement von Paris",
+      "placeId": "http://www.wikidata.org/entity/Q275118"
+    },
+    "gender": "male"
+  },
   "Q18197671": {
     "name": "Julien de Mallian",
     "gnd": "1067956115",
@@ -11931,21 +11974,6 @@
       "date": "1822-02-24T00:00:00Z",
       "place": "Bordeaux",
       "placeId": "http://www.wikidata.org/entity/Q1479"
-    },
-    "gender": "male"
-  },
-  "Q3287662": {
-    "name": "Marc-Antoine Legrand",
-    "gnd": "11890714X",
-    "birth": {
-      "date": "1673-01-30T00:00:00Z",
-      "place": "Paris",
-      "placeId": "http://www.wikidata.org/entity/Q90"
-    },
-    "death": {
-      "date": "1728-01-07T00:00:00Z",
-      "place": "Paris",
-      "placeId": "http://www.wikidata.org/entity/Q90"
     },
     "gender": "male"
   },

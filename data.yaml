@@ -13053,7 +13053,7 @@ yearPrinted: 1782
 formalia:
   - Prosa
 basedOn:
-  - saurin-l-orpheline-leguee
+  - saurin-l-anglomane-ou-l-orpheline-leguee
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 201
@@ -44036,8 +44036,6 @@ numOfScenes: 4
 yearPrinted: 1781
 formalia:
   - Prosa
-basedOn:
-  - französische Anekdote
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 28, S. 93
@@ -44046,6 +44044,7 @@ editions:
     url: https://books.google.com/books?id=iddaAAAAcAAJ&printsec=frontcover
 comments:
   - Nicht identisch mit [Schlossers gleichnamigem einaktigen Lustspiel](schlosser-die-maskerade) (1767).
+  - Die in der Vorrede ([S. 3–6](https://books.google.com/books?id=iddaAAAAcAAJ&pg=PA3)) erwähnte, dem Stück zugrunde liegende Anekdote erschien unter dem Titel »Le masque généreux, Nouvelle« im »Mercure de France« vom 28. August 1779, [S. 150–152](https://books.google.com/books?id=RxUXAAAAYAAJ&pg=PA150). Dieser Text ist wiederum eine gekürzte und modernisierte Bearbeitung von »Le Masque Démon, Histoire« im Vorgängerperiodikum »Mercure galant« vom März 1679 (Band 3), [S. 25–37](https://obtic.huma-num.fr/obvil-web/corpus/mercure-galant/MG-1679-03#MG-1679-03_025).
 cast:
   - name: Madame Kroß.
     gender: f
@@ -74992,7 +74991,7 @@ yearPrinted: 1777
 formalia:
   - Prosa
 basedOn:
-  - alain-l-epreuve-reciproque
+  - alain-legrand-l-epreuve-reciproque
 dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 519–520
@@ -75001,6 +75000,8 @@ editions:
     url: https://books.google.com/books?id=XW5UAAAAcAAJ&printsec=frontcover
   - title: "Wien 1779"
     url: https://books.google.com/books?id=GIhHAAAAcAAJ&printsec=frontcover
+comments:
+  - "Die französische Vorlage wird von der Bibliothèque nationale de France sowohl Alain als auch Legrand zugeschrieben. Die Ausgabe von 1711 ist unter dem Namen ›R. Alain‹ erschienen, in Legrands posthumer Werkausgabe von 1731 wird das Stück aber ebenso [gedruckt](https://books.google.com/books?id=5GV5dkfAsFcC&pg=PA263), versehen mit einem Kommentar zur Autorschaft."
 cast:
   - name: Frau von Barneck.
     gender: f
@@ -85876,7 +85877,7 @@ premiered: 1844-12-04
 formalia:
   - Prosa
 basedOn:
-  - Dumanoir
+  - dumanoir-lafargue-un-mari-charmant
 editions:
   - title: "Hamburg: Verlags-Comptoir 1847"
   - title: "Das Theater des Auslandes in Bearbeitungen von W. Friedrich. 7. Lieferung. Den Bühnen gegenüber als Manuscript gedruckt. Zweite Auflage. Hamburg: Verlags-Comptoir 1854"
@@ -109413,8 +109414,12 @@ dictionaries:
   - name: bibliographia
     pages: 2. Abteilung, Band 26, S. 572
 editions:
-  - title: "[Ohne Ort] 1777"
+  - title: "Leipzig: Crusius 1777"
+    url: https://books.google.com/books?id=xoS2XZA7HvMC&printsec=frontcover
+  - title: "Aufgeführt auf dem Churfürstl. Theater zu München. Mit Genehmigung des Churfürstl. Büchercensurcollegiums. [Ohne Ort] 1777"
     url: https://books.google.com/books?id=qyM7AAAAcAAJ&printsec=frontcover
+comments:
+  - "Bei Meyer heißt es: »Vorlage von Carmontelle.« Es könnte sich um das Proverbe LVIII. handeln, [»La recommandation«](https://fr.wikisource.org/wiki/Proverbes_dramatiques/La_Recommandation) ([zuerst 1769](https://books.google.com/books?id=dQMcgplFy-kC&pg=RA1-PA105))."
 keywords:
   - Kindertheater
 cast:
